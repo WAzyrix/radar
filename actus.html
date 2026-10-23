@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0a0a0f">
+  <title>Actus · Radar</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/composants.css">
+  <link rel="stylesheet" href="css/pages.css">
+</head>
+<body>
+  <main>
+    <header class="page-tete">
+      <h1><span id="titre">Actus</span></h1>
+      <p id="description"></p>
+      <nav class="segments" id="categories" aria-label="Catégories d'actus"></nav>
+    </header>
+
+    <div class="actus-outils">
+      <div class="actus-outils-ligne">
+        <label class="champ-recherche">
+          <span class="sr-only">Rechercher dans les actus</span>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+          <input class="champ" type="search" id="recherche" placeholder="Rechercher un mot, une source…" autocomplete="off">
+        </label>
+        <select class="champ" id="source" aria-label="Source"><option value="">Toutes les sources</option></select>
+      </div>
+      <!-- Zones (seulement pour l'actu générale) -->
+      <div class="segments" id="zones" role="group" aria-label="Zone" hidden></div>
+      <div class="puces" id="tags" role="group" aria-label="Thèmes"></div>
+    </div>
+
+    <div class="actus-infos" id="infos"></div>
+    <div class="grille-articles" id="articles"></div>
+    <div class="charger-plus"><button type="button" class="bouton bouton-verre" id="charger-plus" hidden>Afficher plus</button></div>
+  </main>
+
+  <footer>Radar n'affiche que le titre, la source, la date et un court extrait : clique sur un article pour le lire sur le site d'origine.</footer>
+
+  <script type="module" src="js/pages/actus.js"></script>
+</body>
+</html>

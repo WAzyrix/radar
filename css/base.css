@@ -70,6 +70,9 @@ button:disabled { opacity: 0.6; cursor: progress; }
 
 :focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: var(--r-s); }
 
+/* L'attribut HTML "hidden" doit toujours gagner sur les display: flex/grid du CSS */
+[hidden] { display: none !important; }
+
 /* Texte réservé aux lecteurs d'écran */
 .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 

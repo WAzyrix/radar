@@ -193,6 +193,7 @@
    PAGE ACTUS
    ========================================================= */
 .actus-outils { display: grid; gap: 14px; padding: 0 var(--gouttiere); margin: 8px 0 22px; }
+.actus-outils > .segments { justify-self: start; }
 .actus-outils-ligne { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
 .actus-outils .champ-recherche { position: relative; flex: 1 1 260px; }
 .actus-outils .champ-recherche svg { position: absolute; left: 14px; top: 50%; translate: 0 -50%; width: 16px; color: var(--texte-3); }
