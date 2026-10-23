@@ -46,7 +46,7 @@ async function afficherSorties(vue) {
     zone.innerHTML = `
       <h3 class="titre-mois">Les plus attendus</h3>
       <div class="carrousel jeux pleine-largeur">${attendus.map((j) => carteJeu(j)).join('')}</div>
-      ${[...parMois].map(([mois, liste]) => `
+      ${[...parMois].sort(([a], [b]) => (a === 'Date à venir') - (b === 'Date à venir')).map(([mois, liste]) => `
         <h3 class="titre-mois">${mois}</h3>
         <div class="grille-jeux">${liste.map((j) => carteJeu(j)).join('')}</div>`).join('')}`;
   } catch (erreur) {
