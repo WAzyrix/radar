@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-23T16:47:29+00:00",
+ "maj": "2026-10-23T16:54:12+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,40 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "77c9a0b25832",
+   "titre": "Did High-Speed Rail help consultants \"manipulate\" a bid to win a lucrative contract?",
+   "lien": "https://www.cbsnews.com/news/california-high-speed-rail-consulting-giant-lucrative-contract/",
+   "source": "CBS News",
+   "date": "2026-10-23T16:52:12+00:00",
+   "extrait": "Records show California High-Speed Rail knew a winning contract bid relied on \"artificially low\" rates that the consulting firm never intended to charge.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "ed692e684c03",
+   "titre": "Police officer resigns after shooting that killed 1-year-old",
+   "lien": "https://www.cbsnews.com/news/mississippi-police-officer-resigns-shooting-killed-kohen-wiley/",
+   "source": "CBS News",
+   "date": "2026-10-23T16:50:30+00:00",
+   "extrait": "The Mississippi attorney general's office had determined that the use of force was justified in the deadly shooting that stemmed from an alleged shoplifting incident.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "158f22d49ac3",
+   "titre": "Tirs mortels à Trappes et à La Verrière : Emmanuel Macron est sur place, l'Elysée dénonce un \"attentat terroriste raciste\"",
+   "lien": "https://www.franceinfo.fr/faits-divers/direct-coups-de-feu-dans-les-yvelines-le-parquet-national-antiterroriste-se-place-en-observation-annonce-sebastien-lecornu_8250646.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-23T16:49:25+00:00",
+   "extrait": "Le Parquet national antiterroriste s'est saisi, après qu'un homme a ouvert le feu à Trappes et à la Verrière dans les Yvelines, faisant un mort et quatre blessés.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "574852269ae4",
    "titre": "Trump's U.N. envoy says Iran war could drag on for another year",
    "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/",
@@ -35,16 +69,17 @@
    "zone": "usa"
   },
   {
-   "id": "158f22d49ac3",
-   "titre": "Tirs mortels à Trappes et à La Verrière : Emmanuel Macron est sur place, l'Elysée dénonce un \"attentat terroriste raciste\"",
-   "lien": "https://www.franceinfo.fr/faits-divers/direct-coups-de-feu-dans-les-yvelines-le-parquet-national-antiterroriste-se-place-en-observation-annonce-sebastien-lecornu_8250646.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-23T16:45:42+00:00",
-   "extrait": "Le Parquet national antiterroriste s'est saisi, après qu'un homme a ouvert le feu à Trappes et à la Verrière dans les Yvelines, faisant un mort et quatre blessés.",
+   "id": "89712880ac47",
+   "titre": "Clément Beaune : “La Chine pose une question de vie ou de mort à l’industrie européenne”",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/ici-l-europe/20261023-cl%C3%A9ment-beaune-la-chine-pose-une-question-de-vie-ou-de-mort-%C3%A0-l-industrie-europ%C3%A9enne",
+   "source": "France 24",
+   "date": "2026-10-23T16:45:54+00:00",
+   "extrait": "Nous recevons Clément Beaune, ancien conseiller spécial du Président Emmanuel Macron puis secrétaire d’État aux Affaires européennes, ancien ministre des Transports et désormais Haut-commissaire à…",
    "tags": [
-    "Politique"
+    "Politique",
+    "Conflits"
    ],
-   "zone": "france"
+   "zone": "monde"
   },
   {
    "id": "9bacc0e235cf",
@@ -78,6 +113,41 @@
    "tags": [
     "Conflits"
    ],
+   "zone": "monde"
+  },
+  {
+   "id": "197b93f275e7",
+   "titre": "Droit de manifester en France : \"Ce n’est pas au président de choisir ses opposants\"",
+   "lien": "https://www.france24.com/fr/france/20261023-droit-manifester-france-ce-est-pas-president-republique-choisir-opposants",
+   "source": "France 24",
+   "date": "2026-10-23T16:33:00+00:00",
+   "extrait": "Suivant la consigne d’Emmanuel Macron, désireux d’éviter de nouvelles scènes de chaos semblables à celles du 17 octobre, de nombreux préfets ont interdit ou drastiquement limité les manifestations…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "e0debf2afd05",
+   "titre": "🔴 En direct : après leur rencontre avec Macron, des représentants lycéens appellent à poursuivre la mobilisation",
+   "lien": "https://www.france24.com/fr/france/20261022-en-direct-france-macron-recoit-lyceens-rencontre-forces-de-l-ordre-lecornu-limoges-manifestations",
+   "source": "France 24",
+   "date": "2026-10-23T16:29:45+00:00",
+   "extrait": "",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "6f1e29a6eb41",
+   "titre": "Claude Monet : « Iris » devient l’œuvre d’art la plus chère vendue aux enchères en France",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261023-claude-monet-iris-devient-l-%C5%93uvre-d-art-la-plus-ch%C3%A8re-vendue-aux-ench%C3%A8res-en-france",
+   "source": "France 24",
+   "date": "2026-10-23T16:27:37+00:00",
+   "extrait": "Le tableau \"Iris\", peint par Claude Monet à la fin de sa vie, a été vendu aux enchères pour 50 millions d'euros jeudi 22 octobre à Paris. Ce tableau de grandes dimensions était présenté au public…",
+   "tags": [],
    "zone": "monde"
   },
   {
@@ -754,7 +824,7 @@
   },
   {
    "id": "1bed663ee79a",
-   "titre": "Une attaqué perpétrée par \"un groupe d'extrémistes\" fait sept morts dans une église en Jordanie",
+   "titre": "Une attaque perpétrée par \"un groupe d'extrémistes\" fait sept morts dans une église en Jordanie",
    "lien": "https://www.france24.com/fr/moyen-orient/20261023-fusillade-%C3%A9glise-jordanie-fait-au-moins-sept-morts",
    "source": "France 24",
    "date": "2026-10-23T14:20:48+00:00",
@@ -786,16 +856,6 @@
     "Sport"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "77c9a0b25832",
-   "titre": "Did High-Speed Rail help consultants \"manipulate\" a bid to win a lucrative contract?",
-   "lien": "https://www.cbsnews.com/news/california-high-speed-rail-consulting-giant-lucrative-contract/",
-   "source": "CBS News",
-   "date": "2026-10-23T14:17:00+00:00",
-   "extrait": "Records show California High-Speed Rail knew a winning contract bid relied on \"artificially low\" rates that the consulting firm never intended to charge.",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "5c96b22d487c",
@@ -855,6 +915,16 @@
     "Justice"
    ],
    "zone": "france"
+  },
+  {
+   "id": "8299d22c6a67",
+   "titre": "🔴 Fusillade dans les Yvelines : \"C'est clairement un crime terroriste\", affirme Laurent Nuñez",
+   "lien": "https://www.france24.com/fr/france/20261023-homme-tire-rue-yvelines-un-mort-plusieurs-bless%C3%A9s-pnat",
+   "source": "France 24",
+   "date": "2026-10-23T14:09:36+00:00",
+   "extrait": "",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "c1931ecbd319",
@@ -1559,16 +1629,6 @@
    "zone": "monde"
   },
   {
-   "id": "e0debf2afd05",
-   "titre": "🔴 En direct : 70 000 policiers et gendarmes mobilisés samedi, annonce Laurent Nuñez",
-   "lien": "https://www.france24.com/fr/france/20261022-en-direct-france-macron-recoit-lyceens-rencontre-forces-de-l-ordre-lecornu-limoges-manifestations",
-   "source": "France 24",
-   "date": "2026-10-23T11:02:05+00:00",
-   "extrait": "",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
    "id": "bb540fbc012c",
    "titre": "Why Meta is charging to post more hyperlinks",
    "lien": "https://www.npr.org/sections/planet-money/2026/10/23/nx-s1-6012726/why-meta-is-charging-to-post-more-hyperlinks",
@@ -1601,19 +1661,6 @@
    "extrait": "The New York City Council voted Thursday on Romanch's Law, which will ban horse-drawn carriage rides in the city by 2028.",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "8299d22c6a67",
-   "titre": "Fusillade à Trappes : Laurent Nuñez dénonce \"un crime terroriste\", le tireur soupçonné de racisme",
-   "lien": "https://www.france24.com/fr/france/20261023-homme-tire-rue-yvelines-un-mort-plusieurs-bless%C3%A9s-pnat",
-   "source": "France 24",
-   "date": "2026-10-23T10:41:27+00:00",
-   "extrait": "Une personne ​a ouvert le feu ​sur la voie publique vendredi à Trappes et ​à La ‌Verrière, dans les ⁠Yvelines, faisant un mort ‌et cinq blessés, dont une enfant de 12 ans. Le suspect, rapidement…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "monde"
   },
   {
    "id": "35fc6e290280",
