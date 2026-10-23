@@ -8,6 +8,7 @@ import { echapper, ilYa, afficherErreur, antiRebond } from '../lib/outils.js';
 import { afficherNavigation } from '../ui/nav.js';
 import { carteJeuListe } from '../ui/cartes-jeux.js';
 import { ICONES } from '../ui/icones.js';
+import { ETAPES, etapeDe, nomStatut, statutSuivant } from '../lib/statuts.js';
 
 afficherNavigation('ma-liste');
 document.documentElement.style.setProperty('--accent', '#ff7ab6');
@@ -18,6 +19,8 @@ const $ = (id) => document.getElementById(id);
 // 1. Contenu de la liste
 // =========================================================
 let filtre = new URLSearchParams(location.search).get('type') || '';
+// Étape choisie (À voir / En cours / Vu), retenue d'une visite à l'autre
+let etape = localStorage.getItem('radar:etape') || '';
 
 function lien(item) {
   if (item.type === 'anime' || item.type === 'manga') return `anime.html?id=${item.id}`;
@@ -37,6 +40,7 @@ function carteItem(item) {
         <div class="affiche-titre">${echapper(item.titre)}</div>
         <div class="affiche-sous">${maListe.TYPES[item.type].un}${item.sortie ? ` · ${item.sortie.slice(0, 4)}` : ''}</div>
       </a>
+      <button type="button" class="statut-carte etape-${etapeDe(item)}" data-statut-type="${item.type}" data-statut-id="${echapper(item.id)}" title="Changer : ${echapper(nomStatut({ ...item, statut: statutSuivant(item) }))} ensuite">${echapper(nomStatut(item))} ›</button>
       ${boutonRetirer(item)}
     </div>`;
 }
@@ -51,16 +55,32 @@ function afficherListe() {
     $('contenu-liste').innerHTML = `<div class="vide"><strong>Ta liste est vide</strong>Suis un animé ou un manga depuis sa fiche, classe un jeu, ou ajoute un film ci-dessous.</div>`;
     return;
   }
+  // Filtre par étape (À voir / En cours / Vu), avec le nombre d'éléments du type choisi
+  const duType = tous.filter((i) => !filtre || i.type === filtre);
+  $('filtres-etapes').innerHTML = [['', 'Tout', duType.length], ...Object.entries(ETAPES).map(([e, info]) => [e, info.nom, duType.filter((i) => etapeDe(i) === e).length])]
+    .map(([e, nom, nb]) => `<button type="button" data-etape="${e}" class="${e === etape ? 'actif' : ''}">${nom}${nb ? ` <span style="opacity:.6">${nb}</span>` : ''}</button>`).join('');
+
   // "Tout" : un bloc par type ; sinon seulement le type choisi
   const types = filtre ? [filtre] : Object.keys(maListe.TYPES);
+  let affiches = 0;
   $('contenu-liste').innerHTML = types.map((t) => {
-    const liste = tous.filter((i) => i.type === t).reverse();
-    if (!liste.length) return filtre ? '<div class="vide"><strong>Rien ici pour l\'instant</strong></div>' : '';
+    const liste = tous.filter((i) => i.type === t && (!etape || etapeDe(i) === etape)).reverse();
+    affiches += liste.length;
+    if (!liste.length) return '';
     return `
       ${filtre ? '' : `<h3 class="titre-mois">${maListe.TYPES[t].nom}</h3>`}
       <div class="${t === 'jeu' ? 'grille-jeux' : 'grille-affiches'}">${liste.map(carteItem).join('')}</div>`;
   }).join('');
+  if (!affiches) $('contenu-liste').innerHTML = `<div class="vide"><strong>Rien ici pour l'instant</strong>${etape === 'termine' ? 'Passe un élément en « Vu » avec la pastille sous sa carte.' : ''}</div>`;
 }
+
+$('filtres-etapes').addEventListener('click', (e) => {
+  const bouton = e.target.closest('button');
+  if (!bouton) return;
+  etape = bouton.dataset.etape;
+  localStorage.setItem('radar:etape', etape);
+  afficherListe();
+});
 
 $('filtres-types').addEventListener('click', (e) => {
   const bouton = e.target.closest('button');
@@ -71,6 +91,14 @@ $('filtres-types').addEventListener('click', (e) => {
 });
 
 $('contenu-liste').addEventListener('click', (e) => {
+  // Pastille de statut : on passe au statut suivant (À voir → En cours → Vu → À voir)
+  const pastille = e.target.closest('[data-statut-type]');
+  if (pastille) {
+    const idBrut = Number(pastille.dataset.statutId);
+    const item = maListe.trouver(pastille.dataset.statutType, Number.isNaN(idBrut) ? pastille.dataset.statutId : idBrut);
+    if (item) maListe.enregistrer({ type: item.type, id: item.id, statut: statutSuivant(item) });
+    return;
+  }
   const bouton = e.target.closest('.retirer');
   if (!bouton) return;
   const id = Number(bouton.dataset.id);

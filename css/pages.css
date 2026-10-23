@@ -410,3 +410,19 @@ h3 .metacritic.en-ligne { margin-left: 6px; }
 .liste-partage img, .liste-partage button > span:first-child { width: 36px; height: 50px; object-fit: cover; border-radius: 6px; flex: none; background: var(--surface); }
 .liste-partage b { display: block; font-size: 0.9rem; }
 .liste-partage small { color: var(--texte-3); font-size: 0.76rem; }
+
+/* Où j'en suis : À voir · En cours · Vu (fiche) */
+.statuts-suivi { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px; }
+.statuts-suivi:empty { display: none; }
+.fiche-grille .statuts-suivi { justify-content: center; }
+@media (min-width: 900px) { .fiche-grille .statuts-suivi { justify-content: flex-start; } }
+.statuts-suivi button { display: inline-flex; align-items: center; gap: 6px; padding: 7px 14px; border-radius: 999px; background: var(--surface); border: 1px solid var(--bordure); font-size: 0.85rem; font-weight: 600; color: var(--texte-2); transition: all var(--transition); }
+.statuts-suivi button svg { width: 15px; height: 15px; }
+.statuts-suivi button:hover { color: var(--texte); background: var(--surface-forte); }
+.statuts-suivi button.actif { color: var(--texte); background: color-mix(in oklab, var(--accent) 28%, transparent); border-color: color-mix(in oklab, var(--accent) 55%, transparent); }
+
+/* Pastille de statut sous une carte de Ma liste (clic = statut suivant) */
+.statut-carte { margin-top: 8px; padding: 4px 10px; border-radius: 999px; font-size: 0.75rem; font-weight: 700; background: var(--surface-forte); color: var(--texte-2); transition: all var(--transition); }
+.statut-carte:hover { color: var(--texte); }
+.statut-carte.etape-en-cours { background: rgba(255, 184, 77, 0.18); color: #ffcf86; }
+.statut-carte.etape-termine { background: rgba(94, 230, 154, 0.18); color: #8ff0b8; }

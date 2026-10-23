@@ -6,7 +6,8 @@ import { echapper, titre, note, nettoyerSynopsis, compteARebours, formatDate } f
 
 const formatJourHeure = new Intl.DateTimeFormat('fr-FR', { weekday: 'long', day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' });
 import { GENRES_FR, STATUTS_FR, FORMATS_FR, RELATIONS_FR } from '../lib/traductions.js';
-import { estSuivi, basculerSuivi, mettreAJourSaisons } from '../lib/suivis.js';
+import { estSuivi, basculerSuivi, mettreAJourSaisons, statutSuivi, changerStatutSuivi } from '../lib/suivis.js';
+import { STATUTS } from '../lib/statuts.js';
 import { afficherNavigation } from '../ui/nav.js';
 import { appliquerAccent } from '../ui/accent.js';
 import { carteAffiche, badgesLangues } from '../ui/cartes.js';
@@ -136,6 +137,7 @@ function afficherFiche(m, adn) {
             <button type="button" class="bouton bouton-verre" id="hasard">${ICONES.de}Au hasard</button>
             ${boutonRecommander()}
           </div>
+          <div class="statuts-suivi" id="statuts-suivi" role="group" aria-label="Où j'en suis"></div>
           <div id="potes-suivent"></div>
           ${prochain}
         </div>
@@ -196,7 +198,9 @@ function afficherFiche(m, adn) {
     const suivi = basculerSuivi(m, { adn: trouverSerie(adn, m)?.id, saisons: idsSaisons });
     bouton.classList.toggle('actif', suivi);
     bouton.innerHTML = boutonSuivre(suivi);
+    afficherStatuts(m.id, typeListe);
   });
+  afficherStatuts(m.id, typeListe);
   brancherBoutonHasard(document.getElementById('hasard'));
   if (!estManga) afficherSaisons(m, bouton);
   brancherRecommandation(
@@ -214,10 +218,26 @@ function afficherFiche(m, adn) {
   });
 }
 
+// ---------- Où j'en suis : À voir · En cours · Vu (visible quand l'animé est suivi) ----------
+function afficherStatuts(id, type) {
+  const zone = document.getElementById('statuts-suivi');
+  const actuel = statutSuivi(id, type);
+  if (!zone) return;
+  if (!actuel) { zone.innerHTML = ''; return; }
+  zone.innerHTML = Object.entries(STATUTS[type]).map(([cle, nom]) =>
+    `<button type="button" class="${cle === actuel ? 'actif' : ''}" data-statut="${cle}">${cle === actuel ? ICONES.check : ''}${nom}</button>`).join('');
+  zone.onclick = (e) => {
+    const bouton = e.target.closest('[data-statut]');
+    if (!bouton) return;
+    changerStatutSuivi(id, bouton.dataset.statut, type);
+    afficherStatuts(id, type);
+  };
+}
+
 // ---------- Onglets "Saison 1 · Saison 2 · …" ----------
 let idsSaisons; // identifiants de toutes les saisons de la série affichée
 
-async function afficherSaisons(m, boutonSuivre) {
+async function afficherSaisons(m, elementSuivre) {
   const zone = document.getElementById('saisons');
   let liste;
   try {
@@ -229,9 +249,10 @@ async function afficherSaisons(m, boutonSuivre) {
   idsSaisons = liste.map((s) => s.id);
 
   // Déjà suivi via une autre saison ? Le bouton l'indique, et la liste des saisons est mise à jour
-  if (mettreAJourSaisons(m.id, idsSaisons) && boutonSuivre) {
-    boutonSuivre.classList.add('actif');
-    boutonSuivre.innerHTML = boutonSuivre(true);
+  if (mettreAJourSaisons(m.id, idsSaisons) && elementSuivre) {
+    elementSuivre.classList.add('actif');
+    elementSuivre.innerHTML = boutonSuivre(true);
+    afficherStatuts(m.id, 'anime');
   }
   if (liste.length < 2) return;
 

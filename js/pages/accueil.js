@@ -8,6 +8,7 @@ import { chargerActus, CATEGORIES } from '../api/actus.js';
 import { echapper, titre, note, nettoyerSynopsis, afficherErreur } from '../lib/outils.js';
 import { FORMATS_FR, SAISONS_FR, GENRES_VEDETTES } from '../lib/traductions.js';
 import { listeSuivis } from '../lib/suivis.js';
+import { estTermine } from '../lib/statuts.js';
 import { afficherNavigation } from '../ui/nav.js';
 import { appliquerAccent } from '../ui/accent.js';
 import { carteAffiche, sousTitreGenres, ligneArticle, squelettesAffiches } from '../ui/cartes.js';
@@ -97,7 +98,7 @@ async function chargerAnimes() {
 
 // ---------- Mes suivis (lus dans le navigateur, sans requête) ----------
 function afficherSuivis() {
-  const suivis = listeSuivis();
+  const suivis = listeSuivis().filter((a) => !estTermine(a)); // sans ceux déjà vus
   if (!suivis.length) return;
   document.getElementById('section-suivis').hidden = false;
   document.getElementById('suivis').innerHTML = suivis.slice().reverse().map((s) => `

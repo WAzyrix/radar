@@ -48,3 +48,14 @@ export function basculerSuivi(media, { adn, saisons } = {}) {
   });
   return true;
 }
+
+/** Statut de l'animé (ou manga) suivi : à voir, en cours, vu… (undefined s'il n'est pas suivi). */
+export function statutSuivi(id, type = 'anime') {
+  const suivi = trouverSuivi(id, type);
+  return suivi ? (suivi.statut || (type === 'manga' ? 'a-lire' : 'a-voir')) : undefined;
+}
+
+export function changerStatutSuivi(id, statut, type = 'anime') {
+  const suivi = trouverSuivi(id, type);
+  if (suivi) maListe.enregistrer({ type, id: suivi.id, statut });
+}

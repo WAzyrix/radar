@@ -4,7 +4,8 @@
 import { explorer, auHasard, rattrapage } from '../api/animes.js';
 import { echapper, titre, note, nettoyerSynopsis, ilYa, compteARebours, afficherErreur, antiRebond } from '../lib/outils.js';
 import { GENRES_FR, TAGS_FR, STATUTS_FR, FORMATS_FR, GENRES_VEDETTES } from '../lib/traductions.js';
-import { listeSuivis, idsSuivis } from '../lib/suivis.js';
+import { listeSuivis } from '../lib/suivis.js';
+import { estTermine } from '../lib/statuts.js';
 import { afficherNavigation } from '../ui/nav.js';
 import { carteAffiche, squelettesAffiches } from '../ui/cartes.js';
 import { monterCalendrier, NOTE_HEURES } from '../ui/calendrier.js';
@@ -39,7 +40,8 @@ const CLE_PERIODE = 'radar:periode-rattrapage';
 
 async function afficherRattrapage(jours) {
   const zone = $('rattrapage-contenu');
-  const suivis = listeSuivis();
+  // Les animés déjà « Vu » n'ont rien à rattraper
+  const suivis = listeSuivis().filter((a) => !estTermine(a));
   $('resume-rattrapage').textContent = '';
 
   if (!suivis.length) {
@@ -50,7 +52,8 @@ async function afficherRattrapage(jours) {
   zone.innerHTML = '<div class="rattrapage-liste">' + '<div class="squelette" style="height:130px;border-radius:24px"></div>'.repeat(Math.min(suivis.length, 6)) + '</div>';
   try {
     const depuis = new Date(Date.now() - jours * 86400_000);
-    const { medias, sorties } = await rattrapage(idsSuivis(), depuis);
+    const ids = [...new Set(suivis.flatMap((a) => [a.id, ...(a.saisons || [])]))];
+    const { medias, sorties } = await rattrapage(ids, depuis);
 
     // On regroupe les épisodes sortis par animé
     const parAnime = {};
