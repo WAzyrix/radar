@@ -12,7 +12,13 @@ async function supabase(env, chemin, options = {}) {
   if (!env.SUPABASE_SERVICE) throw new Error('Clé Supabase absente (wrangler secret put SUPABASE_SERVICE)');
   const reponse = await fetch(`${env.SUPABASE_URL}/rest/v1/${chemin}`, {
     ...options,
-    headers: { apikey: env.SUPABASE_SERVICE, Authorization: `Bearer ${env.SUPABASE_SERVICE}`, 'Content-Type': 'application/json', ...options.headers },
+    headers: {
+      apikey: env.SUPABASE_SERVICE,
+      // Anciennes clés (jetons JWT "eyJ…") : aussi dans Authorization ; nouvelles clés "sb_secret_…" : apikey suffit
+      ...(env.SUPABASE_SERVICE.startsWith('eyJ') ? { Authorization: `Bearer ${env.SUPABASE_SERVICE}` } : {}),
+      'Content-Type': 'application/json',
+      ...options.headers,
+    },
   });
   if (!reponse.ok) throw new Error(`Supabase a répondu ${reponse.status}`);
   return reponse.status === 204 ? null : reponse.json();

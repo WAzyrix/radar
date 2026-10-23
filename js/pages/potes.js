@@ -1,5 +1,5 @@
 // =========================================================
-// Page Potes : compte (connexion par code email), groupe, recommandations, activité.
+// Page Potes : compte (email + mot de passe), groupe, recommandations, activité.
 // =========================================================
 import * as compte from '../lib/compte.js';
 import { TYPES } from '../lib/ma-liste.js';
@@ -39,6 +39,13 @@ async function afficherCompte(message = '') {
     return;
   }
 
+  // Mot de passe oublié : le lien de l'email nous connecte, il reste à choisir le nouveau
+  if (new URLSearchParams(location.search).has('reinitialiser')) {
+    afficherNouveauMotDePasse(info);
+    return;
+  }
+  await compte.verifierRattachement();
+
   const profil = await compte.monProfil();
   if (!profil) {
     afficherFormulaireProfil(info, { pseudo: '', avatar: AVATARS[0] }, true);
@@ -61,48 +68,72 @@ async function afficherCompte(message = '') {
   await afficherReste();
 }
 
-function afficherConnexion(info) {
+function afficherConnexion(info, email = '') {
   const carte = $('carte-compte');
   carte.innerHTML = `
     ${info}
-    <p>Connecte-toi pour retrouver ta liste partout, rejoindre tes potes et voir ce qu'ils suivent. Pas de mot de passe : tu reçois un code par email.</p>
-    <form class="ligne-code" id="form-email">
-      <input class="champ" type="email" id="email" placeholder="ton@email.fr" autocomplete="email" required>
-      <button class="bouton bouton-plein bouton-petit">Recevoir un code</button>
+    <p>Connecte-toi pour retrouver ta liste partout, rejoindre tes potes et voir ce qu'ils suivent.</p>
+    <form id="form-connexion" class="form-compte">
+      <label class="etiquette" for="email">Email</label>
+      <input class="champ" type="email" id="email" value="${echapper(email)}" placeholder="ton@email.fr" autocomplete="email" required>
+      <label class="etiquette" for="mdp">Mot de passe</label>
+      <input class="champ" type="password" id="mdp" placeholder="8 caractères minimum" autocomplete="current-password" minlength="8" required>
+      <div class="actions">
+        <button class="bouton bouton-plein bouton-petit" data-action="connexion">Se connecter</button>
+        <button class="bouton bouton-verre bouton-petit" data-action="inscription">Créer un compte</button>
+      </div>
+      <button type="button" class="lien-discret" id="oubli">Mot de passe oublié ?</button>
     </form>`;
-  $('form-email').addEventListener('submit', async (e) => {
+
+  $('form-connexion').addEventListener('submit', async (e) => {
     e.preventDefault();
+    const action = e.submitter?.dataset.action || 'connexion';
     const email = $('email').value;
+    const motDePasse = $('mdp').value;
     e.submitter.disabled = true;
     try {
-      await compte.envoyerCode(email);
-      afficherSaisieCode(email);
+      if (action === 'inscription') {
+        const connecte = await compte.inscription(email, motDePasse);
+        if (connecte) afficherCompte('Compte créé ✅');
+        else afficherConnexion('<p class="message-notif">Compte créé ✅ Clique sur le lien de confirmation reçu par email (pense aux spams), puis reviens te connecter ici.</p>', email);
+      } else {
+        await compte.connexion(email, motDePasse);
+        afficherCompte('Connecté ✅');
+      }
     } catch (erreur) {
-      afficherConnexion(`<p class="message-notif">⚠️ ${echapper(erreur.message)}</p>`);
+      afficherConnexion(`<p class="message-notif">⚠️ ${echapper(erreur.message)}</p>`, email);
+    }
+  });
+
+  $('oubli').addEventListener('click', async () => {
+    const email = $('email').value.trim();
+    if (!email) { afficherConnexion('<p class="message-notif">Entre d\'abord ton email, puis reclique sur « Mot de passe oublié ? ».</p>'); return; }
+    try {
+      await compte.motDePasseOublie(email);
+      afficherConnexion('<p class="message-notif">Email envoyé : clique sur le lien pour choisir un nouveau mot de passe.</p>', email);
+    } catch (erreur) {
+      afficherConnexion(`<p class="message-notif">⚠️ ${echapper(erreur.message)}</p>`, email);
     }
   });
 }
 
-function afficherSaisieCode(email) {
+// Arrivée depuis le lien "mot de passe oublié" : on choisit le nouveau
+function afficherNouveauMotDePasse(info = '') {
   $('carte-compte').innerHTML = `
-    <p>Code envoyé à <b>${echapper(email)}</b>. Regarde tes emails (et les spams), puis recopie le code ici :</p>
-    <form class="ligne-code" id="form-code">
-      <input class="champ" id="code-email" inputmode="numeric" autocomplete="one-time-code" placeholder="123456" maxlength="10" required>
-      <button class="bouton bouton-plein bouton-petit">Valider</button>
-    </form>
-    <p class="mention"><button type="button" class="lien-discret" id="autre-email">Changer d'email</button></p>`;
-  $('code-email').focus();
-  $('autre-email').addEventListener('click', () => afficherConnexion(''));
-  $('form-code').addEventListener('submit', async (e) => {
+    ${info}
+    <p>Choisis ton nouveau mot de passe :</p>
+    <form class="ligne-code" id="form-nouveau-mdp">
+      <input class="champ" type="password" id="nouveau-mdp" autocomplete="new-password" minlength="8" placeholder="8 caractères minimum" required>
+      <button class="bouton bouton-plein bouton-petit">Enregistrer</button>
+    </form>`;
+  $('form-nouveau-mdp').addEventListener('submit', async (e) => {
     e.preventDefault();
-    e.submitter.disabled = true;
     try {
-      await compte.validerCode(email, $('code-email').value);
-      afficherCompte('Connecté ✅');
+      await compte.changerMotDePasse($('nouveau-mdp').value);
+      history.replaceState(null, '', location.pathname);
+      afficherCompte('Mot de passe changé ✅');
     } catch (erreur) {
-      e.submitter.disabled = false;
-      $('carte-compte').querySelector('.message-notif')?.remove();
-      $('carte-compte').insertAdjacentHTML('afterbegin', `<p class="message-notif">⚠️ ${echapper(erreur.message)}</p>`);
+      afficherNouveauMotDePasse(`<p class="message-notif">⚠️ ${echapper(erreur.message)}</p>`);
     }
   });
 }

@@ -1,9 +1,9 @@
 // =========================================================
-// Compte Radar (Supabase) : connexion par code reçu par email, profil, groupe de potes.
+// Compte Radar (Supabase) : connexion email + mot de passe, profil, groupe de potes.
 //
-// Connexion SANS mot de passe : on tape son email, on reçoit un code à 6 chiffres,
-// on le recopie. (Un code plutôt qu'un lien : sur iPhone, un lien s'ouvrirait dans
-// Safari et pas dans l'appli Radar installée, qui a ses propres données.)
+// À l'inscription, Supabase envoie un email de confirmation (une seule fois).
+// Le mot de passe permet ensuite de se connecter partout, y compris dans
+// l'appli iPhone installée (qui ne partage pas ses données avec Safari).
 //
 // Le compte est relié au "code perso" de la V2 : se connecter sur un nouvel appareil
 // récupère automatiquement sa liste et ses notifications.
@@ -27,8 +27,12 @@ function verifier({ data, error }) {
 }
 
 function traduireErreur(message) {
-  if (/rate limit|too many/i.test(message)) return "Trop de demandes : attends quelques minutes avant de redemander un code.";
-  if (/expired|invalid.*otp|token has expired|invalid/i.test(message)) return 'Code incorrect ou expiré. Redemande un code.';
+  if (/rate limit|too many/i.test(message)) return 'Trop de demandes : attends quelques minutes et réessaie.';
+  if (/invalid login credentials/i.test(message)) return 'Email ou mot de passe incorrect.';
+  if (/email not confirmed/i.test(message)) return "Confirme d'abord ton email : clique sur le lien reçu par mail (pense aux spams).";
+  if (/already registered|already been registered/i.test(message)) return 'Un compte existe déjà avec cet email : connecte-toi.';
+  if (/password should be|at least \d+ characters|weak password/i.test(message)) return 'Mot de passe trop faible : 8 caractères minimum, avec lettres et chiffres.';
+  if (/valid email|invalid email|email address .* is invalid/i.test(message)) return 'Adresse email invalide.';
   if (/Invitation inconnue/.test(message)) return "Ce code d'invitation n'existe pas.";
   if (/duplicate key.*pseudo|profils_pseudo/i.test(message)) return 'Ce pseudo est déjà pris.';
   return message;
@@ -41,14 +45,39 @@ export async function utilisateur() {
   return data.session?.user ?? null;
 }
 
-export async function envoyerCode(email) {
-  verifier(await supabase().auth.signInWithOtp({ email: email.trim(), options: { shouldCreateUser: true } }));
+// Page vers laquelle renvoient les liens des emails (confirmation, mot de passe oublié)
+const pagePotes = () => new URL('potes.html', location.href).href;
+
+/** Crée un compte. Renvoie true si connecté tout de suite, false s'il faut confirmer l'email. */
+export async function inscription(email, motDePasse) {
+  if (motDePasse.length < 8) throw new Error('Mot de passe trop faible : 8 caractères minimum.');
+  const data = verifier(await supabase().auth.signUp({ email: email.trim(), password: motDePasse, options: { emailRedirectTo: pagePotes() } }));
+  if (data.session) await rattacherListe(data.user.id);
+  return Boolean(data.session);
 }
 
-export async function validerCode(email, code) {
-  const data = verifier(await supabase().auth.verifyOtp({ email: email.trim(), token: code.trim(), type: 'email' }));
+export async function connexion(email, motDePasse) {
+  const data = verifier(await supabase().auth.signInWithPassword({ email: email.trim(), password: motDePasse }));
   await rattacherListe(data.user.id);
   return data.user;
+}
+
+export async function motDePasseOublie(email) {
+  verifier(await supabase().auth.resetPasswordForEmail(email.trim(), { redirectTo: `${pagePotes()}?reinitialiser=1` }));
+}
+
+export async function changerMotDePasse(motDePasse) {
+  if (motDePasse.length < 8) throw new Error('Mot de passe trop faible : 8 caractères minimum.');
+  verifier(await supabase().auth.updateUser({ password: motDePasse }));
+}
+
+/** Après un clic sur un lien d'email, la session arrive par l'adresse : on s'assure que la liste est reliée. */
+export async function verifierRattachement() {
+  const u = await utilisateur();
+  if (u && sessionStorage.getItem('radar:rattache') !== u.id) {
+    await rattacherListe(u.id);
+    sessionStorage.setItem('radar:rattache', u.id);
+  }
 }
 
 export async function deconnexion() {

@@ -7,5 +7,5 @@ export const URL_RELAIS = 'https://radar-relais.wazyrix.workers.dev';
 
 // Supabase (comptes et groupe de potes). La clé "anon" est PUBLIQUE par conception :
 // la sécurité vient des règles RLS de la base (supabase/schema.sql).
-export const SUPABASE_URL = 'A-REMPLACER';
-export const SUPABASE_CLE_PUBLIQUE = 'A-REMPLACER';
+export const SUPABASE_URL = 'https://ryinzwuccealzsyakjya.supabase.co';
+export const SUPABASE_CLE_PUBLIQUE = 'sb_publishable_aqfdeizQQUf6zarzvUmqOQ_vrab9K4g';

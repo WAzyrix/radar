@@ -31,7 +31,7 @@
   display: flex;
   align-items: flex-end;
   padding: 0 var(--gouttiere) clamp(40px, 6vw, 72px);
-  margin-top: calc(-1 * var(--hauteur-nav)); /* passe sous la barre de nav en verre */
+  margin-top: calc(-1 * var(--nav-totale)); /* passe sous la barre de nav en verre */
   overflow: hidden;
 }
 .heros-image {
@@ -87,7 +87,7 @@
 /* =========================================================
    FICHE ANIMÉ
    ========================================================= */
-.fiche-haut { position: relative; margin-top: calc(-1 * var(--hauteur-nav)); padding: calc(var(--hauteur-nav) + clamp(24px, 6vw, 80px)) var(--gouttiere) 32px; overflow: hidden; }
+.fiche-haut { position: relative; margin-top: calc(-1 * var(--nav-totale)); padding: calc(var(--nav-totale) + clamp(24px, 6vw, 80px)) var(--gouttiere) 32px; overflow: hidden; }
 /* La bannière est floutée : elle sert d'ambiance, l'affiche reste nette */
 .fiche-fond { position: absolute; inset: -40px; background: var(--image) center / cover no-repeat; filter: blur(40px) saturate(150%); opacity: 0.6; transform: scale(1.1); }
 .fiche-haut::after { content: ""; position: absolute; inset: 0; background: linear-gradient(to bottom, rgba(10, 10, 15, 0.3), var(--fond) 95%); }
@@ -190,6 +190,10 @@
 .ligne-code .champ { flex: 1 1 260px; font-family: ui-monospace, monospace; }
 
 /* ---------- Potes ---------- */
+.form-compte { display: grid; gap: 6px; max-width: 420px; margin-top: 14px; }
+.form-compte .etiquette { margin-top: 8px; margin-bottom: 0; }
+.form-compte .actions { margin-top: 12px; }
+.form-compte .lien-discret { justify-self: start; margin-top: 8px; }
 .moi { display: flex; align-items: center; gap: 14px; }
 .moi .avatar { width: 54px; height: 54px; border-radius: 50%; display: grid; place-items: center; font-size: 1.7rem; background: var(--surface-forte); }
 .moi b { display: block; font-size: 1.1rem; }

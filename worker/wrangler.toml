@@ -10,7 +10,7 @@ ORIGINES = "https://wazyrix.github.io,http://localhost:8000"
 SITE = "https://wazyrix.github.io/radar/"
 # Clé PUBLIQUE des notifications web (la privée est un secret : VAPID_PRIVE)
 # Projet Supabase (comptes et potes) : adresse publique
-SUPABASE_URL = "A-REMPLACER"
+SUPABASE_URL = "https://ryinzwuccealzsyakjya.supabase.co"
 VAPID_PUBLIQUE = "BDrLw-_L5jBFYKGCjkjlkYauEpjkMgeKQrpZaL6BWc4qSy9_IA0_xdne3lNqJ9loIql-pyrFIqGg3ZKMkM9QN0k"
 
 # Petite base de données clé/valeur : listes, abonnements aux notifs, état des vérifications
