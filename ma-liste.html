@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0a0a0f">
+  <title>Ma liste · Radar</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" href="icones/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Radar">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/composants.css">
+  <link rel="stylesheet" href="css/pages.css">
+</head>
+<body>
+  <main>
+    <header class="page-tete">
+      <h1><span>Ma liste</span></h1>
+      <p>Tout ce que tu suis, au même endroit, synchronisé sur tes appareils. Active les notifications pour être prévenu des nouveautés.</p>
+      <nav class="segments" id="filtres-types" aria-label="Types"></nav>
+    </header>
+
+    <!-- ===== Le contenu de ma liste ===== -->
+    <section class="section">
+      <div class="section-contenu" id="contenu-liste"></div>
+    </section>
+
+    <!-- ===== Ajouter un film ou une série ===== -->
+    <section class="section" id="ajouter">
+      <div class="section-tete"><h2>Ajouter un film ou une série</h2></div>
+      <div class="section-contenu">
+        <label class="champ-recherche-large">
+          <span class="sr-only">Rechercher un film ou une série</span>
+          <input class="champ" type="search" id="recherche-tmdb" placeholder="Ex : Dune, Arcane, The Last of Us…" autocomplete="off">
+        </label>
+        <p class="mention">Les animés, mangas et jeux s'ajoutent depuis leur fiche (bouton « Suivre » ou statut).</p>
+        <div class="grille-affiches" id="resultats-tmdb" style="margin-top:16px"></div>
+      </div>
+    </section>
+
+    <!-- ===== Notifications ===== -->
+    <section class="section" id="notifications">
+      <div class="section-tete"><h2>Notifications</h2></div>
+      <div class="section-contenu">
+        <div class="carte" id="carte-notifs"></div>
+      </div>
+    </section>
+
+    <!-- ===== Synchronisation ===== -->
+    <section class="section" id="synchro">
+      <div class="section-tete"><h2>Mes appareils</h2></div>
+      <div class="section-contenu">
+        <div class="carte" id="carte-synchro"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer>Radar · films et séries : <a href="https://www.themoviedb.org" target="_blank" rel="noopener">TMDB</a> (ce site utilise l'API TMDB mais n'est ni approuvé ni certifié par TMDB).</footer>
+
+  <script type="module" src="js/pages/ma-liste.js"></script>
+</body>
+</html>

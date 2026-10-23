@@ -91,10 +91,12 @@ Tout se passe dans [`scripts/sources.json`](scripts/sources.json) :
 - **Heures du calendrier** : AniList donne l'heure de **diffusion TV au Japon**, convertie dans ton fuseau horaire. Les sites de streaming VOSTFR (Crunchyroll, ADN, anime-sama…) publient en général un peu plus tard : les deux heures sont justes, elles ne mesurent pas la même chose.
 - **VOSTFR / VF** : seule ADN publie ces infos librement. ADN et AniList n'ont pas d'identifiant commun, donc on associe les séries par leur titre « nettoyé » (sans accents, ponctuation ni numéro de saison) : ça marche dans la grande majorité des cas, mais une série peut être ratée. Crunchyroll ne publie ni ses horaires ni ses langues.
 - **Droits d'auteur** : pour les actus, on ne garde que le titre, la source, la date, un extrait de 200 caractères maximum et le lien vers l'article original.
-- **Suivis** : stockés dans le navigateur (`localStorage`). Ils ne se synchronisent pas entre appareils (ce sera le rôle de Supabase en V3).
+- **Ma liste** : stockée dans le navigateur et copiée sur le relais (Cloudflare KV) sous un « code perso » de 32 caractères aléatoires. Le même code sur un autre appareil = la même liste.
+- **Notifications web** : le relais vérifie les nouveautés toutes les heures et envoie des notifications chiffrées (norme Web Push, sans bibliothèque). Le service worker (`sw.js`) les affiche, même site fermé. Sur iPhone, il faut d'abord ajouter le site à l'écran d'accueil.
 
 ## Feuille de route
 
 - [x] **V1** : site, section Animés (calendrier, fiche, hasard, genres, rattrapage), actus avec filtres, collecte automatique, déploiement
-- [ ] **V2** : watchlist (animés, mangas, films) + notifications push sur téléphone via ntfy.sh
+- [x] **Section Jeux** : sorties, fiches, listes, explorer, hasard (RAWG + Steam via le relais)
+- [x] **V2** : « Ma liste » (animés, mangas, séries, films, jeux) synchronisée par code perso + notifications web (épisodes, VOSTFR/VF, suites, tomes, séries, films, jeux), site installable comme une appli
 - [ ] **V3** : comptes pour les potes avec Supabase

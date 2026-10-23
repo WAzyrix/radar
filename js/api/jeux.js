@@ -3,38 +3,10 @@
 // Même principe que pour AniList : cache dans le navigateur pour limiter les appels
 // (RAWG gratuit = 20 000 requêtes par mois).
 // =========================================================
-import { URL_RELAIS } from '../config.js';
-import { hacher, lireCache, ecrireCache, viderCache } from '../lib/cache.js';
+import { relais, relaisConfigure } from './relais.js';
 
-const PREFIXE_CACHE = 'jv:';
+export { relaisConfigure };
 const HEURE = 3600_000;
-viderCache(PREFIXE_CACHE, { seulementExpires: true });
-
-export const relaisConfigure = () => !URL_RELAIS.includes('A-REMPLACER');
-
-async function relais(chemin, params = {}, { duree = HEURE } = {}) {
-  if (!relaisConfigure()) throw new Error("Le relais jeux n'est pas encore configuré (js/config.js).");
-  const url = new URL(URL_RELAIS + chemin);
-  for (const [cle, valeur] of Object.entries(params)) {
-    if (valeur !== undefined && valeur !== '') url.searchParams.set(cle, valeur);
-  }
-  const cle = PREFIXE_CACHE + hacher(url.toString());
-  if (duree > 0) {
-    const enCache = lireCache(cle);
-    if (enCache !== undefined) return enCache;
-  }
-
-  let reponse;
-  try {
-    reponse = await fetch(url);
-  } catch {
-    throw new Error('Impossible de joindre le relais jeux. Vérifie ta connexion.');
-  }
-  const json = await reponse.json().catch(() => ({}));
-  if (!reponse.ok) throw new Error(json.erreur || `Erreur du relais (${reponse.status})`);
-  if (duree > 0) ecrireCache(cle, json, duree, PREFIXE_CACHE);
-  return json;
-}
 
 // ---------- Dates ----------
 const jourIso = (date) => date.toISOString().slice(0, 10);

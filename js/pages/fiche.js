@@ -109,8 +109,9 @@ function afficherFiche(m, adn) {
     ? `<a class="bouton bouton-plein" href="https://www.youtube.com/watch?v=${encodeURIComponent(m.trailer.id)}" target="_blank" rel="noopener">${ICONES.lecture}Bande-annonce</a>`
     : '';
 
-  // On ne propose "Suivre" que pour les animés (les mangas arriveront en V2)
-  const suivre = estManga ? '' : `<button type="button" class="bouton bouton-verre ${estSuivi(m.id) ? 'actif' : ''}" id="suivre">${boutonSuivre(estSuivi(m.id))}</button>`;
+  // "Suivre" : animés ET mangas (notifs : épisodes, VOSTFR/VF, suites, nouveaux tomes)
+  const typeListe = estManga ? 'manga' : 'anime';
+  const suivre = `<button type="button" class="bouton bouton-verre ${estSuivi(m.id, typeListe) ? 'actif' : ''}" id="suivre">${boutonSuivre(estSuivi(m.id, typeListe))}</button>`;
 
   const relations = m.relations.edges
     .filter((r) => r.relationType !== 'CHARACTER')
@@ -186,7 +187,8 @@ function afficherFiche(m, adn) {
   // Bouton Suivre
   const bouton = document.getElementById('suivre');
   bouton?.addEventListener('click', () => {
-    const suivi = basculerSuivi(m);
+    // On mémorise la série ADN correspondante : le relais pourra prévenir de la sortie VOSTFR/VF
+    const suivi = basculerSuivi(m, { adn: trouverSerie(adn, m)?.id });
     bouton.classList.toggle('actif', suivi);
     bouton.innerHTML = boutonSuivre(suivi);
   });

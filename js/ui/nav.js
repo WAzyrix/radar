@@ -1,6 +1,7 @@
 // =========================================================
 // Navigation commune à toutes les pages :
-// barre du haut (PC) + barre d'onglets en bas (mobile) + recherche d'animés.
+// barre du haut (PC) + barre d'onglets en bas (mobile) + recherche,
+// synchronisation de "Ma liste" et service worker (notifications, appli installable).
 // =========================================================
 import { rechercheRapide } from '../api/animes.js';
 import { rechercheRapideJeux, relaisConfigure } from '../api/jeux.js';
@@ -8,14 +9,17 @@ import { imageReduite } from './cartes-jeux.js';
 import { echapper, titre, antiRebond } from '../lib/outils.js';
 import { FORMATS_FR } from '../lib/traductions.js';
 import { ICONES } from './icones.js';
+import { synchroniser } from '../lib/ma-liste.js';
 
 const PAGES = [
   { id: 'accueil', nom: 'Accueil', lien: './', icone: 'accueil' },
   { id: 'animes', nom: 'Animés', lien: 'animes.html', icone: 'anime' },
   { id: 'jeux', nom: 'Jeux', lien: 'jeux.html', icone: 'manette' },
   { id: 'cinema', nom: 'Films', lien: 'actus.html?cat=cinema', icone: 'film' },
-  { id: 'cyber', nom: 'Cyber', lien: 'actus.html?cat=cyber', icone: 'cyber' },
+  // Cyber n'est pas dans la barre mobile (6 onglets max) : on y accède depuis la page Actu
+  { id: 'cyber', nom: 'Cyber', lien: 'actus.html?cat=cyber', icone: 'cyber', mobile: false },
   { id: 'monde', nom: 'Actu', lien: 'actus.html?cat=monde', icone: 'monde' },
+  { id: 'ma-liste', nom: 'Ma liste', lien: 'ma-liste.html', icone: 'coeur' },
 ];
 
 export function afficherNavigation(pageActive) {
@@ -31,9 +35,14 @@ export function afficherNavigation(pageActive) {
         <div class="resultats"></div>
       </form>
     </header>`);
-  document.body.insertAdjacentHTML('beforeend', `<nav class="onglets" aria-label="Navigation">${PAGES.map((p) => lien(p, true)).join('')}</nav>`);
+  document.body.insertAdjacentHTML('beforeend', `<nav class="onglets" aria-label="Navigation">${PAGES.filter((p) => p.mobile !== false).map((p) => lien(p, true)).join('')}</nav>`);
 
   brancherRecherche();
+
+  // Récupère "Ma liste" depuis mes autres appareils (si elle a changé là-bas)
+  if (relaisConfigure()) synchroniser().catch(() => { /* hors connexion : on garde la liste locale */ });
+  // Service worker : reçoit les notifications et rend le site installable
+  if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
 }
 
 // Recherche en direct : la liste apparaît pendant la frappe.

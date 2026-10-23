@@ -44,6 +44,9 @@
 }
 .nav-liens a:hover { color: var(--texte); background: var(--surface); }
 .nav-liens a.actif { color: var(--texte); background: var(--surface-forte); }
+.nav-liens a { white-space: nowrap; }
+/* Écrans moyens : 7 liens + la recherche, on resserre un peu */
+@media (max-width: 1180px) { .nav { gap: 14px; } .nav-liens a { padding: 8px 10px; font-size: 0.88rem; } }
 
 /* Recherche d'animés dans la nav */
 .recherche { position: relative; margin-left: auto; width: min(320px, 100%); }

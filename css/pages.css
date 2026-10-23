@@ -150,6 +150,45 @@
 .plateformes .pastille svg { width: 12px; height: 12px; }
 .carte .etiquette { display: block; }
 
+/* ---------- Ma liste ---------- */
+.avec-retirer { position: relative; min-width: 0; }
+.retirer {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: rgba(10, 10, 15, 0.7);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  font-size: 1.1rem;
+  line-height: 1;
+  opacity: 0;
+  transition: opacity var(--transition), background var(--transition);
+}
+.avec-retirer:hover .retirer, .retirer:focus-visible { opacity: 1; }
+.retirer:hover { background: rgba(255, 90, 90, 0.85); }
+@media (hover: none) { .retirer { opacity: 1; } } /* sur téléphone, pas de survol : toujours visible */
+
+.resultat-tmdb { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+.resultat-tmdb .affiche-image { margin-bottom: 6px; }
+.resultat-tmdb .bouton { margin-top: 8px; align-self: flex-start; }
+
+.prefs { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 12px 24px; margin-top: 14px; }
+.message-notif { margin-bottom: 14px; padding: 10px 14px; border-radius: var(--r-m); background: color-mix(in oklab, var(--accent) 14%, transparent); border: 1px solid color-mix(in oklab, var(--accent) 30%, transparent); }
+.etapes { margin: 12px 0 0 20px; display: grid; gap: 8px; color: var(--texte-2); }
+.etapes b { color: var(--texte); }
+.historique { list-style: none; display: grid; gap: 6px; }
+.historique a { display: grid; gap: 2px; padding: 10px 14px; border-radius: var(--r-m); background: var(--surface); transition: background var(--transition); }
+.historique a:hover { background: var(--surface-forte); }
+.historique span { font-size: 0.82rem; color: var(--texte-2); }
+
+.code-perso { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin-top: 14px; }
+.code-perso code { padding: 10px 14px; border-radius: var(--r-m); background: var(--fond-2); border: 1px solid var(--bordure); font-size: 0.9rem; letter-spacing: 0.04em; word-break: break-all; }
+.ligne-code { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px; }
+.ligne-code .champ { flex: 1 1 260px; font-family: ui-monospace, monospace; }
+
 /* "Où le regarder en France" */
 .carte-large { grid-column: 1 / -1; }
 .dispo-saisons { display: grid; gap: 8px; margin: 12px 0; }
