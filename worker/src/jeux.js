@@ -28,7 +28,15 @@ export async function rawg(env, chemin, params = {}) {
   url.searchParams.set('key', env.RAWG_KEY);
   const reponse = await fetch(url, { cf: { cacheTtl: 3600, cacheEverything: true } });
   if (!reponse.ok) throw new Error(`RAWG a répondu ${reponse.status}`);
-  return reponse.json();
+  return JSON.parse(sansCle(await reponse.text(), env.RAWG_KEY));
+}
+
+// RAWG recopie la clé dans les liens de pagination ("next", "previous") :
+// on la retire de toutes les URL avant de répondre au navigateur.
+export function sansCle(texte, cle) {
+  return texte
+    .replace(/([?&])key=[^&"\\]*(&?)/g, (_, separateur, suite) => (suite ? separateur : ''))
+    .replaceAll(cle, '');
 }
 
 // ---------- Recherche par titre ----------

@@ -4,8 +4,10 @@
 import { URL_RELAIS } from '../config.js';
 import { hacher, lireCache, ecrireCache, viderCache } from '../lib/cache.js';
 
-const PREFIXE_CACHE = 'jv:';
+// "jv2:" depuis le retrait de la clé RAWG des réponses : l'ancien cache "jv:" la contenait
+const PREFIXE_CACHE = 'jv2:';
 const HEURE = 3600_000;
+viderCache('jv:');
 viderCache(PREFIXE_CACHE, { seulementExpires: true });
 
 export const relaisConfigure = () => !URL_RELAIS.includes('A-REMPLACER');
