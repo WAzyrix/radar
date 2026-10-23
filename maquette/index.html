@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0a0a0f">
+  <title>Radar — Accueil (maquette)</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="maquette.css">
+</head>
+<body>
+  <main>
+    <!-- Héros : l'animé n°1 des tendances, rempli par accueil.js -->
+    <section class="heros" id="heros">
+      <div class="heros-image"></div>
+      <div class="heros-contenu">
+        <div class="squelette" style="width:120px;height:14px"></div>
+        <div class="squelette" style="width:min(480px,80vw);height:56px;margin:14px 0"></div>
+        <div class="squelette" style="width:min(560px,85vw);height:70px"></div>
+      </div>
+    </section>
+
+    <!-- Calendrier des épisodes -->
+    <section class="section">
+      <div class="section-tete">
+        <h2>Au programme</h2>
+        <a href="#">Calendrier complet ›</a>
+      </div>
+      <div class="jours" id="jours"></div>
+      <div class="carrousel episodes" id="calendrier"></div>
+    </section>
+
+    <section class="section">
+      <div class="section-tete">
+        <h2>Tendances du moment</h2>
+        <a href="#">Tout voir ›</a>
+      </div>
+      <div class="carrousel" id="tendances"></div>
+    </section>
+
+    <section class="section">
+      <div class="section-tete">
+        <h2 id="titre-saison">Les mieux notés de la saison</h2>
+        <a href="#">Tout voir ›</a>
+      </div>
+      <div class="carrousel" id="saison"></div>
+    </section>
+
+    <section class="section">
+      <div class="section-tete">
+        <h2>Explorer par genre</h2>
+        <a href="#" id="hasard-lien">Surprends-moi ›</a>
+      </div>
+      <div class="genres">
+        <a class="genre" href="#" style="--g1:#5b5bd6;--g2:#9b6bff"><span>Isekai</span></a>
+        <a class="genre" href="#" style="--g1:#e2557a;--g2:#ff9a8b"><span>Romance</span></a>
+        <a class="genre" href="#" style="--g1:#f5a524;--g2:#ffd66b"><span>Comédie</span></a>
+        <a class="genre" href="#" style="--g1:#2fb27a;--g2:#8de0b3"><span>Tranche de vie</span></a>
+        <a class="genre" href="#" style="--g1:#e5484d;--g2:#ff8a3d"><span>Shōnen</span></a>
+        <a class="genre" href="#" style="--g1:#3e63dd;--g2:#4cc3ff"><span>Fantasy</span></a>
+        <a class="genre" href="#" style="--g1:#6e56cf;--g2:#d16bff"><span>Mystère</span></a>
+        <a class="genre" href="#" style="--g1:#12a594;--g2:#5fd4c4"><span>Science-fiction</span></a>
+      </div>
+    </section>
+
+    <!-- Aperçu des actus : contenu d'exemple, les vrais flux RSS arrivent en V1 -->
+    <section class="section">
+      <div class="section-tete">
+        <h2>Les dernières actus</h2>
+      </div>
+      <div class="actus">
+        <div class="bloc-actu" style="--c:#4cc3ff">
+          <h3><i></i>Cyber &amp; info</h3>
+          <a class="article" href="#"><strong>Faille critique corrigée dans un routeur grand public</strong><small><span class="tag">CVE</span>Source · il y a 2 h</small></a>
+          <a class="article" href="#"><strong>Un nouveau ransomware vise les serveurs de sauvegarde</strong><small><span class="tag">Ransomware</span>Source · il y a 4 h</small></a>
+          <a class="article" href="#"><strong>Un outil open source pour auditer son réseau local</strong><small><span class="tag">Outil</span>Source · hier</small></a>
+        </div>
+        <div class="bloc-actu" style="--c:#ff7ab6">
+          <h3><i></i>Films &amp; séries</h3>
+          <a class="article" href="#"><strong>La bande-annonce d'une suite très attendue dévoilée</strong><small><span class="tag">Trailer</span>Source · il y a 1 h</small></a>
+          <a class="article" href="#"><strong>Une série culte renouvelée pour une nouvelle saison</strong><small><span class="tag">Série</span>Source · il y a 6 h</small></a>
+          <a class="article" href="#"><strong>Les sorties cinéma de la semaine</strong><small><span class="tag">Cinéma</span>Source · hier</small></a>
+        </div>
+        <div class="bloc-actu" style="--c:#ffb84d">
+          <h3><i></i>Actu</h3>
+          <a class="article" href="#"><strong>Titre d'exemple pour une actualité française</strong><small><span class="tag">France</span>Source · il y a 30 min</small></a>
+          <a class="article" href="#"><strong>Titre d'exemple pour une actualité américaine</strong><small><span class="tag">États-Unis</span>Source · il y a 3 h</small></a>
+          <a class="article" href="#"><strong>Titre d'exemple pour une actualité internationale</strong><small><span class="tag">Monde</span>Source · il y a 5 h</small></a>
+        </div>
+      </div>
+      <p class="note-maquette">Maquette : les actus ci-dessus sont des exemples, les animés viennent en direct d'AniList.</p>
+    </section>
+  </main>
+
+  <footer>Radar · données animés : AniList</footer>
+
+  <script type="module" src="accueil.js"></script>
+</body>
+</html>
