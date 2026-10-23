@@ -1,0 +1,59 @@
+# Collecte les actus toutes les heures, enregistre les JSON dans le repo,
+# puis publie le site sur GitHub Pages.
+name: Actus et déploiement
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # toutes les heures, à la 17e minute (moins d'embouteillage qu'à pile)
+  push:
+    branches: [main]       # à chaque push : on republie le site
+  workflow_dispatch:       # bouton "Run workflow" dans l'onglet Actions
+
+permissions:
+  contents: write          # pour commiter les JSON
+  pages: write             # pour publier sur GitHub Pages
+  id-token: write
+
+# Un seul déploiement à la fois (le suivant attend la fin du précédent)
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  collecte-et-publication:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploiement.outputs.page_url }}
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v5
+
+      # Le script n'utilise que la bibliothèque standard : rien à installer
+      - name: Collecter les actus
+        run: python3 scripts/collecte.py
+
+      - name: Enregistrer les JSON s'ils ont changé
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "Pas de nouvelles actus."
+          else
+            git commit -m "Actus : mise à jour automatique"
+            git pull --rebase --autostash
+            git push
+          fi
+
+      - name: Préparer GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Empaqueter le site
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: .
+
+      - name: Publier
+        id: deploiement
+        uses: actions/deploy-pages@v4
