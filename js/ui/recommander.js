@@ -40,13 +40,13 @@ async function ouvrir(compte, item) {
   dialogue.showModal();
 
   const connecte = await compte.utilisateur();
-  const [potes, groupes] = connecte
-    ? await Promise.all([compte.mesPotes().catch(() => []), compte.mesGroupes().catch(() => [])])
-    : [null, []];
+  const [potes, groupes, amis] = connecte
+    ? await Promise.all([compte.mesPotes().catch(() => []), compte.mesGroupes().catch(() => []), compte.mesAmis().catch(() => [])])
+    : [null, [], []];
   const titre = el('h3', {}, `Recommander ${item.titre}`);
   if (!potes?.length) {
     dialogue.replaceChildren(titre,
-      el('p', {}, potes ? "Tu n'as pas encore de potes dans ton groupe." : 'Connecte-toi pour recommander à tes potes.'),
+      el('p', {}, potes ? "Tu n'as encore personne à qui recommander : rejoins un groupe ou ajoute des amis." : 'Connecte-toi pour recommander à tes potes.'),
       gabarit(`<div class="actions"><a class="bouton bouton-plein bouton-petit" href="potes.html">Aller dans Potes</a>
         <button type="button" class="bouton bouton-verre bouton-petit" data-fermer>Fermer</button></div>`));
     dialogue.querySelector('[data-fermer]').addEventListener('click', () => dialogue.close());
@@ -59,12 +59,14 @@ async function ouvrir(compte, item) {
   const mesGroupes = groupes.filter((g) => uuidValide(g.id));
   const potesValides = potes.filter((p) => uuidValide(p.id));
 
-  // Plusieurs groupes : on choisit d'abord le groupe (le groupe actif par défaut), puis les potes
+  // Plusieurs groupes (ou des amis) : on choisit d'abord à qui (le groupe actif par défaut), puis les potes
+  const idsAmis = new Set(amis.filter((a) => a.statut === 'ami').map((a) => a.id));
   const portees = [
     ...mesGroupes.map((g) => ({ id: g.id, nom: g.nom, membres: new Set(g.membres.map((m) => m.user_id)), chat: g })),
+    ...(idsAmis.size ? [{ id: 'amis', nom: 'Mes amis', membres: idsAmis }] : []),
     { id: 'tous', nom: 'Tout le monde', membres: null },
   ];
-  let portee = portees.find((x) => x.id === compte.trouverGroupeActif(mesGroupes)?.id) || portees[portees.length - 1];
+  let portee = portees.find((x) => x.id === compte.trouverGroupeActif(mesGroupes)?.id) || portees[0];
   const choixPortee = portees.length > 2
     ? el('nav', { class: 'segments', 'aria-label': 'Groupe', style: { margin: '4px 0 10px' } },
       portees.map((x) => el('button', { type: 'button', 'data-portee': x.id }, x.nom)))
@@ -73,11 +75,11 @@ async function ouvrir(compte, item) {
   const afficherPuces = () => {
     choixPortee?.querySelectorAll('[data-portee]').forEach((b) => b.classList.toggle('actif', b.dataset.portee === portee.id));
     const visibles = potesValides.filter((p) => !portee.membres || portee.membres.has(p.id));
-    const chats = portee.chat ? [portee.chat] : mesGroupes;
+    const chats = portee.chat ? [portee.chat] : portee.id === 'tous' ? mesGroupes : [];
     puces.replaceChildren(
       ...visibles.map((p) => el('button', { type: 'button', class: `puce ${choisis.has(p.id) ? 'actif' : ''}`, 'data-pote': p.id }, `${p.avatar} ${p.pseudo}`)),
       ...chats.map((g) => el('button', { type: 'button', class: `puce ${groupesChoisis.has(g.id) ? 'actif' : ''}`, 'data-groupe': g.id }, `💬 Chat « ${g.nom} »`)),
-      ...(visibles.length ? [] : [el('span', { class: 'mention', style: { margin: '0' } }, 'Personne d\'autre dans ce groupe pour l\'instant.')]));
+      ...(visibles.length ? [] : [el('span', { class: 'mention', style: { margin: '0' } }, portee.id === 'amis' ? 'Aucun ami pour l\'instant.' : 'Personne d\'autre dans ce groupe pour l\'instant.')]));
   };
   choixPortee?.addEventListener('click', (e) => {
     const b = e.target.closest('[data-portee]');

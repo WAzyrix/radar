@@ -22,7 +22,7 @@
   <main>
     <header class="page-tete">
       <h1><span>Potes</span></h1>
-      <p>Ton compte, tes groupes de potes, ce qu'ils suivent et ce qu'ils te recommandent.</p>
+      <p>Ton compte, tes groupes, tes amis, ce qu'ils suivent et ce qu'ils te recommandent.</p>
     </header>
 
     <section class="section" id="compte">
@@ -35,13 +35,24 @@
       <div class="section-contenu"><div class="carte" id="carte-groupe"></div></div>
     </section>
 
+    <section class="section" id="amis" hidden>
+      <div class="section-tete">
+        <h2>Mes amis</h2>
+        <span class="lien-discret" id="resume-amis" style="text-decoration:none"></span>
+      </div>
+      <div class="section-contenu"><div class="carte" id="carte-amis"></div></div>
+    </section>
+
     <section class="section" id="recommandations" hidden>
       <div class="section-tete"><h2>Recommandations reçues</h2></div>
       <div class="section-contenu" id="liste-recos"></div>
     </section>
 
     <section class="section" id="populaire" hidden>
-      <div class="section-tete"><h2 id="titre-populaire">Populaire chez tes potes</h2></div>
+      <div class="section-tete">
+        <h2 id="titre-populaire">Populaire chez tes potes</h2>
+        <nav class="segments" id="portee-potes" aria-label="Voir les listes de" hidden></nav>
+      </div>
       <div class="carrousel" id="liste-populaire"></div>
     </section>
 
@@ -51,7 +62,7 @@
     </section>
   </main>
 
-  <footer>Radar · comptes : Supabase. Seuls les membres de tes groupes voient ton pseudo et ta liste.</footer>
+  <footer>Radar · comptes : Supabase. Seuls les membres de tes groupes et tes amis voient ton pseudo et ta liste.</footer>
 
   <script type="module" src="js/pages/potes.js"></script>
 </body>

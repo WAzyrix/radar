@@ -1,5 +1,5 @@
 // =========================================================
-// Compte Radar (Supabase) : connexion email + mot de passe, profil, groupes de potes.
+// Compte Radar (Supabase) : connexion email + mot de passe, profil, groupes de potes, amis.
 //
 // À l'inscription, Supabase envoie un email de confirmation (une seule fois).
 // Le mot de passe permet ensuite de se connecter partout, y compris dans
@@ -35,6 +35,7 @@ function traduireErreur(message) {
   if (/valid email|invalid email|email address .* is invalid/i.test(message)) return 'Adresse email invalide.';
   if (/Invitation inconnue/.test(message)) return "Ce code d'invitation n'existe pas.";
   if (/duplicate key.*pseudo|profils_pseudo/i.test(message)) return 'Ce pseudo est déjà pris.';
+  if (/(could not find the function|function .* does not exist).*(ami|amis)/i.test(message)) return "Les amis ne sont pas encore activés : il faut exécuter supabase/amis.sql dans Supabase.";
   return message;
 }
 
@@ -172,7 +173,7 @@ export async function quitterGroupe(groupeId) {
   verifier(await supabase().from('membres').delete().eq('groupe_id', groupeId).eq('user_id', u.id));
 }
 
-/** Mes potes (membres de mes groupes, sans moi), avec leur profil et leur liste. */
+/** Mes potes (membres de mes groupes et amis, sans moi), avec leur profil et leur liste. */
 export async function mesPotes() {
   const u = await utilisateur();
   if (!u) return [];
@@ -182,7 +183,7 @@ export async function mesPotes() {
   ]);
   // Les listes viennent de la base : on écarte les éléments mal formés
   const listeDe = new Map(listes.map((l) => [l.user_id, Array.isArray(l.items) ? l.items.filter(maListe.itemValide) : []]));
-  // RLS ne renvoie que les profils des membres de mes groupes : ce sont mes potes
+  // RLS ne renvoie que les profils des membres de mes groupes et de mes amis : ce sont mes potes
   return profils.map((p) => ({ ...p, items: listeDe.get(p.id) || [] }));
 }
 
@@ -191,6 +192,27 @@ export async function potesQuiSuivent(type, id) {
   if (!(await utilisateur())) return [];
   return (await mesPotes()).filter((p) => p.items.some((i) => i.type === type && Number(i.id) === Number(id)));
 }
+
+// ---------- Amis (supabase/amis.sql), indépendants des groupes ----------
+// Tout passe par des fonctions de la base : on ne peut ni s'accepter soi-même, ni voir
+// le profil ou la liste de quelqu'un avant qu'il ait accepté.
+const rpc = async (nom, args) => verifier(await supabase().rpc(nom, args));
+
+/** Mes amis et mes demandes : [{ id, pseudo, avatar, statut: 'ami' | 'recue' | 'envoyee', depuis }] */
+export async function mesAmis() {
+  if (!(await utilisateur())) return [];
+  return rpc('mes_amis');
+}
+
+/** Ajoute par pseudo ou code ami. Renvoie 'envoyee', 'acceptee', 'deja_demande' ou 'deja_amis'. */
+export const demanderAmi = (pseudoOuCode) => rpc('demander_ami', { pseudo_ou_code: pseudoOuCode });
+/** Ajoute un membre d'un de mes groupes (bouton dans Potes). */
+export const demanderAmiMembre = (id) => rpc('demander_ami_membre', { autre: id });
+export const accepterAmi = (id) => rpc('accepter_ami', { autre: id });
+export const refuserAmi = (id) => rpc('refuser_ami', { autre: id });
+/** Supprime un ami, ou annule une demande envoyée. */
+export const supprimerAmi = (id) => rpc('supprimer_ami', { autre: id });
+export const nouveauCodeAmi = () => rpc('nouveau_code_ami');
 
 // ---------- Recommandations ----------
 export async function recommandationsRecues() {

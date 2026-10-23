@@ -212,6 +212,21 @@
 .potes { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
 .pote { display: inline-flex; align-items: center; gap: 6px; padding: 4px 10px 4px 4px; border-radius: 999px; background: var(--surface); font-size: 0.85rem; font-weight: 600; }
 .pote i { font-style: normal; width: 24px; height: 24px; border-radius: 50%; display: grid; place-items: center; background: var(--surface-forte); }
+/* Membre d'un groupe + bouton « + Ami » */
+.pote-ligne { display: inline-flex; align-items: center; gap: 4px; padding-right: 4px; border-radius: 999px; background: var(--surface); }
+.pote-ligne .pote { background: none; }
+.pote-action { padding: 4px 10px; border-radius: 999px; background: var(--surface-forte); color: var(--texte); font-size: 0.78rem; font-weight: 600; transition: background var(--transition); }
+.pote-action:hover { background: var(--accent); color: #0a0a0f; }
+.pote-action:disabled { opacity: 0.5; }
+.pote-statut { padding: 0 8px; font-size: 0.75rem; color: var(--texte-2); }
+/* Amis */
+#pseudo-ami { font-family: inherit; }
+.code-ami { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 10px; }
+.code-ami code { padding: 2px 8px; border-radius: 6px; background: var(--fond-2); font-size: 0.95rem; letter-spacing: 0.08em; color: var(--texte); }
+.liste-amis { list-style: none; display: flex; flex-direction: column; gap: 8px; margin-top: 10px; }
+.liste-amis li { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; }
+.liste-amis small { color: var(--texte-3); font-size: 0.8rem; }
+.liste-amis .actions { display: flex; gap: 8px; margin-left: auto; }
 .potes-suivent { display: inline-flex; align-items: center; gap: 6px; margin-top: 14px; font-size: 0.85rem; color: var(--texte-2); }
 .potes-suivent i { font-style: normal; margin-right: -4px; }
 .recos { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 340px), 1fr)); gap: 12px; }

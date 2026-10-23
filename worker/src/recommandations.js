@@ -1,5 +1,5 @@
 // =========================================================
-// "Recommander à un pote" : enregistrement dans Supabase + notification immédiate.
+// "Recommander à un pote" (membre d'un de mes groupes, ou ami) : enregistrement dans Supabase + notification immédiate.
 //
 // Passe par le relais (et pas directement du site vers Supabase) car il faut
 // le code perso du destinataire pour lui envoyer la notification, et ce code
@@ -46,13 +46,16 @@ export async function recommander(env, requete, corps) {
   const { a, item, message } = corps || {};
   if (!UUID.test(a || '') || !TYPES.includes(item?.type) || !idValide(item.id) || !item.titre) throw new Erreur400('Recommandation invalide');
 
-  // Le destinataire doit être dans un de mes groupes
-  const [mesGroupes, sesGroupes] = await Promise.all([
+  // Le destinataire doit être dans un de mes groupes, ou mon ami (demande acceptée, supabase/amis.sql)
+  if (!UUID.test(moi.id || '')) throw new Erreur400('Session invalide');
+  const [mesGroupes, sesGroupes, amitie] = await Promise.all([
     supabase(env, `membres?user_id=eq.${moi.id}&select=groupe_id`),
     supabase(env, `membres?user_id=eq.${a}&select=groupe_id`),
+    supabase(env, `amities?acceptee=is.true&or=(and(de.eq.${moi.id},a.eq.${a}),and(de.eq.${a},a.eq.${moi.id}))&select=de`)
+      .catch(() => []), // amis.sql pas encore exécuté : seulement les groupes
   ]);
   const communs = new Set(mesGroupes.map((m) => m.groupe_id));
-  if (!sesGroupes.some((m) => communs.has(m.groupe_id))) throw new Erreur400("Cette personne n'est pas dans tes groupes");
+  if (!amitie.length && !sesGroupes.some((m) => communs.has(m.groupe_id))) throw new Erreur400("Cette personne n'est ni dans tes groupes ni dans tes amis");
 
   const element = {
     type: item.type,

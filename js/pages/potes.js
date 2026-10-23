@@ -1,5 +1,5 @@
 // =========================================================
-// Page Potes : compte (email + mot de passe), groupes, recommandations, activité.
+// Page Potes : compte (email + mot de passe), groupes, amis, recommandations, activité.
 //
 // Sécurité : tout ce qui vient de la base (pseudos, noms de groupe, listes des potes,
 // recommandations…) est affiché avec el() (nœuds texte + setAttribute), jamais
@@ -68,7 +68,7 @@ async function afficherCompte(texte = '') {
     await compte.deconnexion();
     location.reload();
   });
-  await afficherReste();
+  await afficherReste(profil);
 }
 
 function afficherConnexion(texte = '', email = '') {
@@ -178,11 +178,37 @@ function afficherFormulaireProfil(texte, profil, premiereFois) {
 }
 
 // =========================================================
-// 2. Groupes, recommandations, populaire, activité (une fois connecté avec un profil)
+// 2. Groupes, amis, recommandations, populaire, activité (une fois connecté avec un profil)
 // =========================================================
-async function afficherReste() {
+let monProfilCourant = null;
+let portee = 'groupe'; // Populaire et activité : 'groupe' (le groupe actif) ou 'amis'
+let derniersPotes = null; // pour réafficher Populaire/Activité quand on change de portée
+
+async function afficherReste(profil) {
+  monProfilCourant = profil;
   $('groupe').hidden = false;
-  await afficherGroupe();
+  $('amis').hidden = false;
+  await afficherSocial();
+}
+
+// Recharge groupes, potes et amis, puis réaffiche tout ce qui en dépend.
+// `messages` : texte à afficher en haut de la carte Groupes et/ou Amis.
+async function afficherSocial(messages = {}) {
+  const [groupes, potes, amis] = await Promise.all([
+    compte.mesGroupes().then((gs) => gs.filter((g) => uuidValide(g.id))),
+    compte.mesPotes(),
+    // amis.sql pas encore exécuté : les groupes marchent quand même
+    compte.mesAmis().then((a) => a.filter((x) => uuidValide(x.id))).catch((erreur) => ({ erreur })),
+  ]);
+  const parId = new Map(potes.map((p) => [p.id, p]));
+  const listeAmis = Array.isArray(amis) ? amis : null;
+  const groupe = compte.trouverGroupeActif(groupes);
+  const amisAcceptes = (listeAmis || []).filter((a) => a.statut === 'ami').map((a) => parId.get(a.id)).filter(Boolean);
+
+  afficherGroupe(groupes, groupe, parId, listeAmis, messages.groupe);
+  afficherAmis(amis, parId, messages.amis);
+  derniersPotes = { groupe, parId, amisAcceptes };
+  await Promise.all([afficherRecommandations(parId), afficherPotes()]);
 }
 
 // Formulaires « Rejoindre » et « Créer » (textes écrits en dur)
@@ -205,42 +231,49 @@ function brancherFormulairesGroupe() {
     try {
       await compte.rejoindreGroupe($('invitation').value);
       history.replaceState(null, '', location.pathname);
-      afficherGroupe('Bienvenue dans le groupe 🎉');
+      afficherSocial({ groupe: 'Bienvenue dans le groupe 🎉' });
     } catch (erreur) {
-      afficherGroupe(`⚠️ ${erreur.message}`);
+      afficherSocial({ groupe: `⚠️ ${erreur.message}` });
     }
   });
   $('form-creer').addEventListener('submit', async (e) => {
     e.preventDefault();
     try {
       await compte.creerGroupe($('nom-groupe').value);
-      afficherGroupe('Groupe créé ✅ Partage le lien d\'invitation à tes potes.');
+      afficherSocial({ groupe: 'Groupe créé ✅ Partage le lien d\'invitation à tes potes.' });
     } catch (erreur) {
-      afficherGroupe(`⚠️ ${erreur.message}`);
+      afficherSocial({ groupe: `⚠️ ${erreur.message}` });
     }
   });
 }
 
-async function afficherGroupe(texte = '') {
-  const carte = $('carte-groupe');
-  const groupes = (await compte.mesGroupes()).filter((g) => uuidValide(g.id));
-  const potes = await compte.mesPotes();
-  const parId = new Map(potes.map((p) => [p.id, p]));
+// Un membre du groupe, avec « + Ami » en un clic (ou où on en est avec lui)
+function pastilleMembre(p, statutAmi, amisActifs) {
+  if (!amisActifs) return pastillePote(p);
+  const action = {
+    ami: () => el('span', { class: 'pote-statut' }, '✓ Ami'),
+    envoyee: () => el('span', { class: 'pote-statut' }, 'Demande envoyée'),
+    recue: () => el('button', { type: 'button', class: 'pote-action', 'data-accepter-ami': p.id }, 'Accepter'),
+  }[statutAmi]?.() ?? el('button', { type: 'button', class: 'pote-action', 'data-ajouter-ami': p.id, title: `Ajouter ${p.pseudo} en ami` }, '+ Ami');
+  return el('span', { class: 'pote-ligne' }, pastillePote(p), action);
+}
 
-  if (!groupes.length) {
+function afficherGroupe(groupes, g, parId, amis, texte = '') {
+  const carte = $('carte-groupe');
+
+  if (!g) {
     remplir(carte,
       message(texte),
       gabarit(`<p>Tu n'es dans aucun groupe. Rejoins celui de tes potes avec leur code d'invitation, ou crée le tien.</p>${FORMULAIRES_GROUPE}`));
     brancherFormulairesGroupe();
-    await Promise.all([afficherRecommandations(parId), afficherPotes(null, [])]);
     return;
   }
 
-  const g = compte.trouverGroupeActif(groupes);
   const invitationDansLien = new URLSearchParams(location.search).has('invitation');
   const lienInvitation = new URL('potes.html', location.href);
   lienInvitation.searchParams.set('invitation', g.invitation);
   const membres = g.membres.map((m) => parId.get(m.user_id)).filter(Boolean);
+  const statuts = new Map((amis || []).map((a) => [a.id, a.statut]));
   const nb = g.membres.length;
 
   remplir(carte,
@@ -253,7 +286,7 @@ async function afficherGroupe(texte = '') {
     el('div', { class: 'groupe' },
       el('h3', {}, g.nom, ' ', el('small', {}, `${nb} membre${nb > 1 ? 's' : ''}`)),
       el('div', { class: 'potes' }, membres.length
-        ? membres.map(pastillePote)
+        ? membres.map((p) => pastilleMembre(p, statuts.get(p.id), Boolean(amis)))
         : el('span', { class: 'mention', style: { margin: '0' } }, 'Pour l\'instant, il n\'y a que toi : invite tes potes !')),
       el('p', { class: 'mention' }, 'Code d\'invitation : ', el('code', {}, g.invitation)),
       el('div', { class: 'actions', style: { 'margin-top': '10px' } },
@@ -268,12 +301,13 @@ async function afficherGroupe(texte = '') {
 
   // onclick (et pas addEventListener) : un seul gestionnaire, même après un réaffichage
   carte.onclick = async (e) => {
+    if (await actionAmi(e, 'groupe')) return;
     const choix = e.target.closest('[data-groupe]');
     const partager = e.target.closest('[data-partager]');
     const quitter = e.target.closest('[data-quitter]');
     if (choix) {
       compte.choisirGroupe(choix.dataset.groupe);
-      afficherGroupe();
+      afficherSocial();
     }
     if (partager) {
       const lienPartage = partager.dataset.partager;
@@ -287,11 +321,116 @@ async function afficherGroupe(texte = '') {
     }
     if (quitter && confirm(`Quitter le groupe « ${g.nom} » ?`)) {
       await compte.quitterGroupe(quitter.dataset.quitter);
-      afficherGroupe('Tu as quitté le groupe.');
+      afficherSocial({ groupe: 'Tu as quitté le groupe.' });
     }
   };
+}
 
-  await Promise.all([afficherRecommandations(parId), afficherPotes(g, membres)]);
+// =========================================================
+// 3. Amis (supabase/amis.sql) : indépendants des groupes
+// =========================================================
+const REPONSES_DEMANDE = {
+  envoyee: 'Demande envoyée ✅ Vous serez amis dès qu\'elle sera acceptée.',
+  acceptee: 'Vous êtes maintenant amis 🎉 (cette personne t\'avait déjà fait une demande).',
+  deja_demande: 'Demande déjà envoyée : en attente de réponse.',
+  deja_amis: 'Vous êtes déjà amis.',
+};
+
+// Boutons des cartes Groupes et Amis. Renvoie true si le clic concernait les amis.
+async function actionAmi(e, carte) {
+  const b = e.target.closest('[data-ajouter-ami], [data-accepter-ami], [data-refuser-ami], [data-retirer-ami], [data-annuler-ami]');
+  if (!b) return false;
+  const { ajouterAmi, accepterAmi, refuserAmi, retirerAmi, annulerAmi } = b.dataset;
+  const pseudo = derniersPotes?.parId.get(retirerAmi)?.pseudo || 'cette personne';
+  if (retirerAmi && !confirm(`Retirer ${pseudo} de tes amis ? Vous ne verrez plus vos listes respectives (sauf si vous êtes dans un même groupe).`)) return true;
+  b.disabled = true;
+  let texte;
+  try {
+    if (ajouterAmi) texte = REPONSES_DEMANDE[await compte.demanderAmiMembre(ajouterAmi)];
+    if (accepterAmi) { await compte.accepterAmi(accepterAmi); texte = 'Demande acceptée 🎉'; }
+    if (refuserAmi) { await compte.refuserAmi(refuserAmi); texte = 'Demande refusée.'; }
+    if (retirerAmi) { await compte.supprimerAmi(retirerAmi); texte = 'Ami retiré.'; }
+    if (annulerAmi) { await compte.supprimerAmi(annulerAmi); texte = 'Demande annulée.'; }
+  } catch (erreur) {
+    texte = `⚠️ ${erreur.message}`;
+  }
+  await afficherSocial({ [carte]: texte });
+  return true;
+}
+
+const ligneAmi = (a, parId, ...boutons) => el('li', {},
+  // Avant acceptation, la base ne renvoie que le pseudo (et l'avatar si c'est une demande reçue)
+  pastillePote(parId.get(a.id) || { pseudo: a.pseudo, avatar: a.avatar || '👤' }),
+  el('small', {}, ilYa(a.depuis)),
+  el('span', { class: 'actions' }, ...boutons));
+const boutonAmi = (texte, attribut, id, plein = false) => el('button',
+  { type: 'button', class: `bouton ${plein ? 'bouton-plein' : 'bouton-verre'} bouton-petit`, [attribut]: id }, texte);
+
+function afficherAmis(amis, parId, texte = '') {
+  const carte = $('carte-amis');
+  if (amis.erreur) {
+    remplir(carte, el('p', { class: 'mention', style: { margin: '0' } }, amis.erreur.message));
+    return;
+  }
+  const recues = amis.filter((a) => a.statut === 'recue');
+  const envoyees = amis.filter((a) => a.statut === 'envoyee');
+  const acceptes = amis.filter((a) => a.statut === 'ami');
+  const code = monProfilCourant?.code_ami;
+  $('resume-amis').textContent = recues.length ? `${recues.length} demande${recues.length > 1 ? 's' : ''} en attente` : '';
+
+  remplir(carte,
+    message(texte),
+    gabarit(`
+      <p>Tes amis voient ta liste et peuvent te recommander des titres, même sans groupe en commun. Rien n'est partagé tant qu'une demande n'a pas été acceptée.</p>
+      <form class="ligne-code" id="form-ami">
+        <input class="champ" id="pseudo-ami" placeholder="Pseudo ou code ami" minlength="2" maxlength="24" required autocomplete="off" aria-label="Pseudo ou code ami">
+        <button class="bouton bouton-plein bouton-petit">Ajouter</button>
+      </form>`),
+    code ? el('p', { class: 'mention code-ami' }, 'Ton code ami : ', el('code', {}, code),
+      el('button', { type: 'button', class: 'lien-discret', 'data-copier-code': code }, 'Copier'),
+      el('button', { type: 'button', class: 'lien-discret', 'data-nouveau-code': '' }, 'Changer de code')) : null,
+    recues.length ? [
+      el('h3', { style: { 'margin-top': '22px' } }, 'Demandes reçues'),
+      el('ul', { class: 'liste-amis' }, recues.map((a) => ligneAmi(a, parId,
+        boutonAmi('Accepter', 'data-accepter-ami', a.id, true), boutonAmi('Refuser', 'data-refuser-ami', a.id)))),
+    ] : null,
+    el('h3', { style: { 'margin-top': '22px' } }, `Mes amis${acceptes.length ? ` (${acceptes.length})` : ''}`),
+    acceptes.length
+      ? el('ul', { class: 'liste-amis' }, acceptes.map((a) => ligneAmi(a, parId, boutonAmi('Retirer', 'data-retirer-ami', a.id))))
+      : el('p', { class: 'mention', style: { margin: '6px 0 0' } }, 'Pas encore d\'amis. Ajoute quelqu\'un avec son pseudo ou son code ami, ou depuis un de tes groupes (« + Ami »).'),
+    envoyees.length ? [
+      el('h3', { style: { 'margin-top': '22px' } }, 'Demandes envoyées'),
+      el('ul', { class: 'liste-amis' }, envoyees.map((a) => ligneAmi(a, parId, boutonAmi('Annuler', 'data-annuler-ami', a.id)))),
+    ] : null);
+
+  $('form-ami').addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const saisie = $('pseudo-ami').value.trim();
+    let reponse;
+    try {
+      reponse = REPONSES_DEMANDE[await compte.demanderAmi(saisie)];
+    } catch (erreur) {
+      reponse = `⚠️ ${erreur.message}`;
+    }
+    afficherSocial({ amis: reponse });
+  });
+
+  carte.onclick = async (e) => {
+    if (await actionAmi(e, 'amis')) return;
+    const copier = e.target.closest('[data-copier-code]');
+    if (copier) {
+      await navigator.clipboard.writeText(copier.dataset.copierCode).catch(() => {});
+      copier.textContent = 'Copié ✓';
+    }
+    if (e.target.closest('[data-nouveau-code]') && confirm('Changer de code ami ? L\'ancien ne marchera plus (tes amis actuels restent tes amis).')) {
+      try {
+        monProfilCourant = { ...monProfilCourant, code_ami: await compte.nouveauCodeAmi() };
+        afficherSocial({ amis: 'Nouveau code ami ✅' });
+      } catch (erreur) {
+        afficherSocial({ amis: `⚠️ ${erreur.message}` });
+      }
+    }
+  };
 }
 
 // Vignette d'un élément (animé, jeu, film…) d'une liste de pote ou d'une recommandation
@@ -319,10 +458,24 @@ async function afficherRecommandations(parId) {
   compte.marquerVues(recos.filter((r) => !r.vue).map((r) => r.id)).catch(() => {});
 }
 
-// Populaire et activité : ce que suivent les membres du groupe actif
-function afficherPotes(groupe, potes) {
-  $('titre-populaire').textContent = groupe ? `Populaire dans « ${groupe.nom} »` : 'Populaire chez tes potes';
-  $('titre-activite').textContent = groupe ? `Activité dans « ${groupe.nom} »` : 'Activité récente';
+// Populaire et activité : ce que suivent les membres du groupe actif, ou mes amis
+function afficherPotes() {
+  const { groupe, parId, amisAcceptes } = derniersPotes;
+  const membres = groupe ? groupe.membres.map((m) => parId.get(m.user_id)).filter(Boolean) : [];
+  const surAmis = !groupe || (portee === 'amis' && amisAcceptes.length > 0);
+  const potes = surAmis ? amisAcceptes : membres;
+  const ou = surAmis ? 'chez tes amis' : `dans « ${groupe.nom} »`;
+  $('titre-populaire').textContent = `Populaire ${ou}`;
+  $('titre-activite').textContent = `Activité ${ou}`;
+
+  // Groupe actif ET amis : on choisit lesquels regarder
+  const choix = Boolean(groupe && amisAcceptes.length);
+  $('portee-potes').hidden = !choix;
+  if (choix) {
+    $('portee-potes').replaceChildren(
+      el('button', { type: 'button', 'data-portee': 'groupe', class: surAmis ? null : 'actif' }, groupe.nom),
+      el('button', { type: 'button', 'data-portee': 'amis', class: surAmis ? 'actif' : null }, 'Mes amis'));
+  }
 
   // Populaire : ce que suivent le plus de potes (les listes sont déjà filtrées par compte.mesPotes)
   const compteur = new Map();
@@ -334,14 +487,16 @@ function afficherPotes(groupe, potes) {
     }
   }
   const populaires = [...compteur.values()].sort((a, b) => b.potes.length - a.potes.length).slice(0, 15);
-  $('populaire').hidden = !populaires.length;
-  remplir($('liste-populaire'), populaires.map(({ item, potes: qui }) => el('a',
+  // La section reste visible s'il y a un choix à faire (sinon on ne pourrait plus changer)
+  $('populaire').hidden = !populaires.length && !choix;
+  remplir($('liste-populaire'), populaires.length ? populaires.map(({ item, potes: qui }) => el('a',
     { class: 'affiche', href: lienElement(item), style: { '--couleur': couleurValide(item.couleur) || '#1a1a24' } },
     el('div', { class: `affiche-image ${item.type === 'jeu' ? 'paysage' : ''}` },
       image(item),
       el('span', { class: 'affiche-etiquette' }, `${qui.map((p) => p.avatar).join('')} ${qui.length}`)),
     el('div', { class: 'affiche-titre' }, String(item.titre ?? '')),
-    el('div', { class: 'affiche-sous' }, TYPES[item.type].un))));
+    el('div', { class: 'affiche-sous' }, TYPES[item.type].un)))
+    : gabarit('<div class="vide"><strong>Rien pour l\'instant</strong>Leurs ajouts à Ma liste apparaîtront ici.</div>'));
 
   // Activité : les derniers ajouts de chacun
   const activite = potes
@@ -354,5 +509,12 @@ function afficherPotes(groupe, potes) {
       pastillePote(p), ' ', el('span', {}, 'a ajouté'), ' ', el('b', {}, String(item.titre ?? '')), ' ',
       el('small', {}, `${TYPES[item.type].un} · ${ilYa(item.ajouteLe)}`)))));
 }
+
+$('portee-potes').addEventListener('click', (e) => {
+  const b = e.target.closest('[data-portee]');
+  if (!b) return;
+  portee = b.dataset.portee;
+  afficherPotes();
+});
 
 afficherCompte().catch((erreur) => afficherErreur($('carte-compte'), erreur));
