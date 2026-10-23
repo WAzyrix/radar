@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-23T13:48:15+00:00",
+ "maj": "2026-10-23T13:58:46+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,65 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "4e2c0809e8c3",
+   "titre": "Torturer ChatGPT, quelle drôle d’idée !",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/tech-24/20261023-torturer-chatgpt-quelle-dr%C3%B4le-d-id%C3%A9e",
+   "source": "France 24",
+   "date": "2026-10-23T13:51:47+00:00",
+   "extrait": "Torturer une intelligence artificielle ? Elon Musk estime que c'est une très mauvaise idée. Non seulement parce qu'elle pourrait souffrir, mais parce qu'un jour, elle pourrait vouloir se venger. Et…",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "3ec6c85ce7a3",
+   "titre": "États-Unis : New York interdit les calèches touristiques à Central Park",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261023-%C3%A9tats-unis-new-york-interdit-les-cal%C3%A8ches-touristiques-%C3%A0-central-park",
+   "source": "France 24",
+   "date": "2026-10-23T13:49:51+00:00",
+   "extrait": "Le conseil municipal de New York a voté, jeudi 22 octobre, en faveur de l'interdiction des calèches qui promènent les touristes dans Central Park à partir du 1er juin 2028. Cette mesure entrera en…",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "80861f839e06",
+   "titre": "Trump defends Ramaswamy ad despite bipartisan backlash",
+   "lien": "https://www.cbsnews.com/video/trump-defends-ramaswamy-ad-despite-bipartisan-backlash/",
+   "source": "CBS News",
+   "date": "2026-10-23T13:49:26+00:00",
+   "extrait": "President Trump defended a controversial campaign ad from Ohio gubernatorial candidate Vivek Ramaswamy that features the estranged mother of his opponent, Amy Acton.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "c22386252119",
+   "titre": "Kenya : un immeuble en construction d’au moins dix étages s’effondre à Nairobi, des opérations de sauvetage en cours",
+   "lien": "https://www.lemonde.fr/afrique/article/2026/10/23/kenya-un-immeuble-en-construction-d-au-moins-dix-etages-s-effondre-a-nairobi-des-operations-de-sauvetage-en-cours_6799084_3212.html",
+   "source": "Le Monde",
+   "date": "2026-10-23T13:48:50+00:00",
+   "extrait": "La Croix-Rouge craint que des personnes ne soient piégées dans les décombres. Le chef de la police de Nairobi, Issa Mohamud, a déclaré que le bâtiment, qui s’est effondré en début d’après-midi dans…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "45f40d7f67a1",
+   "titre": "Deadly shooting in Paris suburb may be terrorist act, officials say",
+   "lien": "https://www.cbsnews.com/news/gunman-terrorist-attack-paris-suburb/",
+   "source": "CBS News",
+   "date": "2026-10-23T13:48:00+00:00",
+   "extrait": "Officials said they are investigating the shooting in Trappes, outside Paris, as a potential terrorist act and called it a \"miracle\" that there weren't more casualties.",
+   "tags": [],
+   "zone": "usa"
+  },
   {
    "id": "683cc2be469a",
    "titre": "Élections en Israël : \"J’ai tué beaucoup de terroristes, mais ça ne m’a pas fait me sentir mieux\"",
@@ -48,6 +107,18 @@
    "zone": "monde"
   },
   {
+   "id": "b29e0c6042d9",
+   "titre": "Netanyahu announces Israel will lock down part of West Bank after shooting",
+   "lien": "https://www.cbsnews.com/video/netanyahu-announces-israel-will-lock-down-part-of-west-bank-after-shooting/",
+   "source": "CBS News",
+   "date": "2026-10-23T13:43:05+00:00",
+   "extrait": "Israeli Prime Minister Benjamin Netanyahu announced the closure of part of the occupied West Bank after the military said it killed two alleged Palestinian gunmen.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "158f22d49ac3",
    "titre": "Tirs mortels à Trappes : \"C'est clairement un crime terroriste\", affirme le ministre de l'Intérieur",
    "lien": "https://www.franceinfo.fr/faits-divers/direct-coups-de-feu-dans-les-yvelines-le-parquet-national-antiterroriste-se-place-en-observation-annonce-sebastien-lecornu_8250646.html#xtor=RSS-3-[lestitres]",
@@ -68,6 +139,28 @@
    "extrait": "Authorities in Jordan say gunmen opened fire inside a church in Jordan.",
    "tags": [
     "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "2b6ad2d7ddb2",
+   "titre": "Eye Opener: \"Top Gun\" actor Tom Skerritt dies",
+   "lien": "https://www.cbsnews.com/video/eye-opener-top-gun-actor-tom-skerritt-dies/",
+   "source": "CBS News",
+   "date": "2026-10-23T13:38:57+00:00",
+   "extrait": "Social media influencer Clavicular pleads not guilty to a rape charge in Massachusetts, plus actor Tom Skerritt dies at 93. All that and all that matters in today's Eye Opener.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "1375a232961b",
+   "titre": "Vivek Ramaswamy campaign explains reason for Amy Acton ad as Trump defends its use",
+   "lien": "https://www.cbsnews.com/video/vivek-ramaswamy-campaign-explains-reason-for-amy-acton-ad-as-trump-defends-its-use/",
+   "source": "CBS News",
+   "date": "2026-10-23T13:38:50+00:00",
+   "extrait": "An ad targeting Amy Acton in the Ohio gubernatorial race against Vivek Ramaswamy continues to stir controversy across the U.S. CBS News' Weijia Jiang reports.",
+   "tags": [
+    "Politique"
    ],
    "zone": "usa"
   },
@@ -97,7 +190,7 @@
    "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-manifestations-du-24-octobre-emmanuel-macron-preside-un-conseil-de-defense-a-9-heures-avant-de-recevoir-les-lyceens-dans-l-apres-midi_8250124.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-10-23T13:34:43+00:00",
-   "extrait": "Le président de la République a voulu les recevoir pour \"écouter leurs revendications et inquiétudes\", a déclaré la présidence.",
+   "extrait": "Le président de la République a voulu les recevoir pour \"écouter leurs revendications et inquiétudes\", avait expliqué jeudi la présidence.",
    "tags": [
     "Politique"
    ],
@@ -114,6 +207,16 @@
     "Politique"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "a4b1674fab96",
+   "titre": "Le badminton tricolore brille aux Internationaux de France et nourrit de grandes ambitions",
+   "lien": "https://www.lemonde.fr/sport/article/2026/10/23/le-badminton-tricolore-brille-aux-internationaux-de-france-et-nourrit-de-grandes-ambitions_6799080_3242.html",
+   "source": "Le Monde",
+   "date": "2026-10-23T13:30:02+00:00",
+   "extrait": "Grâce aux succès de ses têtes d’affiche, la discipline n’a jamais été aussi performante et porteuse qu’en ce moment. La fédération espère accompagner cette croissance en augmentant ses capacités…",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "a7e2b90e445d",
@@ -189,7 +292,7 @@
   },
   {
    "id": "b95c3d2a7850",
-   "titre": "Un immeuble en construction de plusieurs étages s'effondre à Nairobi au Kenya",
+   "titre": "Un immeuble en construction de 18 étages s'effondre à Nairobi, au Kenya",
    "lien": "https://www.franceinfo.fr/monde/afrique/kenya/un-immeuble-en-construction-de-plusieurs-etages-s-effondre-a-nairobi-au-kenya_8250838.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-10-23T13:14:07+00:00",
@@ -498,7 +601,7 @@
    "titre": "Meghan \"deeply distressed\" as dad faces child abuse material probe",
    "lien": "https://www.cbsnews.com/news/thomas-markle-father-duchess-meghan-child-sexual-abuse-material/",
    "source": "CBS News",
-   "date": "2026-10-23T11:55:48+00:00",
+   "date": "2026-10-23T11:55:00+00:00",
    "extrait": "Thomas Markle, the estranged father of Meghan, Duchess of Sussex, is facing a probe in the Philippines over alleged possession of child sexual abuse materials.",
    "tags": [],
    "zone": "usa"
@@ -692,11 +795,11 @@
   },
   {
    "id": "8299d22c6a67",
-   "titre": "Un homme tire dans la rue dans les Yvelines, le parquet antiterroriste se saisit de l'enquête",
+   "titre": "Fusillade dans les Yvelines : \"C'est clairement un crime terroriste\", affirme Nuñez",
    "lien": "https://www.france24.com/fr/france/20261023-homme-tire-rue-yvelines-un-mort-plusieurs-bless%C3%A9s-pnat",
    "source": "France 24",
    "date": "2026-10-23T10:41:27+00:00",
-   "extrait": "Une personne ​a ouvert le feu ​sur la voie publique vendredi à Trappes et ​à La ‌Verrière, dans les ⁠Yvelines, faisant un mort ‌et au moins quatre blessés, dont une enfant de 12 ans. Le suspect a…",
+   "extrait": "Une personne ​a ouvert le feu ​sur la voie publique vendredi à Trappes et ​à La ‌Verrière, dans les ⁠Yvelines, faisant un mort ‌et au moins quatre blessés, dont une enfant de 12 ans. Le suspect…",
    "tags": [
     "Politique",
     "Justice"
