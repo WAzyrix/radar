@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-23T13:17:32+00:00",
+ "maj": "2026-10-23T13:33:05+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,63 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "45f546718dbb",
+   "titre": "Seven shot dead by gunmen at church funeral in Jordan, state media say",
+   "lien": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-23T13:30:15+00:00",
+   "extrait": "Another 10 people are injured in the southern Karak governorate, and a manhunt is now under way.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "a7e2b90e445d",
+   "titre": "Israel vows major West Bank operation after attack kills 2 troops",
+   "lien": "https://www.cbsnews.com/news/israel-west-bank-netanyahu-palestinians-military-operation-hebron/",
+   "source": "CBS News",
+   "date": "2026-10-23T13:29:51+00:00",
+   "extrait": "Israel's Netanyahu says he ordered the military to cordon off a major city in the occupied West Bank after an attack by Palestinian gunmen that killed two Israeli soldiers.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "d7c780964626",
+   "titre": "Anti-terror police investigate as one person killed in shooting near Paris",
+   "lien": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-23T13:26:48+00:00",
+   "extrait": "French Prime Minister Sébastien Lecornu says the suspected gunman has been apprehended.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "5cb995d3e902",
+   "titre": "Questions linger about Ukraine's access to Elon Musk's Starlink and Starshield",
+   "lien": "https://www.cbsnews.com/video/questions-linger-about-ukraines-access-to-elon-musks-starlink-and-starshield/",
+   "source": "CBS News",
+   "date": "2026-10-23T13:21:03+00:00",
+   "extrait": "It's not yet clear whether Ukrainian forces have regained access to the Starlink and Starshield technologies used in the war against Russia. CBS News' Aidan Stretch reports.",
+   "tags": [
+    "Conflits",
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "e39b8239a65f",
+   "titre": "Se calfeutrer, cacher les stocks : à la veille de l'\"acte II\", les commerces parisiens se préparent",
+   "lien": "https://www.france24.com/fr/france/20261023-se-calfeutrer-cacher-stocks-veille-acte-ii-commerces-parisiens-se-pr%C3%A9parent-24-octobre",
+   "source": "France 24",
+   "date": "2026-10-23T13:17:44+00:00",
+   "extrait": "Une semaine après la manifestation du 17 octobre marquée par des actes de vandalisme et des pillages dans de nombreux commerces parisiens, les commerçants se préparent à l'\"acte II\" de samedi…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
    "id": "574852269ae4",
    "titre": "Trump's U.N. envoy says Iran war could drag on for another year",
    "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/",
@@ -35,14 +92,14 @@
    "zone": "usa"
   },
   {
-   "id": "45f546718dbb",
-   "titre": "Seven shot dead by gunmen at church funeral in Jordan, state media say",
-   "lien": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-23T13:12:15+00:00",
-   "extrait": "Another 10 people are injured in the southern Karak governorate, and a manhunt is now under way.",
+   "id": "b95c3d2a7850",
+   "titre": "Un immeuble en construction de plusieurs étages s'effondre à Nairobi au Kenya",
+   "lien": "https://www.franceinfo.fr/monde/afrique/kenya/un-immeuble-en-construction-de-plusieurs-etages-s-effondre-a-nairobi-au-kenya_8250838.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-23T13:14:07+00:00",
+   "extrait": "Des vidéos circulant en ligne montrent un effondrement spectaculaire, accompagné d'épais nuages de poussière, dans ce quartier populaire très fréquenté par la communauté somalienne.",
    "tags": [],
-   "zone": "monde"
+   "zone": "france"
   },
   {
    "id": "8a1e64345c4b",
@@ -55,6 +112,18 @@
     "Politique"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "338270c12b7e",
+   "titre": "Pourquoi le plateau de Millevaches est-il pointé du doigt comme un fief de l'ultragauche par certains politiques après l'incendie de la mairie de Limoges le 17 octobre ?",
+   "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/pourquoi-le-plateau-de-millevaches-est-il-pointe-du-doigt-comme-un-fief-de-l-ultragauche-par-certains-politiques-apres-l-incendie-de-la-mairie-de-limoges-le-17-octobre_8249275.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-23T13:07:58+00:00",
+   "extrait": "Le maire LR de Limoges Guillaume Guérin a émis l'hypothèse de l'implication dans l'incendie de \"zadistes\" de cette région rurale proche, où deux suspects ont été arrêtés depuis. Une terre…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
   },
   {
    "id": "0f81eed53c7b",
@@ -79,6 +148,18 @@
     "Politique"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "3236d22735f1",
+   "titre": "\"'20h30 le samedi\". La traque et le procès de Klaus Barbie, criminel nazi",
+   "lien": "https://www.franceinfo.fr/replay-magazine/france-2/20h30-le-samedi/20h30-le-samedi-avec-gilles-lellouche_8249599.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-23T12:51:22+00:00",
+   "extrait": "Le magazine \"20h30 le samedi\", présenté par Laurent Delahousse juste après le journal de 20 heures sur France 2, dévoile la petite histoire dans la grande, à feuilleter comme un album de famille.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
   },
   {
    "id": "1a7f59454e7d",
@@ -141,38 +222,13 @@
    "zone": "france"
   },
   {
-   "id": "d7c780964626",
-   "titre": "Anti-terror police investigate as one person killed in shooting near Paris",
-   "lien": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-23T12:47:01+00:00",
-   "extrait": "French Prime Minister Sébastien Lecornu describes the gun attack in Trappes as \"very serious\".",
-   "tags": [
-    "Conflits",
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
    "id": "274b664a49a6",
-   "titre": "Authorities investigating whether first Kenyan and Nigerian Ebola cases crossed paths",
+   "titre": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths",
    "lien": "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak",
    "source": "NPR",
    "date": "2026-10-23T12:41:39+00:00",
    "extrait": "Nigeria this week recorded its first case of Ebola in the current outbreak, which has spread from the epicenter in Congo to several other African countries.",
    "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "a7e2b90e445d",
-   "titre": "Israel vows major West Bank operation after attack kills 2 troops",
-   "lien": "https://www.cbsnews.com/news/israel-west-bank-netanyahu-palestinians-military-operation-hebron/",
-   "source": "CBS News",
-   "date": "2026-10-23T12:38:00+00:00",
-   "extrait": "Israel's Netanyahu says he ordered the military to cordon off a major city in the occupied West Bank after an attack by Palestinian gunmen that killed two Israeli soldiers.",
-   "tags": [
-    "Conflits"
-   ],
    "zone": "usa"
   },
   {
@@ -302,6 +358,29 @@
    "tags": [
     "Conflits",
     "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "2bd7fc9f4d83",
+   "titre": "A Vénissieux, le cri de détresse des professeurs et lycéens de la cité scolaire Sembat-Seguin : « J’ai l’impression de venir travailler dans une prison »",
+   "lien": "https://www.lemonde.fr/societe/article/2026/10/23/a-venissieux-le-cri-de-detresse-des-professeurs-et-lyceens-de-la-cite-scolaire-sembat-seguin-j-ai-l-impression-de-venir-travailler-dans-une-prison_6799071_3224.html",
+   "source": "Le Monde",
+   "date": "2026-10-23T12:00:10+00:00",
+   "extrait": "Locaux délabrés, manque d’effectifs, direction dépassée, sentiment d’exclusion, violences… Situé dans la banlieue lyonnaise, l’établissement de 947 élèves concentre tous les sujets à l’origine du…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "b38f3af21afd",
+   "titre": "L’agonie de la démocratie turque, victime de l’enfermement du régime",
+   "lien": "https://www.lemonde.fr/idees/article/2026/10/23/l-agonie-de-la-democratie-turque-victime-de-l-enfermement-du-regime_6799070_3232.html",
+   "source": "Le Monde",
+   "date": "2026-10-23T12:00:09+00:00",
+   "extrait": "Entre la prise de contrôle d’une télévision d’opposition par la police, les interpellations quotidiennes d’élus locaux et la fermeture de comptes sur les réseaux sociaux, le président Erdogan achève…",
+   "tags": [
+    "Politique",
+    "Justice"
    ],
    "zone": "france"
   },
@@ -724,7 +803,7 @@
    "lien": "https://www.cbsnews.com/video/why-thirsty-reality-tv-again-straight-up-kelly-vlad/",
    "source": "CBS News",
    "date": "2026-10-23T10:00:00+00:00",
-   "extrait": "Dancing With the Stars is breaking voting records even after 35 seasons, cringe Love Is Blind clips are breaking the internet, and Love Island is still breaking hearts week after week... It seems we…",
+   "extrait": "\"Dancing With the Stars\" is breaking voting records even after 35 seasons, cringe \"Love Is Blind\" clips are breaking the internet, and \"Love Island\" is still breaking hearts week after week. It…",
    "tags": [],
    "zone": "usa"
   },
@@ -1002,7 +1081,7 @@
   },
   {
    "id": "eb634b82dc1e",
-   "titre": "Netanyahu annonce une opération d'ampleur en Cisjordanie occupée après une attaque",
+   "titre": "Netanyahu annonce une opération d'ampleur en Cisjordanie occupée après une attaque meurtrière",
    "lien": "https://www.france24.com/fr/moyen-orient/20261023-netanyahu-ordonne-de-pr%C3%A9parer-le-bouclage-total-de-la-cisjordanie-occup%C3%A9e-apr%C3%A8s-une-attaque",
    "source": "France 24",
    "date": "2026-10-23T08:54:31+00:00",
@@ -1064,7 +1143,7 @@
    "lien": "https://www.lemonde.fr/international/article/2026/10/23/apres-une-attaque-en-cisjordanie-benyamin-netanyahou-annule-des-evenements-electoraux-du-likoud-avant-les-legislatives-en-israel_6799033_3210.html",
    "source": "Le Monde",
    "date": "2026-10-23T07:40:12+00:00",
-   "extrait": "Une attaque armée a tué deux soldats israéliens et blessés trois autres, vendredi près de Hébron. Le premier ministre israélien, Benyamin Nétanyahou, a annulé les événements électoraux du Likoud…",
+   "extrait": "Une attaque armée a entraîné la mort de deux soldats israéliens et a blessé trois personnes, vendredi près de Hébron. Le premier ministre israélien, Benyamin Nétanyahou, a annulé les événements…",
    "tags": [
     "Politique",
     "Conflits"
