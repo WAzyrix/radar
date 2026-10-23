@@ -12,6 +12,8 @@ ORIGINES = "https://wazyrix.github.io"
 SITE = "https://wazyrix.github.io/radar/"
 # Projet Supabase (comptes et potes) : adresse publique
 SUPABASE_URL = "https://ryinzwuccealzsyakjya.supabase.co"
+# Clé PUBLIQUE de Supabase (la même que dans js/config.js) : lecture quotidienne anti-pause (src/eveil.js)
+SUPABASE_CLE_PUBLIQUE = "sb_publishable_aqfdeizQQUf6zarzvUmqOQ_vrab9K4g"
 # Dépôt et workflow lancés par la tâche horaire (collecte des actus, src/github.js)
 GITHUB_DEPOT = "wazyrix/radar"
 GITHUB_WORKFLOW = "actus.yml"
@@ -34,6 +36,7 @@ tag = "v1"
 new_sqlite_classes = ["Limiteur"]
 
 # Toutes les heures (à la 5e minute) : vérification des nouveautés + lancement de la collecte des actus
+# (+ à 4 h 05 UTC : lecture Supabase anti-pause)
 [triggers]
 crons = ["5 * * * *"]
 

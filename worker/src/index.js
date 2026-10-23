@@ -22,6 +22,7 @@
 //   POST   /recommander                               recommander à un pote (compte Supabase)
 //   POST   /chat/notifier                             prévenir le groupe d'un nouveau message
 // Tâche planifiée (toutes les heures) : verification.js + lancement de la collecte des actus (github.js)
+//                 + une fois par jour, une lecture Supabase pour éviter la mise en pause (eveil.js)
 // =========================================================
 import { filtrer, listeJeux, ficheJeu, hasard, genres } from './jeux.js';
 import { rechercheTmdb, genresTmdb, decouvrir, hasardTmdb, sorties, enCeMoment, ficheTmdb, typeValide } from './tmdb.js';
@@ -33,6 +34,7 @@ import { recommander } from './recommandations.js';
 import { notifierChat } from './chat.js';
 import { cleIp } from './limiteur.js';
 import { lancerCollecte } from './github.js';
+import { eveilDuJour, reveillerSupabase } from './eveil.js';
 
 // Le Durable Object doit être exporté par le point d'entrée pour que Cloudflare le trouve
 export { Limiteur } from './limiteur.js';
@@ -81,6 +83,10 @@ export default {
     // La collecte d'abord : une seule requête, et elle ne doit pas attendre la vérification
     ctx.waitUntil(lancerCollecte(env).then((bilan) => console.log('Collecte des actus :', JSON.stringify(bilan))));
     ctx.waitUntil(verifier(env).then((bilan) => console.log('Vérification :', JSON.stringify(bilan))));
+    // Une fois par jour : une lecture Supabase, pour que le projet gratuit ne soit pas mis en pause
+    if (eveilDuJour(evenement.scheduledTime)) {
+      ctx.waitUntil(reveillerSupabase(env).then((bilan) => console.log('Supabase (anti-pause) :', JSON.stringify(bilan))));
+    }
   },
 };
 
