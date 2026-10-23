@@ -6,7 +6,7 @@ Mon site perso qui regroupe les actus qui m'intéressent, au même endroit, dans
 
 | Section | Ce qu'on y trouve | D'où viennent les données |
 |---|---|---|
-| **Animés** | Calendrier des épisodes, fiches complètes, rattrapage de mes suivis, exploration par genres + tirage au hasard | API GraphQL [AniList](https://anilist.co), appelée directement par le navigateur |
+| **Animés** | Calendrier des épisodes, fiches complètes (avec liens directs vers les épisodes sur Crunchyroll, ADN, Netflix…, saison par saison, et le prochain épisode à voir), rattrapage de mes suivis, exploration par genres + tirage au hasard | API GraphQL [AniList](https://anilist.co), appelée directement par le navigateur |
 | **Animés en France** | Heure de sortie VOSTFR/VF et langues disponibles saison par saison | API publique d'[ADN](https://animationdigitalnetwork.com) (collectée toutes les heures) |
 | **Jeux vidéo** | Sorties à venir / récentes, fiches (avis, config PC, comment y jouer, rétro/émulation), mes listes, explorer par genre, tirage au hasard | [RAWG](https://rawg.io) + Steam, via un relais Cloudflare Worker ([worker/](worker/README.md)) |
 | **Actu jeux** | Sorties, annonces, tests, consoles, scène jailbreak/homebrew | Flux RSS (jeuxvideo.com, Gamekult, IGN France, Gameblog, ActuGaming, PlayStation Blog, Nintendo Life, Gematsu, Wololo) |

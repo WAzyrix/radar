@@ -77,6 +77,18 @@ export async function ficheAnime(id) {
   return data.Media;
 }
 
+// ---------- Épisodes sur les plateformes officielles (fiche : « Regarder les épisodes ») ----------
+// Pour chaque saison : liens vers la série (externalLinks) et vers chaque épisode
+// (streamingEpisodes, surtout Crunchyroll). 50 saisons au plus par requête.
+export async function episodesStreaming(ids) {
+  const data = await anilist(`query($ids:[Int]){ Page(perPage:50){ media(id_in:$ids){
+    id format episodes status nextAiringEpisode{ episode airingAt }
+    externalLinks{ site url type language }
+    streamingEpisodes{ title url site }
+  } } }`, { ids: [...ids].sort((a, b) => a - b).slice(0, 50) }, { duree: 6 * HEURE });
+  return data.Page.media;
+}
+
 // ---------- Saisons d'une même série ----------
 
 // Formats considérés comme des "saisons" (les films, OVA et spéciaux vont dans "Autour de l'œuvre")

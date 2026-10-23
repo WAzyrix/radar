@@ -476,3 +476,25 @@ h3 .metacritic.en-ligne { margin-left: 6px; }
 footer.attribution { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; }
 .logo-tmdb { display: inline-flex; }
 .logo-tmdb img { height: 12px; width: auto; }
+
+/* ---------- Fiche animé : regarder les épisodes ---------- */
+.saison-streaming { padding: 14px 0; border-top: 1px solid var(--bordure); }
+.saison-streaming:first-of-type { border-top: 0; }
+.saison-streaming.courante { background: linear-gradient(90deg, color-mix(in oklab, var(--accent) 10%, transparent), transparent 70%); margin: 0 calc(-1 * clamp(18px, 3vw, 26px)); padding-left: clamp(18px, 3vw, 26px); padding-right: clamp(18px, 3vw, 26px); }
+.saison-streaming-tete { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px; }
+.saison-streaming-tete b { display: block; }
+.saison-streaming-tete small { color: var(--texte-2); font-size: 0.8rem; }
+.saison-streaming-action { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+.saison-streaming-action .bouton small { opacity: 0.65; font-weight: 500; margin-left: 2px; }
+.saison-streaming-action > small { color: var(--texte-2); font-size: 0.8rem; }
+.saison-streaming .pastille svg { width: 12px; height: 12px; }
+.pastille.hors-france { opacity: 0.6; }
+.episodes-liste { margin-top: 10px; }
+.episodes-liste summary { cursor: pointer; color: var(--texte-2); font-size: 0.85rem; font-weight: 600; }
+.episodes-liste summary:hover { color: var(--texte); }
+.episodes-liste ol { list-style: none; display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 4px 16px; margin-top: 10px; max-height: 360px; overflow-y: auto; }
+.episodes-liste a { display: flex; align-items: baseline; gap: 8px; padding: 6px 8px; border-radius: 10px; font-size: 0.85rem; color: var(--texte); }
+.episodes-liste a:hover { background: var(--surface); }
+.episodes-liste b { min-width: 1.8em; color: var(--texte-2); font-variant-numeric: tabular-nums; }
+.episodes-liste small { margin-left: auto; color: var(--texte-3); font-size: 0.72rem; }
+.episodes-liste li.vu a { opacity: 0.5; }

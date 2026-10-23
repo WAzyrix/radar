@@ -15,6 +15,7 @@ import { chargerAdn, trouverSerie, numeroSaison, prochaineSortie, derniereSortie
 import { brancherBoutonHasard } from '../ui/hasard.js';
 import { ICONES } from '../ui/icones.js';
 import { boutonRecommander, brancherRecommandation } from '../ui/recommander.js';
+import { monterEpisodes } from '../ui/episodes-streaming.js';
 
 afficherNavigation('animes');
 
@@ -164,6 +165,7 @@ function afficherFiche(m, adn) {
         <p class="mention"><a class="lien-discret" href="${m.siteUrl}" target="_blank" rel="noopener">Voir sur AniList</a></p>
       </div>
       ${estManga ? '' : carteOuRegarder(m, adn)}
+      ${estManga ? '' : '<div class="carte carte-large" id="episodes-streaming" hidden></div>'}
     </div>
 
     <section class="section" id="autour" hidden>
@@ -203,7 +205,7 @@ function afficherFiche(m, adn) {
   brancherBoutonHasard(document.getElementById('hasard'));
   // Animé : "Autour de l'œuvre" est rempli une fois les saisons connues (pour les en retirer)
   if (estManga) afficherAutour(m, []);
-  else afficherSaisons(m, bouton);
+  else afficherSaisons(m, bouton, adn);
   brancherRecommandation(
     { type: estManga ? 'manga' : 'anime', id: m.id, titre: titre(m), image: m.coverImage.extraLarge },
     document.getElementById('potes-suivent'),
@@ -284,7 +286,7 @@ function afficherProgression(m, { question = false } = {}) {
 // ---------- Onglets "Saison 1 · Saison 2 · …" ----------
 let idsSaisons; // identifiants de toutes les saisons de la série affichée
 
-async function afficherSaisons(m, elementSuivre) {
+async function afficherSaisons(m, elementSuivre, adn) {
   const zone = document.getElementById('saisons');
   let liste;
   try {
@@ -295,6 +297,13 @@ async function afficherSaisons(m, elementSuivre) {
   if (!document.body.contains(zone)) return; // une autre saison a été ouverte entre-temps
   idsSaisons = liste.map((s) => s.id);
   afficherAutour(m, idsSaisons);
+  // Regarder les épisodes, saison par saison (un film ou un OVA hors saisons : lui seul)
+  monterEpisodes(document.getElementById('episodes-streaming'), {
+    saisons: liste.some((s) => s.id === m.id) ? liste : [m],
+    idCourant: m.id,
+    serieAdn: trouverSerie(adn, m),
+    apresVu: () => afficherProgression(m),
+  });
   if (!liste.length) return;
 
   // Déjà suivi via une autre saison ? Le bouton l'indique, et la liste des saisons est mise à jour
