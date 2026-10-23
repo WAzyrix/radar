@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-23T17:21:53+00:00",
+ "maj": "2026-10-23T17:53:55+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,15 +22,99 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "4c0e5e6b9b64",
+   "titre": "AI agents detected inside customer bank accounts, report says",
+   "lien": "https://www.cbsnews.com/news/ai-agents-customer-bank-accounts-security/",
+   "source": "CBS News",
+   "date": "2026-10-23T17:46:36+00:00",
+   "extrait": "Banks have detected personal AI agent activity inside customers' accounts as experts warn about the risks of oversharing with AI.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "574852269ae4",
    "titre": "Trump's U.N. envoy says Iran war could drag on for another year",
    "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/",
    "source": "CBS News",
-   "date": "2026-10-23T17:22:11+00:00",
+   "date": "2026-10-23T17:44:39+00:00",
    "extrait": "The U.S. ambassador to the U.N. says the war with Iran could last another year, but he hopes Tehran will \"come to the table\" sooner.",
    "tags": [
     "Politique",
     "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "158f22d49ac3",
+   "titre": "Tirs mortels à Trappes et à La Verrière : Emmanuel Macron est sur place, l'Elysée dénonce un \"attentat terroriste raciste\"",
+   "lien": "https://www.franceinfo.fr/faits-divers/direct-coups-de-feu-dans-les-yvelines-le-parquet-national-antiterroriste-se-place-en-observation-annonce-sebastien-lecornu_8250646.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-23T17:39:11+00:00",
+   "extrait": "Le Parquet national antiterroriste s'est saisi, après qu'un homme a ouvert le feu à Trappes et à la Verrière dans les Yvelines, faisant un mort et cinq blessés.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "2d591b7c19c6",
+   "titre": "Trump says new fuel supply push will lower prices. Will it work?",
+   "lien": "https://www.cbsnews.com/news/trump-defense-production-act-gas-diesel-prices/",
+   "source": "CBS News",
+   "date": "2026-10-23T17:39:10+00:00",
+   "extrait": "The Trump administration said using the DPA funding will increase refining output and lower fuel prices for Americans. Experts are skeptical.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "646d5daadb25",
+   "titre": "A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that",
+   "lien": "https://www.npr.org/2026/10/23/nx-s1-6010488/east-potomac-trump-golf-hains-point",
+   "source": "NPR",
+   "date": "2026-10-23T17:35:14+00:00",
+   "extrait": "Trump's most recent rendering of East Potomac Park overtakes the D.C. peninsula with a sprawling golf course, without the grassy areas and road beloved by locals. That's prompted grassroots pushback.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "b160646215e2",
+   "titre": "What we know as Netanyahu vows major military operation in West Bank after deadly attack on troops",
+   "lien": "https://www.cbsnews.com/video/netanyahu-vows-major-military-operation-in-west-bank-after-deadly-attack-on-idf-troops/",
+   "source": "CBS News",
+   "date": "2026-10-23T17:29:04+00:00",
+   "extrait": "Israeli Prime Minister Benjamin Netanyahu says he's ordered a major military operation in the occupied West Bank after a shooting attack by two Palestinian men that killed two soldiers. CBS News'…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "33301f8e6d34",
+   "titre": "États-Unis : en Géorgie, les Afro-Américains mobilisés pour les midterms",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261023-%C3%A9tats-unis-en-g%C3%A9orgie-les-afro-am%C3%A9ricains-mobilis%C3%A9s-pour-les-midterms",
+   "source": "France 24",
+   "date": "2026-10-23T17:26:45+00:00",
+   "extrait": "C’est l’un des États clés des élections de mi-mandat. En Géorgie, le siège du sénateur démocrate Jon Ossoff est en jeu, et peut-être avec lui la majorité au Sénat. Les Afro-Américains, qui…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "ed692e684c03",
+   "titre": "Police officer resigns after shooting that killed 1-year-old",
+   "lien": "https://www.cbsnews.com/news/mississippi-police-officer-resigns-shooting-killed-kohen-wiley/",
+   "source": "CBS News",
+   "date": "2026-10-23T17:22:42+00:00",
+   "extrait": "The Mississippi attorney general's office had determined that the use of force was justified in the deadly shooting that stemmed from an alleged shoplifting incident.",
+   "tags": [
+    "Justice"
    ],
    "zone": "usa"
   },
@@ -45,6 +129,28 @@
     "Politique"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "d4a03dd486a3",
+   "titre": "Tempête Austen : un homme est mort dans la Manche, deux autres persones sont en urgence absolue, annonce la préfecture",
+   "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tempetes/direct-tempete-austen-161-000-foyers-prives-d-electricite-dans-le-nord-ouest-de-la-france_8250151.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-23T17:18:44+00:00",
+   "extrait": "Le Samu fait par ailleurs état de 17 personnes en urgence relative en rapport avec la tempête dans le département.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "133d650c14bd",
+   "titre": "PHP bug \"about as bad as it can get,\" cybersecurity reporter says",
+   "lien": "https://www.cbsnews.com/video/php-bug-about-as-bad-as-it-can-get-cybersecurity-reporter-says/",
+   "source": "CBS News",
+   "date": "2026-10-23T17:18:41+00:00",
+   "extrait": "A bug in the PHP programming language could put up to 70% of the world's websites at risk, experts say. Reuters cybersecurity reporter Raphael Satter explains more about this critical vulnerability.",
+   "tags": [],
+   "zone": "usa"
   },
   {
    "id": "1e26712035a4",
@@ -114,7 +220,7 @@
    "titre": "EN DIRECT, guerre en Ukraine : la Russie dit accepter une trêve dans la ville ukrainienne d’Olechky à partir de mardi pour permettre des opérations humanitaires",
    "lien": "https://www.lemonde.fr/international/live/2026/10/23/en-direct-guerre-en-ukraine-la-russie-dit-accepter-une-treve-dans-la-ville-ukrainienne-d-olechky-a-partir-de-mardi-pour-permettre-des-operations-humanitaires_6796922_3210.html",
    "source": "Le Monde",
-   "date": "2026-10-23T17:07:12+00:00",
+   "date": "2026-10-23T17:07:10+00:00",
    "extrait": "La Maison Blanche avait annoncé que Moscou et Kiev avaient « accepté de suspendre temporairement toutes les opérations militaires dans cette ville afin de permettre l’acheminement de l’aide…",
    "tags": [
     "Conflits"
@@ -133,18 +239,6 @@
     "Conflits"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "d4a03dd486a3",
-   "titre": "Tempête Austen : une personne est morte dans la Manche, deux autres sont en urgence absolue, annonce la préfecture",
-   "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tempetes/direct-tempete-austen-161-000-foyers-prives-d-electricite-dans-le-nord-ouest-de-la-france_8250151.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-23T17:03:23+00:00",
-   "extrait": "Le Samu fait par ailleurs état de 17 personnes en urgence relative en rapport avec la tempête dans le département.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
   },
   {
    "id": "f8deac049ef3",
@@ -195,30 +289,6 @@
    "zone": "usa"
   },
   {
-   "id": "ed692e684c03",
-   "titre": "Police officer resigns after shooting that killed 1-year-old",
-   "lien": "https://www.cbsnews.com/news/mississippi-police-officer-resigns-shooting-killed-kohen-wiley/",
-   "source": "CBS News",
-   "date": "2026-10-23T16:50:30+00:00",
-   "extrait": "The Mississippi attorney general's office had determined that the use of force was justified in the deadly shooting that stemmed from an alleged shoplifting incident.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "158f22d49ac3",
-   "titre": "Tirs mortels à Trappes et à La Verrière : Emmanuel Macron est sur place, l'Elysée dénonce un \"attentat terroriste raciste\"",
-   "lien": "https://www.franceinfo.fr/faits-divers/direct-coups-de-feu-dans-les-yvelines-le-parquet-national-antiterroriste-se-place-en-observation-annonce-sebastien-lecornu_8250646.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-23T16:49:25+00:00",
-   "extrait": "Le Parquet national antiterroriste s'est saisi, après qu'un homme a ouvert le feu à Trappes et à la Verrière dans les Yvelines, faisant un mort et quatre blessés.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "89712880ac47",
    "titre": "Clément Beaune : “La Chine pose une question de vie ou de mort à l’industrie européenne”",
    "lien": "https://www.france24.com/fr/%C3%A9missions/ici-l-europe/20261023-cl%C3%A9ment-beaune-la-chine-pose-une-question-de-vie-ou-de-mort-%C3%A0-l-industrie-europ%C3%A9enne",
@@ -261,8 +331,8 @@
    "titre": "Au Guatemala, l’assassinat d’un célèbre avocat, un choc pour les magistrats engagés contre la corruption",
    "lien": "https://www.lemonde.fr/international/article/2026/10/23/au-guatemala-l-assassinat-d-un-celebre-avocat-un-choc-pour-les-magistrats-engages-contre-la-corruption_6799121_3210.html",
    "source": "Le Monde",
-   "date": "2026-10-23T16:34:08+00:00",
-   "extrait": "Ancien procureur, Juan Solórzano Foppa dénonçait le « pacte des corrompus » qui gangrène les institutions. Son meurtre, le 17 octobre, décourage les magistrats persécutés et exilés qui songent à un…",
+   "date": "2026-10-23T16:34:06+00:00",
+   "extrait": "Ancien procureur, Juan Solorzano Foppa dénonçait le « pacte des corrompus » qui gangrène les institutions. Son meurtre, le 17 octobre, décourage les magistrats persécutés et exilés qui songent à un…",
    "tags": [],
    "zone": "france"
   },
@@ -336,6 +406,19 @@
     "Politique"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "2ef82dd3b2d9",
+   "titre": "Budget de la « Sécu » : les députés sabordent le projet de loi à l’Assemblée nationale",
+   "lien": "https://www.lemonde.fr/politique/article/2026/10/23/budget-de-la-secu-les-deputes-sabordent-le-projet-de-loi-a-l-assemblee-nationale_6799120_823448.html",
+   "source": "Le Monde",
+   "date": "2026-10-23T16:21:16+00:00",
+   "extrait": "Dans un hémicycle quasiment déserté par les soutiens du gouvernement, les députés ont rejeté la partie « recettes » du projet de loi de financement de la Sécurité sociale. Le parcours du texte n’est…",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "france"
   },
   {
    "id": "a3b41f5400da",
@@ -475,6 +558,18 @@
    "extrait": "Le phénomène El Niño touche la Nouvelle-Calédonie, provoquant moins de pluies et une sécheresse qui s'installe. La province Nord est placée en risque très élevé de feux de forêts, avec déjà des…",
    "tags": [],
    "zone": "monde"
+  },
+  {
+   "id": "715442217663",
+   "titre": "Au Sénégal, la colère sociale enfle à l’approche des Jeux olympiques de la jeunesse",
+   "lien": "https://www.lemonde.fr/afrique/article/2026/10/23/au-senegal-la-colere-sociale-enfle-a-l-approche-des-jeux-olympiques-de-la-jeunesse_6799115_3212.html",
+   "source": "Le Monde",
+   "date": "2026-10-23T16:00:03+00:00",
+   "extrait": "Alors que Dakar accueille, à partir du 31 octobre, la toute première édition africaine des Jeux consacrés aux jeunes athlètes, le mouvement social contre la vie chère se poursuit, avec une grève du…",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "france"
   },
   {
    "id": "8bbed367df58",
@@ -709,18 +804,6 @@
    "zone": "france"
   },
   {
-   "id": "2d591b7c19c6",
-   "titre": "Trump says new fuel supply push will lower prices. Will it work?",
-   "lien": "https://www.cbsnews.com/news/trump-defense-production-act-gas-diesel-prices/",
-   "source": "CBS News",
-   "date": "2026-10-23T15:24:45+00:00",
-   "extrait": "The Trump administration said using the DPA funding will increase refining output and lower fuel prices for Americans. Experts are skeptical.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "56f729f824aa",
    "titre": "Home distillers rejoice as US Supreme Court considers whether to finally legalise moonshine",
    "lien": "https://www.bbc.co.uk/news/articles/cv98zn0ye4kpo?at_medium=RSS&at_campaign=rss",
@@ -880,7 +963,7 @@
   },
   {
    "id": "2312af9c2bdf",
-   "titre": "EN DIRECT, tirs à Trappes et à La Verrière : l’Elysée dénonce un « attentat terroriste raciste » ; Emmanuel Macron est sur place",
+   "titre": "EN DIRECT, tirs à Trappes et à La Verrière : le tireur avait piégé son appartement avec trois bouteilles de gaz et des fils électriques ; un membre de son entourage placé en garde à vue",
    "lien": "https://www.lemonde.fr/societe/live/2026/10/23/tirs-a-trappes-et-a-la-verriere-un-mort-et-quatre-blesses-dans-des-tirs-a-l-arme-automatique-le-parquet-antiterroriste-saisi_6799092_3224.html",
    "source": "Le Monde",
    "date": "2026-10-23T14:45:10+00:00",
@@ -1307,7 +1390,7 @@
    "titre": "Israel vows major West Bank operation after attack kills 2 troops",
    "lien": "https://www.cbsnews.com/news/israel-west-bank-netanyahu-palestinians-military-operation-hebron/",
    "source": "CBS News",
-   "date": "2026-10-23T13:29:51+00:00",
+   "date": "2026-10-23T13:29:00+00:00",
    "extrait": "Israel's Netanyahu says he ordered the military to cordon off a major city in the occupied West Bank after an attack by Palestinian gunmen that killed two Israeli soldiers.",
    "tags": [
     "Conflits"
@@ -2045,11 +2128,11 @@
   },
   {
    "id": "77fd204f109f",
-   "titre": "Hacking attempts rise after flaws found in program affecting 70 percent of websites",
+   "titre": "Hacking attempts rise after flaws found in program affecting 70% of websites",
    "lien": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws",
    "source": "NPR",
    "date": "2026-10-23T09:37:38+00:00",
-   "extrait": "Governments around the world are rushing to implement safety measures after AI technology found 'severe' vulnerabilities in a key programming language called PHP.",
+   "extrait": "Governments around the world are rushing to implement safety measures after AI technology found \"severe\" vulnerabilities in a key programming language called PHP.",
    "tags": [
     "Tech"
    ],
@@ -2499,6 +2582,16 @@
    "source": "franceinfo",
    "date": "2026-10-23T04:42:36+00:00",
    "extrait": "De TikTok à Telegram, en passant par Discord et Signal, depuis le début de la semaine, la mobilisation de samedi s'organise sur les réseaux sociaux et les messageries en ligne.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "d4dd4fdd5b60",
+   "titre": "Les motifs appelant à la solidarité s’élargissent et alimentent le succès des plateformes de cagnottes",
+   "lien": "https://www.lemonde.fr/argent/article/2026/10/23/les-motifs-appelant-a-la-solidarite-s-elargissent-et-alimentent-le-succes-des-plateformes-de-cagnottes_6798949_1657007.html",
+   "source": "Le Monde",
+   "date": "2026-10-23T04:00:20+00:00",
+   "extrait": "Soins médicaux, études, organisation d’un événement sportif, indemnisation des dégats commis en marge des manifestations du 17 octobre… Nombreux sont les Français à avoir recours aux plateformes de…",
    "tags": [],
    "zone": "france"
   },
