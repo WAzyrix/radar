@@ -224,8 +224,9 @@ export async function ficheTmdb(env, type, id) {
     bandeAnnonce: bandeAnnonce ? { cle: bandeAnnonce.key, nom: bandeAnnonce.name } : null,
     regarder: fournisseurs ? {
       lien: fournisseurs.link || null, // page TMDB/JustWatch avec les liens directs
-      abonnement: plateformes('flatrate'),
-      gratuit: [...plateformes('free'), ...plateformes('ads')],
+      // "ads" = abonnement moins cher avec publicités (Netflix Standard with Ads), pas gratuit
+      abonnement: [...plateformes('flatrate'), ...plateformes('ads')],
+      gratuit: plateformes('free'),
       location: plateformes('rent'),
       achat: plateformes('buy'),
     } : null,

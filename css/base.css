@@ -68,6 +68,10 @@ body::before {
 
 a { color: inherit; text-decoration: none; }
 img { display: block; max-width: 100%; }
+/* Icônes SVG : sans taille, un SVG remplit tout son conteneur (fiche Arcane : 375 px).
+   Taille par défaut proportionnelle au texte ; :where() = aucune priorité, donc chaque
+   composant peut toujours fixer la sienne (.bouton svg, .prochain svg…). */
+:where(svg) { width: 1.1em; height: 1.1em; flex: none; vertical-align: -0.18em; }
 button, input, select { font: inherit; color: inherit; }
 button { border: 0; background: none; cursor: pointer; }
 button:disabled { opacity: 0.6; cursor: progress; }

@@ -49,8 +49,24 @@ function changerStatut(f, statut) {
 }
 
 // ---------- Où le regarder ----------
+// TMDB liste chaque offre à part (« Netflix » et « Netflix Standard with Ads »,
+// « Paramount+ Amazon Channel »…) : une seule par plateforme et par ligne. Une plateforme
+// déjà « avec un abonnement » n'est pas répétée dans « Gratuit » ; la location et l'achat
+// restent séparés (on peut louer ET acheter sur Apple TV).
+const nomPlateforme = (nom) => String(nom || '')
+  .replace(/\s+(?:(?:standard|basic|premium)\s+)?with\s+ads$/i, '')
+  .replace(/\s+(?:amazon|apple\s*tv)\s+channel$/i, '')
+  .trim();
+
+function fusionnerPlateformes(r) {
+  const garder = (liste = [], vues = new Set()) => liste.map((p) => ({ ...p, nom: nomPlateforme(p.nom) }))
+    .filter((p) => p.nom && !vues.has(p.nom.toLowerCase()) && vues.add(p.nom.toLowerCase()));
+  const enStreaming = new Set();
+  return { ...r, abonnement: garder(r.abonnement, enStreaming), gratuit: garder(r.gratuit, enStreaming), location: garder(r.location), achat: garder(r.achat) };
+}
+
 function carteRegarder(f) {
-  const r = f.regarder;
+  const r = f.regarder && fusionnerPlateformes(f.regarder);
   const auCinema = type === 'film' && f.dateFrance && f.dateFrance >= new Date().toISOString().slice(0, 10);
   const ligne = (titre, liste) => (liste?.length ? `
     <span class="etiquette" style="margin-top:14px">${titre}</span>
