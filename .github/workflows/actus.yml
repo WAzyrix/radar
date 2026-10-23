@@ -38,6 +38,9 @@ jobs:
         run: python3 scripts/collecte_adn.py
         continue-on-error: true
 
+      # Si un autre run a poussé entre-temps, le rebase peut buter sur data/*.json :
+      # "-X theirs" garde NOS fichiers (les plus récents, en cours de rebase).
+      # Trois essais ; si le push échoue quand même, le site est publié malgré tout.
       - name: Enregistrer les JSON s'ils ont changé
         run: |
           git config user.name "radar-bot"
@@ -45,11 +48,15 @@ jobs:
           git add data/
           if git diff --cached --quiet; then
             echo "Pas de nouvelles actus."
-          else
-            git commit -m "Actus : mise à jour automatique"
-            git pull --rebase --autostash
-            git push
+            exit 0
           fi
+          git commit -m "Actus : mise à jour automatique"
+          for essai in 1 2 3; do
+            git pull --rebase -X theirs --autostash && git push && exit 0
+            echo "Push refusé (essai $essai), nouvel essai dans 10 s…"
+            sleep 10
+          done
+          echo "::warning::Actus non enregistrées dans le dépôt (le site est quand même publié)."
 
       - name: Préparer GitHub Pages
         uses: actions/configure-pages@v5
