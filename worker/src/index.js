@@ -8,7 +8,10 @@
 //
 // Routes :
 //   GET    /jeux?…  /jeu/:id  /hasard?…  /genres     jeux vidéo (jeux.js)
-//   GET    /tmdb/recherche?q=                         films et séries (tmdb.js)
+//   GET    /tmdb/recherche?q=  /tmdb/genres            films et séries (tmdb.js)
+//   GET    /tmdb/decouvrir?type=&genres=&annee=&note=&plateforme=&tri=&page=
+//   GET    /tmdb/hasard?type=&…   /tmdb/sorties?type=&quand=avenir|recentes   /tmdb/en-ce-moment
+//   GET    /tmdb/fiche/:type/:id                      fiche complète (film ou serie)
 //   GET    /push/cle                                  clé publique des notifications
 //   GET    /liste/:code    PUT /liste/:code           watchlist (comptes.js)
 //   GET    /abo/:code      PUT /abo/:code  DELETE /abo/:code   abonnement aux notifs
@@ -21,7 +24,7 @@
 // Tâche planifiée (toutes les heures) : verification.js + lancement de la collecte des actus (github.js)
 // =========================================================
 import { filtrer, listeJeux, ficheJeu, hasard, genres } from './jeux.js';
-import { rechercheTmdb } from './tmdb.js';
+import { rechercheTmdb, genresTmdb, decouvrir, hasardTmdb, sorties, enCeMoment, ficheTmdb, typeValide } from './tmdb.js';
 import {
   codeValide, lireListe, ecrireListe, abonner, desabonner, lireAbonnement, changerPrefs, notifTest, lireHistorique, effacerHistorique, marquerLues, Erreur400,
 } from './comptes.js';
@@ -100,6 +103,12 @@ async function router(requete, env) {
     if (texte.length < 2) throw new Erreur400('Recherche trop courte');
     return { donnees: await rechercheTmdb(env, texte), duree: 6 * 3600 };
   }
+  if (methode === 'GET' && chemin === '/tmdb/genres') return { donnees: await genresTmdb(env), duree: 7 * 86400 };
+  if (methode === 'GET' && chemin === '/tmdb/decouvrir') return { donnees: await decouvrir(env, typeValide(url.searchParams.get('type')), url.searchParams), duree: 3600 };
+  if (methode === 'GET' && chemin === '/tmdb/hasard') return { donnees: await hasardTmdb(env, typeValide(url.searchParams.get('type')), url.searchParams) };
+  if (methode === 'GET' && chemin === '/tmdb/sorties') return { donnees: await sorties(env, typeValide(url.searchParams.get('type')), url.searchParams.get('quand')), duree: 6 * 3600 };
+  if (methode === 'GET' && chemin === '/tmdb/en-ce-moment') return { donnees: await enCeMoment(env), duree: 6 * 3600 };
+  if (methode === 'GET' && /^\/tmdb\/fiche\/(film|serie)\/\d{1,9}$/.test(chemin)) return { donnees: await ficheTmdb(env, segments[2], segments[3]), duree: 12 * 3600 };
 
   // ---------- Notifications ----------
   if (methode === 'GET' && chemin === '/push/cle') return { donnees: { cle: env.VAPID_PUBLIQUE }, duree: 86400 };

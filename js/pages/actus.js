@@ -25,7 +25,7 @@ const filtres = {
 let articles = [];
 let nbAffiches = PAR_PAGE;
 
-afficherNavigation(cle);
+afficherNavigation(cle === 'cinema' ? 'films' : cle); // l'onglet Films regroupe la page Films & séries et ses actus
 document.title = `${categorie.nom} · Radar`;
 document.documentElement.style.setProperty('--accent', categorie.couleur);
 $('titre').textContent = categorie.nom;

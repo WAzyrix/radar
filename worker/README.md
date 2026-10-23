@@ -1,8 +1,9 @@
 # Relais Radar (Cloudflare Worker)
 
-Petit serveur gratuit hébergé chez Cloudflare, qui sert d'intermédiaire entre le site et :
+Petit serveur gratuit hébergé chez Cloudflare, qui sert d'intermédiaire entre le site et (entre autres) :
 
 - **RAWG** (base de données de jeux) : l'API demande une clé, qui ne doit pas être visible dans le code du site. Le relais la garde secrète.
+- **TMDB** (films et séries) : même principe, clé secrète `TMDB_KEY`.
 - **Steam** : son API refuse les appels venant d'un navigateur (pas de CORS). Le relais, lui, est un serveur : il peut l'appeler.
 
 ```
@@ -43,6 +44,11 @@ Le résultat apparaît dans les journaux du relais (`npx wrangler tail`) : `Coll
 | `/jeu/:id` | Fiche complète : RAWG + captures + boutiques + série + infos Steam |
 | `/hasard?…` | Un jeu au hasard parmi ceux qui correspondent aux filtres |
 | `/genres` | Genres RAWG |
+| `/tmdb/recherche?q=` · `/tmdb/genres` | Recherche de films et séries, genres TMDB |
+| `/tmdb/decouvrir?type=film\|serie&genres=&annee=&note=&plateforme=&tri=&page=` | Explorer les films ou les séries |
+| `/tmdb/hasard?type=…` | Un film ou une série au hasard parmi les 500 plus populaires qui correspondent aux filtres |
+| `/tmdb/sorties?type=film\|serie&quand=avenir\|recentes` · `/tmdb/en-ce-moment` | Calendrier : sorties au cinéma en France (date française), nouvelles séries, séries diffusées cette semaine |
+| `/tmdb/fiche/:type/:id` | Fiche complète : plateformes en France (JustWatch), saisons, casting, bande-annonce, recommandations |
 
 ## Sécurité
 

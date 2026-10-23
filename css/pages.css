@@ -458,3 +458,21 @@ h3 .metacritic.en-ligne { margin-left: 6px; }
 .progression-episode { display: inline-flex; align-items: center; gap: 6px; padding: 4px 6px 4px 14px; border-radius: 999px; background: var(--surface); border: 1px solid var(--bordure); font-size: 0.85rem; font-weight: 600; color: var(--texte-2); }
 .progression-episode.actif { color: var(--texte); background: color-mix(in oklab, var(--accent) 28%, transparent); border-color: color-mix(in oklab, var(--accent) 55%, transparent); }
 .progression-episode input { width: 64px; padding: 4px 8px; border-radius: 999px; border: 1px solid var(--bordure); background: var(--fond-2); color: var(--texte); font: inherit; }
+
+/* ---------- Films et séries ---------- */
+.plateforme { gap: 8px; }
+.plateforme img { width: 22px; height: 22px; border-radius: 6px; }
+.liste-saisons { display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 10px; margin-top: 14px; }
+.saison-tmdb { display: flex; align-items: center; gap: 12px; padding: 8px; border-radius: var(--r-m); background: var(--surface); }
+.saison-tmdb img, .saison-tmdb > span { width: 46px; aspect-ratio: 2 / 3; object-fit: cover; border-radius: 8px; background: var(--surface-forte); flex: none; }
+.saison-tmdb b { display: block; font-size: 0.9rem; }
+.saison-tmdb small { color: var(--texte-2); font-size: 0.8rem; }
+.carrousel.casting { grid-auto-columns: 130px; }
+.acteur b { display: block; font-size: 0.85rem; margin-top: 8px; line-height: 1.25; }
+.acteur small { display: block; color: var(--texte-2); font-size: 0.78rem; line-height: 1.3; }
+.acteur-photo { aspect-ratio: 2 / 3; border-radius: var(--r-m); overflow: hidden; background: var(--surface-forte); }
+.acteur-photo img { width: 100%; height: 100%; object-fit: cover; }
+/* Mention TMDB (logo obligatoire) */
+footer.attribution { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; }
+.logo-tmdb { display: inline-flex; }
+.logo-tmdb img { height: 12px; width: auto; }

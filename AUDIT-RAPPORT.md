@@ -200,7 +200,7 @@
 
 *Bilan au 23 octobre 2026, après le commit `112d04f`. Un commit par correction, retest à chaque fois.*
 
-**En bref : 2/2 🔴 et 5/5 🟠 corrigés, 3/17 🟡 corrigés, 1/6 💡 en partie. Les 🟡 restants n'ont aucun impact sur la sécurité.**
+**En bref : 2/2 🔴 et 5/5 🟠 corrigés, 5/17 🟡 corrigés, 1/6 💡 en partie. Les 🟡 restants n'ont aucun impact sur la sécurité.**
 
 ### 🔴 Critiques : tous corrigés
 
@@ -239,7 +239,7 @@
 | 19 | ⏳ Restant | `ecrireLocal()` sans `try/catch` (stockage plein). |
 | 20 | ⏳ Restant | Les cartes animés utilisent toujours `extraLarge`. |
 | 21 | ⏳ Restant | Pas d'image de secours. |
-| 22 | ⏳ En partie | Le logo TMDB arrive avec les fiches films/séries (point 7 de cette série). Le lien RAWG sur l'accueil manque encore. |
+| 22 | ✅ Corrigé (point 7) | Logo TMDB et mention sur l'accueil, Ma liste, Films & séries et les fiches ; lien RAWG sur l'accueil ; JustWatch cité pour les plateformes. |
 | 23 | ⏳ Restant | `--texte-3` reste à `#6b6b76` (contraste 3,7:1). |
 
 ### 💡 Améliorations
@@ -251,7 +251,7 @@
 
 ### Fonctionnalités manquantes (section 4)
 
-- Films/séries : fiche, tirage au hasard, calendrier des sorties → point 7 de cette série.
+- Films/séries : ✅ fiche (`film.html`), recherche et explorer (`films.html`), tirage au hasard avec filtres, calendrier des sorties (cinéma en France avec la date française, séries) → point 7 de cette série.
 - Le reste est inchangé.
 
 ### Ce qui reste à vérifier par toi

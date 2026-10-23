@@ -29,7 +29,7 @@ export function lienElement(item) {
   const id = Number(item.id);
   if (item.type === 'anime' || item.type === 'manga') return `anime.html?id=${id}`;
   if (item.type === 'jeu') return `jeu.html?id=${id}`;
-  return `https://www.themoviedb.org/${item.type === 'film' ? 'movie' : 'tv'}/${id}`;
+  return `film.html?type=${item.type}&id=${id}`; // film ou série
 }
 
 // ---------- Lecture / écriture locale ----------

@@ -5,6 +5,9 @@
 // =========================================================
 import { rechercheRapide } from '../api/animes.js';
 import { rechercheRapideJeux, relaisConfigure } from '../api/jeux.js';
+import { rechercheFilmsSeries } from '../api/films.js';
+import { lienFilm } from './cartes-films.js';
+import { TYPES } from '../lib/ma-liste.js';
 import { imageReduite } from './cartes-jeux.js';
 import { echapper, titre, antiRebond } from '../lib/outils.js';
 import { FORMATS_FR } from '../lib/traductions.js';
@@ -20,7 +23,7 @@ const PAGES = [
   { id: 'accueil', nom: 'Accueil', lien: './', icone: 'accueil', pc: false },
   { id: 'animes', nom: 'Animés', lien: 'animes.html', icone: 'anime' },
   { id: 'jeux', nom: 'Jeux', lien: 'jeux.html', icone: 'manette' },
-  { id: 'cinema', nom: 'Films', lien: 'actus.html?cat=cinema', icone: 'film' },
+  { id: 'films', nom: 'Films', lien: 'films.html', icone: 'film' },
   // Cyber n'est pas dans la barre mobile (6 onglets max) : on y accède depuis la page Actu
   { id: 'cyber', nom: 'Cyber', lien: 'actus.html?cat=cyber', icone: 'cyber', mobile: false },
   { id: 'monde', nom: 'Actu', lien: 'actus.html?cat=monde', icone: 'monde' },
@@ -38,7 +41,7 @@ export function afficherNavigation(pageActive) {
       <nav class="nav-liens" aria-label="Navigation principale">${PAGES.filter((p) => p.pc !== false).map((p) => lien(p, false)).join('')}</nav>
       <form class="recherche" role="search" action="animes.html">
         ${ICONES.loupe}
-        <input type="search" name="q" placeholder="Rechercher un animé, un jeu…" aria-label="Rechercher un animé ou un jeu" autocomplete="off">
+        <input type="search" name="q" placeholder="Rechercher un animé, un jeu, un film…" aria-label="Rechercher un animé, un jeu, un film ou une série" autocomplete="off">
         <div class="resultats"></div>
       </form>
     </header>`);
@@ -70,18 +73,19 @@ export function afficherNavigation(pageActive) {
   if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
 }
 
-// Recherche en direct : la liste apparaît pendant la frappe.
+// Recherche en direct (animés, jeux, films et séries) : la liste apparaît pendant la frappe.
 // Entrée = page Animés avec tous les résultats (le <form> s'en charge tout seul).
 function brancherRecherche() {
   const formulaire = document.querySelector('.recherche');
   const champ = formulaire.querySelector('input');
   const boite = formulaire.querySelector('.resultats');
 
-  // On cherche en parallèle dans les animés (AniList) et les jeux (relais RAWG)
+  // On cherche en parallèle dans les animés (AniList), les jeux (RAWG) et les films/séries (TMDB)
   const chercher = antiRebond(async (texte) => {
-    const [animes, jeux] = await Promise.all([
+    const [animes, jeux, films] = await Promise.all([
       rechercheRapide(texte).catch(() => []),
       relaisConfigure() ? rechercheRapideJeux(texte).catch(() => []) : [],
+      relaisConfigure() ? rechercheFilmsSeries(texte).catch(() => []) : [],
     ]);
     if (champ.value.trim() !== texte) return; // l'utilisateur a continué à taper
 
@@ -96,9 +100,16 @@ function brancherRecherche() {
         <div><strong>${echapper(j.name)}</strong><span>${['Jeu', j.released?.slice(0, 4)].filter(Boolean).join(' · ')}</span></div>
       </a>`).join('');
 
-    boite.innerHTML = (blocAnimes || blocJeux)
+    const blocFilms = films.slice(0, 4).map((f) => `
+      <a href="${lienFilm(f)}">
+        ${f.image ? `<img src="${echapper(f.image)}" alt="">` : '<img alt="">'}
+        <div><strong>${echapper(f.titre)}</strong><span>${[TYPES[f.type].un, f.date?.slice(0, 4)].filter(Boolean).join(' · ')}</span></div>
+      </a>`).join('');
+
+    boite.innerHTML = (blocAnimes || blocJeux || blocFilms)
       ? `${blocAnimes ? `<p class="groupe">Animés</p>${blocAnimes}<a class="tout-voir" href="animes.html?q=${encodeURIComponent(texte)}#explorer">Tous les animés ›</a>` : ''}
-         ${blocJeux ? `<p class="groupe">Jeux vidéo</p>${blocJeux}<a class="tout-voir" href="jeux.html?q=${encodeURIComponent(texte)}#explorer">Tous les jeux ›</a>` : ''}`
+         ${blocJeux ? `<p class="groupe">Jeux vidéo</p>${blocJeux}<a class="tout-voir" href="jeux.html?q=${encodeURIComponent(texte)}#explorer">Tous les jeux ›</a>` : ''}
+         ${blocFilms ? `<p class="groupe">Films et séries</p>${blocFilms}<a class="tout-voir" href="films.html?q=${encodeURIComponent(texte)}${films.slice(0, 4).every((f) => f.type === 'serie') ? '&type=serie' : ''}#explorer">Tous les films et séries ›</a>` : ''}`
       : '<p>Aucun résultat.</p>';
     boite.classList.add('ouvert');
   });

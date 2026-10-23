@@ -10,7 +10,7 @@ Mon site perso qui regroupe les actus qui m'intéressent, au même endroit, dans
 | **Animés en France** | Heure de sortie VOSTFR/VF et langues disponibles saison par saison | API publique d'[ADN](https://animationdigitalnetwork.com) (collectée toutes les heures) |
 | **Jeux vidéo** | Sorties à venir / récentes, fiches (avis, config PC, comment y jouer, rétro/émulation), mes listes, explorer par genre, tirage au hasard | [RAWG](https://rawg.io) + Steam, via un relais Cloudflare Worker ([worker/](worker/README.md)) |
 | **Actu jeux** | Sorties, annonces, tests, consoles, scène jailbreak/homebrew | Flux RSS (jeuxvideo.com, Gamekult, IGN France, Gameblog, ActuGaming, PlayStation Blog, Nintendo Life, Gematsu, Wololo) |
-| **Films & séries** | Actu ciné et séries | Flux RSS (AlloCiné, Écran Large) |
+| **Films & séries** | Calendrier des sorties (cinéma en France, séries du moment, nouvelles séries), fiches complètes (où le regarder, saisons, casting, bande-annonce), explorer par genre / plateforme + tirage au hasard, actu ciné | [TMDB](https://www.themoviedb.org) (+ JustWatch pour les plateformes) via le relais Cloudflare, flux RSS (AlloCiné, Écran Large) |
 | **Cyber & info** | Failles, CVE, ransomwares, jailbreaks, outils | Flux RSS (CERT-FR, BleepingComputer, The Hacker News, Zataz, Korben) |
 | **Actu** | France / États-Unis / Monde | Flux RSS (franceinfo, Le Monde, NPR, CBS News, BBC World, France 24) |
 
@@ -51,7 +51,8 @@ Dans le navigateur
 ### Arborescence
 
 ```
-index.html, animes.html, anime.html, jeux.html, jeu.html, actus.html   les pages
+index.html, animes.html, anime.html, jeux.html, jeu.html, films.html, film.html,
+actus.html, ma-liste.html, potes.html, chat.html   les pages
 css/
   base.css          variables (couleurs, arrondis…), remise à zéro, typo
   composants.css    nav, boutons, cartes, carrousels… réutilisés partout

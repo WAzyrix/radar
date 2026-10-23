@@ -1,9 +1,11 @@
 // =========================================================
-// Page d'accueil : héros, suivis, calendrier, carrousels, genres, actus.
+// Page d'accueil : héros, suivis, calendrier, carrousels (animés, jeux, films), genres, actus.
 // =========================================================
 import { tendancesEtSaison } from '../api/animes.js';
 import { sortiesAVenir, sortiesRecentes, relaisConfigure } from '../api/jeux.js';
 import { carteJeu, squelettesJeux } from '../ui/cartes-jeux.js';
+import { sortiesFilms, seriesEnCeMoment } from '../api/films.js';
+import { carteFilm, dateSortieFilm } from '../ui/cartes-films.js';
 import { chargerActus, CATEGORIES } from '../api/actus.js';
 import { echapper, titre, note, nettoyerSynopsis, afficherErreur, couleurValide, imageValide } from '../lib/outils.js';
 import { itemValide, lienElement } from '../lib/ma-liste.js';
@@ -153,6 +155,24 @@ async function afficherJeux() {
     .catch((erreur) => afficherErreur(recents, erreur));
 }
 
+// ---------- Films et séries ----------
+function afficherFilms() {
+  if (!relaisConfigure()) {
+    document.getElementById('section-films').hidden = true;
+    document.getElementById('section-series').hidden = true;
+    return;
+  }
+  const films = document.getElementById('films-avenir');
+  const series = document.getElementById('series-moment');
+  films.innerHTML = series.innerHTML = squelettesAffiches(6);
+  sortiesFilms('film')
+    .then((liste) => { films.innerHTML = liste.slice(0, 15).map((f) => carteFilm(f, { sous: dateSortieFilm(f.date) })).join(''); })
+    .catch((erreur) => afficherErreur(films, erreur));
+  seriesEnCeMoment()
+    .then((liste) => { series.innerHTML = liste.slice(0, 15).map((f) => carteFilm(f)).join(''); })
+    .catch((erreur) => afficherErreur(series, erreur));
+}
+
 // ---------- Lancement ----------
 afficherSuivis();
 afficherGenres();
@@ -161,4 +181,5 @@ monterCalendrier(document.getElementById('jours'), document.getElementById('cale
 brancherBoutonHasard(document.getElementById('surprends-moi'));
 chargerAnimes();
 afficherJeux();
+afficherFilms();
 afficherActus();
