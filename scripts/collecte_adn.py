@@ -138,7 +138,12 @@ def main():
         "series": series,
         "sorties": sorties,
     }, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
-    print(f"→ data/adn.json : {len(series)} séries ({len(a_rafraichir)} rafraîchies), {len(sorties)} sorties")
+    # Version légère (calendrier seul) pour la vérification horaire des notifications
+    (FICHIER.parent / "adn-sorties.json").write_text(json.dumps({
+        "maj": maintenant.isoformat(timespec="seconds"),
+        "sorties": sorties,
+    }, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    print(f"→ data/adn.json : {len(series)} séries ({len(a_rafraichir)} rafraîchies), {len(sorties)} sorties (+ data/adn-sorties.json)")
 
 
 if __name__ == "__main__":

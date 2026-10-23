@@ -1,192 +1,111 @@
 // =========================================================
-// Relais Radar (Cloudflare Worker)
+// Relais Radar (Cloudflare Worker) : point d'entrée et routes.
 //
 // Pourquoi ce relais ?
-//  - RAWG demande une clé : elle ne doit pas être dans le code du site (visible par tous).
-//    Le relais la garde secrète (variable RAWG_KEY, définie avec `wrangler secret put`).
-//  - Steam n'autorise pas les appels depuis un navigateur (pas de CORS) : le relais,
-//    lui, est un serveur, il peut l'appeler.
+//  - RAWG et TMDB demandent une clé : elle ne doit pas être dans le code du site.
+//  - Steam et MangaUpdates refusent les appels venant d'un navigateur (pas de CORS).
+//  - Les notifications doivent partir d'un serveur, même quand ton navigateur est fermé.
 //
-// Routes (toutes en GET, réponses JSON) :
-//   /jeux?search=&genres=&parent_platforms=&dates=&ordering=&metacritic=&page=&page_size=
-//   /jeu/:id          fiche complète (RAWG + captures + boutiques + série + Steam)
-//   /hasard?…         un jeu au hasard parmi ceux qui correspondent aux filtres
-//   /genres           liste des genres RAWG
+// Routes :
+//   GET    /jeux?…  /jeu/:id  /hasard?…  /genres     jeux vidéo (jeux.js)
+//   GET    /tmdb/recherche?q=                         films et séries (tmdb.js)
+//   GET    /push/cle                                  clé publique des notifications
+//   GET    /liste/:code    PUT /liste/:code           watchlist (comptes.js)
+//   GET    /abo/:code      PUT /abo/:code  DELETE /abo/:code   abonnement aux notifs
+//   PUT    /prefs/:code                               types de notifications voulus
+//   POST   /test/:code                                notification de test
+//   GET    /historique/:code                          dernières notifications
+// Tâche planifiée (toutes les heures) : verification.js
 // =========================================================
+import { filtrer, listeJeux, ficheJeu, hasard, genres } from './jeux.js';
+import { rechercheTmdb } from './tmdb.js';
+import {
+  codeValide, lireListe, ecrireListe, abonner, desabonner, lireAbonnement, changerPrefs, notifTest, lireHistorique, Erreur400,
+} from './comptes.js';
+import { verifier } from './verification.js';
 
-const RAWG = 'https://api.rawg.io/api';
-
-// Paramètres RAWG qu'on accepte de transmettre (le reste est ignoré)
-const PARAMS_AUTORISES = ['search', 'search_precise', 'genres', 'tags', 'platforms', 'parent_platforms', 'dates', 'ordering', 'metacritic', 'page', 'page_size', 'exclude_additions'];
+const TAILLE_MAX = 300_000; // octets acceptés dans un envoi (une liste reste bien en dessous)
 
 export default {
   async fetch(requete, env) {
     const origine = requete.headers.get('Origin') || '';
     const originesOk = (env.ORIGINES || '').split(',').map((o) => o.trim());
-    const entetesCors = {
+    const cors = {
       'Access-Control-Allow-Origin': originesOk.includes(origine) ? origine : originesOk[0],
-      'Access-Control-Allow-Methods': 'GET, OPTIONS',
+      'Access-Control-Allow-Methods': 'GET, PUT, POST, DELETE, OPTIONS',
+      'Access-Control-Allow-Headers': 'Content-Type',
       Vary: 'Origin',
     };
-    if (requete.method === 'OPTIONS') return new Response(null, { headers: entetesCors });
-    if (requete.method !== 'GET') return json({ erreur: 'Méthode non autorisée' }, 405, entetesCors);
+    if (requete.method === 'OPTIONS') return new Response(null, { headers: cors });
 
-    const url = new URL(requete.url);
     try {
-      let donnees;
-      let duree = 3600; // durée de cache conseillée au navigateur (secondes)
-      const fiche = url.pathname.match(/^\/jeu\/(\d+)$/);
-
-      if (url.pathname === '/jeux') {
-        const params = filtrer(url.searchParams);
-        donnees = params.search && !params.ordering
-          ? await rechercheIntelligente(env, params)
-          : await rawg(env, '/games', params);
-      } else if (fiche) {
-        donnees = await ficheJeu(env, fiche[1]);
-        duree = 6 * 3600;
-      } else if (url.pathname === '/hasard') {
-        donnees = await hasard(env, filtrer(url.searchParams));
-        duree = 0;
-      } else if (url.pathname === '/genres') {
-        donnees = await rawg(env, '/genres', { page_size: 40 });
-        duree = 7 * 86400;
-      } else {
-        return json({ erreur: 'Route inconnue' }, 404, entetesCors);
-      }
-      return json(donnees, 200, { ...entetesCors, 'Cache-Control': duree ? `public, max-age=${duree}` : 'no-store' });
+      const { donnees, duree = 0 } = await router(requete, env);
+      return json(donnees, 200, { ...cors, 'Cache-Control': duree ? `public, max-age=${duree}` : 'no-store' });
     } catch (erreur) {
-      return json({ erreur: erreur.message }, 502, entetesCors);
+      const statut = erreur instanceof Erreur400 ? 400 : erreur.statut || 502;
+      return json({ erreur: erreur.message }, statut, cors);
     }
+  },
+
+  // Appelé par Cloudflare toutes les heures (voir [triggers] dans wrangler.toml)
+  async scheduled(evenement, env, ctx) {
+    ctx.waitUntil(verifier(env).then((bilan) => console.log('Vérification :', JSON.stringify(bilan))));
   },
 };
 
+async function router(requete, env) {
+  const url = new URL(requete.url);
+  const methode = requete.method;
+  const chemin = url.pathname;
+  const segments = chemin.split('/').filter(Boolean);
+  const code = segments[1];
+
+  // ---------- Jeux vidéo ----------
+  if (methode === 'GET' && chemin === '/jeux') return { donnees: await listeJeux(env, filtrer(url.searchParams)), duree: 3600 };
+  if (methode === 'GET' && /^\/jeu\/\d+$/.test(chemin)) return { donnees: await ficheJeu(env, segments[1]), duree: 6 * 3600 };
+  if (methode === 'GET' && chemin === '/hasard') return { donnees: await hasard(env, filtrer(url.searchParams)) };
+  if (methode === 'GET' && chemin === '/genres') return { donnees: await genres(env), duree: 7 * 86400 };
+
+  // ---------- Films et séries ----------
+  if (methode === 'GET' && chemin === '/tmdb/recherche') {
+    const texte = (url.searchParams.get('q') || '').trim();
+    if (texte.length < 2) throw new Erreur400('Recherche trop courte');
+    return { donnees: await rechercheTmdb(env, texte), duree: 6 * 3600 };
+  }
+
+  // ---------- Notifications ----------
+  if (methode === 'GET' && chemin === '/push/cle') return { donnees: { cle: env.VAPID_PUBLIQUE }, duree: 86400 };
+
+  // ---------- Routes avec un code perso ----------
+  if (['liste', 'abo', 'prefs', 'test', 'historique'].includes(segments[0])) {
+    if (!codeValide(code)) throw new Erreur400('Code perso invalide');
+    const corps = ['PUT', 'POST', 'DELETE'].includes(methode) ? await lireCorps(requete) : null;
+    const route = `${methode} ${segments[0]}`;
+    if (route === 'GET liste') return { donnees: await lireListe(env, code) };
+    if (route === 'PUT liste') return { donnees: await ecrireListe(env, code, corps) };
+    if (route === 'GET abo') return { donnees: await lireAbonnement(env, code) };
+    if (route === 'PUT abo') return { donnees: await abonner(env, code, corps) };
+    if (route === 'DELETE abo') return { donnees: await desabonner(env, code, corps) };
+    if (route === 'PUT prefs') return { donnees: await changerPrefs(env, code, corps) };
+    if (route === 'POST test') return { donnees: await notifTest(env, code) };
+    if (route === 'GET historique') return { donnees: await lireHistorique(env, code) };
+  }
+
+  const erreur = new Error('Route inconnue');
+  erreur.statut = 404;
+  throw erreur;
+}
+
+async function lireCorps(requete) {
+  const texte = await requete.text();
+  if (texte.length > TAILLE_MAX) throw new Erreur400('Envoi trop gros');
+  try {
+    return texte ? JSON.parse(texte) : {};
+  } catch {
+    throw new Erreur400('JSON invalide');
+  }
+}
+
 function json(donnees, statut, entetes) {
   return new Response(JSON.stringify(donnees), { status: statut, headers: { 'Content-Type': 'application/json; charset=utf-8', ...entetes } });
-}
-
-function filtrer(params) {
-  const propres = {};
-  for (const cle of PARAMS_AUTORISES) if (params.get(cle)) propres[cle] = params.get(cle);
-  if (propres.page_size) propres.page_size = String(Math.min(Number(propres.page_size) || 20, 40));
-  return propres;
-}
-
-// Appel à RAWG avec la clé secrète. `cf.cacheTtl` demande à Cloudflare de garder la réponse.
-async function rawg(env, chemin, params = {}) {
-  if (!env.RAWG_KEY) throw new Error('Clé RAWG absente (wrangler secret put RAWG_KEY)');
-  const url = new URL(RAWG + chemin);
-  for (const [cle, valeur] of Object.entries(params)) url.searchParams.set(cle, valeur);
-  url.searchParams.set('key', env.RAWG_KEY);
-  const reponse = await fetch(url, { cf: { cacheTtl: 3600, cacheEverything: true } });
-  if (!reponse.ok) throw new Error(`RAWG a répondu ${reponse.status}`);
-  return reponse.json();
-}
-
-// ---------- Recherche par titre ----------
-// RAWG trié par pertinence fait remonter des jeux amateurs ("ZELDA (Raul Fernandes)"),
-// trié par popularité il sort des jeux hors sujet ("Batman: Arkham Knight" pour "hollow knight").
-// On combine : résultats pertinents, puis classement maison :
-//   1. le titre contient tous les mots cherchés ;
-//   2. ensuite, le plus populaire (nombre de joueurs qui l'ont ajouté sur RAWG).
-async function rechercheIntelligente(env, params) {
-  const voulus = Number(params.page_size) || 20;
-  const donnees = await rawg(env, '/games', { ...params, search_precise: 'true', page_size: 40 });
-  const mots = normaliser(params.search).split(' ').filter(Boolean);
-  const score = (jeu) => {
-    const nom = normaliser(jeu.name);
-    const tousLesMots = mots.every((m) => nom.includes(m));
-    return (tousLesMots ? 1e9 : 0) + (jeu.added || 0);
-  };
-  donnees.results = donnees.results.sort((a, b) => score(b) - score(a)).slice(0, voulus);
-  return donnees;
-}
-
-const normaliser = (texte) => (texte || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
-
-// ---------- Fiche complète d'un jeu ----------
-async function ficheJeu(env, id) {
-  // 4 appels RAWG en parallèle
-  const [jeu, captures, boutiques, serie] = await Promise.all([
-    rawg(env, `/games/${id}`),
-    rawg(env, `/games/${id}/screenshots`, { page_size: 12 }).catch(() => ({ results: [] })),
-    rawg(env, `/games/${id}/stores`).catch(() => ({ results: [] })),
-    rawg(env, `/games/${id}/game-series`, { page_size: 15 }).catch(() => ({ results: [] })),
-  ]);
-
-  // Liens directs vers les boutiques (la fiche ne donne que le nom de la boutique)
-  const liens = Object.fromEntries(boutiques.results.map((b) => [b.store_id, b.url]));
-  jeu.stores = (jeu.stores || []).map((s) => ({ ...s, url: liens[s.store.id] || null }));
-
-  // Si le jeu est sur Steam : description, configuration et avis en français
-  const lienSteam = jeu.stores.find((s) => s.store.slug === 'steam')?.url;
-  const appid = lienSteam?.match(/\/app\/(\d+)/)?.[1];
-  const steam = appid ? await infosSteam(appid).catch(() => null) : null;
-
-  return {
-    jeu,
-    captures: captures.results.map((c) => c.image),
-    serie: serie.results,
-    steam,
-    configRawg: configurationRawg(jeu),
-  };
-}
-
-async function infosSteam(appid) {
-  const [details, avis] = await Promise.all([
-    fetch(`https://store.steampowered.com/api/appdetails?appids=${appid}&cc=fr&l=french`, { cf: { cacheTtl: 21600 } }).then((r) => r.json()),
-    fetch(`https://store.steampowered.com/appreviews/${appid}?json=1&language=all&num_per_page=0&purchase_type=all`, { cf: { cacheTtl: 21600 } })
-      .then((r) => r.json()).catch(() => null),
-  ]);
-  const d = details?.[appid]?.data;
-  if (!d) return null;
-  return {
-    appid,
-    url: `https://store.steampowered.com/app/${appid}`,
-    description: d.short_description,
-    prix: d.is_free ? 'Gratuit' : d.price_overview?.final_formatted || null,
-    reduction: d.price_overview?.discount_percent || 0,
-    recommandations: d.recommendations?.total || null,
-    metacritic: d.metacritic?.score || null,
-    config: {
-      minimum: lignesConfig(d.pc_requirements?.minimum),
-      recommande: lignesConfig(d.pc_requirements?.recommended),
-    },
-    avis: avis?.query_summary?.total_reviews
-      ? { resume: avis.query_summary.review_score_desc, positifs: avis.query_summary.total_positive, total: avis.query_summary.total_reviews }
-      : null,
-  };
-}
-
-// Transforme le HTML de Steam ("<li><strong>Processeur :</strong> i5</li>…") en lignes de texte
-function lignesConfig(html) {
-  if (!html || typeof html !== 'string') return [];
-  return html
-    .replace(/<br\s*\/?>/gi, '\n')
-    .split(/<li>|\n/)
-    .map((ligne) => ligne.replace(/<[^>]+>/g, '').replace(/&nbsp;/g, ' ').replace(/\s+/g, ' ').trim())
-    .filter((ligne) => ligne && !/^(minimum|minimale|recommand[ée]e?s?)\s*:?$/i.test(ligne));
-}
-
-// RAWG donne la config PC en texte anglais "Minimum:\nOS: …\nProcessor: …"
-function configurationRawg(jeu) {
-  const pc = (jeu.platforms || []).find((p) => p.platform.slug === 'pc');
-  const req = pc?.requirements || pc?.requirements_en;
-  if (!req) return null;
-  const decouper = (texte) => (texte || '').split('\n').map((l) => l.trim()).filter((l) => l && !/^(minimum|recommended):?$/i.test(l));
-  return { minimum: decouper(req.minimum), recommande: decouper(req.recommended) };
-}
-
-// ---------- Jeu au hasard ----------
-// RAWG donne un nombre de résultats fiable : on tire une page au hasard parmi les
-// plus populaires (2000 max) puis un jeu au hasard dans cette page.
-async function hasard(env, filtres) {
-  const base = { ordering: '-added', exclude_additions: 'true', ...filtres, page_size: 40 };
-  const premiere = await rawg(env, '/games', { ...base, page: 1 });
-  const total = Math.min(premiere.count, 2000);
-  if (!total) return { jeu: null };
-  const page = 1 + Math.floor(Math.random() * Math.ceil(total / 40));
-  const liste = page === 1 ? premiere : await rawg(env, '/games', { ...base, page });
-  const jeux = liste.results.length ? liste.results : premiere.results;
-  return { jeu: jeux[Math.floor(Math.random() * jeux.length)] };
 }

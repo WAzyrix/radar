@@ -6,6 +6,21 @@ compatibility_date = "2026-10-01"
 [vars]
 # Sites autorisés à appeler le relais (séparés par des virgules)
 ORIGINES = "https://wazyrix.github.io,http://localhost:8000"
+# Adresse du site (liens dans les notifications, fichier data/adn.json)
+SITE = "https://wazyrix.github.io/radar/"
+# Clé PUBLIQUE des notifications web (la privée est un secret : VAPID_PRIVE)
+VAPID_PUBLIQUE = "BDrLw-_L5jBFYKGCjkjlkYauEpjkMgeKQrpZaL6BWc4qSy9_IA0_xdne3lNqJ9loIql-pyrFIqGg3ZKMkM9QN0k"
 
-# La clé RAWG n'est PAS ici : elle est stockée chez Cloudflare avec
-#   npx wrangler secret put RAWG_KEY
+# Petite base de données clé/valeur : listes, abonnements aux notifs, état des vérifications
+[[kv_namespaces]]
+binding = "RADAR_KV"
+id = "cff54157e6ad4d24adb531a1594ee5aa"
+
+# Vérification des nouveautés toutes les heures (à la 5e minute)
+[triggers]
+crons = ["5 * * * *"]
+
+# Secrets (jamais dans ce fichier), définis avec `npx wrangler secret put NOM` :
+#   RAWG_KEY     clé API RAWG (jeux)
+#   TMDB_KEY     clé API TMDB (films et séries)
+#   VAPID_PRIVE  clé privée des notifications web (JWK)
