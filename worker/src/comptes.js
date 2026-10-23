@@ -14,6 +14,8 @@
 import { envoyerPush } from './push.js';
 
 export const codeValide = (code) => /^[a-f0-9]{32}$/.test(code || '');
+// Identifiant AniList / RAWG / TMDB : un entier positif
+export const idValide = (id) => (Number.isInteger(id) && id > 0) || (typeof id === 'string' && /^\d{1,12}$/.test(id));
 
 const TYPES = ['anime', 'manga', 'film', 'serie', 'jeu'];
 export const PREFS_DEFAUT = { episode: true, vostfr: true, suite: true, manga: true, serie: true, film: true, jeu: true };
@@ -31,14 +33,14 @@ export async function ecrireListe(env, code, donnees) {
   if (donnees.items.length > 2000) throw new Erreur400('Liste trop longue');
   // On ne garde que les champs connus (rien d'autre ne peut être stocké)
   const items = donnees.items
-    .filter((i) => TYPES.includes(i.type) && (typeof i.id === 'number' || typeof i.id === 'string'))
+    .filter((i) => i && TYPES.includes(i.type) && idValide(i.id))
     .map((i) => ({
       type: i.type,
-      id: i.id,
+      id: Number(i.id),
       titre: String(i.titre || '').slice(0, 200),
       titres: Array.isArray(i.titres) ? i.titres.slice(0, 5).map((t) => String(t).slice(0, 200)) : undefined,
-      image: String(i.image || '').slice(0, 500),
-      couleur: i.couleur ? String(i.couleur).slice(0, 20) : undefined,
+      image: /^https:\/\//.test(i.image || '') ? String(i.image).slice(0, 500) : '',
+      couleur: /^#[0-9a-f]{6}$/i.test(i.couleur || '') ? i.couleur : undefined,
       statut: i.statut ? String(i.statut).slice(0, 20) : undefined,
       sortie: i.sortie ? String(i.sortie).slice(0, 10) : undefined,
       adn: typeof i.adn === 'number' ? i.adn : undefined,

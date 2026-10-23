@@ -4,7 +4,7 @@
 // chat…) sous mon code perso. On peut en effacer une, ou tout effacer.
 // =========================================================
 import { codePerso, appelRelais } from '../lib/ma-liste.js';
-import { echapper, ilYa } from '../lib/outils.js';
+import { el, gabarit, ilYa, imageValide } from '../lib/outils.js';
 import { ICONES } from './icones.js';
 
 const RAFRAICHIR = 5 * 60_000; // revérifie toutes les 5 minutes tant que la page est ouverte
@@ -85,7 +85,7 @@ async function marquerToutLu() {
 // Les liens des notifications pointent vers le site en ligne : on les rend relatifs,
 // pour rester sur la même version du site (utile en local)
 function lienLocal(url) {
-  if (!url) return '#';
+  if (!/^https?:\/\//.test(url || '')) return '#';
   const page = url.match(/\/radar\/([^/]+\.html.*|)$/);
   return page ? page[1] || './' : url;
 }
@@ -100,14 +100,15 @@ function mettreAJourPastille() {
 function afficher() {
   mettreAJourPastille();
   const liste = racine.querySelector('.cloche-liste');
-  liste.innerHTML = notifs.length
-    ? notifs.map((n) => `
-      <li class="${n.lu ? '' : 'non-lue'}">
-        <a href="${echapper(lienLocal(n.url))}">
-          ${n.image ? `<img src="${echapper(n.image)}" alt="" loading="lazy">` : `<span class="cloche-icone">${ICONES.cloche}</span>`}
-          <div><b>${echapper(n.titre)}</b>${n.corps ? `<span>${echapper(n.corps)}</span>` : ''}<small>${ilYa(n.date)}</small></div>
-          ${n.id ? `<button type="button" class="cloche-effacer" data-effacer="${echapper(n.id)}" aria-label="Effacer cette notification">×</button>` : ''}
-        </a>
-      </li>`).join('')
-    : '<li class="cloche-vide">Rien de neuf pour l\'instant.<br><small>Suis des animés, des jeux ou des séries : leurs nouveautés arriveront ici.</small></li>';
+  // Titres et textes peuvent venir de mes potes (chat, recommandations) : nœuds texte uniquement
+  liste.replaceChildren(...(notifs.length
+    ? notifs.map((n) => {
+      const image = imageValide(n.image);
+      return el('li', { class: n.lu ? '' : 'non-lue' },
+        el('a', { href: lienLocal(n.url) },
+          image ? el('img', { src: image, alt: '', loading: 'lazy' }) : el('span', { class: 'cloche-icone' }, gabarit(ICONES.cloche)),
+          el('div', {}, el('b', {}, String(n.titre ?? '')), n.corps ? el('span', {}, String(n.corps)) : null, el('small', {}, ilYa(n.date))),
+          n.id ? el('button', { type: 'button', class: 'cloche-effacer', 'data-effacer': n.id, 'aria-label': 'Effacer cette notification' }, '×') : null));
+    })
+    : [gabarit('<li class="cloche-vide">Rien de neuf pour l\'instant.<br><small>Suis des animés, des jeux ou des séries : leurs nouveautés arriveront ici.</small></li>')]));
 }

@@ -31,11 +31,11 @@ export const plateformesCourtes = (jeu) => (jeu.parent_platforms || []).map((p) 
 export function carteJeu(jeu, { sous, statut } = {}) {
   const genres = (jeu.genres || []).slice(0, 2).map((g) => GENRES_JEUX[g.slug] || g.name).join(' · ');
   return `
-    <a class="carte-jeu" href="jeu.html?id=${jeu.id}">
+    <a class="carte-jeu" href="jeu.html?id=${Number(jeu.id)}">
       <div class="carte-jeu-image">
-        ${jeu.background_image ? `<img src="${imageReduite(jeu.background_image)}" alt="" loading="lazy">` : ''}
-        ${badgeMetacritic(jeu.metacritic)}
-        ${statut ? `<span class="affiche-etiquette">${STATUTS_JEU[statut].court}</span>` : ''}
+        ${jeu.background_image ? `<img src="${echapper(imageReduite(jeu.background_image))}" alt="" loading="lazy">` : ''}
+        ${badgeMetacritic(Number(jeu.metacritic))}
+        ${STATUTS_JEU[statut] ? `<span class="affiche-etiquette">${STATUTS_JEU[statut].court}</span>` : ''}
       </div>
       <div class="affiche-titre">${echapper(jeu.name)}</div>
       <div class="affiche-sous">${echapper(sous ?? [dateSortie(jeu), genres].filter(Boolean).join(' · '))}</div>

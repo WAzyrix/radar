@@ -4,7 +4,7 @@
 // comptes sont configurés : les pages restent légères sinon.
 // =========================================================
 import { SUPABASE_URL, URL_RELAIS } from '../config.js';
-import { echapper } from '../lib/outils.js';
+import { el, gabarit, uuidValide } from '../lib/outils.js';
 import { ICONES } from './icones.js';
 
 const comptesConfigures = () => !SUPABASE_URL.includes('A-REMPLACER');
@@ -26,49 +26,50 @@ export async function brancherRecommandation(item, zonePotes) {
 
   const potes = await compte.potesQuiSuivent(item.type, item.id).catch(() => []);
   if (potes.length && zonePotes) {
-    zonePotes.innerHTML = `<span class="potes-suivent">${potes.map((p) => `<i title="${echapper(p.pseudo)}">${echapper(p.avatar)}</i>`).join('')}
-      ${potes.length === 1 ? `${echapper(potes[0].pseudo)} suit aussi` : `${potes.length} potes suivent aussi`}</span>`;
+    // Pseudos et avatars viennent de la base : nœuds texte uniquement
+    zonePotes.replaceChildren(el('span', { class: 'potes-suivent' },
+      potes.map((p) => el('i', { title: p.pseudo }, p.avatar)),
+      ' ', potes.length === 1 ? `${potes[0].pseudo} suit aussi` : `${potes.length} potes suivent aussi`));
   }
 }
 
 async function ouvrir(compte, item) {
-  const dialogue = document.createElement('dialog');
-  dialogue.className = 'dialogue';
+  const dialogue = el('dialog', { class: 'dialogue' }, el('div', { class: 'squelette', style: { height: '160px' } }));
   document.body.append(dialogue);
   dialogue.addEventListener('close', () => dialogue.remove());
-  dialogue.innerHTML = '<div class="squelette" style="height:160px"></div>';
   dialogue.showModal();
 
   const connecte = await compte.utilisateur();
   const [potes, groupes] = connecte
     ? await Promise.all([compte.mesPotes().catch(() => []), compte.mesGroupes().catch(() => [])])
     : [null, []];
+  const titre = el('h3', {}, `Recommander ${item.titre}`);
   if (!potes?.length) {
-    dialogue.innerHTML = `
-      <h3>Recommander ${echapper(item.titre)}</h3>
-      <p>${potes ? "Tu n'as pas encore de potes dans ton groupe." : 'Connecte-toi pour recommander à tes potes.'}</p>
-      <div class="actions"><a class="bouton bouton-plein bouton-petit" href="potes.html">Aller dans Potes</a>
-      <button type="button" class="bouton bouton-verre bouton-petit" data-fermer>Fermer</button></div>`;
+    dialogue.replaceChildren(titre,
+      el('p', {}, potes ? "Tu n'as pas encore de potes dans ton groupe." : 'Connecte-toi pour recommander à tes potes.'),
+      gabarit(`<div class="actions"><a class="bouton bouton-plein bouton-petit" href="potes.html">Aller dans Potes</a>
+        <button type="button" class="bouton bouton-verre bouton-petit" data-fermer>Fermer</button></div>`));
     dialogue.querySelector('[data-fermer]').addEventListener('click', () => dialogue.close());
     return;
   }
 
   const choisis = new Set();
   const groupesChoisis = new Set();
-  dialogue.innerHTML = `
-    <form method="dialog" id="form-reco">
-      <h3>Recommander ${echapper(item.titre)}</h3>
-      <span class="etiquette">À qui ?</span>
-      <div class="puces">${potes.map((p) => `<button type="button" class="puce" data-pote="${p.id}">${echapper(p.avatar)} ${echapper(p.pseudo)}</button>`).join('')}
-        ${groupes.map((g) => `<button type="button" class="puce" data-groupe="${g.id}">💬 Chat « ${echapper(g.nom)} »</button>`).join('')}</div>
+  const dejaEnvoye = new Set(); // potes déjà servis (si on réessaie après une erreur)
+  dialogue.replaceChildren(el('form', { method: 'dialog', id: 'form-reco' },
+    titre,
+    el('span', { class: 'etiquette' }, 'À qui ?'),
+    el('div', { class: 'puces' },
+      potes.filter((p) => uuidValide(p.id)).map((p) => el('button', { type: 'button', class: 'puce', 'data-pote': p.id }, `${p.avatar} ${p.pseudo}`)),
+      groupes.filter((g) => uuidValide(g.id)).map((g) => el('button', { type: 'button', class: 'puce', 'data-groupe': g.id }, `💬 Chat « ${g.nom} »`))),
+    gabarit(`
       <label class="etiquette" for="message-reco" style="margin-top:14px">Un mot ? (facultatif)</label>
       <textarea class="champ" id="message-reco" maxlength="280" rows="3" placeholder="Regarde ça, tu vas adorer !"></textarea>
       <p class="message-notif" id="retour-reco" hidden></p>
       <div class="actions" style="margin-top:14px">
         <button type="button" class="bouton bouton-plein bouton-petit" id="envoyer-reco">Envoyer</button>
         <button type="button" class="bouton bouton-verre bouton-petit" data-fermer>Annuler</button>
-      </div>
-    </form>`;
+      </div>`)));
 
   dialogue.querySelector('.puces').addEventListener('click', (e) => {
     const b = e.target.closest('[data-pote], [data-groupe]');
@@ -78,25 +79,31 @@ async function ouvrir(compte, item) {
     b.classList.toggle('actif', ensemble.has(valeur));
   });
   dialogue.querySelector('[data-fermer]').addEventListener('click', () => dialogue.close());
-  dialogue.querySelector('#envoyer-reco').addEventListener('click', async (e) => {
+  const boutonEnvoyer = dialogue.querySelector('#envoyer-reco');
+  boutonEnvoyer.addEventListener('click', async () => {
     const retour = dialogue.querySelector('#retour-reco');
     if (!choisis.size && !groupesChoisis.size) { retour.hidden = false; retour.textContent = 'Choisis au moins un pote ou un chat.'; return; }
-    e.currentTarget.disabled = true;
+    boutonEnvoyer.disabled = true;
     try {
       const jeton = await compte.jeton();
       const message = dialogue.querySelector('#message-reco').value.trim();
+      const element = { type: item.type, id: item.id, titre: item.titre, image: item.image };
       // Le relais vérifie qui je suis, enregistre la reco et notifie le pote
       for (const a of choisis) {
+        if (dejaEnvoye.has(a)) continue;
         const reponse = await fetch(`${URL_RELAIS}/recommander`, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${jeton}` },
-          body: JSON.stringify({ a, item: { type: item.type, id: item.id, titre: item.titre, image: item.image }, message }),
+          body: JSON.stringify({ a, item: element, message }),
         });
         if (!reponse.ok) throw new Error((await reponse.json().catch(() => ({}))).erreur || 'Envoi impossible');
+        dejaEnvoye.add(a);
       }
       // Partage dans le chat des groupes choisis
       for (const groupeId of groupesChoisis) {
-        await compte.envoyerMessage(groupeId, { contenu: message, item: { type: item.type, id: item.id, titre: item.titre, image: item.image } });
+        if (dejaEnvoye.has(groupeId)) continue;
+        await compte.envoyerMessage(groupeId, { contenu: message, item: element });
+        dejaEnvoye.add(groupeId);
       }
       retour.hidden = false;
       retour.textContent = 'Recommandation envoyée ✅';
@@ -104,7 +111,7 @@ async function ouvrir(compte, item) {
     } catch (erreur) {
       retour.hidden = false;
       retour.textContent = `⚠️ ${erreur.message}`;
-      e.currentTarget.disabled = false;
+      boutonEnvoyer.disabled = false;
     }
   });
 }

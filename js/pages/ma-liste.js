@@ -4,7 +4,7 @@
 import * as maListe from '../lib/ma-liste.js';
 import * as notifs from '../lib/notifications.js';
 import { rechercheFilmsSeries } from '../api/films.js';
-import { echapper, ilYa, afficherErreur, antiRebond } from '../lib/outils.js';
+import { echapper, ilYa, afficherErreur, antiRebond, couleurValide, imageValide } from '../lib/outils.js';
 import { afficherNavigation } from '../ui/nav.js';
 import { carteJeuListe } from '../ui/cartes-jeux.js';
 import { ICONES } from '../ui/icones.js';
@@ -22,12 +22,6 @@ let filtre = new URLSearchParams(location.search).get('type') || '';
 // Étape choisie (À voir / En cours / Vu), retenue d'une visite à l'autre
 let etape = localStorage.getItem('radar:etape') || '';
 
-function lien(item) {
-  if (item.type === 'anime' || item.type === 'manga') return `anime.html?id=${item.id}`;
-  if (item.type === 'jeu') return `jeu.html?id=${item.id}`;
-  return `https://www.themoviedb.org/${item.type === 'film' ? 'movie' : 'tv'}/${item.id}`;
-}
-
 const boutonRetirer = (item) => `<button type="button" class="retirer" data-type="${item.type}" data-id="${echapper(item.id)}" title="Retirer de ma liste" aria-label="Retirer ${echapper(item.titre)}">×</button>`;
 
 function carteItem(item) {
@@ -35,8 +29,8 @@ function carteItem(item) {
   const externe = item.type === 'film' || item.type === 'serie';
   return `
     <div class="avec-retirer">
-      <a class="affiche" href="${lien(item)}" ${externe ? 'target="_blank" rel="noopener"' : ''} style="--couleur:${item.couleur || '#1a1a24'}">
-        <div class="affiche-image">${item.image ? `<img src="${echapper(item.image)}" alt="" loading="lazy">` : ''}</div>
+      <a class="affiche" href="${maListe.lienElement(item)}" ${externe ? 'target="_blank" rel="noopener noreferrer"' : ''} style="--couleur:${couleurValide(item.couleur) || '#1a1a24'}">
+        <div class="affiche-image">${imageValide(item.image) ? `<img src="${echapper(item.image)}" alt="" loading="lazy">` : ''}</div>
         <div class="affiche-titre">${echapper(item.titre)}</div>
         <div class="affiche-sous">${maListe.TYPES[item.type].un}${item.sortie ? ` · ${item.sortie.slice(0, 4)}` : ''}</div>
       </a>
@@ -46,7 +40,7 @@ function carteItem(item) {
 }
 
 function afficherListe() {
-  const tous = maListe.items();
+  const tous = maListe.items().filter(maListe.itemValide);
   // Filtres par type, avec le nombre d'éléments
   $('filtres-types').innerHTML = [['', 'Tout', tous.length], ...Object.entries(maListe.TYPES).map(([t, info]) => [t, info.nom, tous.filter((i) => i.type === t).length])]
     .map(([t, nom, nb]) => `<button type="button" data-type="${t}" class="${t === filtre ? 'actif' : ''}">${nom}${nb ? ` <span style="opacity:.6">${nb}</span>` : ''}</button>`).join('');

@@ -8,6 +8,7 @@
 // - En cas de différence entre deux appareils, la version la plus récente gagne.
 // =========================================================
 import { URL_RELAIS } from '../config.js';
+import { idValide } from './outils.js';
 
 const CLE_LISTE = 'radar:liste';
 const CLE_CODE = 'radar:code';
@@ -18,6 +19,18 @@ export const TYPES = {
   film: { nom: 'Films', un: 'Film' },
   jeu: { nom: 'Jeux', un: 'Jeu' },
 };
+
+// Un élément de liste bien formé (ceux des potes viennent de la base : on ne leur fait pas confiance)
+export const itemValide = (i) => Boolean(i && typeof i === 'object' && TYPES[i.type] && idValide(i.id));
+
+/** Adresse de la fiche d'un élément (animé, jeu, film…), ou null si l'élément est invalide. */
+export function lienElement(item) {
+  if (!itemValide(item)) return null;
+  const id = Number(item.id);
+  if (item.type === 'anime' || item.type === 'manga') return `anime.html?id=${id}`;
+  if (item.type === 'jeu') return `jeu.html?id=${id}`;
+  return `https://www.themoviedb.org/${item.type === 'film' ? 'movie' : 'tv'}/${id}`;
+}
 
 // ---------- Lecture / écriture locale ----------
 function lireLocal() {

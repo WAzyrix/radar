@@ -8,6 +8,34 @@ export function echapper(texte) {
   return String(texte ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 }
 
+// Crée un élément HTML sans jamais interpréter les données comme du HTML :
+// les textes passent par des nœuds texte, les attributs par setAttribute.
+// À utiliser pour tout ce qui vient de la base (pseudos, messages, listes des potes…).
+//   el('a', { href: '…', class: 'pote', style: { '--couleur': '#ff0000' } }, 'texte', autreElement)
+export function el(balise, attributs = {}, ...enfants) {
+  const element = document.createElement(balise);
+  for (const [nom, valeur] of Object.entries(attributs)) {
+    if (valeur === undefined || valeur === null || valeur === false) continue;
+    if (nom === 'style') for (const [propriete, v] of Object.entries(valeur)) element.style.setProperty(propriete, v);
+    else element.setAttribute(nom, valeur === true ? '' : valeur);
+  }
+  element.append(...enfants.flat().filter((e) => e !== undefined && e !== null && e !== false && e !== ''));
+  return element;
+}
+
+// Morceau de HTML écrit EN DUR dans le code (jamais de données) -> nœuds à insérer
+export function gabarit(html) {
+  const modele = document.createElement('template');
+  modele.innerHTML = html;
+  return modele.content;
+}
+
+// ---------- Validation des données venant de la base ----------
+export const idValide = (id) => (Number.isInteger(id) && id > 0) || (typeof id === 'string' && /^\d{1,12}$/.test(id));
+export const uuidValide = (v) => /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(v || '');
+export const couleurValide = (c) => (/^#[0-9a-f]{6}$/i.test(c || '') ? c : null);
+export const imageValide = (url) => (typeof url === 'string' && /^https:\/\//.test(url) ? url : null);
+
 // Titre affiché : anglais s'il existe, sinon romaji.
 export const titre = (media) => media.title.english || media.title.romaji;
 
@@ -62,5 +90,5 @@ export function antiRebond(fonction, delai = 350) {
 
 // Petit raccourci pour afficher une erreur dans un conteneur
 export function afficherErreur(conteneur, erreur) {
-  conteneur.innerHTML = `<div class="erreur">Oups : ${echapper(erreur.message)}</div>`;
+  conteneur.replaceChildren(el('div', { class: 'erreur' }, `Oups : ${erreur.message}`));
 }

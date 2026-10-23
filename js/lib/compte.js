@@ -149,7 +149,8 @@ export async function mesPotes() {
     supabase().from('profils').select('id, pseudo, avatar').neq('id', u.id).then(verifier),
     supabase().from('listes').select('user_id, items, maj').neq('user_id', u.id).then(verifier),
   ]);
-  const listeDe = new Map(listes.map((l) => [l.user_id, l.items]));
+  // Les listes viennent de la base : on écarte les éléments mal formés
+  const listeDe = new Map(listes.map((l) => [l.user_id, Array.isArray(l.items) ? l.items.filter(maListe.itemValide) : []]));
   // RLS ne renvoie que les profils des membres de mes groupes : ce sont mes potes
   return profils.map((p) => ({ ...p, items: listeDe.get(p.id) || [] }));
 }
@@ -157,7 +158,7 @@ export async function mesPotes() {
 /** Les potes qui suivent cet élément (pour afficher "3 potes suivent" sur une fiche). */
 export async function potesQuiSuivent(type, id) {
   if (!(await utilisateur())) return [];
-  return (await mesPotes()).filter((p) => p.items.some((i) => i.type === type && i.id === id));
+  return (await mesPotes()).filter((p) => p.items.some((i) => i.type === type && Number(i.id) === Number(id)));
 }
 
 // ---------- Recommandations ----------

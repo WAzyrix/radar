@@ -5,7 +5,8 @@ import { tendancesEtSaison } from '../api/animes.js';
 import { sortiesAVenir, sortiesRecentes, relaisConfigure } from '../api/jeux.js';
 import { carteJeu, squelettesJeux } from '../ui/cartes-jeux.js';
 import { chargerActus, CATEGORIES } from '../api/actus.js';
-import { echapper, titre, note, nettoyerSynopsis, afficherErreur } from '../lib/outils.js';
+import { echapper, titre, note, nettoyerSynopsis, afficherErreur, couleurValide, imageValide } from '../lib/outils.js';
+import { itemValide, lienElement } from '../lib/ma-liste.js';
 import { FORMATS_FR, SAISONS_FR, GENRES_VEDETTES } from '../lib/traductions.js';
 import { listeSuivis } from '../lib/suivis.js';
 import { estTermine } from '../lib/statuts.js';
@@ -101,9 +102,10 @@ function afficherSuivis() {
   const suivis = listeSuivis().filter((a) => !estTermine(a)); // sans ceux déjà vus
   if (!suivis.length) return;
   document.getElementById('section-suivis').hidden = false;
-  document.getElementById('suivis').innerHTML = suivis.slice().reverse().map((s) => `
-    <a class="affiche" href="anime.html?id=${s.id}" style="--couleur:${s.couleur || '#1a1a24'}">
-      <div class="affiche-image"><img src="${s.image}" alt="" loading="lazy"></div>
+  // La liste est synchronisée via le relais : id, couleur et image sont vérifiés avant affichage
+  document.getElementById('suivis').innerHTML = suivis.filter(itemValide).reverse().map((s) => `
+    <a class="affiche" href="${lienElement(s)}" style="--couleur:${couleurValide(s.couleur) || '#1a1a24'}">
+      <div class="affiche-image"><img src="${echapper(imageValide(s.image) || '')}" alt="" loading="lazy"></div>
       <div class="affiche-titre">${echapper(s.titre)}</div>
     </a>`).join('');
 }

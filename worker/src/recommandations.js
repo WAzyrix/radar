@@ -5,7 +5,9 @@
 // le code perso du destinataire pour lui envoyer la notification, et ce code
 // est secret : seul le relais, avec la clé "service" de Supabase, peut le lire.
 // =========================================================
-import { notifier, Erreur400 } from './comptes.js';
+import { notifier, idValide, Erreur400 } from './comptes.js';
+
+const TYPES = ['anime', 'manga', 'film', 'serie', 'jeu'];
 
 // Requête à l'API REST de Supabase avec la clé "service" (droits complets : à garder secrète)
 export async function supabase(env, chemin, options = {}) {
@@ -37,12 +39,12 @@ export async function utilisateurConnecte(env, requete) {
   return reponse.json();
 }
 
-const UUID = /^[0-9a-f-]{36}$/;
+const UUID = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/;
 
 export async function recommander(env, requete, corps) {
   const moi = await utilisateurConnecte(env, requete);
   const { a, item, message } = corps || {};
-  if (!UUID.test(a || '') || !item?.type || item.id === undefined || !item.titre) throw new Erreur400('Recommandation invalide');
+  if (!UUID.test(a || '') || !TYPES.includes(item?.type) || !idValide(item.id) || !item.titre) throw new Erreur400('Recommandation invalide');
 
   // Le destinataire doit être dans un de mes groupes
   const [mesGroupes, sesGroupes] = await Promise.all([
@@ -53,10 +55,10 @@ export async function recommander(env, requete, corps) {
   if (!sesGroupes.some((m) => communs.has(m.groupe_id))) throw new Erreur400("Cette personne n'est pas dans tes groupes");
 
   const element = {
-    type: String(item.type).slice(0, 10),
-    id: item.id,
+    type: item.type,
+    id: Number(item.id),
     titre: String(item.titre).slice(0, 200),
-    image: String(item.image || '').slice(0, 500),
+    image: /^https:\/\//.test(item.image || '') ? String(item.image).slice(0, 500) : '',
   };
   const texte = message ? String(message).slice(0, 280) : null;
   await supabase(env, 'recommandations', {
