@@ -33,6 +33,10 @@
       {
         "nom": "Gematsu",
         "url": "https://www.gematsu.com/feed"
+      },
+      {
+        "nom": "Wololo",
+        "url": "https://wololo.net/feed/"
       }
     ],
     "tags": {
@@ -121,6 +125,37 @@
         "iOS",
         "android",
         "smartphone"
+      ],
+      "Consoles": [
+        "console*",
+        "hardware",
+        "materiel",
+        "firmware",
+        "mise a jour systeme",
+        "system update",
+        "Switch 2",
+        "PS5 Pro",
+        "Steam Deck",
+        "ROG Ally",
+        "manette",
+        "controller",
+        "correctif",
+        "hotfix",
+        "panne",
+        "bug"
+      ],
+      "Jailbreak & homebrew": [
+        "jailbreak*",
+        "homebrew",
+        "CFW",
+        "custom firmware",
+        "exploit",
+        "hack*",
+        "piratage",
+        "emulat*",
+        "emulator*",
+        "modchip",
+        "kernel"
       ]
     }
   },
