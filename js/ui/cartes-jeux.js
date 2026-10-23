@@ -10,8 +10,9 @@ import { STATUTS_JEU } from '../lib/listes-jeux.js';
 // ".../media/games/ab/xyz.jpg" -> ".../media/crop/600/400/games/ab/xyz.jpg"
 export const imageReduite = (url) => (url || '').replace(/\/media\/(games|screenshots)\//, '/media/crop/600/400/$1/');
 
-export function badgeMetacritic(note) {
-  return note ? `<span class="metacritic" style="--mc:${couleurMetacritic(note)}" title="Note Metacritic">${note}</span>` : '';
+// `enLigne` : dans une ligne de texte (et pas en coin d'une image)
+export function badgeMetacritic(note, { enLigne = false } = {}) {
+  return note ? `<span class="metacritic ${enLigne ? 'en-ligne' : ''}" style="--mc:${couleurMetacritic(note)}" title="Note Metacritic">${note}</span>` : '';
 }
 
 // "12 nov. 2026", "dans 5 jours", "Date à venir"

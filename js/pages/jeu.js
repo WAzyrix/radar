@@ -112,10 +112,12 @@ function afficherFiche({ jeu, captures, serie, steam, configRawg }) {
   document.title = `${jeu.name} · Radar`;
   const couleur = jeu.saturated_color || jeu.dominant_color;
   if (couleur && couleur !== '0f0f0f') appliquerAccent(`#${couleur}`);
+  else document.documentElement.style.setProperty('--accent', '#6ee7a8'); // vert "jeux" par défaut
+  jeu.metacritic ||= steam?.metacritic; // RAWG n'a pas toujours la note, Steam si
 
   const genres = (jeu.genres || []).map((g) => GENRES_JEUX[g.slug] || g.name).join(' · ');
   const meta = [
-    badgeMetacritic(jeu.metacritic).replace('class="metacritic"', 'class="metacritic en-ligne" style="margin:0"'),
+    badgeMetacritic(jeu.metacritic, { enLigne: true }),
     `<span>${echapper(dateSortie(jeu))}</span>`,
     jeu.developers?.[0] && `<span>${echapper(jeu.developers[0].name)}</span>`,
     jeu.playtime && `<span>~${jeu.playtime} h de jeu</span>`,

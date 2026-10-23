@@ -41,9 +41,14 @@ async function afficherSorties(vue) {
       if (!parMois.has(mois)) parMois.set(mois, []);
       parMois.get(mois).push(j);
     }
-    zone.innerHTML = [...parMois].map(([mois, liste]) => `
-      <h3 class="titre-mois">${mois}</h3>
-      <div class="grille-jeux">${liste.map((j) => carteJeu(j)).join('')}</div>`).join('');
+    // En tête : les plus attendus (ceux que le plus de joueurs ont ajoutés sur RAWG)
+    const attendus = [...jeux].sort((a, b) => (b.added || 0) - (a.added || 0)).slice(0, 10);
+    zone.innerHTML = `
+      <h3 class="titre-mois">Les plus attendus</h3>
+      <div class="carrousel jeux pleine-largeur">${attendus.map((j) => carteJeu(j)).join('')}</div>
+      ${[...parMois].map(([mois, liste]) => `
+        <h3 class="titre-mois">${mois}</h3>
+        <div class="grille-jeux">${liste.map((j) => carteJeu(j)).join('')}</div>`).join('')}`;
   } catch (erreur) {
     afficherErreur(zone, erreur);
   }
@@ -215,7 +220,7 @@ function carteProposition(j) {
       <div class="proposition-contenu">
         <div>
           <div class="surtitre">Et pourquoi pas…</div>
-          <h3>${echapper(j.name)} ${badgeMetacritic(j.metacritic).replace('class="metacritic"', 'class="metacritic en-ligne"')}</h3>
+          <h3>${echapper(j.name)} ${badgeMetacritic(j.metacritic, { enLigne: true })}</h3>
           <div class="meta"><span>${echapper(dateSortie(j))}</span>${genres ? `<span>${echapper(genres)}</span>` : ''}<span>${echapper(plateformesCourtes(j))}</span></div>
           <div class="actions" style="margin-top:14px">
             <a class="bouton bouton-plein bouton-petit" href="jeu.html?id=${j.id}">${ICONES.info}Voir la fiche</a>

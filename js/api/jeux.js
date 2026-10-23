@@ -60,16 +60,21 @@ function parametres(f = {}) {
 
 // ---------- Listes ----------
 
+// Sur RAWG, beaucoup de petits jeux n'intéressent personne (0 joueur les a ajoutés).
+// On les écarte des listes de sorties pour garder les jeux qui comptent.
+const POPULARITE_MIN = 3;
+const assezConnus = (jeux) => jeux.filter((j) => (j.added || 0) >= POPULARITE_MIN);
+
 /** Jeux qui sortent dans les `jours` prochains jours, triés par date. */
 export async function sortiesAVenir(jours = 180) {
   const data = await relais('/jeux', { dates: `${decaler(1)},${decaler(jours)}`, ordering: '-added', page_size: 40, exclude_additions: 'true' }, { duree: 6 * HEURE });
-  return data.results.sort((a, b) => (a.released || '').localeCompare(b.released || ''));
+  return assezConnus(data.results).sort((a, b) => (a.released || '').localeCompare(b.released || ''));
 }
 
 /** Jeux sortis ces `jours` derniers jours, les plus suivis d'abord. */
 export async function sortiesRecentes(jours = 45) {
   const data = await relais('/jeux', { dates: `${decaler(-jours)},${decaler(0)}`, ordering: '-added', page_size: 40, exclude_additions: 'true' }, { duree: 6 * HEURE });
-  return data.results;
+  return assezConnus(data.results);
 }
 
 export async function explorerJeux(filtres, page = 1) {

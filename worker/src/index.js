@@ -38,7 +38,10 @@ export default {
       const fiche = url.pathname.match(/^\/jeu\/(\d+)$/);
 
       if (url.pathname === '/jeux') {
-        donnees = await rawg(env, '/games', filtrer(url.searchParams));
+        const params = filtrer(url.searchParams);
+        donnees = params.search && !params.ordering
+          ? await rechercheIntelligente(env, params)
+          : await rawg(env, '/games', params);
       } else if (fiche) {
         donnees = await ficheJeu(env, fiche[1]);
         duree = 6 * 3600;
@@ -79,6 +82,27 @@ async function rawg(env, chemin, params = {}) {
   if (!reponse.ok) throw new Error(`RAWG a répondu ${reponse.status}`);
   return reponse.json();
 }
+
+// ---------- Recherche par titre ----------
+// RAWG trié par pertinence fait remonter des jeux amateurs ("ZELDA (Raul Fernandes)"),
+// trié par popularité il sort des jeux hors sujet ("Batman: Arkham Knight" pour "hollow knight").
+// On combine : résultats pertinents, puis classement maison :
+//   1. le titre contient tous les mots cherchés ;
+//   2. ensuite, le plus populaire (nombre de joueurs qui l'ont ajouté sur RAWG).
+async function rechercheIntelligente(env, params) {
+  const voulus = Number(params.page_size) || 20;
+  const donnees = await rawg(env, '/games', { ...params, search_precise: 'true', page_size: 40 });
+  const mots = normaliser(params.search).split(' ').filter(Boolean);
+  const score = (jeu) => {
+    const nom = normaliser(jeu.name);
+    const tousLesMots = mots.every((m) => nom.includes(m));
+    return (tousLesMots ? 1e9 : 0) + (jeu.added || 0);
+  };
+  donnees.results = donnees.results.sort((a, b) => score(b) - score(a)).slice(0, voulus);
+  return donnees;
+}
+
+const normaliser = (texte) => (texte || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
 
 // ---------- Fiche complète d'un jeu ----------
 async function ficheJeu(env, id) {
@@ -123,6 +147,7 @@ async function infosSteam(appid) {
     prix: d.is_free ? 'Gratuit' : d.price_overview?.final_formatted || null,
     reduction: d.price_overview?.discount_percent || 0,
     recommandations: d.recommendations?.total || null,
+    metacritic: d.metacritic?.score || null,
     config: {
       minimum: lignesConfig(d.pc_requirements?.minimum),
       recommande: lignesConfig(d.pc_requirements?.recommended),

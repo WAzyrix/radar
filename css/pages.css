@@ -217,7 +217,10 @@
 
 .titre-mois { font-size: 1rem; font-weight: 700; color: var(--texte-2); margin: 22px 0 12px; letter-spacing: -0.01em; }
 .titre-mois:first-child { margin-top: 0; }
-.metacritic.en-ligne { position: static; display: inline-block; vertical-align: middle; font-size: 0.9rem; margin-left: 6px; }
+/* Carrousel dans une zone déjà décalée : il reprend toute la largeur de l'écran */
+.section-contenu .carrousel.pleine-largeur { margin: 0 calc(-1 * var(--gouttiere)); }
+.metacritic.en-ligne { position: static; display: inline-block; vertical-align: middle; font-size: 0.9rem; }
+h3 .metacritic.en-ligne { margin-left: 6px; }
 
 .charger-plus { display: flex; justify-content: center; margin-top: 28px; }
 
