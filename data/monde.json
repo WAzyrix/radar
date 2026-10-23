@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-23T15:28:15+00:00",
+ "maj": "2026-10-23T15:38:09+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,100 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "7718246191f0",
+   "titre": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+   "lien": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-23T15:37:07+00:00",
+   "extrait": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "e2cde3309176",
+   "titre": "Gunmen kill at least 7 in attack on Jordan church, authorities say",
+   "lien": "https://www.cbsnews.com/news/jordan-shooting-greek-orthodox-church-karak/",
+   "source": "CBS News",
+   "date": "2026-10-23T15:36:20+00:00",
+   "extrait": "Jordan's King Abdullah II vowed the \"harshest retaliation\" after gunmen carried out a deadly attack on a church.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "973be5d3b7f8",
+   "titre": "Au moins six morts après une fusillade dans une église en Jordanie",
+   "lien": "https://www.franceinfo.fr/monde/moyen-orient/au-moins-sept-morts-apres-une-fusillade-dans-une-eglise-en-jordanie_8250901.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-23T15:36:05+00:00",
+   "extrait": "\"Deux hommes armés sont sortis d'un véhicule et ont ouvert le feu lors d'un cortège funéraire\", ont expliqué les autorités.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "574852269ae4",
+   "titre": "Trump's U.N. envoy says Iran war could drag on for another year",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/",
+   "source": "CBS News",
+   "date": "2026-10-23T15:35:13+00:00",
+   "extrait": "The U.S. ambassador to the U.N. says the war with Iran could last another year, but he hopes Tehran will \"come to the table\" sooner.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "d1369e8be509",
+   "titre": "Melania Trump secures \"temporary ceasefire\" in Ukrainian city",
+   "lien": "https://www.cbsnews.com/news/first-lady-melania-trump-temporary-ceasefire-russia-ukraine-oleshky/",
+   "source": "CBS News",
+   "date": "2026-10-23T15:33:39+00:00",
+   "extrait": "First lady Melania Trump's office says she secured a localized ceasefire for the Russian-occupied Ukrainian city of Oleshky.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "e6762d567840",
+   "titre": "Un mort et plusieurs blessés graves, un suspect arrêté, \"un crime terroriste\"... Ce que l'on sait de l'attaque à l'arme à feu à Trappes et La Verrière",
+   "lien": "https://www.franceinfo.fr/societe/trappes/un-mort-et-plusieurs-blesses-un-suspect-arrete-le-parquet-antiterroriste-saisi-ce-que-l-on-sait-de-l-attaque-a-l-arme-a-feu-a-trappes-et-la-verriere_8250688.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-23T15:33:12+00:00",
+   "extrait": "Un homme a tiré dans la rue vendredi matin dans ces deux communes des Yvelines, tuant une personne et en blessant plusieurs autres. Une enquête a été ouverte, notamment pour assassinat et tentatives…",
+   "tags": [
+    "Conflits",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "1b53825f47c1",
+   "titre": "Oil spill washes up on UAE beaches after tanker strike",
+   "lien": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-23T15:30:47+00:00",
+   "extrait": "Satellite images show the an oil spill spreading for miles along the coastline, shutting several beaches.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "4d16175b415d",
+   "titre": "« Adolfo Kaminsky, le faussaire libre », sur LCP : portrait d’un homme « ordinaire » au destin extraordinaire",
+   "lien": "https://www.lemonde.fr/culture/article/2026/10/23/adolfo-kaminsky-le-faussaire-libre-sur-lcp-portrait-d-un-homme-ordinaire-au-destin-extraordinaire_6799103_3246.html",
+   "source": "Le Monde",
+   "date": "2026-10-23T15:30:03+00:00",
+   "extrait": "Le documentaire de Gaspard Wallut retrace le parcours de celui qui passa trente ans à fabriquer de faux papiers pour sauver des vies et lutter contre les injustices.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "a3b41f5400da",
    "titre": "2 ex-FBI officials charged with lying about Hunter Biden laptop probe",
    "lien": "https://www.cbsnews.com/news/fbi-officials-charged-lying-to-congress-hunter-biden-laptop/",
@@ -39,7 +133,7 @@
    "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-manifestations-du-24-octobre-emmanuel-macron-preside-un-conseil-de-defense-a-9-heures-avant-de-recevoir-les-lyceens-dans-l-apres-midi_8250124.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-10-23T15:25:11+00:00",
-   "extrait": "La nouvelle proposition de parcours, entre la Porte de Vincennes et la Porte d'Italie, est \"impossible à sécuriser\", a affirmé le co-secrétaire général de la CGT de Paris, Karl Ghazi.",
+   "extrait": "La nouvelle proposition de parcours, entre la porte de Vincennes et la porte d'Italie, est \"impossible à sécuriser\", a affirmé le co-secrétaire général de la CGT de Paris, Karl Ghazi.",
    "tags": [],
    "zone": "france"
   },
@@ -66,6 +160,16 @@
     "Justice"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "142b00470eb0",
+   "titre": "Viral SubwayTakes star Debbie Shields turns quick wit into big laughs",
+   "lien": "https://www.cbsnews.com/video/viral-subwaytakes-sensation-debbie-shields-with-conan-obrien/",
+   "source": "CBS News",
+   "date": "2026-10-23T15:22:15+00:00",
+   "extrait": "Debbie Shields became a viral sensation on SubwayTakes with her quick wit and humor, even catching the attention of Conan O'Brien. In an interview with CBS News, she reflects on her unexpected fame…",
+   "tags": [],
+   "zone": "usa"
   },
   {
    "id": "ed8d8c83a7e5",
@@ -100,18 +204,6 @@
    "extrait": "Another 28 people are injured in the southern Karak governorate, and a manhunt is now under way.",
    "tags": [],
    "zone": "monde"
-  },
-  {
-   "id": "e2cde3309176",
-   "titre": "Gunmen kill at least 6 in attack on Jordan church, authorities say",
-   "lien": "https://www.cbsnews.com/news/jordan-shooting-greek-orthodox-church-karak/",
-   "source": "CBS News",
-   "date": "2026-10-23T15:10:32+00:00",
-   "extrait": "Jordan's King Abdullah II vowed the \"harshest retaliation\" after gunmen carried out a deadly attack on a church.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
   },
   {
    "id": "f725463cc2a2",
@@ -167,16 +259,6 @@
    "extrait": "Jared Kushner is pushing back on a report involving a hacked iPhone, international spies and billion-dollar transfers from foreign governments. Nicole Sganga has more details.",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "973be5d3b7f8",
-   "titre": "Au moins six morts après une fusillade dans une église en Jordanie",
-   "lien": "https://www.franceinfo.fr/monde/moyen-orient/au-moins-sept-morts-apres-une-fusillade-dans-une-eglise-en-jordanie_8250901.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-23T14:58:53+00:00",
-   "extrait": "\"Deux hommes armés sont sortis d'un véhicule et ont ouvert le feu lors d'un cortège funéraire\", ont expliqué les autorités.",
-   "tags": [],
-   "zone": "france"
   },
   {
    "id": "ed8897de8288",
@@ -249,32 +331,6 @@
    "zone": "france"
   },
   {
-   "id": "574852269ae4",
-   "titre": "Trump's U.N. envoy says Iran war could drag on for another year",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/",
-   "source": "CBS News",
-   "date": "2026-10-23T14:46:02+00:00",
-   "extrait": "The U.S. ambassador to the U.N. says the war with Iran could last another year, but he hopes Tehran will \"come to the table\" sooner.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "7718246191f0",
-   "titre": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
-   "lien": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-23T14:45:43+00:00",
-   "extrait": "The two attackers were shot dead after a gun battle outside Hebron, four days before Israel's general election.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
    "id": "2312af9c2bdf",
    "titre": "EN DIRECT, tirs à Trappes et à La Verrière : un mort et quatre blessés dans des tirs à l’arme automatique, le Parquet national antiterroriste saisi",
    "lien": "https://www.lemonde.fr/societe/live/2026/10/23/tirs-a-trappes-et-a-la-verriere-un-mort-et-quatre-blesses-dans-des-tirs-a-l-arme-automatique-le-parquet-antiterroriste-saisi_6799092_3224.html",
@@ -305,18 +361,6 @@
    "date": "2026-10-23T14:40:08+00:00",
    "extrait": "Officials said they are investigating a drive-by shooting in Trappes, outside Paris, as a potential terrorist act and called it a \"miracle\" that there weren't more casualties.",
    "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "d1369e8be509",
-   "titre": "Melania Trump secures \"temporary ceasefire\" in Ukrainian city",
-   "lien": "https://www.cbsnews.com/news/first-lady-melania-trump-temporary-ceasefire-russia-ukraine-oleshky/",
-   "source": "CBS News",
-   "date": "2026-10-23T14:34:03+00:00",
-   "extrait": "First lady Melania Trump's office says she secured a localized ceasefire for the Russian-occupied Ukrainian city of Oleshky.",
-   "tags": [
-    "Politique"
-   ],
    "zone": "usa"
   },
   {
@@ -501,19 +545,6 @@
    "extrait": "Le tireur a été interpellé et placé en garde à vue, a confirmé le Premier ministre, Sébastien Lecornu, sur le réseau X. Le Parquet national antiterroriste annonce se saisir.",
    "tags": [
     "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "e6762d567840",
-   "titre": "Un mort et plusieurs blessés graves, un suspect arrêté, \"un crime terroriste\"... Ce que l'on sait de l'attaque à l'arme à feu à Trappes et La Verrière",
-   "lien": "https://www.franceinfo.fr/societe/trappes/un-mort-et-plusieurs-blesses-un-suspect-arrete-le-parquet-antiterroriste-saisi-ce-que-l-on-sait-de-l-attaque-a-l-arme-a-feu-a-trappes-et-la-verriere_8250688.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-23T14:09:06+00:00",
-   "extrait": "Un homme a tiré dans la rue vendredi matin dans ces deux communes des Yvelines, tuant une personne et en blessant plusieurs autres. Une enquête a été ouverte, notamment pour assassinat et tentatives…",
-   "tags": [
-    "Conflits",
     "Justice"
    ],
    "zone": "france"
