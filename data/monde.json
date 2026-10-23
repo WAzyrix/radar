@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-23T16:32:06+00:00",
+ "maj": "2026-10-23T16:40:20+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,30 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "9bacc0e235cf",
+   "titre": "Manifestations lycéennes : des représentants du mouvement appellent à \"continuer à se mobiliser\" après leur rencontre avec Emmanuel Macron",
+   "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-manifestations-du-24-octobre-emmanuel-macron-preside-un-conseil-de-defense-a-9-heures-avant-de-recevoir-les-lyceens-dans-l-apres-midi_8250124.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-23T16:36:52+00:00",
+   "extrait": "Nathanaël Combary, président du conseil d'administration du Renouveau lycéen, a salué à la sortie de sa réunion à l'Elysée un chef de l'Etat \"à l'écoute\", mais appelle à maintenir le \"bras de fer\"…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "45f546718dbb",
+   "titre": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+   "lien": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-23T16:33:11+00:00",
+   "extrait": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
   {
    "id": "2a97fcea42c6",
    "titre": "Buttigieg endorses independent Seth Bodnar in Montana Senate race",
@@ -82,16 +106,6 @@
    "tags": [
     "Conflits"
    ],
-   "zone": "monde"
-  },
-  {
-   "id": "45f546718dbb",
-   "titre": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-   "lien": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-23T16:11:00+00:00",
-   "extrait": "Another 34 people are injured in the southern Karak governorate, and a manhunt is now under way.",
-   "tags": [],
    "zone": "monde"
   },
   {
@@ -280,22 +294,12 @@
    "zone": "monde"
   },
   {
-   "id": "9bacc0e235cf",
-   "titre": "Manifestations du 24 octobre : l'intersyndicale \"refuse\" un changement de parcours \"imposé par la préfecture\" à Paris",
-   "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-manifestations-du-24-octobre-emmanuel-macron-preside-un-conseil-de-defense-a-9-heures-avant-de-recevoir-les-lyceens-dans-l-apres-midi_8250124.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-23T15:46:02+00:00",
-   "extrait": "La nouvelle proposition de parcours, entre la porte de Vincennes et la porte d'Italie, est \"impossible à sécuriser\", a affirmé le co-secrétaire général de la CGT de Paris, Karl Ghazi.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
    "id": "c49b14263b80",
    "titre": "A la RATP, FO devient le premier syndicat devant la CGT",
    "lien": "https://www.lemonde.fr/economie/article/2026/10/23/a-la-ratp-fo-devient-le-premier-syndicat-devant-la-cgt_6799112_3234.html",
    "source": "Le Monde",
-   "date": "2026-10-23T15:45:03+00:00",
-   "extrait": "A l’occasion des élections professionnelles organisées du 19 au 23 octobre, Force ouvrière est devenue la première organisation syndicale de la régie parisienne, devant la CGT, désormais deuxième.",
+   "date": "2026-10-23T15:45:02+00:00",
+   "extrait": "A l’occasion des élections professionnelles organisées du 19 au 23 octobre, Force ouvrière est devenue la première organisation syndicale de la régie parisienne, prenant la place de la CGT.",
    "tags": [
     "Politique"
    ],
@@ -345,6 +349,18 @@
    "extrait": "Les pillages en marge des manifestations ont ramené le Rassemblement national sur son terrain de prédilection, la thématique sécuritaire. Jordan Bardella, seul candidat, s’apprête, lors du congrès…",
    "tags": [
     "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "3e656871400e",
+   "titre": "En Jordanie, une fusillade dans une église fait au moins six morts",
+   "lien": "https://www.lemonde.fr/international/article/2026/10/23/en-jordanie-une-fusillade-dans-une-eglise-fait-au-moins-six-morts_6799108_3210.html",
+   "source": "Le Monde",
+   "date": "2026-10-23T15:37:41+00:00",
+   "extrait": "Les attaques contre les lieux de culte sont rares en Jordanie où les chrétiens représentent entre 2 % et 3 % de la population du pays, majoritairement musulmane.",
+   "tags": [
+    "Conflits"
    ],
    "zone": "france"
   },
@@ -2207,7 +2223,7 @@
   },
   {
    "id": "72ccfb7dc96e",
-   "titre": "Tempête Austen : trois départements du nord de la France restent en vigilance orange, plus de 288 000 foyers privés d’électricité",
+   "titre": "Tempête Austen : trois départements du nord de la France restent en vigilance orange, 242 000 foyers privés d’électricité",
    "lien": "https://www.lemonde.fr/planete/article/2026/10/23/tempete-austen-23-departements-du-nord-et-de-l-ouest-de-la-france-en-vigilance-orange-plus-de-160-000-foyers-prives-d-electricite_6799023_3244.html",
    "source": "Le Monde",
    "date": "2026-10-23T05:18:07+00:00",
