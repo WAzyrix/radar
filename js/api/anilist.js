@@ -4,6 +4,7 @@
 // =========================================================
 
 import { hacher, lireCache, ecrireCache, viderCache } from '../lib/cache.js';
+import { appeler, messageStatut } from '../lib/outils.js';
 
 const URL_API = 'https://graphql.anilist.co';
 
@@ -56,16 +57,11 @@ export async function anilist(query, variables = {}, { duree = 10 * 60_000 } = {
 
 async function envoyer(corps, essai = 1) {
   await attendreCreneau();
-  let reponse;
-  try {
-    reponse = await fetch(URL_API, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
-      body: corps,
-    });
-  } catch {
-    throw new Error('Impossible de joindre AniList. Vérifie ta connexion.');
-  }
+  const reponse = await appeler(URL_API, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+    body: corps,
+  }, { service: 'AniList' });
 
   // Trop de requêtes : AniList dit combien de secondes attendre (Retry-After)
   if (reponse.status === 429 && essai < 3) {
@@ -74,10 +70,10 @@ async function envoyer(corps, essai = 1) {
     return envoyer(corps, essai + 1);
   }
 
-  const json = await reponse.json().catch(() => ({}));
-  if (!reponse.ok || json.errors) {
-    const message = json.errors?.[0]?.message || `Erreur AniList (${reponse.status})`;
-    throw new Error(message);
-  }
+  const json = await reponse.json().catch(() => null);
+  // AniList renvoie ses erreurs en anglais ("Not Found.") avec un code : on traduit le code
+  const statut = json?.errors?.[0]?.status || (reponse.ok ? 0 : reponse.status);
+  if (statut) throw new Error(statut === 404 ? 'Cet animé est introuvable sur AniList.' : messageStatut('AniList', statut));
+  if (!json?.data || typeof json.data !== 'object') throw new Error("Réponse inattendue d'AniList. Réessaie dans un instant.");
   return json.data;
 }

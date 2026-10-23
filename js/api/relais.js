@@ -3,6 +3,7 @@
 // =========================================================
 import { URL_RELAIS } from '../config.js';
 import { hacher, lireCache, ecrireCache, viderCache } from '../lib/cache.js';
+import { appeler, messageStatut } from '../lib/outils.js';
 
 // "jv2:" depuis le retrait de la clé RAWG des réponses : l'ancien cache "jv:" la contenait
 const PREFIXE_CACHE = 'jv2:';
@@ -24,14 +25,12 @@ export async function relais(chemin, params = {}, { duree = HEURE } = {}) {
     if (enCache !== undefined) return enCache;
   }
 
-  let reponse;
-  try {
-    reponse = await fetch(url);
-  } catch {
-    throw new Error('Impossible de joindre le relais. Vérifie ta connexion.');
-  }
-  const json = await reponse.json().catch(() => ({}));
-  if (!reponse.ok) throw new Error(json.erreur || `Erreur du relais (${reponse.status})`);
+  // Le relais interroge lui-même RAWG/Steam (jusqu'à 10 s chacun) : on lui laisse 20 s
+  const reponse = await appeler(url, {}, { service: 'le relais', delai: 20_000 });
+  const json = await reponse.json().catch(() => null);
+  // Le relais renvoie ses erreurs en français dans "erreur"
+  if (!reponse.ok) throw new Error(json?.erreur || messageStatut('le relais', reponse.status));
+  if (!json || typeof json !== 'object') throw new Error('Réponse inattendue du relais. Réessaie dans un instant.');
   if (duree > 0) ecrireCache(cle, json, duree, PREFIXE_CACHE);
   return json;
 }

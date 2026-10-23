@@ -4,6 +4,26 @@
 
 const RAWG = 'https://api.rawg.io/api';
 
+/**
+ * Appel à un service externe avec 10 s maximum, et des erreurs compréhensibles.
+ * L'erreur garde le code HTTP (statut) : un 404 de RAWG devient un 404 du relais.
+ */
+export async function appelExterne(url, options, service) {
+  let reponse;
+  try {
+    reponse = await fetch(url, { ...options, signal: AbortSignal.timeout(10_000) });
+  } catch (erreur) {
+    throw Object.assign(new Error(erreur.name === 'TimeoutError'
+      ? `${service} met trop de temps à répondre. Réessaie dans un instant.`
+      : `${service} est injoignable pour le moment.`), { statut: 504 });
+  }
+  if (reponse.ok) return reponse;
+  const message = reponse.status === 404 ? `Introuvable sur ${service}.`
+    : reponse.status === 429 ? `${service} reçoit trop de demandes : réessaie plus tard.`
+      : `${service} est indisponible pour le moment (erreur ${reponse.status}).`;
+  throw Object.assign(new Error(message), { statut: reponse.status === 404 ? 404 : 502 });
+}
+
 // Paramètres RAWG qu'on accepte de transmettre (le reste est ignoré)
 const PARAMS_AUTORISES = ['search', 'search_precise', 'genres', 'tags', 'platforms', 'parent_platforms', 'dates', 'ordering', 'metacritic', 'page', 'page_size', 'exclude_additions'];
 
@@ -27,8 +47,7 @@ export async function rawg(env, chemin, params = {}) {
   const url = new URL(RAWG + chemin);
   for (const [cle, valeur] of Object.entries(params)) url.searchParams.set(cle, valeur);
   url.searchParams.set('key', env.RAWG_KEY);
-  const reponse = await fetch(url, { cf: { cacheTtl: 3600, cacheEverything: true } });
-  if (!reponse.ok) throw new Error(`RAWG a répondu ${reponse.status}`);
+  const reponse = await appelExterne(url, { cf: { cacheTtl: 3600, cacheEverything: true } }, 'RAWG');
   return JSON.parse(sansCle(await reponse.text(), env.RAWG_KEY));
 }
 
@@ -91,8 +110,8 @@ export async function ficheJeu(env, id) {
 
 async function infosSteam(appid) {
   const [details, avis] = await Promise.all([
-    fetch(`https://store.steampowered.com/api/appdetails?appids=${appid}&cc=fr&l=french`, { cf: { cacheTtl: 21600 } }).then((r) => r.json()),
-    fetch(`https://store.steampowered.com/appreviews/${appid}?json=1&language=all&num_per_page=0&purchase_type=all`, { cf: { cacheTtl: 21600 } })
+    appelExterne(`https://store.steampowered.com/api/appdetails?appids=${appid}&cc=fr&l=french`, { cf: { cacheTtl: 21600 } }, 'Steam').then((r) => r.json()),
+    appelExterne(`https://store.steampowered.com/appreviews/${appid}?json=1&language=all&num_per_page=0&purchase_type=all`, { cf: { cacheTtl: 21600 } }, 'Steam')
       .then((r) => r.json()).catch(() => null),
   ]);
   const d = details?.[appid]?.data;

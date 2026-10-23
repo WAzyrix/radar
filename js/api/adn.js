@@ -6,14 +6,14 @@
 // les séries par leur TITRE, "nettoyé" (sans accents, ponctuation ni numéro de saison).
 // Ça marche dans la grande majorité des cas, mais une série peut être ratée.
 // =========================================================
-import { normaliser } from '../lib/outils.js';
+import { normaliser, appeler } from '../lib/outils.js';
 
 let promesse;
 
 export function chargerAdn() {
-  promesse ??= fetch('data/adn.json', { cache: 'no-cache' })
+  promesse ??= appeler('data/adn.json', { cache: 'no-cache' }, { service: 'le site' })
     .then((r) => (r.ok ? r.json() : null))
-    .then((data) => data && preparer(data))
+    .then((data) => (Array.isArray(data?.series) && Array.isArray(data?.sorties) ? preparer(data) : null))
     .catch(() => null); // sans ADN, le site marche quand même
   return promesse;
 }

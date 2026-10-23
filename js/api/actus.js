@@ -3,6 +3,8 @@
 // par scripts/collecte.py (via GitHub Actions) dans data/.
 // =========================================================
 
+import { appeler } from '../lib/outils.js';
+
 // Réglages d'affichage de chaque catégorie (le contenu, lui, vient du JSON)
 export const CATEGORIES = {
   animes: { nom: 'Actu animés', court: 'Animés', couleur: '#c79bff', icone: 'anime', description: 'Nouvelles saisons, nouveaux animés, trailers, doublage… et rumeurs de sources fiables uniquement.' },
@@ -19,9 +21,16 @@ const memoire = {}; // évite de retélécharger le même fichier pendant la vis
 export function chargerActus(categorie) {
   if (!CATEGORIES[categorie]) return Promise.reject(new Error('Catégorie inconnue'));
   // "no-cache" : le navigateur vérifie auprès du serveur s'il y a une version plus récente
-  memoire[categorie] ??= fetch(`data/${categorie}.json`, { cache: 'no-cache' }).then((r) => {
-    if (!r.ok) throw new Error(`Actus indisponibles (${r.status})`);
-    return r.json();
-  });
+  memoire[categorie] ??= appeler(`data/${categorie}.json`, { cache: 'no-cache' }, { service: 'le site' })
+    .then(async (r) => {
+      if (!r.ok) throw new Error(`Actus indisponibles pour le moment (erreur ${r.status}).`);
+      const data = await r.json().catch(() => null);
+      if (!Array.isArray(data?.articles)) throw new Error('Le fichier des actus est illisible. Réessaie un peu plus tard.');
+      return data;
+    })
+    .catch((erreur) => {
+      delete memoire[categorie]; // un échec n'est pas gardé : on pourra réessayer
+      throw erreur;
+    });
   return memoire[categorie];
 }

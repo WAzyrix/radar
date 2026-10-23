@@ -88,7 +88,30 @@ export function antiRebond(fonction, delai = 350) {
   };
 }
 
-// Petit raccourci pour afficher une erreur dans un conteneur
+// ---------- Réseau ----------
+// Appel avec un délai maximum : un service qui ne répond pas ne laisse plus la page
+// en chargement infini. `service` sert aux messages ("AniList", "le relais"…).
+export async function appeler(url, options = {}, { service, delai = 15_000 } = {}) {
+  try {
+    return await fetch(url, { ...options, signal: AbortSignal.timeout(delai) });
+  } catch (erreur) {
+    if (erreur.name === 'TimeoutError') throw new Error(`${premiereMajuscule(service)} met trop de temps à répondre. Réessaie dans un instant.`);
+    throw new Error(`Impossible de joindre ${service}. Vérifie ta connexion.`);
+  }
+}
+
+// Code HTTP -> phrase compréhensible
+export function messageStatut(service, statut) {
+  if (statut === 404) return `Introuvable (${service} ne connaît pas cette page).`;
+  if (statut === 429) return `${premiereMajuscule(service)} reçoit trop de demandes : réessaie dans une minute.`;
+  if (statut >= 500) return `${premiereMajuscule(service)} est indisponible pour le moment (erreur ${statut}).`;
+  return `${premiereMajuscule(service)} a refusé la demande (erreur ${statut}).`;
+}
+
+// Petit raccourci pour afficher une erreur dans un conteneur.
+// Une TypeError vient d'une réponse dont la forme est inattendue (champ manquant…) :
+// on n'affiche pas son message technique en anglais.
 export function afficherErreur(conteneur, erreur) {
-  conteneur.replaceChildren(el('div', { class: 'erreur' }, `Oups : ${erreur.message}`));
+  const message = erreur instanceof TypeError ? 'les données reçues sont incomplètes. Réessaie un peu plus tard.' : erreur.message;
+  conteneur.replaceChildren(el('div', { class: 'erreur' }, `Oups : ${message}`));
 }

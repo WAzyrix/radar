@@ -2,6 +2,8 @@
 // Films et séries : API TMDB (clé secrète TMDB_KEY), en français.
 // =========================================================
 
+import { appelExterne } from './jeux.js';
+
 const TMDB = 'https://api.themoviedb.org/3';
 export const IMAGE_TMDB = 'https://image.tmdb.org/t/p/';
 
@@ -10,8 +12,7 @@ export async function tmdb(env, chemin, params = {}) {
   const url = new URL(TMDB + chemin);
   for (const [cle, valeur] of Object.entries({ language: 'fr-FR', ...params })) url.searchParams.set(cle, valeur);
   url.searchParams.set('api_key', env.TMDB_KEY);
-  const reponse = await fetch(url, { cf: { cacheTtl: 3600 } });
-  if (!reponse.ok) throw new Error(`TMDB a répondu ${reponse.status}`);
+  const reponse = await appelExterne(url, { cf: { cacheTtl: 3600 } }, 'TMDB');
   return reponse.json();
 }
 

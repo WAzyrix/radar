@@ -8,7 +8,7 @@
 // - En cas de différence entre deux appareils, la version la plus récente gagne.
 // =========================================================
 import { URL_RELAIS } from '../config.js';
-import { idValide } from './outils.js';
+import { idValide, appeler, messageStatut } from './outils.js';
 
 const CLE_LISTE = 'radar:liste';
 const CLE_CODE = 'radar:code';
@@ -109,13 +109,14 @@ export async function utiliserCode(code) {
 
 // ---------- Synchronisation avec le relais ----------
 async function appel(methode, chemin, corps) {
-  const reponse = await fetch(URL_RELAIS + chemin, {
+  const reponse = await appeler(URL_RELAIS + chemin, {
     method: methode,
     headers: corps ? { 'Content-Type': 'application/json' } : undefined,
     body: corps ? JSON.stringify(corps) : undefined,
-  });
-  const json = await reponse.json().catch(() => ({}));
-  if (!reponse.ok) throw new Error(json.erreur || `Erreur ${reponse.status}`);
+  }, { service: 'le relais' });
+  const json = await reponse.json().catch(() => null);
+  if (!reponse.ok) throw new Error(json?.erreur || messageStatut('le relais', reponse.status));
+  if (json === null) throw new Error('Réponse inattendue du relais. Réessaie dans un instant.');
   return json;
 }
 export { appel as appelRelais };
