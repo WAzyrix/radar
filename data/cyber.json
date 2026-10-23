@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-23T12:41:08+00:00",
+ "maj": "2026-10-23T12:52:31+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,8 +24,19 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "eb477469ff02",
+   "titre": "HPE patches eight max severity RCE and auth bypass AOS flaws",
+   "lien": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
+   "source": "BleepingComputer",
+   "date": "2026-10-23T12:48:00+00:00",
+   "extrait": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
    "id": "3bc9a46d2904",
-   "titre": "URGENT - PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+   "titre": "PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
    "lien": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
    "source": "The Hacker News",
    "date": "2026-10-23T11:25:43+00:00",
