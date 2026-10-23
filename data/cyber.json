@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-23T13:58:46+00:00",
+ "maj": "2026-10-23T14:12:32+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "4eed9c7e0436",
+   "titre": "You gave your AI agent access, but who is giving it orders?",
+   "lien": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
+   "source": "BleepingComputer",
+   "date": "2026-10-23T14:00:10+00:00",
+   "extrait": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how…",
+   "tags": [
+    "IA"
+   ]
+  },
   {
    "id": "a3c3135e6fc7",
    "titre": "Technostress : une faille pour l’ingénierie sociale",
