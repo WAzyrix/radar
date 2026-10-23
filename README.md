@@ -29,7 +29,11 @@ Pour mettre à jour les actus en local :
 python3 scripts/collecte.py
 ```
 
-> ⚠️ Le robot GitHub commite les actus toutes les heures. Avant de pousser tes modifications, fais un `git pull --rebase`.
+> ⚠️ Le robot GitHub commite les actus toutes les heures. Deux règles pour éviter les conflits :
+> - avant de pousser, fais un `git pull --rebase` ;
+> - ne commite pas `data/` toi-même : après une collecte de test en local, annule-la avec `git checkout data/` (le robot régénère tout après ton push).
+>
+> En cas de conflit sur `data/*.json` pendant un rebase : `git checkout --ours data/ && git add data/ && git rebase --continue`.
 
 ## Comment ça marche
 
