@@ -1,0 +1,335 @@
+{
+  "cyber": {
+    "nom": "Cyber & info",
+    "sources": [
+      {
+        "nom": "CERT-FR",
+        "url": "https://www.cert.ssi.gouv.fr/feed/"
+      },
+      {
+        "nom": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/feed/"
+      },
+      {
+        "nom": "The Hacker News",
+        "url": "https://feeds.feedburner.com/TheHackersNews"
+      },
+      {
+        "nom": "Zataz",
+        "url": "https://www.zataz.com/feed/"
+      },
+      {
+        "nom": "Korben",
+        "url": "https://korben.info/feed"
+      }
+    ],
+    "tags": {
+      "CVE": [
+        "cve-*"
+      ],
+      "Faille": [
+        "faille",
+        "vulnerabilite",
+        "vulnerability",
+        "zero-day",
+        "0-day",
+        "exploit",
+        "rce",
+        "patch",
+        "correctif",
+        "flaw",
+        "bug"
+      ],
+      "Ransomware": [
+        "ransomware",
+        "rancongiciel",
+        "rançongiciel",
+        "extorsion",
+        "lockbit"
+      ],
+      "Jailbreak": [
+        "jailbreak",
+        "rootkit",
+        "bootloader",
+        "unlock",
+        "debloquer"
+      ],
+      "Fuite de données": [
+        "fuite",
+        "leak",
+        "breach",
+        "piratage",
+        "hack*",
+        "vol de donnees",
+        "stolen data"
+      ],
+      "Malware": [
+        "malware",
+        "trojan",
+        "cheval de troie",
+        "botnet",
+        "spyware",
+        "logiciel espion",
+        "stealer",
+        "backdoor",
+        "phishing",
+        "hameconnage",
+        "arnaque",
+        "scam"
+      ],
+      "IA": [
+        "IA",
+        "AI",
+        "LLM",
+        "chatgpt",
+        "openai",
+        "anthropic",
+        "gemini",
+        "intelligence artificielle"
+      ],
+      "Outil": [
+        "outil",
+        "tool",
+        "open source",
+        "opensource",
+        "github",
+        "logiciel",
+        "astuce",
+        "tuto*"
+      ],
+      "Linux": [
+        "linux",
+        "debian",
+        "ubuntu",
+        "kernel",
+        "noyau"
+      ],
+      "Windows": [
+        "windows",
+        "microsoft"
+      ],
+      "Mobile": [
+        "android",
+        "iphone",
+        "ios",
+        "smartphone"
+      ]
+    }
+  },
+  "cinema": {
+    "nom": "Films & séries",
+    "sources": [
+      {
+        "nom": "AlloCiné",
+        "url": "https://www.allocine.fr/rss/news.xml"
+      },
+      {
+        "nom": "Écran Large",
+        "url": "https://www.ecranlarge.com/rss"
+      }
+    ],
+    "tags": {
+      "Bande-annonce": [
+        "bande-annonce",
+        "bande annonce",
+        "trailer",
+        "teaser"
+      ],
+      "Série": [
+        "serie",
+        "saison",
+        "episode",
+        "showrunner"
+      ],
+      "Cinéma": [
+        "film",
+        "cinema",
+        "box-office",
+        "box office",
+        "realisateur",
+        "salles"
+      ],
+      "Plateformes": [
+        "netflix",
+        "disney+",
+        "prime video",
+        "canal+",
+        "apple tv",
+        "hbo",
+        "paramount+"
+      ],
+      "Super-héros": [
+        "marvel",
+        "DC",
+        "batman",
+        "superman",
+        "spider-man",
+        "avengers",
+        "x-men"
+      ],
+      "Animation": [
+        "animation",
+        "anime",
+        "pixar",
+        "ghibli",
+        "dreamworks",
+        "manga"
+      ],
+      "Critique": [
+        "critique",
+        "avis",
+        "review"
+      ]
+    }
+  },
+  "monde": {
+    "nom": "Actu",
+    "sources": [
+      {
+        "nom": "franceinfo",
+        "url": "https://www.francetvinfo.fr/titres.rss",
+        "zone": "france"
+      },
+      {
+        "nom": "Le Monde",
+        "url": "https://www.lemonde.fr/rss/une.xml",
+        "zone": "france"
+      },
+      {
+        "nom": "NPR",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "zone": "usa"
+      },
+      {
+        "nom": "CBS News",
+        "url": "https://www.cbsnews.com/latest/rss/main",
+        "zone": "usa"
+      },
+      {
+        "nom": "BBC World",
+        "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "zone": "monde"
+      },
+      {
+        "nom": "France 24",
+        "url": "https://www.france24.com/fr/rss",
+        "zone": "monde"
+      }
+    ],
+    "tags": {
+      "Politique": [
+        "gouvernement",
+        "president",
+        "election*",
+        "ministre",
+        "assemblee",
+        "senat",
+        "congress",
+        "senate",
+        "white house",
+        "maison-blanche",
+        "trump",
+        "macron",
+        "parti",
+        "vote",
+        "politics"
+      ],
+      "Économie": [
+        "economie",
+        "economy",
+        "inflation",
+        "bourse",
+        "marche*",
+        "market*",
+        "emploi",
+        "jobs",
+        "impot*",
+        "tax*",
+        "budget",
+        "salaire*",
+        "prix"
+      ],
+      "Conflits": [
+        "guerre",
+        "war",
+        "armee",
+        "military",
+        "missile*",
+        "attaque",
+        "attack",
+        "frappe*",
+        "strike*",
+        "ukraine",
+        "gaza",
+        "israel"
+      ],
+      "Climat": [
+        "climat",
+        "climate",
+        "meteo",
+        "weather",
+        "ouragan",
+        "hurricane",
+        "seisme",
+        "earthquake",
+        "inondation*",
+        "flood*",
+        "canicule",
+        "vigilance",
+        "tempete",
+        "storm",
+        "incendie*",
+        "wildfire*"
+      ],
+      "Justice": [
+        "proces",
+        "trial",
+        "tribunal",
+        "court",
+        "juge",
+        "judge",
+        "police",
+        "enquete",
+        "arrest*",
+        "interpelle*"
+      ],
+      "Santé": [
+        "sante",
+        "health",
+        "hopital",
+        "hospital",
+        "virus",
+        "vaccin*",
+        "maladie",
+        "disease",
+        "cancer"
+      ],
+      "Tech": [
+        "tech",
+        "technologie",
+        "technology",
+        "IA",
+        "AI",
+        "intelligence artificielle",
+        "apple",
+        "google",
+        "meta",
+        "tesla",
+        "spacex",
+        "starlink"
+      ],
+      "Sport": [
+        "sport",
+        "football",
+        "foot",
+        "ligue 1",
+        "rugby",
+        "tennis",
+        "nba",
+        "nfl",
+        "JO",
+        "olympi*"
+      ]
+    }
+  }
+}

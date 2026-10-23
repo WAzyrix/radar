@@ -1,0 +1,1545 @@
+{
+ "categorie": "Cyber & info",
+ "maj": "2026-10-23T12:41:08+00:00",
+ "sources": [
+  "CERT-FR",
+  "BleepingComputer",
+  "The Hacker News",
+  "Zataz",
+  "Korben"
+ ],
+ "tags": [
+  "CVE",
+  "Faille",
+  "Ransomware",
+  "Jailbreak",
+  "Fuite de données",
+  "Malware",
+  "IA",
+  "Outil",
+  "Linux",
+  "Windows",
+  "Mobile"
+ ],
+ "erreurs": [],
+ "articles": [
+  {
+   "id": "3bc9a46d2904",
+   "titre": "URGENT - PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+   "lien": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
+   "source": "The Hacker News",
+   "date": "2026-10-23T11:25:43+00:00",
+   "extrait": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects…",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
+  },
+  {
+   "id": "80697809b26e",
+   "titre": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+   "lien": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
+   "source": "The Hacker News",
+   "date": "2026-10-23T11:11:23+00:00",
+   "extrait": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET…",
+   "tags": [
+    "Fuite de données",
+    "Malware"
+   ]
+  },
+  {
+   "id": "1724a21ac415",
+   "titre": "Piratage de la FFTir : la Fédération confirme le vol",
+   "lien": "https://www.zataz.com/piratage-de-la-fftir-la-federation-confirme-le-vol/",
+   "source": "Zataz",
+   "date": "2026-10-23T10:41:26+00:00",
+   "extrait": "FFTir : la Fédération confirme une cyberattaque, le vol de 64 000 photos et de milliers de documents personnels.",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "ac229d8433af",
+   "titre": "Fraude bancaire : deux mails pour installer la peur",
+   "lien": "https://www.zataz.com/fraude-bancaire-deux-mails-pour-installer-la-peur/",
+   "source": "Zataz",
+   "date": "2026-10-23T10:27:14+00:00",
+   "extrait": "Alerte ZATAZ : deux faux mails bancaires, des milliers d'euros en jeu et une fraude téléphonique décryptée.",
+   "tags": []
+  },
+  {
+   "id": "3a89e69463ce",
+   "titre": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
+   "lien": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
+   "source": "The Hacker News",
+   "date": "2026-10-23T09:36:00+00:00",
+   "extrait": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open. The flaw, CVE-2026-112900, is in…",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
+  },
+  {
+   "id": "a2a9e372db7b",
+   "titre": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
+   "lien": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
+   "source": "The Hacker News",
+   "date": "2026-10-23T08:40:43+00:00",
+   "extrait": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have demonstrated. Their \"Node2Shell\" proof of concept ran…",
+   "tags": [
+    "CVE",
+    "Faille",
+    "Linux"
+   ]
+  },
+  {
+   "id": "6f084559d703",
+   "titre": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
+   "lien": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
+   "source": "The Hacker News",
+   "date": "2026-10-23T08:35:45+00:00",
+   "extrait": "AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22. The cause…",
+   "tags": [
+    "Faille",
+    "IA"
+   ]
+  },
+  {
+   "id": "199bd0864fa3",
+   "titre": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
+   "lien": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
+   "source": "The Hacker News",
+   "date": "2026-10-23T07:40:45+00:00",
+   "extrait": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it…",
+   "tags": [
+    "CVE",
+    "Faille",
+    "Malware"
+   ]
+  },
+  {
+   "id": "6af5f5a84e31",
+   "titre": "Railway warns devs to rotate secrets after potential breach",
+   "lien": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
+   "source": "BleepingComputer",
+   "date": "2026-10-22T21:25:31+00:00",
+   "extrait": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "177124c993da",
+   "titre": "Capcom confirms data breach affecting 11.7 million accounts",
+   "lien": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
+   "source": "BleepingComputer",
+   "date": "2026-10-22T20:22:45+00:00",
+   "extrait": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "0151e8522bf7",
+   "titre": "LiteLLM release pipeline hacked to distribute info-stealer malware",
+   "lien": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
+   "source": "BleepingComputer",
+   "date": "2026-10-22T19:12:51+00:00",
+   "extrait": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
+   "tags": [
+    "Fuite de données",
+    "Malware"
+   ]
+  },
+  {
+   "id": "d76b50dba162",
+   "titre": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+   "lien": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+   "source": "The Hacker News",
+   "date": "2026-10-22T19:05:35+00:00",
+   "extrait": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone…",
+   "tags": [
+    "IA",
+    "Outil"
+   ]
+  },
+  {
+   "id": "23872cb1986e",
+   "titre": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
+   "lien": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
+   "source": "The Hacker News",
+   "date": "2026-10-22T19:05:17+00:00",
+   "extrait": "Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the central management system for VeloCloud SD-WAN networks, the company said in an advisory on…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "f74ce17a74d9",
+   "titre": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
+   "lien": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
+   "source": "The Hacker News",
+   "date": "2026-10-22T18:12:43+00:00",
+   "extrait": "eMudhra, an Indian certificate authority (CA), will withdraw from its global SSL/TLS certificate business, its board decided on Thursday. The decision came five days after a researcher reported…",
+   "tags": []
+  },
+  {
+   "id": "a45e553ca30b",
+   "titre": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
+   "lien": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
+   "source": "The Hacker News",
+   "date": "2026-10-22T17:45:44+00:00",
+   "extrait": "This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release…",
+   "tags": [
+    "Faille",
+    "Fuite de données",
+    "IA",
+    "Linux"
+   ]
+  },
+  {
+   "id": "5d4f96d6acc6",
+   "titre": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
+   "lien": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+   "source": "BleepingComputer",
+   "date": "2026-10-22T17:18:22+00:00",
+   "extrait": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "eebdb3f4f6ae",
+   "titre": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
+   "lien": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
+   "source": "The Hacker News",
+   "date": "2026-10-22T17:01:53+00:00",
+   "extrait": "Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by Trend Micro's Zero Day Initiative, with no fix yet in the…",
+   "tags": [
+    "Faille",
+    "Linux"
+   ]
+  },
+  {
+   "id": "6b7369ef168a",
+   "titre": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
+   "lien": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
+   "source": "The Hacker News",
+   "date": "2026-10-22T16:12:31+00:00",
+   "extrait": "Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data…",
+   "tags": []
+  },
+  {
+   "id": "0563a66ccd63",
+   "titre": "Microsoft shares how to fix broken Exchange Online EWS apps",
+   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
+   "source": "BleepingComputer",
+   "date": "2026-10-22T15:49:32+00:00",
+   "extrait": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]",
+   "tags": [
+    "Windows"
+   ]
+  },
+  {
+   "id": "aa5b5ed9793a",
+   "titre": "Test du chargeur UGREEN Nexode Pro 300W",
+   "lien": "https://korben.info/test-du-chargeur-ugreen-nexode-pro-300w.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-10-22T14:44:30+00:00",
+   "extrait": "UGREEN propose sa station de charge Nexode Pro 300W en GaN, avec huit sorties : six USB-C (dont trois à 140W en PD 3.1), un USB-A et une prise DC de 240W. Elle est affichée à 126 euros au lieu de…",
+   "tags": []
+  },
+  {
+   "id": "92b876190d73",
+   "titre": "Machine speed attacks require machine speed detection and response",
+   "lien": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
+   "source": "BleepingComputer",
+   "date": "2026-10-22T14:02:12+00:00",
+   "extrait": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI…",
+   "tags": [
+    "Malware",
+    "IA",
+    "Outil"
+   ]
+  },
+  {
+   "id": "c145f24074c2",
+   "titre": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
+   "lien": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
+   "source": "The Hacker News",
+   "date": "2026-10-22T13:38:22+00:00",
+   "extrait": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds. In tandem, the effort saw law…",
+   "tags": []
+  },
+  {
+   "id": "c78f9791369d",
+   "titre": "Amazon says PHP2Shell exploitation began 4 days before patches",
+   "lien": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
+   "source": "BleepingComputer",
+   "date": "2026-10-22T13:09:12+00:00",
+   "extrait": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "0f812922fb34",
+   "titre": "GitLab warns of new max severity code execution vulnerability",
+   "lien": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
+   "source": "BleepingComputer",
+   "date": "2026-10-22T11:41:48+00:00",
+   "extrait": "GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "76b18c2dc5a9",
+   "titre": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
+   "lien": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
+   "source": "The Hacker News",
+   "date": "2026-10-22T11:15:42+00:00",
+   "extrait": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables. Upon further investigation, the company found…",
+   "tags": []
+  },
+  {
+   "id": "1d3516a0d0a6",
+   "titre": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
+   "lien": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
+   "source": "The Hacker News",
+   "date": "2026-10-22T10:44:05+00:00",
+   "extrait": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model…",
+   "tags": [
+    "Faille",
+    "IA",
+    "Outil",
+    "Windows"
+   ]
+  },
+  {
+   "id": "a9227db3dd33",
+   "titre": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
+   "lien": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
+   "source": "The Hacker News",
+   "date": "2026-10-22T08:28:48+00:00",
+   "extrait": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a…",
+   "tags": [
+    "Fuite de données",
+    "Malware",
+    "IA",
+    "Outil"
+   ]
+  },
+  {
+   "id": "df0211e45e19",
+   "titre": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
+   "lien": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
+   "source": "BleepingComputer",
+   "date": "2026-10-22T08:27:11+00:00",
+   "extrait": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and…",
+   "tags": [
+    "Ransomware",
+    "Malware"
+   ]
+  },
+  {
+   "id": "29143f2ae20d",
+   "titre": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
+   "lien": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
+   "source": "The Hacker News",
+   "date": "2026-10-22T07:47:22+00:00",
+   "extrait": "Node.js released security updates on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "c8ed131e6fe2",
+   "titre": "Votre VPN est-il prêt pour les menaces futures ? #sponso",
+   "lien": "https://korben.info/votre-vpn-est-il-pret-pour-les-menaces-futures.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-10-22T07:15:54+00:00",
+   "extrait": "Dans un article partenaire, Surfshark annonce une version de WireGuard entièrement post-quantique, combinant ML-KEM et certificats ML-DSA, d'abord sur iOS et macOS. Le VPN ajoute aussi une rotation…",
+   "tags": [
+    "Mobile"
+   ]
+  },
+  {
+   "id": "eff3ebf7d52f",
+   "titre": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
+   "lien": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
+   "source": "The Hacker News",
+   "date": "2026-10-22T06:38:31+00:00",
+   "extrait": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO disclosed, releasing working proof-of-concept code. By sending a small batch…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "3d29fe5d9f89",
+   "titre": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
+   "lien": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
+   "source": "The Hacker News",
+   "date": "2026-10-22T06:34:10+00:00",
+   "extrait": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities dating back to October 17, 2026, against its MadPot honeypot…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "9b69347cfd29",
+   "titre": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
+   "lien": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
+   "source": "The Hacker News",
+   "date": "2026-10-22T04:21:26+00:00",
+   "extrait": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident…",
+   "tags": [
+    "Fuite de données",
+    "IA",
+    "Windows"
+   ]
+  },
+  {
+   "id": "a810cc019ff2",
+   "titre": "Multiples vulnérabilités dans ISC BIND (22 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1365/",
+   "source": "CERT-FR",
+   "date": "2026-10-22T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans ISC BIND. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "68ab44311725",
+   "titre": "Multiples vulnérabilités dans Node (22 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1367/",
+   "source": "CERT-FR",
+   "date": "2026-10-22T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Node.js. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "a56df659cef6",
+   "titre": "Multiples vulnérabilités dans GitLab (22 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1363/",
+   "source": "CERT-FR",
+   "date": "2026-10-22T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "7766483124f6",
+   "titre": "Multiples vulnérabilités dans les produits Splunk (22 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1366/",
+   "source": "CERT-FR",
+   "date": "2026-10-22T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "85ca0afbd804",
+   "titre": "Multiples vulnérabilités dans les produits Cisco (22 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1360/",
+   "source": "CERT-FR",
+   "date": "2026-10-22T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "60b43d5cb507",
+   "titre": "Vulnérabilité dans les produits Mozilla (22 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1361/",
+   "source": "CERT-FR",
+   "date": "2026-10-22T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans les produits Mozilla. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "5537559b5bdd",
+   "titre": "Multiples vulnérabilités dans les produits SolarWinds (22 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1364/",
+   "source": "CERT-FR",
+   "date": "2026-10-22T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une falsification de…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "832124389031",
+   "titre": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
+   "lien": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
+   "source": "BleepingComputer",
+   "date": "2026-10-21T22:16:26+00:00",
+   "extrait": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
+   "tags": [
+    "Malware",
+    "IA"
+   ]
+  },
+  {
+   "id": "e9fd60a700e2",
+   "titre": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
+   "lien": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
+   "source": "BleepingComputer",
+   "date": "2026-10-21T21:43:27+00:00",
+   "extrait": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
+   "tags": [
+    "Fuite de données",
+    "Malware"
+   ]
+  },
+  {
+   "id": "3371acd3dcb3",
+   "titre": "Lazarus hackers use post-quantum cryptography for malware delivery",
+   "lien": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
+   "source": "BleepingComputer",
+   "date": "2026-10-21T20:31:48+00:00",
+   "extrait": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
+   "tags": [
+    "Fuite de données",
+    "Malware"
+   ]
+  },
+  {
+   "id": "a9726704f0fa",
+   "titre": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+   "lien": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+   "source": "The Hacker News",
+   "date": "2026-10-21T18:57:34+00:00",
+   "extrait": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "71f0485320c6",
+   "titre": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
+   "lien": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
+   "source": "BleepingComputer",
+   "date": "2026-10-21T18:34:42+00:00",
+   "extrait": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
+   "tags": [
+    "Faille",
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "a5356f42a77a",
+   "titre": "Arrêtée pour avoir bloqué un robot de livraison Uber",
+   "lien": "https://www.zataz.com/arretee-pour-avoir-bloque-un-robot-de-livraison-uber/",
+   "source": "Zataz",
+   "date": "2026-10-21T18:04:11+00:00",
+   "extrait": "Une manifestante arrêtée pour avoir bloqué un robot Uber et dénoncé l'automatisation des emplois.",
+   "tags": []
+  },
+  {
+   "id": "f5335e20393b",
+   "titre": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
+   "lien": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
+   "source": "The Hacker News",
+   "date": "2026-10-21T18:01:57+00:00",
+   "extrait": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket…",
+   "tags": [
+    "Malware"
+   ]
+  },
+  {
+   "id": "2cd8b2bd53ed",
+   "titre": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
+   "lien": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
+   "source": "The Hacker News",
+   "date": "2026-10-21T16:33:47+00:00",
+   "extrait": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal…",
+   "tags": [
+    "IA"
+   ]
+  },
+  {
+   "id": "288893f63679",
+   "titre": "OpenAI agents disabled safety monitoring, one lied about it",
+   "lien": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
+   "source": "BleepingComputer",
+   "date": "2026-10-21T16:26:53+00:00",
+   "extrait": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]",
+   "tags": [
+    "IA"
+   ]
+  },
+  {
+   "id": "59bb22a9eb17",
+   "titre": "Panne chez Orange et Sosh !",
+   "lien": "https://www.zataz.com/panne-chez-orange-et-sosh/",
+   "source": "Zataz",
+   "date": "2026-10-21T15:21:36+00:00",
+   "extrait": "Ce mercredi 21 octobre 2026, une importante panne perturbe le réseau mobile d'Orange et de sa marque low cost Sosh.",
+   "tags": []
+  },
+  {
+   "id": "5aef8b0f33ed",
+   "titre": "Musique IA et faux streams : 18 mois de prison",
+   "lien": "https://www.zataz.com/musique-ia-et-faux-streams-18-mois-de-prison/",
+   "source": "Zataz",
+   "date": "2026-10-21T14:42:22+00:00",
+   "extrait": "Musique IA, faux comptes et royalties détournées : 18 mois de prison pour un fraudeur.",
+   "tags": [
+    "IA"
+   ]
+  },
+  {
+   "id": "7fb0596b6da2",
+   "titre": "LibreOffice et OpenOffice piégés par des tableurs",
+   "lien": "https://www.zataz.com/libreoffice-et-openoffice-pieges-par-des-tableurs/",
+   "source": "Zataz",
+   "date": "2026-10-21T14:28:13+00:00",
+   "extrait": "LibreOffice et OpenOffice : des tableurs piégés exécutent du code Java. Correctifs et protections à connaître.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "31d93fb7e34f",
+   "titre": "Claude transmet une fausse piste à la police",
+   "lien": "https://www.zataz.com/claude-transmet-une-fausse-piste-a-la-police/",
+   "source": "Zataz",
+   "date": "2026-10-21T14:20:12+00:00",
+   "extrait": "Claude a envoyé une fausse piste à la police de Philadelphie pendant un test interne mené par Anthropic.",
+   "tags": [
+    "IA"
+   ]
+  },
+  {
+   "id": "a5afc0aef898",
+   "titre": "PHP ships emergency patches for critical PHP2Shell flaws",
+   "lien": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
+   "source": "BleepingComputer",
+   "date": "2026-10-21T14:07:05+00:00",
+   "extrait": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
+  },
+  {
+   "id": "6478f5844cef",
+   "titre": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
+   "lien": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
+   "source": "The Hacker News",
+   "date": "2026-10-21T14:00:00+00:00",
+   "extrait": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "f29fd7d40b5f",
+   "titre": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
+   "lien": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
+   "source": "The Hacker News",
+   "date": "2026-10-21T13:15:09+00:00",
+   "extrait": "Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled. ClickFix is a popular social…",
+   "tags": []
+  },
+  {
+   "id": "03d03293881a",
+   "titre": "PHP2Shell : deux failles critiques menacent les serveurs web",
+   "lien": "https://www.zataz.com/php2shell-deux-failles-critiques-menacent-les-serveurs-web/",
+   "source": "Zataz",
+   "date": "2026-10-21T12:55:11+00:00",
+   "extrait": "Deux failles PHP2Shell critiques menacent les serveurs web. Versions concernées, risques et mesures de sécurité.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "c7a020f274e0",
+   "titre": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
+   "lien": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
+   "source": "The Hacker News",
+   "date": "2026-10-21T12:05:00+00:00",
+   "extrait": "Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and…",
+   "tags": [
+    "Malware"
+   ]
+  },
+  {
+   "id": "b81260804ad3",
+   "titre": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
+   "lien": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
+   "source": "The Hacker News",
+   "date": "2026-10-21T11:53:34+00:00",
+   "extrait": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized…",
+   "tags": [
+    "IA"
+   ]
+  },
+  {
+   "id": "ec0fd993c8b5",
+   "titre": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
+   "lien": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
+   "source": "The Hacker News",
+   "date": "2026-10-21T10:36:53+00:00",
+   "extrait": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "f31f85df952c",
+   "titre": "The Harness Is the Hard Part of Agentic Pentesting",
+   "lien": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
+   "source": "The Hacker News",
+   "date": "2026-10-21T10:32:40+00:00",
+   "extrait": "An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks safe to run…",
+   "tags": [
+    "IA"
+   ]
+  },
+  {
+   "id": "00d9c6c07315",
+   "titre": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
+   "lien": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
+   "source": "The Hacker News",
+   "date": "2026-10-21T10:30:27+00:00",
+   "extrait": "Attackers took control of more than 300 Tor exit relays in early October and used them to redirect SSH connections to servers that stole login passwords, a researcher found. Exit relays are the last…",
+   "tags": []
+  },
+  {
+   "id": "c455efb4640b",
+   "titre": "Arnaque au bitcoin : un réseau piloté depuis des prisons",
+   "lien": "https://www.zataz.com/arnaque-au-bitcoin-un-reseau-pilote-depuis-des-prisons/",
+   "source": "Zataz",
+   "date": "2026-10-21T09:43:47+00:00",
+   "extrait": "Arnaque au bitcoin : une femme arrêtée et un réseau d'escroquerie lié à deux prisons.",
+   "tags": [
+    "Malware"
+   ]
+  },
+  {
+   "id": "994e8909d25e",
+   "titre": "Des arrestations autour d’un SMS blaster",
+   "lien": "https://www.zataz.com/quatre-arrestations-autour-dun-sms-blaster/",
+   "source": "Zataz",
+   "date": "2026-10-21T09:20:00+00:00",
+   "extrait": "Aux Philippines ainsi qu’au Cambodge, des personnes ont été arrêtées dans une enquête concernant un SMS blaster, que les autorités associent à des messages frauduleux imitant un établissement…",
+   "tags": []
+  },
+  {
+   "id": "705a2aee0bf3",
+   "titre": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
+   "lien": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
+   "source": "The Hacker News",
+   "date": "2026-10-21T09:05:17+00:00",
+   "extrait": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "7f88afbf76a3",
+   "titre": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
+   "lien": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
+   "source": "The Hacker News",
+   "date": "2026-10-21T09:01:12+00:00",
+   "extrait": "Unknown threat actors breached TeamUpdraft's website and potentially gained unauthorized access to customers' connection keys for UpdraftCentral, UpdraftVault, and UpdraftClone, using them to…",
+   "tags": [
+    "Malware"
+   ]
+  },
+  {
+   "id": "0c6fe061465a",
+   "titre": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases",
+   "lien": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
+   "source": "The Hacker News",
+   "date": "2026-10-21T08:04:17+00:00",
+   "extrait": "U.S. federal civilian agencies must remove DeepSeek products from their information technology systems, along with any third-party products or services \"developed using DeepSeek implementations,\"…",
+   "tags": [
+    "IA"
+   ]
+  },
+  {
+   "id": "17efaa05bd14",
+   "titre": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
+   "lien": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
+   "source": "The Hacker News",
+   "date": "2026-10-21T07:44:22+00:00",
+   "extrait": "State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it does not yet know where the data came…",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "f6fe2f9557b7",
+   "titre": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
+   "lien": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
+   "source": "The Hacker News",
+   "date": "2026-10-21T07:26:49+00:00",
+   "extrait": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting…",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
+  },
+  {
+   "id": "bd60f0eb51aa",
+   "titre": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
+   "lien": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
+   "source": "The Hacker News",
+   "date": "2026-10-21T06:05:15+00:00",
+   "extrait": "A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization. According to a report published by Russian cybersecurity firm Solar, the activity…",
+   "tags": [
+    "Fuite de données",
+    "Malware",
+    "Outil"
+   ]
+  },
+  {
+   "id": "6fda511224ef",
+   "titre": "Multiples vulnérabilités dans Oracle Virtualization (21 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1354/",
+   "source": "CERT-FR",
+   "date": "2026-10-21T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "792cc5de4dbd",
+   "titre": "Multiples vulnérabilités dans les produits Mozilla (21 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1346/",
+   "source": "CERT-FR",
+   "date": "2026-10-21T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "c6749fc1b5cc",
+   "titre": "Multiples vulnérabilités dans Oracle Database Server (21 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1349/",
+   "source": "CERT-FR",
+   "date": "2026-10-21T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "3082c8549cdf",
+   "titre": "Multiples vulnérabilités dans PHP (21 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1359/",
+   "source": "CERT-FR",
+   "date": "2026-10-21T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "9a6a21e40ca3",
+   "titre": "Multiples vulnérabilités dans Oracle MySQL (21 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1351/",
+   "source": "CERT-FR",
+   "date": "2026-10-21T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "e1c63543b3fb",
+   "titre": "Vulnérabilité dans MongoDB PHP Driver (21 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1347/",
+   "source": "CERT-FR",
+   "date": "2026-10-21T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans MongoDB PHP Driver. Elle permet à un attaquant de provoquer un déni de service à distance.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "5580c8b06e9d",
+   "titre": "Multiples vulnérabilités dans les produits StormShield (21 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1345/",
+   "source": "CERT-FR",
+   "date": "2026-10-21T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits StormShield. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "f644439542f8",
+   "titre": "Multiples vulnérabilités dans Google Chrome (21 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1357/",
+   "source": "CERT-FR",
+   "date": "2026-10-21T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "8312c247950e",
+   "titre": "Multiples vulnérabilités dans Oracle PeopleSoft (21 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1352/",
+   "source": "CERT-FR",
+   "date": "2026-10-21T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "aef2fcf58160",
+   "titre": "Multiples vulnérabilités dans Oracle Java SE (21 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1350/",
+   "source": "CERT-FR",
+   "date": "2026-10-21T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "0e595982e728",
+   "titre": "Multiples vulnérabilités dans Mattermost Server (21 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1348/",
+   "source": "CERT-FR",
+   "date": "2026-10-21T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "955c23a46eb5",
+   "titre": "Multiples vulnérabilités dans Apache Tomcat (21 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1358/",
+   "source": "CERT-FR",
+   "date": "2026-10-21T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "7e3ff1ddd688",
+   "titre": "Multiples vulnérabilités dans Oracle Weblogic (21 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1355/",
+   "source": "CERT-FR",
+   "date": "2026-10-21T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Oracle Weblogic. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "29a7929616be",
+   "titre": "Vulnérabilité dans Traefik (21 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1356/",
+   "source": "CERT-FR",
+   "date": "2026-10-21T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans Traefik. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "61cd0116fe50",
+   "titre": "Multiples vulnérabilités dans Oracle Systems (21 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1353/",
+   "source": "CERT-FR",
+   "date": "2026-10-21T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Oracle Systems. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "8c2a72f1b403",
+   "titre": "[Màj] Multiples vulnérabilités dans PHP (21 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-014/",
+   "source": "CERT-FR",
+   "date": "2026-10-21T00:00:00+00:00",
+   "extrait": "**[Mise à jour du 22 octobre 2026]** Le CERT-FR a connaissance de preuves de concept pour les vulnérabilités CVE-2026-109618 et CVE-2026-109619 pour des déploiements spécifique de PHP. **[Mise à…",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
+  },
+  {
+   "id": "1530955429aa",
+   "titre": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
+   "lien": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
+   "source": "The Hacker News",
+   "date": "2026-10-20T17:09:53+00:00",
+   "extrait": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised, Mozilla and Google's Chrome Root Program confirms on October 20. An intermediate CA signs the…",
+   "tags": []
+  },
+  {
+   "id": "53ddecf9f5b1",
+   "titre": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
+   "lien": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
+   "source": "The Hacker News",
+   "date": "2026-10-20T15:38:52+00:00",
+   "extrait": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution. The…",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
+  },
+  {
+   "id": "0d304799e621",
+   "titre": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
+   "lien": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
+   "source": "The Hacker News",
+   "date": "2026-10-20T15:32:27+00:00",
+   "extrait": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by ransomware actors. The activity relates to…",
+   "tags": [
+    "CVE",
+    "Faille",
+    "Ransomware"
+   ]
+  },
+  {
+   "id": "0dfa738d1635",
+   "titre": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
+   "lien": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
+   "source": "The Hacker News",
+   "date": "2026-10-20T14:07:17+00:00",
+   "extrait": "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their…",
+   "tags": [
+    "Fuite de données",
+    "IA"
+   ]
+  },
+  {
+   "id": "2f7a0f9a2ffb",
+   "titre": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
+   "lien": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
+   "source": "The Hacker News",
+   "date": "2026-10-20T12:59:44+00:00",
+   "extrait": "The iPhone of Vladan Đokić, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's Pegasus spyware in 2026, the Citizen…",
+   "tags": [
+    "Faille",
+    "Malware",
+    "Mobile"
+   ]
+  },
+  {
+   "id": "467c211f344f",
+   "titre": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
+   "lien": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
+   "source": "The Hacker News",
+   "date": "2026-10-20T11:41:06+00:00",
+   "extrait": "WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete their accounts…",
+   "tags": [
+    "IA"
+   ]
+  },
+  {
+   "id": "df48f73ea919",
+   "titre": "What Security Teams Can Do To Tame Wild Code",
+   "lien": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
+   "source": "The Hacker News",
+   "date": "2026-10-20T11:33:04+00:00",
+   "extrait": "A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves time, reduces…",
+   "tags": [
+    "IA"
+   ]
+  },
+  {
+   "id": "f0509be43eab",
+   "titre": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
+   "lien": "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
+   "source": "The Hacker News",
+   "date": "2026-10-20T11:32:59+00:00",
+   "extrait": "Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of eight intermediate certificate authority keys. Programs built…",
+   "tags": []
+  },
+  {
+   "id": "41525c1156ae",
+   "titre": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader",
+   "lien": "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
+   "source": "The Hacker News",
+   "date": "2026-10-20T11:06:25+00:00",
+   "extrait": "The Russia-linked state-sponsored threat actor tracked as APT28 (aka BlueDelta, Fancy Bear, and Forest Blizzard) has been attributed to attacks targeting two member states of the North Atlantic…",
+   "tags": [
+    "Malware"
+   ]
+  },
+  {
+   "id": "13881c9b4329",
+   "titre": "ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident",
+   "lien": "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html",
+   "source": "The Hacker News",
+   "date": "2026-10-20T10:56:08+00:00",
+   "extrait": "ConnectWise on Monday said it has taken remediation measures, including strengthening administrative-access protections and resetting accounts and replacing application credentials, as it continues…",
+   "tags": []
+  },
+  {
+   "id": "92e407676578",
+   "titre": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
+   "lien": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
+   "source": "The Hacker News",
+   "date": "2026-10-20T08:21:29+00:00",
+   "extrait": "An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and…",
+   "tags": [
+    "Fuite de données",
+    "Malware",
+    "Outil"
+   ]
+  },
+  {
+   "id": "8ad41fccfa2a",
+   "titre": "Broadcom - Une faille Wi-Fi agée de 16 ans toujours sans CVE",
+   "lien": "https://korben.info/faille-wps-broadcom-routeurs-wifi.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-10-20T07:51:56+00:00",
+   "extrait": "Quentin Kaiser a divulgué une faille d'au moins 16 ans dans le code WPS de Broadcom : à portée de Wi-Fi, sans la clé du réseau, on peut faire exécuter son code à une box. Broadcom dit l'avoir…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "4fd8d5a31fd8",
+   "titre": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
+   "lien": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
+   "source": "The Hacker News",
+   "date": "2026-10-20T07:11:45+00:00",
+   "extrait": "Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks. The high-severity vulnerability, tracked as…",
+   "tags": [
+    "CVE",
+    "Faille",
+    "Malware"
+   ]
+  },
+  {
+   "id": "50e342417287",
+   "titre": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
+   "lien": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
+   "source": "The Hacker News",
+   "date": "2026-10-20T05:53:16+00:00",
+   "extrait": "A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco…",
+   "tags": [
+    "IA"
+   ]
+  },
+  {
+   "id": "fd5c166f1b27",
+   "titre": "La Disquette - Un vieux jeu PC par semaine, sans rien installer",
+   "lien": "https://korben.info/la-disquette-jeu-pc-de-la-semaine-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-10-20T05:14:23+00:00",
+   "extrait": "La Disquette fait tourner chaque semaine un ancien jeu PC Windows sur ses serveurs et l'affiche dans votre navigateur, gratuitement, dans un faux bureau XP. GTA 2 jusqu'au 26 octobre, sans compte ni…",
+   "tags": [
+    "Windows"
+   ]
+  },
+  {
+   "id": "6c494d43a845",
+   "titre": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
+   "lien": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
+   "source": "The Hacker News",
+   "date": "2026-10-20T04:05:58+00:00",
+   "extrait": "Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader. According to Forescout Research…",
+   "tags": [
+    "Fuite de données",
+    "Malware"
+   ]
+  },
+  {
+   "id": "050b058bc703",
+   "titre": "Violations de données applicatives - Retour d’expérience du CERT-FR (20 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2026-CTI-008/",
+   "source": "CERT-FR",
+   "date": "2026-10-20T00:00:00+00:00",
+   "extrait": "En 2025, le CERT-FR a suivi près de 200 violations de données issues d’applications web. Dans de nombreux cas, ces exfiltrations ont été permises par des actions attaquantes d’un faible niveau de…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "721ce082eeb4",
+   "titre": "Multiples vulnérabilités dans Mattermost Server (20 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1344/",
+   "source": "CERT-FR",
+   "date": "2026-10-20T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "b61399758892",
+   "titre": "Multiples vulnérabilités dans Laravel (20 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1343/",
+   "source": "CERT-FR",
+   "date": "2026-10-20T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Laravel. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "4eaf1e16af24",
+   "titre": "Korben Remote Desktop - Contrôlez votre Mac à distance gratuitement",
+   "lien": "https://korben.info/korben-remote-desktop.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-10-19T10:04:36+00:00",
+   "extrait": "J'en avais marre du Partage d'écran d'Apple qui lag et de VNC, alors je me suis codé ma propre app de prise de contrôle à distance pour Mac. Image HEVC fluide, son, fichiers, fenêtres d'apps…",
+   "tags": []
+  },
+  {
+   "id": "48a8d40f73ed",
+   "titre": "plMail - Toutes vos boîtes mail rassemblées dans une interface",
+   "lien": "https://korben.info/plmail-client-mail-auto-heberge.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-10-19T09:04:16+00:00",
+   "extrait": "Gmail arrête de relever vos autres boîtes par POP en janvier 2027. plMail les rassemble dans un webmail hébergé chez vous, avec un Gmail à brancher à la main et un iPhone à compiler.",
+   "tags": [
+    "Mobile"
+   ]
+  },
+  {
+   "id": "f8dd1065ff0c",
+   "titre": "Keepsweeper - Un Démineur avec des péons et des dragons",
+   "lien": "https://korben.info/keepsweeper-demineur-strategie-temps-reel.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-10-19T08:32:24+00:00",
+   "extrait": "Keepsweeper reprend la grille du Démineur, mais ses chiffres comptent des trésors, des gobelins et des dragons, et chaque case creusée fait grandir un royaume en temps réel. Gratuit et complet dans…",
+   "tags": [
+    "Jailbreak",
+    "Mobile"
+   ]
+  },
+  {
+   "id": "837c366595c9",
+   "titre": "Music Bridge - Pour que les liens musicaux s'ouvrent bien sur votre plateforme favorite",
+   "lien": "https://korben.info/music-bridge-extension-liens-musique.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-10-19T08:16:44+00:00",
+   "extrait": "Un lien Spotify alors que vous êtes sur Deezer ? L'extension Music Bridge ouvre le même morceau sur votre plateforme, voire dans l'appli de bureau. Ce qu'elle ne prend pas, et à quoi tient sa durée…",
+   "tags": []
+  },
+  {
+   "id": "ae0a2c59827f",
+   "titre": "Et si vous commenciez par effacer ce que les data brokers savent de vous ? #sponso",
+   "lien": "https://korben.info/data-brokers-que-savent-ils-de-vous.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-10-19T07:50:58+00:00",
+   "extrait": "Une étude d'Incogni auprès d'un millier d'internautes montre que 52% pensent que leurs données seront exposées dans une fuite et que 63% en sont anxieux. Le service envoie des demandes de…",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "57276cd465e1",
+   "titre": "Bulletin d'actualité CERTFR-2026-ACT-044 (19 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-044/",
+   "source": "CERT-FR",
+   "date": "2026-10-19T00:00:00+00:00",
+   "extrait": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "7fc24a9bfbc2",
+   "titre": "Vulnérabilité dans Mattermost Server (19 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1338/",
+   "source": "CERT-FR",
+   "date": "2026-10-19T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "c936435c6905",
+   "titre": "Multiples vulnérabilités dans les produits F5 (19 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1341/",
+   "source": "CERT-FR",
+   "date": "2026-10-19T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "5119375006d5",
+   "titre": "Multiples vulnérabilités dans Juniper Networks Session Smart Router (19 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1337/",
+   "source": "CERT-FR",
+   "date": "2026-10-19T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Juniper Networks Session Smart Router. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "14d789d340c0",
+   "titre": "Multiples vulnérabilités dans Microsoft Edge (19 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1342/",
+   "source": "CERT-FR",
+   "date": "2026-10-19T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié…",
+   "tags": [
+    "Faille",
+    "Windows"
+   ]
+  },
+  {
+   "id": "fa7c32abb9a8",
+   "titre": "Multiples vulnérabilités dans Stormshield Network Security (19 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1339/",
+   "source": "CERT-FR",
+   "date": "2026-10-19T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "6c3b18cc76b2",
+   "titre": "Multiples vulnérabilités dans Roundcube Webmail (19 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1340/",
+   "source": "CERT-FR",
+   "date": "2026-10-19T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Roundcube Webmail. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une falsification…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "38566e59be14",
+   "titre": "Test du SSD NVMe 1 To Fanxiang dans mon NAS",
+   "lien": "https://korben.info/test-du-ssd-nvme-1-to-fanxiang-dans-mon-nas.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-10-17T13:54:00+00:00",
+   "extrait": "Korben teste un SSD NVMe M.2 de 1 To de Fanxiang dans son NAS UGREEN DXP8800 Ultra, où il sert de volume dédié aux conteneurs Docker, bases de données et métadonnées Plex. Annoncé à 7 300 Mo/s et…",
+   "tags": []
+  },
+  {
+   "id": "eafa50420cd7",
+   "titre": "HUB 404 - Le grand retour d'Hacking Social",
+   "lien": "https://korben.info/hacking-social-hub404.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-10-16T08:42:51+00:00",
+   "extrait": "Après treize ans de vulgarisation en psychologie sociale, Hacking Social lance HUB 404, une série dont le premier épisode est autofinancé. Voici comment les aider.",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "b16fff99dcb7",
+   "titre": "Llama - L'IA locale de llama.cpp, sans ligne de commande",
+   "lien": "https://korben.info/llama-windows-llm-local.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-10-16T08:04:52+00:00",
+   "extrait": "Llama, l'app Windows 11 de l'équipe de llama.cpp, télécharge vos modèles GGUF depuis la zone de notification et ouvre un chat local avec Alt+Espace. Raccourci non modifiable et Smart App Control…",
+   "tags": [
+    "IA",
+    "Windows"
+   ]
+  },
+  {
+   "id": "6044ab6fb707",
+   "titre": "Shotnix - Votre screencast déjà monté dès la fin de l'enregistrement",
+   "lien": "https://korben.info/shotnix.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-10-16T07:41:50+00:00",
+   "extrait": "Shotnix, app Mac gratuite sous licence MIT, ouvre chaque enregistrement d'écran déjà zoomé sur vos clics, avec sous-titres locaux et un outil de capture en prime.",
+   "tags": [
+    "Outil"
+   ]
+  },
+  {
+   "id": "097a359fcf77",
+   "titre": "Multiples vulnérabilités dans le noyau Linux de Red Hat (16 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1334/",
+   "source": "CERT-FR",
+   "date": "2026-10-16T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une…",
+   "tags": [
+    "Faille",
+    "Linux"
+   ]
+  },
+  {
+   "id": "eb8c88ae3b95",
+   "titre": "Multiples vulnérabilités dans les produits Microsoft (16 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1332/",
+   "source": "CERT-FR",
+   "date": "2026-10-16T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation…",
+   "tags": [
+    "Faille",
+    "Windows"
+   ]
+  },
+  {
+   "id": "851bc766a901",
+   "titre": "Multiples vulnérabilités dans le noyau Linux de SUSE (16 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1335/",
+   "source": "CERT-FR",
+   "date": "2026-10-16T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance…",
+   "tags": [
+    "Faille",
+    "Linux"
+   ]
+  },
+  {
+   "id": "f6ab6ee04db3",
+   "titre": "Multiples vulnérabilités dans les produits IBM (16 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1336/",
+   "source": "CERT-FR",
+   "date": "2026-10-16T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "afe0d24b1187",
+   "titre": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (16 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1333/",
+   "source": "CERT-FR",
+   "date": "2026-10-16T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une…",
+   "tags": [
+    "Faille",
+    "Linux"
+   ]
+  },
+  {
+   "id": "847a5fcba51a",
+   "titre": "Multiples vulnérabilités dans Microsoft Office (16 octobre 2026)",
+   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1331/",
+   "source": "CERT-FR",
+   "date": "2026-10-16T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des…",
+   "tags": [
+    "Faille",
+    "Windows"
+   ]
+  },
+  {
+   "id": "6d26caefe150",
+   "titre": "Tiny11 Builder - Votre ISO de Windows 11 allégée en quelques clics",
+   "lien": "https://korben.info/tiny11-builder-appli-windows-11-allege.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-10-15T08:23:36+00:00",
+   "extrait": "Tiny11 Builder a maintenant une appli de bureau, en préversion, qui télécharge l'ISO de Windows 11 chez Microsoft et en sort une version allégée. Essai dans une VM ARM : 49,5 minutes de…",
+   "tags": [
+    "Windows"
+   ]
+  },
+  {
+   "id": "dfe4728fbefb",
+   "titre": "Ghostscript - L'aperçu des PDF peut mettre à mal votre serveur",
+   "lien": "https://korben.info/ghostscript-faille-pdf-serveurs.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-10-15T06:56:47+00:00",
+   "extrait": "Wordfence a trouvé dans Ghostscript une faille notée 9,8 qui permet d'exécuter du code via un PDF piégé, mais il faut quatre conditions réunies pour être touché. Voici ce qu'il faut vérifier chez…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "6163bca034c6",
+   "titre": "ElixirOffice - Une suite libre pour ceux qui ont du mal à quitter Office",
+   "lien": "https://korben.info/elixiroffice-suite-bureautique-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-10-15T05:55:37+00:00",
+   "extrait": "ElixirOffice, la suite bureautique open source de Gaël Duval, reprend le ruban, les raccourcis et la mise en page de Microsoft Office, en appli de bureau hors ligne ou en serveur Docker. Ce qu'elle…",
+   "tags": [
+    "Outil",
+    "Windows"
+   ]
+  },
+  {
+   "id": "fe50335f190f",
+   "titre": "OpenCNC3D - Le Command & Conquer de la N64 revit sur PC et Mac",
+   "lien": "https://korben.info/opencnc3d-command-conquer-64-pc-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-10-15T05:26:44+00:00",
+   "extrait": "OpenCNC3D recrée sur Windows et macOS le Command & Conquer en 3D de la Nintendo 64, avec la logique GPL de Tiberian Dawn, les modèles de la cartouche et trois rendus qui basculent à la barre…",
+   "tags": [
+    "Windows"
+   ]
+  },
+  {
+   "id": "f52705d52e7f",
+   "titre": "QBZ, le client Qobuz pour Linux c'est terminé !",
+   "lien": "https://korben.info/qbz-fin-client-qobuz-linux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-10-14T10:08:30+00:00",
+   "extrait": "QBZ, le client Qobuz open source pour écouter en bit-perfect sous Linux, est fermé : Qobuz a demandé son arrêt et le développeur a obéi. Ce que dit le support, ce que dit l'auteur, ce qu'il reste du…",
+   "tags": [
+    "Outil",
+    "Linux"
+   ]
+  },
+  {
+   "id": "9e7c43b846d2",
+   "titre": "REA - J'ai testé le reverse engineering par agent IA",
+   "lien": "https://korben.info/rea-reverse-engineering-agent-ia-test.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-10-14T08:13:00+00:00",
+   "extrait": "Keygen, patch d'un binaire compilé, triches de Wolfenstein 3D, fonction d'Amphetamine recréée : j'ai confié quatre exercices à Claude Code avec REA, puis sans REA, pour voir ce que ce serveur MCP…",
+   "tags": [
+    "Faille",
+    "IA"
+   ]
+  },
+  {
+   "id": "da172cb2fe0e",
+   "titre": "Ported2Browser - +200 jeux dans le navigateur",
+   "lien": "https://korben.info/ported2browser.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-10-14T07:34:36+00:00",
+   "extrait": "Ported2Browser recense 210 jeux jouables dans un onglet. AssaultCube et DOOM démarrent bien, mais l'annuaire liste aussi des jeux commerciaux à vérifier.",
+   "tags": []
+  },
+  {
+   "id": "7cf93d094bc6",
+   "titre": "Le Petit Prince devient un jeu 3D dans votre navigateur (Merci l'IA)",
+   "lien": "https://korben.info/petit-prince-jeu-3d-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-10-14T06:00:16+00:00",
+   "extrait": "Le Petit Prince parmi les étoiles est un jeu 3D jouable dans le navigateur, en français, que Sac dit avoir fabriqué en 16 jours avec Claude Opus 5.5, Tripo et Blender. Ce que le code révèle, les…",
+   "tags": [
+    "IA",
+    "Outil",
+    "Linux"
+   ]
+  },
+  {
+   "id": "69256ef540fb",
+   "titre": "xboxrecomp - Transformer un jeu Xbox en .exe Windows",
+   "lien": "https://korben.info/xboxrecomp-recompilation-statique-xbox.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-10-14T06:00:00+00:00",
+   "extrait": "xboxrecomp traduit le code d'un jeu Xbox originale en C pour en faire un .exe Windows. Burnout 3 tourne, mais à 2-4 images par seconde : état des lieux.",
+   "tags": [
+    "Windows"
+   ]
+  }
+ ]
+}
