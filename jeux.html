@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0a0a0f">
+  <title>Jeux vidéo · Radar</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/composants.css">
+  <link rel="stylesheet" href="css/pages.css">
+</head>
+<body>
+  <main>
+    <header class="page-tete">
+      <h1><span>Jeux vidéo</span></h1>
+      <p>Les prochaines sorties, tes listes, et de quoi trouver ton prochain jeu.</p>
+      <nav class="segments" aria-label="Sections de la page">
+        <a href="#sorties">Sorties</a>
+        <a href="#listes">Mes listes</a>
+        <a href="#explorer">Explorer</a>
+        <a href="#actus">Actus</a>
+      </nav>
+    </header>
+
+    <!-- ===== Sorties ===== -->
+    <section class="section" id="sorties">
+      <div class="section-tete">
+        <h2>Sorties</h2>
+      </div>
+      <div class="options-ligne">
+        <div class="segments" id="choix-sorties" role="group" aria-label="Sorties">
+          <button type="button" data-vue="avenir" class="actif">À venir</button>
+          <button type="button" data-vue="recentes">Sortis récemment</button>
+        </div>
+      </div>
+      <div class="section-contenu" id="sorties-contenu"></div>
+    </section>
+
+    <!-- ===== Mes listes ===== -->
+    <section class="section" id="listes">
+      <div class="section-tete"><h2>Mes listes</h2></div>
+      <div class="options-ligne">
+        <div class="segments" id="choix-listes" role="group" aria-label="Mes listes"></div>
+      </div>
+      <div class="section-contenu"><div class="grille-jeux" id="listes-contenu"></div></div>
+    </section>
+
+    <!-- ===== Explorer ===== -->
+    <section class="section" id="explorer">
+      <div class="section-tete"><h2>Explorer</h2></div>
+      <div class="section-contenu">
+        <form class="filtres" id="filtres" autocomplete="off">
+          <div>
+            <label class="etiquette" for="f-texte">Titre</label>
+            <input class="champ" type="search" id="f-texte" placeholder="Ex : Zelda, Hollow Knight…">
+          </div>
+          <div>
+            <span class="etiquette">Genres</span>
+            <div class="puces" id="puces-genres"></div>
+          </div>
+          <div class="filtres-ligne">
+            <div>
+              <label class="etiquette" for="f-plateforme">Plateforme</label>
+              <select class="champ" id="f-plateforme"><option value="">Toutes</option></select>
+            </div>
+            <div>
+              <label class="etiquette" for="f-note">Metacritic minimum : <b id="valeur-note">toutes</b></label>
+              <input type="range" id="f-note" min="0" max="95" step="5" value="0">
+            </div>
+            <div>
+              <label class="etiquette" for="f-annee">Année</label>
+              <select class="champ" id="f-annee"><option value="">Toutes</option></select>
+            </div>
+            <div>
+              <label class="etiquette" for="f-tri">Trier par</label>
+              <select class="champ" id="f-tri">
+                <option value="-added">Popularité</option>
+                <option value="-metacritic">Note Metacritic</option>
+                <option value="-rating">Note des joueurs</option>
+                <option value="-released">Plus récents</option>
+              </select>
+            </div>
+          </div>
+          <div class="filtres-actions">
+            <button type="button" class="bouton bouton-plein" id="proposer">Propose-moi un jeu</button>
+            <button type="reset" class="lien-discret">Réinitialiser</button>
+            <span class="compte" id="compte"></span>
+          </div>
+        </form>
+        <div id="proposition"></div>
+        <div class="grille-jeux" id="resultats"></div>
+        <div class="charger-plus"><button type="button" class="bouton bouton-verre" id="charger-plus" hidden>Afficher plus</button></div>
+      </div>
+    </section>
+
+    <!-- ===== Actus jeux (flux RSS) ===== -->
+    <section class="section" id="actus">
+      <div class="section-tete">
+        <h2>Dernières actus</h2>
+        <a href="actus.html?cat=jeux">Toutes les actus jeux ›</a>
+      </div>
+      <div class="grille-articles" id="actus-contenu"></div>
+    </section>
+  </main>
+
+  <footer>Radar · données jeux : <a href="https://rawg.io" target="_blank" rel="noopener">RAWG</a> et Steam · actus : flux RSS des sources citées</footer>
+
+  <script type="module" src="js/pages/jeux.js"></script>
+</body>
+</html>

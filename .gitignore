@@ -10,3 +10,7 @@ __pycache__/
 
 # Secrets locaux (jamais dans le repo : on utilise les GitHub Secrets)
 .env
+
+# Cloudflare Worker
+worker/node_modules/
+worker/.wrangler/

@@ -2,6 +2,8 @@
 // Page d'accueil : héros, suivis, calendrier, carrousels, genres, actus.
 // =========================================================
 import { tendancesEtSaison } from '../api/animes.js';
+import { sortiesAVenir, sortiesRecentes, relaisConfigure } from '../api/jeux.js';
+import { carteJeu, squelettesJeux } from '../ui/cartes-jeux.js';
 import { chargerActus, CATEGORIES } from '../api/actus.js';
 import { echapper, titre, note, nettoyerSynopsis, afficherErreur } from '../lib/outils.js';
 import { FORMATS_FR, SAISONS_FR, GENRES_VEDETTES } from '../lib/traductions.js';
@@ -129,6 +131,25 @@ async function afficherActus() {
   zone.innerHTML = blocs.join('');
 }
 
+// ---------- Jeux vidéo ----------
+async function afficherJeux() {
+  if (!relaisConfigure()) {
+    // Relais pas encore déployé : on masque simplement les sections jeux
+    document.getElementById('section-jeux-avenir').hidden = true;
+    document.getElementById('section-jeux-recents').hidden = true;
+    return;
+  }
+  const avenir = document.getElementById('jeux-avenir');
+  const recents = document.getElementById('jeux-recents');
+  avenir.innerHTML = recents.innerHTML = squelettesJeux(5);
+  sortiesAVenir()
+    .then((jeux) => { avenir.innerHTML = jeux.slice(0, 15).map((j) => carteJeu(j)).join(''); })
+    .catch((erreur) => afficherErreur(avenir, erreur));
+  sortiesRecentes()
+    .then((jeux) => { recents.innerHTML = jeux.slice(0, 15).map((j) => carteJeu(j)).join(''); })
+    .catch((erreur) => afficherErreur(recents, erreur));
+}
+
 // ---------- Lancement ----------
 afficherSuivis();
 afficherGenres();
@@ -136,4 +157,5 @@ document.getElementById('note-heures').innerHTML = `${ICONES.horloge}<span>${NOT
 monterCalendrier(document.getElementById('jours'), document.getElementById('calendrier'), { seulementPopulaires: true });
 brancherBoutonHasard(document.getElementById('surprends-moi'));
 chargerAnimes();
+afficherJeux();
 afficherActus();

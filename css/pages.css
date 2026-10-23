@@ -131,6 +131,25 @@
 .infos-liste dt { color: var(--texte-2); }
 .infos-liste dd { font-weight: 600; text-align: right; }
 
+/* ---------- Fiche jeu ---------- */
+.heros-jeu { min-height: min(72vh, 640px); }
+.heros-jeu .heros-image { background-position: center 25%; }
+.avis-grille { display: flex; flex-wrap: wrap; gap: 24px; align-items: center; }
+.barre-avis { display: grid; grid-template-columns: 110px 1fr 48px; align-items: center; gap: 10px; font-size: 0.86rem; margin-bottom: 8px; }
+.barre-avis > div { height: 8px; border-radius: 999px; background: var(--surface-forte); overflow: hidden; }
+.barre-avis i { display: block; height: 100%; border-radius: 999px; }
+.barre-avis b { text-align: right; color: var(--texte-2); font-weight: 600; }
+.avis-steam { margin-top: 12px; font-size: 0.9rem; color: var(--texte-2); }
+.avis-steam b { color: var(--texte); }
+.config-colonnes { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 20px; }
+.config-colonnes h3 { font-size: 0.95rem; color: var(--accent); margin-bottom: 8px; }
+.config { list-style: none; display: grid; gap: 6px; font-size: 0.88rem; color: var(--texte-2); }
+.config b { color: var(--texte); font-weight: 600; }
+.retro { margin-top: 10px; padding: 14px 16px; border-radius: var(--r-m); background: var(--surface); border: 1px solid var(--bordure); }
+.retro strong { display: block; margin-bottom: 8px; }
+.plateformes .pastille svg { width: 12px; height: 12px; }
+.carte .etiquette { display: block; }
+
 /* "Où le regarder en France" */
 .carte-large { grid-column: 1 / -1; }
 .dispo-saisons { display: grid; gap: 8px; margin: 12px 0; }
@@ -195,6 +214,10 @@
 .proposition h3 { font-size: clamp(1.3rem, 3vw, 2rem); font-weight: 800; letter-spacing: -0.02em; line-height: 1.1; margin: 6px 0 8px; }
 .proposition p { color: rgba(245, 245, 247, 0.8); font-size: 0.9rem; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; margin: 8px 0 14px; }
 @media (max-width: 600px) { .proposition-contenu img { width: 80px; } }
+
+.titre-mois { font-size: 1rem; font-weight: 700; color: var(--texte-2); margin: 22px 0 12px; letter-spacing: -0.01em; }
+.titre-mois:first-child { margin-top: 0; }
+.metacritic.en-ligne { position: static; display: inline-block; vertical-align: middle; font-size: 0.9rem; margin-left: 6px; }
 
 .charger-plus { display: flex; justify-content: center; margin-top: 28px; }
 

@@ -1,0 +1,11 @@
+# Configuration du relais Cloudflare Worker (déployé avec `npx wrangler deploy`)
+name = "radar-relais"
+main = "src/index.js"
+compatibility_date = "2026-10-01"
+
+[vars]
+# Sites autorisés à appeler le relais (séparés par des virgules)
+ORIGINES = "https://wazyrix.github.io,http://localhost:8000"
+
+# La clé RAWG n'est PAS ici : elle est stockée chez Cloudflare avec
+#   npx wrangler secret put RAWG_KEY

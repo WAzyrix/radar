@@ -72,6 +72,9 @@
 .resultats span { font-size: 0.8rem; color: var(--texte-2); }
 .resultats .tout-voir { justify-content: center; font-size: 0.85rem; font-weight: 600; color: var(--texte-2); }
 .resultats p { padding: 10px; color: var(--texte-2); font-size: 0.9rem; }
+.resultats p.groupe { padding: 8px 8px 4px; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--texte-3); }
+.resultats img.miniature-jeu { width: 52px; height: 36px; }
+.resultats { max-height: min(70vh, 560px); overflow-y: auto; }
 
 /* ---------- Barre d'onglets mobile (comme une app iOS) ---------- */
 .onglets {
@@ -273,6 +276,35 @@ input[type="range"] { width: 100%; accent-color: var(--accent); cursor: pointer;
 .affiche-etiquette { left: 8px; bottom: 8px; }
 .affiche-titre { margin-top: 10px; font-size: 0.88rem; font-weight: 600; line-height: 1.3; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
 .affiche-sous { font-size: 0.78rem; color: var(--texte-3); margin-top: 2px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+/* ---------- Carte jeu (visuels paysage) ---------- */
+.carrousel.jeux { grid-auto-columns: clamp(220px, 62vw, 300px); }
+.grille-jeux { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 240px), 1fr)); gap: 24px clamp(12px, 1.6vw, 20px); }
+.carte-jeu { display: block; min-width: 0; color: var(--texte); }
+.carte-jeu-image {
+  position: relative;
+  aspect-ratio: 16 / 10;
+  border-radius: var(--r-m);
+  overflow: hidden;
+  background: linear-gradient(135deg, var(--fond-2), var(--surface-forte));
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.35);
+  transition: transform var(--transition), box-shadow var(--transition);
+}
+.carte-jeu-image img { width: 100%; height: 100%; object-fit: cover; }
+.carte-jeu:hover .carte-jeu-image { transform: translateY(-4px) scale(1.02); box-shadow: 0 18px 40px rgba(0, 0, 0, 0.55); }
+.metacritic {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  min-width: 30px;
+  padding: 3px 7px;
+  border-radius: 8px;
+  text-align: center;
+  font-size: 0.78rem;
+  font-weight: 800;
+  color: #0a0a0f;
+  background: var(--mc);
+}
 
 /* ---------- Carte épisode (calendrier, rattrapage) ---------- */
 .carrousel.episodes { grid-auto-columns: minmax(280px, 340px); }

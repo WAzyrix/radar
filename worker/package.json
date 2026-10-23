@@ -1,0 +1,12 @@
+{
+  "name": "radar-relais",
+  "private": true,
+  "description": "Relais Cloudflare Worker de Radar (RAWG + Steam)",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^3.114.17"
+  }
+}

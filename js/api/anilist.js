@@ -3,6 +3,8 @@
 // Tous les appels à AniList passent par la fonction `anilist()` ci-dessous.
 // =========================================================
 
+import { hacher, lireCache, ecrireCache, viderCache } from '../lib/cache.js';
+
 const URL_API = 'https://graphql.anilist.co';
 
 // AniList autorise 90 requêtes/minute normalement, mais seulement 30 en "mode dégradé"
@@ -25,41 +27,7 @@ async function attendreCreneau() {
   }
 }
 
-// Petite fonction de hachage (djb2) pour avoir des clés de cache courtes.
-function hacher(texte) {
-  let h = 5381;
-  for (let i = 0; i < texte.length; i++) h = ((h << 5) + h + texte.charCodeAt(i)) | 0;
-  return (h >>> 0).toString(36);
-}
-
-// ---------- Cache dans localStorage ----------
-function lireCache(cle) {
-  try {
-    const entree = JSON.parse(localStorage.getItem(cle));
-    if (entree && Date.now() < entree.expire) return entree.data;
-  } catch { /* entrée illisible : on ignore */ }
-  return undefined;
-}
-
-function ecrireCache(cle, data, duree) {
-  const valeur = JSON.stringify({ expire: Date.now() + duree, data });
-  try {
-    localStorage.setItem(cle, valeur);
-  } catch {
-    // Stockage plein : on vide notre cache AniList et on réessaie une fois
-    viderCache();
-    try { localStorage.setItem(cle, valeur); } catch { /* tant pis */ }
-  }
-}
-
-export function viderCache({ seulementExpires = false } = {}) {
-  for (const cle of Object.keys(localStorage)) {
-    if (!cle.startsWith(PREFIXE_CACHE)) continue;
-    if (seulementExpires && lireCache(cle) !== undefined) continue;
-    localStorage.removeItem(cle);
-  }
-}
-viderCache({ seulementExpires: true }); // ménage au chargement
+viderCache(PREFIXE_CACHE, { seulementExpires: true }); // ménage au chargement
 
 /**
  * Envoie une requête GraphQL à AniList.
@@ -78,7 +46,7 @@ export async function anilist(query, variables = {}, { duree = 10 * 60_000 } = {
   }
 
   const promesse = envoyer(corps).then((data) => {
-    if (duree > 0) ecrireCache(cle, data, duree);
+    if (duree > 0) ecrireCache(cle, data, duree, PREFIXE_CACHE);
     return data;
   }).finally(() => enCours.delete(cle));
 
