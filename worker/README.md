@@ -24,6 +24,17 @@ npx wrangler deploy                 # affiche l'adresse du relais (…workers.de
 
 Puis mettre cette adresse dans `js/config.js` (`URL_RELAIS`).
 
+## Lancement de la collecte des actus
+
+Le `schedule` de GitHub Actions est souvent retardé ou sauté. Toutes les heures, la tâche planifiée du relais lance donc le workflow `actus.yml` (`workflow_dispatch`, fichier `src/github.js`). Il faut un jeton GitHub **fine-grained** limité au dépôt `radar`, avec la seule permission **Actions : Read and write** :
+
+```bash
+npx wrangler secret put GITHUB_TOKEN   # colle le jeton quand c'est demandé
+npx wrangler deploy
+```
+
+Le résultat apparaît dans les journaux du relais (`npx wrangler tail`) : `Collecte des actus : {"lance":true}`. Si le jeton expire, le `schedule` de GitHub (toutes les 6 h) prend le relais.
+
 ## Routes
 
 | Route | Rôle |

@@ -18,7 +18,7 @@
 //   PUT    /historique/:code     DELETE /historique/:code   tout marquer lu / effacer (tout ou { ids })
 //   POST   /recommander                               recommander à un pote (compte Supabase)
 //   POST   /chat/notifier                             prévenir le groupe d'un nouveau message
-// Tâche planifiée (toutes les heures) : verification.js
+// Tâche planifiée (toutes les heures) : verification.js + lancement de la collecte des actus (github.js)
 // =========================================================
 import { filtrer, listeJeux, ficheJeu, hasard, genres } from './jeux.js';
 import { rechercheTmdb } from './tmdb.js';
@@ -29,6 +29,7 @@ import { verifier } from './verification.js';
 import { recommander } from './recommandations.js';
 import { notifierChat } from './chat.js';
 import { cleIp } from './limiteur.js';
+import { lancerCollecte } from './github.js';
 
 // Le Durable Object doit être exporté par le point d'entrée pour que Cloudflare le trouve
 export { Limiteur } from './limiteur.js';
@@ -74,6 +75,8 @@ export default {
 
   // Appelé par Cloudflare toutes les heures (voir [triggers] dans wrangler.toml)
   async scheduled(evenement, env, ctx) {
+    // La collecte d'abord : une seule requête, et elle ne doit pas attendre la vérification
+    ctx.waitUntil(lancerCollecte(env).then((bilan) => console.log('Collecte des actus :', JSON.stringify(bilan))));
     ctx.waitUntil(verifier(env).then((bilan) => console.log('Vérification :', JSON.stringify(bilan))));
   },
 };

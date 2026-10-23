@@ -10,9 +10,12 @@ compatibility_date = "2026-10-01"
 ORIGINES = "https://wazyrix.github.io"
 # Adresse du site (liens dans les notifications, fichier data/adn.json)
 SITE = "https://wazyrix.github.io/radar/"
-# Clé PUBLIQUE des notifications web (la privée est un secret : VAPID_PRIVE)
 # Projet Supabase (comptes et potes) : adresse publique
 SUPABASE_URL = "https://ryinzwuccealzsyakjya.supabase.co"
+# Dépôt et workflow lancés par la tâche horaire (collecte des actus, src/github.js)
+GITHUB_DEPOT = "wazyrix/radar"
+GITHUB_WORKFLOW = "actus.yml"
+# Clé PUBLIQUE des notifications web (la privée est un secret : VAPID_PRIVE)
 VAPID_PUBLIQUE = "BDrLw-_L5jBFYKGCjkjlkYauEpjkMgeKQrpZaL6BWc4qSy9_IA0_xdne3lNqJ9loIql-pyrFIqGg3ZKMkM9QN0k"
 
 # Petite base de données clé/valeur : listes, abonnements aux notifs, état des vérifications
@@ -30,7 +33,7 @@ class_name = "Limiteur"
 tag = "v1"
 new_sqlite_classes = ["Limiteur"]
 
-# Vérification des nouveautés toutes les heures (à la 5e minute)
+# Toutes les heures (à la 5e minute) : vérification des nouveautés + lancement de la collecte des actus
 [triggers]
 crons = ["5 * * * *"]
 
@@ -39,3 +42,4 @@ crons = ["5 * * * *"]
 #   TMDB_KEY     clé API TMDB (films et séries)
 #   VAPID_PRIVE  clé privée des notifications web (JWK)
 #   SUPABASE_SERVICE  clé "service_role" de Supabase (droits complets : ne jamais la mettre dans le site)
+#   GITHUB_TOKEN jeton fine-grained limité au dépôt radar, permission « Actions : lecture et écriture »

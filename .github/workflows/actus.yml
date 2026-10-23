@@ -1,13 +1,16 @@
-# Collecte les actus toutes les heures, enregistre les JSON dans le repo,
+# Collecte les actus toutes les heures (lancé par le relais Cloudflare), enregistre les JSON dans le repo,
 # puis publie le site sur GitHub Pages.
 name: Actus et déploiement
 
 on:
+  # Toutes les heures, le cron du relais Cloudflare lance ce workflow (worker/src/github.js) :
+  # le "schedule" de GitHub est souvent retardé ou sauté. On le garde en secours,
+  # toutes les 6 h, au cas où le jeton du relais aurait expiré.
+  workflow_dispatch:       # relais Cloudflare (toutes les heures) ou bouton "Run workflow"
   schedule:
-    - cron: "17 * * * *"   # toutes les heures, à la 17e minute (moins d'embouteillage qu'à pile)
+    - cron: "47 */6 * * *"
   push:
     branches: [main]       # à chaque push : on republie le site
-  workflow_dispatch:       # bouton "Run workflow" dans l'onglet Actions
 
 permissions:
   contents: write          # pour commiter les JSON

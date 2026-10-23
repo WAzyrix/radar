@@ -39,7 +39,7 @@ python3 scripts/collecte.py
 ## Comment ça marche
 
 ```
-Toutes les heures (GitHub Actions)
+Toutes les heures (GitHub Actions, lancé par le cron du relais Cloudflare)
   scripts/collecte.py ──lit──> flux RSS ──écrit──> data/*.json ──> publié sur GitHub Pages
 
 Dans le navigateur
