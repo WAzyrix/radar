@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0a0a0f">
+  <meta name="description" content="Radar : mes actus animés, films, cyber et monde au même endroit.">
+  <title>Radar</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/composants.css">
+  <link rel="stylesheet" href="css/pages.css">
+</head>
+<body>
+  <main>
+    <!-- Héros : les animés en tendance, qui défilent comme sur Apple TV -->
+    <section class="heros" id="heros" aria-label="À la une">
+      <div class="heros-contenu">
+        <div class="squelette" style="width:120px;height:14px"></div>
+        <div class="squelette" style="width:min(480px,80vw);height:56px;margin:14px 0"></div>
+        <div class="squelette" style="width:min(560px,85vw);height:70px"></div>
+      </div>
+    </section>
+
+    <!-- Mes animés suivis (affiché seulement si j'en suis) -->
+    <section class="section" id="section-suivis" hidden>
+      <div class="section-tete">
+        <h2>Tes suivis</h2>
+        <a href="animes.html#rattrapage">Rattrapage ›</a>
+      </div>
+      <div class="carrousel" id="suivis"></div>
+    </section>
+
+    <section class="section">
+      <div class="section-tete">
+        <h2>Au programme</h2>
+        <a href="animes.html#calendrier">Calendrier complet ›</a>
+      </div>
+      <div class="jours" id="jours"></div>
+      <div class="carrousel episodes" id="calendrier"></div>
+      <p class="note-heures" id="note-heures"></p>
+    </section>
+
+    <section class="section">
+      <div class="section-tete">
+        <h2>Tendances du moment</h2>
+        <a href="animes.html?tri=TRENDING_DESC#explorer">Tout voir ›</a>
+      </div>
+      <div class="carrousel" id="tendances"></div>
+    </section>
+
+    <section class="section">
+      <div class="section-tete">
+        <h2 id="titre-saison">Les mieux notés de la saison</h2>
+      </div>
+      <div class="carrousel" id="saison"></div>
+    </section>
+
+    <section class="section">
+      <div class="section-tete">
+        <h2>Explorer par genre</h2>
+        <a href="#" id="surprends-moi">Surprends-moi ›</a>
+      </div>
+      <div class="genres-tuiles" id="genres"></div>
+    </section>
+
+    <section class="section">
+      <div class="section-tete">
+        <h2>Les dernières actus</h2>
+      </div>
+      <div class="apercu-actus" id="apercu-actus"></div>
+    </section>
+  </main>
+
+  <footer>Radar · données animés : <a href="https://anilist.co" target="_blank" rel="noopener">AniList</a> · actus : flux RSS des sources citées</footer>
+
+  <script type="module" src="js/pages/accueil.js"></script>
+</body>
+</html>

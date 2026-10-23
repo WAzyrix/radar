@@ -1,0 +1,116 @@
+/* =========================================================
+   Radar — base : variables, remise à zéro, typographie.
+   Toutes les couleurs/arrondis/espacements du site sont ici :
+   pour changer l'ambiance, c'est ce fichier qu'on modifie.
+   ========================================================= */
+
+:root {
+  /* Couleurs (sombre, légèrement bleuté pour éviter le noir "plat") */
+  --fond: #0a0a0f;
+  --fond-2: #12121a;
+  --surface: rgba(255, 255, 255, 0.06);
+  --surface-forte: rgba(255, 255, 255, 0.1);
+  --bordure: rgba(255, 255, 255, 0.08);
+  --texte: #f5f5f7;
+  --texte-2: #a1a1aa;
+  --texte-3: #6b6b76;
+  --vert: #5ee69a;
+  --orange: #ffb84d;
+
+  /* Couleur d'accent : remplacée en JS (couleur de l'affiche ou de la catégorie) */
+  --accent: #8b9cff;
+
+  /* Arrondis et espacements */
+  --r-s: 10px;
+  --r-m: 16px;
+  --r-l: 24px;
+  --gouttiere: clamp(16px, 4vw, 56px);
+  --largeur-max: 1400px;
+
+  /* Animations : courtes et douces, jamais "rebondissantes" */
+  --transition: 260ms cubic-bezier(0.2, 0.8, 0.2, 1);
+
+  --police: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --hauteur-nav: 66px;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; scroll-padding-top: calc(var(--hauteur-nav) + 16px); }
+
+body {
+  font-family: var(--police);
+  background: var(--fond);
+  color: var(--texte);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  min-height: 100vh;
+  overflow-x: hidden;
+  padding-bottom: 96px; /* place pour la barre d'onglets mobile */
+}
+@media (min-width: 900px) { body { padding-bottom: 0; } }
+
+/* Halo de couleur en fond, teinté par l'accent */
+body::before {
+  content: "";
+  position: fixed;
+  inset: -20vh -10vw auto;
+  height: 80vh;
+  background: radial-gradient(60% 60% at 30% 20%, color-mix(in oklab, var(--accent) 35%, transparent), transparent 70%);
+  opacity: 0.55;
+  pointer-events: none;
+  z-index: -1;
+}
+
+a { color: inherit; text-decoration: none; }
+img { display: block; max-width: 100%; }
+button, input, select { font: inherit; color: inherit; }
+button { border: 0; background: none; cursor: pointer; }
+button:disabled { opacity: 0.6; cursor: progress; }
+
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: var(--r-s); }
+
+/* Texte réservé aux lecteurs d'écran */
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* ---------- États : chargement, vide, erreur ---------- */
+.squelette {
+  background: linear-gradient(90deg, var(--surface) 0%, var(--surface-forte) 50%, var(--surface) 100%);
+  background-size: 200% 100%;
+  animation: brillance 1.4s infinite linear;
+  border-radius: var(--r-m);
+}
+@keyframes brillance { to { background-position: -200% 0; } }
+
+.vide {
+  padding: 32px 24px;
+  border-radius: var(--r-l);
+  border: 1px dashed var(--bordure);
+  color: var(--texte-2);
+  text-align: center;
+}
+.vide strong { display: block; color: var(--texte); margin-bottom: 4px; }
+
+.erreur {
+  padding: 16px 20px;
+  border-radius: var(--r-l);
+  background: rgba(255, 90, 90, 0.1);
+  border: 1px solid rgba(255, 90, 90, 0.25);
+}
+
+/* ---------- Animations réutilisables ---------- */
+@keyframes monter { from { opacity: 0; transform: translateY(16px); } }
+@keyframes apparaitre { from { opacity: 0; transform: translateY(-4px); } }
+@keyframes fondu { from { opacity: 0; } }
+
+footer {
+  padding: 56px var(--gouttiere) 32px;
+  color: var(--texte-3);
+  font-size: 0.8rem;
+}
+footer a { text-decoration: underline; text-underline-offset: 2px; }
+
+/* Respecte le réglage "réduire les animations" du système */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
+}
