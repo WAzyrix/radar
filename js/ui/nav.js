@@ -69,6 +69,8 @@ export function afficherNavigation(pageActive) {
   if (!SUPABASE_URL.includes('A-REMPLACER')) {
     import('../lib/compte.js').catch(() => {});
     import('../lib/preferences.js').then((p) => p.synchroniserPreferences()).catch(() => {});
+    // Mes notes et favoris suivent mon compte (supabase/notes.sql pas encore exécuté : on attend)
+    import('../lib/notes.js').then((n) => n.synchroniserNotes()).catch(() => {});
   }
   // Service worker : reçoit les notifications et rend le site installable
   if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});

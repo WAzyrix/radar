@@ -16,6 +16,7 @@ import { brancherBoutonHasard } from '../ui/hasard.js';
 import { ICONES } from '../ui/icones.js';
 import { boutonRecommander, brancherRecommandation } from '../ui/recommander.js';
 import { monterEpisodes } from '../ui/episodes-streaming.js';
+import { boutonFavori, brancherFavori, monterCarteNote } from '../ui/notes.js';
 
 afficherNavigation('animes');
 
@@ -114,6 +115,7 @@ function afficherFiche(m, adn) {
 
   // "Suivre" : animés ET mangas (notifs : épisodes, VOSTFR/VF, suites, nouveaux tomes)
   const typeListe = estManga ? 'manga' : 'anime';
+  const oeuvre = { type: typeListe, id: m.id, titre: titre(m), image: m.coverImage.large || m.coverImage.extraLarge };
   const suivre = `<button type="button" class="bouton bouton-verre ${estSuivi(m.id, typeListe) ? 'actif' : ''}" id="suivre">${boutonSuivre(estSuivi(m.id, typeListe))}</button>`;
 
   const recos = m.recommendations.nodes.map((n) => n.mediaRecommendation).filter(Boolean);
@@ -132,6 +134,7 @@ function afficherFiche(m, adn) {
           <div class="actions">
             ${bandeAnnonce}
             ${suivre}
+            ${boutonFavori(oeuvre)}
             <button type="button" class="bouton bouton-verre" id="hasard">${ICONES.de}Au hasard</button>
             ${boutonRecommander()}
           </div>
@@ -164,6 +167,7 @@ function afficherFiche(m, adn) {
         </dl>
         <p class="mention"><a class="lien-discret" href="${m.siteUrl}" target="_blank" rel="noopener">Voir sur AniList</a></p>
       </div>
+      <div class="carte carte-large" id="carte-note"></div>
       ${estManga ? '' : carteOuRegarder(m, adn)}
       ${estManga ? '' : '<div class="carte carte-large" id="episodes-streaming" hidden></div>'}
     </div>
@@ -203,6 +207,8 @@ function afficherFiche(m, adn) {
   afficherStatuts(m.id, typeListe);
   if (!estManga) afficherProgression(m);
   brancherBoutonHasard(document.getElementById('hasard'));
+  brancherFavori(document.getElementById('favori'), oeuvre);
+  monterCarteNote(document.getElementById('carte-note'), oeuvre);
   // Animé : "Autour de l'œuvre" est rempli une fois les saisons connues (pour les en retirer)
   if (estManga) afficherAutour(m, []);
   else afficherSaisons(m, bouton, adn);

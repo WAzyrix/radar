@@ -11,6 +11,7 @@ import { appliquerAccent } from '../ui/accent.js';
 import { carteJeu, badgeMetacritic, dateSortie, imageReduite } from '../ui/cartes-jeux.js';
 import { ICONES } from '../ui/icones.js';
 import { boutonRecommander, brancherRecommandation } from '../ui/recommander.js';
+import { boutonFavori, brancherFavori, monterCarteNote } from '../ui/notes.js';
 
 afficherNavigation('jeux');
 
@@ -128,6 +129,7 @@ function afficherFiche({ jeu, captures, serie, steam, configRawg }) {
   const sortie = jeu.released ? `${formatDate.format(new Date(`${jeu.released}T12:00:00`))} ${jeu.released.slice(0, 4)}` : 'À venir';
   const descriptionFr = steam?.description;
   const descriptionEn = jeu.description_raw;
+  const oeuvre = { type: 'jeu', id: jeu.id, titre: jeu.name, image: jeu.background_image };
 
   document.getElementById('fiche').innerHTML = `
     <section class="heros heros-jeu">
@@ -139,6 +141,7 @@ function afficherFiche({ jeu, captures, serie, steam, configRawg }) {
         <div id="potes-suivent"></div>
         <div class="actions" style="margin-top:22px" id="statuts">${boutonsStatut(jeu)}</div>
         <div class="actions" style="margin-top:10px">
+          ${boutonFavori(oeuvre, { petit: true })}
           <button type="button" class="bouton bouton-verre bouton-petit" id="hasard">${ICONES.de}Au hasard</button>
           ${jeu.website ? `<a class="bouton bouton-verre bouton-petit" href="${echapper(jeu.website)}" target="_blank" rel="noopener">${ICONES.externe}Site officiel</a>` : ''}
           ${boutonRecommander()}
@@ -166,6 +169,7 @@ function afficherFiche({ jeu, captures, serie, steam, configRawg }) {
           ${ligneInfo('Prix Steam', steam?.prix)}
         </dl>
       </div>
+      <div class="carte carte-large" id="carte-note"></div>
       ${carteAvis(jeu, steam)}
       ${carteCommentJouer(jeu)}
       ${carteConfig(steam, configRawg)}
@@ -195,6 +199,8 @@ function afficherFiche({ jeu, captures, serie, steam, configRawg }) {
   });
 
   brancherRecommandation({ type: 'jeu', id: jeu.id, titre: jeu.name, image: jeu.background_image }, document.getElementById('potes-suivent'));
+  brancherFavori(document.getElementById('favori'), oeuvre);
+  monterCarteNote(document.getElementById('carte-note'), oeuvre);
 
   // Au hasard : on garde une référence au bouton (e.currentTarget vaut null après un await)
   const hasard = document.getElementById('hasard');

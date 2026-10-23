@@ -26,11 +26,50 @@
       <div class="actions" style="margin-top:16px"><a class="bouton bouton-verre bouton-petit" href="potes.html"><span id="icone-potes"></span>Mon compte et mes potes</a></div>
       <nav class="segments" id="filtres-types" aria-label="Types"></nav>
       <nav class="segments" id="filtres-etapes" aria-label="Où j'en suis" style="margin-top:10px"></nav>
+      <label class="tri-liste">Trier :
+        <select class="champ" id="tri-liste">
+          <option value="ajout">Ajoutés récemment</option>
+          <option value="note">Ma note</option>
+        </select>
+      </label>
     </header>
 
     <!-- ===== Le contenu de ma liste ===== -->
     <section class="section">
       <div class="section-contenu" id="contenu-liste"></div>
+    </section>
+
+    <!-- ===== Mes favoris (tous types) ===== -->
+    <section class="section" id="favoris">
+      <div class="section-tete"><h2>Mes favoris</h2></div>
+      <div class="section-contenu">
+        <nav class="segments" id="filtres-favoris" aria-label="Types de favoris"></nav>
+        <div class="grille-affiches" id="liste-favoris" style="margin-top:16px"></div>
+      </div>
+    </section>
+
+    <!-- ===== Mes notes (tous types) ===== -->
+    <section class="section" id="mes-notes">
+      <div class="section-tete"><h2>Mes notes</h2></div>
+      <div class="section-contenu">
+        <div class="outils-notes">
+          <nav class="segments" id="filtres-notes" aria-label="Types de notes"></nav>
+          <select class="champ" id="tri-notes" aria-label="Trier mes notes">
+            <option value="meilleures">Meilleures notes</option>
+            <option value="moins">Moins bonnes notes</option>
+            <option value="recentes">Notées récemment</option>
+          </select>
+          <select class="champ" id="seuil-notes" aria-label="Filtrer par note">
+            <option value="0">Toutes les notes</option>
+            <option value="90">90 et plus</option>
+            <option value="75">75 et plus</option>
+            <option value="50">50 et plus</option>
+            <option value="-50">Moins de 50</option>
+          </select>
+        </div>
+        <div class="grille-affiches" id="liste-notes"></div>
+        <p class="mention" id="mention-notes"></p>
+      </div>
     </section>
 
     <!-- ===== Ajouter un film ou une série ===== -->

@@ -60,9 +60,26 @@
       <div class="section-tete"><h2 id="titre-activite">Activité récente</h2></div>
       <div class="section-contenu"><ul class="activite" id="liste-activite"></ul></div>
     </section>
+
+    <section class="section" id="gouts" hidden>
+      <div class="section-tete"><h2>Goûts en commun</h2></div>
+      <div class="section-contenu">
+        <p class="mention" style="margin-top:0">Calculé sur les œuvres que vous avez notées ou mises en favori tous les deux : 100 % = les mêmes notes. Avec peu d'œuvres en commun, le résultat reste prudent (proche de 50 %).</p>
+        <div class="gouts" id="liste-gouts"></div>
+      </div>
+    </section>
+
+    <section class="section" id="suggestions" hidden>
+      <div class="section-tete">
+        <h2>Adoré par tes potes les plus compatibles</h2>
+        <nav class="segments" id="categories-suggestions" aria-label="Catégories"></nav>
+      </div>
+      <div class="section-contenu"><p class="mention" style="margin:-6px 0 14px">Leurs favoris et leurs notes de 80 et plus, que tu n'as ni notés ni dans ta liste.</p></div>
+      <div class="carrousel" id="liste-suggestions"></div>
+    </section>
   </main>
 
-  <footer>Radar · comptes : Supabase. Seuls les membres de tes groupes et tes amis voient ton pseudo et ta liste.</footer>
+  <footer>Radar · comptes : Supabase. Seuls les membres de tes groupes et tes amis voient ton pseudo, ta liste, tes notes et tes favoris.</footer>
 
   <script type="module" src="js/pages/potes.js"></script>
 </body>

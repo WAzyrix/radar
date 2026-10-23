@@ -4,12 +4,13 @@
 import * as maListe from '../lib/ma-liste.js';
 import * as notifs from '../lib/notifications.js';
 import { rechercheFilmsSeries } from '../api/films.js';
-import { echapper, ilYa, afficherErreur, antiRebond, couleurValide, imageValide } from '../lib/outils.js';
+import { echapper, ilYa, afficherErreur, antiRebond, couleurValide, imageValide, el, gabarit } from '../lib/outils.js';
 import { afficherNavigation } from '../ui/nav.js';
-import { carteJeuListe } from '../ui/cartes-jeux.js';
+import { carteJeuListe, imageReduite } from '../ui/cartes-jeux.js';
 import { ICONES } from '../ui/icones.js';
 import { ETAPES, etapeDe, nomStatut, statutSuivant } from '../lib/statuts.js';
 import { rattrapageMasque, masquerRattrapage } from '../lib/preferences.js';
+import * as notes from '../lib/notes.js';
 
 afficherNavigation('ma-liste');
 document.documentElement.style.setProperty('--accent', '#ff7ab6');
@@ -22,6 +23,9 @@ const $ = (id) => document.getElementById(id);
 let filtre = new URLSearchParams(location.search).get('type') || '';
 // Étape choisie (À voir / En cours / Vu), retenue d'une visite à l'autre
 let etape = localStorage.getItem('radar:etape') || '';
+let triListe = localStorage.getItem('radar:tri-liste') === 'note' ? 'note' : 'ajout';
+const maNote = (item) => notes.noteDe(item.type, item.id)?.note ?? null;
+const badgeNote = (item) => (maNote(item) !== null ? `<span class="badge-note" title="Ma note">★ ${maNote(item)}</span>` : '');
 
 const boutonRetirer = (item) => `<button type="button" class="retirer" data-type="${item.type}" data-id="${echapper(item.id)}" title="Retirer de ma liste" aria-label="Retirer ${echapper(item.titre)}">×</button>`;
 
@@ -31,7 +35,7 @@ function carteItem(item) {
   return `
     <div class="avec-retirer">
       <a class="affiche" href="${maListe.lienElement(item)}" ${externe ? 'target="_blank" rel="noopener noreferrer"' : ''} style="--couleur:${couleurValide(item.couleur) || '#1a1a24'}">
-        <div class="affiche-image">${imageValide(item.image) ? `<img src="${echapper(item.image)}" alt="" loading="lazy">` : ''}</div>
+        <div class="affiche-image">${imageValide(item.image) ? `<img src="${echapper(item.image)}" alt="" loading="lazy">` : ''}${badgeNote(item)}</div>
         <div class="affiche-titre">${echapper(item.titre)}</div>
         <div class="affiche-sous">${maListe.TYPES[item.type].un}${item.sortie ? ` · ${item.sortie.slice(0, 4)}` : ''}</div>
       </a>
@@ -60,6 +64,8 @@ function afficherListe() {
   let affiches = 0;
   $('contenu-liste').innerHTML = types.map((t) => {
     const liste = tous.filter((i) => i.type === t && (!etape || etapeDe(i) === etape)).reverse();
+    // Par ma note : les mieux notés d'abord, les non notés à la fin (dans l'ordre d'ajout)
+    if (triListe === 'note') liste.sort((a, b) => (maNote(b) ?? -1) - (maNote(a) ?? -1));
     affiches += liste.length;
     if (!liste.length) return '';
     return `
@@ -100,9 +106,82 @@ $('contenu-liste').addEventListener('click', (e) => {
   maListe.retirer(bouton.dataset.type, Number.isNaN(id) ? bouton.dataset.id : id);
 });
 
+$('tri-liste').value = triListe;
+$('tri-liste').addEventListener('change', (e) => {
+  triListe = e.target.value;
+  localStorage.setItem('radar:tri-liste', triListe);
+  afficherListe();
+});
+
 // La liste change (ici, ou synchronisée depuis un autre appareil) : on réaffiche
-window.addEventListener('radar:liste', () => { afficherListe(); afficherResultats(); });
+window.addEventListener('radar:liste', () => { afficherListe(); afficherResultats(); afficherFavoris(); afficherNotes(); });
+window.addEventListener('radar:notes', () => { afficherListe(); afficherFavoris(); afficherNotes(); });
 afficherListe();
+
+// =========================================================
+// 1 bis. Mes favoris et mes notes (lib/notes.js : animés, mangas, films, séries, jeux)
+// Affichés avec el() : une fois synchronisés, ils viennent aussi de la base.
+// =========================================================
+let typeFavoris = '';
+let typeNotes = '';
+
+function segmentsTypes(conteneur, liste, actif, attribut) {
+  const boutons = [['', 'Tout', liste.length], ...Object.entries(maListe.TYPES).map(([t, info]) => [t, info.nom, liste.filter((n) => n.type === t).length])]
+    .filter(([t, , nb]) => !t || nb)
+    .map(([t, nom, nb]) => el('button', { type: 'button', [attribut]: t, class: t === actif ? 'actif' : null },
+      nom, nb ? el('span', { style: { opacity: '.6' } }, ` ${nb}`) : null));
+  conteneur.replaceChildren(...boutons);
+}
+
+function carteNote(n, { avecNote = true } = {}) {
+  const image = imageValide(n.type === 'jeu' ? imageReduite(n.image) : n.image);
+  return el('a', { class: 'affiche', href: notes.lienNote(n), style: { '--couleur': '#1a1a24' } },
+    el('div', { class: `affiche-image ${n.type === 'jeu' ? 'paysage' : ''}` },
+      image ? el('img', { src: image, alt: '', loading: 'lazy' }) : null,
+      avecNote && n.note !== null ? el('span', { class: 'badge-note', title: 'Ma note' }, `★ ${n.note}`) : null,
+      n.favori ? el('span', { class: 'affiche-etiquette', title: 'Favori' }, '❤️') : null),
+    el('div', { class: 'affiche-titre' }, n.titre),
+    el('div', { class: 'affiche-sous' }, [maListe.TYPES[n.type].un, avecNote && n.note !== null ? `${n.note}/100` : null].filter(Boolean).join(' · ')));
+}
+
+function afficherFavoris() {
+  const tous = notes.favoris();
+  if (typeFavoris && !tous.some((n) => n.type === typeFavoris)) typeFavoris = '';
+  segmentsTypes($('filtres-favoris'), tous, typeFavoris, 'data-type-favoris');
+  const liste = tous.filter((n) => !typeFavoris || n.type === typeFavoris)
+    .sort((a, b) => String(b.favoriLe || '').localeCompare(String(a.favoriLe || '')));
+  $('liste-favoris').replaceChildren(...(liste.length ? liste.map((n) => carteNote(n, { avecNote: false }))
+    : [gabarit('<div class="vide" style="grid-column:1/-1"><strong>Pas encore de favoris</strong>Appuie sur ❤️ sur la fiche d\'un animé, d\'un jeu, d\'un film ou d\'une série.</div>')]));
+}
+
+function afficherNotes() {
+  const tous = notes.notees();
+  if (typeNotes && !tous.some((n) => n.type === typeNotes)) typeNotes = '';
+  segmentsTypes($('filtres-notes'), tous, typeNotes, 'data-type-notes');
+  const seuil = Number($('seuil-notes').value);
+  const tri = $('tri-notes').value;
+  const liste = tous
+    .filter((n) => (!typeNotes || n.type === typeNotes) && (seuil >= 0 ? n.note >= seuil : n.note < -seuil))
+    .sort((a, b) => (tri === 'recentes' ? String(b.noteLe || '').localeCompare(String(a.noteLe || ''))
+      : tri === 'moins' ? a.note - b.note : b.note - a.note));
+  $('liste-notes').replaceChildren(...(liste.length ? liste.map((n) => carteNote(n))
+    : [gabarit(`<div class="vide" style="grid-column:1/-1"><strong>${tous.length ? 'Aucune note ici' : 'Pas encore de notes'}</strong>${tous.length ? 'Change de filtre.' : 'Donne ta note sur 100 depuis la fiche d\'un animé, d\'un jeu, d\'un film ou d\'une série.'}</div>`)]));
+  const moyenne = liste.length ? Math.round(liste.reduce((s, n) => s + n.note, 0) / liste.length) : null;
+  $('mention-notes').textContent = moyenne !== null ? `${liste.length} note${liste.length > 1 ? 's' : ''} · moyenne ${moyenne}/100` : '';
+}
+
+$('filtres-favoris').addEventListener('click', (e) => {
+  const b = e.target.closest('[data-type-favoris]');
+  if (b) { typeFavoris = b.dataset.typeFavoris; afficherFavoris(); }
+});
+$('filtres-notes').addEventListener('click', (e) => {
+  const b = e.target.closest('[data-type-notes]');
+  if (b) { typeNotes = b.dataset.typeNotes; afficherNotes(); }
+});
+$('tri-notes').addEventListener('change', afficherNotes);
+$('seuil-notes').addEventListener('change', afficherNotes);
+afficherFavoris();
+afficherNotes();
 
 // =========================================================
 // 2. Ajouter un film ou une série (TMDB)

@@ -10,6 +10,7 @@ import { afficherNavigation } from '../ui/nav.js';
 import { carteFilm, dateSortieFilm, noteFilm } from '../ui/cartes-films.js';
 import { ICONES } from '../ui/icones.js';
 import { boutonRecommander, brancherRecommandation } from '../ui/recommander.js';
+import { boutonFavori, brancherFavori, monterCarteNote } from '../ui/notes.js';
 
 afficherNavigation('films');
 document.documentElement.style.setProperty('--accent', '#ff7ab6');
@@ -101,6 +102,7 @@ function carteSaisons(f) {
 
 function afficherFiche(f) {
   document.title = `${f.titre} · Radar`;
+  const oeuvre = { type, id: f.id, titre: f.titre, image: f.image };
   const annee = (f.dateFrance || f.date || '').slice(0, 4);
   const meta = [
     f.note && `<span class="note">★ ${noteFilm(f.note)}</span>`,
@@ -124,6 +126,7 @@ function afficherFiche(f) {
         <div class="actions" style="margin-top:22px" id="statuts">${boutonsStatut(f)}</div>
         <div class="actions" style="margin-top:10px">
           ${bandeAnnonce}
+          ${boutonFavori(oeuvre, { petit: true })}
           <button type="button" class="bouton bouton-verre bouton-petit" id="hasard">${ICONES.de}${type === 'film' ? 'Un film' : 'Une série'} au hasard</button>
           ${boutonRecommander()}
         </div>
@@ -151,6 +154,7 @@ function afficherFiche(f) {
         ${f.imdb && /^tt\d+$/.test(f.imdb) ? `<p class="mention"><a class="lien-discret" href="https://www.imdb.com/title/${f.imdb}/" target="_blank" rel="noopener noreferrer">Voir sur IMDb ${ICONES.externe}</a></p>` : ''}
       </div>
       ${carteRegarder(f)}
+      <div class="carte carte-large" id="carte-note"></div>
       ${carteSaisons(f)}
     </div>
 
@@ -193,6 +197,8 @@ function afficherFiche(f) {
   });
 
   brancherRecommandation({ type, id: f.id, titre: f.titre, image: f.image }, document.getElementById('potes-suivent'));
+  brancherFavori(document.getElementById('favori'), oeuvre);
+  monterCarteNote(document.getElementById('carte-note'), oeuvre);
 }
 
 async function demarrer() {

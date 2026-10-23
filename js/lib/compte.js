@@ -41,6 +41,7 @@ function traduireErreur(message) {
   if (/valid email|invalid email|email address .* is invalid/i.test(message)) return 'Adresse email invalide.';
   if (/Invitation inconnue/.test(message)) return "Ce code d'invitation n'existe pas.";
   if (/duplicate key.*pseudo|profils_pseudo/i.test(message)) return 'Ce pseudo est déjà pris.';
+  if (/(relation|table).*notes|notes.*schema cache/i.test(message)) return 'Les notes ne sont pas encore activées : il faut exécuter supabase/notes.sql dans Supabase.';
   if (/(could not find the function|function .* does not exist).*(ami|amis)/i.test(message)) return "Les amis ne sont pas encore activés : il faut exécuter supabase/amis.sql dans Supabase.";
   return message;
 }
@@ -197,6 +198,57 @@ export async function mesPotes() {
 export async function potesQuiSuivent(type, id) {
   if (!(await utilisateur())) return [];
   return (await mesPotes()).filter((p) => p.items.some((i) => i.type === type && Number(i.id) === Number(id)));
+}
+
+/** Pseudo et avatar de mes potes (membres de mes groupes et amis, sans moi), sans leurs listes. */
+export async function profilsPotes() {
+  const u = await utilisateur();
+  if (!u) return [];
+  return verifier(await supabase().from('profils').select('id, pseudo, avatar').neq('id', u.id));
+}
+
+// ---------- Notes perso et favoris (supabase/notes.sql, voir lib/notes.js) ----------
+// La RLS ne renvoie que mes lignes et celles de mes amis et des membres de mes groupes.
+const COLONNES_NOTES = 'user_id, type, oeuvre, titre, image, note, avis, favori, note_le, favori_le, maj';
+
+export async function mesNotes() {
+  const u = await utilisateur();
+  if (!u) return [];
+  return verifier(await supabase().from('notes').select(COLONNES_NOTES).eq('user_id', u.id));
+}
+
+export async function enregistrerNotes(notes) {
+  const u = await utilisateur();
+  if (!u || !notes.length) return;
+  verifier(await supabase().from('notes').upsert(notes.map((n) => ({
+    user_id: u.id, type: n.type, oeuvre: n.id, titre: n.titre, image: n.image || null,
+    note: n.note, avis: n.avis, favori: n.favori, maj: n.maj,
+  }))));
+}
+
+export async function supprimerNotes(notes) {
+  const u = await utilisateur();
+  if (!u) return;
+  const parType = new Map();
+  for (const n of notes) parType.set(n.type, [...(parType.get(n.type) || []), n.id]);
+  for (const [type, ids] of parType) {
+    verifier(await supabase().from('notes').delete().eq('user_id', u.id).eq('type', type).in('oeuvre', ids));
+  }
+}
+
+/** Les notes et favoris de mes potes (les plus récents d'abord). */
+export async function notesDesPotes() {
+  const u = await utilisateur();
+  if (!u) return [];
+  return verifier(await supabase().from('notes').select(COLONNES_NOTES).neq('user_id', u.id).order('maj', { ascending: false }).limit(5000));
+}
+
+/** Ce que mes potes pensent d'une œuvre (fiche : « Tes potes l'ont noté »). */
+export async function notesSurOeuvre(type, id) {
+  const u = await utilisateur();
+  if (!u) return [];
+  return verifier(await supabase().from('notes').select(COLONNES_NOTES)
+    .eq('type', type).eq('oeuvre', Number(id)).neq('user_id', u.id));
 }
 
 // ---------- Amis (supabase/amis.sql), indépendants des groupes ----------

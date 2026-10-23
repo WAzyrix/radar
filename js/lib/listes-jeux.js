@@ -1,13 +1,15 @@
 // =========================================================
 // Mes listes de jeux : raccourcis vers "Ma liste" (ma-liste.js).
-// Chaque jeu a UN statut : envie, en cours, adoré ou "j'appréhende".
+// Chaque jeu a UN statut : envie, en cours, terminé ou "j'appréhende".
+// Le coup de cœur est à part : le favori ❤️ (lib/notes.js), comme pour les animés et les films.
 // =========================================================
 import * as maListe from './ma-liste.js';
 
 export const STATUTS_JEU = {
-  envie: { nom: "Envie d'y jouer", court: 'Envie', icone: 'coeur' },
+  envie: { nom: "Envie d'y jouer", court: 'Envie', icone: 'plus' },
   'en-cours': { nom: 'En cours', court: 'En cours', icone: 'manette' },
-  adore: { nom: 'Adorés', court: 'Adoré', icone: 'anime' },
+  // Clé historique : c'était « Adoré ». Ces jeux sont passés en favoris (notes.js, migrerAdores)
+  adore: { nom: 'Terminés', court: 'Terminé', icone: 'check' },
   apprehende: { nom: "J'appréhende", court: "J'appréhende", icone: 'info' },
 };
 

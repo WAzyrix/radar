@@ -498,3 +498,39 @@ footer.attribution { display: flex; flex-wrap: wrap; align-items: center; gap: 8
 .episodes-liste b { min-width: 1.8em; color: var(--texte-2); font-variant-numeric: tabular-nums; }
 .episodes-liste small { margin-left: auto; color: var(--texte-3); font-size: 0.72rem; }
 .episodes-liste li.vu a { opacity: 0.5; }
+
+/* ===== Notes perso et favoris (ui/notes.js) ===== */
+.bouton-favori.actif svg { fill: currentColor; color: #ff5c8a; }
+.ma-note-resume { display: flex; gap: 18px; align-items: flex-start; flex-wrap: wrap; }
+.ma-note-resume .note-anneau { margin-bottom: 0; flex: none; }
+.ma-note-valeur { margin: 0; font-size: 1.1rem; }
+.ma-note-valeur small { color: var(--texte-2); font-size: 0.85rem; }
+.ma-note-avis { margin: 6px 0 0; color: var(--texte-2); white-space: pre-line; overflow-wrap: anywhere; }
+.ma-note-formulaire { display: grid; gap: 10px; }
+.ma-note-formulaire textarea { resize: vertical; }
+.ligne-note { display: flex; align-items: center; gap: 12px; font-weight: 600; flex-wrap: wrap; }
+.curseur-note { flex: 1; min-width: 140px; accent-color: var(--accent); }
+.champ-note { width: 76px; text-align: center; padding-inline: 8px; }
+.compteur-avis { justify-self: end; color: var(--texte-3); font-size: 0.8rem; margin-top: -6px; }
+.notes-potes h3 { margin: 22px 0 10px; font-size: 1rem; }
+.notes-potes h3 small { color: var(--texte-2); font-weight: 500; }
+.liste-notes-potes { list-style: none; display: grid; gap: 8px; }
+.liste-notes-potes li { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; padding: 8px 10px; border-radius: var(--r-m); background: var(--surface); }
+.liste-notes-potes p { flex-basis: 100%; margin: 0; color: var(--texte-2); font-size: 0.9rem; overflow-wrap: anywhere; }
+.badge-note { position: absolute; left: 8px; bottom: 8px; padding: 3px 8px; border-radius: 999px; background: rgba(0, 0, 0, 0.72); font-size: 0.78rem; font-weight: 700; backdrop-filter: blur(6px); }
+.outils-notes { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 16px; }
+.outils-notes select.champ { width: auto; }
+.gouts { display: grid; gap: 12px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 320px), 1fr)); }
+.gout { padding: 16px; border-radius: var(--r-l); background: var(--surface); display: grid; gap: 10px; align-content: start; }
+.gout-tete { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
+.gout-pourcent { font-size: 1.5rem; font-weight: 800; letter-spacing: -0.02em; }
+.gout-pourcent small { display: block; font-size: 0.75rem; font-weight: 500; color: var(--texte-2); letter-spacing: 0; text-align: right; }
+.gout-categories { display: flex; flex-wrap: wrap; gap: 6px; }
+.gout details summary { cursor: pointer; color: var(--texte-2); font-size: 0.9rem; }
+.mini-affiches { display: grid; grid-template-columns: repeat(auto-fill, minmax(70px, 1fr)); gap: 8px; margin-top: 10px; }
+.mini-affiches a { display: grid; gap: 4px; font-size: 0.72rem; color: var(--texte-2); min-width: 0; }
+.mini-affiches .vignette { aspect-ratio: 2 / 3; border-radius: var(--r-s); overflow: hidden; background: var(--fond-2); position: relative; }
+.mini-affiches .vignette img { width: 100%; height: 100%; object-fit: cover; }
+.mini-affiches span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.tri-liste { display: inline-flex; align-items: center; gap: 8px; margin-top: 12px; color: var(--texte-2); font-size: 0.9rem; }
+.tri-liste select.champ { width: auto; padding-block: 6px; }

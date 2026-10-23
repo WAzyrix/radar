@@ -4,7 +4,8 @@
 import { calendrierSorties, sortiesRecentes, explorerJeux, jeuAuHasard, relaisConfigure } from '../api/jeux.js';
 import { echapper, afficherErreur, antiRebond, premiereMajuscule } from '../lib/outils.js';
 import { GENRES_JEUX, THEMES_JEUX, PLATEFORMES } from '../lib/traductions-jeux.js';
-import { listeJeux, STATUTS_JEU } from '../lib/listes-jeux.js';
+import { listeJeux, STATUTS_JEU, statutJeu } from '../lib/listes-jeux.js';
+import { favoris } from '../lib/notes.js';
 import { afficherNavigation } from '../ui/nav.js';
 import { carteJeu, carteJeuListe, squelettesJeux, badgeMetacritic, dateSortie, plateformesCourtes } from '../ui/cartes-jeux.js';
 import { monterApercuActus } from '../ui/apercu-actus.js';
@@ -66,18 +67,23 @@ afficherSorties('avenir');
 // =========================================================
 let listeActive = 'envie';
 
+// Les favoris ❤️ (lib/notes.js) sont une liste à part : un jeu peut être « Terminé » ET favori
+const jeuxFavoris = () => favoris('jeu').map((n) => ({ id: n.id, nom: n.titre, image: n.image, statut: statutJeu(n.id) }));
+
 function afficherListes() {
   const jeux = listeJeux();
-  $('choix-listes').innerHTML = Object.entries(STATUTS_JEU).map(([cle, s]) => {
-    const nb = jeux.filter((j) => j.statut === cle).length;
-    return `<button type="button" data-statut="${cle}" class="${cle === listeActive ? 'actif' : ''}">${s.nom}${nb ? ` <span style="opacity:.6">${nb}</span>` : ''}</button>`;
-  }).join('');
+  const listes = [...Object.entries(STATUTS_JEU).map(([cle, s]) => [cle, s.nom, jeux.filter((j) => j.statut === cle)]), ['favoris', '❤️ Favoris', jeuxFavoris()]];
+  $('choix-listes').innerHTML = listes.map(([cle, nom, liste]) =>
+    `<button type="button" data-statut="${cle}" class="${cle === listeActive ? 'actif' : ''}">${nom}${liste.length ? ` <span style="opacity:.6">${liste.length}</span>` : ''}</button>`).join('');
 
-  const choisis = jeux.filter((j) => j.statut === listeActive).reverse();
+  const choisis = [...listes.find(([cle]) => cle === listeActive)[2]].reverse();
   $('listes-contenu').innerHTML = choisis.length
     ? choisis.map(carteJeuListe).join('')
-    : `<div class="vide" style="grid-column:1/-1"><strong>Liste vide</strong>Ouvre la fiche d'un jeu et classe-le : « ${STATUTS_JEU[listeActive].nom} », « En cours »…</div>`;
+    : `<div class="vide" style="grid-column:1/-1"><strong>Liste vide</strong>${listeActive === 'favoris'
+      ? 'Appuie sur ❤️ sur la fiche d\'un jeu pour l\'ajouter à tes favoris.'
+      : `Ouvre la fiche d'un jeu et classe-le : « ${STATUTS_JEU[listeActive].nom} », « En cours »…`}</div>`;
 }
+window.addEventListener('radar:notes', afficherListes);
 
 $('choix-listes').addEventListener('click', (e) => {
   const bouton = e.target.closest('button');

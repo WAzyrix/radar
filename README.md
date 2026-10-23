@@ -74,7 +74,7 @@ data/               JSON générés (ne pas modifier à la main)
 .github/workflows/actus.yml   collecte horaire + déploiement
 worker/             relais Cloudflare Worker (RAWG + Steam), voir worker/README.md
 supabase/           base des comptes (à exécuter dans Supabase, dans cet ordre) :
-                    schema.sql, chat.sql, securite.sql, preferences.sql, amis.sql
+                    schema.sql, chat.sql, securite.sql, preferences.sql, amis.sql, notes.sql
 ```
 
 ### Ajouter une source ou un tag
@@ -101,6 +101,7 @@ Tout se passe dans [`scripts/sources.json`](scripts/sources.json) :
 - **VOSTFR / VF** : seule ADN publie ces infos librement. ADN et AniList n'ont pas d'identifiant commun, donc on associe les séries par leur titre « nettoyé » (sans accents, ponctuation ni numéro de saison) : ça marche dans la grande majorité des cas, mais une série peut être ratée. Crunchyroll ne publie ni ses horaires ni ses langues.
 - **Droits d'auteur** : pour les actus, on ne garde que le titre, la source, la date, un extrait de 200 caractères maximum et le lien vers l'article original.
 - **Ma liste** : stockée dans le navigateur et copiée sur le relais (Cloudflare KV) sous un « code perso » de 32 caractères aléatoires. Le même code sur un autre appareil = la même liste.
+- **Favoris et notes perso** (animés, mangas, films, séries, jeux) : un seul système (`js/lib/notes.js`, `js/ui/notes.js`). Ma note sur 100, un avis de 500 caractères max et/ou un favori ❤️, gardés dans le navigateur et, une fois connecté, dans la table Supabase `notes` (`supabase/notes.sql`) : visibles par moi, mes amis et les membres de mes groupes seulement (RLS). La page Potes en tire l'activité (« a noté… »), la compatibilité de goûts avec chaque pote et les suggestions des plus compatibles. Le statut « Adoré » des jeux est devenu « Terminé » + favori.
 - **Notifications web** : le relais vérifie les nouveautés toutes les heures et envoie des notifications chiffrées (norme Web Push, sans bibliothèque). Le service worker (`sw.js`) les affiche, même site fermé. Sur iPhone, il faut d'abord ajouter le site à l'écran d'accueil.
 
 ## Feuille de route
