@@ -1,12 +1,12 @@
 // =========================================================
 // Fiche animé (ou manga) : anime.html?id=XXXX (id AniList)
 // =========================================================
-import { ficheAnime, saisons } from '../api/animes.js';
+import { ficheAnime, saisons, dateDebut } from '../api/animes.js';
 import { echapper, titre, note, nettoyerSynopsis, compteARebours, formatDate } from '../lib/outils.js';
 
 const formatJourHeure = new Intl.DateTimeFormat('fr-FR', { weekday: 'long', day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' });
 import { GENRES_FR, STATUTS_FR, FORMATS_FR, RELATIONS_FR } from '../lib/traductions.js';
-import { estSuivi, basculerSuivi, mettreAJourSaisons, statutSuivi, changerStatutSuivi } from '../lib/suivis.js';
+import { estSuivi, basculerSuivi, mettreAJourSaisons, statutSuivi, changerStatutSuivi, dernierSorti, enregistrerVus, suiviDe } from '../lib/suivis.js';
 import { STATUTS } from '../lib/statuts.js';
 import { afficherNavigation } from '../ui/nav.js';
 import { appliquerAccent } from '../ui/accent.js';
@@ -20,9 +20,9 @@ afficherNavigation('animes');
 
 const idDansAdresse = () => Number(new URLSearchParams(location.search).get('id'));
 
-// Ordre d'affichage des relations : suites et préquelles d'abord
-const ORDRE_RELATIONS = ['PREQUEL', 'SEQUEL', 'PARENT', 'SIDE_STORY', 'SPIN_OFF', 'SOURCE', 'ADAPTATION', 'ALTERNATIVE'];
-const rang = (type) => { const i = ORDRE_RELATIONS.indexOf(type); return i === -1 ? 99 : i; };
+// "Autour de l'œuvre" : tout ce qui est lié SAUF les saisons (onglets en haut)
+// et les simples apparitions de personnages (crossovers, pubs…)
+const RELATIONS_ECARTEES = ['CHARACTER'];
 
 const ligneInfo = (nom, valeur) => (valeur ? `<div><dt>${nom}</dt><dd>${echapper(valeur)}</dd></div>` : '');
 
@@ -115,9 +115,6 @@ function afficherFiche(m, adn) {
   const typeListe = estManga ? 'manga' : 'anime';
   const suivre = `<button type="button" class="bouton bouton-verre ${estSuivi(m.id, typeListe) ? 'actif' : ''}" id="suivre">${boutonSuivre(estSuivi(m.id, typeListe))}</button>`;
 
-  const relations = m.relations.edges
-    .filter((r) => r.relationType !== 'CHARACTER')
-    .sort((a, b) => rang(a.relationType) - rang(b.relationType));
   const recos = m.recommendations.nodes.map((n) => n.mediaRecommendation).filter(Boolean);
 
   document.getElementById('fiche').innerHTML = `
@@ -138,6 +135,7 @@ function afficherFiche(m, adn) {
             ${boutonRecommander()}
           </div>
           <div class="statuts-suivi" id="statuts-suivi" role="group" aria-label="Où j'en suis"></div>
+          <div class="statuts-suivi progression" id="progression" role="group" aria-label="Dernier épisode vu"></div>
           <div id="potes-suivent"></div>
           ${prochain}
         </div>
@@ -168,14 +166,11 @@ function afficherFiche(m, adn) {
       ${estManga ? '' : carteOuRegarder(m, adn)}
     </div>
 
-    ${relations.length ? `
-    <section class="section">
-      <div class="section-tete"><h2>Suites, préquelles et liés</h2></div>
-      <div class="carrousel">${relations.map((r) => carteAffiche(r.node, {
-        etiquette: RELATIONS_FR[r.relationType] || r.relationType,
-        sous: FORMATS_FR[r.node.format] || '',
-      })).join('')}</div>
-    </section>` : ''}
+    <section class="section" id="autour" hidden>
+      <div class="section-tete"><h2>Autour de l'œuvre</h2></div>
+      <p class="mention" style="margin:-6px 0 14px">Films, OVA, spéciaux, spin-off et histoires parallèles. Les saisons sont dans les onglets en haut.</p>
+      <div class="carrousel" id="autour-liste"></div>
+    </section>
 
     ${m.reviews.nodes.length ? `
     <section class="section">
@@ -195,14 +190,20 @@ function afficherFiche(m, adn) {
   bouton?.addEventListener('click', () => {
     // On mémorise la série ADN correspondante : le relais pourra prévenir de la sortie VOSTFR/VF
     // ... et toutes les saisons de la série : on suit la franchise entière (notifs saison 2, 3…)
-    const suivi = basculerSuivi(m, { adn: trouverSerie(adn, m)?.id, saisons: idsSaisons });
+    // ... et par défaut, on est à jour sur cette saison (modifiable juste en dessous)
+    const vu = estManga ? undefined : { [m.id]: dernierSorti(m) };
+    const suivi = basculerSuivi(m, { adn: trouverSerie(adn, m)?.id, saisons: idsSaisons, vu });
     bouton.classList.toggle('actif', suivi);
     bouton.innerHTML = boutonSuivre(suivi);
     afficherStatuts(m.id, typeListe);
+    if (!estManga) afficherProgression(m, { question: suivi });
   });
   afficherStatuts(m.id, typeListe);
+  if (!estManga) afficherProgression(m);
   brancherBoutonHasard(document.getElementById('hasard'));
-  if (!estManga) afficherSaisons(m, bouton);
+  // Animé : "Autour de l'œuvre" est rempli une fois les saisons connues (pour les en retirer)
+  if (estManga) afficherAutour(m, []);
+  else afficherSaisons(m, bouton);
   brancherRecommandation(
     { type: estManga ? 'manga' : 'anime', id: m.id, titre: titre(m), image: m.coverImage.extraLarge },
     document.getElementById('potes-suivent'),
@@ -234,6 +235,52 @@ function afficherStatuts(id, type) {
   };
 }
 
+// ---------- Autour de l'œuvre : films, OVA, spin-off… (sans les saisons), par date ----------
+function afficherAutour(m, idsSaisons) {
+  const exclus = new Set([m.id, ...idsSaisons]);
+  const liens = m.relations.edges
+    .filter((r) => !RELATIONS_ECARTEES.includes(r.relationType) && !exclus.has(r.node.id))
+    .sort((a, b) => (dateDebut(a.node.startDate) ?? Infinity) - (dateDebut(b.node.startDate) ?? Infinity));
+  const section = document.getElementById('autour');
+  if (!section || !liens.length) return;
+  // Étiquette = le type de l'œuvre (Film, OVA…) ; dessous : son lien avec celle-ci et l'année
+  document.getElementById('autour-liste').innerHTML = liens.map((r) => carteAffiche(r.node, {
+    etiquette: FORMATS_FR[r.node.format] || 'À venir',
+    sous: [RELATIONS_FR[r.relationType] || r.relationType, r.node.startDate?.year].filter(Boolean).join(' · '),
+  })).join('');
+  section.hidden = false;
+}
+
+// ---------- Tu en es où ? (dernier épisode vu de CETTE saison, pour le rattrapage) ----------
+function afficherProgression(m, { question = false } = {}) {
+  const zone = document.getElementById('progression');
+  const suivi = suiviDe(m.id);
+  if (!zone) return;
+  if (!suivi) { zone.innerHTML = ''; return; }
+  const dernier = dernierSorti(m);
+  if (!dernier) { zone.innerHTML = ''; return; } // rien de sorti : rien à rattraper
+  const vu = suivi.vu?.[m.id];
+  // Jamais renseigné (ancien suivi) : rien n'est présélectionné, on pose la question
+  const etat = !Number.isInteger(vu) ? null : vu >= dernier ? 'a-jour' : vu === 0 ? 'pas-commence' : 'episode';
+  zone.innerHTML = `
+    <span class="progression-question">${question || !etat ? 'Tu en es où ?' : 'Vu :'}</span>
+    <button type="button" data-progression="a-jour" class="${etat === 'a-jour' ? 'actif' : ''}">${etat === 'a-jour' ? ICONES.check : ''}À jour (ép. ${dernier})</button>
+    <label class="progression-episode ${etat === 'episode' ? 'actif' : ''}">Épisode
+      <input type="number" min="1" max="${dernier}" inputmode="numeric" value="${etat === 'episode' ? vu : ''}" placeholder="…" aria-label="Dernier épisode vu"></label>
+    <button type="button" data-progression="pas-commence" class="${etat === 'pas-commence' ? 'actif' : ''}">${etat === 'pas-commence' ? ICONES.check : ''}Pas commencé</button>`;
+
+  const enregistrer = (episode) => { enregistrerVus(suivi.id, { [m.id]: episode }); afficherProgression(m); };
+  zone.onclick = (e) => {
+    const choix = e.target.closest('[data-progression]')?.dataset.progression;
+    if (choix) enregistrer(choix === 'a-jour' ? dernier : 0);
+  };
+  const champ = zone.querySelector('input');
+  champ.onchange = () => {
+    const episode = Math.round(Number(champ.value));
+    if (episode >= 1) enregistrer(Math.min(episode, dernier));
+  };
+}
+
 // ---------- Onglets "Saison 1 · Saison 2 · …" ----------
 let idsSaisons; // identifiants de toutes les saisons de la série affichée
 
@@ -243,16 +290,19 @@ async function afficherSaisons(m, elementSuivre) {
   try {
     liste = await saisons(m.id);
   } catch {
-    return; // AniList indisponible : pas d'onglets, la fiche reste utilisable
+    liste = []; // AniList indisponible : pas d'onglets, la fiche reste utilisable
   }
   if (!document.body.contains(zone)) return; // une autre saison a été ouverte entre-temps
   idsSaisons = liste.map((s) => s.id);
+  afficherAutour(m, idsSaisons);
+  if (!liste.length) return;
 
   // Déjà suivi via une autre saison ? Le bouton l'indique, et la liste des saisons est mise à jour
   if (mettreAJourSaisons(m.id, idsSaisons) && elementSuivre) {
     elementSuivre.classList.add('actif');
     elementSuivre.innerHTML = boutonSuivre(true);
     afficherStatuts(m.id, 'anime');
+    afficherProgression(m);
   }
   if (liste.length < 2) return;
 

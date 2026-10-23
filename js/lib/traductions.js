@@ -25,7 +25,7 @@ export const STATUTS_FR = {
 };
 
 export const FORMATS_FR = {
-  TV: 'Série TV', TV_SHORT: 'Format court', MOVIE: 'Film', SPECIAL: 'Spécial', OVA: 'OVA', ONA: 'ONA',
+  TV: 'Série TV', TV_SHORT: 'Format court', MOVIE: 'Film', SPECIAL: 'Spécial', OVA: 'OVA', ONA: 'ONA (web)',
   MUSIC: 'Clip', MANGA: 'Manga', NOVEL: 'Light novel', ONE_SHOT: 'One-shot',
 };
 

@@ -70,7 +70,7 @@ export async function ficheAnime(id) {
     studios(isMain:true){ nodes{ name } }
     nextAiringEpisode{ episode airingAt }
     trailer{ id site }
-    relations{ edges{ relationType node{ id type format title{romaji english} coverImage{extraLarge large color} averageScore } } }
+    relations{ edges{ relationType node{ id type format startDate{year month day} title{romaji english} coverImage{extraLarge large color} averageScore } } }
     recommendations(perPage:15, sort:RATING_DESC){ nodes{ mediaRecommendation{ ${CHAMPS_CARTE} } } }
     reviews(perPage:8, sort:RATING_DESC){ nodes{ id summary score rating ratingAmount siteUrl user{ name avatar{ medium } } } }
   } }`, { id }, { duree: HEURE });
@@ -79,49 +79,65 @@ export async function ficheAnime(id) {
 
 // ---------- Saisons d'une même série ----------
 
-// Formats considérés comme des "saisons" (les films, OVA et spéciaux restent dans "Suites, préquelles et liés")
-const FORMATS_SAISON = ['TV', 'TV_SHORT', 'ONA'];
+// Formats considérés comme des "saisons" (les films, OVA et spéciaux vont dans "Autour de l'œuvre")
+export const FORMATS_SAISON = ['TV', 'TV_SHORT', 'ONA'];
 
-async function liensSaison(id) {
-  const data = await anilist(`query($id:Int){ Media(id:$id){
-    id format season seasonYear episodes status title{romaji english}
-    relations{ edges{ relationType node{ id type format } } } } }`, { id }, { duree: 24 * HEURE });
-  return data.Media;
-}
+// Date de début comparable (20240315) ; null si AniList ne la connaît pas encore
+export const dateDebut = (d) => (d?.year ? d.year * 10000 + (d.month || 1) * 100 + (d.day || 1) : null);
 
-// Parmi les suites (ou préquelles), on préfère celle qui est une saison TV
-function choisir(media, relation) {
-  const candidats = media.relations.edges.filter((e) => e.relationType === relation && e.node.type === 'ANIME');
-  return (candidats.find((e) => FORMATS_SAISON.includes(e.node.format)) || candidats[0])?.node.id;
+const MAX_OEUVRES = 60; // garde-fou pour les très grandes franchises
+
+// Plusieurs œuvres d'un coup (50 max), avec leurs liens préquelle/suite
+async function liensSaisons(ids) {
+  const data = await anilist(`query($ids:[Int]){ Page(perPage:50){ media(id_in:$ids){
+    id format episodes status season seasonYear startDate{year month day} title{romaji english}
+    relations{ edges{ relationType node{ id type } } } } } }`, { ids: [...ids].sort((a, b) => a - b) }, { duree: 24 * HEURE });
+  return data.Page.media;
 }
 
 /**
- * Toutes les saisons d'un animé, dans l'ordre (Saison 1, 2, 3…).
- * AniList ne donne que des liens "préquelle" / "suite" entre deux œuvres :
- * on remonte les préquelles jusqu'au début, puis on suit les suites.
- * On traverse les films/OVA intercalés (ex : un film entre deux saisons) sans les compter.
- * Chaque étape est une requête (gardée 24 h en cache) : 12 étapes maximum.
+ * Toutes les saisons d'un animé, triées par date de diffusion (Saison 1, 2, 3…).
+ * AniList relie les œuvres par "préquelle" / "suite" dans l'ORDRE DE L'HISTOIRE, pas de la
+ * diffusion, et une œuvre peut avoir plusieurs suites (Dragon Ball Z -> GT ET Super).
+ * On récupère donc TOUTE la chaîne préquelles/suites (toutes les branches, en traversant
+ * films et OVA), sans jamais prendre les autres relations (histoires parallèles, spin-off,
+ * autres versions…), puis on garde les saisons et on trie par date.
+ * Une requête par "niveau" de la chaîne (gardée 24 h en cache), 12 niveaux maximum.
  */
 export async function saisons(id) {
-  let debut = await liensSaison(id);
-  const vus = new Set([debut.id]);
-  for (let i = 0; i < 12; i++) {
-    const precedent = choisir(debut, 'PREQUEL');
-    if (!precedent || vus.has(precedent)) break;
-    vus.add(precedent);
-    debut = await liensSaison(precedent);
+  const connues = new Map();
+  let aLire = [id];
+  for (let niveau = 0; niveau < 12 && aLire.length; niveau++) {
+    const lues = [];
+    for (let i = 0; i < aLire.length; i += 50) lues.push(...await liensSaisons(aLire.slice(i, i + 50)));
+    const suivantes = new Set();
+    for (const m of lues) {
+      connues.set(m.id, m);
+      for (const e of m.relations.edges) {
+        if (['PREQUEL', 'SEQUEL'].includes(e.relationType) && e.node.type === 'ANIME') suivantes.add(e.node.id);
+      }
+    }
+    aLire = [...suivantes].filter((x) => !connues.has(x)).slice(0, Math.max(0, MAX_OEUVRES - connues.size));
   }
+  // Lien préquelle/suite "dans le bon ordre" avec une autre œuvre de la chaîne :
+  // une préquelle sortie avant, ou une suite sortie après (date inconnue : accepté).
+  const dansLOrdre = (m) => m.relations.edges.some((e) => {
+    const autre = connues.get(e.node.id);
+    if (!autre || !['PREQUEL', 'SEQUEL'].includes(e.relationType)) return false;
+    const ici = dateDebut(m.startDate);
+    const la = dateDebut(autre.startDate);
+    return !ici || !la || (e.relationType === 'PREQUEL' ? la <= ici : la >= ici);
+  });
+  // Une saison : format série. Un seul épisode : seulement s'il s'inscrit dans l'ordre de diffusion.
+  //  - "STEEL BALL RUN 1st STAGE" (1 épisode de 47 min, 2026) suit bien Stone Ocean (2022) : gardé ;
+  //  - "MONSTERS: 103 Mercies Dragon Damnation" (1 épisode, 2024) est rangé par AniList comme
+  //    "préquelle" de One Piece (1999) : histoire antérieure, sortie bien après. Ce n'est pas une
+  //    saison : il va dans "Autour de l'œuvre".
+  const estSaison = (m) => FORMATS_SAISON.includes(m.format) && (m.episodes !== 1 || dansLOrdre(m));
 
-  const liste = [];
-  let courant = debut;
-  const parcourus = new Set();
-  for (let i = 0; i < 12 && courant && !parcourus.has(courant.id); i++) {
-    parcourus.add(courant.id);
-    if (FORMATS_SAISON.includes(courant.format)) liste.push(courant);
-    const suivant = choisir(courant, 'SEQUEL');
-    courant = suivant ? await liensSaison(suivant) : null;
-  }
-  return liste;
+  // Date inconnue (saison annoncée) : en dernier
+  return [...connues.values()].filter(estSaison)
+    .sort((a, b) => (dateDebut(a.startDate) ?? Infinity) - (dateDebut(b.startDate) ?? Infinity));
 }
 
 // ---------- Recherche ----------
@@ -210,18 +226,23 @@ export async function rattrapage(ids, depuis) {
   const a = Math.floor(depuis / 1000);
   const b = Math.floor(Date.now() / 1000);
   const sorties = [];
-  let medias = [];
+  const medias = [];
 
-  for (let page = 1; page <= 5; page++) {
-    const data = await anilist(`query($ids:[Int], $a:Int, $b:Int, $page:Int){
-      suivis: Page(perPage:50){ media(id_in:$ids){ ${CHAMPS_CARTE} nextAiringEpisode{ episode airingAt } } }
-      sorties: Page(page:$page, perPage:50){ pageInfo{ hasNextPage }
-        airingSchedules(mediaId_in:$ids, airingAt_greater:$a, airingAt_lesser:$b, sort:TIME_DESC){ mediaId episode airingAt } }
-    }`, { ids, a, b, page }, { duree: 15 * MINUTE });
+  // AniList renvoie 50 résultats au plus par page : lots de 50 œuvres, et jusqu'à 5 pages
+  // d'épisodes par lot (une franchise suivie compte toutes ses saisons)
+  for (let debut = 0; debut < ids.length; debut += 50) {
+    const lot = ids.slice(debut, debut + 50);
+    for (let page = 1; page <= 5; page++) {
+      const data = await anilist(`query($ids:[Int], $a:Int, $b:Int, $page:Int){
+        suivis: Page(perPage:50){ media(id_in:$ids){ ${CHAMPS_CARTE} nextAiringEpisode{ episode airingAt } } }
+        sorties: Page(page:$page, perPage:50){ pageInfo{ hasNextPage }
+          airingSchedules(mediaId_in:$ids, airingAt_greater:$a, airingAt_lesser:$b, sort:TIME_DESC){ mediaId episode airingAt } }
+      }`, { ids: lot, a, b, page }, { duree: 15 * MINUTE });
 
-    if (page === 1) medias = data.suivis.media;
-    sorties.push(...data.sorties.airingSchedules);
-    if (!data.sorties.pageInfo.hasNextPage) break;
+      if (page === 1) medias.push(...data.suivis.media);
+      sorties.push(...data.sorties.airingSchedules);
+      if (!data.sorties.pageInfo.hasNextPage) break;
+    }
   }
   return { medias, sorties };
 }

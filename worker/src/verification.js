@@ -18,6 +18,8 @@ import { tmdb } from './tmdb.js';
 import { normaliser } from './jeux.js';
 
 const HEURE = 3600_000;
+// Date de début comparable (20240315) ; null si inconnue (œuvre annoncée)
+const dateDebut = (d) => (d?.year ? d.year * 10000 + (d.month || 1) * 100 + (d.day || 1) : null);
 const BUDGET_REQUETES = 40; // on garde une marge sous la limite de 50
 const RECHECK = 6 * HEURE;
 const RAFRAICHIR_DERNIERE = 6 * HEURE;
@@ -180,6 +182,11 @@ async function verifierAnimes(env, personnes, compter, budget) {
         if (!media) continue;
         for (const e of media.relations.edges) {
           if (e.relationType !== 'SEQUEL' || e.node.type !== 'ANIME' || franchise.has(e.node.id)) continue;
+          // Une "suite" sortie AVANT l'œuvre est une suite d'histoire, pas une nouveauté
+          // (ex : One Piece est la "suite" de MONSTERS, ONA de 2024)
+          const ici = dateDebut(media.startDate);
+          const la = dateDebut(e.node.startDate);
+          if (ici && la && la < ici) continue;
           franchise.add(e.node.id); // la suite est désormais surveillée (épisodes, suites suivantes)
           if (premiereFois) continue;
           p.notifs.push({
@@ -211,7 +218,7 @@ async function requeteAnilist(ids, depuis, page) {
       query: `query($ids:[Int], $a:Int, $b:Int, $page:Int){
         sorties: Page(page:$page, perPage:50){ pageInfo{ hasNextPage }
           airingSchedules(mediaId_in:$ids, airingAt_greater:$a, airingAt_lesser:$b){ mediaId episode airingAt } }
-        medias: Page(perPage:50){ media(id_in:$ids){ id title{romaji english} relations{ edges{ relationType node{ id type title{romaji english} } } } } }
+        medias: Page(perPage:50){ media(id_in:$ids){ id startDate{year month day} title{romaji english} relations{ edges{ relationType node{ id type startDate{year month day} title{romaji english} } } } } }
       }`,
       variables: { ids, a: depuis, b: Math.floor(Date.now() / 1000), page },
     }),
