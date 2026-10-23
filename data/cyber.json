@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-23T14:12:32+00:00",
+ "maj": "2026-10-23T14:25:27+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -32,6 +32,17 @@
    "extrait": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how…",
    "tags": [
     "IA"
+   ]
+  },
+  {
+   "id": "f059789b2437",
+   "titre": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
+   "lien": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
+   "source": "The Hacker News",
+   "date": "2026-10-23T13:50:56+00:00",
+   "extrait": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls…",
+   "tags": [
+    "Fuite de données"
    ]
   },
   {
