@@ -77,6 +77,53 @@ export async function ficheAnime(id) {
   return data.Media;
 }
 
+// ---------- Saisons d'une même série ----------
+
+// Formats considérés comme des "saisons" (les films, OVA et spéciaux restent dans "Suites, préquelles et liés")
+const FORMATS_SAISON = ['TV', 'TV_SHORT', 'ONA'];
+
+async function liensSaison(id) {
+  const data = await anilist(`query($id:Int){ Media(id:$id){
+    id format season seasonYear episodes status title{romaji english}
+    relations{ edges{ relationType node{ id type format } } } } }`, { id }, { duree: 24 * HEURE });
+  return data.Media;
+}
+
+// Parmi les suites (ou préquelles), on préfère celle qui est une saison TV
+function choisir(media, relation) {
+  const candidats = media.relations.edges.filter((e) => e.relationType === relation && e.node.type === 'ANIME');
+  return (candidats.find((e) => FORMATS_SAISON.includes(e.node.format)) || candidats[0])?.node.id;
+}
+
+/**
+ * Toutes les saisons d'un animé, dans l'ordre (Saison 1, 2, 3…).
+ * AniList ne donne que des liens "préquelle" / "suite" entre deux œuvres :
+ * on remonte les préquelles jusqu'au début, puis on suit les suites.
+ * On traverse les films/OVA intercalés (ex : un film entre deux saisons) sans les compter.
+ * Chaque étape est une requête (gardée 24 h en cache) : 12 étapes maximum.
+ */
+export async function saisons(id) {
+  let debut = await liensSaison(id);
+  const vus = new Set([debut.id]);
+  for (let i = 0; i < 12; i++) {
+    const precedent = choisir(debut, 'PREQUEL');
+    if (!precedent || vus.has(precedent)) break;
+    vus.add(precedent);
+    debut = await liensSaison(precedent);
+  }
+
+  const liste = [];
+  let courant = debut;
+  const parcourus = new Set();
+  for (let i = 0; i < 12 && courant && !parcourus.has(courant.id); i++) {
+    parcourus.add(courant.id);
+    if (FORMATS_SAISON.includes(courant.format)) liste.push(courant);
+    const suivant = choisir(courant, 'SEQUEL');
+    courant = suivant ? await liensSaison(suivant) : null;
+  }
+  return liste;
+}
+
 // ---------- Recherche ----------
 
 export async function rechercheRapide(texte) {

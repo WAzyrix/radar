@@ -43,7 +43,7 @@ export async function verifier(env) {
       env.RADAR_KV.get(`etat:${code}`, 'json'),
     ]);
     if (abo?.abonnements?.length) {
-      personnes.push({ code, abo, items: liste.items, etat: etat || { derniere: Date.now() - HEURE, vus: {}, suites: {}, manga: {}, tmdb: {} }, notifs: [] });
+      personnes.push({ code, abo, items: liste.items, etat: etat || { derniere: Date.now() - HEURE, vus: {}, franchise: {}, manga: {}, tmdb: {} }, notifs: [] });
     }
   }
   if (!personnes.length) return { personnes: 0 };
@@ -78,8 +78,24 @@ export async function verifier(env) {
 }
 
 // ---------- Animés (AniList) ----------
+// Suivre un animé = suivre toute sa franchise. Pour chaque animé suivi, on connaît :
+//   - ses saisons (envoyées par le site, champ "saisons") ;
+//   - les suites découvertes depuis par le relais (etat.franchise[id]).
+// On surveille les épisodes de TOUTES ces œuvres, et on cherche de nouvelles suites
+// sur chacune d'elles : la saison 3 de Frieren est une suite de la saison 2, pas de la 1.
 async function verifierAnimes(env, personnes, compter) {
-  const ids = [...new Set(personnes.flatMap((p) => p.items.filter((i) => i.type === 'anime').map((i) => i.id)))].slice(0, 50);
+  // Œuvres à surveiller pour chaque personne : id suivi -> ensemble des id de la franchise
+  for (const p of personnes) {
+    p.etat.franchise ??= {};
+    p.franchises = new Map();
+    for (const anime of p.items.filter((i) => i.type === 'anime')) {
+      // Ancien format (avant les franchises) : on reprend les suites déjà connues
+      const anciennes = p.etat.suites?.[anime.id] || [];
+      const connues = new Set([anime.id, ...(anime.saisons || []), ...(p.etat.franchise[anime.id] || []), ...anciennes]);
+      p.franchises.set(anime.id, connues);
+    }
+  }
+  const ids = [...new Set(personnes.flatMap((p) => [...p.franchises.values()].flatMap((f) => [...f])))].slice(0, 50);
   if (!ids.length || !compter()) return;
   const depuis = Math.floor(Math.min(...personnes.map((p) => p.etat.derniere)) / 1000);
 
@@ -89,46 +105,52 @@ async function verifierAnimes(env, personnes, compter) {
     body: JSON.stringify({
       query: `query($ids:[Int], $a:Int, $b:Int){
         sorties: Page(perPage:50){ airingSchedules(mediaId_in:$ids, airingAt_greater:$a, airingAt_lesser:$b){ mediaId episode airingAt } }
-        medias: Page(perPage:50){ media(id_in:$ids){ id relations{ edges{ relationType node{ id type title{romaji english} status } } } } }
+        medias: Page(perPage:50){ media(id_in:$ids){ id title{romaji english} relations{ edges{ relationType node{ id type title{romaji english} } } } } }
       }`,
       variables: { ids, a: depuis, b: Math.floor(Date.now() / 1000) },
     }),
   });
   if (!reponse.ok) return;
   const { data } = await reponse.json();
+  const medias = new Map(data.medias.media.map((m) => [m.id, m]));
+  const nom = (m) => m?.title.english || m?.title.romaji;
 
   for (const p of personnes) {
-    const mesAnimes = new Map(p.items.filter((i) => i.type === 'anime').map((i) => [i.id, i]));
+    for (const [idSuivi, franchise] of p.franchises) {
+      const anime = p.items.find((i) => i.type === 'anime' && i.id === idSuivi);
 
-    // Épisodes diffusés depuis MON dernier passage
-    for (const s of data.sorties.airingSchedules) {
-      const anime = mesAnimes.get(s.mediaId);
-      if (!anime || s.airingAt * 1000 <= p.etat.derniere) continue;
-      p.notifs.push({
-        cle: `ep:${s.mediaId}:${s.episode}`, categorie: 'episode',
-        titre: `${anime.titre} : épisode ${s.episode}`,
-        corps: 'Vient d\'être diffusé au Japon.',
-        url: `${env.SITE}anime.html?id=${s.mediaId}`, image: anime.image,
-      });
-    }
+      // Épisodes diffusés depuis MON dernier passage, sur n'importe quelle saison
+      for (const s of data.sorties.airingSchedules) {
+        if (!franchise.has(s.mediaId) || s.airingAt * 1000 <= p.etat.derniere) continue;
+        p.notifs.push({
+          cle: `ep:${s.mediaId}:${s.episode}`, categorie: 'episode',
+          titre: `${nom(medias.get(s.mediaId)) || anime.titre} : épisode ${s.episode}`,
+          corps: 'Vient d\'être diffusé au Japon.',
+          url: `${env.SITE}anime.html?id=${s.mediaId}`, image: anime.image,
+        });
+      }
 
-    // Suites : on compare avec les suites déjà connues (la 1re fois, on mémorise sans notifier)
-    for (const media of data.medias.media) {
-      if (!mesAnimes.has(media.id)) continue;
-      const suites = media.relations.edges.filter((e) => e.relationType === 'SEQUEL' && e.node.type === 'ANIME').map((e) => e.node);
-      const connues = p.etat.suites[media.id];
-      if (connues) {
-        for (const suite of suites.filter((s) => !connues.includes(s.id))) {
+      // Nouvelles suites, sur n'importe quelle œuvre de la franchise.
+      // La toute première fois (franchise jamais vérifiée), on mémorise sans notifier.
+      const premiereFois = !p.etat.franchise[idSuivi];
+      for (const membre of [...franchise]) {
+        const media = medias.get(membre);
+        if (!media) continue;
+        for (const e of media.relations.edges) {
+          if (e.relationType !== 'SEQUEL' || e.node.type !== 'ANIME' || franchise.has(e.node.id)) continue;
+          franchise.add(e.node.id); // la suite est désormais surveillée (épisodes, suites suivantes)
+          if (premiereFois) continue;
           p.notifs.push({
-            cle: `suite:${suite.id}`, categorie: 'suite',
-            titre: `Suite annoncée : ${suite.title.english || suite.title.romaji}`,
-            corps: `La suite de ${mesAnimes.get(media.id).titre} est annoncée !`,
-            url: `${env.SITE}anime.html?id=${suite.id}`, image: mesAnimes.get(media.id).image,
+            cle: `suite:${e.node.id}`, categorie: 'suite',
+            titre: `Suite annoncée : ${nom(e.node)}`,
+            corps: `La suite de ${anime.titre} est annoncée !`,
+            url: `${env.SITE}anime.html?id=${e.node.id}`, image: anime.image,
           });
         }
       }
-      p.etat.suites[media.id] = suites.map((s) => s.id);
+      p.etat.franchise[idSuivi] = [...franchise];
     }
+    delete p.etat.suites; // remplacé par etat.franchise
   }
 }
 

@@ -41,6 +41,7 @@ export async function ecrireListe(env, code, donnees) {
       statut: i.statut ? String(i.statut).slice(0, 20) : undefined,
       sortie: i.sortie ? String(i.sortie).slice(0, 10) : undefined,
       adn: typeof i.adn === 'number' ? i.adn : undefined,
+      saisons: Array.isArray(i.saisons) ? i.saisons.filter((n) => Number.isInteger(n)).slice(0, 30) : undefined,
       ajouteLe: String(i.ajouteLe || '').slice(0, 30),
     }));
   await ecrire(env, `liste:${code}`, { maj: donnees.maj, items });

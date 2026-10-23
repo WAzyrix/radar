@@ -324,3 +324,27 @@ h3 .metacritic.en-ligne { margin-left: 6px; }
 .actus-outils select.champ { width: auto; flex: 0 1 220px; border-radius: 999px; }
 .actus-infos { display: flex; flex-wrap: wrap; gap: 6px 16px; padding: 0 var(--gouttiere); margin-bottom: 14px; color: var(--texte-3); font-size: 0.82rem; }
 .grille-articles { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 320px), 1fr)); gap: 16px; padding: 0 var(--gouttiere); }
+
+/* Onglets "Saison 1 · Saison 2 · …" sur la fiche animé */
+.saisons { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
+.saisons:empty { display: none; }
+.fiche-grille .saisons { justify-content: center; }
+@media (min-width: 900px) { .fiche-grille .saisons { justify-content: flex-start; } }
+.saisons button {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 6px;
+  padding: 8px 14px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  font-size: 0.88rem;
+  font-weight: 600;
+  transition: all var(--transition);
+}
+.saisons button small { font-size: 0.72rem; font-weight: 500; opacity: 0.65; }
+.saisons button:hover { background: rgba(255, 255, 255, 0.18); }
+.saisons button.actif { background: var(--texte); color: #0a0a0f; border-color: transparent; }
+.fiche-infos.chargement { opacity: 0.5; transition: opacity var(--transition); }

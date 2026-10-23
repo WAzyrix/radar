@@ -1,12 +1,12 @@
 // =========================================================
 // Fiche animé (ou manga) : anime.html?id=XXXX (id AniList)
 // =========================================================
-import { ficheAnime } from '../api/animes.js';
+import { ficheAnime, saisons } from '../api/animes.js';
 import { echapper, titre, note, nettoyerSynopsis, compteARebours, formatDate } from '../lib/outils.js';
 
 const formatJourHeure = new Intl.DateTimeFormat('fr-FR', { weekday: 'long', day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' });
 import { GENRES_FR, STATUTS_FR, FORMATS_FR, RELATIONS_FR } from '../lib/traductions.js';
-import { estSuivi, basculerSuivi } from '../lib/suivis.js';
+import { estSuivi, basculerSuivi, mettreAJourSaisons } from '../lib/suivis.js';
 import { afficherNavigation } from '../ui/nav.js';
 import { appliquerAccent } from '../ui/accent.js';
 import { carteAffiche, badgesLangues } from '../ui/cartes.js';
@@ -17,7 +17,7 @@ import { boutonRecommander, brancherRecommandation } from '../ui/recommander.js'
 
 afficherNavigation('animes');
 
-const id = Number(new URLSearchParams(location.search).get('id'));
+const idDansAdresse = () => Number(new URLSearchParams(location.search).get('id'));
 
 // Ordre d'affichage des relations : suites et préquelles d'abord
 const ORDRE_RELATIONS = ['PREQUEL', 'SEQUEL', 'PARENT', 'SIDE_STORY', 'SPIN_OFF', 'SOURCE', 'ADAPTATION', 'ALTERNATIVE'];
@@ -127,6 +127,7 @@ function afficherFiche(m, adn) {
         <div class="fiche-infos">
           <h1>${echapper(titre(m))}</h1>
           ${m.title.native ? `<div class="titre-natif">${echapper(m.title.native)}</div>` : ''}
+          <div class="saisons" id="saisons"></div>
           <div class="meta">${meta}</div>
           <div class="genres-liste">${statut}${genres}</div>
           <div class="actions">
@@ -191,11 +192,13 @@ function afficherFiche(m, adn) {
   const bouton = document.getElementById('suivre');
   bouton?.addEventListener('click', () => {
     // On mémorise la série ADN correspondante : le relais pourra prévenir de la sortie VOSTFR/VF
-    const suivi = basculerSuivi(m, { adn: trouverSerie(adn, m)?.id });
+    // ... et toutes les saisons de la série : on suit la franchise entière (notifs saison 2, 3…)
+    const suivi = basculerSuivi(m, { adn: trouverSerie(adn, m)?.id, saisons: idsSaisons });
     bouton.classList.toggle('actif', suivi);
     bouton.innerHTML = boutonSuivre(suivi);
   });
   brancherBoutonHasard(document.getElementById('hasard'));
+  if (!estManga) afficherSaisons(m, bouton);
   brancherRecommandation(
     { type: estManga ? 'manga' : 'anime', id: m.id, titre: titre(m), image: m.coverImage.extraLarge },
     document.getElementById('potes-suivent'),
@@ -211,6 +214,51 @@ function afficherFiche(m, adn) {
   });
 }
 
+// ---------- Onglets "Saison 1 · Saison 2 · …" ----------
+let idsSaisons; // identifiants de toutes les saisons de la série affichée
+
+async function afficherSaisons(m, boutonSuivre) {
+  const zone = document.getElementById('saisons');
+  let liste;
+  try {
+    liste = await saisons(m.id);
+  } catch {
+    return; // AniList indisponible : pas d'onglets, la fiche reste utilisable
+  }
+  if (!document.body.contains(zone)) return; // une autre saison a été ouverte entre-temps
+  idsSaisons = liste.map((s) => s.id);
+
+  // Déjà suivi via une autre saison ? Le bouton l'indique, et la liste des saisons est mise à jour
+  if (mettreAJourSaisons(m.id, idsSaisons) && boutonSuivre) {
+    boutonSuivre.classList.add('actif');
+    boutonSuivre.innerHTML = boutonSuivre(true);
+  }
+  if (liste.length < 2) return;
+
+  zone.innerHTML = liste.map((s, i) => `
+    <button type="button" class="${s.id === m.id ? 'actif' : ''}" data-saison="${s.id}" title="${echapper(s.title.english || s.title.romaji)}">
+      Saison ${i + 1}${s.seasonYear ? `<small>${s.seasonYear}</small>` : ''}
+    </button>`).join('');
+  zone.addEventListener('click', (e) => {
+    const bouton = e.target.closest('[data-saison]');
+    if (bouton && Number(bouton.dataset.saison) !== m.id) charger(Number(bouton.dataset.saison), { historique: true });
+  });
+}
+
+// Charge une fiche sur place (onglets de saisons) ; "historique" = bouton retour possible
+async function charger(id, { historique = false } = {}) {
+  if (historique) history.pushState(null, '', `?id=${id}`);
+  document.querySelector('.fiche-infos')?.classList.add('chargement');
+  try {
+    const [m, adn] = await Promise.all([ficheAnime(id), chargerAdn()]);
+    afficherFiche(m, adn);
+    document.querySelector('.fiche-haut')?.scrollIntoView({ behavior: 'smooth' });
+  } catch (erreur) {
+    afficherErreurFiche(erreur.message);
+  }
+}
+window.addEventListener('popstate', () => charger(idDansAdresse()));
+
 function afficherErreurFiche(message) {
   document.getElementById('fiche').innerHTML = `
     <div class="page-tete">
@@ -220,5 +268,5 @@ function afficherErreurFiche(message) {
     </div>`;
 }
 
-if (!id) afficherErreurFiche("Aucun animé n'est indiqué dans l'adresse.");
-else Promise.all([ficheAnime(id), chargerAdn()]).then(([m, adn]) => afficherFiche(m, adn)).catch((erreur) => afficherErreurFiche(erreur.message));
+if (!idDansAdresse()) afficherErreurFiche("Aucun animé n'est indiqué dans l'adresse.");
+else charger(idDansAdresse());
