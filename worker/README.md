@@ -12,7 +12,7 @@ navigateur ──> relais (Cloudflare) ──┬──> RAWG   (clé secrète aj
 
 ## Installation (une seule fois)
 
-Nécessite Node.js (`sudo apt install nodejs npm`). On utilise wrangler 4.86 : la dernière version compatible avec Node 20 (celle de Debian 13).
+Nécessite Node.js 22 ou plus (exigé par wrangler 4), installé par exemple avec [nvm](https://github.com/nvm-sh/nvm) : `nvm install 22`.
 
 ```bash
 cd worker
