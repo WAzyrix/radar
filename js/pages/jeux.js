@@ -2,13 +2,12 @@
 // Page Jeux vidéo : sorties (à venir / récentes), mes listes, explorer, actus.
 // =========================================================
 import { sortiesAVenir, sortiesRecentes, explorerJeux, jeuAuHasard, relaisConfigure } from '../api/jeux.js';
-import { chargerActus } from '../api/actus.js';
 import { echapper, afficherErreur, antiRebond, premiereMajuscule } from '../lib/outils.js';
 import { GENRES_JEUX, THEMES_JEUX, PLATEFORMES } from '../lib/traductions-jeux.js';
 import { listeJeux, STATUTS_JEU } from '../lib/listes-jeux.js';
 import { afficherNavigation } from '../ui/nav.js';
 import { carteJeu, carteJeuListe, squelettesJeux, badgeMetacritic, dateSortie, plateformesCourtes } from '../ui/cartes-jeux.js';
-import { carteArticle } from '../ui/cartes.js';
+import { monterApercuActus } from '../ui/apercu-actus.js';
 import { ICONES } from '../ui/icones.js';
 
 afficherNavigation('jeux');
@@ -247,11 +246,11 @@ urlVersFiltres();
 lancerRecherche();
 
 // =========================================================
-// 4. Actus jeux (les 6 dernières, depuis les flux RSS)
+// 4. Actus & rumeurs (flux RSS)
 // =========================================================
-chargerActus('jeux')
-  .then((data) => { $('actus-contenu').innerHTML = data.articles.slice(0, 6).map(carteArticle).join(''); })
-  .catch((erreur) => afficherErreur($('actus-contenu'), erreur));
+monterApercuActus($('filtres-actus'), $('actus-contenu'), 'jeux', [
+  ['', 'Tout'], ['Rumeur', 'Rumeurs'], ['Annonce', 'Annonces'], ['Sortie', 'Sorties'], ['Consoles', 'Consoles'], ['Jailbreak & homebrew', 'Jailbreak'],
+]);
 
 // Arrivée avec une ancre (#explorer…) : on y retourne une fois la page remplie
 if (location.hash) setTimeout(() => document.querySelector(location.hash)?.scrollIntoView(), 1200);

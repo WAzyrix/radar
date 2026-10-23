@@ -5,6 +5,7 @@
 
 // Réglages d'affichage de chaque catégorie (le contenu, lui, vient du JSON)
 export const CATEGORIES = {
+  animes: { nom: 'Actu animés', court: 'Animés', couleur: '#c79bff', icone: 'anime', description: 'Nouvelles saisons, nouveaux animés, trailers, doublage… et rumeurs de sources fiables uniquement.' },
   jeux: { nom: 'Jeux vidéo', court: 'Jeux', couleur: '#6ee7a8', icone: 'manette', description: 'Sorties, annonces, tests, consoles et scène jailbreak/homebrew : Nintendo, PlayStation, Xbox, PC.' },
   cinema: { nom: 'Films & séries', court: 'Films', couleur: '#ff7ab6', icone: 'film', description: "L'actu ciné et séries : sorties, bandes-annonces, plateformes." },
   cyber: { nom: 'Cyber & info', court: 'Cyber', couleur: '#4cc3ff', icone: 'cyber', description: 'Failles, CVE, ransomwares, jailbreaks et outils.' },

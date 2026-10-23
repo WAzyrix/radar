@@ -1,4 +1,131 @@
 {
+  "animes": {
+    "nom": "Actu animés",
+    "sources": [
+      {
+        "nom": "Anime News Network",
+        "url": "https://www.animenewsnetwork.com/all/rss.xml?ann-edition=w",
+        "rumeurs": true,
+        "critique_si": "[‒–-]\\s*Episodes?\\s+\\d+"
+      },
+      {
+        "nom": "Anime Corner",
+        "url": "https://animecorner.me/feed/",
+        "rumeurs": true
+      },
+      {
+        "nom": "MyAnimeList",
+        "url": "https://myanimelist.net/rss/news.xml",
+        "rumeurs": true
+      },
+      {
+        "nom": "AnimeLand",
+        "url": "https://animeland.fr/feed/"
+      },
+      {
+        "nom": "Adala News",
+        "url": "https://www.adala-news.fr/feed/"
+      },
+      {
+        "nom": "Journal du Japon",
+        "url": "https://www.journaldujapon.com/feed/"
+      }
+    ],
+    "tags": {
+      "Rumeur": [
+        "rumeur*",
+        "rumor*",
+        "rumour*",
+        "leak*",
+        "fuite*",
+        "insider",
+        "reportedly",
+        "selon nos informations",
+        "datamine*",
+        "datamin*",
+        "serait en developpement"
+      ],
+      "Nouvelle saison": [
+        "season 2",
+        "season 3",
+        "season 4",
+        "saison 2",
+        "saison 3",
+        "saison 4",
+        "2nd season",
+        "3rd season",
+        "second season",
+        "third season",
+        "sequel",
+        "new season",
+        "nouvelle saison",
+        "final season",
+        "saison finale"
+      ],
+      "Nouvel animé": [
+        "anime adaptation",
+        "adaptation anime",
+        "gets anime",
+        "TV anime",
+        "anime project",
+        "projet anime",
+        "adapte en anime",
+        "green-lit",
+        "greenlit"
+      ],
+      "Film": [
+        "film",
+        "movie"
+      ],
+      "Trailer": [
+        "trailer",
+        "bande-annonce",
+        "bande annonce",
+        "teaser",
+        "PV",
+        "promo video",
+        "visual"
+      ],
+      "Date de sortie": [
+        "premiere*",
+        "release date",
+        "date de sortie",
+        "debut*",
+        "airs",
+        "diffusion",
+        "simulcast"
+      ],
+      "Doublage": [
+        "cast",
+        "casting",
+        "doublage",
+        "VF",
+        "dub",
+        "seiyuu",
+        "voice actor",
+        "voix"
+      ],
+      "Manga": [
+        "manga",
+        "chapter",
+        "chapitre",
+        "volume",
+        "tome",
+        "light novel",
+        "hiatus",
+        "pause"
+      ],
+      "Live-action": [
+        "live-action",
+        "live action"
+      ],
+      "Critique": [
+        "review",
+        "critique",
+        "impressions"
+      ]
+    }
+  },
   "jeux": {
     "nom": "Jeux vidéo",
     "sources": [
@@ -32,14 +159,43 @@
       },
       {
         "nom": "Gematsu",
-        "url": "https://www.gematsu.com/feed"
+        "url": "https://www.gematsu.com/feed",
+        "rumeurs": true
       },
       {
         "nom": "Wololo",
         "url": "https://wololo.net/feed/"
+      },
+      {
+        "nom": "VGC",
+        "url": "https://www.videogameschronicle.com/feed/",
+        "rumeurs": true
+      },
+      {
+        "nom": "Eurogamer",
+        "url": "https://www.eurogamer.net/feed",
+        "rumeurs": true
+      },
+      {
+        "nom": "Insider Gaming",
+        "url": "https://insider-gaming.com/feed/",
+        "rumeurs": true
       }
     ],
     "tags": {
+      "Rumeur": [
+        "rumeur*",
+        "rumor*",
+        "rumour*",
+        "leak*",
+        "fuite*",
+        "insider",
+        "reportedly",
+        "selon nos informations",
+        "datamine*",
+        "datamin*",
+        "serait en developpement"
+      ],
       "Sortie": [
         "date de sortie",
         "sortie",

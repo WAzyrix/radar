@@ -9,6 +9,7 @@ import { afficherNavigation } from '../ui/nav.js';
 import { carteAffiche, squelettesAffiches } from '../ui/cartes.js';
 import { monterCalendrier, NOTE_HEURES } from '../ui/calendrier.js';
 import { ICONES } from '../ui/icones.js';
+import { monterApercuActus } from '../ui/apercu-actus.js';
 
 afficherNavigation('animes');
 
@@ -296,3 +297,10 @@ function carteProposition(m) {
 
 urlVersFiltres();
 lancerRecherche();
+
+// =========================================================
+// 4. Actus & rumeurs
+// =========================================================
+monterApercuActus($('filtres-actus'), $('actus-contenu'), 'animes', [
+  ['', 'Tout'], ['Nouvelle saison', 'Nouvelles saisons'], ['Nouvel animé', 'Nouveaux animés'], ['Rumeur', 'Rumeurs'], ['Trailer', 'Trailers'], ['Date de sortie', 'Dates'],
+]);

@@ -149,6 +149,28 @@ def lire_flux(contenu):
     return articles
 
 
+def filtrer_rumeur(tags, titre, source, regles):
+    """
+    Le tag "Rumeur" n'est gardé que si :
+      - la source est réputée fiable pour les rumeurs ("rumeurs": true dans sources.json) ;
+      - le mot (rumeur, leak, insider…) est dans le TITRE : l'article parle vraiment d'une rumeur.
+    Ça évite les "rumeurs" infondées recyclées chaque semaine par des sites moins sérieux.
+    """
+    if "Rumeur" not in tags:
+        return tags
+    if source.get("rumeurs") and trouver_tags(titre, {"Rumeur": regles["Rumeur"]}):
+        return tags
+    return [t for t in tags if t != "Rumeur"]
+
+
+def reclasser_critique(tags, titre, source):
+    """Option "critique_si" d'une source : si le titre correspond, c'est une critique (pas une annonce)."""
+    motif = source.get("critique_si")
+    if not motif or not re.search(motif, titre):
+        return tags
+    return ["Critique"] + [t for t in tags if t not in ("Critique", "Nouvelle saison", "Date de sortie")]
+
+
 def collecter_source(source, regles):
     articles = []
     for brut in lire_flux(telecharger(source["url"])):
@@ -167,7 +189,7 @@ def collecter_source(source, regles):
             "date": date.isoformat(timespec="seconds"),
             "extrait": extrait,
             # Les tags sont cherchés dans tout le résumé (pas seulement l'extrait affiché)
-            "tags": trouver_tags(f"{titre} {resume}", regles),
+            "tags": reclasser_critique(filtrer_rumeur(trouver_tags(f"{titre} {resume}", regles), titre, source, regles), titre, source),
             **({"zone": source["zone"]} if "zone" in source else {}),
         })
     return articles
