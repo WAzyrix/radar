@@ -25,6 +25,15 @@ const MAX_CLOCHE = 50; // notifications gardées dans la cloche
 const lire = async (env, cle, defaut) => (await env.RADAR_KV.get(cle, 'json')) ?? defaut;
 const ecrire = (env, cle, valeur) => env.RADAR_KV.put(cle, JSON.stringify(valeur));
 
+// Quota KV gratuit : 1000 écritures par jour (les lectures sont 100 fois plus nombreuses).
+// On relit donc la valeur et on n'écrit que si elle a vraiment changé.
+async function ecrireSiChange(env, cle, valeur) {
+  const texte = JSON.stringify(valeur);
+  if ((await env.RADAR_KV.get(cle)) === texte) return false;
+  await env.RADAR_KV.put(cle, texte);
+  return true;
+}
+
 // ---------- Liste ----------
 export const lireListe = (env, code) => lire(env, `liste:${code}`, { maj: 0, items: [] });
 
@@ -47,7 +56,7 @@ export async function ecrireListe(env, code, donnees) {
       saisons: Array.isArray(i.saisons) ? i.saisons.filter((n) => Number.isInteger(n)).slice(0, 30) : undefined,
       ajouteLe: String(i.ajouteLe || '').slice(0, 30),
     }));
-  await ecrire(env, `liste:${code}`, { maj: donnees.maj, items });
+  await ecrireSiChange(env, `liste:${code}`, { maj: donnees.maj, items });
   return { ok: true, nombre: items.length };
 }
 
@@ -59,13 +68,13 @@ export async function abonner(env, code, { abonnement, prefs }) {
   abo.abonnements.push({ endpoint: abonnement.endpoint, keys: { p256dh: abonnement.keys.p256dh, auth: abonnement.keys.auth } });
   abo.abonnements = abo.abonnements.slice(-MAX_APPAREILS);
   if (prefs) abo.prefs = nettoyerPrefs(prefs);
-  await ecrire(env, `abo:${code}`, abo);
+  await ecrireSiChange(env, `abo:${code}`, abo);
   return { ok: true, appareils: abo.abonnements.length, prefs: abo.prefs };
 }
 
 export async function desabonner(env, code, { endpoint }) {
   const abo = await lire(env, `abo:${code}`, null);
-  if (!abo) return { ok: true };
+  if (!abo?.abonnements.some((a) => a.endpoint === endpoint)) return { ok: true }; // rien à retirer
   abo.abonnements = abo.abonnements.filter((a) => a.endpoint !== endpoint);
   if (abo.abonnements.length) await ecrire(env, `abo:${code}`, abo);
   else await env.RADAR_KV.delete(`abo:${code}`);
@@ -81,7 +90,7 @@ export async function changerPrefs(env, code, prefs) {
   const abo = await lire(env, `abo:${code}`, null);
   if (!abo) throw new Erreur400("Active d'abord les notifications");
   abo.prefs = nettoyerPrefs(prefs);
-  await ecrire(env, `abo:${code}`, abo);
+  await ecrireSiChange(env, `abo:${code}`, abo);
   return { ok: true, prefs: abo.prefs };
 }
 
@@ -133,7 +142,7 @@ export async function notifier(env, code, notifs, abo) {
 export async function effacerHistorique(env, code, { ids } = {}) {
   const histo = await lireHistorique(env, code);
   const restantes = Array.isArray(ids) ? histo.filter((n) => !ids.includes(n.id)) : [];
-  await ecrire(env, `histo:${code}`, restantes);
+  if (restantes.length !== histo.length) await ecrire(env, `histo:${code}`, restantes);
   return { ok: true, restantes: restantes.length };
 }
 

@@ -20,6 +20,7 @@ import { normaliser } from './jeux.js';
 const HEURE = 3600_000;
 const BUDGET_REQUETES = 40; // on garde une marge sous la limite de 50
 const RECHECK = 6 * HEURE;
+const RAFRAICHIR_DERNIERE = 6 * HEURE;
 
 // Date et heure à Paris (pour les notifs "sort demain", envoyées le matin)
 function parisAujourdhui(decalageJours = 0) {
@@ -34,17 +35,26 @@ export async function verifier(env) {
 
   // 1. Toutes les personnes qui ont une liste (notifs push activées ou non :
   //    sans push, les nouveautés vont quand même dans la cloche du site)
-  const cles = (await env.RADAR_KV.list({ prefix: 'liste:' })).keys;
+  //    KV.list renvoie 1000 clés au plus par appel : on suit le curseur.
+  const cles = [];
+  let curseur;
+  do {
+    const page = await env.RADAR_KV.list({ prefix: 'liste:', cursor: curseur });
+    cles.push(...page.keys);
+    curseur = page.list_complete ? undefined : page.cursor;
+  } while (curseur);
+
   const personnes = [];
   for (const { name } of cles) {
     const code = name.slice(6);
-    const [abo, liste, etat] = await Promise.all([
+    const [abo, liste, etatTexte] = await Promise.all([
       env.RADAR_KV.get(`abo:${code}`, 'json'),
       lireListe(env, code),
-      env.RADAR_KV.get(`etat:${code}`, 'json'),
+      env.RADAR_KV.get(`etat:${code}`),
     ]);
     if (liste.items.length) {
-      personnes.push({ code, abo, items: liste.items, etat: etat || { derniere: Date.now() - HEURE, vus: {}, franchise: {}, manga: {}, tmdb: {} }, notifs: [] });
+      const etat = etatTexte ? JSON.parse(etatTexte) : { derniere: Date.now() - HEURE, vus: {}, franchise: {}, manga: {}, tmdb: {} };
+      personnes.push({ code, abo, items: liste.items, etat, etatTexte, notifs: [] });
     }
   }
   if (!personnes.length) return { personnes: 0 };
@@ -61,6 +71,7 @@ export async function verifier(env) {
 
   // 6. Envoi, en respectant les préférences de chacun
   let envoyees = 0;
+  let ecritures = 0;
   for (const p of personnes) {
     const prefs = p.abo?.prefs || {};
     const deja = new Set(p.etat.vus ? Object.keys(p.etat.vus) : []);
@@ -72,10 +83,18 @@ export async function verifier(env) {
       ...Object.entries(p.etat.vus || {}).filter(([, t]) => maintenant - t < 30 * 86400_000),
       ...nouvelles.map((n) => [n.cle, maintenant]),
     ]);
-    p.etat.derniere = maintenant;
-    await env.RADAR_KV.put(`etat:${p.code}`, JSON.stringify(p.etat));
+    // Quota KV gratuit : 1000 écritures/jour. On n'écrit l'état que s'il a changé.
+    // "derniere" (date du dernier passage) n'est rafraîchie que toutes les 6 h : entre-temps,
+    // les nouveautés déjà envoyées sont reconnues grâce à "vus" (pas de doublon).
+    const derniere = p.etat.derniere;
+    p.etat.derniere = maintenant - derniere >= RAFRAICHIR_DERNIERE ? maintenant : derniere;
+    const texte = JSON.stringify(p.etat);
+    if (texte !== p.etatTexte) {
+      await env.RADAR_KV.put(`etat:${p.code}`, texte);
+      ecritures += 1;
+    }
   }
-  return { personnes: personnes.length, envoyees, requetesRestantes: budget.reste };
+  return { personnes: personnes.length, envoyees, ecritures, requetesRestantes: budget.reste };
 }
 
 // ---------- Animés (AniList) ----------
