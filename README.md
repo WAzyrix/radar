@@ -7,6 +7,8 @@ Mon site perso qui regroupe les actus qui m'intéressent, au même endroit, dans
 | Section | Ce qu'on y trouve | D'où viennent les données |
 |---|---|---|
 | **Animés** | Calendrier des épisodes, fiches complètes, rattrapage de mes suivis, exploration par genres + tirage au hasard | API GraphQL [AniList](https://anilist.co), appelée directement par le navigateur |
+| **Animés en France** | Heure de sortie VOSTFR/VF et langues disponibles saison par saison | API publique d'[ADN](https://animationdigitalnetwork.com) (collectée toutes les heures) |
+| **Jeux vidéo** | Sorties, annonces, trailers, tests (Nintendo, PlayStation, Xbox, PC) | Flux RSS (jeuxvideo.com, Gamekult, IGN France, Gameblog, ActuGaming, PlayStation Blog, Nintendo Life, Gematsu) |
 | **Films & séries** | Actu ciné et séries | Flux RSS (AlloCiné, Écran Large) |
 | **Cyber & info** | Failles, CVE, ransomwares, jailbreaks, outils | Flux RSS (CERT-FR, BleepingComputer, The Hacker News, Zataz, Korben) |
 | **Actu** | France / États-Unis / Monde | Flux RSS (franceinfo, Le Monde, NPR, CBS News, BBC World, France 24) |
@@ -57,6 +59,7 @@ js/
   pages/            un fichier par page
 scripts/
   collecte.py       collecte RSS (bibliothèque standard Python uniquement)
+  collecte_adn.py   catalogue + calendrier ADN (langues par saison, heures VOSTFR/VF)
   sources.json      liste des flux + mots-clés des tags
 data/               JSON générés (ne pas modifier à la main)
 .github/workflows/actus.yml   collecte horaire + déploiement
@@ -79,6 +82,7 @@ Tout se passe dans [`scripts/sources.json`](scripts/sources.json) :
 - **AniList limite à 30 requêtes/minute** (en ce moment) : chaque réponse est gardée en cache dans le navigateur (de 10 min à 1 h selon le type) et un limiteur fait patienter si on approche de la limite.
 - **Le total de résultats d'AniList est faux** (toujours 5000) : le tirage au hasard cherche donc la vraie dernière page par dichotomie, puis pioche parmi les 500 plus populaires qui correspondent aux filtres.
 - **Heures du calendrier** : AniList donne l'heure de **diffusion TV au Japon**, convertie dans ton fuseau horaire. Les sites de streaming VOSTFR (Crunchyroll, ADN, anime-sama…) publient en général un peu plus tard : les deux heures sont justes, elles ne mesurent pas la même chose.
+- **VOSTFR / VF** : seule ADN publie ces infos librement. ADN et AniList n'ont pas d'identifiant commun, donc on associe les séries par leur titre « nettoyé » (sans accents, ponctuation ni numéro de saison) : ça marche dans la grande majorité des cas, mais une série peut être ratée. Crunchyroll ne publie ni ses horaires ni ses langues.
 - **Droits d'auteur** : pour les actus, on ne garde que le titre, la source, la date, un extrait de 200 caractères maximum et le lien vers l'article original.
 - **Suivis** : stockés dans le navigateur (`localStorage`). Ils ne se synchronisent pas entre appareils (ce sera le rôle de Supabase en V3).
 

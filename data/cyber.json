@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-23T12:53:44+00:00",
+ "maj": "2026-10-23T13:15:11+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "a3c3135e6fc7",
+   "titre": "Technostress : une faille pour l’ingénierie sociale",
+   "lien": "https://www.zataz.com/technostress-une-faille-pour-lingenierie-sociale/",
+   "source": "Zataz",
+   "date": "2026-10-23T12:56:16+00:00",
+   "extrait": "Technostress et ingénierie sociale : comment la surcharge numérique peut fragiliser la vigilance face aux manipulations.",
+   "tags": [
+    "Faille"
+   ]
+  },
   {
    "id": "eb477469ff02",
    "titre": "HPE patches eight max severity RCE and auth bypass AOS flaws",

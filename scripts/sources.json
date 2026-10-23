@@ -1,4 +1,129 @@
 {
+  "jeux": {
+    "nom": "Jeux vidéo",
+    "sources": [
+      {
+        "nom": "jeuxvideo.com",
+        "url": "https://www.jeuxvideo.com/rss/rss.xml"
+      },
+      {
+        "nom": "Gamekult",
+        "url": "https://www.gamekult.com/feed.xml"
+      },
+      {
+        "nom": "IGN France",
+        "url": "https://fr.ign.com/feed.xml"
+      },
+      {
+        "nom": "Gameblog",
+        "url": "https://www.gameblog.fr/rss.php"
+      },
+      {
+        "nom": "ActuGaming",
+        "url": "https://www.actugaming.net/feed/"
+      },
+      {
+        "nom": "PlayStation Blog",
+        "url": "https://blog.fr.playstation.com/feed/"
+      },
+      {
+        "nom": "Nintendo Life",
+        "url": "https://www.nintendolife.com/feeds/latest"
+      },
+      {
+        "nom": "Gematsu",
+        "url": "https://www.gematsu.com/feed"
+      }
+    ],
+    "tags": {
+      "Sortie": [
+        "date de sortie",
+        "sortie",
+        "sort le",
+        "disponible",
+        "release date",
+        "launches",
+        "launch",
+        "out now",
+        "lancement",
+        "precommande*",
+        "pre-order*"
+      ],
+      "Annonce": [
+        "annonce*",
+        "announce*",
+        "devoile*",
+        "revealed",
+        "reveal",
+        "officialise*"
+      ],
+      "Trailer": [
+        "trailer",
+        "bande-annonce",
+        "bande annonce",
+        "teaser",
+        "gameplay"
+      ],
+      "Test": [
+        "test",
+        "review",
+        "critique",
+        "preview",
+        "on y a joue"
+      ],
+      "Mise à jour": [
+        "mise a jour",
+        "update",
+        "patch",
+        "DLC",
+        "extension",
+        "saison"
+      ],
+      "Nintendo": [
+        "nintendo",
+        "switch",
+        "zelda",
+        "mario",
+        "pokemon",
+        "metroid",
+        "kirby",
+        "smash"
+      ],
+      "PlayStation": [
+        "playstation",
+        "PS5",
+        "PS6",
+        "PS Plus",
+        "sony"
+      ],
+      "Xbox": [
+        "xbox",
+        "game pass",
+        "microsoft"
+      ],
+      "PC": [
+        "PC",
+        "steam",
+        "epic games"
+      ],
+      "Gratuit & promos": [
+        "gratuit*",
+        "free",
+        "offert*",
+        "promo*",
+        "soldes",
+        "reduction",
+        "deal*",
+        "bon plan"
+      ],
+      "Mobile": [
+        "mobile",
+        "iOS",
+        "android",
+        "smartphone"
+      ]
+    }
+  },
   "cyber": {
     "nom": "Cyber & info",
     "sources": [

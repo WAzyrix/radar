@@ -81,7 +81,7 @@
   bottom: calc(12px + env(safe-area-inset-bottom));
   z-index: 50;
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(6, 1fr);
   padding: 8px;
   border-radius: var(--r-l);
   background: rgba(22, 22, 30, 0.72);
@@ -90,7 +90,7 @@
   border: 1px solid var(--bordure);
   box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
 }
-.onglets a { display: grid; justify-items: center; gap: 2px; padding: 6px 0; border-radius: var(--r-m); font-size: 0.68rem; font-weight: 500; color: var(--texte-3); transition: color var(--transition); }
+.onglets a { display: grid; justify-items: center; gap: 2px; padding: 6px 0; border-radius: var(--r-m); font-size: 0.64rem; font-weight: 500; color: var(--texte-3); transition: color var(--transition); }
 .onglets a.actif { color: var(--texte); background: var(--surface); }
 .onglets svg { width: 22px; height: 22px; }
 

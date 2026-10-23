@@ -10,6 +10,7 @@ import { ICONES } from './icones.js';
 const PAGES = [
   { id: 'accueil', nom: 'Accueil', lien: './', icone: 'accueil' },
   { id: 'animes', nom: 'Animés', lien: 'animes.html', icone: 'anime' },
+  { id: 'jeux', nom: 'Jeux', lien: 'actus.html?cat=jeux', icone: 'manette' },
   { id: 'cinema', nom: 'Films', lien: 'actus.html?cat=cinema', icone: 'film' },
   { id: 'cyber', nom: 'Cyber', lien: 'actus.html?cat=cyber', icone: 'cyber' },
   { id: 'monde', nom: 'Actu', lien: 'actus.html?cat=monde', icone: 'monde' },
