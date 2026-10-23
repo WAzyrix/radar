@@ -21,6 +21,8 @@ const HEURE = 3600_000;
 const BUDGET_REQUETES = 40; // on garde une marge sous la limite de 50
 const RECHECK = 6 * HEURE;
 const RAFRAICHIR_DERNIERE = 6 * HEURE;
+const RESERVE_AUTRES = 10; // requêtes gardées pour ADN, mangas, séries et films
+const FENETRE_MAX = 3 * 24 * HEURE; // épisodes cherchés au plus 3 jours en arrière
 
 // Date et heure à Paris (pour les notifs "sort demain", envoyées le matin)
 function parisAujourdhui(decalageJours = 0) {
@@ -59,8 +61,9 @@ export async function verifier(env) {
   }
   if (!personnes.length) return { personnes: 0 };
 
-  // 2. Animés : une seule requête AniList pour tout le monde
-  await verifierAnimes(env, personnes, compter);
+  // 2. Animés : requêtes AniList groupées (50 œuvres par requête) pour tout le monde.
+  //    false si AniList est en panne : on rattrapera au prochain passage.
+  const animesComplets = await verifierAnimes(env, personnes, compter, budget);
   // 3. ADN (VOSTFR / VF), un seul petit fichier pour tout le monde
   await verifierAdn(env, personnes, compter);
   // 4. Jeux : rien à télécharger, la date de sortie est dans la liste
@@ -86,8 +89,9 @@ export async function verifier(env) {
     // Quota KV gratuit : 1000 écritures/jour. On n'écrit l'état que s'il a changé.
     // "derniere" (date du dernier passage) n'est rafraîchie que toutes les 6 h : entre-temps,
     // les nouveautés déjà envoyées sont reconnues grâce à "vus" (pas de doublon).
+    // AniList en panne pendant ce passage : on ne l'avance pas, le suivant rattrapera.
     const derniere = p.etat.derniere;
-    p.etat.derniere = maintenant - derniere >= RAFRAICHIR_DERNIERE ? maintenant : derniere;
+    if (animesComplets && maintenant - derniere >= RAFRAICHIR_DERNIERE) p.etat.derniere = maintenant;
     const texte = JSON.stringify(p.etat);
     if (texte !== p.etatTexte) {
       await env.RADAR_KV.put(`etat:${p.code}`, texte);
@@ -103,7 +107,7 @@ export async function verifier(env) {
 //   - les suites découvertes depuis par le relais (etat.franchise[id]).
 // On surveille les épisodes de TOUTES ces œuvres, et on cherche de nouvelles suites
 // sur chacune d'elles : la saison 3 de Frieren est une suite de la saison 2, pas de la 1.
-async function verifierAnimes(env, personnes, compter) {
+async function verifierAnimes(env, personnes, compter, budget) {
   // Œuvres à surveiller pour chaque personne : id suivi -> ensemble des id de la franchise
   for (const p of personnes) {
     p.etat.franchise ??= {};
@@ -115,33 +119,51 @@ async function verifierAnimes(env, personnes, compter) {
       p.franchises.set(anime.id, connues);
     }
   }
-  const ids = [...new Set(personnes.flatMap((p) => [...p.franchises.values()].flatMap((f) => [...f])))].slice(0, 50);
-  if (!ids.length || !compter()) return;
-  const depuis = Math.floor(Math.min(...personnes.map((p) => p.etat.derniere)) / 1000);
+  const ids = [...new Set(personnes.flatMap((p) => [...p.franchises.values()].flatMap((f) => [...f])))].sort((a, b) => a - b);
+  if (!ids.length) return true;
 
-  const reponse = await fetch('https://graphql.anilist.co', {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
-    body: JSON.stringify({
-      query: `query($ids:[Int], $a:Int, $b:Int){
-        sorties: Page(perPage:50){ airingSchedules(mediaId_in:$ids, airingAt_greater:$a, airingAt_lesser:$b){ mediaId episode airingAt } }
-        medias: Page(perPage:50){ media(id_in:$ids){ id title{romaji english} relations{ edges{ relationType node{ id type title{romaji english} } } } } }
-      }`,
-      variables: { ids, a: depuis, b: Math.floor(Date.now() / 1000) },
-    }),
-  });
-  if (!reponse.ok) return;
-  const { data } = await reponse.json();
-  const medias = new Map(data.medias.media.map((m) => [m.id, m]));
+  // AniList renvoie 50 résultats au plus par page : on découpe les œuvres en lots de 50.
+  // Si le budget ne permet pas de tous les lire, on fait TOURNER le lot de départ d'une
+  // heure à l'autre : chaque lot est relu au moins toutes les "rotation" heures.
+  const lots = [];
+  for (let i = 0; i < ids.length; i += 50) lots.push(ids.slice(i, i + 50));
+  const lotsParPassage = Math.max(1, budget.reste - RESERVE_AUTRES);
+  const rotation = Math.ceil(lots.length / lotsParPassage); // en heures (1 si tout tient)
+  const maintenant = Date.now();
+  const depart = Math.floor(maintenant / HEURE) % lots.length;
+
+  // Fenêtre de recherche : depuis le dernier passage de chacun, et au moins une rotation
+  // complète (+ 6 h, délai de rafraîchissement de "derniere"), au plus 3 jours.
+  // Les épisodes déjà notifiés sont reconnus grâce à "vus" (mémoire de 30 jours).
+  const borne = (p) => Math.max(Math.min(p.etat.derniere, maintenant - (rotation * HEURE + RAFRAICHIR_DERNIERE)), maintenant - FENETRE_MAX);
+  const depuis = Math.floor(Math.min(...personnes.map(borne)) / 1000);
+
+  const sorties = [];
+  const medias = new Map();
+  let panne = false;
+  for (let n = 0; n < lots.length && !panne; n++) {
+    const lot = lots[(depart + n) % lots.length];
+    let lu = true;
+    for (let page = 1; ; page++) {
+      if (budget.reste <= RESERVE_AUTRES || !compter()) { lu = false; break; }
+      const data = await requeteAnilist(lot, depuis, page);
+      if (!data) { panne = true; break; }
+      sorties.push(...data.sorties.airingSchedules);
+      if (page === 1) for (const m of data.medias.media) medias.set(m.id, m);
+      if (!data.sorties.pageInfo.hasNextPage) break;
+    }
+    if (!lu) break; // budget épuisé : les lots suivants passeront aux prochaines heures
+  }
   const nom = (m) => m?.title.english || m?.title.romaji;
 
   for (const p of personnes) {
+    const debutFenetre = borne(p);
     for (const [idSuivi, franchise] of p.franchises) {
       const anime = p.items.find((i) => i.type === 'anime' && i.id === idSuivi);
 
-      // Épisodes diffusés depuis MON dernier passage, sur n'importe quelle saison
-      for (const s of data.sorties.airingSchedules) {
-        if (!franchise.has(s.mediaId) || s.airingAt * 1000 <= p.etat.derniere) continue;
+      // Épisodes diffusés dans la fenêtre, sur n'importe quelle saison ("vus" évite les doublons)
+      for (const s of sorties) {
+        if (!franchise.has(s.mediaId) || s.airingAt * 1000 <= debutFenetre) continue;
         p.notifs.push({
           cle: `ep:${s.mediaId}:${s.episode}`, categorie: 'episode',
           titre: `${nom(medias.get(s.mediaId)) || anime.titre} : épisode ${s.episode}`,
@@ -168,10 +190,35 @@ async function verifierAnimes(env, personnes, compter) {
           });
         }
       }
-      p.etat.franchise[idSuivi] = [...franchise];
+      // Franchise réellement vérifiée (au moins une œuvre reçue) : on la mémorise.
+      // Sinon (lot sauté), la "première fois" reste à faire : pas de fausses "suites annoncées".
+      if ([...franchise].some((id) => medias.has(id))) p.etat.franchise[idSuivi] = [...franchise];
     }
     delete p.etat.suites; // remplacé par etat.franchise
   }
+  // Une panne d'AniList empêche de faire avancer la date du dernier passage
+  // (le budget épuisé, lui, est couvert par la rotation et la fenêtre de recherche)
+  return !panne;
+}
+
+// Une page d'épisodes diffusés + les fiches (suites) d'un lot de 50 œuvres. null si AniList échoue.
+async function requeteAnilist(ids, depuis, page) {
+  const reponse = await fetch('https://graphql.anilist.co', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+    signal: AbortSignal.timeout(10_000),
+    body: JSON.stringify({
+      query: `query($ids:[Int], $a:Int, $b:Int, $page:Int){
+        sorties: Page(page:$page, perPage:50){ pageInfo{ hasNextPage }
+          airingSchedules(mediaId_in:$ids, airingAt_greater:$a, airingAt_lesser:$b){ mediaId episode airingAt } }
+        medias: Page(perPage:50){ media(id_in:$ids){ id title{romaji english} relations{ edges{ relationType node{ id type title{romaji english} } } } } }
+      }`,
+      variables: { ids, a: depuis, b: Math.floor(Date.now() / 1000), page },
+    }),
+  }).catch(() => null);
+  if (!reponse?.ok) return null;
+  const { data } = await reponse.json().catch(() => ({}));
+  return data?.sorties && data?.medias ? data : null;
 }
 
 // ---------- ADN : sorties VOSTFR / VF ----------
