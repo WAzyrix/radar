@@ -32,17 +32,18 @@ export async function verifier(env) {
   const budget = { reste: BUDGET_REQUETES };
   const compter = () => { budget.reste -= 1; return budget.reste >= 0; };
 
-  // 1. Qui est abonné ?
-  const cles = (await env.RADAR_KV.list({ prefix: 'abo:' })).keys;
+  // 1. Toutes les personnes qui ont une liste (notifs push activées ou non :
+  //    sans push, les nouveautés vont quand même dans la cloche du site)
+  const cles = (await env.RADAR_KV.list({ prefix: 'liste:' })).keys;
   const personnes = [];
   for (const { name } of cles) {
-    const code = name.slice(4);
+    const code = name.slice(6);
     const [abo, liste, etat] = await Promise.all([
-      env.RADAR_KV.get(name, 'json'),
+      env.RADAR_KV.get(`abo:${code}`, 'json'),
       lireListe(env, code),
       env.RADAR_KV.get(`etat:${code}`, 'json'),
     ]);
-    if (abo?.abonnements?.length) {
+    if (liste.items.length) {
       personnes.push({ code, abo, items: liste.items, etat: etat || { derniere: Date.now() - HEURE, vus: {}, franchise: {}, manga: {}, tmdb: {} }, notifs: [] });
     }
   }
@@ -61,7 +62,7 @@ export async function verifier(env) {
   // 6. Envoi, en respectant les préférences de chacun
   let envoyees = 0;
   for (const p of personnes) {
-    const prefs = p.abo.prefs || {};
+    const prefs = p.abo?.prefs || {};
     const deja = new Set(p.etat.vus ? Object.keys(p.etat.vus) : []);
     const nouvelles = p.notifs.filter((n) => prefs[n.categorie] !== false && !deja.has(n.cle));
     envoyees += await notifier(env, p.code, nouvelles.map(({ cle, categorie, ...n }) => n), p.abo);

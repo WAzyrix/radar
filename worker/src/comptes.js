@@ -9,7 +9,7 @@
 //   liste:<code>    { maj, items: [...] }            la watchlist
 //   abo:<code>      { abonnements: [...], prefs }    appareils abonnés aux notifs
 //   etat:<code>     ce que la vérification horaire a déjà vu (pour ne rien envoyer 2 fois)
-//   histo:<code>    les 30 dernières notifications envoyées
+//   histo:<code>    les 50 dernières notifications (la cloche du site)
 // =========================================================
 import { envoyerPush } from './push.js';
 
@@ -18,6 +18,7 @@ export const codeValide = (code) => /^[a-f0-9]{32}$/.test(code || '');
 const TYPES = ['anime', 'manga', 'film', 'serie', 'jeu'];
 export const PREFS_DEFAUT = { episode: true, vostfr: true, suite: true, manga: true, serie: true, film: true, jeu: true };
 const MAX_APPAREILS = 10;
+const MAX_CLOCHE = 50; // notifications gardées dans la cloche
 
 const lire = async (env, cle, defaut) => (await env.RADAR_KV.get(cle, 'json')) ?? defaut;
 const ecrire = (env, cle, valeur) => env.RADAR_KV.put(cle, JSON.stringify(valeur));
@@ -92,6 +93,13 @@ export const lireHistorique = (env, code) => lire(env, `histo:${code}`, []);
  */
 export async function notifier(env, code, notifs, abo) {
   if (!notifs.length) return 0;
+
+  // 1. Toujours : dans la cloche du site (même sans notifications push)
+  const histo = await lireHistorique(env, code);
+  const date = new Date().toISOString();
+  await ecrire(env, `histo:${code}`, [...notifs.map((n) => ({ ...n, id: crypto.randomUUID(), date, lu: false })), ...histo].slice(0, MAX_CLOCHE));
+
+  // 2. Si des appareils sont abonnés : notification push
   abo ??= await lire(env, `abo:${code}`, null);
   if (!abo?.abonnements.length) return 0;
 
@@ -115,11 +123,22 @@ export async function notifier(env, code, notifs, abo) {
     abo.abonnements = abo.abonnements.filter((a) => !expires.has(a.endpoint));
     await ecrire(env, `abo:${code}`, abo);
   }
-
-  const histo = await lireHistorique(env, code);
-  const date = new Date().toISOString();
-  await ecrire(env, `histo:${code}`, [...notifs.map((n) => ({ ...n, date })), ...histo].slice(0, 30));
   return aEnvoyer.length;
+}
+
+// ---------- Cloche : effacer, marquer comme lues ----------
+/** Efface certaines notifications (ids) ou toutes (ids absent). */
+export async function effacerHistorique(env, code, { ids } = {}) {
+  const histo = await lireHistorique(env, code);
+  const restantes = Array.isArray(ids) ? histo.filter((n) => !ids.includes(n.id)) : [];
+  await ecrire(env, `histo:${code}`, restantes);
+  return { ok: true, restantes: restantes.length };
+}
+
+export async function marquerLues(env, code) {
+  const histo = await lireHistorique(env, code);
+  if (histo.some((n) => !n.lu)) await ecrire(env, `histo:${code}`, histo.map((n) => ({ ...n, lu: true })));
+  return { ok: true };
 }
 
 export async function notifTest(env, code) {

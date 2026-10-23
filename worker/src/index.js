@@ -14,14 +14,15 @@
 //   GET    /abo/:code      PUT /abo/:code  DELETE /abo/:code   abonnement aux notifs
 //   PUT    /prefs/:code                               types de notifications voulus
 //   POST   /test/:code                                notification de test
-//   GET    /historique/:code                          dernières notifications
+//   GET    /historique/:code                          la cloche (50 dernières notifications)
+//   PUT    /historique/:code     DELETE /historique/:code   tout marquer lu / effacer (tout ou { ids })
 //   POST   /recommander                               recommander à un pote (compte Supabase)
 // Tâche planifiée (toutes les heures) : verification.js
 // =========================================================
 import { filtrer, listeJeux, ficheJeu, hasard, genres } from './jeux.js';
 import { rechercheTmdb } from './tmdb.js';
 import {
-  codeValide, lireListe, ecrireListe, abonner, desabonner, lireAbonnement, changerPrefs, notifTest, lireHistorique, Erreur400,
+  codeValide, lireListe, ecrireListe, abonner, desabonner, lireAbonnement, changerPrefs, notifTest, lireHistorique, effacerHistorique, marquerLues, Erreur400,
 } from './comptes.js';
 import { verifier } from './verification.js';
 import { recommander } from './recommandations.js';
@@ -94,6 +95,8 @@ async function router(requete, env) {
     if (route === 'PUT prefs') return { donnees: await changerPrefs(env, code, corps) };
     if (route === 'POST test') return { donnees: await notifTest(env, code) };
     if (route === 'GET historique') return { donnees: await lireHistorique(env, code) };
+    if (route === 'DELETE historique') return { donnees: await effacerHistorique(env, code, corps) };
+    if (route === 'PUT historique') return { donnees: await marquerLues(env, code) };
   }
 
   const erreur = new Error('Route inconnue');

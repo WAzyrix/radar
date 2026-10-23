@@ -178,7 +178,7 @@ async function afficherNotifs(message = '') {
 
   // Notifications actives : préférences, test, historique
   carte.innerHTML = `${info}<p>Notifications <b>actives</b> sur cet appareil.</p><div class="squelette" style="height:120px;margin-top:14px"></div>`;
-  const [{ prefs, appareils }, histo] = await Promise.all([notifs.lirePrefs(), notifs.historique().catch(() => [])]);
+  const { prefs, appareils } = await notifs.lirePrefs();
   carte.innerHTML = `
     ${info}
     <p>Notifications <b>actives</b> sur cet appareil${appareils > 1 ? ` (et ${appareils - 1} autre${appareils > 2 ? 's' : ''})` : ''}. Choisis ce que tu veux recevoir :</p>
@@ -189,8 +189,7 @@ async function afficherNotifs(message = '') {
       <button type="button" class="bouton bouton-verre bouton-petit" id="tester">${ICONES.info}Envoyer une notif de test</button>
       <button type="button" class="bouton bouton-verre bouton-petit" id="desactiver">Désactiver sur cet appareil</button>
     </div>
-    ${histo.length ? `<h3 style="margin-top:24px">Dernières notifications</h3><ul class="historique">${histo.slice(0, 10).map((n) => `
-      <li><a href="${echapper(n.url || '#')}"><b>${echapper(n.titre)}</b><span>${echapper(n.corps || '')} · ${ilYa(n.date)}</span></a></li>`).join('')}</ul>` : ''}`;
+    <p class="mention">Toutes tes notifications sont aussi dans la cloche 🔔 en haut du site.</p>`;
 
   carte.querySelector('.prefs').addEventListener('change', async () => {
     const nouvelles = Object.fromEntries([...carte.querySelectorAll('[data-pref]')].map((c) => [c.dataset.pref, c.checked]));

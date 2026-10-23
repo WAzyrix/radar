@@ -12,6 +12,7 @@ import { ICONES } from './icones.js';
 import { synchroniser } from '../lib/ma-liste.js';
 import { completerAdn } from '../lib/completer-adn.js';
 import { SUPABASE_URL } from '../config.js';
+import { monterCloche } from './cloche.js';
 
 const PAGES = [
   // Sur PC, le logo ramène à l'accueil : pas besoin du lien (place pour "Potes")
@@ -43,6 +44,8 @@ export function afficherNavigation(pageActive) {
   document.body.insertAdjacentHTML('beforeend', `<nav class="onglets" aria-label="Navigation">${PAGES.filter((p) => p.mobile !== false).map((p) => lien(p, true)).join('')}</nav>`);
 
   brancherRecherche();
+  // La cloche, à droite de la recherche (seulement si le relais est en place)
+  if (relaisConfigure()) monterCloche(document.querySelector('.nav'));
 
   // Récupère "Ma liste" depuis mes autres appareils (si elle a changé là-bas)
   // puis retrouve la série ADN des animés suivis qui n'en ont pas encore (notifs VOSTFR/VF)
