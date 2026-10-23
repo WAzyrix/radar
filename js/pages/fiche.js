@@ -3,11 +3,14 @@
 // =========================================================
 import { ficheAnime } from '../api/animes.js';
 import { echapper, titre, note, nettoyerSynopsis, compteARebours, formatDate } from '../lib/outils.js';
+
+const formatJourHeure = new Intl.DateTimeFormat('fr-FR', { weekday: 'long', day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' });
 import { GENRES_FR, STATUTS_FR, FORMATS_FR, RELATIONS_FR } from '../lib/traductions.js';
 import { estSuivi, basculerSuivi } from '../lib/suivis.js';
 import { afficherNavigation } from '../ui/nav.js';
 import { appliquerAccent } from '../ui/accent.js';
-import { carteAffiche } from '../ui/cartes.js';
+import { carteAffiche, badgesLangues } from '../ui/cartes.js';
+import { chargerAdn, trouverSerie, numeroSaison, prochaineSortie, derniereSortie } from '../api/adn.js';
 import { brancherBoutonHasard } from '../ui/hasard.js';
 import { ICONES } from '../ui/icones.js';
 
@@ -39,7 +42,47 @@ function boutonSuivre(suivi) {
   return suivi ? `${ICONES.check}Suivi` : `${ICONES.plus}Suivre`;
 }
 
-function afficherFiche(m) {
+// Carte "Où le regarder en France" : ADN (langues par saison) + autres plateformes connues d'AniList
+function carteOuRegarder(m, adn) {
+  const serie = trouverSerie(adn, m);
+  let contenu;
+  if (serie) {
+    const prochain = prochaineSortie(adn, serie);
+    // Animé en cours : la saison qu'ADN diffuse en ce moment est forcément celle de cette fiche.
+    // Sinon, on devine le numéro d'après le titre ("Season 2", "2nd Season"…).
+    const enCours = m.status === 'RELEASING' && (prochain || derniereSortie(adn, serie));
+    const saisonCourante = enCours ? String(enCours.saison) : String(numeroSaison(m));
+    const saisons = Object.entries(serie.saisons).sort((a, b) => Number(a[0]) - Number(b[0]));
+    contenu = `
+      <p>Sur <a class="lien-discret" href="${serie.url}" target="_blank" rel="noopener">ADN</a> (${echapper(serie.titre)}) :</p>
+      <div class="dispo-saisons">
+        ${saisons.map(([num, langues]) => `
+          <div class="dispo-saison ${num === saisonCourante ? 'courante' : ''}">
+            <span>Saison ${num}</span>${badgesLangues(langues)}
+            ${num === saisonCourante ? '<small>cette fiche</small>' : ''}
+          </div>`).join('') || `<div class="dispo-saison"><span>Langues</span>${badgesLangues(serie.langues)}</div>`}
+      </div>
+      ${prochain ? `<div class="prochain">${ICONES.drapeauFR}<span>Prochain épisode sur ADN : <b>ép. ${echapper(prochain.episode)}</b>, ${formatJourHeure.format(new Date(prochain.date))}</span>${badgesLangues(prochain.langues)}</div>` : ''}`;
+  } else {
+    contenu = "<p class=\"mention\" style=\"margin-top:0\">Pas trouvé dans le catalogue d'ADN (ou sous un titre différent).</p>";
+  }
+
+  // Autres plateformes listées par AniList (dans le monde : pas forcément dispo en France)
+  const vus = new Set();
+  const autres = (m.externalLinks || [])
+    .filter((l) => l.type === 'STREAMING' && l.site !== 'YouTube' && !vus.has(l.site) && vus.add(l.site))
+    .map((l) => `<a class="pastille" href="${echapper(l.url)}" target="_blank" rel="noopener">${echapper(l.site)}</a>`).join('');
+
+  return `
+    <div class="carte carte-large">
+      <h2>Où le regarder en France</h2>
+      ${contenu}
+      ${autres ? `<p class="mention">Aussi référencé sur (selon les pays, langues non précisées) :</p><div class="plateformes">${autres}</div>` : ''}
+      <p class="mention">${ICONES.drapeauJP} VOSTFR = audio japonais sous-titré · ${ICONES.drapeauFR} VF = doublage français. Les langues viennent du catalogue ADN ; Crunchyroll ne publie pas ces infos.</p>
+    </div>`;
+}
+
+function afficherFiche(m, adn) {
   document.title = `${titre(m)} · Radar`;
   appliquerAccent(m.coverImage.color);
 
@@ -115,6 +158,7 @@ function afficherFiche(m) {
         </dl>
         <p class="mention"><a class="lien-discret" href="${m.siteUrl}" target="_blank" rel="noopener">Voir sur AniList</a></p>
       </div>
+      ${estManga ? '' : carteOuRegarder(m, adn)}
     </div>
 
     ${relations.length ? `
@@ -168,4 +212,4 @@ function afficherErreurFiche(message) {
 }
 
 if (!id) afficherErreurFiche("Aucun animé n'est indiqué dans l'adresse.");
-else ficheAnime(id).then(afficherFiche).catch((erreur) => afficherErreurFiche(erreur.message));
+else Promise.all([ficheAnime(id), chargerAdn()]).then(([m, adn]) => afficherFiche(m, adn)).catch((erreur) => afficherErreurFiche(erreur.message));

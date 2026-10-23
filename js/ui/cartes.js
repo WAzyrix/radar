@@ -26,20 +26,42 @@ export function carteAffiche(media, { sous, etiquette = '' } = {}) {
 
 export const sousTitreGenres = (media) => (media.genres || []).slice(0, 2).map((g) => GENRES_FR[g] || g).join(' · ');
 
-// Épisode du calendrier. `suivi` = mis en valeur si l'animé est dans mes suivis.
-export function carteEpisode(e, { suivi = false } = {}) {
+// Badge de langue avec le drapeau de la langue AUDIO : VOSTFR = japonais sous-titré, VF = français
+const LANGUES = {
+  vostf: { drapeau: 'drapeauJP', nom: 'VOSTFR', titre: 'Audio japonais, sous-titres français' },
+  vf: { drapeau: 'drapeauFR', nom: 'VF', titre: 'Version française (doublage)' },
+};
+export function badgesLangues(langues) {
+  return ['vostf', 'vf'].filter((l) => langues.includes(l))
+    .map((l) => `<span class="langue" title="${LANGUES[l].titre}">${ICONES[LANGUES[l].drapeau]}${LANGUES[l].nom}</span>`).join('');
+}
+
+// Une ligne d'horaire : point coloré (diffusé / bientôt / à venir) + libellé
+function horaire(timestamp, libelle) {
   const maintenant = Date.now() / 1000;
-  const sorti = e.airingAt <= maintenant;
-  const bientot = !sorti && e.airingAt - maintenant < 3 * 3600;
-  const heure = formatHeure.format(e.airingAt * 1000);
+  const sorti = timestamp <= maintenant;
+  const bientot = !sorti && timestamp - maintenant < 3 * 3600;
+  return `<span class="etat ${sorti ? 'sorti' : bientot ? 'bientot' : ''}">${libelle} ${formatHeure.format(timestamp * 1000)}</span>`;
+}
+
+// Épisode du calendrier.
+// `suivi` = mis en valeur si l'animé est dans mes suivis ;
+// `adn`   = sortie française de l'épisode sur ADN, si on l'a trouvée.
+export function carteEpisode(e, { suivi = false, adn } = {}) {
   const total = e.media.episodes ? ` / ${e.media.episodes}` : '';
+  const ligneAdn = adn
+    ? `<span class="horaire-fr">${horaire(new Date(adn.date) / 1000, `${ICONES.drapeauFR} ADN`)}${badgesLangues(adn.langues)}</span>`
+    : '';
   return `
     <a class="episode ${suivi ? 'suivi' : ''}" href="anime.html?id=${e.media.id}">
       <img src="${e.media.coverImage.large}" alt="" loading="lazy" style="--couleur:${e.media.coverImage.color || '#1a1a24'}">
       <div class="episode-infos">
         <div class="episode-titre">${echapper(titre(e.media))}</div>
         <div class="episode-ep">Épisode ${e.episode}${total}</div>
-        <span class="etat ${sorti ? 'sorti' : bientot ? 'bientot' : ''}">${sorti ? `Diffusé à ${heure}` : `À ${heure}`}</span>
+        <div class="horaires">
+          ${horaire(e.airingAt, `${ICONES.drapeauJP} TV Japon`)}
+          ${ligneAdn}
+        </div>
       </div>
       ${suivi ? `<span class="badge-suivi" title="Tu suis cet animé">${ICONES.coeur}</span>` : ''}
     </a>`;

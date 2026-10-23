@@ -33,6 +33,11 @@ jobs:
       - name: Collecter les actus
         run: python3 scripts/collecte.py
 
+      # Si ADN est en panne, on garde l'ancien fichier et on continue
+      - name: Collecter les sorties ADN (VOSTFR/VF)
+        run: python3 scripts/collecte_adn.py
+        continue-on-error: true
+
       - name: Enregistrer les JSON s'ils ont changé
         run: |
           git config user.name "radar-bot"

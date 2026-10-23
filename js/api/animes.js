@@ -49,7 +49,7 @@ export async function calendrierDuJour(decalage) {
     const data = await anilist(`query($page:Int, $a:Int, $b:Int){ Page(page:$page, perPage:50){
       pageInfo{ hasNextPage }
       airingSchedules(airingAt_greater:$a, airingAt_lesser:$b, sort:TIME){
-        episode airingAt media{ id isAdult popularity episodes title{romaji english} coverImage{large color} } } } }`,
+        episode airingAt media{ id isAdult popularity episodes title{romaji english native} synonyms coverImage{large color} } } } }`,
     { page, a: Math.floor(debut / 1000) - 1, b: Math.floor(fin / 1000) }, { duree: 15 * MINUTE });
 
     episodes.push(...data.Page.airingSchedules);
@@ -64,7 +64,8 @@ export async function ficheAnime(id) {
   const data = await anilist(`query($id:Int){ Media(id:$id){
     id type format status episodes chapters volumes duration season seasonYear averageScore popularity genres siteUrl
     description bannerImage coverImage{extraLarge color}
-    title{romaji english native}
+    title{romaji english native} synonyms
+    externalLinks{ site url type }
     startDate{year month day}
     studios(isMain:true){ nodes{ name } }
     nextAiringEpisode{ episode airingAt }

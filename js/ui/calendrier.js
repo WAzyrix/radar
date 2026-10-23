@@ -3,6 +3,7 @@
 // Une rangée de "jours" cliquables + la liste des épisodes du jour choisi.
 // =========================================================
 import { calendrierDuJour } from '../api/animes.js';
+import { chargerAdn, trouverSerie, sortieEpisode } from '../api/adn.js';
 import { formatJour, premiereMajuscule, afficherErreur } from '../lib/outils.js';
 import { idsSuivis } from '../lib/suivis.js';
 import { carteEpisode, squelettesEpisodes } from './cartes.js';
@@ -41,7 +42,8 @@ export function monterCalendrier(jours, zone, { seulementPopulaires = false, fil
     const decalage = decalageActif;
     zone.innerHTML = squelettesEpisodes();
     try {
-      let episodes = await calendrierDuJour(decalage);
+      // Les deux en parallèle : épisodes AniList + sorties françaises ADN
+      let [episodes, adn] = await Promise.all([calendrierDuJour(decalage), chargerAdn()]);
       if (decalage !== decalageActif) return; // un autre jour a été cliqué entre-temps
 
       const suivis = new Set(idsSuivis());
@@ -52,7 +54,10 @@ export function monterCalendrier(jours, zone, { seulementPopulaires = false, fil
         zone.innerHTML = `<div class="vide"><strong>Aucun épisode</strong>${filtreSuivis?.checked ? 'Aucun de tes animés suivis ne sort ce jour-là.' : 'Rien de prévu ce jour-là.'}</div>`;
         return;
       }
-      zone.innerHTML = episodes.map((e) => carteEpisode(e, { suivi: suivis.has(e.media.id) })).join('');
+      zone.innerHTML = episodes.map((e) => carteEpisode(e, {
+        suivi: suivis.has(e.media.id),
+        adn: adn && sortieEpisode(adn, trouverSerie(adn, e.media), e.episode, e.airingAt),
+      })).join('');
 
       // Aujourd'hui : on amène le prochain épisode à venir en vue (dans un carrousel)
       if (decalage === 0 && zone.classList.contains('carrousel')) {
@@ -69,4 +74,4 @@ export function monterCalendrier(jours, zone, { seulementPopulaires = false, fil
 }
 
 // Texte d'explication sur les heures (affiché sous les calendriers)
-export const NOTE_HEURES = "Heure de diffusion TV au Japon, convertie à ton heure. La VOSTFR (Crunchyroll, ADN, sites de streaming…) arrive en général un peu plus tard.";
+export const NOTE_HEURES = "« TV Japon » : diffusion au Japon, convertie à ton heure. « ADN » : sortie en France sur ADN (VOSTFR/VF), quand l'animé y est. Crunchyroll ne publie pas ses horaires : ses simulcasts sortent en général dans les heures qui suivent le Japon.";
