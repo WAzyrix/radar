@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-23T13:33:05+00:00",
+ "maj": "2026-10-23T13:48:15+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,14 +22,98 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "683cc2be469a",
+   "titre": "Élections en Israël : \"J’ai tué beaucoup de terroristes, mais ça ne m’a pas fait me sentir mieux\"",
+   "lien": "https://www.france24.com/fr/moyen-orient/20261023-elections-en-israel-j-ai-tue-beaucoup-de-terroristes-mais-%C3%A7a-ne-m-a-pas-fait-me-sentir-mieux",
+   "source": "France 24",
+   "date": "2026-10-23T13:47:37+00:00",
+   "extrait": "Après trois ans de guerre, le nombre de soldats israéliens atteints de troubles de stress post-traumatique explose. Débordés, les psychologues et psychiatres s’inquiètent pour la santé mentale du…",
+   "tags": [
+    "Politique",
+    "Conflits",
+    "Santé"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "83d4f0b95780",
+   "titre": "Tirs mortels à Trappes : le maire dénonce \"un attentat à connotation raciste\"",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261023-tirs-mortels-%C3%A0-trappes-le-maire-d%C3%A9nonce-un-attentat-%C3%A0-connotation-raciste",
+   "source": "France 24",
+   "date": "2026-10-23T13:45:52+00:00",
+   "extrait": "Il avait \"manifestement\" envie de \"faire un carnage\" et est soupçonné d'avoir voulu s'en prendre à des personnes issues de l'immigration : un homme a tiré en rafale vendredi depuis une voiture à…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "158f22d49ac3",
+   "titre": "Tirs mortels à Trappes : \"C'est clairement un crime terroriste\", affirme le ministre de l'Intérieur",
+   "lien": "https://www.franceinfo.fr/faits-divers/direct-coups-de-feu-dans-les-yvelines-le-parquet-national-antiterroriste-se-place-en-observation-annonce-sebastien-lecornu_8250646.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-23T13:41:13+00:00",
+   "extrait": "Le Parquet national antiterroriste s'est saisi, après qu'un homme a ouvert le feu à Trappes et à la Verrière dans les Yvelines, faisant un mort et quatre blessés.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "e2cde3309176",
+   "titre": "Gunmen kill at least 7 in attack on Jordan church, authorities say",
+   "lien": "https://www.cbsnews.com/news/jordan-shooting-greek-orthodox-church-karak/",
+   "source": "CBS News",
+   "date": "2026-10-23T13:39:27+00:00",
+   "extrait": "Authorities in Jordan say gunmen opened fire inside a church in Jordan.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "45f546718dbb",
    "titre": "Seven shot dead by gunmen at church funeral in Jordan, state media say",
    "lien": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-10-23T13:30:15+00:00",
+   "date": "2026-10-23T13:37:20+00:00",
    "extrait": "Another 10 people are injured in the southern Karak governorate, and a manhunt is now under way.",
    "tags": [],
    "zone": "monde"
+  },
+  {
+   "id": "46146144d8e2",
+   "titre": "France : un mort et des blessés dans des tirs en rafales, le parquet antiterroriste saisi",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261023-france-un-mort-et-des-bless%C3%A9s-dans-des-tirs-en-rafales-le-parquet-antiterroriste-saisi",
+   "source": "France 24",
+   "date": "2026-10-23T13:35:12+00:00",
+   "extrait": "Il avait \"manifestement\" envie de \"faire un carnage\" et est soupçonné d'avoir voulu s'en prendre à des personnes issues de l'immigration : un homme a tiré en rafales vendredi depuis une voiture à…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "9bacc0e235cf",
+   "titre": "Manifestations du 24 octobre : les organisations lycéennes sont arrivées à l'Elysée pour un échange avec Emmanuel Macron",
+   "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-manifestations-du-24-octobre-emmanuel-macron-preside-un-conseil-de-defense-a-9-heures-avant-de-recevoir-les-lyceens-dans-l-apres-midi_8250124.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-23T13:34:43+00:00",
+   "extrait": "Le président de la République a voulu les recevoir pour \"écouter leurs revendications et inquiétudes\", a déclaré la présidence.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "c8b61e44f2b3",
+   "titre": "Kushner pushes back on report involving phone, spies, transfer",
+   "lien": "https://www.cbsnews.com/news/jared-kushner-pushes-back-report-hacked-phone-spies-transfer/",
+   "source": "CBS News",
+   "date": "2026-10-23T13:32:51+00:00",
+   "extrait": "An excerpt from an upcoming book claims Kushner had access to alleged Middle Eastern \"slush\" funds when he served as a senior White House adviser during the first Trump administration. Kushner and…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
   },
   {
    "id": "a7e2b90e445d",
@@ -38,6 +122,18 @@
    "source": "CBS News",
    "date": "2026-10-23T13:29:51+00:00",
    "extrait": "Israel's Netanyahu says he ordered the military to cordon off a major city in the occupied West Bank after an attack by Palestinian gunmen that killed two Israeli soldiers.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "350fd0695336",
+   "titre": "Deadly attack in West Bank prompts Israeli operation",
+   "lien": "https://www.cbsnews.com/video/deadly-attack-in-west-bank-prompts-israeli-operation/",
+   "source": "CBS News",
+   "date": "2026-10-23T13:27:51+00:00",
+   "extrait": "Two Israeli soldiers were allegedly killed in the West Bank by a pair of Palestinian men, according to Israel's military. Prime Minister Benjamin Netanyahu vowed a major military operation in…",
    "tags": [
     "Conflits"
    ],
@@ -240,18 +336,6 @@
    "extrait": "L'institut de prévisions prévoit \"des rafales atteignant 100 à 110 km/h dans les terres, et jusqu'à 130/140 km/h sur les zones littorales\" sur la Bretagne.",
    "tags": [
     "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "158f22d49ac3",
-   "titre": "Tirs mortels à Trappes : le ministre de l'Intérieur, Laurent Nunez, est arrivé sur place",
-   "lien": "https://www.franceinfo.fr/faits-divers/direct-coups-de-feu-dans-les-yvelines-le-parquet-national-antiterroriste-se-place-en-observation-annonce-sebastien-lecornu_8250646.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-23T12:37:00+00:00",
-   "extrait": "Le Parquet national antiterroriste a été saisi, après qu'un homme a ouvert le feu à Trappes et à la Verrière dans les Yvelines, faisant un mort et quatre blessés.",
-   "tags": [
-    "Politique"
    ],
    "zone": "france"
   },
@@ -537,6 +621,16 @@
    "zone": "monde"
   },
   {
+   "id": "e0debf2afd05",
+   "titre": "🔴 En direct : 70 000 policiers et gendarmes mobilisés samedi, annonce Laurent Nuñez",
+   "lien": "https://www.france24.com/fr/france/20261022-en-direct-france-macron-recoit-lyceens-rencontre-forces-de-l-ordre-lecornu-limoges-manifestations",
+   "source": "France 24",
+   "date": "2026-10-23T11:02:05+00:00",
+   "extrait": "",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
    "id": "9c464aa25357",
    "titre": "Ukraine says Starlink still restricted after Trump says limits lifted",
    "lien": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
@@ -573,18 +667,6 @@
     "Justice"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "9bacc0e235cf",
-   "titre": "Manifestations du 24 octobre : Laurent Nuñez annonce que 70 000 policiers et gendarmes seront mobilisés samedi",
-   "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-manifestations-du-24-octobre-emmanuel-macron-preside-un-conseil-de-defense-a-9-heures-avant-de-recevoir-les-lyceens-dans-l-apres-midi_8250124.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-23T10:58:03+00:00",
-   "extrait": "Le ministre de l'Intérieur a annoncé, vendredi, le dispositif du maintien de l'ordre du week-end, lors d'un point presse.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
   },
   {
    "id": "d4a03dd486a3",
@@ -1225,18 +1307,6 @@
    "zone": "monde"
   },
   {
-   "id": "e0debf2afd05",
-   "titre": "🔴 En direct : Emmanuel Macron s’entretient avec les forces de l’ordre et les lycéens ce vendredi",
-   "lien": "https://www.france24.com/fr/france/20261022-en-direct-france-macron-recoit-lyceens-rencontre-forces-de-l-ordre-lecornu-limoges-manifestations",
-   "source": "France 24",
-   "date": "2026-10-23T06:11:21+00:00",
-   "extrait": "",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
    "id": "1744674716b2",
    "titre": "\"C'est sans doute la semaine la plus répressive de l'histoire de la Ve République\", dénonce l'Association des avocats pénalistes",
    "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/c-est-sans-doute-la-semaine-la-plus-repressive-de-l-histoire-de-la-ve-republique-denonce-l-association-des-avocats-penalistes_8250220.html#xtor=RSS-3-[lestitres]",
@@ -1333,6 +1403,16 @@
    "source": "franceinfo",
    "date": "2026-10-23T04:42:36+00:00",
    "extrait": "De TikTok à Telegram, en passant par Discord et Signal, depuis le début de la semaine, la mobilisation de samedi s'organise sur les réseaux sociaux et les messageries en ligne.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "bcecd8c39954",
+   "titre": "Retour de flamme de la cigarette dans l’imaginaire de la « gen Z »",
+   "lien": "https://www.lemonde.fr/m-perso/article/2026/10/23/retour-de-flamme-de-la-cigarette-dans-l-imaginaire-de-la-gen-z_6798950_4497916.html",
+   "source": "Le Monde",
+   "date": "2026-10-23T04:00:15+00:00",
+   "extrait": "Notoirement nocive et bannie des espaces publics comme des écrans publicitaires, la cigarette traditionnelle revient pourtant par la fenêtre des réseaux sociaux, notamment chez la « gen Z », qui y…",
    "tags": [],
    "zone": "france"
   },
@@ -1588,6 +1668,19 @@
    "extrait": "CBS News' Camilo Montoya-Galvez breaks down how ICE is affecting the Latino vote in Texas ahead of midterms.",
    "tags": [
     "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "e89b8f7d20a1",
+   "titre": "Elon Musk's Starlink and Starshield, and what they mean to Ukraine",
+   "lien": "https://www.cbsnews.com/news/elon-musk-starlink-starshield-ukraine-russia/",
+   "source": "CBS News",
+   "date": "2026-10-22T23:21:00+00:00",
+   "extrait": "Here's what to know about Starlink and Starshield, the technologies Ukraine is relying on in the war against Russia.",
+   "tags": [
+    "Conflits",
+    "Tech"
    ],
    "zone": "usa"
   },
