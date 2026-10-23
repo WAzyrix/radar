@@ -348,3 +348,65 @@ h3 .metacritic.en-ligne { margin-left: 6px; }
 .saisons button:hover { background: rgba(255, 255, 255, 0.18); }
 .saisons button.actif { background: var(--texte); color: #0a0a0f; border-color: transparent; }
 .fiche-infos.chargement { opacity: 0.5; transition: opacity var(--transition); }
+
+/* =========================================================
+   CHAT DE GROUPE
+   La page prend exactement la hauteur de l'écran : seul le fil de messages défile.
+   ========================================================= */
+.chat {
+  display: flex;
+  flex-direction: column;
+  height: calc(100dvh - var(--nav-totale) - 96px - env(safe-area-inset-bottom, 0px)); /* moins la barre d'onglets */
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 var(--gouttiere);
+}
+@media (min-width: 900px) { .chat { height: calc(100dvh - var(--nav-totale)); } }
+.page-chat { padding-bottom: 96px; overflow: hidden; }
+@media (min-width: 900px) { .page-chat { padding-bottom: 0; } }
+
+.chat-tete { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 10px; padding: 16px 0 12px; border-bottom: 1px solid var(--bordure); }
+.chat-tete h1 { font-size: clamp(1.3rem, 3vw, 1.7rem); font-weight: 800; letter-spacing: -0.02em; }
+.chat-tete .potes { margin-top: 6px; }
+
+.chat-fil { flex: 1; overflow-y: auto; overscroll-behavior: contain; padding: 14px 0; display: flex; flex-direction: column; gap: 2px; }
+.chat-fil > .vide { margin: auto 0; }
+.chat-jour { align-self: center; margin: 14px 0 8px; padding: 3px 12px; border-radius: 999px; background: var(--surface); color: var(--texte-3); font-size: 0.75rem; font-weight: 600; }
+
+.message { display: flex; gap: 8px; align-items: flex-end; max-width: 82%; margin-top: 10px; animation: apparaitre 200ms ease; }
+.message.suite { margin-top: 2px; }
+.message.mien { align-self: flex-end; flex-direction: row-reverse; }
+.message-avatar { width: 30px; height: 30px; flex: none; border-radius: 50%; display: grid; place-items: center; background: var(--surface-forte); font-size: 1rem; }
+.message-avatar.vide { background: none; }
+.message.mien .message-avatar { display: none; }
+.message-corps { display: flex; flex-direction: column; gap: 3px; min-width: 0; }
+.message.mien .message-corps { align-items: flex-end; }
+.message-auteur { font-size: 0.75rem; font-weight: 600; color: var(--texte-2); padding-left: 4px; }
+.message-bulle { padding: 9px 13px; border-radius: 18px 18px 18px 6px; background: var(--surface-forte); overflow-wrap: anywhere; }
+.message.mien .message-bulle { border-radius: 18px 18px 6px 18px; background: color-mix(in oklab, var(--accent) 32%, var(--fond-2)); }
+.message-bulle p { font-size: 0.93rem; line-height: 1.45; }
+.message-bulle a { text-decoration: underline; text-underline-offset: 2px; }
+.message-heure { font-size: 0.68rem; color: var(--texte-3); padding: 0 4px; opacity: 0; transition: opacity var(--transition); }
+.message:hover .message-heure, .message:last-child .message-heure { opacity: 1; }
+@media (hover: none) { .message-heure { opacity: 1; } }
+.message-heure button { color: inherit; text-decoration: underline; font-size: inherit; }
+
+/* Carte d'un élément partagé (animé, jeu…) dans une bulle */
+.chat-partage { display: flex; gap: 10px; align-items: center; padding: 6px; margin: -3px -7px 6px; border-radius: 14px; background: rgba(0, 0, 0, 0.25); text-decoration: none !important; min-width: 200px; }
+.message-bulle .chat-partage:last-child { margin-bottom: -3px; }
+.chat-partage img { width: 44px; height: 62px; object-fit: cover; border-radius: 8px; flex: none; }
+.chat-partage div { display: grid; min-width: 0; }
+.chat-partage small { font-size: 0.7rem; color: var(--texte-2); text-transform: uppercase; letter-spacing: 0.06em; font-weight: 700; }
+.chat-partage b { font-size: 0.9rem; line-height: 1.3; }
+
+.chat-saisie { display: flex; gap: 8px; align-items: flex-end; padding: 10px 0 14px; border-top: 1px solid var(--bordure); }
+.chat-saisie textarea { flex: 1; resize: none; border-radius: 20px; line-height: 1.4; max-height: 130px; }
+.chat-partager { width: 40px; height: 40px; flex: none; border-radius: 50%; background: var(--surface-forte); font-size: 1.4rem; line-height: 1; transition: background var(--transition); }
+.chat-partager:hover { background: color-mix(in oklab, var(--accent) 30%, transparent); }
+
+.liste-partage { display: grid; gap: 4px; max-height: 50vh; overflow-y: auto; margin-top: 10px; }
+.liste-partage button { display: flex; gap: 10px; align-items: center; padding: 6px; border-radius: var(--r-m); text-align: left; transition: background var(--transition); }
+.liste-partage button:hover { background: var(--surface-forte); }
+.liste-partage img, .liste-partage button > span:first-child { width: 36px; height: 50px; object-fit: cover; border-radius: 6px; flex: none; background: var(--surface); }
+.liste-partage b { display: block; font-size: 0.9rem; }
+.liste-partage small { color: var(--texte-3); font-size: 0.76rem; }

@@ -8,7 +8,7 @@
 import { notifier, Erreur400 } from './comptes.js';
 
 // Requête à l'API REST de Supabase avec la clé "service" (droits complets : à garder secrète)
-async function supabase(env, chemin, options = {}) {
+export async function supabase(env, chemin, options = {}) {
   if (!env.SUPABASE_SERVICE) throw new Error('Clé Supabase absente (wrangler secret put SUPABASE_SERVICE)');
   const reponse = await fetch(`${env.SUPABASE_URL}/rest/v1/${chemin}`, {
     ...options,
@@ -27,7 +27,7 @@ async function supabase(env, chemin, options = {}) {
 }
 
 // Qui est connecté ? On demande à Supabase de vérifier le jeton envoyé par le site.
-async function utilisateurConnecte(env, requete) {
+export async function utilisateurConnecte(env, requete) {
   const jeton = requete.headers.get('Authorization')?.replace(/^Bearer\s+/i, '');
   if (!jeton) throw new Erreur400('Connexion requise');
   const reponse = await fetch(`${env.SUPABASE_URL}/auth/v1/user`, {

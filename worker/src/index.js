@@ -17,6 +17,7 @@
 //   GET    /historique/:code                          la cloche (50 dernières notifications)
 //   PUT    /historique/:code     DELETE /historique/:code   tout marquer lu / effacer (tout ou { ids })
 //   POST   /recommander                               recommander à un pote (compte Supabase)
+//   POST   /chat/notifier                             prévenir le groupe d'un nouveau message
 // Tâche planifiée (toutes les heures) : verification.js
 // =========================================================
 import { filtrer, listeJeux, ficheJeu, hasard, genres } from './jeux.js';
@@ -26,6 +27,7 @@ import {
 } from './comptes.js';
 import { verifier } from './verification.js';
 import { recommander } from './recommandations.js';
+import { notifierChat } from './chat.js';
 
 const TAILLE_MAX = 300_000; // octets acceptés dans un envoi (une liste reste bien en dessous)
 
@@ -81,6 +83,7 @@ async function router(requete, env) {
 
   // ---------- Recommandations entre potes ----------
   if (methode === 'POST' && chemin === '/recommander') return { donnees: await recommander(env, requete, await lireCorps(requete)) };
+  if (methode === 'POST' && chemin === '/chat/notifier') return { donnees: await notifierChat(env, requete, await lireCorps(requete)) };
 
   // ---------- Routes avec un code perso ----------
   if (['liste', 'abo', 'prefs', 'test', 'historique'].includes(segments[0])) {

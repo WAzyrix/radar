@@ -44,7 +44,10 @@ export function afficherNavigation(pageActive) {
   document.body.insertAdjacentHTML('beforeend', `<nav class="onglets" aria-label="Navigation">${PAGES.filter((p) => p.mobile !== false).map((p) => lien(p, true)).join('')}</nav>`);
 
   brancherRecherche();
-  // La cloche, à droite de la recherche (seulement si le relais est en place)
+  // Accès au chat (si les comptes sont configurés) puis la cloche, à droite de la recherche
+  if (!SUPABASE_URL.includes('A-REMPLACER')) {
+    document.querySelector('.nav').insertAdjacentHTML('beforeend', `<a class="cloche-bouton ${pageActive === 'chat' ? 'actif' : ''}" href="chat.html" aria-label="Chat de groupe" title="Chat de groupe">${ICONES.bulle}</a>`);
+  }
   if (relaisConfigure()) monterCloche(document.querySelector('.nav'));
 
   // Récupère "Ma liste" depuis mes autres appareils (si elle a changé là-bas)

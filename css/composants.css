@@ -440,7 +440,8 @@ input[type="range"] { width: 100%; accent-color: var(--accent); cursor: pointer;
   color: var(--texte-2);
   transition: background var(--transition), color var(--transition);
 }
-.cloche-bouton:hover, .cloche-bouton[aria-expanded="true"] { background: var(--surface-forte); color: var(--texte); }
+a.cloche-bouton { flex: none; }
+.cloche-bouton.actif, .cloche-bouton:hover, .cloche-bouton[aria-expanded="true"] { background: var(--surface-forte); color: var(--texte); }
 .cloche-bouton svg { width: 19px; height: 19px; }
 .cloche-pastille {
   position: absolute;
@@ -509,4 +510,4 @@ input[type="range"] { width: 100%; accent-color: var(--accent); cursor: pointer;
 .cloche-vide { padding: 22px 12px; text-align: center; color: var(--texte-2); font-size: 0.9rem; }
 .cloche-vide small { color: var(--texte-3); }
 /* Petit écran : un peu moins d'espace entre les éléments de la barre */
-@media (max-width: 600px) { .nav { gap: 10px; } .nav .recherche { min-width: 0; } }
+@media (max-width: 600px) { .nav { gap: 8px; } .nav .recherche { min-width: 0; } .nav .logo { font-size: 0; gap: 0; } }

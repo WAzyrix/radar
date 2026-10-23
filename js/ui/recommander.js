@@ -39,7 +39,10 @@ async function ouvrir(compte, item) {
   dialogue.innerHTML = '<div class="squelette" style="height:160px"></div>';
   dialogue.showModal();
 
-  const potes = (await compte.utilisateur()) ? await compte.mesPotes().catch(() => []) : null;
+  const connecte = await compte.utilisateur();
+  const [potes, groupes] = connecte
+    ? await Promise.all([compte.mesPotes().catch(() => []), compte.mesGroupes().catch(() => [])])
+    : [null, []];
   if (!potes?.length) {
     dialogue.innerHTML = `
       <h3>Recommander ${echapper(item.titre)}</h3>
@@ -51,11 +54,13 @@ async function ouvrir(compte, item) {
   }
 
   const choisis = new Set();
+  const groupesChoisis = new Set();
   dialogue.innerHTML = `
     <form method="dialog" id="form-reco">
       <h3>Recommander ${echapper(item.titre)}</h3>
       <span class="etiquette">À qui ?</span>
-      <div class="puces">${potes.map((p) => `<button type="button" class="puce" data-pote="${p.id}">${echapper(p.avatar)} ${echapper(p.pseudo)}</button>`).join('')}</div>
+      <div class="puces">${potes.map((p) => `<button type="button" class="puce" data-pote="${p.id}">${echapper(p.avatar)} ${echapper(p.pseudo)}</button>`).join('')}
+        ${groupes.map((g) => `<button type="button" class="puce" data-groupe="${g.id}">💬 Chat « ${echapper(g.nom)} »</button>`).join('')}</div>
       <label class="etiquette" for="message-reco" style="margin-top:14px">Un mot ? (facultatif)</label>
       <textarea class="champ" id="message-reco" maxlength="280" rows="3" placeholder="Regarde ça, tu vas adorer !"></textarea>
       <p class="message-notif" id="retour-reco" hidden></p>
@@ -66,15 +71,16 @@ async function ouvrir(compte, item) {
     </form>`;
 
   dialogue.querySelector('.puces').addEventListener('click', (e) => {
-    const b = e.target.closest('[data-pote]');
+    const b = e.target.closest('[data-pote], [data-groupe]');
     if (!b) return;
-    if (choisis.has(b.dataset.pote)) choisis.delete(b.dataset.pote); else choisis.add(b.dataset.pote);
-    b.classList.toggle('actif', choisis.has(b.dataset.pote));
+    const [ensemble, valeur] = b.dataset.pote ? [choisis, b.dataset.pote] : [groupesChoisis, b.dataset.groupe];
+    if (ensemble.has(valeur)) ensemble.delete(valeur); else ensemble.add(valeur);
+    b.classList.toggle('actif', ensemble.has(valeur));
   });
   dialogue.querySelector('[data-fermer]').addEventListener('click', () => dialogue.close());
   dialogue.querySelector('#envoyer-reco').addEventListener('click', async (e) => {
     const retour = dialogue.querySelector('#retour-reco');
-    if (!choisis.size) { retour.hidden = false; retour.textContent = 'Choisis au moins un pote.'; return; }
+    if (!choisis.size && !groupesChoisis.size) { retour.hidden = false; retour.textContent = 'Choisis au moins un pote ou un chat.'; return; }
     e.currentTarget.disabled = true;
     try {
       const jeton = await compte.jeton();
@@ -87,6 +93,10 @@ async function ouvrir(compte, item) {
           body: JSON.stringify({ a, item: { type: item.type, id: item.id, titre: item.titre, image: item.image }, message }),
         });
         if (!reponse.ok) throw new Error((await reponse.json().catch(() => ({}))).erreur || 'Envoi impossible');
+      }
+      // Partage dans le chat des groupes choisis
+      for (const groupeId of groupesChoisis) {
+        await compte.envoyerMessage(groupeId, { contenu: message, item: { type: item.type, id: item.id, titre: item.titre, image: item.image } });
       }
       retour.hidden = false;
       retour.textContent = 'Recommandation envoyée ✅';

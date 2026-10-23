@@ -228,7 +228,8 @@ async function afficherGroupe(message = '') {
         <div class="potes">${membres.map(pastillePote).join('') || '<span class="mention" style="margin:0">Pour l\'instant, il n\'y a que toi : invite tes potes !</span>'}</div>
         <p class="mention">Code d'invitation : <code>${g.invitation}</code></p>
         <div class="actions" style="margin-top:10px">
-          <button type="button" class="bouton bouton-plein bouton-petit" data-partager="${echapper(lienInvitation)}" data-nom="${echapper(g.nom)}">${ICONES.externe}Inviter des potes</button>
+          <a class="bouton bouton-plein bouton-petit" href="chat.html?groupe=${g.id}">${ICONES.bulle}Ouvrir le chat</a>
+          <button type="button" class="bouton bouton-verre bouton-petit" data-partager="${echapper(lienInvitation)}" data-nom="${echapper(g.nom)}">${ICONES.externe}Inviter des potes</button>
           <button type="button" class="bouton bouton-verre bouton-petit" data-quitter="${g.id}">Quitter</button>
         </div>
       </div>`;

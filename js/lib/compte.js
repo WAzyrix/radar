@@ -9,7 +9,7 @@
 // récupère automatiquement sa liste et ses notifications.
 // =========================================================
 import { createClient } from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.117.3/+esm';
-import { SUPABASE_URL, SUPABASE_CLE_PUBLIQUE } from '../config.js';
+import { SUPABASE_URL, SUPABASE_CLE_PUBLIQUE, URL_RELAIS } from '../config.js';
 import * as maListe from './ma-liste.js';
 
 export const comptesActifs = () => !SUPABASE_URL.includes('A-REMPLACER');
@@ -176,4 +176,43 @@ export async function marquerVues(ids) {
 export async function jeton() {
   const { data } = await supabase().auth.getSession();
   return data.session?.access_token;
+}
+
+// ---------- Chat de groupe ----------
+export async function messages(groupeId, nombre = 100) {
+  const lignes = verifier(await supabase().from('messages')
+    .select('id, user_id, contenu, item, cree_le').eq('groupe_id', groupeId)
+    .order('cree_le', { ascending: false }).limit(nombre));
+  return lignes.reverse(); // du plus ancien au plus récent
+}
+
+export async function envoyerMessage(groupeId, { contenu, item }) {
+  const u = await utilisateur();
+  const message = verifier(await supabase().from('messages')
+    .insert({ groupe_id: groupeId, user_id: u.id, contenu: contenu || null, item: item || null })
+    .select('id, user_id, contenu, item, cree_le').single());
+  // On prévient les autres membres (cloche + notif), sans attendre la réponse
+  jeton().then((j) => fetch(`${URL_RELAIS}/chat/notifier`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${j}` },
+    body: JSON.stringify({ groupe_id: groupeId }),
+  })).catch(() => {});
+  return message;
+}
+
+export async function supprimerMessage(id) {
+  verifier(await supabase().from('messages').delete().eq('id', id));
+}
+
+/**
+ * Écoute les nouveaux messages (et suppressions) du groupe en temps réel.
+ * Supabase Realtime respecte les règles RLS : on ne reçoit que les messages de ses groupes.
+ * Renvoie une fonction pour arrêter d'écouter.
+ */
+export function ecouterMessages(groupeId, { ajout, suppression }) {
+  const canal = supabase().channel(`chat:${groupeId}`)
+    .on('postgres_changes', { event: 'INSERT', schema: 'public', table: 'messages', filter: `groupe_id=eq.${groupeId}` }, (e) => ajout(e.new))
+    .on('postgres_changes', { event: 'DELETE', schema: 'public', table: 'messages' }, (e) => suppression(e.old.id))
+    .subscribe();
+  return () => supabase().removeChannel(canal);
 }

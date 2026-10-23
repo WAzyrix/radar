@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content">
+  <meta name="theme-color" content="#0a0a0f">
+  <title>Chat · Radar</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" href="icones/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Radar">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/composants.css">
+  <link rel="stylesheet" href="css/pages.css">
+</head>
+<body class="page-chat">
+  <main class="chat">
+    <header class="chat-tete">
+      <div>
+        <h1 id="nom-groupe">Chat</h1>
+        <div class="potes" id="membres"></div>
+      </div>
+      <nav class="segments" id="choix-groupe" aria-label="Groupes" hidden></nav>
+    </header>
+
+    <div class="chat-fil" id="fil" aria-live="polite"></div>
+
+    <form class="chat-saisie" id="saisie" hidden>
+      <button type="button" class="chat-partager" id="partager" title="Partager un animé, un jeu…" aria-label="Partager un élément de ma liste">+</button>
+      <textarea class="champ" id="texte" rows="1" maxlength="1000" placeholder="Écris un message…" aria-label="Message"></textarea>
+      <button class="bouton bouton-plein bouton-petit" id="envoyer">Envoyer</button>
+    </form>
+  </main>
+
+  <script type="module" src="js/pages/chat.js"></script>
+</body>
+</html>
