@@ -204,6 +204,11 @@
 .groupe + .groupe { margin-top: 22px; padding-top: 22px; border-top: 1px solid var(--bordure); }
 .groupe h3 small { font-weight: 500; color: var(--texte-3); font-size: 0.82rem; margin-left: 6px; }
 .groupe code { padding: 2px 8px; border-radius: 6px; background: var(--fond-2); }
+.autre-groupe { margin-top: 22px; padding-top: 18px; border-top: 1px solid var(--bordure); }
+.autre-groupe summary { display: inline-flex; align-items: center; gap: 8px; cursor: pointer; font-weight: 600; color: var(--texte-2); list-style: none; }
+.autre-groupe summary::-webkit-details-marker { display: none; }
+.autre-groupe summary svg { width: 18px; height: 18px; }
+.autre-groupe summary:hover, .autre-groupe[open] summary { color: var(--texte); }
 .potes { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
 .pote { display: inline-flex; align-items: center; gap: 6px; padding: 4px 10px 4px 4px; border-radius: 999px; background: var(--surface); font-size: 0.85rem; font-weight: 600; }
 .pote i { font-style: normal; width: 24px; height: 24px; border-radius: 50%; display: grid; place-items: center; background: var(--surface-forte); }
@@ -371,6 +376,8 @@ h3 .metacritic.en-ligne { margin-left: 6px; }
 .chat-tete { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 10px; padding: 16px 0 12px; border-bottom: 1px solid var(--bordure); }
 .chat-tete h1 { font-size: clamp(1.3rem, 3vw, 1.7rem); font-weight: 800; letter-spacing: -0.02em; }
 .chat-tete .potes { margin-top: 6px; }
+.chat-groupes { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; min-width: 0; max-width: 100%; }
+.chat-groupes .segments { max-width: 100%; }
 
 .chat-fil { flex: 1; overflow-y: auto; overscroll-behavior: contain; padding: 14px 0; display: flex; flex-direction: column; gap: 2px; }
 .chat-fil > .vide { margin: auto 0; }

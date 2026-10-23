@@ -1,5 +1,5 @@
 // =========================================================
-// Compte Radar (Supabase) : connexion email + mot de passe, profil, groupe de potes.
+// Compte Radar (Supabase) : connexion email + mot de passe, profil, groupes de potes.
 //
 // À l'inscription, Supabase envoie un email de confirmation (une seule fois).
 // Le mot de passe permet ensuite de se connecter partout, y compris dans
@@ -136,7 +136,19 @@ export async function publierListe() {
 }
 maListe.surEnvoi(() => publierListe().catch(() => { /* hors connexion : la prochaine fois */ }));
 
-// ---------- Groupe de potes ----------
+// ---------- Groupes de potes (on peut en avoir plusieurs) ----------
+// Groupe actif : celui qu'on regarde dans Potes, qu'on ouvre dans Chat et qu'on
+// propose en premier dans Recommander. Retenu dans le navigateur.
+const CLE_GROUPE = 'radar:groupe';
+export function groupeActif() {
+  try { return localStorage.getItem(CLE_GROUPE); } catch { return null; }
+}
+export function choisirGroupe(id) {
+  try { localStorage.setItem(CLE_GROUPE, id); } catch { /* stockage indisponible : on oublie le choix */ }
+}
+/** Le groupe actif parmi `groupes` (ou le premier si l'actif n'existe plus). */
+export const trouverGroupeActif = (groupes) => groupes.find((g) => g.id === groupeActif()) || groupes[0] || null;
+
 export async function mesGroupes() {
   const u = await utilisateur();
   if (!u) return [];
@@ -144,11 +156,15 @@ export async function mesGroupes() {
 }
 
 export async function creerGroupe(nom) {
-  return verifier(await supabase().rpc('creer_groupe', { nom_groupe: nom }));
+  const groupe = verifier(await supabase().rpc('creer_groupe', { nom_groupe: nom }));
+  if (groupe?.id) choisirGroupe(groupe.id);
+  return groupe;
 }
 
 export async function rejoindreGroupe(invitation) {
-  return verifier(await supabase().rpc('rejoindre_groupe', { code_invitation: invitation }));
+  const id = verifier(await supabase().rpc('rejoindre_groupe', { code_invitation: invitation }));
+  if (id) choisirGroupe(id);
+  return id;
 }
 
 export async function quitterGroupe(groupeId) {

@@ -1,5 +1,5 @@
 // =========================================================
-// Page Potes : compte (email + mot de passe), groupe, recommandations, activité.
+// Page Potes : compte (email + mot de passe), groupes, recommandations, activité.
 //
 // Sécurité : tout ce qui vient de la base (pseudos, noms de groupe, listes des potes,
 // recommandations…) est affiché avec el() (nœuds texte + setAttribute), jamais
@@ -178,63 +178,79 @@ function afficherFormulaireProfil(texte, profil, premiereFois) {
 }
 
 // =========================================================
-// 2. Groupe, recommandations, populaire, activité (une fois connecté avec un profil)
+// 2. Groupes, recommandations, populaire, activité (une fois connecté avec un profil)
 // =========================================================
 async function afficherReste() {
   $('groupe').hidden = false;
   await afficherGroupe();
 }
 
+// Formulaires « Rejoindre » et « Créer » (textes écrits en dur)
+const FORMULAIRES_GROUPE = `
+  <h3 style="margin-top:18px">Rejoindre un groupe</h3>
+  <form class="ligne-code" id="form-rejoindre">
+    <input class="champ" id="invitation" placeholder="Code d'invitation" required>
+    <button class="bouton bouton-plein bouton-petit">Rejoindre</button>
+  </form>
+  <h3 style="margin-top:22px">Créer un groupe</h3>
+  <form class="ligne-code" id="form-creer">
+    <input class="champ" id="nom-groupe" placeholder="Nom du groupe (ex : Les otakus)" minlength="2" maxlength="40" required>
+    <button class="bouton bouton-verre bouton-petit">Créer</button>
+  </form>`;
+
+function brancherFormulairesGroupe() {
+  $('invitation').value = new URLSearchParams(location.search).get('invitation') || '';
+  $('form-rejoindre').addEventListener('submit', async (e) => {
+    e.preventDefault();
+    try {
+      await compte.rejoindreGroupe($('invitation').value);
+      history.replaceState(null, '', location.pathname);
+      afficherGroupe('Bienvenue dans le groupe 🎉');
+    } catch (erreur) {
+      afficherGroupe(`⚠️ ${erreur.message}`);
+    }
+  });
+  $('form-creer').addEventListener('submit', async (e) => {
+    e.preventDefault();
+    try {
+      await compte.creerGroupe($('nom-groupe').value);
+      afficherGroupe('Groupe créé ✅ Partage le lien d\'invitation à tes potes.');
+    } catch (erreur) {
+      afficherGroupe(`⚠️ ${erreur.message}`);
+    }
+  });
+}
+
 async function afficherGroupe(texte = '') {
   const carte = $('carte-groupe');
   const groupes = (await compte.mesGroupes()).filter((g) => uuidValide(g.id));
+  const potes = await compte.mesPotes();
+  const parId = new Map(potes.map((p) => [p.id, p]));
 
   if (!groupes.length) {
     remplir(carte,
       message(texte),
-      gabarit(`
-        <p>Tu n'es dans aucun groupe. Rejoins celui de tes potes avec leur code d'invitation, ou crée le tien.</p>
-        <h3 style="margin-top:18px">Rejoindre un groupe</h3>
-        <form class="ligne-code" id="form-rejoindre">
-          <input class="champ" id="invitation" placeholder="Code d'invitation" required>
-          <button class="bouton bouton-plein bouton-petit">Rejoindre</button>
-        </form>
-        <h3 style="margin-top:22px">Créer un groupe</h3>
-        <form class="ligne-code" id="form-creer">
-          <input class="champ" id="nom-groupe" placeholder="Nom du groupe (ex : Les otakus)" minlength="2" maxlength="40" required>
-          <button class="bouton bouton-verre bouton-petit">Créer</button>
-        </form>`));
-    $('invitation').value = new URLSearchParams(location.search).get('invitation') || '';
-    $('form-rejoindre').addEventListener('submit', async (e) => {
-      e.preventDefault();
-      try {
-        await compte.rejoindreGroupe($('invitation').value);
-        history.replaceState(null, '', location.pathname);
-        afficherGroupe('Bienvenue dans le groupe 🎉');
-      } catch (erreur) {
-        afficherGroupe(`⚠️ ${erreur.message}`);
-      }
-    });
-    $('form-creer').addEventListener('submit', async (e) => {
-      e.preventDefault();
-      try {
-        await compte.creerGroupe($('nom-groupe').value);
-        afficherGroupe('Groupe créé ✅ Partage le lien d\'invitation à tes potes.');
-      } catch (erreur) {
-        afficherGroupe(`⚠️ ${erreur.message}`);
-      }
-    });
+      gabarit(`<p>Tu n'es dans aucun groupe. Rejoins celui de tes potes avec leur code d'invitation, ou crée le tien.</p>${FORMULAIRES_GROUPE}`));
+    brancherFormulairesGroupe();
+    await Promise.all([afficherRecommandations(parId), afficherPotes(null, [])]);
     return;
   }
 
-  const potes = await compte.mesPotes();
-  const parId = new Map(potes.map((p) => [p.id, p]));
-  remplir(carte, message(texte), groupes.map((g) => {
-    const lienInvitation = new URL('potes.html', location.href);
-    lienInvitation.searchParams.set('invitation', g.invitation);
-    const membres = g.membres.map((m) => parId.get(m.user_id)).filter(Boolean);
-    const nb = g.membres.length;
-    return el('div', { class: 'groupe' },
+  const g = compte.trouverGroupeActif(groupes);
+  const invitationDansLien = new URLSearchParams(location.search).has('invitation');
+  const lienInvitation = new URL('potes.html', location.href);
+  lienInvitation.searchParams.set('invitation', g.invitation);
+  const membres = g.membres.map((m) => parId.get(m.user_id)).filter(Boolean);
+  const nb = g.membres.length;
+
+  remplir(carte,
+    message(texte),
+    // Plusieurs groupes : on passe de l'un à l'autre (le choix vaut aussi pour Chat et Recommander)
+    groupes.length > 1
+      ? el('nav', { class: 'segments', 'aria-label': 'Mes groupes', style: { 'margin-bottom': '18px' } },
+        groupes.map((x) => el('button', { type: 'button', 'data-groupe': x.id, class: x.id === g.id ? 'actif' : null, 'aria-pressed': String(x.id === g.id) }, x.nom)))
+      : null,
+    el('div', { class: 'groupe' },
       el('h3', {}, g.nom, ' ', el('small', {}, `${nb} membre${nb > 1 ? 's' : ''}`)),
       el('div', { class: 'potes' }, membres.length
         ? membres.map(pastillePote)
@@ -243,13 +259,22 @@ async function afficherGroupe(texte = '') {
       el('div', { class: 'actions', style: { 'margin-top': '10px' } },
         el('a', { class: 'bouton bouton-plein bouton-petit', href: `chat.html?groupe=${g.id}` }, icone('bulle'), 'Ouvrir le chat'),
         el('button', { type: 'button', class: 'bouton bouton-verre bouton-petit', 'data-partager': lienInvitation.href, 'data-nom': g.nom }, icone('externe'), 'Inviter des potes'),
-        el('button', { type: 'button', class: 'bouton bouton-verre bouton-petit', 'data-quitter': g.id }, 'Quitter')));
-  }));
+        el('button', { type: 'button', class: 'bouton bouton-verre bouton-petit', 'data-quitter': g.id }, 'Quitter ce groupe'))),
+    // Un autre groupe : ouvert d'office si on arrive avec un lien d'invitation
+    el('details', { class: 'autre-groupe', open: invitationDansLien },
+      el('summary', {}, icone('plus'), 'Créer ou rejoindre un autre groupe'),
+      gabarit(FORMULAIRES_GROUPE)));
+  brancherFormulairesGroupe();
 
   // onclick (et pas addEventListener) : un seul gestionnaire, même après un réaffichage
   carte.onclick = async (e) => {
+    const choix = e.target.closest('[data-groupe]');
     const partager = e.target.closest('[data-partager]');
     const quitter = e.target.closest('[data-quitter]');
+    if (choix) {
+      compte.choisirGroupe(choix.dataset.groupe);
+      afficherGroupe();
+    }
     if (partager) {
       const lienPartage = partager.dataset.partager;
       // Sur téléphone : feuille de partage (WhatsApp, Messages…) ; sinon on copie le lien
@@ -260,13 +285,13 @@ async function afficherGroupe(texte = '') {
         partager.textContent = 'Lien copié ✓';
       }
     }
-    if (quitter && confirm('Quitter ce groupe ?')) {
+    if (quitter && confirm(`Quitter le groupe « ${g.nom} » ?`)) {
       await compte.quitterGroupe(quitter.dataset.quitter);
       afficherGroupe('Tu as quitté le groupe.');
     }
   };
 
-  await Promise.all([afficherRecommandations(parId), afficherPotes(potes)]);
+  await Promise.all([afficherRecommandations(parId), afficherPotes(g, membres)]);
 }
 
 // Vignette d'un élément (animé, jeu, film…) d'une liste de pote ou d'une recommandation
@@ -294,8 +319,10 @@ async function afficherRecommandations(parId) {
   compte.marquerVues(recos.filter((r) => !r.vue).map((r) => r.id)).catch(() => {});
 }
 
-function afficherPotes(potes) {
-  if (!potes.length) return;
+// Populaire et activité : ce que suivent les membres du groupe actif
+function afficherPotes(groupe, potes) {
+  $('titre-populaire').textContent = groupe ? `Populaire dans « ${groupe.nom} »` : 'Populaire chez tes potes';
+  $('titre-activite').textContent = groupe ? `Activité dans « ${groupe.nom} »` : 'Activité récente';
 
   // Populaire : ce que suivent le plus de potes (les listes sont déjà filtrées par compte.mesPotes)
   const compteur = new Map();

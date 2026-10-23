@@ -22,7 +22,7 @@
   <main>
     <header class="page-tete">
       <h1><span>Potes</span></h1>
-      <p>Ton compte, ton groupe de potes, ce qu'ils suivent et ce qu'ils te recommandent.</p>
+      <p>Ton compte, tes groupes de potes, ce qu'ils suivent et ce qu'ils te recommandent.</p>
     </header>
 
     <section class="section" id="compte">
@@ -31,7 +31,7 @@
     </section>
 
     <section class="section" id="groupe" hidden>
-      <div class="section-tete"><h2>Mon groupe</h2></div>
+      <div class="section-tete"><h2>Mes groupes</h2></div>
       <div class="section-contenu"><div class="carte" id="carte-groupe"></div></div>
     </section>
 
@@ -41,17 +41,17 @@
     </section>
 
     <section class="section" id="populaire" hidden>
-      <div class="section-tete"><h2>Populaire chez tes potes</h2></div>
+      <div class="section-tete"><h2 id="titre-populaire">Populaire chez tes potes</h2></div>
       <div class="carrousel" id="liste-populaire"></div>
     </section>
 
     <section class="section" id="activite" hidden>
-      <div class="section-tete"><h2>Activité récente</h2></div>
+      <div class="section-tete"><h2 id="titre-activite">Activité récente</h2></div>
       <div class="section-contenu"><ul class="activite" id="liste-activite"></ul></div>
     </section>
   </main>
 
-  <footer>Radar · comptes : Supabase. Seuls les membres de ton groupe voient ton pseudo et ta liste.</footer>
+  <footer>Radar · comptes : Supabase. Seuls les membres de tes groupes voient ton pseudo et ta liste.</footer>
 
   <script type="module" src="js/pages/potes.js"></script>
 </body>

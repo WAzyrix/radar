@@ -56,12 +56,42 @@ async function ouvrir(compte, item) {
   const choisis = new Set();
   const groupesChoisis = new Set();
   const dejaEnvoye = new Set(); // potes déjà servis (si on réessaie après une erreur)
+  const mesGroupes = groupes.filter((g) => uuidValide(g.id));
+  const potesValides = potes.filter((p) => uuidValide(p.id));
+
+  // Plusieurs groupes : on choisit d'abord le groupe (le groupe actif par défaut), puis les potes
+  const portees = [
+    ...mesGroupes.map((g) => ({ id: g.id, nom: g.nom, membres: new Set(g.membres.map((m) => m.user_id)), chat: g })),
+    { id: 'tous', nom: 'Tout le monde', membres: null },
+  ];
+  let portee = portees.find((x) => x.id === compte.trouverGroupeActif(mesGroupes)?.id) || portees[portees.length - 1];
+  const choixPortee = portees.length > 2
+    ? el('nav', { class: 'segments', 'aria-label': 'Groupe', style: { margin: '4px 0 10px' } },
+      portees.map((x) => el('button', { type: 'button', 'data-portee': x.id }, x.nom)))
+    : null;
+  const puces = el('div', { class: 'puces' });
+  const afficherPuces = () => {
+    choixPortee?.querySelectorAll('[data-portee]').forEach((b) => b.classList.toggle('actif', b.dataset.portee === portee.id));
+    const visibles = potesValides.filter((p) => !portee.membres || portee.membres.has(p.id));
+    const chats = portee.chat ? [portee.chat] : mesGroupes;
+    puces.replaceChildren(
+      ...visibles.map((p) => el('button', { type: 'button', class: `puce ${choisis.has(p.id) ? 'actif' : ''}`, 'data-pote': p.id }, `${p.avatar} ${p.pseudo}`)),
+      ...chats.map((g) => el('button', { type: 'button', class: `puce ${groupesChoisis.has(g.id) ? 'actif' : ''}`, 'data-groupe': g.id }, `💬 Chat « ${g.nom} »`)),
+      ...(visibles.length ? [] : [el('span', { class: 'mention', style: { margin: '0' } }, 'Personne d\'autre dans ce groupe pour l\'instant.')]));
+  };
+  choixPortee?.addEventListener('click', (e) => {
+    const b = e.target.closest('[data-portee]');
+    if (!b) return;
+    portee = portees.find((x) => x.id === b.dataset.portee);
+    afficherPuces();
+  });
+  afficherPuces();
+
   dialogue.replaceChildren(el('form', { method: 'dialog', id: 'form-reco' },
     titre,
     el('span', { class: 'etiquette' }, 'À qui ?'),
-    el('div', { class: 'puces' },
-      potes.filter((p) => uuidValide(p.id)).map((p) => el('button', { type: 'button', class: 'puce', 'data-pote': p.id }, `${p.avatar} ${p.pseudo}`)),
-      groupes.filter((g) => uuidValide(g.id)).map((g) => el('button', { type: 'button', class: 'puce', 'data-groupe': g.id }, `💬 Chat « ${g.nom} »`))),
+    choixPortee,
+    puces,
     gabarit(`
       <label class="etiquette" for="message-reco" style="margin-top:14px">Un mot ? (facultatif)</label>
       <textarea class="champ" id="message-reco" maxlength="280" rows="3" placeholder="Regarde ça, tu vas adorer !"></textarea>

@@ -142,6 +142,7 @@ function ouvrirPartage() {
 // ---------- Ouverture d'un groupe ----------
 async function ouvrirGroupe(g) {
   groupe = g;
+  compte.choisirGroupe(g.id); // devient le groupe actif (Potes, Recommander)
   history.replaceState(null, '', `?groupe=${g.id}`);
   $('nom-groupe').textContent = g.nom;
   document.title = `${g.nom} · Chat · Radar`;
@@ -189,8 +190,9 @@ async function demarrer() {
       if (b) ouvrirGroupe(groupes.find((g) => g.id === b.dataset.groupe));
     });
   }
+  // Le groupe demandé dans l'adresse, sinon le groupe actif
   const voulu = new URLSearchParams(location.search).get('groupe');
-  await ouvrirGroupe(groupes.find((g) => g.id === voulu) || groupes[0]);
+  await ouvrirGroupe(groupes.find((g) => g.id === voulu) || compte.trouverGroupeActif(groupes));
 }
 
 // ---------- Événements ----------
