@@ -49,6 +49,7 @@ function parametres(f = {}) {
   return {
     search: f.texte?.trim() || undefined,
     genres: f.genres?.length ? f.genres.join(',') : undefined,
+    tags: f.themes?.length ? f.themes.join(',') : undefined,
     parent_platforms: f.plateforme || undefined,
     metacritic: f.noteMin ? `${f.noteMin},100` : undefined,
     dates: f.annee ? `${f.annee}-01-01,${f.annee}-12-31` : undefined,

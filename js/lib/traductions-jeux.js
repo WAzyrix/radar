@@ -11,6 +11,13 @@ export const GENRES_JEUX = {
   card: 'Cartes', educational: 'Éducatif',
 };
 
+// Thèmes : ce sont des TAGS sur RAWG (pas des genres), ex : l'horreur
+export const THEMES_JEUX = {
+  horror: 'Horreur', 'survival-horror': 'Survival horror', 'open-world': 'Monde ouvert',
+  'souls-like': 'Souls-like', roguelike: 'Roguelike', metroidvania: 'Metroidvania', 'co-op': 'Coop',
+  'story-rich': 'Narratif', survival: 'Survie', anime: 'Anime', cozy: 'Cosy',
+};
+
 // Familles de plateformes RAWG (id -> nom)
 export const PLATEFORMES = {
   1: 'PC', 2: 'PlayStation', 3: 'Xbox', 7: 'Nintendo', 4: 'iOS', 8: 'Android', 5: 'Mac', 6: 'Linux',

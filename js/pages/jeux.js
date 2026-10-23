@@ -4,7 +4,7 @@
 import { sortiesAVenir, sortiesRecentes, explorerJeux, jeuAuHasard, relaisConfigure } from '../api/jeux.js';
 import { chargerActus } from '../api/actus.js';
 import { echapper, afficherErreur, antiRebond, premiereMajuscule } from '../lib/outils.js';
-import { GENRES_JEUX, PLATEFORMES } from '../lib/traductions-jeux.js';
+import { GENRES_JEUX, THEMES_JEUX, PLATEFORMES } from '../lib/traductions-jeux.js';
 import { listeJeux, STATUTS_JEU } from '../lib/listes-jeux.js';
 import { afficherNavigation } from '../ui/nav.js';
 import { carteJeu, carteJeuListe, squelettesJeux, badgeMetacritic, dateSortie, plateformesCourtes } from '../ui/cartes-jeux.js';
@@ -92,11 +92,14 @@ afficherListes();
 // 3. Explorer
 // =========================================================
 const genresChoisis = new Set();
+const themesChoisis = new Set();
 let page = 1;
 let requeteActuelle = 0;
 
 $('puces-genres').innerHTML = Object.entries(GENRES_JEUX)
   .map(([slug, nom]) => `<button type="button" class="puce" data-genre="${slug}" aria-pressed="false">${nom}</button>`).join('');
+$('puces-themes').innerHTML = Object.entries(THEMES_JEUX)
+  .map(([slug, nom]) => `<button type="button" class="puce" data-theme="${slug}" aria-pressed="false">${nom}</button>`).join('');
 for (const [id, nom] of Object.entries(PLATEFORMES)) $('f-plateforme').add(new Option(nom, id));
 for (let a = new Date().getFullYear() + 2; a >= 1980; a--) $('f-annee').add(new Option(a, a));
 
@@ -104,6 +107,7 @@ function lireFiltres() {
   return {
     texte: $('f-texte').value,
     genres: [...genresChoisis],
+    themes: [...themesChoisis],
     plateforme: $('f-plateforme').value,
     noteMin: Number($('f-note').value),
     annee: $('f-annee').value,
@@ -116,6 +120,7 @@ function filtresVersUrl(f) {
   const p = new URLSearchParams();
   if (f.texte) p.set('q', f.texte);
   if (f.genres.length) p.set('genres', f.genres.join(','));
+  if (f.themes.length) p.set('themes', f.themes.join(','));
   if (f.plateforme) p.set('plateforme', f.plateforme);
   if (f.noteMin) p.set('note', f.noteMin);
   if (f.annee) p.set('annee', f.annee);
@@ -129,12 +134,14 @@ function urlVersFiltres() {
   $('f-texte').value = p.get('q') || '';
   genresChoisis.clear();
   (p.get('genres') || '').split(',').filter(Boolean).forEach((g) => genresChoisis.add(g));
+  themesChoisis.clear();
+  (p.get('themes') || '').split(',').filter(Boolean).forEach((t) => themesChoisis.add(t));
   $('f-plateforme').value = p.get('plateforme') || '';
   $('f-note').value = p.get('note') || 0;
   $('f-annee').value = p.get('annee') || '';
   $('f-tri').value = p.get('tri') || '-added';
-  $('puces-genres').querySelectorAll('.puce').forEach((b) => {
-    const actif = genresChoisis.has(b.dataset.genre);
+  document.querySelectorAll('#puces-genres .puce, #puces-themes .puce').forEach((b) => {
+    const actif = b.dataset.genre ? genresChoisis.has(b.dataset.genre) : themesChoisis.has(b.dataset.theme);
     b.classList.toggle('actif', actif);
     b.setAttribute('aria-pressed', actif);
   });
@@ -174,16 +181,21 @@ async function lancerRecherche({ ajouter = false } = {}) {
   $('charger-plus').disabled = false;
 }
 
-$('puces-genres').addEventListener('click', (e) => {
-  const bouton = e.target.closest('.puce');
-  if (!bouton) return;
-  const genre = bouton.dataset.genre;
-  const actif = !genresChoisis.has(genre);
-  if (actif) genresChoisis.add(genre); else genresChoisis.delete(genre);
-  bouton.classList.toggle('actif', actif);
-  bouton.setAttribute('aria-pressed', actif);
-  lancerRecherche();
-});
+// Genres et thèmes : même fonctionnement, seul l'ensemble mis à jour change
+function brancherPuces(conteneur, choisis, attribut) {
+  conteneur.addEventListener('click', (e) => {
+    const bouton = e.target.closest('.puce');
+    if (!bouton) return;
+    const valeur = bouton.dataset[attribut];
+    const actif = !choisis.has(valeur);
+    if (actif) choisis.add(valeur); else choisis.delete(valeur);
+    bouton.classList.toggle('actif', actif);
+    bouton.setAttribute('aria-pressed', actif);
+    lancerRecherche();
+  });
+}
+brancherPuces($('puces-genres'), genresChoisis, 'genre');
+brancherPuces($('puces-themes'), themesChoisis, 'theme');
 $('f-texte').addEventListener('input', antiRebond(() => lancerRecherche(), 450));
 $('f-note').addEventListener('input', afficherValeurNote);
 for (const id of ['f-plateforme', 'f-note', 'f-annee', 'f-tri']) $(id).addEventListener('change', () => lancerRecherche());
