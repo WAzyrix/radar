@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-23T15:25:30+00:00",
+ "maj": "2026-10-23T15:28:15+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,52 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "a3b41f5400da",
+   "titre": "2 ex-FBI officials charged with lying about Hunter Biden laptop probe",
+   "lien": "https://www.cbsnews.com/news/fbi-officials-charged-lying-to-congress-hunter-biden-laptop/",
+   "source": "CBS News",
+   "date": "2026-10-23T15:25:47+00:00",
+   "extrait": "Two former FBI agents have each been charged with one count of lying to Congress about Hunter Biden's laptop.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "9bacc0e235cf",
+   "titre": "Manifestations du 24 octobre : l'intersyndicale \"refuse\" un changement de parcours \"imposé par la préfecture\" à Paris",
+   "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-manifestations-du-24-octobre-emmanuel-macron-preside-un-conseil-de-defense-a-9-heures-avant-de-recevoir-les-lyceens-dans-l-apres-midi_8250124.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-23T15:25:11+00:00",
+   "extrait": "La nouvelle proposition de parcours, entre la Porte de Vincennes et la Porte d'Italie, est \"impossible à sécuriser\", a affirmé le co-secrétaire général de la CGT de Paris, Karl Ghazi.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "2d591b7c19c6",
+   "titre": "Trump says new fuel supply push will lower prices. Will it work?",
+   "lien": "https://www.cbsnews.com/news/trump-defense-production-act-gas-diesel-prices/",
+   "source": "CBS News",
+   "date": "2026-10-23T15:24:45+00:00",
+   "extrait": "The Trump administration said using the DPA funding will increase refining output and lower fuel prices for Americans. Experts are skeptical.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "56f729f824aa",
+   "titre": "Home distillers rejoice as US Supreme Court considers whether to finally legalise moonshine",
+   "lien": "https://www.bbc.co.uk/news/articles/cv98zn0ye4kpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-23T15:24:35+00:00",
+   "extrait": "The Supreme Court will consider in the new year whether the 1868 legislation forbidding home distilling should be overturned.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
   {
    "id": "ed8d8c83a7e5",
    "titre": "JOJ 2026 à Dakar : un tournant pour l’Afrique et l’olympisme ?",
@@ -113,18 +159,6 @@
    "zone": "usa"
   },
   {
-   "id": "a3b41f5400da",
-   "titre": "2 ex-FBI officials charged with lying about Hunter Biden laptop probe",
-   "lien": "https://www.cbsnews.com/news/fbi-officials-charged-lying-to-congress-hunter-biden-laptop/",
-   "source": "CBS News",
-   "date": "2026-10-23T15:03:20+00:00",
-   "extrait": "Two former FBI agents have each been charged with one count of lying to Congress about Hunter Biden's laptop.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "cd22245d787e",
    "titre": "Jared Kushner denies report involving a hacked phone, spies and wire transfers",
    "lien": "https://www.cbsnews.com/video/jared-kushner-denies-report-hacked-phone-spies-billion-dollar-transfers/",
@@ -146,7 +180,7 @@
   },
   {
    "id": "ed8897de8288",
-   "titre": "US Justice Department investigating Corey Lewandowski over DHS role",
+   "titre": "US justice department investigating Corey Lewandowski over DHS role",
    "lien": "https://www.bbc.co.uk/news/articles/c6ly0dg453v8o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-10-23T14:58:19+00:00",
@@ -250,18 +284,6 @@
    "tags": [
     "Politique",
     "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "9bacc0e235cf",
-   "titre": "Manifestations du 24 octobre : les organisations lycéennes sont arrivées à l'Elysée pour un échange avec Emmanuel Macron",
-   "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-manifestations-du-24-octobre-emmanuel-macron-preside-un-conseil-de-defense-a-9-heures-avant-de-recevoir-les-lyceens-dans-l-apres-midi_8250124.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-23T14:40:57+00:00",
-   "extrait": "Le président de la République a voulu les recevoir pour \"écouter leurs revendications et inquiétudes\", avait expliqué jeudi la présidence.",
-   "tags": [
-    "Politique"
    ],
    "zone": "france"
   },
@@ -828,6 +850,19 @@
     "Politique"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "c71b08fe5bf5",
+   "titre": "Au Brésil, les milieux financiers penchent pour les promesses d’extrême droite de Flavio Bolsonaro",
+   "lien": "https://www.lemonde.fr/economie/article/2026/10/23/au-bresil-les-milieux-financiers-penchent-pour-les-promesses-d-extreme-droite-de-flavio-bolsonaro_6799079_3234.html",
+   "source": "Le Monde",
+   "date": "2026-10-23T13:00:06+00:00",
+   "extrait": "Dans le cœur financier de Sao Paulo, investisseurs et banquiers affichent leur soutien aux coupes dans les dépenses publiques, privatisations et baisses d’impôts prônées par Flavio Bolsonaro…",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "france"
   },
   {
    "id": "3236d22735f1",
