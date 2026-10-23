@@ -48,6 +48,7 @@ export function afficherNavigation(pageActive) {
   document.body.insertAdjacentHTML('beforeend', `<nav class="onglets" aria-label="Navigation">${PAGES.filter((p) => p.mobile !== false).map((p) => lien(p, true)).join('')}</nav>`);
 
   brancherRecherche();
+  remplacerImagesCassees();
   activerCarrousels(); // flèches ‹ › sur les carrousels (ordinateur)
   // Accès au chat (si les comptes sont configurés) puis la cloche, à droite de la recherche
   if (!SUPABASE_URL.includes('A-REMPLACER')) {
@@ -71,6 +72,20 @@ export function afficherNavigation(pageActive) {
   }
   // Service worker : reçoit les notifications et rend le site installable
   if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
+}
+
+// Affiche ou photo qui ne charge pas : une image transparente à la place de l'icône « image
+// cassée », pour laisser voir la couleur de fond de la carte (--couleur) et le titre.
+// L'évènement "error" ne remonte pas : on l'écoute en phase de capture, pour toute la page.
+const TRANSPARENT = 'data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==';
+function remplacerImagesCassees() {
+  document.addEventListener('error', (e) => {
+    const image = e.target;
+    if (image.tagName !== 'IMG' || image.src === TRANSPARENT) return;
+    image.removeAttribute('srcset');
+    image.src = TRANSPARENT;
+    image.classList.add('image-cassee');
+  }, true);
 }
 
 // Recherche en direct (animés, jeux, films et séries) : la liste apparaît pendant la frappe.

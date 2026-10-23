@@ -9,7 +9,8 @@ export { relaisConfigure };
 const HEURE = 3600_000;
 
 // ---------- Dates ----------
-const jourIso = (date) => date.toISOString().slice(0, 10);
+// Date du jour en heure LOCALE (toISOString donne l'heure UTC : décalage d'un jour entre 0 h et 2 h à Paris)
+const jourIso = (date) => new Intl.DateTimeFormat('en-CA').format(date);
 function decaler(jours) {
   const d = new Date();
   d.setDate(d.getDate() + jours);
@@ -42,6 +43,24 @@ const assezConnus = (jeux) => jeux.filter((j) => (j.added || 0) >= POPULARITE_MI
 export async function sortiesAVenir(jours = 180) {
   const data = await relais('/jeux', { dates: `${decaler(1)},${decaler(jours)}`, ordering: '-added', page_size: 40, exclude_additions: 'true' }, { duree: 6 * HEURE });
   return assezConnus(data.results).sort((a, b) => (a.released || '').localeCompare(b.released || ''));
+}
+
+/**
+ * Calendrier des sorties sur `mois` mois : une requête par mois (40 jeux max chacune, les plus
+ * suivis), au lieu de 40 jeux pour 6 mois. Triés par date.
+ */
+export async function calendrierSorties(mois = 6) {
+  const demain = decaler(1);
+  const debut = new Date();
+  const periodes = Array.from({ length: mois }, (_, i) => {
+    const premier = new Date(debut.getFullYear(), debut.getMonth() + i, 1);
+    const dernier = new Date(debut.getFullYear(), debut.getMonth() + i + 1, 0);
+    return [i === 0 ? demain : jourIso(premier), jourIso(dernier)];
+  }).filter(([a, b]) => a <= b);
+  const pages = await Promise.all(periodes.map(([a, b]) => relais('/jeux', { dates: `${a},${b}`, ordering: '-added', page_size: 40, exclude_additions: 'true' }, { duree: 6 * HEURE })));
+  const vus = new Set();
+  return assezConnus(pages.flatMap((p) => p.results).filter((j) => !vus.has(j.id) && vus.add(j.id)))
+    .sort((a, b) => (a.released || '').localeCompare(b.released || ''));
 }
 
 /** Jeux sortis ces `jours` derniers jours, les plus suivis d'abord. */

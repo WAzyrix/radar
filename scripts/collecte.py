@@ -138,7 +138,10 @@ def lire_flux(contenu):
 
     # Atom : <entry><title/><link href=""/><updated/><summary/></entry>
     for entree in racine.iter(f"{ATOM}entry"):
-        lien = entree.find(f"{ATOM}link[@rel='alternate']") or entree.find(f"{ATOM}link")
+        # Pas de "or" : un élément XML sans enfants vaut False, on prendrait toujours le 1er lien
+        lien = entree.find(f"{ATOM}link[@rel='alternate']")
+        if lien is None:
+            lien = entree.find(f"{ATOM}link")
         articles.append({
             "titre": entree.findtext(f"{ATOM}title"),
             "lien": lien.get("href") if lien is not None else None,

@@ -207,7 +207,7 @@ function afficherFiche(m, adn) {
   if (estManga) afficherAutour(m, []);
   else afficherSaisons(m, bouton, adn);
   brancherRecommandation(
-    { type: estManga ? 'manga' : 'anime', id: m.id, titre: titre(m), image: m.coverImage.extraLarge },
+    { type: estManga ? 'manga' : 'anime', id: m.id, titre: titre(m), image: m.coverImage.large || m.coverImage.extraLarge },
     document.getElementById('potes-suivent'),
   );
 

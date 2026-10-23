@@ -8,6 +8,7 @@
 import { notifier, idValide, Erreur400 } from './comptes.js';
 
 const TYPES = ['anime', 'manga', 'film', 'serie', 'jeu'];
+const MAX_PAR_HEURE = 10;
 
 // Requête à l'API REST de Supabase avec la clé "service" (droits complets : à garder secrète)
 export async function supabase(env, chemin, options = {}) {
@@ -56,6 +57,16 @@ export async function recommander(env, requete, corps) {
   ]);
   const communs = new Set(mesGroupes.map((m) => m.groupe_id));
   if (!amitie.length && !sesGroupes.some((m) => communs.has(m.groupe_id))) throw new Erreur400("Cette personne n'est ni dans tes groupes ni dans tes amis");
+
+  // Chaque reco déclenche une notification : 10 par heure au plus, envoyées par moi
+  // comme reçues par le destinataire (contre le spam)
+  const ilYaUneHeure = new Date(Date.now() - 3600_000).toISOString();
+  const [envoyees, recues] = await Promise.all([
+    supabase(env, `recommandations?de=eq.${moi.id}&cree_le=gte.${ilYaUneHeure}&select=id&limit=${MAX_PAR_HEURE}`),
+    supabase(env, `recommandations?a=eq.${a}&cree_le=gte.${ilYaUneHeure}&select=id&limit=${MAX_PAR_HEURE}`),
+  ]);
+  if (envoyees.length >= MAX_PAR_HEURE) throw new Erreur400('Tu as déjà envoyé beaucoup de recommandations : réessaie dans une heure.');
+  if (recues.length >= MAX_PAR_HEURE) throw new Erreur400('Ce pote a reçu beaucoup de recommandations cette heure-ci : réessaie plus tard.');
 
   const element = {
     type: item.type,

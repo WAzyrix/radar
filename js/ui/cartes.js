@@ -10,7 +10,8 @@ import { ICONES } from './icones.js';
 // Affiche d'animé (carrousels, grilles)
 export function carteAffiche(media, { sous, etiquette = '' } = {}) {
   const couleur = media.coverImage.color || '#1a1a24';
-  const image = media.coverImage.extraLarge || media.coverImage.large;
+  // "large" (~80 Ko) suffit pour une vignette de ~180 px ; "extraLarge" (~230 Ko) est pour la fiche
+  const image = media.coverImage.large || media.coverImage.extraLarge;
   const sousTitre = sous ?? [FORMATS_FR[media.format], media.seasonYear].filter(Boolean).join(' · ');
   return `
     <a class="affiche" href="anime.html?id=${media.id}" style="--couleur:${couleur}">

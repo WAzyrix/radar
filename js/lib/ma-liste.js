@@ -9,6 +9,7 @@
 // =========================================================
 import { URL_RELAIS } from '../config.js';
 import { idValide, appeler, messageStatut } from './outils.js';
+import { viderCache } from './cache.js';
 
 const CLE_LISTE = 'radar:liste';
 const CLE_CODE = 'radar:code';
@@ -42,7 +43,16 @@ function lireLocal() {
 }
 
 function ecrireLocal(liste) {
-  localStorage.setItem(CLE_LISTE, JSON.stringify(liste));
+  const valeur = JSON.stringify(liste);
+  try {
+    localStorage.setItem(CLE_LISTE, valeur);
+  } catch {
+    // Stockage plein (5 Mo, surtout remplis par les caches d'API) : la liste passe avant,
+    // on vide les caches AniList et relais puis on réessaie
+    viderCache('al:');
+    viderCache('jv2:');
+    localStorage.setItem(CLE_LISTE, valeur);
+  }
   window.dispatchEvent(new CustomEvent('radar:liste'));
 }
 

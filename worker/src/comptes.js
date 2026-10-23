@@ -67,8 +67,21 @@ export async function ecrireListe(env, code, donnees) {
 }
 
 // ---------- Abonnements aux notifications ----------
+// Seulement les services push des navigateurs : sinon le relais enverrait ses notifications
+// (des requêtes POST) vers n'importe quelle adresse choisie par l'abonné
+const SERVICES_PUSH = [/^fcm\.googleapis\.com$/, /^updates\.push\.services\.mozilla\.com$/, /\.push\.services\.mozilla\.com$/,
+  /^web\.push\.apple\.com$/, /\.notify\.windows\.com$/, /^push\.services\.mozilla\.com$/];
+export function servicePushValide(endpoint) {
+  try {
+    const url = new URL(endpoint);
+    return url.protocol === 'https:' && !url.port && SERVICES_PUSH.some((motif) => motif.test(url.hostname));
+  } catch {
+    return false;
+  }
+}
+
 export async function abonner(env, code, { abonnement, prefs }) {
-  if (!abonnement?.endpoint?.startsWith('https://') || !abonnement.keys?.p256dh || !abonnement.keys?.auth) throw new Erreur400('Abonnement invalide');
+  if (!servicePushValide(abonnement?.endpoint) || !abonnement.keys?.p256dh || !abonnement.keys?.auth) throw new Erreur400('Abonnement invalide');
   const abo = await lire(env, `abo:${code}`, { abonnements: [], prefs: PREFS_DEFAUT });
   abo.abonnements = abo.abonnements.filter((a) => a.endpoint !== abonnement.endpoint);
   abo.abonnements.push({ endpoint: abonnement.endpoint, keys: { p256dh: abonnement.keys.p256dh, auth: abonnement.keys.auth } });

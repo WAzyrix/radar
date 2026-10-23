@@ -23,7 +23,7 @@ export function carteFilm(r, { sous, etiquette } = {}) {
   return `
     <a class="affiche" href="${lienFilm(r)}" style="--couleur:#1a1a24">
       <div class="affiche-image">
-        ${r.image ? `<img src="${echapper(r.image)}" alt="" loading="lazy" onerror="this.remove()">` : ''}
+        ${r.image ? `<img src="${echapper(r.image)}" alt="" loading="lazy">` : ''}
         ${r.note ? `<span class="affiche-note">★ ${noteFilm(r.note)}</span>` : ''}
         ${etiquette ? `<span class="affiche-etiquette">${echapper(etiquette)}</span>` : ''}
       </div>

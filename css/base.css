@@ -13,7 +13,7 @@
   --bordure: rgba(255, 255, 255, 0.08);
   --texte: #f5f5f7;
   --texte-2: #a1a1aa;
-  --texte-3: #6b6b76;
+  --texte-3: #8a8a96; /* 5,8:1 sur le fond (minimum lisible : 4,5:1) */
   --vert: #5ee69a;
   --orange: #ffb84d;
 

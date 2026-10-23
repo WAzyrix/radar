@@ -92,7 +92,7 @@ export async function calendrierDuJour(decalage) {
 export async function ficheAnime(id) {
   const data = await anilist(`query($id:Int){ Media(id:$id){
     id type format status episodes chapters volumes duration season seasonYear averageScore popularity genres siteUrl
-    description bannerImage coverImage{extraLarge color}
+    description bannerImage coverImage{extraLarge large color}
     title{romaji english native} synonyms
     externalLinks{ site url type language }
     streamingEpisodes{ title url site }

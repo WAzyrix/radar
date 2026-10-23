@@ -1,7 +1,7 @@
 // =========================================================
 // Page Jeux vidéo : sorties (à venir / récentes), mes listes, explorer, actus.
 // =========================================================
-import { sortiesAVenir, sortiesRecentes, explorerJeux, jeuAuHasard, relaisConfigure } from '../api/jeux.js';
+import { calendrierSorties, sortiesRecentes, explorerJeux, jeuAuHasard, relaisConfigure } from '../api/jeux.js';
 import { echapper, afficherErreur, antiRebond, premiereMajuscule } from '../lib/outils.js';
 import { GENRES_JEUX, THEMES_JEUX, PLATEFORMES } from '../lib/traductions-jeux.js';
 import { listeJeux, STATUTS_JEU } from '../lib/listes-jeux.js';
@@ -33,7 +33,7 @@ async function afficherSorties(vue) {
       return;
     }
     // À venir : regroupés par mois ("Novembre 2026", "Décembre 2026"…)
-    const jeux = await sortiesAVenir();
+    const jeux = await calendrierSorties();
     const parMois = new Map();
     for (const j of jeux) {
       const mois = j.released && !j.tba ? premiereMajuscule(formatMois.format(new Date(`${j.released}T12:00:00`))) : 'Date à venir';

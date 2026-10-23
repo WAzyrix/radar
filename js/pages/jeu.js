@@ -196,12 +196,18 @@ function afficherFiche({ jeu, captures, serie, steam, configRawg }) {
 
   brancherRecommandation({ type: 'jeu', id: jeu.id, titre: jeu.name, image: jeu.background_image }, document.getElementById('potes-suivent'));
 
-  // Au hasard
-  document.getElementById('hasard').addEventListener('click', async (e) => {
-    e.currentTarget.disabled = true;
-    const autre = await jeuAuHasard().catch(() => null);
-    if (autre) location.href = `jeu.html?id=${autre.id}`;
-    e.currentTarget.disabled = false;
+  // Au hasard : on garde une référence au bouton (e.currentTarget vaut null après un await)
+  const hasard = document.getElementById('hasard');
+  hasard.addEventListener('click', async () => {
+    hasard.disabled = true;
+    try {
+      const autre = await jeuAuHasard();
+      if (autre) location.href = `jeu.html?id=${Number(autre.id)}`;
+      else alert('Aucun jeu trouvé, réessaie.');
+    } catch (erreur) {
+      alert(erreur.message);
+    }
+    hasard.disabled = false;
   });
 
   // Description : "Lire la suite" / description anglaise

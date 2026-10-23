@@ -200,7 +200,7 @@
 
 *Bilan au 23 octobre 2026, après le commit `112d04f`. Un commit par correction, retest à chaque fois.*
 
-**En bref : 2/2 🔴 et 5/5 🟠 corrigés, 5/17 🟡 corrigés, 1/6 💡 en partie. Les 🟡 restants n'ont aucun impact sur la sécurité.**
+**En bref : 2/2 🔴, 5/5 🟠 et 17/17 🟡 corrigés, 1/6 💡 en partie.** (Les 🟡 ont été terminés le 24 octobre : points 1 et 4 de la série suivante.)
 
 ### 🔴 Critiques : tous corrigés
 
@@ -228,19 +228,19 @@
 | 14 | ✅ Corrigé (`2236325`) | « Not Found. » d'AniList est traduit. |
 | 17 | ✅ Corrigé (`1c1ff6d`, `d5b4e6a`) | Le destinataire d'une reco ne peut modifier que la colonne `vue` (`grant update (vue)`). |
 | 24 | ✅ Corrigé (`f412018`, `2ee3b7f`) | wrangler 4.152.0 (Node 22) : `npm audit` ne signale plus aucune vulnérabilité. |
-| 8 | ⏳ Restant | « Au hasard » sur la fiche jeu : `e.currentTarget` est toujours lu après un `await` (`jeu.js`). |
-| 10 | ⏳ Restant | Lien Atom : le `or` sur un élément XML est toujours là (`collecte.py`, ligne 141). |
-| 11 | ⏳ Restant | `jourIso()` utilise toujours `toISOString` (UTC) dans `js/api/jeux.js`. |
-| 12 | ⏳ Restant | Calendrier des sorties jeux limité à ~30 jeux. |
-| 13 | ⏳ Restant | `?source=` inconnue dans l'adresse de la page Actus. |
-| 15 | ⏳ Restant | Pas de liste blanche des services push. |
-| 16 | ⏳ Restant | Pas de limite propre aux recommandations. La limite générale (20 écritures/min par IP) s'applique quand même. |
-| 18 | ⏳ Restant | Historique du limiteur AniList toujours en mémoire, sans message pendant l'attente d'un 429. |
-| 19 | ⏳ Restant | `ecrireLocal()` sans `try/catch` (stockage plein). |
-| 20 | ⏳ Restant | Les cartes animés utilisent toujours `extraLarge`. |
-| 21 | ⏳ Restant | Pas d'image de secours. |
+| 8 | ✅ Corrigé (point 4) | « Au hasard » sur la fiche jeu : référence au bouton gardée avant l'`await`, message si le relais échoue ou ne trouve rien. |
+| 10 | ✅ Corrigé (point 4) | Lien Atom : plus de `or` sur un élément XML ; le lien `alternate` est bien choisi (testé avec `replies` puis `alternate`), plus d'avertissement Python. |
+| 11 | ✅ Corrigé (point 4) | `jourIso()` formate en heure locale (`Intl.DateTimeFormat('en-CA')`) : à 0 h 30 à Paris, on obtient bien le jour même. |
+| 12 | ✅ Corrigé (point 4) | Calendrier des sorties jeux : une requête par mois sur 6 mois (40 jeux max chacune) au lieu de 40 jeux en tout. Constat au 24 octobre : RAWG ne connaît que 41 jeux sur ces 6 mois (`count`), tous récupérés ; 20 restent après le filtre « suivi par au moins 3 joueurs » (les autres ont 0 joueur). Le calendrier grandira avec les données de RAWG. |
+| 13 | ✅ Corrigé (point 4) | `?source=` inconnue : ignorée (et retirée de l'adresse), les articles s'affichent avec « Toutes ». |
+| 15 | ✅ Corrigé (point 4) | Liste blanche des services push (`fcm.googleapis.com`, `*.push.services.mozilla.com`, `web.push.apple.com`, `*.notify.windows.com`), en `https` sans port. *À déployer.* |
+| 16 | ✅ Corrigé (point 4) | 10 recommandations par heure au plus, par expéditeur et par destinataire. *À déployer.* |
+| 18 | ✅ Corrigé (point 1) | Limiteur AniList partagé entre onglets (`localStorage`), état « bloqué » partagé, compte à rebours « AniList est surchargé, réessaie dans X secondes » et nouvel essai automatique, cache expiré servi en secours. |
+| 19 | ✅ Corrigé (point 4) | `ecrireLocal()` : si le stockage est plein, les caches `al:` et `jv2:` sont vidés puis l'écriture est refaite (testé en simulant `QuotaExceededError`). |
+| 20 | ✅ Corrigé (point 4) | Cartes, suivis et recommandations en `large` ; `extraLarge` seulement sur la fiche et le héros. |
+| 21 | ✅ Corrigé (point 4) | Toute image qui ne charge pas (sur toutes les pages) est remplacée par une image transparente : on voit la couleur de la carte et le titre. |
 | 22 | ✅ Corrigé (point 7) | Logo TMDB et mention sur l'accueil, Ma liste, Films & séries et les fiches ; lien RAWG sur l'accueil ; JustWatch cité pour les plateformes. |
-| 23 | ⏳ Restant | `--texte-3` reste à `#6b6b76` (contraste 3,7:1). |
+| 23 | ✅ Corrigé (point 4) | `--texte-3` passe à `#8a8a96` : contraste 5,8:1 sur le fond (5,5:1 sur les cartes). |
 
 ### 💡 Améliorations
 

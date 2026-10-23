@@ -77,6 +77,8 @@ function filtrer() {
 function monterFiltres(data) {
   // Sources
   for (const nom of data.sources) $('source').add(new Option(nom, nom));
+  // Source inconnue dans l'adresse (?source=xyz) : ignorée, sinon 0 article avec « Toutes » affiché
+  if (!data.sources.includes(filtres.source)) filtres.source = '';
   $('source').value = filtres.source;
   $('source').addEventListener('change', (e) => { filtres.source = e.target.value; filtrer(); });
 

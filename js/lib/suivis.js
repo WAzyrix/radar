@@ -41,7 +41,7 @@ export function basculerSuivi(media, { adn, saisons, vu } = {}) {
     id: media.id,
     titre: media.title.english || media.title.romaji,
     titres: [media.title.romaji, media.title.english].filter(Boolean), // pour retrouver le manga sur MangaUpdates
-    image: media.coverImage.extraLarge || media.coverImage.large,
+    image: media.coverImage.large || media.coverImage.extraLarge, // vignette : la petite version suffit
     couleur: media.coverImage.color,
     adn,
     saisons: type === 'anime' && saisons?.length ? saisons : undefined,
