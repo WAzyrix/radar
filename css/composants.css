@@ -48,7 +48,7 @@
 /* Recherche d'animés dans la nav */
 .recherche { position: relative; margin-left: auto; width: min(320px, 100%); }
 .recherche svg { position: absolute; left: 14px; top: 50%; translate: 0 -50%; width: 16px; color: var(--texte-3); pointer-events: none; }
-.recherche input { padding-left: 40px; border-radius: 999px; }
+.nav .recherche input { padding-left: 40px; border-radius: 999px; } /* ".nav" pour passer devant la règle .champ plus bas */
 
 .resultats {
   position: absolute;
