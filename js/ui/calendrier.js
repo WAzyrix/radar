@@ -16,7 +16,7 @@ const NOMS = { '-1': 'Hier', 0: "Aujourd'hui", 1: 'Demain' };
  *   - seulementPopulaires : masque les animés très confidentiels (pour l'accueil)
  *   - filtreSuivis        : case à cocher "seulement mes suivis" (facultatif)
  */
-export function monterCalendrier(jours, zone, { seulementPopulaires = false, filtreSuivis = null, de = -1, a = 5 } = {}) {
+export function monterCalendrier(jours, zone, { seulementPopulaires = false, filtreSuivis = null, de = -1, a = 5, quandAffiche = () => {} } = {}) {
   let decalageActif = 0;
 
   for (let decalage = de; decalage <= a; decalage++) {
@@ -62,6 +62,7 @@ export function monterCalendrier(jours, zone, { seulementPopulaires = false, fil
     } catch (erreur) {
       afficherErreur(zone, erreur);
     }
+    quandAffiche();
   }
 
   afficher();

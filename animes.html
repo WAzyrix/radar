@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0a0a0f">
+  <title>Animés · Radar</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/composants.css">
+  <link rel="stylesheet" href="css/pages.css">
+</head>
+<body>
+  <main>
+    <header class="page-tete">
+      <h1><span>Animés</span></h1>
+      <p>Ce qui sort cette semaine, ce que tu as raté, et de quoi trouver ton prochain coup de cœur.</p>
+      <nav class="segments" aria-label="Sections de la page">
+        <a href="#calendrier">Calendrier</a>
+        <a href="#rattrapage">Rattrapage</a>
+        <a href="#explorer">Explorer</a>
+      </nav>
+    </header>
+
+    <!-- ===== Calendrier de la semaine ===== -->
+    <section class="section" id="calendrier">
+      <div class="section-tete"><h2>Calendrier</h2></div>
+      <div class="jours" id="jours"></div>
+      <div class="options-ligne" style="margin-top:12px">
+        <label class="interrupteur"><input type="checkbox" id="filtre-suivis"> Seulement mes suivis</label>
+      </div>
+      <div class="section-contenu"><div class="grille-episodes" id="episodes"></div></div>
+      <p class="note-heures" id="note-heures" style="margin-top:14px"></p>
+    </section>
+
+    <!-- ===== Rattrapage ===== -->
+    <section class="section" id="rattrapage">
+      <div class="section-tete">
+        <h2>Rattrapage</h2>
+        <span class="lien-discret" id="resume-rattrapage" style="text-decoration:none"></span>
+      </div>
+      <div class="options-ligne">
+        <div class="segments" id="periodes" role="group" aria-label="Depuis quand">
+          <button type="button" data-jours="7">1 semaine</button>
+          <button type="button" data-jours="14">2 semaines</button>
+          <button type="button" data-jours="30">1 mois</button>
+          <button type="button" data-jours="60">2 mois</button>
+          <button type="button" data-jours="90">3 mois</button>
+        </div>
+      </div>
+      <div class="section-contenu"><div id="rattrapage-contenu"></div></div>
+    </section>
+
+    <!-- ===== Explorer : recherche, genres et filtres ===== -->
+    <section class="section" id="explorer">
+      <div class="section-tete"><h2>Explorer</h2></div>
+      <div class="section-contenu">
+        <form class="filtres" id="filtres" autocomplete="off">
+          <div>
+            <label class="etiquette" for="f-texte">Titre</label>
+            <input class="champ" type="search" id="f-texte" name="texte" placeholder="Ex : Frieren, One Piece…">
+          </div>
+
+          <div>
+            <span class="etiquette">Genres</span>
+            <div class="puces" id="puces-vedettes"></div>
+            <div class="puces plus-de-genres" id="puces-autres" style="margin-top:8px"></div>
+            <button type="button" class="lien-discret" id="voir-plus-genres" style="margin-top:10px">Plus de genres et thèmes</button>
+          </div>
+
+          <div class="filtres-ligne">
+            <div>
+              <label class="etiquette" for="f-note">Note minimale : <b id="valeur-note">toutes</b></label>
+              <input type="range" id="f-note" name="noteMin" min="0" max="90" step="5" value="0">
+            </div>
+            <div>
+              <label class="etiquette" for="f-statut">Statut</label>
+              <select class="champ" id="f-statut" name="statut">
+                <option value="">Tous</option>
+                <option value="RELEASING">En cours</option>
+                <option value="FINISHED">Terminé</option>
+                <option value="NOT_YET_RELEASED">À venir</option>
+              </select>
+            </div>
+            <div>
+              <label class="etiquette" for="f-annee">Année</label>
+              <select class="champ" id="f-annee" name="annee"><option value="">Toutes</option></select>
+            </div>
+            <div>
+              <label class="etiquette" for="f-format">Format</label>
+              <select class="champ" id="f-format" name="format">
+                <option value="">Tous</option>
+                <option value="TV">Série TV</option>
+                <option value="MOVIE">Film</option>
+                <option value="ONA">ONA (web)</option>
+                <option value="OVA">OVA</option>
+                <option value="TV_SHORT">Format court</option>
+              </select>
+            </div>
+            <div>
+              <label class="etiquette" for="f-tri">Trier par</label>
+              <select class="champ" id="f-tri" name="tri">
+                <option value="POPULARITY_DESC">Popularité</option>
+                <option value="SCORE_DESC">Note</option>
+                <option value="TRENDING_DESC">Tendance</option>
+                <option value="START_DATE_DESC">Plus récents</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="filtres-actions">
+            <button type="button" class="bouton bouton-plein" id="proposer">Propose-moi un animé</button>
+            <button type="reset" class="lien-discret">Réinitialiser</button>
+            <span class="compte" id="compte"></span>
+          </div>
+        </form>
+
+        <div id="proposition"></div>
+        <div class="grille-affiches" id="resultats"></div>
+        <div class="charger-plus"><button type="button" class="bouton bouton-verre" id="charger-plus" hidden>Afficher plus</button></div>
+      </div>
+    </section>
+  </main>
+
+  <footer>Radar · données : <a href="https://anilist.co" target="_blank" rel="noopener">AniList</a></footer>
+
+  <script type="module" src="js/pages/animes.js"></script>
+</body>
+</html>

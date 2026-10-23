@@ -106,27 +106,51 @@ function variablesFiltres(f) {
 const ARGS_FILTRES = '$search:String, $genres:[String], $tags:[String], $note:Int, $statut:MediaStatus, $annee:Int, $format:MediaFormat, $tri:[MediaSort]';
 const FILTRES = 'type:ANIME, isAdult:false, search:$search, genre_in:$genres, tag_in:$tags, averageScore_greater:$note, status:$statut, seasonYear:$annee, format:$format, sort:$tri';
 
+// Attention : AniList renvoie toujours un "total" de 5000 (valeur factice).
+// On ne s'en sert donc pas ; seul `hasNextPage` est fiable.
 export async function explorer(filtres, page = 1, parPage = 24) {
   const data = await anilist(`query($page:Int, $parPage:Int, ${ARGS_FILTRES}){
-    Page(page:$page, perPage:$parPage){ pageInfo{ total hasNextPage } media(${FILTRES}){ ${CHAMPS_CARTE} } } }`,
+    Page(page:$page, perPage:$parPage){ pageInfo{ hasNextPage } media(${FILTRES}){ ${CHAMPS_CARTE} } } }`,
   { page, parPage, ...variablesFiltres(filtres) }, { duree: 30 * MINUTE });
-  return { total: data.Page.pageInfo.total, suite: data.Page.pageInfo.hasNextPage, medias: data.Page.media };
+  return { suite: data.Page.pageInfo.hasNextPage, medias: data.Page.media };
+}
+
+// Une page de 50 identifiants seulement (requête légère, gardée en cache)
+async function pageIds(filtres, page) {
+  const data = await anilist(`query($page:Int, ${ARGS_FILTRES}){
+    Page(page:$page, perPage:50){ pageInfo{ hasNextPage } media(${FILTRES}){ id } } }`,
+  { page, ...variablesFiltres(filtres) }, { duree: 30 * MINUTE });
+  return { ids: data.Page.media.map((m) => m.id), suite: data.Page.pageInfo.hasNextPage };
 }
 
 /**
  * Tire un animé au hasard parmi ceux qui correspondent aux filtres.
- * AniList n'a pas de "random" : on compte les résultats, puis on demande
- * une page au hasard avec 1 seul résultat par page.
+ * AniList n'a pas de "random" et son total est faux, donc :
+ *  1. on cherche la dernière page non vide (pages de 50, par dichotomie, 10 pages max
+ *     = on pioche parmi les 500 plus populaires qui correspondent) ;
+ *  2. on prend une page au hasard, puis un animé au hasard dedans.
+ * Les pages d'identifiants sont en cache : les tirages suivants sont quasi instantanés.
  */
 export async function auHasard(filtres = { noteMin: 65 }) {
-  const { total } = await explorer(filtres, 1, 1);
-  if (!total) return null;
-  // AniList plafonne le total à 5000 ; pour les tirages "larges" on reste dans les plus populaires
-  const page = 1 + Math.floor(Math.random() * Math.min(total, 5000));
-  const data = await anilist(`query($page:Int, ${ARGS_FILTRES}){
-    Page(page:$page, perPage:1){ media(${FILTRES}){ ${CHAMPS_CARTE} bannerImage description } } }`,
-  { page, ...variablesFiltres({ tri: 'POPULARITY_DESC', ...filtres, texte: '' }) }, { duree: 0 });
-  return data.Page.media[0] ?? null;
+  const f = { ...filtres, texte: '', tri: 'POPULARITY_DESC' };
+  const premiere = await pageIds(f, 1);
+  if (!premiere.ids.length) return null;
+
+  let derniere = 1;
+  if (premiere.suite) {
+    let bas = 2;
+    let haut = 10;
+    while (bas < haut) {
+      const milieu = Math.ceil((bas + haut) / 2);
+      if ((await pageIds(f, milieu)).ids.length) bas = milieu; else haut = milieu - 1;
+    }
+    derniere = bas;
+  }
+
+  const { ids } = await pageIds(f, 1 + Math.floor(Math.random() * derniere));
+  const id = ids[Math.floor(Math.random() * ids.length)];
+  const data = await anilist(`query($id:Int){ Media(id:$id){ ${CHAMPS_CARTE} bannerImage description } }`, { id }, { duree: HEURE });
+  return data.Media;
 }
 
 // ---------- Rattrapage ----------
