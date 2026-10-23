@@ -11,6 +11,7 @@ export function filtrer(params) {
   const propres = {};
   for (const cle of PARAMS_AUTORISES) if (params.get(cle)) propres[cle] = params.get(cle);
   if (propres.page_size) propres.page_size = String(Math.min(Number(propres.page_size) || 20, 40));
+  if (propres.search) propres.search = propres.search.slice(0, 100);
   return propres;
 }
 

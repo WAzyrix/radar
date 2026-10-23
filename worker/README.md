@@ -12,7 +12,7 @@ navigateur ──> relais (Cloudflare) ──┬──> RAWG   (clé secrète aj
 
 ## Installation (une seule fois)
 
-Nécessite Node.js (`sudo apt install nodejs npm`). On utilise wrangler 3, compatible avec Node 20 (la version de Debian 13).
+Nécessite Node.js (`sudo apt install nodejs npm`). On utilise wrangler 4.86 : la dernière version compatible avec Node 20 (celle de Debian 13).
 
 ```bash
 cd worker
@@ -35,6 +35,8 @@ Puis mettre cette adresse dans `js/config.js` (`URL_RELAIS`).
 
 ## Sécurité
 
-- Seuls les sites listés dans `ORIGINES` (`wrangler.toml`) peuvent utiliser le relais depuis un navigateur.
+- Seuls les sites listés dans `ORIGINES` (`wrangler.toml`) peuvent utiliser le relais : toute autre origine (ou une requête sans en-tête `Origin`) reçoit une erreur 403. Pour tester le site en local, ajouter temporairement `http://localhost:8000` à `ORIGINES` et redéployer.
+- Limite de débit par adresse IP (`src/limiteur.js`, un Durable Object par adresse) : 40 requêtes/min sur les routes RAWG/TMDB, 20/min en écriture, 60/min pour le reste. Au-delà : erreur 429 avec le délai à attendre.
+- La clé RAWG est retirée des liens de pagination renvoyés par RAWG avant de répondre au navigateur.
 - Seuls certains paramètres sont transmis à RAWG (liste `PARAMS_AUTORISES`).
 - Gratuit : 100 000 requêtes par jour chez Cloudflare, 20 000 par mois chez RAWG (le site garde les réponses en cache).

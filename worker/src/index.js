@@ -28,20 +28,40 @@ import {
 import { verifier } from './verification.js';
 import { recommander } from './recommandations.js';
 import { notifierChat } from './chat.js';
+import { cleIp } from './limiteur.js';
+
+// Le Durable Object doit être exporté par le point d'entrée pour que Cloudflare le trouve
+export { Limiteur } from './limiteur.js';
 
 const TAILLE_MAX = 300_000; // octets acceptés dans un envoi (une liste reste bien en dessous)
 
+// Routes qui consomment le quota RAWG (20 000 requêtes/mois) ou TMDB
+const ROUTES_COUTEUSES = /^\/(jeux|jeu\/|hasard|genres|tmdb\/)/;
+
 export default {
   async fetch(requete, env) {
+    // 1. Seul le site (ORIGINES) peut appeler le relais. Le navigateur envoie toujours
+    //    l'en-tête Origin sur un appel venant d'un autre site : sans lui, ou avec un
+    //    autre site, on refuse (un script peut le falsifier : c'est le rôle de la limite 2).
     const origine = requete.headers.get('Origin') || '';
-    const originesOk = (env.ORIGINES || '').split(',').map((o) => o.trim());
+    const originesOk = (env.ORIGINES || '').split(',').map((o) => o.trim()).filter(Boolean);
+    if (!originesOk.includes(origine)) return json({ erreur: 'Site non autorisé à utiliser ce relais.' }, 403, { Vary: 'Origin' });
     const cors = {
-      'Access-Control-Allow-Origin': originesOk.includes(origine) ? origine : originesOk[0],
+      'Access-Control-Allow-Origin': origine,
       'Access-Control-Allow-Methods': 'GET, PUT, POST, DELETE, OPTIONS',
       'Access-Control-Allow-Headers': 'Content-Type, Authorization',
+      'Access-Control-Expose-Headers': 'Retry-After',
       Vary: 'Origin',
     };
     if (requete.method === 'OPTIONS') return new Response(null, { headers: cors });
+
+    // 2. Limite de débit par adresse IP (requêtes par minute ; une page du site en fait 2 à 5)
+    const chemin = new URL(requete.url).pathname;
+    const categorie = requete.method !== 'GET' ? 'ecritures' : ROUTES_COUTEUSES.test(chemin) ? 'api' : 'lectures';
+    const verdict = await verifierLimite(env, requete, categorie);
+    if (!verdict.ok) {
+      return json({ erreur: `Trop de requêtes : réessaie dans ${verdict.attente} s.` }, 429, { ...cors, 'Retry-After': String(verdict.attente) });
+    }
 
     try {
       const { donnees, duree = 0 } = await router(requete, env);
@@ -105,6 +125,22 @@ async function router(requete, env) {
   const erreur = new Error('Route inconnue');
   erreur.statut = 404;
   throw erreur;
+}
+
+// api       : routes qui coûtent du quota RAWG/TMDB
+// ecritures : PUT / POST / DELETE (écrivent dans KV, envoient des notifications)
+// lectures  : le reste (liste, cloche, clé publique…)
+const LIMITES = { api: 40, ecritures: 20, lectures: 60 };
+
+async function verifierLimite(env, requete, categorie) {
+  const ip = cleIp(requete.headers.get('CF-Connecting-IP') || 'inconnue');
+  try {
+    return await env.LIMITEUR.get(env.LIMITEUR.idFromName(ip)).autoriser(categorie, LIMITES[categorie]);
+  } catch (erreur) {
+    // Limiteur indisponible : on laisse passer plutôt que de casser le site
+    console.log('Limiteur indisponible :', erreur.message);
+    return { ok: true };
+  }
 }
 
 async function lireCorps(requete) {

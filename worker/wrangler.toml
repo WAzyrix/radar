@@ -4,8 +4,10 @@ main = "src/index.js"
 compatibility_date = "2026-10-01"
 
 [vars]
-# Sites autorisés à appeler le relais (séparés par des virgules)
-ORIGINES = "https://wazyrix.github.io,http://localhost:8000"
+# Sites autorisés à appeler le relais (séparés par des virgules). Toute autre origine reçoit
+# une erreur 403. Pour tester le site en local, ajouter temporairement ",http://localhost:8000"
+# puis `npx wrangler deploy` (et le retirer ensuite).
+ORIGINES = "https://wazyrix.github.io"
 # Adresse du site (liens dans les notifications, fichier data/adn.json)
 SITE = "https://wazyrix.github.io/radar/"
 # Clé PUBLIQUE des notifications web (la privée est un secret : VAPID_PRIVE)
@@ -17,6 +19,16 @@ VAPID_PUBLIQUE = "BDrLw-_L5jBFYKGCjkjlkYauEpjkMgeKQrpZaL6BWc4qSy9_IA0_xdne3lNqJ9
 [[kv_namespaces]]
 binding = "RADAR_KV"
 id = "cff54157e6ad4d24adb531a1594ee5aa"
+
+# Limite de débit par adresse IP : un Durable Object par adresse (src/limiteur.js).
+# Gratuit (offre Free : objets "SQLite"), compteurs en mémoire, aucune écriture KV.
+[[durable_objects.bindings]]
+name = "LIMITEUR"
+class_name = "Limiteur"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["Limiteur"]
 
 # Vérification des nouveautés toutes les heures (à la 5e minute)
 [triggers]
