@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-23T20:42:47+00:00",
+ "maj": "2026-10-23T21:05:37+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "201a6bfc4c9c",
+   "titre": "Abandoned Popcorn Time app exposed millions of device to RCE attacks",
+   "lien": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
+   "source": "BleepingComputer",
+   "date": "2026-10-23T20:55:05+00:00",
+   "extrait": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to…",
+   "tags": [
+    "Faille"
+   ]
+  },
   {
    "id": "e62f85ca100b",
    "titre": "Microsoft Teams to get AI-powered, context-aware phishing detection",
