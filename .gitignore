@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Éditeurs / système
+.vscode/
+.idea/
+.DS_Store
+
+# Secrets locaux (jamais dans le repo : on utilise les GitHub Secrets)
+.env
