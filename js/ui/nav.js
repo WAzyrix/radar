@@ -10,6 +10,7 @@ import { echapper, titre, antiRebond } from '../lib/outils.js';
 import { FORMATS_FR } from '../lib/traductions.js';
 import { ICONES } from './icones.js';
 import { synchroniser } from '../lib/ma-liste.js';
+import { completerAdn } from '../lib/completer-adn.js';
 
 const PAGES = [
   { id: 'accueil', nom: 'Accueil', lien: './', icone: 'accueil' },
@@ -40,7 +41,13 @@ export function afficherNavigation(pageActive) {
   brancherRecherche();
 
   // Récupère "Ma liste" depuis mes autres appareils (si elle a changé là-bas)
-  if (relaisConfigure()) synchroniser().catch(() => { /* hors connexion : on garde la liste locale */ });
+  // puis retrouve la série ADN des animés suivis qui n'en ont pas encore (notifs VOSTFR/VF)
+  if (relaisConfigure()) {
+    synchroniser()
+      .catch(() => { /* hors connexion : on garde la liste locale */ })
+      .then(() => completerAdn())
+      .catch(() => { /* AniList ou ADN indisponible : on réessaiera plus tard */ });
+  }
   // Service worker : reçoit les notifications et rend le site installable
   if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
 }
