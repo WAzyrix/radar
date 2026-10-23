@@ -15,6 +15,7 @@
 //   PUT    /prefs/:code                               types de notifications voulus
 //   POST   /test/:code                                notification de test
 //   GET    /historique/:code                          dernières notifications
+//   POST   /recommander                               recommander à un pote (compte Supabase)
 // Tâche planifiée (toutes les heures) : verification.js
 // =========================================================
 import { filtrer, listeJeux, ficheJeu, hasard, genres } from './jeux.js';
@@ -23,6 +24,7 @@ import {
   codeValide, lireListe, ecrireListe, abonner, desabonner, lireAbonnement, changerPrefs, notifTest, lireHistorique, Erreur400,
 } from './comptes.js';
 import { verifier } from './verification.js';
+import { recommander } from './recommandations.js';
 
 const TAILLE_MAX = 300_000; // octets acceptés dans un envoi (une liste reste bien en dessous)
 
@@ -33,7 +35,7 @@ export default {
     const cors = {
       'Access-Control-Allow-Origin': originesOk.includes(origine) ? origine : originesOk[0],
       'Access-Control-Allow-Methods': 'GET, PUT, POST, DELETE, OPTIONS',
-      'Access-Control-Allow-Headers': 'Content-Type',
+      'Access-Control-Allow-Headers': 'Content-Type, Authorization',
       Vary: 'Origin',
     };
     if (requete.method === 'OPTIONS') return new Response(null, { headers: cors });
@@ -75,6 +77,9 @@ async function router(requete, env) {
 
   // ---------- Notifications ----------
   if (methode === 'GET' && chemin === '/push/cle') return { donnees: { cle: env.VAPID_PUBLIQUE }, duree: 86400 };
+
+  // ---------- Recommandations entre potes ----------
+  if (methode === 'POST' && chemin === '/recommander') return { donnees: await recommander(env, requete, await lireCorps(requete)) };
 
   // ---------- Routes avec un code perso ----------
   if (['liste', 'abo', 'prefs', 'test', 'historique'].includes(segments[0])) {

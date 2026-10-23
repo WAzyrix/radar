@@ -189,6 +189,51 @@
 .ligne-code { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px; }
 .ligne-code .champ { flex: 1 1 260px; font-family: ui-monospace, monospace; }
 
+/* ---------- Potes ---------- */
+.moi { display: flex; align-items: center; gap: 14px; }
+.moi .avatar { width: 54px; height: 54px; border-radius: 50%; display: grid; place-items: center; font-size: 1.7rem; background: var(--surface-forte); }
+.moi b { display: block; font-size: 1.1rem; }
+.moi small { color: var(--texte-2); }
+.avatars { display: flex; flex-wrap: wrap; gap: 8px; }
+.avatars button { width: 44px; height: 44px; border-radius: 50%; font-size: 1.35rem; background: var(--surface); border: 2px solid transparent; transition: all var(--transition); }
+.avatars button.actif { border-color: var(--accent); background: color-mix(in oklab, var(--accent) 18%, transparent); }
+.groupe + .groupe { margin-top: 22px; padding-top: 22px; border-top: 1px solid var(--bordure); }
+.groupe h3 small { font-weight: 500; color: var(--texte-3); font-size: 0.82rem; margin-left: 6px; }
+.groupe code { padding: 2px 8px; border-radius: 6px; background: var(--fond-2); }
+.potes { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
+.pote { display: inline-flex; align-items: center; gap: 6px; padding: 4px 10px 4px 4px; border-radius: 999px; background: var(--surface); font-size: 0.85rem; font-weight: 600; }
+.pote i { font-style: normal; width: 24px; height: 24px; border-radius: 50%; display: grid; place-items: center; background: var(--surface-forte); }
+.potes-suivent { display: inline-flex; align-items: center; gap: 6px; margin-top: 14px; font-size: 0.85rem; color: var(--texte-2); }
+.potes-suivent i { font-style: normal; margin-right: -4px; }
+.recos { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 340px), 1fr)); gap: 12px; }
+.reco { display: flex; gap: 14px; padding: 12px; border-radius: var(--r-l); background: var(--surface); border: 1px solid var(--bordure); transition: background var(--transition); }
+.reco:hover { background: var(--surface-forte); }
+.reco.nouvelle { border-color: color-mix(in oklab, var(--accent) 50%, transparent); }
+.reco img { width: 72px; height: 100px; object-fit: cover; border-radius: var(--r-s); flex: none; }
+.reco div { display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+.reco small { color: var(--texte-3); font-size: 0.8rem; }
+.reco p { color: var(--texte-2); font-size: 0.9rem; }
+.activite { list-style: none; display: grid; gap: 6px; }
+.activite a { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 8px; padding: 10px 14px; border-radius: var(--r-m); background: var(--surface); font-size: 0.9rem; transition: background var(--transition); }
+.activite a:hover { background: var(--surface-forte); }
+.activite span, .activite small { color: var(--texte-2); }
+.affiche-image.paysage img { object-position: center; }
+
+/* Fenêtre "Recommander" (élément <dialog> natif) */
+.dialogue {
+  margin: auto;
+  width: min(460px, calc(100vw - 32px));
+  padding: 22px;
+  border: 1px solid var(--bordure);
+  border-radius: var(--r-l);
+  background: var(--fond-2);
+  color: var(--texte);
+  box-shadow: 0 30px 80px rgba(0, 0, 0, 0.6);
+}
+.dialogue::backdrop { background: rgba(0, 0, 0, 0.55); backdrop-filter: blur(6px); }
+.dialogue h3 { margin-bottom: 14px; }
+.dialogue textarea { resize: vertical; }
+
 /* "Où le regarder en France" */
 .carte-large { grid-column: 1 / -1; }
 .dispo-saisons { display: grid; gap: 8px; margin: 12px 0; }

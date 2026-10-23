@@ -11,6 +11,7 @@ import { ICONES } from '../ui/icones.js';
 
 afficherNavigation('ma-liste');
 document.documentElement.style.setProperty('--accent', '#ff7ab6');
+document.getElementById('icone-potes').innerHTML = ICONES.potes;
 const $ = (id) => document.getElementById(id);
 
 // =========================================================

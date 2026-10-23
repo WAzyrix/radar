@@ -11,9 +11,11 @@ import { FORMATS_FR } from '../lib/traductions.js';
 import { ICONES } from './icones.js';
 import { synchroniser } from '../lib/ma-liste.js';
 import { completerAdn } from '../lib/completer-adn.js';
+import { SUPABASE_URL } from '../config.js';
 
 const PAGES = [
-  { id: 'accueil', nom: 'Accueil', lien: './', icone: 'accueil' },
+  // Sur PC, le logo ramène à l'accueil : pas besoin du lien (place pour "Potes")
+  { id: 'accueil', nom: 'Accueil', lien: './', icone: 'accueil', pc: false },
   { id: 'animes', nom: 'Animés', lien: 'animes.html', icone: 'anime' },
   { id: 'jeux', nom: 'Jeux', lien: 'jeux.html', icone: 'manette' },
   { id: 'cinema', nom: 'Films', lien: 'actus.html?cat=cinema', icone: 'film' },
@@ -21,6 +23,8 @@ const PAGES = [
   { id: 'cyber', nom: 'Cyber', lien: 'actus.html?cat=cyber', icone: 'cyber', mobile: false },
   { id: 'monde', nom: 'Actu', lien: 'actus.html?cat=monde', icone: 'monde' },
   { id: 'ma-liste', nom: 'Ma liste', lien: 'ma-liste.html', icone: 'coeur' },
+  // Sur mobile, "Potes" est accessible depuis la page Ma liste
+  { id: 'potes', nom: 'Potes', lien: 'potes.html', icone: 'potes', mobile: false },
 ];
 
 export function afficherNavigation(pageActive) {
@@ -29,7 +33,7 @@ export function afficherNavigation(pageActive) {
   document.body.insertAdjacentHTML('afterbegin', `
     <header class="nav">
       <a href="./" class="logo"><span class="logo-point"></span>Radar</a>
-      <nav class="nav-liens" aria-label="Navigation principale">${PAGES.map((p) => lien(p, false)).join('')}</nav>
+      <nav class="nav-liens" aria-label="Navigation principale">${PAGES.filter((p) => p.pc !== false).map((p) => lien(p, false)).join('')}</nav>
       <form class="recherche" role="search" action="animes.html">
         ${ICONES.loupe}
         <input type="search" name="q" placeholder="Rechercher un animé, un jeu…" aria-label="Rechercher un animé ou un jeu" autocomplete="off">
@@ -48,6 +52,8 @@ export function afficherNavigation(pageActive) {
       .then(() => completerAdn())
       .catch(() => { /* AniList ou ADN indisponible : on réessaiera plus tard */ });
   }
+  // Connecté à un compte : ma liste est aussi copiée pour mes potes (chargé seulement si les comptes sont configurés)
+  if (!SUPABASE_URL.includes('A-REMPLACER')) import('../lib/compte.js').catch(() => {});
   // Service worker : reçoit les notifications et rend le site installable
   if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
 }

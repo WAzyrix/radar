@@ -10,6 +10,7 @@ import { afficherNavigation } from '../ui/nav.js';
 import { appliquerAccent } from '../ui/accent.js';
 import { carteJeu, badgeMetacritic, dateSortie, imageReduite } from '../ui/cartes-jeux.js';
 import { ICONES } from '../ui/icones.js';
+import { boutonRecommander, brancherRecommandation } from '../ui/recommander.js';
 
 afficherNavigation('jeux');
 
@@ -135,10 +136,12 @@ function afficherFiche({ jeu, captures, serie, steam, configRawg }) {
         <div class="surtitre">${echapper(genres || 'Jeu vidéo')}</div>
         <h1>${echapper(jeu.name)}</h1>
         <div class="meta">${meta}</div>
+        <div id="potes-suivent"></div>
         <div class="actions" style="margin-top:22px" id="statuts">${boutonsStatut(jeu)}</div>
         <div class="actions" style="margin-top:10px">
           <button type="button" class="bouton bouton-verre bouton-petit" id="hasard">${ICONES.de}Au hasard</button>
           ${jeu.website ? `<a class="bouton bouton-verre bouton-petit" href="${echapper(jeu.website)}" target="_blank" rel="noopener">${ICONES.externe}Site officiel</a>` : ''}
+          ${boutonRecommander()}
         </div>
       </div>
     </section>
@@ -190,6 +193,8 @@ function afficherFiche({ jeu, captures, serie, steam, configRawg }) {
     changerStatut(jeu, bouton.dataset.statut);
     document.getElementById('statuts').innerHTML = boutonsStatut(jeu);
   });
+
+  brancherRecommandation({ type: 'jeu', id: jeu.id, titre: jeu.name, image: jeu.background_image }, document.getElementById('potes-suivent'));
 
   // Au hasard
   document.getElementById('hasard').addEventListener('click', async (e) => {

@@ -13,6 +13,7 @@ import { carteAffiche, badgesLangues } from '../ui/cartes.js';
 import { chargerAdn, trouverSerie, numeroSaison, prochaineSortie, derniereSortie } from '../api/adn.js';
 import { brancherBoutonHasard } from '../ui/hasard.js';
 import { ICONES } from '../ui/icones.js';
+import { boutonRecommander, brancherRecommandation } from '../ui/recommander.js';
 
 afficherNavigation('animes');
 
@@ -132,7 +133,9 @@ function afficherFiche(m, adn) {
             ${bandeAnnonce}
             ${suivre}
             <button type="button" class="bouton bouton-verre" id="hasard">${ICONES.de}Au hasard</button>
+            ${boutonRecommander()}
           </div>
+          <div id="potes-suivent"></div>
           ${prochain}
         </div>
       </div>
@@ -193,6 +196,10 @@ function afficherFiche(m, adn) {
     bouton.innerHTML = boutonSuivre(suivi);
   });
   brancherBoutonHasard(document.getElementById('hasard'));
+  brancherRecommandation(
+    { type: estManga ? 'manga' : 'anime', id: m.id, titre: titre(m), image: m.coverImage.extraLarge },
+    document.getElementById('potes-suivent'),
+  );
 
   // "Lire la suite" : visible seulement si le synopsis est vraiment coupé
   const synopsis = document.querySelector('.synopsis');

@@ -113,10 +113,15 @@ function envoyerPlusTard() {
   minuteur = setTimeout(() => envoyer().catch(() => {}), 1500); // on regroupe les clics rapprochés
 }
 
+// Fonctions à appeler après chaque envoi (ex : copie de la liste pour mes potes, voir compte.js)
+const apresEnvoi = [];
+export const surEnvoi = (fonction) => apresEnvoi.push(fonction);
+
 export async function envoyer() {
   const liste = lireLocal();
   await appel('PUT', `/liste/${codePerso()}`, liste);
   localStorage.setItem('radar:synchro', String(Date.now()));
+  apresEnvoi.forEach((f) => f());
 }
 
 /** Au chargement d'une page : on récupère la version distante si elle est plus récente. */

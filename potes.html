@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0a0a0f">
+  <title>Potes · Radar</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" href="icones/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Radar">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/composants.css">
+  <link rel="stylesheet" href="css/pages.css">
+</head>
+<body>
+  <main>
+    <header class="page-tete">
+      <h1><span>Potes</span></h1>
+      <p>Ton compte, ton groupe de potes, ce qu'ils suivent et ce qu'ils te recommandent.</p>
+    </header>
+
+    <section class="section" id="compte">
+      <div class="section-tete"><h2>Mon compte</h2></div>
+      <div class="section-contenu"><div class="carte" id="carte-compte"></div></div>
+    </section>
+
+    <section class="section" id="groupe" hidden>
+      <div class="section-tete"><h2>Mon groupe</h2></div>
+      <div class="section-contenu"><div class="carte" id="carte-groupe"></div></div>
+    </section>
+
+    <section class="section" id="recommandations" hidden>
+      <div class="section-tete"><h2>Recommandations reçues</h2></div>
+      <div class="section-contenu" id="liste-recos"></div>
+    </section>
+
+    <section class="section" id="populaire" hidden>
+      <div class="section-tete"><h2>Populaire chez tes potes</h2></div>
+      <div class="carrousel" id="liste-populaire"></div>
+    </section>
+
+    <section class="section" id="activite" hidden>
+      <div class="section-tete"><h2>Activité récente</h2></div>
+      <div class="section-contenu"><ul class="activite" id="liste-activite"></ul></div>
+    </section>
+  </main>
+
+  <footer>Radar · comptes : Supabase. Seuls les membres de ton groupe voient ton pseudo et ta liste.</footer>
+
+  <script type="module" src="js/pages/potes.js"></script>
+</body>
+</html>
