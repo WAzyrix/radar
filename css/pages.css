@@ -284,6 +284,7 @@
 .rattrapage-carte small { color: var(--texte-2); font-size: 0.8rem; }
 .rattrapage-carte a { color: inherit; }
 .rattrapage-carte .bouton { align-self: flex-start; margin-top: 6px; }
+.rattrapage-replie { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px; padding: 16px 18px; border-radius: var(--r-l); background: var(--surface); border: 1px dashed var(--bordure); color: var(--texte-2); font-size: 0.9rem; }
 
 /* Explorer : panneau de filtres */
 .filtres { display: grid; gap: 18px; padding: clamp(18px, 3vw, 26px); border-radius: var(--r-l); background: var(--surface); border: 1px solid var(--bordure); margin-bottom: 24px; }

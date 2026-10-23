@@ -57,16 +57,16 @@ function aRattraper(suivi, media, sortiesMedia) {
 }
 
 async function afficherRattrapage() {
-  const section = $('rattrapage');
+  // Masquée : la section se replie sur son titre et un bouton « Afficher le rattrapage »
   const masque = rattrapageMasque();
-  section.hidden = masque;
-  $('onglet-rattrapage').hidden = masque;
+  $('rattrapage-corps').hidden = masque;
+  $('rattrapage-replie').hidden = !masque;
+  $('resume-rattrapage').textContent = '';
   if (masque) return;
 
   const zone = $('rattrapage-contenu');
   // Les animés déjà « Vu » n'ont rien à rattraper
   const suivis = listeSuivis().filter((a) => !estTermine(a));
-  $('resume-rattrapage').textContent = '';
   $('tout-a-jour').hidden = true;
   lignesRattrapage = [];
 
@@ -145,6 +145,7 @@ $('rattrapage-contenu').addEventListener('click', (e) => {
 });
 $('tout-a-jour').addEventListener('click', () => marquerAJour(lignesRattrapage));
 $('masquer-rattrapage').addEventListener('click', () => masquerRattrapage(true));
+$('afficher-rattrapage').addEventListener('click', () => masquerRattrapage(false));
 window.addEventListener('radar:preferences', afficherRattrapage);
 afficherRattrapage();
 

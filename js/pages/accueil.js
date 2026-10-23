@@ -9,7 +9,6 @@ import { echapper, titre, note, nettoyerSynopsis, afficherErreur, couleurValide,
 import { itemValide, lienElement } from '../lib/ma-liste.js';
 import { FORMATS_FR, SAISONS_FR, GENRES_VEDETTES } from '../lib/traductions.js';
 import { listeSuivis } from '../lib/suivis.js';
-import { rattrapageMasque } from '../lib/preferences.js';
 import { estTermine } from '../lib/statuts.js';
 import { afficherNavigation } from '../ui/nav.js';
 import { appliquerAccent } from '../ui/accent.js';
@@ -103,7 +102,6 @@ function afficherSuivis() {
   const suivis = listeSuivis().filter((a) => !estTermine(a)); // sans ceux déjà vus
   if (!suivis.length) return;
   document.getElementById('section-suivis').hidden = false;
-  document.getElementById('lien-rattrapage').hidden = rattrapageMasque();
   // La liste est synchronisée via le relais : id, couleur et image sont vérifiés avant affichage
   document.getElementById('suivis').innerHTML = suivis.filter(itemValide).reverse().map((s) => `
     <a class="affiche" href="${lienElement(s)}" style="--couleur:${couleurValide(s.couleur) || '#1a1a24'}">

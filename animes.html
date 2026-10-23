@@ -48,11 +48,20 @@
         <h2>Rattrapage</h2>
         <span class="lien-discret" id="resume-rattrapage" style="text-decoration:none"></span>
       </div>
-      <div class="options-ligne">
-        <button type="button" class="bouton bouton-verre bouton-petit" id="tout-a-jour" hidden>Tout marquer à jour</button>
-        <button type="button" class="lien-discret" id="masquer-rattrapage">Masquer cette section</button>
+      <div id="rattrapage-corps">
+        <div class="options-ligne">
+          <button type="button" class="bouton bouton-verre bouton-petit" id="tout-a-jour" hidden>Tout marquer à jour</button>
+          <button type="button" class="lien-discret" id="masquer-rattrapage">Masquer cette section</button>
+        </div>
+        <div class="section-contenu"><div id="rattrapage-contenu"></div></div>
       </div>
-      <div class="section-contenu"><div id="rattrapage-contenu"></div></div>
+      <!-- Section masquée : on garde le titre et ce bouton, pour pouvoir la réafficher ici même -->
+      <div class="section-contenu" id="rattrapage-replie" hidden>
+        <div class="rattrapage-replie">
+          <span>Section masquée. Tu peux aussi la réafficher depuis Ma liste.</span>
+          <button type="button" class="bouton bouton-plein bouton-petit" id="afficher-rattrapage">Afficher le rattrapage</button>
+        </div>
+      </div>
     </section>
 
     <!-- ===== Explorer : recherche, genres et filtres ===== -->
