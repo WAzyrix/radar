@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-23T14:25:27+00:00",
+ "maj": "2026-10-23T14:27:44+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,28 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "7c075353c799",
+   "titre": "AKAA : les artistes africaines changent la perspective sur les femmes",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/actuelles/20261023-akaa-les-artistes-africaines-changent-la-perspective-sur-les-femmes",
+   "source": "France 24",
+   "date": "2026-10-23T14:23:12+00:00",
+   "extrait": "Pour la 11e édition du salon d'art contemporain AKAA (Also Known As Africa), \"Actuelles\" rencontre des artistes africaines et afrodescendantes qui parlent de leur travail, de l'exploration du passé…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "4c2133e3f539",
+   "titre": "Dix départements de l'Ouest et du Nord placés en vigilance orange pour des vents violents en raison de la tempête Austen",
+   "lien": "https://www.franceinfo.fr/environnement/meteo/vingt-trois-departements-de-l-ouest-et-du-nord-desormais-places-en-vigilance-orange-pour-vents-violents-en-raison-du-passage-de-la-tempete-austen_8250061.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-23T14:23:08+00:00",
+   "extrait": "L'institut de prévisions prévoit \"des rafales atteignant 100 à 110 km/h dans les terres, et jusqu'à 130/140 km/h sur les zones littorales\" sur la Bretagne.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
   {
    "id": "1bed663ee79a",
    "titre": "Une fusillade dans une église en Jordanie fait au moins sept morts",
@@ -56,16 +78,6 @@
    "zone": "usa"
   },
   {
-   "id": "77c9a0b25832",
-   "titre": "Did High-Speed Rail help consultants \"manipulate\" a bid to win a lucrative contract?",
-   "lien": "https://www.cbsnews.com/news/california-high-speed-rail-consulting-giant-lucrative-contract/",
-   "source": "CBS News",
-   "date": "2026-10-23T14:17:38+00:00",
-   "extrait": "Records show California High-Speed Rail knew a winning contract bid relied on \"artificially low\" rates that the consulting firm never intended to charge.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "d1369e8be509",
    "titre": "Melania Trump secures \"temporary ceasefire\" in Ukrainian city",
    "lien": "https://www.cbsnews.com/news/first-lady-melania-trump-temporary-ceasefire-russia-ukraine-oleshky/",
@@ -75,6 +87,16 @@
    "tags": [
     "Politique"
    ],
+   "zone": "usa"
+  },
+  {
+   "id": "77c9a0b25832",
+   "titre": "Did High-Speed Rail help consultants \"manipulate\" a bid to win a lucrative contract?",
+   "lien": "https://www.cbsnews.com/news/california-high-speed-rail-consulting-giant-lucrative-contract/",
+   "source": "CBS News",
+   "date": "2026-10-23T14:17:00+00:00",
+   "extrait": "Records show California High-Speed Rail knew a winning contract bid relied on \"artificially low\" rates that the consulting firm never intended to charge.",
+   "tags": [],
    "zone": "usa"
   },
   {
@@ -203,7 +225,7 @@
    "lien": "https://www.franceinfo.fr/monde/moyen-orient/au-moins-sept-morts-apres-une-fusillade-dans-une-eglise-en-jordanie_8250901.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-10-23T14:06:29+00:00",
-   "extrait": "\"Deux hommes armés sont sortis d'un véhicule et ont ouvert le feu lors d'un cortège funéraire\", ont annoncé les autorités.",
+   "extrait": "\"Deux hommes armés sont sortis d'un véhicule et ont ouvert le feu lors d'un cortège funéraire\", ont expliqué les autorités.",
    "tags": [],
    "zone": "france"
   },
@@ -644,18 +666,6 @@
    "zone": "usa"
   },
   {
-   "id": "4c2133e3f539",
-   "titre": "Vingt départements de l'Ouest et du Nord placés en vigilance orange pour des vents violents en raison de la tempête Austen",
-   "lien": "https://www.franceinfo.fr/environnement/meteo/vingt-trois-departements-de-l-ouest-et-du-nord-desormais-places-en-vigilance-orange-pour-vents-violents-en-raison-du-passage-de-la-tempete-austen_8250061.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-23T12:37:08+00:00",
-   "extrait": "L'institut de prévisions prévoit \"des rafales atteignant 100 à 110 km/h dans les terres, et jusqu'à 130/140 km/h sur les zones littorales\" sur la Bretagne.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "181813f59fcc",
    "titre": "Fibre Excellence : liquidation en vue du site de Saint-Gaudens, près de 250 emplois menacés",
    "lien": "https://www.lemonde.fr/economie/article/2026/10/23/fibre-excellence-liquidation-en-vue-du-site-de-saint-gaudens-pres-de-250-emplois-menaces_6799074_3234.html",
@@ -664,6 +674,18 @@
    "extrait": "Malgré les efforts de la région Occitanie et de plusieurs repreneurs, l’usine du premier papetier français va être placée en liquidation judiciaire, après le site de Tarascon dans les…",
    "tags": [
     "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "8c995ac2b241",
+   "titre": "En Ukraine, la difficile reconstruction des orphelins de guerre : « On ne lui parle pas de la mort de ses parents. On attend qu’il pose des questions »",
+   "lien": "https://www.lemonde.fr/international/article/2026/10/23/en-ukraine-la-difficile-reconstruction-des-orphelins-de-guerre-on-ne-lui-parle-pas-de-la-mort-de-ses-parents-on-attend-qu-il-pose-des-questions_6799075_3210.html",
+   "source": "Le Monde",
+   "date": "2026-10-23T12:30:09+00:00",
+   "extrait": "Des milliers d’enfants ukrainiens, orphelins à cause de la guerre, sont pris en charge dans des orphelinats publics de type post-soviétique, des familles d’accueil ou des associations qui tentent de…",
+   "tags": [
+    "Conflits"
    ],
    "zone": "france"
   },
