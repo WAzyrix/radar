@@ -29,7 +29,7 @@ export function mettreAJourSaisons(id, saisons) {
  * Suit / ne suit plus un animé ou un manga AniList. Renvoie true s'il est maintenant suivi.
  * `adn` : identifiant de la série sur ADN (pour les notifications VOSTFR/VF).
  */
-export function basculerSuivi(media, { adn, saisons } = {}) {
+export function basculerSuivi(media, { adn, saisons, vu } = {}) {
   const type = typeDe(media);
   const existant = trouverSuivi(media.id, type);
   if (existant) {
@@ -45,9 +45,32 @@ export function basculerSuivi(media, { adn, saisons } = {}) {
     couleur: media.coverImage.color,
     adn,
     saisons: type === 'anime' && saisons?.length ? saisons : undefined,
+    vu: type === 'anime' ? vu : undefined,
   });
   return true;
 }
+
+// ---------- Progression : dernier épisode vu, saison par saison ----------
+// suivi.vu = { "16498": 25, "20958": 3 } (identifiant AniList de la saison -> dernier épisode vu).
+// Une saison absente de "vu" est considérée à jour à la date du suivi (ajouteLe) :
+// seuls les épisodes sortis APRÈS sont à rattraper.
+
+/** Dernier épisode sorti d'une saison (selon AniList). `numeros` = épisodes connus par le calendrier. */
+export function dernierSorti(media, numeros = []) {
+  if (media.nextAiringEpisode) return media.nextAiringEpisode.episode - 1;
+  if (['FINISHED', 'CANCELLED'].includes(media.status)) return media.episodes || Math.max(0, ...numeros);
+  return Math.max(0, ...numeros); // pas encore sorti, ou en pause sans date
+}
+
+/** Enregistre le dernier épisode vu pour une ou plusieurs saisons : { idSaison: épisode }. */
+export function enregistrerVus(idSuivi, vus) {
+  const suivi = trouverSuivi(idSuivi);
+  if (!suivi) return;
+  maListe.enregistrer({ type: 'anime', id: suivi.id, vu: { ...(suivi.vu || {}), ...vus } });
+}
+
+/** Le suivi (franchise) auquel appartient une saison. */
+export const suiviDe = (idSaison) => trouverSuivi(idSaison);
 
 /** Statut de l'animé (ou manga) suivi : à voir, en cours, vu… (undefined s'il n'est pas suivi). */
 export function statutSuivi(id, type = 'anime') {

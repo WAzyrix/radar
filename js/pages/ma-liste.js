@@ -9,6 +9,7 @@ import { afficherNavigation } from '../ui/nav.js';
 import { carteJeuListe } from '../ui/cartes-jeux.js';
 import { ICONES } from '../ui/icones.js';
 import { ETAPES, etapeDe, nomStatut, statutSuivant } from '../lib/statuts.js';
+import { rattrapageMasque, masquerRattrapage } from '../lib/preferences.js';
 
 afficherNavigation('ma-liste');
 document.documentElement.style.setProperty('--accent', '#ff7ab6');
@@ -270,6 +271,16 @@ function afficherSynchro(message = '') {
     }
   });
 }
+
+// =========================================================
+// 5. Affichage
+// =========================================================
+function afficherPreferences() {
+  $('afficher-rattrapage').checked = !rattrapageMasque();
+}
+$('afficher-rattrapage').addEventListener('change', (e) => masquerRattrapage(!e.target.checked));
+window.addEventListener('radar:preferences', afficherPreferences);
+afficherPreferences();
 
 // ---------- Lancement ----------
 afficherSynchro();

@@ -2,9 +2,10 @@
 // Page Animés : calendrier de la semaine, rattrapage, explorer (genres + filtres).
 // =========================================================
 import { explorer, auHasard, rattrapage } from '../api/animes.js';
-import { echapper, titre, note, nettoyerSynopsis, ilYa, compteARebours, afficherErreur, antiRebond } from '../lib/outils.js';
+import { echapper, titre, note, nettoyerSynopsis, compteARebours, afficherErreur, antiRebond } from '../lib/outils.js';
 import { GENRES_FR, TAGS_FR, STATUTS_FR, FORMATS_FR, GENRES_VEDETTES } from '../lib/traductions.js';
-import { listeSuivis } from '../lib/suivis.js';
+import { listeSuivis, dernierSorti, enregistrerVus } from '../lib/suivis.js';
+import { rattrapageMasque, masquerRattrapage } from '../lib/preferences.js';
 import { estTermine } from '../lib/statuts.js';
 import { afficherNavigation } from '../ui/nav.js';
 import { carteAffiche, squelettesAffiches } from '../ui/cartes.js';
@@ -36,88 +37,116 @@ monterCalendrier($('jours'), $('episodes'), { filtreSuivis: $('filtre-suivis'), 
 // =========================================================
 // 2. Rattrapage
 // =========================================================
-const CLE_PERIODE = 'radar:periode-rattrapage';
+// Pour chaque animé suivi, saison par saison : les épisodes sortis après le dernier vu
+// (suivis.js, "vu"). Quelqu'un d'à jour ne voit rien d'autre que « Tu es à jour ».
+const JOUR = 86400_000;
+let lignesRattrapage = []; // ce qui est affiché (pour « Tout marquer à jour »)
 
-async function afficherRattrapage(jours) {
+// Épisodes à rattraper pour une saison d'un animé suivi
+function aRattraper(suivi, media, sortiesMedia) {
+  const numeros = sortiesMedia.map((s) => s.episode);
+  const dernier = dernierSorti(media, numeros);
+  const vu = suivi.vu?.[media.id];
+  if (Number.isInteger(vu)) {
+    return { dernier, episodes: Array.from({ length: Math.max(0, dernier - vu) }, (_, i) => vu + 1 + i) };
+  }
+  // Jamais renseigné : à jour à la date du suivi, on ne compte que ce qui est sorti depuis
+  const depuis = Date.parse(suivi.ajouteLe) || 0;
+  const apres = sortiesMedia.filter((s) => s.airingAt * 1000 > depuis).map((s) => s.episode);
+  return { dernier, episodes: [...new Set(apres)].sort((a, b) => a - b) };
+}
+
+async function afficherRattrapage() {
+  const section = $('rattrapage');
+  const masque = rattrapageMasque();
+  section.hidden = masque;
+  $('onglet-rattrapage').hidden = masque;
+  if (masque) return;
+
   const zone = $('rattrapage-contenu');
   // Les animés déjà « Vu » n'ont rien à rattraper
   const suivis = listeSuivis().filter((a) => !estTermine(a));
   $('resume-rattrapage').textContent = '';
+  $('tout-a-jour').hidden = true;
+  lignesRattrapage = [];
 
   if (!suivis.length) {
-    zone.innerHTML = `<div class="vide"><strong>Tu ne suis encore aucun animé</strong>Ouvre la fiche d'un animé et appuie sur « Suivre » : il apparaîtra ici avec les épisodes que tu as ratés.</div>`;
+    zone.innerHTML = `<div class="vide"><strong>Tu ne suis encore aucun animé</strong>Ouvre la fiche d'un animé et appuie sur « Suivre » : ses nouveaux épisodes apparaîtront ici.</div>`;
     return;
   }
 
   zone.innerHTML = '<div class="rattrapage-liste">' + '<div class="squelette" style="height:130px;border-radius:24px"></div>'.repeat(Math.min(suivis.length, 6)) + '</div>';
   try {
-    const depuis = new Date(Date.now() - jours * 86400_000);
+    // Calendrier lu depuis le plus ancien suivi sans progression (90 jours maximum)
+    const plusAncien = Math.min(...suivis.map((s) => Date.parse(s.ajouteLe) || Date.now()));
+    const depuis = new Date(Math.max(plusAncien, Date.now() - 90 * JOUR));
     const ids = [...new Set(suivis.flatMap((a) => [a.id, ...(a.saisons || [])]))];
     const { medias, sorties } = await rattrapage(ids, depuis);
 
-    // On regroupe les épisodes sortis par animé
-    const parAnime = {};
-    for (const s of sorties) (parAnime[s.mediaId] ??= []).push(s);
+    const parMedia = {};
+    for (const s of sorties) (parMedia[s.mediaId] ??= []).push(s);
 
-    const lignes = medias.map((m) => {
-      const eps = (parAnime[m.id] || []).sort((a, b) => a.episode - b.episode);
-      return { m, eps };
-    }).sort((a, b) => b.eps.length - a.eps.length);
+    const dejaVus = new Set();
+    for (const suivi of suivis) {
+      const franchise = new Set([suivi.id, ...(suivi.saisons || [])]);
+      for (const m of medias.filter((x) => franchise.has(x.id) && !dejaVus.has(x.id))) {
+        dejaVus.add(m.id);
+        const { dernier, episodes } = aRattraper(suivi, m, parMedia[m.id] || []);
+        if (episodes.length) lignesRattrapage.push({ suivi, m, dernier, episodes });
+      }
+    }
+    lignesRattrapage.sort((a, b) => b.episodes.length - a.episodes.length);
 
-    const total = sorties.length;
-    const nbAnimes = lignes.filter((l) => l.eps.length).length;
-    $('resume-rattrapage').textContent = total
-      ? `${total} épisode${total > 1 ? 's' : ''} à rattraper sur ${nbAnimes} animé${nbAnimes > 1 ? 's' : ''}`
-      : 'Tu es à jour 🎉';
-
-    zone.innerHTML = `<div class="rattrapage-liste">${lignes.map(carteRattrapage).join('')}</div>`;
+    if (!lignesRattrapage.length) {
+      zone.innerHTML = '<div class="vide"><strong>Tu es à jour 🎉</strong>Les nouveaux épisodes de tes animés apparaîtront ici dès leur sortie.</div>';
+      return;
+    }
+    const total = lignesRattrapage.reduce((n, l) => n + l.episodes.length, 0);
+    const nb = lignesRattrapage.length;
+    $('resume-rattrapage').textContent = `${total.toLocaleString('fr-FR')} épisode${total > 1 ? 's' : ''} à rattraper sur ${nb} animé${nb > 1 ? 's' : ''}`;
+    $('tout-a-jour').hidden = false;
+    zone.innerHTML = `<div class="rattrapage-liste">${lignesRattrapage.map(carteRattrapage).join('')}</div>`;
   } catch (erreur) {
     afficherErreur(zone, erreur);
   }
 }
 
-function carteRattrapage({ m, eps }) {
+function carteRattrapage({ m, dernier, episodes }, index) {
   const couleur = m.coverImage.color || '#8b9cff';
-  let detail;
-  if (eps.length) {
-    const premier = eps[0].episode;
-    const dernier = eps[eps.length - 1];
-    const plage = eps.length > 1 ? `Épisodes ${premier} à ${dernier.episode}` : `Épisode ${premier}`;
-    detail = `<span class="compteur">${eps.length} nouveau${eps.length > 1 ? 'x' : ''}</span>
-      <small>${plage} · dernier ${ilYa(dernier.airingAt * 1000)}</small>`;
-  } else {
-    detail = '<span class="compteur zero">Rien de nouveau</span>';
-  }
+  const premier = episodes[0];
+  const plage = episodes.length > 1 ? `Épisodes ${premier} à ${episodes[episodes.length - 1]}` : `Épisode ${premier}`;
   const suite = m.nextAiringEpisode
     ? `<small>Prochain : ép. ${m.nextAiringEpisode.episode} dans ${compteARebours(m.nextAiringEpisode.airingAt)}</small>`
     : `<small>${STATUTS_FR[m.status] || ''}</small>`;
-
   return `
-    <a class="rattrapage-carte ${eps.length ? 'nouveau' : ''}" href="anime.html?id=${m.id}" style="--couleur:${couleur}">
-      <img src="${m.coverImage.large}" alt="" loading="lazy">
+    <div class="rattrapage-carte nouveau" style="--couleur:${couleur}">
+      <a href="anime.html?id=${m.id}" tabindex="-1" aria-hidden="true"><img src="${m.coverImage.large}" alt="" loading="lazy"></a>
       <div class="infos">
-        <strong>${echapper(titre(m))}</strong>
-        ${detail}
+        <a href="anime.html?id=${m.id}"><strong>${echapper(titre(m))}</strong></a>
+        <span class="compteur">${episodes.length.toLocaleString('fr-FR')} nouveau${episodes.length > 1 ? 'x' : ''}</span>
+        <small>${plage} · ${dernier} sorti${dernier > 1 ? 's' : ''}</small>
         ${suite}
+        <button type="button" class="bouton bouton-verre bouton-petit" data-a-jour="${index}">${ICONES.check}Je suis à jour</button>
       </div>
-    </a>`;
+    </div>`;
 }
 
-function monterRattrapage() {
-  let jours = Number(localStorage.getItem(CLE_PERIODE)) || 14;
-  const boutons = $('periodes').querySelectorAll('button');
-  const activer = () => boutons.forEach((b) => b.classList.toggle('actif', Number(b.dataset.jours) === jours));
-
-  boutons.forEach((b) => b.addEventListener('click', () => {
-    jours = Number(b.dataset.jours);
-    localStorage.setItem(CLE_PERIODE, jours); // on retient le choix pour la prochaine fois
-    activer();
-    afficherRattrapage(jours);
-  }));
-  activer();
-  afficherRattrapage(jours);
+function marquerAJour(lignes) {
+  // Regroupé par animé suivi : une seule écriture par franchise
+  const parSuivi = new Map();
+  for (const { suivi, m, dernier } of lignes) parSuivi.set(suivi.id, { ...(parSuivi.get(suivi.id) || {}), [m.id]: dernier });
+  for (const [idSuivi, vus] of parSuivi) enregistrerVus(idSuivi, vus);
+  afficherRattrapage();
 }
-monterRattrapage();
+
+$('rattrapage-contenu').addEventListener('click', (e) => {
+  const bouton = e.target.closest('[data-a-jour]');
+  if (bouton) marquerAJour([lignesRattrapage[Number(bouton.dataset.aJour)]]);
+});
+$('tout-a-jour').addEventListener('click', () => marquerAJour(lignesRattrapage));
+$('masquer-rattrapage').addEventListener('click', () => masquerRattrapage(true));
+window.addEventListener('radar:preferences', afficherRattrapage);
+afficherRattrapage();
 
 // =========================================================
 // 3. Explorer : texte + genres/thèmes + filtres

@@ -54,6 +54,12 @@ export async function ecrireListe(env, code, donnees) {
       sortie: i.sortie ? String(i.sortie).slice(0, 10) : undefined,
       adn: typeof i.adn === 'number' ? i.adn : undefined,
       saisons: Array.isArray(i.saisons) ? i.saisons.filter((n) => Number.isInteger(n)).slice(0, 30) : undefined,
+      // Rattrapage : dernier épisode vu par saison { "16498": 25 }
+      vu: i.vu && typeof i.vu === 'object' && !Array.isArray(i.vu)
+        ? Object.fromEntries(Object.entries(i.vu)
+          .filter(([saison, episode]) => /^\d{1,12}$/.test(saison) && Number.isInteger(episode) && episode >= 0 && episode < 100_000)
+          .slice(0, 60))
+        : undefined,
       ajouteLe: String(i.ajouteLe || '').slice(0, 30),
     }));
   await ecrireSiChange(env, `liste:${code}`, { maj: donnees.maj, items });

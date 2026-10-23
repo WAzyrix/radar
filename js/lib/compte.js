@@ -112,6 +112,21 @@ export async function enregistrerProfil({ pseudo, avatar }) {
   verifier(await supabase().from('profils').upsert({ id: u.id, pseudo: pseudo.trim(), avatar }));
 }
 
+// ---------- Préférences d'affichage (visibles par moi seul : voir supabase/preferences.sql) ----------
+/** Mes préférences enregistrées : objet, null si aucune, undefined si je ne suis pas connecté. */
+export async function mesPreferences() {
+  const u = await utilisateur();
+  if (!u) return undefined;
+  const ligne = verifier(await supabase().from('preferences').select('rattrapage_masque, maj').eq('user_id', u.id).maybeSingle());
+  return ligne && { rattrapageMasque: ligne.rattrapage_masque, maj: Number(ligne.maj) };
+}
+
+export async function enregistrerPreferences({ rattrapageMasque, maj }) {
+  const u = await utilisateur();
+  if (!u) return;
+  verifier(await supabase().from('preferences').upsert({ user_id: u.id, rattrapage_masque: rattrapageMasque, maj }));
+}
+
 // ---------- Ma liste, visible par mes potes ----------
 // Copie de la liste dans Supabase à chaque envoi au relais (si je suis connecté)
 export async function publierListe() {

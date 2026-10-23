@@ -61,7 +61,11 @@ export function afficherNavigation(pageActive) {
       .catch(() => { /* AniList ou ADN indisponible : on réessaiera plus tard */ });
   }
   // Connecté à un compte : ma liste est aussi copiée pour mes potes (chargé seulement si les comptes sont configurés)
-  if (!SUPABASE_URL.includes('A-REMPLACER')) import('../lib/compte.js').catch(() => {});
+  // et mes préférences d'affichage suivent mon compte
+  if (!SUPABASE_URL.includes('A-REMPLACER')) {
+    import('../lib/compte.js').catch(() => {});
+    import('../lib/preferences.js').then((p) => p.synchroniserPreferences()).catch(() => {});
+  }
   // Service worker : reçoit les notifications et rend le site installable
   if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
 }

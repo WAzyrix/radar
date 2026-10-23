@@ -282,6 +282,8 @@
 .rattrapage-carte .compteur { font-size: 1.35rem; font-weight: 800; letter-spacing: -0.02em; color: color-mix(in oklab, var(--couleur, var(--accent)) 60%, white); }
 .rattrapage-carte .compteur.zero { font-size: 0.9rem; font-weight: 600; color: var(--texte-3); }
 .rattrapage-carte small { color: var(--texte-2); font-size: 0.8rem; }
+.rattrapage-carte a { color: inherit; }
+.rattrapage-carte .bouton { align-self: flex-start; margin-top: 6px; }
 
 /* Explorer : panneau de filtres */
 .filtres { display: grid; gap: 18px; padding: clamp(18px, 3vw, 26px); border-radius: var(--r-l); background: var(--surface); border: 1px solid var(--bordure); margin-bottom: 24px; }
@@ -426,3 +428,10 @@ h3 .metacritic.en-ligne { margin-left: 6px; }
 .statut-carte:hover { color: var(--texte); }
 .statut-carte.etape-en-cours { background: rgba(255, 184, 77, 0.18); color: #ffcf86; }
 .statut-carte.etape-termine { background: rgba(94, 230, 154, 0.18); color: #8ff0b8; }
+
+/* Fiche : « Tu en es où ? » (dernier épisode vu, pour le rattrapage) */
+.progression { align-items: center; }
+.progression-question { font-size: 0.85rem; font-weight: 700; color: var(--texte-2); margin-right: 2px; }
+.progression-episode { display: inline-flex; align-items: center; gap: 6px; padding: 4px 6px 4px 14px; border-radius: 999px; background: var(--surface); border: 1px solid var(--bordure); font-size: 0.85rem; font-weight: 600; color: var(--texte-2); }
+.progression-episode.actif { color: var(--texte); background: color-mix(in oklab, var(--accent) 28%, transparent); border-color: color-mix(in oklab, var(--accent) 55%, transparent); }
+.progression-episode input { width: 64px; padding: 4px 8px; border-radius: 999px; border: 1px solid var(--bordure); background: var(--fond-2); color: var(--texte); font: inherit; }
