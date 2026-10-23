@@ -21,7 +21,9 @@ async function supabase(env, chemin, options = {}) {
     },
   });
   if (!reponse.ok) throw new Error(`Supabase a répondu ${reponse.status}`);
-  return reponse.status === 204 ? null : reponse.json();
+  // Une insertion avec "Prefer: return=minimal" répond 201 SANS contenu : on ne lit du JSON que s'il y en a
+  const texte = await reponse.text();
+  return texte ? JSON.parse(texte) : null;
 }
 
 // Qui est connecté ? On demande à Supabase de vérifier le jeton envoyé par le site.
