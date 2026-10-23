@@ -65,7 +65,8 @@ export function monterCalendrier(jours, zone, { seulementPopulaires = false, fil
         if (index > 0) zone.scrollLeft = zone.children[index].offsetLeft - zone.offsetLeft - 40;
       }
     } catch (erreur) {
-      afficherErreur(zone, erreur);
+      // AniList saturé : compte à rebours puis nouvel essai (si ce jour est toujours affiché)
+      afficherErreur(zone, erreur, { reessayer: () => { if (decalage === decalageActif) afficher(); } });
     }
     quandAffiche();
   }

@@ -4,12 +4,30 @@
 // si AniList change, il n'y a que ce fichier à modifier.
 // =========================================================
 import { anilist } from './anilist.js';
+import { appeler } from '../lib/outils.js';
 
 const MINUTE = 60_000;
 const HEURE = 60 * MINUTE;
 
 // Champs nécessaires pour afficher une affiche (fragment réutilisé partout)
+// (recopiés dans scripts/collecte_anilist.py : changer les deux)
 const CHAMPS_CARTE = 'id title{romaji english} coverImage{extraLarge large color} averageScore format seasonYear episodes genres status';
+
+// ---------- Données pré-générées (data/anilist.json) ----------
+// Tendances, mieux notés de la saison et calendrier sont récupérés toutes les heures par
+// GitHub Actions (scripts/collecte_anilist.py) : l'accueil et le calendrier n'appellent plus
+// AniList. Fichier absent ou vieux de plus de 3 h (collecte en panne) : on interroge AniList.
+let pregenere;
+function lirePregenere() {
+  pregenere ??= appeler('data/anilist.json', { cache: 'no-cache' }, { service: 'le site', delai: 8000 })
+    .then((r) => (r.ok ? r.json() : null))
+    .then((d) => (d && Date.now() - Date.parse(d.genere) < 3 * HEURE ? d : null))
+    .catch(() => null);
+  return pregenere;
+}
+
+// Une donnée en cache est dépassée si le "prochain épisode" qu'elle annonce est déjà sorti
+const prochainsAJour = (medias) => medias.every((m) => !m?.nextAiringEpisode || m.nextAiringEpisode.airingAt * 1000 > Date.now());
 
 // ---------- Accueil ----------
 
@@ -21,10 +39,14 @@ export function saisonActuelle(date = new Date()) {
 // Tendances + meilleurs de la saison, en UNE requête grâce aux alias GraphQL
 export async function tendancesEtSaison() {
   const { saison, annee } = saisonActuelle();
+  const d = await lirePregenere();
+  if (d?.saison?.nom === saison && d.saison.annee === annee && d.tendances?.length) {
+    return { tendances: d.tendances, saison: d.saison.medias, nomSaison: saison };
+  }
   const data = await anilist(`query($saison:MediaSeason, $annee:Int){
     tendances: Page(perPage:20){ media(type:ANIME, sort:TRENDING_DESC, isAdult:false){ ${CHAMPS_CARTE} bannerImage description } }
     saison: Page(perPage:20){ media(type:ANIME, season:$saison, seasonYear:$annee, sort:SCORE_DESC, isAdult:false, popularity_greater:3000){ ${CHAMPS_CARTE} } }
-  }`, { saison, annee }, { duree: 30 * MINUTE });
+  }`, { saison, annee }, { duree: HEURE });
   return { tendances: data.tendances.media, saison: data.saison.media, nomSaison: saison };
 }
 
@@ -43,17 +65,24 @@ export async function calendrierDuJour(decalage) {
   const fin = new Date(debut);
   fin.setDate(fin.getDate() + 1);
 
-  const episodes = [];
-  // Un jour chargé peut dépasser 50 épisodes : on lit plusieurs pages (4 maximum)
-  for (let page = 1; page <= 4; page++) {
-    const data = await anilist(`query($page:Int, $a:Int, $b:Int){ Page(page:$page, perPage:50){
-      pageInfo{ hasNextPage }
-      airingSchedules(airingAt_greater:$a, airingAt_lesser:$b, sort:TIME){
-        episode airingAt media{ id isAdult popularity episodes title{romaji english native} synonyms coverImage{large color} } } } }`,
-    { page, a: Math.floor(debut / 1000) - 1, b: Math.floor(fin / 1000) }, { duree: 15 * MINUTE });
+  const a = Math.floor(debut / 1000);
+  const b = Math.floor(fin / 1000);
 
-    episodes.push(...data.Page.airingSchedules);
-    if (!data.Page.pageInfo.hasNextPage) break;
+  const d = await lirePregenere();
+  if (d?.calendrier && d.calendrier.de <= a && d.calendrier.a >= b) {
+    return d.calendrier.episodes.filter((e) => e.airingAt >= a && e.airingAt < b && !e.media.isAdult);
+  }
+
+  // Un jour chargé peut dépasser 50 épisodes : 3 pages de 50 en UNE requête (alias GraphQL)
+  const page = (n) => `p${n}: Page(page:${n}, perPage:50){ pageInfo{ hasNextPage }
+    airingSchedules(airingAt_greater:$a, airingAt_lesser:$b, sort:TIME){
+      episode airingAt media{ id isAdult popularity episodes title{romaji english native} synonyms coverImage{large color} } } }`;
+  const data = await anilist(`query($a:Int, $b:Int){ ${[1, 2, 3].map(page).join(' ')} }`,
+    { a: a - 1, b }, { duree: 15 * MINUTE });
+  const episodes = [];
+  for (const n of [1, 2, 3]) {
+    episodes.push(...data[`p${n}`].airingSchedules);
+    if (!data[`p${n}`].pageInfo.hasNextPage) break;
   }
   return episodes.filter((e) => !e.media.isAdult);
 }
@@ -65,7 +94,8 @@ export async function ficheAnime(id) {
     id type format status episodes chapters volumes duration season seasonYear averageScore popularity genres siteUrl
     description bannerImage coverImage{extraLarge color}
     title{romaji english native} synonyms
-    externalLinks{ site url type }
+    externalLinks{ site url type language }
+    streamingEpisodes{ title url site }
     startDate{year month day}
     studios(isMain:true){ nodes{ name } }
     nextAiringEpisode{ episode airingAt }
@@ -73,7 +103,7 @@ export async function ficheAnime(id) {
     relations{ edges{ relationType node{ id type format startDate{year month day} title{romaji english} coverImage{extraLarge large color} averageScore } } }
     recommendations(perPage:15, sort:RATING_DESC){ nodes{ mediaRecommendation{ ${CHAMPS_CARTE} } } }
     reviews(perPage:8, sort:RATING_DESC){ nodes{ id summary score rating ratingAmount siteUrl user{ name avatar{ medium } } } }
-  } }`, { id }, { duree: HEURE });
+  } }`, { id }, { duree: 24 * HEURE, valide: (d) => prochainsAJour([d.Media]) });
   return data.Media;
 }
 
@@ -85,7 +115,7 @@ export async function episodesStreaming(ids) {
     id format episodes status nextAiringEpisode{ episode airingAt }
     externalLinks{ site url type language }
     streamingEpisodes{ title url site }
-  } } }`, { ids: [...ids].sort((a, b) => a - b).slice(0, 50) }, { duree: 6 * HEURE });
+  } } }`, { ids: [...ids].sort((a, b) => a - b).slice(0, 50) }, { duree: 6 * HEURE, valide: (d) => prochainsAJour(d.Page.media) });
   return data.Page.media;
 }
 
@@ -100,10 +130,15 @@ export const dateDebut = (d) => (d?.year ? d.year * 10000 + (d.month || 1) * 100
 const MAX_OEUVRES = 60; // garde-fou pour les très grandes franchises
 
 // Plusieurs œuvres d'un coup (50 max), avec leurs liens préquelle/suite
+// et de quoi remplir « Regarder les épisodes » (plus besoin d'une requête à part)
 async function liensSaisons(ids) {
   const data = await anilist(`query($ids:[Int]){ Page(perPage:50){ media(id_in:$ids){
     id format episodes status season seasonYear startDate{year month day} title{romaji english}
-    relations{ edges{ relationType node{ id type } } } } } }`, { ids: [...ids].sort((a, b) => a - b) }, { duree: 24 * HEURE });
+    nextAiringEpisode{ episode airingAt }
+    externalLinks{ site url type language }
+    streamingEpisodes{ title url site }
+    relations{ edges{ relationType node{ id type } } } } } }`, { ids: [...ids].sort((a, b) => a - b) },
+  { duree: 24 * HEURE, valide: (d) => prochainsAJour(d.Page.media) });
   return data.Page.media;
 }
 
@@ -115,11 +150,19 @@ async function liensSaisons(ids) {
  * films et OVA), sans jamais prendre les autres relations (histoires parallèles, spin-off,
  * autres versions…), puis on garde les saisons et on trie par date.
  * Une requête par "niveau" de la chaîne (gardée 24 h en cache), 12 niveaux maximum.
+ * `depart` : la fiche déjà chargée (ficheAnime) sert de premier niveau, sans requête.
  */
-export async function saisons(id) {
+export async function saisons(id, depart) {
   const connues = new Map();
   let aLire = [id];
   for (let niveau = 0; niveau < 12 && aLire.length; niveau++) {
+    if (niveau === 0 && depart?.id === id) {
+      connues.set(id, depart);
+      aLire = depart.relations.edges
+        .filter((e) => ['PREQUEL', 'SEQUEL'].includes(e.relationType) && e.node.type === 'ANIME')
+        .map((e) => e.node.id).filter((x) => x !== id);
+      continue;
+    }
     const lues = [];
     for (let i = 0; i < aLire.length; i += 50) lues.push(...await liensSaisons(aLire.slice(i, i + 50)));
     const suivantes = new Set();
@@ -187,7 +230,7 @@ const FILTRES = 'type:ANIME, isAdult:false, search:$search, genre_in:$genres, ta
 export async function explorer(filtres, page = 1, parPage = 24) {
   const data = await anilist(`query($page:Int, $parPage:Int, ${ARGS_FILTRES}){
     Page(page:$page, perPage:$parPage){ pageInfo{ hasNextPage } media(${FILTRES}){ ${CHAMPS_CARTE} } } }`,
-  { page, parPage, ...variablesFiltres(filtres) }, { duree: 30 * MINUTE });
+  { page, parPage, ...variablesFiltres(filtres) }, { duree: HEURE });
   return { suite: data.Page.pageInfo.hasNextPage, medias: data.Page.media };
 }
 
@@ -235,8 +278,11 @@ export async function auHasard(filtres = { noteMin: 65 }) {
  * Pour une liste d'animés suivis : leurs infos à jour + les épisodes sortis depuis `depuis` (Date).
  */
 export async function rattrapage(ids, depuis) {
-  const a = Math.floor(depuis / 1000);
-  const b = Math.floor(Date.now() / 1000);
+  // Bornes arrondies (début au jour, fin au quart d'heure suivant) : sinon la requête change
+  // à chaque seconde et le cache ne sert jamais
+  const a = Math.floor(depuis / 86400_000) * 86400;
+  const b = Math.ceil(Date.now() / (15 * MINUTE)) * 15 * 60;
+  const maintenant = Date.now() / 1000;
   const sorties = [];
   const medias = [];
 
@@ -252,7 +298,7 @@ export async function rattrapage(ids, depuis) {
       }`, { ids: lot, a, b, page }, { duree: 15 * MINUTE });
 
       if (page === 1) medias.push(...data.suivis.media);
-      sorties.push(...data.sorties.airingSchedules);
+      sorties.push(...data.sorties.airingSchedules.filter((s) => s.airingAt <= maintenant));
       if (!data.sorties.pageInfo.hasNextPage) break;
     }
   }

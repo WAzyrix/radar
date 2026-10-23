@@ -152,7 +152,12 @@ async function ouvrirGroupe(g) {
 
   $('fil').replaceChildren(el('div', { class: 'squelette', style: { height: '200px' } }));
   arreterEcoute();
-  fil = await compte.messages(g.id);
+  try {
+    fil = await compte.messages(g.id);
+  } catch (erreur) {
+    $('fil').replaceChildren(el('div', { class: 'erreur' }, `Oups : ${erreur.message}`));
+    return;
+  }
   afficherFil();
   $('saisie').hidden = false;
 

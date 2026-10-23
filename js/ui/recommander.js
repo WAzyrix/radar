@@ -4,7 +4,7 @@
 // comptes sont configurés : les pages restent légères sinon.
 // =========================================================
 import { SUPABASE_URL, URL_RELAIS } from '../config.js';
-import { el, gabarit, uuidValide } from '../lib/outils.js';
+import { el, gabarit, uuidValide, appeler } from '../lib/outils.js';
 import { ICONES } from './icones.js';
 
 const comptesConfigures = () => !SUPABASE_URL.includes('A-REMPLACER');
@@ -123,11 +123,11 @@ async function ouvrir(compte, item) {
       // Le relais vérifie qui je suis, enregistre la reco et notifie le pote
       for (const a of choisis) {
         if (dejaEnvoye.has(a)) continue;
-        const reponse = await fetch(`${URL_RELAIS}/recommander`, {
+        const reponse = await appeler(`${URL_RELAIS}/recommander`, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${jeton}` },
           body: JSON.stringify({ a, item: element, message }),
-        });
+        }, { service: 'le relais', delai: 20_000 });
         if (!reponse.ok) throw new Error((await reponse.json().catch(() => ({}))).erreur || 'Envoi impossible');
         dejaEnvoye.add(a);
       }

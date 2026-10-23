@@ -11,7 +11,7 @@
 // et tout est échappé.
 // =========================================================
 import { episodesStreaming } from '../api/animes.js';
-import { echapper, compteARebours } from '../lib/outils.js';
+import { echapper, compteARebours, afficherErreur, el } from '../lib/outils.js';
 import { dernierSorti, suiviDe, enregistrerVus } from '../lib/suivis.js';
 import { badgesLangues } from './cartes.js';
 import { ICONES } from './icones.js';
@@ -120,9 +120,12 @@ export async function monterEpisodes(zone, { saisons, idCourant, serieAdn, apres
   zone.innerHTML = '<h2>Regarder les épisodes</h2><div class="squelette" style="height:120px;border-radius:18px"></div>';
   let medias;
   try {
-    medias = await episodesStreaming(saisons.map((s) => s.id));
+    // Les saisons chargées par la fiche ont déjà leurs liens : pas de requête en plus
+    medias = saisons.every((s) => Array.isArray(s.streamingEpisodes)) ? saisons : await episodesStreaming(saisons.map((s) => s.id));
   } catch (erreur) {
-    zone.innerHTML = `<h2>Regarder les épisodes</h2><p class="erreur">Oups : ${echapper(erreur.message)}</p>`;
+    const message = el('div');
+    zone.replaceChildren(el('h2', {}, 'Regarder les épisodes'), message);
+    afficherErreur(message, erreur, { reessayer: () => monterEpisodes(zone, { saisons, idCourant, serieAdn, apresVu }) });
     return;
   }
   const parId = new Map(medias.map((x) => [x.id, x]));

@@ -107,7 +107,7 @@ async function afficherRattrapage() {
     $('tout-a-jour').hidden = false;
     zone.innerHTML = `<div class="rattrapage-liste">${lignesRattrapage.map(carteRattrapage).join('')}</div>`;
   } catch (erreur) {
-    afficherErreur(zone, erreur);
+    afficherErreur(zone, erreur, { reessayer: afficherRattrapage });
   }
 }
 
@@ -271,7 +271,8 @@ async function lancerRecherche({ ajouter = false } = {}) {
     $('compte').textContent = suite ? `${affiches} affichés, et d'autres…` : affiches ? `${affiches} animé${affiches > 1 ? 's' : ''}` : '';
     plus.hidden = !suite;
   } catch (erreur) {
-    if (!ajouter) afficherErreur(zone, erreur);
+    // Une recherche plus récente a été lancée : on n'y touche pas
+    if (!ajouter && numero === requeteActuelle) afficherErreur(zone, erreur, { reessayer: () => { if (numero === requeteActuelle) lancerRecherche(); } });
   }
   plus.disabled = false;
   if (!ajouter) allerAncre();

@@ -41,10 +41,11 @@ python3 scripts/collecte.py
 ```
 Toutes les heures (GitHub Actions, lancé par le cron du relais Cloudflare)
   scripts/collecte.py ──lit──> flux RSS ──écrit──> data/*.json ──> publié sur GitHub Pages
+  scripts/collecte_anilist.py ──> tendances, mieux notés, calendrier ──> data/anilist.json
 
 Dans le navigateur
   pages HTML ──> js/pages/*.js ──┬──> data/*.json         (actus, ADN)
-                                 ├──> API AniList          (animés, avec cache)
+                                 ├──> API AniList          (fiches, explorer… avec cache ; l'accueil lit data/anilist.json)
                                  └──> relais Cloudflare ──> RAWG + Steam   (jeux, clé RAWG secrète)
 ```
 
@@ -67,6 +68,7 @@ js/
 scripts/
   collecte.py       collecte RSS (bibliothèque standard Python uniquement)
   collecte_adn.py   catalogue + calendrier ADN (langues par saison, heures VOSTFR/VF)
+  collecte_anilist.py  tendances, mieux notés de la saison et calendrier AniList (pour l'accueil)
   sources.json      liste des flux + mots-clés des tags
 data/               JSON générés (ne pas modifier à la main)
 .github/workflows/actus.yml   collecte horaire + déploiement
@@ -89,7 +91,11 @@ Tout se passe dans [`scripts/sources.json`](scripts/sources.json) :
 ## Choix techniques (et pourquoi)
 
 - **HTML/CSS/JS sans framework** : rien à compiler, on comprend tout en lisant le code. Les modules JS (`import`/`export`) découpent le code proprement.
-- **AniList limite à 30 requêtes/minute** (en ce moment) : chaque réponse est gardée en cache dans le navigateur (de 10 min à 1 h selon le type) et un limiteur fait patienter si on approche de la limite.
+- **AniList limite à 30 requêtes/minute** (en ce moment, 90 normalement), puis bloque l'adresse IP une minute, avec une réponse sans en-têtes CORS : le navigateur n'y voit qu'une panne réseau. Donc :
+  - l'accueil et le calendrier lisent `data/anilist.json`, régénéré toutes les heures par GitHub Actions (plus aucun appel à AniList) ;
+  - chaque réponse est gardée en cache (calendrier 15 min, tendances et explorer 1 h, fiches et saisons 24 h, sauf si le « prochain épisode » est déjà sorti) ; les requêtes identiques en cours sont partagées ;
+  - un limiteur commun à tous les onglets (25 requêtes/min) et l'état « bloqué » sont gardés dans `localStorage` ; pendant un blocage, on n'envoie plus rien ;
+  - saturé ou en panne : on affiche le cache même expiré (gardé 3 jours) ; sinon « AniList est surchargé, réessaie dans X secondes » avec un nouvel essai automatique.
 - **Le total de résultats d'AniList est faux** (toujours 5000) : le tirage au hasard cherche donc la vraie dernière page par dichotomie, puis pioche parmi les 500 plus populaires qui correspondent aux filtres.
 - **Heures du calendrier** : AniList donne l'heure de **diffusion TV au Japon**, convertie dans ton fuseau horaire. Les sites de streaming VOSTFR (Crunchyroll, ADN, anime-sama…) publient en général un peu plus tard : les deux heures sont justes, elles ne mesurent pas la même chose.
 - **VOSTFR / VF** : seule ADN publie ces infos librement. ADN et AniList n'ont pas d'identifiant commun, donc on associe les séries par leur titre « nettoyé » (sans accents, ponctuation ni numéro de saison) : ça marche dans la grande majorité des cas, mais une série peut être ratée. Crunchyroll ne publie ni ses horaires ni ses langues.

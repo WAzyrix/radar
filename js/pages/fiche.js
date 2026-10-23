@@ -2,7 +2,7 @@
 // Fiche animé (ou manga) : anime.html?id=XXXX (id AniList)
 // =========================================================
 import { ficheAnime, saisons, dateDebut } from '../api/animes.js';
-import { echapper, titre, note, nettoyerSynopsis, compteARebours, formatDate } from '../lib/outils.js';
+import { echapper, titre, note, nettoyerSynopsis, compteARebours, formatDate, afficherErreur } from '../lib/outils.js';
 
 const formatJourHeure = new Intl.DateTimeFormat('fr-FR', { weekday: 'long', day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' });
 import { GENRES_FR, STATUTS_FR, FORMATS_FR, RELATIONS_FR } from '../lib/traductions.js';
@@ -290,9 +290,11 @@ async function afficherSaisons(m, elementSuivre, adn) {
   const zone = document.getElementById('saisons');
   let liste;
   try {
-    liste = await saisons(m.id);
-  } catch {
+    liste = await saisons(m.id, m);
+  } catch (erreur) {
     liste = []; // AniList indisponible : pas d'onglets, la fiche reste utilisable
+    // AniList saturé : on retente une fois le blocage passé (si la fiche est toujours affichée)
+    if (erreur.reessaiDans) setTimeout(() => { if (zone.isConnected) afficherSaisons(m, elementSuivre, adn); }, erreur.reessaiDans * 1000);
   }
   if (!document.body.contains(zone)) return; // une autre saison a été ouverte entre-temps
   idsSaisons = liste.map((s) => s.id);
@@ -334,18 +336,20 @@ async function charger(id, { historique = false } = {}) {
     afficherFiche(m, adn);
     document.querySelector('.fiche-haut')?.scrollIntoView({ behavior: 'smooth' });
   } catch (erreur) {
-    afficherErreurFiche(erreur.message);
+    afficherErreurFiche(erreur.message, erreur.reessaiDans && erreur, () => charger(id));
   }
 }
 window.addEventListener('popstate', () => charger(idDansAdresse()));
 
-function afficherErreurFiche(message) {
+// `sature` : erreur d'AniList surchargé -> compte à rebours puis `reessayer()`
+function afficherErreurFiche(message, sature, reessayer) {
   document.getElementById('fiche').innerHTML = `
     <div class="page-tete">
-      <h1>Animé introuvable</h1>
-      <p>${echapper(message)}</p>
+      <h1>${sature ? 'Un instant…' : 'Animé introuvable'}</h1>
+      <p id="message-fiche">${echapper(message)}</p>
       <div class="actions" style="margin-top:20px"><a class="bouton bouton-plein" href="animes.html">Explorer les animés</a></div>
     </div>`;
+  if (sature) afficherErreur(document.getElementById('message-fiche'), sature, { reessayer });
 }
 
 if (!idDansAdresse()) afficherErreurFiche("Aucun animé n'est indiqué dans l'adresse.");

@@ -16,7 +16,11 @@ export const comptesActifs = () => !SUPABASE_URL.includes('A-REMPLACER');
 
 let client;
 export function supabase() {
-  client ??= createClient(SUPABASE_URL, SUPABASE_CLE_PUBLIQUE, { auth: { persistSession: true, autoRefreshToken: true } });
+  client ??= createClient(SUPABASE_URL, SUPABASE_CLE_PUBLIQUE, {
+    auth: { persistSession: true, autoRefreshToken: true },
+    // Délai maximum de 15 s par appel : une base lente ne laisse plus la page charger sans fin
+    global: { fetch: (url, options = {}) => fetch(url, { ...options, signal: AbortSignal.any([options.signal, AbortSignal.timeout(15_000)].filter(Boolean)) }) },
+  });
   return client;
 }
 
@@ -27,6 +31,8 @@ function verifier({ data, error }) {
 }
 
 function traduireErreur(message) {
+  if (/timed? ?out|aborted/i.test(message)) return 'Les comptes (Supabase) mettent trop de temps à répondre. Réessaie dans un instant.';
+  if (/failed to fetch|networkerror|load failed/i.test(message)) return 'Impossible de joindre les comptes (Supabase). Vérifie ta connexion.';
   if (/rate limit|too many/i.test(message)) return 'Trop de demandes : attends quelques minutes et réessaie.';
   if (/invalid login credentials/i.test(message)) return 'Email ou mot de passe incorrect.';
   if (/email not confirmed/i.test(message)) return "Confirme d'abord ton email : clique sur le lien reçu par mail (pense aux spams).";
@@ -250,6 +256,7 @@ export async function envoyerMessage(groupeId, { contenu, item }) {
     method: 'POST',
     headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${j}` },
     body: JSON.stringify({ groupe_id: groupeId }),
+    signal: AbortSignal.timeout(20_000),
   })).catch(() => {});
   return message;
 }

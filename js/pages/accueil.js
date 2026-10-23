@@ -93,9 +93,12 @@ async function chargerAnimes() {
     document.getElementById('titre-saison').textContent = `Les mieux notés de la saison ${SAISONS_FR[data.nomSaison]}`;
     saison.innerHTML = data.saison.map((m) => carteAffiche(m, { sous: sousTitreGenres(m) })).join('');
   } catch (erreur) {
-    afficherErreur(tendances, erreur);
-    saison.innerHTML = '';
-    document.getElementById('heros').querySelector('.heros-contenu').innerHTML = `<h1>Radar</h1><p class="resume">${echapper(erreur.message)}</p>`;
+    // AniList saturé : compte à rebours dans les deux carrousels, puis nouvel essai
+    afficherErreur(tendances, erreur, { reessayer: chargerAnimes });
+    afficherErreur(saison, erreur, { reessayer: () => {} });
+    const message = erreur.reessaiDans ? 'AniList est surchargé : les tendances arrivent dans un instant.' : erreur.message;
+    const contenu = document.getElementById('heros').querySelector('.heros-contenu');
+    if (contenu && !document.querySelector('.heros-points')) contenu.innerHTML = `<h1>Radar</h1><p class="resume">${echapper(message)}</p>`;
   }
 }
 

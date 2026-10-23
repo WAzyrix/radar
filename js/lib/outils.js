@@ -95,8 +95,9 @@ export async function appeler(url, options = {}, { service, delai = 15_000 } = {
   try {
     return await fetch(url, { ...options, signal: AbortSignal.timeout(delai) });
   } catch (erreur) {
-    if (erreur.name === 'TimeoutError') throw new Error(`${premiereMajuscule(service)} met trop de temps à répondre. Réessaie dans un instant.`);
-    throw new Error(`Impossible de joindre ${service}. Vérifie ta connexion.`);
+    // `cause` garde l'erreur d'origine (TimeoutError, TypeError…) pour qui veut la distinguer
+    if (erreur.name === 'TimeoutError') throw new Error(`${premiereMajuscule(service)} met trop de temps à répondre. Réessaie dans un instant.`, { cause: erreur });
+    throw new Error(`Impossible de joindre ${service}. Vérifie ta connexion.`, { cause: erreur });
   }
 }
 
@@ -111,7 +112,24 @@ export function messageStatut(service, statut) {
 // Petit raccourci pour afficher une erreur dans un conteneur.
 // Une TypeError vient d'une réponse dont la forme est inattendue (champ manquant…) :
 // on n'affiche pas son message technique en anglais.
-export function afficherErreur(conteneur, erreur) {
+// Service saturé (erreur avec `reessaiDans`, en secondes) : compte à rebours, puis
+// `reessayer()` est appelée toute seule (sauf si le conteneur a été vidé entre-temps).
+export function afficherErreur(conteneur, erreur, { reessayer } = {}) {
+  if (erreur?.reessaiDans && reessayer) {
+    let reste = erreur.reessaiDans;
+    const texte = el('div', { class: 'erreur', role: 'status' });
+    const ecrire = () => { texte.textContent = `${erreur.service} est surchargé, réessaie dans ${reste} seconde${reste > 1 ? 's' : ''}. Nouvel essai automatique…`; };
+    ecrire();
+    conteneur.replaceChildren(texte);
+    const minuteur = setInterval(() => {
+      if (!texte.isConnected) { clearInterval(minuteur); return; }
+      reste -= 1;
+      if (reste > 0) { ecrire(); return; }
+      clearInterval(minuteur);
+      reessayer();
+    }, 1000);
+    return;
+  }
   const message = erreur instanceof TypeError ? 'les données reçues sont incomplètes. Réessaie un peu plus tard.' : erreur.message;
   conteneur.replaceChildren(el('div', { class: 'erreur' }, `Oups : ${message}`));
 }

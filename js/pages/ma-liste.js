@@ -201,7 +201,14 @@ async function afficherNotifs(message = '') {
 
   // Notifications actives : préférences, test, historique
   carte.innerHTML = `${info}<p>Notifications <b>actives</b> sur cet appareil.</p><div class="squelette" style="height:120px;margin-top:14px"></div>`;
-  const { prefs, appareils } = await notifs.lirePrefs();
+  let prefs;
+  let appareils;
+  try {
+    ({ prefs, appareils } = await notifs.lirePrefs());
+  } catch (erreur) {
+    carte.innerHTML = `${info}<p>Notifications <b>actives</b> sur cet appareil.</p><p class="erreur">Oups : ${echapper(erreur.message)}</p>`;
+    return;
+  }
   carte.innerHTML = `
     ${info}
     <p>Notifications <b>actives</b> sur cet appareil${appareils > 1 ? ` (et ${appareils - 1} autre${appareils > 2 ? 's' : ''})` : ''}. Choisis ce que tu veux recevoir :</p>

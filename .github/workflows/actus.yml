@@ -41,6 +41,12 @@ jobs:
         run: python3 scripts/collecte_adn.py
         continue-on-error: true
 
+      # Tendances, mieux notés de la saison et calendrier : l'accueil n'appelle plus AniList.
+      # En cas d'échec, le site interroge AniList lui-même (fichier vieux de plus de 3 h).
+      - name: Collecter AniList (accueil et calendrier)
+        run: python3 scripts/collecte_anilist.py
+        continue-on-error: true
+
       # Si un autre run a poussé entre-temps, le rebase peut buter sur data/*.json :
       # "-X theirs" garde NOS fichiers (les plus récents, en cours de rebase).
       # Trois essais ; si le push échoue quand même, le site est publié malgré tout.
