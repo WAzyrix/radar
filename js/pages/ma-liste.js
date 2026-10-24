@@ -31,10 +31,9 @@ const boutonRetirer = (item) => `<button type="button" class="retirer" data-type
 
 function carteItem(item) {
   if (item.type === 'jeu') return `<div class="avec-retirer">${carteJeuListe({ id: item.id, nom: item.titre, image: item.image, sortie: item.sortie, statut: item.statut })}${boutonRetirer(item)}</div>`;
-  const externe = item.type === 'film' || item.type === 'serie';
   return `
     <div class="avec-retirer">
-      <a class="affiche" href="${maListe.lienElement(item)}" ${externe ? 'target="_blank" rel="noopener noreferrer"' : ''} style="--couleur:${couleurValide(item.couleur) || '#1a1a24'}">
+      <a class="affiche" href="${maListe.lienElement(item)}" style="--couleur:${couleurValide(item.couleur) || '#1a1a24'}">
         <div class="affiche-image">${imageValide(item.image) ? `<img src="${echapper(item.image)}" alt="" loading="lazy">` : ''}${badgeNote(item)}</div>
         <div class="affiche-titre">${echapper(item.titre)}</div>
         <div class="affiche-sous">${maListe.TYPES[item.type].un}${item.sortie ? ` · ${item.sortie.slice(0, 4)}` : ''}</div>
