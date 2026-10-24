@@ -28,7 +28,7 @@ export function supabase() {
 
 // Supabase renvoie { data, error } : on transforme l'erreur en exception, avec un message en français
 function verifier({ data, error }) {
-  if (error) throw new Error(traduireErreur(error.message));
+  if (error) throw new Error(traduireErreur(error.message || ''));
   return data;
 }
 
@@ -44,10 +44,20 @@ function traduireErreur(message) {
   if (/Invitation inconnue/.test(message)) return "Ce code d'invitation n'existe pas.";
   if (/exclure_membre|nouvelle_invitation/.test(message)) return 'La modération n\'est pas encore activée : il faut exécuter supabase/moderation.sql dans Supabase.';
   if (/supprimer_mon_compte/.test(message)) return 'La suppression de compte n\'est pas encore activée : il faut exécuter supabase/comptes.sql dans Supabase.';
-  if (/duplicate key.*pseudo|profils_pseudo/i.test(message)) return 'Ce pseudo est déjà pris.';
+  // Règles de la base (check constraints) : à tester AVANT « déjà pris » (profils_pseudo_check ≠ doublon)
+  if (/profils_pseudo_check/.test(message)) return 'Le pseudo doit faire entre 2 et 24 caractères.';
+  if (/profils_avatar_check/.test(message)) return 'Avatar invalide : choisis-en un dans la liste.';
+  if (/groupes_nom_check/.test(message)) return 'Le nom du groupe doit faire entre 2 et 40 caractères.';
+  if (/messages_contenu_check/.test(message)) return 'Le message doit faire entre 1 et 1000 caractères.';
+  if (/recommandations_message_check/.test(message)) return 'Le petit mot doit faire 280 caractères au plus.';
+  if (/notes_avis_check/.test(message)) return 'L\'avis doit faire 500 caractères au plus.';
+  if (/notes_note_check/.test(message)) return 'La note doit être un nombre entier entre 0 et 100.';
+  if (/items_valides|item_valide/.test(message)) return 'Un élément partagé est mal formé (titre trop long ou image invalide).';
+  if (/duplicate key.*pseudo|profils_pseudo_unique/i.test(message)) return 'Ce pseudo est déjà pris.';
+  if (/row-level security|permission denied/i.test(message)) return 'Action refusée : tu n\'as pas le droit de faire ça (reconnecte-toi si ça continue).';
   if (/(relation|table).*notes|notes.*schema cache/i.test(message)) return 'Les notes ne sont pas encore activées : il faut exécuter supabase/notes.sql dans Supabase.';
   if (/(could not find the function|function .* does not exist).*(ami|amis)/i.test(message)) return "Les amis ne sont pas encore activés : il faut exécuter supabase/amis.sql dans Supabase.";
-  return message;
+  return message || 'Les comptes (Supabase) ont renvoyé une erreur inattendue. Réessaie dans un instant.';
 }
 
 // ---------- Connexion ----------
@@ -206,6 +216,7 @@ export async function monProfil() {
 
 export async function enregistrerProfil({ pseudo, avatar }) {
   const u = await utilisateur();
+  if (pseudo.trim().length < 2 || pseudo.trim().length > 24) throw new Error('Le pseudo doit faire entre 2 et 24 caractères (sans compter les espaces au début et à la fin).');
   verifier(await supabase().from('profils').upsert({ id: u.id, pseudo: pseudo.trim(), avatar }));
 }
 
@@ -255,6 +266,7 @@ export async function mesGroupes() {
 }
 
 export async function creerGroupe(nom) {
+  if (nom.trim().length < 2 || nom.trim().length > 40) throw new Error('Le nom du groupe doit faire entre 2 et 40 caractères (sans compter les espaces au début et à la fin).');
   const groupe = verifier(await supabase().rpc('creer_groupe', { nom_groupe: nom }));
   if (groupe?.id) choisirGroupe(groupe.id);
   return groupe;
@@ -424,7 +436,7 @@ export async function envoyerMessage(groupeId, { contenu, item }) {
     body: JSON.stringify({ groupe_id: groupeId }),
     signal: AbortSignal.timeout(20_000),
   })).catch(() => {});
-  return message;
+  return message || 'Les comptes (Supabase) ont renvoyé une erreur inattendue. Réessaie dans un instant.';
 }
 
 export async function supprimerMessage(id) {
