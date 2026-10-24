@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-24T04:05:38+00:00",
+ "maj": "2026-10-24T05:04:59+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,30 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "ce11fdabe93b",
+   "titre": "Intempéries : le Pas-de-Calais placé en vigilance orange pluie-inondation dans la soirée de samedi",
+   "lien": "https://www.lemonde.fr/planete/article/2026/10/24/intemperies-le-pas-de-calais-place-en-vigilance-orange-pluie-inondation-dans-la-soiree-de-samedi_6799655_3244.html",
+   "source": "Le Monde",
+   "date": "2026-10-24T04:51:38+00:00",
+   "extrait": "Le département entrera en alerte orange à 21 heures et doit y rester jusqu’à 4 heures dimanche, affirme Météo-France, en raison du passage de la perturbation Boelo après la tempête Austen.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "7ef5328c98db",
+   "titre": "France prepares for day of protest a week after nationwide riots",
+   "lien": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-24T04:03:46+00:00",
+   "extrait": "More than 70,000 police officers are to be deployed over fears protesters will defy restrictions on demonstrations.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "3c59e84754ba",
    "titre": "Arrest made after fire at Hitler's Eagle's Nest retreat",
    "lien": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
@@ -38,8 +62,8 @@
    "titre": "Le nid d’aigle d’Hitler en Bavière incendié, un suspect arrêté",
    "lien": "https://www.lemonde.fr/international/article/2026/10/24/le-nid-d-aigle-d-hitler-en-baviere-incendie-un-suspect-arrete_6799514_3210.html",
    "source": "Le Monde",
-   "date": "2026-10-24T03:31:21+00:00",
-   "extrait": "Les pompiers, alertés par l’alarme incendie peu avant 22 heures, n’ont trouvé personne à l’intérieur du bâtiment, complètement en feu à leur arrivée. La piste de l’incendie criminelle est examinée.",
+   "date": "2026-10-24T03:31:20+00:00",
+   "extrait": "Les pompiers, alertés par l’alarme incendie peu avant 22 heures, n’ont trouvé personne à l’intérieur du bâtiment, complètement en feu à leur arrivée. La piste d’un acte criminel est examinée.",
    "tags": [
     "Climat"
    ],
@@ -138,6 +162,19 @@
     "Politique"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "99928135601c",
+   "titre": "Australian MP's condition improves after alleged car attack",
+   "lien": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-24T01:55:15+00:00",
+   "extrait": "The Independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
+   "tags": [
+    "Conflits",
+    "Santé"
+   ],
+   "zone": "monde"
   },
   {
    "id": "9e92a8905e4c",
@@ -259,6 +296,16 @@
     "Justice"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "70dec74f838f",
+   "titre": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+   "lien": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-24T00:05:43+00:00",
+   "extrait": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "1b8dbb5fa9c0",
@@ -424,6 +471,40 @@
    "extrait": "Kaylub Giamanco, a 36-year-old father of two, happened to find himself outside his daughters' elementary school in Bend, Oregon, when he spotted an armed figure. Carter Evans has the story.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "cacaf0129d2f",
+   "titre": "Are California voters about to impose world's first 'tax on billionaires'?",
+   "lien": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-23T23:11:31+00:00",
+   "extrait": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "0ff8532abe0e",
+   "titre": "Ruins of Limoges city hall a symbol of France divided by national protests",
+   "lien": "https://www.bbc.co.uk/news/articles/cxyvrged14d0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-23T23:09:16+00:00",
+   "extrait": "Younger Limoges residents see the destruction of their town hall as unfortunate collateral damage in a wider movement. For others, the fire was an unacceptable tragedy.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "c4c48ac64982",
+   "titre": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+   "lien": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-23T23:08:23+00:00",
+   "extrait": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
   },
   {
    "id": "f0c0e01b956a",
@@ -1186,6 +1267,18 @@
     "Politique",
     "Conflits",
     "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "5678b2c2c0f9",
+   "titre": "Trump administration sues to block certification of upcoming Alaska election",
+   "lien": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-23T18:49:14+00:00",
+   "extrait": "The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters.",
+   "tags": [
+    "Politique"
    ],
    "zone": "monde"
   },
@@ -3399,98 +3492,6 @@
     "Tech"
    ],
    "zone": "france"
-  },
-  {
-   "id": "4a9dbc915a62",
-   "titre": "Dakar, la fièvre olympique version jeunes",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/reporters/20261023-dakar-la-fi%C3%A8vre-olympique-version-jeunes",
-   "source": "France 24",
-   "date": "2026-10-23T09:01:50+00:00",
-   "extrait": "Alors que le Sénégal s’apprête à accueillir les Jeux olympiques de la jeunesse, le premier événement olympique jamais organisé sur le continent africain, le pays entier met les bouchées doubles pour…",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "4d0c6c5896e6",
-   "titre": "Le département de Seine-Saint-Denis réclame au Défenseur des droits une enquête relative aux conditions de détention de mineurs au dépôt de Bobigny",
-   "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-departement-de-seine-saint-denis-reclame-au-defenseur-des-droits-une-enquete-relative-aux-conditions-de-detention-de-mineurs-au-depot-de-bobigny_8250430.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-23T09:01:41+00:00",
-   "extrait": "Des avocats du barreau de Seine-Saint-Denis ont rédigé un rapport et diffusé des photos sur les réseaux sociaux montrant des mineurs, interpellés les 17 et 18 octobre, détenus dans des conditions…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "a5176f29110e",
-   "titre": "Les interdictions de manifester dans les centres-villes sont des \"bonnes mesures\", selon le vice-président LR de l’Association des maires de France",
-   "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/les-interdictions-de-manifester-dans-les-centres-villes-sont-des-bonnes-mesures-selon-vice-president-lr-de-l-association-des-maires-de-france_8250385.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-23T09:00:30+00:00",
-   "extrait": "Le président a annoncé jeudi l'interdiction de toute manifestation non déclarée par les syndicats et la modification des parcours pour protéger notamment les centres-villes.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "6e173549af34",
-   "titre": "What to know about ACA open enrollment this year",
-   "lien": "https://www.cbsnews.com/news/aca-open-enrollment-premiums-rules-brokers/",
-   "source": "CBS News",
-   "date": "2026-10-23T09:00:17+00:00",
-   "extrait": "As open enrollment for Affordable Care Act health insurance kicks off, consumers face rising premiums, additional identity checks, and fewer brokers.",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "e916e5e67c18",
-   "titre": "En Bulgarie, une campagne présidentielle à l’ombre de la guerre entre la Russie et l’Ukraine",
-   "lien": "https://www.lemonde.fr/international/article/2026/10/23/en-bulgarie-une-campagne-presidentielle-a-l-ombre-de-la-guerre-entre-la-russie-et-l-ukraine_6799044_3210.html",
-   "source": "Le Monde",
-   "date": "2026-10-23T09:00:02+00:00",
-   "extrait": "Favorite du premier tour prévu dimanche 25 octobre, l’actuelle présidente, Iliana Iotova, prône le dialogue avec Moscou, affiche des réserves sur l’aide militaire à l’Ukraine et promet d’être une «…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "27acd866ab8b",
-   "titre": "Crises du logement, de l’éducation et du coût de la vie : les mouvements de contestation s’intensifient en Europe",
-   "lien": "https://www.lemonde.fr/international/article/2026/10/23/crise-du-logement-de-l-education-et-du-cout-de-la-vie-les-mouvements-de-contestation-s-intensifient-en-europe_6799045_3210.html",
-   "source": "Le Monde",
-   "date": "2026-10-23T09:00:00+00:00",
-   "extrait": "Depuis le début du mois d’octobre, une colère sociale s’installe sur le Vieux Continent. Face à une inquiétude croissante et à la détérioration des services publics, les manifestations se multiplient.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "c83ad421c3c5",
-   "titre": "Why going on a 'say no' retreat is a gift to your future self",
-   "lien": "https://www.npr.org/2026/10/23/nx-s1-6011089/how-to-plan-a-say-no-retreat",
-   "source": "NPR",
-   "date": "2026-10-23T09:00:00+00:00",
-   "extrait": "It's a day to think about all the upcoming appointments and commitments you're dreading — and then decline some of them. Writer Caroline Sylge shares a suggested schedule for the day.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "73498a44908c",
-   "titre": "Amid Trump's assaults on DEI, how one university is elevating Black students",
-   "lien": "https://www.npr.org/2026/10/23/nx-s1-5797959/one-university-elevating-black-students",
-   "source": "NPR",
-   "date": "2026-10-23T09:00:00+00:00",
-   "extrait": "As many colleges roll back or eliminate such programs, Sacramento State has expanded its offerings for students of color.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
   }
  ]
 }
