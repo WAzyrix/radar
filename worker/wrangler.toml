@@ -20,12 +20,6 @@ GITHUB_WORKFLOW = "actus.yml"
 # Clé PUBLIQUE des notifications web (la privée est un secret : VAPID_PRIVE)
 VAPID_PUBLIQUE = "BDrLw-_L5jBFYKGCjkjlkYauEpjkMgeKQrpZaL6BWc4qSy9_IA0_xdne3lNqJ9loIql-pyrFIqGg3ZKMkM9QN0k"
 
-# Ancienne base clé/valeur (KV) : seulement relue une fois, pour recopier ses données dans
-# le Durable Object "Stockage" (src/stockage.js). Pourra être retirée ensuite.
-[[kv_namespaces]]
-binding = "RADAR_KV"
-id = "cff54157e6ad4d24adb531a1594ee5aa"
-
 # Limite de débit par adresse IP : un Durable Object par adresse (src/limiteur.js).
 # Gratuit (offre Free : objets "SQLite"), compteurs en mémoire, aucune écriture KV.
 [[durable_objects.bindings]]

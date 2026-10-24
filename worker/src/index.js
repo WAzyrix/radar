@@ -37,7 +37,6 @@ import { notifierChat } from './chat.js';
 import { cleIp } from './limiteur.js';
 import { lancerCollecte } from './github.js';
 import { eveilDuJour, reveillerSupabase } from './eveil.js';
-import { migrerDepuisKv } from './stockage.js';
 
 // Le Durable Object doit être exporté par le point d'entrée pour que Cloudflare le trouve
 export { Limiteur } from './limiteur.js';
@@ -74,8 +73,6 @@ export default {
     }
 
     try {
-      // Routes qui lisent ou écrivent des données : les anciennes données KV doivent être recopiées
-      if (!ROUTES_COUTEUSES.test(chemin)) await migrerDepuisKv(env);
       const { donnees, duree = 0 } = await router(requete, env);
       return json(donnees, 200, { ...cors, 'Cache-Control': duree ? `public, max-age=${duree}` : 'no-store' });
     } catch (erreur) {
@@ -88,8 +85,7 @@ export default {
   async scheduled(evenement, env, ctx) {
     // La collecte d'abord : une seule requête, et elle ne doit pas attendre la vérification
     ctx.waitUntil(lancerCollecte(env).then((bilan) => console.log('Collecte des actus :', JSON.stringify(bilan))));
-    ctx.waitUntil(migrerDepuisKv(env)
-      .then((bilan) => { console.log('Stockage :', JSON.stringify(bilan)); return verifier(env); })
+    ctx.waitUntil(verifier(env)
       .then((bilan) => console.log('Vérification :', JSON.stringify(bilan)))
       .catch((erreur) => console.log('Vérification en échec :', erreur.message)));
     // Une fois par jour : une lecture Supabase, pour que le projet gratuit ne soit pas mis en pause

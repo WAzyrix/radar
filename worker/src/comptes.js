@@ -1,5 +1,5 @@
 // =========================================================
-// Listes et abonnements aux notifications, stockés dans Cloudflare KV.
+// Listes et abonnements aux notifications, gardés dans le stockage du relais (stockage.js).
 //
 // Pas de compte ni de mot de passe : chaque personne a un "code perso"
 // (32 caractères aléatoires générés par son navigateur). Celui qui connaît

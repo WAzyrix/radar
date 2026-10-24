@@ -11,8 +11,7 @@
 // stockage(env) renvoie un petit objet qui s'utilise comme KV (get / put / delete), plus des
 // opérations groupées pour la tâche horaire (un seul appel pour tout lire, un seul pour tout écrire).
 //
-// Les anciennes données KV sont recopiées automatiquement (migrerDepuisKv), par lots, au
-// premier passage ; le binding RADAR_KV n'est plus lu ensuite.
+// Les anciennes données KV y ont été recopiées le 24/10/2026 (27 clés, vérifiées une à une).
 // =========================================================
 import { DurableObject } from 'cloudflare:workers';
 
@@ -67,26 +66,6 @@ export class Stockage extends DurableObject {
   nettoyer() {
     this.sql.exec('delete from donnees where expire is not null and expire < ?', Date.now());
   }
-
-  // ---------- Migration depuis KV ----------
-  migrationFinie() {
-    return this.lire('meta:migration-kv') === 'finie';
-  }
-
-  // Parmi ces clés, celles qui ne sont pas encore copiées
-  absentes(cles) {
-    return cles.filter((cle) => !this.sql.exec('select 1 from donnees where cle = ?', cle).toArray().length);
-  }
-
-  // Copie sans jamais écraser une donnée déjà écrite ici (plus récente que KV)
-  importer(entrees, finie) {
-    this.ctx.storage.transactionSync(() => {
-      for (const { cle, valeur, expire } of entrees) {
-        this.sql.exec('insert into donnees (cle, valeur, expire) values (?, ?, ?) on conflict (cle) do nothing', cle, valeur, expire ?? null);
-      }
-      if (finie) this.ecrire('meta:migration-kv', 'finie');
-    });
-  }
 }
 
 const objet = (env) => env.STOCKAGE.get(env.STOCKAGE.idFromName('radar'));
@@ -106,36 +85,4 @@ export function stockage(env) {
     chargerComptes: () => o.chargerComptes(),
     nettoyer: () => o.nettoyer(),
   };
-}
-
-// Au plus 800 lectures KV par passage (limite de 1000 appels aux services Cloudflare par invocation)
-const LOT_MIGRATION = 800;
-let migrationVue = false; // une fois finie, on ne redemande plus (par instance du Worker)
-
-/** Recopie les données KV dans le Durable Object, par lots. Sans danger si appelée plusieurs fois. */
-export async function migrerDepuisKv(env) {
-  if (migrationVue || !env.RADAR_KV) return { migration: 'rien à faire' };
-  const o = objet(env);
-  if (await o.migrationFinie()) { migrationVue = true; return { migration: 'déjà faite' }; }
-
-  const cles = [];
-  let curseur;
-  do {
-    const page = await env.RADAR_KV.list({ cursor: curseur });
-    cles.push(...page.keys);
-    curseur = page.list_complete ? undefined : page.cursor;
-  } while (curseur);
-
-  const absentes = new Set(await o.absentes(cles.map((k) => k.name)));
-  const aCopier = cles.filter((k) => absentes.has(k.name));
-  const lot = aCopier.slice(0, LOT_MIGRATION);
-  const entrees = (await Promise.all(lot.map(async (k) => ({
-    cle: k.name,
-    valeur: await env.RADAR_KV.get(k.name),
-    expire: k.expiration ? k.expiration * 1000 : null,
-  })))).filter((e) => e.valeur !== null);
-  const finie = aCopier.length <= LOT_MIGRATION;
-  await o.importer(entrees, finie);
-  if (finie) migrationVue = true;
-  return { migration: finie ? 'finie' : 'en cours', copiees: entrees.length, restantes: aCopier.length - lot.length };
 }
