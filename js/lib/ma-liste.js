@@ -103,6 +103,9 @@ export function codePerso() {
   return code;
 }
 
+/** Oublie le code perso de cet appareil : un nouveau sera tiré au prochain codePerso(). */
+export const nouveauCodePerso = () => localStorage.removeItem(CLE_CODE);
+
 /** Relie cet appareil à un autre code (celui de mon PC par exemple) : on récupère sa liste. */
 export async function utiliserCode(code) {
   code = code.trim().toLowerCase().replace(/[^a-f0-9]/g, '');

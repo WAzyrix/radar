@@ -75,7 +75,8 @@ data/               JSON générés (ne pas modifier à la main)
 worker/             relais Cloudflare Worker (RAWG + Steam), voir worker/README.md
 supabase/           base des comptes (à exécuter dans Supabase, dans cet ordre) :
                     schema.sql, chat.sql, securite.sql, preferences.sql, amis.sql, notes.sql,
-                    dates-recommandations.sql, comptes.sql, moderation.sql, securite-2.sql
+                    dates-recommandations.sql, comptes.sql, moderation.sql, securite-2.sql,
+                    codes-uniques.sql (après avoir réglé les codes en double, s'il y en a)
 ```
 
 ### Ajouter une source ou un tag

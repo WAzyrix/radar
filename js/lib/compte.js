@@ -182,7 +182,16 @@ async function rattacherListe(userId) {
   if (ligne?.code && ligne.code !== maListe.codePerso()) {
     await maListe.utiliserCode(ligne.code);
   } else if (!ligne) {
-    verifier(await supabase().from('codes').insert({ id: userId, code: maListe.codePerso() }));
+    const { error } = await supabase().from('codes').insert({ id: userId, code: maListe.codePerso() });
+    // Code déjà pris par un autre compte (supabase/codes-uniques.sql) : cet appareil en tire un neuf,
+    // et sa liste y est recopiée
+    if (error?.code === '23505') {
+      maListe.nouveauCodePerso();
+      verifier(await supabase().from('codes').insert({ id: userId, code: maListe.codePerso() }));
+      await maListe.envoyer();
+    } else if (error) {
+      throw new Error(traduireErreur(error.message));
+    }
   }
   await publierListe();
   import('./notes.js').then((n) => n.synchroniserNotes()).catch(() => { /* la prochaine page s'en chargera */ });
