@@ -229,10 +229,12 @@ function afficherFiche({ jeu, captures, serie, steam, configRawg }) {
   }
 }
 
-function afficherErreurFiche(message) {
+// « Jeu introuvable » seulement si le jeu n'existe vraiment pas (404 de RAWG, adresse sans id) ;
+// une panne du relais ou de RAWG n'est pas une absence
+function afficherErreurFiche(message, { introuvable = /introuvable|aucun jeu/i.test(message) } = {}) {
   document.getElementById('fiche').innerHTML = `
     <div class="page-tete">
-      <h1>Jeu introuvable</h1>
+      <h1>${introuvable ? 'Jeu introuvable' : 'Fiche indisponible'}</h1>
       <p>${echapper(message)}</p>
       <div class="actions" style="margin-top:20px"><a class="bouton bouton-plein" href="jeux.html#explorer">Explorer les jeux</a></div>
     </div>`;
