@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-24T07:05:38+00:00",
+ "maj": "2026-10-24T08:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "838b4b1ce253",
+   "titre": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+   "lien": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+   "source": "The Hacker News",
+   "date": "2026-10-24T06:25:57+00:00",
+   "extrait": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its…",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
+  },
   {
    "id": "201a6bfc4c9c",
    "titre": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
