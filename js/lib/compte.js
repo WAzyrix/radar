@@ -319,11 +319,24 @@ export async function supprimerNotes(notes) {
   }
 }
 
-/** Les notes et favoris de mes potes (les plus récents d'abord). */
+/**
+ * Les notes et favoris de mes potes (les plus récents d'abord).
+ * Supabase renvoie 1000 lignes au plus par requête : on lit page par page (tri stable,
+ * pour ne rien sauter ni lire deux fois), jusqu'à 20 000 notes.
+ */
+const PAGE_NOTES = 1000;
 export async function notesDesPotes() {
   const u = await utilisateur();
   if (!u) return [];
-  return verifier(await supabase().from('notes').select(COLONNES_NOTES).neq('user_id', u.id).order('maj', { ascending: false }).limit(5000));
+  const toutes = [];
+  for (let debut = 0; debut < 20 * PAGE_NOTES; debut += PAGE_NOTES) {
+    const page = verifier(await supabase().from('notes').select(COLONNES_NOTES).neq('user_id', u.id)
+      .order('maj', { ascending: false }).order('user_id').order('type').order('oeuvre')
+      .range(debut, debut + PAGE_NOTES - 1));
+    toutes.push(...page);
+    if (page.length < PAGE_NOTES) break;
+  }
+  return toutes;
 }
 
 /** Ce que mes potes pensent d'une œuvre (fiche : « Tes potes l'ont noté »). */
