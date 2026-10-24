@@ -275,14 +275,16 @@ function brancherFormulairesGroupe() {
 }
 
 // Un membre du groupe, avec « + Ami » en un clic (ou où on en est avec lui)
-function pastilleMembre(p, statutAmi, amisActifs) {
-  if (!amisActifs) return pastillePote(p);
+// `moderateur` : je suis le créateur du groupe, je peux exclure
+function pastilleMembre(p, statutAmi, amisActifs, moderateur) {
+  const exclure = moderateur ? el('button', { type: 'button', class: 'pote-action', 'data-exclure': p.id, title: `Exclure ${p.pseudo} du groupe` }, 'Exclure') : null;
+  if (!amisActifs) return exclure ? el('span', { class: 'pote-ligne' }, pastillePote(p), exclure) : pastillePote(p);
   const action = {
     ami: () => el('span', { class: 'pote-statut' }, '✓ Ami'),
     envoyee: () => el('span', { class: 'pote-statut' }, 'Demande envoyée'),
     recue: () => el('button', { type: 'button', class: 'pote-action', 'data-accepter-ami': p.id }, 'Accepter'),
   }[statutAmi]?.() ?? el('button', { type: 'button', class: 'pote-action', 'data-ajouter-ami': p.id, title: `Ajouter ${p.pseudo} en ami` }, '+ Ami');
-  return el('span', { class: 'pote-ligne' }, pastillePote(p), action);
+  return el('span', { class: 'pote-ligne' }, pastillePote(p), action, exclure);
 }
 
 function afficherGroupe(groupes, g, parId, amis, texte = '') {
@@ -302,6 +304,7 @@ function afficherGroupe(groupes, g, parId, amis, texte = '') {
   const membres = g.membres.map((m) => parId.get(m.user_id)).filter(Boolean);
   const statuts = new Map((amis || []).map((a) => [a.id, a.statut]));
   const nb = g.membres.length;
+  const moderateur = Boolean(monProfilCourant?.id) && g.cree_par === monProfilCourant.id;
 
   remplir(carte,
     message(texte),
@@ -313,9 +316,10 @@ function afficherGroupe(groupes, g, parId, amis, texte = '') {
     el('div', { class: 'groupe' },
       el('h3', {}, g.nom, ' ', el('small', {}, `${nb} membre${nb > 1 ? 's' : ''}`)),
       el('div', { class: 'potes' }, membres.length
-        ? membres.map((p) => pastilleMembre(p, statuts.get(p.id), Boolean(amis)))
+        ? membres.map((p) => pastilleMembre(p, statuts.get(p.id), Boolean(amis), moderateur))
         : el('span', { class: 'mention', style: { margin: '0' } }, 'Pour l\'instant, il n\'y a que toi : invite tes potes !')),
-      el('p', { class: 'mention' }, 'Code d\'invitation : ', el('code', {}, g.invitation)),
+      el('p', { class: 'mention' }, 'Code d\'invitation : ', el('code', {}, g.invitation),
+        moderateur ? [' ', el('button', { type: 'button', class: 'lien-discret', 'data-nouvelle-invitation': g.id }, 'Changer de code')] : null),
       el('div', { class: 'actions', style: { 'margin-top': '10px' } },
         el('a', { class: 'bouton bouton-plein bouton-petit', href: `chat.html?groupe=${g.id}` }, icone('bulle'), 'Ouvrir le chat'),
         el('button', { type: 'button', class: 'bouton bouton-verre bouton-petit', 'data-partager': lienInvitation.href, 'data-nom': g.nom }, icone('externe'), 'Inviter des potes'),
@@ -332,6 +336,29 @@ function afficherGroupe(groupes, g, parId, amis, texte = '') {
     const choix = e.target.closest('[data-groupe]');
     const partager = e.target.closest('[data-partager]');
     const quitter = e.target.closest('[data-quitter]');
+    const exclure = e.target.closest('[data-exclure]');
+    const invitation = e.target.closest('[data-nouvelle-invitation]');
+    if (exclure) {
+      const pseudo = parId.get(exclure.dataset.exclure)?.pseudo || 'cette personne';
+      if (!confirm(`Exclure ${pseudo} du groupe « ${g.nom} » ? Elle ne verra plus le chat ni vos listes, et ne pourra plus revenir avec le code d'invitation.`)) return;
+      try {
+        await compte.exclureMembre(g.id, exclure.dataset.exclure);
+        afficherSocial({ groupe: `${pseudo} ne fait plus partie du groupe.` });
+      } catch (erreur) {
+        afficherSocial({ groupe: `⚠️ ${erreur.message}` });
+      }
+      return;
+    }
+    if (invitation) {
+      if (!confirm('Changer le code d\'invitation ? L\'ancien code et les anciens liens ne marcheront plus (les membres actuels restent).')) return;
+      try {
+        await compte.nouvelleInvitation(g.id);
+        afficherSocial({ groupe: 'Nouveau code d\'invitation ✅' });
+      } catch (erreur) {
+        afficherSocial({ groupe: `⚠️ ${erreur.message}` });
+      }
+      return;
+    }
     if (choix) {
       compte.choisirGroupe(choix.dataset.groupe);
       afficherSocial();

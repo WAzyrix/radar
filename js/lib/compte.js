@@ -41,6 +41,7 @@ function traduireErreur(message) {
   if (/password should be|at least \d+ characters|weak password/i.test(message)) return 'Mot de passe trop faible : 8 caractères minimum, avec lettres et chiffres.';
   if (/valid email|invalid email|email address .* is invalid/i.test(message)) return 'Adresse email invalide.';
   if (/Invitation inconnue/.test(message)) return "Ce code d'invitation n'existe pas.";
+  if (/exclure_membre|nouvelle_invitation/.test(message)) return 'La modération n\'est pas encore activée : il faut exécuter supabase/moderation.sql dans Supabase.';
   if (/supprimer_mon_compte/.test(message)) return 'La suppression de compte n\'est pas encore activée : il faut exécuter supabase/comptes.sql dans Supabase.';
   if (/duplicate key.*pseudo|profils_pseudo/i.test(message)) return 'Ce pseudo est déjà pris.';
   if (/(relation|table).*notes|notes.*schema cache/i.test(message)) return 'Les notes ne sont pas encore activées : il faut exécuter supabase/notes.sql dans Supabase.';
@@ -252,6 +253,10 @@ export async function rejoindreGroupe(invitation) {
   if (id) choisirGroupe(id);
   return id;
 }
+
+// Modération (supabase/moderation.sql) : réservée au créateur du groupe
+export const exclureMembre = (groupeId, membreId) => rpc('exclure_membre', { groupe: groupeId, membre: membreId });
+export const nouvelleInvitation = (groupeId) => rpc('nouvelle_invitation', { groupe: groupeId });
 
 export async function quitterGroupe(groupeId) {
   const u = await utilisateur();
