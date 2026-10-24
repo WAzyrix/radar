@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-24T12:05:38+00:00",
+ "maj": "2026-10-24T13:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -19,21 +19,169 @@
   "Tech",
   "Sport"
  ],
- "erreurs": [
-  "France 24"
- ],
+ "erreurs": [],
  "articles": [
   {
+   "id": "b85ac926cd26",
+   "titre": "Avignon, Cherbourg, Guéret... Le point sur les manifestations du 24 octobre en régions",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/avignon-cherbourg-gueret-le-point-sur-les-manifestations-du-24-octobre-en-regions_8252155.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-24T13:01:49+00:00",
+   "extrait": "De nombreux rassemblements et défilés sont prévus samedi, une semaine après la première journée de mobilisation contre la vie chère. À Paris, le seul défilé autorisé aura lieu entre la porte…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "23fd4f58b68b",
+   "titre": "Mobilisations en France : jusqu'où peut-on restreindre le droit de manifester ?",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261024-mobilisations-en-france-jusqu-o%C3%B9-peut-on-restreindre-le-droit-de-manifester",
+   "source": "France 24",
+   "date": "2026-10-24T12:44:27+00:00",
+   "extrait": "En France, plusieurs manifestations du 24 octobre ont été interdites ou restreintes. Dans quelles circonstances les autorités peuvent-elles légalement limiter le droit de manifester ? Réponse avec…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "0d6cacaf7602",
+   "titre": "À Orléans, forte mobilisation anti-RN face au congrès du parti",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261024-%C3%A0-orl%C3%A9ans-forte-mobilisation-anti-rn-face-au-congr%C3%A8s-du-parti",
+   "source": "France 24",
+   "date": "2026-10-24T12:39:52+00:00",
+   "extrait": "À Orléans, des militants venus s'opposer au congrès du Rassemblement national, organisé au Zénith, se rassemblent dans un village antifasciste placé sous haute surveillance. Deux périmètres de…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "7486493f5083",
+   "titre": "Mobilisation du 24 octobre : le cortège parisien change de parcours",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261024-mobilisation-du-24-octobre-le-cort%C3%A8ge-parisien-change-de-parcours",
+   "source": "France 24",
+   "date": "2026-10-24T12:38:20+00:00",
+   "extrait": "À Paris, le cortège s'apprête à démarrer sur un parcours alternatif accepté par l'intersyndicale, mais dont tous les manifestants n'ont pas été informés. Parmi les slogans, certains défendent le…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
    "id": "ac767ea30703",
-   "titre": "French police respond as nation braces for another weekend of protests",
+   "titre": "Police fire tear gas, arrest dozens as France braces for more protests",
    "lien": "https://www.cbsnews.com/news/paris-france-new-protests-riots-museums-shops/",
    "source": "CBS News",
-   "date": "2026-10-24T12:04:23+00:00",
+   "date": "2026-10-24T12:37:48+00:00",
    "extrait": "A week after 3,000 shops were damaged or looted, France braces for more protests.",
    "tags": [
     "Justice"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "574852269ae4",
+   "titre": "Iran says U.S. military not allowed in Gulf \"under any circumstance\"",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/",
+   "source": "CBS News",
+   "date": "2026-10-24T12:34:59+00:00",
+   "extrait": "The U.S. ambassador to the U.N. says the war with Iran could last another year, but he hopes Tehran will \"come to the table\" sooner.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "735cf138c445",
+   "titre": "Au Yémen, des frappes saoudiennes font au moins quatre morts à Sanaa, capitale aux mains des houthistes",
+   "lien": "https://www.lemonde.fr/international/article/2026/10/24/au-yemen-des-frappes-saoudiennes-font-au-moins-quatre-morts-a-sanaa-capitale-aux-mains-des-houthistes_6799703_3210.html",
+   "source": "Le Monde",
+   "date": "2026-10-24T12:30:43+00:00",
+   "extrait": "Ces frappes surviennent alors que la coalition militaire dirigée par l’Arabie saoudite a annoncé avoir intercepté depuis samedi matin trois missiles tirés par les houthistes, en direction de Riyad…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "0c90e99bee5d",
+   "titre": "A Orléans, entre 11 000 et 26 000 manifestants défilent contre le Rassemblement national, selon la préfecture et les organisateurs",
+   "lien": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-a-orleans-le-maire-de-la-ville-annonce-un-couvre-feu-pour-les-mineurs-de-moins-de-15-ans-pour-les-deux-nuits-prochaines_8252014.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-24T12:29:43+00:00",
+   "extrait": "Les autorités attendent jusqu'à 30 000 personnes sur ce parcours, qui a été modifié pour éviter le centre-ville.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "3634ce9743e9",
+   "titre": "Espagne : à Madrid, 25 000 manifestants pour défendre les retraites, à un mois des élections législatives",
+   "lien": "https://www.lemonde.fr/international/article/2026/10/24/espagne-a-madrid-25-000-manifestants-pour-defendre-les-retraites-a-un-mois-des-elections-legislatives_6799702_3210.html",
+   "source": "Le Monde",
+   "date": "2026-10-24T12:23:32+00:00",
+   "extrait": "Le leader de l’opposition de droite, Alberto Nuñez Feijoo, a assuré que son parti revaloriserait les retraites conformément à la loi, s’il remportait les élections. Il répondait au gouvernement…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "3da68743bb06",
+   "titre": "Manifestations du 24 octobre : le cortège parisien s'élance de la porte d'Italie, 135 interpellations \"sur l'ensemble du territoire national\" à 13 heures",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-24-octobre-suivez-en-direct-cette-nouvelle-journee-de-mobilisation-sous-tres-haute-securite_8251987.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-24T12:16:28+00:00",
+   "extrait": "A quelques heures du départ de la manifestation dans la capitale, le tribunal administratif a rejeté le recours des organisateurs, qui souhaitaient le maintien du défilé entre les places de la…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "8b4dc9f3945d",
+   "titre": "Ukraine says Starlink connection 'now stable' after network limits",
+   "lien": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-24T12:12:40+00:00",
+   "extrait": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+   "tags": [
+    "Conflits",
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "955554201900",
+   "titre": "EN DIRECT, guerre en Ukraine : trois personnes tuées par un drone ukrainien dans la partie occupée de l’oblast de Kharkiv",
+   "lien": "https://www.lemonde.fr/international/live/2026/10/24/en-direct-guerre-en-ukraine-trois-personnes-tuees-par-un-drone-ukrainien-dans-la-partie-occupee-de-l-oblast-de-kharkiv_6796922_3210.html",
+   "source": "Le Monde",
+   "date": "2026-10-24T12:11:34+00:00",
+   "extrait": "Trois civils ont été tués et une femme a été grièvement blessée par un drone ukrainien alors qu’ils circulaient en voiture à Pisky, village occupé de l’oblast ukrainien de Kharkiv frontalier de la…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "360e5c505110",
+   "titre": "Les Israéliens expatriés face au voyage du retour pour voter aux législatives",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261024-les-isra%C3%A9liens-expatri%C3%A9s-face-au-voyage-du-retour-pour-voter-aux-l%C3%A9gislatives",
+   "source": "France 24",
+   "date": "2026-10-24T12:09:16+00:00",
+   "extrait": "À l’approche des élections législatives du 27 octobre en Israël, de nombreux expatriés comptent peser sur le scrutin. Mais pour voter, ils doivent rentrer au pays : ni vote par correspondance ni…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "cab8441d782a",
+   "titre": "La Havane ironise sur le\" désespoir\" américain après l’appel à coopérer avec la CIA",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261024-la-havane-ironise-sur-le-d%C3%A9sespoir-am%C3%A9ricain-apr%C3%A8s-l-appel-%C3%A0-coop%C3%A9rer-avec-la-cia",
+   "source": "France 24",
+   "date": "2026-10-24T12:03:15+00:00",
+   "extrait": "\"Now is the time\" : Marco Rubio appelle les Cubains à coopérer avec la CIA. La Havane dénonce une tentative d’ingérence et tourne en dérision une initiative qui traduirait, selon les autorités…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
   },
   {
    "id": "fbd1ef078732",
@@ -46,18 +194,6 @@
     "Conflits"
    ],
    "zone": "france"
-  },
-  {
-   "id": "574852269ae4",
-   "titre": "Iran says U.S. military not allowed in Gulf \"under any circumstance\"",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/",
-   "source": "CBS News",
-   "date": "2026-10-24T12:00:45+00:00",
-   "extrait": "The U.S. ambassador to the U.N. says the war with Iran could last another year, but he hopes Tehran will \"come to the table\" sooner.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
   },
   {
    "id": "492152d9f742",
@@ -85,6 +221,28 @@
    "zone": "usa"
   },
   {
+   "id": "18e49f044801",
+   "titre": "À Orléans, le congrès du Rassemblement National face à la mobilisation anti-RN",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261024-%C3%A0-orl%C3%A9ans-le-congr%C3%A8s-du-rassemblement-national-face-%C3%A0-la-mobilisation-anti-rn",
+   "source": "France 24",
+   "date": "2026-10-24T11:59:53+00:00",
+   "extrait": "Le Rassemblement national tient son congrès à Orléans pour lancer sa campagne vers l’Élysée. En parallèle, 30 000 manifestants anti-RN sont attendus, parmi lesquels Bally Bagayoko, maire de…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "12cad97bb3d9",
+   "titre": "\"C'est le moment !\" : le mouvement étudiant, principal rival du pouvoir en place pour les législatives en Serbie dimanche",
+   "lien": "https://www.franceinfo.fr/monde/europe/c-est-le-moment-le-mouvement-etudiant-principal-rival-du-pouvoir-en-place-pour-les-legislatives-en-serbie-dimanche_8250586.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-24T11:59:50+00:00",
+   "extrait": "Né du drame de l'effondrement d'une structure de la gare de Novi Sad, en 2024, le mouvement de contestation étudiant bouscule l'échiquier politique serbe. En déposant sa propre liste pour les…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "45b93fa6540e",
    "titre": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
    "lien": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
@@ -95,12 +253,24 @@
    "zone": "usa"
   },
   {
+   "id": "b7ee5dfaaac7",
+   "titre": "Manifestations du 24 octobre : le maintien de l’ordre à l’épreuve des tensions",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261024-manifestations-du-24-octobre-le-maintien-de-l-ordre-%C3%A0-l-%C3%A9preuve-des-tensions",
+   "source": "France 24",
+   "date": "2026-10-24T11:56:17+00:00",
+   "extrait": "Avec 70 000 policiers et gendarmes mobilisés pour encadrer cette journée de contestation, le gouvernement veut éviter une répétition des violences du 17 octobre. Le dispositif suffira-t-il à…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "655d6a7b658b",
-   "titre": "Les gilets jaunes appellent à une nouvelle mobilisation le 31 octobre et dénoncent une \"dérive autoritaire\"",
+   "titre": "Les gilets jaunes appellent à une nouvelle mobilisation le 31 octobre et dénoncent une \"dérive autoritaire\" de l'exécutif",
    "lien": "https://www.franceinfo.fr/societe/manifestations/les-gilets-jaunes-appellent-a-une-nouvelle-mobilisation-le-31-octobre-et-denoncent-une-derive-autoritaire_8252203.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-10-24T11:42:49+00:00",
-   "extrait": "Ils invitent à organiser des rassemblements et des sit-in devant l'Assemblée nationale et les mairies françaises.",
+   "extrait": "\"Il y a une colère dans ce pays\" qui \"n'est pas entendue\", affirment les gilets jaunes. Ils dénoncent \"le mépris, le refus d'écouter, le mensonge et la répression\" d'un gouvernement qui \"tente de…",
    "tags": [
     "Politique"
    ],
@@ -118,6 +288,28 @@
     "Tech"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "a28f826fb3b2",
+   "titre": "À Taïwan, le typhon Champi fait un mort et provoque près de 5 000 évacuations",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261024-%C3%A0-ta%C3%AFwan-le-typhon-champi-fait-un-mort-et-provoque-pr%C3%A8s-de-5-000-%C3%A9vacuations",
+   "source": "France 24",
+   "date": "2026-10-24T11:30:19+00:00",
+   "extrait": "Après avoir atteint le stade de super-typhon, Champi a balayé Taïwan, faisant un mort et entraînant l’évacuation de plus de 5 000 personnes. Quelque 56 000 foyers restent privés d’électricité…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "bbdf4ef2dff5",
+   "titre": "La candidature émiratie au poste de secrétaire général de l’ONU fait polémique",
+   "lien": "https://www.lemonde.fr/international/article/2026/10/24/la-candidature-emiratie-au-poste-de-secretaire-general-de-l-onu-fait-polemique_6799695_3210.html",
+   "source": "Le Monde",
+   "date": "2026-10-24T11:30:07+00:00",
+   "extrait": "Les Emirats arabes unis ont proposé la diplomate Lana Nusseibeh pour prendre la suite d’Antonio Guterres dans deux mois, ce qui soulève de nombreuses critiques, en raison notamment de leur rôle…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
   },
   {
    "id": "b5277e721cb4",
@@ -191,19 +383,6 @@
    "zone": "france"
   },
   {
-   "id": "8b4dc9f3945d",
-   "titre": "Ukraine says Starlink connection 'now stable' after network limits",
-   "lien": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-24T11:17:35+00:00",
-   "extrait": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
-   "tags": [
-    "Conflits",
-    "Tech"
-   ],
-   "zone": "monde"
-  },
-  {
    "id": "45f40d7f67a1",
    "titre": "Deadly shooting in Paris suburb investigated as terrorism, officials say",
    "lien": "https://www.cbsnews.com/news/gunman-terrorist-attack-paris-suburb/",
@@ -231,7 +410,7 @@
    "lien": "https://www.france24.com/fr/france/20261024-fusillade-meurtri%C3%A8re-dans-les-yvelines-la-garde-%C3%A0-vue-du-suspect-prolong%C3%A9e",
    "source": "France 24",
    "date": "2026-10-24T11:11:00+00:00",
-   "extrait": "Après une première audition, la garde à vue du suspect qui a tué une personne et en a blessé cinq vendredi dans les Yvelines a été prolongée samedi matin. Quatre personnes de son entourage sont…",
+   "extrait": "Après une première audition, la garde à vue du suspect qui a tué une personne et en a blessé cinq dans les Yvelines a été prolongée samedi matin. Quatre personnes de son entourage sont également…",
    "tags": [],
    "zone": "monde"
   },
@@ -256,16 +435,6 @@
    "zone": "monde"
   },
   {
-   "id": "0c90e99bee5d",
-   "titre": "A Orléans, entre 11 000 et 26 000 manifestants défilent contre le Rassemblement national, selon la préfecture et les organisateurs",
-   "lien": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-a-orleans-le-maire-de-la-ville-annonce-un-couvre-feu-pour-les-mineurs-de-moins-de-15-ans-pour-les-deux-nuits-prochaines_8252014.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-24T10:54:27+00:00",
-   "extrait": "Les autorités attendent jusqu'à 30 000 personnes sur ce parcours, qui a été modifié pour éviter le centre-ville.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
    "id": "078f7bec5a47",
    "titre": "Midterms 2026 : ces agriculteurs qui ont besoin des travailleurs mexicains",
    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261024-midterms-2026-ces-agriculteurs-qui-ont-besoin-des-travailleurs-mexicains",
@@ -278,22 +447,12 @@
    "zone": "monde"
   },
   {
-   "id": "b85ac926cd26",
-   "titre": "Avignon, Cherbourg, Guéret... Le point sur les manifestations du 24 octobre en régions",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/avignon-cherbourg-gueret-le-point-sur-les-manifestations-du-24-octobre-en-regions_8252155.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-24T10:45:39+00:00",
-   "extrait": "De nombreux rassemblements et défilés sont prévus samedi, une semaine après la première journée de mobilisation contre la vie chère. À Paris, le seul défilé autorisé aura lieu entre la porte…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
    "id": "685b25541577",
    "titre": "Midterms 2026, le récap’ : coups bas et pressions sur le vote… la campagne s’envenime",
    "lien": "https://www.france24.com/fr/am%C3%A9riques/20261024-midterms-2026-recap-etats-unis-ohio-publicite-sondages-interferences-donald-trump-democrates-republicains",
    "source": "France 24",
    "date": "2026-10-24T10:44:25+00:00",
-   "extrait": "La dernière ligne droite de la campagne pour les midterms touche à sa fin ! Stratégie, candidats, sondages… Chaque semaine, France 24 fait le point. En Ohio, la diffusion d'une publicité par le…",
+   "extrait": "La dernière ligne droite de la campagne pour les midterms touche à sa fin ! Stratégie, candidats, sondages… Chaque semaine, France 24 fait le point. En Ohio, la diffusion d'un clip par le candidat…",
    "tags": [
     "Politique"
    ],
@@ -412,16 +571,6 @@
    "zone": "usa"
   },
   {
-   "id": "3da68743bb06",
-   "titre": "Manifestations du 24 octobre : à Paris, les organisateurs acceptent de défiler entre porte d'Italie et porte de Vincennes, seul parcours autorisé, après le rejet de leur recours",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-24-octobre-suivez-en-direct-cette-nouvelle-journee-de-mobilisation-sous-tres-haute-securite_8251987.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-24T09:53:13+00:00",
-   "extrait": "Les organisations syndicales, étudiantes et lycéennes ont annoncé qu'elles acceptaient de suivre ce nouveau parcours, après que la préfecture a interdit le défilé prévu entre la place de la Bastille…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
    "id": "70dec74f838f",
    "titre": "Woman, 65, becomes second patient to die of Ebola in Kenya",
    "lien": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
@@ -494,14 +643,24 @@
   },
   {
    "id": "2a7cc723d352",
-   "titre": "EN DIRECT, manifestations du 24 octobre : à Paris, les manifestants se rassemblent porte d’Italie pour suivre le parcours imposé par la Préfecture de police",
+   "titre": "EN DIRECT, manifestations du 24 octobre : le cortège s’est élancé à Paris ; la mobilisation antifasciste se termine à Orléans",
    "lien": "https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-a-paris-le-parcours-entre-la-porte-d-italie-et-la-porte-de-vincennes-reste-le-seul-autorise-apres-le-rejet-d-un-recours-par-le-tribunal-administratif_6799445_3224.html",
    "source": "Le Monde",
    "date": "2026-10-24T09:10:59+00:00",
-   "extrait": "L’intersyndicale a accepté samedi midi le nouveau parcours, qui mène à la porte de Vincennes, alors que la Préfecture avait précédemment accepté un tracé entre Bastille et Nation. Une cellule de…",
+   "extrait": "L’intersyndicale a accepté samedi midi le nouveau parcours, qui mène de la porte d’Italie à la porte de Vincennes, à Paris, alors que la Préfecture avait précédemment accepté un tracé entre Bastille…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "513d4433103e",
+   "titre": "Neuf ans après l’incendie dramatique de la tour Grenfell, à Londres, la très lente mise aux normes des immeubles britanniques",
+   "lien": "https://www.lemonde.fr/economie/article/2026/10/24/neuf-ans-apres-l-incendie-dramatique-de-la-tour-grenfell-a-londres-la-tres-lente-mise-aux-normes-des-immeubles-britanniques_6799682_3234.html",
+   "source": "Le Monde",
+   "date": "2026-10-24T09:00:01+00:00",
+   "extrait": "Moins de 40 % des immeubles britanniques recouverts d’un dangereux revêtement inflammable ont été assainis depuis le drame qui a causé la mort de 72 personnes en 2017. Le gouvernement a déposé un…",
    "tags": [
     "Politique",
-    "Justice"
+    "Climat"
    ],
    "zone": "france"
   },
@@ -700,7 +859,7 @@
    "lien": "https://www.france24.com/fr/europe/20261024-en-italie-des-manifestations-contre-la-vie-ch%C3%A8re-et-l-aust%C3%A9rit%C3%A9-pr%C3%A9vues-sous-haute-surveillance",
    "source": "France 24",
    "date": "2026-10-24T06:53:52+00:00",
-   "extrait": "L'Italie se prépare à une nouvelle journée de manifestations samedi contre les coupes budgétaires et la vie chère, dans huit villes dont Rome et Milan. Après les violences du week-end dernier, les…",
+   "extrait": "L'Italie se prépare à une nouvelle journée de manifestations, samedi, contre les coupes budgétaires et la vie chère, dans huit villes dont Rome et Milan. Après les violences du week-end dernier, les…",
    "tags": [],
    "zone": "monde"
   },
@@ -887,13 +1046,14 @@
   },
   {
    "id": "813974b98b9e",
-   "titre": "Mobilisation du 24 octobre en direct : l'intersyndicale accepte le parcours imposé par la préfecture de Paris",
+   "titre": "Mobilisation du 24 octobre en direct : 135 interpellations et des armes saisies, selon le ministre de l'Intérieur",
    "lien": "https://www.france24.com/fr/france/20261024-en-direct-centaines-manifestations-france-climat-fortes-tensions-mobilisation-revendications-salaires-education-syndicats-pouvoir-d-achat-lycee-police-macron",
    "source": "France 24",
    "date": "2026-10-24T05:00:19+00:00",
-   "extrait": "Dans un climat de fortes tensions, Gilets jaunes, syndicats, lycéens et étudiants doivent défiler samedi en France sous très haute sécurité, avec 70 000 policiers et gendarmes mobilisés. À Paris, la…",
+   "extrait": "Les forces de l'ordre ont recensé 35 000 personnes dans l'espace public, à la mi-journée, a affirmé le ministre de l'Intérieur, alors que Gilets jaunes, syndicats, lycéens et étudiants doivent…",
    "tags": [
-    "Climat"
+    "Politique",
+    "Justice"
    ],
    "zone": "monde"
   },
@@ -928,6 +1088,16 @@
    "source": "Le Monde",
    "date": "2026-10-24T05:00:00+00:00",
    "extrait": "En 2017, Mbayang Diop était condamnée à la peine capitale, reconnue coupable du meurtre de son employeuse saoudienne, alors enceinte. L’échéance de son exécution approchant, la société civile…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "ac49de09c29d",
+   "titre": "A quatre ans des Jeux d’hiver dans les Alpes françaises, le coût du ski pèse de plus en plus sur les athlètes et leurs familles",
+   "lien": "https://www.lemonde.fr/sport/article/2026/10/24/a-quatre-ans-des-jeux-d-hiver-dans-les-alpes-francaises-le-cout-du-ski-pese-de-plus-en-plus-sur-les-athletes-et-leurs-familles_6799658_3242.html",
+   "source": "Le Monde",
+   "date": "2026-10-24T05:00:00+00:00",
+   "extrait": "La Coupe du monde de ski alpin commence samedi 24 octobre à Sölden, en Autriche. La sélection par l’argent a des conséquences délétères.",
    "tags": [],
    "zone": "france"
   },
@@ -985,6 +1155,18 @@
    "date": "2026-10-24T04:30:12+00:00",
    "extrait": "Le chercheur, spécialiste de la biophysique des plantes, plaide pour que le culte de la performance cède le pas à une recherche de robustesse des systèmes inspirée du vivant. Une invitation à la «…",
    "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "6c5750a23280",
+   "titre": "« Votre papa est malade, il va bientôt partir et il veut vous dire des choses… » : à Paris, un atelier permet de se raconter dans une chanson-testament",
+   "lien": "https://www.lemonde.fr/m-perso/article/2026/10/24/votre-papa-est-malade-il-va-bientot-partir-et-il-veut-vous-dire-des-choses-a-paris-un-atelier-permet-de-se-raconter-dans-une-chanson-testament_6799548_4497916.html",
+   "source": "Le Monde",
+   "date": "2026-10-24T04:00:13+00:00",
+   "extrait": "L’artiste Marie Tout Court retrace la vie de patients parisiens proches de la mort, et transforme leurs souvenirs en chanson. Un processus d’accompagnement qui rend hommage, dans la joie, à leur…",
+   "tags": [
+    "Justice"
+   ],
    "zone": "france"
   },
   {
@@ -3296,192 +3478,6 @@
    "tags": [
     "Politique",
     "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "3b43509b234d",
-   "titre": "Fans, cosplayers nerd out at New York Comic Con",
-   "lien": "https://www.cbsnews.com/video/fans-cosplayers-nerd-out-at-new-york-comic-con/",
-   "source": "CBS News",
-   "date": "2026-10-23T14:40:39+00:00",
-   "extrait": "Hundreds of thousands of fans converge at New York Comic Con every year to celebrate the entertainment and media they love. Nate and Vlad joined the masses to enjoy the con.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "c8b61e44f2b3",
-   "titre": "Kushner pushes back on report involving phone, spies, transfer",
-   "lien": "https://www.cbsnews.com/news/jared-kushner-pushes-back-report-hacked-phone-spies-transfer/",
-   "source": "CBS News",
-   "date": "2026-10-23T14:31:05+00:00",
-   "extrait": "An excerpt from an upcoming book claims Kushner had access to alleged Middle Eastern \"slush\" funds when he served as a senior White House adviser during the first Trump administration. Kushner and…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "d90d5340a659",
-   "titre": "\"C'est un attentat à connotation raciste, probablement islamophobe\", affirme le maire de Trappes, après l'attaque terroriste qui a fait un mort",
-   "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/video-c-est-un-attentat-a-connotation-raciste-probablement-islamophobe-affirme-le-maire-de-trappes-apres-l-attaque-qui-a-fait-un-mort_8250892.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-23T14:30:57+00:00",
-   "extrait": "Ali Rabeh a réagi vendredi devant la presse après le drame, qualifié de \"crime terroriste\" par le ministre de l'Intérieur.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "4c2133e3f539",
-   "titre": "Dix départements de l'Ouest et du Nord placés en vigilance orange pour des vents violents en raison de la tempête Austen",
-   "lien": "https://www.franceinfo.fr/environnement/meteo/vingt-trois-departements-de-l-ouest-et-du-nord-desormais-places-en-vigilance-orange-pour-vents-violents-en-raison-du-passage-de-la-tempete-austen_8250061.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-23T14:27:27+00:00",
-   "extrait": "L'institut de prévisions prévoit \"des rafales atteignant 100 à 110 km/h dans les terres, et jusqu'à 130/140 km/h sur les zones littorales\" sur la Bretagne.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "7c075353c799",
-   "titre": "AKAA : les artistes africaines changent la perspective sur les femmes",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/actuelles/20261023-akaa-les-artistes-africaines-changent-la-perspective-sur-les-femmes",
-   "source": "France 24",
-   "date": "2026-10-23T14:23:12+00:00",
-   "extrait": "Pour la 11e édition du salon d'art contemporain AKAA (Also Known As Africa), \"Actuelles\" rencontre des artistes africaines et afrodescendantes qui parlent de leur travail, de l'exploration du passé…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "eede5c4ffa5e",
-   "titre": "Immigration helped Trump get elected in 2024. Now, some Texans say the crackdown has gone too far.",
-   "lien": "https://www.cbsnews.com/video/immigration-helped-trump-get-elected-in-2024-now-some-texans-say-the-crackdown-has-gone-too-far/",
-   "source": "CBS News",
-   "date": "2026-10-23T14:21:17+00:00",
-   "extrait": "Two years ago, Republicans made huge gains among Latino communities along the southern border. CBS News polling now shows nearly 60% of Latino voters say the Trump administration is deporting more…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "1bed663ee79a",
-   "titre": "Une attaque perpétrée par \"un groupe d'extrémistes\" fait sept morts dans une église en Jordanie",
-   "lien": "https://www.france24.com/fr/moyen-orient/20261023-fusillade-%C3%A9glise-jordanie-fait-au-moins-sept-morts",
-   "source": "France 24",
-   "date": "2026-10-23T14:20:48+00:00",
-   "extrait": "Une fusillade survenue vendredi dans une église grecque-orthodoxe a fait sept morts et plusieurs blessés, dans le sud de la Jordanie. Une attaque perpétrée par un \"groupe d'extrémistes\", selon le…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "8d8dcf832631",
-   "titre": "A couple bought a mansion locals called cursed, then tragedy struck",
-   "lien": "https://www.cbsnews.com/video/a-couple-bought-a-mansion-locals-called-cursed-then-tragedy-struck/",
-   "source": "CBS News",
-   "date": "2026-10-23T14:19:46+00:00",
-   "extrait": "A couple thought they'd found their dream retirement home in a Tennessee mansion locals called cursed. When the husband vanished, investigators uncovered a murder plot and a trail of clues that led…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "8df9352509be",
-   "titre": "PSG v Lyon moved as Paris prepares for more protests",
-   "lien": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-23T14:18:41+00:00",
-   "extrait": "Paris St-Germain's Ligue 1 match against Lyon at the Parc des Princes is pushed back 24 hours as the French capital prepares for another weekend of protests.",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "5c96b22d487c",
-   "titre": "Will a macaque eat a grape sitting on a pile of poo? A study on germophobia",
-   "lien": "https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak",
-   "source": "NPR",
-   "date": "2026-10-23T14:16:10+00:00",
-   "extrait": "When an outbreak strikes, humans try to avoid germs. (Remember wiping off groceries at the start of the pandemic?) What about ... monkeys?",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "0e785f4e6966",
-   "titre": "This week on \"Sunday Morning\" (Oct. 25)",
-   "lien": "https://www.cbsnews.com/news/this-week-on-sunday-morning-oct-25-2026/",
-   "source": "CBS News",
-   "date": "2026-10-23T14:14:57+00:00",
-   "extrait": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "85f89bf733c3",
-   "titre": "Jared Kushner reacts to stunning allegations about phone hack, spies and Middle East money transfers",
-   "lien": "https://www.cbsnews.com/video/jared-kushner-reacts-to-stunning-allegations-about-phone-hack-spies-and-middle-east-money-transfers/",
-   "source": "CBS News",
-   "date": "2026-10-23T14:12:50+00:00",
-   "extrait": "Jared Kushner, President Trump's son-in-law and senior White House adviser during Mr. Trump's first term, is pushing back against allegations published by Vanity Fair. CBS News' Nicole Sganga reports.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "319739f31b12",
-   "titre": "Tempête Austen : 288 600 foyers privés d'électricité, perturbations dans les aéroports et sur les rails... Le point sur les intempéries en milieu d'après-midi",
-   "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tempetes/tempete-austen-288-600-foyers-prives-d-electricite-perturbations-dans-les-aeroports-et-sur-les-rails-le-point-sur-les-intemperies-en-milieu-d-apres-midi_8250835.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-23T14:12:44+00:00",
-   "extrait": "Austen, première tempête automnale de l'année, balaye vendredi la façade nord-ouest de la France, jusqu'en région parisienne, avec 10 départements en vigilance orange pour vent et plus de 288 600…",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "46955722be08",
-   "titre": "Un mort et plusieurs blessés à Trappes et La Verrière, dans les Yvelines, après qu'un homme a ouvert le feu",
-   "lien": "https://www.franceinfo.fr/faits-divers/un-mort-et-plusieurs-blesses-a-trappes-et-la-verriere-apres-qu-un-homme-a-ouvert-le-feu_8250604.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-23T14:11:15+00:00",
-   "extrait": "Le tireur a été interpellé et placé en garde à vue, a confirmé le Premier ministre, Sébastien Lecornu, sur le réseau X. Le Parquet national antiterroriste annonce se saisir.",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c1931ecbd319",
-   "titre": "Vladimir Duthiers and Kelly O'Grady's new podcast \"Straight Up\" debuts",
-   "lien": "https://www.cbsnews.com/video/vladimir-duthiers-and-kelly-ogradys-new-podcast-straight-up-debuts/",
-   "source": "CBS News",
-   "date": "2026-10-23T14:09:06+00:00",
-   "extrait": "Vladimir Duthiers and Kelly O'Grady are talking about the stories people can't stop talking about in their new podcast, \"Straight Up - After Hours with Vlad & Kelly.\" They share a preview of what to…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "eec99fdb185c",
-   "titre": "Le match de Ligue 1 PSG-OL reporté à lundi, sur décision de la Préfecture de police de Paris",
-   "lien": "https://www.lemonde.fr/sport/article/2026/10/23/le-match-de-ligue-1-psg-ol-reporte-a-lundi-sur-decision-de-la-prefecture-de-police-de-paris_6799088_3242.html",
-   "source": "Le Monde",
-   "date": "2026-10-23T14:06:52+00:00",
-   "extrait": "Le choc de Ligue 1 entre les deux leaders du championnat de France de football devait avoir lieu dimanche. Il se déroulera finalement lundi soir, en même temps que la cérémonie du Ballon d’or, pour…",
-   "tags": [
-    "Justice",
-    "Sport"
    ],
    "zone": "france"
   }
