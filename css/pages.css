@@ -232,6 +232,7 @@
 .recos { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 340px), 1fr)); gap: 12px; }
 .reco { display: flex; gap: 14px; padding: 12px; border-radius: var(--r-l); background: var(--surface); border: 1px solid var(--bordure); transition: background var(--transition); }
 .reco:hover { background: var(--surface-forte); }
+.reco-bloc .retirer { left: auto; right: 8px; }
 .reco.nouvelle { border-color: color-mix(in oklab, var(--accent) 50%, transparent); }
 .reco img { width: 72px; height: 100px; object-fit: cover; border-radius: var(--r-s); flex: none; }
 .reco div { display: flex; flex-direction: column; gap: 6px; min-width: 0; }

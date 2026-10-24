@@ -458,17 +458,32 @@ async function afficherRecommandations(parId) {
     ? el('div', { class: 'recos' }, recos.map((r) => {
       const item = r.item && typeof r.item === 'object' ? r.item : {};
       const de = parId.get(r.de) || { pseudo: 'Un ancien pote', avatar: '👤' };
-      return el('a', { class: `reco ${r.vue ? '' : 'nouvelle'}`, href: lienElement(item) },
-        image(item),
-        el('div', {},
-          el('small', {}, pastillePote(de), ` · ${ilYa(r.cree_le)}`),
-          el('strong', {}, String(item.titre ?? '')),
-          r.message ? el('p', {}, `« ${r.message} »`) : null));
+      return el('div', { class: 'avec-retirer reco-bloc' },
+        el('a', { class: `reco ${r.vue ? '' : 'nouvelle'}`, href: lienElement(item) },
+          image(item),
+          el('div', {},
+            el('small', {}, pastillePote(de), ` · ${ilYa(r.cree_le)}`),
+            el('strong', {}, String(item.titre ?? '')),
+            r.message ? el('p', {}, `« ${r.message} »`) : null)),
+        Number.isInteger(r.id) ? el('button', { type: 'button', class: 'retirer', 'data-supprimer-reco': r.id, title: 'Supprimer cette recommandation', 'aria-label': `Supprimer la recommandation de ${de.pseudo}` }, '×') : null);
     }))
     : gabarit('<div class="vide"><strong>Aucune recommandation pour l\'instant</strong>Tes potes peuvent t\'en envoyer depuis la fiche d\'un animé ou d\'un jeu.</div>'));
   // Elles sont maintenant vues
   compte.marquerVues(recos.filter((r) => !r.vue).map((r) => r.id)).catch(() => {});
 }
+
+$('liste-recos').addEventListener('click', async (e) => {
+  const bouton = e.target.closest('[data-supprimer-reco]');
+  if (!bouton) return;
+  bouton.disabled = true;
+  try {
+    await compte.supprimerRecommandation(Number(bouton.dataset.supprimerReco));
+    bouton.closest('.reco-bloc').remove();
+  } catch (erreur) {
+    bouton.disabled = false;
+    alert(erreur.message);
+  }
+});
 
 // Populaire et activité : ce que suivent les membres du groupe actif, ou mes amis
 function afficherPotes() {

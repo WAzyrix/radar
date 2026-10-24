@@ -344,6 +344,12 @@ export async function marquerVues(ids) {
   if (ids.length) verifier(await supabase().from('recommandations').update({ vue: true }).in('id', ids));
 }
 
+/** Supprime une recommandation reçue (supabase/dates-recommandations.sql). */
+export async function supprimerRecommandation(id) {
+  const lignes = verifier(await supabase().from('recommandations').delete().eq('id', id).select('id'));
+  if (!lignes?.length) throw new Error('Suppression impossible pour le moment : il faut exécuter supabase/dates-recommandations.sql dans Supabase.');
+}
+
 /** Jeton de connexion, pour prouver au relais qui je suis (envoi d'une recommandation). */
 export async function jeton() {
   const { data } = await supabase().auth.getSession();
