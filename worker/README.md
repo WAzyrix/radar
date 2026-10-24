@@ -35,7 +35,7 @@ Puis mettre cette adresse dans `js/config.js` (`URL_RELAIS`).
 | `TMDB_KEY` | films et séries | themoviedb.org → Paramètres → API (clé v3) |
 | `VAPID_PRIVE` | signer les notifications web | paire de clés P-256 au format JWK ; la publique va dans `VAPID_PUBLIQUE` (`wrangler.toml`). La changer désabonne tous les appareils. |
 | `SUPABASE_SERVICE` | lire les codes perso pour notifier (recommandations, chat) | Supabase → Project Settings → API keys (secret). **Jamais dans le site.** |
-| `GITHUB_TOKEN` | lancer la collecte des actus toutes les heures | voir ci-dessous (expire : à renouveler) |
+| `GITHUB_TOKEN` | lancer la collecte des actus toutes les heures | voir ci-dessous (**expire le vendredi 22 octobre 2027**) |
 
 Un secret se remplace avec la même commande `npx wrangler secret put NOM` (pas besoin de redéployer).
 
@@ -48,10 +48,11 @@ npx wrangler secret put GITHUB_TOKEN   # colle le jeton quand c'est demandé
 npx wrangler deploy
 ```
 
-**Renouvellement (le jeton expire au bout d'un an au plus) :**
-1. GitHub → Settings → Developer settings → Fine-grained tokens → le jeton du relais → **Regenerate token** (même dépôt `radar`, même permission « Actions : Read and write »), et note la nouvelle date d'expiration ici : `expire le : ____`.
-2. `cd worker && npx wrangler secret put GITHUB_TOKEN` puis coller le nouveau jeton.
-3. Vérifier à la prochaine heure pile + 5 min : un run « workflow_dispatch » dans l'onglet Actions du dépôt.
+**Le jeton actuel expire le vendredi 22 octobre 2027.** À renouveler une ou deux semaines avant (GitHub envoie aussi un email de rappel quelques jours avant) :
+1. GitHub → Settings → Developer settings → Personal access tokens → **Fine-grained tokens** → le jeton du relais → **Regenerate token**. Garder le même dépôt (`wazyrix/radar` seulement) et la même permission (« Actions : Read and write », rien d'autre), choisir la nouvelle durée (1 an au plus), puis copier le jeton affiché (il ne sera plus jamais montré).
+2. `cd worker && npx wrangler secret put GITHUB_TOKEN`, puis coller le nouveau jeton (pas besoin de redéployer).
+3. Remplacer la date d'expiration dans ce README (ici, dans le tableau des secrets et dans le README principal).
+4. Vérifier au passage suivant (heure pile + 5 min) : un run « workflow_dispatch » vert dans l'onglet **Actions** du dépôt, et dans les journaux du relais `Collecte des actus : {"lance":true}`.
 
 Si le jeton expire sans être renouvelé, rien ne casse : le `schedule` de GitHub (toutes les 6 h) continue la collecte, et les journaux du relais affichent `Collecte des actus : {"lance":false,"raison":"GitHub a répondu 401…"}`.
 

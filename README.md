@@ -16,6 +16,8 @@ Mon site perso qui regroupe les actus qui m'intéressent, au même endroit, dans
 
 Tout est **100 % gratuit** : GitHub Pages pour l'hébergement, GitHub Actions pour la collecte des actus.
 
+> 🔑 **À renouveler avant le vendredi 22 octobre 2027** : le jeton GitHub du relais (`GITHUB_TOKEN`), qui lance la collecte toutes les heures. Procédure : [worker/README.md](worker/README.md#lancement-de-la-collecte-des-actus). Sans renouvellement, rien ne casse : la collecte passe seulement toutes les 6 h au lieu de toutes les heures.
+
 ## Lancer en local
 
 ```bash
