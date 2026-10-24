@@ -24,9 +24,11 @@ const comptesActifs = () => !SUPABASE_URL.includes('A-REMPLACER');
 export const cleOeuvre = (type, id) => `${type}:${Number(id)}`;
 
 // { utilisateur, items: { "anime:123": note }, supprimes: { "anime:123": maj } }
-// note = { type, id, titre, image, note, avis, favori, noteLe, favoriLe, maj, synchro }
+// note = { type, id, titre, image, note, avis, favori, noteLe, favoriLe, maj, synchro, modifiee }
 // "synchro" : la ligne existe dans la base. Si elle n'y est plus, elle a été supprimée
-// depuis un autre appareil : on la supprime ici aussi (au lieu de la renvoyer).
+// depuis un autre appareil : on la supprime ici aussi (au lieu de la renvoyer)…
+// … sauf si elle a été modifiée ici depuis ("modifiee", jusqu'à son envoi) : la modification
+// la plus récente gagne, elle est renvoyée.
 function lire() {
   try {
     const d = JSON.parse(localStorage.getItem(CLE));
@@ -91,7 +93,7 @@ export function modifier(oeuvre, changements) {
     delete d.items[cle];
     if (avant.synchro) d.supprimes[cle] = n.maj; // à supprimer aussi dans la base
   } else {
-    d.items[cle] = n;
+    d.items[cle] = { ...n, modifiee: true };
     delete d.supprimes[cle];
   }
   ecrire(d);
@@ -170,13 +172,16 @@ async function synchroniser() {
   }
   for (const [cle, locale] of Object.entries(d.items)) {
     if (enBase.has(cle)) continue;
-    if (locale.synchro) delete d.items[cle]; // supprimée depuis un autre appareil
+    if (locale.synchro && !locale.modifiee) delete d.items[cle]; // supprimée depuis un autre appareil
     else aEnvoyer.push(locale);
   }
 
   await compte.enregistrerNotes(aEnvoyer);
   await compte.supprimerNotes(aSupprimer);
-  for (const n of aEnvoyer) if (d.items[cleOeuvre(n.type, n.id)]) d.items[cleOeuvre(n.type, n.id)].synchro = true;
+  for (const n of aEnvoyer) {
+    const locale = d.items[cleOeuvre(n.type, n.id)];
+    if (locale) { locale.synchro = true; delete locale.modifiee; }
+  }
   d.supprimes = {};
   ecrire(d);
   return true;
