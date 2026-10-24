@@ -19,6 +19,7 @@
 //   POST   /test/:code                                notification de test
 //   GET    /historique/:code                          la cloche (50 dernières notifications)
 //   PUT    /historique/:code     DELETE /historique/:code   tout marquer lu / effacer (tout ou { ids })
+//   DELETE /donnees/:code                             suppression de compte : liste, abonnements, état, cloche
 //   POST   /recommander                               recommander à un pote (compte Supabase)
 //   POST   /chat/notifier                             prévenir le groupe d'un nouveau message
 // Tâche planifiée (toutes les heures) : verification.js + lancement de la collecte des actus (github.js)
@@ -27,7 +28,7 @@
 import { filtrer, listeJeux, ficheJeu, hasard, genres } from './jeux.js';
 import { rechercheTmdb, genresTmdb, decouvrir, hasardTmdb, sorties, enCeMoment, ficheTmdb, typeValide } from './tmdb.js';
 import {
-  codeValide, lireListe, ecrireListe, abonner, desabonner, lireAbonnement, changerPrefs, notifTest, lireHistorique, effacerHistorique, marquerLues, Erreur400,
+  codeValide, lireListe, ecrireListe, abonner, desabonner, lireAbonnement, changerPrefs, notifTest, lireHistorique, effacerHistorique, marquerLues, effacerDonnees, Erreur400,
 } from './comptes.js';
 import { verifier } from './verification.js';
 import { recommander } from './recommandations.js';
@@ -124,7 +125,7 @@ async function router(requete, env) {
   if (methode === 'POST' && chemin === '/chat/notifier') return { donnees: await notifierChat(env, requete, await lireCorps(requete)) };
 
   // ---------- Routes avec un code perso ----------
-  if (['liste', 'abo', 'prefs', 'test', 'historique'].includes(segments[0])) {
+  if (['liste', 'abo', 'prefs', 'test', 'historique', 'donnees'].includes(segments[0])) {
     if (!codeValide(code)) throw new Erreur400('Code perso invalide');
     const corps = ['PUT', 'POST', 'DELETE'].includes(methode) ? await lireCorps(requete) : null;
     const route = `${methode} ${segments[0]}`;
@@ -138,6 +139,7 @@ async function router(requete, env) {
     if (route === 'GET historique') return { donnees: await lireHistorique(env, code) };
     if (route === 'DELETE historique') return { donnees: await effacerHistorique(env, code, corps) };
     if (route === 'PUT historique') return { donnees: await marquerLues(env, code) };
+    if (route === 'DELETE donnees') return { donnees: await effacerDonnees(env, code) };
   }
 
   const erreur = new Error('Route inconnue');

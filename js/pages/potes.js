@@ -64,6 +64,7 @@ async function afficherCompte(texte = '') {
         <button type="button" class="bouton bouton-verre bouton-petit" id="modifier-profil">Modifier mon profil</button>
         <button type="button" class="bouton bouton-verre bouton-petit" id="deconnexion">Se déconnecter</button>
       </div>
+      <button type="button" class="lien-discret lien-danger" id="supprimer-compte" style="margin-top:12px">Supprimer mon compte</button>
       <p class="mention">Ta liste et tes notifications sont liées à ton compte : connecte-toi sur un autre appareil pour les retrouver. Se déconnecter les efface de cet appareil (elles restent dans ton compte).</p>`));
   $('modifier-profil').addEventListener('click', () => afficherFormulaireProfil('', profil, false));
   $('deconnexion').addEventListener('click', async () => {
@@ -71,6 +72,20 @@ async function afficherCompte(texte = '') {
     bouton.disabled = true;
     if (await compte.deconnexion()) location.reload();
     else bouton.disabled = false;
+  });
+  $('supprimer-compte').addEventListener('click', async () => {
+    const reponse = prompt('Supprimer ton compte ? Ta liste, tes notes et favoris, tes amis, tes recommandations et tes messages seront effacés pour toujours. Tes groupes passeront au membre le plus ancien.\n\nTape SUPPRIMER pour confirmer :');
+    if (reponse?.trim().toUpperCase() !== 'SUPPRIMER') return;
+    const bouton = $('supprimer-compte');
+    bouton.disabled = true;
+    try {
+      await compte.supprimerCompte();
+      afficherConnexion('Ton compte et toutes tes données ont été supprimés.');
+      ['groupe', 'amis', 'recommandations', 'gouts', 'suggestions', 'populaire', 'activite'].forEach((id) => { if ($(id)) $(id).hidden = true; });
+    } catch (erreur) {
+      bouton.disabled = false;
+      afficherCompte(`⚠️ ${erreur.message}`);
+    }
   });
   await afficherReste(profil);
 }

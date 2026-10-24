@@ -181,5 +181,11 @@ export async function notifTest(env, code) {
   return { ok: true };
 }
 
+// ---------- Suppression de compte : tout ce que le relais garde pour ce code ----------
+export async function effacerDonnees(env, code) {
+  await Promise.all(['liste', 'abo', 'etat', 'histo'].map((prefixe) => env.RADAR_KV.delete(`${prefixe}:${code}`)));
+  return { ok: true };
+}
+
 // Erreur "requête invalide" : le routeur la transforme en réponse 400
 export class Erreur400 extends Error {}

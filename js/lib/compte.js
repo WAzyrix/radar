@@ -41,6 +41,7 @@ function traduireErreur(message) {
   if (/password should be|at least \d+ characters|weak password/i.test(message)) return 'Mot de passe trop faible : 8 caractères minimum, avec lettres et chiffres.';
   if (/valid email|invalid email|email address .* is invalid/i.test(message)) return 'Adresse email invalide.';
   if (/Invitation inconnue/.test(message)) return "Ce code d'invitation n'existe pas.";
+  if (/supprimer_mon_compte/.test(message)) return 'La suppression de compte n\'est pas encore activée : il faut exécuter supabase/comptes.sql dans Supabase.';
   if (/duplicate key.*pseudo|profils_pseudo/i.test(message)) return 'Ce pseudo est déjà pris.';
   if (/(relation|table).*notes|notes.*schema cache/i.test(message)) return 'Les notes ne sont pas encore activées : il faut exécuter supabase/notes.sql dans Supabase.';
   if (/(could not find the function|function .* does not exist).*(ami|amis)/i.test(message)) return "Les amis ne sont pas encore activés : il faut exécuter supabase/amis.sql dans Supabase.";
@@ -136,6 +137,23 @@ export async function deconnexion() {
   await supabase().auth.signOut();
   effacerDonneesLocales();
   return true;
+}
+
+/**
+ * Supprime mon compte et toutes mes données (supabase/comptes.sql) : d'abord ce que garde le
+ * relais (liste, abonnements, cloche), puis le compte dans la base, puis cet appareil.
+ * Mes groupes passent à leur membre le plus ancien.
+ */
+export async function supprimerCompte() {
+  const u = await utilisateur();
+  if (!u) throw new Error('Connexion requise');
+  const ligne = verifier(await supabase().from('codes').select('code').eq('id', u.id).maybeSingle());
+  const codes = new Set([ligne?.code, proprietaireLocal() === u.id ? maListe.codePerso() : null].filter(Boolean));
+  for (const code of codes) await maListe.appelRelais('DELETE', `/donnees/${code}`);
+  await notifications.desactiver().catch(() => { /* notifications non prises en charge */ });
+  verifier(await supabase().rpc('supprimer_mon_compte'));
+  await supabase().auth.signOut({ scope: 'local' }).catch(() => {});
+  effacerDonneesLocales();
 }
 
 /**
