@@ -90,6 +90,10 @@ function remplacerImagesCassees() {
   }, true);
 }
 
+// Attribution des données affichées dans les résultats (exigée par RAWG et TMDB)
+const SOURCES_RECHERCHE = `<p class="sources-recherche">Données : <span>AniList</span> · <span>RAWG</span> · <span>TMDB</span>
+  (ce site utilise l'API TMDB mais n'est ni approuvé ni certifié par TMDB)</p>`;
+
 // Recherche en direct (animés, jeux, films et séries) : la liste apparaît pendant la frappe.
 // Entrée = page Animés avec tous les résultats (le <form> s'en charge tout seul).
 function brancherRecherche() {
@@ -126,7 +130,8 @@ function brancherRecherche() {
     boite.innerHTML = (blocAnimes || blocJeux || blocFilms)
       ? `${blocAnimes ? `<p class="groupe">Animés</p>${blocAnimes}<a class="tout-voir" href="animes.html?q=${encodeURIComponent(texte)}#explorer">Tous les animés ›</a>` : ''}
          ${blocJeux ? `<p class="groupe">Jeux vidéo</p>${blocJeux}<a class="tout-voir" href="jeux.html?q=${encodeURIComponent(texte)}#explorer">Tous les jeux ›</a>` : ''}
-         ${blocFilms ? `<p class="groupe">Films et séries</p>${blocFilms}<a class="tout-voir" href="films.html?q=${encodeURIComponent(texte)}${films.slice(0, 4).every((f) => f.type === 'serie') ? '&type=serie' : ''}#explorer">Tous les films et séries ›</a>` : ''}`
+         ${blocFilms ? `<p class="groupe">Films et séries</p>${blocFilms}<a class="tout-voir" href="films.html?q=${encodeURIComponent(texte)}${films.slice(0, 4).every((f) => f.type === 'serie') ? '&type=serie' : ''}#explorer">Tous les films et séries ›</a>` : ''}
+         ${SOURCES_RECHERCHE}`
       : '<p>Aucun résultat.</p>';
     boite.classList.add('ouvert');
   });
