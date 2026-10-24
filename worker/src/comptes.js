@@ -129,10 +129,12 @@ export const coutEnvoi = (abo, notifs) => (abo?.abonnements.length || 0) * Math.
 /**
  * Notification push sur chaque appareil abonné (une requête par notification et par appareil :
  * la tâche horaire réserve d'abord coutEnvoi() dans son budget).
- * Renvoie { envoyees, expires } (expires : appareils désabonnés, à retirer).
+ * Renvoie { envoyees, expires, echecs } (expires : appareils désabonnés, à retirer ;
+ * echecs : la raison de chaque envoi raté, avec le service de push concerné).
  */
 export async function pousser(env, abo, notifs) {
   const expires = new Set();
+  const echecs = [];
   let envoyees = 0;
   for (const appareil of abo?.abonnements || []) {
     for (const notif of versAppareils(env, notifs)) {
@@ -140,11 +142,13 @@ export async function pousser(env, abo, notifs) {
         if ((await envoyerPush(env, appareil, notif)) === 'expire') { expires.add(appareil.endpoint); break; }
         envoyees += 1;
       } catch (erreur) {
-        console.log('Échec envoi push :', erreur.message);
+        const raison = `${new URL(appareil.endpoint).hostname} : ${erreur.message.slice(0, 120)}`;
+        console.log('Échec envoi push :', raison);
+        echecs.push(raison);
       }
     }
   }
-  return { envoyees, expires };
+  return { envoyees, expires, echecs };
 }
 
 /** Cloche + notification push (chat, recommandations, test). Renvoie le nombre de notifications envoyées. */

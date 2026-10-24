@@ -44,6 +44,8 @@ python3 scripts/collecte.py
 Toutes les heures (GitHub Actions, lancé par le cron du relais Cloudflare)
   scripts/collecte.py ──lit──> flux RSS ──écrit──> data/*.json ──> publié sur GitHub Pages
   scripts/collecte_anilist.py ──> tendances, mieux notés, calendrier ──> data/anilist.json
+  scripts/collecte_suivis.py  ──> suites des animés suivis, tomes et chapitres des mangas suivis ──> data/suivis.json
+                                  (identifiants suivis passés par le relais ; il lit ces deux fichiers pour notifier)
 
 Dans le navigateur
   pages HTML ──> js/pages/*.js ──┬──> data/*.json         (actus, ADN)
@@ -73,6 +75,8 @@ scripts/
   collecte.py       collecte RSS (bibliothèque standard Python uniquement)
   collecte_adn.py   catalogue + calendrier ADN (langues par saison, heures VOSTFR/VF)
   collecte_anilist.py  tendances, mieux notés de la saison et calendrier AniList (pour l'accueil)
+  collecte_suivis.py   pour les notifications du relais : suites des animés suivis (AniList),
+                       tomes et chapitres des mangas suivis (MangaUpdates)
   sources.json      liste des flux + mots-clés des tags
 data/               JSON générés (ne pas modifier à la main)
 .github/workflows/actus.yml   collecte horaire + déploiement
@@ -109,6 +113,7 @@ Tout se passe dans [`scripts/sources.json`](scripts/sources.json) :
 - **Ma liste** : stockée dans le navigateur et copiée sur le relais (Durable Object SQLite) sous un « code perso » de 32 caractères aléatoires. Le même code sur un autre appareil = la même liste.
 - **Favoris et notes perso** (animés, mangas, films, séries, jeux) : un seul système (`js/lib/notes.js`, `js/ui/notes.js`). Ma note sur 100, un avis de 500 caractères max et/ou un favori ❤️, gardés dans le navigateur et, une fois connecté, dans la table Supabase `notes` (`supabase/notes.sql`) : visibles par moi, mes amis et les membres de mes groupes seulement (RLS). La page Potes en tire l'activité (« a noté… »), la compatibilité de goûts avec chaque pote et les suggestions des plus compatibles. Le statut « Adoré » des jeux est devenu « Terminé » + favori.
 - **Notifications web** : le relais vérifie les nouveautés toutes les heures et envoie des notifications chiffrées (norme Web Push, sans bibliothèque). Le service worker (`sw.js`) les affiche, même site fermé. Sur iPhone, il faut d'abord ajouter le site à l'écran d'accueil.
+- **AniList et MangaUpdates bloquent Cloudflare** (403 sur toute requête venant d'un Worker, constaté le 25 octobre 2026) : le relais ne les appelle plus. La collecte horaire GitHub Actions, qui y a accès, publie `data/anilist.json` (épisodes) et `data/suivis.json` (suites, tomes, chapitres des œuvres suivies, dont le relais lui passe les identifiants) ; le relais lit ces fichiers. Chaque passage écrit son bilan dans les journaux du relais ([worker/README.md](worker/README.md#journaux-bilan-de-chaque-passage)).
 
 ## Feuille de route
 

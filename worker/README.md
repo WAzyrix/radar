@@ -58,6 +58,32 @@ Si le jeton expire sans être renouvelé, rien ne casse : le `schedule` de GitHu
 
 Le résultat apparaît dans les journaux du relais (tableau de bord Cloudflare → Workers → radar-relais → **Logs**, gardés 3 jours ; ou en direct avec `npx wrangler tail`) : `Collecte des actus : {"lance":true}`. Si le jeton expire, le `schedule` de GitHub (toutes les 6 h) prend le relais.
 
+## AniList et MangaUpdates : par la collecte GitHub
+
+AniList (403 « You have been manually blocked ») et MangaUpdates (403) refusent **toutes** les requêtes venant de Cloudflare, quel que soit l'en-tête User-Agent (constaté le 25 octobre 2026). Depuis un ordinateur, tout répond normalement, et GitHub Actions collecte déjà le calendrier AniList toutes les heures sans problème. Le relais ne les appelle donc plus :
+
+1. à chaque passage, la tâche horaire lance le workflow en lui passant les identifiants AniList suivis (entrées `animes` et `mangas` : des nombres, aucun code perso) ;
+2. le workflow publie `data/anilist.json` (tous les épisodes d'avant-hier à J+7) et `data/suivis.json` (`scripts/collecte_suivis.py` : suites des animés suivis, série MangaUpdates, dernier tome et dernier chapitre des mangas suivis) ;
+3. la vérification lit ces deux fichiers sur le site. Un épisode est notifié dès que son heure de diffusion est passée ; une suite ou un chapitre, au plus tard au passage qui suit la collecte.
+
+Si le workflow en ligne ne connaît pas encore ces entrées (réponse 422), le relais le relance sans elles : la collecte reprend alors les œuvres de son fichier précédent.
+
+## Journaux : bilan de chaque passage
+
+Chaque passage horaire écrit deux lignes (tableau de bord Cloudflare → Workers → radar-relais → **Logs**, ou `npx wrangler tail`) :
+
+```
+Vérification : 10 liste(s) vérifiée(s) (3 avec notifs push) · 4 nouveauté(s) détectée(s) (episode 3, manga 1), dont 2 nouvelle(s)
+  (déjà vues : 2, coupées par les préférences : 0) · cloche de 2 personne(s) · push : 2 envoyée(s), 0 échec(s), 0 en attente,
+  0 sans appareil · sources : calendrier OK (52 min, 194 épisodes), suivis OK (51 min, 40 animés) · erreurs : aucune
+Vérification (détail) : {"listes":10, …, "parListe":[{"code":"3fa2c1…","animes":4,"detectees":1,"nouvelles":1,"push":"1 envoyée(s)"}, …]}
+```
+
+- **sources** : âge des fichiers de la collecte GitHub. `ILLISIBLE`, ou une erreur « vieux de X h », veut dire que la collecte ne passe plus (onglet **Actions** du dépôt).
+- **déjà vues** : nouveautés déjà notifiées à un passage précédent (normal) ; **coupées par les préférences** : la personne a désactivé ce type de notification.
+- **push** : envois réussis, échecs avec leur raison (service de push et réponse), envois reportés faute de budget, personnes sans appareil abonné (la cloche du site seulement).
+- **parListe** : une ligne par liste, repérée par le début de son code perso (6 caractères, ce qui ne permet pas d'y accéder).
+
 ## Supabase : pas de mise en pause
 
 L'offre gratuite de Supabase met le projet en pause après 7 jours sans activité. Une fois par jour (passage de 4 h 05 UTC), la tâche planifiée fait une lecture minimale (`src/eveil.js`) : `recommandations?select=id&limit=1` avec la **clé publique** (`SUPABASE_CLE_PUBLIQUE` dans `wrangler.toml`, jamais la clé service). Sans connexion, la RLS renvoie une liste vide, mais la base a bien travaillé ; rien n'est écrit. Dans `npx wrangler tail` : `Supabase (anti-pause) : {"ok":true,"statut":200}`.

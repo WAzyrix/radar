@@ -7,6 +7,17 @@ on:
   # le "schedule" de GitHub est souvent retardé ou sauté. On le garde en secours,
   # toutes les 6 h, au cas où le jeton du relais aurait expiré.
   workflow_dispatch:       # relais Cloudflare (toutes les heures) ou bouton "Run workflow"
+    # Œuvres suivies sur le site, passées par le relais (identifiants AniList séparés par des
+    # virgules). Vides (bouton, schedule, push) : la collecte reprend celles de data/suivis.json.
+    inputs:
+      animes:
+        description: "Animés suivis (identifiants AniList, envoyés par le relais)"
+        required: false
+        default: ""
+      mangas:
+        description: "Mangas suivis (identifiants AniList, envoyés par le relais)"
+        required: false
+        default: ""
   schedule:
     - cron: "47 */6 * * *"
   push:
@@ -46,6 +57,17 @@ jobs:
       - name: Collecter AniList (accueil et calendrier)
         run: python3 scripts/collecte_anilist.py
         continue-on-error: true
+
+      # AniList et MangaUpdates bloquent Cloudflare : c'est ici qu'on lit, pour le relais, les suites
+      # des animés suivis et les tomes/chapitres des mangas suivis (data/suivis.json).
+      # En cas d'échec, le fichier précédent reste en ligne (le relais signale son âge dans ses journaux).
+      # Les entrées passent par des variables d'environnement (jamais collées dans le script shell).
+      - name: Collecter les œuvres suivies (suites d'animés, mangas)
+        run: python3 scripts/collecte_suivis.py
+        continue-on-error: true
+        env:
+          SUIVIS_ANIMES: ${{ inputs.animes }}
+          SUIVIS_MANGAS: ${{ inputs.mangas }}
 
       # Si un autre run a poussé entre-temps, le rebase peut buter sur data/*.json :
       # "-X theirs" garde NOS fichiers (les plus récents, en cours de rebase).

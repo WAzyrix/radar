@@ -3,24 +3,28 @@
 //
 // Pour chaque personne abonnée aux notifications, on regarde ce qui est nouveau
 // depuis le dernier passage, sur sa watchlist :
-//   - animés  : épisode diffusé au Japon (AniList), dispo sur ADN, suite annoncée
-//   - mangas  : nouveau tome ou chapitre (MangaUpdates)
+//   - animés  : épisode diffusé au Japon, dispo sur ADN, suite annoncée
+//   - mangas  : nouveau tome ou chapitre
 //   - séries  : nouvel épisode, nouvelle saison (TMDB)
 //   - films   : sortie au cinéma demain, arrivée sur une plateforme (TMDB)
 //   - jeux    : sort demain / aujourd'hui (date enregistrée dans la liste)
 //
+// AniList et MangaUpdates refusent les requêtes venant de Cloudflare (403, constaté le
+// 25/10/2026) : le relais ne les appelle plus. La collecte horaire GitHub Actions le fait
+// à sa place et publie avec le site :
+//   - data/anilist.json : tous les épisodes d'avant-hier à J+7 (scripts/collecte_anilist.py) ;
+//   - data/suivis.json  : suites des animés suivis, tomes et chapitres des mangas suivis
+//     (scripts/collecte_suivis.py ; la tâche horaire lui passe les identifiants suivis, github.js).
+//
 // Limites du plan gratuit de Cloudflare : 50 requêtes sortantes par passage.
-// On regroupe donc les requêtes (une seule pour tous les animés) et on fait
-// tourner les mangas/films/séries : chacun est revérifié au plus toutes les 6 h.
+// Les films et séries sont donc vérifiés à tour de rôle : chacun au plus toutes les 6 h.
+// Chaque passage se termine par un bilan dans les journaux (resumer() + détail en JSON).
 // =========================================================
 import { avecCloche, coutEnvoi, pousser } from './comptes.js';
 import { stockage } from './stockage.js';
 import { tmdb } from './tmdb.js';
-import { normaliser } from './jeux.js';
 
 const HEURE = 3600_000;
-// Date de début comparable (20240315) ; null si inconnue (œuvre annoncée)
-const dateDebut = (d) => (d?.year ? d.year * 10000 + (d.month || 1) * 100 + (d.day || 1) : null);
 // Limite gratuite : 50 requêtes sortantes par passage. On en garde 4 (lancement du workflow,
 // anti-pause Supabase, marge) : 46 au total, dont 30 au plus pour vérifier les nouveautés ;
 // le reste sert aux notifications push (une requête par notification et par appareil).
@@ -28,8 +32,8 @@ const BUDGET_TOTAL = 46;
 const BUDGET_VERIFICATION = 30;
 const RECHECK = 6 * HEURE;
 const RAFRAICHIR_DERNIERE = 6 * HEURE;
-const RESERVE_AUTRES = 10; // requêtes gardées pour ADN, mangas, séries et films
 const FENETRE_MAX = 3 * 24 * HEURE; // épisodes cherchés au plus 3 jours en arrière
+const FICHIER_VIEUX = 3 * HEURE;    // au-delà, la collecte GitHub a sans doute raté des passages
 
 // Date et heure à Paris (pour les notifs "sort demain", envoyées le matin)
 function parisAujourdhui(decalageJours = 0) {
@@ -38,35 +42,75 @@ function parisAujourdhui(decalageJours = 0) {
 }
 const heureParis = () => Number(new Intl.DateTimeFormat('fr-FR', { timeZone: 'Europe/Paris', hour: 'numeric', hour12: false }).format(new Date()));
 
-export async function verifier(env) {
-  const budget = { reste: BUDGET_VERIFICATION };
-  const compter = () => { budget.reste -= 1; return budget.reste >= 0; };
-  const stock = stockage(env);
-
-  // 1. Toutes les personnes qui ont une liste (notifs push activées ou non :
-  //    sans push, les nouveautés vont quand même dans la cloche du site). Un seul appel au stockage.
-  await stock.nettoyer();
+/**
+ * Toutes les personnes qui ont une liste (notifs push activées ou non : sans push, les
+ * nouveautés vont quand même dans la cloche du site), à partir de stockage.chargerComptes().
+ */
+export function lirePersonnes(comptes) {
   const personnes = [];
-  for (const c of await stock.chargerComptes()) {
+  for (const c of comptes) {
     const liste = lireJson(c.liste, { items: [] });
     if (!liste.items?.length) continue;
     const etat = lireJson(c.etat, null) || { derniere: Date.now() - HEURE, vus: {}, franchise: {}, manga: {}, tmdb: {} };
     etat.manga ??= {};
     etat.tmdb ??= {};
-    personnes.push({ code: c.code, abo: lireJson(c.abo, null), histo: lireJson(c.histo, []), items: liste.items, etat, etatTexte: c.etat, notifs: [] });
+    etat.franchise ??= {};
+    const p = { code: c.code, abo: lireJson(c.abo, null), histo: lireJson(c.histo, []), items: liste.items, etat, etatTexte: c.etat, notifs: [] };
+    p.franchises = franchises(p);
+    personnes.push(p);
   }
-  if (!personnes.length) return { personnes: 0 };
+  return personnes;
+}
 
-  // 2. Animés : requêtes AniList groupées (50 œuvres par requête) pour tout le monde.
-  //    false si AniList est en panne : on rattrapera au prochain passage.
-  const animesComplets = await verifierAnimes(env, personnes, compter, budget);
+/** Identifiants AniList à faire suivre par la collecte GitHub (scripts/collecte_suivis.py). */
+export function oeuvresSuivies(personnes) {
+  const trier = (ids) => [...new Set(ids)].sort((a, b) => a - b);
+  return {
+    animes: trier(personnes.flatMap((p) => [...p.franchises.values()].flatMap((f) => [...f]))),
+    mangas: trier(personnes.flatMap((p) => p.items.filter((i) => i.type === 'manga').map((i) => i.id))),
+  };
+}
+
+// Code perso abrégé dans les journaux : assez pour reconnaître une liste, pas pour y accéder
+const abreger = (code) => `${code.slice(0, 6)}…`;
+
+export async function verifier(env, personnes) {
+  const budget = { reste: BUDGET_VERIFICATION };
+  const compter = () => { budget.reste -= 1; return budget.reste >= 0; };
+  const stock = stockage(env);
+  const bilan = {
+    listes: personnes.length,
+    avecPush: personnes.filter((p) => p.abo?.abonnements?.length).length,
+    sources: {},
+    detectees: {},       // nouveautés trouvées, par catégorie (avant le tri)
+    nouvelles: 0,        // ... dont jamais vues et voulues : cloche + push
+    ignorees: { dejaVues: 0, preferences: 0 },
+    cloches: 0,
+    push: { envoyees: 0, echecs: 0, raisons: {}, appareilsRetires: 0, enAttente: 0, sansAppareil: 0 },
+    erreurs: [],
+    parListe: [],
+  };
+  await stock.nettoyer();
+  if (!personnes.length) return bilan;
+
+  // 1. Fichiers publiés par la collecte GitHub (AniList et MangaUpdates bloquent Cloudflare)
+  const suiventAnimes = personnes.some((p) => p.franchises.size);
+  const suiventMangas = personnes.some((p) => p.items.some((i) => i.type === 'manga'));
+  const calendrier = suiventAnimes ? await lireFichier(env, 'anilist.json', compter, bilan) : null;
+  const suivis = suiventAnimes || suiventMangas ? await lireFichier(env, 'suivis.json', compter, bilan) : null;
+  if (suiventAnimes) bilan.sources.calendrier = decrire(calendrier, calendrier?.calendrier?.episodes, 'épisodes', bilan);
+  if (suivis || suiventAnimes || suiventMangas) bilan.sources.suivis = decrire(suivis, suivis?.animes, 'animés', bilan);
+
+  // 2. Animés : épisodes diffusés (calendrier) et suites annoncées.
+  //    false si le calendrier est illisible : on rattrapera au prochain passage.
+  const animesComplets = verifierAnimes(env, personnes, calendrier, suivis);
   // 3. ADN (VOSTFR / VF), un seul petit fichier pour tout le monde
-  await verifierAdn(env, personnes, compter);
+  await verifierAdn(env, personnes, compter, bilan);
   // 4. Jeux : rien à télécharger, la date de sortie est dans la liste
   verifierJeux(env, personnes);
-  // 5. Mangas, séries, films : une requête par œuvre, dans la limite du budget
-  await verifierMangas(env, personnes, compter, budget);
-  if (env.TMDB_KEY) await verifierTmdb(env, personnes, compter, budget);
+  // 5. Mangas (fichier des suivis), puis séries et films : une requête par œuvre, dans la limite du budget
+  verifierMangas(env, personnes, suivis);
+  if (env.TMDB_KEY) await verifierTmdb(env, personnes, compter, budget, bilan);
 
   // 6. Ce qui reste du budget (les vérifications non faites) sert aux notifications push.
   //    Chaque envoi est une requête : ce qui ne rentre pas attend le passage suivant (24 h au plus).
@@ -77,7 +121,21 @@ export async function verifier(env) {
   for (const p of personnes) {
     const prefs = p.abo?.prefs || {};
     const deja = new Set(Object.keys(p.etat.vus || {}));
+    for (const n of p.notifs) bilan.detectees[n.categorie] = (bilan.detectees[n.categorie] || 0) + 1;
     const nouvelles = p.notifs.filter((n) => prefs[n.categorie] !== false && !deja.has(n.cle));
+    bilan.ignorees.dejaVues += p.notifs.filter((n) => deja.has(n.cle)).length;
+    bilan.ignorees.preferences += p.notifs.filter((n) => !deja.has(n.cle) && prefs[n.categorie] === false).length;
+    bilan.nouvelles += nouvelles.length;
+    if (nouvelles.length) bilan.cloches += 1;
+    p.bilan = {
+      code: abreger(p.code),
+      animes: p.franchises.size,
+      mangas: p.items.filter((i) => i.type === 'manga').length,
+      appareils: p.abo?.abonnements?.length || 0,
+      detectees: p.notifs.length,
+      nouvelles: nouvelles.length,
+      push: 'rien de nouveau',
+    };
     const pourAfficher = nouvelles.map(({ cle, categorie, ...n }) => n);
     // On retient ce qui a été vu (et on oublie ce qui a plus de 30 jours)
     p.etat.vus = Object.fromEntries([
@@ -94,12 +152,17 @@ export async function verifier(env) {
       delete p.etat.pushEnAttente;
     } else if (cout) {
       p.etat.pushEnAttente = aPousser.slice(-20);
+      p.bilan.push = `${aPousser.length} en attente (budget de requêtes épuisé)`;
     } else {
       delete p.etat.pushEnAttente;
+      if (pourAfficher.length) {
+        bilan.push.sansAppareil += 1;
+        p.bilan.push = 'aucun appareil abonné (cloche seulement)';
+      }
     }
     // "derniere" (date du dernier passage) n'est rafraîchie que toutes les 6 h : entre-temps,
     // les nouveautés déjà envoyées sont reconnues grâce à "vus" (pas de doublon).
-    // AniList en panne pendant ce passage : on ne l'avance pas, le suivant rattrapera.
+    // Calendrier illisible pendant ce passage : on ne l'avance pas, le suivant rattrapera.
     if (animesComplets && maintenant - p.etat.derniere >= RAFRAICHIR_DERNIERE) p.etat.derniere = maintenant;
     const texte = JSON.stringify(p.etat);
     if (texte !== p.etatTexte) ecritures.push([`etat:${p.code}`, texte]);
@@ -108,88 +171,118 @@ export async function verifier(env) {
 
   // 7. On enregistre TOUT (état + cloche) AVANT d'envoyer quoi que ce soit, en une fois.
   //    Si l'écriture échoue, rien ne part : le passage suivant refera le même calcul, sans doublon.
-  let ecrites;
   try {
-    ecrites = await stock.ecrirePlusieurs(ecritures);
+    bilan.ecritures = await stock.ecrirePlusieurs(ecritures);
   } catch (erreur) {
-    console.log('Vérification : écriture impossible, aucune notification envoyée :', erreur.message);
-    return { personnes: personnes.length, erreur: erreur.message };
+    bilan.erreurs.push(`Écriture impossible, aucune notification envoyée : ${erreur.message}`);
+    bilan.parListe = personnes.map((p) => p.bilan);
+    return bilan;
   }
 
   // 8. Envoi des notifications push (appareils désabonnés retirés ensuite, en une écriture)
-  let envoyees = 0;
   const abosAJour = [];
   for (const { p, notifs } of envois) {
-    const { envoyees: n, expires } = await pousser(env, p.abo, notifs);
-    envoyees += n;
+    const { envoyees, expires, echecs } = await pousser(env, p.abo, notifs);
+    bilan.push.envoyees += envoyees;
+    bilan.push.echecs += echecs.length;
+    for (const raison of echecs) bilan.push.raisons[raison] = (bilan.push.raisons[raison] || 0) + 1;
+    p.bilan.push = `${envoyees} envoyée(s)${echecs.length ? `, ${echecs.length} échec(s) : ${[...new Set(echecs)].join(' ; ')}` : ''}`
+      + `${expires.size ? `, ${expires.size} appareil(s) désabonné(s) retiré(s)` : ''}`;
     if (expires.size) {
+      bilan.push.appareilsRetires += expires.size;
       p.abo.abonnements = p.abo.abonnements.filter((a) => !expires.has(a.endpoint));
       abosAJour.push([`abo:${p.code}`, JSON.stringify(p.abo)]);
     }
   }
-  if (abosAJour.length) await stock.ecrirePlusieurs(abosAJour).catch((erreur) => console.log('Abonnements expirés non retirés :', erreur.message));
-  const enAttente = personnes.filter((p) => p.etat.pushEnAttente?.length).length;
-  return { personnes: personnes.length, envoyees, ecritures: ecrites, enAttente, requetesRestantes: pourPush };
+  if (abosAJour.length) await stock.ecrirePlusieurs(abosAJour).catch((erreur) => bilan.erreurs.push(`Abonnements expirés non retirés : ${erreur.message}`));
+  bilan.push.enAttente = personnes.filter((p) => p.etat.pushEnAttente?.length).length;
+  bilan.requetesRestantes = pourPush;
+  bilan.parListe = personnes.map((p) => p.bilan);
+  return bilan;
+}
+
+/** Le bilan d'un passage en une phrase, pour les journaux (Workers Logs). */
+export function resumer(b) {
+  const parCategorie = Object.entries(b.detectees).map(([c, n]) => `${c} ${n}`).join(', ');
+  const total = Object.values(b.detectees).reduce((a, n) => a + n, 0);
+  const sources = Object.entries(b.sources).map(([nom, s]) => `${nom} ${s.ok ? `OK (${s.age}${s.nombre !== undefined ? `, ${s.nombre} ${s.quoi}` : ''})` : 'ILLISIBLE'}`).join(', ');
+  const raisons = Object.entries(b.push.raisons).map(([r, n]) => `${n}× ${r}`).join(' ; ');
+  return [
+    `${b.listes} liste(s) vérifiée(s) (${b.avecPush} avec notifs push)`,
+    `${total} nouveauté(s) détectée(s)${parCategorie ? ` (${parCategorie})` : ''}, dont ${b.nouvelles} nouvelle(s)`
+      + ` (déjà vues : ${b.ignorees.dejaVues}, coupées par les préférences : ${b.ignorees.preferences})`,
+    `cloche de ${b.cloches} personne(s)`,
+    `push : ${b.push.envoyees} envoyée(s), ${b.push.echecs} échec(s)${raisons ? ` [${raisons}]` : ''}`
+      + `, ${b.push.enAttente} en attente, ${b.push.sansAppareil} sans appareil`,
+    `sources : ${sources || 'aucune'}`,
+    `erreurs : ${b.erreurs.length ? b.erreurs.join(' ; ') : 'aucune'}`,
+  ].join(' · ');
 }
 
 const lireJson = (texte, defaut) => {
   try { return texte ? JSON.parse(texte) : defaut; } catch { return defaut; }
 };
 
-// ---------- Animés (AniList) ----------
+// Fichier JSON publié avec le site (data/…). null s'il est illisible (raison dans le bilan).
+// Le paramètre ?h= change toutes les heures : on ne lit pas une copie gardée en cache.
+async function lireFichier(env, nom, compter, bilan) {
+  if (!compter()) {
+    bilan.erreurs.push(`${nom} : budget de requêtes épuisé`);
+    return null;
+  }
+  try {
+    const reponse = await fetch(`${env.SITE}data/${nom}?h=${Math.floor(Date.now() / HEURE)}`, { signal: AbortSignal.timeout(10_000) });
+    if (!reponse.ok) throw new Error(`réponse ${reponse.status}`);
+    return await reponse.json();
+  } catch (erreur) {
+    bilan.erreurs.push(`${nom} illisible : ${erreur.message}`);
+    return null;
+  }
+}
+
+// Âge d'un fichier de la collecte, pour le bilan (et une alerte s'il n'est plus mis à jour)
+function decrire(fichier, contenu, quoi, bilan) {
+  if (!fichier || !contenu) return { ok: false };
+  const age = Date.now() - Date.parse(fichier.genere);
+  const heures = Math.floor(age / HEURE);
+  if (age > FICHIER_VIEUX) bilan.erreurs.push(`fichier de la collecte GitHub vieux de ${heures} h (généré le ${fichier.genere})`);
+  return { ok: true, age: heures ? `${heures} h ${Math.round((age % HEURE) / 60_000)} min` : `${Math.round(age / 60_000)} min`, nombre: Object.keys(contenu).length, quoi };
+}
+
+// ---------- Animés ----------
 // Suivre un animé = suivre toute sa franchise. Pour chaque animé suivi, on connaît :
 //   - ses saisons (envoyées par le site, champ "saisons") ;
 //   - les suites découvertes depuis par le relais (etat.franchise[id]).
 // On surveille les épisodes de TOUTES ces œuvres, et on cherche de nouvelles suites
 // sur chacune d'elles : la saison 3 de Frieren est une suite de la saison 2, pas de la 1.
-async function verifierAnimes(env, personnes, compter, budget) {
-  // Œuvres à surveiller pour chaque personne : id suivi -> ensemble des id de la franchise
-  for (const p of personnes) {
-    p.etat.franchise ??= {};
-    p.franchises = new Map();
-    for (const anime of p.items.filter((i) => i.type === 'anime')) {
-      // Ancien format (avant les franchises) : on reprend les suites déjà connues
-      const anciennes = p.etat.suites?.[anime.id] || [];
-      const connues = new Set([anime.id, ...(anime.saisons || []), ...(p.etat.franchise[anime.id] || []), ...anciennes]);
-      p.franchises.set(anime.id, connues);
-    }
-  }
-  const ids = [...new Set(personnes.flatMap((p) => [...p.franchises.values()].flatMap((f) => [...f])))].sort((a, b) => a - b);
-  if (!ids.length) return true;
 
-  // AniList renvoie 50 résultats au plus par page : on découpe les œuvres en lots de 50.
-  // Si le budget ne permet pas de tous les lire, on fait TOURNER le lot de départ d'une
-  // heure à l'autre : chaque lot est relu au moins toutes les "rotation" heures.
-  const lots = [];
-  for (let i = 0; i < ids.length; i += 50) lots.push(ids.slice(i, i + 50));
-  const lotsParPassage = Math.max(1, budget.reste - RESERVE_AUTRES);
-  const rotation = Math.ceil(lots.length / lotsParPassage); // en heures (1 si tout tient)
+// Œuvres à surveiller pour une personne : id suivi -> ensemble des id de la franchise
+function franchises(p) {
+  const resultat = new Map();
+  for (const anime of p.items.filter((i) => i.type === 'anime')) {
+    // Ancien format (avant les franchises) : on reprend les suites déjà connues
+    const anciennes = p.etat.suites?.[anime.id] || [];
+    resultat.set(anime.id, new Set([anime.id, ...(anime.saisons || []), ...(p.etat.franchise[anime.id] || []), ...anciennes]));
+  }
+  return resultat;
+}
+
+// "Vient d'être diffusé", ou la date si l'épisode date un peu (rattrapage après une panne)
+const quandDiffuse = (airingAt) => (Date.now() - airingAt * 1000 < 2 * HEURE
+  ? 'Vient d\'être diffusé au Japon.'
+  : `Diffusé au Japon ${new Intl.DateTimeFormat('fr-FR', { timeZone: 'Europe/Paris', weekday: 'long', day: 'numeric', month: 'long', hour: '2-digit', minute: '2-digit' }).format(airingAt * 1000)}.`);
+
+// calendrier : data/anilist.json (épisodes d'avant-hier à J+7, toutes séries confondues) ;
+// suivis : data/suivis.json (suites de chaque animé suivi). Renvoie false si le calendrier manque.
+function verifierAnimes(env, personnes, calendrier, suivis) {
+  const episodes = calendrier?.calendrier?.episodes;
+  const fiches = suivis?.animes;
   const maintenant = Date.now();
-  const depart = Math.floor(maintenant / HEURE) % lots.length;
-
-  // Fenêtre de recherche : depuis le dernier passage de chacun, et au moins une rotation
-  // complète (+ 6 h, délai de rafraîchissement de "derniere"), au plus 3 jours.
-  // Les épisodes déjà notifiés sont reconnus grâce à "vus" (mémoire de 30 jours).
-  const borne = (p) => Math.max(Math.min(p.etat.derniere, maintenant - (rotation * HEURE + RAFRAICHIR_DERNIERE)), maintenant - FENETRE_MAX);
-  const depuis = Math.floor(Math.min(...personnes.map(borne)) / 1000);
-
-  const sorties = [];
-  const medias = new Map();
-  let panne = false;
-  for (let n = 0; n < lots.length && !panne; n++) {
-    const lot = lots[(depart + n) % lots.length];
-    let lu = true;
-    for (let page = 1; ; page++) {
-      if (budget.reste <= RESERVE_AUTRES || !compter()) { lu = false; break; }
-      const data = await requeteAnilist(lot, depuis, page);
-      if (!data) { panne = true; break; }
-      sorties.push(...data.sorties.airingSchedules);
-      if (page === 1) for (const m of data.medias.media) medias.set(m.id, m);
-      if (!data.sorties.pageInfo.hasNextPage) break;
-    }
-    if (!lu) break; // budget épuisé : les lots suivants passeront aux prochaines heures
-  }
-  const nom = (m) => m?.title.english || m?.title.romaji;
+  // Fenêtre de recherche : depuis le dernier passage de chacun, au moins 6 h (délai de
+  // rafraîchissement de "derniere"), au plus 3 jours. Les épisodes déjà notifiés sont
+  // reconnus grâce à "vus" (mémoire de 30 jours).
+  const borne = (p) => Math.max(Math.min(p.etat.derniere, maintenant - RAFRAICHIR_DERNIERE), maintenant - FENETRE_MAX);
+  const nom = (media) => media.title.english || media.title.romaji;
 
   for (const p of personnes) {
     const debutFenetre = borne(p);
@@ -197,77 +290,57 @@ async function verifierAnimes(env, personnes, compter, budget) {
       const anime = p.items.find((i) => i.type === 'anime' && i.id === idSuivi);
 
       // Épisodes diffusés dans la fenêtre, sur n'importe quelle saison ("vus" évite les doublons)
-      for (const s of sorties) {
-        if (!franchise.has(s.mediaId) || s.airingAt * 1000 <= debutFenetre) continue;
+      for (const e of episodes || []) {
+        const diffusion = e.airingAt * 1000;
+        if (!franchise.has(e.media?.id) || diffusion <= debutFenetre || diffusion > maintenant) continue;
         p.notifs.push({
-          cle: `ep:${s.mediaId}:${s.episode}`, categorie: 'episode',
-          titre: `${nom(medias.get(s.mediaId)) || anime.titre} : épisode ${s.episode}`,
-          corps: 'Vient d\'être diffusé au Japon.',
-          url: `${env.SITE}anime.html?id=${s.mediaId}`, image: anime.image,
+          cle: `ep:${e.media.id}:${e.episode}`, categorie: 'episode',
+          titre: `${nom(e.media) || anime.titre} : épisode ${e.episode}`,
+          corps: quandDiffuse(e.airingAt),
+          url: `${env.SITE}anime.html?id=${e.media.id}`, image: anime.image,
         });
       }
 
       // Nouvelles suites, sur n'importe quelle œuvre de la franchise.
       // La toute première fois (franchise jamais vérifiée), on mémorise sans notifier.
+      if (!fiches) continue;
       const premiereFois = !p.etat.franchise[idSuivi];
       for (const membre of [...franchise]) {
-        const media = medias.get(membre);
-        if (!media) continue;
-        for (const e of media.relations.edges) {
-          if (e.relationType !== 'SEQUEL' || e.node.type !== 'ANIME' || franchise.has(e.node.id)) continue;
+        const fiche = fiches[membre];
+        if (!fiche) continue;
+        for (const suite of fiche.suites) {
+          if (franchise.has(suite.id)) continue;
           // Une "suite" sortie AVANT l'œuvre est une suite d'histoire, pas une nouveauté
           // (ex : One Piece est la "suite" de MONSTERS, ONA de 2024)
-          const ici = dateDebut(media.startDate);
-          const la = dateDebut(e.node.startDate);
-          if (ici && la && la < ici) continue;
-          franchise.add(e.node.id); // la suite est désormais surveillée (épisodes, suites suivantes)
+          if (fiche.debut && suite.debut && suite.debut < fiche.debut) continue;
+          franchise.add(suite.id); // la suite est désormais surveillée (épisodes, suites suivantes)
           if (premiereFois) continue;
           p.notifs.push({
-            cle: `suite:${e.node.id}`, categorie: 'suite',
-            titre: `Suite annoncée : ${nom(e.node)}`,
+            cle: `suite:${suite.id}`, categorie: 'suite',
+            titre: `Suite annoncée : ${suite.titre}`,
             corps: `La suite de ${anime.titre} est annoncée !`,
-            url: `${env.SITE}anime.html?id=${e.node.id}`, image: anime.image,
+            url: `${env.SITE}anime.html?id=${suite.id}`, image: anime.image,
           });
         }
       }
-      // Franchise réellement vérifiée (au moins une œuvre reçue) : on la mémorise.
-      // Sinon (lot sauté), la "première fois" reste à faire : pas de fausses "suites annoncées".
-      if ([...franchise].some((id) => medias.has(id))) p.etat.franchise[idSuivi] = [...franchise];
+      // Franchise réellement vérifiée (au moins une œuvre dans le fichier) : on la mémorise.
+      // Sinon (animé tout juste suivi, pas encore collecté), la "première fois" reste à faire :
+      // pas de fausses "suites annoncées".
+      if ([...franchise].some((id) => fiches[id])) p.etat.franchise[idSuivi] = [...franchise];
     }
     delete p.etat.suites; // remplacé par etat.franchise
   }
-  // Une panne d'AniList empêche de faire avancer la date du dernier passage
-  // (le budget épuisé, lui, est couvert par la rotation et la fenêtre de recherche)
-  return !panne;
-}
-
-// Une page d'épisodes diffusés + les fiches (suites) d'un lot de 50 œuvres. null si AniList échoue.
-async function requeteAnilist(ids, depuis, page) {
-  const reponse = await fetch('https://graphql.anilist.co', {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
-    signal: AbortSignal.timeout(10_000),
-    body: JSON.stringify({
-      query: `query($ids:[Int], $a:Int, $b:Int, $page:Int){
-        sorties: Page(page:$page, perPage:50){ pageInfo{ hasNextPage }
-          airingSchedules(mediaId_in:$ids, airingAt_greater:$a, airingAt_lesser:$b){ mediaId episode airingAt } }
-        medias: Page(perPage:50){ media(id_in:$ids){ id startDate{year month day} title{romaji english} relations{ edges{ relationType node{ id type startDate{year month day} title{romaji english} } } } } }
-      }`,
-      variables: { ids, a: depuis, b: Math.floor(Date.now() / 1000), page },
-    }),
-  }).catch(() => null);
-  if (!reponse?.ok) return null;
-  const { data } = await reponse.json().catch(() => ({}));
-  return data?.sorties && data?.medias ? data : null;
+  return Array.isArray(episodes);
 }
 
 // ---------- ADN : sorties VOSTFR / VF ----------
-async function verifierAdn(env, personnes, compter) {
+async function verifierAdn(env, personnes, compter, bilan) {
   const concernes = personnes.filter((p) => p.items.some((i) => i.type === 'anime' && i.adn));
-  if (!concernes.length || !compter()) return;
-  const reponse = await fetch(`${env.SITE}data/adn-sorties.json`);
-  if (!reponse.ok) return;
-  const { sorties } = await reponse.json();
+  if (!concernes.length) return;
+  const fichier = await lireFichier(env, 'adn-sorties.json', compter, bilan);
+  bilan.sources.adn = decrire(fichier, fichier?.sorties, 'sorties', { erreurs: [] });
+  if (!fichier?.sorties) return;
+  const { sorties } = fichier;
   const maintenant = Date.now();
 
   for (const p of concernes) {
@@ -306,73 +379,29 @@ function verifierJeux(env, personnes) {
   }
 }
 
-// ---------- Mangas (MangaUpdates) ----------
-// On cherche d'abord la série MangaUpdates correspondante (une seule fois),
-// puis on compare le nombre de tomes et le dernier chapitre.
-async function verifierMangas(env, personnes, compter, budget) {
-  const maintenant = Date.now();
-  // Mangas à vérifier, du moins récemment vérifié au plus récent
-  const aFaire = new Map();
+// ---------- Mangas ----------
+// La collecte GitHub (data/suivis.json) donne, pour chaque manga suivi, sa série MangaUpdates,
+// son dernier tome et son dernier chapitre ; on compare avec ce que chacun a déjà vu.
+function verifierMangas(env, personnes, suivis) {
+  if (!suivis?.mangas) return;
   for (const p of personnes) {
     for (const m of p.items.filter((i) => i.type === 'manga')) {
-      const vu = p.etat.manga[m.id]?.vu || 0;
-      if (maintenant - vu >= RECHECK) aFaire.set(m.id, { manga: m, vu: Math.min(vu, aFaire.get(m.id)?.vu ?? Infinity) });
-    }
-  }
-  const tries = [...aFaire.values()].sort((a, b) => a.vu - b.vu);
-  const resultats = new Map();
-
-  for (const { manga } of tries) {
-    if (budget.reste < 3) break;
-    const connu = personnes.map((p) => p.etat.manga[manga.id]).find((e) => e?.mu);
-    let mu = connu?.mu;
-    if (!mu) {
-      if (!compter()) break;
-      mu = await chercherMangaUpdates(manga).catch(() => null);
-      if (!mu) { resultats.set(manga.id, { introuvable: true }); continue; }
-    }
-    if (!compter()) break;
-    const serie = await fetch(`https://api.mangaupdates.com/v1/series/${mu}`).then((r) => (r.ok ? r.json() : null)).catch(() => null);
-    if (!serie) continue;
-    resultats.set(manga.id, {
-      mu,
-      tomes: Number(serie.status?.match(/(\d+)\s+Volumes?/i)?.[1]) || null,
-      chapitre: Number(serie.latest_chapter) || null,
-    });
-  }
-
-  for (const p of personnes) {
-    for (const m of p.items.filter((i) => i.type === 'manga')) {
-      const nouveau = resultats.get(m.id);
-      if (!nouveau) continue;
+      const nouveau = suivis.mangas[m.id];
+      if (!nouveau?.mu) continue; // pas encore collecté, ou introuvable sur MangaUpdates
       const ancien = p.etat.manga[m.id];
       if (ancien?.tomes && nouveau.tomes > ancien.tomes) {
         p.notifs.push({ cle: `tome:${m.id}:${nouveau.tomes}`, categorie: 'manga', titre: `${m.titre} : tome ${nouveau.tomes}`, corps: 'Nouveau tome sorti au Japon.', url: `${env.SITE}anime.html?id=${m.id}`, image: m.image });
       } else if (ancien?.chapitre && nouveau.chapitre > ancien.chapitre) {
         p.notifs.push({ cle: `chap:${m.id}:${nouveau.chapitre}`, categorie: 'manga', titre: `${m.titre} : chapitre ${nouveau.chapitre}`, corps: 'Nouveau chapitre sorti au Japon.', url: `${env.SITE}anime.html?id=${m.id}`, image: m.image });
       }
-      p.etat.manga[m.id] = { ...nouveau, vu: maintenant };
+      // Un tome ou un chapitre inconnu ce passage-ci ne fait pas oublier le précédent
+      p.etat.manga[m.id] = { mu: nouveau.mu, tomes: nouveau.tomes ?? ancien?.tomes ?? null, chapitre: nouveau.chapitre ?? ancien?.chapitre ?? null };
     }
   }
 }
 
-async function chercherMangaUpdates(manga) {
-  const reponse = await fetch('https://api.mangaupdates.com/v1/series/search', {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ search: manga.titres?.[0] || manga.titre, perpage: 15 }),
-  });
-  if (!reponse.ok) return null;
-  const { results } = await reponse.json();
-  // On écarte les doujinshis, anthologies, romans… et on préfère un titre identique
-  const candidats = results.map((r) => r.record)
-    .filter((r) => ['Manga', 'Manhwa', 'Manhua'].includes(r.type) && !/\bdj\b|anthology|\(novel\)/i.test(r.title));
-  const voulus = new Set([manga.titre, ...(manga.titres || [])].map(normaliser));
-  return (candidats.find((r) => voulus.has(normaliser(r.title))) || candidats[0])?.series_id || null;
-}
-
 // ---------- Films et séries (TMDB) ----------
-async function verifierTmdb(env, personnes, compter, budget) {
+async function verifierTmdb(env, personnes, compter, budget, bilan) {
   const maintenant = Date.now();
   const aFaire = new Map();
   for (const p of personnes) {
@@ -400,7 +429,9 @@ async function verifierTmdb(env, personnes, compter, budget) {
           plateformes: (f['watch/providers']?.results?.FR?.flatrate || []).map((x) => x.provider_name),
         });
       }
-    } catch { /* on réessaiera au prochain passage */ }
+    } catch (erreur) {
+      bilan.erreurs.push(`TMDB ${cle} : ${erreur.message}`); // on réessaiera au prochain passage
+    }
   }
 
   const demain = parisAujourdhui(1);

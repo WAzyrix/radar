@@ -3,7 +3,7 @@
 //
 // Pourquoi ce relais ?
 //  - RAWG et TMDB demandent une clé : elle ne doit pas être dans le code du site.
-//  - Steam et MangaUpdates refusent les appels venant d'un navigateur (pas de CORS).
+//  - Steam refuse les appels venant d'un navigateur (pas de CORS).
 //  - Les notifications doivent partir d'un serveur, même quand ton navigateur est fermé.
 //
 // Routes :
@@ -23,7 +23,8 @@
 //   POST   /recommander                               recommander à un pote (compte Supabase)
 //   POST   /chat/notifier                             prévenir le groupe d'un nouveau message
 // Données (listes, abonnements, cloche…) : Durable Object SQLite, voir stockage.js
-// Tâche planifiée (toutes les heures) : verification.js + lancement de la collecte des actus (github.js)
+// Tâche planifiée (toutes les heures) : verification.js + lancement de la collecte (github.js), qui
+//                 interroge AniList et MangaUpdates pour le relais (ils bloquent Cloudflare)
 //                 + une fois par jour, une lecture Supabase pour éviter la mise en pause (eveil.js)
 // =========================================================
 import { filtrer, listeJeux, ficheJeu, hasard, genres } from './jeux.js';
@@ -31,10 +32,11 @@ import { rechercheTmdb, genresTmdb, decouvrir, hasardTmdb, sorties, enCeMoment, 
 import {
   codeValide, lireListe, ecrireListe, abonner, desabonner, lireAbonnement, changerPrefs, notifTest, lireHistorique, effacerHistorique, marquerLues, effacerDonnees, Erreur400,
 } from './comptes.js';
-import { verifier } from './verification.js';
+import { verifier, lirePersonnes, oeuvresSuivies, resumer } from './verification.js';
 import { recommander } from './recommandations.js';
 import { notifierChat } from './chat.js';
 import { cleIp } from './limiteur.js';
+import { stockage } from './stockage.js';
 import { lancerCollecte } from './github.js';
 import { eveilDuJour, reveillerSupabase } from './eveil.js';
 
@@ -83,11 +85,25 @@ export default {
 
   // Appelé par Cloudflare toutes les heures (voir [triggers] dans wrangler.toml)
   async scheduled(evenement, env, ctx) {
-    // La collecte d'abord : une seule requête, et elle ne doit pas attendre la vérification
-    ctx.waitUntil(lancerCollecte(env).then((bilan) => console.log('Collecte des actus :', JSON.stringify(bilan))));
-    ctx.waitUntil(verifier(env)
-      .then((bilan) => console.log('Vérification :', JSON.stringify(bilan)))
-      .catch((erreur) => console.log('Vérification en échec :', erreur.message)));
+    // Les listes d'abord (un seul appel au stockage) : la collecte GitHub en a besoin, c'est elle
+    // qui interroge AniList et MangaUpdates pour les œuvres suivies (scripts/collecte_suivis.py)
+    let personnes = null;
+    try {
+      personnes = lirePersonnes(await stockage(env).chargerComptes());
+    } catch (erreur) {
+      console.log('Vérification en échec : stockage illisible :', erreur.message);
+    }
+    // Puis la collecte : une seule requête, elle ne doit pas attendre la vérification
+    ctx.waitUntil(lancerCollecte(env, personnes && oeuvresSuivies(personnes)).then((bilan) => console.log('Collecte des actus :', JSON.stringify(bilan))));
+    // Bilan du passage en une phrase, puis en détail (JSON) pour chercher dans Workers Logs
+    if (personnes) {
+      ctx.waitUntil(verifier(env, personnes)
+        .then((bilan) => {
+          console.log(`Vérification : ${resumer(bilan)}`);
+          console.log('Vérification (détail) :', JSON.stringify(bilan));
+        })
+        .catch((erreur) => console.log('Vérification en échec :', erreur.stack || erreur.message)));
+    }
     // Une fois par jour : une lecture Supabase, pour que le projet gratuit ne soit pas mis en pause
     if (eveilDuJour(evenement.scheduledTime)) {
       ctx.waitUntil(reveillerSupabase(env).then((bilan) => console.log('Supabase (anti-pause) :', JSON.stringify(bilan))));
