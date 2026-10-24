@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-24T10:16:39+00:00",
+ "maj": "2026-10-24T10:49:11+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,6 +24,15 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "1065140518e1",
+   "titre": "DeepSeek banni des agences fédérales US",
+   "lien": "https://www.zataz.com/deepseek-banni-des-agences-federales-civiles-americaines/",
+   "source": "Zataz",
+   "date": "2026-10-24T10:46:39+00:00",
+   "extrait": "DeepSeek banni des agences fédérales civiles américaines : portée, calendrier et risques pour les données.",
+   "tags": []
+  },
+  {
    "id": "e1dd062f9758",
    "titre": "Point Vision : des données de patients dérobées",
    "lien": "https://www.zataz.com/point-vision-des-donnees-de-patients-derobees/",
@@ -31,6 +40,29 @@
    "date": "2026-10-24T09:29:23+00:00",
    "extrait": "Cyberattaque chez Point Vision : données de patients volées, exposition possible des motifs de rendez-vous.",
    "tags": []
+  },
+  {
+   "id": "94d51fe2d204",
+   "titre": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
+   "lien": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
+   "source": "The Hacker News",
+   "date": "2026-10-24T09:04:24+00:00",
+   "extrait": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have…",
+   "tags": [
+    "Malware"
+   ]
+  },
+  {
+   "id": "a0a9e49aec28",
+   "titre": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+   "lien": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+   "source": "The Hacker News",
+   "date": "2026-10-24T08:45:56+00:00",
+   "extrait": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to…",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
   },
   {
    "id": "838b4b1ce253",
