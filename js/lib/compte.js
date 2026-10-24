@@ -20,8 +20,19 @@ let client;
 export function supabase() {
   client ??= createClient(SUPABASE_URL, SUPABASE_CLE_PUBLIQUE, {
     auth: { persistSession: true, autoRefreshToken: true },
-    // Délai maximum de 15 s par appel : une base lente ne laisse plus la page charger sans fin
-    global: { fetch: (url, options = {}) => fetch(url, { ...options, signal: AbortSignal.any([options.signal, AbortSignal.timeout(15_000)].filter(Boolean)) }) },
+    // Délai maximum de 15 s par appel : une base lente ne laisse plus la page charger sans fin.
+    // Le dépassement est présenté comme une ANNULATION : supabase-js relance (3 fois, avec pause)
+    // une lecture qui a échoué, mais jamais une requête annulée. Sans ça : 67 s d'attente au lieu de 15.
+    global: {
+      fetch: async (url, options = {}) => {
+        try {
+          return await fetch(url, { ...options, signal: AbortSignal.any([options.signal, AbortSignal.timeout(15_000)].filter(Boolean)) });
+        } catch (erreur) {
+          if (erreur?.name === 'TimeoutError') throw new DOMException('délai dépassé (timed out)', 'AbortError');
+          throw erreur;
+        }
+      },
+    },
   });
   return client;
 }

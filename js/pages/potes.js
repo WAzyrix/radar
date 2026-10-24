@@ -20,7 +20,10 @@ const $ = (id) => document.getElementById(id);
 const AVATARS = ['🎮', '⚔️', '🐉', '🦊', '🐺', '🌸', '🔥', '⚡', '🍜', '👾', '🎧', '🛸', '🌙', '🐱', '🦖', '🍀'];
 
 const message = (texte) => (texte ? el('p', { class: 'message-notif' }, texte) : null);
-const remplir = (conteneur, ...enfants) => conteneur.replaceChildren(...enfants.flat().filter(Boolean));
+const remplir = (conteneur, ...enfants) => {
+  conteneur.removeAttribute('aria-busy'); // fin du squelette de chargement (potes.html)
+  conteneur.replaceChildren(...enfants.flat().filter(Boolean));
+};
 const pastillePote = (p) => el('span', { class: 'pote', title: p.pseudo }, el('i', {}, p.avatar), p.pseudo);
 const icone = (nom) => gabarit(ICONES[nom]);
 
