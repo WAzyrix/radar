@@ -573,7 +573,9 @@ function afficherPotes() {
     : gabarit('<div class="vide"><strong>Rien pour l\'instant</strong>Leurs ajouts à Ma liste apparaîtront ici.</div>'));
 
   // Activité : les derniers ajouts, notes et favoris de chacun (dates posées par la base pour les notes)
-  const date = (d) => (typeof d === 'string' && !Number.isNaN(Date.parse(d)) ? d : null);
+  // Les dates d'ajout à une liste viennent de l'appareil du pote : une date dans le futur
+  // (horloge fausse, ou faite exprès pour rester en tête) est ignorée
+  const date = (d) => (typeof d === 'string' && Date.parse(d) <= Date.now() + 10 * 60_000 ? d : null);
   const activite = potes.flatMap((p) => [
     ...p.items.filter((i) => date(i.ajouteLe)).map((item) => ({ p, item, quand: item.ajouteLe, action: 'a ajouté' })),
     ...(derniersPotes.notesDe.get(p.id) || []).flatMap((n) => [
