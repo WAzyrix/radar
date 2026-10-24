@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-24T22:05:40+00:00",
+ "maj": "2026-10-24T23:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "10b0251915e8",
+   "titre": "Chimeraz revendique des fuites visant trois partis français, dont celui du groupe présidentiel",
+   "lien": "https://www.zataz.com/chimeraz-revendique-des-fuites-visant-trois-partis-francais/",
+   "source": "Zataz",
+   "date": "2026-10-24T23:00:29+00:00",
+   "extrait": "Chimeraz revendique des données annoncées comme volées aux partis politiques de Renaissance, LFI et du PCF.",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
   {
    "id": "a6ce31709924",
    "titre": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",

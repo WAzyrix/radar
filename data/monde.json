@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-24T22:05:40+00:00",
+ "maj": "2026-10-24T23:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,91 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "32151483ad18",
+   "titre": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+   "lien": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-24T23:02:06+00:00",
+   "extrait": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "59e7e86d0a9e",
+   "titre": "EN DIRECT, guerre en Ukraine : au moins quatre morts dans des frappes russes dans les régions de Dnipropetrovsk et de Kharkiv",
+   "lien": "https://www.lemonde.fr/international/live/2026/10/25/en-direct-guerre-en-ukraine-au-moins-quatre-morts-dans-des-frappes-russes-dans-les-regions-de-dnipropetrovsk-et-de-kharkiv_6796922_3210.html",
+   "source": "Le Monde",
+   "date": "2026-10-24T23:00:52+00:00",
+   "extrait": "Dans la nuit de samedi à dimanche, Oleh Synehoubov, chef de l’administration militaire de l’oblast de Kharkiv, dans le nord-est de l’Ukraine, a annoncé qu’une personne avait été tuée et quatre…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "09fe19863a48",
+   "titre": "Archdiocese of New York agrees to $800 million settlement over sexual abuse claims",
+   "lien": "https://www.npr.org/2026/10/24/nx-s1-6015522/new-york-archdiocese-settlement-agreement",
+   "source": "NPR",
+   "date": "2026-10-24T22:47:58+00:00",
+   "extrait": "The 1,300 survivors of sexual abuse by clergy members and lay workers have all agreed to the settlement, according to an attorney for some of the plaintiffs.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "6a322a2112f2",
+   "titre": "Meet the volunteers helping adults navigate their health",
+   "lien": "https://www.cbsnews.com/video/volunteers-helping-adults-navigate-their-health/",
+   "source": "CBS News",
+   "date": "2026-10-24T22:38:07+00:00",
+   "extrait": "October is Health Literacy Month, and a recent study shows that a third of adults struggle with basic everyday health tasks. Nana-Sentuo Bonsu introduces us to a volunteer group helping adults…",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "574852269ae4",
+   "titre": "Iran says U.S. military not allowed in Gulf \"under any circumstance\"",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/",
+   "source": "CBS News",
+   "date": "2026-10-24T22:34:45+00:00",
+   "extrait": "The U.S. ambassador to the U.N. says the war with Iran could last another year, but he hopes Tehran will \"come to the table\" sooner.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "ed0b0e0af3b8",
+   "titre": "Small businesses struggling with inflation amid Trump tariffs ahead of midterms",
+   "lien": "https://www.cbsnews.com/video/small-businesses-struggling-with-inflation-amid-trump-tariffs-ahead-of-midterms/",
+   "source": "CBS News",
+   "date": "2026-10-24T22:14:05+00:00",
+   "extrait": "With two weeks to go until Election Day, some small businesses say they're struggling with high inflation and the Trump administration's tariff policies. While restaurants say they've been hit…",
+   "tags": [
+    "Politique",
+    "Économie",
+    "Santé"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "5c1b93d236b3",
+   "titre": "Who are the candidates in Brazil's presidential election?",
+   "lien": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-24T22:08:47+00:00",
+   "extrait": "Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
   {
    "id": "01a9625fc507",
    "titre": "Company says these smart insoles could help avid runners avoid injury",
@@ -116,6 +201,29 @@
     "Conflits",
     "Tech"
    ],
+   "zone": "usa"
+  },
+  {
+   "id": "2f73099fcc5c",
+   "titre": "Trade tariffs cause whiplash at Port Milwaukee",
+   "lien": "https://www.npr.org/2026/10/24/nx-s1-6011193/trade-tariffs-cause-whiplash-at-port-milwaukee",
+   "source": "NPR",
+   "date": "2026-10-24T21:20:55+00:00",
+   "extrait": "Sacha Pfeiffer visits Port Milwaukee to see how President Trump's tariffs have affected the flow of goods and impacted the regional economy.",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "c6aa2d977ebc",
+   "titre": "How data centers became a bipartisan political issue in Wisconsin",
+   "lien": "https://www.npr.org/2026/10/24/nx-s1-6011182/how-data-centers-became-a-bipartisan-political-issue-in-wisconsin",
+   "source": "NPR",
+   "date": "2026-10-24T21:20:53+00:00",
+   "extrait": "Data centers are a big issue across the country. As midterms approach, many look to the swing state of Wisconsin for lessons for how that issue could play out nationally.",
+   "tags": [],
    "zone": "usa"
   },
   {
@@ -481,18 +589,6 @@
    "zone": "monde"
   },
   {
-   "id": "574852269ae4",
-   "titre": "Iran says U.S. military not allowed in Gulf \"under any circumstance\"",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/",
-   "source": "CBS News",
-   "date": "2026-10-24T17:40:20+00:00",
-   "extrait": "The U.S. ambassador to the U.N. says the war with Iran could last another year, but he hopes Tehran will \"come to the table\" sooner.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "96070234e8f1",
    "titre": "German man arrested for allegedly driving U.S. teen to die by suicide",
    "lien": "https://www.cbsnews.com/news/german-man-arrested-teen-suicide-764/",
@@ -525,19 +621,6 @@
    "extrait": "Oregon dad Kaylub Giamanco was near Silver Rail Elementary School when he had the terrifying realization that a school shooting was underway. He intervened, shooting and killing the teen shooter…",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "32151483ad18",
-   "titre": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-   "lien": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-24T17:21:42+00:00",
-   "extrait": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
   },
   {
    "id": "c5ae879f19e1",
@@ -3383,84 +3466,6 @@
     "Politique"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "623157a00fe7",
-   "titre": "Attentat raciste à Trappes et La Verrière : Emmanuel Macron parle d'un \"tournant dans la vie de notre République et de notre nation\"",
-   "lien": "https://www.franceinfo.fr/faits-divers/attentat-raciste-a-trappes-et-la-verriere-emmanuel-macron-parle-d-un-tournant-dans-la-vie-de-notre-republique-et-de-notre-nation_8251480.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-23T20:37:14+00:00",
-   "extrait": "Un homme soupçonné d'avoir voulu s'en prendre à des personnes issues de l'immigration a tué une personne et fait cinq blessées vendredi dans les Yvelines après voir tiré en rafale depuis une voiture.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "4173803d1419",
-   "titre": "Mobilisation du 24 octobre : pourquoi iront-ils manifester ?",
-   "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/mobilisation-du-24-octobre-pourquoi-iront-ils-manifester_8251468.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-23T20:26:55+00:00",
-   "extrait": "La question d'aller manifester est un dilemme pour de nombreux Français qui souhaitent, pour certains, faire entendre leur mécontentement, mais craignent de se faire piéger par les violences.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "ee2951554f9d",
-   "titre": "Medicare Advantage plans cut for 1 million seniors, insurers say",
-   "lien": "https://www.cbsnews.com/news/humana-unitedhealthcare-end-medicare-advantage-plans/",
-   "source": "CBS News",
-   "date": "2026-10-23T20:19:03+00:00",
-   "extrait": "Two of the largest private insurers are discontinuing some Medicare Advantage plans amid higher costs and a spike in utilization.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "e30bbbd76536",
-   "titre": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
-   "lien": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-23T20:18:13+00:00",
-   "extrait": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "06bc2d5e100c",
-   "titre": "\"On se dirige vers une bascule sur la bonne santé de notre État de droit\" : les craintes et les recours se multiplient face aux interdictions de manifester samedi partout en France",
-   "lien": "https://www.franceinfo.fr/societe/justice/on-se-dirige-vers-une-bascule-sur-la-bonne-sante-de-notre-etat-de-droit-les-craintes-et-les-recours-se-multiplient-face-aux-interdictions-de-manifester-samedi-partout-en-france_8251453.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-23T20:13:53+00:00",
-   "extrait": "Plusieurs lieux culturels et grands musées parisiens resteront fermés en marge de la journée de mobilisation du samedi 24 octobre. Des interdictions de manifester ont également été décrétées par les…",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c4a75ae8ceee",
-   "titre": "Emmanuel Macron a reconnu auprès des représentants lycéens le \"besoin d'une refonte en profondeur de Parcoursup\"",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/emmanuel-macron-a-reconnu-aupres-des-representants-lyceens-le-besoin-d-une-refonte-en-profondeur-de-parcoursup_8251462.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-23T20:12:13+00:00",
-   "extrait": "Le chef de l'Etat a rencontré l'ensemble des représentants des lycéens vendredi à l'Elysée, qui ont appelé à maintenir le \"bras de fer\" jusqu'à leur rencontre avec le Premier ministre lundi.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "6cf1ffd1254f",
-   "titre": "Tirs meurtriers dans les Yvelines : \"On pense très très fort\" à l'enfant gravement blessée, témoigne le maire de La Verrière",
-   "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/tirs-meurtriers-dans-les-yvelines-on-pense-tres-tres-fort-a-l-enfant-gravement-blessee-temoigne-le-maire-de-la-verriere_8251441.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-23T20:11:48+00:00",
-   "extrait": "Un homme soupçonné d'avoir voulu s'en prendre à des personnes issues de l'immigration a tué une personne et fait cinq blessées, dont une fille de 12 ans vendredi dans les Yvelines après avoir tiré…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
   }
  ]
 }
