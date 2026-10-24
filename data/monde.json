@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-24T11:40:01+00:00",
+ "maj": "2026-10-24T12:05:38+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -19,8 +19,93 @@
   "Tech",
   "Sport"
  ],
- "erreurs": [],
+ "erreurs": [
+  "France 24"
+ ],
  "articles": [
+  {
+   "id": "ac767ea30703",
+   "titre": "French police respond as nation braces for another weekend of protests",
+   "lien": "https://www.cbsnews.com/news/paris-france-new-protests-riots-museums-shops/",
+   "source": "CBS News",
+   "date": "2026-10-24T12:04:23+00:00",
+   "extrait": "A week after 3,000 shops were damaged or looted, France braces for more protests.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "fbd1ef078732",
+   "titre": "Attentat raciste dans les Yvelines : quatre personnes de l'entourage \"familial et amical\" du suspect, dont sa mère, ont été placées en garde à vue",
+   "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/direct-la-seconde-personne-placee-en-garde-a-vue-dans-l-enquete-sur-l-attentat-terroriste-raciste-dans-les-yvelines-est-la-mere-du-suspect_8251939.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-24T12:01:59+00:00",
+   "extrait": "L'homme suspecté d'être l'auteur de l'attaque qui a fait un mort et cinq blessés vendredi matin à Trappes et à La Verrière, a été prolongée, annonce le Parquet national antiterroriste.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "574852269ae4",
+   "titre": "Iran says U.S. military not allowed in Gulf \"under any circumstance\"",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/",
+   "source": "CBS News",
+   "date": "2026-10-24T12:00:45+00:00",
+   "extrait": "The U.S. ambassador to the U.N. says the war with Iran could last another year, but he hopes Tehran will \"come to the table\" sooner.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "492152d9f742",
+   "titre": "Clinical trial saves man initially given weeks to live: \"Not done yet\"",
+   "lien": "https://www.cbsnews.com/news/acute-myeloid-leukemia-cancer-treatment-florida-sylvester-cancer-center/",
+   "source": "CBS News",
+   "date": "2026-10-24T12:00:20+00:00",
+   "extrait": "A father of three thought his knee pain had a benign cause. Doctors found advanced, treatment-resistant cancer.",
+   "tags": [
+    "Justice",
+    "Santé"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "5536c0af6695",
+   "titre": "Perspective: The next James Bond",
+   "lien": "https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond",
+   "source": "NPR",
+   "date": "2026-10-24T12:00:00+00:00",
+   "extrait": "A new James Bond is nigh, to replace the last actor in the 64 year-old movie franchise. What evil forces will the new 007 face? Killer Drones? Killer AI? Killer lettuce?",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "45b93fa6540e",
+   "titre": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
+   "lien": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
+   "source": "NPR",
+   "date": "2026-10-24T11:59:08+00:00",
+   "extrait": "Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "655d6a7b658b",
+   "titre": "Les gilets jaunes appellent à une nouvelle mobilisation le 31 octobre et dénoncent une \"dérive autoritaire\"",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/les-gilets-jaunes-appellent-a-une-nouvelle-mobilisation-le-31-octobre-et-denoncent-une-derive-autoritaire_8252203.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-24T11:42:49+00:00",
+   "extrait": "Ils invitent à organiser des rassemblements et des sit-in devant l'Assemblée nationale et les mairies françaises.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
   {
    "id": "6a38e14145ab",
    "titre": "Ukraine says Starlink speed restored after long disruption",
@@ -32,16 +117,6 @@
     "Conflits",
     "Tech"
    ],
-   "zone": "usa"
-  },
-  {
-   "id": "ac767ea30703",
-   "titre": "Paris museums close, shops build barricades ahead of more protests",
-   "lien": "https://www.cbsnews.com/news/paris-france-new-protests-riots-museums-shops/",
-   "source": "CBS News",
-   "date": "2026-10-24T11:29:58+00:00",
-   "extrait": "A week after 3,000 shops were damaged or looted, France braces for more protests.",
-   "tags": [],
    "zone": "usa"
   },
   {
@@ -225,18 +300,6 @@
    "zone": "monde"
   },
   {
-   "id": "fbd1ef078732",
-   "titre": "Attentat raciste dans les Yvelines : trois personnes de l'entourage \"familial et amical\" du suspect, dont sa mère, ont été placées en garde à vue",
-   "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/direct-la-seconde-personne-placee-en-garde-a-vue-dans-l-enquete-sur-l-attentat-terroriste-raciste-dans-les-yvelines-est-la-mere-du-suspect_8251939.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-24T10:44:07+00:00",
-   "extrait": "L'homme suspecté d'être l'auteur de l'attaque qui a fait un mort et cinq blessés vendredi matin à Trappes et à La Verrière, a été prolongée, annonce le Parquet national antiterroriste.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "0af0516b7912",
    "titre": "Jeux vidéo : le CNC va verser 1,5 million d'euros supplémentaires en soutien aux studios français",
    "lien": "https://www.franceinfo.fr/culture/jeux-video/jeux-video-le-cnc-va-verser-1-5-million-d-euros-supplementaires-en-soutien-aux-studios-francais_8252047.html#xtor=RSS-3-[lestitres]",
@@ -272,7 +335,7 @@
    "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-dit-de-nouveau-beneficier-d-une-connexion-stable-au-systeme-starlink-crucial-pour-son-armee_8252059.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-10-24T10:12:19+00:00",
-   "extrait": "Le réseau de satellites avait connu des difficultés dans le pays après un pic de tensions entre le président ukrainien Volodymyr Zelensky et son homologue américain, Donald Trump, qui s'étaient…",
+   "extrait": "Le réseau de satellites avait connu des difficultés dans le pays après un pic de tensions entre le président ukrainien Volodymyr et son homologue américain.",
    "tags": [
     "Politique",
     "Conflits",
@@ -345,18 +408,6 @@
    "extrait": "The U.S. birth rate fell to its lowest level ever recorded, according to a report from the Centers for Disease Control and Prevention. The drop would have been greater, but women over age 30 are…",
    "tags": [
     "Santé"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "574852269ae4",
-   "titre": "Iran says U.S. military not allowed in Gulf \"under any circumstance\"",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/",
-   "source": "CBS News",
-   "date": "2026-10-24T09:55:05+00:00",
-   "extrait": "The U.S. ambassador to the U.N. says the war with Iran could last another year, but he hopes Tehran will \"come to the table\" sooner.",
-   "tags": [
-    "Conflits"
    ],
    "zone": "usa"
   },
@@ -2306,6 +2357,18 @@
    "zone": "france"
   },
   {
+   "id": "1b70f94fa8d4",
+   "titre": "A Calais, dix ans après le démantèlement de la « grande jungle », d’autres l’ont remplacée : « Franchement, la situation aujourd’hui est pire »",
+   "lien": "https://www.lemonde.fr/societe/article/2026/10/23/a-calais-dix-ans-apres-le-demantelement-de-la-grande-jungle-d-autres-l-ont-remplacee-franchement-la-situation-aujourd-hui-est-pire_6799137_3224.html",
+   "source": "Le Monde",
+   "date": "2026-10-23T18:00:00+00:00",
+   "extrait": "Alors que l’Angleterre n’a rien perdu de son attractivité, et malgré l’évacuation ordonnée en 2016 par le ministre de l’intérieur d’alors, Bernard Cazeneuve, une multitude de petits campements…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "9ae201d15b63",
    "titre": "Derrière la condamnation d’Olivier Bouygues, « un sérieux avertissement pour les grands propriétaires de domaines de chasse »",
    "lien": "https://www.lemonde.fr/societe/article/2026/10/23/derriere-la-condamnation-d-olivier-bouygues-un-serieux-avertissement-pour-les-grands-proprietaires-de-domaines-de-chasse_6799135_3224.html",
@@ -3421,60 +3484,6 @@
     "Sport"
    ],
    "zone": "france"
-  },
-  {
-   "id": "3691b5bab612",
-   "titre": "Delicate operation carried out on explosives-packed WWII shipwreck",
-   "lien": "https://www.cbsnews.com/news/ss-richard-montgomery-shipwreck-explosives-masts-removed/",
-   "source": "CBS News",
-   "date": "2026-10-23T14:06:13+00:00",
-   "extrait": "Engineers sprang into action amid concern that an 82-year-old WWII shipwreck's crumbling masts could topple and set off its 1,500-ton sunken explosives payload.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "67ddd8db391e",
-   "titre": "Great Question with Tony Dokoupil | Trailer",
-   "lien": "https://www.cbsnews.com/video/great-question-with-tony-dokoupil/",
-   "source": "CBS News",
-   "date": "2026-10-23T14:02:00+00:00",
-   "extrait": "There are many questions in a conversation, and then there are great questions. Join Tony Dokoupil as he asks them on the all-new podcast, \"Great Question.\" Coming soon.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "e4efb8d8c50c",
-   "titre": "Why a California DA is holding parents responsible for kids' electric motorcycle accidents",
-   "lien": "https://www.cbsnews.com/video/why-california-da-holding-parents-responsible-kids-electric-motorcycle-accidents/",
-   "source": "CBS News",
-   "date": "2026-10-23T13:58:00+00:00",
-   "extrait": "A California district attorney is holding parents responsible for serious electric motorcycle accidents involving their children. Natalie Morales has more.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "83c3c5d22256",
-   "titre": "Bodycam video shows fatal police shooting of 1-year-old boy",
-   "lien": "https://www.cbsnews.com/video/bodycam-video-shows-fatal-police-shooting-of-1-year-old-boy/",
-   "source": "CBS News",
-   "date": "2026-10-23T13:55:15+00:00",
-   "extrait": "A police officer shot and killed 1-year-old Kohen Wiley outside a Walmart in Mississippi. State officials ruled the shooting was justified. Now, Mississippi authorities have released the body camera…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "71fbc077aa15",
-   "titre": "Jared Kushner phone hack found billions in secret UAE fund, report claims",
-   "lien": "https://www.cbsnews.com/video/jared-kushner-phone-hack-found-billions-in-secret-uae-fund-report-claims/",
-   "source": "CBS News",
-   "date": "2026-10-23T13:52:30+00:00",
-   "extrait": "Jared Kushner is pushing back after a Vanity Fair report claimed that Dutch and Russian spies who hacked his phone found hundreds of millions of dollars in transfers to secret bank accounts in the…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
   }
  ]
 }
