@@ -122,4 +122,28 @@ begin
   end if;
 end $$;
 
+-- ---------- 3. Un groupe sans membre disparaît ----------
+-- Sinon il restait pour toujours, rejoignable avec l'ancien code, et plus personne ne pouvait le
+-- supprimer. "security definer" : le dernier membre qui part n'a pas le droit de supprimer le groupe.
+create or replace function public.supprimer_groupe_vide() returns trigger
+language plpgsql security definer set search_path = public as $$
+begin
+  delete from groupes g where g.id = old.groupe_id and not exists (select 1 from membres where groupe_id = old.groupe_id);
+  return null;
+end $$;
+revoke execute on function public.supprimer_groupe_vide() from public, anon, authenticated;
+
+drop trigger if exists membres_groupe_vide on public.membres;
+create trigger membres_groupe_vide after delete on public.membres
+  for each row execute function public.supprimer_groupe_vide();
+
+-- Les groupes déjà vides (avec leurs messages, que plus personne ne peut lire)
+do $$
+declare vides int;
+begin
+  delete from public.groupes g where not exists (select 1 from public.membres where groupe_id = g.id);
+  get diagnostics vides = row_count;
+  raise notice '% groupe(s) vide(s) supprimé(s)', vides;
+end $$;
+
 commit;
