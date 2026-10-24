@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-24T14:05:39+00:00",
+ "maj": "2026-10-24T15:05:38+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "a6ce31709924",
+   "titre": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+   "lien": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+   "source": "BleepingComputer",
+   "date": "2026-10-24T14:17:32+00:00",
+   "extrait": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere…",
+   "tags": [
+    "Faille"
+   ]
+  },
   {
    "id": "a0a9e49aec28",
    "titre": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
