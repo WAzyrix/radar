@@ -22,6 +22,7 @@
 //   DELETE /donnees/:code                             suppression de compte : liste, abonnements, état, cloche
 //   POST   /recommander                               recommander à un pote (compte Supabase)
 //   POST   /chat/notifier                             prévenir le groupe d'un nouveau message
+// Données (listes, abonnements, cloche…) : Durable Object SQLite, voir stockage.js
 // Tâche planifiée (toutes les heures) : verification.js + lancement de la collecte des actus (github.js)
 //                 + une fois par jour, une lecture Supabase pour éviter la mise en pause (eveil.js)
 // =========================================================
@@ -36,9 +37,11 @@ import { notifierChat } from './chat.js';
 import { cleIp } from './limiteur.js';
 import { lancerCollecte } from './github.js';
 import { eveilDuJour, reveillerSupabase } from './eveil.js';
+import { migrerDepuisKv } from './stockage.js';
 
 // Le Durable Object doit être exporté par le point d'entrée pour que Cloudflare le trouve
 export { Limiteur } from './limiteur.js';
+export { Stockage } from './stockage.js';
 
 const TAILLE_MAX = 300_000; // octets acceptés dans un envoi (une liste reste bien en dessous)
 
@@ -71,6 +74,8 @@ export default {
     }
 
     try {
+      // Routes qui lisent ou écrivent des données : les anciennes données KV doivent être recopiées
+      if (!ROUTES_COUTEUSES.test(chemin)) await migrerDepuisKv(env);
       const { donnees, duree = 0 } = await router(requete, env);
       return json(donnees, 200, { ...cors, 'Cache-Control': duree ? `public, max-age=${duree}` : 'no-store' });
     } catch (erreur) {
@@ -83,7 +88,10 @@ export default {
   async scheduled(evenement, env, ctx) {
     // La collecte d'abord : une seule requête, et elle ne doit pas attendre la vérification
     ctx.waitUntil(lancerCollecte(env).then((bilan) => console.log('Collecte des actus :', JSON.stringify(bilan))));
-    ctx.waitUntil(verifier(env).then((bilan) => console.log('Vérification :', JSON.stringify(bilan))));
+    ctx.waitUntil(migrerDepuisKv(env)
+      .then((bilan) => { console.log('Stockage :', JSON.stringify(bilan)); return verifier(env); })
+      .then((bilan) => console.log('Vérification :', JSON.stringify(bilan)))
+      .catch((erreur) => console.log('Vérification en échec :', erreur.message)));
     // Une fois par jour : une lecture Supabase, pour que le projet gratuit ne soit pas mis en pause
     if (eveilDuJour(evenement.scheduledTime)) {
       ctx.waitUntil(reveillerSupabase(env).then((bilan) => console.log('Supabase (anti-pause) :', JSON.stringify(bilan))));
@@ -148,7 +156,7 @@ async function router(requete, env) {
 }
 
 // api       : routes qui coûtent du quota RAWG/TMDB
-// ecritures : PUT / POST / DELETE (écrivent dans KV, envoient des notifications)
+// ecritures : PUT / POST / DELETE (écrivent dans le stockage, envoient des notifications)
 // lectures  : le reste (liste, cloche, clé publique…)
 const LIMITES = { api: 40, ecritures: 20, lectures: 60 };
 

@@ -13,14 +13,19 @@
 // On regroupe donc les requêtes (une seule pour tous les animés) et on fait
 // tourner les mangas/films/séries : chacun est revérifié au plus toutes les 6 h.
 // =========================================================
-import { lireListe, notifier } from './comptes.js';
+import { avecCloche, coutEnvoi, pousser } from './comptes.js';
+import { stockage } from './stockage.js';
 import { tmdb } from './tmdb.js';
 import { normaliser } from './jeux.js';
 
 const HEURE = 3600_000;
 // Date de début comparable (20240315) ; null si inconnue (œuvre annoncée)
 const dateDebut = (d) => (d?.year ? d.year * 10000 + (d.month || 1) * 100 + (d.day || 1) : null);
-const BUDGET_REQUETES = 40; // on garde une marge sous la limite de 50
+// Limite gratuite : 50 requêtes sortantes par passage. On en garde 4 (lancement du workflow,
+// anti-pause Supabase, marge) : 46 au total, dont 30 au plus pour vérifier les nouveautés ;
+// le reste sert aux notifications push (une requête par notification et par appareil).
+const BUDGET_TOTAL = 46;
+const BUDGET_VERIFICATION = 30;
 const RECHECK = 6 * HEURE;
 const RAFRAICHIR_DERNIERE = 6 * HEURE;
 const RESERVE_AUTRES = 10; // requêtes gardées pour ADN, mangas, séries et films
@@ -34,32 +39,21 @@ function parisAujourdhui(decalageJours = 0) {
 const heureParis = () => Number(new Intl.DateTimeFormat('fr-FR', { timeZone: 'Europe/Paris', hour: 'numeric', hour12: false }).format(new Date()));
 
 export async function verifier(env) {
-  const budget = { reste: BUDGET_REQUETES };
+  const budget = { reste: BUDGET_VERIFICATION };
   const compter = () => { budget.reste -= 1; return budget.reste >= 0; };
+  const stock = stockage(env);
 
   // 1. Toutes les personnes qui ont une liste (notifs push activées ou non :
-  //    sans push, les nouveautés vont quand même dans la cloche du site)
-  //    KV.list renvoie 1000 clés au plus par appel : on suit le curseur.
-  const cles = [];
-  let curseur;
-  do {
-    const page = await env.RADAR_KV.list({ prefix: 'liste:', cursor: curseur });
-    cles.push(...page.keys);
-    curseur = page.list_complete ? undefined : page.cursor;
-  } while (curseur);
-
+  //    sans push, les nouveautés vont quand même dans la cloche du site). Un seul appel au stockage.
+  await stock.nettoyer();
   const personnes = [];
-  for (const { name } of cles) {
-    const code = name.slice(6);
-    const [abo, liste, etatTexte] = await Promise.all([
-      env.RADAR_KV.get(`abo:${code}`, 'json'),
-      lireListe(env, code),
-      env.RADAR_KV.get(`etat:${code}`),
-    ]);
-    if (liste.items.length) {
-      const etat = etatTexte ? JSON.parse(etatTexte) : { derniere: Date.now() - HEURE, vus: {}, franchise: {}, manga: {}, tmdb: {} };
-      personnes.push({ code, abo, items: liste.items, etat, etatTexte, notifs: [] });
-    }
+  for (const c of await stock.chargerComptes()) {
+    const liste = lireJson(c.liste, { items: [] });
+    if (!liste.items?.length) continue;
+    const etat = lireJson(c.etat, null) || { derniere: Date.now() - HEURE, vus: {}, franchise: {}, manga: {}, tmdb: {} };
+    etat.manga ??= {};
+    etat.tmdb ??= {};
+    personnes.push({ code: c.code, abo: lireJson(c.abo, null), histo: lireJson(c.histo, []), items: liste.items, etat, etatTexte: c.etat, notifs: [] });
   }
   if (!personnes.length) return { personnes: 0 };
 
@@ -74,34 +68,73 @@ export async function verifier(env) {
   await verifierMangas(env, personnes, compter, budget);
   if (env.TMDB_KEY) await verifierTmdb(env, personnes, compter, budget);
 
-  // 6. Envoi, en respectant les préférences de chacun
-  let envoyees = 0;
-  let ecritures = 0;
+  // 6. Ce qui reste du budget (les vérifications non faites) sert aux notifications push.
+  //    Chaque envoi est une requête : ce qui ne rentre pas attend le passage suivant (24 h au plus).
+  let pourPush = BUDGET_TOTAL - (BUDGET_VERIFICATION - Math.max(0, budget.reste));
+  const maintenant = Date.now();
+  const ecritures = [];
+  const envois = [];
   for (const p of personnes) {
     const prefs = p.abo?.prefs || {};
-    const deja = new Set(p.etat.vus ? Object.keys(p.etat.vus) : []);
+    const deja = new Set(Object.keys(p.etat.vus || {}));
     const nouvelles = p.notifs.filter((n) => prefs[n.categorie] !== false && !deja.has(n.cle));
-    envoyees += await notifier(env, p.code, nouvelles.map(({ cle, categorie, ...n }) => n), p.abo);
-    // On retient ce qui a été envoyé (et on oublie ce qui a plus de 30 jours)
-    const maintenant = Date.now();
+    const pourAfficher = nouvelles.map(({ cle, categorie, ...n }) => n);
+    // On retient ce qui a été vu (et on oublie ce qui a plus de 30 jours)
     p.etat.vus = Object.fromEntries([
       ...Object.entries(p.etat.vus || {}).filter(([, t]) => maintenant - t < 30 * 86400_000),
       ...nouvelles.map((n) => [n.cle, maintenant]),
     ]);
-    // Quota KV gratuit : 1000 écritures/jour. On n'écrit l'état que s'il a changé.
+    // Push : celles en attente d'un passage précédent, puis les nouvelles
+    const aPousser = [...(p.etat.pushEnAttente || []).filter((n) => maintenant - n.depuis < 86400_000),
+      ...pourAfficher.map((n) => ({ ...n, depuis: maintenant }))];
+    const cout = coutEnvoi(p.abo, aPousser);
+    if (cout && cout <= pourPush) {
+      pourPush -= cout;
+      envois.push({ p, notifs: aPousser.map(({ depuis, ...n }) => n) });
+      delete p.etat.pushEnAttente;
+    } else if (cout) {
+      p.etat.pushEnAttente = aPousser.slice(-20);
+    } else {
+      delete p.etat.pushEnAttente;
+    }
     // "derniere" (date du dernier passage) n'est rafraîchie que toutes les 6 h : entre-temps,
     // les nouveautés déjà envoyées sont reconnues grâce à "vus" (pas de doublon).
     // AniList en panne pendant ce passage : on ne l'avance pas, le suivant rattrapera.
-    const derniere = p.etat.derniere;
-    if (animesComplets && maintenant - derniere >= RAFRAICHIR_DERNIERE) p.etat.derniere = maintenant;
+    if (animesComplets && maintenant - p.etat.derniere >= RAFRAICHIR_DERNIERE) p.etat.derniere = maintenant;
     const texte = JSON.stringify(p.etat);
-    if (texte !== p.etatTexte) {
-      await env.RADAR_KV.put(`etat:${p.code}`, texte);
-      ecritures += 1;
+    if (texte !== p.etatTexte) ecritures.push([`etat:${p.code}`, texte]);
+    if (pourAfficher.length) ecritures.push([`histo:${p.code}`, JSON.stringify(avecCloche(p.histo, pourAfficher))]);
+  }
+
+  // 7. On enregistre TOUT (état + cloche) AVANT d'envoyer quoi que ce soit, en une fois.
+  //    Si l'écriture échoue, rien ne part : le passage suivant refera le même calcul, sans doublon.
+  let ecrites;
+  try {
+    ecrites = await stock.ecrirePlusieurs(ecritures);
+  } catch (erreur) {
+    console.log('Vérification : écriture impossible, aucune notification envoyée :', erreur.message);
+    return { personnes: personnes.length, erreur: erreur.message };
+  }
+
+  // 8. Envoi des notifications push (appareils désabonnés retirés ensuite, en une écriture)
+  let envoyees = 0;
+  const abosAJour = [];
+  for (const { p, notifs } of envois) {
+    const { envoyees: n, expires } = await pousser(env, p.abo, notifs);
+    envoyees += n;
+    if (expires.size) {
+      p.abo.abonnements = p.abo.abonnements.filter((a) => !expires.has(a.endpoint));
+      abosAJour.push([`abo:${p.code}`, JSON.stringify(p.abo)]);
     }
   }
-  return { personnes: personnes.length, envoyees, ecritures, requetesRestantes: budget.reste };
+  if (abosAJour.length) await stock.ecrirePlusieurs(abosAJour).catch((erreur) => console.log('Abonnements expirés non retirés :', erreur.message));
+  const enAttente = personnes.filter((p) => p.etat.pushEnAttente?.length).length;
+  return { personnes: personnes.length, envoyees, ecritures: ecrites, enAttente, requetesRestantes: pourPush };
 }
+
+const lireJson = (texte, defaut) => {
+  try { return texte ? JSON.parse(texte) : defaut; } catch { return defaut; }
+};
 
 // ---------- Animés (AniList) ----------
 // Suivre un animé = suivre toute sa franchise. Pour chaque animé suivi, on connaît :

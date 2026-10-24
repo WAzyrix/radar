@@ -8,6 +8,7 @@
 // =========================================================
 import { notifier, Erreur400 } from './comptes.js';
 import { supabase, utilisateurConnecte } from './recommandations.js';
+import { stockage } from './stockage.js';
 
 // Au plus une notification par personne, par groupe, toutes les 10 minutes
 const PAUSE_NOTIF = 10 * 60_000;
@@ -32,9 +33,9 @@ export async function notifierChat(env, requete, { groupe_id: groupeId } = {}) {
   let prevenus = 0;
   for (const { id, code } of codes) {
     const cle = `chat:${groupeId}:${id}`;
-    const dernier = Number(await env.RADAR_KV.get(cle)) || 0;
+    const dernier = Number(await stockage(env).get(cle)) || 0;
     if (Date.now() - dernier < PAUSE_NOTIF) continue;
-    await env.RADAR_KV.put(cle, String(Date.now()), { expirationTtl: 3600 });
+    await stockage(env).put(cle, String(Date.now()), { expirationTtl: 3600 });
     await notifier(env, code, [{
       titre: `💬 ${profil?.pseudo || 'Un pote'} dans ${groupe?.nom || 'ton groupe'}`,
       corps: String(apercu).slice(0, 160),

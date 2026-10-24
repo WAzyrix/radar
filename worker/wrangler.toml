@@ -20,7 +20,8 @@ GITHUB_WORKFLOW = "actus.yml"
 # Clé PUBLIQUE des notifications web (la privée est un secret : VAPID_PRIVE)
 VAPID_PUBLIQUE = "BDrLw-_L5jBFYKGCjkjlkYauEpjkMgeKQrpZaL6BWc4qSy9_IA0_xdne3lNqJ9loIql-pyrFIqGg3ZKMkM9QN0k"
 
-# Petite base de données clé/valeur : listes, abonnements aux notifs, état des vérifications
+# Ancienne base clé/valeur (KV) : seulement relue une fois, pour recopier ses données dans
+# le Durable Object "Stockage" (src/stockage.js). Pourra être retirée ensuite.
 [[kv_namespaces]]
 binding = "RADAR_KV"
 id = "cff54157e6ad4d24adb531a1594ee5aa"
@@ -31,9 +32,19 @@ id = "cff54157e6ad4d24adb531a1594ee5aa"
 name = "LIMITEUR"
 class_name = "Limiteur"
 
+# Données du relais (listes, abonnements aux notifs, état des vérifications, cloche) :
+# un Durable Object SQLite (gratuit : 100 000 lignes écrites par jour, contre 1000 écritures pour KV)
+[[durable_objects.bindings]]
+name = "STOCKAGE"
+class_name = "Stockage"
+
 [[migrations]]
 tag = "v1"
 new_sqlite_classes = ["Limiteur"]
+
+[[migrations]]
+tag = "v2"
+new_sqlite_classes = ["Stockage"]
 
 # Toutes les heures (à la 5e minute) : vérification des nouveautés + lancement de la collecte des actus
 # (+ à 4 h 05 UTC : lecture Supabase anti-pause)

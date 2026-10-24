@@ -40,6 +40,12 @@ Le résultat apparaît dans les journaux du relais (`npx wrangler tail`) : `Coll
 
 L'offre gratuite de Supabase met le projet en pause après 7 jours sans activité. Une fois par jour (passage de 4 h 05 UTC), la tâche planifiée fait une lecture minimale (`src/eveil.js`) : `recommandations?select=id&limit=1` avec la **clé publique** (`SUPABASE_CLE_PUBLIQUE` dans `wrangler.toml`, jamais la clé service). Sans connexion, la RLS renvoie une liste vide, mais la base a bien travaillé ; rien n'est écrit. Dans `npx wrangler tail` : `Supabase (anti-pause) : {"ok":true,"statut":200}`.
 
+## Stockage (listes, notifications, cloche)
+
+Les données du relais (listes, abonnements aux notifications, état de la vérification horaire, cloche) sont dans un **Durable Object SQLite** (`src/stockage.js`), pas dans KV : l'offre gratuite de KV n'autorise que 1000 écritures par jour, contre 100 000 lignes écrites par jour pour un Durable Object SQLite. Au premier passage après le déploiement, les anciennes données KV sont recopiées automatiquement (journaux : `Stockage : {"migration":"finie",…}`). Le binding `RADAR_KV` pourra ensuite être retiré de `wrangler.toml`.
+
+La vérification horaire enregistre l'état de chacun **avant** d'envoyer la moindre notification (si l'écriture échoue, rien ne part : pas de doublon au passage suivant). Les envois push comptent dans la limite de 50 requêtes par passage : ce qui ne rentre pas part au passage suivant (24 h au plus).
+
 ## Routes
 
 | Route | Rôle |
