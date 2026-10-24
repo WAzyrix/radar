@@ -388,6 +388,8 @@ const REPONSES_DEMANDE = {
   acceptee: 'Vous êtes maintenant amis 🎉 (cette personne t\'avait déjà fait une demande).',
   deja_demande: 'Demande déjà envoyée : en attente de réponse.',
   deja_amis: 'Vous êtes déjà amis.',
+  introuvable: '⚠️ Personne ne correspond à ce pseudo ou ce code ami.',
+  trop_essais: '⚠️ Trop de recherches sans résultat : réessaie dans une heure.',
 };
 
 // Boutons des cartes Groupes et Amis. Renvoie true si le clic concernait les amis.
