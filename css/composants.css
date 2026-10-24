@@ -382,6 +382,24 @@ input[type="range"] { width: 100%; accent-color: var(--accent); cursor: pointer;
   letter-spacing: 0.02em;
   color: var(--texte);
 }
+/* Chapitre de manga (calendrier des scans) : la carte n'est pas un lien, son titre et ses plateformes le sont */
+.chapitre .episode-titre a:hover { text-decoration: underline; }
+.chapitre-sans-image { width: 64px; height: 90px; border-radius: var(--r-s); flex: none; background: var(--surface-forte); display: block; }
+.chapitre-source { font-size: 0.75rem; color: var(--texte-3); }
+.liens-plateformes { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+.lien-plateforme {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 3px 8px;
+  border-radius: 6px;
+  background: var(--surface-forte);
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--texte);
+}
+.lien-plateforme:hover { background: var(--accent); color: #0a0a0f; }
+.lien-plateforme svg { width: 11px; height: 11px; }
 .badge-suivi { position: absolute; top: 10px; right: 12px; color: var(--accent); }
 .badge-suivi svg { width: 16px; height: 16px; }
 

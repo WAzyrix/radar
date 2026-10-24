@@ -6,7 +6,7 @@ Mon site perso qui regroupe les actus qui m'intéressent, au même endroit, dans
 
 | Section | Ce qu'on y trouve | D'où viennent les données |
 |---|---|---|
-| **Animés** | Calendrier des épisodes, fiches complètes (avec liens directs vers les épisodes sur Crunchyroll, ADN, Netflix…, saison par saison, et le prochain épisode à voir), rattrapage de mes suivis, exploration par genres + tirage au hasard | API GraphQL [AniList](https://anilist.co), appelée directement par le navigateur |
+| **Animés** | Calendrier des épisodes et des scans (chapitres de manga, liens vers les plateformes officielles uniquement), fiches complètes (avec liens directs vers les épisodes sur Crunchyroll, ADN, Netflix…, saison par saison, et le prochain épisode à voir), rattrapage de mes suivis, exploration par genres + tirage au hasard | API GraphQL [AniList](https://anilist.co), appelée directement par le navigateur ; chapitres : [MangaUpdates](https://www.mangaupdates.com) (collectés toutes les heures) |
 | **Animés en France** | Heure de sortie VOSTFR/VF et langues disponibles saison par saison | API publique d'[ADN](https://animationdigitalnetwork.com) (collectée toutes les heures) |
 | **Jeux vidéo** | Sorties à venir / récentes, fiches (avis, config PC, comment y jouer, rétro/émulation), mes listes, explorer par genre, tirage au hasard | [RAWG](https://rawg.io) + Steam, via un relais Cloudflare Worker ([worker/](worker/README.md)) |
 | **Actu jeux** | Sorties, annonces, tests, consoles, scène jailbreak/homebrew | Flux RSS (jeuxvideo.com, Gamekult, IGN France, Gameblog, ActuGaming, PlayStation Blog, Nintendo Life, Gematsu, Wololo) |
@@ -46,6 +46,7 @@ Toutes les heures (GitHub Actions, lancé par le cron du relais Cloudflare)
   scripts/collecte_anilist.py ──> tendances, mieux notés, calendrier ──> data/anilist.json
   scripts/collecte_suivis.py  ──> suites des animés suivis, tomes et chapitres des mangas suivis ──> data/suivis.json
                                   (identifiants suivis passés par le relais ; il lit ces deux fichiers pour notifier)
+  scripts/collecte_chapitres.py ──> chapitres sortis (MangaUpdates) + liens officiels (AniList) ──> data/chapitres.json
 
 Dans le navigateur
   pages HTML ──> js/pages/*.js ──┬──> data/*.json         (actus, ADN)
@@ -77,6 +78,7 @@ scripts/
   collecte_anilist.py  tendances, mieux notés de la saison et calendrier AniList (pour l'accueil)
   collecte_suivis.py   pour les notifications du relais : suites des animés suivis (AniList),
                        tomes et chapitres des mangas suivis (MangaUpdates)
+  collecte_chapitres.py  calendrier des scans : chapitres du jour, liens officiels, sorties attendues
   sources.json      liste des flux + mots-clés des tags
 data/               JSON générés (ne pas modifier à la main)
 .github/workflows/actus.yml   collecte horaire + déploiement
@@ -113,6 +115,7 @@ Tout se passe dans [`scripts/sources.json`](scripts/sources.json) :
 - **Ma liste** : stockée dans le navigateur et copiée sur le relais (Durable Object SQLite) sous un « code perso » de 32 caractères aléatoires. Le même code sur un autre appareil = la même liste.
 - **Favoris et notes perso** (animés, mangas, films, séries, jeux) : un seul système (`js/lib/notes.js`, `js/ui/notes.js`). Ma note sur 100, un avis de 500 caractères max et/ou un favori ❤️, gardés dans le navigateur et, une fois connecté, dans la table Supabase `notes` (`supabase/notes.sql`) : visibles par moi, mes amis et les membres de mes groupes seulement (RLS). La page Potes en tire l'activité (« a noté… »), la compatibilité de goûts avec chaque pote et les suggestions des plus compatibles. Le statut « Adoré » des jeux est devenu « Terminé » + favori.
 - **Notifications web** : le relais vérifie les nouveautés toutes les heures et envoie des notifications chiffrées (norme Web Push, sans bibliothèque). Le service worker (`sw.js`) les affiche, même site fermé. Sur iPhone, il faut d'abord ajouter le site à l'écran d'accueil.
+- **Calendrier des scans** : MangaUpdates est la seule source ouverte des sorties de chapitres (AniList n'en a pas). Ce sont des sorties signalées par les lecteurs, surtout des traductions de fans : on affiche le chapitre, jamais le groupe ni un lien vers lui. Les liens de lecture viennent des liens « STREAMING » d'AniList (plateformes officielles : MANGA Plus, Webtoon, Piccoma, VIZ, l'éditeur…), en français ou en anglais de préférence ; sans plateforme officielle, pas de lien. « À venir » est déduit du rythme des sorties officielles de chaque série (chaque semaine, toutes les 2 semaines ; MANGA Plus publie le Weekly Shōnen Jump le dimanche à 15 h UTC). Les séries pour adultes, ou pas encore identifiées, ne sont pas affichées. La correspondance MangaUpdates → AniList se construit au fil des passages (120 titres par heure).
 - **AniList et MangaUpdates bloquent Cloudflare** (403 sur toute requête venant d'un Worker, constaté le 25 octobre 2026) : le relais ne les appelle plus. La collecte horaire GitHub Actions, qui y a accès, publie `data/anilist.json` (épisodes) et `data/suivis.json` (suites, tomes, chapitres des œuvres suivies, dont le relais lui passe les identifiants) ; le relais lit ces fichiers. Chaque passage écrit son bilan dans les journaux du relais ([worker/README.md](worker/README.md#journaux-bilan-de-chaque-passage)).
 
 ## Feuille de route

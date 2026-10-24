@@ -25,6 +25,7 @@
       <p>Ce qui sort cette semaine, ce que tu as raté, et de quoi trouver ton prochain coup de cœur.</p>
       <nav class="segments" aria-label="Sections de la page">
         <a href="#calendrier">Calendrier</a>
+        <a href="#scans">Scans</a>
         <a href="#rattrapage" id="onglet-rattrapage">Rattrapage</a>
         <a href="#explorer">Explorer</a>
         <a href="#actus">Actus &amp; rumeurs</a>
@@ -40,6 +41,17 @@
       </div>
       <div class="section-contenu"><div class="grille-episodes" id="episodes"></div></div>
       <p class="note-heures" id="note-heures" style="margin-top:14px"></p>
+    </section>
+
+    <!-- ===== Calendrier des scans (chapitres de manga) ===== -->
+    <section class="section" id="scans">
+      <div class="section-tete"><h2>Scans</h2></div>
+      <div class="jours" id="jours-scans"></div>
+      <div class="options-ligne" style="margin-top:12px">
+        <label class="interrupteur"><input type="checkbox" id="filtre-scans"> Ma liste uniquement</label>
+      </div>
+      <div class="section-contenu"><div class="grille-episodes" id="chapitres"></div></div>
+      <p class="note-heures" id="note-scans" style="margin-top:14px"></p>
     </section>
 
     <!-- ===== Rattrapage ===== -->
@@ -146,7 +158,7 @@
     </section>
   </main>
 
-  <footer>Radar · données : <a href="https://anilist.co" target="_blank" rel="noopener">AniList</a></footer>
+  <footer>Radar · données : <a href="https://anilist.co" target="_blank" rel="noopener">AniList</a> · chapitres : <a href="https://www.mangaupdates.com" target="_blank" rel="noopener">MangaUpdates</a></footer>
 
   <script type="module" src="js/pages/animes.js"></script>
 </body>

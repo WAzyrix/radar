@@ -10,6 +10,7 @@ import { estTermine } from '../lib/statuts.js';
 import { afficherNavigation } from '../ui/nav.js';
 import { carteAffiche, squelettesAffiches } from '../ui/cartes.js';
 import { monterCalendrier, NOTE_HEURES } from '../ui/calendrier.js';
+import { monterChapitres, NOTE_CHAPITRES } from '../ui/chapitres.js';
 import { ICONES } from '../ui/icones.js';
 import { monterApercuActus } from '../ui/apercu-actus.js';
 
@@ -33,6 +34,12 @@ function allerAncre() {
 // =========================================================
 $('note-heures').innerHTML = `${ICONES.horloge}<span>${NOTE_HEURES}</span>`;
 monterCalendrier($('jours'), $('episodes'), { filtreSuivis: $('filtre-suivis'), quandAffiche: allerAncre });
+
+// =========================================================
+// 1 bis. Calendrier des scans (chapitres de manga)
+// =========================================================
+$('note-scans').innerHTML = `${ICONES.horloge}<span>${NOTE_CHAPITRES}</span>`;
+monterChapitres($('jours-scans'), $('chapitres'), $('filtre-scans'));
 
 // =========================================================
 // 2. Rattrapage

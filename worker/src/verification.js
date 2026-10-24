@@ -98,8 +98,10 @@ export async function verifier(env, personnes) {
   const suiventMangas = personnes.some((p) => p.items.some((i) => i.type === 'manga'));
   const calendrier = suiventAnimes ? await lireFichier(env, 'anilist.json', compter, bilan) : null;
   const suivis = suiventAnimes || suiventMangas ? await lireFichier(env, 'suivis.json', compter, bilan) : null;
+  const chapitres = suiventMangas ? await lireFichier(env, 'chapitres.json', compter, bilan) : null;
   if (suiventAnimes) bilan.sources.calendrier = decrire(calendrier, calendrier?.calendrier?.episodes, 'épisodes', bilan);
   if (suivis || suiventAnimes || suiventMangas) bilan.sources.suivis = decrire(suivis, suivis?.animes, 'animés', bilan);
+  if (suiventMangas) bilan.sources.chapitres = decrire(chapitres, chapitres?.jours, 'jours', bilan);
 
   // 2. Animés : épisodes diffusés (calendrier) et suites annoncées.
   //    false si le calendrier est illisible : on rattrapera au prochain passage.
@@ -108,8 +110,8 @@ export async function verifier(env, personnes) {
   await verifierAdn(env, personnes, compter, bilan);
   // 4. Jeux : rien à télécharger, la date de sortie est dans la liste
   verifierJeux(env, personnes);
-  // 5. Mangas (fichier des suivis), puis séries et films : une requête par œuvre, dans la limite du budget
-  verifierMangas(env, personnes, suivis);
+  // 5. Mangas (fichiers des suivis et des chapitres), puis séries et films : une requête par œuvre
+  verifierMangas(env, personnes, suivis, chapitres);
   if (env.TMDB_KEY) await verifierTmdb(env, personnes, compter, budget, bilan);
 
   // 6. Ce qui reste du budget (les vérifications non faites) sert aux notifications push.
@@ -380,22 +382,51 @@ function verifierJeux(env, personnes) {
 }
 
 // ---------- Mangas ----------
-// La collecte GitHub (data/suivis.json) donne, pour chaque manga suivi, sa série MangaUpdates,
-// son dernier tome et son dernier chapitre ; on compare avec ce que chacun a déjà vu.
-function verifierMangas(env, personnes, suivis) {
-  if (!suivis?.mangas) return;
+// Deux fichiers de la collecte GitHub :
+//  - data/chapitres.json : les chapitres sortis ces derniers jours (MangaUpdates), avec les liens
+//    vers les plateformes officielles : c'est la source la plus rapide pour les chapitres ;
+//  - data/suivis.json : pour chaque manga suivi, sa série MangaUpdates, son dernier tome et son
+//    dernier chapitre (relus toutes les 6 h), si le calendrier a raté une sortie.
+// On compare avec ce que chacun a déjà vu.
+const numero = (chapitre) => {
+  const nombres = String(chapitre ?? '').match(/\d+(?:\.\d+)?/g);
+  return nombres ? Number(nombres.at(-1)) : null;
+};
+
+function verifierMangas(env, personnes, suivis, chapitres) {
+  // Dernier chapitre sorti de chaque manga (identifiant AniList), d'après le calendrier
+  const derniers = new Map();
+  for (const liste of Object.values(chapitres?.jours || {})) {
+    for (const c of liste) {
+      const n = numero(c.chapitre);
+      if (!c.anilist || n === null || n <= (derniers.get(c.anilist)?.n ?? -1)) continue;
+      derniers.set(c.anilist, { n, officiel: c.officiel, lien: c.liens?.[0] });
+    }
+  }
+  if (!suivis?.mangas && !derniers.size) return;
+
   for (const p of personnes) {
     for (const m of p.items.filter((i) => i.type === 'manga')) {
-      const nouveau = suivis.mangas[m.id];
-      if (!nouveau?.mu) continue; // pas encore collecté, ou introuvable sur MangaUpdates
+      const serie = suivis?.mangas?.[m.id];
+      const sortie = derniers.get(m.id);
+      if (!serie?.mu && !sortie) continue; // pas encore collecté, ou introuvable sur MangaUpdates
       const ancien = p.etat.manga[m.id];
-      if (ancien?.tomes && nouveau.tomes > ancien.tomes) {
-        p.notifs.push({ cle: `tome:${m.id}:${nouveau.tomes}`, categorie: 'manga', titre: `${m.titre} : tome ${nouveau.tomes}`, corps: 'Nouveau tome sorti au Japon.', url: `${env.SITE}anime.html?id=${m.id}`, image: m.image });
-      } else if (ancien?.chapitre && nouveau.chapitre > ancien.chapitre) {
-        p.notifs.push({ cle: `chap:${m.id}:${nouveau.chapitre}`, categorie: 'manga', titre: `${m.titre} : chapitre ${nouveau.chapitre}`, corps: 'Nouveau chapitre sorti au Japon.', url: `${env.SITE}anime.html?id=${m.id}`, image: m.image });
+      const tomes = serie?.tomes ?? null;
+      const chapitre = Math.max(serie?.chapitre ?? 0, sortie?.n ?? 0) || null;
+      // Lien : la plateforme officielle si on la connaît, sinon la fiche Radar
+      const url = sortie?.lien?.url && sortie.n === chapitre ? sortie.lien.url : `${env.SITE}anime.html?id=${m.id}`;
+      if (ancien?.tomes && tomes > ancien.tomes) {
+        p.notifs.push({ cle: `tome:${m.id}:${tomes}`, categorie: 'manga', titre: `${m.titre} : tome ${tomes}`, corps: 'Nouveau tome sorti au Japon.', url: `${env.SITE}anime.html?id=${m.id}`, image: m.image });
+      } else if (ancien?.chapitre && chapitre > ancien.chapitre) {
+        const ou = sortie?.n === chapitre && sortie.lien ? `À lire sur ${sortie.lien.site}.` : 'Nouveau chapitre disponible.';
+        p.notifs.push({ cle: `chap:${m.id}:${chapitre}`, categorie: 'manga', titre: `${m.titre} : chapitre ${chapitre}`, corps: ou, url, image: m.image });
       }
       // Un tome ou un chapitre inconnu ce passage-ci ne fait pas oublier le précédent
-      p.etat.manga[m.id] = { mu: nouveau.mu, tomes: nouveau.tomes ?? ancien?.tomes ?? null, chapitre: nouveau.chapitre ?? ancien?.chapitre ?? null };
+      p.etat.manga[m.id] = {
+        mu: serie?.mu ?? ancien?.mu,
+        tomes: tomes ?? ancien?.tomes ?? null,
+        chapitre: Math.max(chapitre ?? 0, ancien?.chapitre ?? 0) || null,
+      };
     }
   }
 }

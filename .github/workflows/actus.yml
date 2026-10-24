@@ -69,6 +69,13 @@ jobs:
           SUIVIS_ANIMES: ${{ inputs.animes }}
           SUIVIS_MANGAS: ${{ inputs.mangas }}
 
+      # Calendrier des scans : chapitres sortis (MangaUpdates), fiches et liens officiels (AniList),
+      # sorties attendues d'après le rythme des sorties officielles (data/chapitres.json).
+      # Après les suivis : il reprend leurs correspondances MangaUpdates -> AniList.
+      - name: Collecter les chapitres de manga (calendrier des scans)
+        run: python3 scripts/collecte_chapitres.py
+        continue-on-error: true
+
       # Si un autre run a poussé entre-temps, le rebase peut buter sur data/*.json :
       # "-X theirs" garde NOS fichiers (les plus récents, en cours de rebase).
       # Trois essais ; si le push échoue quand même, le site est publié malgré tout.

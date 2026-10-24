@@ -64,7 +64,7 @@ AniList (403 « You have been manually blocked ») et MangaUpdates (403) refusen
 
 1. à chaque passage, la tâche horaire lance le workflow en lui passant les identifiants AniList suivis (entrées `animes` et `mangas` : des nombres, aucun code perso) ;
 2. le workflow publie `data/anilist.json` (tous les épisodes d'avant-hier à J+7) et `data/suivis.json` (`scripts/collecte_suivis.py` : suites des animés suivis, série MangaUpdates, dernier tome et dernier chapitre des mangas suivis) ;
-3. la vérification lit ces deux fichiers sur le site. Un épisode est notifié dès que son heure de diffusion est passée ; une suite ou un chapitre, au plus tard au passage qui suit la collecte.
+3. la vérification lit ces fichiers sur le site (et `data/chapitres.json`, le calendrier des scans, pour les chapitres des mangas suivis, avec un lien vers la plateforme officielle quand elle est connue). Un épisode est notifié dès que son heure de diffusion est passée ; une suite ou un chapitre, au plus tard au passage qui suit la collecte.
 
 Si le workflow en ligne ne connaît pas encore ces entrées (réponse 422), le relais le relance sans elles : la collecte reprend alors les œuvres de son fichier précédent.
 
