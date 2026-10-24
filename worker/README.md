@@ -18,12 +18,26 @@ Nécessite Node.js 22 ou plus (exigé par wrangler 4), installé par exemple ave
 ```bash
 cd worker
 npm install
-npx wrangler login                  # ouvre le navigateur pour se connecter à Cloudflare
-npx wrangler secret put RAWG_KEY    # colle ta clé RAWG quand c'est demandé
-npx wrangler deploy                 # affiche l'adresse du relais (…workers.dev)
+npx wrangler login                      # ouvre le navigateur pour se connecter à Cloudflare
+npx wrangler secret put RAWG_KEY        # clé API RAWG (jeux)
+npx wrangler secret put TMDB_KEY        # clé API TMDB (films et séries)
+npx wrangler secret put VAPID_PRIVE     # clé privée des notifications web (JWK, voir ci-dessous)
+npx wrangler secret put SUPABASE_SERVICE  # clé "service_role" / "sb_secret_…" de Supabase
+npx wrangler secret put GITHUB_TOKEN    # jeton GitHub (voir « Lancement de la collecte »)
+npx wrangler deploy                     # affiche l'adresse du relais (…workers.dev)
 ```
 
 Puis mettre cette adresse dans `js/config.js` (`URL_RELAIS`).
+
+| Secret | À quoi il sert | Où le trouver |
+|---|---|---|
+| `RAWG_KEY` | jeux (RAWG) | rawg.io → API |
+| `TMDB_KEY` | films et séries | themoviedb.org → Paramètres → API (clé v3) |
+| `VAPID_PRIVE` | signer les notifications web | paire de clés P-256 au format JWK ; la publique va dans `VAPID_PUBLIQUE` (`wrangler.toml`). La changer désabonne tous les appareils. |
+| `SUPABASE_SERVICE` | lire les codes perso pour notifier (recommandations, chat) | Supabase → Project Settings → API keys (secret). **Jamais dans le site.** |
+| `GITHUB_TOKEN` | lancer la collecte des actus toutes les heures | voir ci-dessous (expire : à renouveler) |
+
+Un secret se remplace avec la même commande `npx wrangler secret put NOM` (pas besoin de redéployer).
 
 ## Lancement de la collecte des actus
 
@@ -33,6 +47,13 @@ Le `schedule` de GitHub Actions est souvent retardé ou sauté. Toutes les heure
 npx wrangler secret put GITHUB_TOKEN   # colle le jeton quand c'est demandé
 npx wrangler deploy
 ```
+
+**Renouvellement (le jeton expire au bout d'un an au plus) :**
+1. GitHub → Settings → Developer settings → Fine-grained tokens → le jeton du relais → **Regenerate token** (même dépôt `radar`, même permission « Actions : Read and write »), et note la nouvelle date d'expiration ici : `expire le : ____`.
+2. `cd worker && npx wrangler secret put GITHUB_TOKEN` puis coller le nouveau jeton.
+3. Vérifier à la prochaine heure pile + 5 min : un run « workflow_dispatch » dans l'onglet Actions du dépôt.
+
+Si le jeton expire sans être renouvelé, rien ne casse : le `schedule` de GitHub (toutes les 6 h) continue la collecte, et les journaux du relais affichent `Collecte des actus : {"lance":false,"raison":"GitHub a répondu 401…"}`.
 
 Le résultat apparaît dans les journaux du relais (tableau de bord Cloudflare → Workers → radar-relais → **Logs**, gardés 3 jours ; ou en direct avec `npx wrangler tail`) : `Collecte des actus : {"lance":true}`. Si le jeton expire, le `schedule` de GitHub (toutes les 6 h) prend le relais.
 
