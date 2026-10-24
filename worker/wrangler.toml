@@ -46,6 +46,13 @@ new_sqlite_classes = ["Limiteur"]
 tag = "v2"
 new_sqlite_classes = ["Stockage"]
 
+# Journaux (Workers Logs) : historique visible dans le tableau de bord Cloudflare
+# (Workers → radar-relais → Logs) : anti-pause Supabase, lancement du workflow, vérification, erreurs.
+# Inclus dans l'offre gratuite : 200 000 événements par jour, gardés 3 jours.
+[observability]
+enabled = true
+head_sampling_rate = 1
+
 # Toutes les heures (à la 5e minute) : vérification des nouveautés + lancement de la collecte des actus
 # (+ à 4 h 05 UTC : lecture Supabase anti-pause)
 [triggers]

@@ -34,7 +34,7 @@ npx wrangler secret put GITHUB_TOKEN   # colle le jeton quand c'est demandé
 npx wrangler deploy
 ```
 
-Le résultat apparaît dans les journaux du relais (`npx wrangler tail`) : `Collecte des actus : {"lance":true}`. Si le jeton expire, le `schedule` de GitHub (toutes les 6 h) prend le relais.
+Le résultat apparaît dans les journaux du relais (tableau de bord Cloudflare → Workers → radar-relais → **Logs**, gardés 3 jours ; ou en direct avec `npx wrangler tail`) : `Collecte des actus : {"lance":true}`. Si le jeton expire, le `schedule` de GitHub (toutes les 6 h) prend le relais.
 
 ## Supabase : pas de mise en pause
 
