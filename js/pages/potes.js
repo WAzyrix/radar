@@ -64,11 +64,13 @@ async function afficherCompte(texte = '') {
         <button type="button" class="bouton bouton-verre bouton-petit" id="modifier-profil">Modifier mon profil</button>
         <button type="button" class="bouton bouton-verre bouton-petit" id="deconnexion">Se déconnecter</button>
       </div>
-      <p class="mention">Ta liste et tes notifications sont liées à ton compte : connecte-toi sur un autre appareil pour les retrouver.</p>`));
+      <p class="mention">Ta liste et tes notifications sont liées à ton compte : connecte-toi sur un autre appareil pour les retrouver. Se déconnecter les efface de cet appareil (elles restent dans ton compte).</p>`));
   $('modifier-profil').addEventListener('click', () => afficherFormulaireProfil('', profil, false));
   $('deconnexion').addEventListener('click', async () => {
-    await compte.deconnexion();
-    location.reload();
+    const bouton = $('deconnexion');
+    bouton.disabled = true;
+    if (await compte.deconnexion()) location.reload();
+    else bouton.disabled = false;
   });
   await afficherReste(profil);
 }

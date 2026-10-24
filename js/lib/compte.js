@@ -11,6 +11,7 @@
 import { createClient } from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.117.3/+esm';
 import { SUPABASE_URL, SUPABASE_CLE_PUBLIQUE, URL_RELAIS } from '../config.js';
 import * as maListe from './ma-liste.js';
+import * as notifications from './notifications.js';
 
 export const comptesActifs = () => !SUPABASE_URL.includes('A-REMPLACER');
 
@@ -88,17 +89,75 @@ export async function verifierRattachement() {
   }
 }
 
+// ---------- Données de l'appareil : à qui sont-elles ? ----------
+// Le code perso, la liste, les notes, les préférences et le groupe actif sont gardés dans le
+// navigateur. "radar:proprietaire" dit à quel compte ils appartiennent ; absent = créés ici
+// sans être connecté. Sur un appareil partagé, le compte suivant ne doit RIEN en hériter.
+const CLE_PROPRIETAIRE = 'radar:proprietaire';
+const DONNEES_DU_COMPTE = ['radar:code', 'radar:liste', 'radar:notes', 'radar:preferences', 'radar:groupe', 'radar:synchro', 'radar:adn-verifs', CLE_PROPRIETAIRE];
+
+function proprietaireLocal() {
+  const proprietaire = localStorage.getItem(CLE_PROPRIETAIRE);
+  if (proprietaire) return proprietaire;
+  // Avant "radar:proprietaire", seules les notes retenaient leur compte
+  try { return JSON.parse(localStorage.getItem('radar:notes'))?.utilisateur || null; } catch { return null; }
+}
+
+/** Efface de ce navigateur tout ce qui appartient au compte (un nouveau code perso sera tiré). */
+export function effacerDonneesLocales() {
+  for (const cle of DONNEES_DU_COMPTE) localStorage.removeItem(cle);
+  sessionStorage.removeItem('radar:rattache');
+  window.dispatchEvent(new CustomEvent('radar:liste'));
+  window.dispatchEvent(new CustomEvent('radar:notes'));
+}
+
+// Déjà connecté avant cette règle : les données de l'appareil sont celles de ce compte
+utilisateur().then((u) => {
+  if (u && !proprietaireLocal()) localStorage.setItem(CLE_PROPRIETAIRE, u.id);
+}).catch(() => {});
+
+/**
+ * Se déconnecter : on envoie d'abord ce qui n'est pas encore parti (liste, notes), on coupe les
+ * notifications de cet appareil, puis on efface tout ce qui appartient au compte.
+ * Renvoie false si la personne a préféré rester connectée (modifications pas encore envoyées).
+ */
 export async function deconnexion() {
+  const notes = await import('./notes.js');
+  let envoye = true;
+  try {
+    await maListe.envoyer();
+    await publierListe();
+    await notes.synchroniserNotes();
+  } catch {
+    envoye = false;
+  }
+  if (!envoye && !confirm('Certaines modifications n\'ont pas pu être envoyées (connexion coupée ?). Elles seront perdues sur cet appareil. Te déconnecter quand même ?')) return false;
+  await notifications.desactiver().catch(() => { /* notifications non prises en charge */ });
   await supabase().auth.signOut();
+  effacerDonneesLocales();
+  return true;
 }
 
 /**
  * Relie le compte au code perso :
- *  - le compte a déjà un code (créé sur un autre appareil) : cet appareil l'adopte
- *    et récupère la liste (fusionnée avec ce qu'il y avait ici) ;
- *  - sinon : on enregistre le code de cet appareil dans le compte.
+ *  - données locales d'un AUTRE compte : effacées, jamais fusionnées ;
+ *  - données créées ici sans être connecté : ajoutées au compte seulement si on le confirme ;
+ *  - puis : le compte a déjà un code (créé sur un autre appareil) : cet appareil l'adopte
+ *    et récupère la liste ; sinon on enregistre le code de cet appareil dans le compte.
  */
 async function rattacherListe(userId) {
+  const proprietaire = proprietaireLocal();
+  if (proprietaire !== userId) {
+    const elements = maListe.items().length;
+    const notesLocales = (await import('./notes.js')).toutes().filter((n) => !n.synchro).length;
+    const horsConnexion = !proprietaire && (elements || notesLocales);
+    const garder = horsConnexion && confirm(`Ce navigateur contient des ajouts faits sans être connecté (${[
+      elements && `${elements} élément${elements > 1 ? 's' : ''} de liste`,
+      notesLocales && `${notesLocales} note${notesLocales > 1 ? 's' : ''} ou favori${notesLocales > 1 ? 's' : ''}`,
+    ].filter(Boolean).join(' et ')}). Les ajouter à ton compte ?\n\nAnnuler : ils seront effacés de cet appareil.`);
+    if (!garder) effacerDonneesLocales();
+    localStorage.setItem(CLE_PROPRIETAIRE, userId);
+  }
   const ligne = verifier(await supabase().from('codes').select('code').eq('id', userId).maybeSingle());
   if (ligne?.code && ligne.code !== maListe.codePerso()) {
     await maListe.utiliserCode(ligne.code);
@@ -106,6 +165,7 @@ async function rattacherListe(userId) {
     verifier(await supabase().from('codes').insert({ id: userId, code: maListe.codePerso() }));
   }
   await publierListe();
+  import('./notes.js').then((n) => n.synchroniserNotes()).catch(() => { /* la prochaine page s'en chargera */ });
 }
 
 // ---------- Profil ----------
