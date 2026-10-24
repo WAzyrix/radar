@@ -145,10 +145,14 @@ async function liensSaisons(ids) {
 
 // Découverte de la chaîne préquelles/suites : les relations sur 3 niveaux en UNE requête
 // (une franchise de 10 œuvres = 4 requêtes au lieu de 10)
-const CHAMPS_CHAINE = 'id type format episodes startDate{year month day}';
+const CHAMPS_CHAINE = 'id type format episodes duration startDate{year month day}';
 const RELATIONS_3_NIVEAUX = [1, 2, 3].reduce((interieur) => `relations{ edges{ relationType node{ ${CHAMPS_CHAINE} ${interieur} } } }`, '');
 const LIENS_CHAINE = ['PREQUEL', 'SEQUEL'];
-const CLE_FRANCHISE = (id) => `al:franchise:${id}`;
+// "franchise3" : règles des saisons changées (spéciaux longs, versions remontées) → ancien cache ignoré
+const CLE_FRANCHISE = (id) => `al:franchise3:${id}`;
+// Remontages qu'AniList range comme des suites, sans rien qui les distingue d'une vraie saison
+// (Dragon Ball Kai = Dragon Ball Z remonté). Ils vont dans "Autour de l'œuvre".
+const REMONTAGES = new Set([6033, 20635]);
 
 /**
  * Toutes les saisons d'un animé, triées par date de diffusion (Saison 1, 2, 3…).
@@ -185,7 +189,7 @@ async function decouvrirSaisons(id) {
   // veulent dire "pas encore lues" (seule l'œuvre demandée elle-même peut vraiment n'en avoir aucune).
   const noter = (m, demandee = false) => {
     const n = noeuds.get(m.id) || { id: m.id, liens: null };
-    for (const champ of ['type', 'format', 'episodes', 'startDate']) if (m[champ] !== undefined) n[champ] = m[champ];
+    for (const champ of ['type', 'format', 'episodes', 'duration', 'startDate']) if (m[champ] !== undefined) n[champ] = m[champ];
     noeuds.set(m.id, n);
     const edges = m.relations?.edges;
     if (edges && (edges.length || demandee)) {
@@ -193,6 +197,8 @@ async function decouvrirSaisons(id) {
       n.liens = [...(n.liens || []), ...edges
         .filter((e) => LIENS_CHAINE.includes(e.relationType) && e.node.type === 'ANIME' && !connus.has(e.node.id))
         .map((e) => ({ type: e.relationType, id: e.node.id }))];
+      // "PARENT" : cette œuvre est une version dérivée d'une autre (Dragon Ball Super: Beerus)
+      n.parents = [...new Set([...(n.parents || []), ...edges.filter((e) => e.relationType === 'PARENT').map((e) => e.node.id)])];
       edges.forEach((e) => noter(e.node));
     }
   };
@@ -235,7 +241,15 @@ async function decouvrirSaisons(id) {
   //  - "MONSTERS: 103 Mercies Dragon Damnation" (1 épisode, 2024) est rangé par AniList comme
   //    "préquelle" de One Piece (1999) : histoire antérieure, sortie bien après. Ce n'est pas une
   //    saison : il va dans "Autour de l'œuvre".
-  const estSaison = (n) => FORMATS_SAISON.includes(n.format) && (n.episodes !== 1 || dansLOrdre(n));
+  // Aussi une saison : un spécial long (55 min ou plus, pas un téléfilm de 45 min) dans l'ordre de diffusion
+  //  (Attack on Titan Final Season - The Final Chapters, 2 spéciaux de 85 min).
+  // Jamais une saison : une version dérivée d'une autre saison de la chaîne (lien PARENT,
+  //  "Dragon Ball Super: Beerus"), ni un remontage connu (REMONTAGES).
+  const chaineIds = new Set(membres.map((n) => n.id));
+  const estSaison = (n) => !REMONTAGES.has(n.id)
+    && !(n.parents || []).some((p) => chaineIds.has(p))
+    && ((FORMATS_SAISON.includes(n.format) && (n.episodes !== 1 || dansLOrdre(n)))
+      || (n.format === 'SPECIAL' && n.duration >= 55 && dansLOrdre(n)));
   // Date inconnue (saison annoncée) : en dernier
   const saisonsTriees = membres.filter(estSaison)
     .sort((a, b) => (dateDebut(a.startDate) ?? Infinity) - (dateDebut(b.startDate) ?? Infinity));
