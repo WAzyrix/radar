@@ -296,7 +296,7 @@ async function afficherSaisons(m, elementSuivre, adn) {
   const zone = document.getElementById('saisons');
   let liste;
   try {
-    liste = await saisons(m.id, m);
+    liste = await saisons(m.id);
   } catch (erreur) {
     liste = []; // AniList indisponible : pas d'onglets, la fiche reste utilisable
     // AniList saturé : on retente une fois le blocage passé (si la fiche est toujours affichée)

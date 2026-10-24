@@ -37,13 +37,25 @@ addEventListener('pagehide', () => { pageQuittee = true; });
 addEventListener('pageshow', () => { pageQuittee = false; }); // retour arrière (cache de navigation)
 
 // AniList saturé : `reessaiDans` (secondes) sert au compte à rebours (afficherErreur)
+// Pourquoi on attend : le compte à rebours affiché dépend de la raison
+const RAISONS = {
+  // notre propre limiteur (25 requêtes/min, partagé entre onglets) : AniList n'y est pour rien
+  radar: (s) => `Pause de ${s} seconde${s > 1 ? 's' : ''} : Radar ralentit pour ne pas dépasser la limite d'AniList (30 requêtes par minute). Nouvel essai automatique…`,
+  // AniList a répondu 429
+  anilist: (s) => `AniList est surchargé, réessaie dans ${s} seconde${s > 1 ? 's' : ''}. Nouvel essai automatique…`,
+  // pas de réponse du tout (blocage d'AniList sans CORS, connexion coupée, bloqueur de publicité)
+  reseau: (s) => `AniList ne répond pas (connexion coupée, bloqueur de publicité ?). Nouvel essai dans ${s} seconde${s > 1 ? 's' : ''}…`,
+};
+
 export class ErreurLimite extends Error {
-  constructor(ms) {
+  constructor(ms, raison = 'anilist') {
     const secondes = Math.max(1, Math.ceil(ms / 1000));
-    super(`AniList est surchargé, réessaie dans ${secondes} secondes.`);
+    const texte = RAISONS[raison] || RAISONS.anilist;
+    super(texte(secondes));
     this.name = 'ErreurLimite';
     this.service = 'AniList';
     this.reessaiDans = secondes;
+    this.texte = texte; // pour le compte à rebours (outils.js, afficherErreur)
   }
 }
 
@@ -59,22 +71,24 @@ function ecrireEtat(etat) {
   try { localStorage.setItem(ETAT, JSON.stringify(etat)); } catch { /* stockage plein : limiteur local seulement */ }
 }
 
-function bloquer(ms) {
+function bloquer(ms, raison) {
   const etat = lireEtat();
-  etat.bloque = Math.max(etat.bloque || 0, Date.now() + Math.min(Math.max(ms, 5000), 2 * BLOCAGE));
+  const fin = Date.now() + Math.min(Math.max(ms, 5000), 2 * BLOCAGE);
+  if (fin > (etat.bloque || 0)) Object.assign(etat, { bloque: fin, raison });
   ecrireEtat(etat);
 }
 
 // Réserve un créneau et renvoie 0, ou renvoie le temps à attendre (ms) avant de pouvoir envoyer
+// Renvoie { attente (ms, 0 = on peut envoyer), raison }
 function reserverCreneau() {
   const maintenant = Date.now();
   const etat = lireEtat();
-  if (etat.bloque > maintenant) return etat.bloque - maintenant;
+  if (etat.bloque > maintenant) return { attente: etat.bloque - maintenant, raison: etat.raison || 'anilist' };
   etat.h = etat.h.filter((t) => maintenant - t < 60_000 && t <= maintenant);
-  if (etat.h.length >= LIMITE_PAR_MINUTE) return 60_000 - (maintenant - etat.h[0]) + 50;
+  if (etat.h.length >= LIMITE_PAR_MINUTE) return { attente: 60_000 - (maintenant - etat.h[0]) + 50, raison: 'radar' };
   etat.h.push(maintenant);
   ecrireEtat(etat);
-  return 0;
+  return { attente: 0 };
 }
 
 viderCache(PREFIXE_CACHE, { seulementExpires: true }); // ménage au chargement
@@ -111,12 +125,12 @@ export async function anilist(query, variables = {}, { duree = 10 * 60_000, vali
 }
 
 async function envoyer(corps) {
-  let attente = reserverCreneau();
-  if (attente > 0 && attente <= ATTENTE_MAX) {
-    await pause(attente);
-    attente = reserverCreneau();
+  let creneau = reserverCreneau();
+  if (creneau.attente > 0 && creneau.attente <= ATTENTE_MAX) {
+    await pause(creneau.attente);
+    creneau = reserverCreneau();
   }
-  if (attente > 0) throw new ErreurLimite(attente);
+  if (creneau.attente > 0) throw new ErreurLimite(creneau.attente, creneau.raison);
 
   let reponse;
   try {
@@ -129,8 +143,8 @@ async function envoyer(corps) {
     // Échec réseau alors qu'on est connecté : presque toujours le blocage du pare-feu d'AniList
     // (429 sans CORS) ou une panne de son côté. On n'insiste pas pendant une minute.
     if (erreur.cause?.name === 'TypeError' && navigator.onLine !== false && !pageQuittee) {
-      bloquer(BLOCAGE);
-      throw new ErreurLimite(BLOCAGE);
+      bloquer(BLOCAGE, 'reseau');
+      throw new ErreurLimite(BLOCAGE, 'reseau');
     }
     throw erreur;
   }
@@ -139,13 +153,13 @@ async function envoyer(corps) {
   const reset = Number(reponse.headers.get('X-RateLimit-Reset')) * 1000;
   if (reponse.status === 429) {
     const attenteReset = reset ? reset - Date.now() : BLOCAGE;
-    bloquer(attenteReset);
-    throw new ErreurLimite(attenteReset);
+    bloquer(attenteReset, 'anilist');
+    throw new ErreurLimite(attenteReset, 'anilist');
   }
   // Le compteur d'AniList compte TOUT ce qui sort de cette connexion (autres onglets, appareils…) :
   // presque épuisé, on s'arrête une minute avant de recevoir un 429
   const restant = reponse.headers.get('X-RateLimit-Remaining');
-  if (restant !== null && Number(restant) <= 1) bloquer(BLOCAGE);
+  if (restant !== null && Number(restant) <= 1) bloquer(BLOCAGE, 'anilist');
 
   const json = await reponse.json().catch(() => null);
   // AniList renvoie ses erreurs en anglais ("Not Found.") avec un code : on traduit le code

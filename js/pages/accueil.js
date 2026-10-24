@@ -96,7 +96,7 @@ async function chargerAnimes() {
     // AniList saturé : compte à rebours dans les deux carrousels, puis nouvel essai
     afficherErreur(tendances, erreur, { reessayer: chargerAnimes });
     afficherErreur(saison, erreur, { reessayer: () => {} });
-    const message = erreur.reessaiDans ? 'AniList est surchargé : les tendances arrivent dans un instant.' : erreur.message;
+    const message = erreur.reessaiDans ? 'Les tendances arrivent dans un instant (AniList limite le nombre de requêtes).' : erreur.message;
     const contenu = document.getElementById('heros').querySelector('.heros-contenu');
     if (contenu && !document.querySelector('.heros-points')) contenu.innerHTML = `<h1>Radar</h1><p class="resume">${echapper(message)}</p>`;
   }

@@ -5,6 +5,7 @@
 // =========================================================
 import { anilist } from './anilist.js';
 import { appeler } from '../lib/outils.js';
+import { lireCache, ecrireCache } from '../lib/cache.js';
 
 const MINUTE = 60_000;
 const HEURE = 60 * MINUTE;
@@ -142,6 +143,13 @@ async function liensSaisons(ids) {
   return data.Page.media;
 }
 
+// Découverte de la chaîne préquelles/suites : les relations sur 3 niveaux en UNE requête
+// (une franchise de 10 œuvres = 4 requêtes au lieu de 10)
+const CHAMPS_CHAINE = 'id type format episodes startDate{year month day}';
+const RELATIONS_3_NIVEAUX = [1, 2, 3].reduce((interieur) => `relations{ edges{ relationType node{ ${CHAMPS_CHAINE} ${interieur} } } }`, '');
+const LIENS_CHAINE = ['PREQUEL', 'SEQUEL'];
+const CLE_FRANCHISE = (id) => `al:franchise:${id}`;
+
 /**
  * Toutes les saisons d'un animé, triées par date de diffusion (Saison 1, 2, 3…).
  * AniList relie les œuvres par "préquelle" / "suite" dans l'ORDRE DE L'HISTOIRE, pas de la
@@ -149,50 +157,89 @@ async function liensSaisons(ids) {
  * On récupère donc TOUTE la chaîne préquelles/suites (toutes les branches, en traversant
  * films et OVA), sans jamais prendre les autres relations (histoires parallèles, spin-off,
  * autres versions…), puis on garde les saisons et on trie par date.
- * Une requête par "niveau" de la chaîne (gardée 24 h en cache), 12 niveaux maximum.
- * `depart` : la fiche déjà chargée (ficheAnime) sert de premier niveau, sans requête.
+ * - découverte : 3 niveaux de relations par requête, 6 requêtes au plus (18 niveaux) ;
+ * - la liste trouvée est gardée 24 h pour CHAQUE œuvre de la chaîne : ouvrir une autre saison
+ *   de la même franchise ne coûte plus qu'une requête (les liens d'épisodes), ou zéro.
  */
-export async function saisons(id, depart) {
-  const connues = new Map();
-  let aLire = [id];
-  for (let niveau = 0; niveau < 12 && aLire.length; niveau++) {
-    if (niveau === 0 && depart?.id === id) {
-      connues.set(id, depart);
-      aLire = depart.relations.edges
-        .filter((e) => ['PREQUEL', 'SEQUEL'].includes(e.relationType) && e.node.type === 'ANIME')
-        .map((e) => e.node.id).filter((x) => x !== id);
-      continue;
-    }
-    const lues = [];
-    for (let i = 0; i < aLire.length; i += 50) lues.push(...await liensSaisons(aLire.slice(i, i + 50)));
-    const suivantes = new Set();
-    for (const m of lues) {
-      connues.set(m.id, m);
-      for (const e of m.relations.edges) {
-        if (['PREQUEL', 'SEQUEL'].includes(e.relationType) && e.node.type === 'ANIME') suivantes.add(e.node.id);
-      }
-    }
-    aLire = [...suivantes].filter((x) => !connues.has(x)).slice(0, Math.max(0, MAX_OEUVRES - connues.size));
+export async function saisons(id) {
+  let ids = lireCache(CLE_FRANCHISE(id));
+  if (!Array.isArray(ids)) {
+    ids = await decouvrirSaisons(id);
+    for (const membre of ids.chaine) ecrireCache(CLE_FRANCHISE(membre), ids.saisons, 24 * HEURE, 'al:');
+    ids = ids.saisons;
   }
+  if (!ids.length) return [];
+  // Les liens d'épisodes de toutes les saisons, en une requête (50 au plus par lot)
+  const medias = [];
+  for (let i = 0; i < ids.length; i += 50) medias.push(...await liensSaisons(ids.slice(i, i + 50)));
+  const parId = new Map(medias.map((m) => [m.id, m]));
+  return ids.map((x) => parId.get(x)).filter(Boolean);
+}
+
+/** { chaine: ids de toutes les œuvres reliées, saisons: ids des saisons dans l'ordre de diffusion } */
+async function decouvrirSaisons(id) {
+  // id -> { format, episodes, startDate, liens: [{ type, id }] | null (pas encore lus) }
+  const noeuds = new Map();
+  // AniList renvoie des relations VIDES pour une œuvre qui réapparaît plus bas dans l'arbre :
+  // on fusionne les relations (jamais d'écrasement), et des relations vides en profondeur
+  // veulent dire "pas encore lues" (seule l'œuvre demandée elle-même peut vraiment n'en avoir aucune).
+  const noter = (m, demandee = false) => {
+    const n = noeuds.get(m.id) || { id: m.id, liens: null };
+    for (const champ of ['type', 'format', 'episodes', 'startDate']) if (m[champ] !== undefined) n[champ] = m[champ];
+    noeuds.set(m.id, n);
+    const edges = m.relations?.edges;
+    if (edges && (edges.length || demandee)) {
+      const connus = new Set((n.liens || []).map((l) => l.id));
+      n.liens = [...(n.liens || []), ...edges
+        .filter((e) => LIENS_CHAINE.includes(e.relationType) && e.node.type === 'ANIME' && !connus.has(e.node.id))
+        .map((e) => ({ type: e.relationType, id: e.node.id }))];
+      edges.forEach((e) => noter(e.node));
+    }
+  };
+  // La chaîne vue depuis `id` (préquelles/suites seulement), dans la limite de MAX_OEUVRES
+  const chaine = () => {
+    const vus = new Set([id]);
+    const file = [id];
+    while (file.length && vus.size < MAX_OEUVRES) {
+      for (const l of noeuds.get(file.shift())?.liens || []) if (!vus.has(l.id)) { vus.add(l.id); file.push(l.id); }
+    }
+    return [...vus];
+  };
+
+  for (let requete = 0; requete < 6; requete++) {
+    // À lire : les œuvres de la chaîne dont on ne connaît pas encore les relations ou le format
+    const aLire = chaine().filter((x) => !noeuds.get(x) || noeuds.get(x).liens === null).slice(0, 50);
+    if (!aLire.length) break;
+    const data = await anilist(`query($ids:[Int]){ Page(perPage:50){ media(id_in:$ids){ ${CHAMPS_CHAINE} ${RELATIONS_3_NIVEAUX} } } }`,
+      { ids: [...aLire].sort((a, b) => a - b) }, { duree: 24 * HEURE });
+    data.Page.media.forEach((m) => noter(m, true));
+    // Une œuvre introuvable ne doit pas être redemandée sans fin
+    for (const x of aLire) {
+      const n = noeuds.get(x);
+      if (!n || n.liens === null) noeuds.set(x, { ...n, id: x, liens: [] });
+    }
+  }
+
+  const membres = chaine().map((x) => noeuds.get(x)).filter(Boolean);
   // Lien préquelle/suite "dans le bon ordre" avec une autre œuvre de la chaîne :
   // une préquelle sortie avant, ou une suite sortie après (date inconnue : accepté).
-  const dansLOrdre = (m) => m.relations.edges.some((e) => {
-    const autre = connues.get(e.node.id);
-    if (!autre || !['PREQUEL', 'SEQUEL'].includes(e.relationType)) return false;
-    const ici = dateDebut(m.startDate);
+  const dansLOrdre = (n) => (n.liens || []).some((l) => {
+    const autre = noeuds.get(l.id);
+    if (!autre) return false;
+    const ici = dateDebut(n.startDate);
     const la = dateDebut(autre.startDate);
-    return !ici || !la || (e.relationType === 'PREQUEL' ? la <= ici : la >= ici);
+    return !ici || !la || (l.type === 'PREQUEL' ? la <= ici : la >= ici);
   });
   // Une saison : format série. Un seul épisode : seulement s'il s'inscrit dans l'ordre de diffusion.
   //  - "STEEL BALL RUN 1st STAGE" (1 épisode de 47 min, 2026) suit bien Stone Ocean (2022) : gardé ;
   //  - "MONSTERS: 103 Mercies Dragon Damnation" (1 épisode, 2024) est rangé par AniList comme
   //    "préquelle" de One Piece (1999) : histoire antérieure, sortie bien après. Ce n'est pas une
   //    saison : il va dans "Autour de l'œuvre".
-  const estSaison = (m) => FORMATS_SAISON.includes(m.format) && (m.episodes !== 1 || dansLOrdre(m));
-
+  const estSaison = (n) => FORMATS_SAISON.includes(n.format) && (n.episodes !== 1 || dansLOrdre(n));
   // Date inconnue (saison annoncée) : en dernier
-  return [...connues.values()].filter(estSaison)
+  const saisonsTriees = membres.filter(estSaison)
     .sort((a, b) => (dateDebut(a.startDate) ?? Infinity) - (dateDebut(b.startDate) ?? Infinity));
+  return { chaine: membres.map((n) => n.id), saisons: saisonsTriees.map((n) => n.id) };
 }
 
 // ---------- Recherche ----------

@@ -118,7 +118,9 @@ export function afficherErreur(conteneur, erreur, { reessayer } = {}) {
   if (erreur?.reessaiDans && reessayer) {
     let reste = erreur.reessaiDans;
     const texte = el('div', { class: 'erreur', role: 'status' });
-    const ecrire = () => { texte.textContent = `${erreur.service} est surchargé, réessaie dans ${reste} seconde${reste > 1 ? 's' : ''}. Nouvel essai automatique…`; };
+    const ecrire = () => {
+      texte.textContent = erreur.texte?.(reste) ?? `${erreur.service} est surchargé, réessaie dans ${reste} seconde${reste > 1 ? 's' : ''}. Nouvel essai automatique…`;
+    };
     ecrire();
     conteneur.replaceChildren(texte);
     const minuteur = setInterval(() => {
