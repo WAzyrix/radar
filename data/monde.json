@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-24T10:03:47+00:00",
+ "maj": "2026-10-24T10:05:37+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,28 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "c958f28e092e",
+   "titre": "Is your Medicare Advantage plan ending next year? Here's what to know",
+   "lien": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
+   "source": "NPR",
+   "date": "2026-10-24T10:00:00+00:00",
+   "extrait": "Medicare open enrollment runs through Dec. 7, and for as many as 5 million seniors, it will be important to log on and pick a new plan.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "f68cf4146571",
+   "titre": "U.S. birth rate drops to record low, but older women are having more babies",
+   "lien": "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc",
+   "source": "NPR",
+   "date": "2026-10-24T10:00:00+00:00",
+   "extrait": "The U.S. birth rate fell to its lowest level ever recorded, according to a report from the Centers for Disease Control and Prevention. The drop would have been greater, but women over age 30 are…",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "usa"
+  },
   {
    "id": "0c90e99bee5d",
    "titre": "Des milliers de personnes ont commencé à manifester à Orléans contre le congrès du Rassemblement national",
@@ -3460,30 +3482,6 @@
    "tags": [
     "Politique",
     "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "3236d22735f1",
-   "titre": "\"'20h30 le samedi\". La traque et le procès de Klaus Barbie, criminel nazi",
-   "lien": "https://www.franceinfo.fr/replay-magazine/france-2/20h30-le-samedi/20h30-le-samedi-avec-gilles-lellouche_8249599.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-23T12:51:22+00:00",
-   "extrait": "Le magazine \"20h30 le samedi\", présenté par Laurent Delahousse juste après le journal de 20 heures sur France 2, dévoile la petite histoire dans la grande, à feuilleter comme un album de famille.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "1a7f59454e7d",
-   "titre": "Les députés rejettent à la quasi-unanimité le volet \"recettes\" du projet de loi de financement de la Sécurité sociale, le texte transmis au Sénat",
-   "lien": "https://www.franceinfo.fr/economie/budget/les-deputes-rejettent-a-la-quasi-unanimite-le-volet-recettes-du-projet-de-loi-de-financement-de-la-securite-sociale-le-texte-transmis-au-senat_8250760.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-23T12:50:36+00:00",
-   "extrait": "La gauche, l'alliance RN-UDR et l'essentiel des LR ont voté contre, le reste du camp gouvernemental s'abstenant majoritairement, et un député MoDem a voté pour.",
-   "tags": [
-    "Politique"
    ],
    "zone": "france"
   }
