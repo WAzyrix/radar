@@ -4,7 +4,7 @@
 // comptes sont configurés : les pages restent légères sinon.
 // =========================================================
 import { SUPABASE_URL, URL_RELAIS } from '../config.js';
-import { el, gabarit, uuidValide, appeler } from '../lib/outils.js';
+import { el, gabarit, uuidValide, appeler, imageValide } from '../lib/outils.js';
 import { ICONES } from './icones.js';
 
 const comptesConfigures = () => !SUPABASE_URL.includes('A-REMPLACER');
@@ -119,7 +119,7 @@ async function ouvrir(compte, item) {
     try {
       const jeton = await compte.jeton();
       const message = dialogue.querySelector('#message-reco').value.trim();
-      const element = { type: item.type, id: item.id, titre: item.titre, image: item.image };
+      const element = { type: item.type, id: item.id, titre: item.titre, image: imageValide(item.image) || undefined };
       // Le relais vérifie qui je suis, enregistre la reco et notifie le pote
       for (const a of choisis) {
         if (dejaEnvoye.has(a)) continue;

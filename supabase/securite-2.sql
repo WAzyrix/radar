@@ -146,4 +146,32 @@ begin
   raise notice '% groupe(s) vide(s) supprimé(s)', vides;
 end $$;
 
+-- ---------- 4. Images des éléments partagés : même règle que les notes ----------
+-- Avant : "commence par https://" suffisait (https://x"onerror=… passait). Maintenant : https://,
+-- sans espace, guillemet, chevron ni antislash, 500 caractères au plus. Les contraintes existantes
+-- (listes, recommandations, messages) utilisent cette fonction : elles suivent d'elles-mêmes.
+-- Une ancienne ligne non conforme reste lisible ; le site renvoie des images propres.
+create or replace function public.item_valide(i jsonb) returns boolean
+language sql immutable as $$
+  select coalesce(
+    jsonb_typeof(i) = 'object'
+    and coalesce(i->>'type', '') in ('anime', 'manga', 'film', 'serie', 'jeu')
+    and coalesce(jsonb_typeof(i->'id'), '') = 'number'
+    and coalesce(i->>'id', '') ~ '^[1-9][0-9]{0,11}$'
+    and coalesce(jsonb_typeof(i->'titre'), 'null') in ('string', 'null')
+    and char_length(coalesce(i->>'titre', '')) <= 200
+    and (coalesce(i->>'image', '') = '' or (i->>'image' ~ '^https://[^\s"''<>\\]+$' and char_length(i->>'image') <= 500))
+    and (coalesce(i->>'couleur', '') = '' or i->>'couleur' ~ '^#[0-9a-fA-F]{6}$'),
+  false);
+$$;
+revoke execute on function public.item_valide(jsonb) from public, anon;
+grant execute on function public.item_valide(jsonb) to authenticated;
+
+do $$
+declare n int;
+begin
+  select count(*) into n from public.listes where not public.liste_valide(items);
+  raise notice '% liste(s) avec une image non conforme (corrigées à leur prochaine publication)', n;
+end $$;
+
 commit;

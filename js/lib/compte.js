@@ -12,6 +12,7 @@ import { createClient } from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js
 import { SUPABASE_URL, SUPABASE_CLE_PUBLIQUE, URL_RELAIS } from '../config.js';
 import * as maListe from './ma-liste.js';
 import * as notifications from './notifications.js';
+import { imageValide } from './outils.js';
 
 export const comptesActifs = () => !SUPABASE_URL.includes('A-REMPLACER');
 
@@ -219,7 +220,9 @@ export async function enregistrerPreferences({ rattrapageMasque, maj }) {
 export async function publierListe() {
   const u = await utilisateur();
   if (!u) return;
-  verifier(await supabase().from('listes').upsert({ user_id: u.id, items: maListe.items(), maj: Date.now() }));
+  // Images propres (supabase/securite-2.sql refuse une image douteuse, et toute la liste avec)
+  const items = maListe.items().map((i) => ({ ...i, image: imageValide(i.image) || undefined }));
+  verifier(await supabase().from('listes').upsert({ user_id: u.id, items, maj: Date.now() }));
 }
 maListe.surEnvoi(() => publierListe().catch(() => { /* hors connexion : la prochaine fois */ }));
 
@@ -403,7 +406,7 @@ export async function messages(groupeId, nombre = 100) {
 export async function envoyerMessage(groupeId, { contenu, item }) {
   const u = await utilisateur();
   const message = verifier(await supabase().from('messages')
-    .insert({ groupe_id: groupeId, user_id: u.id, contenu: contenu || null, item: item || null })
+    .insert({ groupe_id: groupeId, user_id: u.id, contenu: contenu || null, item: item ? { ...item, image: imageValide(item.image) || undefined } : null })
     .select('id, user_id, contenu, item, cree_le').single());
   // On prévient les autres membres (cloche + notif), sans attendre la réponse
   jeton().then((j) => fetch(`${URL_RELAIS}/chat/notifier`, {
