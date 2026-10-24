@@ -11,7 +11,7 @@
 // et tout est échappé.
 // =========================================================
 import { episodesStreaming } from '../api/animes.js';
-import { echapper, compteARebours, afficherErreur, el } from '../lib/outils.js';
+import { echapper, compteARebours, afficherErreur, el, lienSur } from '../lib/outils.js';
 import { dernierSorti, suiviDe, enregistrerVus } from '../lib/suivis.js';
 import { badgesLangues } from './cartes.js';
 import { ICONES } from './icones.js';
@@ -21,10 +21,7 @@ const EN_FRANCE = ['Crunchyroll', 'ADN', 'Animation Digital Network', 'Netflix',
 const NOMS = { 'Animation Digital Network': 'ADN', 'Disney Plus': 'Disney+', 'Amazon Prime Video': 'Prime Video' };
 const nom = (site) => NOMS[site] || site;
 
-function adresse(url) {
-  const propre = String(url || '').trim().replace(/^http:\/\//i, 'https://');
-  return /^https:\/\/[^\s"'<>]+$/i.test(propre) ? propre : null;
-}
+const adresse = lienSur;
 
 // Numéro d'épisode dans "Episode 12 - Titre" / "Épisode 12" / "Ep. 12"
 const numero = (titre) => Number(String(titre).match(/(?:[ée]pisode|ep\.?)\s*(\d+)/i)?.[1]) || null;

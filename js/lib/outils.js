@@ -34,7 +34,16 @@ export function gabarit(html) {
 export const idValide = (id) => (Number.isInteger(id) && id > 0) || (typeof id === 'string' && /^\d{1,12}$/.test(id));
 export const uuidValide = (v) => /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(v || '');
 export const couleurValide = (c) => (/^#[0-9a-f]{6}$/i.test(c || '') ? c : null);
-export const imageValide = (url) => (typeof url === 'string' && /^https:\/\//.test(url) ? url : null);
+// Adresse externe venant d'une API (AniList, RAWG, TMDB…) : https:// seulement (http:// converti),
+// sans espace, guillemet, chevron ni antislash. Sinon null : un lien "javascript:" ou "data:"
+// ne passe jamais, et l'adresse ne peut sortir ni d'un attribut HTML ni d'un url('…') CSS.
+export function lienSur(url) {
+  const propre = String(url ?? '').trim().replace(/^http:\/\//i, 'https://');
+  return /^https:\/\/[^\s"'<>\\]+$/i.test(propre) ? propre : null;
+}
+export const imageValide = (url) => (typeof url === 'string' ? lienSur(url) : null);
+// Lien ou image à mettre dans un attribut d'un gabarit HTML (chaîne vide si l'adresse est refusée)
+export const attributUrl = (url) => echapper(lienSur(url) || '');
 
 // Titre affiché : anglais s'il existe, sinon romaji.
 export const titre = (media) => media.title.english || media.title.romaji;

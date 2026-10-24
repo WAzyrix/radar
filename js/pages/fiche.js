@@ -2,7 +2,7 @@
 // Fiche animé (ou manga) : anime.html?id=XXXX (id AniList)
 // =========================================================
 import { ficheAnime, saisons, dateDebut } from '../api/animes.js';
-import { echapper, titre, note, nettoyerSynopsis, compteARebours, formatDate, afficherErreur } from '../lib/outils.js';
+import { echapper, titre, note, nettoyerSynopsis, compteARebours, formatDate, afficherErreur, attributUrl, lienSur } from '../lib/outils.js';
 
 const formatJourHeure = new Intl.DateTimeFormat('fr-FR', { weekday: 'long', day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' });
 import { GENRES_FR, STATUTS_FR, FORMATS_FR, RELATIONS_FR } from '../lib/traductions.js';
@@ -31,9 +31,9 @@ const ligneInfo = (nom, valeur) => (valeur ? `<div><dt>${nom}</dt><dd>${echapper
 function carteAvis(avis) {
   // Seulement le résumé de l'avis (court), avec un lien vers l'avis complet sur AniList
   return `
-    <a class="avis-carte" href="${avis.siteUrl}" target="_blank" rel="noopener">
+    <a class="avis-carte" href="${attributUrl(avis.siteUrl)}" target="_blank" rel="noopener noreferrer">
       <div class="avis-auteur">
-        <img src="${avis.user.avatar.medium}" alt="" loading="lazy">
+        <img src="${attributUrl(avis.user?.avatar?.medium)}" alt="" loading="lazy">
         ${echapper(avis.user.name)}
         <span class="pastille accent">${avis.score}/100</span>
       </div>
@@ -58,7 +58,7 @@ function carteOuRegarder(m, adn) {
     const saisonCourante = enCours ? String(enCours.saison) : String(numeroSaison(m));
     const saisons = Object.entries(serie.saisons).sort((a, b) => Number(a[0]) - Number(b[0]));
     contenu = `
-      <p>Sur <a class="lien-discret" href="${serie.url}" target="_blank" rel="noopener">ADN</a> (${echapper(serie.titre)}) :</p>
+      <p>Sur <a class="lien-discret" href="${attributUrl(serie.url)}" target="_blank" rel="noopener noreferrer">ADN</a> (${echapper(serie.titre)}) :</p>
       <div class="dispo-saisons">
         ${saisons.map(([num, langues]) => `
           <div class="dispo-saison ${num === saisonCourante ? 'courante' : ''}">
@@ -75,7 +75,8 @@ function carteOuRegarder(m, adn) {
   const vus = new Set();
   const autres = (m.externalLinks || [])
     .filter((l) => l.type === 'STREAMING' && l.site !== 'YouTube' && !vus.has(l.site) && vus.add(l.site))
-    .map((l) => `<a class="pastille" href="${echapper(l.url)}" target="_blank" rel="noopener">${echapper(l.site)}</a>`).join('');
+    .filter((l) => lienSur(l.url))
+    .map((l) => `<a class="pastille" href="${attributUrl(l.url)}" target="_blank" rel="noopener noreferrer">${echapper(l.site)}</a>`).join('');
 
   return `
     <div class="carte carte-large">
@@ -110,7 +111,7 @@ function afficherFiche(m, adn) {
     : '';
 
   const bandeAnnonce = m.trailer?.site === 'youtube'
-    ? `<a class="bouton bouton-plein" href="https://www.youtube.com/watch?v=${encodeURIComponent(m.trailer.id)}" target="_blank" rel="noopener">${ICONES.lecture}Bande-annonce</a>`
+    ? `<a class="bouton bouton-plein" href="https://www.youtube.com/watch?v=${encodeURIComponent(m.trailer.id)}" target="_blank" rel="noopener noreferrer">${ICONES.lecture}Bande-annonce</a>`
     : '';
 
   // "Suivre" : animés ET mangas (notifs : épisodes, VOSTFR/VF, suites, nouveaux tomes)
@@ -122,9 +123,9 @@ function afficherFiche(m, adn) {
 
   document.getElementById('fiche').innerHTML = `
     <section class="fiche-haut">
-      <div class="fiche-fond" style="--image:url('${m.bannerImage || m.coverImage.extraLarge}')"></div>
+      <div class="fiche-fond" style="--image:url('${attributUrl(m.bannerImage || m.coverImage.extraLarge)}')"></div>
       <div class="fiche-grille">
-        <div class="fiche-affiche"><img src="${m.coverImage.extraLarge}" alt="Affiche de ${echapper(titre(m))}"></div>
+        <div class="fiche-affiche"><img src="${attributUrl(m.coverImage.extraLarge)}" alt=""Affiche de ${echapper(titre(m))}"></div>
         <div class="fiche-infos">
           <h1>${echapper(titre(m))}</h1>
           ${m.title.native ? `<div class="titre-natif">${echapper(m.title.native)}</div>` : ''}
@@ -165,7 +166,7 @@ function afficherFiche(m, adn) {
           ${ligneInfo('Studio', studio)}
           ${ligneInfo('Popularité', m.popularity && `${m.popularity.toLocaleString('fr-FR')} membres`)}
         </dl>
-        <p class="mention"><a class="lien-discret" href="${m.siteUrl}" target="_blank" rel="noopener">Voir sur AniList</a></p>
+        <p class="mention"><a class="lien-discret" href="${attributUrl(m.siteUrl)}" target="_blank" rel="noopener noreferrer">Voir sur AniList</a></p>
       </div>
       <div class="carte carte-large" id="carte-note"></div>
       ${estManga ? '' : carteOuRegarder(m, adn)}
@@ -180,7 +181,7 @@ function afficherFiche(m, adn) {
 
     ${m.reviews.nodes.length ? `
     <section class="section">
-      <div class="section-tete"><h2>Avis des fans</h2><a href="${m.siteUrl}/reviews" target="_blank" rel="noopener">Tous les avis ›</a></div>
+      <div class="section-tete"><h2>Avis des fans</h2><a href="${attributUrl(`${m.siteUrl}/reviews`)}" target="_blank" rel="noopener noreferrer">Tous les avis ›</a></div>
       <div class="carrousel avis">${m.reviews.nodes.map(carteAvis).join('')}</div>
     </section>` : ''}
 

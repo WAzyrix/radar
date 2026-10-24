@@ -4,7 +4,7 @@
 import * as maListe from '../lib/ma-liste.js';
 import * as notifs from '../lib/notifications.js';
 import { rechercheFilmsSeries } from '../api/films.js';
-import { echapper, ilYa, afficherErreur, antiRebond, couleurValide, imageValide, el, gabarit } from '../lib/outils.js';
+import { echapper, ilYa, afficherErreur, antiRebond, couleurValide, imageValide, el, gabarit, attributUrl } from '../lib/outils.js';
 import { afficherNavigation } from '../ui/nav.js';
 import { carteJeuListe, imageReduite } from '../ui/cartes-jeux.js';
 import { ICONES } from '../ui/icones.js';
@@ -194,7 +194,7 @@ function afficherResultats() {
     return `
       <div class="resultat-tmdb">
         <div class="affiche-image" style="--couleur:#1a1a24">
-          ${r.image ? `<img src="${r.image}" alt="" loading="lazy">` : ''}
+          ${r.image ? `<img src="${attributUrl(r.image)}" alt="" loading="lazy">` : ''}
           ${r.note ? `<span class="affiche-note">★ ${String(r.note).replace('.', ',')}</span>` : ''}
         </div>
         <div class="affiche-titre">${echapper(r.titre)}</div>

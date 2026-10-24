@@ -2,7 +2,7 @@
 // Page Animés : calendrier de la semaine, rattrapage, explorer (genres + filtres).
 // =========================================================
 import { explorer, auHasard, rattrapage } from '../api/animes.js';
-import { echapper, titre, note, nettoyerSynopsis, compteARebours, afficherErreur, antiRebond } from '../lib/outils.js';
+import { echapper, titre, note, nettoyerSynopsis, compteARebours, afficherErreur, antiRebond, attributUrl, couleurValide } from '../lib/outils.js';
 import { GENRES_FR, TAGS_FR, STATUTS_FR, FORMATS_FR, GENRES_VEDETTES } from '../lib/traductions.js';
 import { listeSuivis, dernierSorti, enregistrerVus } from '../lib/suivis.js';
 import { rattrapageMasque, masquerRattrapage } from '../lib/preferences.js';
@@ -112,7 +112,7 @@ async function afficherRattrapage() {
 }
 
 function carteRattrapage({ m, dernier, episodes }, index) {
-  const couleur = m.coverImage.color || '#8b9cff';
+  const couleur = couleurValide(m.coverImage.color) || '#8b9cff';
   const premier = episodes[0];
   const plage = episodes.length > 1 ? `Épisodes ${premier} à ${episodes[episodes.length - 1]}` : `Épisode ${premier}`;
   const suite = m.nextAiringEpisode
@@ -120,7 +120,7 @@ function carteRattrapage({ m, dernier, episodes }, index) {
     : `<small>${STATUTS_FR[m.status] || ''}</small>`;
   return `
     <div class="rattrapage-carte nouveau" style="--couleur:${couleur}">
-      <a href="anime.html?id=${m.id}" tabindex="-1" aria-hidden="true"><img src="${m.coverImage.large}" alt="" loading="lazy"></a>
+      <a href="anime.html?id=${Number(m.id)}" tabindex="-1" aria-hidden="true"><img src="${attributUrl(m.coverImage.large)}" alt="" loading="lazy"></a>
       <div class="infos">
         <a href="anime.html?id=${m.id}"><strong>${echapper(titre(m))}</strong></a>
         <span class="compteur">${episodes.length.toLocaleString('fr-FR')} nouveau${episodes.length > 1 ? 'x' : ''}</span>
@@ -311,10 +311,10 @@ function carteProposition(m) {
   const genres = (m.genres || []).slice(0, 3).map((g) => GENRES_FR[g] || g).join(' · ');
   const meta = [m.averageScore && `★ ${note(m.averageScore)}`, FORMATS_FR[m.format], m.seasonYear, m.episodes && `${m.episodes} ép.`].filter(Boolean).join(' · ');
   return `
-    <div class="proposition" style="--couleur:${m.coverImage.color || '#8b9cff'}">
-      <div class="proposition-fond" style="--image:url('${m.bannerImage || m.coverImage.extraLarge}')"></div>
+    <div class="proposition" style="--couleur:${couleurValide(m.coverImage.color) || '#8b9cff'}">
+      <div class="proposition-fond" style="--image:url('${attributUrl(m.bannerImage || m.coverImage.extraLarge)}')"></div>
       <div class="proposition-contenu">
-        <img src="${m.coverImage.extraLarge}" alt="">
+        <img src="${attributUrl(m.coverImage.extraLarge)}" alt="">
         <div>
           <div class="surtitre">Et pourquoi pas…</div>
           <h3>${echapper(titre(m))}</h3>

@@ -2,21 +2,21 @@
 // Fabriques de cartes HTML réutilisées sur plusieurs pages.
 // Chaque fonction reçoit des données et renvoie une chaîne HTML.
 // =========================================================
-import { echapper, titre, note, formatHeure, ilYa } from '../lib/outils.js';
+import { echapper, titre, note, formatHeure, ilYa, attributUrl, couleurValide } from '../lib/outils.js';
 import { FORMATS_FR, GENRES_FR } from '../lib/traductions.js';
 import { ZONES } from '../api/actus.js';
 import { ICONES } from './icones.js';
 
 // Affiche d'animé (carrousels, grilles)
 export function carteAffiche(media, { sous, etiquette = '' } = {}) {
-  const couleur = media.coverImage.color || '#1a1a24';
+  const couleur = couleurValide(media.coverImage.color) || '#1a1a24';
   // "large" (~80 Ko) suffit pour une vignette de ~180 px ; "extraLarge" (~230 Ko) est pour la fiche
   const image = media.coverImage.large || media.coverImage.extraLarge;
   const sousTitre = sous ?? [FORMATS_FR[media.format], media.seasonYear].filter(Boolean).join(' · ');
   return `
-    <a class="affiche" href="anime.html?id=${media.id}" style="--couleur:${couleur}">
+    <a class="affiche" href="anime.html?id=${Number(media.id)}" style="--couleur:${couleur}">
       <div class="affiche-image">
-        <img src="${image}" alt="" loading="lazy">
+        <img src="${attributUrl(image)}" alt="" loading="lazy">
         ${media.averageScore ? `<span class="affiche-note">★ ${note(media.averageScore)}</span>` : ''}
         ${etiquette ? `<span class="affiche-etiquette">${echapper(etiquette)}</span>` : ''}
       </div>
@@ -54,8 +54,8 @@ export function carteEpisode(e, { suivi = false, adn } = {}) {
     ? `<span class="horaire-fr">${horaire(new Date(adn.date) / 1000, `${ICONES.drapeauFR} ADN`)}${badgesLangues(adn.langues)}</span>`
     : '';
   return `
-    <a class="episode ${suivi ? 'suivi' : ''}" href="anime.html?id=${e.media.id}">
-      <img src="${e.media.coverImage.large}" alt="" loading="lazy" style="--couleur:${e.media.coverImage.color || '#1a1a24'}">
+    <a class="episode ${suivi ? 'suivi' : ''}" href="anime.html?id=${Number(e.media.id)}">
+      <img src="${attributUrl(e.media.coverImage.large)}" alt="" loading="lazy" style="--couleur:${couleurValide(e.media.coverImage.color) || '#1a1a24'}">
       <div class="episode-infos">
         <div class="episode-titre">${echapper(titre(e.media))}</div>
         <div class="episode-ep">Épisode ${e.episode}${total}</div>
@@ -79,7 +79,7 @@ export function couleurSource(nom) {
 export function carteArticle(a) {
   const zone = a.zone ? ` · ${ZONES[a.zone]}` : '';
   return `
-    <a class="article" href="${echapper(a.lien)}" target="_blank" rel="noopener noreferrer" style="--c:${couleurSource(a.source)}">
+    <a class="article" href="${attributUrl(a.lien)}" target="_blank" rel="noopener noreferrer" style="--c:${couleurSource(a.source)}">
       <div class="article-source"><b>${echapper(a.source)}</b><span>${ilYa(a.date)}${zone}</span></div>
       <h3>${echapper(a.titre)}</h3>
       ${a.extrait ? `<p>${echapper(a.extrait)}</p>` : ''}
@@ -90,7 +90,7 @@ export function carteArticle(a) {
 // Version compacte d'un article (aperçu sur l'accueil)
 export function ligneArticle(a) {
   return `
-    <a class="article-ligne" href="${echapper(a.lien)}" target="_blank" rel="noopener noreferrer">
+    <a class="article-ligne" href="${attributUrl(a.lien)}" target="_blank" rel="noopener noreferrer">
       <strong>${echapper(a.titre)}</strong>
       <small>${a.tags[0] ? `<span class="tag">${echapper(a.tags[0])}</span>` : ''}${echapper(a.source)} · ${ilYa(a.date)}</small>
     </a>`;

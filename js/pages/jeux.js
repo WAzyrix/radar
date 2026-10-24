@@ -2,7 +2,7 @@
 // Page Jeux vidéo : sorties (à venir / récentes), mes listes, explorer, actus.
 // =========================================================
 import { calendrierSorties, sortiesRecentes, explorerJeux, jeuAuHasard, relaisConfigure } from '../api/jeux.js';
-import { echapper, afficherErreur, antiRebond, premiereMajuscule } from '../lib/outils.js';
+import { echapper, afficherErreur, antiRebond, premiereMajuscule, attributUrl } from '../lib/outils.js';
 import { GENRES_JEUX, THEMES_JEUX, PLATEFORMES } from '../lib/traductions-jeux.js';
 import { listeJeux, STATUTS_JEU, statutJeu } from '../lib/listes-jeux.js';
 import { favoris } from '../lib/notes.js';
@@ -233,14 +233,14 @@ function carteProposition(j) {
   const genres = (j.genres || []).slice(0, 3).map((g) => GENRES_JEUX[g.slug] || g.name).join(' · ');
   return `
     <div class="proposition">
-      <div class="proposition-fond" style="--image:url('${j.background_image || ''}')"></div>
+      <div class="proposition-fond" style="--image:url('${attributUrl(j.background_image)}')"></div>
       <div class="proposition-contenu">
         <div>
           <div class="surtitre">Et pourquoi pas…</div>
           <h3>${echapper(j.name)} ${badgeMetacritic(j.metacritic, { enLigne: true })}</h3>
           <div class="meta"><span>${echapper(dateSortie(j))}</span>${genres ? `<span>${echapper(genres)}</span>` : ''}<span>${echapper(plateformesCourtes(j))}</span></div>
           <div class="actions" style="margin-top:14px">
-            <a class="bouton bouton-plein bouton-petit" href="jeu.html?id=${j.id}">${ICONES.info}Voir la fiche</a>
+            <a class="bouton bouton-plein bouton-petit" href="jeu.html?id=${Number(j.id)}">${ICONES.info}Voir la fiche</a>
             <button type="button" class="bouton bouton-verre bouton-petit" id="reproposer">${ICONES.de}Un autre</button>
           </div>
         </div>

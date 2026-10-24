@@ -7,7 +7,7 @@ import { carteJeu, squelettesJeux } from '../ui/cartes-jeux.js';
 import { sortiesFilms, seriesEnCeMoment } from '../api/films.js';
 import { carteFilm, dateSortieFilm } from '../ui/cartes-films.js';
 import { chargerActus, CATEGORIES } from '../api/actus.js';
-import { echapper, titre, note, nettoyerSynopsis, afficherErreur, couleurValide, imageValide } from '../lib/outils.js';
+import { echapper, titre, note, nettoyerSynopsis, afficherErreur, couleurValide, imageValide, attributUrl } from '../lib/outils.js';
 import { itemValide, lienElement } from '../lib/ma-liste.js';
 import { FORMATS_FR, SAISONS_FR, GENRES_VEDETTES } from '../lib/traductions.js';
 import { listeSuivis } from '../lib/suivis.js';
@@ -54,7 +54,7 @@ function monterHeros(medias) {
     heros.querySelector('.heros-image')?.remove();
     heros.querySelector('.heros-contenu').remove();
     heros.insertAdjacentHTML('afterbegin', `
-      <div class="heros-image" style="--image-large:url('${m.bannerImage}');--image-mobile:url('${m.coverImage.extraLarge}')"></div>
+      <div class="heros-image" style="--image-large:url('${attributUrl(m.bannerImage)}');--image-mobile:url('${attributUrl(m.coverImage.extraLarge)}')"></div>
       <div class="heros-contenu">
         <div class="surtitre">N°${i + 1} des tendances</div>
         <h1>${echapper(titre(m))}</h1>

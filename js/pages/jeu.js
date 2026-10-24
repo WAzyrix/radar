@@ -3,7 +3,7 @@
 // Avis (Metacritic, joueurs, Steam), configuration PC, comment y jouer, captures, série.
 // =========================================================
 import { ficheJeu, jeuAuHasard } from '../api/jeux.js';
-import { echapper, formatDate } from '../lib/outils.js';
+import { echapper, formatDate, attributUrl, lienSur } from '../lib/outils.js';
 import { GENRES_JEUX, NOTES_RAWG, RETRO, couleurMetacritic } from '../lib/traductions-jeux.js';
 import { statutJeu, changerStatut, STATUTS_JEU } from '../lib/listes-jeux.js';
 import { afficherNavigation } from '../ui/nav.js';
@@ -52,7 +52,7 @@ function carteAvis(jeu, steam) {
           ${steamAvis}
         </div>
       </div>
-      ${jeu.metacritic_url ? `<p class="mention"><a class="lien-discret" href="${echapper(jeu.metacritic_url)}" target="_blank" rel="noopener">Critiques presse sur Metacritic</a></p>` : ''}
+      ${jeu.metacritic_url ? `<p class="mention"><a class="lien-discret" href="${attributUrl(jeu.metacritic_url)}" target="_blank" rel="noopener noreferrer">Critiques presse sur Metacritic</a></p>` : ''}
     </div>`;
 }
 
@@ -80,8 +80,8 @@ function formaterLigne(ligne) {
 
 function carteCommentJouer(jeu) {
   const plateformes = (jeu.platforms || []).map((p) => `<span class="pastille">${echapper(p.platform.name)}</span>`).join('');
-  const boutiques = (jeu.stores || []).map((s) => (s.url
-    ? `<a class="pastille" href="${echapper(s.url)}" target="_blank" rel="noopener">${echapper(s.store.name)} ${ICONES.externe}</a>`
+  const boutiques = (jeu.stores || []).map((s) => (lienSur(s.url)
+    ? `<a class="pastille" href="${attributUrl(s.url)}" target="_blank" rel="noopener noreferrer">${echapper(s.store.name)} ${ICONES.externe}</a>`
     : `<span class="pastille">${echapper(s.store.name)}</span>`)).join('');
 
   // Anciennes consoles : solutions officielles + émulateurs
@@ -133,7 +133,7 @@ function afficherFiche({ jeu, captures, serie, steam, configRawg }) {
 
   document.getElementById('fiche').innerHTML = `
     <section class="heros heros-jeu">
-      <div class="heros-image" style="--image-large:url('${jeu.background_image || ''}');--image-mobile:url('${jeu.background_image || ''}')"></div>
+      <div class="heros-image" style="--image-large:url('${attributUrl(jeu.background_image)}');--image-mobile:url('${attributUrl(jeu.background_image)}')"></div>
       <div class="heros-contenu">
         <div class="surtitre">${echapper(genres || 'Jeu vidéo')}</div>
         <h1>${echapper(jeu.name)}</h1>
@@ -143,7 +143,7 @@ function afficherFiche({ jeu, captures, serie, steam, configRawg }) {
         <div class="actions" style="margin-top:10px">
           ${boutonFavori(oeuvre, { petit: true })}
           <button type="button" class="bouton bouton-verre bouton-petit" id="hasard">${ICONES.de}Au hasard</button>
-          ${jeu.website ? `<a class="bouton bouton-verre bouton-petit" href="${echapper(jeu.website)}" target="_blank" rel="noopener">${ICONES.externe}Site officiel</a>` : ''}
+          ${lienSur(jeu.website) ? `<a class="bouton bouton-verre bouton-petit" href="${attributUrl(jeu.website)}" target="_blank" rel="noopener noreferrer">${ICONES.externe}Site officiel</a>` : ''}
           ${boutonRecommander()}
         </div>
       </div>
@@ -179,7 +179,7 @@ function afficherFiche({ jeu, captures, serie, steam, configRawg }) {
     <section class="section">
       <div class="section-tete"><h2>Captures</h2></div>
       <div class="carrousel jeux captures">${captures.map((c) => `
-        <a href="${echapper(c)}" target="_blank" rel="noopener" class="carte-jeu"><div class="carte-jeu-image"><img src="${imageReduite(c)}" alt="" loading="lazy"></div></a>`).join('')}
+        <a href="${attributUrl(c)}" target="_blank" rel="noopener noreferrer" class="carte-jeu"><div class="carte-jeu-image"><img src="${attributUrl(imageReduite(c))}" alt="" loading="lazy"></div></a>`).join('')}
       </div>
     </section>` : ''}
 

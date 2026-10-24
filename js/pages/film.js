@@ -3,7 +3,7 @@
 // Présentation, où le regarder en France, saisons, casting, bande-annonce, recommandations.
 // =========================================================
 import { ficheFilm, filmAuHasard } from '../api/films.js';
-import { echapper, formatDate } from '../lib/outils.js';
+import { echapper, formatDate, attributUrl, lienSur } from '../lib/outils.js';
 import * as maListe from '../lib/ma-liste.js';
 import { STATUTS, statutDe } from '../lib/statuts.js';
 import { afficherNavigation } from '../ui/nav.js';
@@ -74,7 +74,7 @@ function carteRegarder(f) {
     <div class="plateformes">${liste.map((p) => `<span class="pastille plateforme">${p.logo ? `<img src="${echapper(p.logo)}" alt="" loading="lazy">` : ''}${echapper(p.nom)}</span>`).join('')}</div>` : '');
   const contenu = r && (r.abonnement.length || r.gratuit.length || r.location.length || r.achat.length)
     ? `${ligne('Avec un abonnement', r.abonnement)}${ligne('Gratuit', r.gratuit)}${ligne('En location', r.location)}${ligne('À l\'achat', r.achat)}
-       ${r.lien ? `<p class="mention"><a class="lien-discret" href="${echapper(r.lien)}" target="_blank" rel="noopener noreferrer">Liens directs vers les plateformes ${ICONES.externe}</a> · source : JustWatch</p>` : ''}`
+       ${lienSur(r.lien) ? `<p class="mention"><a class="lien-discret" href="${attributUrl(r.lien)}" target="_blank" rel="noopener noreferrer">Liens directs vers les plateformes ${ICONES.externe}</a> · source : JustWatch</p>` : ''}`
     : `<p class="mention" style="margin-top:0">${auCinema
       ? `Au cinéma en France : ${dateSortieFilm(f.dateFrance).toLowerCase()}. Pas encore sur une plateforme de streaming.`
       : 'Disponible sur aucune plateforme de streaming en France pour le moment (selon JustWatch).'}</p>`;

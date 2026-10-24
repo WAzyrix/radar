@@ -9,7 +9,7 @@ import { rechercheFilmsSeries } from '../api/films.js';
 import { lienFilm } from './cartes-films.js';
 import { TYPES } from '../lib/ma-liste.js';
 import { imageReduite } from './cartes-jeux.js';
-import { echapper, titre, antiRebond } from '../lib/outils.js';
+import { echapper, titre, antiRebond, attributUrl, couleurValide } from '../lib/outils.js';
 import { FORMATS_FR } from '../lib/traductions.js';
 import { ICONES } from './icones.js';
 import { synchroniser } from '../lib/ma-liste.js';
@@ -107,19 +107,19 @@ function brancherRecherche() {
     if (champ.value.trim() !== texte) return; // l'utilisateur a continué à taper
 
     const blocAnimes = animes.slice(0, 4).map((m) => `
-      <a href="anime.html?id=${m.id}">
-        <img src="${m.coverImage.medium}" alt="" style="background:${m.coverImage.color || '#1a1a24'}">
+      <a href="anime.html?id=${Number(m.id)}">
+        <img src="${attributUrl(m.coverImage.medium)}" alt="" style="background:${couleurValide(m.coverImage.color) || '#1a1a24'}">
         <div><strong>${echapper(titre(m))}</strong><span>${['Animé', FORMATS_FR[m.format], m.seasonYear].filter(Boolean).join(' · ')}</span></div>
       </a>`).join('');
     const blocJeux = jeux.map((j) => `
-      <a href="jeu.html?id=${j.id}">
-        <img src="${imageReduite(j.background_image)}" alt="" class="miniature-jeu">
+      <a href="jeu.html?id=${Number(j.id)}">
+        <img src="${attributUrl(imageReduite(j.background_image))}" alt="" class="miniature-jeu">
         <div><strong>${echapper(j.name)}</strong><span>${['Jeu', j.released?.slice(0, 4)].filter(Boolean).join(' · ')}</span></div>
       </a>`).join('');
 
     const blocFilms = films.slice(0, 4).map((f) => `
       <a href="${lienFilm(f)}">
-        ${f.image ? `<img src="${echapper(f.image)}" alt="">` : '<img alt="">'}
+        ${f.image ? `<img src="${attributUrl(f.image)}" alt="">` : '<img alt="">'}
         <div><strong>${echapper(f.titre)}</strong><span>${[TYPES[f.type].un, f.date?.slice(0, 4)].filter(Boolean).join(' · ')}</span></div>
       </a>`).join('');
 
