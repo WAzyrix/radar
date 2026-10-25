@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-25T05:22:18+00:00",
+ "maj": "2026-10-25T06:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,38 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "0513146453dc",
+   "titre": "Man's murder, wife's death feed into local legend of \"cursed\" mansion",
+   "lien": "https://www.cbsnews.com/news/mike-harding-murder-julie-harding-tennessee-dale-hollow-lake-cursed-mansion-48-hours/",
+   "source": "CBS News",
+   "date": "2026-10-25T06:05:10+00:00",
+   "extrait": "When Mike Harding, a California transplant, spotted a majestic mansion in Celina, Tennessee, he thought he'd found the dream retirement home for himself and his wife, Julie. But those dreams ended…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "59f327c3f235",
+   "titre": "Présidentielle au Brésil : Lula ou Bolsonaro, un choix décisif pour l'avenir du pays",
+   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261025-presidentielle-bresil-lula-flavio-bolsonaro-choix-decisif-avenir-pays-election-vote",
+   "source": "France 24",
+   "date": "2026-10-25T06:04:55+00:00",
+   "extrait": "Quelque 160 millions d'électeurs sont appelés aux urnes dimanche au Brésil pour départager le président de gauche Lula et le sénateur Flavio Bolsonaro, fils de l'ancien chef d'État d'extrême droite…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "2e11dc6a7ea9",
+   "titre": "The Mansion Above Dale Hollow Lake",
+   "lien": "https://www.cbsnews.com/video/102426-the-mansion-above-dale-hollow-lake/",
+   "source": "CBS News",
+   "date": "2026-10-25T06:00:00+00:00",
+   "extrait": "After a man is murdered and his wife is found dead, it feeds into a local legend of a \"cursed\" house. \"48 Hours\" correspondent Peter Van Sant reports.",
+   "tags": [],
+   "zone": "usa"
+  },
   {
    "id": "7863be09896a",
    "titre": "At least 12 injured, including 6 children, in Tallahassee shooting",
@@ -44,12 +76,32 @@
    "zone": "usa"
   },
   {
+   "id": "3dd76f72b74c",
+   "titre": "What the Cameras Saw",
+   "lien": "https://www.cbsnews.com/video/102426-what-the-cameras-saw/",
+   "source": "CBS News",
+   "date": "2026-10-25T05:00:00+00:00",
+   "extrait": "Multiple surveillance cameras capture the final moments of what happened before a mysterious figure ends a woman's life. \"48 Hours\" correspondent Anne-Marie Green reports.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
    "id": "5ed2d9ef80a4",
    "titre": "En Tanzanie, l’opposant Tundu Lissu menace d’entamer une grève de la faim pour protester contre ses conditions de détention",
    "lien": "https://www.lemonde.fr/afrique/article/2026/10/25/en-tanzanie-l-opposant-tundu-lissu-menace-d-entamer-une-greve-de-la-faim-pour-protester-contre-ses-conditions-de-detention_6800042_3212.html",
    "source": "Le Monde",
    "date": "2026-10-25T04:36:08+00:00",
    "extrait": "L’homme politique de 58 ans, incarcéré depuis un an et demi pour avoir exigé une réforme du système électoral, était retourné dans son pays en 2023 après plusieurs années d’exil. Il risque la peine…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "0a9179a8130f",
+   "titre": "« Personne n’avait imaginé qu’on manque d’eau à ce point » : à Pontarlier, la population invitée à la sobriété sous peine de coupures",
+   "lien": "https://www.lemonde.fr/planete/article/2026/10/25/personne-n-avait-imagine-qu-on-manque-d-eau-a-ce-point-a-pontarlier-la-population-invitee-a-la-sobriete-sous-peine-de-coupures_6800035_3244.html",
+   "source": "Le Monde",
+   "date": "2026-10-25T04:30:23+00:00",
+   "extrait": "La capitale du Haut-Doubs, 18 000 habitants, fait face à des difficultés d’approvisionnement « inédites », qui contraignent les autorités à envisager le scénario catastrophe d’une coupure…",
    "tags": [],
    "zone": "france"
   },
@@ -153,16 +205,6 @@
    "source": "CBS News",
    "date": "2026-10-25T03:25:15+00:00",
    "extrait": "\"48 Hours\" uncovers the narrative behind true crime cases with unmatched reporting and suspense.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "0513146453dc",
-   "titre": "Man's murder, wife's death feed into local legend of \"cursed\" mansion",
-   "lien": "https://www.cbsnews.com/news/mike-harding-murder-julie-harding-tennessee-dale-hollow-lake-cursed-mansion-48-hours/",
-   "source": "CBS News",
-   "date": "2026-10-25T03:01:16+00:00",
-   "extrait": "When Mike Harding, a California transplant, spotted a majestic mansion in Celina, Tennessee, he thought he'd found the dream retirement home for himself and his wife, Julie. But those dreams ended…",
    "tags": [],
    "zone": "usa"
   },
@@ -3416,54 +3458,6 @@
     "Conflits"
    ],
    "zone": "france"
-  },
-  {
-   "id": "12660d8e1a47",
-   "titre": "Who actually controls Ukraine's access to Starlink?",
-   "lien": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-23T22:24:36+00:00",
-   "extrait": "President Zelensky says limits to the technology continue to affect Ukrainian forces, while US officials and Elon Musk offer conflicting accounts of who controls it.",
-   "tags": [
-    "Politique",
-    "Conflits",
-    "Tech"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "3972c2917a44",
-   "titre": "Kushner denies upcoming book claim that he received billions in slush funds",
-   "lien": "https://www.cbsnews.com/video/kushner-denies-upcoming-book-claim-billions-slush-funds/",
-   "source": "CBS News",
-   "date": "2026-10-23T22:24:00+00:00",
-   "extrait": "U.S. special envoy Jared Kushner is denying allegations in an upcoming book by journalist Matthew Cole that he received more than $2 billion in slush funds from Middle East leaders. CBS News…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "c3643ea89e4d",
-   "titre": "Top Ukrainian diplomat says SpaceX satellite access is still restricted",
-   "lien": "https://www.cbsnews.com/video/top-ukrainian-diplomat-spacex-satellite-access-still-restricted/",
-   "source": "CBS News",
-   "date": "2026-10-23T22:23:00+00:00",
-   "extrait": "Ukrainian officials say their access to the SpaceX satellite service remains restricted, despite President Trump's claim that Elon Musk has fully restored access. Denys Sienik, Chargé d'Affaires at…",
-   "tags": [
-    "Politique",
-    "Conflits",
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "5debef09db4e",
-   "titre": "Sen. Thom Tillis, Attorney General Todd Blanche and Gina Hinojosa set to appear on \"Face the Nation\"",
-   "lien": "https://www.cbsnews.com/video/thom-tillis-todd-blanche-gina-hinojosa-to-appear-face-the-nation/",
-   "source": "CBS News",
-   "date": "2026-10-23T22:16:44+00:00",
-   "extrait": "Sunday's \"Face the Nation\" is set to feature Republican Sen. Thom Tillis of North Carolina, Attorney General Todd Blanche and Texas Democratic gubernatorial nominee Gina Hinojosa. CBS News chief…",
-   "tags": [],
-   "zone": "usa"
   }
  ]
 }
