@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-25T10:05:40+00:00",
+ "maj": "2026-10-25T11:05:37+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -19,8 +19,153 @@
   "Tech",
   "Sport"
  ],
- "erreurs": [],
+ "erreurs": [
+  "France 24"
+ ],
  "articles": [
+  {
+   "id": "0ae1205c3095",
+   "titre": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
+   "lien": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-25T11:00:26+00:00",
+   "extrait": "Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "93555b4ccc3c",
+   "titre": "« Les câbles sous-marins sont utilisés par la Russie ou la Chine pour affaiblir leurs ennemis et par les géants numériques pour asseoir leur domination »",
+   "lien": "https://www.lemonde.fr/idees/article/2026/10/25/les-cables-sous-marins-sont-utilises-par-la-russie-ou-la-chine-pour-affaiblir-leurs-ennemis-et-par-les-geants-numeriques-pour-asseoir-leur-domination_6800072_3232.html",
+   "source": "Le Monde",
+   "date": "2026-10-25T11:00:17+00:00",
+   "extrait": "Autrice de « La Guerre silencieuse. Enquête sur les câbles sous-marins », Marie Baléo raconte, dans un entretien au « Monde », comment ces structures sont devenues un enjeu géopolitique majeur, et…",
+   "tags": [
+    "Conflits",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "25335716e6eb",
+   "titre": "Quels sont les enjeux des élections législatives en Israël ? Comprendre en trois minutes",
+   "lien": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/10/25/quels-sont-les-enjeux-des-elections-legislatives-en-israel-comprendre-en-trois-minutes_6800070_6176282.html",
+   "source": "Le Monde",
+   "date": "2026-10-25T11:00:12+00:00",
+   "extrait": "Le 27 octobre se tiendront les élections législatives israéliennes, qui doivent déterminer le futur gouvernement et, donc, le premier ministre. Cette première campagne depuis le 7 octobre 2023 s’est…",
+   "tags": [
+    "Politique",
+    "Conflits",
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "f5e114da160a",
+   "titre": "El Salvador president says bodies found in Haiti are not those of hostages",
+   "lien": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-25T10:55:33+00:00",
+   "extrait": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "962c06ac31e4",
+   "titre": "Il tue sa sœur et tente de s'en prendre à sa mère : meurtre dans ce quartier de Dijon, le suspect actuellement en fuite",
+   "lien": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/il-tue-sa-s-ur-et-tente-de-s-en-prendre-a-sa-mere-meurtre-dans-ce-quartier-de-dijon-le-suspect-en-fuite-3438837.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-25T10:46:42+00:00",
+   "extrait": "Une femme de 21 ans a été tuée par son frère dans la nuit du samedi 24 au 25 octobre 2026 dans le quartier Montmuzard à Dijon (Côte-d'Or). Le suspect à également tenter de tuer sa mère retrouvée…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "50f6f2e9122c",
+   "titre": "La garde à vue du suspect de l'attentat raciste à Trappes \"suspendue\" le temps \"d'une période d'observation psychiatrique susceptible de durer 48 heures\", annonce le parquet antiterroriste",
+   "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/la-garde-a-vue-du-suspect-de-l-attentat-raciste-a-trappes-suspendue-le-temps-d-une-periode-d-observation-psychiatrique-susceptible-de-durer-48-heures-annonce-le-parquet-antiterroriste_8252896.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-25T10:42:56+00:00",
+   "extrait": "Le Pnat précise par ailleurs que l'analyse toxicologique \"a permis de révéler la présence de cannabis et de cocaïne dans son sang\". Les gardes à vue des membres de l'entourage familial et amical de…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "0a5bd0ce690d",
+   "titre": "More than 1,300 arrested as clashes follow another day of mass protests across France",
+   "lien": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-25T10:38:15+00:00",
+   "extrait": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "c24919f3917e",
+   "titre": "EN DIRECT, guerre en Ukraine : deux morts dans une attaque de la ville russe de Belgorod par des drones, deux autres personnes tuées dans des villages de cet oblast",
+   "lien": "https://www.lemonde.fr/international/live/2026/10/25/en-direct-guerre-en-ukraine-deux-morts-dans-une-attaque-de-la-ville-russe-de-belgorod-par-des-drones-deux-autres-personnes-tuees-dans-des-villages-de-cet-oblast_6799896_3210.html",
+   "source": "Le Monde",
+   "date": "2026-10-25T10:32:51+00:00",
+   "extrait": "Plus de 500 drones ukrainiens ont été interceptés entre 20 heures et 8 heures (heure de Moscou) en Russie, en Crimée et en mer d’Azov, a annoncé le ministère de la défense, dimanche matin.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "ac767ea30703",
+   "titre": "More than 1,000 arrested in France as protesters and police clash",
+   "lien": "https://www.cbsnews.com/news/paris-france-new-protests-riots-museums-shops/",
+   "source": "CBS News",
+   "date": "2026-10-25T10:31:54+00:00",
+   "extrait": "While demonstrations throughout France were largely peaceful, police reported clashes with protesters Saturday evening.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "dd981066d6d3",
+   "titre": "Une mobilisation importante mais en légère baisse, plusieurs blessés graves, près de 1 300 interpellations… Ce qu'il faut retenir de ce samedi de manifestation",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/mobilisation-en-baisse-pres-de-1-000-interpellations-deux-blesses-graves-ce-qu-il-faut-retenir-de-cette-nouvelle-journee-de-manifestation-contre-la-vie-chere-partout-en-france_8252476.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-25T10:28:07+00:00",
+   "extrait": "Une semaine après des manifestations émaillées de violences, plusieurs centaines de milliers de personnes ont de nouveau manifesté sur le territoire. \"Les cortèges se sont bien déroulés\", a assuré…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "07e0fe461e84",
+   "titre": "L'Arabie saoudite dit avoir intercepté dix missiles lancés par les houthis vers le sud du pays",
+   "lien": "https://www.franceinfo.fr/monde/proche-orient/tensions-entre-l-arabie-saoudite-et-l-iran/l-arabie-saoudite-dit-avoir-intercepte-dix-missiles-lances-par-les-houthis-vers-le-sud-du-pays_8252926.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-25T10:24:28+00:00",
+   "extrait": "L'ampleur des attaques visant Riyad ces dernières semaines est inédite depuis le début de la guerre en 2014 opposant les houthis aux forces gouvernementales.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "7863be09896a",
+   "titre": "At least 12 injured, including 6 children, in shooting near Florida A&M",
+   "lien": "https://www.cbsnews.com/news/tallahassee-florida-shooting-a-m-university/",
+   "source": "CBS News",
+   "date": "2026-10-25T10:21:28+00:00",
+   "extrait": "Police say a fight broke out prior to the shooting.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
   {
    "id": "45d43d79f7ec",
    "titre": "Midterms : Trump va-t-il \"tricher à tout va\" ? Neuf scénarios possibles",
@@ -84,48 +229,16 @@
    "zone": "usa"
   },
   {
-   "id": "962c06ac31e4",
-   "titre": "Il tue sa sœur et tente de s'en prendre à sa mère : meurtre dans ce quartier de Dijon, le suspect actuellement en fuite",
-   "lien": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/il-tue-sa-s-ur-et-tente-de-s-en-prendre-a-sa-mere-meurtre-dans-ce-quartier-de-dijon-le-suspect-en-fuite-3438837.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-25T09:36:57+00:00",
-   "extrait": "Une femme de 21 ans a été tuée par son frère dans la nuit du samedi 24 au 25 octobre 2026 dans le quartier Montmuzard à Dijon (Côte-d'Or). Le suspect à également tenter de tuer sa mère retrouvée…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "50f6f2e9122c",
-   "titre": "La garde à vue du suspect de l'attentat raciste à Trappes \"suspendue\" le temps \"d'une période d'observation psychiatrique susceptible de durer 48 heures\", annonce le parquet antiterroriste",
-   "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/la-garde-a-vue-du-suspect-de-l-attentat-raciste-a-trappes-suspendue-le-temps-d-une-periode-d-observation-psychiatrique-susceptible-de-durer-48-heures-annonce-le-parquet-antiterroriste_8252896.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-25T09:36:19+00:00",
-   "extrait": "Le Pnat précise par ailleurs que l'analyse toxicologique \"a permis de révéler la présence de cannabis et de cocaïne dans son sang\". Les gardes à vue des membres de l'entourage familial et amical de…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
    "id": "4fe4c9b76832",
    "titre": "Attentat raciste de Trappes : le suspect transféré en soins psychiatriques ; son analyse de sang a révélé la présence de cannabis et de cocaïne",
    "lien": "https://www.lemonde.fr/societe/article/2026/10/25/attentat-raciste-de-trappes-le-suspect-transfere-en-soins-psychiatriques-l-analyse-toxicologique-a-revele-la-presence-de-cannabis-et-de-cocaine-dans-son-sang_6800064_3224.html",
    "source": "Le Monde",
    "date": "2026-10-25T09:34:44+00:00",
-   "extrait": "Une observation en soins psychiatriques, qui suspend la mesure de garde à vue et peut durer 48 heures, « doit permettre d’apprécier si son état de santé psychiatrique est compatible avec la…",
+   "extrait": "Une observation en soins psychiatriques, qui suspend la mesure de garde à vue et peut durer quarante-huit heures, « doit permettre d’apprécier si son état de santé psychiatrique est compatible avec…",
    "tags": [
     "Santé"
    ],
    "zone": "france"
-  },
-  {
-   "id": "0a5bd0ce690d",
-   "titre": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-   "lien": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-25T09:32:59+00:00",
-   "extrait": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
   },
   {
    "id": "720629e12f1b",
@@ -330,18 +443,6 @@
     "Tech"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "dd981066d6d3",
-   "titre": "Une mobilisation importante mais en légère baisse, au moins trois blessés graves, près de 1 000 interpellations… Ce qu'il faut retenir de ce samedi de manifestation",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/mobilisation-en-baisse-pres-de-1-000-interpellations-deux-blesses-graves-ce-qu-il-faut-retenir-de-cette-nouvelle-journee-de-manifestation-contre-la-vie-chere-partout-en-france_8252476.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-25T08:29:00+00:00",
-   "extrait": "Une semaine après des manifestations émaillées de violences, plusieurs centaines de milliers de personnes ont de nouveau manifesté sur le territoire. \"Les cortèges se sont bien déroulés\", a assuré…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
   },
   {
    "id": "a93068bcd020",
@@ -637,18 +738,6 @@
     "Politique"
    ],
    "zone": "france"
-  },
-  {
-   "id": "7863be09896a",
-   "titre": "At least 12 injured, including 6 children, in Tallahassee shooting",
-   "lien": "https://www.cbsnews.com/news/tallahassee-florida-shooting-a-m-university/",
-   "source": "CBS News",
-   "date": "2026-10-25T05:16:00+00:00",
-   "extrait": "Police say a fight broke out prior to the shooting.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
   },
   {
    "id": "267b41a8194c",
@@ -965,18 +1054,6 @@
    "zone": "usa"
   },
   {
-   "id": "ac767ea30703",
-   "titre": "More than 1,000 arrested in France as protesters and police clash",
-   "lien": "https://www.cbsnews.com/news/paris-france-new-protests-riots-museums-shops/",
-   "source": "CBS News",
-   "date": "2026-10-25T01:23:30+00:00",
-   "extrait": "While demonstrations throughout France were largely peaceful, police reported clashes with protesters Saturday evening.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "da3c18f6f505",
    "titre": "1 arrested after fire at Hitler's Eagle's Nest mountain retreat",
    "lien": "https://www.cbsnews.com/news/hitler-eagles-nest-mountain-retreat-fire-nazi/",
@@ -1106,18 +1183,6 @@
     "Politique"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "0ae1205c3095",
-   "titre": "Voters in Brazil to choose between Lula and Bolsonaro's son",
-   "lien": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-24T23:50:02+00:00",
-   "extrait": "Flávio Bolsonaro, the son of Brazil's imprisoned former president, is presenting a strong challenge to Lula, 80, who is seeking a fourth term in office.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
   },
   {
    "id": "89d7ce8ed198",
@@ -3403,68 +3468,6 @@
    "extrait": "Pour sécuriser le congrès du RN, samedi à Orléans, le ministère de l'Intérieur a déployé les grands moyens en vue de la venue de dizaines de milliers de manifestants anti-RN, qui se sont invités…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "7279fa4d603c",
-   "titre": "\"Défendre les commerçants\" : derrière les appels à la mobilisation de l'ultradroite le 24 octobre, la menace de violences",
-   "lien": "https://www.franceinfo.fr/economie/greve/enquete-defendre-les-commercants-derriere-les-appels-a-la-mobilisation-de-l-ultradroite-le-24-octobre-la-menace-de-violences_8251288.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-24T05:18:27+00:00",
-   "extrait": "Les militants identitaires semblent se mobiliser pour faire face à l'ultragauche. De nombreux appels à rejoindre le mouvement ont circulé sur les réseaux sociaux ces derniers jours et certains…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "d7f3a9775fc1",
-   "titre": "How Brazil's changing working class is reshaping the presidential race",
-   "lien": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-24T05:05:44+00:00",
-   "extrait": "Calls for change present a challenge to President Lula in the second round of the election on Sunday.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "87581ded0213",
-   "titre": "Présidentielle au Brésil : un entre-deux-tours aux allures de thriller psychologique",
-   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261024-pr%C3%A9sidentielle-br%C3%A9sil-entre-deux-tours-allures-thriller-psychologique",
-   "source": "France 24",
-   "date": "2026-10-24T05:05:21+00:00",
-   "extrait": "Les campagnes de Lula et de son rival Flavio Bolsonaro s’achèvent dans un climat extrêmement tendu. Selon les derniers sondages, les deux finalistes de l'élection présidentielle sont au…",
-   "tags": [
-    "Politique",
-    "Climat"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "5b5f9ac15119",
-   "titre": "EN DIRECT, guerre en Ukraine : Kiev dit avoir de nouveau une « connexion stable » du système Starlink, crucial pour son armée",
-   "lien": "https://www.lemonde.fr/international/live/2026/10/24/en-direct-guerre-en-ukraine-des-negociations-directes-avec-la-russie-sous-mediation-americaine-prevues-pour-novembre-confirme-volodymyr-zelensky_6796922_3210.html",
-   "source": "Le Monde",
-   "date": "2026-10-24T05:04:43+00:00",
-   "extrait": "« Nous enregistrons des vitesses supérieures à 400 km/h et la connexion [au système Starlink de SpaceX] est stable », s’est félicité le ministre de la défense ukrainien, samedi matin, après…",
-   "tags": [
-    "Politique",
-    "Conflits",
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "6467e4644dc1",
-   "titre": "The rise of AI election ads in US midterms campaign",
-   "lien": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-24T05:03:44+00:00",
-   "extrait": "BBC Verify has tracked dozens of AI ads to assess how they are being used by campaigns in the midterms.",
-   "tags": [
-    "Politique",
-    "Tech"
-   ],
-   "zone": "monde"
   }
  ]
 }
