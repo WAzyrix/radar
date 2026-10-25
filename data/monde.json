@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-25T04:05:37+00:00",
+ "maj": "2026-10-25T05:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,50 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "1ed8a44bd7d5",
+   "titre": "Security cameras upend man's story of finding wife fatally shot in his car",
+   "lien": "https://www.cbsnews.com/news/savannah-tolbert-david-tolbert-huntsville-alabama-shooting-death-security-cameras-48-hours/",
+   "source": "CBS News",
+   "date": "2026-10-25T05:05:07+00:00",
+   "extrait": "David Tolbert told investigators when he opened his car door outside a store where he was working in Huntsville, Alabama, he discovered his wife Savannah Tolbert's lifeless body in the front…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "5ed2d9ef80a4",
+   "titre": "En Tanzanie, l’opposant Tundu Lissu menace d’entamer une grève de la faim pour protester contre ses conditions de détention",
+   "lien": "https://www.lemonde.fr/afrique/article/2026/10/25/en-tanzanie-l-opposant-tundu-lissu-menace-d-entamer-une-greve-de-la-faim-pour-protester-contre-ses-conditions-de-detention_6800042_3212.html",
+   "source": "Le Monde",
+   "date": "2026-10-25T04:36:08+00:00",
+   "extrait": "L’homme politique de 58 ans, incarcéré depuis un an et demi pour avoir exigé une réforme du système électoral, était retourné dans son pays en 2023 après plusieurs années d’exil. Il risque la peine…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "90023d6faf33",
+   "titre": "A Gaza, au Liban et en Syrie, comment Israël utilise les « zones tampons » pour étendre sa domination régionale",
+   "lien": "https://www.lemonde.fr/international/article/2026/10/25/a-gaza-au-liban-et-en-syrie-comment-israel-utilise-les-zones-tampons-pour-etendre-sa-domination-regionale_6800032_3210.html",
+   "source": "Le Monde",
+   "date": "2026-10-25T04:30:15+00:00",
+   "extrait": "Depuis le « cessez-le-feu » d’octobre 2025, l’Etal hébreu présente les territoires qu’il occupe sur ces trois fronts comme des ceintures de sécurité, destinées à protéger ses frontières. Dans ces…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "0a5bd0ce690d",
+   "titre": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+   "lien": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-25T04:16:52+00:00",
+   "extrait": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
   {
    "id": "10222caa95cf",
    "titre": "Drought, fire and high diesel prices 'addin' up tough' for Oregon ranchers",
@@ -107,16 +151,6 @@
    "source": "CBS News",
    "date": "2026-10-25T03:01:16+00:00",
    "extrait": "When Mike Harding, a California transplant, spotted a majestic mansion in Celina, Tennessee, he thought he'd found the dream retirement home for himself and his wife, Julie. But those dreams ended…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "1ed8a44bd7d5",
-   "titre": "Security cameras upend man's story of finding wife fatally shot in his car",
-   "lien": "https://www.cbsnews.com/news/savannah-tolbert-david-tolbert-huntsville-alabama-shooting-death-security-cameras-48-hours/",
-   "source": "CBS News",
-   "date": "2026-10-25T01:58:00+00:00",
-   "extrait": "David Tolbert told investigators when he opened his car door outside a store where he was working in Huntsville, Alabama, he discovered his wife Savannah Tolbert's lifeless body in the front…",
    "tags": [],
    "zone": "usa"
   },
@@ -528,18 +562,6 @@
    "zone": "usa"
   },
   {
-   "id": "0a5bd0ce690d",
-   "titre": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-   "lien": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-24T21:09:27+00:00",
-   "extrait": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
    "id": "d4e61ba45746",
    "titre": "EN DIRECT, manifestations du 24 octobre : entre 410 000 et 800 000 manifestants, cortèges sous haute surveillance, tensions en fin de journée… Revivez la journée de mobilisation",
    "lien": "https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-entre-410-000-et-800-000-manifestants-corteges-sous-haute-surveillance-tensions-en-fin-de-journee-revivez-la-journee-de-mobilisation_6799445_3224.html",
@@ -677,7 +699,7 @@
    "lien": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-10-24T19:37:35+00:00",
-   "extrait": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+   "extrait": "The BBC's Europe correspondent reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
    "tags": [
     "Justice"
    ],
@@ -3440,31 +3462,6 @@
    "extrait": "At President Trump's direction, the Justice Department sued Friday to block the certification of the Alaska Senate race if Republican incumbent Sen. Dan Sullivan loses, citing the presence of…",
    "tags": [
     "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "f5242249664a",
-   "titre": "Trump lifts tariffs on some Canadian goods in boon to Sen. Susan Collins",
-   "lien": "https://www.cbsnews.com/news/trump-tariffs-some-canadian-goods-susan-collins-maine/",
-   "source": "CBS News",
-   "date": "2026-10-23T21:55:53+00:00",
-   "extrait": "President Trump on Friday slashed tariffs on a handful of Canadian products that are used widely by Maine's agricultural industry, a move cheered by GOP Sen. Susan Collins, who is facing a tough…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "ddd0764bf17d",
-   "titre": "How Elon Musk's Starlink and Starshield are shaping the war in Ukraine",
-   "lien": "https://www.cbsnews.com/video/starlink-starshield-explained-ukraine-russia-war/",
-   "source": "CBS News",
-   "date": "2026-10-23T21:50:00+00:00",
-   "extrait": "Elon Musk's Starlink and Starshield satellite networks play different roles in Ukraine's fight against Russia. Here's how the two systems work, how they're used on the battlefield and why Ukraine's…",
-   "tags": [
-    "Conflits",
-    "Tech"
    ],
    "zone": "usa"
   }
