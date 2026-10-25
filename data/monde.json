@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-25T14:05:39+00:00",
+ "maj": "2026-10-25T15:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -19,8 +19,291 @@
   "Tech",
   "Sport"
  ],
- "erreurs": [],
+ "erreurs": [
+  "France 24"
+ ],
  "articles": [
+  {
+   "id": "dc03b62c5b01",
+   "titre": "What makes a good spine-tingler? Stephen Graham Jones says it's all in the ending",
+   "lien": "https://www.npr.org/2026/10/25/nx-s1-6007348/what-makes-a-good-spine-tingler-stephen-graham-jones-says-its-all-in-the-ending",
+   "source": "NPR",
+   "date": "2026-10-25T15:03:17+00:00",
+   "extrait": "Horror writer Stephen Graham Jones says horror's current moment is powered by more than just fear.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "8d7a9b3fd813",
+   "titre": "Après l’attentat raciste de Trappes, le maire Ali Rabeh : « Le président de la République n’a pas été le protecteur qu’il aurait dû être »",
+   "lien": "https://www.lemonde.fr/politique/article/2026/10/25/apres-l-attentat-raciste-de-trappes-le-maire-ali-rabeh-le-president-de-la-republique-n-a-pas-ete-le-protecteur-qu-il-aurait-du-etre_6800093_823448.html",
+   "source": "Le Monde",
+   "date": "2026-10-25T15:02:55+00:00",
+   "extrait": "Dans un entretien au « Monde », Ali Rabeh (Génération.s), 41 ans, réélu en mars, déplore notamment que les discours d’extrême droite aient « fini par pénétrer l’inconscient collectif » et estime…",
+   "tags": [
+    "Politique",
+    "Conflits",
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "69654b697a50",
+   "titre": "Congrès du RN à Orléans : une centaine de militants antifascistes se sont rassemblés en dépit des interdictions",
+   "lien": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-a-orleans-une-centaine-de-militants-antifascistes-se-sont-rassembles-en-depit-des-interdictions_8253235.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-25T14:56:49+00:00",
+   "extrait": "Marine Le Pen doit prononcer dans la ville du Loiret son premier grand discours de campagne.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "f38299951f9b",
+   "titre": "Christo Popov remporte les Internationaux de France de badminton et devient numéro 1 mondial",
+   "lien": "https://www.lemonde.fr/sport/article/2026/10/25/christo-popov-remporte-les-internationaux-de-france-de-badminton-et-devient-numero-1-mondial_6800092_3242.html",
+   "source": "Le Monde",
+   "date": "2026-10-25T14:56:26+00:00",
+   "extrait": "Vainqueur dimanche de l’Indonésien Mohammad Zaki Ubaidillah en trois sets (21-11, 14-21, 21-13), le Français de 24 ans entre dans l’histoire en devenant le premier badiste tricolore numéro un…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "24640d9d29a9",
+   "titre": "Manifestation à Clermont-Ferrand : le parquet ouvre une enquête après la blessure d’un manifestant, l'hypothèse d'une grenade lancée par la police évoquée",
+   "lien": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/manifestation-a-clermont-ferrand-le-parquet-ouvre-une-enquete-apres-la-blessure-d-un-manifestant-l-hypothese-d-une-grenade-evoquee-3438954.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-25T14:55:57+00:00",
+   "extrait": "Une personne a été grièvement blessée à la main, samedi 24 octobre, lors de la mobilisation à Clermont-Ferrand. Le parquet a ouvert ce dimanche une enquête pour en rechercher les causes et indique…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "a19a84b2686b",
+   "titre": "\"Notre fille n'a pas souffert\" : le père de Cléa, 17 ans, se confie après la mort de la jeune joueuse de rugby",
+   "lien": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/notre-fille-n-a-pas-souffert-le-pere-de-clea-17-ans-se-confie-apres-la-mort-de-la-jeune-joueuse-de-rugby_8253094.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-25T14:45:23+00:00",
+   "extrait": "Cléa, 17 ans, était une jeune joueuse de rugby. Elle est morte en pratiquant sa passion lors d’un match survenu le 17 octobre à Marmande, dans le Lot-et-Garonne. Le monde du rugby est en deuil, et…",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "1a498accadb6",
+   "titre": "Gabon says access to social media restored after eight-month ban",
+   "lien": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-25T14:39:47+00:00",
+   "extrait": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "a7d02e8d70ea",
+   "titre": "Poll finds Democrats still boosted by voters' economic concerns",
+   "lien": "https://www.cbsnews.com/news/poll-house-estimate-midterm-elections-2026/",
+   "source": "CBS News",
+   "date": "2026-10-25T14:38:01+00:00",
+   "extrait": "President Trump is a key factor driving support and opposition; turnout looms large",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "574852269ae4",
+   "titre": "Iran says potential new U.S. strikes won't change Tehran's position",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/",
+   "source": "CBS News",
+   "date": "2026-10-25T14:36:02+00:00",
+   "extrait": "The U.S. ambassador to the U.N. says the war with Iran could last another year, but he hopes Tehran will \"come to the table\" sooner.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "c85cd878b1f9",
+   "titre": "Russia to host first Olympic federation world event since Ukraine invasion",
+   "lien": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-25T14:34:33+00:00",
+   "extrait": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its invasion of Ukraine.",
+   "tags": [
+    "Conflits",
+    "Sport"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "67783c9d93d4",
+   "titre": "Nature: Spiders in Florida",
+   "lien": "https://www.cbsnews.com/video/nature-spiders-in-florida/",
+   "source": "CBS News",
+   "date": "2026-10-25T14:30:13+00:00",
+   "extrait": "We leave you this Sunday morning with some Golden Orb Weavers at Long Key Natural Area and Nature Center in Davie, Fla. Videographer: Charles Schultz.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "0e785f4e6966",
+   "titre": "This week on \"Sunday Morning\" (Oct. 25)",
+   "lien": "https://www.cbsnews.com/news/this-week-on-sunday-morning-oct-25-2026/",
+   "source": "CBS News",
+   "date": "2026-10-25T14:28:48+00:00",
+   "extrait": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "5f2e0461f172",
+   "titre": "David Sedaris would like to clear the air about prostate exams",
+   "lien": "https://www.cbsnews.com/news/david-sedaris-would-like-to-clear-the-air-about-prostate-exams/",
+   "source": "CBS News",
+   "date": "2026-10-25T14:27:00+00:00",
+   "extrait": "After a friend divulged perhaps too much information, humorist David Sedaris considers the ramifications of over-sharing – and wrong assumptions.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "a96a59fa2a47",
+   "titre": "David Sedaris would like to clear the air about prostate exams",
+   "lien": "https://www.cbsnews.com/video/david-sedaris-would-like-to-clear-the-air-about-prostate-exams/",
+   "source": "CBS News",
+   "date": "2026-10-25T14:26:11+00:00",
+   "extrait": "After a friend divulged perhaps too much information, humorist David Sedaris considers the ramifications of over-sharing – and wrong assumptions.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "cabb1d574702",
+   "titre": "Un bus de militants en partance pour le congrès du RN à Orléans pris pour cible à Grenoble",
+   "lien": "https://www.franceinfo.fr/faits-divers/un-bus-de-militants-en-partance-pour-le-congres-du-rn-a-orleans-pris-pour-cible-a-grenoble_8253211.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-25T14:24:51+00:00",
+   "extrait": "Selon le parquet de Grenoble, qui a ouvert une enquête, une dizaine d'individus \"cagoulés et armés de barres de fer\" ont brisé les vitres du véhicule.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "d9f30bf03c7c",
+   "titre": "En Albanie, le premier ministre veut durcir la gestion des foules après de violentes manifestations",
+   "lien": "https://www.lemonde.fr/international/article/2026/10/25/en-albanie-le-premier-ministre-veut-durcir-la-gestion-des-foules-apres-de-violentes-manifestations_6800089_3210.html",
+   "source": "Le Monde",
+   "date": "2026-10-25T14:23:40+00:00",
+   "extrait": "« Quiconque choisit de rester dans une foule » commettant des violences et pillages au sein de l’espace public ou « dissimulant son identité » devra payer une amende de plus de 500 euros, dispose le…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "7f48dee5ceae",
+   "titre": "How punk rock and MTV inspired opera composer Missy Mazzoli",
+   "lien": "https://www.cbsnews.com/news/opera-composer-missy-mazzoli-lincoln-in-the-bardo/",
+   "source": "CBS News",
+   "date": "2026-10-25T14:22:07+00:00",
+   "extrait": "\"Lincoln in the Bardo,\" based on George Saunders' novel, is the first opera composed by a woman to premiere at the Metropolitan Opera. Missy Mazzoli talks about its creation, and the influence that…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "50e35f754cdf",
+   "titre": "\"Lincoln in the Bardo\" composer Missy Mazzoli",
+   "lien": "https://www.cbsnews.com/video/lincoln-in-the-bardo-composer-missy-mazzoli/",
+   "source": "CBS News",
+   "date": "2026-10-25T14:21:15+00:00",
+   "extrait": "Composer Missy Mazzoli is the first woman ever to have an opera premiered by the Metropolitan Opera. Based on the award-winning novel by George Saunders, Mazzoli and librettist Royce Vavrek's…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "5ead7b29052d",
+   "titre": "Congrès du RN à Orléans : suivez les discours de Jordan Bardella et Marine Le Pen lors du premier grand meeting de la campagne présidentielle",
+   "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-congres-du-rn-a-orleans-marine-le-pen-lance-sa-campagne-presidentielle-avec-un-premier-meeting-son-discours-prevu-a-15h30_8252842.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-25T14:14:09+00:00",
+   "extrait": "Favorite des sondages, la quadruple candidate doit s'exprimer après une première journée de congrès lors de laquelle Jordan Bardella a été reconduit à la tête du parti d'extrême droite.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "0b8c1d66e9c2",
+   "titre": "Photos of the week",
+   "lien": "https://www.cbsnews.com/video/photos-of-the-week-102526/",
+   "source": "CBS News",
+   "date": "2026-10-25T14:12:05+00:00",
+   "extrait": "\"Sunday Morning\" looks at some of the most evocative images captured the week of Oct. 18-24, 2026.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "2ce5b7498859",
+   "titre": "Manifestations du 24 octobre : enquête ouverte à Nice contre des membres de la mouvance d’ultradroite après des agressions de manifestants",
+   "lien": "https://www.lemonde.fr/societe/article/2026/10/25/manifestations-du-24-octobre-enquete-ouverte-a-nice-contre-des-membres-de-la-mouvance-d-ultradroite-apres-des-agressions-de-manifestants_6800088_3224.html",
+   "source": "Le Monde",
+   "date": "2026-10-25T14:11:34+00:00",
+   "extrait": "Parmi les 59 personnes placées en garde à vue samedi à la suite des manifestations, figurent 11 individus susceptibles d’appartenir à la mouvance d’ultradroite, selon le parquet.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "c2f5a59a98e4",
+   "titre": "Manifestations du 24 octobre : à Nice, la justice ouvre une enquête sur les violences de la mouvance d'ultradroite",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-24-octobre-142-personnes-ont-ete-interpellees-a-paris-dont-120-ont-ete-placees-en-garde-a-vue-selon-la-prefecture-de-police_8252812.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-25T14:11:14+00:00",
+   "extrait": "La justice cherche à \"identifier et interpeller les membres de cette mouvance impliqués dans les violences\", déclare le parquet.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "b1a250366a59",
+   "titre": "\"The Mosquito Bowl\" and the human cost of war",
+   "lien": "https://www.cbsnews.com/news/the-mosquito-bowl-and-the-human-cost-of-war/",
+   "source": "CBS News",
+   "date": "2026-10-25T14:10:19+00:00",
+   "extrait": "Director Peter Berg discusses his new film, the true story of All-American football stars who volunteered for the Marines and fought in the Battle of Okinawa, the last and costliest World War II…",
+   "tags": [
+    "Conflits",
+    "Sport"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "962c06ac31e4",
+   "titre": "Il tue sa sœur et tente de s'en prendre à sa mère : meurtre dans ce quartier de Dijon, le suspect actuellement en fuite",
+   "lien": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/il-tue-sa-s-ur-et-tente-de-s-en-prendre-a-sa-mere-meurtre-dans-ce-quartier-de-dijon-le-suspect-en-fuite-3438837.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-25T14:09:42+00:00",
+   "extrait": "Une femme de 21 ans a été tuée par son frère dans la nuit du samedi 24 au 25 octobre 2026 dans le quartier Montmuzard à Dijon (Côte-d'Or). Le suspect à également tenter de tuer sa mère retrouvée…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "30cbd16c7f3e",
+   "titre": "\"The Mosquito Bowl\" and the human cost of war",
+   "lien": "https://www.cbsnews.com/video/the-mosquito-bowl-and-the-human-cost-of-war/",
+   "source": "CBS News",
+   "date": "2026-10-25T14:09:01+00:00",
+   "extrait": "The new Netflix film \"The Mosquito Bowl\" recounts the true story of All-American football stars who volunteered for the Marines following Pearl Harbor – and fought in the Battle of Okinawa, the last…",
+   "tags": [
+    "Conflits",
+    "Sport"
+   ],
+   "zone": "usa"
+  },
   {
    "id": "7863be09896a",
    "titre": "At least 12 injured, including 6 children, in shooting near Florida A&M",
@@ -34,16 +317,6 @@
    "zone": "usa"
   },
   {
-   "id": "0e785f4e6966",
-   "titre": "This week on \"Sunday Morning\" (Oct. 25)",
-   "lien": "https://www.cbsnews.com/news/this-week-on-sunday-morning-oct-25-2026/",
-   "source": "CBS News",
-   "date": "2026-10-25T14:01:38+00:00",
-   "extrait": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "ed06c745eaba",
    "titre": "Présidentielle au Brésil en direct : les électeurs votent pour le second tour",
    "lien": "https://www.france24.com/fr/am%C3%A9riques/20261025-en-direct-r%C3%A9sultats-second-tour-election-presidentielle-bresil-bolsonaro-lula-1",
@@ -54,6 +327,16 @@
     "Politique"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "ffe2a3c791de",
+   "titre": "\"Irish Travellers\" : entre mobile-home, galères du quotidien et chasse au lapin, un documentaire plein d'humanité au cœur d'une famille de \"nomades\" irlandais",
+   "lien": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/irish-travellers-entre-mobile-home-galeres-du-quotidien-et-chasse-au-lapin-un-documentaire-plein-d-humanite-au-c-ur-d-une-famille-de-nomades-irlandais_8249107.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-25T14:00:38+00:00",
+   "extrait": "Plutôt que de disséquer les difficultés sociales d'une communauté ostracisée, le réalisateur Alexander Murphy a choisi de nous immerger dans la vie de tous les jours des O'Reilly.",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "ef53d3c43938",
@@ -90,25 +373,15 @@
    "zone": "usa"
   },
   {
-   "id": "5ead7b29052d",
-   "titre": "Congrès du RN à Orléans : suivez les discours de Jordan Bardella et Marine Le Pen lors du premier grand meeting de la campagne présidentielle",
-   "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-congres-du-rn-a-orleans-marine-le-pen-lance-sa-campagne-presidentielle-avec-un-premier-meeting-son-discours-prevu-a-15h30_8252842.html#xtor=RSS-3-[lestitres]",
+   "id": "1f8bfd3d2a6d",
+   "titre": "\"Deux superstars qui s'affrontent\" : à la veille du Ballon d'or, le Clasico entre le FC Barcelone et le Real Madrid prend une autre dimension",
+   "lien": "https://www.franceinfo.fr/sports/foot/ballon-d-or/deux-superstars-qui-s-affrontent-a-la-veille-du-ballon-d-or-le-clasico-entre-le-fc-barcelone-et-le-real-madrid-prend-une-autre-dimension_8253112.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-10-25T13:50:40+00:00",
-   "extrait": "Favorite des sondages, la quadruple candidate doit s'exprimer après une première journée de congrès lors de laquelle Jordan Bardella a été reconduit à la tête du parti d'extrême droite.",
+   "date": "2026-10-25T13:53:20+00:00",
+   "extrait": "À Barcelone, les supporters débattent déjà pour départager les deux favoris du Ballon d'or, Lamine Yamal et Kylian Mbappé. Les votes étant clos depuis un mois, le résultat du match ne changera rien…",
    "tags": [
     "Politique"
    ],
-   "zone": "france"
-  },
-  {
-   "id": "962c06ac31e4",
-   "titre": "Il tue sa sœur et tente de s'en prendre à sa mère : meurtre dans ce quartier de Dijon, le suspect actuellement en fuite",
-   "lien": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/il-tue-sa-s-ur-et-tente-de-s-en-prendre-a-sa-mere-meurtre-dans-ce-quartier-de-dijon-le-suspect-en-fuite-3438837.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-25T13:48:50+00:00",
-   "extrait": "Une femme de 21 ans a été tuée par son frère dans la nuit du samedi 24 au 25 octobre 2026 dans le quartier Montmuzard à Dijon (Côte-d'Or). Le suspect à également tenter de tuer sa mère retrouvée…",
-   "tags": [],
    "zone": "france"
   },
   {
@@ -133,12 +406,14 @@
   },
   {
    "id": "40ac98698f53",
-   "titre": "Congrès du RN à Orléans : une centaine de militants antifascistes se rassemblent malgré les interdictions",
+   "titre": "Congrès du RN : Marine Le Pen lance sa campagne à Orléans avec un premier meeting",
    "lien": "https://www.lemonde.fr/politique/article/2026/10/25/congres-du-rn-a-orleans-une-centaine-de-militants-antifascistes-se-rassemblent-malgre-les-interdictions_6800086_823448.html",
    "source": "Le Monde",
-   "date": "2026-10-25T13:42:59+00:00",
-   "extrait": "La préfecture du Loiret avait interdit tout rassemblement dimanche dans un large périmètre à Orléans, ainsi que dans plusieurs communes aux alentours.",
-   "tags": [],
+   "date": "2026-10-25T13:42:55+00:00",
+   "extrait": "Une centaine de militants antifascistes se sont rassemblés, dimanche, à environ quatre kilomètres du Co’Met, où la candidate du RN à l’élection présidentielle doit prononcer un premier grand…",
+   "tags": [
+    "Politique"
+   ],
    "zone": "france"
   },
   {
@@ -198,11 +473,11 @@
   },
   {
    "id": "563f8d214353",
-   "titre": "Israeli election to test Benjamin Netanyahu's ability to hold power",
+   "titre": "Israeli election to test Netanyahu's ability to hold power",
    "lien": "https://www.cbsnews.com/news/israeli-election-to-test-benjamin-netanyahus-ability-to-hold-power/",
    "source": "CBS News",
-   "date": "2026-10-25T13:27:06+00:00",
-   "extrait": "On Tuesday, Israel will hold its first parliamentary elections since the October 7, 2023 terror attacks. Essentially one man is on the ballot: Prime Minister Benjamin Netanyahu. How might Israeli…",
+   "date": "2026-10-25T13:27:00+00:00",
+   "extrait": "On Tuesday, Israel will hold its first parliamentary elections since the Oct. 7, 2023, terror attacks. Essentially one man is on the ballot: Prime Minister Benjamin Netanyahu. How might Israeli…",
    "tags": [
     "Politique",
     "Conflits"
@@ -302,18 +577,6 @@
    "zone": "france"
   },
   {
-   "id": "a7d02e8d70ea",
-   "titre": "Poll finds Democrats still boosted by voters' economic concerns",
-   "lien": "https://www.cbsnews.com/news/poll-house-estimate-midterm-elections-2026/",
-   "source": "CBS News",
-   "date": "2026-10-25T13:00:06+00:00",
-   "extrait": "President Trump is a key factor driving support and opposition; turnout looms large",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "717ce4da39e9",
    "titre": "Attentat de Trappes : du racisme au terrorisme, une responsabilité collective",
    "lien": "https://www.lemonde.fr/idees/article/2026/10/25/attentat-de-trappes-du-racisme-au-terrorisme-une-responsabilite-collective_6800082_3232.html",
@@ -359,18 +622,6 @@
    "zone": "monde"
   },
   {
-   "id": "574852269ae4",
-   "titre": "Iran says potential new U.S. strikes won't change Tehran's position",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/",
-   "source": "CBS News",
-   "date": "2026-10-25T12:32:51+00:00",
-   "extrait": "The U.S. ambassador to the U.N. says the war with Iran could last another year, but he hopes Tehran will \"come to the table\" sooner.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "90ab321dc81b",
    "titre": "Législatives en Serbie : les serbes se déplacent aux urnes en images",
    "lien": "https://www.lemonde.fr/international/video/2026/10/25/legislatives-en-serbie-les-serbes-se-rendent-dans-les-bureaux-de-vote-en-images_6800081_3210.html",
@@ -391,18 +642,6 @@
    "extrait": "L’Agence France-Presse a compté 90 vols annulés sur la page des départs du site de l’aéroport, principalement à destination de villes européennes, dont Paris.",
    "tags": [
     "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "a19a84b2686b",
-   "titre": "\"Notre fille n'a pas souffert\" : le père de Cléa, 17 ans, se confie après la mort de la jeune joueuse de rugby",
-   "lien": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/notre-fille-n-a-pas-souffert-le-pere-de-clea-17-ans-se-confie-apres-la-mort-de-la-jeune-joueuse-de-rugby_8253094.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-25T12:22:38+00:00",
-   "extrait": "Cléa, 17 ans, était une jeune joueuse de rugby. Elle est morte en pratiquant sa passion lors d’un match survenu le 17 octobre à Marmande (Lot-et-Garonne). Le monde du rugby est en deuil. Les…",
-   "tags": [
-    "Sport"
    ],
    "zone": "france"
   },
@@ -531,7 +770,7 @@
    "titre": "Midterms 2026 : pour les démocrates, la reconquête du Sénat passe par le Maine",
    "lien": "https://www.lemonde.fr/international/article/2026/10/25/midterms-2026-pour-les-democrates-la-reconquete-du-senat-passe-par-le-maine_6800076_3210.html",
    "source": "Le Monde",
-   "date": "2026-10-25T11:30:05+00:00",
+   "date": "2026-10-25T11:30:01+00:00",
    "extrait": "Tout ce que le parti compte de forces vives est venu soutenir Troy Jackson, candidat à la sénatoriale du 3 novembre. Situé à la gauche du parti, il défie la républicaine Susan Collins, élue sans…",
    "tags": [
     "Politique"
@@ -1013,16 +1252,6 @@
    "zone": "monde"
   },
   {
-   "id": "c2f5a59a98e4",
-   "titre": "Manifestations du 24 octobre : plus de 1 300 interpellations en France, et 53 membres des forces de l'ordre blessés, annonce le ministère de l'Intérieur",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-24-octobre-142-personnes-ont-ete-interpellees-a-paris-dont-120-ont-ete-placees-en-garde-a-vue-selon-la-prefecture-de-police_8252812.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-25T07:24:36+00:00",
-   "extrait": "Les autorités ont dénombré 410 000 manifestants dans le pays samedi, contre 550 000 une semaine plus tôt. De son côté, la CGT a comptabilisé 800 000 manifestants, soit autant que le 17 octobre.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
    "id": "a7e791b581a9",
    "titre": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe",
    "lien": "https://www.npr.org/2026/10/25/nx-s1-6016126/thousands-of-protesters-across-europe",
@@ -1391,18 +1620,6 @@
    "zone": "france"
   },
   {
-   "id": "3c4c9fce1c2f",
-   "titre": "Pour identifier le recours à l’IA dans les œuvres, la musique affiche une sérieuse avance sur l’édition et le cinéma",
-   "lien": "https://www.lemonde.fr/economie/article/2026/10/25/pour-identifier-le-recours-a-l-ia-dans-les-uvres-la-musique-affiche-une-serieuse-avance-sur-l-edition-et-le-cinema_6800033_3234.html",
-   "source": "Le Monde",
-   "date": "2026-10-25T04:30:16+00:00",
-   "extrait": "Si les plateformes de streaming musical collent déjà une étiquette sur les titres générés par intelligence artificielle, le chemin reste long avant une transparence réelle sur le sujet dans les…",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "90023d6faf33",
    "titre": "A Gaza, au Liban et en Syrie, comment Israël utilise les « zones tampons » pour étendre sa domination régionale",
    "lien": "https://www.lemonde.fr/international/article/2026/10/25/a-gaza-au-liban-et-en-syrie-comment-israel-utilise-les-zones-tampons-pour-etendre-sa-domination-regionale_6800032_3210.html",
@@ -1411,6 +1628,18 @@
    "extrait": "Depuis le « cessez-le-feu » d’octobre 2025, l’Etal hébreu présente les territoires qu’il occupe sur ces trois fronts comme des ceintures de sécurité, destinées à protéger ses frontières. Dans ces…",
    "tags": [
     "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "3c4c9fce1c2f",
+   "titre": "Pour identifier le recours à l’IA dans les œuvres, la musique affiche une sérieuse avance sur l’édition et le cinéma",
+   "lien": "https://www.lemonde.fr/economie/article/2026/10/25/pour-identifier-le-recours-a-l-ia-dans-les-uvres-la-musique-affiche-une-serieuse-avance-sur-l-edition-et-le-cinema_6800033_3234.html",
+   "source": "Le Monde",
+   "date": "2026-10-25T04:30:12+00:00",
+   "extrait": "Si les plateformes de streaming musical collent déjà une étiquette sur les titres générés par intelligence artificielle, le chemin reste long avant une transparence réelle sur le sujet dans les…",
+   "tags": [
+    "Tech"
    ],
    "zone": "france"
   },
@@ -3230,231 +3459,6 @@
    "source": "Le Monde",
    "date": "2026-10-24T12:00:08+00:00",
    "extrait": "Pour réaliser son premier film, la cinéaste et directrice de la photographie a passé du temps, à la manière d’une sociologue, avec des lycéens pour saisir l’essence de la jeunesse des années 2020.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "5536c0af6695",
-   "titre": "Perspective: The next James Bond",
-   "lien": "https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond",
-   "source": "NPR",
-   "date": "2026-10-24T12:00:00+00:00",
-   "extrait": "A new James Bond is nigh, to replace the last actor in the 64 year-old movie franchise. What evil forces will the new 007 face? Killer Drones? Killer AI? Killer lettuce?",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "18e49f044801",
-   "titre": "À Orléans, le congrès du Rassemblement National face à la mobilisation anti-RN",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261024-%C3%A0-orl%C3%A9ans-le-congr%C3%A8s-du-rassemblement-national-face-%C3%A0-la-mobilisation-anti-rn",
-   "source": "France 24",
-   "date": "2026-10-24T11:59:53+00:00",
-   "extrait": "Le Rassemblement national tient son congrès à Orléans pour lancer sa campagne vers l’Élysée. En parallèle, 30 000 manifestants anti-RN sont attendus, parmi lesquels Bally Bagayoko, maire de…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "12cad97bb3d9",
-   "titre": "\"C'est le moment !\" : le mouvement étudiant, principal rival du pouvoir en place pour les législatives en Serbie dimanche",
-   "lien": "https://www.franceinfo.fr/monde/europe/c-est-le-moment-le-mouvement-etudiant-principal-rival-du-pouvoir-en-place-pour-les-legislatives-en-serbie-dimanche_8250586.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-24T11:59:50+00:00",
-   "extrait": "Né du drame de l'effondrement d'une structure de la gare de Novi Sad, en 2024, le mouvement de contestation étudiant bouscule l'échiquier politique serbe. En déposant sa propre liste pour les…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "45b93fa6540e",
-   "titre": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
-   "lien": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
-   "source": "NPR",
-   "date": "2026-10-24T11:59:08+00:00",
-   "extrait": "Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "b7ee5dfaaac7",
-   "titre": "Manifestations du 24 octobre : le maintien de l’ordre à l’épreuve des tensions",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261024-manifestations-du-24-octobre-le-maintien-de-l-ordre-%C3%A0-l-%C3%A9preuve-des-tensions",
-   "source": "France 24",
-   "date": "2026-10-24T11:56:17+00:00",
-   "extrait": "Avec 70 000 policiers et gendarmes mobilisés pour encadrer cette journée de contestation, le gouvernement veut éviter une répétition des violences du 17 octobre. Le dispositif suffira-t-il à…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "655d6a7b658b",
-   "titre": "Les gilets jaunes appellent à une nouvelle mobilisation le 31 octobre et dénoncent une \"dérive autoritaire\" de l'exécutif",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/les-gilets-jaunes-appellent-a-une-nouvelle-mobilisation-le-31-octobre-et-denoncent-une-derive-autoritaire_8252203.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-24T11:42:49+00:00",
-   "extrait": "\"Il y a une colère dans ce pays\" qui \"n'est pas entendue\", affirment les gilets jaunes. Ils dénoncent \"le mépris, le refus d'écouter, le mensonge et la répression\" d'un gouvernement qui \"tente de…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "a28f826fb3b2",
-   "titre": "À Taïwan, le typhon Champi fait un mort et provoque près de 5 000 évacuations",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261024-%C3%A0-ta%C3%AFwan-le-typhon-champi-fait-un-mort-et-provoque-pr%C3%A8s-de-5-000-%C3%A9vacuations",
-   "source": "France 24",
-   "date": "2026-10-24T11:30:19+00:00",
-   "extrait": "Après avoir atteint le stade de super-typhon, Champi a balayé Taïwan, faisant un mort et entraînant l’évacuation de plus de 5 000 personnes. Quelque 56 000 foyers restent privés d’électricité…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "bbdf4ef2dff5",
-   "titre": "La candidature émiratie au poste de secrétaire général de l’ONU fait polémique",
-   "lien": "https://www.lemonde.fr/international/article/2026/10/24/la-candidature-emiratie-au-poste-de-secretaire-general-de-l-onu-fait-polemique_6799695_3210.html",
-   "source": "Le Monde",
-   "date": "2026-10-24T11:30:07+00:00",
-   "extrait": "Les Emirats arabes unis ont proposé la diplomate Lana Nusseibeh pour prendre la suite d’Antonio Guterres dans deux mois, ce qui soulève de nombreuses critiques, en raison notamment de leur rôle…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "b5277e721cb4",
-   "titre": "En France, une attaque à Trappes fait un mort et cinq blessés",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261024-trappes-un-mort-et-cinq-bless%C3%A9s-dans-une-attaque-macron-d%C3%A9nonce-un-acte-terroriste-et-raciste",
-   "source": "France 24",
-   "date": "2026-10-24T11:27:26+00:00",
-   "extrait": "Un homme de 39 ans est soupçonné d’avoir ouvert le feu à l’arme automatique vendredi à Trappes, notamment devant une station-service. Le bilan fait état d’un mort et de cinq blessés, dont une enfant…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "78b97a88c210",
-   "titre": "Cristiano Ronaldo a-t-il inscrit son 982ᵉ but en carrière ? Un pas de plus vers le seuil mythique des 1 000 buts qui fait débat",
-   "lien": "https://www.lemonde.fr/sport/article/2026/10/24/cristiano-ronaldo-a-t-il-inscrit-son-982-but-en-carriere-un-pas-de-plus-vers-le-seuil-mythique-des-1-000-buts-qui-fait-debat_6799694_3242.html",
-   "source": "Le Monde",
-   "date": "2026-10-24T11:24:57+00:00",
-   "extrait": "La Saudi Pro League a comptabilisé un but à la superstar portugaise lors de la victoire de son club d’Al-Nassr face à Al-Faisaly, vendredi. Mais celui-ci aurait en réalité été marqué par un…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "50c88a73d0d7",
-   "titre": "Pourquoi devriez-vous vous intéresser aux élections brésiliennes ?",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261024-pourquoi-devriez-vous-vous-int%C3%A9resser-aux-%C3%A9lections-br%C3%A9siliennes",
-   "source": "France 24",
-   "date": "2026-10-24T11:24:23+00:00",
-   "extrait": "🇧🇷 Au premier tour de l'élection présidentielle, Flavio Bolsonaro, sénateur et fils de l'ancien président d'extrême droite Jair Bolsonaro, a recueilli 47 % des suffrages exprimés, contre 45 % pour…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "e6762d567840",
-   "titre": "Un mort et plusieurs blessés graves, un suspect arrêté, \"un crime terroriste\"... Ce que l'on sait de l'attentat raciste à Trappes et La Verrière",
-   "lien": "https://www.franceinfo.fr/societe/trappes/un-mort-et-plusieurs-blesses-un-suspect-arrete-le-parquet-antiterroriste-saisi-ce-que-l-on-sait-de-l-attaque-a-l-arme-a-feu-a-trappes-et-la-verriere_8250688.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-24T11:18:03+00:00",
-   "extrait": "Emmanuel Macron a évoqué vendredi soir, en déplacement dans les Yvelines, un \"tournant dans la vie de notre République et de notre nation\" après un \"attentat\" commis \"sur la base d'une idéologie…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "659f90aa2d93",
-   "titre": "Mobilisation en France : calme précaire, Paris sous haute surveillance",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261024-mobilisation-en-france-calme-pr%C3%A9caire-paris-sous-haute-surveillance",
-   "source": "France 24",
-   "date": "2026-10-24T11:12:37+00:00",
-   "extrait": "Une nouvelle journée de mobilisation se déroule sous tension en France. À Paris, des militaires de l’opération Sentinelle sont déjà déployés pour sécuriser les abords des manifestations. La police…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "7f8c7cf08762",
-   "titre": "Fusillade meurtrière dans les Yvelines : la garde à vue du suspect prolongée",
-   "lien": "https://www.france24.com/fr/france/20261024-fusillade-meurtri%C3%A8re-dans-les-yvelines-la-garde-%C3%A0-vue-du-suspect-prolong%C3%A9e",
-   "source": "France 24",
-   "date": "2026-10-24T11:11:00+00:00",
-   "extrait": "Après une première audition, la garde à vue du suspect qui a tué une personne et en a blessé cinq dans les Yvelines a été prolongée samedi matin. Selon les informations du Monde, l'homme a dit avoir…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "e4f56ef608d7",
-   "titre": "La France passe à l'heure d'hiver dans la nuit de samedi à dimanche",
-   "lien": "https://www.franceinfo.fr/societe/changement-d-heure/la-france-passe-a-l-heure-d-hiver-dans-la-nuit-de-samedi-a-dimanche_8252164.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-24T11:09:30+00:00",
-   "extrait": "Il faudra penser à reculer vos montres d’une heure dans la nuit pour ne pas être surpris dimanche matin et ainsi bénéficier d'une heure de sommeil en plus.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "4cc498046d0e",
-   "titre": "Cisjordanie : Karim Kattan, une enfance entre les accords d'Oslo et la seconde intifada",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/avec-judith/20261024-cisjordanie-karim-kattan-une-enfance-entre-les-accords-d-oslo-et-la-seconde-intifada",
-   "source": "France 24",
-   "date": "2026-10-24T11:06:40+00:00",
-   "extrait": "Comme chaque semaine, Judith Grimaldi reçoit un invité dans son podcast \"Avec Judith\". Cette fois-ci, c'est Karim Kattan, écrivain et auteur palestinien. Son enfance et son adolescence à Bethléem…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "5a1a285fce87",
-   "titre": "A Bakersfield, les migrants et les nouveaux raisins de la colère : « Si vous voulez interrompre l’approvisionnement alimentaire, continuez les rafles »",
-   "lien": "https://www.lemonde.fr/international/article/2026/10/24/a-bakersfield-les-migrants-et-les-nouveaux-raisins-de-la-colere-si-vous-voulez-interrompre-l-approvisionnement-alimentaire-continuez-les-rafles_6798640_3211.html",
-   "source": "Le Monde",
-   "date": "2026-10-24T11:00:35+00:00",
-   "extrait": "« Sur la Route 66, pouls de l’Amérique » (5/6). La ville sans âme de l’Etat de Californie est un carrefour industriel et agricole aux antipodes de la Silicon Valley. Une « terre promise » pour de…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "078f7bec5a47",
-   "titre": "Midterms 2026 : ces agriculteurs qui ont besoin des travailleurs mexicains",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261024-midterms-2026-ces-agriculteurs-qui-ont-besoin-des-travailleurs-mexicains",
-   "source": "France 24",
-   "date": "2026-10-24T10:46:23+00:00",
-   "extrait": "À l'approche des élections de mi-mandat aux États-Unis, l'immigration s'impose comme un enjeu majeur du débat politique. Dans le comté de Yuma, en Arizona, des agriculteurs réclament davantage de…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "685b25541577",
-   "titre": "Midterms 2026, le récap’ : coups bas et pressions sur le vote… la campagne s’envenime",
-   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261024-midterms-2026-recap-etats-unis-ohio-publicite-sondages-interferences-donald-trump-democrates-republicains",
-   "source": "France 24",
-   "date": "2026-10-24T10:44:25+00:00",
-   "extrait": "La dernière ligne droite de la campagne pour les midterms touche à sa fin ! Stratégie, candidats, sondages… Chaque semaine, France 24 fait le point. En Ohio, la diffusion d'un clip par le candidat…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "0af0516b7912",
-   "titre": "Jeux vidéo : le CNC va verser 1,5 million d'euros supplémentaires en soutien aux studios français",
-   "lien": "https://www.franceinfo.fr/culture/jeux-video/jeux-video-le-cnc-va-verser-1-5-million-d-euros-supplementaires-en-soutien-aux-studios-francais_8252047.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-24T10:42:24+00:00",
-   "extrait": "Cette annonce intervient pendant la Paris Games Week, le plus grand salon français du jeu vidéo, qui s'achève dimanche.",
    "tags": [],
    "zone": "france"
   }
