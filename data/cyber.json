@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-25T07:05:40+00:00",
+ "maj": "2026-10-25T08:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "5d0e99bc982d",
+   "titre": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+   "lien": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+   "source": "The Hacker News",
+   "date": "2026-10-25T06:54:29+00:00",
+   "extrait": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models…",
+   "tags": [
+    "IA"
+   ]
+  },
   {
    "id": "10b0251915e8",
    "titre": "Chimeraz revendique des fuites visant trois partis français, dont celui du groupe présidentiel",
