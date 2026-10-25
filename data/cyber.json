@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-25T18:05:40+00:00",
+ "maj": "2026-10-25T19:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,31 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "4a8154151413",
+   "titre": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+   "lien": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+   "source": "The Hacker News",
+   "date": "2026-10-25T17:44:09+00:00",
+   "extrait": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack…",
+   "tags": [
+    "Faille",
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "3eda0d6ae7e3",
+   "titre": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+   "lien": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+   "source": "The Hacker News",
+   "date": "2026-10-25T17:19:46+00:00",
+   "extrait": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618…",
+   "tags": [
+    "CVE",
+    "Fuite de données",
+    "IA"
+   ]
+  },
   {
    "id": "9e8f060397f4",
    "titre": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
