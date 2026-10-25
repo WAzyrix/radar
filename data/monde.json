@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-25T11:05:37+00:00",
+ "maj": "2026-10-25T12:03:22+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -19,21 +19,114 @@
   "Tech",
   "Sport"
  ],
- "erreurs": [
-  "France 24"
- ],
+ "erreurs": [],
  "articles": [
   {
    "id": "0ae1205c3095",
    "titre": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
    "lien": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-10-25T11:00:26+00:00",
+   "date": "2026-10-25T11:54:16+00:00",
    "extrait": "Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office.",
    "tags": [
     "Politique"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "d8fb5e1eeb85",
+   "titre": "À Tel-Aviv, la gauche se mobilise contre Netanyahu à deux jours des législatives",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261025-%C3%A0-tel-aviv-la-gauche-se-mobilise-contre-netanyahu-%C3%A0-deux-jours-des-l%C3%A9gislatives",
+   "source": "France 24",
+   "date": "2026-10-25T11:44:58+00:00",
+   "extrait": "Un grand rassemblement de la gauche à Tel-Aviv s'est tenu samedi 24 octobre pour exprimer la volonté d’un changement politique à l’issue des élections législatives. À deux jours du vote, les…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "ad2a232607b7",
+   "titre": "Rwanda : le mystère autour de la mort de l'opposant Robert Kabera",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261025-rwanda-le-myst%C3%A8re-autour-de-la-mort-de-l-opposant-robert-kabera",
+   "source": "France 24",
+   "date": "2026-10-25T11:43:41+00:00",
+   "extrait": "Les circonstances de la mort de Robert Kabera, ancien militaire rwandais réfugié en Ouganda et critique du gouvernement de Paul Kagame, restent entourées de nombreuses zones d'ombre. Sur sa chaîne…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "8cf9ff7eb9fa",
+   "titre": "Éthiopie : un forum consacré aux enjeux de sécurité en Afrique",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261025-%C3%A9thiopie-un-forum-consacr%C3%A9-aux-enjeux-de-s%C3%A9curit%C3%A9-en-afrique",
+   "source": "France 24",
+   "date": "2026-10-25T11:42:13+00:00",
+   "extrait": "Anciens chefs d'État, attachés de défense et experts en sécurité se sont réunis dans la région Amhara, en Éthiopie, à l'occasion du Forum de Tana, consacré aux conflits armés et aux enjeux…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "4c5faba0b1a3",
+   "titre": "Tchad : l'épidémie de dengue progresse et fait plusieurs dizaines de morts",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261025-tchad-l-%C3%A9pid%C3%A9mie-de-dengue-progresse-et-fait-plusieurs-dizaines-de-morts",
+   "source": "France 24",
+   "date": "2026-10-25T11:39:58+00:00",
+   "extrait": "Depuis plusieurs semaines, le Tchad fait face à une épidémie de dengue, la deuxième seulement de son histoire. Plusieurs dizaines de personnes ont perdu la vie. La sécheresse et, plus largement, le…",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "e598c4fa5019",
+   "titre": "Midterms 2026 : pour les démocrates, la reconquête du Sénat passe par le Maine",
+   "lien": "https://www.lemonde.fr/international/article/2026/10/25/midterms-2026-pour-les-democrates-la-reconquete-du-senat-passe-par-le-maine_6800076_3210.html",
+   "source": "Le Monde",
+   "date": "2026-10-25T11:30:05+00:00",
+   "extrait": "Tout ce que le parti compte de forces vives est venu soutenir Troy Jackson, candidat à la sénatoriale du 3 novembre. Situé à la gauche du parti, il défie la républicaine Susan Collins, élue sans…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "90e508f8fc16",
+   "titre": "The College of Magic turns ordinary kids into confident, top-hat wearing magicians",
+   "lien": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
+   "source": "NPR",
+   "date": "2026-10-25T11:24:58+00:00",
+   "extrait": "The students, many from marginalized communities, learn to conjure up candy, do card tricks — and face the world with a confident, creative and resilient mindset.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "754fd1bcc230",
+   "titre": "Manifestations en France, frappes en Ukraine, présidentielle au Brésil : la semaine en images",
+   "lien": "https://www.france24.com/fr/france/20261025-manifestations-en-france-frappes-en-ukraine-pr%C3%A9sidentielle-au-br%C3%A9sil-la-semaine-en-images",
+   "source": "France 24",
+   "date": "2026-10-25T11:15:51+00:00",
+   "extrait": "Retour sur les temps forts de l'actualité de la semaine écoulée et sur ses images les plus marquantes : les importantes dégradations en marge des manifestations nationales en France, les nouvelles…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "574852269ae4",
+   "titre": "Iran's parliament calls on people to reduce use of natural gas",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/",
+   "source": "CBS News",
+   "date": "2026-10-25T11:14:48+00:00",
+   "extrait": "The U.S. ambassador to the U.N. says the war with Iran could last another year, but he hopes Tehran will \"come to the table\" sooner.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
   },
   {
    "id": "93555b4ccc3c",
@@ -107,6 +200,16 @@
    "zone": "monde"
   },
   {
+   "id": "789f6685fff0",
+   "titre": "Mobilisation du 24 octobre : plus de 1 300 interpellations, une cinquantaine de policiers blessés",
+   "lien": "https://www.france24.com/fr/france/20261025-mobilisation-du-24-octobre-plus-de-1-300-interpellations-une-cinquantaine-de-policiers-bless%C3%A9s",
+   "source": "France 24",
+   "date": "2026-10-25T10:33:22+00:00",
+   "extrait": "Dimanche, le ministère de l’Intérieur a fait état de plus de 1 314 interpellations et de 53 membres des forces de l’ordre blessés, au lendemain de nouvelles manifestations en France. Au moins 410…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
    "id": "c24919f3917e",
    "titre": "EN DIRECT, guerre en Ukraine : deux morts dans une attaque de la ville russe de Belgorod par des drones, deux autres personnes tuées dans des villages de cet oblast",
    "lien": "https://www.lemonde.fr/international/live/2026/10/25/en-direct-guerre-en-ukraine-deux-morts-dans-une-attaque-de-la-ville-russe-de-belgorod-par-des-drones-deux-autres-personnes-tuees-dans-des-villages-de-cet-oblast_6799896_3210.html",
@@ -148,7 +251,7 @@
    "lien": "https://www.franceinfo.fr/monde/proche-orient/tensions-entre-l-arabie-saoudite-et-l-iran/l-arabie-saoudite-dit-avoir-intercepte-dix-missiles-lances-par-les-houthis-vers-le-sud-du-pays_8252926.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-10-25T10:24:28+00:00",
-   "extrait": "L'ampleur des attaques visant Riyad ces dernières semaines est inédite depuis le début de la guerre en 2014 opposant les houthis aux forces gouvernementales.",
+   "extrait": "L'ampleur des attaques visant Riyad ces dernières semaines est inédite depuis le début de la guerre en 2014 opposant les houthis aux forces gouvernementales yéménites.",
    "tags": [
     "Conflits"
    ],
@@ -165,6 +268,16 @@
     "Justice"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "c36b13a3099c",
+   "titre": "Attentat dans les Yvelines : le suspect placé en observation psychiatrique",
+   "lien": "https://www.france24.com/fr/france/20261025-fusillade-meurtri%C3%A8re-dans-les-yvelines-le-suspect-plac%C3%A9-en-observation-psychiatrique",
+   "source": "France 24",
+   "date": "2026-10-25T10:15:19+00:00",
+   "extrait": "La garde à vue de l'homme soupçonné d'avoir tué une personne et blessé cinq autres dans les Yvelines a été levée pour raisons psychiatriques, a annoncé, dimanche, le parquet national antiterroriste…",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "45d43d79f7ec",
@@ -193,11 +306,11 @@
   },
   {
    "id": "75e1ca93e92f",
-   "titre": "Israël imposera un bouclage de la Cisjordanie mardi, en raison des élections législatives",
+   "titre": "Israël imposera un bouclage de la Cisjordanie occupée mardi, en raison des élections législatives",
    "lien": "https://www.franceinfo.fr/monde/israel/israel-imposera-un-bouclage-de-la-cisjordanie-mardi-en-raison-des-elections-legislatives_8252737.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-10-25T09:47:40+00:00",
-   "extrait": "Quelque 2 000 Palestiniens ont par ailleurs été chassés de chez eux par l'armée samedi à Hébron, la plus grande ville de Cisjordanie occupée, après l'attaque menée vendredi par deux Palestiniens à…",
+   "extrait": "Quelque 2 000 Palestiniens ont par ailleurs été chassés de chez eux par l'armée samedi à Hébron, la plus grande ville de Cisjordanie occupée, après une attaque qui a tué deux soldats israéliens.",
    "tags": [
     "Politique",
     "Conflits"
@@ -215,18 +328,6 @@
     "Conflits"
    ],
    "zone": "france"
-  },
-  {
-   "id": "574852269ae4",
-   "titre": "Iran says U.S. military not allowed in Gulf \"under any circumstance\"",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/",
-   "source": "CBS News",
-   "date": "2026-10-25T09:44:47+00:00",
-   "extrait": "The U.S. ambassador to the U.N. says the war with Iran could last another year, but he hopes Tehran will \"come to the table\" sooner.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
   },
   {
    "id": "4fe4c9b76832",
@@ -262,11 +363,11 @@
   },
   {
    "id": "4775ff3c1764",
-   "titre": "Au Brésil, les soutiens de Lula et Bolsonaro mobilisés jusqu’au bout : « Mon père ne votait plus. Je l’ai convaincu que cette élection était la plus importante de notre vie »",
+   "titre": "Au Brésil, les soutiens de Lula et de Bolsonaro mobilisés jusqu’au bout : « Mon père ne votait plus. Je l’ai convaincu que cette élection était la plus importante de notre vie »",
    "lien": "https://www.lemonde.fr/international/article/2026/10/25/au-bresil-les-soutiens-de-lula-et-bolsonaro-mobilises-jusqu-au-bout-mon-pere-ne-votait-plus-je-l-ai-convaincu-que-cette-election-etait-la-plus-importante-de-notre-vie_6800063_3210.html",
    "source": "Le Monde",
-   "date": "2026-10-25T09:23:37+00:00",
-   "extrait": "A la veille du scrutin présidentiel, le président de gauche Luiz Inacio Lula da Silva, candidat à un quatrième mandat, et son rival d’extrême droite Flavio Bolsonaro, ont défilé avec leurs troupes…",
+   "date": "2026-10-25T09:23:36+00:00",
+   "extrait": "A la veille du scrutin présidentiel, le président de gauche, Luiz Inacio Lula da Silva, candidat à un quatrième mandat, et son rival d’extrême droite, Flavio Bolsonaro, ont défilé avec leurs troupes…",
    "tags": [
     "Politique"
    ],
@@ -403,7 +504,7 @@
    "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-congres-du-rn-a-orleans-marine-le-pen-lance-sa-campagne-presidentielle-avec-un-premier-meeting-son-discours-prevu-a-15h30_8252842.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-10-25T08:40:46+00:00",
-   "extrait": "Favorite des sondages, la quadruple candidate doit s'exprimer après une première journée de congrès, qui a reconduit Jordan Bardella à la tête du parti d'extrême droite.",
+   "extrait": "Favorite des sondages, la quadruple candidate doit s'exprimer après une première journée de congrès lors de laquelle Jordan Bardella a été reconduit à la tête du parti d'extrême droite.",
    "tags": [
     "Politique"
    ],
@@ -511,14 +612,12 @@
   },
   {
    "id": "c2f5a59a98e4",
-   "titre": "Manifestations du 24 octobre : 142 personnes ont été interpellées à Paris, dont 120 placées en garde à vue, selon la préfecture de police",
+   "titre": "Manifestations du 24 octobre : plus de 1 300 interpellations en France, et 53 membres des forces de l'ordre blessés, annonce le ministère de l'Intérieur",
    "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-24-octobre-142-personnes-ont-ete-interpellees-a-paris-dont-120-ont-ete-placees-en-garde-a-vue-selon-la-prefecture-de-police_8252812.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-10-25T07:24:36+00:00",
-   "extrait": "Le ministère de l'Intérieur a dénombré 410 000 manifestants dans le pays samedi, contre 550 000 une semaine plus tôt. De son côté, la CGT a comptabilisé 800 000 manifestants, autant que le 17…",
-   "tags": [
-    "Justice"
-   ],
+   "extrait": "Les autorités ont dénombré 410 000 manifestants dans le pays samedi, contre 550 000 une semaine plus tôt. De son côté, la CGT a comptabilisé 800 000 manifestants, soit autant que le 17 octobre.",
+   "tags": [],
    "zone": "france"
   },
   {
@@ -575,14 +674,12 @@
   },
   {
    "id": "351438691655",
-   "titre": "Une \"importante quantité de matériel pédopornographique\" retrouvée chez le père de Meghan Markle, aux Philippines",
+   "titre": "Une \"importante quantité de matériel pédopornographique\" retrouvée à l'ancien domicile du père de Meghan Markle, aux Philippines",
    "lien": "https://www.franceinfo.fr/societe/familles-royales/une-importante-quantite-de-materiel-pedopornographique-retrouvee-chez-le-pere-de-meghan-markle-aux-philippines_8252731.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-10-25T06:32:06+00:00",
-   "extrait": "Le gouvernement philippin a confirmé l'information des tabloïds \"The Sun\" et \"Daily Mail\" qui avaient rapporté, vendredi, que le fils de Thomas Markle avait découvert un stock d'images à caractère…",
-   "tags": [
-    "Politique"
-   ],
+   "extrait": "Dans un communiqué, l'épouse du prince Harry s'est dite \"profondément bouleversée\" par les accusations contre son père.",
+   "tags": [],
    "zone": "france"
   },
   {
@@ -1504,11 +1601,11 @@
   },
   {
    "id": "d1866e19e677",
-   "titre": "\"Les cortèges se sont bien passés\", affirme Laurent Nuñez, qui recense près de 1 000 interpellations",
+   "titre": "Mobilisation du 24 octobre : Nuñez salue le déroulé des cortèges, près de 1 000 interpellations",
    "lien": "https://www.france24.com/fr/france/20261024-les-cort%C3%A8ges-se-sont-bien-pass%C3%A9s-d%C3%A9clare-nu%C3%B1ez-qui-comptabilise-pr%C3%A8s-de-1-000-interpellations",
    "source": "France 24",
    "date": "2026-10-24T20:24:19+00:00",
-   "extrait": "Entre 410 000 et 800 000 personnes ont défilé lors de la mobilisation sociale en France, samedi 24 octobre. Si le ministre de l'Intérieur Laurent Nuñez a estimé que \"les cortèges se sont bien…",
+   "extrait": "Entre 410 000 et 800 000 personnes ont défilé lors de la mobilisation sociale en France, samedi. Si le ministre de l'Intérieur Laurent Nuñez a estimé que \"les cortèges se sont bien passés\", il a…",
    "tags": [
     "Politique"
    ],
@@ -1588,13 +1685,15 @@
   },
   {
    "id": "8782a451516b",
-   "titre": "Des milliers de personnes contre Netanyahu à Tel-Aviv, avant les élections",
+   "titre": "À Tel-Aviv, des milliers de personnes manifestent contre Netanyahu à l'approche des élections",
    "lien": "https://www.france24.com/fr/moyen-orient/20261024-des-milliers-de-personnes-contre-netanyahu-%C3%A0-tel-aviv-avant-les-%C3%A9lections",
    "source": "France 24",
    "date": "2026-10-24T19:42:11+00:00",
-   "extrait": "A trois jours d'élections législatives qui s'annoncent serrées, des milliers de personnes ont manifesté à Tel-Aviv samedi contre le gouvernement de Benjamin Netanyahu.",
+   "extrait": "À trois jours d'élections législatives qui s'annoncent serrées, des milliers de personnes ont manifesté à Tel-Aviv, samedi, contre le gouvernement du Premier ministre israélien, Benjamin Netanyahu…",
    "tags": [
-    "Politique"
+    "Politique",
+    "Conflits",
+    "Justice"
    ],
    "zone": "monde"
   },
@@ -1728,11 +1827,11 @@
   },
   {
    "id": "338409624787",
-   "titre": "Yémen : les Houthis revendiquent des attaques en Arabie saoudite et à Aden",
+   "titre": "Au Yémen, les Houthis revendiquent des attaques à Aden et en Arabie saoudite",
    "lien": "https://www.france24.com/fr/moyen-orient/20261024-cisjordanie-l-arm%C3%A9e-isra%C3%A9lienne-d%C3%A9place-des-palestiniens-%C3%A0-h%C3%A9bron-apr%C3%A8s-une-attaque-meurtri%C3%A8re",
    "source": "France 24",
    "date": "2026-10-24T18:17:32+00:00",
-   "extrait": "Les ⁠combattants houthis ont ​affirmé avoir lancé samedi des ​attaques contre des installations pétrolières et des aéroports saoudiens. La ‌coalition dirigée par l'Arabie ⁠saoudite, qui combat le…",
+   "extrait": "Les ⁠combattants houthis ont ​affirmé avoir lancé, samedi, des ​attaques contre des installations pétrolières et des aéroports saoudiens. La ‌coalition dirigée par l'Arabie ⁠saoudite, qui combat le…",
    "tags": [
     "Conflits"
    ],
@@ -1767,6 +1866,16 @@
    "extrait": "La manifestation parisienne a agrégé une multitude de revendications et s’est déroulée dans le calme, en dépit du contexte sécuritaire après les violences du 17 octobre et un changement de parcours…",
    "tags": [],
    "zone": "france"
+  },
+  {
+   "id": "813974b98b9e",
+   "titre": "🔴 Mobilisation du 24 octobre en direct : près de 1 000 interpellations samedi, un chiffe qui \"va augmenter\", selon Laurent Nuñez",
+   "lien": "https://www.france24.com/fr/france/20261024-en-direct-centaines-manifestations-france-climat-fortes-tensions-mobilisation-revendications-salaires-education-syndicats-pouvoir-d-achat-lycee-police-macron",
+   "source": "France 24",
+   "date": "2026-10-24T18:07:21+00:00",
+   "extrait": "",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "19c0d49aeb1d",
@@ -2211,16 +2320,6 @@
    "extrait": "La France passe à l’heure d’hiver dans la nuit de samedi à dimanche : à 3 heures, il sera 2 heures. La mesure a été réintroduite en 1975, à l’époque pour limiter la consommation d’énergie en plein…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "813974b98b9e",
-   "titre": "🔴 Mobilisation du 24 octobre en direct : 110 000 personnes dans le cortège à Paris, \"situation calme\" selon la préfecture",
-   "lien": "https://www.france24.com/fr/france/20261024-en-direct-centaines-manifestations-france-climat-fortes-tensions-mobilisation-revendications-salaires-education-syndicats-pouvoir-d-achat-lycee-police-macron",
-   "source": "France 24",
-   "date": "2026-10-24T15:15:26+00:00",
-   "extrait": "",
-   "tags": [],
-   "zone": "monde"
   },
   {
    "id": "29b64c2c3569",
@@ -3360,113 +3459,6 @@
    "tags": [
     "Politique"
    ],
-   "zone": "france"
-  },
-  {
-   "id": "0cc445d243de",
-   "titre": "Un avertissement \"pour ceux qui jouent la pagaille\", réagit le ministre de l'Economie Roland Lescure après le maintien de la note de la France par l'agence Moody's",
-   "lien": "https://www.franceinfo.fr/economie/budget/un-avertissement-pour-ceux-qui-jouent-la-pagaille-reagit-le-ministre-de-l-economie-roland-lescure-apres-le-maintien-de-la-note-de-la-france-par-l-agence-moody-s_8251963.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-24T06:22:51+00:00",
-   "extrait": "L'agence Moody's a annoncé vendredi soir maintenir la note souveraine de la France à Aa3, avec perspective négative.",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "7ef5328c98db",
-   "titre": "France prepares for day of protest a week after nationwide riots",
-   "lien": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-24T06:19:46+00:00",
-   "extrait": "Hundreds of thousands are expected to turn out, as more than 70,000 police officers are to be deployed over some may defy restrictions.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "26be1e714745",
-   "titre": "A69 : le tarif de péage de la future autoroute, à plus de 20 euros l’aller-retour, embarrasse ses partisans",
-   "lien": "https://www.lemonde.fr/planete/article/2026/10/24/autoroute-a69-a-plus-de-20-euros-l-aller-retour-le-tarif-du-peage-embarrasse-les-partisans-de-l-equipement_6799664_3244.html",
-   "source": "Le Monde",
-   "date": "2026-10-24T06:01:39+00:00",
-   "extrait": "L’annulation d’une subvention par le Conseil d’Etat a augmenté le prix pour circuler sur cette liaison autoroutière controversée entre Toulouse et Castres qui doit être inaugurée le 6 novembre. Les…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "ceeef592fabc",
-   "titre": "La raffinerie nigériane de Dangote entre en Bourse, portée par l’envolée des prix des carburants",
-   "lien": "https://www.lemonde.fr/economie/article/2026/10/24/la-raffinerie-nigeriane-de-dangote-entre-en-bourse-portee-par-l-envolee-des-prix-des-carburants_6799662_3234.html",
-   "source": "Le Monde",
-   "date": "2026-10-24T06:00:07+00:00",
-   "extrait": "Une sursouscription est anticipée pour cette opération qui se termine mardi 27 octobre. La mégaraffinerie de Lagos affiche des bénéfices en forte hausse, dans un contexte géopolitique et économique…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "ed3397fca77a",
-   "titre": "La résidence de villégiature d'Adolf Hitler, \"le nid d'aigle\", incendiée en Bavière, un suspect arrêté",
-   "lien": "https://www.franceinfo.fr/monde/europe/allemagne/la-residence-de-villegiature-d-adolphe-hitler-le-nid-d-aigle-incendiee-en-baviere-un-suspect-arrete_8251921.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-24T05:57:44+00:00",
-   "extrait": "Construit entre 1937 et 1938 près de Berchtesgaden, le Kehlsteinhaus devait servir de bâtiment de représentation au dictateur nazi, qui s'y est très peu rendu.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "5c5bf712ee69",
-   "titre": "Météo-France place le Pas-de-Calais en vigilance orange \"pluie-inondation\" à partir de 20 heures",
-   "lien": "https://www.franceinfo.fr/environnement/meteo/meteo-france-place-le-pas-de-calais-en-vigilance-orange-pluie-inondations-a-partir-de-20-heures_8251906.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-24T05:32:14+00:00",
-   "extrait": "\"Le caractère préoccupant de cette perturbation n'est pas son intensité, mais la persistance sur plusieurs jours de précipitations abondantes\", précise l'agence météorologique.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "2832afa84a99",
-   "titre": "Tempête Austen : le Pas-de-Calais maintenu en vigilance orange pluie-inondation, 146 000 foyers sans électricité dans l’Ouest et le Nord",
-   "lien": "https://www.lemonde.fr/planete/article/2026/10/24/tempete-austen-le-pas-de-calais-maintenu-en-vigilance-orange-pluie-inondation-146-000-foyers-sans-electricite-dans-l-ouest-et-le-nord_6799655_3245.html",
-   "source": "Le Monde",
-   "date": "2026-10-24T05:31:10+00:00",
-   "extrait": "Le département entrera en alerte orange à 21 heures samedi jusqu’à 4 heures dimanche, en raison du passage de la perturbation Boelo, à la suite de la tempête Austen.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "01300e7b357d",
-   "titre": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
-   "lien": "https://www.bbc.co.uk/news/articles/ck20rery78lro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-24T05:31:01+00:00",
-   "extrait": "Greg Bovino was the public face of the controversial immigration enforcement operation in the city earlier this year.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "b93f9102bccf",
-   "titre": "À Orléans, l'inquiétude des élus RN devant la mobilisation des manifestants contre l'extrême droite",
-   "lien": "https://www.franceinfo.fr/politique/front-national/reportage-a-orleans-la-crainte-des-sympathisants-et-militants-du-rn-devant-la-mobilisation-des-manifestants-contre-l-extreme-droite_8251378.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-24T05:30:11+00:00",
-   "extrait": "Pour sécuriser le congrès du RN, samedi à Orléans, le ministère de l'Intérieur a déployé les grands moyens en vue de la venue de dizaines de milliers de manifestants anti-RN, qui se sont invités…",
-   "tags": [],
    "zone": "france"
   }
  ]
