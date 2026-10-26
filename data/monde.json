@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-26T05:05:38+00:00",
+ "maj": "2026-10-26T05:23:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,127 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "b4c30b6342df",
+   "titre": "Venezuelan opposition leader María Machado returns after months in exile",
+   "lien": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-26T05:20:19+00:00",
+   "extrait": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "bd42b430d1bb",
+   "titre": "Le Premier ministre serbe Aleksandar Vucic reconnaît sa défaite aux élections législatives anticipées, après 14 ans au pouvoir",
+   "lien": "https://www.franceinfo.fr/monde/europe/le-premier-ministre-serbe-aleksandar-vucic-reconnait-sa-defaite-aux-elections-legislatives-anticipees-apres-14-ans-au-pouvoir_8253550.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-26T05:20:03+00:00",
+   "extrait": "Il s'incline face à la liste menée par le mouvement étudiant, qui organise des manifestations dans tout le pays depuis deux ans.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "f02c1cf8e18f",
+   "titre": "Le président brésilien de gauche Lula décroche un quatrième mandat avec 51,8% des voix face au conservateur Flavio Bolsonaro",
+   "lien": "https://www.franceinfo.fr/monde/bresil/le-president-bresilien-de-gauche-lula-decroche-un-quatrieme-mandat-avec-51-8-des-voix-face-au-conservateur-flavio-bolsonaro_8253706.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-26T05:05:36+00:00",
+   "extrait": "Avec 51,8% des voix contre 48,2% pour le sénateur Flavio Bolsonaro, le vétéran a déjoué tous les pronostics.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "26d40c522d8d",
+   "titre": "Brésil : Lula réélu président à la surprise générale, au terme d’une mobilisation massive et d’un scrutin chaotique",
+   "lien": "https://www.lemonde.fr/international/article/2026/10/26/bresil-lula-reelu-president-a-la-surprise-generale-au-terme-d-une-mobilisation-massive-et-d-un-scrutin-chaotique_6800431_3210.html",
+   "source": "Le Monde",
+   "date": "2026-10-26T05:04:10+00:00",
+   "extrait": "Le candidat de gauche était arrivé, au premier tour, derrière son rival Flavio Bolsonaro, qui réclame l’annulation de l’élection après des prolongations désordonnées d’ouverture des bureaux de vote.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "12657205cc39",
+   "titre": "\"L'Héritage\" de Jonathan Littell : plongée kafkaïenne au cœur des rouages d'une technocratie totalitaire",
+   "lien": "https://www.franceinfo.fr/culture/livres/la-rentree-litteraire/l-heritage-de-jonathan-littell-plongee-kafkaienne-au-c-ur-des-rouages-d-une-technocratie-totalitaire_8250952.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-26T05:00:04+00:00",
+   "extrait": "Vingt ans après le choc des \"Bienveillantes\", prix Goncourt 2006, l'écrivain franco-américain signe un grand roman politique sur l'itinéraire d'un fonctionnaire ordinaire qui va devenir le bras armé…",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "689aaa9c4928",
+   "titre": "Ballon d'or 2026 : Kylian Mbappé, Lamine Yamal, Harry Kane... Les arguments des principaux favoris",
+   "lien": "https://www.franceinfo.fr/sports/foot/ballon-d-or/ballon-d-or-2026-kylian-mbappe-lamine-yamal-harry-kane-les-arguments-des-principaux-favoris_8244049.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-26T05:00:02+00:00",
+   "extrait": "La 70e édition du trophée récompensant le meilleur joueur de football de la saison passée se tient, lundi, à Londres.",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "6e06c39d9dab",
+   "titre": "L'article à lire pour comprendre les enjeux des élections législatives cruciales en Israël",
+   "lien": "https://www.franceinfo.fr/monde/israel/l-article-a-lire-pour-comprendre-les-enjeux-des-elections-legislatives-cruciales-en-israel_8228218.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-26T04:47:58+00:00",
+   "extrait": "Les électeurs israéliens sont appelés à élire leurs députés, mardi. Affaibli dans les sondages, le Likoud du Premier ministre sortant, Benyamin Nétanyahou, est au coude-à-coude avec son principal…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "9ccebd3e103b",
+   "titre": "\"Mais pourquoi tout le monde en veut à 'Bibi' ?\" : à Ofakim, ville attaquée le 7-Octobre, \"on revotera encore et encore\" pour Benyamin Nétanyahou aux législatives israéliennes",
+   "lien": "https://www.franceinfo.fr/monde/israel/reportage-mais-pourquoi-tout-le-monde-en-veut-a-bibi-a-ofakim-ville-attaquee-le-7-octobre-on-revotera-encore-et-encore-pour-benyamin-netanyahou-aux-legislatives-israeliennes_8253244.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-26T04:47:22+00:00",
+   "extrait": "Dans ce bastion historique de la droite, les critiques émises à l'encontre de l'actuel Premier ministre ne semblent pas atteindre les électeurs.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "31190f640933",
+   "titre": "Procès de la mort de Cédric Chouviat : près de sept ans après, le caractère volontaire ou non des violences des policiers reste au cœur des débats",
+   "lien": "https://www.franceinfo.fr/faits-divers/justice-proces/proces-de-la-mort-de-cedric-chouviat-pres-de-sept-ans-apres-le-caractere-volontaire-ou-non-des-violences-des-policiers-reste-au-c-ur-des-debats_8218225.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-26T04:46:42+00:00",
+   "extrait": "Lundi et mardi, trois policiers sont jugés devant le tribunal correctionnel de Paris pour \"homicide involontaire\". Mais les avocats de la famille du livreur, mort en janvier 2020 après sa violente…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "b06f3c018984",
+   "titre": "Quelles sont les pistes étudiées par le gouvernement pour améliorer Parcoursup, dont le mouvement lycéen demande la suppression ?",
+   "lien": "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/quelles-sont-les-pistes-etudiees-par-le-gouvernement-pour-ameliorer-parcoursup-dont-le-mouvement-lyceen-demande-la-suppression_8252857.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-26T04:46:09+00:00",
+   "extrait": "Le gouvernement doit dévoiler des mesures pour répondre aux demandes de la jeunesse lundi. Au cœur de leurs revendications figure la fin du système d'accès aux études supérieures, que l'exécutif…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "af800f4e404e",
    "titre": "Jordanie : trois suspects arrêtés après l’attaque meurtrière contre une église orthodoxe",
    "lien": "https://www.lemonde.fr/international/article/2026/10/26/jordanie-trois-suspects-arretes-apres-l-attaque-meurtriere-contre-une-eglise-orthodoxe_6800427_3210.html",
@@ -30,6 +151,18 @@
    "extrait": "L’attaque sans précédent contre les chrétiens du royaume perpétrée vendredi par des hommes armés dans le village de Hammoud, dans le sud du pays, a fait neuf morts, selon le dernier bilan des…",
    "tags": [
     "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "3ba267697b7d",
+   "titre": "Christo Popov numéro 1 mondial, Kylian Mbappé porte le Real, Kimi Antonelli se rapproche du titre en F1... Le récap sport du week-end",
+   "lien": "https://www.franceinfo.fr/sports/christo-popov-numero-1-mondial-kylian-mbappe-porte-le-real-kimi-antonelli-se-rapproche-du-titre-en-f1-le-recap-sport-du-week-end_8253334.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-26T04:30:01+00:00",
+   "extrait": "Auteur d'un doublé dans le Clasico, dimanche soir, Kylian Mbappé a inscrit ses 99e et 100e buts sous les couleurs du Real Madrid.",
+   "tags": [
+    "Sport"
    ],
    "zone": "france"
   },
@@ -66,18 +199,6 @@
     "Politique"
    ],
    "zone": "france"
-  },
-  {
-   "id": "b4c30b6342df",
-   "titre": "Venezuelan opposition leader María Machado returns after months in exile",
-   "lien": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-26T03:05:22+00:00",
-   "extrait": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
   },
   {
    "id": "66170a546355",
@@ -556,18 +677,6 @@
    "extrait": "Figure dominante de la vie politique en Serbie depuis 14 ans, le dirigeant nationaliste Aleksandar Vucic a reconnu sa défaite aux législatives anticipées dimanche, admettant rapidement dans la…",
    "tags": [],
    "zone": "monde"
-  },
-  {
-   "id": "bd42b430d1bb",
-   "titre": "Le Premier ministre serbe Aleksandar Vucic reconnaît sa défaite aux élections législatives anticipées, après 14 ans au pouvoir",
-   "lien": "https://www.franceinfo.fr/monde/europe/le-premier-ministre-serbe-aleksandar-vucic-reconnait-sa-defaite-aux-elections-legislatives-anticipees-apres-14-ans-au-pouvoir_8253550.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-25T21:06:42+00:00",
-   "extrait": "Il s'incline face à la liste menée par le mouvement étudiant, qui organise des manifestations dans tout le pays depuis deux ans.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
   },
   {
    "id": "4405daef44bd",
@@ -3359,109 +3468,6 @@
     "Politique"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "78e42d3961c2",
-   "titre": "West Coast communities bracing for high tides as storms bring flooding",
-   "lien": "https://www.cbsnews.com/video/west-coast-communities-bracing-for-high-tides-as-storms-bring-flooding/",
-   "source": "CBS News",
-   "date": "2026-10-25T00:50:00+00:00",
-   "extrait": "Communities along the West Coast were bracing for high tides to add to recent flooding that has also inundated the Southwest. Akiko Fujita reports, and Andrew Kozak has the forecast.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "83262cac36c8",
-   "titre": "Le Gabon rétablit les réseaux sociaux après huit mois de suspension",
-   "lien": "https://www.lemonde.fr/afrique/article/2026/10/25/le-gabon-retablit-les-reseaux-sociaux-apres-huit-mois-de-suspension_6799863_3212.html",
-   "source": "Le Monde",
-   "date": "2026-10-25T00:39:07+00:00",
-   "extrait": "Le gouvernement a également rendu l’identification formelle obligatoire pour tous les usagers gabonais en octobre, mettant ainsi fin à l’anonymat en ligne dans le pays.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "5a9a6305a19c",
-   "titre": "In Ohio rally, Obama blasts Ramaswamy, GOP over controversial Acton ad",
-   "lien": "https://www.cbsnews.com/news/obama-blasts-ramaswamy-gop-amy-acton-ad-ohio/",
-   "source": "CBS News",
-   "date": "2026-10-25T00:34:00+00:00",
-   "extrait": "Former President Barack Obama took aim at gubernatorial candidate Vivek Ramaswamy, who has doubled down on an advertising campaign featuring the estranged mother of Democratic rival Amy Acton.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "89d7ce8ed198",
-   "titre": "L’archidiocèse de New York va verser 800 millions de dollars à plus de 1 300 victimes d’abus sexuels",
-   "lien": "https://www.lemonde.fr/international/article/2026/10/25/l-archidiocese-de-new-york-va-verser-800-millions-de-dollars-a-plus-de-1-300-victimes-d-abus-sexuels_6799830_3210.html",
-   "source": "Le Monde",
-   "date": "2026-10-24T23:33:11+00:00",
-   "extrait": "L’Eglise catholique américaine, embourbée depuis le début des années 2000 dans des scandales sexuels à répétition, a déjà conclu plusieurs accords similaires, mettant un terme aux poursuites…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "6d44f7aff151",
-   "titre": "Nigeria : au moins vingt morts dans une attaque de « bandits » dans le Nord-Est",
-   "lien": "https://www.lemonde.fr/afrique/article/2026/10/25/nigeria-au-moins-vingt-morts-dans-une-attaque-de-bandits-dans-le-nord-est_6799797_3212.html",
-   "source": "Le Monde",
-   "date": "2026-10-24T23:17:23+00:00",
-   "extrait": "Si cette zone du pays est confrontée depuis longtemps à une insurrection djihadiste, elle est également en proie à des bandes criminelles sans motivation idéologique, qui terrorisent les communautés…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "87197441daf1",
-   "titre": "Donald Trump a voté par anticipation en Floride aux élections de mi-mandat",
-   "lien": "https://www.lemonde.fr/international/article/2026/10/25/donald-trump-a-vote-par-anticipation-en-floride-aux-elections-de-mi-mandat_6799764_3210.html",
-   "source": "Le Monde",
-   "date": "2026-10-24T23:06:08+00:00",
-   "extrait": "A dix jours des midterms, le locataire de la Maison Blanche multiplie les attaques contre les démocrates et agite à nouveau le spectre de la fraude électorale.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "7b01f4c96719",
-   "titre": "The bitter row over military service that could shape Israel's future",
-   "lien": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-24T23:03:21+00:00",
-   "extrait": "The ultra-Orthodox community is resisting being drafted into the Israeli army. But will they now bring down the Netanyahu government?",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "ca3fbe9d3288",
-   "titre": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
-   "lien": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-24T23:03:09+00:00",
-   "extrait": "The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "b3bfe36f76a2",
-   "titre": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
-   "lien": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-24T23:02:51+00:00",
-   "extrait": "For Bu and Tyapa, the five-year journey from Russia to the Irish countryside was anything but straightforward.",
-   "tags": [],
-   "zone": "monde"
   }
  ]
 }
