@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-26T19:05:40+00:00",
+ "maj": "2026-10-26T20:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,26 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "d84dc99ca60f",
+   "titre": "DreamHost forces password resets in ongoing \"incident\"",
+   "lien": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
+   "source": "BleepingComputer",
+   "date": "2026-10-26T19:26:20+00:00",
+   "extrait": "DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]",
+   "tags": []
+  },
+  {
+   "id": "961277245249",
+   "titre": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
+   "lien": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
+   "source": "The Hacker News",
+   "date": "2026-10-26T18:12:22+00:00",
+   "extrait": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to Dutch e-commerce security company…",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
   {
    "id": "fd2c8a91369a",
    "titre": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
