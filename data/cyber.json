@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-26T16:05:41+00:00",
+ "maj": "2026-10-26T17:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "5e34561ea984",
+   "titre": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
+   "lien": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
+   "source": "BleepingComputer",
+   "date": "2026-10-26T16:27:57+00:00",
+   "extrait": "A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]",
+   "tags": [
+    "Faille"
+   ]
+  },
   {
    "id": "cf08225efb6b",
    "titre": "Microsoft releases emergency .NET patches for critical Brotli flaw",
