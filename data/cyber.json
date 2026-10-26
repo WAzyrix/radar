@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-26T21:05:39+00:00",
+ "maj": "2026-10-26T22:05:42+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "9b6153963ef5",
+   "titre": "Former pentester used ARTEX AI to steal 8.2 million data records",
+   "lien": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
+   "source": "BleepingComputer",
+   "date": "2026-10-26T21:08:28+00:00",
+   "extrait": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the…",
+   "tags": [
+    "IA"
+   ]
+  },
   {
    "id": "154f68998af1",
    "titre": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
