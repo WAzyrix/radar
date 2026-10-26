@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-26T17:05:40+00:00",
+ "maj": "2026-10-26T18:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,6 +24,19 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "fd2c8a91369a",
+   "titre": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
+   "lien": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
+   "source": "The Hacker News",
+   "date": "2026-10-26T17:45:57+00:00",
+   "extrait": "PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include. The flaw can let an attacker corrupt…",
+   "tags": [
+    "CVE",
+    "Faille",
+    "Windows"
+   ]
+  },
+  {
    "id": "5e34561ea984",
    "titre": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
    "lien": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
@@ -32,6 +45,19 @@
    "extrait": "A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]",
    "tags": [
     "Faille"
+   ]
+  },
+  {
+   "id": "03f54c74f6fe",
+   "titre": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
+   "lien": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
+   "source": "The Hacker News",
+   "date": "2026-10-26T15:52:40+00:00",
+   "extrait": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external chat…",
+   "tags": [
+    "Ransomware",
+    "Malware",
+    "Windows"
    ]
   },
   {
