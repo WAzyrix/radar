@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-26T09:05:40+00:00",
+ "maj": "2026-10-26T10:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,40 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "fbd9cb2b4455",
+   "titre": "PHP2Shell security flaws now sucessfully exploited in the wild",
+   "lien": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+   "source": "BleepingComputer",
+   "date": "2026-10-26T09:19:57+00:00",
+   "extrait": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
+  },
+  {
+   "id": "35a2887f8653",
+   "titre": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
+   "lien": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+   "source": "The Hacker News",
+   "date": "2026-10-26T08:35:51+00:00",
+   "extrait": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen…",
+   "tags": [
+    "Windows"
+   ]
+  },
+  {
+   "id": "8e95a20d61e4",
+   "titre": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
+   "lien": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+   "source": "The Hacker News",
+   "date": "2026-10-26T07:49:46+00:00",
+   "extrait": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The…",
+   "tags": [
+    "Outil"
+   ]
+  },
   {
    "id": "8239096a100a",
    "titre": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
