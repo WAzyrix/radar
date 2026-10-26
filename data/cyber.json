@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-26T13:36:34+00:00",
+ "maj": "2026-10-26T14:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "9cb042202f4d",
+   "titre": "Chinese man extradited for role in $36 million cryptocurrency scam",
+   "lien": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
+   "source": "BleepingComputer",
+   "date": "2026-10-26T13:56:44+00:00",
+   "extrait": "A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174…",
+   "tags": [
+    "Malware"
+   ]
+  },
   {
    "id": "a5411bb33d7f",
    "titre": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
