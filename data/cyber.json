@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-26T11:05:40+00:00",
+ "maj": "2026-10-26T12:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,15 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "49aedb62ce7d",
+   "titre": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
+   "lien": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
+   "source": "The Hacker News",
+   "date": "2026-10-26T11:23:56+00:00",
+   "extrait": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform…",
+   "tags": []
+  },
   {
    "id": "4dd6d369bedf",
    "titre": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
