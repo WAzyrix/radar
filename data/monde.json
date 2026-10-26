@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-26T02:05:40+00:00",
+ "maj": "2026-10-26T03:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,11 +22,33 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "b4c30b6342df",
+   "titre": "Venezuelan opposition leader María Machado returns after months in exile",
+   "lien": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-26T03:05:22+00:00",
+   "extrait": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "66170a546355",
+   "titre": "Venezuela opposition leader María Corina Machado returns to country",
+   "lien": "https://www.cbsnews.com/news/venezuela-opposition-maria-corina-machado-return/",
+   "source": "CBS News",
+   "date": "2026-10-26T02:27:34+00:00",
+   "extrait": "Machado covertly snuck out of the South American country in December with a private U.S. rescue team to accept the 2025 Nobel Peace Prize in Norway.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
    "id": "0a25afb09659",
    "titre": "Lula wins fourth term as Brazil's president",
    "lien": "https://www.cbsnews.com/news/brazil-presidential-runoff-lula-flavio-bolsonaro/",
    "source": "CBS News",
-   "date": "2026-10-26T02:04:58+00:00",
+   "date": "2026-10-26T02:11:02+00:00",
    "extrait": "With 100% of the vote counted, Brazil's electoral court announced that the soon-to-be 81-year-old Luiz Inácio Lula da Silva held an unassailable lead.",
    "tags": [
     "Politique",
@@ -94,7 +116,7 @@
   },
   {
    "id": "793387ad058c",
-   "titre": "Le Brésil reste à gauche : Lula remporte un quatrième mandat après avoir battu Flavio Bolsonaro",
+   "titre": "Brésil : Lula réélu président, Flavio Bolsonaro va demander \"l'annulation des élections\"",
    "lien": "https://www.france24.com/fr/am%C3%A9riques/20261026-bresil-victoire-lula-quatrieme-mandat-flavio-bolsonaro",
    "source": "France 24",
    "date": "2026-10-26T00:17:47+00:00",
@@ -241,18 +263,6 @@
    "zone": "usa"
   },
   {
-   "id": "b4c30b6342df",
-   "titre": "Venezuelan opposition leader María Machado returns after months in exile",
-   "lien": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-25T23:33:14+00:00",
-   "extrait": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
    "id": "d2a7420a066c",
    "titre": "RD Congo : la proposition de loi fixant les conditions d’organisation du référendum adoptée",
    "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261025-rd-congo-la-proposition-de-loi-fixant-les-conditions-d-organisation-du-r%C3%A9f%C3%A9rendum-adopt%C3%A9e",
@@ -299,28 +309,6 @@
    "zone": "usa"
   },
   {
-   "id": "2ed4f46b88e9",
-   "titre": "Coming up on 60 Minutes: Victor Wembanyama",
-   "lien": "https://www.cbsnews.com/video/victor-wembanyama-coming-up-60-minutes-video-2026-10-25/",
-   "source": "CBS News",
-   "date": "2026-10-25T23:00:14+00:00",
-   "extrait": "The NBA season began and basketball stars are looming large — some of them more than others, like Victor Wembanyama, the 7-foot-4-inch forward-center for the San Antonio Spurs. Jon Wertheim reports…",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "b2a9148f5915",
-   "titre": "Australia's social media ban for kids a global test case, even as it faces challenges | 60 Minutes",
-   "lien": "https://www.cbsnews.com/video/australia-social-media-60-minutes-video-2026-10-25/",
-   "source": "CBS News",
-   "date": "2026-10-25T23:00:12+00:00",
-   "extrait": "Australia, concerned over social media's impact on kids, placed restrictions for children under 16 on many major platforms. It's too soon to say if the law's working, but it's now a global test case.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "0cf0577bd6ac",
    "titre": "60 Minutes Transcript: Inside Trump's third-country deportations",
    "lien": "https://www.cbsnews.com/news/how-some-deportees-end-up-in-countries-us-judges-ruled-off-limits-60-minutes-transcript/",
@@ -334,11 +322,33 @@
    "zone": "usa"
   },
   {
+   "id": "2ed4f46b88e9",
+   "titre": "Coming up on 60 Minutes: Victor Wembanyama",
+   "lien": "https://www.cbsnews.com/video/victor-wembanyama-coming-up-60-minutes-video-2026-10-25/",
+   "source": "CBS News",
+   "date": "2026-10-25T23:00:00+00:00",
+   "extrait": "The NBA season began and basketball stars are looming large — some of them more than others, like Victor Wembanyama, the 7-foot-4-inch forward-center for the San Antonio Spurs. Jon Wertheim reports…",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "b2a9148f5915",
+   "titre": "Australia's social media ban for kids a global test case, even as it faces challenges | 60 Minutes",
+   "lien": "https://www.cbsnews.com/video/australia-social-media-60-minutes-video-2026-10-25/",
+   "source": "CBS News",
+   "date": "2026-10-25T23:00:00+00:00",
+   "extrait": "Australia, concerned over social media's impact on kids, placed restrictions for children under 16 on many major platforms. It's too soon to say if the law's working, but it's now a global test case.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
    "id": "20abeb36f6d6",
    "titre": "Investigating claims Trump tried to strong-arm Colorado into releasing Tina Peters | 60 Minutes",
    "lien": "https://www.cbsnews.com/video/tina-peters-trump-colorado-polis-60-minutes-video-2026-10-25/",
    "source": "CBS News",
-   "date": "2026-10-25T23:00:11+00:00",
+   "date": "2026-10-25T23:00:00+00:00",
    "extrait": "Tina Peters, an election conspiracy theorist who supported President Trump's voting fraud claims, had her Colorado prison sentence commuted by Gov. Jared Polis after a White House pressure campaign.",
    "tags": [
     "Politique"
@@ -350,7 +360,7 @@
    "titre": "ICE deported Texas dad to Ghana because home country was unsafe; Ghana sent him anyway | 60 Minutes",
    "lien": "https://www.cbsnews.com/video/third-country-deportations-60-minutes-video-2026-10-25/",
    "source": "CBS News",
-   "date": "2026-10-25T23:00:08+00:00",
+   "date": "2026-10-25T23:00:00+00:00",
    "extrait": "When immigrants can't be deported to their home countries, the U.S. sometimes sends them to other countries. But some deportees end up in places where U.S. judges have ruled they will likely be…",
    "tags": [
     "Justice"
@@ -382,6 +392,18 @@
    "zone": "usa"
   },
   {
+   "id": "46015503fc5b",
+   "titre": "10/25/2026: Destination: Nowhere; #FreeTinaPeters; Australia's Experiment",
+   "lien": "https://www.cbsnews.com/video/60minutes-2026-10-25/",
+   "source": "CBS News",
+   "date": "2026-10-25T23:00:00+00:00",
+   "extrait": "First, inside Trump's third-country deportations. Then, Trump, Tina Peters and funds for Colorado. And, Australia's under-16 social media ban.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "a46103485c33",
    "titre": "A Hébron, en Cisjordanie, plus de 2 670 Palestiniens « déplacés de force » par l’armée israélienne, selon l’Autorité palestinienne",
    "lien": "https://www.lemonde.fr/international/article/2026/10/25/a-hebron-en-cisjordanie-plus-de-2-670-palestiniens-deplaces-de-force-par-l-armee-israelienne-selon-l-autorite-palestinienne_6800149_3210.html",
@@ -392,6 +414,18 @@
     "Conflits"
    ],
    "zone": "france"
+  },
+  {
+   "id": "1054adbb0a3e",
+   "titre": "10/25: CBS Weekend News",
+   "lien": "https://www.cbsnews.com/video/10252026-cbs-weekend-news/",
+   "source": "CBS News",
+   "date": "2026-10-25T22:30:00+00:00",
+   "extrait": "The NFL played its first game in France amid protests; midterm campaigning entered its final stretch.",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "usa"
   },
   {
    "id": "d33d24266c27",
@@ -755,16 +789,6 @@
    "extrait": "Vous n’avez pas suivi l’actualité ces derniers jours ? Voici ce qu’il s’est passé pendant ces dernières quarante-huit heures.",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "66170a546355",
-   "titre": "Venezuela opposition leader María Corina Machado returns to country",
-   "lien": "https://www.cbsnews.com/news/venezuela-opposition-maria-corina-machado-return/",
-   "source": "CBS News",
-   "date": "2026-10-25T18:09:57+00:00",
-   "extrait": "Machado covertly snuck out of the South American country in December with a private U.S. rescue team to accept the 2025 Nobel Peace Prize in Norway.",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "95888b00ac12",
@@ -3436,30 +3460,6 @@
    "date": "2026-10-24T22:47:58+00:00",
    "extrait": "The 1,300 survivors of sexual abuse by clergy members and lay workers have all agreed to the settlement, according to an attorney for some of the plaintiffs.",
    "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "6a322a2112f2",
-   "titre": "Meet the volunteers helping adults navigate their health",
-   "lien": "https://www.cbsnews.com/video/volunteers-helping-adults-navigate-their-health/",
-   "source": "CBS News",
-   "date": "2026-10-24T22:38:07+00:00",
-   "extrait": "October is Health Literacy Month, and a recent study shows that a third of adults struggle with basic everyday health tasks. Nana-Sentuo Bonsu introduces us to a volunteer group helping adults…",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "b9b759faec43",
-   "titre": "10/24: CBS Weekend News",
-   "lien": "https://www.cbsnews.com/video/102426-cbs-weekend-news/",
-   "source": "CBS News",
-   "date": "2026-10-24T22:30:00+00:00",
-   "extrait": "West Coast braces for more flooding; Obama campaigns for Democrats.",
-   "tags": [
-    "Climat"
-   ],
    "zone": "usa"
   }
  ]
