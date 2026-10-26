@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-26T14:05:39+00:00",
+ "maj": "2026-10-26T15:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,30 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "3576934612fc",
+   "titre": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
+   "lien": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
+   "source": "The Hacker News",
+   "date": "2026-10-26T14:06:13+00:00",
+   "extrait": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets…",
+   "tags": [
+    "Faille",
+    "Fuite de données",
+    "IA"
+   ]
+  },
+  {
+   "id": "3c0f1fb39eea",
+   "titre": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
+   "lien": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
+   "source": "BleepingComputer",
+   "date": "2026-10-26T14:00:10+00:00",
+   "extrait": "A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the…",
+   "tags": [
+    "IA"
+   ]
+  },
   {
    "id": "9cb042202f4d",
    "titre": "Chinese man extradited for role in $36 million cryptocurrency scam",
