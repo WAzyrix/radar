@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-26T04:05:38+00:00",
+ "maj": "2026-10-26T05:05:38+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -37,15 +37,14 @@
   },
   {
    "id": "3eda0d6ae7e3",
-   "titre": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+   "titre": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
    "lien": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
    "source": "The Hacker News",
    "date": "2026-10-25T17:19:46+00:00",
-   "extrait": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618…",
+   "extrait": "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the…",
    "tags": [
-    "CVE",
-    "Fuite de données",
-    "IA"
+    "Faille",
+    "Fuite de données"
    ]
   },
   {
