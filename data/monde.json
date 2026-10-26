@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-26T01:05:37+00:00",
+ "maj": "2026-10-26T02:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,31 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "0a25afb09659",
+   "titre": "Lula wins fourth term as Brazil's president",
+   "lien": "https://www.cbsnews.com/news/brazil-presidential-runoff-lula-flavio-bolsonaro/",
+   "source": "CBS News",
+   "date": "2026-10-26T02:04:58+00:00",
+   "extrait": "With 100% of the vote counted, Brazil's electoral court announced that the soon-to-be 81-year-old Luiz Inácio Lula da Silva held an unassailable lead.",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "81bc7b0e59c4",
+   "titre": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+   "lien": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-26T01:07:05+00:00",
+   "extrait": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
   {
    "id": "de908d19aedd",
    "titre": "Gina Hinojosa says there's \"deep disappointment\" in both parties",
@@ -44,25 +69,12 @@
    "zone": "usa"
   },
   {
-   "id": "0a25afb09659",
-   "titre": "Lula wins fourth term as Brazil's president",
-   "lien": "https://www.cbsnews.com/news/brazil-presidential-runoff-lula-flavio-bolsonaro/",
-   "source": "CBS News",
-   "date": "2026-10-26T00:48:33+00:00",
-   "extrait": "With 100% of the vote counted, Brazil's electoral court announced that the soon-to-be 81-year-old Luiz Inácio Lula da Silva held an unassailable lead.",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "6c9e3960e7e8",
    "titre": "F1 : l’Italien Kimi Antonelli remporte le Grand Prix des Etats-Unis et se rapproche un peu plus du titre mondial",
    "lien": "https://www.lemonde.fr/sport/article/2026/10/26/f1-l-italien-kimi-antonelli-remporte-le-grand-prix-des-etats-unis-et-se-rapproche-un-peu-plus-du-titre-mondial_6800248_3242.html",
    "source": "Le Monde",
-   "date": "2026-10-26T00:37:31+00:00",
-   "extrait": "Auteur de sa neuvième victoire de la saison à l’âge de 20 ans, le pilote Mercedes n’aura besoin que de deux points lors du Grand Prix du Mexique, dimanche 1er novembre, pour être sacré champion du…",
+   "date": "2026-10-26T00:37:28+00:00",
+   "extrait": "Auteur de sa neuvième victoire de la saison à l’âge de 20 ans, le pilote Mercedes n’aura besoin que de deux points lors du Grand Prix du Mexique, dimanche 1ᵉʳ novembre, pour être sacré champion du…",
    "tags": [
     "Économie"
    ],
@@ -103,6 +115,16 @@
     "Politique"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "ed06c745eaba",
+   "titre": "🔴 Présidentielle au Brésil en direct : Lula donné vainqueur au second tour face à Flavio Bolsonaro",
+   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261025-en-direct-r%C3%A9sultats-second-tour-election-presidentielle-bresil-bolsonaro-lula-1",
+   "source": "France 24",
+   "date": "2026-10-26T00:11:41+00:00",
+   "extrait": "",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "cae22825e86a",
@@ -360,18 +382,6 @@
    "zone": "usa"
   },
   {
-   "id": "81bc7b0e59c4",
-   "titre": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
-   "lien": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-25T22:54:57+00:00",
-   "extrait": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
    "id": "a46103485c33",
    "titre": "A Hébron, en Cisjordanie, plus de 2 670 Palestiniens « déplacés de force » par l’armée israélienne, selon l’Autorité palestinienne",
    "lien": "https://www.lemonde.fr/international/article/2026/10/25/a-hebron-en-cisjordanie-plus-de-2-670-palestiniens-deplaces-de-force-par-l-armee-israelienne-selon-l-autorite-palestinienne_6800149_3210.html",
@@ -586,7 +596,7 @@
   },
   {
    "id": "f3f597dfb1b1",
-   "titre": "EN DIRECT, présidentielle au Brésil : Lula remporte l’élection avec 51,76 % des voix contre Flavio Bolsonaro au terme d’une journée de vote chaotique",
+   "titre": "EN DIRECT, présidentielle au Brésil : Lula remporte l’élection avec 51,79 % des voix, Flavio Bolsonaro va « demander l’annulation » du scrutin",
    "lien": "https://www.lemonde.fr/international/live/2026/10/25/en-direct-election-presidentielle-au-bresil-lula-accuse-des-maires-d-empecher-des-electeurs-d-aller-voter-apres-des-penuries-de-bus-dans-plusieurs-villes_6800074_3210.html",
    "source": "Le Monde",
    "date": "2026-10-25T19:24:18+00:00",
@@ -1687,18 +1697,6 @@
     "Sport"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "ed06c745eaba",
-   "titre": "Brésil en direct : Lula renverse la tendance et remporte le second tour de l'élection présidentielle",
-   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261025-en-direct-r%C3%A9sultats-second-tour-election-presidentielle-bresil-bolsonaro-lula-1",
-   "source": "France 24",
-   "date": "2026-10-25T14:00:49+00:00",
-   "extrait": "C'est la première fois dans l'histoire du pays, depuis le retour à la démocratie, qu'un candidat ayant perdu au premier tour parvient à remonter la pente et à s'imposer au second tour. L'actuel…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
   },
   {
    "id": "ffe2a3c791de",
