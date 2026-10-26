@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-26T13:05:53+00:00",
+ "maj": "2026-10-26T13:36:34+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "a5411bb33d7f",
+   "titre": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
+   "lien": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
+   "source": "The Hacker News",
+   "date": "2026-10-26T11:52:41+00:00",
+   "extrait": "Two critical flaws in Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the project's…",
+   "tags": [
+    "Faille"
+   ]
+  },
   {
    "id": "49aedb62ce7d",
    "titre": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
