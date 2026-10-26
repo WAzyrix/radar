@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-26T10:05:40+00:00",
+ "maj": "2026-10-26T11:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,31 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "4dd6d369bedf",
+   "titre": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
+   "lien": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
+   "source": "BleepingComputer",
+   "date": "2026-10-26T10:26:52+00:00",
+   "extrait": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]",
+   "tags": [
+    "Fuite de données",
+    "Outil",
+    "Linux"
+   ]
+  },
+  {
+   "id": "275e6f3b55af",
+   "titre": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
+   "lien": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
+   "source": "The Hacker News",
+   "date": "2026-10-26T09:54:02+00:00",
+   "extrait": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who…",
+   "tags": [
+    "Malware",
+    "Mobile"
+   ]
+  },
   {
    "id": "fbd9cb2b4455",
    "titre": "PHP2Shell security flaws now sucessfully exploited in the wild",
