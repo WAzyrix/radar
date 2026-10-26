@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-26T07:05:40+00:00",
+ "maj": "2026-10-26T08:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "8239096a100a",
+   "titre": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+   "lien": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+   "source": "The Hacker News",
+   "date": "2026-10-26T06:03:48+00:00",
+   "extrait": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm Forever Security said in a report…",
+   "tags": [
+    "Malware",
+    "IA"
+   ]
+  },
   {
    "id": "4a8154151413",
    "titre": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
@@ -97,10 +109,11 @@
    "lien": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
    "source": "The Hacker News",
    "date": "2026-10-24T11:09:29+00:00",
-   "extrait": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to…",
+   "extrait": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, Microsoft's .NET, the Python Brotli and brotlicffi packages, and Envoy…",
    "tags": [
     "CVE",
-    "Faille"
+    "Faille",
+    "Windows"
    ]
   },
   {
