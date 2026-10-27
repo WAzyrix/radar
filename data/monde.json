@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-27T06:05:41+00:00",
+ "maj": "2026-10-27T07:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,16 +22,148 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "542ba988b31e",
+   "titre": "Deux grandes compagnies chinoises rompent leurs contrats avec Kylian Mbappé l'accusant d'avoir \"heurté les sentiments nationaux\"",
+   "lien": "https://www.franceinfo.fr/sports/foot/kylian-mbappe/deux-grandes-compagnies-chinoises-rompent-avec-kylian-mbappe-l-accusant-d-avoir-heurte-les-sentiments-nationaux_8255212.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-27T06:48:57+00:00",
+   "extrait": "En cause : une référence à Mao Zedong, lors d'une interview avec Aurélien Tchouaméni, son coéquipier au Real Madrid.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "c0ae1f618b8b",
+   "titre": "Les annonces du gouvernement ne suffisent pas à stopper les appels à la mobilisation lycéenne",
+   "lien": "https://www.france24.com/fr/france/20261027-annonces-gouvernement-suffisent-pas-stopper-appels-mobilisation-lyc%C3%A9enne",
+   "source": "France 24",
+   "date": "2026-10-27T06:48:06+00:00",
+   "extrait": "Après un mois de blocus et de manifestations, le gouvernement a annoncé lundi plusieurs mesures destinées à apaiser la colère des lycéens. Le remplacement progressif de Parcoursup d'ici 2028 ou les…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "1d43dafbf59d",
+   "titre": "Mobilisation des lycéens : les annonces du gouvernement ne désamorcent pas les appels à la mobilisation",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-annonces-du-gouvernement-ne-desamorcent-pas-les-appels-a-la-mobilisation_8255224.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-27T06:44:50+00:00",
+   "extrait": "\"À ce stade, les revendications qui sont portées par la jeunesse et qu'on soutient en grande partie ne sont pas satisfaites\", a estimé Sophie Vénétitay la secrétaire générale du Snes-FSU, premier…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "830fb1060c64",
-   "titre": "Elections législatives en Israël : très critiqué, le Premier ministre Benyamin Nétanyahou joue sa survie politique dans les urnes",
+   "titre": "Elections législatives en Israël : les bureaux de vote sont ouverts, le Premier ministre Benyamin Nétanyahou joue sa survie politique",
    "lien": "https://www.franceinfo.fr/monde/israel/direct-elections-legislatives-en-israel-tres-critique-le-premier-ministre-benyamin-netanyahou-joue-sa-survie-politique-dans-les-urnes_8254444.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-10-27T05:59:59+00:00",
+   "date": "2026-10-27T06:43:09+00:00",
    "extrait": "Un peu plus de sept millions d'Israéliens sont appelés à voter mardi. Un scrutin aux allures de référendum pour ou contre l'actuel chef du gouvernement, en mauvaise posture depuis les attentats du 7…",
    "tags": [
     "Politique",
     "Conflits"
    ],
+   "zone": "france"
+  },
+  {
+   "id": "8c7f20a9beaf",
+   "titre": "Le Sénat rejette la réforme constitutionnelle sur l'autonomie de la Corse, censée aboutir à l'octroi de pouvoirs dérogatoires à l'île",
+   "lien": "https://www.franceinfo.fr/france/corse/le-senat-rejette-la-reforme-constitutionnelle-sur-l-autonomie-de-la-corse-censee-aboutir-a-l-octroi-de-pouvoirs-derogatoires-le-camp-autonomiste-claque-la-porte_8255089.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-27T06:37:11+00:00",
+   "extrait": "Le vote a provoqué la colère du camp autonomiste, qui a annoncé son \"retrait\" du processus de Beauvau, initié en 2022. Un compromis avait pourtant été validé par l'Assemblée de Corse en 2024, puis…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "88d004656f72",
+   "titre": "Harry Kane becomes first Englishman in 25 years to win Ballon d'Or",
+   "lien": "https://www.npr.org/2026/10/27/nx-s1-6019097/harry-kane-alexia-putellas-ballon-dor",
+   "source": "NPR",
+   "date": "2026-10-27T06:30:54+00:00",
+   "extrait": "Kane was followed in the voting by Kylian Mbappé. Spain star Alexia Putellas won her third women's Ballon d'Or. Outside, fans packed the streets and climbed light poles near the London Palladium.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "3252254ddff4",
+   "titre": "Le Brésil réélit Lula, champion de l'Amazonie… et du pétrole ?",
+   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261027-bresil-reelection-lula-champion-amazonie-petrole-deforestation-petrobras-energies-fossiles-environnement",
+   "source": "France 24",
+   "date": "2026-10-27T06:28:14+00:00",
+   "extrait": "Réélu dimanche, Luiz Inacio Lula da Silva est le champion de la protection de l'Amazonie, où la déforestation est récemment tombée à son plus bas niveau depuis 1988. Mais est-il pour autant le…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "2bb8faffe840",
+   "titre": "Nombre limité d'élèves par classe en seconde : \"C’est une première réponse à nos revendications importantes\", réagit la secrétaire nationale du syndicat d'enseignants SE-UNSA",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-premiere-reponse-a-une-de-nos-revendications-importantes-juge-le-syndicat-d-enseignants-se-unsa-apres-l-annonce-du-plafonnement-des-classes-de-seconde-a-28-eleves_8254780.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-27T06:25:40+00:00",
+   "extrait": "\"Maintenant, reste à savoir comment cette mesure sera financée, parce que dans le projet de loi de finances, rien n'est acté\", nuance Elisabeth Allain-Moreno, secrétaire nationale du SE-Unsa, lundi…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "98d969f1660f",
+   "titre": "Harry Kane nommé Ballon d'Or 2026, Kylian Mbappé deuxième devant Lamine Yamal",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261027-harry-kane-nomm%C3%A9-ballon-or-2026-kylian-mbapp%C3%A9-deuxi%C3%A8me-devant-lamine-yamal",
+   "source": "France 24",
+   "date": "2026-10-27T06:15:30+00:00",
+   "extrait": "Harry Kane a remporté le Ballon d’Or 2026, décerné pour la première fois à Londres. Il devient le 5e anglais à remporter le trophée, 25 ans après Michael Owen.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "6ba3a19b6523",
+   "titre": "Cancer de la prostate : un nouveau traitement permet de prolonger de deux ans la survie des patients présentant des métastases, selon une étude",
+   "lien": "https://www.franceinfo.fr/sante/cancer/cancer-de-la-prostate-un-nouveau-traitement-permet-de-prolonger-de-deux-ans-la-survie-des-patients-presentant-des-metastases-selon-une-etude_8255137.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-27T06:06:54+00:00",
+   "extrait": "Un traitement complémentaire sous forme d'hormonothérapie de seconde génération permet d'augmenter significativement la survie des patients atteints de cette forme de cancer.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "b7be93480f4a",
+   "titre": "Aides grands rouleurs : les nouveaux bénéficiaires peuvent désormais s'inscrire en ligne",
+   "lien": "https://www.franceinfo.fr/economie/automobile/essence/aides-grands-rouleurs-les-nouveaux-beneficiaires-peuvent-desormais-s-inscrire-en-ligne_8255185.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-27T06:03:45+00:00",
+   "extrait": "Cette aide s'adresse à 5,5 millions de Français. Après inscription, les bénéficiaires percevront l'argent sous une dizaine de jours.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "8db7f4cbc00d",
+   "titre": "Des « petites mains » de l’IA portent plainte pour infraction aux règles de protection des données",
+   "lien": "https://www.lemonde.fr/economie/article/2026/10/27/des-petites-mains-de-l-ia-portent-plainte-pour-infraction-aux-regles-de-protection-des-donnees_6801142_3234.html",
+   "source": "Le Monde",
+   "date": "2026-10-27T06:00:21+00:00",
+   "extrait": "Cinq travailleurs indépendants et l’association Noyb dénoncent les pratiques d’Outlier, une plateforme de l’entreprise américaine Scale AI. Ils mettent en cause l’utilisation de données personnelles…",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "884d6d7bd286",
+   "titre": "Avec le couronnement à domicile d'Harry Kane, la folie du Ballon d'or a enflammé Londres",
+   "lien": "https://www.franceinfo.fr/sports/foot/ballon-d-or/reportage-avec-le-couronnement-a-domicile-d-harry-kane-la-folie-du-ballon-d-or-a-enflamme-londres_8254720.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-27T06:00:02+00:00",
+   "extrait": "Pour la première fois de l'histoire, la cérémonie du Ballon d'or était délocalisée à Londres, lundi, pour sa 70e édition.",
+   "tags": [],
    "zone": "france"
   },
   {
@@ -96,18 +228,6 @@
    "zone": "usa"
   },
   {
-   "id": "8c7f20a9beaf",
-   "titre": "Le Sénat rejette la réforme constitutionnelle sur l'autonomie de la Corse censée aboutir à l'octroi de pouvoirs dérogatoires, le camp autonomiste claque la porte",
-   "lien": "https://www.franceinfo.fr/france/corse/le-senat-rejette-la-reforme-constitutionnelle-sur-l-autonomie-de-la-corse-censee-aboutir-a-l-octroi-de-pouvoirs-derogatoires-le-camp-autonomiste-claque-la-porte_8255089.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T05:34:18+00:00",
-   "extrait": "Le compromis avait pourtant été validé par l'Assemblée de Corse en 2024, puis préservé lors d'un vote favorable de l'Assemblée nationale en juin 2026.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "4d400ba78684",
    "titre": "Le député RN José Beaurain visé par une enquête pour détournement de fonds publics",
    "lien": "https://www.franceinfo.fr/politique/front-national/info-radio-france-le-depute-rn-jose-beaurain-vise-par-une-enquete-pour-detournement-de-fonds-publics_8254816.html#xtor=RSS-3-[lestitres]",
@@ -131,18 +251,6 @@
     "Conflits"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "6ba3a19b6523",
-   "titre": "Cancer de la prostate : un nouveau traitement permet de prolonger de deux ans la survie des patients présentant des métastases, selon une étude",
-   "lien": "https://www.franceinfo.fr/sante/cancer/cancer-de-la-prostate-un-nouveau-traitement-permet-de-prolonger-de-deux-ans-la-survie-des-patients-presentant-des-metastases-selon-une-etude_8255137.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T05:25:18+00:00",
-   "extrait": "Un traitement complémentaire sous forme d'hormonothérapie de seconde génération permet d'augmenter significativement la survie des patients atteints de cette forme de cancer.",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "france"
   },
   {
    "id": "a1592e13da01",
@@ -216,6 +324,18 @@
    "zone": "france"
   },
   {
+   "id": "64e87cf67139",
+   "titre": "Le débat sur l’imprescriptibilité des crimes sexuels sur les mineurs arrive au Sénat",
+   "lien": "https://www.lemonde.fr/societe/article/2026/10/27/le-debat-sur-l-imprescriptibilite-des-crimes-sexuels-sur-les-mineurs-arrive-au-senat_6801103_3224.html",
+   "source": "Le Monde",
+   "date": "2026-10-27T05:00:02+00:00",
+   "extrait": "Lors du passage à l’Assemblée nationale du projet de loi relatif à la protection de l’enfance, un amendement étendant l’imprescriptibilité, réservée aux crimes contre l’humanité, aux crimes commis…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "cc7893a3b009",
    "titre": "A quick guide to Israel's high-stakes elections",
    "lien": "https://www.npr.org/2026/10/27/g-s1-149944/israel-election-guide",
@@ -230,7 +350,7 @@
   },
   {
    "id": "6220f9570778",
-   "titre": "Législatives en Israël : Benyamin Nétanyahou face aux électeurs pour la première fois depuis les attaques du 7-Octobre",
+   "titre": "Législative en Israël : Benyamin Nétanyahou face aux électeurs pour la première fois depuis les attaques du 7-Octobre",
    "lien": "https://www.lemonde.fr/international/article/2026/10/27/legislatives-en-israel-benyamin-netanyahou-face-aux-electeurs-pour-la-premiere-fois-depuis-les-attaques-du-7-octobre_6801101_3210.html",
    "source": "Le Monde",
    "date": "2026-10-27T04:47:15+00:00",
@@ -304,7 +424,7 @@
   },
   {
    "id": "c2ae20ac694a",
-   "titre": "Mouvement lycéen et étudiant : Parcoursup, effectifs, bac… le gouvernement apporte sa première réponse politique, sans éteindre la mobilisation",
+   "titre": "Mouvement lycéen et étudiant : Parcoursup, effectifs en classe, bac… le gouvernement apporte sa première réponse politique, sans éteindre les appels à la mobilisation",
    "lien": "https://www.lemonde.fr/societe/article/2026/10/27/mouvement-lyceen-et-etudiant-parcoursup-effectifs-bac-le-gouvernement-apporte-sa-premiere-reponse-politique-sans-eteindre-la-mobilisation_6801098_3224.html",
    "source": "Le Monde",
    "date": "2026-10-27T04:26:22+00:00",
@@ -320,7 +440,7 @@
    "lien": "https://www.lemonde.fr/international/article/2026/10/27/des-frappes-jordaniennes-en-syrie-font-au-moins-six-morts-apres-une-attaque-meurtriere-contre-une-eglise-du-royaume_6801097_3210.html",
    "source": "Le Monde",
    "date": "2026-10-27T04:22:42+00:00",
-   "extrait": "La Jordanie a affirmé avoir tué ou blessé « de nombreux membres » d’organisations terroristes liées, selon l’armée, aux auteurs de l’attaque qui a fait neuf morts, vendredi ? dans une église…",
+   "extrait": "La Jordanie a affirmé avoir tué ou blessé « de nombreux membres » d’organisations terroristes liées, selon son armée, aux auteurs de l’attaque qui a fait neuf morts, vendredi, dans une église…",
    "tags": [
     "Conflits"
    ],
@@ -352,6 +472,16 @@
    "zone": "france"
   },
   {
+   "id": "5f6630109c15",
+   "titre": "Les séries de la semaine : « Les Disparus des Argonnes », « Nocturne » et « Anatomia de un instante »",
+   "lien": "https://www.lemonde.fr/culture/article/2026/10/27/les-series-de-la-semaine-les-disparus-des-argonnes-nocturne-et-anatomia-de-un-instante_6801092_3246.html",
+   "source": "Le Monde",
+   "date": "2026-10-27T04:00:25+00:00",
+   "extrait": "Chaque mardi, La Matinale du Monde propose une sélection de séries à découvrir sur petit écran. Aujourd’hui, notamment, quatre épisodes sur quelques minutes de face-à-face entre des militaires…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "1dc1b6cd5c04",
    "titre": "Le roi Charles III saisi de demandes de réparation liées à l’esclavage",
    "lien": "https://www.lemonde.fr/international/article/2026/10/27/le-roi-charles-iii-saisi-de-demandes-de-reparation-liees-a-l-esclavage_6801090_3210.html",
@@ -375,11 +505,11 @@
   },
   {
    "id": "b89bbde8e85d",
-   "titre": "Le rappeur Jay-Z sera la tête d’affiche du spectacle de mi-temps du prochain Super Bowl, à Los Angeles",
+   "titre": "Le rappeur Jaÿ-Z sera la tête d’affiche du spectacle de mi-temps du prochain Super Bowl, à Los Angeles",
    "lien": "https://www.lemonde.fr/sport/article/2026/10/27/le-rappeur-jay-z-sera-la-tete-d-affiche-du-spectacle-de-mi-temps-du-prochain-super-bowl-a-los-angeles_6801087_3242.html",
    "source": "Le Monde",
-   "date": "2026-10-27T03:33:36+00:00",
-   "extrait": "La ligue américaine de football américain n’a pas précisé si la star du hip-hop, âgée de 56 ans, sera accompagnée sur scène par d’autres artistes, le 14 février 2027, lors de cet événement…",
+   "date": "2026-10-27T03:33:34+00:00",
+   "extrait": "La ligue américaine de football américain n’a pas précisé si la star du hip-hop, âgée de 56 ans, sera accompagnée sur scène par d’autres artistes le 14 février 2027, lors de cet événement…",
    "tags": [
     "Sport"
    ],
@@ -390,8 +520,8 @@
    "titre": "Derrière le revirement de Donald Trump en faveur de la Russie, les promesses d’affaires juteuses de Kirill Dmitriev, l’habile VRP de Vladimir Poutine",
    "lien": "https://www.lemonde.fr/international/article/2026/10/27/derriere-le-revirement-de-donald-trump-en-faveur-de-la-russie-les-promesses-d-affaires-juteuses-de-kirill-dmitriev-l-habile-vrp-de-vladimir-poutine_6801086_3210.html",
    "source": "Le Monde",
-   "date": "2026-10-27T03:30:37+00:00",
-   "extrait": "Le patron du Fonds d’investissement direct russe est à la manœuvre pour convaincre la Maison Blanche que la paix en Ukraine passera d’abord par des « deals » commerciaux. Retour sur deux mois qui…",
+   "date": "2026-10-27T03:30:36+00:00",
+   "extrait": "Le directeur général du Fonds d’investissement direct russe est à la manœuvre pour convaincre la Maison Blanche que la paix en Ukraine passera d’abord par des « deals » commerciaux. Retour sur deux…",
    "tags": [
     "Politique",
     "Conflits"
@@ -413,11 +543,11 @@
   },
   {
    "id": "a4832ef7f6f0",
-   "titre": "Harry Kane sacré Ballon d’or, la revanche d’un buteur anglais longtemps perçu comme un « loser » magnifique",
+   "titre": "Harry Kane sacré Ballon d’or, la revanche du buteur anglais longtemps perçu comme un « loser » magnifique",
    "lien": "https://www.lemonde.fr/sport/article/2026/10/27/harry-kane-sacre-ballon-d-or-la-revanche-d-un-buteur-anglais-longtemps-percu-comme-un-loser-magnifique_6801082_3242.html",
    "source": "Le Monde",
    "date": "2026-10-27T03:24:36+00:00",
-   "extrait": "L’attaquant du Bayern Munich, arrivé en tête après le vote de 100 journalistes internationaux, devance Kylian Mbappé et Yamine Lamal au classement. A 33 ans, il succède au palmarès à Ousmane Dembélé.",
+   "extrait": "L’attaquant du Bayern Munich, arrivé en tête, lundi, après le vote de 100 journalistes internationaux, devance Kylian Mbappé et Lamine Yamal au classement. A 33 ans, il succède au palmarès à Ousmane…",
    "tags": [
     "Politique"
    ],
@@ -1359,6 +1489,16 @@
    "zone": "usa"
   },
   {
+   "id": "be7e1875b0c4",
+   "titre": "When an invasive fish is also tasty, Maryland schoolkids can help 'eat the problem'",
+   "lien": "https://www.npr.org/2026/10/26/nx-s1-5954211/invasive-blue-catfish-solution-schools-chesapeake-bay",
+   "source": "NPR",
+   "date": "2026-10-26T20:09:15+00:00",
+   "extrait": "The Chesapeake Bay, home to blue crabs and striped bass, has a new apex predator: the blue catfish. It's invasive and voracious. It's also delicious, which officials hope might help save the bay.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
    "id": "13fb3535fc3e",
    "titre": "Anthropic dépose son dossier d’introduction en Bourse, une étape clé pour le secteur",
    "lien": "https://www.lemonde.fr/economie/article/2026/10/26/anthropic-depose-son-dossier-d-introduction-en-bourse-une-etape-cle-pour-le-secteur_6800841_3234.html",
@@ -1368,18 +1508,6 @@
    "tags": [
     "Économie",
     "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "2bb8faffe840",
-   "titre": "\"Une première réponse\" à \"une de nos revendications importantes\", juge le syndicat d'enseignants SE-Unsa après l'annonce du plafonnement des classes de seconde à 28 élèves",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-premiere-reponse-a-une-de-nos-revendications-importantes-juge-le-syndicat-d-enseignants-se-unsa-apres-l-annonce-du-plafonnement-des-classes-de-seconde-a-28-eleves_8254780.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-26T20:07:25+00:00",
-   "extrait": "\"Maintenant, reste à savoir comment cette mesure sera financée, parce que dans le projet de loi de finances, rien n'est acté\", nuance Elisabeth Allain-Moreno, secrétaire nationale du SE-Unsa, lundi…",
-   "tags": [
-    "Justice"
    ],
    "zone": "france"
   },
@@ -3385,146 +3513,6 @@
     "Politique"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "a13ac9ed4315",
-   "titre": "Cisjordanie : à Hébron, entre les barricades érigées par l’armée israélienne, l’amer sentiment de subir une « punition collective »",
-   "lien": "https://www.lemonde.fr/international/article/2026/10/26/cisjordanie-a-hebron-entre-les-barricades-erigees-par-l-armee-israelienne-l-amer-sentiment-de-subir-une-punition-collective_6800779_3210.html",
-   "source": "Le Monde",
-   "date": "2026-10-26T11:36:29+00:00",
-   "extrait": "Après une attaque qui a tué à deux soldats israéliens, le 23 octobre, l’armée israélienne a bouclé plusieurs secteurs de la ville de Cisjordanie occupée et procédé au déplacement forcé de plus de 2…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "8e86b7d9cfdd",
-   "titre": "Five ways Trump has changed immigration in the US",
-   "lien": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-26T11:29:02+00:00",
-   "extrait": "This is how his signature policy has played out after returning to power promising a closed border and mass deportations.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "0130f7fccdce",
-   "titre": "Stunning photos capture October's Hunter's Moon around the world",
-   "lien": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-26T11:27:39+00:00",
-   "extrait": "October's full Moon, nicknamed the Hunter's Moon, lit up the night sky this weekend.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "0c93ea7e5f69",
-   "titre": "La victoire de Lula au Brésil dans la presse internationale, « l’apogée d’une carrière politique incroyable »",
-   "lien": "https://www.lemonde.fr/international/article/2026/10/26/la-victoire-de-lula-au-bresil-dans-la-presse-internationale-l-apogee-d-une-carriere-politique-incroyable_6800777_3210.html",
-   "source": "Le Monde",
-   "date": "2026-10-26T11:24:44+00:00",
-   "extrait": "Le président sortant, arrivé en deuxième place lors du premier tour de l’élection présidentielle il y a trois semaines, a gagné 10 millions de votes supplémentaires pour remporter un quatrième mandat.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "21a820a0a285",
-   "titre": "Si le RN accède au pouvoir, la CGT n'aura plus de subventions si le syndicat continue à \"prendre des positions politiques politiciennes\", assure Sébastien Chenu",
-   "lien": "https://www.franceinfo.fr/politique/front-national/presidentielle-si-le-rassemblement-national-accede-au-pouvoir-la-cgt-n-aura-plus-de-subventions-assure-sebastien-chenu_8253898.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-26T11:23:40+00:00",
-   "extrait": "Le vice-président du RN, Sébastien Chenu, estime lundi sur France Inter que le syndicat \"ne défend plus l'intérêt des travailleurs mais cherche à empêcher le Rassemblement national\".",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "bf023e509884",
-   "titre": "Attentat de Trappes : de nouveaux éléments de l’enquête confirment le mobile raciste du suspect",
-   "lien": "https://www.lemonde.fr/societe/article/2026/10/26/attentat-de-trappes-des-tracts-du-rassemblement-national-retrouves-dans-la-voiture-du-suspect-decrit-par-ses-proches-comme-raciste_6800776_3224.html",
-   "source": "Le Monde",
-   "date": "2026-10-26T11:16:10+00:00",
-   "extrait": "Selon les informations du « Monde », des proches du suspect de l’attaque qui a fait un mort et cinq blessés, vendredi, dans les Yvelines, l’ont décrit comme « raciste ». La garde à vue de Kevin T…",
-   "tags": [
-    "Conflits",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "f9bfb4e38e19",
-   "titre": "Une première en plus d'un demi siècle : l'Algérie autorise l'envoi de troupes militaires à l'étranger",
-   "lien": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/une-premiere-en-plus-d-un-demi-siecle-l-algerie-autorise-l-envoi-de-troupes-militaires-a-l-etranger_8253811.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-26T11:14:04+00:00",
-   "extrait": "Après un gros coup de froid diplomatique l'an dernier, Alger et Niamey ont signé un accord de coopération militaire pour protéger des intérêts énergétiques communs.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "6d9a003e8a9d",
-   "titre": "Japan indicts U.S. Marine on murder charge over woman's killing",
-   "lien": "https://www.cbsnews.com/news/us-marine-indicted-murder-charge-woman-killing-japan/",
-   "source": "CBS News",
-   "date": "2026-10-26T11:13:09+00:00",
-   "extrait": "Police arrested Lance Cpl. Devin Jacob Ballard, 20, on suspicion of strangling Anna Yagi, 39, at a hotel.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "dfb69120fbba",
-   "titre": "Redistricting isn't playing out how the GOP hoped. And, Brazil's Lula wins 4th term",
-   "lien": "https://www.npr.org/2026/10/26/g-s1-149917/up-first-newsletter-republican-redistricting-france-serbia-protests-brazil-luiz-inacio-lula-da-silva",
-   "source": "NPR",
-   "date": "2026-10-26T11:11:00+00:00",
-   "extrait": "Republicans are spending millions on the midterms, and they still may not win districts drawn to favor them. And, Brazil's Luiz Inácio Lula da Silva won a fourth term in a stunning political comeback.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "566f9e817fbc",
-   "titre": "Bruno Patino invité d'Au cœur de l'info pour son livre \"Le temps de l'obsolescence humaine\"",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261026-bruno-patino-invit%C3%A9-d-au-c%C5%93ur-de-l-info-pour-son-livre-le-temps-de-l-obsolescence-humaine",
-   "source": "France 24",
-   "date": "2026-10-26T11:02:44+00:00",
-   "extrait": "Il est l’un des premiers à nous avoir alertés sur l’emprise des écrans et des réseaux sociaux sur nos vies. Aujourd’hui, Bruno Patino tire une nouvelle sonnette d’alarme dans son nouvel essai, Le…",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "79de3438241e",
-   "titre": "\"Qu'un sang uni\" : la chanteuse Nina Tonji crée une polémique en modifiant les paroles de La Marseillaise avant le match de NFL au Stade de France",
-   "lien": "https://www.franceinfo.fr/sports/nfl/qu-un-sang-uni-la-chanteuse-nina-tonji-cree-une-polemique-en-modifiant-les-paroles-de-la-marseillaise-avant-le-match-de-nfl-au-stade-de-france_8253982.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-26T11:01:03+00:00",
-   "extrait": "Cette modification des paroles fait beaucoup réagir sur les réseaux sociaux, où de nombreuses personnes ont dénoncé un \"manque de respect\" envers l'hymne national.",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "ffa1f4f36c9c",
-   "titre": "Hausse des taux d’intérêt : « Sans accalmie sur les marchés financiers, la France pourrait bien avoir besoin d’une aide de la BCE rapidement »",
-   "lien": "https://www.lemonde.fr/idees/article/2026/10/26/hausse-des-taux-d-interet-sans-accalmie-sur-les-marches-financiers-la-france-pourrait-bien-avoir-besoin-d-une-aide-de-la-bce-rapidement_6800743_3232.html",
-   "source": "Le Monde",
-   "date": "2026-10-26T11:00:08+00:00",
-   "extrait": "Si la flambée des taux d’intérêt français venait à s’amplifier, la Banque centrale européenne risquerait de devoir utiliser ses instruments d’aide pour éviter une crise financière. Avant d’en…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
   }
  ]
 }

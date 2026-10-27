@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-27T06:05:41+00:00",
+ "maj": "2026-10-27T07:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,15 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "ad8783319617",
+   "titre": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
+   "lien": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
+   "source": "The Hacker News",
+   "date": "2026-10-27T06:34:47+00:00",
+   "extrait": "The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua. \"Cases of compromising IP…",
+   "tags": []
+  },
   {
    "id": "968629f0ead3",
    "titre": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
