@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-27T12:05:39+00:00",
+ "maj": "2026-10-27T12:42:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,54 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "a6006728be28",
+   "titre": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
+   "lien": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
+   "source": "The Hacker News",
+   "date": "2026-10-27T12:09:50+00:00",
+   "extrait": "Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's…",
+   "tags": [
+    "CVE",
+    "Faille",
+    "Windows",
+    "Mobile"
+   ]
+  },
+  {
+   "id": "3fba9192c925",
+   "titre": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
+   "lien": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
+   "source": "The Hacker News",
+   "date": "2026-10-27T11:46:00+00:00",
+   "extrait": "An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a statement on October 26. Someone with that key…",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "1ce9ccf10a03",
+   "titre": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
+   "lien": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
+   "source": "The Hacker News",
+   "date": "2026-10-27T11:32:46+00:00",
+   "extrait": "Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and tailor phishing…",
+   "tags": [
+    "Malware",
+    "IA"
+   ]
+  },
+  {
+   "id": "cf5c346fcefd",
+   "titre": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
+   "lien": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
+   "source": "The Hacker News",
+   "date": "2026-10-27T11:32:31+00:00",
+   "extrait": "The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction…",
+   "tags": [
+    "Malware"
+   ]
+  },
   {
    "id": "181378638961",
    "titre": "Apple backports CoreGraphics zero-day patches to older iPhones",
