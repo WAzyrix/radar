@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-27T20:05:40+00:00",
+ "maj": "2026-10-27T21:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -19,16 +19,96 @@
   "Tech",
   "Sport"
  ],
- "erreurs": [
-  "France 24"
- ],
+ "erreurs": [],
  "articles": [
   {
+   "id": "0cd7b42c1f59",
+   "titre": "Alexander brothers sentenced to 30 years in prison for sex trafficking",
+   "lien": "https://www.cbsnews.com/news/alexander-brothers-sentenced-sex-trafficking/",
+   "source": "CBS News",
+   "date": "2026-10-27T21:02:10+00:00",
+   "extrait": "Alon, Oren and Tal Alexander have been sentenced to 30 years in prison for sex trafficking, after the trio was convicted of drugging and raping dozens of women.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "b0e9f69e45f4",
+   "titre": "No clear winner in Israeli election, exit polls show",
+   "lien": "https://www.cbsnews.com/video/no-clear-winner-israel-election-exit-polls-show-1/",
+   "source": "CBS News",
+   "date": "2026-10-27T20:55:02+00:00",
+   "extrait": "Israel's major television networks released exit polls as voting closed in its critical election, showing no clear winner. CBS News senior reporter Dov Lieber reports.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "8e7a963864ec",
+   "titre": "No clear winner in Israeli election, exit polls show",
+   "lien": "https://www.cbsnews.com/video/no-clear-winner-israel-election-exit-polls-show/",
+   "source": "CBS News",
+   "date": "2026-10-27T20:52:05+00:00",
+   "extrait": "Israel's major television networks released exit polls as voting closed in its critical election, showing no clear winner. CBS News senior reporter Dov Lieber reports.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "22f935bfa9ff",
+   "titre": "Why Trump is pushing hard in Texas ahead of midterms",
+   "lien": "https://www.cbsnews.com/video/why-trump-is-pushing-hard-in-texas-ahead-of-midterms/",
+   "source": "CBS News",
+   "date": "2026-10-27T20:49:26+00:00",
+   "extrait": "President Trump is campaigning in Texas amid a \"tossup\" race with just a week to go before the midterms. CBS News' Jason Allen reports.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "ecdb20565190",
+   "titre": "Israelis vote in their highest numbers in decades in pivotal elections",
+   "lien": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
+   "source": "NPR",
+   "date": "2026-10-27T20:45:39+00:00",
+   "extrait": "Israelis voted in their highest numbers in decades in a tense national election on Tuesday to decide whether to stick with Prime Minister Benjamin Netanyahu's far-right coalition or change course.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "7a64b6f22bf1",
+   "titre": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
+   "lien": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-27T20:45:25+00:00",
+   "extrait": "The three brothers were found guilty of drugging and raping several women over the course of decades.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "bb89f4f74e4e",
+   "titre": "Egypt court fines journalist Lina Attalah and orders news site's closure",
+   "lien": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-27T20:44:40+00:00",
+   "extrait": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "830fb1060c64",
-   "titre": "Elections législatives en Israël : les bureaux de vote ont fermé, de premières tendances attendues sous peu",
+   "titre": "Elections législatives en Israël : le bloc de l'opposition donné légèrement en tête, mais sans majorité, selon des sondages à la sortie des urnes",
    "lien": "https://www.franceinfo.fr/monde/israel/direct-elections-legislatives-en-israel-tres-critique-le-premier-ministre-benyamin-netanyahou-joue-sa-survie-politique-dans-les-urnes_8254444.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-10-27T20:03:00+00:00",
+   "date": "2026-10-27T20:43:37+00:00",
    "extrait": "Un peu plus de sept millions d'Israéliens étaient appelés à voter mardi. Un scrutin aux allures de référendum pour ou contre l'actuel chef du gouvernement, en mauvaise posture depuis les attentats…",
    "tags": [
     "Politique",
@@ -37,14 +117,51 @@
    "zone": "france"
   },
   {
+   "id": "c9c633dbfdfb",
+   "titre": "\"Nous avons été manipulés\" : des évêques catholiques américains s'excusent après une prière pour Donald Trump dans le Bureau ovale",
+   "lien": "https://www.franceinfo.fr/monde/usa/nous-avons-ete-manipules-des-eveques-catholiques-presentent-leurs-excuses-apres-la-diffusion-d-une-video-les-montrant-en-train-de-prier-pour-donald-trump-dans-le-bureau-ovale_8256025.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-27T20:39:34+00:00",
+   "extrait": "Une vidéo postée jeudi sur X par la conseillère en communication du chef d'Etat américain a déclenché une polémique et certains membres du clergé présents accusent la Maison Blanche de récupération…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "872a7d115b31",
    "titre": "New charges tossed against ex-FBI officials in Hunter Biden probe",
    "lien": "https://www.cbsnews.com/news/hunter-biden-investigation-more-charges-filed-against-ex-fbi-officials/",
    "source": "CBS News",
-   "date": "2026-10-27T20:02:17+00:00",
+   "date": "2026-10-27T20:34:15+00:00",
    "extrait": "The unsigned and unsworn superseding complaint comes just hours before the defendants were due to appear in federal court in Washington, D.C. for a preliminary hearing.",
    "tags": [
     "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "4ce40386cade",
+   "titre": "Ceasefire extended across Ukraine's Kherson region, officials say",
+   "lien": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-27T20:19:53+00:00",
+   "extrait": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "7ac028924220",
+   "titre": "8-month Iran war looms large over Israeli election",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/",
+   "source": "CBS News",
+   "date": "2026-10-27T20:13:08+00:00",
+   "extrait": "Israeli voters are choosing their next government, with Prime Minister Benjamin Netanyahu insisting only he can finish the job started eight months ago in Iran.",
+   "tags": [
+    "Politique",
+    "Conflits"
    ],
    "zone": "usa"
   },
@@ -71,6 +188,16 @@
    "zone": "france"
   },
   {
+   "id": "4753b0d36b95",
+   "titre": "Avec son « esthétique de l’inachevé », Willem De Kooning crée le trouble au Rijksmuseum d’Amsterdam",
+   "lien": "https://www.lemonde.fr/culture/article/2026/10/27/avec-son-esthetique-de-l-inacheve-willem-de-kooning-cree-le-trouble-au-rijksmuseum-d-amsterdam_6801343_3246.html",
+   "source": "Le Monde",
+   "date": "2026-10-27T19:50:09+00:00",
+   "extrait": "A travers plus de 120 œuvres couvrant soixante-cinq ans de carrière, l’exposition démontre comment le peintre néerlandais utilisait le dessin pour chercher, corriger, détruire et se surprendre…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "a1f8a2d81c5b",
    "titre": "Anthropic's IPO lists 93 pages of risks. What could go wrong?",
    "lien": "https://www.cbsnews.com/news/anthropic-ipo-filing-ai-risks/",
@@ -81,6 +208,19 @@
     "Tech"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "f66df8379227",
+   "titre": "Élections en Israël : Eisenkot peut-il battre Netanyahu ?",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261027-%C3%A9lections-en-isra%C3%ABl-eisenkot-peut-il-battre-netanyahu",
+   "source": "France 24",
+   "date": "2026-10-27T19:42:18+00:00",
+   "extrait": "7 millions d’Israéliens ont été appelés aux urnes. Il s’agit des premières élections législatives depuis les attaques du Hamas du 7 octobre. Ce mardi est férié dans le pays. Les deux blocs, celui de…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
   },
   {
    "id": "e885f7cf12cd",
@@ -169,19 +309,6 @@
    "zone": "monde"
   },
   {
-   "id": "7ac028924220",
-   "titre": "8-month Iran war looms large over Israeli election",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/",
-   "source": "CBS News",
-   "date": "2026-10-27T19:00:18+00:00",
-   "extrait": "Israeli voters are choosing their next government, with Prime Minister Benjamin Netanyahu insisting only he can finish the job started eight months ago in Iran.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "ee8bc342e83a",
    "titre": "France 2030 : le grand plan d’Emmanuel Macron face à un « mur budgétaire », alerte la Cour des comptes",
    "lien": "https://www.lemonde.fr/economie/article/2026/10/27/france-2030-le-grand-plan-d-emmanuel-macron-face-a-un-mur-budgetaire-alerte-la-cour-des-comptes_6801339_3234.html",
@@ -247,6 +374,16 @@
    "zone": "france"
   },
   {
+   "id": "054951ea00de",
+   "titre": "A la Martinique, dans une colonie de vacances pilotée par le Théâtre national de Chaillot, on apprend la danse, l’équilibre, le respect et la confiance",
+   "lien": "https://www.lemonde.fr/culture/article/2026/10/27/a-la-martinique-dans-une-colonie-de-vacances-pilotee-par-le-theatre-national-de-chaillot-on-apprend-la-danse-l-equilibre-le-respect-et-la-confiance_6801337_3246.html",
+   "source": "Le Monde",
+   "date": "2026-10-27T18:30:05+00:00",
+   "extrait": "Depuis 2022, des artistes circassiens et des animateurs-éducateurs encadrent, forment et sensibilisent des préadolescents de deux collèges de l’île à la danse et à l’acrobatie, durant les vacances…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "5da481dc97b7",
    "titre": "Norway and Finland leaders hold rare call with Putin",
    "lien": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
@@ -258,6 +395,19 @@
     "Conflits"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "db4e5f68bd0d",
+   "titre": "EN DIRECT, guerre en Ukraine : un centre de maintenance de missiles Patriot, utilisés par Kiev et par l’OTAN, va être implanté en Pologne",
+   "lien": "https://www.lemonde.fr/international/live/2026/10/27/en-direct-guerre-en-ukraine-un-centre-de-maintenance-de-missiles-patriot-utilises-par-kiev-et-par-l-otan-va-etre-implante-en-pologne_6799896_3210.html",
+   "source": "Le Monde",
+   "date": "2026-10-27T18:20:01+00:00",
+   "extrait": "C’est une « décision historique », s’est réjouie Magdalena Sobkowiak, la vice-ministre de la défense polonaise. Le coût du projet s’élèvera à 230 millions d’euros et sa mise en place prendra…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
   },
   {
    "id": "5c660c29705b",
@@ -404,11 +554,11 @@
   },
   {
    "id": "56c395d32f31",
-   "titre": "EN DIRECT, législatives en Israël : les bureaux de vote ont fermé après une journée de participation historique",
+   "titre": "EN DIRECT, législatives en Israël : les premières estimations favorables à l’opposition, mais l’incertitude sur une future majorité est complète",
    "lien": "https://www.lemonde.fr/international/live/2026/10/27/en-direct-legislatives-en-israel-le-taux-de-participation-s-eleve-a-66-7-en-debut-de-soiree-le-plus-eleve-depuis-1973_6801217_3210.html",
    "source": "Le Monde",
    "date": "2026-10-27T17:28:39+00:00",
-   "extrait": "Selon la Commission électorale centrale, le taux de participation s’élevait à 74,3 % à 20 heures, deux heures avant la fin du scrutin, alors qu’elle était de 66,3 % à la même heure en 2022. Il…",
+   "extrait": "Les bureaux de vote ont fermé à 22 heures locales (21 heures à Paris), après une journée de vote marquée par une participation historique.",
    "tags": [
     "Politique",
     "Conflits"
@@ -444,10 +594,8 @@
    "lien": "https://www.france24.com/fr/am%C3%A9riques/20261027-br%C3%A9sil-passeports-flavio-bolsonaro-annul%C3%A9s-argentine-nie-toute-fuite-territoire",
    "source": "France 24",
    "date": "2026-10-27T17:25:34+00:00",
-   "extrait": "Le sénateur ultraconservateur Flavio Bolsonaro a quitté le Brésil pour se rendre aux États-Unis après avoir perdu l'élection présidentielle dimanche et refusé de se conformer à une décision de la…",
-   "tags": [
-    "Politique"
-   ],
+   "extrait": "Le sénateur ultraconservateur Flavio Bolsonaro a fui le Brésil pour se rendre aux États-Unis après avoir refusé de se conformer à une décision de la Cour suprême lui ordonnant de remettre ses…",
+   "tags": [],
    "zone": "monde"
   },
   {
@@ -771,18 +919,6 @@
    "zone": "france"
   },
   {
-   "id": "bb89f4f74e4e",
-   "titre": "Egyptian journalist Lina Attalah detained after court orders news site's closure",
-   "lien": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-27T16:11:35+00:00",
-   "extrait": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
    "id": "4d28c122a29a",
    "titre": "Culture : découvrez les finalistes du prix Goncourt et le livre de Mory Sacko",
    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-culture-d%C3%A9couvrez-le-livre-de-mory-sacko-le-food-samoura%C3%AF",
@@ -815,6 +951,19 @@
     "Politique"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "19c4295d270f",
+   "titre": "« Les entreprises comme Meta considèrent que tout leur est permis jusqu’à ce que la justice finisse par réagir »",
+   "lien": "https://www.lemonde.fr/idees/article/2026/10/27/les-entreprises-comme-meta-considerent-que-tout-leur-est-permis-jusqu-a-ce-que-la-justice-finisse-par-reagir_6801312_3232.html",
+   "source": "Le Monde",
+   "date": "2026-10-27T16:00:26+00:00",
+   "extrait": "Frappée d’une amende record de 25 milliards de dollars au Nouveau-Mexique, la multinationale américaine de la tech cherchera sans doute à l’esquiver, mais en vain, prédit le journaliste Arnaud…",
+   "tags": [
+    "Conflits",
+    "Tech"
+   ],
+   "zone": "france"
   },
   {
    "id": "e3c5773365f2",
@@ -3336,158 +3485,6 @@
     "Politique"
    ],
    "zone": "france"
-  },
-  {
-   "id": "c0ae1f618b8b",
-   "titre": "Les appels à la mobilisation lycéenne continuent malgré les annonces du gouvernement",
-   "lien": "https://www.france24.com/fr/france/20261027-annonces-gouvernement-suffisent-pas-stopper-appels-mobilisation-lyc%C3%A9enne",
-   "source": "France 24",
-   "date": "2026-10-27T06:48:06+00:00",
-   "extrait": "Après un mois de blocus et de manifestations, le gouvernement a annoncé lundi plusieurs mesures destinées à apaiser la colère des lycéens. Le remplacement progressif de Parcoursup d'ici 2028 ou les…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "8c7f20a9beaf",
-   "titre": "Le Sénat rejette la réforme constitutionnelle sur l'autonomie de la Corse, censée aboutir à l'octroi de pouvoirs dérogatoires à l'île",
-   "lien": "https://www.franceinfo.fr/france/corse/le-senat-rejette-la-reforme-constitutionnelle-sur-l-autonomie-de-la-corse-censee-aboutir-a-l-octroi-de-pouvoirs-derogatoires-le-camp-autonomiste-claque-la-porte_8255089.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T06:37:11+00:00",
-   "extrait": "Le vote a provoqué la colère du camp autonomiste, qui a annoncé son \"retrait\" du processus de Beauvau, initié en 2022. Un compromis avait pourtant été validé par l'Assemblée de Corse en 2024, puis…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "88d004656f72",
-   "titre": "Harry Kane becomes first Englishman in 25 years to win Ballon d'Or",
-   "lien": "https://www.npr.org/2026/10/27/nx-s1-6019097/harry-kane-alexia-putellas-ballon-dor",
-   "source": "NPR",
-   "date": "2026-10-27T06:30:54+00:00",
-   "extrait": "Kane was followed in the voting by Kylian Mbappé. Spain star Alexia Putellas won her third women's Ballon d'Or. Outside, fans packed the streets and climbed light poles near the London Palladium.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "3252254ddff4",
-   "titre": "Le Brésil réélit Lula, champion de l'Amazonie… et du pétrole ?",
-   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261027-bresil-reelection-lula-champion-amazonie-petrole-deforestation-petrobras-energies-fossiles-environnement",
-   "source": "France 24",
-   "date": "2026-10-27T06:28:14+00:00",
-   "extrait": "Réélu dimanche, Luiz Inacio Lula da Silva est le champion de la protection de l'Amazonie, où la déforestation est récemment tombée à son plus bas niveau depuis 1988. Mais est-il pour autant le…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "2bb8faffe840",
-   "titre": "Nombre limité d'élèves par classe en seconde : \"C’est une première réponse à nos revendications importantes\", réagit la secrétaire nationale du syndicat d'enseignants SE-UNSA",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-premiere-reponse-a-une-de-nos-revendications-importantes-juge-le-syndicat-d-enseignants-se-unsa-apres-l-annonce-du-plafonnement-des-classes-de-seconde-a-28-eleves_8254780.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T06:25:40+00:00",
-   "extrait": "\"Maintenant, reste à savoir comment cette mesure sera financée, parce que dans le projet de loi de finances, rien n'est acté\", nuance Elisabeth Allain-Moreno, secrétaire nationale du SE-Unsa, lundi…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "98d969f1660f",
-   "titre": "Harry Kane nommé Ballon d'Or 2026, Kylian Mbappé deuxième devant Lamine Yamal",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261027-harry-kane-nomm%C3%A9-ballon-or-2026-kylian-mbapp%C3%A9-deuxi%C3%A8me-devant-lamine-yamal",
-   "source": "France 24",
-   "date": "2026-10-27T06:15:30+00:00",
-   "extrait": "Harry Kane a remporté le Ballon d’Or 2026, décerné pour la première fois à Londres. Il devient le 5e anglais à remporter le trophée, 25 ans après Michael Owen.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "7df47367b469",
-   "titre": "'I would do it again' - Kaepernick reflects on price of protest, 10 years on",
-   "lien": "https://www.bbc.co.uk/sport/american-football/articles/cm3el5dnpxp2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-27T06:15:24+00:00",
-   "extrait": "In his first interview with BBC Sport since taking the knee for the first time, Colin Kaepernick reflects on his journey.",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "6ba3a19b6523",
-   "titre": "Cancer de la prostate : un nouveau traitement permet de prolonger de deux ans la survie des patients présentant des métastases, selon une étude",
-   "lien": "https://www.franceinfo.fr/sante/cancer/cancer-de-la-prostate-un-nouveau-traitement-permet-de-prolonger-de-deux-ans-la-survie-des-patients-presentant-des-metastases-selon-une-etude_8255137.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T06:06:54+00:00",
-   "extrait": "Un traitement complémentaire sous forme d'hormonothérapie de seconde génération permet d'augmenter significativement la survie des patients atteints de cette forme de cancer.",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "26471fce28b3",
-   "titre": "Donald Trump's biggest economic problem looks strangely familiar",
-   "lien": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-27T06:01:11+00:00",
-   "extrait": "Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "8db7f4cbc00d",
-   "titre": "Des « petites mains » de l’IA portent plainte pour infraction aux règles de protection des données",
-   "lien": "https://www.lemonde.fr/economie/article/2026/10/27/des-petites-mains-de-l-ia-portent-plainte-pour-infraction-aux-regles-de-protection-des-donnees_6801142_3234.html",
-   "source": "Le Monde",
-   "date": "2026-10-27T06:00:21+00:00",
-   "extrait": "Cinq travailleurs indépendants et l’association Noyb dénoncent les pratiques d’Outlier, une plateforme de l’entreprise américaine Scale AI. Ils mettent en cause l’utilisation de données personnelles…",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c3ff509108ed",
-   "titre": "Cyberattaques par des IA de pointe : le casse-tête de la responsabilité pénale",
-   "lien": "https://www.lemonde.fr/pixels/article/2026/10/27/cyberattaques-par-des-ia-de-pointe-le-casse-tete-de-la-responsabilite-penale_6801140_4408996.html",
-   "source": "Le Monde",
-   "date": "2026-10-27T06:00:08+00:00",
-   "extrait": "Après le tournant du piratage de Hugging Face par des agents d’intelligence artificielle d’OpenAI, se pose la question de la responsabilité aux yeux de la loi des IA en partie autonomes et, surtout…",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "3c7b042e7087",
-   "titre": "Législatives en Israël : ouverture des bureaux de vote, un scrutin serré en perspective",
-   "lien": "https://www.france24.com/fr/moyen-orient/20261027-l%C3%A9gislatives-en-isra%C3%ABl-ouverture-des-bureaux-de-vote-un-scrutin-serr%C3%A9-en-perspective",
-   "source": "France 24",
-   "date": "2026-10-27T05:57:55+00:00",
-   "extrait": "Les Israéliens ont commencé à voter mardi pour les premières élections législatives depuis l'attaque du 7-Octobre. Ce scrutin prend des allures de référendum pour le Premier ministre Benjamin…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "e22dcf9162aa",
-   "titre": "Jay-Z picks himself to headline the Super Bowl halftime show in Southern California",
-   "lien": "https://www.npr.org/2026/10/27/g-s1-150043/super-bowl-halftime-jay-z",
-   "source": "NPR",
-   "date": "2026-10-27T05:46:18+00:00",
-   "extrait": "The NFL, Apple Music and Roc Nation announced Monday night that Jay-Z will be the featured performer for the halftime festivities on Feb. 14 at SoFi Stadium in Inglewood, California.",
-   "tags": [
-    "Tech",
-    "Sport"
-   ],
-   "zone": "usa"
   }
  ]
 }
