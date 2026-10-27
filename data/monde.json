@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-27T02:05:42+00:00",
+ "maj": "2026-10-27T03:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,101 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "1b7664cc8200",
+   "titre": "Jay-Z to headline 2027 Super Bowl halftime show",
+   "lien": "https://www.cbsnews.com/news/jay-z-super-bowl-halftime-show-headliner/",
+   "source": "CBS News",
+   "date": "2026-10-27T03:03:00+00:00",
+   "extrait": "The NFL, Apple Music and Roc Nation announced Monday night that Jay-Z will be the featured performer for the halftime festivities on Feb. 14 at SoFi Stadium in Inglewood, California.",
+   "tags": [
+    "Tech",
+    "Sport"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "134fc816f200",
+   "titre": "Ukraine : la trêve à Olechky a commencé pour mener une opération humanitaire",
+   "lien": "https://www.france24.com/fr/europe/20261027-ukraine-treve-olechky-commence-operation-humanitaire-russie",
+   "source": "France 24",
+   "date": "2026-10-27T02:56:52+00:00",
+   "extrait": "Kiev et Moscou ont annoncé avoir commencé une trêve mardi matin à Olechky, ville du sud de l'Ukraine sous occupation russe. Objectif : mener une opération humanitaire dans cette localité isolée, où…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "556fbbe2f2f8",
+   "titre": "Eric Bauza, actor who voiced Bugs Bunny and Daffy Duck, dies at 46",
+   "lien": "https://www.cbsnews.com/news/eric-bauza-death-at-46-bugs-bunny-daffy-duck-looney-tunes/",
+   "source": "CBS News",
+   "date": "2026-10-27T02:54:25+00:00",
+   "extrait": "Eric Bauza, the Emmy-winning actor who voiced iconic \"Looney Tunes\" characters Bugs Bunny and Daffy Duck, died on Sunday, according to his manager. He was 46.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "89f9d49f68d2",
+   "titre": "Judge continues to block Trump from cutting down trees at D.C. golf course",
+   "lien": "https://www.cbsnews.com/news/judge-trump-trees-dc-golf-course-lorax/",
+   "source": "CBS News",
+   "date": "2026-10-27T02:49:26+00:00",
+   "extrait": "\"The Court earlier stated, 'I am not the Lorax. I do not speak for the trees,'\" U.S. District Judge Ana Reyes wrote. \"The Court still does not speak for the trees. It speaks only for the rule of law.\"",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "3200b12adef9",
+   "titre": "Jay-Z to perform at Super Bowl half-time show",
+   "lien": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-27T02:43:25+00:00",
+   "extrait": "Jay-Z has been involved with the show for years but has never before performed at the NFL championship game.",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "12bda8609c19",
+   "titre": "Jordan says 'terrorists' killed in Syria in retaliatory strike over church attack",
+   "lien": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-27T02:40:17+00:00",
+   "extrait": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
+   "tags": [
+    "Conflits",
+    "Santé"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "1ab5871f3434",
+   "titre": "Ex-FBI chief James Comey faces federal charges for third time",
+   "lien": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-27T02:01:27+00:00",
+   "extrait": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "27901ba39c4e",
+   "titre": "Le PSG vire en tête de la Ligue 1 après son succès sur l’OL",
+   "lien": "https://www.lemonde.fr/sport/article/2026/10/27/le-psg-vire-en-tete-de-la-ligue-1-apres-son-succes-sur-l-ol_6801049_3242.html",
+   "source": "Le Monde",
+   "date": "2026-10-27T01:56:02+00:00",
+   "extrait": "Dans un match de la 8e journée reporté à lundi soir, les Parisiens se sont imposés (2-0) grâce à des buts de Senny Mayulu et Mika Godts, entrés en jeu en seconde période. Ils possèdent un point…",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "france"
+  },
   {
    "id": "956827e535fa",
    "titre": "Dollar General overcharged people at checkout for years, FTC says",
@@ -218,6 +313,18 @@
     "Politique"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "687f591224b2",
+   "titre": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
+   "lien": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-27T00:31:11+00:00",
+   "extrait": "Machado returns with Trump's blessing, even if Washington is happy with Venezuela's existing leader - at least for the time being.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
   },
   {
    "id": "7e19bba61ada",
@@ -515,6 +622,18 @@
    "date": "2026-10-26T22:33:24+00:00",
    "extrait": "Democrats are starting to plan beyond the midterms, preparing for the 2028 presidential race. There's a moderate group called Majority Democrats that will hold a summit called \"What's Next.\" The…",
    "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "201f837443dc",
+   "titre": "10/26: CBS Evening News",
+   "lien": "https://www.cbsnews.com/video/102626-cbs-evening-news/",
+   "source": "CBS News",
+   "date": "2026-10-26T22:30:00+00:00",
+   "extrait": "Texas sees a down-to-the-wire Senate race; Trump goes on a campaign blitz in a Republican stronghold.",
+   "tags": [
+    "Politique"
+   ],
    "zone": "usa"
   },
   {
@@ -1087,6 +1206,18 @@
     "Conflits"
    ],
    "zone": "france"
+  },
+  {
+   "id": "0a3f3bff38e6",
+   "titre": "Pope's South American trip to go ahead as planned after lung cancer surgery",
+   "lien": "https://www.bbc.co.uk/news/articles/cjr4y5rq46p2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-26T18:46:19+00:00",
+   "extrait": "The Pope underwent surgery in to remove a tumour on the lower part of his right lung and is gradually resuming his duties.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "monde"
   },
   {
    "id": "1a4cffd08651",
@@ -3382,132 +3513,6 @@
    "extrait": "L’agence américaine a maintenu la notation de la France à Aa3, vendredi, malgré l’incapacité du pays à redresser sa trajectoire budgétaire. Depuis la crise grecque de 2010, où elles avaient été…",
    "tags": [
     "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "30f1f3c99238",
-   "titre": "Brésil : le président de gauche Lula crée la surprise et remporte l’élection",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261026-br%C3%A9sil-le-pr%C3%A9sident-de-gauche-lula-cr%C3%A9e-la-surprise-et-remporte-l-%C3%A9lection",
-   "source": "France 24",
-   "date": "2026-10-26T09:59:15+00:00",
-   "extrait": "🇧🇷 Contre toute attente, le chef de l'État sortant du Brésil, Luiz Inacio Lula da Silva, a vaincu son opposant Flavio Bolsonaro dimanche soir lors du second tour de l'élection présidentielle, avec…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "a60d53742a8e",
-   "titre": "Attentat raciste dans les Yvelines : les quatre gardes à vue des proches du principal suspect levées",
-   "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-dans-les-yvelines-les-quatre-gardes-a-vue-des-proches-du-principal-suspect-levees_8254009.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-26T09:46:49+00:00",
-   "extrait": "Parmi eux figuraient la mère et le père du principal suspect, Kévin T.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "5c6e0bdc6b17",
-   "titre": "\"Retour de l'ordre\" : Emmanuel Macron en visite surprise ce lundi à Marseille une semaine après les émeutes du 17 octobre",
-   "lien": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/retour-de-l-ordre-emmanuel-macron-en-visite-surprise-ce-lundi-a-marseille-une-semaine-apres-les-emeutes-du-17-octobre-3439164.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-26T09:40:08+00:00",
-   "extrait": "Un peu plus d'une semaine après les débordements constatés en marge de la manifestation du 17 octobre, Le chef de l'Etat effectue une visite surprise à Marseille afin d'y constater \"le retour de…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "90dc2a780576",
-   "titre": "Manifestations du 24 octobre : 267 membres des forces de l'ordre et 150 manifestants ont été blessés, dont trois gravement, annonce Laurent Nuñez",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-24-octobre-267-membres-des-forces-de-l-ordre-et-150-manifestants-ont-ete-blesses-dont-trois-gravement-annonce-laurent-nunez_8253910.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-26T09:38:43+00:00",
-   "extrait": "Il a par ailleurs donné un nouveau bilan des interpellations : 1 435 personnes ont été arrêtées.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "16b2034ef700",
-   "titre": "Crowds welcome Venezuela's María Machado after months in exile",
-   "lien": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-26T09:31:12+00:00",
-   "extrait": "The Venezuelan opposition leader spent more than 10 months in exile after escaping the country on a speedboat.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "777206f04666",
-   "titre": "Le réchauffement de l’océan oblige à repenser la gestion des pêches",
-   "lien": "https://www.lemonde.fr/idees/article/2026/10/26/le-rechauffement-de-l-ocean-oblige-a-repenser-la-gestion-des-peches_6800606_3232.html",
-   "source": "Le Monde",
-   "date": "2026-10-26T09:30:06+00:00",
-   "extrait": "Les menaces qui pèsent sur la biodiversité sont d’autant plus prégnantes que les espèces de poissons devraient décliner. Des choix politiques difficiles s’annoncent au niveau européen pour…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "e95627bb15a2",
-   "titre": "Emmanuel Macron attendu lundi à Marseille pour une visite surprise sur le \"retour de l'ordre\" après les violences du 17 octobre",
-   "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/emmanuel-macron-attendu-lundi-a-marseille-pour-une-visite-surprise-sur-le-retour-de-l-ordre-apres-les-violences-du-17-octobre_8253937.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-26T09:23:27+00:00",
-   "extrait": "Le gouvernement et le chef de l'Etat ont été vivement critiqués par les oppositions, mais aussi des figures du camp présidentiel après le fiasco du 17 octobre.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "59ec03712598",
-   "titre": "Trump escalates anti-Muslim attacks against El-Sayed in Michigan",
-   "lien": "https://www.npr.org/2026/10/26/nx-s1-6016816/trump-escalates-anti-muslim-attacks",
-   "source": "NPR",
-   "date": "2026-10-26T09:22:36+00:00",
-   "extrait": "President Trump intensified his anti-Muslim rhetoric against Michigan Senate candidate Abdul El-Sayed on Sunday, portraying him as a threat to national security and questioning his loyalty to the…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "cd2228ed70ca",
-   "titre": "EN DIRECT, mobilisations sociales : Emmanuel Macron estime que le 31 octobre est un samedi « à risque » et prévoit que les manifestations se dérouleront en dehors des centres-villes",
-   "lien": "https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mobilisations-sociales-emmanuel-macron-en-deplacement-a-marseille-le-gouvernement-doit-presenter-ses-reponses-au-mouvement-lyceen_6800604_823448.html",
-   "source": "Le Monde",
-   "date": "2026-10-26T09:15:04+00:00",
-   "extrait": "De Marseille, le président de la République a affirmé avoir demandé au gouvernement de répondre aux « demandes légitimes à la racine du mouvement social ».",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "5136ecd2a9c0",
-   "titre": "Une attaque de drones ukrainienne fait deux morts et 17 blessés à Voronej, en Russie",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-attaque-de-drones-ukrainienne-fait-deux-morts-et-17-blesses-a-voronej-en-russie_8253865.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-26T09:09:09+00:00",
-   "extrait": "L'attaque a également provoqué des incendies sur \"un nombre d'entreprises industrielles, un centre d'affaires dans la partie centrale de la ville, un immeuble résidentiel\", a précisé le gouverneur…",
-   "tags": [
-    "Conflits",
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "440f2936bb9d",
-   "titre": "\"On ne fera aucun compromis\" : les organisations lycéennes et syndicats d'enseignants attendent des mesures fortes de la part du gouvernement",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-ne-fera-aucun-compromis-les-organisations-lyceennes-et-syndicats-d-enseignants-attendent-des-mesures-fortes-de-la-part-du-gouvernement_8253913.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-26T09:03:02+00:00",
-   "extrait": "Le gouvernement s’apprête à faire une série d'annonces lundi après avoir reçu les organisations lycéennes et étudiantes.",
-   "tags": [
-    "Politique"
    ],
    "zone": "france"
   }
