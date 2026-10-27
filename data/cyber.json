@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-27T18:05:40+00:00",
+ "maj": "2026-10-27T18:20:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "9df47a48bc7e",
+   "titre": "Microsoft releases Windows OOB updates to distrust eMudhra certificates",
+   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/",
+   "source": "BleepingComputer",
+   "date": "2026-10-27T18:20:28+00:00",
+   "extrait": "Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic…",
+   "tags": [
+    "Windows"
+   ]
+  },
   {
    "id": "db852607b136",
    "titre": "Warp discloses breach exposing AI agent logs, user telemetry data",
