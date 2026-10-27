@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-27T16:05:42+00:00",
+ "maj": "2026-10-27T17:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,6 +24,18 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "db852607b136",
+   "titre": "Warp discloses breach exposing AI agent logs, user telemetry data",
+   "lien": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
+   "source": "BleepingComputer",
+   "date": "2026-10-27T16:15:39+00:00",
+   "extrait": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]",
+   "tags": [
+    "Fuite de données",
+    "IA"
+   ]
+  },
+  {
    "id": "eeae20ed2a5a",
    "titre": "Tailscale warns of SSH flaws allowing root privilege escalation",
    "lien": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
@@ -44,6 +56,30 @@
    "tags": [
     "Outil",
     "Windows"
+   ]
+  },
+  {
+   "id": "ae042a0b53b2",
+   "titre": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
+   "lien": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
+   "source": "The Hacker News",
+   "date": "2026-10-27T13:59:48+00:00",
+   "extrait": "The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "0afa3606f14e",
+   "titre": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
+   "lien": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
+   "source": "The Hacker News",
+   "date": "2026-10-27T13:59:09+00:00",
+   "extrait": "Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices. The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is…",
+   "tags": [
+    "CVE",
+    "Faille",
+    "Mobile"
    ]
   },
   {
