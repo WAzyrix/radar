@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-27T01:05:40+00:00",
+ "maj": "2026-10-27T02:05:42+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,12 +22,140 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "956827e535fa",
+   "titre": "Dollar General overcharged people at checkout for years, FTC says",
+   "lien": "https://www.cbsnews.com/news/dollar-general-sued-ftc-overcharging-prices/",
+   "source": "CBS News",
+   "date": "2026-10-27T01:53:43+00:00",
+   "extrait": "The discount retailer routinely charges customers more at checkout than the prices it displays on shelves, price tags and ads, according to federal and state authorities.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "b1d5da953453",
+   "titre": "Statut de la Corse : le camp autonomiste claque la porte après le rejet de la réforme au Sénat",
+   "lien": "https://www.france24.com/fr/france/20261027-statut-corse-camp-autonomiste-claque-porte-rejet-reforme-senat-processus-beauvau",
+   "source": "France 24",
+   "date": "2026-10-27T01:37:27+00:00",
+   "extrait": "Après l'avoir détricoté, le Sénat a rejeté lundi l’ensemble du texte de réforme constitutionnelle sur l'avenir de la Corse. Le camp autonomiste a en conséquence annoncé qu'il se retirait du…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "5f085b5dbf58",
+   "titre": "Avant les midterms, Donald Trump promet un million de dollars pour toute information débouchant sur une condamnation pour fraude électorale",
+   "lien": "https://www.lemonde.fr/international/article/2026/10/27/avant-les-midterms-donald-trump-promet-un-million-de-dollars-pour-toute-information-debouchant-sur-une-condamnation-pour-fraude-electorale_6801016_3210.html",
+   "source": "Le Monde",
+   "date": "2026-10-27T01:36:44+00:00",
+   "extrait": "La récompense sera versée à « toute personne signalant une fraude électorale lors de scrutins passés ou lors des élections de mi-mandat », qui auront lieu le 3 novembre, a déclaré le président…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "6c2771ca39e9",
+   "titre": "Video of police being called to youth soccer game draws outrage",
+   "lien": "https://www.cbsnews.com/news/youth-soccer-911-call-florida-nevada-3-year-old/",
+   "source": "CBS News",
+   "date": "2026-10-27T01:14:41+00:00",
+   "extrait": "One of the league's directors said the parents were being disruptive, but 3-year-old Nevada's mother said, \"They're literally kicking him out of this place because he's good at soccer.\"",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "cbcb8c61ed9a",
+   "titre": "7-year-old yoga instructor sets record",
+   "lien": "https://www.cbsnews.com/video/7-year-old-yoga-instructor-sets-record/",
+   "source": "CBS News",
+   "date": "2026-10-27T01:10:34+00:00",
+   "extrait": "Phoenix Giselle Hicks was certified as a yoga instructor before her 6th birthday. Now, the 7-year-old is in the Guinness Book of World Records as the youngest female yoga instructor. Tony Dokoupil…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "0df1933a5567",
+   "titre": "These factors could decide Netanyahu's fate in Israel's election",
+   "lien": "https://www.cbsnews.com/news/israel-election-benjamin-netanyahu-political-fate-key-factors/",
+   "source": "CBS News",
+   "date": "2026-10-27T01:09:18+00:00",
+   "extrait": "Israelis are about to vote to choose their next government. The race is wide open, and Benjamin Netanyahu's political fate could hinge on a couple key factors.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "bacae1249964",
+   "titre": "Parents claim 3-year-old was kicked out of soccer league for being too good",
+   "lien": "https://www.cbsnews.com/video/parents-claim-3-year-old-kicked-out-soccer-league-too-good/",
+   "source": "CBS News",
+   "date": "2026-10-27T01:08:25+00:00",
+   "extrait": "Police were called to a youth soccer game that featured a star 3-year-old. The parents claim their son was being punished for being too good, but a league director said it was the parents who were…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "eea9c1b13236",
+   "titre": "Netanyahu faces first national election since Oct. 7, 2023",
+   "lien": "https://www.cbsnews.com/video/netanyahu-faces-first-national-election-since-oct-7-2023/",
+   "source": "CBS News",
+   "date": "2026-10-27T01:05:40+00:00",
+   "extrait": "Israeli Prime Minister Benjamin Netanyahu is facing his country's first national election since the Oct. 7, 2023, Hamas terror attack. Matt Gutman takes a look at what's at stake and who might…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "92c6c2fc5578",
    "titre": "DOJ takes steps to charge James Comey again",
    "lien": "https://www.cbsnews.com/news/doj-takes-steps-to-charge-james-comey/",
    "source": "CBS News",
    "date": "2026-10-27T01:03:25+00:00",
    "extrait": "The DOJ took steps to charge James Comey with leaking information earlier this month, in its third attempt to bring criminal charges against the former FBI director and Trump foe.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "6c15f2a35f7a",
+   "titre": "Flooding hits both coasts",
+   "lien": "https://www.cbsnews.com/video/flooding-hits-both-coasts/",
+   "source": "CBS News",
+   "date": "2026-10-27T01:02:44+00:00",
+   "extrait": "Both coasts are dealing with flooding. In the West, El Niño and full moon tides are bringing rising water, while the East is dealing with what's known as the King Tide. Rob Marciano has the latest.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "3fdb4c720e6f",
+   "titre": "Manhunt underway for escaped murderer in Tennessee",
+   "lien": "https://www.cbsnews.com/video/manhunt-underway-escaped-murderer-tennessee/",
+   "source": "CBS News",
+   "date": "2026-10-27T01:00:00+00:00",
+   "extrait": "Jacob Morley, a convicted murderer, escaped from a medium security prison in Tennessee over the weekend. Authorities are asking local residents to check their home security cameras for any sign of…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "1001200c0765",
+   "titre": "Trump, Obama hold rallies ahead of midterms",
+   "lien": "https://www.cbsnews.com/video/trump-obama-hold-rallies-ahead-of-midterms/",
+   "source": "CBS News",
+   "date": "2026-10-27T00:59:04+00:00",
+   "extrait": "President Trump is holding several rallies, including in deep-red states, in the week before the midterm as he tries to keep his party in control of Congress. Former President Barack Obama is also…",
    "tags": [
     "Politique"
    ],
@@ -45,11 +173,11 @@
   },
   {
    "id": "735c4d594a67",
-   "titre": "Autonomie de la Corse : le Sénat rejette la réforme constitutionnelle ; le camp autonomiste annonce son « retrait » du processus",
+   "titre": "Corse : le Sénat rejette le projet de loi sur l’autonomie et enterre le processus de Beauvau",
    "lien": "https://www.lemonde.fr/politique/article/2026/10/27/autonomie-de-la-corse-le-senat-rejette-la-reforme-constitutionnelle-le-camp-autonomiste-annonce-son-retrait-du-processus_6800949_823448.html",
    "source": "Le Monde",
-   "date": "2026-10-27T00:40:30+00:00",
-   "extrait": "Le camp autonomiste a accusé la Chambre haute de « détruire un accord politique », alors que le projet parlementaire a été rejeté à 181 voix contre 134, dans la nuit de lundi à mardi.",
+   "date": "2026-10-27T00:40:29+00:00",
+   "extrait": "Malgré des amendements abandonnant la reconnaissance d’une « communauté » et obligeant la Collectivité de Corse à demander au cas par cas l’habilitation à édicter des normes, le Sénat a fini par…",
    "tags": [
     "Politique"
    ],
@@ -618,6 +746,19 @@
    "zone": "monde"
   },
   {
+   "id": "347564e1a313",
+   "titre": "10/26: The Takeout with Major Garrett",
+   "lien": "https://www.cbsnews.com/video/102626-the-takeout-with-major-garrett/",
+   "source": "CBS News",
+   "date": "2026-10-26T21:00:00+00:00",
+   "extrait": "President Trump amps up rhetoric against El-Sayed; Israel is holding its first Parliamentary elections since the Oct. 7, 2023 attacks.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "5247cf9ed906",
    "titre": "Trump campaigning in red states to reassure Republican voters",
    "lien": "https://www.cbsnews.com/video/trump-campaigning-red-states-reassure-republican-voters/",
@@ -886,16 +1027,6 @@
     "Justice"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "956827e535fa",
-   "titre": "Dollar General overcharged people at checkout for years, FTC says",
-   "lien": "https://www.cbsnews.com/news/dollar-general-sued-ftc-overcharging-prices/",
-   "source": "CBS News",
-   "date": "2026-10-26T19:24:10+00:00",
-   "extrait": "The discount retailer routinely charges customers more at checkout than the prices it displays on shelves, price tags and ads, according to federal and state authorities.",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "f9d25ede87a7",
@@ -1342,19 +1473,6 @@
    "extrait": "Maurene Comey was abruptly fired in July 2025 from her job as a federal prosecutor in the Southern District of New York. She sued the DOJ over her firing, claiming it was unlawful.",
    "tags": [
     "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "0df1933a5567",
-   "titre": "These factors could decide Netanyahu's fate in Israel's election",
-   "lien": "https://www.cbsnews.com/news/israel-election-benjamin-netanyahu-political-fate-key-factors/",
-   "source": "CBS News",
-   "date": "2026-10-26T16:54:00+00:00",
-   "extrait": "Israelis are about to vote to choose their next government. The race is wide open, and Benjamin Netanyahu's political fate could hinge on a couple key factors.",
-   "tags": [
-    "Politique",
-    "Conflits"
    ],
    "zone": "usa"
   },
@@ -3388,127 +3506,6 @@
    "source": "franceinfo",
    "date": "2026-10-26T09:03:02+00:00",
    "extrait": "Le gouvernement s’apprête à faire une série d'annonces lundi après avoir reçu les organisations lycéennes et étudiantes.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "f96ec7760076",
-   "titre": "Special ed diaries: Teachers tell NPR about their most joyous, most difficult moments",
-   "lien": "https://www.npr.org/2026/10/26/nx-s1-6000653/special-education-teacher-shortage",
-   "source": "NPR",
-   "date": "2026-10-26T09:00:00+00:00",
-   "extrait": "What makes special education teaching jobs so hard to fill? NPR set out to find some answers by talking to more than a dozen teachers who do this work every day.",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "6bda0d111bab",
-   "titre": "Loggers say Roadless Rule repeal won't solve their biggest challenges",
-   "lien": "https://www.npr.org/2026/10/26/nx-s1-6009247/loggers-say-roadless-rule-repeal-wont-solve-their-biggest-challenges",
-   "source": "NPR",
-   "date": "2026-10-26T09:00:00+00:00",
-   "extrait": "President Trump is planning to open up some of the nation's last pristine forests to road building and timber companies. But those who work in the woods say it won't do enough to revive the industry.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "c67d26e7588e",
-   "titre": "How AI is transforming hurricane forecasts",
-   "lien": "https://www.npr.org/2026/10/26/nx-s1-6012820/ai-hurricane-forecast-google-deepmind-isaias",
-   "source": "NPR",
-   "date": "2026-10-26T09:00:00+00:00",
-   "extrait": "Hurricane forecasters are increasingly using artificial intelligence to make predictions.",
-   "tags": [
-    "Climat",
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "c776f21d0ab5",
-   "titre": "Court ruling fails to end wait for thousands of immigrants stuck abroad without visas",
-   "lien": "https://www.npr.org/2026/10/26/nx-s1-5991896/court-ruling-fails-to-end-wait-for-thousands-of-immigrants-stuck-abroad-without-visas",
-   "source": "NPR",
-   "date": "2026-10-26T09:00:00+00:00",
-   "extrait": "A federal judge struck down a Trump administration ban on issuing immigrant visas to people from 75 countries, but immigrants continue to be stuck in their countries.",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "d4ce66ec46ed",
-   "titre": "Republicans are spending millions and still may not win districts drawn to favor them",
-   "lien": "https://www.npr.org/2026/10/26/nx-s1-6008167/republican-redistricting-midterms-competitive-map",
-   "source": "NPR",
-   "date": "2026-10-26T09:00:00+00:00",
-   "extrait": "Republicans redrew congressional district lines to try to tilt the midterms in their favor. But now they are facing expensive and competitive races they had hoped to outmaneuver.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "b9fa5c4090d2",
-   "titre": "Morning news brief",
-   "lien": "https://www.npr.org/2026/10/26/nx-s1-6012093/morning-news-brief",
-   "source": "NPR",
-   "date": "2026-10-26T08:42:53+00:00",
-   "extrait": "Republicans' gerrymandering efforts have led to expensive and competitive races, Brazil's President Lula elected for fourth term, protests sweep parts of Europe.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "825ad7723900",
-   "titre": "\"Il y a une certaine impunité envers les mouvements d'extrême droite qui ne peut plus durer\", déclare Marine Tondelier",
-   "lien": "https://www.franceinfo.fr/politique/je-pense-qu-il-y-a-quand-meme-une-certaine-impunite-envers-les-mouvements-d-extreme-droite-qui-ne-peut-plus-durer-declare-marine-tondelier-secretaire-nationale-des-ecologistes-et-candidate-a-l-election-presidentielle_8253919.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-26T08:36:51+00:00",
-   "extrait": "Marine Tondelier, secrétaire nationale des Écologistes et candidate à l'élection présidentielle, revient ce lundi 26 octobre dans les \"4 Vérités\" sur la victoire de Lula au Brésil, les mobilisations…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "b7f818076ed0",
-   "titre": "Trump attacks El-Sayed over his faith, calls him \"jihadist\"",
-   "lien": "https://www.cbsnews.com/news/president-trump-port-huron-rally-republicans/",
-   "source": "CBS News",
-   "date": "2026-10-26T08:36:01+00:00",
-   "extrait": "President Trump is making his case for Republican candidates in Michigan; he spoke at a rally in Port Huron on Sunday ahead of the Nov. 3 midterm elections.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "8cc10657dfeb",
-   "titre": "Les forces saoudiennes disent avoir intercepté un missile houthi vers Riyad, l'aéroport à nouveau visé",
-   "lien": "https://www.franceinfo.fr/monde/proche-orient/yemen/les-forces-saoudiennes-disent-avoir-intercepte-un-missile-houthi-vers-riyad-l-aeroport-a-nouveau-vise_8253784.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-26T08:23:36+00:00",
-   "extrait": "La coalition militaire a dit avoir aussi détruit quatre plateformes de lancement de missiles balistiques, ainsi qu'un dépôt de missiles des houthis.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "dd981066d6d3",
-   "titre": "Une mobilisation importante mais en légère baisse, plusieurs blessés graves, près de 1 300 interpellations… Ce qu'il faut retenir de ce samedi de manifestation",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/mobilisation-en-baisse-pres-de-1-000-interpellations-deux-blesses-graves-ce-qu-il-faut-retenir-de-cette-nouvelle-journee-de-manifestation-contre-la-vie-chere-partout-en-france_8252476.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-26T08:20:30+00:00",
-   "extrait": "Une semaine après des manifestations émaillées de violences, plusieurs centaines de milliers de personnes ont de nouveau manifesté sur le territoire. \"Les cortèges se sont bien déroulés\", a assuré…",
    "tags": [
     "Politique"
    ],
