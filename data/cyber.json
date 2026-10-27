@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-27T13:05:40+00:00",
+ "maj": "2026-10-27T14:09:22+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,29 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "eeae20ed2a5a",
+   "titre": "Tailscale warns of SSH flaws allowing root privilege escalation",
+   "lien": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
+   "source": "BleepingComputer",
+   "date": "2026-10-27T14:09:46+00:00",
+   "extrait": "The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "b611ff4c270c",
+   "titre": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
+   "lien": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
+   "source": "BleepingComputer",
+   "date": "2026-10-27T14:01:11+00:00",
+   "extrait": "Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the…",
+   "tags": [
+    "Outil",
+    "Windows"
+   ]
+  },
   {
    "id": "a6006728be28",
    "titre": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
