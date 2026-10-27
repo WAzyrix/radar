@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-27T22:05:39+00:00",
+ "maj": "2026-10-27T22:39:30+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "78275c0ac59e",
+   "titre": "UNM Health ransomware attack disrupts patient care, surgeries",
+   "lien": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
+   "source": "BleepingComputer",
+   "date": "2026-10-27T22:07:34+00:00",
+   "extrait": "The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]",
+   "tags": [
+    "Ransomware"
+   ]
+  },
   {
    "id": "7477a331e67f",
    "titre": "Hackers hijack Convertr analytics script to steal payment card data",

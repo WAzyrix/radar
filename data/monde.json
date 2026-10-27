@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-27T22:05:39+00:00",
+ "maj": "2026-10-27T22:39:30+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,11 +22,21 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "e84d896ff950",
+   "titre": "Grand jury won't indict Cassidy Hutchinson over Jan. 6 testimony",
+   "lien": "https://www.cbsnews.com/news/grand-jury-declines-to-indict-trump-critic-cassidy-hutchinson-over-jan-6-testimony/",
+   "source": "CBS News",
+   "date": "2026-10-27T22:39:24+00:00",
+   "extrait": "Federal prosecutors in Washington, D.C., failed to secure an indictment against Cassidy Hutchinson over her testimony about the Jan. 6, 2021, Capitol riot.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
    "id": "872a7d115b31",
    "titre": "New charges tossed against ex-FBI officials in Hunter Biden probe",
    "lien": "https://www.cbsnews.com/news/hunter-biden-investigation-more-charges-filed-against-ex-fbi-officials/",
    "source": "CBS News",
-   "date": "2026-10-27T22:03:45+00:00",
+   "date": "2026-10-27T22:37:36+00:00",
    "extrait": "The unsigned and unsworn superseding complaint comes just hours before the defendants were due to appear in federal court in Washington, D.C. for a preliminary hearing.",
    "tags": [
     "Justice"
@@ -34,13 +44,162 @@
    "zone": "usa"
   },
   {
-   "id": "e84d896ff950",
-   "titre": "Grand jury won't indict Cassidy Hutchinson over Jan. 6 testimony",
-   "lien": "https://www.cbsnews.com/news/grand-jury-declines-to-indict-trump-critic-cassidy-hutchinson-over-jan-6-testimony/",
+   "id": "158d945c81ab",
+   "titre": "Tennis : fin d'une longue carrière pour le Suisse Stan Wawrinka, battu au 1er tour à Bâle",
+   "lien": "https://www.france24.com/fr/sports/20261027-tennis-fin-carriere-stan-wawrinka-battu-1er-tour-bale-suisse",
+   "source": "France 24",
+   "date": "2026-10-27T22:30:37+00:00",
+   "extrait": "Battu mardi à Bâle par le Tchèque Jiri Lehecka, le Suisse Stan Wawrinka, triple vainqueur en Grand Chelem, quitte le circuit après 16 titres et une longue carrière. Ancien N.3 mondial, il était l’un…",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "397d0739ccba",
+   "titre": "King tides cause flooding, damage to Southern California homes",
+   "lien": "https://www.cbsnews.com/video/king-tides-cause-flooding-damage-california-homes/",
    "source": "CBS News",
-   "date": "2026-10-27T22:02:42+00:00",
-   "extrait": "Federal prosecutors in Washington, D.C., failed to secure an indictment against Cassidy Hutchinson over her testimony about the Jan. 6, 2021, Capitol riot.",
-   "tags": [],
+   "date": "2026-10-27T22:28:53+00:00",
+   "extrait": "Damaging floods continued to hit the Southern California coastline on Tuesday. Unusually high tides flooded the streets of Los Angeles, while residents in Orange County's Newport Beach reported…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "2f3c2df09506",
+   "titre": "Egypte : la journaliste Lina Attalah, directrice du média indépendant « Mada Masr », libérée après le paiement d’une amende",
+   "lien": "https://www.lemonde.fr/afrique/article/2026/10/27/egypte-la-journaliste-lina-attalah-directrice-du-media-independant-mada-masr-liberee-apres-le-paiement-d-une-amende_6801280_3213.html",
+   "source": "Le Monde",
+   "date": "2026-10-27T22:27:58+00:00",
+   "extrait": "À l’issue d’une unique audience, un tribunal a ordonné la fermeture du site Internet et imposé une amende de près de 49 000 euros, pour l’avoir exploité « sans licence ». Il s’agit de la sixième…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "b18dad7f6f09",
+   "titre": "Trump erased $119 million in restitution for crime victims, CBS investigation finds",
+   "lien": "https://www.cbsnews.com/video/trump-erased-119-million-in-restitution-for-crime-victims-cbs-investigation-finds/",
+   "source": "CBS News",
+   "date": "2026-10-27T22:27:06+00:00",
+   "extrait": "A CBS News investigation found that President Trump's use of clemency orders erased at least $119 million in restitution for victims of crimes, including small businesses and the IRS. CBS News…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "a1f8a2d81c5b",
+   "titre": "Anthropic's IPO lists 93 pages of risks. What could go wrong?",
+   "lien": "https://www.cbsnews.com/news/anthropic-ipo-filing-ai-risks/",
+   "source": "CBS News",
+   "date": "2026-10-27T22:23:54+00:00",
+   "extrait": "Anthropic's planned IPO requires investors to reckon with the threat posed by AI. \"This is not an ordinary technology risk,\" one expert said.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "d7983200f197",
+   "titre": "Sen. Chris Coons speaks out against Trump's Ukraine policy",
+   "lien": "https://www.cbsnews.com/video/chris-coons-speaks-out-trump-ukraine/",
+   "source": "CBS News",
+   "date": "2026-10-27T22:20:28+00:00",
+   "extrait": "Democratic Sen. Chris Coons of Delaware joins \"The Takeout\" to address the Trump administration's policies toward Ukraine and Russia as Elon Musk admits to restricting the country's access to a…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "78290633f8a8",
+   "titre": "Anthropic files for IPO as it competes for AI dominance",
+   "lien": "https://www.cbsnews.com/news/anthropic-ipo-plans-ai-safety/",
+   "source": "CBS News",
+   "date": "2026-10-27T22:19:52+00:00",
+   "extrait": "Anthropic, which developed the Claude chatbot, is barreling ahead with its public offering despite mounting concerns about AI going rogue.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "26f0bed97c5a",
+   "titre": "Le journaliste Bruno Meyerfeld remporte le prix Albert Londres 2026 pour ses reportages sur les peuples indigènes au Brésil",
+   "lien": "https://www.franceinfo.fr/economie/medias/le-journaliste-bruno-meyerfeld-remporte-le-prix-albert-londres-2026-pour-ses-reportages-sur-les-peuples-indigenes-au-bresil_8256496.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-27T22:18:59+00:00",
+   "extrait": "Ses articles, publiés par \"Le Monde\", s'inscrivent dans son travail \"largement consacré aux enjeux environnementaux\", relève le jury. Les prix de l'audiovisuel et du livre ont, eux, été décernés à…",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "2078c1083409",
+   "titre": "Status of Israel's election as exit polling reveals a divided nation",
+   "lien": "https://www.cbsnews.com/video/status-israels-election-exit-polling-reveals-divided-nation/",
+   "source": "CBS News",
+   "date": "2026-10-27T22:18:54+00:00",
+   "extrait": "New exit polls from Israel's major television networks project that a majority of Israelis voted against incumbent Prime Minister Benjamin Netanyahu in the country's first parliamentary election…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "ff3a1d347ba8",
+   "titre": "Trump campaigns in Texas as 83% of those polled say corruption is a major factor in the midterms",
+   "lien": "https://www.cbsnews.com/video/trump-campaigns-texas-polled-say-corruption-major-factor-midterms/",
+   "source": "CBS News",
+   "date": "2026-10-27T22:17:18+00:00",
+   "extrait": "The stakes are higher than ever for President Trump, whose final two years in office will be impacted by who controls Congress. CBS News correspondent Natalie Brand reports as the president…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "38b9088164a9",
+   "titre": "Former RNC Chair breaks down midterm elections",
+   "lien": "https://www.cbsnews.com/video/former-rnc-chair-breaks-down-midterm-elections/",
+   "source": "CBS News",
+   "date": "2026-10-27T22:16:11+00:00",
+   "extrait": "Ronna McDaniel, former chair of the Republican National Committee, joins \"The Takeout\" to break down what to expect from the midterms with only one week to go.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "4ce40386cade",
+   "titre": "Ceasefire extended across Ukraine's Kherson region, officials say",
+   "lien": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-27T22:11:08+00:00",
+   "extrait": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "fdd1d4da5486",
+   "titre": "Photos show Ukraine's Starlink access disabled during deadly Russian strike",
+   "lien": "https://www.cbsnews.com/video/photos-show-ukraines-starlink-access-disabled-during-deadly-russian-strike/",
+   "source": "CBS News",
+   "date": "2026-10-27T21:59:01+00:00",
+   "extrait": "CBS News has obtained images showing Ukraine's Starlink satellite system disabled during a Russian strike that killed five people. Elon Musk has admitted to limiting Ukraine's access to the SpaceX…",
+   "tags": [
+    "Conflits",
+    "Tech"
+   ],
    "zone": "usa"
   },
   {
@@ -336,13 +495,14 @@
   },
   {
    "id": "ecdb20565190",
-   "titre": "Israelis vote in their highest numbers in decades in pivotal elections",
+   "titre": "Israel's election has a high turnout, lifting opposition hopes of beating Netanyahu",
    "lien": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
    "source": "NPR",
    "date": "2026-10-27T20:45:39+00:00",
    "extrait": "Israelis voted in their highest numbers in decades in a tense national election on Tuesday to decide whether to stick with Prime Minister Benjamin Netanyahu's far-right coalition or change course.",
    "tags": [
-    "Politique"
+    "Politique",
+    "Conflits"
    ],
    "zone": "usa"
   },
@@ -369,18 +529,6 @@
     "Politique"
    ],
    "zone": "france"
-  },
-  {
-   "id": "4ce40386cade",
-   "titre": "Ceasefire extended across Ukraine's Kherson region, officials say",
-   "lien": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-27T20:19:53+00:00",
-   "extrait": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
   },
   {
    "id": "e93362d7cbbb",
@@ -413,18 +561,6 @@
    "extrait": "A travers plus de 120 œuvres couvrant soixante-cinq ans de carrière, l’exposition démontre comment le peintre néerlandais utilisait le dessin pour chercher, corriger, détruire et se surprendre…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "a1f8a2d81c5b",
-   "titre": "Anthropic's IPO lists 93 pages of risks. What could go wrong?",
-   "lien": "https://www.cbsnews.com/news/anthropic-ipo-filing-ai-risks/",
-   "source": "CBS News",
-   "date": "2026-10-27T19:46:24+00:00",
-   "extrait": "Anthropic's planned IPO requires investors to reckon with the threat posed by AI. \"This is not an ordinary technology risk,\" one expert said.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
   },
   {
    "id": "f66df8379227",
@@ -1917,6 +2053,18 @@
    "zone": "monde"
   },
   {
+   "id": "b8b4468d5bb3",
+   "titre": "Trump vs Obama - which president has the star power to get out the vote?",
+   "lien": "https://www.bbc.co.uk/news/videos/cv0ldjez8z32o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-27T13:59:22+00:00",
+   "extrait": "The BBC's Sarah Smith followed Trump and Obama as both parties hope their biggest names can drive midterm turnout.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "5904e8153921",
    "titre": "Anthropic files for IPO amid concern over AI threat",
    "lien": "https://www.cbsnews.com/video/anthropic-files-for-ipo-amid-concern-over-ai-threat/",
@@ -3352,149 +3500,6 @@
    "extrait": "La chaîne d'information en continu du service public a rendu compte dans l'après-midi du 24 octobre de la dispersion d'une manifestation à Lyon. Mais elle a diffusé comme illustration des images…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "8621478d215e",
-   "titre": "EN DIRECT, guerre en Ukraine : Vladimir Poutine accuse l’UE et l’OTAN de prolonger le conflit",
-   "lien": "https://www.lemonde.fr/international/live/2026/10/27/en-direct-guerre-en-ukraine-pres-de-200-affrontements-entre-russes-et-ukrainiens-sur-le-front-lundi-26-octobre_6799896_3210.html",
-   "source": "Le Monde",
-   "date": "2026-10-27T09:08:25+00:00",
-   "extrait": "Le président russe a estimé, lors de son appel téléphonique avec son homologue finlandais, Alexander Stubb, et le premier ministre norvégien, Jonas Gahr Store, que la « politique de confrontation »…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "d52c6149e85e",
-   "titre": "Casseurs-payeurs : \"On pourrait également considérer que cette loi porte une atteinte excessive à la liberté de manifester\", décrypte Olivia Ronen, avocate pénaliste",
-   "lien": "https://www.franceinfo.fr/societe/loi-anti-casseurs/casseurs-payeurs-on-pourrait-egalement-considerer-que-cette-loi-porte-une-atteinte-excessive-a-la-liberte-de-manifester-decrypte-olivia-ronen-avocate-penaliste_8255362.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T09:07:52+00:00",
-   "extrait": "Invitée de \"La Matinale\" mardi 27 octobre, Olivia Ronen, avocate pénaliste, revient sur le projet de loi casseurs-payeurs, examiné au Sénat, et les questions juridiques soulevées par l'élargissement…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "ab75c5af1d7b",
-   "titre": "EN DIRECT, législatives en Israël : participation en nette hausse, paroles d’électeurs… nos dernières informations avec nos correspondants sur place",
-   "lien": "https://www.lemonde.fr/international/live/2026/10/27/en-direct-legislatives-en-israel-suivez-la-journee-d-election-avec-nos-correspondants-et-posez-vos-questions_6801217_3210.html",
-   "source": "Le Monde",
-   "date": "2026-10-27T09:05:01+00:00",
-   "extrait": "Le taux de participation s’élevait à 31,5 % à 12 heures, heure locale (11 heures à Paris), a annoncé la Commission électorale centrale israélienne. Un taux inégalé à ce stade de la journée depuis…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c6d8618554cf",
-   "titre": "Attentat raciste de Trappes : dans toute la France, des hommages aux victimes où se mêlent colère commune et divergences politiques",
-   "lien": "https://www.lemonde.fr/societe/article/2026/10/27/attentat-raciste-de-trappes-dans-toute-la-france-des-hommages-aux-victimes-ou-se-melent-colere-commune-et-divergences-politiques_6801216_3224.html",
-   "source": "Le Monde",
-   "date": "2026-10-27T09:03:17+00:00",
-   "extrait": "Lundi soir, à Paris, à Toulouse ou encore à Vénissieux, des milliers de personnes sont venues dire leur peur et leur émotion après la mort de Pengo Bossio Wangi. Parfois, comme à Paris, dans deux…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "6ed77faf6a35",
-   "titre": "Democrats still poised to make gains, but poll shows warning signs for just how many",
-   "lien": "https://www.npr.org/2026/10/27/nx-s1-6017479/2026-midterms-npr-poll-democrats-trump-approval",
-   "source": "NPR",
-   "date": "2026-10-27T09:00:00+00:00",
-   "extrait": "Democrats hold significant advantages going into Election Day, according to a new NPR/PBS News/Marist poll. But lagging enthusiasm among key groups is just one indicator that gains may not come easy.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "e9ae4d1ffd88",
-   "titre": "Can Black voting power and Trump fatigue break Mississippi's red wall?",
-   "lien": "https://www.npr.org/2026/10/27/nx-s1-6018592/mississippi-senate-trump-colom-black-voter-turnout",
-   "source": "NPR",
-   "date": "2026-10-27T09:00:00+00:00",
-   "extrait": "Mississippi has the largest proportional Black population in the country. It's one reason the U.S. Senate race has seen millions in last-minute spending and high-profile campaign visits.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "a95fa27c87fa",
-   "titre": "Polymarket has investigated 'dozens' of election-related cases",
-   "lien": "https://www.npr.org/2026/10/27/nx-s1-6012304/polymarket-election-betting-surveillance",
-   "source": "NPR",
-   "date": "2026-10-27T09:00:00+00:00",
-   "extrait": "The prediction market has hired a former FBI official to make sure political insiders don't use the platform for profit from confidential election information.",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "06025ea16bce",
-   "titre": "Hospital beds for the nation's sickest kids are disappearing",
-   "lien": "https://www.cbsnews.com/news/pediatric-intensive-care-units-closing-nationwide/",
-   "source": "CBS News",
-   "date": "2026-10-27T09:00:00+00:00",
-   "extrait": "Hospitals nationwide are cutting intensive services for kids in critical care. Many cite too few patients, staffing shortages, and money problems.",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "e75203df3eec",
-   "titre": "Présidentielle 2027 : le professeur d'immunologie Éric Vivier appelle les candidats à soutenir la recherche fondamentale",
-   "lien": "https://www.franceinfo.fr/sante/presidentielle-2027-le-professeur-d-immunologie-eric-vivier-appelle-les-candidats-a-soutenir-la-recherche-fondamentale_8255410.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T08:59:29+00:00",
-   "extrait": "Le professeur d'immunologie à l’université Aix-Marseille alerte sur France Inter sur le retard que prend la France à cause du manque de financements dans la recherche.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "1473975404f4",
-   "titre": "Mobilisation des lycéens : les syndicats disent voir \"une petite brèche\" et veulent \"continuer à utiliser ce rapport de forces\"",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-les-syndicats-disent-voir-une-petite-breche-et-veulent-continuer-a-utiliser-ce-rapport-de-forces_8255338.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T08:49:36+00:00",
-   "extrait": "Les syndicats Les Lycéens! et la Fage saluent sur France Inter un \"premier pas\" du gouvernement pour répondre à la colère des étudiants et lycéens mais estiment les mesures annoncées insuffisantes.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "0652dc7b1c15",
-   "titre": "Morning news brief",
-   "lien": "https://www.npr.org/2026/10/27/nx-s1-6012225/morning-news-brief",
-   "source": "NPR",
-   "date": "2026-10-27T08:48:45+00:00",
-   "extrait": "A new NPR poll reveals Democrats' advantage going into Election Day, congressional Democrats are forming a task force to protect the election, Netanyahu vies for reelection as polls open in Israel.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "ed6f5ba096ce",
-   "titre": "How congressional Democrats are preparing for claims of election fraud by Trump",
-   "lien": "https://www.npr.org/2026/10/27/nx-s1-6013555/congressional-democrats-are-forming-a-task-force-to-protect-election-results",
-   "source": "NPR",
-   "date": "2026-10-27T08:48:04+00:00",
-   "extrait": "Democrats in Congress are bracing for what they fear could be meddling by President Trump or his allies with the results of this year's midterm elections.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
   }
  ]
 }
