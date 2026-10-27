@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-27T15:05:39+00:00",
+ "maj": "2026-10-27T16:05:42+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,11 +22,35 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "0362b25f6c11",
+   "titre": "Trump says Obama \"wouldn't understand\" White House renovations",
+   "lien": "https://www.cbsnews.com/news/trump-obama-cheesecake-factory-white-house/",
+   "source": "CBS News",
+   "date": "2026-10-27T15:54:15+00:00",
+   "extrait": "\"I would try and explain that to a guy like Obama, but he wouldn't understand,\" President Trump said at a rally in Mississippi.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "25098eca8612",
+   "titre": "Ceasefire begins in Russian-occupied Ukrainian town as strikes on Kyiv continue",
+   "lien": "https://www.cbsnews.com/video/ceasefire-begins-in-russian-occupied-ukrainian-town-as-strikes-on-kyiv-continue/",
+   "source": "CBS News",
+   "date": "2026-10-27T15:51:59+00:00",
+   "extrait": "Russia's strikes on Ukraine continue, but a localized ceasefire has started in the Russian-occupied Ukrainian town of Oleshky, where residents face dire conditions. CBS News' Aidan Stretch has the…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "7ac028924220",
    "titre": "8-month Iran war looms large over Israeli election",
    "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/",
    "source": "CBS News",
-   "date": "2026-10-27T15:04:17+00:00",
+   "date": "2026-10-27T15:49:17+00:00",
    "extrait": "Israeli voters are choosing their next government, with Prime Minister Benjamin Netanyahu insisting only he can finish the job started eight months ago in Iran.",
    "tags": [
     "Politique",
@@ -35,14 +59,234 @@
    "zone": "usa"
   },
   {
+   "id": "8e7be9c8af2f",
+   "titre": "Elections législatives israéliennes : duel Netanyahu-Eisenkot pour le pouvoir",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-elections-l%C3%A9gislatives-isra%C3%A9liennes-duel-netanyahu-eisenkot-pour-le-pouvoir",
+   "source": "France 24",
+   "date": "2026-10-27T15:44:14+00:00",
+   "extrait": "Marius Schattner, journaliste et écrivain, est notre invité. Stéphane Amar est en direct de Jérusalem.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "5ae7e089881d",
+   "titre": "Au Yémen, les houthistes assimilent le soutien militaire de l’Egypte à l’Arabie saoudite à une « déclaration de guerre »",
+   "lien": "https://www.lemonde.fr/international/article/2026/10/27/au-yemen-les-houthistes-assimilent-le-soutien-militaire-egyptien-a-riyad-a-une-declaration-de-guerre_6801307_3210.html",
+   "source": "Le Monde",
+   "date": "2026-10-27T15:42:41+00:00",
+   "extrait": "La milice pro-iranienne a annoncé avoir pris pour cible le ministère de la défense saoudien, à Riyad, à l’aide d’un missile balistique. Les forces saoudiennes disent, pour leur part, avoir…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "ebf2d31fa772",
+   "titre": "🔴 Législatives israéliennes en direct : le Likoud de Netanyahu demande à prolonger l'ouverture des bureaux de vote",
+   "lien": "https://www.france24.com/fr/moyen-orient/20261027-direct-ouverture-bureaux-vote-isra%C3%ABl-netanyahu-%C3%A9preuve-urnes",
+   "source": "France 24",
+   "date": "2026-10-27T15:39:05+00:00",
+   "extrait": "",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "a108b9f7f69e",
+   "titre": "Des députés de gauche et écologistes quittent l'hémicycle après l'hommage à la victime de l'attentat de Trappes",
+   "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/videos-des-deputes-quittent-l-assemblee-nationale-pendant-la-prise-de-parole-de-l-elu-rn-sebastien-chenu-apres-l-hommage-a-la-victime-de-l-attentat-de-trappes_8255992.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-27T15:38:41+00:00",
+   "extrait": "L'ambiance s'est tendue à l'Assemblée nationale mardi, après la minute de silence observée en hommage à Pengo Bossio Wangi, tué lors de l'attentat raciste dans les Yvelines vendredi.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "b05ebbd87612",
+   "titre": "La plateforme Parcoursup a-t-elle vraiment permis de réduire le taux d'échec à l'université ?",
+   "lien": "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/la-plateforme-parcoursup-a-t-elle-vraiment-permis-de-reduire-le-taux-d-echec-a-l-universite_8255989.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-27T15:38:05+00:00",
+   "extrait": "Parcoursup est \"un progrès pour les université\", estime l'ancien ministre de l'Education nationale, Jean-Michel Blanquer, qui assure que cela a aider à diminuer le taux d'échec des étudiants.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "39741d9fe124",
+   "titre": "Trump appelle les Israéliens à voter pour Netanyahu, un \"guerrier exceptionnel\"",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-trump-appelle-les-isra%C3%A9liens-%C3%A0-voter-pour-netanyahu-un-guerrier-exceptionnel",
+   "source": "France 24",
+   "date": "2026-10-27T15:36:22+00:00",
+   "extrait": "Matthieu Mabin, notre correspondant à Washington, analyse la situation.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "4a4f99c6a77b",
+   "titre": "Trappes : minute de silence à l'Assemblée, Lecornu accuse la gauche de \"faire le jeu du RN\"",
+   "lien": "https://www.france24.com/fr/france/20261027-attentat-trappes-minute-silence-assembl%C3%A9e-lecornu-accuse-gauche-faire-jeu-rassemblement-national",
+   "source": "France 24",
+   "date": "2026-10-27T15:36:19+00:00",
+   "extrait": "Une minute de silence a été observée mardi à l’Assemblée nationale en hommage aux victimes de l’attentat raciste ayant fait un mort et cinq blessés vendredi à Trappes et à La Verrière. Le Premier…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "9f6dded3e21d",
+   "titre": "DOJ asks Washington to set aside ballots from 400 alleged noncitizens",
+   "lien": "https://www.cbsnews.com/news/justice-department-washington-ballots-400-alleged-noncitizens/",
+   "source": "CBS News",
+   "date": "2026-10-27T15:35:42+00:00",
+   "extrait": "Federal prosecutors said they sent a letter to the Washington secretary of state with a list of 400 people they claimed are not U.S. citizens.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "18642dfc0319",
+   "titre": "Le RN poursuit \"Le Monde\" en diffamation, dénonçant la publication d'une \"information mensongère\" sur l'attentat raciste de Trappes",
+   "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/le-rn-poursuit-le-monde-en-diffamation-denoncant-la-publication-d-une-information-mensongere-sur-l-attentat-raciste-de-trappes_8255479.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-27T15:35:39+00:00",
+   "extrait": "Le journal avait affirmé que des tracts du Rassemblement national avaient été retrouvés dans la voiture de Kévin T., le suspect de l'attaque terroriste. L'information a été démentie par le procureur…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "b09670a60d65",
+   "titre": "Florida mom left kids home alone while on trip to Vegas, deputies say",
+   "lien": "https://www.cbsnews.com/news/florida-mom-leaves-kids-home-alone-las-vegas-trip/",
+   "source": "CBS News",
+   "date": "2026-10-27T15:33:53+00:00",
+   "extrait": "The investigation began when a child called 911 reporting a dumbbell fell on her brother's head, deputies say.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "80aaaa558815",
+   "titre": "FBI raids California home tied to former Congressman Eric Swalwell - US media",
+   "lien": "https://www.bbc.co.uk/news/articles/cwvgrk0zx641o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-27T15:31:07+00:00",
+   "extrait": "The California Democrat has faced multiple sexual misconduct allegations which he has denied.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "bd1c4179d319",
+   "titre": "Israeli police arrest man with knife near left-wing leader",
+   "lien": "https://www.cbsnews.com/news/israel-yair-golan-police-arrest-man-knife-election-day/",
+   "source": "CBS News",
+   "date": "2026-10-27T15:27:42+00:00",
+   "extrait": "A man with a knife was arrested at an Israeli election event for left-wing leader Yair Golan as Israelis vote in a crucial election.",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "a6854a2c06a1",
+   "titre": "Ce qui va changer pour les lycéens après l'annonce du \"remplacement\" de Parcoursup",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/ce-qui-va-changer-pour-les-lyceens-apres-l-annonce-du-remplacement-de-parcoursup_8255467.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-27T15:23:57+00:00",
+   "extrait": "Depuis plusieurs semaines, les lycéens réclament l'abandon de la plateforme d'admission post-bac. Le gouvernement leur a répondu, en promettant des changements dès 2027.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "b5e36ca6e173",
+   "titre": "High airfares are weighing on Thanksgiving travel plans this year",
+   "lien": "https://www.cbsnews.com/news/thanksgiving-flight-prices-high-bookings-drop/",
+   "source": "CBS News",
+   "date": "2026-10-27T15:22:32+00:00",
+   "extrait": "Average fares for the Thanksgiving holiday were up 31% in August from a year ago, according to aviation pricing data.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "767c7bf601fd",
+   "titre": "John Thune's balancing act: Inside his push to save the GOP majority",
+   "lien": "https://www.cbsnews.com/news/john-thune-midterms-trump-senate-majority/",
+   "source": "CBS News",
+   "date": "2026-10-27T15:19:09+00:00",
+   "extrait": "Senate Majority Leader John Thune has tried to balance passing the president's agenda and preserving the independence of the Senate. The midterms are his biggest test yet.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "fe3547eb7afc",
+   "titre": "Former Bee & Co. employee recalls high-pressure sales tactics",
+   "lien": "https://www.cbsnews.com/losangeles/news/bee-and-co-employee-high-pressure-sales-tactics-california-stores-closures/",
+   "source": "CBS News",
+   "date": "2026-10-27T15:18:00+00:00",
+   "extrait": "Since a CBS California Investigates report first aired in August, Bee & Co. stores at Westfield Topanga in Canoga Park and Del Amo Fashion Center in Torrance have closed their doors permanently.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "862f54797e59",
+   "titre": "\"Le racisme tue, la haine de l'autre tue\" : l'Assemblée nationale observe une minute de silence en hommage à Pengo Bossio Wangi, tué lors de l'attentat raciste de Trappes",
+   "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/video-la-haine-raciste-tue-l-assemblee-nationale-observe-une-minute-de-silence-en-hommage-a-pengo-bossio-wangi-tue-lors-de-l-attentat-raciste-de-trappes_8255941.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-27T15:16:41+00:00",
+   "extrait": "La présidente de l'Assemblée nationale, Yaël Braun-Pivet, a rendu hommage à la victime décédée, un jeune homme de 26 ans, espoir des arts martiaux mixtes, à qui \"la haine raciste a volé cet avenir\".",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "f7aae5dbc9f2",
    "titre": "Le suspect de l'attentat raciste de Trappes, Kevin T., a-t-il été photographié lors d'une réunion propalestinienne ?",
    "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/vrai-ou-faux-le-suspect-de-l-attentat-raciste-de-trappes-kevin-t-a-t-il-ete-photographie-lors-d-une-reunion-propalestinienne_8255995.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-10-27T15:03:18+00:00",
+   "date": "2026-10-27T15:16:32+00:00",
    "extrait": "Depuis plusieurs jours, un cliché circule sur les réseaux sociaux montrant un homme présenté comme Kévin T. posant avec des militants de l'Association France Palestine Solidarité (AFPS).",
    "tags": [],
    "zone": "france"
+  },
+  {
+   "id": "19ebc5f0e94e",
+   "titre": "Truce begins in Ukraine city where residents ate weeds to survive",
+   "lien": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-27T15:13:24+00:00",
+   "extrait": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "129951fec427",
+   "titre": "New details revealed in \"People's Court\" cold case murder arrest",
+   "lien": "https://www.cbsnews.com/news/michelle-parker-dale-smith-jr-disappearance-court-documents/",
+   "source": "CBS News",
+   "date": "2026-10-27T15:07:42+00:00",
+   "extrait": "Michelle Parker went missing on the same day that an episode of \"The People's Court\" about a dispute between herself and Dale Smith Jr. aired.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
   },
   {
    "id": "599d12ee5b93",
@@ -57,16 +301,42 @@
    "zone": "france"
   },
   {
-   "id": "a108b9f7f69e",
-   "titre": "Des députés quittent l'Assemblée nationale pendant la prise de parole de l'élu RN Sébastien Chenu après l'hommage à la victime de l'attentat de Trappes",
-   "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/videos-des-deputes-quittent-l-assemblee-nationale-pendant-la-prise-de-parole-de-l-elu-rn-sebastien-chenu-apres-l-hommage-a-la-victime-de-l-attentat-de-trappes_8255992.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T14:59:43+00:00",
-   "extrait": "L'ambiance s'est tendue à l'Assemblée nationale mardi, après la minute de silence observée en hommage à Pengo Bossio Wangi, tué lors de l'attentat raciste de Trappes vendredi.",
+   "id": "ac37a1f6c164",
+   "titre": "Au Brésil, une enquête ouverte sur un possible financement étranger de la campagne de Flavio Bolsonaro",
+   "lien": "https://www.lemonde.fr/international/article/2026/10/27/au-bresil-enquete-sur-un-possible-financement-etranger-de-la-campagne-de-flavio-bolsonaro_6801298_3210.html",
+   "source": "Le Monde",
+   "date": "2026-10-27T15:00:43+00:00",
+   "extrait": "Un juge de la Cour suprême brésilienne demande notamment à la police fédérale d’établir si le groupe conservateur américain Rockbridge Network a « participé à des tractations visant à l’obtention de…",
    "tags": [
-    "Politique"
+    "Justice"
    ],
    "zone": "france"
+  },
+  {
+   "id": "82a0041805aa",
+   "titre": "Un nouveau prix littéraire récompensera une œuvre créée à l’aide de l’intelligence artificielle : « Depuis l’affaire Thélyson Orélien, plus personne ne doute que l’IA est capable d’écrire un bon roman »",
+   "lien": "https://www.lemonde.fr/m-le-mag/article/2026/10/27/un-nouveau-prix-litteraire-recompensera-une-uvre-creee-a-l-aide-de-l-intelligence-artificielle-depuis-l-affaire-thelyson-orelien-plus-personne-ne-doute-que-l-ia-est-capable-d-ecrire-un-bon-roman_6801297_4500055.html",
+   "source": "Le Monde",
+   "date": "2026-10-27T15:00:11+00:00",
+   "extrait": "Comme un contre-pied au petit séisme provoqué dans le monde littéraire par l’affaire Thélyson Orélien, trois entrepreneurs fans de technologie ont annoncé la création, mi-octobre, du prix Pascal. Il…",
+   "tags": [
+    "Économie",
+    "Climat",
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "491d478ba5fe",
+   "titre": "Chine : Kylian Mbappé au cœur d’une polémique",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-chine-kylian-mbapp%C3%A9-au-c%C5%93ur-d-une-pol%C3%A9mique",
+   "source": "France 24",
+   "date": "2026-10-27T14:59:58+00:00",
+   "extrait": "La star du football français Kylian Mbappé voit certains de ses contrats publicitaires en Chine rompus suite à la publication d'une vidéo dans laquelle il semble plaisanter sur Mao Zedong. À…",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "monde"
   },
   {
    "id": "6ddc7c24cd53",
@@ -92,18 +362,6 @@
     "Conflits"
    ],
    "zone": "france"
-  },
-  {
-   "id": "129951fec427",
-   "titre": "New details revealed in \"People's Court\" cold case murder",
-   "lien": "https://www.cbsnews.com/news/michelle-parker-dale-smith-jr-disappearance-court-documents/",
-   "source": "CBS News",
-   "date": "2026-10-27T14:52:36+00:00",
-   "extrait": "Michelle Parker went missing on the same day that an episode of \"The People's Court\" about a dispute between herself and Dale Smith Jr. aired.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
   },
   {
    "id": "fd9403e9832f",
@@ -153,18 +411,6 @@
    "zone": "monde"
   },
   {
-   "id": "10c9afe06dfe",
-   "titre": "Inside John Thune's quiet effort to keep GOP's Senate majority",
-   "lien": "https://www.cbsnews.com/video/inside-john-thune-quiet-effort-keep-gop-senate-majority/",
-   "source": "CBS News",
-   "date": "2026-10-27T14:46:50+00:00",
-   "extrait": "Senate Majority Leader John Thune is fighting to maintain Republican control of the U.S. Senate. CBS News' Kaia Hubbard spoke with Thune about his leadership and behind-the-scenes work.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "8ca20d6a4d92",
    "titre": "Les houthis du Yémen affirment avoir ciblé le ministère de la Défense saoudien à Riyad",
    "lien": "https://www.franceinfo.fr/monde/proche-orient/tensions-entre-l-arabie-saoudite-et-l-iran/les-houthis-du-yemen-affirment-avoir-cible-le-ministere-de-la-defense-saoudien-a-riyad_8255953.html#xtor=RSS-3-[lestitres]",
@@ -177,12 +423,24 @@
    "zone": "france"
   },
   {
+   "id": "10c9afe06dfe",
+   "titre": "Inside John Thune's quiet effort to keep GOP's Senate majority",
+   "lien": "https://www.cbsnews.com/video/inside-john-thune-quiet-effort-keep-gop-senate-majority/",
+   "source": "CBS News",
+   "date": "2026-10-27T14:46:00+00:00",
+   "extrait": "Senate Majority Leader John Thune is fighting to maintain Republican control of the U.S. Senate. CBS News' Kaia Hubbard spoke with Thune about his leadership and behind-the-scenes work.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "55a305867124",
    "titre": "Attentat raciste de Trappes : Sébastien Lecornu dénonce « des gens qui portent des discours qui finissent par armer d’autres qui, eux, passent à l’acte »",
    "lien": "https://www.lemonde.fr/politique/article/2026/10/27/attentat-raciste-de-trappes-sebastien-lecornu-denonce-des-gens-qui-portent-des-discours-qui-finissent-par-armer-d-autres-qui-eux-passent-a-l-acte_6801291_823448.html",
    "source": "Le Monde",
    "date": "2026-10-27T14:44:16+00:00",
-   "extrait": "Les députés ont, eux, observé mardi une minute de silence à l’Assemblée nationale en hommage aux victimes de l’attentat.",
+   "extrait": "Le premier ministre a par ailleurs accusé, mardi, la gauche de « faire le jeu du Rassemblement national » après que les députés socialistes et écologistes ont quitté l’Hémicycle lors des questions…",
    "tags": [
     "Politique"
    ],
@@ -286,7 +544,7 @@
    "titre": "Trump reacts to Obama's \"Cheesecake Factory\" comment, heads to Texas to back Paxton",
    "lien": "https://www.cbsnews.com/video/trump-reacts-to-obamas-cheesecake-factory-comment-heads-to-texas-to-back-paxton/",
    "source": "CBS News",
-   "date": "2026-10-27T14:34:17+00:00",
+   "date": "2026-10-27T14:34:00+00:00",
    "extrait": "President Trump is campaigning for Texas gubernatorial candidate Ken Paxton. CBS News' Ed O'Keefe has more analysis.",
    "tags": [
     "Politique"
@@ -411,18 +669,6 @@
    "zone": "usa"
   },
   {
-   "id": "862f54797e59",
-   "titre": "\"La haine raciste tue\" : l'Assemblée nationale observe une minute de silence en hommage à Pengo Bossio Wangi, tué lors de l'attentat raciste de Trappes",
-   "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/video-la-haine-raciste-tue-l-assemblee-nationale-observe-une-minute-de-silence-en-hommage-a-pengo-bossio-wangi-tue-lors-de-l-attentat-raciste-de-trappes_8255941.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T14:16:21+00:00",
-   "extrait": "La présidente de l'Assemblée nationale, Yaël Braun-Pivet, avait fait savoir lundi qu'elle proposerait cette minute de silence aux présidents des groupes parlementaires.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "0292a448497b",
    "titre": "Discursive Verses: Jay-Z, the Super Bowl and playing with house money",
    "lien": "https://www.npr.org/2026/10/27/nx-s1-6019093/the-week-in-hip-hop-jay-z-super-bowl",
@@ -443,6 +689,18 @@
     "Climat"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "02c4efc7b254",
+   "titre": "« L’absence prolongée de Défenseur des enfants adresse un message préoccupant » : le gouvernement pressé par des associations de pourvoir le poste",
+   "lien": "https://www.lemonde.fr/societe/article/2026/10/27/l-absence-prolongee-de-defenseur-des-enfants-adresse-un-message-preoccupant-le-gouvernement-presse-par-des-associations-de-pourvoir-le-poste_6801285_3224.html",
+   "source": "Le Monde",
+   "date": "2026-10-27T14:07:18+00:00",
+   "extrait": "Ce délai « peut s’analyser comme une carence », déplorent une cinquantaine d’acteurs du secteur de l’enfance dans une lettre adressée au premier ministre. « Notre pays a besoin d’une autorité…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
   },
   {
    "id": "9f03d0dcabf6",
@@ -675,7 +933,7 @@
    "titre": "Jackson pulls ahead of Collins in Senate race, new Maine poll shows",
    "lien": "https://www.cbsnews.com/video/jackson-pulls-ahead-of-collins-in-maine-senate-race-new-poll-shows/",
    "source": "CBS News",
-   "date": "2026-10-27T13:31:53+00:00",
+   "date": "2026-10-27T13:31:00+00:00",
    "extrait": "President Trump continues supporting Republican candidates with campaign stops across the U.S. Meanwhile, musician John Legend campaigned for Democrats in Ohio, and a new Maine poll shows Democrat…",
    "tags": [
     "Politique"
@@ -687,7 +945,7 @@
    "titre": "Convicted murderer escapes prison through fence, steals truck",
    "lien": "https://www.cbsnews.com/news/convicted-murderer-escapes-tennessee-prison-fence-steals-truck/",
    "source": "CBS News",
-   "date": "2026-10-27T13:30:11+00:00",
+   "date": "2026-10-27T13:30:00+00:00",
    "extrait": "Authorities say a man serving a life sentence for murder escaped from a prison in northwest Tennessee, stole a truck and remained at large early Tuesday.",
    "tags": [],
    "zone": "usa"
@@ -814,7 +1072,7 @@
   },
   {
    "id": "bf9529683908",
-   "titre": "EN DIRECT, guerre en Ukraine : le premier ministre suédois rappelle que tout accord de paix doit être conclu selon les conditions de l’Ukraine",
+   "titre": "EN DIRECT, guerre en Ukraine : le premier ministre suédois rappelle que tout accord de paix doit être conclu selon les conditions de Kiev",
    "lien": "https://www.lemonde.fr/international/live/2026/10/27/en-direct-guerre-en-ukraine-des-coupures-d-electricite-dans-sept-oblasts-a-la-suite-d-attaques-russes-contre-les-infrastructures-energetiques_6799896_3210.html",
    "source": "Le Monde",
    "date": "2026-10-27T13:18:11+00:00",
@@ -839,11 +1097,11 @@
   },
   {
    "id": "c6c382169838",
-   "titre": "EN DIRECT, législatives en Israël : le parti du centriste Gadi Eisenkot accuse Benyamin Nétanyahou de se préparer à contester les résultats",
+   "titre": "EN DIRECT, législatives en Israël : le Likoud, le parti de Benyamin Nétanyahou, demande la prolongation de l’ouverture des bureaux de vote",
    "lien": "https://www.lemonde.fr/international/live/2026/10/27/en-direct-legislatives-en-israel-le-taux-de-participation-s-eleve-a-44-9-en-debut-d-apres-midi-un-record-depuis-1973_6801217_3210.html",
    "source": "Le Monde",
    "date": "2026-10-27T13:17:25+00:00",
-   "extrait": "La formation du principal rival de Benyamin Nétanyahou l’a accusé de « préparer le terrain » à une contestation des résultats en cas de défaite, après que le premier ministre a dénoncé dans la…",
+   "extrait": "Le parti du premier ministre a annoncé avoir déposé une requête pour étendre les horaires de vote au-delà de 22 heures locales (21 heures à Paris), alors qu’il cherche à mobiliser son électorat dans…",
    "tags": [
     "Politique",
     "Conflits"
@@ -887,7 +1145,7 @@
    "titre": "Trump's oil and gas stocks gained millions in value amid Iran war, according to Democrats' report",
    "lien": "https://www.cbsnews.com/video/trumps-oil-and-gas-stocks-gained-millions-in-value-amid-iran-war/",
    "source": "CBS News",
-   "date": "2026-10-27T13:12:31+00:00",
+   "date": "2026-10-27T13:12:00+00:00",
    "extrait": "The value of President Trump's personal oil and gas stock holdings has nearly doubled since his war with Iran began, according to a report by Democrats on the Congressional Joint Economic Committee…",
    "tags": [
     "Politique",
@@ -1177,19 +1435,6 @@
    "zone": "usa"
   },
   {
-   "id": "19ebc5f0e94e",
-   "titre": "Truce begins in Ukraine city where residents ate weeds to survive",
-   "lien": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-27T11:53:57+00:00",
-   "extrait": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
    "id": "833b65dc86b3",
    "titre": "Risque \"extrêmement élevé\" de nouvelles atrocités au Soudan, alertent des pays",
    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-risque-extr%C3%AAmement-%C3%A9lev%C3%A9-de-nouvelles-atrocit%C3%A9s-au-soudan-alertent-des-pays",
@@ -1333,6 +1578,18 @@
    "zone": "france"
   },
   {
+   "id": "ed19e85667db",
+   "titre": "\"Parcoursup a été un progrès énorme\" : Jean-Michel Blanquer, ancien ministre de l'Éducation nationale",
+   "lien": "https://www.franceinfo.fr/politique/parcoursup-a-ete-un-progres-enorme-jean-michel-blanquer-ancien-ministre-de-l-education-nationale_8255683.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-27T11:28:01+00:00",
+   "extrait": "Pour Jean-Michel Blanquer, \"Parcoursup a été un progrès énorme\". L'ancien ministre de l'Éducation nationale, dénonce également \"la démagogie\" et la \"lâcheté\" d'une partie de la classe politique.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "02faea4170d5",
    "titre": "L'Irak condamne six Français à la perpétuité pour appartenance à l'organisation terroriste EI",
    "lien": "https://www.france24.com/fr/moyen-orient/20261027-irak-condamne-six-fran%C3%A7ais-%C3%A0-la-perpetuite-pour-appartenance-a-organisation-terroriste-etat-islamique-ei",
@@ -1343,6 +1600,18 @@
     "Justice"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "8facece3277a",
+   "titre": "\"Parcoursup a été un progrès énorme\" : sous le feu des critiques, Jean-Michel Blanquer défend son bilan",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/parcoursup-a-ete-un-progres-enorme-sous-le-feu-des-critiques-l-ancien-ministre-de-l-education-nationale-jean-michel-blanquer-defend-son-bilan_8255266.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-27T11:25:43+00:00",
+   "extrait": "L'ancien ministre de l'Éducation nationale, Jean-Michel Blanquer continue de défendre, sur franceinfo mardi, la plateforme d'admission dans l'enseignement supérieur qu'il a fondé.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
   },
   {
    "id": "048b8b8ab9a0",
@@ -1962,18 +2231,6 @@
    "zone": "france"
   },
   {
-   "id": "767c7bf601fd",
-   "titre": "John Thune's balancing act: Inside his push to save the GOP majority",
-   "lien": "https://www.cbsnews.com/news/john-thune-midterms-trump-senate-majority/",
-   "source": "CBS News",
-   "date": "2026-10-27T09:00:01+00:00",
-   "extrait": "Senate Majority Leader John Thune has tried to balance passing the president's agenda and preserving the independence of the Senate. The midterms are his biggest test yet.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "6ed77faf6a35",
    "titre": "Democrats still poised to make gains, but poll shows warning signs for just how many",
    "lien": "https://www.npr.org/2026/10/27/nx-s1-6017479/2026-midterms-npr-poll-democrats-trump-approval",
@@ -2080,37 +2337,12 @@
    "zone": "usa"
   },
   {
-   "id": "8facece3277a",
-   "titre": "\"Parcoursup a été un progrès énorme\" : sous le feu des critiques, Jean-Michel Blanquer défend son bilan",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/parcoursup-a-ete-un-progres-enorme-sous-le-feu-des-critiques-l-ancien-ministre-de-l-education-nationale-jean-michel-blanquer-defend-son-bilan_8255266.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T08:38:02+00:00",
-   "extrait": "L'ancien ministre de l'Éducation nationale, Jean-Michel Blanquer continue de défendre, sur franceinfo mardi, la plateforme d'admission dans l'enseignement supérieur qu'il a fondé.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "53b3e7949193",
    "titre": "Why it could take time for a new Israeli government to form",
    "lien": "https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-10-27T08:37:30+00:00",
    "extrait": "Israel faces what many view as one of the most pivotal elections in the country's history.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "ebf2d31fa772",
-   "titre": "Législatives israéliennes en direct : Netanyahu dénonce des \"tentatives de voler l'élection\"",
-   "lien": "https://www.france24.com/fr/moyen-orient/20261027-direct-ouverture-bureaux-vote-isra%C3%ABl-netanyahu-%C3%A9preuve-urnes",
-   "source": "France 24",
-   "date": "2026-10-27T08:18:27+00:00",
-   "extrait": "Les électeurs israéliens sont invités à voter mardi et le taux de taux de participation s'élevait à 16,68 % trois heures après l'ouverture des bureaux, le chiffre le plus élevé depuis 1981. Ce…",
    "tags": [
     "Politique",
     "Conflits"
@@ -2706,6 +2938,18 @@
    "zone": "france"
   },
   {
+   "id": "8befdd7c9529",
+   "titre": "Didier Guérin, haut magistrat : « Marine Le Pen est actuellement inéligible jusqu’à la décision de la Cour de cassation sur son pourvoi »",
+   "lien": "https://www.lemonde.fr/idees/article/2026/10/27/didier-guerin-magistrat-marine-le-pen-est-actuellement-ineligible-jusqu-a-la-decision-de-la-cour-de-cassation-sur-son-pourvoi_6801093_3232.html",
+   "source": "Le Monde",
+   "date": "2026-10-27T04:00:29+00:00",
+   "extrait": "Le président de chambre honoraire à la Cour de cassation détaille, dans un entretien au « Monde », les mécanismes de l’exécution provisoire et le risque qui pèse sur la candidature de la cheffe de…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "5f6630109c15",
    "titre": "Les séries de la semaine : « Les Disparus des Argonnes », « Nocturne » et « Anatomia de un instante »",
    "lien": "https://www.lemonde.fr/culture/article/2026/10/27/les-series-de-la-semaine-les-disparus-des-argonnes-nocturne-et-anatomia-de-un-instante_6801092_3246.html",
@@ -3277,249 +3521,6 @@
    "extrait": "Le gouvernement a reçu les organisations lycéennes puis étudiantes, lundi, en espérant clore cinq semaines de crise entamées par des blocages d'établissements.",
    "tags": [
     "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "ae78ac20c6ae",
-   "titre": "L'Anglais Harry Kane remporte le Ballon d'Or 2026, le premier de sa carrière",
-   "lien": "https://www.france24.com/fr/sports/20261026-l-anglais-harry-kane-remporte-le-ballon-d-or-2026",
-   "source": "France 24",
-   "date": "2026-10-26T22:56:45+00:00",
-   "extrait": "L'Anglais ⁠Harry ​Kane ​a remporté lundi à Londres son ​premier ‌Ballon ⁠d'Or, ‌couronnant une saison record. L'attaquant du ​Bayern Munich, âgé de 33 ans, ​est ​le premier Anglais ​à décrocher ​la…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "2cf9748df968",
-   "titre": "Ballon d'or 2026 : l'attaquant du Bayern Munich Harry Kane devient le premier Anglais récompensé depuis 25 ans",
-   "lien": "https://www.franceinfo.fr/sports/foot/ballon-d-or/ballon-d-or-2026-sacre-a-londres-harry-kane-devient-le-premier-anglais-recompense-depuis-25-ans_8254834.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-26T22:54:14+00:00",
-   "extrait": "L'attaquant de 33 ans a été élu au bout du suspense, lundi, aux dépens de Kylian Mbappé et Lamine Yamal.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "ac92d651c2b9",
-   "titre": "Does America Need More Police? With Malcolm Gladwell",
-   "lien": "https://www.cbsnews.com/video/malcolm-gladwell-great-question/",
-   "source": "CBS News",
-   "date": "2026-10-26T22:51:00+00:00",
-   "extrait": "Malcolm Gladwell argues that America has been dishonest about gun violence and explains why he believes reducing murders requires more police, not fewer. If you'd like to share your own great…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "cd1164b693e7",
-   "titre": "Ballon d'Or 2026 : l'Espagnol Alexia Putellas, la \"Reine\" prolonge son règne",
-   "lien": "https://www.france24.com/fr/sports/20261026-l-espagnole-alexia-putellas-remporte-son-troisi%C3%A8me-ballon-d-or-f%C3%A9minin",
-   "source": "France 24",
-   "date": "2026-10-26T22:47:16+00:00",
-   "extrait": "⁠L'Espagnole ⁠Alexia ​Putellas ​a remporté lundi le Ballon d'Or ​féminin ‌pour ⁠la ‌troisième fois de sa carrière ⁠après ses triomphes ​en 2021 ‌et 2022. Avec le prestigieux prix individuel, la…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "1bc54c55a959",
-   "titre": "Breaking down the legal battle over California's election process",
-   "lien": "https://www.cbsnews.com/video/breaking-down-legal-battle-over-californias-election-process/",
-   "source": "CBS News",
-   "date": "2026-10-26T22:46:32+00:00",
-   "extrait": "Over the weekend, Attorney General Todd Blanche insisted on \"Face the Nation\" that the Department of Justice is not laying the groundwork to overturn unfavorable election results. CBS News election…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "b3332cbbc1b5",
-   "titre": "🔴 L’Espagnole Alexia Putellas remporte le Ballon d'Or féminin 2026",
-   "lien": "https://www.france24.com/fr/sports/20261026-en-direct-ballon-d-or-2026-suivez-c%C3%A9r%C3%A9monie-remise-des-prix-mbappe-yamal-kane-bonmati-football",
-   "source": "France 24",
-   "date": "2026-10-26T22:36:50+00:00",
-   "extrait": "",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "41224f2df897",
-   "titre": "L'Espagnole Alexia Putellas remporte le Ballon d'or 2026, son troisième en carrière",
-   "lien": "https://www.franceinfo.fr/sports/foot/ballon-d-or/l-espagnole-alexia-putellas-remporte-le-ballon-d-or-2026-son-troisieme-en-carriere_8254738.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-26T22:36:03+00:00",
-   "extrait": "L'ancienne joueuse de Barcelone, désormais aux London City Lionesses, avait déjà été sacrée en 2021 et 2022.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "aebc7bb78f54",
-   "titre": "Rep. Jake Auchincloss says Americans \"know who Democrats are against,\" but not who they're for",
-   "lien": "https://www.cbsnews.com/video/rep-jake-auchincloss-americans-democrats-against-not-who-for/",
-   "source": "CBS News",
-   "date": "2026-10-26T22:33:24+00:00",
-   "extrait": "Democrats are starting to plan beyond the midterms, preparing for the 2028 presidential race. There's a moderate group called Majority Democrats that will hold a summit called \"What's Next.\" The…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "201f837443dc",
-   "titre": "10/26: CBS Evening News",
-   "lien": "https://www.cbsnews.com/video/102626-cbs-evening-news/",
-   "source": "CBS News",
-   "date": "2026-10-26T22:30:00+00:00",
-   "extrait": "Texas sees a down-to-the-wire Senate race; Trump goes on a campaign blitz in a Republican stronghold.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "64aaf573c1b9",
-   "titre": "Johnny Garcia, Democrat running for Congress, says Republican voters are \"fed up\" with GOP policies",
-   "lien": "https://www.cbsnews.com/video/johnny-garcia-democrat-congress-says-republican-voters-fed-up-gop-policies/",
-   "source": "CBS News",
-   "date": "2026-10-26T22:27:23+00:00",
-   "extrait": "Johnny Garcia, the Democratic candidate for Texas' 35th congressional district, joins \"The Takeout\" to discuss disaffected Republicans, Hispanic voter frustration and more ahead of the midterms.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "516300d5ec4e",
-   "titre": "Donald Trump promet 1 million de dollars de récompense pour la dénonciation de fraudes électorales lors des élections de mi-mandat aux Etats-Unis",
-   "lien": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-promet-1-million-de-dollars-de-recompense-pour-la-denonciation-de-fraudes-electorales-lors-des-elections-de-mi-mandat-aux-etats-unis_8254900.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-26T22:18:01+00:00",
-   "extrait": "Le président américain agite le spectre d'une contestation post-électorale si son parti est battu aux \"midterms\" du 3 novembre.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "5744d68eb7e1",
-   "titre": "Breaking down how Israel's elections work as Netanyahu faces opposition threat",
-   "lien": "https://www.cbsnews.com/video/breaking-down-how-israels-elections-work-netanyahu-faces-opposition-threat/",
-   "source": "CBS News",
-   "date": "2026-10-26T22:16:26+00:00",
-   "extrait": "On Tuesday, Israel will hold its first parliamentary elections since the Hamas terrorist attacks on Oct. 7, 2023. Israel has been on a war footing ever since. This election is in part a referendum…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "5a1efcd0f5f2",
-   "titre": "Élections en Israël : Netanyahu ou Eisenkot ?",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261026-%C3%A9lections-en-isra%C3%ABl-netanyahou-ou-eisenkot",
-   "source": "France 24",
-   "date": "2026-10-26T22:15:47+00:00",
-   "extrait": "À la veille des élections législatives en Israël, on s’interroge sur les deux protagonistes de ce scrutin, l’indéboulonnable Benjamin Netanyahu et l’ancien chef d’état-major, Gadi Eisenkot.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "272cbfcb0088",
-   "titre": "DOJ trying to charge Trump-foe James Comey for third time, records show",
-   "lien": "https://www.cbsnews.com/video/doj-trying-charge-trump-foe-james-comey-third-time-records-show/",
-   "source": "CBS News",
-   "date": "2026-10-26T22:14:00+00:00",
-   "extrait": "The Justice Department is working to bring a third criminal case against former FBI director James Comey, court records show. He said, \"I'm still innocent. I'm still not afraid of these people and I…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "33611a86cb77",
-   "titre": "\"J'ai dit oui tout de suite\" : comment fonctionne le vaccin testé avec succès contre les récidives du cancer de la peau ?",
-   "lien": "https://www.franceinfo.fr/sante/cancer/j-ai-dit-oui-tout-de-suite-comment-fonctionne-le-vaccin-teste-avec-succes-contre-les-recidives-du-cancer-de-la-peau_8254891.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-26T22:09:49+00:00",
-   "extrait": "On assiste peut-être à un tournant dans la lutte contre le cancer : le vaccin sur mesure, adapté à chaque patient, donne des résultats très prometteurs contre le mélanome, le cancer de la peau le…",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "b600f40006d5",
-   "titre": "Brésil : après la victoire de Lula, la bourse de Sao Paulo dévisse",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261026-br%C3%A9sil-apr%C3%A8s-la-victoire-de-lula-la-bourse-de-sao-paulo-d%C3%A9visse",
-   "source": "France 24",
-   "date": "2026-10-26T21:56:56+00:00",
-   "extrait": "Victoire teintée d'amertume pour Lula et le Brésil : à peine la réélection de Lula connue, la bourse de Sao Paulo a dévissé, perdant plus de 17 points à l'ouverture. Le réal brésilien a lui aussi…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "2653c7cf1468",
-   "titre": "\"On les a vus passer au milieu des CRS sans problème\" : des militants violents d'ultradroite ont-ils été épargnés par la police lors des manifestations samedi ?",
-   "lien": "https://www.franceinfo.fr/faits-divers/police/on-les-a-vus-passer-au-milieu-des-crs-sans-probleme-la-police-a-t-elle-protege-des-militants-violents-d-ultradroite-lors-des-manifestations-samedi_8254837.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-26T21:46:34+00:00",
-   "extrait": "Plusieurs vidéos montrent des groupuscules d'ultradroite agresser des manifestants dans plusieurs grandes villes, parfois sous les yeux des forces de l'ordre, qui semblent étonnamment passives…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "6f3389402a16",
-   "titre": "Trump stumps for Republicans in deep-red Mississippi",
-   "lien": "https://www.cbsnews.com/video/trump-stumps-republicans-deep-red-mississippi/",
-   "source": "CBS News",
-   "date": "2026-10-26T21:42:37+00:00",
-   "extrait": "As gas prices remain essentially the same as during the Biden administration, President Trump is stumping for Republican candidates in deep-red states like Mississippi. CBS News' Weijia Jiang…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "72f137d1ddee",
-   "titre": "Lula : victoire sans pouvoir ?",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20261026-lula-victoire-sans-pouvoir",
-   "source": "France 24",
-   "date": "2026-10-26T21:35:53+00:00",
-   "extrait": "Contre toute attente, Lula a été reconduit à la tête du Brésil, après avoir remporté la présidentielle face à son rival d’extrême droite Flavio Bolsonaro. Une victoire historique pour le…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "5fa4fb5dedfd",
-   "titre": "'Maxxing' selected as Dictionary.com word of the year",
-   "lien": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-26T21:31:53+00:00",
-   "extrait": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "640499f15133",
-   "titre": "Une commission de l'ONU accuse Israël de commettre des crimes contre l'humanité contre les Palestiniens en Cisjordanie occupée",
-   "lien": "https://www.franceinfo.fr/monde/israel/une-commission-de-l-onu-accuse-israel-de-commettre-des-crimes-contre-l-humanite-contre-les-palestiniens-en-cisjordanie_8254216.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-26T21:27:28+00:00",
-   "extrait": "Les crimes cités dans le rapport incluent notamment l'extermination, la torture et les violences sexuelles. Israël a immédiatement rejeté les conclusions de la commission, y voyant une \"tentative de…",
-   "tags": [
-    "Conflits"
    ],
    "zone": "france"
   }

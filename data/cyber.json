@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-27T15:05:39+00:00",
+ "maj": "2026-10-27T16:05:42+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -169,6 +169,118 @@
    "extrait": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities…",
    "tags": [
     "CVE",
+    "Faille"
+   ]
+  },
+  {
+   "id": "12e75040848d",
+   "titre": "Multiples vulnérabilités dans Microsoft Edge (27 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1395/",
+   "source": "CERT-FR",
+   "date": "2026-10-27T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de…",
+   "tags": [
+    "Faille",
+    "Windows"
+   ]
+  },
+  {
+   "id": "de2988f612bb",
+   "titre": "Multiples vulnérabilités dans GLPI (27 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1389/",
+   "source": "CERT-FR",
+   "date": "2026-10-27T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans GLPI. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une injection SQL (SQLi) et une…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "22fc52c0c718",
+   "titre": "Multiples vulnérabilités dans les produits Nextcloud (27 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1392/",
+   "source": "CERT-FR",
+   "date": "2026-10-27T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "2459d7cc044d",
+   "titre": "Multiples vulnérabilités dans les produits Moxa (27 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1393/",
+   "source": "CERT-FR",
+   "date": "2026-10-27T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Moxa. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "78f1c5129fff",
+   "titre": "Vulnérabilité dans les produits Palo Alto Networks (27 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1396/",
+   "source": "CERT-FR",
+   "date": "2026-10-27T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans les produits Palo Alto Networks. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "b9fafd6eaac2",
+   "titre": "Multiples vulnérabilités dans Citrix NetScaler ADC et Gateway (27 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1394/",
+   "source": "CERT-FR",
+   "date": "2026-10-27T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Citrix NetScaler ADC et Gateway. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "adaa6e48f3f1",
+   "titre": "Multiples vulnérabilités dans les produits Apple (27 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1387/",
+   "source": "CERT-FR",
+   "date": "2026-10-27T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges…",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
+  },
+  {
+   "id": "16bce2099ff9",
+   "titre": "Multiples vulnérabilités dans Tenable Network Monitor (27 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1390/",
+   "source": "CERT-FR",
+   "date": "2026-10-27T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Tenable Network Monitor. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "bed2f1945b9c",
+   "titre": "Vulnérabilité dans Mattermost Server (27 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1388/",
+   "source": "CERT-FR",
+   "date": "2026-10-27T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un déni de service à distance.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "552d52685105",
+   "titre": "Multiples vulnérabilités dans Mozilla Firefox (27 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1391/",
+   "source": "CERT-FR",
+   "date": "2026-10-27T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et un contournement de la politique de…",
+   "tags": [
     "Faille"
    ]
   },
