@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-27T19:05:43+00:00",
+ "maj": "2026-10-27T20:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -19,19 +19,154 @@
   "Tech",
   "Sport"
  ],
- "erreurs": [],
+ "erreurs": [
+  "France 24"
+ ],
  "articles": [
   {
+   "id": "830fb1060c64",
+   "titre": "Elections législatives en Israël : les bureaux de vote ont fermé, de premières tendances attendues sous peu",
+   "lien": "https://www.franceinfo.fr/monde/israel/direct-elections-legislatives-en-israel-tres-critique-le-premier-ministre-benyamin-netanyahou-joue-sa-survie-politique-dans-les-urnes_8254444.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-27T20:03:00+00:00",
+   "extrait": "Un peu plus de sept millions d'Israéliens étaient appelés à voter mardi. Un scrutin aux allures de référendum pour ou contre l'actuel chef du gouvernement, en mauvaise posture depuis les attentats…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "872a7d115b31",
+   "titre": "New charges tossed against ex-FBI officials in Hunter Biden probe",
+   "lien": "https://www.cbsnews.com/news/hunter-biden-investigation-more-charges-filed-against-ex-fbi-officials/",
+   "source": "CBS News",
+   "date": "2026-10-27T20:02:17+00:00",
+   "extrait": "The unsigned and unsworn superseding complaint comes just hours before the defendants were due to appear in federal court in Washington, D.C. for a preliminary hearing.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "e93362d7cbbb",
+   "titre": "The Ebola outbreak is breaking records -- and just marked a grim milestone",
+   "lien": "https://www.npr.org/2026/10/27/g-s1-150136/ebola-outbreak-milestone-democratic-republic-congo-vaccine",
+   "source": "NPR",
+   "date": "2026-10-27T19:53:12+00:00",
+   "extrait": "The current outbreak, first identified in the Democratic Republic of Congo, has now counted 10,000 patients and has spread with great speed. How can it be stopped?",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "6eee9f8d05a7",
+   "titre": "A l’Assemblée nationale, la gauche et le gouvernement s’affrontent après l’attentat raciste de Trappes",
+   "lien": "https://www.lemonde.fr/politique/article/2026/10/27/a-l-assemblee-nationale-la-gauche-et-le-gouvernement-s-affrontent-apres-l-attentat-raciste-de-trappes_6801344_823448.html",
+   "source": "Le Monde",
+   "date": "2026-10-27T19:51:25+00:00",
+   "extrait": "Accusé de contribuer à la montée du racisme, le gouvernement a répliqué en appelant à lutter contre « toute forme de violence », citant notamment l’affrontement qui a causé la mort du militant…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "a1f8a2d81c5b",
+   "titre": "Anthropic's IPO lists 93 pages of risks. What could go wrong?",
+   "lien": "https://www.cbsnews.com/news/anthropic-ipo-filing-ai-risks/",
+   "source": "CBS News",
+   "date": "2026-10-27T19:46:24+00:00",
+   "extrait": "Anthropic's planned IPO requires investors to reckon with the threat posed by AI. \"This is not an ordinary technology risk,\" one expert said.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "e885f7cf12cd",
+   "titre": "Serial killer Ted Bundy linked to another Utah girl's cold case murder",
+   "lien": "https://www.cbsnews.com/news/ted-bundy-utah-teenager-cold-case-murder-dna/",
+   "source": "CBS News",
+   "date": "2026-10-27T19:32:48+00:00",
+   "extrait": "A Utah prosecutor said Ted Bundy was responsible for killing 17-year-old Melissa Ann Smith in 1974, a death that had long been listed as a cold case.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "fae31ffd8e1b",
+   "titre": "Dutch zookeeper dies after being mauled in leopard enclosure",
+   "lien": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-27T19:30:37+00:00",
+   "extrait": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "a353f54ee23d",
+   "titre": "Présidentielle 2027 : Edouard Philippe estime que « l’échec de l’intégration » depuis « plusieurs décennies est incontestable »",
+   "lien": "https://www.lemonde.fr/politique/article/2026/10/27/presidentielle-2027-edouard-philippe-estime-que-l-echec-de-l-integration-depuis-plusieurs-decennies-est-incontestable_6801342_823448.html",
+   "source": "Le Monde",
+   "date": "2026-10-27T19:24:20+00:00",
+   "extrait": "Le candidat d’Horizons à l’élection présidentielle souhaite « diviser l’immigration légale par deux ». Il propose de réformer l’instruction du droit d’asile et de restreindre le regroupement…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "18642dfc0319",
-   "titre": "Le RN poursuit \"Le Monde\" en diffamation, dénonçant la publication d'une \"information mensongère\" sur l'attentat raciste de Trappes",
+   "titre": "Le RN poursuit \"Le Monde\" en diffamation, dénonçant la publication d'une \"information mensongère\" sur l'attentat raciste dans les Yvelines",
    "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/le-rn-poursuit-le-monde-en-diffamation-denoncant-la-publication-d-une-information-mensongere-sur-l-attentat-raciste-de-trappes_8255479.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-10-27T19:02:39+00:00",
+   "date": "2026-10-27T19:17:14+00:00",
    "extrait": "Le journal avait affirmé que des tracts du Rassemblement national avaient été retrouvés dans la voiture de Kévin T., le suspect de l'attaque terroriste. L'information a été démentie par le procureur…",
    "tags": [
     "Conflits"
    ],
    "zone": "france"
+  },
+  {
+   "id": "04938f8f428d",
+   "titre": "How often should you update your financial plan?",
+   "lien": "https://www.cbsnews.com/news/how-often-should-you-update-your-financial-plan/",
+   "source": "CBS News",
+   "date": "2026-10-27T19:13:14+00:00",
+   "extrait": "Your financial plan shouldn't stay static. Here's when it makes sense to take another look.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "0b22d572d07f",
+   "titre": "Le grand magasin parisien BHV Marais demande son placement en redressement judiciaire",
+   "lien": "https://www.franceinfo.fr/economie/entreprises/le-grand-magasin-parisien-bhv-marais-demande-son-placement-en-redressement-judiciaire_8256289.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-27T19:12:35+00:00",
+   "extrait": "L'emblématique enseigne du centre de la capitale, qui a changé de direction en juin, entend \"sécuriser son plan de relance\" grâce à cette procédure, qui ne constitue pas selon elle le signe d'un…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "4fe8121959f0",
+   "titre": "Le prix Albert Londres de la presse écrite attribué à Bruno Meyerfeld pour ses reportages dans « Le Monde »",
+   "lien": "https://www.lemonde.fr/economie/article/2026/10/27/le-prix-albert-londres-de-la-presse-ecrite-attribue-a-bruno-meyerfeld-pour-ses-reportages-dans-le-monde_6801340_3234.html",
+   "source": "Le Monde",
+   "date": "2026-10-27T19:08:26+00:00",
+   "extrait": "Brice Lambert, dans la catégorie audiovisuelle, et Arthur Sarradin, dans celle consacrée aux livres, ont également été récompensés, mardi, à Paris.",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "59a029f2aeed",
+   "titre": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
+   "lien": "https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-27T19:01:16+00:00",
+   "extrait": "Overcrowding and poor ventilation caused the deaths of 33 detainees in a prison cell in Minna state.",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "7ac028924220",
@@ -51,7 +186,7 @@
    "titre": "France 2030 : le grand plan d’Emmanuel Macron face à un « mur budgétaire », alerte la Cour des comptes",
    "lien": "https://www.lemonde.fr/economie/article/2026/10/27/france-2030-le-grand-plan-d-emmanuel-macron-face-a-un-mur-budgetaire-alerte-la-cour-des-comptes_6801339_3234.html",
    "source": "Le Monde",
-   "date": "2026-10-27T19:00:08+00:00",
+   "date": "2026-10-27T19:00:04+00:00",
    "extrait": "Lancé « sans réflexion suffisante » en 2021 et déployé très vite, le plan d’avenir commence à se heurter à de fortes contraintes financières. De nombreux investissements ont été décidés, mais…",
    "tags": [
     "Politique"
@@ -69,16 +204,6 @@
    "zone": "usa"
   },
   {
-   "id": "e885f7cf12cd",
-   "titre": "Serial killer Ted Bundy linked to another Utah girl's cold case murder",
-   "lien": "https://www.cbsnews.com/news/ted-bundy-utah-teenager-cold-case-murder-dna/",
-   "source": "CBS News",
-   "date": "2026-10-27T18:54:10+00:00",
-   "extrait": "A Utah prosecutor said Ted Bundy was responsible for killing 17-year-old Melissa Ann Smith in 1974, a death that had long been listed as a cold case.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "fafcba731821",
    "titre": "Ukraine : le Danemark reproche à la Finlande et à la Norvège d'avoir joué \"solo\" en appelant Poutine",
    "lien": "https://www.france24.com/fr/europe/20261027-ukraine-danemark-reproche-finlande-norv%C3%A8ge-avoir-jou%C3%A9-solo-appel-vladimir-poutine",
@@ -92,17 +217,14 @@
    "zone": "monde"
   },
   {
-   "id": "830fb1060c64",
-   "titre": "Elections législatives en Israël : la Commission électorale rejette la demande du parti de Benyamin Nétanyahou de retarder la fermeture des bureaux de vote",
-   "lien": "https://www.franceinfo.fr/monde/israel/direct-elections-legislatives-en-israel-tres-critique-le-premier-ministre-benyamin-netanyahou-joue-sa-survie-politique-dans-les-urnes_8254444.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T18:38:04+00:00",
-   "extrait": "Un peu plus de sept millions d'Israéliens sont appelés à voter mardi. Un scrutin aux allures de référendum pour ou contre l'actuel chef du gouvernement, en mauvaise posture depuis les attentats du 7…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
+   "id": "c911cf8a7271",
+   "titre": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
+   "lien": "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-27T18:43:41+00:00",
+   "extrait": "The group targeted elderly people across US and Europe, luring them into romantic relationship before persuading them to transfer large sums of money.",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "99f359bbc9a8",
@@ -136,16 +258,6 @@
     "Conflits"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "0b22d572d07f",
-   "titre": "Le grand magasin parisien BHV Marais demande son placement en redressement judiciaire",
-   "lien": "https://www.franceinfo.fr/economie/entreprises/le-grand-magasin-parisien-bhv-marais-demande-son-placement-en-redressement-judiciaire_8256289.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T18:08:56+00:00",
-   "extrait": "L'emblématique enseigne du centre de la capitale, qui a changé de direction en juin, entend \"sécuriser son plan de relance\" grâce à cette procédure, qui ne constitue pas selon elle le signe d'un…",
-   "tags": [],
-   "zone": "france"
   },
   {
    "id": "5c660c29705b",
@@ -281,12 +393,22 @@
    "zone": "usa"
   },
   {
+   "id": "de6aba5f859d",
+   "titre": "« Papa où t’es ? » et « Supplique à nos fantômes » : deux documentaires face aux traumas de l’enfance",
+   "lien": "https://www.lemonde.fr/culture/article/2026/10/27/papa-ou-t-es-et-supplique-a-nos-fantomes-deux-documentaires-face-aux-traumas-de-l-enfance_6801331_3246.html",
+   "source": "Le Monde",
+   "date": "2026-10-27T17:30:03+00:00",
+   "extrait": "Chacun à sa manière, le film de Basile Monnot et Samy Bouyssié, et celui de Xavier Pestuggia, cherchent à apaiser par l’échange sur des parcours douloureux.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "56c395d32f31",
-   "titre": "EN DIRECT, législatives en Israël : la Commission électorale centrale rejette la demande de report de la clôture du scrutin",
+   "titre": "EN DIRECT, législatives en Israël : les bureaux de vote ont fermé après une journée de participation historique",
    "lien": "https://www.lemonde.fr/international/live/2026/10/27/en-direct-legislatives-en-israel-le-taux-de-participation-s-eleve-a-66-7-en-debut-de-soiree-le-plus-eleve-depuis-1973_6801217_3210.html",
    "source": "Le Monde",
    "date": "2026-10-27T17:28:39+00:00",
-   "extrait": "Le Likoud, parti du premier ministre, Benyamin Nétanyahou, et ses alliés du Shass avaient demandé une prolongation au-delà de 22 heures, heure locale (21 heures, à Paris), heure de clôture prévue.",
+   "extrait": "Selon la Commission électorale centrale, le taux de participation s’élevait à 74,3 % à 20 heures, deux heures avant la fin du scrutin, alors qu’elle était de 66,3 % à la même heure en 2022. Il…",
    "tags": [
     "Politique",
     "Conflits"
@@ -365,6 +487,18 @@
    "zone": "france"
   },
   {
+   "id": "9636ab830b10",
+   "titre": "Violences du 24 octobre : le procès de dix militants présumés d'ultradroite à Nice reporté au 26 novembre",
+   "lien": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/qui-sont-les-dix-hommes-de-la-mouvance-d-ultradroite-presentes-en-comparution-immediate-a-nice-apres-les-violences-du-24-octobre-3439812.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-27T17:17:36+00:00",
+   "extrait": "Ce mardi après-midi, dix individus \"susceptibles d'appartenir à la mouvance d'ultradroite\" selon le procureur de Nice ont été présentés à la justice en comparution immédiate. Poursuivis pour…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "30d61a1cee25",
    "titre": "Municipales annulées à Tournefeuille : une nouvelle élection se tiendra le 6 décembre",
    "lien": "https://www.lemonde.fr/politique/article/2026/10/27/municipales-annulees-a-tournefeuille-une-nouvelle-election-se-tiendra-le-6-decembre_6801328_823448.html",
@@ -378,16 +512,14 @@
    "zone": "france"
   },
   {
-   "id": "872a7d115b31",
-   "titre": "New charges tossed against ex-FBI officials in Hunter Biden probe",
-   "lien": "https://www.cbsnews.com/news/hunter-biden-investigation-more-charges-filed-against-ex-fbi-officials/",
-   "source": "CBS News",
-   "date": "2026-10-27T17:12:21+00:00",
-   "extrait": "The unsigned and unsworn superseding complaint comes just hours before the defendants were due to appear in federal court in Washington, D.C. for a preliminary hearing.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
+   "id": "5e357372a6b4",
+   "titre": "Watch: The Mbappé-Chairman Mao controversy explained",
+   "lien": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-27T17:11:27+00:00",
+   "extrait": "Kylian Mbappé has apologised for \"ill-judged\" comments he made about late Chinese leader Mao Zedong.",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "e9668143f771",
@@ -3272,6 +3404,18 @@
    "zone": "monde"
   },
   {
+   "id": "7df47367b469",
+   "titre": "'I would do it again' - Kaepernick reflects on price of protest, 10 years on",
+   "lien": "https://www.bbc.co.uk/sport/american-football/articles/cm3el5dnpxp2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-27T06:15:24+00:00",
+   "extrait": "In his first interview with BBC Sport since taking the knee for the first time, Colin Kaepernick reflects on his journey.",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "6ba3a19b6523",
    "titre": "Cancer de la prostate : un nouveau traitement permet de prolonger de deux ans la survie des patients présentant des métastases, selon une étude",
    "lien": "https://www.franceinfo.fr/sante/cancer/cancer-de-la-prostate-un-nouveau-traitement-permet-de-prolonger-de-deux-ans-la-survie-des-patients-presentant-des-metastases-selon-une-etude_8255137.html#xtor=RSS-3-[lestitres]",
@@ -3282,6 +3426,18 @@
     "Santé"
    ],
    "zone": "france"
+  },
+  {
+   "id": "26471fce28b3",
+   "titre": "Donald Trump's biggest economic problem looks strangely familiar",
+   "lien": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-27T06:01:11+00:00",
+   "extrait": "Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
   },
   {
    "id": "8db7f4cbc00d",
@@ -3332,174 +3488,6 @@
     "Sport"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "079dce5ed3a0",
-   "titre": "Brewers rout the Rays 10-1 to move within a win of their first World Series title",
-   "lien": "https://www.npr.org/2026/10/27/nx-s1-6019094/mlb-world-series-tuesday",
-   "source": "NPR",
-   "date": "2026-10-27T05:45:44+00:00",
-   "extrait": "The Milwaukee Brewers are one victory from their first World Series title after routing the Tampa Bay Rays 10-1 on Monday night thanks to a trio of young players who have shined in October.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "4d400ba78684",
-   "titre": "Le député RN José Beaurain visé par une enquête pour détournement de fonds publics",
-   "lien": "https://www.franceinfo.fr/politique/front-national/info-radio-france-le-depute-rn-jose-beaurain-vise-par-une-enquete-pour-detournement-de-fonds-publics_8254816.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T05:32:54+00:00",
-   "extrait": "Selon une enquête de la cellule investigation de Radio France, le Rassemblement national a investi ce député de l'Aisne pour les législatives de 2024 et les municipales de 2026, malgré plusieurs…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "e736d8f21903",
-   "titre": "Local ceasefire brokered by Melania Trump starts in southern Ukraine",
-   "lien": "https://www.npr.org/2026/10/27/g-s1-150037/russia-ukraine-war",
-   "source": "NPR",
-   "date": "2026-10-27T05:26:58+00:00",
-   "extrait": "A localized ceasefire between Ukraine and Russia took effect early Tuesday ahead of a humanitarian mission brokered by U.S. first lady Melania Trump, as missile attacks resumed in Kyiv.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "a1592e13da01",
-   "titre": "Trump campaigns in Mississippi, highlighting Republicans' challenges",
-   "lien": "https://www.npr.org/2026/10/27/nx-s1-6019090/trump-campaign-mississippi",
-   "source": "NPR",
-   "date": "2026-10-27T05:22:24+00:00",
-   "extrait": "President Trump campaigned Monday in Mississippi, as he continued a closing midterm rally blitz that has highlighted Republicans' challenges ahead of an election that could drastically shift power…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "3200b12adef9",
-   "titre": "Jay-Z to perform at Super Bowl half-time show",
-   "lien": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-27T05:05:15+00:00",
-   "extrait": "The rapper has been involved with the show for years but has never before performed at the NFL championship game.",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "78cef7656066",
-   "titre": "Pourquoi il faut interdire les lunettes connectées au travail",
-   "lien": "https://www.lemonde.fr/vie-au-travail/article/2026/10/27/pourquoi-il-faut-interdire-les-lunettes-connectees-au-travail_6801105_6768900.html",
-   "source": "Le Monde",
-   "date": "2026-10-27T05:00:18+00:00",
-   "extrait": "L’utilisation des lunettes popularisées par Meta sur le lieu de travail ouvre la voie à plusieurs atteintes aux droits fondamentaux, à la vie privée des autres salariés ou au secret des affaires…",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "f9642efffc00",
-   "titre": "Santé gynécologique : un collectif alerte sur les gaz lacrymogènes",
-   "lien": "https://www.franceinfo.fr/sante/sante-gynecologique-un-collectif-alerte-sur-les-gaz-lacrymogenes_8254741.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T05:00:11+00:00",
-   "extrait": "Si la question, est encore très peu étudiée, le collectif citoyen « Lacrymo de sang » recueille des témoignages et réclame une étude scientifique poussée aux pouvoirs publics afin de déterminer s’il…",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "13d3ceea3979",
-   "titre": "Livrets bancaires : des taux apparemment attractifs, mais gare à l’inflation",
-   "lien": "https://www.lemonde.fr/argent/article/2026/10/27/livrets-bancaires-des-taux-apparemment-attractifs-mais-gare-a-l-inflation_6801102_1657007.html",
-   "source": "Le Monde",
-   "date": "2026-10-27T05:00:04+00:00",
-   "extrait": "La multiplication des offres promotionnelles sur les livrets bancaires est une aubaine pour les épargnants prudents, mais avec la hausse des prix qui ne cesse de s’accélérer, le rendement réel de…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "f62e2fe5d91b",
-   "titre": "\"Je veux montrer la beauté des soulèvements\" : le chorégraphe Angelin Preljocaj présente une nouvelle création résonnant fortement avec l'actualité",
-   "lien": "https://www.franceinfo.fr/culture/spectacles/danse/entretien-je-veux-montrer-la-beaute-des-soulevements-le-choregraphe-angelin-preljocaj-presente-une-nouvelle-creation-resonnant-fortement-avec-l-actualite_8248960.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T05:00:02+00:00",
-   "extrait": "Star de la danse contemporaine, il est l'un des chorégraphes les plus demandés dans les grandes compagnies. Nous l'avons rencontré au lendemain de la première parisienne de sa nouvelle création…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "64e87cf67139",
-   "titre": "Le débat sur l’imprescriptibilité des crimes sexuels sur les mineurs arrive au Sénat",
-   "lien": "https://www.lemonde.fr/societe/article/2026/10/27/le-debat-sur-l-imprescriptibilite-des-crimes-sexuels-sur-les-mineurs-arrive-au-senat_6801103_3224.html",
-   "source": "Le Monde",
-   "date": "2026-10-27T05:00:02+00:00",
-   "extrait": "Lors du passage à l’Assemblée nationale du projet de loi relatif à la protection de l’enfance, un amendement étendant l’imprescriptibilité, réservée aux crimes contre l’humanité, aux crimes commis…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "cc7893a3b009",
-   "titre": "A quick guide to Israel's high-stakes elections",
-   "lien": "https://www.npr.org/2026/10/27/g-s1-149944/israel-election-guide",
-   "source": "NPR",
-   "date": "2026-10-27T04:54:30+00:00",
-   "extrait": "Israel is holding its first elections since the Hamas-led attacks of 2023 triggered a chain of conflicts across the region — a quick guide the key players, issues and when to expect a result.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "e1cd022321ef",
-   "titre": "Attentat raciste dans les Yvelines : la garde à vue du principal suspect, qui \"conteste le caractère raciste de ses crimes\", a repris",
-   "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/direct-attentat-raciste-dans-les-yvelines-olivier-christen-procureur-du-parquet-national-antiterroriste-s-exprimera-en-fin-de-journee-lundi_8254480.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T04:48:27+00:00",
-   "extrait": "Une personne est morte et cinq autres ont été blessées dans cette attaque survenue vendredi à Trappes et La Verrière.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "6220f9570778",
-   "titre": "Législative en Israël : Benyamin Nétanyahou face aux électeurs pour la première fois depuis les attaques du 7-Octobre",
-   "lien": "https://www.lemonde.fr/international/article/2026/10/27/legislatives-en-israel-benyamin-netanyahou-face-aux-electeurs-pour-la-premiere-fois-depuis-les-attaques-du-7-octobre_6801101_3210.html",
-   "source": "Le Monde",
-   "date": "2026-10-27T04:47:15+00:00",
-   "extrait": "Le premier ministre sortant joue son avenir politique dans un scrutin où les sondages le donnent au coude-à-coude avec le bloc principal de l’opposition emmené par un ancien chef de l’armée, le…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "6448a916cad5",
-   "titre": "Où en sont les débats sur le PLF et le PLFSS 2027 ? Suivez les étapes de l'examen du budget à l'Assemblée et au Sénat",
-   "lien": "https://www.franceinfo.fr/economie/budget/ou-en-sont-les-debats-sur-le-plf-et-le-plfss-2027-suivez-les-etapes-de-l-examen-du-budget-a-l-assemblee-et-au-senat_8254234.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T04:46:06+00:00",
-   "extrait": "Députés et sénateurs examinent, jusqu'à la fin de l'année, le budget de l'Etat et celui de la Sécurité sociale. Franceinfo vous propose de suivre l'avancée des travaux parlementaires au jour le jour.",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "france"
   }
  ]
 }
