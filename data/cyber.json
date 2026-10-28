@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-28T08:05:43+00:00",
+ "maj": "2026-10-28T09:05:42+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,30 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "d75560f4cad5",
+   "titre": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
+   "lien": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
+   "source": "The Hacker News",
+   "date": "2026-10-28T08:15:07+00:00",
+   "extrait": "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report…",
+   "tags": [
+    "Faille",
+    "IA",
+    "Linux",
+    "Windows",
+    "Mobile"
+   ]
+  },
+  {
+   "id": "6fcf621f852d",
+   "titre": "FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering",
+   "lien": "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html",
+   "source": "The Hacker News",
+   "date": "2026-10-28T07:37:50+00:00",
+   "extrait": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a domain associated with a bulletproof hosting provider (BPH) named Virtualine. The move was in response to the service being…",
+   "tags": []
+  },
   {
    "id": "697aeb2243e0",
    "titre": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
