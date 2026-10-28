@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-28T15:05:41+00:00",
+ "maj": "2026-10-28T16:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -19,17 +19,240 @@
   "Tech",
   "Sport"
  ],
- "erreurs": [],
+ "erreurs": [
+  "France 24"
+ ],
  "articles": [
+  {
+   "id": "a49464da5a68",
+   "titre": "Au moins 68 morts, deuil national, circonstances \"inexplicables\"… Ce que l'on sait de la collision meurtrière de deux trains dans le centre de l'Espagne",
+   "lien": "https://www.franceinfo.fr/monde/espagne/ce-que-l-on-sait-de-la-collision-de-trains-meurtriere-survenue-pres-de-la-ville-espagnole-de-tolede_8257072.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-28T16:02:12+00:00",
+   "extrait": "L'accident s'est produit mercredi matin entre Madrid et l'Andalousie. Le Premier ministre espagnol a annoncé trois jours de deuil national dans le pays.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "54795a706635",
+   "titre": "Les images aériennes montrent la violence de la collision meurtrière entre deux trains près de Tolède, en Espagne",
+   "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/video-les-images-aeriennes-de-la-collision-meurtriere-entre-deux-trains-pres-de-tolede-en-espagne_8257246.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-28T15:57:41+00:00",
+   "extrait": "Ces images ont été publiées par la garde civile espagnole. Les causes de l'accident mortel qui s'est produit mercredi matin ne sont pas encore établies.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "10bda2e8170b",
+   "titre": "En Espagne, deux ans après les inondations, la \"rue des voitures\" a repris un aspect normal à Valence, mais le traumatisme demeure",
+   "lien": "https://www.franceinfo.fr/monde/espagne/inondations-meurtrieres-en-espagne/en-espagne-deux-ans-apres-les-inondations-la-rue-des-voitures-a-repris-un-aspect-normal-a-valence-mais-le-traumatisme-demeure_8257462.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-28T15:48:21+00:00",
+   "extrait": "Fin octobre 2024, des inondations au sud-est de l'Espagne, ont fait plus de 237 morts, dont 229 dans la région de Valence. Les véhicules entassés sur l'avenue Gomez-Ferrer, dans le quartier…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "3b0ad787f67d",
+   "titre": "Attention aux images et vidéos virales diffusées sur les réseaux sociaux après l'accident de train en Espagne",
+   "lien": "https://www.franceinfo.fr/monde/espagne/les-images-deja-virales-de-la-grave-collision-de-deux-trains-a-grande-vitesse-en-espagne_8257357.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-28T15:46:52+00:00",
+   "extrait": "Peu après la collision entre deux trains, mercredi matin près de Tolède, des images du drame ont été diffusées. franceinfo a pu en authentifier certaines.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "906adf4c6128",
+   "titre": "Collision meurtrière entre deux trains : \"Toute l'Espagne est en deuil\", déclare Pedro Sanchez",
+   "lien": "https://www.franceinfo.fr/monde/espagne/direct-collision-de-deux-trains-en-espagne-les-autorites-locales-deplorent-au-moins-10-morts_8257045.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-28T15:45:09+00:00",
+   "extrait": "L'accident a fait au moins 68 morts et 64 blessés, selon un bilan toujours provisoire communiqué par le gouverneur de la région où s'est produit le drame.",
+   "tags": [],
+   "zone": "france"
+  },
   {
    "id": "58e2656c2826",
    "titre": "Qatari mediators hand Iran new proposal to end the war",
    "lien": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/",
    "source": "CBS News",
-   "date": "2026-10-28T15:05:23+00:00",
+   "date": "2026-10-28T15:40:30+00:00",
    "extrait": "Iran rejects \"unacceptable\" ideas after Qatari mediators presented Tehran with a new draft deal to end the war, the Reuters news agency reports.",
    "tags": [
     "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "d494d37c1614",
+   "titre": "Pour la Toussaint, Laurent Nuñez demande le renforcement de la sécurité des lieux de culte et des cimetières chrétiens",
+   "lien": "https://www.lemonde.fr/societe/article/2026/10/28/laurent-nunez-demande-le-renforcement-de-la-securite-des-lieux-de-culte-et-des-cimetieres-chretiens-pour-les-fetes-de-la-toussaint_6801599_3224.html",
+   "source": "Le Monde",
+   "date": "2026-10-28T15:36:31+00:00",
+   "extrait": "Le ministre de l’intérieur souligne, dans un télégramme aux préfets, que « les actes antichrétiens représentent 34 % des actes antireligieux » et insiste sur le « niveau très élevé de la menace…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "09bc1ee5375a",
+   "titre": "What we know so far about deadly Spain train crash",
+   "lien": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-28T15:36:11+00:00",
+   "extrait": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "d2670b580bb9",
+   "titre": "Le gaz européen atteint les 100 euros le mégawattheure, une première depuis 2022",
+   "lien": "https://www.franceinfo.fr/environnement/energie/energies-fossiles/le-gaz-europeen-atteint-les-100-euros-le-megawattheure-une-premiere-depuis-2022_8257570.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-28T15:30:32+00:00",
+   "extrait": "Ce niveau n'avait pas été dépassé depuis la crise énergétique de 2022 provoquée par l'invasion russe de l'Ukraine.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "aeccf4beef2c",
+   "titre": "Is the Federal Reserve likely to raise interest rates today?",
+   "lien": "https://www.cbsnews.com/news/federal-reserve-interest-rates-october-meeting/",
+   "source": "CBS News",
+   "date": "2026-10-28T15:29:04+00:00",
+   "extrait": "Fed officials will unveil their latest interest rate move this week, following the September rate hike, the first in three years.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "66b0b72e11fe",
+   "titre": "Enseignement supérieur : le « sous-financement » reste sans réponse, malgré un « premier pas » gouvernemental, estiment les présidents d’universités",
+   "lien": "https://www.lemonde.fr/politique/article/2026/10/28/enseignement-superieur-le-sous-financement-reste-sans-reponse-malgre-un-premier-pas-gouvernemental-estiment-les-presidents-d-universites_6801597_823448.html",
+   "source": "Le Monde",
+   "date": "2026-10-28T15:25:53+00:00",
+   "extrait": "L’association salue notamment la création « bienvenue » de 15 000 places dans l’enseignement supérieur, dont 10 000 en BTS, et les 200 millions d’euros débloqués dès 2027 pour la rénovation des…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "8fd13800a440",
+   "titre": "\"Les gens hurlaient à l'intérieur\" : des passagers et des témoins évoquent des scènes de chaos après la collision mortelle entre deux trains en Espagne",
+   "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/les-gens-hurlaient-a-l-interieur-des-passagers-et-des-temoins-evoquent-des-scenes-de-chaos-apres-la-collision-mortelle-entre-deux-trains-en-espagne_8257216.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-28T15:25:30+00:00",
+   "extrait": "Ces témoignages recueillis par la presse espagnole montrent la violence de l'accident survenu mercredi matin non loin de Tolède. Des rescapés ont tenté de venir en aide aux blessés, souvent coincés…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "691f05aaa143",
+   "titre": "What's in Walmart's $3.50 per person \"holiday meal basket\"?",
+   "lien": "https://www.cbsnews.com/news/walmart-holiday-meal-basket-deal-what-you-get/",
+   "source": "CBS News",
+   "date": "2026-10-28T15:21:46+00:00",
+   "extrait": "Walmart touts its holiday dinner kit this year as offering more food for less money. Read on to see what items are included in the meal.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "e35a0ff5f8a1",
+   "titre": "\"Les démocrates trichent\" : aux Etats-Unis, le camp de Donald Trump conteste déjà le scrutin des élections de mi-mandat",
+   "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/les-democrates-trichent-aux-etats-unis-le-camp-de-donald-trump-conteste-deja-le-scrutin-des-elections-de-mi-mandat_8257459.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-28T15:20:13+00:00",
+   "extrait": "Alors que les Républicains sont en mauvaise posture dans les sondages, le président américain brandit la menace de la fraude électorale.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "f1e943506506",
+   "titre": "Iran war will end \"whenever I want it to end,\" Trump says as cost tops $47 billion",
+   "lien": "https://www.cbsnews.com/video/iran-war-will-end-whenever-i-want-it-to-end-trump-says-as-cost-tops-47-billion/",
+   "source": "CBS News",
+   "date": "2026-10-28T15:16:48+00:00",
+   "extrait": "The Iran war looms over the midterm elections as costs mount and gas prices squeeze voters' wallets. CBS News' Weijia Jiang has more on this, plus Lana Zak reports on races in Iowa.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "fd39d4f1e0d2",
+   "titre": "On vous raconte la fuite de Flavio Bolsonaro vers les Etats-Unis après sa défaite à l’élection présidentielle brésilienne",
+   "lien": "https://www.franceinfo.fr/monde/bresil/on-vous-raconte-la-fuite-de-flavio-bolsonaro-vers-les-etats-unis-apres-sa-defaite-a-l-election-presidentielle-bresilienne_8257039.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-28T15:15:20+00:00",
+   "extrait": "Le fils de l'ancien président d'extrême droite Jair Bolsonaro a rejoint l'Argentine dans la nuit avant de prendre l'avion pour la Floride en passant par l'Equateur.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "e89e6751e5f6",
+   "titre": "Yankees' Cam Schlittler on what it means to receive MLB Players Choice Award",
+   "lien": "https://www.cbsnews.com/video/yankees-cam-schlittler-on-what-it-means-to-receive-mlb-players-choice-award/",
+   "source": "CBS News",
+   "date": "2026-10-28T15:13:34+00:00",
+   "extrait": "New York Yankees starting pitcher Cam Schlittler sits down with \"CBS Mornings\" to talk about his career so far, and what it means to win a 2026 MLB Players Choice Award.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "ace9ecb3968f",
+   "titre": "Midterm campaigns make final push as early voters hit the polls",
+   "lien": "https://www.cbsnews.com/live-updates/2026-elections-midtems-house-senate-trump/",
+   "source": "CBS News",
+   "date": "2026-10-28T15:11:31+00:00",
+   "extrait": "Election Day is Tuesday, Nov. 3, and early voting is underway throughout the country.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "64b291fd7621",
+   "titre": "Healthcare is biggest cost of living concern for U.S. voters, poll shows",
+   "lien": "https://www.cbsnews.com/video/healthcare-is-biggest-cost-of-living-concern-for-us-voters-poll-shows/",
+   "source": "CBS News",
+   "date": "2026-10-28T15:09:43+00:00",
+   "extrait": "High healthcare costs top the list of financial worries for American voters, a recent KFF poll shows. CBS News medical correspondent Dr. Céline Gounder shares her thoughts.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "818f9e5eafb2",
+   "titre": "Justin Hartley talks \"Tracker\" Season 4",
+   "lien": "https://www.cbsnews.com/video/justin-hartley-talks-tracker-season-4/",
+   "source": "CBS News",
+   "date": "2026-10-28T15:06:36+00:00",
+   "extrait": "Justin Hartley joins \"CBS Mornings\" to talk about the fourth season of \"Tracker,\" working with his wife and more.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "bf8d0be9af83",
+   "titre": "Nearly 75% of ex-NFL players who died from 2008-2023 had CTE, study finds",
+   "lien": "https://www.cbsnews.com/news/nfl-cte-study-boston-university/",
+   "source": "CBS News",
+   "date": "2026-10-28T15:06:00+00:00",
+   "extrait": "Nearly 75% of NFL players who died between 2008 and 2023 had CTE, a new study out of Boston University finds.",
+   "tags": [
+    "Sport"
    ],
    "zone": "usa"
   },
@@ -42,6 +265,18 @@
    "extrait": "Russell Brand denied all the allegations against him as he took the stand in his trial on rape and sexual assault charges on Wednesday.",
    "tags": [
     "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "0f4f5fa53de4",
+   "titre": "Obama hopes to boost Jon Ossoff, Keisha Lance Bottoms in Georgia races",
+   "lien": "https://www.cbsnews.com/video/obama-hopes-to-boost-ossoff-keisha-lance-bottoms-in-georgia-races/",
+   "source": "CBS News",
+   "date": "2026-10-28T15:03:00+00:00",
+   "extrait": "Former President Obama is slated to headline a rally for Georgia Democrats. CBS News' Skyler Henry has the latest.",
+   "tags": [
+    "Politique"
    ],
    "zone": "usa"
   },
@@ -68,38 +303,6 @@
    "zone": "france"
   },
   {
-   "id": "906adf4c6128",
-   "titre": "Collision meurtrière entre deux trains en Espagne : le ministre des Transports qualifie d'\"inexplicable\" la reprise du trafic après une panne technique",
-   "lien": "https://www.franceinfo.fr/monde/espagne/direct-collision-de-deux-trains-en-espagne-les-autorites-locales-deplorent-au-moins-10-morts_8257045.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-28T14:54:17+00:00",
-   "extrait": "L'accident a fait au moins 64 morts et une cinquantaine de blessés, selon un bilan toujours provisoire communiqué par Oscar Puente.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "09bc1ee5375a",
-   "titre": "What we know so far about deadly Spain train crash",
-   "lien": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-28T14:53:38+00:00",
-   "extrait": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "a49464da5a68",
-   "titre": "Au moins 68 morts, panne technique, circonstances \"inexplicables\"… Ce que l'on sait de la collision meurtrière de deux trains dans le centre de l'Espagne",
-   "lien": "https://www.franceinfo.fr/monde/espagne/ce-que-l-on-sait-de-la-collision-de-trains-meurtriere-survenue-pres-de-la-ville-espagnole-de-tolede_8257072.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-28T14:52:20+00:00",
-   "extrait": "L'accident s'est produit mercredi matin entre Madrid et l'Andalousie. Les causes précises de la collision n'ont pas encore été établies.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
    "id": "74debb936cf2",
    "titre": "Israël : pas de majorité, et maintenant ? Parlons-en avec Alexandra Schwartzbrod et Lucas Menget",
    "lien": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20261028-isra%C3%ABl-pas-de-majorit%C3%A9-et-maintenant-parlons-en-avec-alexandra-schwartzbrod-et-lucas-menget",
@@ -111,6 +314,18 @@
     "Conflits"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "4623271c2d05",
+   "titre": "« On m’a arraché une partie de ma vie, à 17 ans seulement » : au procès des accusés de l’assassinat de son frère, la détermination sans faille du militant anti-narcotrafic Amine Kessaci",
+   "lien": "https://www.lemonde.fr/societe/article/2026/10/28/on-m-a-arrache-une-partie-de-ma-vie-a-17-ans-seulement-au-proces-des-accuses-de-l-assassinat-de-son-frere-la-determination-sans-faille-du-militant-anti-narcotrafic-amine-kessaci_6801588_3224.html",
+   "source": "Le Monde",
+   "date": "2026-10-28T14:47:46+00:00",
+   "extrait": "Appelé à la barre dans un programme chamboulé par la défection de plusieurs témoins, mercredi 28 octobre, le jeune homme de 23 ans a rappelé qu’il ne voulait « pas de vengeance mais la justice ».",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
   },
   {
    "id": "5c164f443577",
@@ -171,18 +386,6 @@
    "zone": "monde"
   },
   {
-   "id": "fd39d4f1e0d2",
-   "titre": "On vous raconte la fuite de Flavio Bolsonaro vers les Etats-Unis après sa défaite à l’élection présidentielle brésilienne",
-   "lien": "https://www.franceinfo.fr/monde/bresil/on-vous-raconte-la-fuite-de-flavio-bolsonaro-vers-les-etats-unis-apres-sa-defaite-a-l-election-presidentielle-bresilienne_8257039.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-28T14:22:54+00:00",
-   "extrait": "Le fils de l'ancien président d'extrême droite Jair Bolsonaro a rejoint l'Argentine dans la nuit avant de prendre l'avion pour la Floride en passant par l'Equateur.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "d8813147c902",
    "titre": "L'avion de Flavio Bolsonaro a atterri près de Miami après \"une brève escale\" en Equateur",
    "lien": "https://www.franceinfo.fr/monde/bresil/flavio-bolsonaro-en-vol-vers-l-equateur-depuis-l-argentine-apres-avoir-quitte-le-bresil-a-la-suite-de-sa-defaite-annoncent-les-autorites-argentines_8256826.html#xtor=RSS-3-[lestitres]",
@@ -195,16 +398,16 @@
    "zone": "france"
   },
   {
-   "id": "ace9ecb3968f",
-   "titre": "Midterm campaigns make final push as early voters hit the polls",
-   "lien": "https://www.cbsnews.com/live-updates/2026-elections-midtems-house-senate-trump/",
-   "source": "CBS News",
-   "date": "2026-10-28T14:18:22+00:00",
-   "extrait": "Election Day is Tuesday, Nov. 3, and early voting is underway throughout the country.",
+   "id": "4496c69bd4b9",
+   "titre": "Remplacer Parcoursup, suffira-t-il à résoudre les difficultés d'accès à l'enseignement supérieur rencontrées par les lycéens ?",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/remplacer-parcoursup-suffira-t-il-a-resoudre-les-difficultes-d-acces-a-l-enseignement-superieur-rencontrees-par-les-lyceens_8257456.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-28T14:17:22+00:00",
+   "extrait": "Un débat consacré à \"l'avenir du processus d'orientation et d'affectation des lycéens dans l'enseignement supérieur\" se tient mercredi 28 octobre à l'Assemblée nationale, sans vote à l'issue des…",
    "tags": [
     "Politique"
    ],
-   "zone": "usa"
+   "zone": "france"
   },
   {
    "id": "3cf699a5e55b",
@@ -252,26 +455,6 @@
    "zone": "usa"
   },
   {
-   "id": "54795a706635",
-   "titre": "Les images aériennes montrent la violence de la collision meurtrière entre deux trains près de Tolède, en Espagne",
-   "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/video-les-images-aeriennes-de-la-collision-meurtriere-entre-deux-trains-pres-de-tolede-en-espagne_8257246.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-28T14:06:55+00:00",
-   "extrait": "Des images publiées par la garde civile espagnole montrent l'ampleur de l'accident mortel qui s'est produit mercredi matin entre Madrid et l'Andalousie. Les causes n'ont pas encore été établies.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "8fd13800a440",
-   "titre": "\"Les gens hurlaient à l'intérieur\" : des passagers et des témoins évoquent des scènes de chaos après la collision mortelle entre deux trains en Espagne",
-   "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/les-gens-hurlaient-a-l-interieur-des-passagers-et-des-temoins-evoquent-des-scenes-de-chaos-apres-la-collision-mortelle-entre-deux-trains-en-espagne_8257216.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-28T14:05:27+00:00",
-   "extrait": "Ces témoignages recueillis par la presse espagnole montrent la violence de l'accident survenu mercredi matin non loin de Tolède. Des rescapés ont tenté de venir en aide aux blessés, souvent coincés…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
    "id": "e53ba350cfa7",
    "titre": "Le maire de Limoges dit avoir reçu le soutien du vice-président des Etats-Unis, J.D. Vance, après l'incendie de l'hôtel de ville le 17 octobre",
    "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-maire-de-limoges-ne-comprend-pas-l-absence-d-appel-d-emmanuel-macron-apres-l-incendie-de-l-hotel-de-ville-le-17-octobre_8257384.html#xtor=RSS-3-[lestitres]",
@@ -286,11 +469,11 @@
   },
   {
    "id": "e4647d18d2b9",
-   "titre": "EN DIRECT, législatives en Israël : Isaac Herzog, le président israélien, exhorte les partis politiques à « tout faire » pour former une coalition gouvernementale, malgré l’absence de majorité claire",
+   "titre": "EN DIRECT, législatives en Israël : retrouvez la répartition des sièges par parti selon les derniers résultats partiels, après le dépouillement de plus de 85 % des suffrages exprimés",
    "lien": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-legislatives-en-israel-isaac-herzog-le-president-israelien-exhorte-les-partis-politiques-a-tout-faire-pour-former-une-coalition-gouvernementale-malgre-l-absence-de-majorite-claire_6801217_3210.html",
    "source": "Le Monde",
    "date": "2026-10-28T14:03:44+00:00",
-   "extrait": "Après le dépouillement de plus de 85 % des bulletins, la coalition des partis de droite et d’extrême droite menée par le premier ministre sortant arrive toujours en tête et obtiendrait 53 sièges sur…",
+   "extrait": "La coalition des partis de droite et d’extrême droite menée par le premier ministre sortant arrive toujours en tête et obtiendrait 53 sièges sur les 120 que compte la Knesset. Le bloc de…",
    "tags": [
     "Politique",
     "Conflits"
@@ -302,7 +485,7 @@
    "titre": "L’Autrichien Josef Hofer, figure majeure de l’art asilaire, est mort",
    "lien": "https://www.lemonde.fr/disparitions/article/2026/10/28/l-autrichien-josef-hofer-figure-majeure-de-l-art-asilaire-est-mort_6801585_3382.html",
    "source": "Le Monde",
-   "date": "2026-10-28T14:00:07+00:00",
+   "date": "2026-10-28T14:00:00+00:00",
    "extrait": "Souffrant de difficultés d’audition et de locomotion, ainsi que de troubles cognitifs et comportementaux, il s’était pris de passion pour le dessin, créant une œuvre singulière et intense. Il s’est…",
    "tags": [],
    "zone": "france"
@@ -312,7 +495,7 @@
    "titre": "Les maisons des jeunes et de la culture contraintes de faire évoluer leur modèle",
    "lien": "https://www.lemonde.fr/economie/article/2026/10/28/les-maisons-des-jeunes-et-de-la-culture-contraintes-de-faire-evoluer-leur-modele_6801584_3234.html",
    "source": "Le Monde",
-   "date": "2026-10-28T14:00:03+00:00",
+   "date": "2026-10-28T14:00:00+00:00",
    "extrait": "A l’heure où les collectivités voient fondre leurs financements publics, ces structures associatives qui promeuvent l’éducation populaire, la mixité sociale, et l’apprentissage de la citoyenneté, se…",
    "tags": [],
    "zone": "france"
@@ -539,24 +722,24 @@
    "zone": "usa"
   },
   {
-   "id": "9c66ce3af3ab",
-   "titre": "Trump backs Paxton in Texas; Rogers repeats Muslim Brotherhood claims against El-Sayed in Michigan",
-   "lien": "https://www.cbsnews.com/video/trump-backs-paxton-in-texas-rogers-repeats-muslim-brotherhood-claims-against-el-sayed-in-michigan/",
-   "source": "CBS News",
-   "date": "2026-10-28T13:09:31+00:00",
-   "extrait": "President Trump rallied for Republican Senate candidate Ken Paxton in Texas. Meanwhile, Michigan Republican Senate candidate Mike Rogers took aim at opponent Abdul El-Sayed. CBS News' Olivia Rinaldi…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "d202261d18f5",
    "titre": "No official winner yet in Israeli election as votes continue to be counted",
    "lien": "https://www.cbsnews.com/video/no-official-winner-yet-in-israeli-election-as-votes-continue-to-be-counted/",
    "source": "CBS News",
    "date": "2026-10-28T13:09:27+00:00",
    "extrait": "Votes are still being counted in the Israeli election between front-runners Prime Minister Benjamin Netanyahu and Gadi Eisenkot with neither likely to obtain a majority. Matt Gutman reports.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "9c66ce3af3ab",
+   "titre": "Trump backs Paxton in Texas; Rogers repeats Muslim Brotherhood claims against El-Sayed in Michigan",
+   "lien": "https://www.cbsnews.com/video/trump-backs-paxton-in-texas-rogers-repeats-muslim-brotherhood-claims-against-el-sayed-in-michigan/",
+   "source": "CBS News",
+   "date": "2026-10-28T13:09:00+00:00",
+   "extrait": "President Trump rallied for Republican Senate candidate Ken Paxton in Texas. Meanwhile, Michigan Republican Senate candidate Mike Rogers took aim at opponent Abdul El-Sayed. CBS News' Olivia Rinaldi…",
    "tags": [
     "Politique"
    ],
@@ -2141,6 +2324,16 @@
    "zone": "france"
   },
   {
+   "id": "3bce70d62f7f",
+   "titre": "Quand des publications sur les réseaux sociaux se retournent contre des salariés",
+   "lien": "https://www.lemonde.fr/vie-au-travail/article/2026/10/28/quand-leurs-publications-sur-les-reseaux-sociaux-se-retournent-contre-les-salaries_6801534_6768900.html",
+   "source": "Le Monde",
+   "date": "2026-10-28T05:00:00+00:00",
+   "extrait": "Deux principes s’affrontent sur Facebook, Instagram ou LinkedIn : la liberté d’expression et le devoir de loyauté envers son employeur. Quand un salarié est licencié pour avoir abusé de sa liberté…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "e5f6ae386904",
    "titre": "Israël : au lendemain de législatives cruciales pour l’avenir du pays, le vertige d’une Knesset sans majorité",
    "lien": "https://www.lemonde.fr/international/article/2026/10/28/israel-au-lendemain-de-legislatives-cruciales-pour-l-avenir-du-pays-le-vertige-d-une-knesset-sans-majorite_6801530_3210.html",
@@ -3303,195 +3496,6 @@
    "extrait": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
    "tags": [],
    "zone": "monde"
-  },
-  {
-   "id": "a353f54ee23d",
-   "titre": "Présidentielle 2027 : Edouard Philippe estime que « l’échec de l’intégration » depuis « plusieurs décennies est incontestable »",
-   "lien": "https://www.lemonde.fr/politique/article/2026/10/27/presidentielle-2027-edouard-philippe-estime-que-l-echec-de-l-integration-depuis-plusieurs-decennies-est-incontestable_6801342_823448.html",
-   "source": "Le Monde",
-   "date": "2026-10-27T19:24:20+00:00",
-   "extrait": "Le candidat d’Horizons à l’élection présidentielle souhaite « diviser l’immigration légale par deux ». Il propose de réformer l’instruction du droit d’asile et de restreindre le regroupement…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "18642dfc0319",
-   "titre": "Le RN poursuit \"Le Monde\" en diffamation, dénonçant la publication d'une \"information mensongère\" sur l'attentat raciste dans les Yvelines",
-   "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/le-rn-poursuit-le-monde-en-diffamation-denoncant-la-publication-d-une-information-mensongere-sur-l-attentat-raciste-de-trappes_8255479.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T19:17:14+00:00",
-   "extrait": "Le journal avait affirmé que des tracts du Rassemblement national avaient été retrouvés dans la voiture de Kévin T., le suspect de l'attaque terroriste. L'information a été démentie par le procureur…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "04938f8f428d",
-   "titre": "How often should you update your financial plan?",
-   "lien": "https://www.cbsnews.com/news/how-often-should-you-update-your-financial-plan/",
-   "source": "CBS News",
-   "date": "2026-10-27T19:13:14+00:00",
-   "extrait": "Your financial plan shouldn't stay static. Here's when it makes sense to take another look.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "0b22d572d07f",
-   "titre": "Le grand magasin parisien BHV Marais demande son placement en redressement judiciaire",
-   "lien": "https://www.franceinfo.fr/economie/entreprises/le-grand-magasin-parisien-bhv-marais-demande-son-placement-en-redressement-judiciaire_8256289.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T19:12:35+00:00",
-   "extrait": "L'emblématique enseigne du centre de la capitale, qui a changé de direction en juin, entend \"sécuriser son plan de relance\" grâce à cette procédure, qui ne constitue pas selon elle le signe d'un…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "4fe8121959f0",
-   "titre": "Le prix Albert Londres de la presse écrite attribué à Bruno Meyerfeld pour ses reportages dans « Le Monde »",
-   "lien": "https://www.lemonde.fr/economie/article/2026/10/27/le-prix-albert-londres-de-la-presse-ecrite-attribue-a-bruno-meyerfeld-pour-ses-reportages-dans-le-monde_6801340_3234.html",
-   "source": "Le Monde",
-   "date": "2026-10-27T19:08:26+00:00",
-   "extrait": "Brice Lambert, dans la catégorie audiovisuelle, et Arthur Sarradin, dans celle consacrée aux livres, ont également été récompensés, mardi, à Paris.",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "59a029f2aeed",
-   "titre": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
-   "lien": "https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-27T19:01:16+00:00",
-   "extrait": "Overcrowding and poor ventilation caused the deaths of 33 detainees in a prison cell in Minna state.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "ee8bc342e83a",
-   "titre": "France 2030 : le grand plan d’Emmanuel Macron face à un « mur budgétaire », alerte la Cour des comptes",
-   "lien": "https://www.lemonde.fr/economie/article/2026/10/27/france-2030-le-grand-plan-d-emmanuel-macron-face-a-un-mur-budgetaire-alerte-la-cour-des-comptes_6801339_3234.html",
-   "source": "Le Monde",
-   "date": "2026-10-27T19:00:04+00:00",
-   "extrait": "Lancé « sans réflexion suffisante » en 2021 et déployé très vite, le plan d’avenir commence à se heurter à de fortes contraintes financières. De nombreux investissements ont été décidés, mais…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "5d5b10f33b51",
-   "titre": "Convicted murderer escapes prison through fence, steals truck",
-   "lien": "https://www.cbsnews.com/news/convicted-murderer-escapes-tennessee-prison-fence-steals-truck/",
-   "source": "CBS News",
-   "date": "2026-10-27T18:54:36+00:00",
-   "extrait": "Authorities say a man serving a life sentence for murder escaped from a prison in northwest Tennessee, stole a truck and remained at large early Tuesday.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "fafcba731821",
-   "titre": "Ukraine : le Danemark reproche à la Finlande et à la Norvège d'avoir joué \"solo\" en appelant Poutine",
-   "lien": "https://www.france24.com/fr/europe/20261027-ukraine-danemark-reproche-finlande-norv%C3%A8ge-avoir-jou%C3%A9-solo-appel-vladimir-poutine",
-   "source": "France 24",
-   "date": "2026-10-27T18:44:15+00:00",
-   "extrait": "Le président finlandais Alexander Stubb et le Premier ministre norvégien Jonas Gahr Store se sont entretenus mardi par téléphone avec le président russe Vladimir Poutine pour ouvrir un \"canal de…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "c911cf8a7271",
-   "titre": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
-   "lien": "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-27T18:43:41+00:00",
-   "extrait": "The group targeted elderly people across US and Europe, luring them into romantic relationship before persuading them to transfer large sums of money.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "99f359bbc9a8",
-   "titre": "Controversial Islamic cleric shot dead in northern Nigeria",
-   "lien": "https://www.bbc.co.uk/news/articles/cxdd8nq55d74o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-27T18:35:02+00:00",
-   "extrait": "Yahaya Masussuka had posted videos in which he rejected some elements of mainstream Islam.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "c98ae8444784",
-   "titre": "Une intolérable campagne de haine",
-   "lien": "https://www.lemonde.fr/politique/article/2026/10/27/une-intolerable-campagne-de-haine_6801338_823448.html",
-   "source": "Le Monde",
-   "date": "2026-10-27T18:33:32+00:00",
-   "extrait": "",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "054951ea00de",
-   "titre": "A la Martinique, dans une colonie de vacances pilotée par le Théâtre national de Chaillot, on apprend la danse, l’équilibre, le respect et la confiance",
-   "lien": "https://www.lemonde.fr/culture/article/2026/10/27/a-la-martinique-dans-une-colonie-de-vacances-pilotee-par-le-theatre-national-de-chaillot-on-apprend-la-danse-l-equilibre-le-respect-et-la-confiance_6801337_3246.html",
-   "source": "Le Monde",
-   "date": "2026-10-27T18:30:05+00:00",
-   "extrait": "Depuis 2022, des artistes circassiens et des animateurs-éducateurs encadrent, forment et sensibilisent des préadolescents de deux collèges de l’île à la danse et à l’acrobatie, durant les vacances…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "5da481dc97b7",
-   "titre": "Norway and Finland leaders hold rare call with Putin",
-   "lien": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-27T18:28:23+00:00",
-   "extrait": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "db4e5f68bd0d",
-   "titre": "EN DIRECT, guerre en Ukraine : un centre de maintenance de missiles Patriot, utilisés par Kiev et par l’OTAN, va être implanté en Pologne",
-   "lien": "https://www.lemonde.fr/international/live/2026/10/27/en-direct-guerre-en-ukraine-un-centre-de-maintenance-de-missiles-patriot-utilises-par-kiev-et-par-l-otan-va-etre-implante-en-pologne_6799896_3210.html",
-   "source": "Le Monde",
-   "date": "2026-10-27T18:20:01+00:00",
-   "extrait": "C’est une « décision historique », s’est réjouie Magdalena Sobkowiak, la vice-ministre de la défense polonaise. Le coût du projet s’élèvera à 230 millions d’euros et sa mise en place prendra…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "5c660c29705b",
-   "titre": "Le prix Décembre 2026 est attribué à Anne Godard pour \"Nous aussi\"",
-   "lien": "https://www.franceinfo.fr/culture/livres/prix-litteraires/le-prix-decembre-2026-est-attribue-a-anne-godard-pour-nous-aussi_8255944.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T18:04:08+00:00",
-   "extrait": "Il s'agit du troisième texte de cette professeure de littérature à la Sorbonne, paru dix ans après le dernier.",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "76a806b0925a",
-   "titre": "« Hope », de Na Hong-jin : une chasse au monstre époustouflante",
-   "lien": "https://www.lemonde.fr/culture/article/2026/10/27/hope-de-na-hong-jin-une-chasse-au-monstre-epoustouflante_6801336_3246.html",
-   "source": "Le Monde",
-   "date": "2026-10-27T18:00:11+00:00",
-   "extrait": "On retrouve dans ce nouveau long-métrage les éléments qui contribuent à la richesse de l’univers du cinéaste sud-coréen, dans un mariage des genres entre polar, science-fiction et film d’horreur.",
-   "tags": [],
-   "zone": "france"
   }
  ]
 }
