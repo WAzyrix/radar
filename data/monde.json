@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-28T17:05:41+00:00",
+ "maj": "2026-10-28T18:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,26 +22,257 @@
  "erreurs": [],
  "articles": [
   {
-   "id": "58e2656c2826",
-   "titre": "Qatari mediators hand Iran new proposal to end the war",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/",
-   "source": "CBS News",
-   "date": "2026-10-28T17:04:02+00:00",
-   "extrait": "Iran rejects \"unacceptable\" ideas after Qatari mediators presented Tehran with a new draft deal to end the war, the Reuters news agency reports.",
+   "id": "d039a9b973c8",
+   "titre": "En fuyant le Brésil, Flavio Bolsonaro a-t-il condamné le bolsonarisme ?",
+   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261028-en-fuyant-bresil-flavio-bolsonaro-a-t-il-condamne-bolsonarisme-jair",
+   "source": "France 24",
+   "date": "2026-10-28T17:46:29+00:00",
+   "extrait": "La décision de Flavio Bolsonaro de rejoindre les États-Unis deux jours après avoir perdu l'élection présidentielle contre Lula porte un coup dur à la réputation de la famille Bolsonaro, déjà…",
    "tags": [
-    "Conflits"
+    "Politique",
+    "Justice"
    ],
-   "zone": "usa"
+   "zone": "monde"
   },
   {
    "id": "e2a33895b6dc",
    "titre": "Dolores Huerta, labor activist and civil rights icon, dies at 96",
    "lien": "https://www.cbsnews.com/news/dolores-huerta-dies-age-96-labor-activist-civil-rights-leader/",
    "source": "CBS News",
-   "date": "2026-10-28T17:02:36+00:00",
+   "date": "2026-10-28T17:46:00+00:00",
    "extrait": "Dolores Huerta was a labor activist and civil rights leader who co-founded the group that later became the United Farm Workers.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "754678b57bfc",
+   "titre": "High-speed train accident in Spain leaves at least 68 dead",
+   "lien": "https://www.cbsnews.com/news/spain-train-crash-toledo-urda/",
+   "source": "CBS News",
+   "date": "2026-10-28T17:44:14+00:00",
+   "extrait": "The number of deaths is expected to rise from the train crash in central Spain, according to a local official.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "35833e12444c",
+   "titre": "Here's what will (and won't) happen when your debt goes to collections",
+   "lien": "https://www.cbsnews.com/news/what-will-wont-happen-when-your-debt-goes-to-collections/",
+   "source": "CBS News",
+   "date": "2026-10-28T17:42:55+00:00",
+   "extrait": "Knowing what can and can't happen during the debt collection process may help you avoid costly mistakes.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "f66500685491",
+   "titre": "Jury selection begins in Meta, Snap social media addiction case",
+   "lien": "https://www.cbsnews.com/news/meta-snap-social-media-addiction-trial/",
+   "source": "CBS News",
+   "date": "2026-10-28T17:37:31+00:00",
+   "extrait": "The plaintiffs allege that features on the companies' social media platforms, like endless scrolling, kept them hooked and harmed their mental health.",
+   "tags": [
+    "Santé",
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "58e2656c2826",
+   "titre": "Qatari mediators hand Iran new proposal to end the war",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/",
+   "source": "CBS News",
+   "date": "2026-10-28T17:37:03+00:00",
+   "extrait": "Iran's foreign minister said on social media Wednesday the country was in contact with mediators to review proposals to end the war.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "24595446760d",
+   "titre": "Michigan's deputy secretary of state talks election security as Senate race heats up",
+   "lien": "https://www.cbsnews.com/video/michigans-deputy-secretary-of-state-talks-election-security-as-senate-race-heats-up/",
+   "source": "CBS News",
+   "date": "2026-10-28T17:31:55+00:00",
+   "extrait": "Michigan's deputy secretary of state, Aghogho Edevbie, discusses the state's contentious Senate race.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "04a81d405e76",
+   "titre": "Civil rights leader Dolores Huerta dies at 96",
+   "lien": "https://www.cbsnews.com/video/civil-rights-leader-dolores-huerta-dies-at-96/",
+   "source": "CBS News",
+   "date": "2026-10-28T17:31:00+00:00",
+   "extrait": "Dolores Huerta, an American labor rights leader and feminist who co-founded the National Farm Workers Association, died at 96.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "99e28c43b515",
+   "titre": "Le changement climatique doit être déclaré «urgence sanitaire mondiale» (scientifiques)",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261028-le-changement-climatique-doit-%C3%AAtre-d%C3%A9clar%C3%A9-urgence-sanitaire-mondiale-scientifiques",
+   "source": "France 24",
+   "date": "2026-10-28T17:28:49+00:00",
+   "extrait": "Le changement climatique constitue \"la plus grande menace pour l'humanité\". Dans son dixième rapport annuel, la revue médicale The Lancet Countdown appelle à reconnaître le changement climatique…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "6101fff5648a",
+   "titre": "Christina Applegate left with health questions after revealing MS misdiagnosis",
+   "lien": "https://www.cbsnews.com/video/christina-applegate-left-with-health-questions-after-revealing-ms-misdiagnosis/",
+   "source": "CBS News",
+   "date": "2026-10-28T17:26:40+00:00",
+   "extrait": "Christina Applegate says questions about her mystery chronic illness remain after revealing her MS misdiagnosis. Entertainment Tonight host Nischelle Turner has more.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "ace9ecb3968f",
+   "titre": "Midterm campaigns make final push as early voters hit the polls",
+   "lien": "https://www.cbsnews.com/live-updates/2026-elections-midtems-house-senate-trump/",
+   "source": "CBS News",
+   "date": "2026-10-28T17:24:51+00:00",
+   "extrait": "Election Day is Tuesday, Nov. 3, and early voting is underway throughout the country.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "f6a57c64bbc7",
+   "titre": "Après l’attentat raciste de Trappes, LFI et Emmanuel Grégoire mettent en garde contre des manifestations liées à l’extrême droite prévues ce week-end",
+   "lien": "https://www.lemonde.fr/politique/article/2026/10/28/apres-l-attentat-raciste-de-trappes-lfi-et-emmanuel-gregoire-mettent-en-garde-contre-des-manifestations-liees-a-l-extreme-droite-prevues-ce-week-end_6801620_823448.html",
+   "source": "Le Monde",
+   "date": "2026-10-28T17:21:44+00:00",
+   "extrait": "Les élus « insoumis » et le maire de Paris dénoncent trois événements prévus samedi et dimanche à Paris et dans les Hauts-de-Seine autour du concept de « remigration », mot employé par l’extrême…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "848570ede302",
+   "titre": "\"Les blessures sont injustifiables\" : des experts de l'ONU se disent \"consternés\" par la \"répression\" des manifestations lycéennes et étudiantes",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-blessures-sont-injustifiables-des-experts-de-l-onu-se-disent-consternes-par-la-repression-des-manifestations-lyceennes-et-etudiantes_8257718.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-28T17:15:19+00:00",
+   "extrait": "Le \"recours excessif à la force\", les \"violences\" et les \"interpellations massives ne sont pas des réponses appropriées à un mouvement social de contestation dans un Etat de droit\", écrivent ces…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "698d7625687a",
+   "titre": "Fuite de Flavio Bolsonaro : en Argentine, l’opposition accuse Javier Milei de l’avoir aidé à rejoindre les Etats-Unis",
+   "lien": "https://www.lemonde.fr/international/article/2026/10/28/fuite-de-flavio-bolsonaro-en-argentine-l-opposition-accuse-javier-milei-de-l-avoir-aide-a-rejoindre-les-etats-unis_6801619_3210.html",
+   "source": "Le Monde",
+   "date": "2026-10-28T17:13:26+00:00",
+   "extrait": "L’opposition du président ultralibéral argentin estime que la fuite du candidat défait à la présidentielle brésilienne vers les Etats-Unis, où il est arrivé mercredi, a été « facilitée par le…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "df1fba23c5fc",
+   "titre": "Au moins 50 000 personnes ont fui au Kenya en raison d’affrontements dans le sud de l'Éthiopie",
+   "lien": "https://www.france24.com/fr/afrique/20261028-au-moins-50-000-personnes-ont-fui-au-kenya-en-raison-d-affrontements-dans-le-sud-de-l-%C3%A9thiopie",
+   "source": "France 24",
+   "date": "2026-10-28T17:10:24+00:00",
+   "extrait": "Quelque 50 000 personnes ont fui les récents affrontements qui opposent, depuis plusieurs jours dans le sud de l'Éthiopie, des forces armées des régions Somali et de l'Oromia, pour se réfugier au…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "da4b6c976b67",
+   "titre": "\"Cinq églises brûlées en un jour par des musulmans\" ? Un chiffre inventé par des comptes islamophobes",
+   "lien": "https://www.france24.com/fr/france/20261028-cinq-%C3%A9glises-br%C3%BBl%C3%A9es-un-jour-musulmans-chiffre-invent%C3%A9-comptes-islamophobes",
+   "source": "France 24",
+   "date": "2026-10-28T17:07:55+00:00",
+   "extrait": "Après les violences en marge des manifestations du 17 octobre en France, des comptes étrangers anti-immigration affirment que des musulmans auraient incendié cinq églises dans l’Hexagone en une…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "1b33c99a6593",
+   "titre": "Mobilisation lycéenne : Jean-Michel Blanquer défend Parcoursup et sa réforme du lycée et du bac devant les sénateurs",
+   "lien": "https://www.lemonde.fr/societe/article/2026/10/28/mobilisation-lyceenne-face-aux-senateurs-jean-michel-blanquer-defend-parcoursup-et-sa-reforme-du-lycee-et-du-bac_6801616_3224.html",
+   "source": "Le Monde",
+   "date": "2026-10-28T17:04:22+00:00",
+   "extrait": "L’ancien ministre de l’éducation nationale, dont le bilan est attaqué à l’occasion du mouvement lycéen, estime que les dysfonctionnements sont surtout dus à des modifications opérées par ses…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "0bb393f1da3b",
+   "titre": "Attentat de Trappes : \"Il y a une continuité entre les discours de haine et les actes\"",
+   "lien": "https://www.france24.com/fr/france/20261028-attentat-trappes-il-y-a-continuite-entre-discours-haine-actes-racisme-extreme-droite-rn-reconquete-le-pen-zemmour",
+   "source": "France 24",
+   "date": "2026-10-28T17:03:16+00:00",
+   "extrait": "Le discours des partis d'extrême droite, Rassemblement national et Reconquête !, est mis en cause depuis l'attaque terroriste raciste qui a fait un mort à Trappes. Le Premier ministre, Sébastien…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "ef5699a8d785",
+   "titre": "Serial killer Ted Bundy linked to 1974 cold case murder of Utah teen",
+   "lien": "https://www.cbsnews.com/video/serial-killer-ted-bundy-linked-to-1974-cold-case-murder-of-utah-teen/",
+   "source": "CBS News",
+   "date": "2026-10-28T17:00:41+00:00",
+   "extrait": "Notorious serial killer Ted Bundy has been linked to the 1974 cold case murder of 17-year-old Melissa Ann Smith after DNA testing, Utah authorities say. CBS News' Jericka Duncan has more on the case.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "0fb1f92bcb1d",
+   "titre": "Dolores Huerta, figure du syndicalisme aux Etats-Unis, est morte à l’âge de 96 ans",
+   "lien": "https://www.lemonde.fr/disparitions/article/2026/10/28/dolores-huerta-figure-du-syndicalisme-aux-etats-unis-est-morte-a-l-age-de-96-ans_6801614_3382.html",
+   "source": "Le Monde",
+   "date": "2026-10-28T17:00:22+00:00",
+   "extrait": "Cette Américaine d’origine mexicaine est une figure de la lutte pour les droits civiques. Elle a cofondé le syndicat United Farm Workers.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "8bad8da798a2",
+   "titre": "En Jamaïque, un an après l’ouragan Melissa, la reconstruction s’éternise et les sinistrés s’impatientent",
+   "lien": "https://www.lemonde.fr/planete/article/2026/10/28/en-jamaique-un-an-apres-l-ouragan-melissa-la-reconstruction-s-eternise-et-les-sinistres-s-impatientent_6801613_3244.html",
+   "source": "Le Monde",
+   "date": "2026-10-28T17:00:16+00:00",
+   "extrait": "Le phénomène cyclonique exceptionnellement puissant, qui avait fait une centaine de morts dans les Grandes Antilles en octobre 2025, a causé des dégâts évalués à plus de la moitié du produit…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "066ab2051e99",
+   "titre": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+   "lien": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-28T16:59:47+00:00",
+   "extrait": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
   },
   {
    "id": "41f4de69f022",
@@ -54,28 +285,6 @@
    "zone": "france"
   },
   {
-   "id": "ace9ecb3968f",
-   "titre": "Midterm campaigns make final push as early voters hit the polls",
-   "lien": "https://www.cbsnews.com/live-updates/2026-elections-midtems-house-senate-trump/",
-   "source": "CBS News",
-   "date": "2026-10-28T16:57:19+00:00",
-   "extrait": "Election Day is Tuesday, Nov. 3, and early voting is underway throughout the country.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "848570ede302",
-   "titre": "\"Les blessures sont injustifiables\" : des experts de l'ONU se disent \"consternés\" par la \"répression\" des manifestations lycéennes et étudiantes",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-blessures-sont-injustifiables-des-experts-de-l-onu-se-disent-consternes-par-la-repression-des-manifestations-lyceennes-et-etudiantes_8257718.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-28T16:56:20+00:00",
-   "extrait": "Le \"recours excessif à la force\", les \"violences\" et les \"interpellations massives ne sont pas des réponses appropriées à un mouvement social de contestation dans un Etat de droit\", ont dit ces…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
    "id": "0af41a88779f",
    "titre": "\"Membre associé\" : pourquoi le terme choisi pour rapprocher l'UE et le Canada ne plaît pas à tous",
    "lien": "https://www.franceinfo.fr/monde/europe/union-europeenne/membre-associe-pourquoi-le-terme-choisi-pour-rapprocher-l-ue-et-le-canada-ne-plait-pas-a-tous_8257291.html#xtor=RSS-3-[lestitres]",
@@ -84,6 +293,18 @@
    "extrait": "Le 21ᵉ sommet UE-Canada se tient à Montréal à partir du 29 octobre. La présidente de la Commission, Ursula von der Leyen, a proposé au Canada de devenir membre associé de l'Union européenne. Une…",
    "tags": [],
    "zone": "france"
+  },
+  {
+   "id": "4a4fb2b3792d",
+   "titre": "Amérique du Sud : le réveil d'une jeunesse en colère",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-am%C3%A9rique-du-sud-le-r%C3%A9veil-d-une-jeunesse-en-col%C3%A8re",
+   "source": "France 24",
+   "date": "2026-10-28T16:52:16+00:00",
+   "extrait": "Un mouvement mondial de le Gen Z semble se mettre en place en ce mois d'ocotbre 2026. Après la mobilisation autour du climat au Canada, les manifestations étudiantes et lycéennes en France, en…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "monde"
   },
   {
    "id": "906adf4c6128",
@@ -110,7 +331,7 @@
   },
   {
    "id": "9011edda87a4",
-   "titre": "EN DIRECT, Midterms 2026 : posez vos questions à Arnaud Leparmentier, notre correspondant parti sur la Route 66 prendre le « pouls de l’Amérique »",
+   "titre": "EN DIRECT, Midterms 2026 : Arnaud Leparmentier, notre correspondant parti sur la Route 66 prendre le « pouls de l’Amérique », répond à vos questions",
    "lien": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-midterms-2026-posez-vos-questions-a-arnaud-leparmentier-notre-correspondant-parti-sur-la-route-66-prendre-le-pouls-de-l-amerique_6801590_3210.html",
    "source": "Le Monde",
    "date": "2026-10-28T16:48:46+00:00",
@@ -119,6 +340,18 @@
     "Politique"
    ],
    "zone": "france"
+  },
+  {
+   "id": "0a866bacb984",
+   "titre": "Collision meurtrière en Espagne : Pedro Sánchez prend la parole",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-collision-meurtri%C3%A8re-en-espagne-pedro-s%C3%A1nchez-prend-la-parole",
+   "source": "France 24",
+   "date": "2026-10-28T16:48:32+00:00",
+   "extrait": "L'Espagne connaît une période de deuil face à la collision de deux trains qui a eu lieu mercredi 28 octobre au matin, faisant 64 morts et près de 200 blessés. Le Premier ministre espagnol compte…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
   },
   {
    "id": "74dc7a667464",
@@ -141,6 +374,18 @@
    "zone": "monde"
   },
   {
+   "id": "0c15b123e5a7",
+   "titre": "Brésil : Flávio Bolsonaro arrivé en Floride après avoir fui son pays",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-br%C3%A9sil-fl%C3%A1vio-bolsonaro-arriv%C3%A9-en-floride-apr%C3%A8s-avoir-fui-son-pays",
+   "source": "France 24",
+   "date": "2026-10-28T16:44:23+00:00",
+   "extrait": "Un jet privé qui semble transporter Flavio Bolsonaro, en fuite vers les États-Unis après sa défaite à l'élection présidentielle au Brésil, a atterri mercredi 28 octobre près de Miami. Les…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "c2a83ac55c7d",
    "titre": "Encore 2 000 lits d'hospitalisation perdus dans les hôpitaux et les cliniques en 2025, malgré un \"rebond\" dans le public",
    "lien": "https://www.franceinfo.fr/sante/hopital/crise/encore-2-000-lits-d-hospitalisation-perdus-dans-les-hopitaux-et-les-cliniques-en-2025-malgre-un-rebond-dans-le-public_8257694.html#xtor=RSS-3-[lestitres]",
@@ -151,16 +396,6 @@
     "Santé"
    ],
    "zone": "france"
-  },
-  {
-   "id": "754678b57bfc",
-   "titre": "At least 68 dead in high-speed train crash in Spain",
-   "lien": "https://www.cbsnews.com/news/spain-train-crash-toledo-urda/",
-   "source": "CBS News",
-   "date": "2026-10-28T16:43:40+00:00",
-   "extrait": "The number of deaths is expected to rise from the train crash in central Spain, according to a local official.",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "ef7b47f1ad51",
@@ -211,7 +446,7 @@
   },
   {
    "id": "74caa42d431d",
-   "titre": "EN DIRECT, accident entre deux trains en Espagne : au moins 68 morts, selon un nouveau bilan provisoire et trois jours de deuil national décrétés",
+   "titre": "EN DIRECT, accident entre deux trains en Espagne : au moins 68 morts, selon un nouveau bilan provisoire, et trois jours de deuil national décrétés",
    "lien": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-accident-entre-deux-trains-en-espagne-au-moins-68-morts-selon-un-nouveau-bilan-provisoire-et-trois-jours-de-deuil-national_6801550_3210.html",
    "source": "Le Monde",
    "date": "2026-10-28T16:31:57+00:00",
@@ -509,6 +744,16 @@
    "zone": "usa"
   },
   {
+   "id": "f435b0ac4e93",
+   "titre": "Charges filed against activists who posed as Minnesota voters",
+   "lien": "https://www.cbsnews.com/news/activists-posing-voters-minnesota-primary-charges-james-okeefe/",
+   "source": "CBS News",
+   "date": "2026-10-28T15:29:00+00:00",
+   "extrait": "Activists who call themselves the Citizen Justice League said they were testing Minnesota's 53-year-old voter voucher law. Videos from the August primary showed them claiming to be registered voters.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
    "id": "e5496caf83bd",
    "titre": "Le Fantôme de l'Opéra ressuscité, Gilles Lellouche en Jean Moulin et Michael Fassbender en alien",
    "lien": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20261028-le-fant%C3%B4me-de-l-op%C3%A9ra-ressuscit%C3%A9-gilles-lellouche-en-jean-moulin-et-michael-fassbender-en-alien",
@@ -539,6 +784,19 @@
    "extrait": "Ces témoignages recueillis par la presse espagnole montrent la violence de l'accident survenu mercredi matin non loin de Tolède. Des rescapés ont tenté de venir en aide aux blessés, souvent coincés…",
    "tags": [],
    "zone": "france"
+  },
+  {
+   "id": "02e0e72a5202",
+   "titre": "Yémen : plus de dix morts dans des frappes saoudiennes, les Houthis ciblent l'aéroport d'Aden",
+   "lien": "https://www.france24.com/fr/moyen-orient/20261028-y%C3%A9men-plus-de-dix-morts-dans-des-frappes-saoudiennes-les-houthis-ciblent-l-a%C3%A9roport-d-aden",
+   "source": "France 24",
+   "date": "2026-10-28T15:24:41+00:00",
+   "extrait": "Au moins 14 personnes ont été tuées au Yémen mercredi dans des frappe imputées à l'Arabie saoudite. En réponse, l'aéroport de la ville yéménite d'Aden, où siège le gouvernement soutenu par l'Arabie…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
   },
   {
    "id": "c00e2626f68a",
@@ -591,7 +849,7 @@
    "titre": "Iran war will end \"whenever I want it to end,\" Trump says as cost tops $47 billion",
    "lien": "https://www.cbsnews.com/video/iran-war-will-end-whenever-i-want-it-to-end-trump-says-as-cost-tops-47-billion/",
    "source": "CBS News",
-   "date": "2026-10-28T15:16:48+00:00",
+   "date": "2026-10-28T15:16:00+00:00",
    "extrait": "The Iran war looms over the midterm elections as costs mount and gas prices squeeze voters' wallets. CBS News' Weijia Jiang has more on this, plus Lana Zak reports on races in Iowa.",
    "tags": [
     "Politique",
@@ -730,7 +988,7 @@
    "lien": "https://www.lemonde.fr/societe/article/2026/10/28/on-m-a-arrache-une-partie-de-ma-vie-a-17-ans-seulement-au-proces-des-accuses-de-l-assassinat-de-son-frere-la-determination-sans-faille-du-militant-anti-narcotrafic-amine-kessaci_6801588_3224.html",
    "source": "Le Monde",
    "date": "2026-10-28T14:47:46+00:00",
-   "extrait": "Appelé à la barre dans un programme chamboulé par la défection de plusieurs témoins, mercredi 28 octobre, le jeune homme de 23 ans a rappelé qu’il ne voulait « pas de vengeance mais la justice ».",
+   "extrait": "Appelé à la barre dans un programme chamboulé par la défection de plusieurs témoins, mercredi, le jeune homme de 23 ans a rappelé qu’il ne voulait « pas de vengeance mais la justice ».",
    "tags": [
     "Justice"
    ],
@@ -895,7 +1153,7 @@
    "lien": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-legislatives-en-israel-isaac-herzog-le-president-israelien-exhorte-les-partis-politiques-a-tout-faire-pour-former-une-coalition-gouvernementale-malgre-l-absence-de-majorite-claire_6801217_3210.html",
    "source": "Le Monde",
    "date": "2026-10-28T14:03:44+00:00",
-   "extrait": "La coalition des partis de droite et d’extrême droite menée par le premier ministre sortant arrive toujours en tête et obtiendrait 53 sièges sur les 120 que compte la Knesset. Le bloc de…",
+   "extrait": "Aucune majorité ne se dessine au lendemain des élections législatives en Israël, après le dépouillement de plus de 85 % des suffrages exprimés. Le Likoud du premier ministre sortant, Benyamin…",
    "tags": [
     "Politique",
     "Conflits"
@@ -1114,7 +1372,7 @@
    "titre": "Photos show record-breaking tides flooding homes, roads in California",
    "lien": "https://www.cbsnews.com/news/photos-high-tides-flooding-homes-roads-southern-california/",
    "source": "CBS News",
-   "date": "2026-10-28T13:15:01+00:00",
+   "date": "2026-10-28T13:15:00+00:00",
    "extrait": "Photos show extensive flooding in some parts of Southern California amid record-breaking high tides that have swamped homes and highways.",
    "tags": [
     "Climat"
@@ -2823,6 +3081,18 @@
    "zone": "monde"
   },
   {
+   "id": "1bbbcdf6a3d3",
+   "titre": "En Afrique, l’homophobie érigée en politique d’Etat",
+   "lien": "https://www.lemonde.fr/afrique/article/2026/10/28/en-afrique-l-homophobie-erigee-en-politique-d-etat_6801525_3212.html",
+   "source": "Le Monde",
+   "date": "2026-10-28T04:00:40+00:00",
+   "extrait": "« En Afrique, la vague réactionnaire » (2/4). Souvent présentées comme une réponse à une « attaque culturelle » venue de l’Occident, les législations homophobes se multiplient sur le continent, avec…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "3fa6270e255e",
    "titre": "Changement climatique : la communauté scientifique appelle à décréter une « urgence sanitaire mondiale »",
    "lien": "https://www.lemonde.fr/planete/article/2026/10/28/changement-climatique-la-communaute-scientifique-appelle-a-decreter-une-urgence-sanitaire-mondiale_6801524_3244.html",
@@ -3206,272 +3476,6 @@
    "extrait": "In Southern California, waves battered homes near the water as record-setting king tides flooded both coasts. In Southern Florida, strong offshore winds washed out parts of the shoreline. Carter…",
    "tags": [
     "Climat"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "a12916a5ca73",
-   "titre": "Jay-Z selects himself to headline Super Bowl halftime show",
-   "lien": "https://www.cbsnews.com/video/jay-z-selects-himself-to-headline-super-bowl-halftime-show/",
-   "source": "CBS News",
-   "date": "2026-10-27T23:24:10+00:00",
-   "extrait": "Super Bowl halftime show producer Jay-Z has selected himself to headline the upcoming event. Steven Horowitz, senior music writer at Variety, joins \"The Daily Report.\"",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "b5300c98aa2f",
-   "titre": "China's families are now supporting more old people than kids",
-   "lien": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-27T23:16:08+00:00",
-   "extrait": "The latest figures mark a major milestone as Beijing grapples with an ageing population.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "35bb15923c01",
-   "titre": "Trump wiped out $119 million for crime victims, CBS News investigation shows",
-   "lien": "https://www.cbsnews.com/video/trump-wiped-out-119-million-for-crime-victims-cbs-news-investigation-shows/",
-   "source": "CBS News",
-   "date": "2026-10-27T23:16:00+00:00",
-   "extrait": "President Trump's use of clemency wiped out at least $119 million in restitution payments for crime victims, a CBS News investigation found. CBS News' Daniel Klaidman has more.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "302620c52c2a",
-   "titre": "Tunisie : un journaliste indépendant, critique virulent du président, condamné à quatre ans de prison",
-   "lien": "https://www.lemonde.fr/international/article/2026/10/28/tunisie-un-journaliste-independant-critique-virulent-du-president-condamne-a-quatre-ans-de-prison_6801350_3210.html",
-   "source": "Le Monde",
-   "date": "2026-10-27T23:09:26+00:00",
-   "extrait": "De nombreux opposants et journalistes tunisiens font face à une vague de répression accrue depuis 2021.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "e4397c7d01bd",
-   "titre": "Former luxury real estate brothers sentenced to 30 years in prison over sex trafficking ring",
-   "lien": "https://www.cbsnews.com/video/former-luxury-real-estate-brothers-sentenced-to-30-years-in-prison-over-sex-trafficking-ring/",
-   "source": "CBS News",
-   "date": "2026-10-27T23:00:04+00:00",
-   "extrait": "Three brothers, two of whom were powerful luxury real estate brokers, have been sentenced to 30 years in prison each for a sex trafficking ring that victimized dozens of women. CBS News' Katrina…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "830fb1060c64",
-   "titre": "Elections législatives en Israël : les premières estimations sont un désaveu \"complet\" pour Benyamin Nétanyahou, selon son rival Gadi Eisenkot",
-   "lien": "https://www.franceinfo.fr/monde/israel/direct-elections-legislatives-en-israel-tres-critique-le-premier-ministre-benyamin-netanyahou-joue-sa-survie-politique-dans-les-urnes_8254444.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T22:58:10+00:00",
-   "extrait": "Le bloc de l'opposition au Premier ministre sortant est arrivé en tête mardi des premières élections législatives en Israël depuis le 7-Octobre, selon des sondages réalisés à la sortie des urnes.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "f5085824a1dc",
-   "titre": "Flavio Bolsonaro soupçonné d'avoir fui le Brésil pour les Etats-Unis, le président Lula dénonce un exil \"honteux\"",
-   "lien": "https://www.franceinfo.fr/monde/bresil/flavio-bolsonaro-soupconne-d-avoir-fui-le-bresil-pour-les-etats-unis-le-president-lula-denonce-un-exil-honteux_8256505.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T22:56:08+00:00",
-   "extrait": "Selon des médias américains, le sénateur conservateur, visé par plusieurs enquêtes, a quitté le pays après sa défaite à la présidentielle. Son coordinateur de campagne assure ne pas savoir où il se…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "4eb07b6509a5",
-   "titre": "Here's whether Texas could go blue as midterms approach, Trump visits state again",
-   "lien": "https://www.cbsnews.com/video/heres-whether-texas-could-go-blue-as-midterms-approach-trump-visits-state-again/",
-   "source": "CBS News",
-   "date": "2026-10-27T22:49:18+00:00",
-   "extrait": "President Trump is once again hitting the campaign trail in Texas as the race between Republican Ken Paxton and James Talrico remains tight. CBS News' Anthony Salvanto breaks it down, and Texas…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "ffce5228c87b",
-   "titre": "L'incroyable destin de \"Forest Man\", l'homme qui a sauvé son île de l'érosion en Inde en plantant sa propre forêt",
-   "lien": "https://www.franceinfo.fr/environnement/l-incroyable-destin-de-forest-man-l-homme-qui-a-sauve-son-ile-de-l-erosion-en-plantant-sa-propre-foret-pendant-plus-de-40-ans_8256487.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T22:44:31+00:00",
-   "extrait": "C’est le combat d’une vie, celui d’un homme face à la montée des eaux. En Inde, Jadav Payeng a consacré plus de 40 ans à planter des arbres pour protéger son île, menacée par l’érosion. Aujourd’hui…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "e84d896ff950",
-   "titre": "Grand jury won't indict Cassidy Hutchinson over Jan. 6 testimony",
-   "lien": "https://www.cbsnews.com/news/grand-jury-declines-to-indict-trump-critic-cassidy-hutchinson-over-jan-6-testimony/",
-   "source": "CBS News",
-   "date": "2026-10-27T22:39:00+00:00",
-   "extrait": "Federal prosecutors in Washington, D.C., failed to secure an indictment against Cassidy Hutchinson over her testimony about the Jan. 6, 2021, Capitol riot.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "872a7d115b31",
-   "titre": "New charges tossed against ex-FBI officials in Hunter Biden probe",
-   "lien": "https://www.cbsnews.com/news/hunter-biden-investigation-more-charges-filed-against-ex-fbi-officials/",
-   "source": "CBS News",
-   "date": "2026-10-27T22:37:36+00:00",
-   "extrait": "The unsigned and unsworn superseding complaint comes just hours before the defendants were due to appear in federal court in Washington, D.C. for a preliminary hearing.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "9b445c584251",
-   "titre": "\"L'ingéniosité des trafiquants est sans limite\" : un Français au cœur d'une affaire de trafic international de cocaïne cachée dans du quinoa",
-   "lien": "https://www.franceinfo.fr/societe/drogue/l-ingeniosite-des-trafiquants-est-sans-limite-un-francais-au-c-ur-d-une-affaire-de-trafic-international-de-cocaine-cachee-dans-du-quinoa_8256475.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T22:37:13+00:00",
-   "extrait": "De la cocaïne dissimulée dans du quinoa. Derrière ce procédé, un Français soupçonné d’être à la tête d’un réseau international de trafic de drogue. Soner Akca, surnommé \"El Francés\", a été arrêté en…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "baecf939615c",
-   "titre": "FBI agents raid billionaire's mansion in Eric Swalwell investigation",
-   "lien": "https://www.cbsnews.com/video/fbi-agents-raid-billionaires-mansion-eric-swalwell-investigation/",
-   "source": "CBS News",
-   "date": "2026-10-27T22:35:00+00:00",
-   "extrait": "FBI agents raided a Beverly Hills mansion as part of an investigation into Eric Swalwell. The former California representative dropped out of the governor's race in April and gave up his seat in…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "158d945c81ab",
-   "titre": "Tennis : fin d'une longue carrière pour le Suisse Stan Wawrinka, battu au 1er tour à Bâle",
-   "lien": "https://www.france24.com/fr/sports/20261027-tennis-fin-carriere-stan-wawrinka-battu-1er-tour-bale-suisse",
-   "source": "France 24",
-   "date": "2026-10-27T22:30:37+00:00",
-   "extrait": "Battu mardi à Bâle par le Tchèque Jiri Lehecka, le Suisse Stan Wawrinka, triple vainqueur en Grand Chelem, quitte le circuit après 16 titres et une longue carrière. Ancien N.3 mondial, il était l’un…",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "6dc27abf849a",
-   "titre": "10/27: CBS Evening News",
-   "lien": "https://www.cbsnews.com/video/102726-cbs-evening-news/",
-   "source": "CBS News",
-   "date": "2026-10-27T22:30:00+00:00",
-   "extrait": "Firefighters battle airport blaze in Houston; High tides break records.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "397d0739ccba",
-   "titre": "King tides cause flooding, damage to Southern California homes",
-   "lien": "https://www.cbsnews.com/video/king-tides-cause-flooding-damage-california-homes/",
-   "source": "CBS News",
-   "date": "2026-10-27T22:28:53+00:00",
-   "extrait": "Damaging floods continued to hit the Southern California coastline on Tuesday. Unusually high tides flooded the streets of Los Angeles, while residents in Orange County's Newport Beach reported…",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "2f3c2df09506",
-   "titre": "Egypte : la journaliste Lina Attalah, directrice du média indépendant « Mada Masr », libérée après le paiement d’une amende",
-   "lien": "https://www.lemonde.fr/afrique/article/2026/10/27/egypte-la-journaliste-lina-attalah-directrice-du-media-independant-mada-masr-liberee-apres-le-paiement-d-une-amende_6801280_3213.html",
-   "source": "Le Monde",
-   "date": "2026-10-27T22:27:58+00:00",
-   "extrait": "A l’issue d’une unique audience, un tribunal a ordonné la fermeture du site Internet et imposé une amende de près de 49 000 euros, pour l’avoir exploité « sans licence ». Il s’agit de la sixième…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "b18dad7f6f09",
-   "titre": "Trump erased $119 million in restitution for crime victims, CBS investigation finds",
-   "lien": "https://www.cbsnews.com/video/trump-erased-119-million-in-restitution-for-crime-victims-cbs-investigation-finds/",
-   "source": "CBS News",
-   "date": "2026-10-27T22:27:06+00:00",
-   "extrait": "A CBS News investigation found that President Trump's use of clemency orders erased at least $119 million in restitution for victims of crimes, including small businesses and the IRS. CBS News…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "a1f8a2d81c5b",
-   "titre": "Anthropic's IPO lists 93 pages of risks. What could go wrong?",
-   "lien": "https://www.cbsnews.com/news/anthropic-ipo-filing-ai-risks/",
-   "source": "CBS News",
-   "date": "2026-10-27T22:23:54+00:00",
-   "extrait": "Anthropic's planned IPO requires investors to reckon with the threat posed by AI. \"This is not an ordinary technology risk,\" one expert said.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "d7983200f197",
-   "titre": "Sen. Chris Coons speaks out against Trump's Ukraine policy",
-   "lien": "https://www.cbsnews.com/video/chris-coons-speaks-out-trump-ukraine/",
-   "source": "CBS News",
-   "date": "2026-10-27T22:20:28+00:00",
-   "extrait": "Democratic Sen. Chris Coons of Delaware joins \"The Takeout\" to address the Trump administration's policies toward Ukraine and Russia as Elon Musk admits to restricting the country's access to a…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "78290633f8a8",
-   "titre": "Anthropic files for IPO as it competes for AI dominance",
-   "lien": "https://www.cbsnews.com/news/anthropic-ipo-plans-ai-safety/",
-   "source": "CBS News",
-   "date": "2026-10-27T22:19:52+00:00",
-   "extrait": "Anthropic, which developed the Claude chatbot, is barreling ahead with its public offering despite mounting concerns about AI going rogue.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "26f0bed97c5a",
-   "titre": "Le journaliste Bruno Meyerfeld remporte le prix Albert Londres 2026 pour ses reportages sur les peuples indigènes au Brésil",
-   "lien": "https://www.franceinfo.fr/economie/medias/le-journaliste-bruno-meyerfeld-remporte-le-prix-albert-londres-2026-pour-ses-reportages-sur-les-peuples-indigenes-au-bresil_8256496.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T22:18:59+00:00",
-   "extrait": "Ses articles, publiés par \"Le Monde\", s'inscrivent dans son travail \"largement consacré aux enjeux environnementaux\", relève le jury. Les prix de l'audiovisuel et du livre ont, eux, été décernés à…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "2078c1083409",
-   "titre": "Status of Israel's election as exit polling reveals a divided nation",
-   "lien": "https://www.cbsnews.com/video/status-israels-election-exit-polling-reveals-divided-nation/",
-   "source": "CBS News",
-   "date": "2026-10-27T22:18:00+00:00",
-   "extrait": "New exit polls from Israel's major television networks project that a majority of Israelis voted against incumbent Prime Minister Benjamin Netanyahu in the country's first parliamentary election…",
-   "tags": [
-    "Politique",
-    "Conflits"
    ],
    "zone": "usa"
   }

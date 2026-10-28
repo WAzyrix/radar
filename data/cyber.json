@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-28T17:05:41+00:00",
+ "maj": "2026-10-28T18:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,6 +24,18 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "b057f3381d27",
+   "titre": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
+   "lien": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
+   "source": "The Hacker News",
+   "date": "2026-10-28T17:08:09+00:00",
+   "extrait": "Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background. To qualify, a…",
+   "tags": [
+    "Malware",
+    "Mobile"
+   ]
+  },
+  {
    "id": "516ab6192d20",
    "titre": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
    "lien": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
@@ -32,6 +44,18 @@
    "extrait": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]",
    "tags": [
     "Fuite de données"
+   ]
+  },
+  {
+   "id": "bce30872ee07",
+   "titre": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
+   "lien": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
+   "source": "The Hacker News",
+   "date": "2026-10-28T16:23:34+00:00",
+   "extrait": "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown. Orange…",
+   "tags": [
+    "Faille",
+    "Windows"
    ]
   },
   {
