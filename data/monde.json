@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-28T06:05:42+00:00",
+ "maj": "2026-10-28T06:20:29+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,52 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "ee3ebfe71c20",
+   "titre": "Trump says he's ending restrictions on climate-warming methane from oil drilling",
+   "lien": "https://www.npr.org/2026/10/28/g-s1-150299/trump-methane-restrictions",
+   "source": "NPR",
+   "date": "2026-10-28T06:15:31+00:00",
+   "extrait": "President Donald Trump said that his administration is \"terminating\" a Biden-era rule that aimed to cut planet-warming emissions of methane from oil and gas drilling.",
+   "tags": [
+    "Politique",
+    "Climat"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "2ad85dc2ad5d",
+   "titre": "Elections en Israël : le camp de Benyamin Nétanyahou légèrement en tête après 50% des bulletins dépouillés, selon la Commission électorale",
+   "lien": "https://www.franceinfo.fr/monde/israel/direct-elections-en-israel-le-camp-de-benjamin-netanyahou-legerement-en-tete-apres-50-des-bulletins-depouilles-selon-la-commission-electorale_8256712.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-28T06:13:38+00:00",
+   "extrait": "\"Israël fait face à une opportunité historique unique avec notre partenaire le président Trump pour éliminer définitivement la menace existentielle de l'Iran\" a déclaré mercredi Benyamin Netanyahou…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "c39120638b20",
+   "titre": "Rays stun Brewers with 2-run rally in 12th inning and force World Series Game 5",
+   "lien": "https://www.npr.org/2026/10/28/nx-s1-6020169/rays-brewers-game-5",
+   "source": "NPR",
+   "date": "2026-10-28T06:13:28+00:00",
+   "extrait": "Tampa Bay became the fourth team in World Series history to avoid elimination with an extra-inning comeback. Game 5 in the best-of-seven matchup is Wednesday night at Tropicana Field.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "bcb30be2f56e",
+   "titre": "\"Ça fait du bien de travailler\" : à Mantes-la-Jolie, des lycéens révisent pendant les vacances grâce à des cours de soutien",
+   "lien": "https://www.franceinfo.fr/societe/education/reportage-je-me-rememore-les-cours-a-mantes-la-jolie-des-lyceens-revisent-pendant-les-vacances-grace-a-des-cours-de-soutien_8256445.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-28T06:01:25+00:00",
+   "extrait": "Si certains lycéens s'interrogent sur d'éventuelles perturbations lundi, d'autres, notamment dans des quartiers peu favorisés, profitent des vacances pour réviser. À Mantes-la-Jolie, des lycéens se…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "0eb20b6a2789",
    "titre": "U.S. issuing visas to Brazil's Flávio Bolsonaro and family, official says",
    "lien": "https://www.cbsnews.com/news/brazil-flavio-bolsonaro-u-s-visa-presidential-election-loss/",
@@ -34,12 +80,46 @@
    "zone": "usa"
   },
   {
+   "id": "7c5519865e6f",
+   "titre": "Le changement climatique doit devenir \"urgence sanitaire mondiale\", selon le rapport The Lancet Countdown",
+   "lien": "https://www.franceinfo.fr/environnement/crise-climatique/le-changement-climatique-doit-devenir-urgence-sanitaire-mondiale-selon-le-rapport-the-lancet-countdown_8256397.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-28T05:48:47+00:00",
+   "extrait": "Ce rapport publié par la revue médicale avant la COP 31 associe 146 chercheurs de 30 pays pour évaluer les conséquences du changement climatique sur la santé de la population mondiale.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "5f5f465ba363",
    "titre": "Prestations sociales saisies, nouvelles interdictions de manifester... Le projet de loi \"casseurs payeurs\" adopté et élargi au Sénat, en plein cœur de la contestation",
    "lien": "https://www.franceinfo.fr/politique/prestations-sociales-saisies-nouvelles-interdictions-de-manifester-le-projet-de-loi-casseurs-payeurs-adopte-et-elargi-au-senat-en-plein-c-ur-de-la-contestation_8256748.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-10-28T05:37:10+00:00",
    "extrait": "Il est désormais transmis à l'Assemblée nationale, où son examen promet d'autres discussions électriques, en l'absence de majorité. Laurent Nuñez a annoncé qu'il saisirait le Conseil d'Etat sur ces…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "9aba38d6ae4c",
+   "titre": "Plombés par la crise économique, les dons des Français en baisse de 18 euros en moyenne en 2026",
+   "lien": "https://www.franceinfo.fr/economie/plombes-par-la-crise-economique-les-dons-des-francais-en-baisse-de-18-euros-en-moyenne-en-2026_8256436.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-28T05:30:02+00:00",
+   "extrait": "Selon les résultats de l'Observatoire des générosités 2026, de plus en plus de personnes ont, à l'inverse, recours à des dons pour des dépenses du quotidien, symptôme d'une précarité grandissante.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "9321139899db",
+   "titre": "\"On attend cette discussion depuis longtemps\" : après les annonces du gouvernement, les députés doivent débattre de l'avenir de Parcoursup",
+   "lien": "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/depuis-2018-on-attend-cette-discussion-apres-les-annonces-du-gouvernement-les-deputes-doivent-debattre-de-l-avenir-de-parcoursup_8256361.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-28T05:26:15+00:00",
+   "extrait": "Si les socialistes se réjouissent enfin de pouvoir discuter de la plateforme, les Insoumis réclament un vote et le Rassemblement national doute que le gouvernement puisse mener sa réforme à bien…",
    "tags": [
     "Politique"
    ],
@@ -3423,87 +3503,6 @@
    "extrait": "La présidence arménienne de la COP a mis en avant, lundi, un objectif décidé en 2022 à Montréal visant à réduire les subventions néfastes à la biodiversité d’au moins 500 milliards de dollars par an.",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "0ac4cf1fab7b",
-   "titre": "La frustration de Kylian Mbappé, dauphin de Harry Kane au Ballon d’or 2026, malgré une intense campagne de communication",
-   "lien": "https://www.lemonde.fr/sport/article/2026/10/27/la-frustration-de-kylian-mbappe-dauphin-de-harry-kane-au-ballon-d-or-2026-malgre-une-intense-campagne-de-communication_6801266_3242.html",
-   "source": "Le Monde",
-   "date": "2026-10-27T11:30:06+00:00",
-   "extrait": "Le capitaine de l’équipe de France a terminé 2ᵉ derrière Harry Kane, primé à Londres, lundi. A 27 ans, l’attaquant madrilène attend toujours d’inscrire son nom au palmarès d’un trophée qu’il…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "ed19e85667db",
-   "titre": "\"Parcoursup a été un progrès énorme\" : Jean-Michel Blanquer, ancien ministre de l'Éducation nationale",
-   "lien": "https://www.franceinfo.fr/politique/parcoursup-a-ete-un-progres-enorme-jean-michel-blanquer-ancien-ministre-de-l-education-nationale_8255683.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T11:28:01+00:00",
-   "extrait": "Pour Jean-Michel Blanquer, \"Parcoursup a été un progrès énorme\". L'ancien ministre de l'Éducation nationale, dénonce également \"la démagogie\" et la \"lâcheté\" d'une partie de la classe politique.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "02faea4170d5",
-   "titre": "L'Irak condamne six Français à la perpétuité pour appartenance à l'organisation terroriste EI",
-   "lien": "https://www.france24.com/fr/moyen-orient/20261027-irak-condamne-six-fran%C3%A7ais-%C3%A0-la-perpetuite-pour-appartenance-a-organisation-terroriste-etat-islamique-ei",
-   "source": "France 24",
-   "date": "2026-10-27T11:26:05+00:00",
-   "extrait": "Six Français ont été condamnés mardi à la prison à perpétuité par un tribunal irakien pour appartenance au ​groupe ‌État islamique. Un septième a écopé de 15 ans d'emprisonnement. L'un des avocats a…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "8facece3277a",
-   "titre": "\"Parcoursup a été un progrès énorme\" : sous le feu des critiques, Jean-Michel Blanquer défend son bilan",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/parcoursup-a-ete-un-progres-enorme-sous-le-feu-des-critiques-l-ancien-ministre-de-l-education-nationale-jean-michel-blanquer-defend-son-bilan_8255266.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T11:25:43+00:00",
-   "extrait": "L'ancien ministre de l'Éducation nationale, Jean-Michel Blanquer continue de défendre, sur franceinfo mardi, la plateforme d'admission dans l'enseignement supérieur qu'il a fondé.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "048b8b8ab9a0",
-   "titre": "Premières législatives depuis le 7 Octobre, Netanyahu à l'épreuve des urnes",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-premi%C3%A8res-l%C3%A9gislatives-depuis-le-7-octobre-netanyahu-%C3%A0-l-%C3%A9preuve-des-urnes",
-   "source": "France 24",
-   "date": "2026-10-27T11:25:42+00:00",
-   "extrait": "Ruth Rosenthal, artiste membre du Collectif Diaspp, est notre invité.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "7d69b34156ce",
-   "titre": "\"C'est le moment le plus important de ces 50 dernières années pour le pays\" : les jeunes électeurs, la clé des élections législatives en Israël ?",
-   "lien": "https://www.franceinfo.fr/monde/israel/c-est-le-moment-le-plus-important-pour-le-pays-de-ces-50-dernieres-annees-les-jeunes-electeurs-traumatises-par-le-7-octobre-vont-ils-etre-la-cle-des-elections-legislatives-en-israel_8254774.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T11:23:25+00:00",
-   "extrait": "Les Israéliens ont commencé à voter mardi pour les premières élections législatives. Parmi les sept millions d'électeurs appelés aux urnes, près de 10% sont des primo-votants. Un record.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "4f59fe211fe1",
-   "titre": "Netherlands pulls out of Eurovision again over Israel participation",
-   "lien": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-27T11:23:19+00:00",
-   "extrait": "A Dutch broadcaster reverses a decision to take part, citing \"sensitivities\" over Israel's participation.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
   }
  ]
 }
