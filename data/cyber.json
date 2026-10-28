@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-28T10:05:41+00:00",
+ "maj": "2026-10-28T11:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "aa5619127529",
+   "titre": "CISA warns of hackers now exploiting critical Node2Shell flaw",
+   "lien": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
+   "source": "BleepingComputer",
+   "date": "2026-10-28T10:46:23+00:00",
+   "extrait": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and…",
+   "tags": [
+    "Faille",
+    "Fuite de données"
+   ]
+  },
   {
    "id": "965a65e0d849",
    "titre": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
