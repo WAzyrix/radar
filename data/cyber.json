@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-28T11:05:40+00:00",
+ "maj": "2026-10-28T12:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,6 +24,18 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "42a9e60af11b",
+   "titre": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
+   "lien": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
+   "source": "The Hacker News",
+   "date": "2026-10-28T11:15:51+00:00",
+   "extrait": "Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and…",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
+  },
+  {
    "id": "aa5619127529",
    "titre": "CISA warns of hackers now exploiting critical Node2Shell flaw",
    "lien": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
@@ -33,6 +45,17 @@
    "tags": [
     "Faille",
     "Fuite de données"
+   ]
+  },
+  {
+   "id": "169a3a02ba4a",
+   "titre": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
+   "lien": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
+   "source": "The Hacker News",
+   "date": "2026-10-28T10:30:00+00:00",
+   "extrait": "Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted…",
+   "tags": [
+    "Malware"
    ]
   },
   {
