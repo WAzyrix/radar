@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-28T13:34:43+00:00",
+ "maj": "2026-10-28T14:05:45+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,6 +24,43 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "60ccb0bbd830",
+   "titre": "InfraTrust report warns of exploited flaws in critical network infrastructure",
+   "lien": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
+   "source": "BleepingComputer",
+   "date": "2026-10-28T14:00:00+00:00",
+   "extrait": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "219f99ac76bf",
+   "titre": "Even after PHP2Shell, blast radius matters more than a CVSS score",
+   "lien": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
+   "source": "BleepingComputer",
+   "date": "2026-10-28T13:50:59+00:00",
+   "extrait": "PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts, API…",
+   "tags": [
+    "Faille",
+    "Fuite de données",
+    "IA"
+   ]
+  },
+  {
+   "id": "29d08fa787d9",
+   "titre": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
+   "lien": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
+   "source": "The Hacker News",
+   "date": "2026-10-28T12:48:03+00:00",
+   "extrait": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question…",
+   "tags": [
+    "CVE",
+    "Faille",
+    "Fuite de données"
+   ]
+  },
+  {
    "id": "7c22489c81a5",
    "titre": "Hackers now scanning systems for recently-patched Oracle flaw",
    "lien": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
@@ -33,6 +70,28 @@
    "tags": [
     "Faille",
     "Fuite de données"
+   ]
+  },
+  {
+   "id": "eb93de238d98",
+   "titre": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
+   "lien": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html",
+   "source": "The Hacker News",
+   "date": "2026-10-28T11:50:00+00:00",
+   "extrait": "A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating system loads…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "ce5fe177d9da",
+   "titre": "Wazuh and AI for Enhanced SOC Workflows",
+   "lien": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
+   "source": "The Hacker News",
+   "date": "2026-10-28T11:30:00+00:00",
+   "extrait": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate…",
+   "tags": [
+    "IA"
    ]
   },
   {
