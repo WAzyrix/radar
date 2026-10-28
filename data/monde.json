@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-28T03:05:41+00:00",
+ "maj": "2026-10-28T04:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,15 +22,39 @@
  "erreurs": [],
  "articles": [
   {
-   "id": "c978f1b218b7",
-   "titre": "EN DIRECT, législatives en Israël : les deux blocs au coude-à-coude ; Benyamin Nétanyahou et Gadi Eisenkot revendiquent chacun leur volonté de former un gouvernement",
-   "lien": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-legislatives-en-israel-les-deux-blocs-au-coude-a-coude-benyamin-netanyahou-et-gadi-eisenkot-revendiquent-chacun-leur-volonte-de-former-un-gouvernement_6801217_3210.html",
+   "id": "3fa6270e255e",
+   "titre": "Changement climatique : la communauté scientifique appelle à décréter une « urgence sanitaire mondiale »",
+   "lien": "https://www.lemonde.fr/planete/article/2026/10/28/changement-climatique-la-communaute-scientifique-appelle-a-decreter-une-urgence-sanitaire-mondiale_6801524_3244.html",
    "source": "Le Monde",
-   "date": "2026-10-28T02:57:28+00:00",
-   "extrait": "Les dernières estimations donnent les camps du premier ministre et du chef de l’opposition à égalité, et loin de pouvoir former une majorité, dans un scrutin marqué par une forte mobilisation (77,7…",
+   "date": "2026-10-28T04:00:38+00:00",
+   "extrait": "Le 10ᵉ rapport du Lancet Countdown montre que les effets du réchauffement sur la santé comme le nombre de décès liés à la chaleur se sont considérablement aggravés depuis la signature de l’accord de…",
    "tags": [
-    "Politique",
-    "Conflits"
+    "Santé"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "1eeaacbaa2a4",
+   "titre": "Inquiétude des services de renseignement européens sur la persistance de la menace iranienne en Europe",
+   "lien": "https://www.lemonde.fr/international/article/2026/10/28/inquietude-des-services-de-renseignement-europeens-sur-la-persistance-de-la-menace-iranienne-en-europe_6801523_3210.html",
+   "source": "Le Monde",
+   "date": "2026-10-28T04:00:38+00:00",
+   "extrait": "Projets d’assassinats, incendies criminels, actes de sabotage, cyberattaques… Une menace iranienne durable et globale pèserait aujourd’hui sur les pays européens alors que les arrestations de…",
+   "tags": [
+    "Climat",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "cfa8cbbfd800",
+   "titre": "Brésil : après sa défaite à la présidentielle, Flavio Bolsonaro soupçonné d’avoir pris la fuite vers les Etats-Unis",
+   "lien": "https://www.lemonde.fr/international/article/2026/10/28/bresil-apres-sa-defaite-a-la-presidentielle-flavio-bolsonaro-soupconne-d-avoir-pris-la-fuite-vers-les-etats-unis_6801485_3210.html",
+   "source": "Le Monde",
+   "date": "2026-10-28T04:00:06+00:00",
+   "extrait": "Mis en cause dans plusieurs affaires de corruption, le candidat d’extrême droite aurait violé son interdiction de quitter le pays et se serait vu accorder des visas pour lui et sa famille par…",
+   "tags": [
+    "Politique"
    ],
    "zone": "france"
   },
@@ -39,13 +63,48 @@
    "titre": "8-month Iran war looms large over Israeli election",
    "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/",
    "source": "CBS News",
-   "date": "2026-10-28T02:35:41+00:00",
-   "extrait": "Israeli voters are choosing their next government, with Prime Minister Benjamin Netanyahu insisting only he can finish the job started eight months ago in Iran.",
+   "date": "2026-10-28T03:48:19+00:00",
+   "extrait": "Israelis voted in a national election set to shape the country's next government, with the Iran war looming large over their decisions.",
    "tags": [
     "Politique",
     "Conflits"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "8b67a6753a93",
+   "titre": "Iran war has cost $47 billion, U.S. military says",
+   "lien": "https://www.cbsnews.com/news/iran-war-cost-centcom-47-billion/",
+   "source": "CBS News",
+   "date": "2026-10-28T03:29:20+00:00",
+   "extrait": "The war with Iran has cost the U.S. military at least $47.1 billion as of mid-October, according to a new estimate from U.S. Central Command obtained by CBS News.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "c978f1b218b7",
+   "titre": "EN DIRECT, législatives en Israël : le camp de Benyamin Nétanyahou en tête, mais sans majorité, après plus d’un quart de bulletins dépouillés",
+   "lien": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-legislatives-en-israel-les-deux-blocs-au-coude-a-coude-benyamin-netanyahou-et-gadi-eisenkot-revendiquent-chacun-leur-volonte-de-former-un-gouvernement_6801217_3210.html",
+   "source": "Le Monde",
+   "date": "2026-10-28T02:57:28+00:00",
+   "extrait": "Selon le média israélien « Haaretz », le bloc du premier ministre sortant de Benyamin Nétanyahou récolte pour l’heure 59 sièges, en dessous de la majorité fixée à 61. Le bloc de l’opposition mené…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "77abf8806f19",
+   "titre": "Pérou : la justice classe une affaire sur des milliers de stérilisations forcées de femmes pendant les années 1990",
+   "lien": "https://www.lemonde.fr/international/article/2026/10/28/perou-la-justice-classe-une-affaire-sur-des-milliers-de-sterilisations-forcees-de-femmes-pendant-les-annees-1990_6801450_3210.html",
+   "source": "Le Monde",
+   "date": "2026-10-28T02:25:24+00:00",
+   "extrait": "Malgré la mobilisation des associations et une récente condamnation internationale, la justice péruvienne referme le dossier des stérilisations forcées, suscitant la colère des victimes et de leurs…",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "7a64b6f22bf1",
@@ -586,7 +645,7 @@
   },
   {
    "id": "11324ac85d11",
-   "titre": "Législatives en Israël : Eisenkot et Netanyahu tous deux prêts à former un gouvernement",
+   "titre": "Législatives en Israël : à égalité, Eisenkot et Netanyahu tous deux prêts à former un gouvernement",
    "lien": "https://www.france24.com/fr/moyen-orient/20261027-l%C3%A9gislatives-isra%C3%ABl-participation-record-netanyahu-eisenkot-coude-%C3%A0-coude",
    "source": "France 24",
    "date": "2026-10-27T21:53:41+00:00",
@@ -3448,63 +3507,6 @@
    "extrait": "Des centaines de personnes se sont rassemblées lundi soir notamment à Lyon, à Marseille et à Paris, en hommage aux victimes de l'attentat raciste de Trappes (Yvelines) vendredi.",
    "tags": [],
    "zone": "monde"
-  },
-  {
-   "id": "4820363af84c",
-   "titre": "Til Death (or Retirement) Do Us Part | Money Moves with Jill Schlesinger",
-   "lien": "https://www.cbsnews.com/video/til-death-or-retirement-do-us-part-money-moves-with-jill-schlesinger/",
-   "source": "CBS News",
-   "date": "2026-10-27T11:00:18+00:00",
-   "extrait": "How do you plan for not just one retirement, but two? Jill and Mark break down the financial planning every age-gap couple needs to consider. Plus, when should you fire your financial planner?",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "cb0d4b92c9c4",
-   "titre": "Extended interview: John Summit on taking the leap from accounting to DJ",
-   "lien": "https://www.cbsnews.com/video/extended-interview-john-summit-on-taking-the-leap-from-accounting-to-dj/",
-   "source": "CBS News",
-   "date": "2026-10-27T11:00:15+00:00",
-   "extrait": "John Summit talks to Anthony Mason at Good Room in New York City to talk about why he left the accounting world to pursue his passion as a DJ.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "9a41d14e4457",
-   "titre": "LFI réclame une commission d'enquête parlementaire pour \"établir les responsabilités\" sur l'attentat raciste dans les Yvelines",
-   "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/la-france-insoumise-reclame-une-commission-d-enquete-parlementaire-pour-etablir-les-responsabilites-sur-l-attentat-raciste-dans-les-yvelines_8255395.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T10:58:42+00:00",
-   "extrait": "Clémence Guetté, députée la France insoumise du Val-de-Marne et vice-présidente de l'Assemblée nationale, dénonce la responsabilité du gouvernement dans \"la libération de la parole raciste\".",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "7e8e36f0bdc8",
-   "titre": "Après le rejet des sénateurs, Aurore Bergé souhaite rétablir l'imprescriptibilité des crimes sur mineurs dans le projet de loi sur la protection des enfants",
-   "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/apres-le-rejet-des-senateurs-aurore-berge-souhaite-retablir-l-imprescriptibilite-des-crimes-sur-mineurs-dans-le-projet-de-loi-sur-la-protection-des-enfants_8255497.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T10:56:24+00:00",
-   "extrait": "Cette mesure, votée cet été à l'Assemblée nationale, avait été rejetée en commission par les sénateurs. A ce jour, seuls les crimes contre l'humanité sont imprescriptibles.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "ed623d1a15e1",
-   "titre": "U.K. charges 2 men linked to alleged terror plot against air base",
-   "lien": "https://www.cbsnews.com/news/uk-raf-fairford-terror-plot-iran-2-men-charged-security-offenses/",
-   "source": "CBS News",
-   "date": "2026-10-27T10:51:50+00:00",
-   "extrait": "Two men arrested in connection with the alleged Iran-linked terror plot targeting RAF Fairford in England have been charged with national security offenses.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
   }
  ]
 }
