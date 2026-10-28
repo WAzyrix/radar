@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-28T14:05:45+00:00",
+ "maj": "2026-10-28T15:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "7f47388e611d",
+   "titre": "Microsoft urges Entra ID admins to migrate users to passkeys",
+   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/",
+   "source": "BleepingComputer",
+   "date": "2026-10-28T14:48:32+00:00",
+   "extrait": "Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and voice authentication in February 2027. [...]",
+   "tags": [
+    "Malware",
+    "Windows"
+   ]
+  },
   {
    "id": "60ccb0bbd830",
    "titre": "InfraTrust report warns of exploited flaws in critical network infrastructure",
@@ -211,6 +223,140 @@
     "CVE",
     "Faille",
     "Fuite de données"
+   ]
+  },
+  {
+   "id": "8374ad3c3987",
+   "titre": "Multiples vulnérabilités dans Metabase (28 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1403/",
+   "source": "CERT-FR",
+   "date": "2026-10-28T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Metabase. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "030f4fe1d67f",
+   "titre": "Multiples vulnérabilités dans les produits Veeam (28 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1399/",
+   "source": "CERT-FR",
+   "date": "2026-10-28T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Veeam. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "0059b9bd2f44",
+   "titre": "Multiples vulnérabilités dans Palo Alto Networks PAN-OS (28 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1402/",
+   "source": "CERT-FR",
+   "date": "2026-10-28T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Palo Alto Networks PAN-OS. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance. Palo Alto Networks indique…",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
+  },
+  {
+   "id": "e9d20e50e1a2",
+   "titre": "Vulnérabilité dans CPython (28 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1397/",
+   "source": "CERT-FR",
+   "date": "2026-10-28T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans CPython. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "6f572656b6bc",
+   "titre": "Multiples vulnérabilités dans Google Chrome (28 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1398/",
+   "source": "CERT-FR",
+   "date": "2026-10-28T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "9741d79bd3fe",
+   "titre": "Multiples vulnérabilités dans Mitel OpenScape Endpoint Management (28 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1404/",
+   "source": "CERT-FR",
+   "date": "2026-10-28T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Mitel OpenScape Endpoint Management. Elles permettent à un attaquant de provoquer une élévation de privilèges et un contournement de la politique…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "5b7d0f8be878",
+   "titre": "Vulnérabilité dans les produits Belden (28 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1407/",
+   "source": "CERT-FR",
+   "date": "2026-10-28T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans les produits Belden. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "c8d8366281d6",
+   "titre": "Vulnérabilité dans Axis Camera Station Pro (28 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1408/",
+   "source": "CERT-FR",
+   "date": "2026-10-28T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans Axis Camera Station Pro. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "c3653add9321",
+   "titre": "Multiples vulnérabilités dans Docker Desktop (28 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1401/",
+   "source": "CERT-FR",
+   "date": "2026-10-28T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Docker Desktop. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "91246456017a",
+   "titre": "Multiples vulnérabilités dans Microsoft Edge (28 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1405/",
+   "source": "CERT-FR",
+   "date": "2026-10-28T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de…",
+   "tags": [
+    "Faille",
+    "Windows"
+   ]
+  },
+  {
+   "id": "39fabd67769e",
+   "titre": "Vulnérabilité dans Samba (28 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1400/",
+   "source": "CERT-FR",
+   "date": "2026-10-28T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans Samba. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "743b91969d36",
+   "titre": "Multiples vulnérabilités dans les produits Mozilla (28 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1406/",
+   "source": "CERT-FR",
+   "date": "2026-10-28T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation…",
+   "tags": [
+    "Faille"
    ]
   },
   {
