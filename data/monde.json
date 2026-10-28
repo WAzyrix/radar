@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-27T23:05:43+00:00",
+ "maj": "2026-10-28T00:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,12 +22,79 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "22e9db26902b",
+   "titre": "Watch: 'No clear winner' in Israel election - what happens now?",
+   "lien": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-28T00:04:29+00:00",
+   "extrait": "Polls have closed in the Israeli election, but there is no clear winner.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "7a64b6f22bf1",
+   "titre": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+   "lien": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-27T23:41:23+00:00",
+   "extrait": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "a12916a5ca73",
+   "titre": "Jay-Z selects himself to headline Super Bowl halftime show",
+   "lien": "https://www.cbsnews.com/video/jay-z-selects-himself-to-headline-super-bowl-halftime-show/",
+   "source": "CBS News",
+   "date": "2026-10-27T23:24:10+00:00",
+   "extrait": "Super Bowl halftime show producer Jay-Z has selected himself to headline the upcoming event. Steven Horowitz, senior music writer at Variety, joins \"The Daily Report.\"",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "35bb15923c01",
+   "titre": "Trump wiped out $119 million for crime victims, CBS News investigation shows",
+   "lien": "https://www.cbsnews.com/video/trump-wiped-out-119-million-for-crime-victims-cbs-news-investigation-shows/",
+   "source": "CBS News",
+   "date": "2026-10-27T23:16:00+00:00",
+   "extrait": "President Trump's use of clemency wiped out at least $119 million in restitution payments for crime victims, a CBS News investigation found. CBS News' Daniel Klaidman has more.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "302620c52c2a",
+   "titre": "Tunisie : un journaliste indépendant, critique virulent du président, condamné à quatre ans de prison",
+   "lien": "https://www.lemonde.fr/international/article/2026/10/28/tunisie-un-journaliste-independant-critique-virulent-du-president-condamne-a-quatre-ans-de-prison_6801350_3210.html",
+   "source": "Le Monde",
+   "date": "2026-10-27T23:09:26+00:00",
+   "extrait": "De nombreux opposants et journalistes tunisiens font face à une vague de répression accrue depuis 2021.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "0cd7b42c1f59",
    "titre": "Alexander brothers sentenced to 30 years in prison for sex trafficking",
    "lien": "https://www.cbsnews.com/news/alexander-brothers-sentenced-sex-trafficking/",
    "source": "CBS News",
    "date": "2026-10-27T23:02:06+00:00",
    "extrait": "Alon, Oren and Tal Alexander have been sentenced to 30 years in prison for sex trafficking after the trio was convicted of drugging and raping dozens of women.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "e4397c7d01bd",
+   "titre": "Former luxury real estate brothers sentenced to 30 years in prison over sex trafficking ring",
+   "lien": "https://www.cbsnews.com/video/former-luxury-real-estate-brothers-sentenced-to-30-years-in-prison-over-sex-trafficking-ring/",
+   "source": "CBS News",
+   "date": "2026-10-27T23:00:04+00:00",
+   "extrait": "Three brothers, two of whom were powerful luxury real estate brokers, have been sentenced to 30 years in prison each for a sex trafficking ring that victimized dozens of women. CBS News' Katrina…",
    "tags": [],
    "zone": "usa"
   },
@@ -116,7 +183,7 @@
    "titre": "FBI agents raid billionaire's mansion in Eric Swalwell investigation",
    "lien": "https://www.cbsnews.com/video/fbi-agents-raid-billionaires-mansion-eric-swalwell-investigation/",
    "source": "CBS News",
-   "date": "2026-10-27T22:35:55+00:00",
+   "date": "2026-10-27T22:35:00+00:00",
    "extrait": "FBI agents raided a Beverly Hills mansion as part of an investigation into Eric Swalwell. The former California representative dropped out of the governor's race in April and gave up his seat in…",
    "tags": [
     "Politique"
@@ -153,7 +220,7 @@
    "lien": "https://www.lemonde.fr/afrique/article/2026/10/27/egypte-la-journaliste-lina-attalah-directrice-du-media-independant-mada-masr-liberee-apres-le-paiement-d-une-amende_6801280_3213.html",
    "source": "Le Monde",
    "date": "2026-10-27T22:27:58+00:00",
-   "extrait": "À l’issue d’une unique audience, un tribunal a ordonné la fermeture du site Internet et imposé une amende de près de 49 000 euros, pour l’avoir exploité « sans licence ». Il s’agit de la sixième…",
+   "extrait": "A l’issue d’une unique audience, un tribunal a ordonné la fermeture du site Internet et imposé une amende de près de 49 000 euros, pour l’avoir exploité « sans licence ». Il s’agit de la sixième…",
    "tags": [
     "Justice"
    ],
@@ -225,7 +292,7 @@
    "titre": "Status of Israel's election as exit polling reveals a divided nation",
    "lien": "https://www.cbsnews.com/video/status-israels-election-exit-polling-reveals-divided-nation/",
    "source": "CBS News",
-   "date": "2026-10-27T22:18:54+00:00",
+   "date": "2026-10-27T22:18:00+00:00",
    "extrait": "New exit polls from Israel's major television networks project that a majority of Israelis voted against incumbent Prime Minister Benjamin Netanyahu in the country's first parliamentary election…",
    "tags": [
     "Politique",
@@ -309,11 +376,11 @@
   },
   {
    "id": "d611c759880d",
-   "titre": "EN DIRECT, législatives en Israël : les premières estimations favorables à l’opposition, mais l’incertitude sur une future majorité est complète",
+   "titre": "EN DIRECT, législatives en Israël : le chef de l’opposition, Gadi Eisenkot, dit vouloir former un gouvernement, au vu des premières estimations",
    "lien": "https://www.lemonde.fr/international/live/2026/10/27/en-direct-legislatives-en-israel-les-premieres-estimations-favorables-a-l-opposition-mais-l-incertitude-sur-une-future-majorite-est-complete_6801217_3210.html",
    "source": "Le Monde",
-   "date": "2026-10-27T21:53:26+00:00",
-   "extrait": "Les bureaux de vote ont fermé à 22 heures locales (21 heures à Paris), après une journée de vote marquée par une participation historique.",
+   "date": "2026-10-27T21:53:23+00:00",
+   "extrait": "Le bloc de l’opposition au premier ministre, Benyamin Nétanyahou, semble arriver légèrement en tête, mais sans garantie de pouvoir former une majorité, à l’issue d’un scrutin marqué par une forte…",
    "tags": [
     "Politique",
     "Conflits"
@@ -466,16 +533,6 @@
    "zone": "usa"
   },
   {
-   "id": "7a64b6f22bf1",
-   "titre": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
-   "lien": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-27T21:12:39+00:00",
-   "extrait": "The three brothers were found guilty of drugging and raping several women over the course of decades.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
    "id": "66377d55469a",
    "titre": "Législatives en Israël : le bloc de l'opposition à Benyamin Nétanyahou légèrement en tête, mais sans majorité, selon des sondages réalisés à la sortie des urnes",
    "lien": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/legislatives-en-israel-le-bloc-de-l-opposition-a-benyamin-netanyahou-donne-legerement-en-tete-mais-sans-majorite-selon-des-sondages-a-la-sortie-des-urnes_8256454.html#xtor=RSS-3-[lestitres]",
@@ -584,6 +641,19 @@
    "extrait": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
    "tags": [
     "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "eaf6f6cabf1e",
+   "titre": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+   "lien": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-27T20:42:38+00:00",
+   "extrait": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
+   "tags": [
+    "Politique",
+    "Conflits"
    ],
    "zone": "monde"
   },
@@ -3428,77 +3498,6 @@
    "extrait": "En 2026, le pays avait déjà boycotté le concours, tout comme l'Irlande, l'Islande, l'Espagne et la Slovénie, qui s'opposaient à la participation d'Israël sur fond de guerre à Gaza.",
    "tags": [
     "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "2dfceef6a388",
-   "titre": "Tetsuya Chiba, géant du manga japonais et auteur de la série sur la boxe « Ashita no Joe », est mort à 87 ans",
-   "lien": "https://www.lemonde.fr/pixels/article/2026/10/27/tetsuya-chiba-geant-du-manga-japonais-et-auteur-de-la-serie-sur-la-boxe-ashita-no-joe-est-mort-a-87-ans_6801223_4408996.html",
-   "source": "Le Monde",
-   "date": "2026-10-27T10:08:51+00:00",
-   "extrait": "Son œuvre, qui s’est étendue sur sept décennies, dépeignait la pauvreté, le désespoir, la joie et l’optimisme des gens ordinaires dans le Japon d’après-guerre. Il a eu une influence immense dans ce…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "47331627892e",
-   "titre": "Le Japonais Tetsuya Chiba, figure majeure du manga et auteur de la série de boxe \"Ashita no Joe\", est mort à 87 ans",
-   "lien": "https://www.franceinfo.fr/culture/bd/mangas/le-japonais-tetsuya-chiba-figure-majeure-du-manga-et-auteur-de-la-serie-de-boxe-ashita-no-joe-est-mort-a-87-ans_8255443.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T10:05:53+00:00",
-   "extrait": "Sa série \"Ashita no Joe\", parue dans les années 1960 et 1970, est devenue un phénomène culturel.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "7f6cf8e834d3",
-   "titre": "Israël : début des élections législatives, où Netanyahu joue sa survie politique",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261027-isra%C3%ABl-d%C3%A9but-des-%C3%A9lections-l%C3%A9gislatives-o%C3%B9-netanyahu-joue-sa-survie-politique",
-   "source": "France 24",
-   "date": "2026-10-27T10:02:42+00:00",
-   "extrait": "David Rigoulet-Roze, rédacteur en chef de la revue Orient Stratégiques, est notre invité.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "7de23ae17b17",
-   "titre": "In Trump's pardon economy, victims lost out on $119M in restitution",
-   "lien": "https://www.cbsnews.com/news/trump-pardons-crime-victims-lose-millions-restitution/",
-   "source": "CBS News",
-   "date": "2026-10-27T10:00:00+00:00",
-   "extrait": "Small businesses and retirees are left empty-handed as fraudsters, some represented by Trump allies, win clemency.",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "e59fafb91fea",
-   "titre": "\"Yes he Kan\", \"une distinction méritée\" pour l'ancien \"loser patenté\" : la presse européenne salue le couronnement du roi Harry Kane, Ballon d'or 2026",
-   "lien": "https://www.franceinfo.fr/sports/foot/ballon-d-or/yes-he-kan-une-distinction-meritee-pour-l-ancien-loser-patente-la-presse-europeenne-salue-le-couronnement-du-roi-harry-kane-ballon-d-or-2026_8255347.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T09:54:06+00:00",
-   "extrait": "L'International anglais a été récompensé lundi à Londres, devant Kylian Mbappé et Yamine Lamal.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "c80466aee7c5",
-   "titre": "Le gouvernement envisage de renforcer la lutte contre l'optimisation fiscale pour financer les mesures sur les lycées",
-   "lien": "https://www.franceinfo.fr/economie/budget/la-lutte-contre-l-optimisation-fiscale-possible-piste-pour-financer-les-mesures-sur-les-lycees-selon-le-ministre-de-l-action-et-des-comptes-publics_8255356.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T09:52:27+00:00",
-   "extrait": "Selon le ministre de l'Action et des Comptes publics, l'inclusion dans le budget des mesures annoncées lundi pour les lycées \"devra être financée par des efforts supplémentaires : on ne peut pas…",
-   "tags": [
-    "Politique",
-    "Économie"
    ],
    "zone": "france"
   }
