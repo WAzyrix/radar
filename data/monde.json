@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-28T16:05:40+00:00",
+ "maj": "2026-10-28T17:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -19,10 +19,337 @@
   "Tech",
   "Sport"
  ],
- "erreurs": [
-  "France 24"
- ],
+ "erreurs": [],
  "articles": [
+  {
+   "id": "58e2656c2826",
+   "titre": "Qatari mediators hand Iran new proposal to end the war",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/",
+   "source": "CBS News",
+   "date": "2026-10-28T17:04:02+00:00",
+   "extrait": "Iran rejects \"unacceptable\" ideas after Qatari mediators presented Tehran with a new draft deal to end the war, the Reuters news agency reports.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "e2a33895b6dc",
+   "titre": "Dolores Huerta, labor activist and civil rights icon, dies at 96",
+   "lien": "https://www.cbsnews.com/news/dolores-huerta-dies-age-96-labor-activist-civil-rights-leader/",
+   "source": "CBS News",
+   "date": "2026-10-28T17:02:36+00:00",
+   "extrait": "Dolores Huerta was a labor activist and civil rights leader who co-founded the group that later became the United Farm Workers.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "41f4de69f022",
+   "titre": "Collision ferroviaire en Espagne : \"On n'est absolument pas à l'abri de ce genre de catastrophe\" en France, alerte un eurodéputé",
+   "lien": "https://www.franceinfo.fr/replay-radio/la-question-des-informes/collision-ferroviaire-en-espagne-on-n-est-absolument-pas-a-l-abri-de-ce-genre-de-catastrophe-en-france-alerte-un-eurodepute_8236300.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-28T16:58:17+00:00",
+   "extrait": "Après la collision entre deux trains en Espagne, François Kalfon, eurodéputé PS-Place publique, membre de la commission des transports au Parlement européen, alerte sur le manque d'investissements…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "ace9ecb3968f",
+   "titre": "Midterm campaigns make final push as early voters hit the polls",
+   "lien": "https://www.cbsnews.com/live-updates/2026-elections-midtems-house-senate-trump/",
+   "source": "CBS News",
+   "date": "2026-10-28T16:57:19+00:00",
+   "extrait": "Election Day is Tuesday, Nov. 3, and early voting is underway throughout the country.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "848570ede302",
+   "titre": "\"Les blessures sont injustifiables\" : des experts de l'ONU se disent \"consternés\" par la \"répression\" des manifestations lycéennes et étudiantes",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-blessures-sont-injustifiables-des-experts-de-l-onu-se-disent-consternes-par-la-repression-des-manifestations-lyceennes-et-etudiantes_8257718.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-28T16:56:20+00:00",
+   "extrait": "Le \"recours excessif à la force\", les \"violences\" et les \"interpellations massives ne sont pas des réponses appropriées à un mouvement social de contestation dans un Etat de droit\", ont dit ces…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "0af41a88779f",
+   "titre": "\"Membre associé\" : pourquoi le terme choisi pour rapprocher l'UE et le Canada ne plaît pas à tous",
+   "lien": "https://www.franceinfo.fr/monde/europe/union-europeenne/membre-associe-pourquoi-le-terme-choisi-pour-rapprocher-l-ue-et-le-canada-ne-plait-pas-a-tous_8257291.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-28T16:53:20+00:00",
+   "extrait": "Le 21ᵉ sommet UE-Canada se tient à Montréal à partir du 29 octobre. La présidente de la Commission, Ursula von der Leyen, a proposé au Canada de devenir membre associé de l'Union européenne. Une…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "906adf4c6128",
+   "titre": "Collision meurtrière entre deux trains en Espagne : Pedro Sanchez décrète trois jours de deuil national",
+   "lien": "https://www.franceinfo.fr/monde/espagne/direct-collision-de-deux-trains-en-espagne-les-autorites-locales-deplorent-au-moins-10-morts_8257045.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-28T16:50:37+00:00",
+   "extrait": "L'accident a fait au moins 68 morts et 64 blessés, selon un bilan toujours provisoire communiqué par le gouverneur de la région où s'est produit le drame.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "eafd8dd5a134",
+   "titre": "La Norvège vante ses toilettes publiques après que Donald Trump l’a qualifiée de « pays de chiottes »",
+   "lien": "https://www.lemonde.fr/international/article/2026/10/28/la-norvege-vante-ses-toilettes-publiques-apres-que-donald-trump-l-a-qualifiee-de-pays-de-chiottes_6801610_3210.html",
+   "source": "Le Monde",
+   "date": "2026-10-28T16:49:07+00:00",
+   "extrait": "Le président américain, qui ne cache pas sa volonté d’obtenir le prix Nobel de la paix, décerné en Norvège par un comité indépendant, avait estimé, dimanche, que la Norvège était « devenue un pays…",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "9011edda87a4",
+   "titre": "EN DIRECT, Midterms 2026 : posez vos questions à Arnaud Leparmentier, notre correspondant parti sur la Route 66 prendre le « pouls de l’Amérique »",
+   "lien": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-midterms-2026-posez-vos-questions-a-arnaud-leparmentier-notre-correspondant-parti-sur-la-route-66-prendre-le-pouls-de-l-amerique_6801590_3210.html",
+   "source": "Le Monde",
+   "date": "2026-10-28T16:48:46+00:00",
+   "extrait": "Alors que les républicains contrôlent le Congrès et la Maison Blanche, la totalité des sièges à la Chambre des représentants et un tiers des sièges du Sénat sont remis en jeu le 3 novembre. Suivez…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "74dc7a667464",
+   "titre": "TSA finds sharp \"mutant blades\" in carry-on bag at Seattle airport",
+   "lien": "https://www.cbsnews.com/news/tsa-finds-mutant-blades-carry-on-bag-seattle-airport/",
+   "source": "CBS News",
+   "date": "2026-10-28T16:47:36+00:00",
+   "extrait": "TSA officers at Seattle-Tacoma International Airport found sharp \"mutant blades\" in a carry-on bag that resembled something out of a comic book or horror film.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "647f75df7ba2",
+   "titre": "Watch: At the scene of Spain's deadly train crash",
+   "lien": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-28T16:45:16+00:00",
+   "extrait": "People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "c2a83ac55c7d",
+   "titre": "Encore 2 000 lits d'hospitalisation perdus dans les hôpitaux et les cliniques en 2025, malgré un \"rebond\" dans le public",
+   "lien": "https://www.franceinfo.fr/sante/hopital/crise/encore-2-000-lits-d-hospitalisation-perdus-dans-les-hopitaux-et-les-cliniques-en-2025-malgre-un-rebond-dans-le-public_8257694.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-28T16:43:53+00:00",
+   "extrait": "En 2025, le nombre de lits d'hospitalisation complète a diminué de 0,6% pour arriver à 365 100 lits au total, selon les chiffres du ministère de la Santé.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "754678b57bfc",
+   "titre": "At least 68 dead in high-speed train crash in Spain",
+   "lien": "https://www.cbsnews.com/news/spain-train-crash-toledo-urda/",
+   "source": "CBS News",
+   "date": "2026-10-28T16:43:40+00:00",
+   "extrait": "The number of deaths is expected to rise from the train crash in central Spain, according to a local official.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "ef7b47f1ad51",
+   "titre": "Ukraine : la \"trêve Melania\" obtenue à Olechky tient pour la deuxième journée consécutive",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-ukraine-la-tr%C3%AAve-melania-obtenue-%C3%A0-olechky-tient-pour-la-deuxi%C3%A8me-journ%C3%A9e-cons%C3%A9cutive",
+   "source": "France 24",
+   "date": "2026-10-28T16:37:37+00:00",
+   "extrait": "Un cessez-le-feu local, négocié avec l'aide des États-Unis, tenait mercredi pour la deuxième journée consécutive dans le sud de l'Ukraine, une trêve rarissime en presque cinq ans de guerre, déclarée…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "b86d99b5ce7d",
+   "titre": "Législatives en Israël : une élection sans véritable vainqueur",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-l%C3%A9gislatives-en-isra%C3%ABl-une-%C3%A9lection-sans-v%C3%A9ritable-vainqueur",
+   "source": "France 24",
+   "date": "2026-10-28T16:37:21+00:00",
+   "extrait": "Les lignes bougent encore en Israël où près de 80 % des bulletins de vote ont été dépouillés ce mercredi 28 octobre. À cette heure, c'est le Likoud de Netanyahou et ses alliés de l'extrême droite…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "b1c556262d91",
+   "titre": "Espagne : le ministre des Transports prend la parole sur l'accident mortel entre deux trains",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-espagne-le-ministre-des-transports-prend-la-parole-sur-l-accident-mortel-entre-deux-trains",
+   "source": "France 24",
+   "date": "2026-10-28T16:35:11+00:00",
+   "extrait": "Un accident ferroviaire mortel entre deux trains sur la ligne Madrid-Andalousie a eu lieu ce mercredi 28 octobre au matin, un peu avant 9 h 00. Le bilan provisoire indique plus de 60 morts, le…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "7dc34ae65a6a",
+   "titre": "Why so many borrowers are stuck making minimum payments on their debts",
+   "lien": "https://www.cbsnews.com/news/why-so-many-borrowers-are-stuck-making-minimum-payments/",
+   "source": "CBS News",
+   "date": "2026-10-28T16:33:05+00:00",
+   "extrait": "For borrowers struggling to make progress on their debt, the problem may extend well beyond their spending habits.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "74caa42d431d",
+   "titre": "EN DIRECT, accident entre deux trains en Espagne : au moins 68 morts, selon un nouveau bilan provisoire et trois jours de deuil national décrétés",
+   "lien": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-accident-entre-deux-trains-en-espagne-au-moins-68-morts-selon-un-nouveau-bilan-provisoire-et-trois-jours-de-deuil-national_6801550_3210.html",
+   "source": "Le Monde",
+   "date": "2026-10-28T16:31:57+00:00",
+   "extrait": "La collision a eu lieu mercredi matin sur la ligne ferroviaire reliant Madrid à l’Andalousie. Selon la porte-parole du gouvernement régional de Castille-La Manche, le train de la Renfe, la compagnie…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "d6dd6aba6f82",
+   "titre": "Intelligence artificielle : la présomption d’utilisation des contenus culturels examinée par l’Assemblée nationale",
+   "lien": "https://www.lemonde.fr/economie/article/2026/10/28/intelligence-artificielle-la-presomption-d-utilisation-des-contenus-culturels-examinee-par-l-assemblee-nationale_6801607_3234.html",
+   "source": "Le Monde",
+   "date": "2026-10-28T16:31:54+00:00",
+   "extrait": "La proposition de loi Darcos, adoptée au Sénat en avril, revient devant les députés à l’occasion d’une niche parlementaire socialiste prévue le 19 novembre. Son sort est lié à la décision du groupe…",
+   "tags": [
+    "Politique",
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "1363f27beb4f",
+   "titre": "Treasury sanctions North Koreans, Russians over IT worker scheme",
+   "lien": "https://www.cbsnews.com/news/treasury-sanctions-north-korean-russians-it-worker-fraud/",
+   "source": "CBS News",
+   "date": "2026-10-28T16:31:00+00:00",
+   "extrait": "The Treasury Department is targeting a North Korean operation churning out stolen identities, fake résumés and fake IT employees who are infiltrating legitimate U.S. businesses.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "f568239c7fcd",
+   "titre": "Ukraine : le cessez-le-feu d'Olechky continue, les drone russes frappent le reste du pays",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-ukraine-le-cessez-le-feu-d-olechky-continue-les-drone-russes-frappent-le-reste-du-pays",
+   "source": "France 24",
+   "date": "2026-10-28T16:30:27+00:00",
+   "extrait": "Une ⁠frappe ​de ​drones russes a fait, mardi 27 octobre, cinq ​blessés, ‌dont ⁠un ‌enfant de quatre ⁠ans, à Kharkiv, ​la deuxième ville ‌d'Ukraine. Alors qu'à Olechky, ville ukrainienne sous…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "08cb9e380534",
+   "titre": "Un sous-marin volé retrouvé par la police dans le Doubs, deux personnes convoquées devant la justice",
+   "lien": "https://www.franceinfo.fr/faits-divers/un-sous-marin-vole-retrouve-par-la-police-dans-l-ain-deux-personnes-convoquees-devant-la-justice_8257679.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-28T16:30:19+00:00",
+   "extrait": "L'engin dérobé appartenant à un particulier a été mis en vente sur le site \"Leboncoin\".",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "cff29acd37c4",
+   "titre": "Présidentielle 2027 : Jean-Luc Mélenchon affirme qu’il remplacera le directeur de Bpifrance s’il est élu",
+   "lien": "https://www.lemonde.fr/politique/article/2026/10/28/presidentielle-2027-jean-luc-melenchon-affirme-qu-il-remplacera-le-directeur-de-bpifrance-s-il-est-elu_6801605_823448.html",
+   "source": "Le Monde",
+   "date": "2026-10-28T16:22:01+00:00",
+   "extrait": "« Le directeur de Bpifrance (…) n’en fait qu’à sa tête parce que personne ne contrôle rien, personne ne peut lui donner d’ordre », a déclaré le dirigeant « insoumis », ajoutant qu’il « est clair que…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "58f9dacc56aa",
+   "titre": "Mobilisation des lycéens : les mesures annoncées sont \"insuffisantes\", reconnaît Sébastien Lecornu devant les députés",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisations-des-lyceens-les-deputes-seront-invites-mercredi-a-debattre-a-l-assemblee-nationale-sur-l-avenir-de-parcoursup-selon-une-source-ministerielle-a-france-televisions_8256817.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-28T16:20:37+00:00",
+   "extrait": "Après le discours du Premier ministre, les députés vont débattre sur l'avenir de la plateforme Parcoursup, décriée par les lycéens.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "bbc7605c3ca1",
+   "titre": "Des élèves de Tours menacés de sanctions disciplinaires par leur propre établissement pour leur participation au blocus",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/des-eleves-de-tours-menaces-de-sanctions-disciplinaires-par-leur-propre-etablissement-pour-leur-participation-au-blocus-de-leur-lycee_8257652.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-28T16:20:34+00:00",
+   "extrait": "Dans un courrier envoyé aux lycéens et consulté par ICI Touraine, il leur est également reproché \"d'avoir allumé un feu ou participé à sa réalimentation, entraînant des dégradations du parvis de…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "bf38ad612608",
+   "titre": "EN DIRECT, guerre en Ukraine | Cessez-le-feu à Olechky depuis mardi : Volodymyr Zelensky parle d’un « immense succès »",
+   "lien": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-guerre-en-ukraine-cessez-le-feu-a-olechky-depuis-mardi-volodymyr-zelensky-parle-d-un-immense-succes_6799896_3210.html",
+   "source": "Le Monde",
+   "date": "2026-10-28T16:19:14+00:00",
+   "extrait": "Le président ukrainien s’est, en outre, réjoui que la trêve ait accordé un répit aux habitants de Kherson, chef-lieu de l’oblast, qui se trouve face à Olechky, sur l’autre rive du Dniepr.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "6e11024bb911",
+   "titre": "Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96",
+   "lien": "https://www.npr.org/2026/10/28/nx-s1-6020543/dolores-huerta-dies",
+   "source": "NPR",
+   "date": "2026-10-28T16:10:43+00:00",
+   "extrait": "Huerta co-founded the United Farm Workers union to improve working conditions in the nation's fruit and vegetable fields and coined the phrase \"Sí, se puede!\" that became a widespread rallying cry.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "c5bfad002b68",
+   "titre": "Jacques Moretti, principal suspect dans l'incendie de Crans-Montana, sera entendu lundi sans son épouse pour des raisons de santé",
+   "lien": "https://www.franceinfo.fr/faits-divers/incendie-dans-un-bar-de-crans-montana-en-suisse/jacques-moretti-principal-suspect-dans-l-incendie-de-crans-montana-sera-entendu-lundi-sans-son-epouse-pour-des-raisons-de-sante_8257610.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-28T16:09:52+00:00",
+   "extrait": "Dans un courrier transmis au ministère public suisse, les avocats de Jessica Moretti ont joint une attestation rédigée par une psychologue, faisant état d'\"un état de fragilité psychique…",
+   "tags": [
+    "Climat",
+    "Santé"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "2ad85dc2ad5d",
+   "titre": "Législatives en Israël : le Likoud, parti de Benyamin Nétanyahou, accuse les formations arabes d'avoir \"volé les élections\"",
+   "lien": "https://www.franceinfo.fr/monde/israel/direct-elections-en-israel-le-camp-de-benjamin-netanyahou-legerement-en-tete-apres-50-des-bulletins-depouilles-selon-la-commission-electorale_8256712.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-28T16:05:33+00:00",
+   "extrait": "Le camp du Premier ministre sortant est légèrement en tête à la moitié du dépouillement. Les résultats officiels sont attendus d'ici quelques jours.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
   {
    "id": "a49464da5a68",
    "titre": "Au moins 68 morts, deuil national, circonstances \"inexplicables\"… Ce que l'on sait de la collision meurtrière de deux trains dans le centre de l'Espagne",
@@ -36,6 +363,18 @@
    "zone": "france"
   },
   {
+   "id": "8733a4c2aaf4",
+   "titre": "Accident ferroviaire en Espagne : les témoignages des rescapés à Urda",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-accident-ferroviaire-en-espagne-les-t%C3%A9moignages-des-rescap%C3%A9s-%C3%A0-urda",
+   "source": "France 24",
+   "date": "2026-10-28T15:58:40+00:00",
+   "extrait": "Le Premier ministre Pedro Sánchez, a déclaré mercredi 28 octobre que \"toute l'Espagne est en deuil\", quelques heures après la collision de deux trains ayant tué au moins 64 personnes à Urda, l'une…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "54795a706635",
    "titre": "Les images aériennes montrent la violence de la collision meurtrière entre deux trains près de Tolède, en Espagne",
    "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/video-les-images-aeriennes-de-la-collision-meurtriere-entre-deux-trains-pres-de-tolede-en-espagne_8257246.html#xtor=RSS-3-[lestitres]",
@@ -44,6 +383,29 @@
    "extrait": "Ces images ont été publiées par la garde civile espagnole. Les causes de l'accident mortel qui s'est produit mercredi matin ne sont pas encore établies.",
    "tags": [],
    "zone": "france"
+  },
+  {
+   "id": "9dffeb5b3594",
+   "titre": "Élections en Israël : le Liban dans l'espoir d'un nouveau gouvernement prêt à négocier la paix",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-%C3%A9lections-en-isra%C3%ABl-le-liban-dans-l-espoir-d-un-nouveau-gouvernement-pr%C3%AAt-%C3%A0-n%C3%A9gocier",
+   "source": "France 24",
+   "date": "2026-10-28T15:56:13+00:00",
+   "extrait": "Les élections législatives israéliennes sont scrutées du Liban notamment, pour qui l'avenir dépend du nouveau gouvernement. Les résultats définitifs de l'élection sont attendus d'ici au 30 octobre…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "f2968e21155a",
+   "titre": "La jungle de Calais : le symbole de la crise migratoire européenne 10 ans après sa destruction",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-la-jungle-de-calais-le-symbole-de-la-crise-migratoire-europ%C3%A9enne-10-ans-apr%C3%A8s-sa-destruction",
+   "source": "France 24",
+   "date": "2026-10-28T15:52:03+00:00",
+   "extrait": "Il y a 10 ans, le 24 octobre 2016, la jungle de Calais, le plus grand campement de migrants souhaitant rejoindre l'Angleterre qu'a connu la France, a été démantelée. L'immense bidonville qui a…",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "10bda2e8170b",
@@ -58,6 +420,19 @@
    "zone": "france"
   },
   {
+   "id": "ead6d775bc66",
+   "titre": "Israël : le président appelle à \"tout faire\" pour éviter de nouvelles élections",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-isra%C3%ABl-le-pr%C3%A9sident-appelle-%C3%A0-tout-faire-pour-%C3%A9viter-de-nouvelles-%C3%A9lections",
+   "source": "France 24",
+   "date": "2026-10-28T15:48:07+00:00",
+   "extrait": "En Israël, le taux de participation lors des élections législatives de mardi 27 octobre n'avait pas été au plus haut depuis 1999. Le Président Isaac Herzog a exhorté mercredi 28 octobre les partis…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "3b0ad787f67d",
    "titre": "Attention aux images et vidéos virales diffusées sur les réseaux sociaux après l'accident de train en Espagne",
    "lien": "https://www.franceinfo.fr/monde/espagne/les-images-deja-virales-de-la-grave-collision-de-deux-trains-a-grande-vitesse-en-espagne_8257357.html#xtor=RSS-3-[lestitres]",
@@ -68,26 +443,26 @@
    "zone": "france"
   },
   {
-   "id": "906adf4c6128",
-   "titre": "Collision meurtrière entre deux trains : \"Toute l'Espagne est en deuil\", déclare Pedro Sanchez",
-   "lien": "https://www.franceinfo.fr/monde/espagne/direct-collision-de-deux-trains-en-espagne-les-autorites-locales-deplorent-au-moins-10-morts_8257045.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-28T15:45:09+00:00",
-   "extrait": "L'accident a fait au moins 68 morts et 64 blessés, selon un bilan toujours provisoire communiqué par le gouverneur de la région où s'est produit le drame.",
-   "tags": [],
-   "zone": "france"
+   "id": "7b5d4d69e9ff",
+   "titre": "Espagne : comment expliquer la collision des deux trains près de Tolède ?",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-espagne-comment-expliquer-la-collision-des-deux-trains-pr%C3%A8s-de-tol%C3%A8de",
+   "source": "France 24",
+   "date": "2026-10-28T15:45:36+00:00",
+   "extrait": "Suite à un accident ferroviaire ayant fait au moins 64 victimes ce mercredi 28 octobre près de Tolède, le ministre espagnol des Transports a mis en cause la réouverture inattendue du réseau, alors…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
   },
   {
-   "id": "58e2656c2826",
-   "titre": "Qatari mediators hand Iran new proposal to end the war",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/",
-   "source": "CBS News",
-   "date": "2026-10-28T15:40:30+00:00",
-   "extrait": "Iran rejects \"unacceptable\" ideas after Qatari mediators presented Tehran with a new draft deal to end the war, the Reuters news agency reports.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
+   "id": "c7c1c9380148",
+   "titre": "Collision entre deux trains en Espagne : l'une des pires catastrophes ferroviaires du pays",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-collision-entre-deux-trains-en-espagne-l-une-des-pires-catastrophes-ferroviaires-du-pays",
+   "source": "France 24",
+   "date": "2026-10-28T15:41:33+00:00",
+   "extrait": "Un accident de train dramatique a fait au moins 64 morts près de Tolède. Une collision meurtrière s'était produite le 18 janvier dernier sur cette ‌même ligne ferroviaire, à hauteur d'Adamuz…",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "d494d37c1614",
@@ -134,6 +509,16 @@
    "zone": "usa"
   },
   {
+   "id": "e5496caf83bd",
+   "titre": "Le Fantôme de l'Opéra ressuscité, Gilles Lellouche en Jean Moulin et Michael Fassbender en alien",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20261028-le-fant%C3%B4me-de-l-op%C3%A9ra-ressuscit%C3%A9-gilles-lellouche-en-jean-moulin-et-michael-fassbender-en-alien",
+   "source": "France 24",
+   "date": "2026-10-28T15:27:35+00:00",
+   "extrait": "Un fantôme qui hante l'Opéra de Paris, Gilles Lellouche dans la peau du héros de la Résistance Jean Moulin et Michael Fassbender et Alicia Vikander métamorphosés en créatures extraterrestres dans…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
    "id": "66b0b72e11fe",
    "titre": "Enseignement supérieur : le « sous-financement » reste sans réponse, malgré un « premier pas » gouvernemental, estiment les présidents d’universités",
    "lien": "https://www.lemonde.fr/politique/article/2026/10/28/enseignement-superieur-le-sous-financement-reste-sans-reponse-malgre-un-premier-pas-gouvernemental-estiment-les-presidents-d-universites_6801597_823448.html",
@@ -156,6 +541,18 @@
    "zone": "france"
   },
   {
+   "id": "c00e2626f68a",
+   "titre": "Ethiopie : au moins 50 000 personnes ont fui au Kenya, en raison d’affrontements dans le sud du pays",
+   "lien": "https://www.lemonde.fr/afrique/article/2026/10/28/ethiopie-au-moins-50-000-personnes-ont-fui-au-kenya-en-raison-d-affrontements-dans-le-sud-du-pays_6801596_3212.html",
+   "source": "Le Monde",
+   "date": "2026-10-28T15:22:48+00:00",
+   "extrait": "Depuis qu’un conflit entre les forces armées de deux régions du sud de l’Ethiopie a éclaté, le 20 octobre, des dizaines de milliers d’Ethiopiens traversent la frontière vers le Kenya pour y trouver…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "691f05aaa143",
    "titre": "What's in Walmart's $3.50 per person \"holiday meal basket\"?",
    "lien": "https://www.cbsnews.com/news/walmart-holiday-meal-basket-deal-what-you-get/",
@@ -172,6 +569,18 @@
    "source": "franceinfo",
    "date": "2026-10-28T15:20:13+00:00",
    "extrait": "Alors que les Républicains sont en mauvaise posture dans les sondages, le président américain brandit la menace de la fraude électorale.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "3a62012c0b7a",
+   "titre": "Le gouvernement oppose une fin de non-recevoir à la demande de Bruno Retailleau de changer les dates de la présidentielle",
+   "lien": "https://www.franceinfo.fr/elections/presidentielle/le-gouvernement-oppose-une-fin-de-non-recevoir-a-la-demande-de-bruno-retailleau-de-changer-les-dates-de-la-presidentielle_8257021.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-28T15:19:42+00:00",
+   "extrait": "Le candidat des Républicains à l'Elysée considère qu'un second tour organisé le 2 mai, au lendemain des traditionnelles manifestations de la fête du travail ,est de nature à fausser le scrutin.",
    "tags": [
     "Politique"
    ],
@@ -213,16 +622,16 @@
    "zone": "usa"
   },
   {
-   "id": "ace9ecb3968f",
-   "titre": "Midterm campaigns make final push as early voters hit the polls",
-   "lien": "https://www.cbsnews.com/live-updates/2026-elections-midtems-house-senate-trump/",
-   "source": "CBS News",
-   "date": "2026-10-28T15:11:31+00:00",
-   "extrait": "Election Day is Tuesday, Nov. 3, and early voting is underway throughout the country.",
+   "id": "43a6bcf6bc30",
+   "titre": "Le ministre des Transports espagnol qualifie d'\"inexplicable\" la reprise du trafic après une panne technique à l'origine de la collision meurtrière entre deux trains",
+   "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/le-ministre-des-transports-espagnol-qualifie-d-inexplicable-la-reprise-du-trafic-apres-une-panne-technique-a-l-origine-de-la-collision-meurtriere-entre-deux-trains_8257528.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-28T15:10:52+00:00",
+   "extrait": "L'accident a fait au moins 68 morts et 64 blessés, selon un bilan toujours provisoire communiqué par le président de la région.",
    "tags": [
     "Politique"
    ],
-   "zone": "usa"
+   "zone": "france"
   },
   {
    "id": "64b291fd7621",
@@ -349,6 +758,19 @@
    "extrait": "Pour son nouvel ouvrage, l'auteur raconte l'histoire d'un dessinateur seul à la campagne qui tente de renouer les liens avec ses enfants après avoir été diagnostiqué bipolaire. Le récit se rapproche…",
    "tags": [],
    "zone": "france"
+  },
+  {
+   "id": "4429b62108ed",
+   "titre": "How could Israel break election deadlock? Here are four scenarios",
+   "lien": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-28T14:30:31+00:00",
+   "extrait": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
   },
   {
    "id": "bcc44bca3a82",
@@ -481,6 +903,19 @@
    "zone": "france"
   },
   {
+   "id": "a118dc806b63",
+   "titre": "Élections législatives en Israël : qui sont ces électeurs Arabes israéliens, dont les partis pourraient jouer un rôle clé dans la formation du gouvernement ?",
+   "lien": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/elections-legislatives-en-israel-qui-sont-les-arabes-israeliens-qui-s-imposent-en-faiseurs-de-rois_8257375.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-28T14:01:15+00:00",
+   "extrait": "Le dépouillement des bulletins se poursuit mercredi en Israël, au lendemain des élections législatives. Les partis arabes vont vraisemblablement être amenés à jouer les arbitres entre les deux…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "fb19c322ef45",
    "titre": "L’Autrichien Josef Hofer, figure majeure de l’art asilaire, est mort",
    "lien": "https://www.lemonde.fr/disparitions/article/2026/10/28/l-autrichien-josef-hofer-figure-majeure-de-l-art-asilaire-est-mort_6801585_3382.html",
@@ -499,16 +934,6 @@
    "extrait": "A l’heure où les collectivités voient fondre leurs financements publics, ces structures associatives qui promeuvent l’éducation populaire, la mixité sociale, et l’apprentissage de la citoyenneté, se…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "754678b57bfc",
-   "titre": "At least 64 reported dead in high-speed train crash in Spain",
-   "lien": "https://www.cbsnews.com/news/spain-train-crash-toledo-urda/",
-   "source": "CBS News",
-   "date": "2026-10-28T13:59:01+00:00",
-   "extrait": "The number of deaths is expected to rise from the train crash in central Spain, according to a local official.",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "d4c21f3360f6",
@@ -843,7 +1268,7 @@
   },
   {
    "id": "01e4ca61d69a",
-   "titre": "Israël : après \"30 ans d'attente\", les partis arabes enfin arbitres du jeu politique ?",
+   "titre": "Élections en Israël : \"Un succès énorme pour les partis arabes\" devenus \"des acteurs décisifs\"",
    "lien": "https://www.france24.com/fr/moyen-orient/20261028-isra%C3%ABl-apr%C3%A8s-30-ans-attente-partis-arabes-enfin-arbitres-jeu-politique",
    "source": "France 24",
    "date": "2026-10-28T12:45:46+00:00",
@@ -1406,18 +1831,6 @@
    "zone": "monde"
   },
   {
-   "id": "58f9dacc56aa",
-   "titre": "Mobilisations des lycéens : les députés vont débattre dans l'après-midi de l'avenir de Parcoursup",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisations-des-lyceens-les-deputes-seront-invites-mercredi-a-debattre-a-l-assemblee-nationale-sur-l-avenir-de-parcoursup-selon-une-source-ministerielle-a-france-televisions_8256817.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-28T10:34:38+00:00",
-   "extrait": "Les différents syndicats qualifient \"d'insuffisantes\" les nouvelles mesures annoncées par le gouvernement lundi et appellent à poursuivre la mobilisation.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "4023de053b7d",
    "titre": "Législatives en Israël : quelles options pour le pays si aucune majorité ne se dessine ?",
    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-l%C3%A9gislatives-en-isra%C3%ABl-coude-%C3%A0-coude-entre-netanyahu-et-eisenkot-une-attente-sous-pression",
@@ -1858,19 +2271,6 @@
    "zone": "france"
   },
   {
-   "id": "2ad85dc2ad5d",
-   "titre": "Elections en Israël : le chef de la gauche Yaïr Golan appelle l'opposition à s'associer avec les partis arabes pour évincer Benyamin Nétanyahou",
-   "lien": "https://www.franceinfo.fr/monde/israel/direct-elections-en-israel-le-camp-de-benjamin-netanyahou-legerement-en-tete-apres-50-des-bulletins-depouilles-selon-la-commission-electorale_8256712.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-28T08:50:03+00:00",
-   "extrait": "Le camp de Benyamin Nétanyahou est légèrement en tête à la moitié du dépouillement. Les résultats officiels sont attendus d'ici quelques jours.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "d90a8bd465f9",
    "titre": "Morning news brief",
    "lien": "https://www.npr.org/2026/10/28/nx-s1-6012226/morning-news-brief",
@@ -1953,6 +2353,18 @@
    "extrait": "Si le texte est adopté à l'Assemblée nationale, les plateformes seraient tenues de procéder au retrait de ces contenus dans un délai de 24 heures, sans quoi elles s'exposeraient à un \"blocage\" ou un…",
    "tags": [
     "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "85400c9a65be",
+   "titre": "Dans l’ombre de Jean Moulin, les femmes oubliées de Caluire",
+   "lien": "https://www.lemonde.fr/m-le-mag/article/2026/10/28/dans-l-ombre-de-jean-moulin-les-femmes-oubliees-de-caluire_6660493_4500056.html",
+   "source": "Le Monde",
+   "date": "2026-10-28T08:16:08+00:00",
+   "extrait": "Elles s’appelaient Madeleine Raisin, Suzanne Olivier, Colette Pons… Des noms qui n’évoquent rien. Membres de réseaux clandestins ou proches du chef résistant, elles ont œuvré, souvent au péril de…",
+   "tags": [
+    "Justice"
    ],
    "zone": "france"
   },
@@ -3062,440 +3474,6 @@
     "Conflits"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "ff3a1d347ba8",
-   "titre": "Trump campaigns in Texas as 83% of those polled say corruption is a major factor in the midterms",
-   "lien": "https://www.cbsnews.com/video/trump-campaigns-texas-polled-say-corruption-major-factor-midterms/",
-   "source": "CBS News",
-   "date": "2026-10-27T22:17:18+00:00",
-   "extrait": "The stakes are higher than ever for President Trump, whose final two years in office will be impacted by who controls Congress. CBS News correspondent Natalie Brand reports as the president…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "38b9088164a9",
-   "titre": "Former RNC Chair breaks down midterm elections",
-   "lien": "https://www.cbsnews.com/video/former-rnc-chair-breaks-down-midterm-elections/",
-   "source": "CBS News",
-   "date": "2026-10-27T22:16:00+00:00",
-   "extrait": "Ronna McDaniel, former chair of the Republican National Committee, joins \"The Takeout\" to break down what to expect from the midterms with only one week to go.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "4ce40386cade",
-   "titre": "Ceasefire extended across Ukraine's Kherson region, officials say",
-   "lien": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-27T22:11:08+00:00",
-   "extrait": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "283c49a1da9b",
-   "titre": "L'adolescente de 17 ans qui a perdu un œil à Mulhouse en marge de la mobilisation du 17 octobre va porter plainte",
-   "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/l-adolescente-de-17-ans-qui-a-perdu-un-il-a-mulhouse-en-marge-de-la-mobilisation-du-17-octobre-va-porter-plainte_8256484.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T22:00:34+00:00",
-   "extrait": "La jeune fille aurait été grièvement blessée en raison d'un projectile lancé par les forces de l'ordre pendant la manifestation, une enquête a déjà été confiée à l'IGPN.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "fdd1d4da5486",
-   "titre": "Photos show Ukraine's Starlink access disabled during deadly Russian strike",
-   "lien": "https://www.cbsnews.com/video/photos-show-ukraines-starlink-access-disabled-during-deadly-russian-strike/",
-   "source": "CBS News",
-   "date": "2026-10-27T21:59:01+00:00",
-   "extrait": "CBS News has obtained images showing Ukraine's Starlink satellite system disabled during a Russian strike that killed five people. Elon Musk has admitted to limiting Ukraine's access to the SpaceX…",
-   "tags": [
-    "Conflits",
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "11324ac85d11",
-   "titre": "Législatives en Israël : le camp de Netanyahu en tête, mais sans majorité",
-   "lien": "https://www.france24.com/fr/moyen-orient/20261027-l%C3%A9gislatives-isra%C3%ABl-participation-record-netanyahu-eisenkot-coude-%C3%A0-coude",
-   "source": "France 24",
-   "date": "2026-10-27T21:53:41+00:00",
-   "extrait": "Aucune majorité parlementaire ne se dessine en Israël après le dépouillement de plus de la moitié des suffrages. Le Premier ministre sortant Benjamin Netanyahu arrive légèrement en tête, mais ni lui…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "d611c759880d",
-   "titre": "EN DIRECT, législatives en Israël : les deux blocs au coude-à-coude ; Benyamin Nétanyahou et Gadi Eisenkot revendiquent chacun leur volonté de former un gouvernement",
-   "lien": "https://www.lemonde.fr/international/live/2026/10/27/en-direct-legislatives-en-israel-les-premieres-estimations-favorables-a-l-opposition-mais-l-incertitude-sur-une-future-majorite-est-complete_6801217_3210.html",
-   "source": "Le Monde",
-   "date": "2026-10-27T21:53:23+00:00",
-   "extrait": "Les dernières estimations donnent les camps du premier ministre et du chef de l’opposition à égalité, et loin de pouvoir former une majorité, dans un scrutin marqué par une forte mobilisation (77,7…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "6239ddd8c1b9",
-   "titre": "Israeli election turnout higher than in decades as outcome still unclear",
-   "lien": "https://www.cbsnews.com/video/israeli-election-turnout-higher-than-in-decades-as-outcome-still-unclear/",
-   "source": "CBS News",
-   "date": "2026-10-27T21:48:13+00:00",
-   "extrait": "Israelis showed up in large numbers for the nation's first election since the Oct. 7, 2023, attacks as Prime Minister Benjamin Netanyahu hopes to extend his tenure. CBS News' Matt Gutman has more…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "9ef7f89fafc8",
-   "titre": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
-   "lien": "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-27T21:46:43+00:00",
-   "extrait": "As the US president casts doubt on the security of the midterm elections, BBC Verify examines his claims.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "066080e62db4",
-   "titre": "Après les pillages de commerces, plus de 1 700 annonces suspectes ont été supprimées des plateformes de revente en ligne, selon le gouvernement",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/apres-les-pillages-de-commerces-plus-de-1-700-annonces-suspectes-ont-ete-supprimees-des-plateformes-de-revente-en-ligne-selon-le-gouvernement_8256394.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T21:45:53+00:00",
-   "extrait": "En marge de la manifestation du 17 octobre, plus de 1 000 commerces avaient été pillés, saccagés ou incendiés, selon un bilan du réseau CCI France. Plusieurs centaines d'annonces font toujours…",
-   "tags": [
-    "Politique",
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "bc35763c9b61",
-   "titre": "These jobs saw the biggest jump in pay in recent years",
-   "lien": "https://www.cbsnews.com/news/wage-growth-information-sector-jobs/",
-   "source": "CBS News",
-   "date": "2026-10-27T21:45:26+00:00",
-   "extrait": "New analysis breaks down which industries saw the largest wage growth and hiring gains in recent years.",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "1eeff6e881a3",
-   "titre": "Pourquoi le BHV demande sa mise en redressement judiciaire aux juges de Lyon",
-   "lien": "https://www.lemonde.fr/economie/article/2026/10/27/pourquoi-le-bhv-demande-sa-mise-en-redressement-judiciaire-aux-juges-de-lyon_6801349_3234.html",
-   "source": "Le Monde",
-   "date": "2026-10-27T21:45:10+00:00",
-   "extrait": "L’enseigne parisienne s’est tournée vers la préfecture du Rhône pour se placer sous la protection de la justice. Au grand dam de ses 700 salariés.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "01a4702d8657",
-   "titre": "Mort d’un manifestant le 17 octobre à Paris : l’autopsie conclut à « une défaillance cardio-respiratoire aiguë » ; la famille dénonce l’usage de gaz lacrymogène",
-   "lien": "https://www.lemonde.fr/societe/article/2026/10/27/mort-d-un-manifestant-le-17-octobre-a-paris-l-autopsie-conclut-a-une-defaillance-cardiorespiratoire-aigue-la-famille-denonce-l-usage-de-gaz-lacrymogene_6801348_3224.html",
-   "source": "Le Monde",
-   "date": "2026-10-27T21:39:47+00:00",
-   "extrait": "Lundi, l’avocat de la famille de Christophe M. a déposé plainte contre les forces de l’ordre pour « violences volontaires par personne dépositaire de l’autorité publique ayant entraîné la mort sans…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "06f0b884f81c",
-   "titre": "Democrats hold narrow polling lead in Senate with one week to go before midterms",
-   "lien": "https://www.cbsnews.com/video/democrats-hold-narrow-lead-in-senate-with-one-week-to-go-before-midterms/",
-   "source": "CBS News",
-   "date": "2026-10-27T21:36:00+00:00",
-   "extrait": "With just a week to go ahead of midterms, Democrats have the lead in both the House and Senate, surveys show. CBS News' Anthony Salvanto has more, and Kyle Kondik, managing editor of nonpartisan…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "2d98a913314a",
-   "titre": "Trump makes third trip to Texas this month as left-leaning leaders triumph globally",
-   "lien": "https://www.cbsnews.com/video/trump-makes-third-trip-to-texas-this-month-as-left-leaning-leaders-triumph-globally/",
-   "source": "CBS News",
-   "date": "2026-10-27T21:34:00+00:00",
-   "extrait": "President Trump made a third pre-midterms trip to Texas this month as he tries to defend his party's majority in Congress. Meanwhile, left-leaning politicians have seen recent triumphs in…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "977a842c1635",
-   "titre": "How Democrats are benefiting from high gas prices, economic issues this midterm season",
-   "lien": "https://www.cbsnews.com/video/how-democrats-benefiting-high-gas-prices-economic-issues-midterm-season/",
-   "source": "CBS News",
-   "date": "2026-10-27T21:31:24+00:00",
-   "extrait": "CBS News polling shows that economic issues have given the Democrats an edge in the midterm elections. Democratic strategist Chuck Rocha and Republican strategist Terry Sullivan join CBS News to…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "72689e33e0a2",
-   "titre": "Avec le projet de loi « casseurs-payeurs », le gouvernement veut pouvoir censurer les appels à la violence sur les réseaux sociaux",
-   "lien": "https://www.lemonde.fr/pixels/article/2026/10/27/avec-le-projet-de-loi-casseurs-payeurs-le-gouvernement-veut-pouvoir-censurer-les-appels-a-la-violence-sur-les-reseaux-sociaux_6801347_4408996.html",
-   "source": "Le Monde",
-   "date": "2026-10-27T21:24:16+00:00",
-   "extrait": "L’exécutif souhaite avoir la possibilité de recourir au blocage administratif des sites et plateformes sur lesquels sont diffusées des invitations à la violence. Depuis sa mise en place, en 2014…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "01386c06e01e",
-   "titre": "Southwest flood damage estimates are hundreds of millions for New Mexico alone",
-   "lien": "https://www.npr.org/2026/10/27/nx-s1-6019352/southwest-flood-damage-estimates-are-hundreds-of-millions-for-new-mexico-alone",
-   "source": "NPR",
-   "date": "2026-10-27T21:17:57+00:00",
-   "extrait": "Intense rainstorms linked to a very active El Niño-driven Pacific hurricane season have left thousands of people in the Four Corners states displaced.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "66377d55469a",
-   "titre": "Législatives en Israël : le bloc de l'opposition à Benyamin Nétanyahou légèrement en tête, mais sans majorité, selon des sondages réalisés à la sortie des urnes",
-   "lien": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/legislatives-en-israel-le-bloc-de-l-opposition-a-benyamin-netanyahou-donne-legerement-en-tete-mais-sans-majorite-selon-des-sondages-a-la-sortie-des-urnes_8256454.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T21:12:04+00:00",
-   "extrait": "Le \"bloc du changement\" emmené par le centriste Gadi Eisenkot récolte entre 52 et 53 sièges sur les 120 que compte la Knesset, tandis que la coalition sortante du Premier ministre en recueille 50…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "ff9ab098d34e",
-   "titre": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
-   "lien": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-27T21:09:12+00:00",
-   "extrait": "Marry Mubaiwa had been held on remand for seven years after being charged in 2019 for her then husband's attempted murder.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "0e1d8e0585b7",
-   "titre": "Text messages lead to arrest in 2011 disappearance of Michelle Parker",
-   "lien": "https://www.cbsnews.com/video/text-messages-lead-to-arrest-in-2011-disappearance-of-michelle-parker/",
-   "source": "CBS News",
-   "date": "2026-10-27T21:07:48+00:00",
-   "extrait": "Police have arrested Dale Smith in connection with his former fiancée Michelle Parker's disappearance. Parker went missing the same day the couple appeared on reality show The People's Court. CBS…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "f1ced9ad29e1",
-   "titre": "10/27: The Takeout with Major Garrett",
-   "lien": "https://www.cbsnews.com/video/102726-the-takeout-with-major-garrett/",
-   "source": "CBS News",
-   "date": "2026-10-27T21:00:00+00:00",
-   "extrait": "Israel saw a record-shattering turnout in its parliamentary elections; Flávio Bolsonaro fled Brazil to the U.S. after his election defeat.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "b0e9f69e45f4",
-   "titre": "No clear winner in Israeli election, exit polls show",
-   "lien": "https://www.cbsnews.com/video/no-clear-winner-israel-election-exit-polls-show-1/",
-   "source": "CBS News",
-   "date": "2026-10-27T20:55:02+00:00",
-   "extrait": "Israel's major television networks released exit polls as voting closed in its critical election, showing no clear winner. CBS News senior reporter Dov Lieber reports.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "8e7a963864ec",
-   "titre": "No clear winner in Israeli election, exit polls show",
-   "lien": "https://www.cbsnews.com/video/no-clear-winner-israel-election-exit-polls-show/",
-   "source": "CBS News",
-   "date": "2026-10-27T20:52:05+00:00",
-   "extrait": "Israel's major television networks released exit polls as voting closed in its critical election, showing no clear winner. CBS News senior reporter Dov Lieber reports.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "22f935bfa9ff",
-   "titre": "Why Trump is pushing hard in Texas ahead of midterms",
-   "lien": "https://www.cbsnews.com/video/why-trump-is-pushing-hard-in-texas-ahead-of-midterms/",
-   "source": "CBS News",
-   "date": "2026-10-27T20:49:26+00:00",
-   "extrait": "President Trump is campaigning in Texas amid a \"tossup\" race with just a week to go before the midterms. CBS News' Jason Allen reports.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "51b5eed2d2a6",
-   "titre": "🔴 Flavio Bolsonaro a fui le Brésil pour les États-Unis, selon la presse brésilienne",
-   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261027-br%C3%A9sil-passeports-flavio-bolsonaro-annul%C3%A9s-argentine-nie-toute-fuite-territoire",
-   "source": "France 24",
-   "date": "2026-10-27T20:48:28+00:00",
-   "extrait": "",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "ecdb20565190",
-   "titre": "Israel's voter turnout soars as Netanyahu faces a tight election",
-   "lien": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
-   "source": "NPR",
-   "date": "2026-10-27T20:45:39+00:00",
-   "extrait": "Israelis voted in their highest numbers in over two decades in a tense national election to decide whether to stick with Prime Minister Benjamin Netanyahu's far-right coalition.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "bb89f4f74e4e",
-   "titre": "Egypt court fines journalist Lina Attalah and orders news site's closure",
-   "lien": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-27T20:44:40+00:00",
-   "extrait": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "eaf6f6cabf1e",
-   "titre": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
-   "lien": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-27T20:42:38+00:00",
-   "extrait": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "c9c633dbfdfb",
-   "titre": "\"Nous avons été manipulés\" : des évêques catholiques américains s'excusent après une prière pour Donald Trump dans le Bureau ovale",
-   "lien": "https://www.franceinfo.fr/monde/usa/nous-avons-ete-manipules-des-eveques-catholiques-presentent-leurs-excuses-apres-la-diffusion-d-une-video-les-montrant-en-train-de-prier-pour-donald-trump-dans-le-bureau-ovale_8256025.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-27T20:39:34+00:00",
-   "extrait": "Une vidéo postée jeudi sur X par la conseillère en communication du chef d'Etat américain a déclenché une polémique et certains membres du clergé présents accusent la Maison Blanche de récupération…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "ebf2d31fa772",
-   "titre": "🔴 Israël en direct : des sondages de sortie des urnes donnent l’opposition en tête mais sans majorité face à Netanyahu",
-   "lien": "https://www.france24.com/fr/moyen-orient/20261027-direct-ouverture-bureaux-vote-isra%C3%ABl-netanyahu-%C3%A9preuve-urnes",
-   "source": "France 24",
-   "date": "2026-10-27T20:09:05+00:00",
-   "extrait": "",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "e93362d7cbbb",
-   "titre": "The Ebola outbreak is breaking records -- and just marked a grim milestone",
-   "lien": "https://www.npr.org/2026/10/27/g-s1-150136/ebola-outbreak-milestone-democratic-republic-congo-vaccine",
-   "source": "NPR",
-   "date": "2026-10-27T19:53:12+00:00",
-   "extrait": "The current outbreak, first identified in the Democratic Republic of Congo, has now counted 10,000 patients and has spread with great speed. How can it be stopped?",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "6eee9f8d05a7",
-   "titre": "Après l’attentat raciste de Trappes, la gauche et le gouvernement s’affrontent à l’Assemblée nationale",
-   "lien": "https://www.lemonde.fr/politique/article/2026/10/27/a-l-assemblee-nationale-la-gauche-et-le-gouvernement-s-affrontent-apres-l-attentat-raciste-de-trappes_6801344_823448.html",
-   "source": "Le Monde",
-   "date": "2026-10-27T19:51:25+00:00",
-   "extrait": "Accusé de contribuer à la montée du racisme, le gouvernement a répliqué en appelant à lutter contre « toute forme de violence », citant notamment l’affrontement qui a causé la mort du militant…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "4753b0d36b95",
-   "titre": "Avec son « esthétique de l’inachevé », Willem De Kooning crée le trouble au Rijksmuseum d’Amsterdam",
-   "lien": "https://www.lemonde.fr/culture/article/2026/10/27/avec-son-esthetique-de-l-inacheve-willem-de-kooning-cree-le-trouble-au-rijksmuseum-d-amsterdam_6801343_3246.html",
-   "source": "Le Monde",
-   "date": "2026-10-27T19:50:09+00:00",
-   "extrait": "A travers plus de 120 œuvres couvrant soixante-cinq ans de carrière, l’exposition démontre comment le peintre néerlandais utilisait le dessin pour chercher, corriger, détruire et se surprendre…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "f66df8379227",
-   "titre": "Élections en Israël : Gadi Eisenkot peut-il battre Benjamin Netanyahu ?",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261027-%C3%A9lections-en-isra%C3%ABl-eisenkot-peut-il-battre-netanyahu",
-   "source": "France 24",
-   "date": "2026-10-27T19:42:18+00:00",
-   "extrait": "Quelque sept millions d'Israéliens ont été appelés aux urnes pour les élections législatives – les premières depuis les attaques du Hamas le 7 octobre 2023. Ce mardi est férié dans le pays. Les deux…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "fae31ffd8e1b",
-   "titre": "Dutch zookeeper dies after being mauled by leopard",
-   "lien": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-27T19:30:37+00:00",
-   "extrait": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
-   "tags": [],
-   "zone": "monde"
   }
  ]
 }
