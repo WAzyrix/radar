@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-29T15:05:39+00:00",
+ "maj": "2026-10-29T16:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,19 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "8cc04215eff5",
+   "titre": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
+   "lien": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
+   "source": "The Hacker News",
+   "date": "2026-10-29T15:20:29+00:00",
+   "extrait": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a…",
+   "tags": [
+    "Malware",
+    "IA",
+    "Outil"
+   ]
+  },
   {
    "id": "f34fb5d0be19",
    "titre": "Microsoft fixes Remote Desktop failures caused by recent Windows updates",
@@ -207,6 +220,140 @@
    "source": "The Hacker News",
    "date": "2026-10-29T05:50:17+00:00",
    "extrait": "Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces. \"Active exploitation has…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "654dbb1ef414",
+   "titre": "Vulnérabilité dans les produits Cisco (29 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1412/",
+   "source": "CERT-FR",
+   "date": "2026-10-29T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer un déni de service à distance. Cisco indique que la vulnérabilité CVE-2026-76418 est activement…",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
+  },
+  {
+   "id": "0d53bc8aaab4",
+   "titre": "Vulnérabilité dans les produits NetApp (29 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1410/",
+   "source": "CERT-FR",
+   "date": "2026-10-29T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer une élévation de privilèges.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "dc24dfcaf203",
+   "titre": "Multiples vulnérabilités dans Veeam Backup for Microsoft 365 (29 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1411/",
+   "source": "CERT-FR",
+   "date": "2026-10-29T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Veeam Backup for Microsoft 365. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une…",
+   "tags": [
+    "Faille",
+    "Windows"
+   ]
+  },
+  {
+   "id": "e8b62f828e67",
+   "titre": "Multiples vulnérabilités dans Elastic Cloud Enterprise (29 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1419/",
+   "source": "CERT-FR",
+   "date": "2026-10-29T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Elastic Cloud Enterprise. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "88a83cc3d83a",
+   "titre": "Vulnérabilité dans les produits Kaspersky (29 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1417/",
+   "source": "CERT-FR",
+   "date": "2026-10-29T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans les produits Kaspersky. Elle permet à un attaquant de provoquer un déni de service.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "c1b6db841a9e",
+   "titre": "Multiples vulnérabilités dans PostgreSQL Anonymizer (29 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1413/",
+   "source": "CERT-FR",
+   "date": "2026-10-29T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans PostgreSQL Anonymizer. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "2b03bc7db98c",
+   "titre": "Multiples vulnérabilités dans les produits Juniper Networks (29 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1414/",
+   "source": "CERT-FR",
+   "date": "2026-10-29T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "457d77ef26f6",
+   "titre": "Vulnérabilité dans Mattermost Server (29 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1409/",
+   "source": "CERT-FR",
+   "date": "2026-10-29T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "1d478ff841c7",
+   "titre": "Multiples vulnérabilités dans WordPress (29 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1420/",
+   "source": "CERT-FR",
+   "date": "2026-10-29T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans WordPress. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "582b3fda98df",
+   "titre": "Multiples vulnérabilités dans Apache Kafka (29 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1415/",
+   "source": "CERT-FR",
+   "date": "2026-10-29T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Apache Kafka. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "dfd7c9d09a26",
+   "titre": "Vulnérabilité dans les produits ESET (29 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1416/",
+   "source": "CERT-FR",
+   "date": "2026-10-29T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans les produits ESET. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "3fa6a2e75bfe",
+   "titre": "Multiples vulnérabilités dans Foxit Online Services (29 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1418/",
+   "source": "CERT-FR",
+   "date": "2026-10-29T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Foxit Online Services. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte…",
    "tags": [
     "Faille"
    ]
@@ -3260,148 +3407,6 @@
    "extrait": "Gmail arrête de relever vos autres boîtes par POP en janvier 2027. plMail les rassemble dans un webmail hébergé chez vous, avec un Gmail à brancher à la main et un iPhone à compiler.",
    "tags": [
     "Mobile"
-   ]
-  },
-  {
-   "id": "f8dd1065ff0c",
-   "titre": "Keepsweeper - Un Démineur avec des péons et des dragons",
-   "lien": "https://korben.info/keepsweeper-demineur-strategie-temps-reel.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-10-19T08:32:24+00:00",
-   "extrait": "Keepsweeper reprend la grille du Démineur, mais ses chiffres comptent des trésors, des gobelins et des dragons, et chaque case creusée fait grandir un royaume en temps réel. Gratuit et complet dans…",
-   "tags": [
-    "Jailbreak",
-    "Mobile"
-   ]
-  },
-  {
-   "id": "837c366595c9",
-   "titre": "Music Bridge - Pour que les liens musicaux s'ouvrent bien sur votre plateforme favorite",
-   "lien": "https://korben.info/music-bridge-extension-liens-musique.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-10-19T08:16:44+00:00",
-   "extrait": "Un lien Spotify alors que vous êtes sur Deezer ? L'extension Music Bridge ouvre le même morceau sur votre plateforme, voire dans l'appli de bureau. Ce qu'elle ne prend pas, et à quoi tient sa durée…",
-   "tags": []
-  },
-  {
-   "id": "ae0a2c59827f",
-   "titre": "Et si vous commenciez par effacer ce que les data brokers savent de vous ? #sponso",
-   "lien": "https://korben.info/data-brokers-que-savent-ils-de-vous.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-10-19T07:50:58+00:00",
-   "extrait": "Une étude d'Incogni auprès d'un millier d'internautes montre que 52% pensent que leurs données seront exposées dans une fuite et que 63% en sont anxieux. Le service envoie des demandes de…",
-   "tags": [
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "57276cd465e1",
-   "titre": "Bulletin d'actualité CERTFR-2026-ACT-044 (19 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-044/",
-   "source": "CERT-FR",
-   "date": "2026-10-19T00:00:00+00:00",
-   "extrait": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "7fc24a9bfbc2",
-   "titre": "Vulnérabilité dans Mattermost Server (19 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1338/",
-   "source": "CERT-FR",
-   "date": "2026-10-19T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "c936435c6905",
-   "titre": "Multiples vulnérabilités dans les produits F5 (19 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1341/",
-   "source": "CERT-FR",
-   "date": "2026-10-19T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "5119375006d5",
-   "titre": "Multiples vulnérabilités dans Juniper Networks Session Smart Router (19 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1337/",
-   "source": "CERT-FR",
-   "date": "2026-10-19T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Juniper Networks Session Smart Router. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "14d789d340c0",
-   "titre": "Multiples vulnérabilités dans Microsoft Edge (19 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1342/",
-   "source": "CERT-FR",
-   "date": "2026-10-19T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié…",
-   "tags": [
-    "Faille",
-    "Windows"
-   ]
-  },
-  {
-   "id": "fa7c32abb9a8",
-   "titre": "Multiples vulnérabilités dans Stormshield Network Security (19 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1339/",
-   "source": "CERT-FR",
-   "date": "2026-10-19T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "6c3b18cc76b2",
-   "titre": "Multiples vulnérabilités dans Roundcube Webmail (19 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1340/",
-   "source": "CERT-FR",
-   "date": "2026-10-19T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Roundcube Webmail. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une falsification…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "38566e59be14",
-   "titre": "Test du SSD NVMe 1 To Fanxiang dans mon NAS",
-   "lien": "https://korben.info/test-du-ssd-nvme-1-to-fanxiang-dans-mon-nas.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-10-17T13:54:00+00:00",
-   "extrait": "Korben teste un SSD NVMe M.2 de 1 To de Fanxiang dans son NAS UGREEN DXP8800 Ultra, où il sert de volume dédié aux conteneurs Docker, bases de données et métadonnées Plex. Annoncé à 7 300 Mo/s et…",
-   "tags": []
-  },
-  {
-   "id": "eafa50420cd7",
-   "titre": "HUB 404 - Le grand retour d'Hacking Social",
-   "lien": "https://korben.info/hacking-social-hub404.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-10-16T08:42:51+00:00",
-   "extrait": "Après treize ans de vulgarisation en psychologie sociale, Hacking Social lance HUB 404, une série dont le premier épisode est autofinancé. Voici comment les aider.",
-   "tags": [
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "b16fff99dcb7",
-   "titre": "Llama - L'IA locale de llama.cpp, sans ligne de commande",
-   "lien": "https://korben.info/llama-windows-llm-local.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-10-16T08:04:52+00:00",
-   "extrait": "Llama, l'app Windows 11 de l'équipe de llama.cpp, télécharge vos modèles GGUF depuis la zone de notification et ouvre un chat local avec Alt+Espace. Raccourci non modifiable et Smart App Control…",
-   "tags": [
-    "IA",
-    "Windows"
    ]
   }
  ]
