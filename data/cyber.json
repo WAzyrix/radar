@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-29T16:05:40+00:00",
+ "maj": "2026-10-29T17:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,29 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "a556f2a13255",
+   "titre": "Chrome extensions with 13.4 million installs caught hijacking searches",
+   "lien": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
+   "source": "BleepingComputer",
+   "date": "2026-10-29T16:10:31+00:00",
+   "extrait": "A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising…",
+   "tags": []
+  },
+  {
+   "id": "649ecf4a57aa",
+   "titre": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+   "lien": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+   "source": "The Hacker News",
+   "date": "2026-10-29T15:57:05+00:00",
+   "extrait": "A flaw in the Linux kernel's TCP code, tracked as CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 on…",
+   "tags": [
+    "CVE",
+    "Faille",
+    "IA",
+    "Linux"
+   ]
+  },
   {
    "id": "8cc04215eff5",
    "titre": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
@@ -3387,26 +3410,6 @@
    "extrait": "De multiples vulnérabilités ont été découvertes dans Laravel. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et…",
    "tags": [
     "Faille"
-   ]
-  },
-  {
-   "id": "4eaf1e16af24",
-   "titre": "Korben Remote Desktop - Contrôlez votre Mac à distance gratuitement",
-   "lien": "https://korben.info/korben-remote-desktop.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-10-19T10:04:36+00:00",
-   "extrait": "J'en avais marre du Partage d'écran d'Apple qui lag et de VNC, alors je me suis codé ma propre app de prise de contrôle à distance pour Mac. Image HEVC fluide, son, fichiers, fenêtres d'apps…",
-   "tags": []
-  },
-  {
-   "id": "48a8d40f73ed",
-   "titre": "plMail - Toutes vos boîtes mail rassemblées dans une interface",
-   "lien": "https://korben.info/plmail-client-mail-auto-heberge.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-10-19T09:04:16+00:00",
-   "extrait": "Gmail arrête de relever vos autres boîtes par POP en janvier 2027. plMail les rassemble dans un webmail hébergé chez vous, avec un Gmail à brancher à la main et un iPhone à compiler.",
-   "tags": [
-    "Mobile"
    ]
   }
  ]
