@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-29T22:05:43+00:00",
+ "maj": "2026-10-29T22:59:37+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,41 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "7d9fa054e5fe",
+   "titre": "Binance probes potential $5.8 billion crypto-theft hack",
+   "lien": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
+   "source": "BleepingComputer",
+   "date": "2026-10-29T22:45:23+00:00",
+   "extrait": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "a6d0e88b749c",
+   "titre": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
+   "lien": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
+   "source": "BleepingComputer",
+   "date": "2026-10-29T22:09:24+00:00",
+   "extrait": "A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake…",
+   "tags": [
+    "Malware",
+    "IA",
+    "Outil"
+   ]
+  },
+  {
+   "id": "17e71a11c730",
+   "titre": "Japan Airlines suffers third-party data breach exposing passenger info",
+   "lien": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
+   "source": "BleepingComputer",
+   "date": "2026-10-29T22:08:04+00:00",
+   "extrait": "Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
   {
    "id": "fe7730fa4068",
    "titre": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
@@ -3381,41 +3416,6 @@
    "extrait": "Quentin Kaiser a divulgué une faille d'au moins 16 ans dans le code WPS de Broadcom : à portée de Wi-Fi, sans la clé du réseau, on peut faire exécuter son code à une box. Broadcom dit l'avoir…",
    "tags": [
     "Faille"
-   ]
-  },
-  {
-   "id": "4fd8d5a31fd8",
-   "titre": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
-   "lien": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
-   "source": "The Hacker News",
-   "date": "2026-10-20T07:11:45+00:00",
-   "extrait": "Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks. The high-severity vulnerability, tracked as…",
-   "tags": [
-    "CVE",
-    "Faille",
-    "Malware"
-   ]
-  },
-  {
-   "id": "50e342417287",
-   "titre": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
-   "lien": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
-   "source": "The Hacker News",
-   "date": "2026-10-20T05:53:16+00:00",
-   "extrait": "A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco…",
-   "tags": [
-    "IA"
-   ]
-  },
-  {
-   "id": "fd5c166f1b27",
-   "titre": "La Disquette - Un vieux jeu PC par semaine, sans rien installer",
-   "lien": "https://korben.info/la-disquette-jeu-pc-de-la-semaine-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-10-20T05:14:23+00:00",
-   "extrait": "La Disquette fait tourner chaque semaine un ancien jeu PC Windows sur ses serveurs et l'affiche dans votre navigateur, gratuitement, dans un faux bureau XP. GTA 2 jusqu'au 26 octobre, sans compte ni…",
-   "tags": [
-    "Windows"
    ]
   }
  ]
