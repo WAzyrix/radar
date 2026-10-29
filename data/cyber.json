@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-29T18:05:40+00:00",
+ "maj": "2026-10-29T19:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,20 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "7c2b70bd7e3e",
+   "titre": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
+   "lien": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
+   "source": "BleepingComputer",
+   "date": "2026-10-29T18:38:26+00:00",
+   "extrait": "A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a…",
+   "tags": [
+    "CVE",
+    "Faille",
+    "Fuite de données",
+    "Malware"
+   ]
+  },
   {
    "id": "a556f2a13255",
    "titre": "Chrome extensions with 13.4 million installs caught hijacking searches",
@@ -3397,17 +3411,6 @@
    "source": "CERT-FR",
    "date": "2026-10-20T00:00:00+00:00",
    "extrait": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "b61399758892",
-   "titre": "Multiples vulnérabilités dans Laravel (20 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1343/",
-   "source": "CERT-FR",
-   "date": "2026-10-20T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Laravel. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et…",
    "tags": [
     "Faille"
    ]
