@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-29T19:05:41+00:00",
+ "maj": "2026-10-29T20:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,32 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "e692538b686e",
+   "titre": "Fake crypto app on Apple App Store linked to $23K wallet theft",
+   "lien": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
+   "source": "BleepingComputer",
+   "date": "2026-10-29T19:23:41+00:00",
+   "extrait": "A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets…",
+   "tags": [
+    "Mobile"
+   ]
+  },
+  {
+   "id": "7325900e53d9",
+   "titre": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+   "lien": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+   "source": "The Hacker News",
+   "date": "2026-10-29T19:11:58+00:00",
+   "extrait": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't…",
+   "tags": [
+    "Faille",
+    "Fuite de données",
+    "Malware",
+    "IA",
+    "Outil"
+   ]
+  },
   {
    "id": "7c2b70bd7e3e",
    "titre": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
@@ -148,7 +174,7 @@
    "lien": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
    "source": "The Hacker News",
    "date": "2026-10-29T11:39:18+00:00",
-   "extrait": "A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec. The attacker needed only an…",
+   "extrait": "A flaw in Telegram for Android could be chained with two other bugs to take full control of a victim's phone through a voice call, once the victim answered, according to security startup NebuSec…",
    "tags": [
     "Faille",
     "Mobile"
@@ -3391,28 +3417,6 @@
    "tags": [
     "Fuite de données",
     "Malware"
-   ]
-  },
-  {
-   "id": "050b058bc703",
-   "titre": "Violations de données applicatives - Retour d’expérience du CERT-FR (20 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2026-CTI-008/",
-   "source": "CERT-FR",
-   "date": "2026-10-20T00:00:00+00:00",
-   "extrait": "En 2025, le CERT-FR a suivi près de 200 violations de données issues d’applications web. Dans de nombreux cas, ces exfiltrations ont été permises par des actions attaquantes d’un faible niveau de…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "721ce082eeb4",
-   "titre": "Multiples vulnérabilités dans Mattermost Server (20 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1344/",
-   "source": "CERT-FR",
-   "date": "2026-10-20T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-   "tags": [
-    "Faille"
    ]
   }
  ]
