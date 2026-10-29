@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-29T08:05:42+00:00",
+ "maj": "2026-10-29T09:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,19 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "aabd8e14b270",
+   "titre": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
+   "lien": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
+   "source": "The Hacker News",
+   "date": "2026-10-29T08:24:22+00:00",
+   "extrait": "Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network. The malware, called KeyDrift, is…",
+   "tags": [
+    "Faille",
+    "Fuite de données",
+    "Malware"
+   ]
+  },
   {
    "id": "e91f33b06ca8",
    "titre": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
@@ -3390,15 +3403,6 @@
     "Faille",
     "IA"
    ]
-  },
-  {
-   "id": "da172cb2fe0e",
-   "titre": "Ported2Browser - +200 jeux dans le navigateur",
-   "lien": "https://korben.info/ported2browser.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-10-14T07:34:36+00:00",
-   "extrait": "Ported2Browser recense 210 jeux jouables dans un onglet. AssaultCube et DOOM démarrent bien, mais l'annuaire liste aussi des jeux commerciaux à vérifier.",
-   "tags": []
   }
  ]
 }
