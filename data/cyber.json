@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-29T13:45:03+00:00",
+ "maj": "2026-10-29T14:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,29 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "748d67ab1d92",
+   "titre": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
+   "lien": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/",
+   "source": "BleepingComputer",
+   "date": "2026-10-29T13:59:48+00:00",
+   "extrait": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies to patch a high-severity Linux kernel privilege escalation bug that attackers are chaining with the PHP2Shell…",
+   "tags": [
+    "Faille",
+    "Linux"
+   ]
+  },
+  {
+   "id": "005f2528861a",
+   "titre": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
+   "lien": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
+   "source": "The Hacker News",
+   "date": "2026-10-29T13:42:40+00:00",
+   "extrait": "Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities. \"It shows significant gains across coding and…",
+   "tags": [
+    "IA"
+   ]
+  },
   {
    "id": "15f712f3175d",
    "titre": "Windows 11 KB5127936 update released with 41 changes and fixes",
@@ -3376,30 +3399,6 @@
    "source": "CERT-FR",
    "date": "2026-10-16T00:00:00+00:00",
    "extrait": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une…",
-   "tags": [
-    "Faille",
-    "Linux"
-   ]
-  },
-  {
-   "id": "eb8c88ae3b95",
-   "titre": "Multiples vulnérabilités dans les produits Microsoft (16 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1332/",
-   "source": "CERT-FR",
-   "date": "2026-10-16T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation…",
-   "tags": [
-    "Faille",
-    "Windows"
-   ]
-  },
-  {
-   "id": "851bc766a901",
-   "titre": "Multiples vulnérabilités dans le noyau Linux de SUSE (16 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1335/",
-   "source": "CERT-FR",
-   "date": "2026-10-16T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance…",
    "tags": [
     "Faille",
     "Linux"
