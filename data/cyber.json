@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-29T14:05:39+00:00",
+ "maj": "2026-10-29T15:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,29 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "f34fb5d0be19",
+   "titre": "Microsoft fixes Remote Desktop failures caused by recent Windows updates",
+   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/",
+   "source": "BleepingComputer",
+   "date": "2026-10-29T14:35:40+00:00",
+   "extrait": "Microsoft has resolved a known issue that prevents non-admin users from connecting to devices via Remote Desktop when the \"Administrator protection\" security feature is enabled. [...]",
+   "tags": [
+    "Windows"
+   ]
+  },
+  {
+   "id": "d340597c608d",
+   "titre": "3 Ways AI Agents Already Operate in Your Browser",
+   "lien": "https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/",
+   "source": "BleepingComputer",
+   "date": "2026-10-29T14:00:10+00:00",
+   "extrait": "AI agents can control authenticated browsers, interact with corporate applications, and access sensitive data while appearing to act as legitimate employees. Keep Aware examines three ways agents…",
+   "tags": [
+    "IA",
+    "Outil"
+   ]
+  },
   {
    "id": "748d67ab1d92",
    "titre": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
@@ -3379,29 +3402,6 @@
    "tags": [
     "IA",
     "Windows"
-   ]
-  },
-  {
-   "id": "6044ab6fb707",
-   "titre": "Shotnix - Votre screencast déjà monté dès la fin de l'enregistrement",
-   "lien": "https://korben.info/shotnix.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-10-16T07:41:50+00:00",
-   "extrait": "Shotnix, app Mac gratuite sous licence MIT, ouvre chaque enregistrement d'écran déjà zoomé sur vos clics, avec sous-titres locaux et un outil de capture en prime.",
-   "tags": [
-    "Outil"
-   ]
-  },
-  {
-   "id": "097a359fcf77",
-   "titre": "Multiples vulnérabilités dans le noyau Linux de Red Hat (16 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1334/",
-   "source": "CERT-FR",
-   "date": "2026-10-16T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une…",
-   "tags": [
-    "Faille",
-    "Linux"
    ]
   }
  ]
