@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-29T11:05:41+00:00",
+ "maj": "2026-10-29T12:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,28 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "15f712f3175d",
+   "titre": "Windows 11 KB5127936 update released with 41 changes and fixes",
+   "lien": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/",
+   "source": "BleepingComputer",
+   "date": "2026-10-29T12:00:07+00:00",
+   "extrait": "Microsoft released the KB5127936 preview cumulative update for Windows 11 versions 25H2 and 26H2, with 41 changes, including File Explorer and Cloud rebuild improvements. [...]",
+   "tags": [
+    "Windows"
+   ]
+  },
+  {
+   "id": "409f0b0486b7",
+   "titre": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
+   "lien": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
+   "source": "BleepingComputer",
+   "date": "2026-10-29T11:10:13+00:00",
+   "extrait": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash…",
+   "tags": [
+    "Faille"
+   ]
+  },
   {
    "id": "083a1ea7d205",
    "titre": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
@@ -3379,29 +3401,6 @@
    "date": "2026-10-15T08:23:36+00:00",
    "extrait": "Tiny11 Builder a maintenant une appli de bureau, en préversion, qui télécharge l'ISO de Windows 11 chez Microsoft et en sort une version allégée. Essai dans une VM ARM : 49,5 minutes de…",
    "tags": [
-    "Windows"
-   ]
-  },
-  {
-   "id": "dfe4728fbefb",
-   "titre": "Ghostscript - L'aperçu des PDF peut mettre à mal votre serveur",
-   "lien": "https://korben.info/ghostscript-faille-pdf-serveurs.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-10-15T06:56:47+00:00",
-   "extrait": "Wordfence a trouvé dans Ghostscript une faille notée 9,8 qui permet d'exécuter du code via un PDF piégé, mais il faut quatre conditions réunies pour être touché. Voici ce qu'il faut vérifier chez…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "6163bca034c6",
-   "titre": "ElixirOffice - Une suite libre pour ceux qui ont du mal à quitter Office",
-   "lien": "https://korben.info/elixiroffice-suite-bureautique-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-10-15T05:55:37+00:00",
-   "extrait": "ElixirOffice, la suite bureautique open source de Gaël Duval, reprend le ruban, les raccourcis et la mise en page de Microsoft Office, en appli de bureau hors ligne ou en serveur Docker. Ce qu'elle…",
-   "tags": [
-    "Outil",
     "Windows"
    ]
   }
