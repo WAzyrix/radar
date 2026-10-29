@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-29T12:05:39+00:00",
+ "maj": "2026-10-29T13:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -32,6 +32,53 @@
    "extrait": "Microsoft released the KB5127936 preview cumulative update for Windows 11 versions 25H2 and 26H2, with 41 changes, including File Explorer and Cloud rebuild improvements. [...]",
    "tags": [
     "Windows"
+   ]
+  },
+  {
+   "id": "5a570ea1e7c2",
+   "titre": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
+   "lien": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+   "source": "The Hacker News",
+   "date": "2026-10-29T11:39:41+00:00",
+   "extrait": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover…",
+   "tags": [
+    "Faille",
+    "IA"
+   ]
+  },
+  {
+   "id": "dd1c518d70f0",
+   "titre": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
+   "lien": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
+   "source": "The Hacker News",
+   "date": "2026-10-29T11:39:18+00:00",
+   "extrait": "A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec. The attacker needed only an…",
+   "tags": [
+    "Faille",
+    "Mobile"
+   ]
+  },
+  {
+   "id": "e6aa25e9694d",
+   "titre": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
+   "lien": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
+   "source": "The Hacker News",
+   "date": "2026-10-29T11:33:41+00:00",
+   "extrait": "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing…",
+   "tags": [
+    "IA",
+    "Outil"
+   ]
+  },
+  {
+   "id": "c9e7c513e143",
+   "titre": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
+   "lien": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
+   "source": "The Hacker News",
+   "date": "2026-10-29T11:33:15+00:00",
+   "extrait": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it…",
+   "tags": [
+    "IA"
    ]
   },
   {
@@ -3356,52 +3403,6 @@
    "tags": [
     "Faille",
     "Linux"
-   ]
-  },
-  {
-   "id": "f6ab6ee04db3",
-   "titre": "Multiples vulnérabilités dans les produits IBM (16 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1336/",
-   "source": "CERT-FR",
-   "date": "2026-10-16T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "afe0d24b1187",
-   "titre": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (16 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1333/",
-   "source": "CERT-FR",
-   "date": "2026-10-16T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une…",
-   "tags": [
-    "Faille",
-    "Linux"
-   ]
-  },
-  {
-   "id": "847a5fcba51a",
-   "titre": "Multiples vulnérabilités dans Microsoft Office (16 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1331/",
-   "source": "CERT-FR",
-   "date": "2026-10-16T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des…",
-   "tags": [
-    "Faille",
-    "Windows"
-   ]
-  },
-  {
-   "id": "6d26caefe150",
-   "titre": "Tiny11 Builder - Votre ISO de Windows 11 allégée en quelques clics",
-   "lien": "https://korben.info/tiny11-builder-appli-windows-11-allege.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-10-15T08:23:36+00:00",
-   "extrait": "Tiny11 Builder a maintenant une appli de bureau, en préversion, qui télécharge l'ISO de Windows 11 chez Microsoft et en sort une version allégée. Essai dans une VM ARM : 49,5 minutes de…",
-   "tags": [
-    "Windows"
    ]
   }
  ]
