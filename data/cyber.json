@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-29T10:05:41+00:00",
+ "maj": "2026-10-29T11:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,42 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "083a1ea7d205",
+   "titre": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
+   "lien": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
+   "source": "The Hacker News",
+   "date": "2026-10-29T10:44:46+00:00",
+   "extrait": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has…",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
+  },
+  {
+   "id": "cf3544e85171",
+   "titre": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
+   "lien": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
+   "source": "The Hacker News",
+   "date": "2026-10-29T10:26:33+00:00",
+   "extrait": "GitHub has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time. \"The firewall inspects both metadata…",
+   "tags": [
+    "Outil"
+   ]
+  },
+  {
+   "id": "9ac8296dadd7",
+   "titre": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
+   "lien": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
+   "source": "The Hacker News",
+   "date": "2026-10-29T09:05:39+00:00",
+   "extrait": "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab released a fix, Alpine Linux said on 28 October. The flaw…",
+   "tags": [
+    "CVE",
+    "Faille",
+    "Linux"
+   ]
+  },
   {
    "id": "aabd8e14b270",
    "titre": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
@@ -3367,41 +3403,6 @@
    "tags": [
     "Outil",
     "Windows"
-   ]
-  },
-  {
-   "id": "fe50335f190f",
-   "titre": "OpenCNC3D - Le Command & Conquer de la N64 revit sur PC et Mac",
-   "lien": "https://korben.info/opencnc3d-command-conquer-64-pc-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-10-15T05:26:44+00:00",
-   "extrait": "OpenCNC3D recrée sur Windows et macOS le Command & Conquer en 3D de la Nintendo 64, avec la logique GPL de Tiberian Dawn, les modèles de la cartouche et trois rendus qui basculent à la barre…",
-   "tags": [
-    "Windows"
-   ]
-  },
-  {
-   "id": "f52705d52e7f",
-   "titre": "QBZ, le client Qobuz pour Linux c'est terminé !",
-   "lien": "https://korben.info/qbz-fin-client-qobuz-linux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-10-14T10:08:30+00:00",
-   "extrait": "QBZ, le client Qobuz open source pour écouter en bit-perfect sous Linux, est fermé : Qobuz a demandé son arrêt et le développeur a obéi. Ce que dit le support, ce que dit l'auteur, ce qu'il reste du…",
-   "tags": [
-    "Outil",
-    "Linux"
-   ]
-  },
-  {
-   "id": "9e7c43b846d2",
-   "titre": "REA - J'ai testé le reverse engineering par agent IA",
-   "lien": "https://korben.info/rea-reverse-engineering-agent-ia-test.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-10-14T08:13:00+00:00",
-   "extrait": "Keygen, patch d'un binaire compilé, triches de Wolfenstein 3D, fonction d'Amphetamine recréée : j'ai confié quatre exercices à Claude Code avec REA, puis sans REA, pour voir ce que ce serveur MCP…",
-   "tags": [
-    "Faille",
-    "IA"
    ]
   }
  ]
