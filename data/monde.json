@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-29T03:05:40+00:00",
+ "maj": "2026-10-29T04:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,39 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "659ed0dfc8f6",
+   "titre": "Brewers defeat Rays in 5 games to win first World Series in franchise history",
+   "lien": "https://www.cbsnews.com/news/world-series-milwaukee-brewers-defeat-tampa-bay-rays/",
+   "source": "CBS News",
+   "date": "2026-10-29T03:48:29+00:00",
+   "extrait": "The win at Tropicana Field in Tampa gave the Brewers their first World Series title since their founding as an expansion franchise 57 years ago.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "c2445b7c7031",
+   "titre": "Hackers expose the identities of more than 40,000 DHS employees",
+   "lien": "https://www.npr.org/2026/10/28/nx-s1-6021497/dhs-hack-ice",
+   "source": "NPR",
+   "date": "2026-10-29T03:28:50+00:00",
+   "extrait": "A group of hacktivists calling themselves Distributed Denial of Secrets, said the unmasking of ICE agents, DHS operatives and contractors was fair play, given the government's lack of transparency.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "8f1549c803c2",
+   "titre": "En direct : le dépouillement touche à sa fin en Israël, toujours pas de majorité en vue",
+   "lien": "https://www.france24.com/fr/moyen-orient/20261029-en-direct-israel-legislatives-depouillement-fin-majorite-netanyahu-eisenkot",
+   "source": "France 24",
+   "date": "2026-10-29T03:18:58+00:00",
+   "extrait": "Avec plus de 90 % des bulletins dépouillés, le bloc de Benjamin Netanyahu restait jeudi à 53 sièges et l’opposition à 67, dont 48 pour le bloc de Gadi Eisenkot et 19 pour les partis à majorité…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
   {
    "id": "f787b7898cf2",
    "titre": "Judge rejects DOJ's push to force California to set aside ballots",
@@ -82,6 +115,19 @@
    "zone": "france"
   },
   {
+   "id": "4c14ebb0deb3",
+   "titre": "Thélyson Orélien écarté de la liste des finalistes du prix Renaudot",
+   "lien": "https://www.lemonde.fr/livres/article/2026/10/29/thelyson-orelien-ecarte-de-la-liste-des-finalistes-du-prix-renaudot_6801843_3260.html",
+   "source": "Le Monde",
+   "date": "2026-10-29T01:52:16+00:00",
+   "extrait": "Le jury du prix littéraire avait surpris en conservant dans sa deuxième sélection, début octobre, « C’était ça ou mourir », le roman du Canado-haïtien accusé d’avoir utilisé l’intelligence…",
+   "tags": [
+    "Économie",
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "ace9ecb3968f",
    "titre": "Obama and Trump hold dueling rallies as midterm campaigns make final pitch",
    "lien": "https://www.cbsnews.com/live-updates/2026-elections-midtems-house-senate-trump/",
@@ -104,6 +150,16 @@
     "Santé"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "4bc4268da154",
+   "titre": "Manifestations du 24 octobre : l’IGPN saisie à Toulouse après la plainte d’un jeune homme grièvement blessé à la main",
+   "lien": "https://www.lemonde.fr/societe/article/2026/10/29/manifestations-du-24-octobre-l-igpn-saisie-a-toulouse-apres-la-plainte-d-un-jeune-homme-grievement-blesse-a-la-main_6801809_3224.html",
+   "source": "Le Monde",
+   "date": "2026-10-29T01:16:02+00:00",
+   "extrait": "Le manifestant de 20 ans a été touché lors de heurts avec les forces de l’ordre en marge de la mobilisation du 24 octobre à Toulouse.",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "a813b60a7f3c",
@@ -151,6 +207,18 @@
    "zone": "usa"
   },
   {
+   "id": "ccf2566efc25",
+   "titre": "Emmanuel Macron dénonce une « désinhibition du racisme » et de « l’antisémitisme », visant le RN et LFI",
+   "lien": "https://www.lemonde.fr/politique/article/2026/10/29/emmanuel-macron-denonce-une-desinhibition-du-racisme-et-de-l-antisemitisme-visant-le-rn-et-lfi_6801776_823448.html",
+   "source": "Le Monde",
+   "date": "2026-10-29T00:28:55+00:00",
+   "extrait": "Le chef de l’Etat a par ailleurs appelé mercredi, dans un entretien diffusé par la chaîne YouTube HugoDécrypte, à la reprise des cours dans les lycées dans le « calme » à la rentrée, le 2 novembre.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "f81d62c00666",
    "titre": "Experts react to new findings on CTE in former NFL players",
    "lien": "https://www.cbsnews.com/news/cte-research-nfl-boston-university/",
@@ -185,6 +253,18 @@
     "Sport"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "2006190b56ff",
+   "titre": "Jean-Vincent Placé, ancien secrétaire d’Etat écologiste, jugé pour agressions sexuelles",
+   "lien": "https://www.lemonde.fr/societe/article/2026/10/29/jean-vincent-place-ancien-secretaire-d-etat-ecologiste-juge-pour-agressions-sexuelles_6801743_3224.html",
+   "source": "Le Monde",
+   "date": "2026-10-29T00:23:12+00:00",
+   "extrait": "Le procès de l’ex-sénateur, déjà condamné pour harcèlement sexuel en 2021, doit se tenir jeudi au tribunal correctionnel de Paris. Mis en cause par deux femmes, il dément les faits qui lui sont…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
   },
   {
    "id": "f14c3ce85486",
@@ -504,6 +584,18 @@
    "source": "CBS News",
    "date": "2026-10-28T22:33:37+00:00",
    "extrait": "Bale Dalton, a candidate for Florida's 7th congressional district, joins \"The Takeout\" to discuss his campaign and hopes of flipping his district's open seat in the upcoming midterms.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "33d3822a7b68",
+   "titre": "10/28: CBS Evening News",
+   "lien": "https://www.cbsnews.com/video/102826-cbs-evening-news/",
+   "source": "CBS News",
+   "date": "2026-10-28T22:30:00+00:00",
+   "extrait": "Democrats recruited candidates to influence Alaska Senate race, NYT reports; record-breaking tides batter East and West coasts.",
    "tags": [
     "Politique"
    ],
@@ -3388,101 +3480,6 @@
     "Justice"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "019f471259aa",
-   "titre": "Netanyahu and Eisenkot face difficult paths to power as neither set to win majority",
-   "lien": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-28T10:35:13+00:00",
-   "extrait": "The two main blocs appear to have too few seats to form the next government without reliance on Arab parties.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "4023de053b7d",
-   "titre": "Législatives en Israël : quelles options pour le pays si aucune majorité ne se dessine ?",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-l%C3%A9gislatives-en-isra%C3%ABl-coude-%C3%A0-coude-entre-netanyahu-et-eisenkot-une-attente-sous-pression",
-   "source": "France 24",
-   "date": "2026-10-28T10:34:22+00:00",
-   "extrait": "À Tel-Aviv, les partisans de Gadi Eisenkot osent espérer. À Jérusalem, ceux de Benjamin Netanyahu saluent, au fil des heures, la tendance qui se renverse. Deux QG et une même attente angoissée dans…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "7d19ae67ef73",
-   "titre": "Coalition, gouvernement minoritaire, nouveau scrutin... Quels sont les scénarios possibles en Israël, après des législatives sans réel vainqueur ?",
-   "lien": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/coalition-gouvernement-minoritaire-nouveau-scrutin-quels-sont-les-scenarios-possibles-en-israel-apres-des-legislatives-sans-reel-vainqueur_8256856.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-28T10:32:19+00:00",
-   "extrait": "Aucun bloc n'a atteint les 61 sièges nécessaires pour décrocher une majorité absolue. \"On peut dire que Nétanyahou a perdu, mais que l'opposition n'a pas gagné\", analyse l'historien Vincent Lemire.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "02a99fc21d2b",
-   "titre": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-   "lien": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-28T10:31:22+00:00",
-   "extrait": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "148bcd4edbbe",
-   "titre": "Élections législatives en Israël : 77% de taux de participation, au plus haut depuis 1999",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-%C3%A9lections-l%C3%A9gislatives-en-isra%C3%ABl-77-de-taux-de-participation-au-plus-haut-depuis-1999",
-   "source": "France 24",
-   "date": "2026-10-28T10:30:30+00:00",
-   "extrait": "Le Premier ministre Benjamin Netanyahou, et son rival Gadi Eisenkot, donnés à égalité aux élections législatives du mardi 27 octobre, mais loin de la majorité, se sont tous deux dits prêts à former…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "a48b360a7526",
-   "titre": "En Serbie, la victoire exemplaire du mouvement anticorruption",
-   "lien": "https://www.lemonde.fr/idees/article/2026/10/28/en-serbie-la-victoire-exemplaire-du-mouvement-anticorruption_6801561_3232.html",
-   "source": "Le Monde",
-   "date": "2026-10-28T10:30:07+00:00",
-   "extrait": "La dynamique en faveur d’un Etat de droit qui a emporté Aleksandar Vucic est la même que celle qui a précipité la défaite de Viktor Orban en Hongrie. Mais l’alternance démocratique devra aussi se…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "0d37f06496dc",
-   "titre": "EN DIRECT, guerre en Ukraine : Sergueï Lavrov, le ministre des affaires étrangères russe, se rendra aux Etats-Unis pour une réunion du G20",
-   "lien": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-guerre-en-ukraine-a-olechky-ville-ukrainienne-sous-occupation-russe-la-treve-humanitaire-tient-pour-la-deuxieme-journee-de-suite_6799896_3210.html",
-   "source": "Le Monde",
-   "date": "2026-10-28T10:29:22+00:00",
-   "extrait": "Sergueï Lavrov « dirigera notre délégation lors de la réunion des ministres des affaires étrangères du G20 », prévue vendredi et samedi à Atlanta, a annoncé la porte-parole de la diplomatie russe…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "e9e8a276e41e",
-   "titre": "\"J’ai juste voulu descendre pour m’acheter un sandwich\" : l'IGPN saisie à Lyon après qu'un homme a été blessé au thorax en marge d'une manifestation",
-   "lien": "https://www.franceinfo.fr/societe/justice/j-ai-juste-voulu-descendre-pour-m-acheter-un-sandwich-l-igpn-saisie-a-lyon-apres-qu-un-homme-a-ete-blesse-au-thorax_8257057.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-28T10:24:36+00:00",
-   "extrait": "La victime, âgée de 43 ans, a témoigné auprès du journal local \"Le Progrès\" depuis sa chambre d'hôpital, après avoir été opérée du poumon. L'enquête devra notamment déterminer la nature du projectile.",
-   "tags": [
-    "Justice",
-    "Santé"
-   ],
-   "zone": "france"
   }
  ]
 }
