@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-29T07:05:41+00:00",
+ "maj": "2026-10-29T08:05:42+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -19,8 +19,140 @@
   "Tech",
   "Sport"
  ],
- "erreurs": [],
+ "erreurs": [
+  "France 24"
+ ],
  "articles": [
+  {
+   "id": "09bc1ee5375a",
+   "titre": "What we know so far about deadly Spain train crash",
+   "lien": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-29T07:59:20+00:00",
+   "extrait": "More than 500 passengers were on board the trains when the crash occurred in the province of Toledo, south of Madrid.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "01c2a2c5f860",
+   "titre": "Le parquet de Toulouse saisit l'IGPN après la plainte d'un manifestant grièvement blessé à la main le 24 octobre",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/le-parquet-de-toulouse-saisit-l-igpn-apres-la-plainte-du-manifestant-grievement-blesse-a-la-main-le-24-octobre_8258207.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-29T07:59:09+00:00",
+   "extrait": "Entendu dimanche dans le cadre d'une enquête pour \"recherche des causes de blessures graves\", le jeune homme de 20 ans a porté plainte pendant l'audition, a déclaré à l'AFP le procureur de la…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "f2bd51646580",
+   "titre": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+   "lien": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-29T07:54:33+00:00",
+   "extrait": "Sanrio has apologised after its merchandise line with Japanese TV series Vivant drew criticism.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "05d6883564ef",
+   "titre": "Coup de pouce au Smic : \"Ce n'est pas un tabou\" pour le ministre du Travail qui \"n'a pas de conviction\" sur la question à ce stade",
+   "lien": "https://www.franceinfo.fr/economie/coup-de-pouce-au-smic-ce-n-est-pas-un-tabou-pour-le-ministre-du-travail-qui-n-a-pas-de-conviction-sur-la-question-a-ce-stade_8258462.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-29T07:48:46+00:00",
+   "extrait": "Le ministre du Travail Jean-Pierre Farandou est l'invité de France Inter jeudi. Il revient sur la revalorisation du Smic demandée par les syndicats.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "1d7699195169",
+   "titre": "Un niveau inédit, mais \"bien en deçà des objectifs\" : plus de 250 millions d'hectares de nature sont restaurés dans le monde, rapporte l'ONU",
+   "lien": "https://www.franceinfo.fr/environnement/crise-climatique/quelques-252-millions-d-hectares-de-nature-restaures-un-niveau-inedit-selon-l-onu-mais-insuffisant-pour-respecter-les-objectifs-mondiaux-pour-2030_8258396.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-29T07:46:28+00:00",
+   "extrait": "Cela représente la taille d'un territoire comme l'Algérie, ou l'Argentine, précisent les Nations unies. Les efforts de restauration de la nature enregistrés dans 149 pays ont surtout été réalisés…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "6288e11335b4",
+   "titre": "\"Lourdaud\", \"bouillie numérique\"... Elon Musk dévoile un extrait de son \"Odyssée\", entièrement généré avec son IA Grok",
+   "lien": "https://www.franceinfo.fr/culture/cinema/lourdaud-bouillie-numerique-elon-musk-devoile-un-extrait-de-son-odyssee-entierement-genere-avec-son-ia-grok_8257165.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-29T07:38:59+00:00",
+   "extrait": "Le milliardaire ultraconservateur a publié un premier épisode de sept minutes généré avec son outil IA de génération vidéo. Il avait promis de répondre au blockbuster de Christopher Nolan, sorti en…",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "14b9133d097a",
+   "titre": "La police américaine a-t-elle vraiment été appelée parce qu'un petit garçon jouait \"trop bien\" au foot ?",
+   "lien": "https://www.franceinfo.fr/sports/foot/la-police-americaine-a-t-elle-vraiment-ete-appelee-parce-qu-un-petit-garcon-jouait-trop-bien-au-foot_8257712.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-29T07:35:24+00:00",
+   "extrait": "Certaines publications sur les réseaux sociaux assurent que des policiers de Winter Park, en Floride, ont interrompu un tournoi de foot, samedi. La réalité est un peu plus complexe.",
+   "tags": [
+    "Justice",
+    "Sport"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "832a2df1d7af",
+   "titre": "Attentat raciste à Trappes : le suspect a été transféré dans la nuit au tribunal judiciaire de Paris en vue de sa mise en examen",
+   "lien": "https://www.franceinfo.fr/societe/trappes/direct-attentat-raciste-a-trappes-le-suspect-a-ete-transfere-dans-la-nuit-au-tribunal-judiciaire-de-paris-en-vue-de-sa-mise-en-examen_8258192.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-29T07:32:01+00:00",
+   "extrait": "Le patron du parquet national antiterroriste s'exprimera devant la presse jeudi à la parole à 11 heures au tribunal judiciaire de Paris.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "640407fe4012",
+   "titre": "\"Le prochain gouvernement doit mettre en œuvre l'accord de trêve\" : à Gaza, des habitants espèrent un changement après les élections israéliennes",
+   "lien": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/reportage-le-prochain-gouvernement-doit-mettre-en-uvre-l-accord-de-treve-a-gaza-des-habitants-esperent-un-changement-apres-les-elections-israeliennes_8258417.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-29T07:31:55+00:00",
+   "extrait": "Les résultats des élections israéliennes pourraient peser sur l'avenir de la bande de Gaza. Mais Benyamin Netanyahou et son rival Gadi Eizenkot affichent un même objectif : poursuivre les opérations…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "74075cd2f918",
+   "titre": "Collision meurtrière entre deux trains en Espagne : l'enchaînement de circonstances qui ont conduit à l'accident s'éclaircit peu à peu",
+   "lien": "https://www.franceinfo.fr/monde/espagne/direct-collision-meurtriere-entre-deux-trains-en-espagne-l-enchainement-de-circonstances-qui-ont-conduit-a-l-accident-s-eclaircit-peu-a-peu_8258189.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-29T07:19:11+00:00",
+   "extrait": "Le Premier ministre Pedro Sanchez a décrété trois jours de deuil national, de jeudi à samedi, alors que le bilan ne cesse de s'alourdir. Il s'établit désormais à 68 morts et 108 blessés, selon le…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "25b947e8a0e0",
+   "titre": "Petits colis : le patron du prêt-à-porter féminin se réjouit de la chute des envois mais estime que \"la guerre contre Shein n'est absolument pas gagnée\"",
+   "lien": "https://www.franceinfo.fr/economie/entreprises/shein/petits-colis-le-patron-du-pret-a-porter-feminin-se-rejouit-de-la-chute-des-envois-mais-estime-que-la-guerre-contre-shein-n-est-absolument-pas-gagnee_8258429.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-29T07:01:37+00:00",
+   "extrait": "Le gouvernement a indiqué mercredi que le nombre de petits colis envoyés en France avait chuté entre juin et août, d'après les montants de TVA déclarés, y voyant des \"résultats tangibles\" de la mise…",
+   "tags": [
+    "Politique",
+    "Économie",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
   {
    "id": "58e2656c2826",
    "titre": "Qatari mediators hand Iran new proposal to end the war",
@@ -47,24 +179,23 @@
   },
   {
    "id": "51c4b3fcd2a2",
-   "titre": "EN DIRECT, guerre en Ukraine : « Immense succès » pour le cessez-le-feu humanitaire à Olechky ; la trêve à Kherson a également eu un effet « tangible »",
+   "titre": "EN DIRECT, guerre en Ukraine : une mission humanitaire se prépare à Olechky après cinquante-quatre heures de trêve",
    "lien": "https://www.lemonde.fr/international/live/2026/10/29/en-direct-guerre-en-ukraine-immense-succes-pour-le-cessez-le-feu-humanitaire-a-olechky-la-treve-a-kherson-a-egalement-eu-un-effet-tangible_6799896_3210.html",
    "source": "Le Monde",
    "date": "2026-10-29T06:43:42+00:00",
-   "extrait": "Le président ukrainien s’est félicité du cessez-le-feu à Olechky, qui prévoit des livraisons de denrées de première nécessité et l’évacuation des civils souhaitant partir. En face, sur l’autre rive…",
+   "extrait": "Volodymyr Zelensky s’est félicité du cessez-le-feu à Olechky, qualifié d’« immense succès ». Le médiateur ukrainien pour les droits humains, Dmytro Lubinets, a annoncé jeudi qu’une cargaison de…",
    "tags": [
-    "Politique",
     "Conflits"
    ],
    "zone": "france"
   },
   {
-   "id": "74075cd2f918",
-   "titre": "Collision meurtrière entre deux trains en Espagne : l'enchaînement de circonstances qui ont conduit à l'accident s'éclaircit peu à peu",
-   "lien": "https://www.franceinfo.fr/monde/espagne/direct-collision-meurtriere-entre-deux-trains-en-espagne-l-enchainement-de-circonstances-qui-ont-conduit-a-l-accident-s-eclaircit-peu-a-peu_8258189.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-29T06:38:59+00:00",
-   "extrait": "Le Premier ministre Pedro Sanchez a décrété trois jours de deuil national, de jeudi à samedi, alors que le bilan ne cesse de s'alourdir. Il s'établit désormais à 68 morts et 108 blessés, selon le…",
+   "id": "a6285344b023",
+   "titre": "Parcoursup : à l’Assemblée nationale, les députés s’opposent sur les solutions pour remplacer la plateforme",
+   "lien": "https://www.lemonde.fr/societe/article/2026/10/29/parcoursup-a-l-assemblee-nationale-les-deputes-s-opposent-sur-les-solutions-pour-remplacer-la-plateforme_6802158_3224.html",
+   "source": "Le Monde",
+   "date": "2026-10-29T06:30:59+00:00",
+   "extrait": "Le premier ministre, Sébastien Lecornu, a sollicité un débat sans vote au Palais-Bourbon, mercredi, pour « identifier une voie de passage au Parlement » dans l’optique de « remplacer Parcoursup » en…",
    "tags": [
     "Politique"
    ],
@@ -83,6 +214,19 @@
    "zone": "usa"
   },
   {
+   "id": "7abf8ca4bea0",
+   "titre": "La Corée du Nord a tiré « une dizaine de missiles balistiques » dans la mer du Japon, selon Séoul",
+   "lien": "https://www.lemonde.fr/international/article/2026/10/29/la-coree-du-nord-a-tire-une-dizaine-de-missiles-balistiques-dans-la-mer-du-japon-selon-seoul_6802157_3210.html",
+   "source": "Le Monde",
+   "date": "2026-10-29T06:29:51+00:00",
+   "extrait": "Ce nouvel essai intervient alors que la tension est remontée entre les deux Corées après plusieurs incidents. La garde côtière du Japon a exhorté les navires à faire preuve de « vigilance ».",
+   "tags": [
+    "Conflits",
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "939411f8ae51",
    "titre": "\"Plus jamais un enfant victime d'inceste n'entendra qu'il était trop tard pour parler\" : le Sénat approuve l'imprescriptibilité des crimes sexuels commis sur les mineurs",
    "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/plus-jamais-un-enfant-victime-d-inceste-n-entendra-qu-il-etait-trop-tard-pour-parler-le-senat-approuve-l-imprescriptibilite-des-crimes-sexuels-commis-sur-les-mineurs_8258195.html#xtor=RSS-3-[lestitres]",
@@ -94,6 +238,18 @@
     "Justice"
    ],
    "zone": "france"
+  },
+  {
+   "id": "6f5b6aa91116",
+   "titre": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
+   "lien": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-29T06:24:56+00:00",
+   "extrait": "The troops are trying to recover four military personnel who went missing in an ambush on the outskirts of the Haitian capital Port-au-Prince.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
   },
   {
    "id": "8d3dacbc078c",
@@ -142,6 +298,18 @@
     "Politique"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "c21e04b36470",
+   "titre": "Les efforts mondiaux de restauration de la nature jugés « encourageants » mais toujours très insuffisants",
+   "lien": "https://www.lemonde.fr/planete/article/2026/10/29/les-efforts-mondiaux-de-restauration-de-la-nature-juges-encourageants-mais-toujours-tres-insuffisants_6802123_3244.html",
+   "source": "Le Monde",
+   "date": "2026-10-29T06:00:08+00:00",
+   "extrait": "Un rapport de l’ONU montre que 252 millions d’hectares font actuellement l’objet d’actions de restauration dans le monde. Une surface importante, toutefois bien en deçà de l’objectif de restauration…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
   },
   {
    "id": "b963cb734efb",
@@ -199,19 +367,6 @@
    "zone": "france"
   },
   {
-   "id": "14b9133d097a",
-   "titre": "La police américaine a-t-elle vraiment été appelée parce qu'un petit garçon jouait \"trop bien\" au foot ?",
-   "lien": "https://www.franceinfo.fr/sports/foot/la-police-americaine-a-t-elle-vraiment-ete-appelee-parce-qu-un-petit-garcon-jouait-trop-bien-au-foot_8257712.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-29T05:28:07+00:00",
-   "extrait": "Certaines publications sur les réseaux sociaux assurent que des policiers de Winter Park, en Floride, ont interrompu un tournoi de foot, samedi. La réalité est un peu plus complexe.",
-   "tags": [
-    "Justice",
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "4d4b5f136a07",
    "titre": "Maquillages, déguisements… Pourquoi certains produits d’Halloween peuvent présenter un risque pour la santé",
    "lien": "https://www.franceinfo.fr/decouverte/halloween/maquillages-deguisements-pourquoi-certains-produits-d-halloween-peuvent-presenter-un-risque-pour-la-sante_8251006.html#xtor=RSS-3-[lestitres]",
@@ -246,6 +401,18 @@
    "zone": "usa"
   },
   {
+   "id": "92bcfaefb779",
+   "titre": "Brésil : pourquoi, malgré sa victoire, Lula devra-t-il faire des concessions pour gouverner ? Comprendre en trois minutes",
+   "lien": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/10/29/bresil-pourquoi-malgre-sa-victoire-lula-devra-t-il-faire-des-concessions-pour-gouverner-comprendre-en-trois-minutes_6802084_6176282.html",
+   "source": "Le Monde",
+   "date": "2026-10-29T05:00:14+00:00",
+   "extrait": "Lula a été élu président du Brésil pour la quatrième fois, mais il devra composer avec un Congrès où son camp ne dispose pas de la majorité.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "5127c066c46b",
    "titre": "Une proposition de loi déposée jeudi à l'Assemblée pour protéger les scientifiques contre les attaques de complotistes",
    "lien": "https://www.franceinfo.fr/sante/info-franceinfo-une-proposition-de-loi-deposee-ce-jeudi-a-l-assemblee-pour-proteger-les-scientifiques-contre-les-attaques-de-complotistes_8257841.html#xtor=RSS-3-[lestitres]",
@@ -271,7 +438,7 @@
   },
   {
    "id": "4202a5d8ccac",
-   "titre": "Midterms 2026 : Barack Obama s’engage, en Géorgie, dans la dernière ligne droite, aux côtés d’une nouvelle étoile démocrate, Jon Ossoff",
+   "titre": "Midterms 2026 : Barack Obama s’engage aux côtés de Jon Ossoff, étoile montante du camp démocrate",
    "lien": "https://www.lemonde.fr/international/article/2026/10/29/midterms-2026-barack-obama-s-engage-en-georgie-dans-la-derniere-ligne-droite-aux-cotes-d-une-nouvelle-etoile-democrate-jon-ossoff_6802081_3210.html",
    "source": "Le Monde",
    "date": "2026-10-29T04:59:43+00:00",
@@ -327,10 +494,10 @@
   },
   {
    "id": "1ba00b69946e",
-   "titre": "Jean-Luc Mélenchon et LFI à la conquête des « gamers » avant la présidentielle de 2027",
+   "titre": "Jean-Luc Mélenchon et LFI à la conquête des « gameurs » avant la présidentielle de 2027",
    "lien": "https://www.lemonde.fr/politique/article/2026/10/29/jean-luc-melenchon-et-lfi-a-la-conquete-des-gamers-avant-la-presidentielle-de-2027_6802012_823448.html",
    "source": "Le Monde",
-   "date": "2026-10-29T04:30:07+00:00",
+   "date": "2026-10-29T04:30:02+00:00",
    "extrait": "Au début critique contre certains jeux, comme « Assassin’s Creed Unity », le candidat de La France insoumise s’est saisi de cette question pour attirer de nouveaux électeurs et combattre l’extrême…",
    "tags": [],
    "zone": "france"
@@ -359,16 +526,6 @@
     "Tech"
    ],
    "zone": "france"
-  },
-  {
-   "id": "09bc1ee5375a",
-   "titre": "What we know so far about deadly Spain train crash",
-   "lien": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-29T04:08:28+00:00",
-   "extrait": "More than 500 passengers were on board the trains when the crash occurred in the province of Toledo, south of Madrid.",
-   "tags": [],
-   "zone": "monde"
   },
   {
    "id": "659ed0dfc8f6",
@@ -400,6 +557,18 @@
    "tags": [
     "Politique",
     "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "661393038261",
+   "titre": "'Like cutting up a Picasso': AI microdrama edit of Neighbours worries actors and crew",
+   "lien": "https://www.bbc.co.uk/news/articles/cj1dw9znd1q1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-29T03:15:35+00:00",
+   "extrait": "A micro-drama will use AI-assisted technology to edit old episodes of the Australian TV soap to focus on Margot Robbie's character.",
+   "tags": [
+    "Tech"
    ],
    "zone": "monde"
   },
@@ -465,6 +634,16 @@
    "zone": "france"
   },
   {
+   "id": "9a6e68d20a8e",
+   "titre": "Details of thousands of US immigration agents leaked in major hack",
+   "lien": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-29T01:30:43+00:00",
+   "extrait": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
    "id": "433ed94cb619",
    "titre": "RFK Jr. to ease access to unapproved peptides, draft policy states",
    "lien": "https://www.cbsnews.com/news/rfk-jr-to-ease-access-unapproved-peptides-draft-policy/",
@@ -509,6 +688,16 @@
    "zone": "usa"
   },
   {
+   "id": "9a2cf8405b66",
+   "titre": "Europe's youth take to the streets - they feel locked out of a promising future",
+   "lien": "https://www.bbc.co.uk/news/articles/cm2ke80nd929o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-29T00:33:11+00:00",
+   "extrait": "The last month has seen youth-driven demonstrations across Europe. What connects them?",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
    "id": "11eb16c1569f",
    "titre": "What's next as Israel sees no clear winner with 88% of votes counted",
    "lien": "https://www.cbsnews.com/video/whats-next-israel-no-clear-winner-votes-counted/",
@@ -533,11 +722,11 @@
   },
   {
    "id": "ccf2566efc25",
-   "titre": "Emmanuel Macron dénonce une « désinhibition du racisme » et de « l’antisémitisme », visant le RN et LFI",
+   "titre": "Emmanuel Macron dénonce une « désinhibition du racisme » et de « l’antisémitisme », en visant le RN et LFI",
    "lien": "https://www.lemonde.fr/politique/article/2026/10/29/emmanuel-macron-denonce-une-desinhibition-du-racisme-et-de-l-antisemitisme-visant-le-rn-et-lfi_6801776_823448.html",
    "source": "Le Monde",
    "date": "2026-10-29T00:28:55+00:00",
-   "extrait": "Le chef de l’Etat a par ailleurs appelé mercredi, dans un entretien diffusé par la chaîne YouTube HugoDécrypte, à la reprise des cours dans les lycées dans le « calme » à la rentrée, le 2 novembre.",
+   "extrait": "Le chef de l’Etat a, par ailleurs, appelé les lycéens, mercredi dans un entretien diffusé par la chaîne YouTube HugoDécrypte, à « reprendre les cours » dans « le calme » à la rentrée, lundi 2…",
    "tags": [
     "Politique"
    ],
@@ -648,6 +837,16 @@
    "extrait": "At least 68 were killed in Spain's second major train disaster of the year. Two high-speed trains collided, derailing at least two carriages. Leigh Kiniry reports.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "6c762e0c245b",
+   "titre": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
+   "lien": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-29T00:00:15+00:00",
+   "extrait": "Properties where someone has died in tragic circumstances can have big reductions in price.",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "a2d322e9ea16",
@@ -808,6 +1007,16 @@
     "Politique"
    ],
    "zone": "france"
+  },
+  {
+   "id": "cd682cdb1564",
+   "titre": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
+   "lien": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-28T23:11:59+00:00",
+   "extrait": "The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand.",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "a437c9384ba6",
@@ -1527,6 +1736,19 @@
    "zone": "usa"
   },
   {
+   "id": "b069f02850bf",
+   "titre": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+   "lien": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-28T19:15:58+00:00",
+   "extrait": "The Russian President praised Musk and said they are in \"close\" contact.",
+   "tags": [
+    "Politique",
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "dc4fd7e5ba75",
    "titre": "Le gouvernement d'Andorre veut dépénaliser partiellement l'avortement, sans toutefois l'autoriser",
    "lien": "https://www.franceinfo.fr/societe/ivg/le-gouvernement-d-andorre-veut-depenaliser-partiellement-l-avortement-sans-toutefois-l-autoriser-dans-la-principaute_8257832.html#xtor=RSS-3-[lestitres]",
@@ -1614,7 +1836,7 @@
    "lien": "https://www.lemonde.fr/international/article/2026/10/28/dans-la-presse-israelienne-le-reveil-douloureux-de-l-opposition-et-le-jeu-des-hypotheses-souvent-contradictoires-pour-sortir-de-l-impasse-politique_6801635_3210.html",
    "source": "Le Monde",
    "date": "2026-10-28T18:57:02+00:00",
-   "extrait": "Si la coalition de Benyamin Nétanyahou a perdu sa majorité en sièges, l’opposition a perdu plus encore, lors du scrutin du 27 octobre, en arrivant en deuxième place. Les médias israéliens redoutent…",
+   "extrait": "Si la coalition de Benyamin Nétanyahou a perdu sa majorité en sièges, l’opposition a perdu plus encore, lors du scrutin du 27 octobre, en arrivant en deuxième position. Les médias israéliens…",
    "tags": [],
    "zone": "france"
   },
@@ -1817,18 +2039,6 @@
    "extrait": "Une collision mortelle survenue mercredi ​matin entre deux trains à grande vitesse près d'Urda, au sud de Madrid, endeuille de nouveau l'Espagne, neuf mois après une précédente catastrophe…",
    "tags": [],
    "zone": "monde"
-  },
-  {
-   "id": "6288e11335b4",
-   "titre": "\"Lourdaud\", \"bouillie numérique\"... Elon Musk dévoile un extrait de son \"Odyssée\", entièrement généré avec son IA Grok",
-   "lien": "https://www.franceinfo.fr/culture/cinema/lourdaud-bouillie-numerique-elon-musk-devoile-un-extrait-de-son-odyssee-entierement-genere-avec-son-ia-grok_8257165.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-28T18:05:27+00:00",
-   "extrait": "Le milliardaire ultraconservateur a publié un premier épisode de sept minutes généré avec son outil IA de génération vidéo. Il avait promis de répondre au blockbuster de Christopher Nolan, sorti en…",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "france"
   },
   {
    "id": "acd1bf9b8a02",
@@ -3273,215 +3483,6 @@
    "source": "franceinfo",
    "date": "2026-10-28T12:44:10+00:00",
    "extrait": "Après les dégâts causés en marge des manifestations du 17 octobre, des représentants de droite et d'extrême droite ont demandé au gouvernement de modifier les dates du scrutin, dont le second tour…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "6bb40293aeb8",
-   "titre": "Attentat raciste de Trappes : le gouvernement annonce un « hommage national », sans en préciser la date",
-   "lien": "https://www.lemonde.fr/societe/article/2026/10/28/attentat-raciste-de-trappes-le-gouvernement-annonce-un-hommage-national-sans-en-preciser-la-date_6801574_3224.html",
-   "source": "Le Monde",
-   "date": "2026-10-28T12:41:21+00:00",
-   "extrait": "La demande avait été formulée plus tôt par l’opposition de gauche à l’Assemblée nationale, et a été officialisée mercredi par le gouvernement.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "9acac25cd16a",
-   "titre": "Dozens dead as two trains collide in Spain",
-   "lien": "https://www.cbsnews.com/video/dozens-dead-as-two-trains-collide-in-spain/",
-   "source": "CBS News",
-   "date": "2026-10-28T12:40:08+00:00",
-   "extrait": "A high-speed train crashed into a stopped train in Spain, causing at least 30 deaths. Leigh Kiniry reports.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "a4b902d8bc8e",
-   "titre": "Collision entre deux trains en Espagne : les premières images de l'accident",
-   "lien": "https://www.franceinfo.fr/monde/espagne/collision-entre-deux-trains-en-espagne-les-images-de-l-accident_8257282.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-28T12:37:05+00:00",
-   "extrait": "Des images aériennes de la Guardia Civil, ainsi que des vidéos amateurs, témoignent de la violence de la collision entre deux trains en Espagne. Le bilan provisoire fait état de plusieurs dizaines…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "279e7b2b9dca",
-   "titre": "Le cinéaste Jafar Panahi condamné en Iran à cinq ans de prison dans une nouvelle affaire",
-   "lien": "https://www.franceinfo.fr/culture/cinema/le-cineaste-jafar-panahi-condamne-en-iran-a-cinq-ans-de-prison-dans-une-nouvelle-affaire_8257258.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-28T12:35:36+00:00",
-   "extrait": "Le réalisateur avait remporté la Palme d'or pour son film \"Un simple accident\", en mai 2025, au Festival de Cannes.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "44d59e83263a",
-   "titre": "Au procès de l'assassinat de son grand frère sur fond de narcotrafic, Amine Kessaci évoque le souvenir de celui qui l'a \"toujours encouragé\"",
-   "lien": "https://www.franceinfo.fr/societe/drogue/au-proces-de-l-assassinat-de-son-grand-frere-sur-fond-de-narcotrafic-amine-kessaci-evoque-le-souvenir-de-celui-qui-l-a-toujours-encourage_8257285.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-28T12:31:53+00:00",
-   "extrait": "Le témoignage du militant de 23 ans est l'un des plus attendus lors de ce procès, débuté le 19 octobre pour juger un triple assassinat qui a coûté la vie en décembre 2020 à son frère Brahim…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "bf6991b9ad46",
-   "titre": "Où s'est produite la collision meurtrière entre deux trains en Espagne ?",
-   "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/carte-ou-s-est-produite-la-collision-meurtriere-entre-deux-trains-en-espagne_8257180.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-28T12:26:30+00:00",
-   "extrait": "La collision a eu lieu dans la région de Castille-La Manche, au sud de la ville de Tolède.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "230b742d5c34",
-   "titre": "Législatives en Israël : une percée des partis de la minorité arabe",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-l%C3%A9gislatives-en-isra%C3%ABl-une-perc%C3%A9e-des-partis-de-la-minorit%C3%A9-arabe",
-   "source": "France 24",
-   "date": "2026-10-28T12:25:33+00:00",
-   "extrait": "En Israël, l'une des surprises du scrutin législatif, marqué par une forte participation de 77,7%, est la percée des partis représentant la minorité arabe, qui ont fait campagne contre le Premier…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "38d435071635",
-   "titre": "Attentat de Trappes : bataille politique à l'Assemblée nationale",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/face-%C3%A0-face/20261028-attentat-de-trappes-bataille-politique-%C3%A0-l-assembl%C3%A9e-nationale",
-   "source": "France 24",
-   "date": "2026-10-28T12:24:33+00:00",
-   "extrait": "L'Assemblée nationale a observé une minute de silence pour les victimes de l'attentat raciste de Trappes qui a fait un mort et cinq blessés. Si la minute de silence a été respectée, la concorde n'a…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "a792d547da5e",
-   "titre": "Espagne : ce que l'on sait de l'accident ferroviaire mortel à Tolède",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-espagne-ce-que-l-on-sait-de-l-accident-ferroviaire-mortel-%C3%A0-tol%C3%A8de",
-   "source": "France 24",
-   "date": "2026-10-28T12:19:26+00:00",
-   "extrait": "Suite à l'accident mortel survenu à Tolède entre deux trains à grande vitesse ce mercredi 28 octobre, le bilan provisoire ne fait que de s'alourdir. Un drame à portée internationale : Emmanuel…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "65dd8b0efbf9",
-   "titre": "Cisjordanie occupée : des drones utilisés massivement pour surveiller les Palestiniens",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/les-observateurs/20261028-cisjordanie-occup%C3%A9e-des-drones-utilis%C3%A9s-massivement-pour-surveiller-les-palestiniens",
-   "source": "France 24",
-   "date": "2026-10-28T12:14:15+00:00",
-   "extrait": "\"On se sent tout le temps surveillés, dans la rue, nuit et jour, à l’école et même à l’intérieur de nos maisons\" : en Cisjordanie occupée, des fermiers palestiniens dénoncent un usage massif des…",
-   "tags": [
-    "Politique",
-    "Économie",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "2bc4d55fd69a",
-   "titre": "Espagne : une collision entre deux trains à moins d'un an du drame similaire à Adamouz",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-espagne-une-collision-entre-deux-trains-%C3%A0-moins-d-un-an-du-drame-similaire-%C3%A0-adamouz",
-   "source": "France 24",
-   "date": "2026-10-28T12:13:43+00:00",
-   "extrait": "La collision de deux trains près de Tolède mercredi 28 octobre porte un bilan provisoire de cinquante morts, ce qui en fait une des pires catastrophes ferroviaires en Espagne. Moins d'un an après la…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "9b2725a911d6",
-   "titre": "U.S. military strikes alleged drug boat in Pacific, killing 5 people",
-   "lien": "https://www.cbsnews.com/news/us-military-destroys-alleged-drug-boat-pacific-5-killed/",
-   "source": "CBS News",
-   "date": "2026-10-28T12:11:41+00:00",
-   "extrait": "The latest attack brings the number of people who have been killed by the U.S. military's boat strikes to at least 240 in more than 70 strikes.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "b977401bd845",
-   "titre": "Gilles Boyer (Horizons) : \"Je ne suis pas pour qu'on interdise quiconque de s'exprimer\"",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/mardi-politique/20261028-gilles-boyer-horizons-je-ne-suis-pas-pour-qu-on-interdise-quiconque-de-s-exprimer",
-   "source": "France 24",
-   "date": "2026-10-28T12:10:53+00:00",
-   "extrait": "Après l'attentat de Trappes, la banalisation des discours haineux et racistes est dénoncée par la gauche. Le maire LFI de Saint-Denis, Bally Bagayoko, a appelé à interdire d'antenne le Rassemblement…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "a7e2e07f0524",
-   "titre": "Mobilisations sociales : le gouvernement prévoit une aide allant « jusqu’à 10 000 euros » pour les commerces endommagés",
-   "lien": "https://www.lemonde.fr/economie/article/2026/10/28/mobilisations-sociales-le-gouvernement-prevoit-une-aide-allant-jusqu-a-10-000-euros-pour-les-commerces-endommages_6801573_3234.html",
-   "source": "Le Monde",
-   "date": "2026-10-28T12:10:32+00:00",
-   "extrait": "Ce fonds de soutien avait été annoncé à la suite des premiers pillages, et a été précisé par le ministre du commerce, mercredi à Paris.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "e9d8a3c8962a",
-   "titre": "Pumpkin Halloween ! Trois recettes à la citrouille faciles et réconfortantes",
-   "lien": "https://www.lemonde.fr/les-recettes-du-monde/article/2026/10/28/pumpkin-halloween-trois-recettes-a-la-citrouille-faciles-et-reconfortantes_6801572_5324493.html",
-   "source": "Le Monde",
-   "date": "2026-10-28T12:00:06+00:00",
-   "extrait": "Pour une soirée d’Halloween avec moins de bonbons et plus de fibres, on passe à l’orange. Avec un curry thaï, une soupe potion au potiron, et un pumpkin spicy latte onctueux, vraiment pas sorcier à…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "269417da708b",
-   "titre": "U.S. cruise ship suspends around-the-world voyage due to fuel costs",
-   "lien": "https://www.cbsnews.com/news/us-cruise-ship-suspends-3-year-around-the-world-voyage-cambodia-fuel-costs/",
-   "source": "CBS News",
-   "date": "2026-10-28T11:51:10+00:00",
-   "extrait": "The U.S. cruise ship MV Odyssey suspended its three-year, around-the-world voyage in Cambodia due to fuel costs, forcing hundreds of passengers to disembark.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "7080c1731621",
-   "titre": "IA et littérature : les Français veulent de la transparence, selon un sondage",
-   "lien": "https://www.franceinfo.fr/culture/livres/affaire-thelyson-orelien/ia-et-litterature-les-francais-veulent-de-la-transparence-selon-un-sondage_8257105.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-28T11:45:04+00:00",
-   "extrait": "L'enquête \"Les Français, l'IA et la littérature\" sort à quelques jours du prix Goncourt, qui sera décerné le 3 novembre.",
-   "tags": [
-    "Économie",
-    "Justice",
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "6f3dd6a10ffb",
-   "titre": "Un hommage national sera organisé après l'attentat raciste dans les Yvelines, annonce le gouvernement",
-   "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/un-hommage-national-sera-organise-apres-l-attentat-raciste-dans-les-yvelines-annonce-le-gouvernement_8257222.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-28T11:42:08+00:00",
-   "extrait": "L'exécutif n'a pas précisé la date de cet hommage, ni s'il sera présidé par Emmanuel Macron.",
    "tags": [
     "Politique"
    ],
