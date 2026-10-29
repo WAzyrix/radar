@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-29T09:05:41+00:00",
+ "maj": "2026-10-29T10:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,11 +22,201 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "09bc1ee5375a",
+   "titre": "What we know so far about deadly Spain train crash",
+   "lien": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-29T10:02:37+00:00",
+   "extrait": "More than 500 passengers were on board the trains when the crash occurred in the province of Toledo, south of Madrid.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "f2b838e792a1",
+   "titre": "Santé publique France a recensé 441 morts par noyade entre mai et août, principalement pendant les canicules",
+   "lien": "https://www.franceinfo.fr/faits-divers/noyades/entre-le-1er-mai-et-le-31-aout-441-morts-par-noyade-principalement-pendant-les-canicules-denombre-sante-publique-france_8258543.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-29T09:56:18+00:00",
+   "extrait": "Pas moins de 82% des noyades mortelles sont survenues pendant les jours de \"vigilance canicule\".",
+   "tags": [
+    "Climat",
+    "Santé"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "832a2df1d7af",
+   "titre": "Attentat raciste dans les Yvelines : le patron du parquet national antiterroriste doit s'exprimer à partir de 11 heures au tribunal judiciaire de Paris",
+   "lien": "https://www.franceinfo.fr/societe/trappes/direct-attentat-raciste-a-trappes-le-suspect-a-ete-transfere-dans-la-nuit-au-tribunal-judiciaire-de-paris-en-vue-de-sa-mise-en-examen_8258192.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-29T09:54:48+00:00",
+   "extrait": "Kevin T., suspecté d'être l'auteur de l'attentat, a été transféré au tribunal judiciaire de Paris après la levée de sa garde à vue en vue de sa possible mise en examen, a appris jeudi l'Agence Radio…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "74075cd2f918",
+   "titre": "Collision meurtrière entre deux trains en Espagne : l'enchaînement de circonstances qui ont conduit à l'accident s'éclaircit peu à peu, le bilan alourdit à 69 morts",
+   "lien": "https://www.franceinfo.fr/monde/espagne/direct-collision-meurtriere-entre-deux-trains-en-espagne-l-enchainement-de-circonstances-qui-ont-conduit-a-l-accident-s-eclaircit-peu-a-peu_8258189.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-29T09:51:39+00:00",
+   "extrait": "Le Premier ministre Pedro Sanchez a décrété trois jours de deuil national, de jeudi à samedi, alors que le bilan ne cesse de s'alourdir.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "e1aff877e286",
+   "titre": "Espagne : collision mortelle entre deux trains",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261029-espagne-collision-mortelle-entre-deux-trains",
+   "source": "France 24",
+   "date": "2026-10-29T09:50:44+00:00",
+   "extrait": "Au moins 64 personnes ont été tuées et plusieurs autres blessées dans la collision mercredi de deux trains à environ 150 km au sud de Madrid, selon les autorités, bilan provisoire qui en fait une…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "c17911bb8a4a",
+   "titre": "Trump says Peltola \"shouldn't be allowed to run\" due to second Dan Sullivan",
+   "lien": "https://www.cbsnews.com/news/trump-peltola-dan-sullivan-alaska-senate/",
+   "source": "CBS News",
+   "date": "2026-10-29T09:41:22+00:00",
+   "extrait": "A report alleged that people aligned with Democrat Mary Peltola's campaign helped recruit a candidate with the same first and last name as Republican Sen. Dan Sullivan. Peltola denied the allegations.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "4830b67f7472",
+   "titre": "Le général Christian Piquemal, qui avait signé en 2021 une tribune controversée de militaires, est mort",
+   "lien": "https://www.lemonde.fr/disparitions/article/2026/10/29/le-general-christian-piquemal-qui-avait-signe-en-2021-une-tribune-controversee-de-militaires-est-mort_6802303_3382.html",
+   "source": "Le Monde",
+   "date": "2026-10-29T09:39:10+00:00",
+   "extrait": "Radié des cadres de l’armée en 2016 pour avoir participé à une manifestation interdite organisée par un groupuscule islamophobe allemand, l’ancien légionnaire s’est éteint le 23 octobre, à 85 ans.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "939411f8ae51",
+   "titre": "\"Plus jamais un enfant victime d'inceste n'entendra qu'il était trop tard pour parler\" : le Sénat approuve l'imprescriptibilité des crimes sexuels commis sur les mineurs",
+   "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/plus-jamais-un-enfant-victime-d-inceste-n-entendra-qu-il-etait-trop-tard-pour-parler-le-senat-approuve-l-imprescriptibilite-des-crimes-sexuels-commis-sur-les-mineurs_8258195.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-29T09:37:22+00:00",
+   "extrait": "A l'heure actuelle, une victime de viol subi dans l'enfance peut porter plainte jusqu'à 48 ans, le délai de prescription étant de trente ans à compter de sa majorité, un délai jugé insuffisant par…",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "02bc940d3069",
+   "titre": "Un deuxième suspect, âgé de 16 ans, mis en examen dans l'enquête sur la cyberattaque contre la Direction générale des finances publiques",
+   "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/un-deuxieme-suspect-age-de-16-ans-mis-en-examen-dans-l-enquete-sur-la-cyberattaque-contre-la-direction-generale-des-finances-publiques_8258519.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-29T09:34:10+00:00",
+   "extrait": "Surnommé \"Casquette\", l'adolescent est le deuxième mis en examen pour le vol de données du fisc, après un homme de 18 ans qui utilise le pseudonyme \"ChatNoir\". Les deux étaient déjà mis en examen…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "6c762e0c245b",
+   "titre": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+   "lien": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-29T09:30:03+00:00",
+   "extrait": "Properties where someone has died in tragic circumstances can have big reductions in price.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "5eecba64ff95",
+   "titre": "Informatique quantique : la pépite française Alice & Bob défie Google",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261029-informatique-quantique-la-p%C3%A9pite-fran%C3%A7aise-alice-bob-d%C3%A9fie-google",
+   "source": "France 24",
+   "date": "2026-10-29T09:28:42+00:00",
+   "extrait": "La start-up française Alice & Bob annonce une avancée majeure dans la course à l'ordinateur quantique. Invité de France 24, son président exécutif Élie Girard explique comment cette technologie…",
+   "tags": [
+    "Politique",
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "30c228cec4a5",
+   "titre": "Meurtre de Quentin Deranque : le député insoumis Raphaël Arnault convoqué en audition libre plusieurs heures par la police antiterroriste mercredi",
+   "lien": "https://www.franceinfo.fr/faits-divers/mort-de-quentin-militant-identitaire-agresse-a-lyon/meurtre-de-quentin-deranque-le-depute-insoumis-raphael-arnault-entendu-en-audition-libre-plusieurs-heures-par-la-police-antiterroriste-mercredi_8258525.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-29T09:26:30+00:00",
+   "extrait": "L'un des collaborateurs parlementaires de Raphaël Arnault est soupçonné d'avoir participé aux violences qui ont causé la mort de Quentin Deranque en février lors d'affrontements à Lyon avec la Jeune…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "076b896e16e8",
+   "titre": "Mobilisation lycéenne : Edouard Geffray estime que les « jeunes ont besoin d’aller en cours »",
+   "lien": "https://www.lemonde.fr/campus/article/2026/10/29/mobilisation-lyceenne-edouard-geffray-estime-que-les-jeunes-ont-besoin-d-aller-en-cours_6802299_4401467.html",
+   "source": "Le Monde",
+   "date": "2026-10-29T09:19:43+00:00",
+   "extrait": "Le ministre de l’éducation a défendu dans la matinée les mesures proposées par le gouvernement afin de tenter d’éteindre la contestation lycéenne lancée il y a plus d’un mois et qui a conduit au…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "afdf17364258",
+   "titre": "Le ministre d'extrême droite israélien Itamar Ben Gvir appelle à arrêter les chefs des partis arabes, après leur score historique aux législatives",
+   "lien": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/le-ministre-d-extreme-droite-israelien-itamar-ben-gvir-appelle-a-arreter-les-chefs-des-partis-arabes-apres-leur-score-historique-aux-legislatives_8258507.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-29T09:18:48+00:00",
+   "extrait": "Les deux principales formations politiques arabes israéliennes sont en passe de rafler un nombre de sièges inédit dans leur histoire.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "ba7a0b89152e",
+   "titre": "Hegseth fires Pentagon's top military planner over alleged leaks",
+   "lien": "https://www.cbsnews.com/news/hegseth-fires-pentagons-top-military-planner/",
+   "source": "CBS News",
+   "date": "2026-10-29T09:09:00+00:00",
+   "extrait": "Defense Secretary Pete Hegseth has fired the Pentagon's top military planner, Army Lt. Gen. Brett Sylvia, a Pentagon official told CBS News.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "4429b62108ed",
+   "titre": "How could Israel break election deadlock? Here are four scenarios",
+   "lien": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-29T09:06:48+00:00",
+   "extrait": "With more than 90% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "fb672c28da21",
-   "titre": "TotalEnergies engrange un bénéfice net record au 3e trimestre, le gouvernement lui réclame de baisser les prix à la pompe",
+   "titre": "TotalEnergies engrange un bénéfice net record au troisième trimestre, le gouvernement lui réclame de baisser les prix à la pompe",
    "lien": "https://www.franceinfo.fr/environnement/energie/energies-fossiles/totalenergies/totalenergies-engrange-un-benefice-net-record-au-3e-trimestre-plus-que-double-sur-un-an-en-raison-de-l-envolee-des-prix-des-hydrocarbures_8258201.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-10-29T09:03:25+00:00",
+   "date": "2026-10-29T09:06:14+00:00",
    "extrait": "Le géant pétrogazier a annoncé un bénéfice de 8,3 milliards de dollars, dopé par la tension mondiale sur le gazole et la forte hausse du prix du gaz.",
    "tags": [
     "Politique",
@@ -35,16 +225,30 @@
    "zone": "france"
   },
   {
-   "id": "74075cd2f918",
-   "titre": "Collision meurtrière entre deux trains en Espagne : l'enchaînement de circonstances qui ont conduit à l'accident s'éclaircit peu à peu",
-   "lien": "https://www.franceinfo.fr/monde/espagne/direct-collision-meurtriere-entre-deux-trains-en-espagne-l-enchainement-de-circonstances-qui-ont-conduit-a-l-accident-s-eclaircit-peu-a-peu_8258189.html#xtor=RSS-3-[lestitres]",
+   "id": "c8b242705636",
+   "titre": "Le ministre de l'Enseignement supérieur estime qu'il est \"essentiel\" que les cours puissent reprendre lundi \"en présentiel\" mais assure que la discussion \"reste ouverte\"",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-ministre-de-l-enseignement-superieur-estime-qu-il-est-essentiel-que-les-cours-puissent-reprendre-lundi-en-presentiel-mais-assure-que-la-discussion-reste-ouverte_8258474.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-10-29T09:01:40+00:00",
-   "extrait": "Le Premier ministre Pedro Sanchez a décrété trois jours de deuil national, de jeudi à samedi, alors que le bilan ne cesse de s'alourdir. Il s'établit désormais à 68 morts et 108 blessés, selon le…",
+   "date": "2026-10-29T09:05:49+00:00",
+   "extrait": "Philippe Baptiste, ministre de l'Enseignement supérieur, appelle sur franceinfo jeudi à \"l'arrêt des blocages et des violences\".",
    "tags": [
     "Politique"
    ],
    "zone": "france"
+  },
+  {
+   "id": "ab8e49c47e0b",
+   "titre": "How AI drones are influencing the course of the Ukraine war",
+   "lien": "https://www.npr.org/2026/10/29/g-s1-147496/ukraine-ai-drones-war-russia",
+   "source": "NPR",
+   "date": "2026-10-29T09:02:00+00:00",
+   "extrait": "Artificial intelligence is making drones faster and more capable. Russia and Ukraine both use AI-powered drones, and Ukrainian President Volodymyr Zelenskyy has warned that AI could lead decisions…",
+   "tags": [
+    "Politique",
+    "Conflits",
+    "Tech"
+   ],
+   "zone": "usa"
   },
   {
    "id": "8a52d1edaaaa",
@@ -69,38 +273,92 @@
    "zone": "france"
   },
   {
-   "id": "30c228cec4a5",
-   "titre": "Meurtre de Quentin Deranque : le député insoumis Raphaël Arnault entendu en audition libre plusieurs heures par la police antiterroriste mercredi",
-   "lien": "https://www.franceinfo.fr/faits-divers/mort-de-quentin-militant-identitaire-agresse-a-lyon/meurtre-de-quentin-deranque-le-depute-insoumis-raphael-arnault-entendu-en-audition-libre-plusieurs-heures-par-la-police-antiterroriste-mercredi_8258525.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-29T08:57:51+00:00",
-   "extrait": "L'un des collaborateurs parlementaires de Raphaël Arnault est soupçonné d'avoir participé aux violences qui ont causé la mort de Quentin Deranque en février lors d'affrontements à Lyon avec la Jeune…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "afdf17364258",
-   "titre": "Le ministre d'extrême droite israélien Itamar Ben Gvir appelle à arrêter les chefs des partis arabes, après leur score historique aux législatives",
-   "lien": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/le-ministre-d-extreme-droite-israelien-itamar-ben-gvir-appelle-a-arreter-les-chefs-des-partis-arabes-apres-leur-score-historique-aux-legislatives_8258507.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-29T08:57:31+00:00",
-   "extrait": "Mercredi, le parti de Benyamin Nétanyahou, s'en est pris aux partis arabes, les accusant d'avoir \"volé les élections\". Les deux principales formations politiques majoritairement arabes israéliennes…",
+   "id": "723861cfb045",
+   "titre": "Autonomie de la Corse : le rejet du projet de loi au Sénat ouvre une crise politique aiguë dans l’île",
+   "lien": "https://www.lemonde.fr/politique/article/2026/10/29/autonomie-de-la-corse-le-rejet-du-projet-de-loi-au-senat-ouvre-une-crise-politique-aigue-dans-l-ile_6802293_823448.html",
+   "source": "Le Monde",
+   "date": "2026-10-29T09:00:07+00:00",
+   "extrait": "Après le vote négatif des sénateurs, lundi, les nationalistes ont annoncé se retirer du processus de Beauvau. Face au risque de blocage institutionnel et au réveil des tensions, le conseiller…",
    "tags": [
     "Politique"
    ],
    "zone": "france"
   },
   {
-   "id": "c8b242705636",
-   "titre": "Le ministre de l'Enseignement supérieur estime qu'il est \"essentiel\" que les cours puissent reprendre lundi \"en présentiel\" mais assure que la discussion \"reste ouverte\"",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-ministre-de-l-enseignement-superieur-estime-qu-il-est-essentiel-que-les-cours-puissent-reprendre-lundi-en-presentiel-mais-assure-que-la-discussion-reste-ouverte_8258474.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-29T08:53:55+00:00",
-   "extrait": "Philippe Baptiste, ministre de l'Enseignement supérieur, appelle sur franceinfo jeudi à \"l'arrêt des blocages et des violences\".",
+   "id": "a5f739fceb73",
+   "titre": "Tariffs, diesel and computer chips are driving up costs for automakers",
+   "lien": "https://www.npr.org/2026/10/29/nx-s1-6008066/automakers-inflation-tariffs-chips-diesel-earnings",
+   "source": "NPR",
+   "date": "2026-10-29T09:00:00+00:00",
+   "extrait": "American auto companies say they are paying more for key components like computer chips, steel and copper — plus the fuel needed to transport their products.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "49676c9c58dc",
+   "titre": "These are the House races to watch in the 2026 midterm election on Nov. 3",
+   "lien": "https://www.npr.org/2026/10/29/nx-s1-6020921/2026-house-map-democrats-flip-republicans-tossup-triage",
+   "source": "NPR",
+   "date": "2026-10-29T09:00:00+00:00",
+   "extrait": "An NPR analysis finds 70 House districts where Democrats and Republicans are each investing more than six figures in advertising during the final few days of the election, including in deep red areas.",
    "tags": [
     "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "df86c7c378bf",
+   "titre": "State ballots let voters decide on abortion, taxes, transgender restrictions",
+   "lien": "https://www.npr.org/2026/10/29/nx-s1-6019363/state-ballot-referendum-abortion-taxes",
+   "source": "NPR",
+   "date": "2026-10-29T09:00:00+00:00",
+   "extrait": "Missouri voters could ban abortion - after they just removed a ban two years ago. California voters could tax billionaires 5% of their wealth.",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "6130af64b950",
+   "titre": "Business as a liberal art? Some high schools say yes",
+   "lien": "https://www.npr.org/2026/10/29/nx-s1-6017795/ap-business-personal-finance-course-high-school",
+   "source": "NPR",
+   "date": "2026-10-29T09:00:00+00:00",
+   "extrait": "Learning about money is becoming a growing part of the high school curriculum.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "b1e2f1c6a68a",
+   "titre": "Ahead of midterms, Missourians defend transgender healthcare",
+   "lien": "https://www.npr.org/2026/10/29/nx-s1-6017986/election-midterm-healthcare-transgender",
+   "source": "NPR",
+   "date": "2026-10-29T09:00:00+00:00",
+   "extrait": "The campaign to defend access to transgender healthcare for young people in Missouri is taking an unhurried approach to talking with voters about the proposed ban.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "5412b1a6cff3",
+   "titre": "Their colleges closed, but the government refuses to erase their debts, lawsuit says",
+   "lien": "https://www.npr.org/2026/10/29/nx-s1-6003916/student-loans-closed-colleges-education-department-trump-biden",
+   "source": "NPR",
+   "date": "2026-10-29T09:00:00+00:00",
+   "extrait": "Federal law requires the Education Department to erase the student loans of borrowers whose colleges close suddenly. A new lawsuit claims the department isn't fully following those rules.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "c9fdd7a70142",
+   "titre": "TotalEnergies : bénéfice inédit au troisième trimestre, à 8,3 milliards de dollars ; le gouvernement appelle le groupe à répercuter la baisse des prix",
+   "lien": "https://www.lemonde.fr/economie/article/2026/10/29/totalenergies-benefice-inedit-au-troisieme-trimestre-a-8-3-milliards-de-dollars-le-gouvernement-appelle-le-groupe-a-repercuter-la-baisse-des-prix_6802292_3234.html",
+   "source": "Le Monde",
+   "date": "2026-10-29T08:57:54+00:00",
+   "extrait": "Le bénéfice du géant pétrogazier a plus que doublé sur un an, porté par la flambée des cours des hydrocarbures liée aux conflits en Ukraine et au Moyen-Orient. En France, le gazole dépasse désormais…",
+   "tags": [
+    "Politique",
+    "Économie",
+    "Conflits"
    ],
    "zone": "france"
   },
@@ -117,6 +375,16 @@
     "Conflits"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "3e2b6591638d",
+   "titre": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+   "lien": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-29T08:38:54+00:00",
+   "extrait": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "8a3de05ea533",
@@ -161,6 +429,18 @@
    "source": "franceinfo",
    "date": "2026-10-29T08:29:06+00:00",
    "extrait": "Le ministre du Travail et des Solidarités, Jean-Pierre Farandou, assure sur France Inter ne pas s'opposer à l'ouverture dominicale sur la base du volontariat.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "64aba2eeab52",
+   "titre": "Qu'est-ce que le système de gestion du trafic ferroviaire LZB, en panne au moment de la collision meurtrière entre deux trains en Espagne ?",
+   "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/qu-est-ce-que-le-systeme-de-gestion-du-trafic-ferroviaire-lzb-en-panne-au-moment-de-la-collision-meurtriere-entre-deux-trains-en-espagne_8257474.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-29T08:25:43+00:00",
+   "extrait": "Le système automatisé a fait défaut à six trains du secteur, entraînant une reprise en main humaine, mercredi matin. Le contrôleur a ensuite pris des décisions \"inexplicables\", a expliqué le…",
    "tags": [
     "Politique"
    ],
@@ -213,18 +493,6 @@
    "zone": "france"
   },
   {
-   "id": "832a2df1d7af",
-   "titre": "Attentat raciste dans les Yvelines : le patron du parquet national antiterroriste doit s'exprimer à partir de 11 heures au tribunal judiciaire de Paris",
-   "lien": "https://www.franceinfo.fr/societe/trappes/direct-attentat-raciste-a-trappes-le-suspect-a-ete-transfere-dans-la-nuit-au-tribunal-judiciaire-de-paris-en-vue-de-sa-mise-en-examen_8258192.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-29T08:12:30+00:00",
-   "extrait": "Kevin T., suspecté d'être l'auteur de l'attentat, a été transféré au tribunal judiciaire de Paris après la levée de sa garde à vue en vue de sa possible mise en examen, a appris jeudi l'Agence Radio…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "58e2656c2826",
    "titre": "Qatari mediators hand Iran new proposal to end the war",
    "lien": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/",
@@ -245,16 +513,6 @@
    "extrait": "A l’heure où s’ouvre un sommet entre l’Union européenne et le Canada, les deux puissances doivent réduire leur dépendance vis-à-vis des Etats-Unis et de la Chine, analyse l’historien canadien…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "09bc1ee5375a",
-   "titre": "What we know so far about deadly Spain train crash",
-   "lien": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-29T07:59:20+00:00",
-   "extrait": "More than 500 passengers were on board the trains when the crash occurred in the province of Toledo, south of Madrid.",
-   "tags": [],
-   "zone": "monde"
   },
   {
    "id": "01c2a2c5f860",
@@ -301,6 +559,18 @@
    "extrait": "Cela représente la taille d'un territoire comme l'Algérie, ou l'Argentine, précisent les Nations unies. Les efforts de restauration de la nature enregistrés dans 149 pays ont surtout été réalisés…",
    "tags": [],
    "zone": "france"
+  },
+  {
+   "id": "32f4f4986387",
+   "titre": "Après la collision de deux trains, l'Espagne entame trois jours de deuil national",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261029-apr%C3%A8s-la-collision-de-deux-trains-l-espagne-entame-trois-jours-de-deuil-national",
+   "source": "France 24",
+   "date": "2026-10-29T07:45:41+00:00",
+   "extrait": "Au lendemain de la collision de deux trains à grande vitesse à environ 150 km au sud de Madrid, l'Espagne observe trois jours de deuil national, de jeudi à samedi. Au moins 68 personnes sont mortes…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
   },
   {
    "id": "311070bece90",
@@ -374,7 +644,7 @@
   },
   {
    "id": "1c7a2ae997b3",
-   "titre": "Attentat raciste de Trappes : le suspect transféré au tribunal en vue de sa mise en examen",
+   "titre": "Attentat raciste de Trappes : suivez en direct la conférence de presse du procureur antiterroriste",
    "lien": "https://www.france24.com/fr/france/20261029-attentat-de-trappes-l-assaillant-transf%C3%A9r%C3%A9-au-tribunal-en-vue-de-sa-mise-en-examen",
    "source": "France 24",
    "date": "2026-10-29T07:18:41+00:00",
@@ -383,6 +653,18 @@
     "Justice"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "c6b4cc03ac58",
+   "titre": "L'émotion de la mère de Ramatou, la fillette blessée à La Verrière",
+   "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/l-emotion-de-la-mere-de-ramatou-la-fillette-blessee-a-la-verriere_8258438.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-29T07:09:08+00:00",
+   "extrait": "Une marche blanche en hommage aux victimes de l'attentat raciste dans les Yvelines s'est tenue mercredi 28 octobre à La Verrière, sur les lieux où une jeune fille a échappé de peu à la mort. Sa mère…",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "france"
   },
   {
    "id": "4ad0e8eb956b",
@@ -412,11 +694,11 @@
   },
   {
    "id": "51c4b3fcd2a2",
-   "titre": "EN DIRECT, guerre en Ukraine : une mission humanitaire se prépare à Olechky après cinquante-quatre heures de trêve",
+   "titre": "EN DIRECT, guerre en Ukraine : au moins 13 morts dans une attaque russe contre un train à Dnipro, selon les autorités locales",
    "lien": "https://www.lemonde.fr/international/live/2026/10/29/en-direct-guerre-en-ukraine-immense-succes-pour-le-cessez-le-feu-humanitaire-a-olechky-la-treve-a-kherson-a-egalement-eu-un-effet-tangible_6799896_3210.html",
    "source": "Le Monde",
    "date": "2026-10-29T06:43:42+00:00",
-   "extrait": "Volodymyr Zelensky s’est félicité du cessez-le-feu à Olechky, qualifié d’« immense succès ». Le médiateur ukrainien pour les droits humains, Dmytro Lubinets, a annoncé jeudi qu’une cargaison de…",
+   "extrait": "Un drone russe à réaction a frappé un quai de la gare où se trouvait le train n⁰ 866 reliant Dnipro à Zaporijia, ont précisé les autorités. « Malgré l’alerte renforcée, des personnes se trouvaient…",
    "tags": [
     "Conflits"
    ],
@@ -435,18 +717,6 @@
    "zone": "france"
   },
   {
-   "id": "c17911bb8a4a",
-   "titre": "Trump says Peltola \"shouldn't be allowed to run\" due to second Dan Sullivan",
-   "lien": "https://www.cbsnews.com/news/trump-peltola-dan-sullivan-alaska-senate/",
-   "source": "CBS News",
-   "date": "2026-10-29T06:30:56+00:00",
-   "extrait": "A report alleged that people aligned with Democrat Mary Peltola's campaign helped recruit a candidate with the same first and last name as Republican Sen. Dan Sullivan. Peltola denied the allegations.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "7abf8ca4bea0",
    "titre": "La Corée du Nord a tiré « une dizaine de missiles balistiques » dans la mer du Japon, selon Séoul",
    "lien": "https://www.lemonde.fr/international/article/2026/10/29/la-coree-du-nord-a-tire-une-dizaine-de-missiles-balistiques-dans-la-mer-du-japon-selon-seoul_6802157_3210.html",
@@ -456,19 +726,6 @@
    "tags": [
     "Conflits",
     "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "939411f8ae51",
-   "titre": "\"Plus jamais un enfant victime d'inceste n'entendra qu'il était trop tard pour parler\" : le Sénat approuve l'imprescriptibilité des crimes sexuels commis sur les mineurs",
-   "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/plus-jamais-un-enfant-victime-d-inceste-n-entendra-qu-il-etait-trop-tard-pour-parler-le-senat-approuve-l-imprescriptibilite-des-crimes-sexuels-commis-sur-les-mineurs_8258195.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-29T06:26:09+00:00",
-   "extrait": "A l'heure actuelle, une victime de viol subi dans l'enfance peut porter plainte jusqu'à 48 ans, le délai de prescription étant de trente ans à compter de sa majorité, un délai jugé insuffisant par…",
-   "tags": [
-    "Politique",
-    "Justice"
    ],
    "zone": "france"
   },
@@ -518,6 +775,16 @@
    "tags": [
     "Politique"
    ],
+   "zone": "france"
+  },
+  {
+   "id": "1e16e4921e4d",
+   "titre": "\"C'était un désastre total\" : au lendemain de l'accident de train meurtrier en Espagne, le choc et l'indignation",
+   "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/reportage-c-etait-un-desastre-total-au-lendemain-de-l-accident-de-train-meurtrier-en-espagne-le-choc-et-l-indignation_8258294.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-29T06:18:20+00:00",
+   "extrait": "Jeudi matin, le bilan de l'accident est monté à 68 morts et 108 blessés. Les habitants de Urda, un petit village à 150 kilomètres de Madrid, s'organisent pour venir en aide aux rescapés.",
+   "tags": [],
    "zone": "france"
   },
   {
@@ -634,12 +901,22 @@
    "zone": "usa"
   },
   {
+   "id": "89717ea5ad76",
+   "titre": "Quand le cercueil censé être inhumé reste exposé à l’air libre",
+   "lien": "https://www.lemonde.fr/argent/article/2026/10/29/quand-le-cercueil-cense-etre-inhume-reste-expose-a-l-air-libre_6802085_1657007.html",
+   "source": "Le Monde",
+   "date": "2026-10-29T05:00:21+00:00",
+   "extrait": "Une entreprise de pompes funèbres est condamnée pour manquement à son obligation de se renseigner sur les besoins de son client.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "c965be027b93",
    "titre": "Vote des mineurs : « On dit que le suffrage est “universel”, sans se rendre compte que cela propulse les enfants aux confins de l’univers »",
    "lien": "https://www.lemonde.fr/campus/article/2026/10/29/vote-des-mineurs-on-dit-que-le-suffrage-est-universel-sans-se-rendre-compte-que-cela-propulse-les-enfants-aux-confins-de-l-univers_6802087_4401467.html",
    "source": "Le Monde",
-   "date": "2026-10-29T05:00:40+00:00",
-   "extrait": "Ouvrir l’accès au vote dès la naissance – et non seulement abaisser l’âge minimal comme défendu dans le contexte du mouvement lycéen – pourrait redonner un poids aux jeunes et interroger nos…",
+   "date": "2026-10-29T05:00:19+00:00",
+   "extrait": "Ouvrir l’accès au vote dès la naissance – et non seulement abaisser l’âge minimal, comme défendu dans le contexte du mouvement lycéen – pourrait redonner un poids aux jeunes et interroger nos…",
    "tags": [
     "Politique",
     "Justice"
@@ -739,6 +1016,16 @@
    "zone": "france"
   },
   {
+   "id": "8c7d2ea8007c",
+   "titre": "Le changement climatique, enjeu majeur pour le patrimoine culturel à l’horizon 2050",
+   "lien": "https://www.lemonde.fr/culture/article/2026/10/29/le-changement-climatique-enjeu-majeur-pour-le-patrimoine-culturel-a-l-horizon-2050_6802014_3246.html",
+   "source": "Le Monde",
+   "date": "2026-10-29T04:30:13+00:00",
+   "extrait": "Les châteaux de la Loire, le Mont-Saint-Michel, le fort Saint-André à Villeneuve-lès-Avignon ou encore l’abbaye de Fontfroide dans l’Aude… Trois études émanant d’organismes différents alertent sur…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "1ba00b69946e",
    "titre": "Jean-Luc Mélenchon et LFI à la conquête des « gameurs » avant la présidentielle de 2027",
    "lien": "https://www.lemonde.fr/politique/article/2026/10/29/jean-luc-melenchon-et-lfi-a-la-conquete-des-gamers-avant-la-presidentielle-de-2027_6802012_823448.html",
@@ -830,6 +1117,16 @@
     "Justice"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "5aa98e711bb2",
+   "titre": "Le « pont vers nulle part » relie enfin la Chine à la Corée du Nord",
+   "lien": "https://www.lemonde.fr/international/article/2026/10/29/le-pont-vers-nulle-part-relie-enfin-la-chine-a-la-coree-du-nord_6801876_3210.html",
+   "source": "Le Monde",
+   "date": "2026-10-29T02:30:10+00:00",
+   "extrait": "Longtemps en froid avec Pékin, Pyongyang a retardé pendant douze ans la construction d’un ultime tronçon terrestre pour finaliser l’ouvrage permettant des échanges commerciaux plus intenses entre…",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "f6c0b0ec5ae5",
@@ -1083,16 +1380,6 @@
    "extrait": "At least 68 were killed in Spain's second major train disaster of the year. Two high-speed trains collided, derailing at least two carriages. Leigh Kiniry reports.",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "6c762e0c245b",
-   "titre": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
-   "lien": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-29T00:00:15+00:00",
-   "extrait": "Properties where someone has died in tragic circumstances can have big reductions in price.",
-   "tags": [],
-   "zone": "monde"
   },
   {
    "id": "a2d322e9ea16",
@@ -1430,11 +1717,11 @@
   },
   {
    "id": "2138366703ef",
-   "titre": "Les enjeux de la 3e édition du sommet Russie-Afrique",
+   "titre": "Les enjeux de la troisième édition du sommet Russie-Afrique",
    "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261028-les-enjeux-de-la-3e-%C3%A9dition-du-sommet-russie-afrique",
    "source": "France 24",
    "date": "2026-10-28T22:17:36+00:00",
-   "extrait": "Vladimir Poutine a accueilli ce mercredi une vingtaine de dirigeants africains pour la 3e édition du sommet Russie-Afrique. L'occasion de resserrer les liens avec un continent riche en minerais et…",
+   "extrait": "Vladimir Poutine a accueilli mercredi une vingtaine de dirigeants africains pour la troisième édition du sommet Russie-Afrique. L'occasion de resserrer les liens avec un continent riche en minerais…",
    "tags": [
     "Conflits"
    ],
@@ -1853,6 +2140,16 @@
    "zone": "monde"
   },
   {
+   "id": "62e95aa0bba9",
+   "titre": "Collision de trains en Espagne : que s'est-il passé ?",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261028-collision-de-trains-en-espagne-que-s-est-il-pass%C3%A9",
+   "source": "France 24",
+   "date": "2026-10-28T20:18:56+00:00",
+   "extrait": "L’Espagne est en deuil après la collision de deux trains qui a fait au moins 68 morts dans le centre du pays. Alors que trois jours de deuil national ont été décrétés, les questions se posent sur…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
    "id": "7b7dfe69b96d",
    "titre": "Une enquête ouverte et confiée à l'IGPN après la mort d'un homme de 44 ans en garde à vue à Saint-Ouen",
    "lien": "https://www.franceinfo.fr/faits-divers/police/une-enquete-ouverte-et-confiee-a-l-igpn-apres-la-mort-d-un-homme-de-44-ans-en-garde-a-vue-a-saint-ouen_8257814.html#xtor=RSS-3-[lestitres]",
@@ -2240,18 +2537,6 @@
    "date": "2026-10-28T18:18:00+00:00",
    "extrait": "Le \"recours excessif à la force\", les \"violences\" et les \"interpellations massives ne sont pas des réponses appropriées à un mouvement social de contestation dans un Etat de droit\", écrivent ces…",
    "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "64aba2eeab52",
-   "titre": "Qu'est-ce que le système de gestion du trafic ferroviaire LZB, en panne au moment de la collision meurtrière entre deux trains en Espagne ?",
-   "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/qu-est-ce-que-le-systeme-de-gestion-du-trafic-ferroviaire-lzb-en-panne-au-moment-de-la-collision-meurtriere-entre-deux-trains-en-espagne_8257474.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-28T18:15:43+00:00",
-   "extrait": "Le système automatisé a fait défaut à six trains du secteur, entraînant une reprise en main humaine, mercredi matin. Le contrôleur a ensuite pris des décisions \"inexplicables\", a expliqué le…",
-   "tags": [
-    "Politique"
-   ],
    "zone": "france"
   },
   {
@@ -3201,288 +3486,6 @@
    "tags": [
     "Justice"
    ],
-   "zone": "france"
-  },
-  {
-   "id": "5c164f443577",
-   "titre": "EN DIRECT, guerre en Ukraine : un porte-conteneurs battant pavillon du Liberia attaqué par des drones en mer Noire, au large de la Bulgarie",
-   "lien": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-guerre-en-ukraine-un-porte-conteneurs-battant-pavillon-du-liberia-attaque-par-des-drones-en-mer-noire-au-large-de-la-bulgarie_6799896_3210.html",
-   "source": "Le Monde",
-   "date": "2026-10-28T14:42:27+00:00",
-   "extrait": "Trois drones maritimes ont percuté, mercredi, le « Contship Jet » qui naviguait au large des côtes bulgares, a déclaré Dimitar Stoyanov, le ministre de la défense bulgare. Il s’agit du dernier…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "d0bb7398fbc5",
-   "titre": "\"J'ai eu du mal à parler du livre parce que je l'aime beaucoup celui-là\" : Manu Larcenet présente \"L'insensé\", sa nouvelle bande dessinée",
-   "lien": "https://www.franceinfo.fr/culture/bd/j-ai-eu-du-mal-a-parler-du-livre-parce-que-je-l-aime-beaucoup-celui-la-manu-larcenet-presente-l-insense-sa-nouvelle-bande-dessinee_8256985.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-28T14:31:53+00:00",
-   "extrait": "Pour son nouvel ouvrage, l'auteur raconte l'histoire d'un dessinateur seul à la campagne qui tente de renouer les liens avec ses enfants après avoir été diagnostiqué bipolaire. Le récit se rapproche…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "4429b62108ed",
-   "titre": "How could Israel break election deadlock? Here are four scenarios",
-   "lien": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-28T14:30:31+00:00",
-   "extrait": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "bcc44bca3a82",
-   "titre": "Plateformes similaires à Parcoursup, inscriptions directes à l'université… Comment les autres pays européens organisent les admissions dans l'enseignement supérieur",
-   "lien": "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/plateformes-similaires-a-parcoursup-inscriptions-directe-a-l-universite-comment-les-autres-pays-europeens-organisent-les-admissions-dans-l-enseignement-superieur_8255539.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-28T14:27:49+00:00",
-   "extrait": "Des organisations lycéennes ont combattu la plateforme d'orientation, jusqu'à obtenir son remplacement progressif à l'horizon 2028.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "b05f61009473",
-   "titre": "Israel's election result is messy - here's why",
-   "lien": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-28T14:26:24+00:00",
-   "extrait": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "cb7d7177dcb3",
-   "titre": "L'Irlande, terre refuge des Américains anti-Trump",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/reporters/20261028-l-irlande-terre-refuge-des-am%C3%A9ricains-anti-trump",
-   "source": "France 24",
-   "date": "2026-10-28T14:25:25+00:00",
-   "extrait": "Ils ont tout quitté pour fuir les États-Unis de Donald Trump. Chercheurs, entrepreneurs ou étudiants, des dizaines de milliers d'Américains ont récemment posé leurs valises en Irlande en quête de…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "d8813147c902",
-   "titre": "L'avion de Flavio Bolsonaro a atterri près de Miami après \"une brève escale\" en Equateur",
-   "lien": "https://www.franceinfo.fr/monde/bresil/flavio-bolsonaro-en-vol-vers-l-equateur-depuis-l-argentine-apres-avoir-quitte-le-bresil-a-la-suite-de-sa-defaite-annoncent-les-autorites-argentines_8256826.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-28T14:21:58+00:00",
-   "extrait": "Le fils de l'ex-président brésilien d'extrême droite Jair Bolsonaro a d'abord franchi la frontière terrestre avec l'Argentine \"muni de documents de voyage en règle, sans aucun obstacle légal\", selon…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "3cf699a5e55b",
-   "titre": "Au Soudan, une frappe de drone fait plus de 100 morts sur un marché de la région du Darfour",
-   "lien": "https://www.franceinfo.fr/monde/afrique/soudan/au-soudan-une-frappe-de-drone-fait-plus-de-100-morts-sur-un-marche-de-la-region-du-darfour_8257405.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-28T14:16:08+00:00",
-   "extrait": "L'attaque, qui avait visé lundi soir un marché de la ville de Nyala, contrôlée par les paramilitaires, a aussi fait 113 blessés, dont des enfants, d'après l'ONG Emergency Lawyers. Depuis le début de…",
-   "tags": [
-    "Économie",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "e5d6f012d21c",
-   "titre": "Après la Liga, le Real Madrid s'excuse auprès de la Chine pour les propos de Kylian Mbappé sur Mao Zedong",
-   "lien": "https://www.franceinfo.fr/sports/foot/kylian-mbappe/apres-la-liga-le-real-madrid-s-excuse-aupres-de-la-chine-pour-les-propos-de-kylian-mbappe-sur-mao-zedong_8257426.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-28T14:15:03+00:00",
-   "extrait": "Au lendemain de la polémique déclenchée par la plaisanterie du Français, le club espagnol a publié un communiqué, mercredi.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "bcd360ed1e98",
-   "titre": "Exclusive discounts from CBS Mornings Deals",
-   "lien": "https://www.cbsnews.com/video/cbs-mornings-deals-102826/",
-   "source": "CBS News",
-   "date": "2026-10-28T14:11:03+00:00",
-   "extrait": "On this edition of CBS Deals, we show you items that could help improve your everyday lifestyle. Visit cbsdeals.com to take advantage of these exclusive deals today. CBS earns commissions on…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "e53ba350cfa7",
-   "titre": "Le maire de Limoges dit avoir reçu le soutien du vice-président des Etats-Unis, J.D. Vance, après l'incendie de l'hôtel de ville le 17 octobre",
-   "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-maire-de-limoges-ne-comprend-pas-l-absence-d-appel-d-emmanuel-macron-apres-l-incendie-de-l-hotel-de-ville-le-17-octobre_8257384.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-28T14:04:38+00:00",
-   "extrait": "L'élu LR Guillaume Guérin a aussi déploré n'avoir \"eu Emmanuel Macron ni en ligne, ni par SMS\".",
-   "tags": [
-    "Politique",
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "e4647d18d2b9",
-   "titre": "EN DIRECT, législatives en Israël : retrouvez la répartition des sièges par parti selon les derniers résultats partiels, après le dépouillement de plus de 85 % des suffrages exprimés",
-   "lien": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-legislatives-en-israel-isaac-herzog-le-president-israelien-exhorte-les-partis-politiques-a-tout-faire-pour-former-une-coalition-gouvernementale-malgre-l-absence-de-majorite-claire_6801217_3210.html",
-   "source": "Le Monde",
-   "date": "2026-10-28T14:03:44+00:00",
-   "extrait": "Aucune majorité ne se dessine au lendemain des élections législatives en Israël, après le dépouillement de plus de 85 % des suffrages exprimés. Le Likoud du premier ministre sortant, Benyamin…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "a118dc806b63",
-   "titre": "Élections législatives en Israël : qui sont ces électeurs Arabes israéliens, dont les partis pourraient jouer un rôle clé dans la formation du gouvernement ?",
-   "lien": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/elections-legislatives-en-israel-qui-sont-les-arabes-israeliens-qui-s-imposent-en-faiseurs-de-rois_8257375.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-28T14:01:15+00:00",
-   "extrait": "Le dépouillement des bulletins se poursuit mercredi en Israël, au lendemain des élections législatives. Les partis arabes vont vraisemblablement être amenés à jouer les arbitres entre les deux…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "fb19c322ef45",
-   "titre": "L’Autrichien Josef Hofer, figure majeure de l’art asilaire, est mort",
-   "lien": "https://www.lemonde.fr/disparitions/article/2026/10/28/l-autrichien-josef-hofer-figure-majeure-de-l-art-asilaire-est-mort_6801585_3382.html",
-   "source": "Le Monde",
-   "date": "2026-10-28T14:00:00+00:00",
-   "extrait": "Souffrant de difficultés d’audition et de locomotion, ainsi que de troubles cognitifs et comportementaux, il s’était pris de passion pour le dessin, créant une œuvre singulière et intense. Il s’est…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "9ce15780848f",
-   "titre": "Les maisons des jeunes et de la culture contraintes de faire évoluer leur modèle",
-   "lien": "https://www.lemonde.fr/economie/article/2026/10/28/les-maisons-des-jeunes-et-de-la-culture-contraintes-de-faire-evoluer-leur-modele_6801584_3234.html",
-   "source": "Le Monde",
-   "date": "2026-10-28T14:00:00+00:00",
-   "extrait": "A l’heure où les collectivités voient fondre leurs financements publics, ces structures associatives qui promeuvent l’éducation populaire, la mixité sociale, et l’apprentissage de la citoyenneté, se…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "d4c21f3360f6",
-   "titre": "Soudan : le bilan de la frappe sur un marché de la région du Darfour s’élève désormais à plus de 100 morts",
-   "lien": "https://www.lemonde.fr/afrique/article/2026/10/28/soudan-le-bilan-de-la-frappe-sur-un-marche-de-la-region-du-darfour-s-eleve-desormais-a-plus-de-100-morts_6801582_3212.html",
-   "source": "Le Monde",
-   "date": "2026-10-28T13:57:06+00:00",
-   "extrait": "Des témoins et une source médicale avaient initialement fait état de 21 morts et de 40 blessés. Le drone a, selon l’ONG Emergency Lawyers, visé le marché très fréquenté de Tanqonj.",
-   "tags": [
-    "Économie",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "20556de797e5",
-   "titre": "La région Ile-de-France et la ville de Paris créent un fonds d'urgence de 13 millions d'euros pour les commerces endommagés après le 17 octobre",
-   "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/la-region-ile-de-france-et-la-ville-de-paris-creent-un-fonds-d-urgence-de-13-millions-d-euros-pour-les-commerces-endommages-apres-le-17-octobre_8257150.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-28T13:57:00+00:00",
-   "extrait": "Les commerces les plus touchés pourront recevoir jusqu'à 11 000 euros d'aide.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "4b6082ad2607",
-   "titre": "Deadly high-speed train collision in Spain, dozens killed",
-   "lien": "https://www.cbsnews.com/video/deadly-high-speed-train-collision-in-spain/",
-   "source": "CBS News",
-   "date": "2026-10-28T13:56:50+00:00",
-   "extrait": "A high-speed train collision in Spain has killed dozens. CBS News' Imtiaz Tyab reports.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "bf3e073644b4",
-   "titre": "Une information judiciaire ouverte pour assassinat après la mort par balle d'un homme de 56 ans à Lebetain",
-   "lien": "https://www.franceinfo.fr/faits-divers/une-information-judiciaire-ouverte-pour-assassinat-apres-la-mort-par-balle-d-un-homme-de-56-ans-a-lebetain_8257402.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-28T13:43:10+00:00",
-   "extrait": "Le parquet de Belfort a écarté la thèse du suicide même si pour le moment, aucun suspect n'a été identifié.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "ee3094f01e53",
-   "titre": "Christina Applegate tells MS community: \"I'm still your warrior\"",
-   "lien": "https://www.cbsnews.com/video/christina-applegate-tells-ms-community-im-still-your-warrior/",
-   "source": "CBS News",
-   "date": "2026-10-28T13:40:09+00:00",
-   "extrait": "Christina Applegate addressed her MS misdiagnosis on her and Jamie-Lynn Seigler's podcast, \"MeSsY,\" which focuses on the disease. Nischelle Turner has more.",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "78e60b99da45",
-   "titre": "How to talk to teens about drugs and alcohol",
-   "lien": "https://www.cbsnews.com/video/how-to-talk-to-teens-about-drugs-and-alcohol/",
-   "source": "CBS News",
-   "date": "2026-10-28T13:34:16+00:00",
-   "extrait": "Dr. Sheryl Ziegler sits down with \"CBS Mornings\" to share tips on how parents can talk about drugs and alcohol with their teens.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "beea26b70fe9",
-   "titre": "Face au basculement démographique, le CESE plaide pour une approche globale, loin des seules incantations natalistes",
-   "lien": "https://www.lemonde.fr/politique/article/2026/10/28/face-au-basculement-demographique-le-cese-plaide-pour-une-approche-globale-loin-seules-des-incantations-natalistes_6801581_823448.html",
-   "source": "Le Monde",
-   "date": "2026-10-28T13:30:00+00:00",
-   "extrait": "Dans son « Rapport annuel sur l’état de la France » publié mercredi 28 octobre, le Conseil économique, social et environnemental appelle, pour relever le défi qui se pose à notre modèle social, à…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "75c6bba4aff4",
-   "titre": "Why female breadwinners struggle in relationships",
-   "lien": "https://www.cbsnews.com/video/why-female-breadwinners-struggle-in-relationships/",
-   "source": "CBS News",
-   "date": "2026-10-28T13:29:04+00:00",
-   "extrait": "Influencer April Lockhardt shared her own story of how her professional success ultimately led to the end of her marriage. Adriana Diaz reports on how being a female breadwinner can impact…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "558719353ba1",
-   "titre": "Can a prenatal vitamin impact your child's IQ?",
-   "lien": "https://www.cbsnews.com/video/can-a-prenatal-vitamin-impact-your-childs-iq/",
-   "source": "CBS News",
-   "date": "2026-10-28T13:25:22+00:00",
-   "extrait": "Dr. Céline Gounder joins \"CBS Mornings\" to discuss new research that shows a certain prenatal supplement could impact your child's IQ.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "9c3c07a587a3",
-   "titre": "Moins de lait, moins de légumes, des fruits plus petits… Les effets dévastateurs de l'été caniculaire perdurent",
-   "lien": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/moins-de-lait-moins-de-legumes-des-fruits-plus-petits-les-effets-devastateurs-de-l-ete-caniculaire-perdurent_8256841.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-28T13:25:19+00:00",
-   "extrait": "Alors que l'automne s’installe, certains éleveurs sont contraints de rationner leur troupeau, malgré les aides de l'État. Et sur les étals, les fromages, fruits et légumes français risquent de se…",
-   "tags": [],
    "zone": "france"
   }
  ]
