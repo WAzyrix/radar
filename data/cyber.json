@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-29T06:31:17+00:00",
+ "maj": "2026-10-29T07:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,30 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "e91f33b06ca8",
+   "titre": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
+   "lien": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
+   "source": "The Hacker News",
+   "date": "2026-10-29T06:22:33+00:00",
+   "extrait": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after…",
+   "tags": [
+    "CVE",
+    "Faille",
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "f4eff089be53",
+   "titre": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
+   "lien": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
+   "source": "The Hacker News",
+   "date": "2026-10-29T05:50:17+00:00",
+   "extrait": "Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces. \"Active exploitation has…",
+   "tags": [
+    "Faille"
+   ]
+  },
   {
    "id": "6369b7f8877c",
    "titre": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
@@ -3375,30 +3399,6 @@
    "date": "2026-10-14T07:34:36+00:00",
    "extrait": "Ported2Browser recense 210 jeux jouables dans un onglet. AssaultCube et DOOM démarrent bien, mais l'annuaire liste aussi des jeux commerciaux à vérifier.",
    "tags": []
-  },
-  {
-   "id": "7cf93d094bc6",
-   "titre": "Le Petit Prince devient un jeu 3D dans votre navigateur (Merci l'IA)",
-   "lien": "https://korben.info/petit-prince-jeu-3d-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-10-14T06:00:16+00:00",
-   "extrait": "Le Petit Prince parmi les étoiles est un jeu 3D jouable dans le navigateur, en français, que Sac dit avoir fabriqué en 16 jours avec Claude Opus 5.5, Tripo et Blender. Ce que le code révèle, les…",
-   "tags": [
-    "IA",
-    "Outil",
-    "Linux"
-   ]
-  },
-  {
-   "id": "69256ef540fb",
-   "titre": "xboxrecomp - Transformer un jeu Xbox en .exe Windows",
-   "lien": "https://korben.info/xboxrecomp-recompilation-statique-xbox.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-10-14T06:00:00+00:00",
-   "extrait": "xboxrecomp traduit le code d'un jeu Xbox originale en C pour en faire un .exe Windows. Burnout 3 tourne, mais à 2-4 images par seconde : état des lieux.",
-   "tags": [
-    "Windows"
-   ]
   }
  ]
 }
