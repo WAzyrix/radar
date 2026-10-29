@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-29T21:05:41+00:00",
+ "maj": "2026-10-29T22:05:43+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "fe7730fa4068",
+   "titre": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+   "lien": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
+   "source": "BleepingComputer",
+   "date": "2026-10-29T21:47:25+00:00",
+   "extrait": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately…",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
   {
    "id": "e692538b686e",
    "titre": "Fake crypto app on Apple App Store linked to $23K wallet theft",
@@ -3405,18 +3416,6 @@
    "extrait": "La Disquette fait tourner chaque semaine un ancien jeu PC Windows sur ses serveurs et l'affiche dans votre navigateur, gratuitement, dans un faux bureau XP. GTA 2 jusqu'au 26 octobre, sans compte ni…",
    "tags": [
     "Windows"
-   ]
-  },
-  {
-   "id": "6c494d43a845",
-   "titre": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
-   "lien": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
-   "source": "The Hacker News",
-   "date": "2026-10-20T04:05:58+00:00",
-   "extrait": "Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader. According to Forescout Research…",
-   "tags": [
-    "Fuite de données",
-    "Malware"
    ]
   }
  ]
