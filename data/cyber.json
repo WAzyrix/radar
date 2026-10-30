@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-30T16:05:42+00:00",
+ "maj": "2026-10-30T17:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -33,6 +33,17 @@
    "tags": []
   },
   {
+   "id": "bfec2004bdb1",
+   "titre": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
+   "lien": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
+   "source": "The Hacker News",
+   "date": "2026-10-30T15:17:28+00:00",
+   "extrait": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
    "id": "96a0f026f2e0",
    "titre": "Malicious Claude Code extension on Cursor planted SSH backdoors",
    "lien": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
@@ -42,6 +53,17 @@
    "tags": [
     "Malware",
     "IA"
+   ]
+  },
+  {
+   "id": "6473fc7702e5",
+   "titre": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
+   "lien": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
+   "source": "The Hacker News",
+   "date": "2026-10-30T14:08:14+00:00",
+   "extrait": "Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released. The vulnerability, which does not have a CVE identifier…",
+   "tags": [
+    "Faille"
    ]
   },
   {
@@ -3385,28 +3407,6 @@
    "source": "CERT-FR",
    "date": "2026-10-21T00:00:00+00:00",
    "extrait": "De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "aef2fcf58160",
-   "titre": "Multiples vulnérabilités dans Oracle Java SE (21 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1350/",
-   "source": "CERT-FR",
-   "date": "2026-10-21T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "0e595982e728",
-   "titre": "Multiples vulnérabilités dans Mattermost Server (21 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1348/",
-   "source": "CERT-FR",
-   "date": "2026-10-21T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
    "tags": [
     "Faille"
    ]
