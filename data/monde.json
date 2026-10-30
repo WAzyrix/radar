@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-30T18:08:55+00:00",
+ "maj": "2026-10-30T19:07:04+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,12 +22,58 @@
  "erreurs": [],
  "articles": [
   {
-   "id": "bac62affa473",
-   "titre": "Trump meeting freed prisoner Stephen Hubbard at the White House",
-   "lien": "https://www.cbsnews.com/news/trump-meeting-stephen-hubbard-white-house-russia-release/",
+   "id": "310487caef4e",
+   "titre": "EN DIRECT, guerre en Ukraine : Kiev demande une réunion d’urgence du Conseil de sécurité de l’ONU",
+   "lien": "https://www.lemonde.fr/international/live/2026/10/30/en-direct-guerre-en-ukraine-kiev-demande-une-reunion-d-urgence-du-conseil-de-securite-de-l-onu_6799896_3210.html",
+   "source": "Le Monde",
+   "date": "2026-10-30T19:03:28+00:00",
+   "extrait": "« A la suite des dernières atrocités barbares commises par la Russie contre des civils ukrainiens à Dnipro, Tchernihiv et Krementchouk, où des missiles russes tirés délibérément ont tué 20…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "4de53ecdca78",
+   "titre": "Tech stocks crushed as Nasdaq tumbles nearly 1,000 points",
+   "lien": "https://www.cbsnews.com/news/nasdaq-futures-tumble-tech-earnings-ai/",
    "source": "CBS News",
-   "date": "2026-10-30T18:07:08+00:00",
-   "extrait": "Stephen Hubbard was imprisoned in Russia for over four years until gaining release last week.",
+   "date": "2026-10-30T18:58:35+00:00",
+   "extrait": "Disappointing earnings reports from Alphabet, Amazon and Intel are renewing fears that the AI trade could unravel.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "386f35e43d30",
+   "titre": "How the Latino vote could shape midterm elections",
+   "lien": "https://www.cbsnews.com/video/how-the-latino-vote-could-shape-midterm-elections/",
+   "source": "CBS News",
+   "date": "2026-10-30T18:47:14+00:00",
+   "extrait": "Ken Salazar, a former U.S. secretary of the interior, shares his perspective on how Latino communities could shape the results of the midterm elections.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "b2f3b32f903e",
+   "titre": "$6.3 billion Binance hack may be largest cyber heist in history",
+   "lien": "https://www.cbsnews.com/video/63-billion-binance-hack-is-largest-cyber-heist-in-history/",
+   "source": "CBS News",
+   "date": "2026-10-30T18:45:51+00:00",
+   "extrait": "Hackers targeted Binance, the world's biggest cryptocurrency exchange, taking $6.3 billion in assets. Hush CEO and co-founder Mykolas Rambus joins with more.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "b42fb5780338",
+   "titre": "Pope Leo becomes the first pontiff to vote in a U.S. election",
+   "lien": "https://www.cbsnews.com/video/pope-leo-becomes-the-first-pontiff-to-vote-in-a-us-election/",
+   "source": "CBS News",
+   "date": "2026-10-30T18:44:19+00:00",
+   "extrait": "Pope Leo XIV became the first pontiff to vote in a U.S. election after mailing his ballot to Chicago, according to the Vatican.",
    "tags": [
     "Politique"
    ],
@@ -35,13 +81,142 @@
   },
   {
    "id": "4c023c8f41ed",
-   "titre": "Attentat raciste dans les Yvelines : \"On est au bord d'un grand basculement\", redoute Ségolène Royal au rassemblement organisé à Trappes",
+   "titre": "Attentat raciste dans les Yvelines : le maire de Trappes accuse le RN d'avoir \"inoculé la haine\" dans l'esprit de l'auteur de l'attaque",
    "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/direct-attentat-raciste-dans-les-yvelines-un-grand-rassemblement-organise-par-la-municipalite-de-trappes-prevu-a-18-heures-plusieurs-milliers-de-personnes-attendues_8259788.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-10-30T18:06:12+00:00",
-   "extrait": "Plusieurs figures de gauche, dont Jean-Luc Mélenchon, Olivier Faure et Marine Tondelier, participent, vendredi, à un rassemblement contre le racisme et l'islamophobie organisé par la mairie de…",
+   "date": "2026-10-30T18:37:35+00:00",
+   "extrait": "Des milliers de personnes, parmi lesquelles des figures de gauche comme Jean-Luc Mélenchon, Olivier Faure, Raphaël Glucksmann et Marine Tondelier, participent, vendredi, à un rassemblement contre le…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "79f8566f4b7b",
+   "titre": "Meta settles social media addiction lawsuit, averting trial",
+   "lien": "https://www.cbsnews.com/news/meta-settles-social-media-addiction-lawsuit-snapchat/",
+   "source": "CBS News",
+   "date": "2026-10-30T18:36:30+00:00",
+   "extrait": "Two plaintiffs alleged that Meta and Snap designed their social media platforms to foster addictive behavior.",
+   "tags": [
+    "Justice",
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "56d1795ccce0",
+   "titre": "ICE officer indicted in Texas after allegedly hitting man with vehicle",
+   "lien": "https://www.cbsnews.com/news/ice-officer-indicted-felony-texas-hit-man-vehicle/",
+   "source": "CBS News",
+   "date": "2026-10-30T18:32:51+00:00",
+   "extrait": "A U.S. Immigration and Customs Enforcement officer was indicted on a felony for allegedly hitting a man with a vehicle earlier this month.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "fbb4abd67628",
+   "titre": "This week on \"Sunday Morning\" (Nov. 1)",
+   "lien": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-1-2026/",
+   "source": "CBS News",
+   "date": "2026-10-30T18:30:21+00:00",
+   "extrait": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "bcb2c57771a7",
+   "titre": "Croissance, dette, crise sociale : la France sous pression",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/la-semaine-de-l-%C3%A9co/20261030-croissance-dette-crise-sociale-la-france-sous-pression",
+   "source": "France 24",
+   "date": "2026-10-30T18:23:47+00:00",
+   "extrait": "Une croissance qui cale, des prix qui repartent à la hausse, une dette toujours plus lourde, l’économie française est-elle en train de décrocher ? Derrière les chiffres, les tensions…",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "67aab720d98d",
+   "titre": "Judge opens misconduct inquiry into Trump officials in golf course case",
+   "lien": "https://www.cbsnews.com/news/trump-golf-course-east-potomac-judge-inquiry/",
+   "source": "CBS News",
+   "date": "2026-10-30T18:23:16+00:00",
+   "extrait": "U.S. District Judge Ana Reyes said she will conduct a formal inquiry into whether government officials engaged in misconduct.",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "71d85cb6d043",
+   "titre": "\"Il n'y a pas eu un seul moment depuis cette nuit-là où je n'ai pas souffert\", témoigne Christa Pike après avoir survécu à son exécution aux Etats-Unis",
+   "lien": "https://www.franceinfo.fr/monde/usa/il-n-y-a-pas-eu-un-seul-moment-depuis-cette-nuit-la-ou-je-n-ai-pas-souffert-temoigne-christa-pike-apres-avoir-survecu-a-son-execution-aux-etats-unis_8260529.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-30T18:22:38+00:00",
+   "extrait": "L'exécution ratée de cette femme, sans précédent aux Etats-Unis, a relancé le débat sur l'application de la peine capitale, en particulier par injection létale.",
    "tags": [],
    "zone": "france"
+  },
+  {
+   "id": "ad22688bd7fb",
+   "titre": "Cortèges autorisés, dispositif de sécurité... A quoi faut-il s'attendre pour les manifestations du samedi 31 octobre ?",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/corteges-autorises-dispositif-de-securite-a-quoi-faut-il-s-attendre-pour-les-manifestations-du-samedi-31-octobre_8258933.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-30T18:20:04+00:00",
+   "extrait": "Face au risque \"très élevé\" de débordements, Laurent Nuñez, le ministre de l'Intérieur, prévoit de mobiliser quelque 70 000 membres des forces de l'ordre.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "dcd06f0c7e9b",
+   "titre": "Trump predicts Iran war will end soon as Qatar pushes for a deal",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+   "source": "CBS News",
+   "date": "2026-10-30T18:17:56+00:00",
+   "extrait": "Trump predicts the war with Iran is \"going to end soon,\" without offering any details, as Qatari mediators return to Tehran to push for a deal.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "9513d1329393",
+   "titre": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+   "lien": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-30T18:17:27+00:00",
+   "extrait": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "5472b11c5554",
+   "titre": "$6.3 billion Binance hack likely work of North Korea, experts say",
+   "lien": "https://www.cbsnews.com/news/binance-hack-north-korea/",
+   "source": "CBS News",
+   "date": "2026-10-30T18:10:00+00:00",
+   "extrait": "A cyberattack on Binance, the world's largest crypto exchange, was likely carried out by North Korea, according to a blockchain intelligence firm.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "bac62affa473",
+   "titre": "Trump meeting freed prisoner Stephen Hubbard at the White House",
+   "lien": "https://www.cbsnews.com/news/trump-meeting-stephen-hubbard-white-house-russia-release/",
+   "source": "CBS News",
+   "date": "2026-10-30T18:07:00+00:00",
+   "extrait": "Stephen Hubbard was imprisoned in Russia for over four years until gaining release last week.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
   },
   {
    "id": "ea27dff88ff0",
@@ -64,18 +239,6 @@
     "Justice"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "ad22688bd7fb",
-   "titre": "Cortèges autorisés, dispositif de sécurité... A quoi faut-il s'attendre pour les manifestations du samedi 31 octobre ?",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/corteges-autorises-dispositif-de-securite-a-quoi-faut-il-s-attendre-pour-les-manifestations-du-samedi-31-octobre_8258933.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-30T17:57:58+00:00",
-   "extrait": "Face au risque \"très élevé\" de débordements, Laurent Nuñez, le ministre de l'Intérieur, prévoit de mobiliser quelque 70 000 membres des forces de l'ordre.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
   },
   {
    "id": "ee866feb9ec3",
@@ -116,6 +279,19 @@
    "zone": "monde"
   },
   {
+   "id": "53520f7bcea9",
+   "titre": "Attentat de Trappes : le récit en vidéo d’une attaque terroriste au mobile raciste",
+   "lien": "https://www.lemonde.fr/videos/video/2026/10/30/attentat-de-trappes-le-recit-en-video-d-une-attaque-terroriste-au-mobile-raciste_6803127_1669088.html",
+   "source": "Le Monde",
+   "date": "2026-10-30T17:45:40+00:00",
+   "extrait": "Les éléments de l’enquête révélés par le procureur de la République antiterroriste jeudi permettent d’en savoir plus sur le déroulé et les motivations du suspect de l’attentat raciste de Trappes qui…",
+   "tags": [
+    "Conflits",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "ba990095861a",
    "titre": "ICE activity is surging ahead of midterms. So is voter turnout.",
    "lien": "https://www.npr.org/2026/10/30/nx-s1-6023331/ice-activity-surge-midterms",
@@ -123,18 +299,6 @@
    "date": "2026-10-30T17:45:27+00:00",
    "extrait": "Across the country, there are reports of heightened ICE activity. Advocates worry about how close it is to midterms, but so far voter turnout is surging.",
    "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "4de53ecdca78",
-   "titre": "Tech stocks crushed as Nasdaq tumbles more than 800 points",
-   "lien": "https://www.cbsnews.com/news/nasdaq-futures-tumble-tech-earnings-ai/",
-   "source": "CBS News",
-   "date": "2026-10-30T17:44:11+00:00",
-   "extrait": "Disappointing earnings reports from Alphabet, Amazon and Intel are renewing fears that the AI trade could unravel.",
-   "tags": [
-    "Tech"
-   ],
    "zone": "usa"
   },
   {
@@ -151,7 +315,7 @@
   },
   {
    "id": "4bebc72965ac",
-   "titre": "Manifestation du 31 octobre à Paris : le tribunal administratif suspend l’arrêté de la Préfecture de police interdisant la manifestation entre Bastille et Nation, souhaitée par l’intersyndicale",
+   "titre": "Manifestation du 31 octobre à Paris : le tribunal administratif suspend l’arrêté de la Préfecture de police interdisant le parcours entre Bastille et Nation, souhaité par l’intersyndicale",
    "lien": "https://www.lemonde.fr/societe/article/2026/10/30/manifestation-du-31-octobre-a-paris-le-tribunal-administratif-suspend-l-arrete-de-la-prefecture-de-police-interdisant-la-manifestation-entre-bastille-et-nation-souhaite-par-l-intersyndicale_6803066_3225.html",
    "source": "Le Monde",
    "date": "2026-10-30T17:38:46+00:00",
@@ -161,16 +325,6 @@
     "Justice"
    ],
    "zone": "france"
-  },
-  {
-   "id": "fbb4abd67628",
-   "titre": "This week on \"Sunday Morning\" (Nov. 1)",
-   "lien": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-1-2026/",
-   "source": "CBS News",
-   "date": "2026-10-30T17:35:06+00:00",
-   "extrait": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "727fa2134f23",
@@ -183,17 +337,28 @@
    "zone": "usa"
   },
   {
-   "id": "dcd06f0c7e9b",
-   "titre": "Trump predicts Iran war will end soon as Qatar pushes for a deal",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+   "id": "5885b748a080",
+   "titre": "From the archives: Sir Patrick Stewart and Sir Ian McKellen",
+   "lien": "https://www.cbsnews.com/video/from-the-archives-sir-patrick-stewart-and-sir-ian-mckellen/",
    "source": "CBS News",
-   "date": "2026-10-30T17:27:48+00:00",
-   "extrait": "Trump predicts the war with Iran is \"going to end soon,\" without offering any details, as Qatari mediators return to Tehran to push for a deal.",
+   "date": "2026-10-30T17:32:00+00:00",
+   "extrait": "Sir Patrick Stewart, the Shakespearean actor best-known for his role in the \"Star Trek\" franchise, died on Oct. 28, 2026 at age 86. In this \"Sunday Morning\" interview that aired Oct. 13, 2013…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "4a1f361d1f7f",
+   "titre": "Croissance zéro, pétrole cher et taux d’emprunt record : le budget 2027 jugé de moins en moins crédible",
+   "lien": "https://www.lemonde.fr/politique/article/2026/10/30/croissance-zero-petrole-cher-et-taux-d-emprunt-record-le-budget-2027-juge-de-moins-en-moins-credible_6803125_823448.html",
+   "source": "Le Monde",
+   "date": "2026-10-30T17:30:04+00:00",
+   "extrait": "Le gouvernement tablait sur une croissance de 0,5 % en 2026 puis de 1 % en 2027. Des objectifs jugés peu réalistes par les économistes, après le recul enregistré au troisième trimestre. A la clé, un…",
    "tags": [
     "Politique",
-    "Conflits"
+    "Économie",
+    "Justice"
    ],
-   "zone": "usa"
+   "zone": "france"
   },
   {
    "id": "5ff003544dc6",
@@ -202,16 +367,6 @@
    "source": "CBS News",
    "date": "2026-10-30T17:27:18+00:00",
    "extrait": "CBS California Investigates took a closer look at how rates compare to other utilities in the region, and at the high salaries of dozens of executives.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "56d1795ccce0",
-   "titre": "ICE officer indicted in Texas after allegedly hitting man with vehicle",
-   "lien": "https://www.cbsnews.com/news/ice-officer-indicted-felony-texas-hit-man-vehicle/",
-   "source": "CBS News",
-   "date": "2026-10-30T17:26:15+00:00",
-   "extrait": "A U.S. Immigration and Customs Enforcement officer was indicted on a felony for allegedly hitting a man with a vehicle earlier this month.",
    "tags": [],
    "zone": "usa"
   },
@@ -272,11 +427,11 @@
   },
   {
    "id": "170c03448f8f",
-   "titre": "Attentat raciste dans les Yvelines : rassemblement à La Verrière en hommage aux victimes",
+   "titre": "Dans les Yvelines, des rassemblements contre le racisme et en hommage aux victimes de l'attentat",
    "lien": "https://www.france24.com/fr/france/20261030-attentat-raciste-yvelines-centaines-personnes-rassemblement-la-verri%C3%A8re-hommage-victimes-edouard-philippe",
    "source": "France 24",
    "date": "2026-10-30T17:12:38+00:00",
-   "extrait": "Quelques centaines de personnes se sont rassemblées vendredi à La Verrière, l'une des deux communes meurtries par un attentat raciste la semaine passée, pour rendre hommage aux victimes. Parmi les…",
+   "extrait": "Deux événements ont eu lieu vendredi à Trappes et à La Verrière, les deux communes touchées par un attentat raciste la semaine passée, pour rendre hommage aux victimes et faire front contre le…",
    "tags": [],
    "zone": "monde"
   },
@@ -291,6 +446,18 @@
     "Politique"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "ee82cbe5fe30",
+   "titre": "Le gouvernement met fin à cinq programmes d’aide à la rénovation énergétique des logements et des bâtiments publics",
+   "lien": "https://www.lemonde.fr/societe/article/2026/10/30/le-gouvernement-met-fin-a-cinq-programmes-d-aide-a-la-renovation-energetique-des-logements-et-des-batiments-publics_6803122_3224.html",
+   "source": "Le Monde",
+   "date": "2026-10-30T17:08:42+00:00",
+   "extrait": "L’exécutif justifie la non-reconduction de ces projets, qui accompagnent des collectivités, des propriétaires bailleurs et des ménages très modestes, par sa volonté de réorienter les financements…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
   },
   {
    "id": "34389cc3e027",
@@ -315,11 +482,23 @@
    "zone": "monde"
   },
   {
+   "id": "01b709535941",
+   "titre": "Ce que l'on sait de la mort d'un homme de 44 ans, survenue lors de sa garde à vue au commissariat de Saint-Ouen",
+   "lien": "https://www.franceinfo.fr/faits-divers/ce-que-l-on-sait-de-la-mort-d-un-homme-de-44-ans-survenue-lors-de-sa-garde-a-vue-au-commissariat-de-saint-ouen_8260172.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-30T17:05:41+00:00",
+   "extrait": "Une enquête est ouverte pour rechercher les causes de la mort, mardi, au commissariat de Saint-Ouen, en Seine-Saint-Denis, de Mauricio K., qui était placé en garde à vue depuis lundi.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "4e0ead9ff5e9",
    "titre": "Trump reverses decision to cancel rallies in Kansas and Iowa",
    "lien": "https://www.cbsnews.com/video/trump-reverses-decision-to-cancel-rallies-in-kansas-iowa/",
    "source": "CBS News",
-   "date": "2026-10-30T17:04:43+00:00",
+   "date": "2026-10-30T17:04:00+00:00",
    "extrait": "President Trump's planned rallies in Kansas and Iowa are back on. Meanwhile, political campaigns are increasingly turning to AI. CBS News' Kathryn Watson has more, and Taurean Small reports on…",
    "tags": [
     "Politique",
@@ -389,6 +568,18 @@
     "Conflits"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "745edef402be",
+   "titre": "Manifestations de la « gen Z » en Inde : « Un fossé énorme s’est creusé entre les aspirations de mobilité sociale de la population et la réalité »",
+   "lien": "https://www.lemonde.fr/international/article/2026/10/30/manifestations-de-la-gen-z-en-inde-un-fosse-enorme-s-est-creuse-entre-les-aspirations-de-mobilite-sociale-de-la-population-et-la-realite_6803121_3210.html",
+   "source": "Le Monde",
+   "date": "2026-10-30T17:00:14+00:00",
+   "extrait": "Avishek Jha, géographe, étudie les mouvements sociaux et le chômage des jeunes en Inde. Dans un entretien au Monde, il revient sur les causes structurelles de la crise touchant la jeunesse indienne…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
   },
   {
    "id": "47326aaa1280",
@@ -535,6 +726,18 @@
    "date": "2026-10-30T16:40:08+00:00",
    "extrait": "Deux jours après la collision ferroviaire meurtrière en Espagne, les familles des passagers disparus sont confrontées à une attente insoutenable. Les autorités dénombrent officiellement 70 personnes…",
    "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "ff30835430e2",
+   "titre": "Blanchiment : Monaco sort de la « liste grise » du Groupe d’action financière grâce aux « progrès » de son arsenal de contrôle",
+   "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/10/30/blanchiment-monaco-sort-de-la-liste-grise-du-groupe-d-action-financiere-grace-aux-progres-de-son-arsenal-de-controle_6803119_4355770.html",
+   "source": "Le Monde",
+   "date": "2026-10-30T16:30:23+00:00",
+   "extrait": "Durement pénalisée par ce fichage du GAFI depuis 2024, la Principauté a entrepris une série de réformes à marche forcée pour prouver qu’elle est capable de lutter efficacement contre les fonds…",
+   "tags": [
+    "Économie"
+   ],
    "zone": "france"
   },
   {
@@ -1180,16 +1383,6 @@
    "zone": "monde"
   },
   {
-   "id": "5472b11c5554",
-   "titre": "$6.3 billion Binance hack likely work of North Korea, experts say",
-   "lien": "https://www.cbsnews.com/news/binance-hack-north-korea/",
-   "source": "CBS News",
-   "date": "2026-10-30T14:39:38+00:00",
-   "extrait": "A cyberattack on Binance, the world's largest crypto exchange, was likely carried out by North Korea, according to a blockchain intelligence firm.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "b5eeb6eed6c6",
    "titre": "Christa Pike speaks after botched execution: \"Don't know what's next\"",
    "lien": "https://www.cbsnews.com/news/christa-pike-botched-execution-statement/",
@@ -1236,11 +1429,11 @@
   },
   {
    "id": "cb0d3340305f",
-   "titre": "EN DIRECT, midterms 2026 : « Une victoire démocrate à la Chambre des représentants, voire au Sénat, représenterait une forme de rééquilibrage des pouvoirs »",
+   "titre": "EN DIRECT, midterms 2026 : Donald Trump attendu en Floride vendredi soir ; Elon Musk appelle à voter républicain… Suivez la campagne des midterms et posez vos questions",
    "lien": "https://www.lemonde.fr/international/live/2026/10/30/en-direct-midterms-2026-posez-vos-questions-a-notre-correspondant-aux-etats-unis-piotr-smolar-sur-les-enjeux-politiques-de-ces-elections-de-mi-mandat_6801590_3210.html",
    "source": "Le Monde",
    "date": "2026-10-30T14:34:05+00:00",
-   "extrait": "Les démocrates ont-ils vraiment une chance de reprendre les deux chambres du Congrès ? Comment les Américains réagissent-ils aux deux années de l’actuelle présidence Trump ? Notre journaliste répond…",
+   "extrait": "A quatre jours du scrutin, les démocrates sont en passe de reprendre la Chambre des représentants, selon le Cook Political Report, un organisme indépendant d’analyse électorale.",
    "tags": [
     "Politique"
    ],
@@ -1259,16 +1452,6 @@
     "Conflits"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "71d85cb6d043",
-   "titre": "\"Il n'y a pas eu un seul moment depuis cette nuit-là où je n'ai pas souffert\", témoigne Christa Pike après avoir survécu à son exécution aux Etats-Unis",
-   "lien": "https://www.franceinfo.fr/monde/usa/il-n-y-a-pas-eu-un-seul-moment-depuis-cette-nuit-la-ou-je-n-ai-pas-souffert-temoigne-christa-pike-apres-avoir-survecu-a-son-execution-aux-etats-unis_8260529.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-30T14:30:52+00:00",
-   "extrait": "L'exécution ratée de cette femme, sans précédent aux Etats-Unis, a relancé le débat sur l'application de la peine capitale, en particulier par injection létale.",
-   "tags": [],
-   "zone": "france"
   },
   {
    "id": "2ba82b81a874",
@@ -1323,7 +1506,7 @@
    "titre": "Pope Leo becomes first pontiff to vote in a U.S. election",
    "lien": "https://www.cbsnews.com/news/pope-leo-xiv-votes-us-election/",
    "source": "CBS News",
-   "date": "2026-10-30T14:20:22+00:00",
+   "date": "2026-10-30T14:20:00+00:00",
    "extrait": "The Vatican said Pope Leo exercised his right as a U.S. citizen, submitting a mail-in ballot in his native Chicago ahead of the midterm elections next week.",
    "tags": [
     "Politique"
@@ -1495,18 +1678,6 @@
    "extrait": "Si la loi autorise à sortir dans la rue avec le visage masqué pour célébrer une fête traditionnelle, elle interdit en revanche de se masquer le visage pour manifester et commettre des troubles à…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "9513d1329393",
-   "titre": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-   "lien": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-30T13:46:16+00:00",
-   "extrait": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
   },
   {
    "id": "3d4937bbec07",
@@ -3309,166 +3480,6 @@
    "tags": [
     "Politique"
    ],
-   "zone": "france"
-  },
-  {
-   "id": "78fa48ebf075",
-   "titre": "Pour les cheminots et la presse espagnole, la dégradation du service public ferroviaire peut aussi expliquer l'accident de mercredi",
-   "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/pour-les-cheminots-et-la-presse-espagnole-la-degradation-du-service-public-ferroviaire-peut-aussi-expliquer-l-accident-de-mercredi_8259992.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-30T06:53:50+00:00",
-   "extrait": "Deux jours après la collision entre deux trains dans la région de Tolède, qui a fait au moins 69 morts et des dizaines de blessés, les cheminots soulignent les alertes lancées depuis des mois…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "ca45c67ba9fd",
-   "titre": "Manifestations du 31 octobre : \"La principale menace, c'est la mobilisation de casseurs à la tombée de la nuit\", estime la porte-parole de la police nationale",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-31-octobre-la-principale-menace-c-est-la-mobilisation-de-casseurs-a-la-tombee-de-la-nuit-estime-la-porte-parole-de-la-police-nationale_8260013.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-30T06:53:02+00:00",
-   "extrait": "Quelque 70000 policiers et gendarmes seront mobilisés pour la nouvelle journée de mobilisation sociale prévue samedi, \"un dispositif exceptionnel\" reconduit, a annoncé le ministre de l'Intérieur. Il…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "1c0b695daeb8",
-   "titre": "Le PIB français a reculé de 0,1 % au troisième trimestre, après avoir stagné au deuxième et reculé de 0,2 % au premier",
-   "lien": "https://www.lemonde.fr/economie/article/2026/10/30/le-pib-francais-a-recule-de-0-1-au-troisieme-trimestre-apres-avoir-stagne-au-deuxieme-trimestre-et-recule-de-0-2-au-premier_6802906_3234.html",
-   "source": "Le Monde",
-   "date": "2026-10-30T06:52:38+00:00",
-   "extrait": "« L’économie française est à l’arrêt », a réagi le ministre de l’économie et des finances, Roland Lescure. « La France ne va pas à la crise », mais « si on n’a pas le redressement budgétaire qu’on a…",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "bffac6e266e3",
-   "titre": "EN DIRECT, guerre en Ukraine : la Russie affirme avoir frappé des sites industriels, énergétiques et portuaires ; l’attaque de la gare de Dnipro a fait 15 morts",
-   "lien": "https://www.lemonde.fr/international/live/2026/10/30/en-direct-guerre-en-ukraine-la-russie-affirme-avoir-frappe-des-sites-industriels-energetiques-et-portuaires-a-kiev-a-odessa-et-dans-l-oblast-de-dnipropetrovsk_6799896_3210.html",
-   "source": "Le Monde",
-   "date": "2026-10-30T06:51:20+00:00",
-   "extrait": "Selon Moscou, ont notamment été visées, dans la nuit de jeudi à vendredi, des « entreprises du complexe militaro-industriel ukrainien » impliquées dans la « production et le stockage de drones de…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "15bd8aa97625",
-   "titre": "Cryptomonnaies : la plateforme Binance annonce avoir été victime d’un important piratage, dont le préjudice est estimé à 6,3 milliards de dollars",
-   "lien": "https://www.lemonde.fr/pixels/article/2026/10/30/cryptomonnaies-binance-annonce-avoir-ete-victime-d-un-important-piratage-dont-le-prejudice-est-estime-a-6-3-milliards-de-dollars_6802872_4408996.html",
-   "source": "Le Monde",
-   "date": "2026-10-30T06:41:12+00:00",
-   "extrait": "La plateforme a publié sur X plusieurs messages contradictoires, assurant d’abord que tous les fonds déposés par ses clients sur son site étaient « totalement à l’abri », avant d’affirmer, un peu…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "bdbe84864b9e",
-   "titre": "Midterms : de néonazi à pasteur, Caleb Campbell défie le nationalisme chrétien de Trump",
-   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261030-midterms-n%C3%A9onazi-pasteur-caleb-campbell-d%C3%A9fie-nationalisme-chr%C3%A9tien-trump",
-   "source": "France 24",
-   "date": "2026-10-30T06:35:44+00:00",
-   "extrait": "En Arizona, le pasteur évangélique Caleb Campbell dénonce la banalisation de la violence et l'instrumentalisation de la foi par la droite trumpiste. Ancien skinhead néonazi, il tente de convaincre…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "38a7dd5a2f80",
-   "titre": "EN DIRECT, midterms 2026 : « Aux Etats-Unis, ces dernières années, les cartes électorales ont été largement modifiées, avec des intérêts partisans très clairs »",
-   "lien": "https://www.lemonde.fr/international/live/2026/10/30/en-direct-midterms-2026-apres-l-annulation-de-ses-meetings-au-kansas-et-dans-l-iowa-donald-trump-participera-a-des-meetings-virtuels-dans-pres-de-20-etats_6801590_3210.html",
-   "source": "Le Monde",
-   "date": "2026-10-30T06:31:53+00:00",
-   "extrait": "D’où vient cette pratique du « gerrymandering » ? Quel parti l’utilise le plus ? Est-ce légal ? Et tout cela peut-il finalement se retourner contre celui qui en use ? Manon Romain et Pierre Breteau…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "ace9ecb3968f",
-   "titre": "Trump visits South Carolina, Peltola speaks out and more from the trail",
-   "lien": "https://www.cbsnews.com/live-updates/2026-elections-midtems-house-senate-trump/",
-   "source": "CBS News",
-   "date": "2026-10-30T06:30:00+00:00",
-   "extrait": "With Election Day less than a week away, more than 44 million Americans have voted early, and candidates in closely watched midterm contests are making their final pitches.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "3c203ebf6c8d",
-   "titre": "Le nombre d'inscrits et de diplômés dans les formations aux métiers du paramédical a légèrement augmenté en 2025 par rapport à 2024",
-   "lien": "https://www.franceinfo.fr/sante/soigner/le-nombre-d-inscrits-et-de-diplomes-dans-les-formations-aux-metiers-du-paramedical-a-legerement-augmente-en-2025-par-rapport-a-2024_8259983.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-30T06:29:33+00:00",
-   "extrait": "Selon les données du ministère de la Santé, que franceinfo a pu consulter, les effectifs d'inscrits en première année augmentent de près de 10% dans certaines filières.",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "75b9703a5541",
-   "titre": "Hyrox athlete who soiled herself in race tells BBC she put others at risk but backlash was traumatic",
-   "lien": "https://www.bbc.co.uk/news/articles/c6gr8l15k744o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-30T06:10:50+00:00",
-   "extrait": "In her first interview since the incident, Joanna Wietrzyk told the BBC she takes responsibility for it but did not deserve such a severe backlash.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "f1d1ce3d9d32",
-   "titre": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
-   "lien": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-30T06:02:23+00:00",
-   "extrait": "End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "a719a7358cac",
-   "titre": "Climat, biodiversité : cinq initiatives citoyennes qui font avancer les choses",
-   "lien": "https://www.lemonde.fr/planete/article/2026/10/30/climat-biodiversite-cinq-initiatives-citoyennes-qui-font-avancer-les-choses_6802806_3244.html",
-   "source": "Le Monde",
-   "date": "2026-10-30T05:30:07+00:00",
-   "extrait": "Dans la série « On avance », les journalistes du « Monde » vont à la rencontre de projets locaux concrets pour le climat et la protection du vivant",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "e1b98dd197ba",
-   "titre": "\"Une des meilleures expériences que j'ai eues dans le sport\"... Pourquoi les Jeux olympiques de la Jeunesse sont un avantage conséquent pour les futurs athlètes des JO",
-   "lien": "https://www.franceinfo.fr/jeux-olympiques-de-la-jeunesse/une-des-meilleures-experiences-que-j-ai-eues-dans-le-sport-pourquoi-les-jeux-olympiques-de-la-jeunesse-sont-un-avantage-consequent-pour-les-futurs-athletes-des-jo_8251069.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-30T05:30:02+00:00",
-   "extrait": "Les Jeux olympiques de la Jeunesse (JOJ) débutent vendredi 30 octobre à Dakar (Sénégal) avec des premières épreuves anticipées avant la cérémonie d’ouverture, samedi.",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "aac723b3c166",
-   "titre": "\"Des douleurs que je n'avais jamais vécues\" : des manifestantes racontent leurs troubles menstruels après leur exposition aux gaz lacrymogènes",
-   "lien": "https://www.franceinfo.fr/sante/temoignages-des-douleurs-que-je-n-avais-jamais-vecues-des-manifestantes-racontent-leurs-troubles-menstruels-apres-leur-exposition-aux-gaz-lacrymogenes_8259041.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-30T05:29:56+00:00",
-   "extrait": "Douleurs inhabituelles, saignements, retard de règles... Depuis les manifestations des 17 et 24 octobre, de nombreuses femmes signalent des troubles gynécologiques après avoir été exposées plus ou…",
-   "tags": [],
    "zone": "france"
   }
  ]
