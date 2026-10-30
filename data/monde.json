@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-30T13:40:47+00:00",
+ "maj": "2026-10-30T14:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,14 +22,125 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "2f21517239b6",
+   "titre": "Une proposition de loi déposée visant à rendre illégale l'évocation de la théorie du \"grand remplacement\" après l'attentat raciste dans les Yvelines",
+   "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/une-proposition-de-loi-deposee-visant-a-rendre-illegale-l-evocation-de-la-theorie-du-grand-remplacement-apres-l-attentat-raciste-dans-les-yvelines_8260526.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-30T13:58:23+00:00",
+   "extrait": "Cette loi doit contribuer, selon ses auteurs, à \"renforcer la lutte contre les discours incitant à la haine et aux actes racistes et xénophobes\", au cœur du débat public depuis l'attentat raciste…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "8ec63372ed12",
+   "titre": "Eye Opener: Patrick Stewart dies at 86",
+   "lien": "https://www.cbsnews.com/video/eye-opener-patrick-stewart-dies-at-86/",
+   "source": "CBS News",
+   "date": "2026-10-30T13:50:56+00:00",
+   "extrait": "\"Star Trek\" and \"X-Men\" icon Patrick Stewart has died at 86. All that and all that matters in today's Eye Opener.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "4de53ecdca78",
+   "titre": "Tech stocks crushed as Nasdaq tumbles more than 600 points",
+   "lien": "https://www.cbsnews.com/news/nasdaq-futures-tumble-tech-earnings-ai/",
+   "source": "CBS News",
+   "date": "2026-10-30T13:50:25+00:00",
+   "extrait": "Disappointing earnings reports from Alphabet, Amazon and Intel are renewing fears that the AI trade could unravel.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "fa519c5a7c87",
+   "titre": "Pope Leo becomes first pontiff to vote in a U.S. election",
+   "lien": "https://www.cbsnews.com/news/pope-leo-xiv-votes-us-election/",
+   "source": "CBS News",
+   "date": "2026-10-30T13:50:23+00:00",
+   "extrait": "The Vatican said Pope Leo exercised his right as a U.S. citizen, submitting a mail-in ballot in his native Chicago ahead of the midterm elections next week.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "e02f927dd674",
+   "titre": "Manifestations du 31 octobre et masques d'Halloween : qu'a-t-on le droit de faire (ou pas) dans la rue ?",
+   "lien": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/peut-on-manifester-samedi-31-octobre-avec-un-masque-d-halloween_8239507.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-30T13:50:01+00:00",
+   "extrait": "Si la loi autorise à sortir dans la rue avec le visage masqué pour célébrer une fête traditionnelle, elle interdit en revanche de se masquer le visage pour manifester et commettre des troubles à…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "9513d1329393",
+   "titre": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+   "lien": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-30T13:46:16+00:00",
+   "extrait": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "3d4937bbec07",
+   "titre": "Actor and cancer survivor Colin Egglesfield on his reasons to run the NYC Marathon",
+   "lien": "https://www.cbsnews.com/video/actor-and-cancer-survivor-colin-egglesfield-on-his-reasons-to-run-the-nyc-marathon/",
+   "source": "CBS News",
+   "date": "2026-10-30T13:42:31+00:00",
+   "extrait": "Actor Colin Egglesfield, a three-time cancer survivor, will run the NYC Marathon on Sunday to advocate for a special cause.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "96aadfca87e5",
    "titre": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
    "lien": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-10-30T13:38:49+00:00",
+   "date": "2026-10-30T13:41:57+00:00",
    "extrait": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
    "tags": [],
    "zone": "monde"
+  },
+  {
+   "id": "075b53e77b26",
+   "titre": "Ukrainians trapped in a Russia-held city get chance to flee war during local ceasefire",
+   "lien": "https://www.cbsnews.com/video/ukrainians-trapped-in-a-russia-held-city-get-chance-to-flee-war-during-local-ceasefire/",
+   "source": "CBS News",
+   "date": "2026-10-30T13:34:44+00:00",
+   "extrait": "Ukrainians in the city of Oleshky may have a chance to leave the Russian-held territory after first lady Melania Trump helped broker a local ceasefire there. CBS News' Aidan Stretch reports.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "0d02c1ebcc40",
+   "titre": "Un vol Paris-Casablanca contraint d'atterrir en urgence à l'aéroport de Biarritz après le comportement violent d'un passager",
+   "lien": "https://www.franceinfo.fr/faits-divers/un-vol-paris-casablanca-contraint-d-atterrir-en-urgence-a-l-aeroport-de-biarritz-apres-le-comportement-violent-d-un-passager_8260496.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-30T13:33:35+00:00",
+   "extrait": "L'homme de 39 ans s'est montré \"très agité et agressif envers le personnel navigant\" à bord, il a été placé en garde à vue après l'atterrissage de l'avion.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "973a74604cff",
+   "titre": "\"Le patrimoine français appartient à tout le monde, quelles que soient nos origines, nos convictions\" : quand la passion d'Amine le Conquérant pour les châteaux de France se heurte au racisme en ligne",
+   "lien": "https://www.franceinfo.fr/replay-magazine/france-2/20h30-le-vendredi/video-le-patrimoine-francais-appartient-a-tout-le-monde-quelles-que-soient-nos-origines-nos-convictions-quand-la-passion-d-amine-le-conquerant-pour-les-chateaux-de-france-se-heurte-au-racisme-en-ligne_8259143.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-30T13:33:12+00:00",
+   "extrait": "Depuis seize ans, Amine Kassid sillonne les châteaux de France pour partager sa passion de l’histoire. Suivi par près de 400 000 abonnés sur Instagram, le créateur de contenus, surnommé Amine le…",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "4f37d5b85c4d",
@@ -81,16 +192,17 @@
    "zone": "usa"
   },
   {
-   "id": "4de53ecdca78",
-   "titre": "Tech stocks crushed as Nasdaq futures tumble nearly 800 points",
-   "lien": "https://www.cbsnews.com/news/nasdaq-futures-tumble-tech-earnings-ai/",
-   "source": "CBS News",
-   "date": "2026-10-30T13:25:30+00:00",
-   "extrait": "Disappointing earnings reports from Alphabet, Amazon and Intel are renewing fears that the AI trade could unravel.",
+   "id": "056881d401f7",
+   "titre": "En Chine, le premier film entièrement réalisé par l'intelligence artificielle pour le cinéma boudé par le public",
+   "lien": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/en-chine-le-premier-film-entierement-realise-par-l-intelligence-artificielle-pour-le-cinema-boude-par-le-public_8239480.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-30T13:24:58+00:00",
+   "extrait": "Pour l'instant, les spectateurs chinois ne sont pas en rendez-vous pour visionner ce film réalisé sans acteur ou décor alors que les formats très courts 100% IA cartonnent sur les réseaux sociaux.",
    "tags": [
+    "Justice",
     "Tech"
    ],
-   "zone": "usa"
+   "zone": "france"
   },
   {
    "id": "6c9f653f6ead",
@@ -116,6 +228,18 @@
     "Politique"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "946b4b51b1cc",
+   "titre": "\"C’est un complot du parti démocrate\" : en Alaska, Dan Sullivan va affronter... Dan Sullivan, et ça ne plaît pas du tout à Donald Trump",
+   "lien": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/c-est-un-complot-du-parti-democrate-en-alaska-dan-sullivan-va-affronter-dan-sullivan-et-ca-ne-plait-pas-du-tout-a-donald-trump_8260259.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-30T13:11:51+00:00",
+   "extrait": "À quelques jours des midterms, l'administration Trump dénonce depuis des semaines une élection faussée dans cet Etat. Or, selon la presse américaine, il s’agirait bien d’une stratégie du camp…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
   },
   {
    "id": "a15ce729e8ca",
@@ -3319,124 +3443,6 @@
     "Économie"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "2cf1b189ca8e",
-   "titre": "Legendary actor Patrick Stewart dies at 86",
-   "lien": "https://www.cbsnews.com/video/patrick-stewart-dies-age-86/",
-   "source": "CBS News",
-   "date": "2026-10-29T20:30:20+00:00",
-   "extrait": "Beloved \"Star Trek\" and \"X-Men\" actor Sir Patrick Stewart has died at 86 following a battle with Alzheimer's disease and Lewy body dementia, his representatives said.",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "9826c96e0bea",
-   "titre": "Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86",
-   "lien": "https://www.npr.org/2026/10/29/1230906945/patrick-stewart-dead",
-   "source": "NPR",
-   "date": "2026-10-29T20:29:13+00:00",
-   "extrait": "Stewart was raised by an abusive father but became best known for playing kind, paternal leaders who united families of misfits.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "121deaff89ef",
-   "titre": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-   "lien": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-29T20:21:54+00:00",
-   "extrait": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "fb6fb7a174a4",
-   "titre": "Some rural Republicans in California say redistricting has left them without a voice",
-   "lien": "https://www.npr.org/2026/10/29/nx-s1-5902139/some-rural-republicans-in-california-say-redistricting-has-left-them-without-a-voice",
-   "source": "NPR",
-   "date": "2026-10-29T20:19:31+00:00",
-   "extrait": "California's far northeastern corner used to be a reliably red congressional district. But Proposition 50 carved it up, meaning many voters there may soon have a Democrat representing them in D.C.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "08c83514c845",
-   "titre": "La responsable berlinoise du parti de gauche radicale Die Linke admet, dans une note confidentielle, avoir « peur » de militants proches de son parti",
-   "lien": "https://www.lemonde.fr/international/article/2026/10/29/la-responsable-berlinoise-du-parti-de-gauche-radicale-die-linke-admet-dans-une-note-confidentielle-avoir-peur-de-militants-proches-de-son-parti_6802390_3210.html",
-   "source": "Le Monde",
-   "date": "2026-10-29T20:15:52+00:00",
-   "extrait": "Probable future maire de Berlin, Elif Eralp, arrivée en tête aux élections du 20 septembre, a évoqué sans les citer, dans un texte envoyé par erreur au « Spiegel », certains militants…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "971b00fa6185",
-   "titre": "Patrick Stewart, acteur britannique célèbre pour ses rôles dans « X-Men » et « Star Trek », est mort",
-   "lien": "https://www.lemonde.fr/culture/article/2026/10/29/patrick-stewart-acteur-britannique-celebre-pour-ses-roles-dans-x-men-et-star-trek-est-mort_6802388_3246.html",
-   "source": "Le Monde",
-   "date": "2026-10-29T20:13:47+00:00",
-   "extrait": "Bien qu’il soit surtout connu pour ses rôles du professeur Charles Xavier et du capitaine Jean-Luc Picard, respectivement dans « X-Men » et « Star Trek », il était considéré comme l’un des plus…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "e63092c355d8",
-   "titre": "L’Arcom adresse une mise en garde à Radio France à la suite de la diffusion sur France Culture d’un montage détournant des propos de Jean-Luc Mélenchon",
-   "lien": "https://www.lemonde.fr/politique/article/2026/10/29/l-arcom-adresse-une-mise-en-garde-a-radio-france-a-la-suite-de-la-diffusion-sur-france-culture-d-un-montage-detournant-des-propos-de-jean-luc-melenchon_6802387_823448.html",
-   "source": "Le Monde",
-   "date": "2026-10-29T20:10:16+00:00",
-   "extrait": "L’extrait sonore tronqué diffusé à la fin du mois de juin laissait entendre que le chef de file de LFI avait tenu des propos antisémites. L’Arcom a appelé la radio publique à ne pas renouveler un…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "32fc73a1f7bc",
-   "titre": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
-   "lien": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-29T20:05:57+00:00",
-   "extrait": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "d1ff6d7e943c",
-   "titre": "What killed 500-plus penguins? How scientists solved the mystery",
-   "lien": "https://www.npr.org/2026/10/29/nx-s1-6020451/avian-flu-penguins-pathogen-antarctica-cholera",
-   "source": "NPR",
-   "date": "2026-10-29T20:03:26+00:00",
-   "extrait": "The penguins that perished lived on the Danger Islands in Antarctica. The prime suspect was avian flu. Researchers were surprised by what they found.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "b194f1284a26",
-   "titre": "Lost your spark? The \"silent sister\" of depression, and a quiz to spot her",
-   "lien": "https://www.npr.org/2026/10/29/nx-s1-5996687/anhedonia-quiz-high-functioning-depression",
-   "source": "NPR",
-   "date": "2026-10-29T20:00:00+00:00",
-   "extrait": "Always busy, but rarely joyful? Allison Aubrey and Juana Summers discuss a tool to spot \"high functioning depression.\"",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "89e5a60a85c6",
-   "titre": "En Ukraine, derrière la mission humanitaire à Olechky, la crainte d’une opération militaire et de propagande russe",
-   "lien": "https://www.lemonde.fr/international/article/2026/10/29/en-ukraine-derriere-la-mission-humanitaire-a-olechky-la-crainte-d-une-operation-militaire-et-de-propagande-russe_6802386_3210.html",
-   "source": "Le Monde",
-   "date": "2026-10-29T19:54:31+00:00",
-   "extrait": "Quelque 2 000 habitants de cette ville ukrainienne occupée doivent recevoir de l’aide et être évacués d’ici à dimanche 1ᵉʳ novembre. Beaucoup redoutent une instrumentalisation par le Kremlin.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
   }
  ]
 }
