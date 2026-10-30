@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-30T07:05:42+00:00",
+ "maj": "2026-10-30T08:05:42+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "5100bc6323f0",
+   "titre": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
+   "lien": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
+   "source": "The Hacker News",
+   "date": "2026-10-30T07:27:05+00:00",
+   "extrait": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing…",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
+  },
   {
    "id": "1dad8889ea72",
    "titre": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
@@ -3406,15 +3418,6 @@
    "tags": [
     "Malware"
    ]
-  },
-  {
-   "id": "13881c9b4329",
-   "titre": "ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident",
-   "lien": "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html",
-   "source": "The Hacker News",
-   "date": "2026-10-20T10:56:08+00:00",
-   "extrait": "ConnectWise on Monday said it has taken remediation measures, including strengthening administrative-access protections and resetting accounts and replacing application credentials, as it continues…",
-   "tags": []
   }
  ]
 }
