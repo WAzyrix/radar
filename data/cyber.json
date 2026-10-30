@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-30T12:05:40+00:00",
+ "maj": "2026-10-30T13:05:42+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,6 +24,35 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "09382f93624b",
+   "titre": "CISA says max severity GitLab flaw now exploited in the wild",
+   "lien": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
+   "source": "BleepingComputer",
+   "date": "2026-10-30T13:00:32+00:00",
+   "extrait": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "4eafb481bfd9",
+   "titre": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
+   "lien": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
+   "source": "The Hacker News",
+   "date": "2026-10-30T12:21:56+00:00",
+   "extrait": "A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported. Trezor has not yet…",
+   "tags": []
+  },
+  {
+   "id": "0e3774900031",
+   "titre": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
+   "lien": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
+   "source": "The Hacker News",
+   "date": "2026-10-30T11:58:53+00:00",
+   "extrait": "The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won’t…",
+   "tags": []
+  },
+  {
    "id": "4198413c0e43",
    "titre": "Microsoft finally fixes VPN issues caused by September updates",
    "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/",
@@ -42,6 +71,17 @@
    "date": "2026-10-30T10:51:04+00:00",
    "extrait": "UGREEN propose le Nexode Pro 160W, un chargeur au nitrure de gallium doté d'un câble USB-C rétractable de 70 cm (jusqu'à 140 W) et d'un écran couleur affichant puissance, tension et température par…",
    "tags": []
+  },
+  {
+   "id": "6734aa3aec6c",
+   "titre": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
+   "lien": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
+   "source": "The Hacker News",
+   "date": "2026-10-30T10:40:45+00:00",
+   "extrait": "Ahmad Umar Agha, a Syrian Electronic Army hacker known online as \"Th3Pr0,\" has been sentenced by a U.S. federal court to 42 months in prison for his role in a hacking conspiracy that targeted…",
+   "tags": [
+    "Fuite de données"
+   ]
   },
   {
    "id": "eaaaa83e33fa",
@@ -65,11 +105,11 @@
   },
   {
    "id": "ad2cc061f552",
-   "titre": "Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor",
+   "titre": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
    "lien": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
    "source": "The Hacker News",
    "date": "2026-10-30T08:55:47+00:00",
-   "extrait": "Cybersecurity researchers have disclosed that the official Anthropic Claude Code extension was compromised on the Open VSX registry to install a persistent SSH backdoor on infected hosts. The issue…",
+   "extrait": "Cybersecurity researchers have disclosed that a trojanized version of Anthropic's official Claude Code extension was distributed through the Cursor Marketplace as a legitimate update, attempting to…",
    "tags": [
     "Malware",
     "IA"
@@ -3369,52 +3409,6 @@
    "extrait": "De multiples vulnérabilités ont été découvertes dans Oracle Systems. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à…",
    "tags": [
     "Faille"
-   ]
-  },
-  {
-   "id": "544d81cf5323",
-   "titre": "[Màj] Multiples vulnérabilités dans PHP (21 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-014/",
-   "source": "CERT-FR",
-   "date": "2026-10-21T00:00:00+00:00",
-   "extrait": "**[Mise à jour du 26 octobre 2026]** Le 23 octobre 2026, PHP a publié un avis de sécurité concernant la vulnérabilité CVE-2026-115560. Celle-ci permet une exécution de code arbitraire à distance…",
-   "tags": [
-    "CVE",
-    "Faille"
-   ]
-  },
-  {
-   "id": "1530955429aa",
-   "titre": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
-   "lien": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
-   "source": "The Hacker News",
-   "date": "2026-10-20T17:09:53+00:00",
-   "extrait": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised, Mozilla and Google's Chrome Root Program confirms on October 20. An intermediate CA signs the…",
-   "tags": []
-  },
-  {
-   "id": "53ddecf9f5b1",
-   "titre": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
-   "lien": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
-   "source": "The Hacker News",
-   "date": "2026-10-20T15:38:52+00:00",
-   "extrait": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution. The…",
-   "tags": [
-    "CVE",
-    "Faille"
-   ]
-  },
-  {
-   "id": "0d304799e621",
-   "titre": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
-   "lien": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
-   "source": "The Hacker News",
-   "date": "2026-10-20T15:32:27+00:00",
-   "extrait": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by ransomware actors. The activity relates to…",
-   "tags": [
-    "CVE",
-    "Faille",
-    "Ransomware"
    ]
   }
  ]
