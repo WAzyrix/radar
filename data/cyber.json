@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-30T09:05:40+00:00",
+ "maj": "2026-10-30T10:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,15 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "93a6b87fe425",
+   "titre": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
+   "lien": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
+   "source": "BleepingComputer",
+   "date": "2026-10-30T09:18:13+00:00",
+   "extrait": "Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]",
+   "tags": []
+  },
   {
    "id": "6d2a0802c49f",
    "titre": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
@@ -3411,15 +3420,6 @@
    "tags": [
     "IA"
    ]
-  },
-  {
-   "id": "f0509be43eab",
-   "titre": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
-   "lien": "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
-   "source": "The Hacker News",
-   "date": "2026-10-20T11:32:59+00:00",
-   "extrait": "Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of eight intermediate certificate authority keys. Programs built…",
-   "tags": []
   }
  ]
 }
