@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-30T11:05:39+00:00",
+ "maj": "2026-10-30T12:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,26 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "4198413c0e43",
+   "titre": "Microsoft finally fixes VPN issues caused by September updates",
+   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/",
+   "source": "BleepingComputer",
+   "date": "2026-10-30T11:20:26+00:00",
+   "extrait": "Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...]",
+   "tags": [
+    "Windows"
+   ]
+  },
+  {
+   "id": "1c52b7965621",
+   "titre": "Test d'un chargeur UGREEN 160W qui cache un câble rétractable et un écran",
+   "lien": "https://korben.info/test-dun-chargeur-ugreen-160w-qui-cache-un-cable-retractable-et-un-ecran.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-10-30T10:51:04+00:00",
+   "extrait": "UGREEN propose le Nexode Pro 160W, un chargeur au nitrure de gallium doté d'un câble USB-C rétractable de 70 cm (jusqu'à 140 W) et d'un écran couleur affichant puissance, tension et température par…",
+   "tags": []
+  },
   {
    "id": "eaaaa83e33fa",
    "titre": "Drupal warns of critical Commerce Core flaw exploited in attacks",
@@ -3395,31 +3415,6 @@
     "CVE",
     "Faille",
     "Ransomware"
-   ]
-  },
-  {
-   "id": "0dfa738d1635",
-   "titre": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
-   "lien": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
-   "source": "The Hacker News",
-   "date": "2026-10-20T14:07:17+00:00",
-   "extrait": "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their…",
-   "tags": [
-    "Fuite de données",
-    "IA"
-   ]
-  },
-  {
-   "id": "2f7a0f9a2ffb",
-   "titre": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
-   "lien": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
-   "source": "The Hacker News",
-   "date": "2026-10-20T12:59:44+00:00",
-   "extrait": "The iPhone of Vladan Đokić, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's Pegasus spyware in 2026, the Citizen…",
-   "tags": [
-    "Faille",
-    "Malware",
-    "Mobile"
    ]
   }
  ]
