@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-30T05:05:38+00:00",
+ "maj": "2026-10-30T06:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "1dad8889ea72",
+   "titre": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
+   "lien": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
+   "source": "The Hacker News",
+   "date": "2026-10-30T04:14:59+00:00",
+   "extrait": "Cryptocurrency giant Binance said on Thursday that a \"security incident\" on its platform has impacted about $6.3 billion worth of assets. The world's biggest cryptocurrency exchange said nearly $3…",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
   {
    "id": "7363e725b55a",
    "titre": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
@@ -3404,19 +3415,6 @@
    "date": "2026-10-20T10:56:08+00:00",
    "extrait": "ConnectWise on Monday said it has taken remediation measures, including strengthening administrative-access protections and resetting accounts and replacing application credentials, as it continues…",
    "tags": []
-  },
-  {
-   "id": "92e407676578",
-   "titre": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
-   "lien": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
-   "source": "The Hacker News",
-   "date": "2026-10-20T08:21:29+00:00",
-   "extrait": "An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and…",
-   "tags": [
-    "Fuite de données",
-    "Malware",
-    "Outil"
-   ]
   }
  ]
 }
