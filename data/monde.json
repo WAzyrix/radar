@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-30T13:05:42+00:00",
+ "maj": "2026-10-30T13:40:47+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,16 +22,141 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "96aadfca87e5",
+   "titre": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+   "lien": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-30T13:38:49+00:00",
+   "extrait": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "4f37d5b85c4d",
+   "titre": "Midterm Updates: Trump to rally Floridians, Peltola denies \"tricking voters\"",
+   "lien": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/",
+   "source": "CBS News",
+   "date": "2026-10-30T13:33:06+00:00",
+   "extrait": "The November 2026 midterm elections are just four days away. Candidates in key races — and President Trump — are making their closing arguments to voters.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "f8dd3c62a776",
+   "titre": "En Chine, les purges sans fin de Xi Jinping révèlent sa frustration vis-à-vis du Parti communiste",
+   "lien": "https://www.lemonde.fr/international/article/2026/10/30/en-chine-les-purges-sans-fin-de-xi-jinping-revelent-sa-frustration-vis-a-vis-du-parti-communiste_6803093_3210.html",
+   "source": "Le Monde",
+   "date": "2026-10-30T13:29:43+00:00",
+   "extrait": "Signe de la longue et vaste campagne anticorruption menée par le dirigeant chinois, le comité central s’est réuni avec un quart de ses effectifs en moins, à un an du rendez-vous qui doit confirmer…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "dcd06f0c7e9b",
    "titre": "Trump predicts Iran war will end soon as Qatar pushes for a deal",
    "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
    "source": "CBS News",
-   "date": "2026-10-30T13:00:05+00:00",
+   "date": "2026-10-30T13:29:30+00:00",
    "extrait": "Trump predicts the war with Iran is \"going to end soon,\" without offering any details, as Qatari mediators return to Tehran to push for a deal.",
    "tags": [
     "Politique",
     "Conflits"
    ],
+   "zone": "usa"
+  },
+  {
+   "id": "d4407b5e5408",
+   "titre": "Ohio secretary of state says Trump DOJ's election monitors will be at polls to \"observe\"",
+   "lien": "https://www.cbsnews.com/video/ohios-secretary-of-state-says-trump-administrations-election-monitors-will-be-at-polls-to-observe/",
+   "source": "CBS News",
+   "date": "2026-10-30T13:26:03+00:00",
+   "extrait": "Frank LaRose, Ohio's secretary of state, joins CBS News with more details on the Trump administration's deployment of 1,000 election monitors nationwide for the midterm elections.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "4de53ecdca78",
+   "titre": "Tech stocks crushed as Nasdaq futures tumble nearly 800 points",
+   "lien": "https://www.cbsnews.com/news/nasdaq-futures-tumble-tech-earnings-ai/",
+   "source": "CBS News",
+   "date": "2026-10-30T13:25:30+00:00",
+   "extrait": "Disappointing earnings reports from Alphabet, Amazon and Intel are renewing fears that the AI trade could unravel.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "6c9f653f6ead",
+   "titre": "Did a Nashville chef's final phone call reveal clues to her death?",
+   "lien": "https://www.cbsnews.com/video/did-a-nashville-chefs-final-phone-call-reveal-clues-to-her-death/",
+   "source": "CBS News",
+   "date": "2026-10-30T13:19:00+00:00",
+   "extrait": "A young Nashville chef's final phone call becomes a crucial piece of evidence in a murder trial. \"48 Hours\" correspondent Natalie Morales reports on the case against former football scout Blaise…",
+   "tags": [
+    "Justice",
+    "Sport"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "e7585f8419df",
+   "titre": "Trump cancels midterm rallies in Kansas and Iowa. Here's why.",
+   "lien": "https://www.cbsnews.com/video/trump-cancels-midterm-rallies-in-kansas-and-iowa/",
+   "source": "CBS News",
+   "date": "2026-10-30T13:15:59+00:00",
+   "extrait": "President Trump will no longer campaign in person for Republican candidates in Kansas and Iowa on the last weekend before the midterm elections. CBS News' Weijia Jiang reports.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "a15ce729e8ca",
+   "titre": "Money woes of canceled \"forever cruise\" revealed in internal documents",
+   "lien": "https://www.cbsnews.com/video/money-woes-of-canceled-forever-cruise-revealed-in-internal-documents/",
+   "source": "CBS News",
+   "date": "2026-10-30T13:08:21+00:00",
+   "extrait": "Passengers aboard the MV Odyssey luxury cruise thought they were buying a 3-year around-the-world voyage. Their journey came to a sudden end in Cambodia after the company's failed scramble to raise…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "78dd6f07c58d",
+   "titre": "James Talarico leading Ken Paxton in Texas, new poll shows",
+   "lien": "https://www.cbsnews.com/video/james-talarico-leading-ken-paxton-in-texas-new-poll-shows/",
+   "source": "CBS News",
+   "date": "2026-10-30T13:04:57+00:00",
+   "extrait": "Texas voters may be weighing immigration and other Trump administration policies as they consider James Talarico and Ken Paxton in the Texas Senate race. CBS News' Camilo Montoya-Galvez looks at the…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "2a7e38a59202",
+   "titre": "Spain transport minister says he won't resign over high-speed rail disaster",
+   "lien": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-30T13:03:34+00:00",
+   "extrait": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "5c79f256b890",
+   "titre": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+   "lien": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+   "source": "NPR",
+   "date": "2026-10-30T13:01:22+00:00",
+   "extrait": "The world's biggest cryptocurrency exchange reported Thursday that approximately $6.3 billion was impacted in an apparent hack.",
+   "tags": [],
    "zone": "usa"
   },
   {
@@ -54,6 +179,18 @@
    "date": "2026-10-30T12:59:31+00:00",
    "extrait": "Des figures politiques, comme Jean-Luc Mélenchon, Raphaël Glucksmann et Ségolène Royal sont conviées.",
    "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "b1f1097215e1",
+   "titre": "Fusillade d'Aubagne : le CPE du collège qui a désarmé l'assaillant a été décoré de la médaille pour acte de courage et dévouement",
+   "lien": "https://www.franceinfo.fr/faits-divers/fusillade-d-aubagne-le-cpe-du-college-qui-a-desarme-l-assaillant-a-ete-decore-de-la-medaille-pour-acte-de-courage-et-devouement_8260451.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-30T12:58:58+00:00",
+   "extrait": "Le 12 octobre, un collégien de 14 ans a blessé par balles un principal et une enseignante au collège Joseph-Lakanal à Aubagne. Lors de la remise de la médaille au CPE du collège qui a désarmé…",
+   "tags": [
+    "Politique"
+   ],
    "zone": "france"
   },
   {
@@ -227,6 +364,16 @@
    "zone": "france"
   },
   {
+   "id": "4d5e8a4d62a2",
+   "titre": "China denies allegations of spy operation targeting Nvidia CEO",
+   "lien": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-30T12:20:04+00:00",
+   "extrait": "US intelligence officials believe a Chinese businesswoman was gathering information for Beijing on the US chip-making giant, The New York Times reports.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
    "id": "4ba116b2b610",
    "titre": "Xénophobie en Afrique du Sud : le pays refuse les manifestations d'un mouvement anti-immigration",
    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261030-x%C3%A9nophobie-en-afrique-du-sud-le-pays-refuse-les-manifestations-d-un-mouvement-anti-immigration",
@@ -348,18 +495,6 @@
    "zone": "usa"
   },
   {
-   "id": "4f37d5b85c4d",
-   "titre": "Midterm Updates: Trump to rally Floridians, Peltola denies \"tricking voters\"",
-   "lien": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/",
-   "source": "CBS News",
-   "date": "2026-10-30T11:59:38+00:00",
-   "extrait": "The November 2026 midterm elections are just four days away. Candidates in key races — and President Trump — are making their closing arguments to voters.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "c5c06d90d699",
    "titre": "Décès du comédien Patrick Stewart, star de la saga \"X-Men\" et \"Star Trek\"",
    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261030-d%C3%A9c%C3%A8s-du-com%C3%A9dien-patrick-stewart-star-de-la-saga-x-men-et-star-trek",
@@ -440,6 +575,28 @@
    "tags": [
     "Politique"
    ],
+   "zone": "france"
+  },
+  {
+   "id": "936d27889753",
+   "titre": "Le président salvadorien Bukele envoie 2 000 militaires en Haïti et brouille les cartes de la lutte contre les gangs",
+   "lien": "https://www.lemonde.fr/international/article/2026/10/30/le-president-salvadorien-bukele-envoie-2-000-militaires-en-haiti-et-brouille-les-cartes-de-la-lutte-contre-les-gangs_6803080_3210.html",
+   "source": "Le Monde",
+   "date": "2026-10-30T11:30:09+00:00",
+   "extrait": "D’une ampleur inédite, le déploiement de soldats salvadoriens, censés retrouver quatre techniciens portés disparus près de Port-au-Prince, met à mal la cohérence du dispositif de lutte contre les…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "eaeb8b90daef",
+   "titre": "C’est l’histoire d’une rue : Beautreillis, des grandes familles aux petits artisans",
+   "lien": "https://www.lemonde.fr/m-styles/article/2026/10/30/c-est-l-histoire-d-une-rue-beautreillis-des-grandes-familles-aux-petits-artisans_6803081_4497319.html",
+   "source": "Le Monde",
+   "date": "2026-10-30T11:30:08+00:00",
+   "extrait": "Au cœur du Marais parisien, cette petite voie nichée entre la place des Vosges et la Seine aimante les touristes. Derrière les portes cochères et les portails historiques, subsistent les vestiges du…",
+   "tags": [],
    "zone": "france"
   },
   {
@@ -530,7 +687,7 @@
    "titre": "Internal documents show failed scramble to save \"forever cruise\"",
    "lien": "https://www.cbsnews.com/news/forever-cruise-odyssey-villa-vie-documents/",
    "source": "CBS News",
-   "date": "2026-10-30T11:03:26+00:00",
+   "date": "2026-10-30T11:03:00+00:00",
    "extrait": "The MV Odyssey was billed as a continuous around-the-world cruise when it launched in October 2024. It ended abruptly in Cambodia.",
    "tags": [],
    "zone": "usa"
@@ -909,6 +1066,18 @@
    "zone": "usa"
   },
   {
+   "id": "f268136f9d70",
+   "titre": "« En Serbie, les étudiants ont conquis le gouvernement, pas encore le pouvoir »",
+   "lien": "https://www.lemonde.fr/idees/article/2026/10/30/en-serbie-les-etudiants-ont-conquis-le-gouvernement-pas-encore-le-pouvoir_6803062_3232.html",
+   "source": "Le Monde",
+   "date": "2026-10-30T10:00:03+00:00",
+   "extrait": "Aux affaires depuis 2012, le Parti progressiste serbe tenait les institutions, mais un mouvement social et générationnel profond a transformé la culture politique du pays, analyse le chercheur Ivica…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "924593e4e1e2",
    "titre": "Judge set to hear arguments over blocking Trump's proposed arch",
    "lien": "https://www.cbsnews.com/news/trump-arch-arguments-judge-hearing/",
@@ -1133,7 +1302,7 @@
    "lien": "https://www.cbsnews.com/news/daylight-savings-time-ends-2026/",
    "source": "CBS News",
    "date": "2026-10-30T09:00:00+00:00",
-   "extrait": "Millions of Americans will gain an hour of sleep this weekend when the time change commonly known as daylight savings ends for 2026, meaning clocks \"fall back.\"",
+   "extrait": "Millions of Americans gain an hour of sleep this weekend when the time change commonly known as daylight savings ends for 2026, meaning clocks \"fall back.\"",
    "tags": [],
    "zone": "usa"
   },
@@ -1268,6 +1437,18 @@
     "Politique"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "50efc926f77b",
+   "titre": "Incendie à Bergerac : 11 logements et une partie du centre historique complètement détruits",
+   "lien": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/dordogne/bergerac/incendie-a-bergerac-11-logements-et-une-partie-du-centre-historique-completement-detruits-3441408.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-30T08:55:05+00:00",
+   "extrait": "L'incendie qui s'est déclaré à Bergerac en Dordogne dans la nuit du 28 au 29 octobre est toujours en cours. Des pompiers de plusieurs communes alentour sont venus prêter main-forte aux équipes de…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
   },
   {
    "id": "bbf3ba687e3a",
@@ -1907,6 +2088,16 @@
    "extrait": "A report alleged that people aligned with Democrat Mary Peltola's campaign helped recruit a candidate with the same first and last name as Republican Sen. Dan Sullivan. Peltola denied the allegations.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "e57e06bcf6ee",
+   "titre": "A Charleville-Mézières, loin des scènes de pillage : « On a vu les fractures se multiplier au fil du temps, des peurs monter sans jamais redescendre »",
+   "lien": "https://www.lemonde.fr/societe/article/2026/10/30/a-charleville-mezieres-loin-des-scenes-de-pillage-on-a-vu-les-fractures-se-multiplier-au-fil-du-temps-des-peurs-monter-sans-jamais-redescendre_6802770_3224.html",
+   "source": "Le Monde",
+   "date": "2026-10-30T04:45:01+00:00",
+   "extrait": "Dans la préfecture des Ardennes, qui a conservé les allures d’une France rurale et ouvrière, la mobilisation sociale s’est faite sans heurts. Pourtant, sur fond de précarité économique, la tentation…",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "1d79fcafb2f2",
@@ -3245,200 +3436,6 @@
    "tags": [
     "Conflits"
    ],
-   "zone": "france"
-  },
-  {
-   "id": "9b167dee31a2",
-   "titre": "Le forum et la manifestation prévus samedi et dimanche par le collectif Objectif Remigration ont été interdits",
-   "lien": "https://www.franceinfo.fr/economie/greve/le-forum-et-la-manifestation-organises-samedi-et-dimanche-par-le-collectif-objectif-remigration-ont-ete-interdits_8258789.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-29T19:52:34+00:00",
-   "extrait": "Ces arrêtés d'interdiction ont été pris \"au regard des risques de troubles à l’ordre public notamment à la suite de l’attentat de Trappes\", a annoncé jeudi la préfecture de police de Paris.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "1c6d6b28d563",
-   "titre": "Une conférence du député LFI Raphaël Arnault prévue à Lyon le 5 novembre annulée pour raisons de « sécurité »",
-   "lien": "https://www.lemonde.fr/politique/article/2026/10/29/lyon-annulation-d-une-conference-du-depute-lfi-raphael-arnault-pour-raisons-de-securite-decidee-par-une-mairie-d-arrondissement_6802385_823448.html",
-   "source": "Le Monde",
-   "date": "2026-10-29T19:49:31+00:00",
-   "extrait": "Le député du Vaucluse a publié en début de semaine sur son compte Instagram une affiche annonçant des « débats et échanges » en sa présence autour de son livre « Antifasciste » le 5 novembre, dans…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "e650011601c8",
-   "titre": "AI deepfakes pose risks to consumers and voters, experts warn",
-   "lien": "https://www.cbsnews.com/news/deepfakes-artificial-intelligence-consumer-risks-fraud/",
-   "source": "CBS News",
-   "date": "2026-10-29T19:45:44+00:00",
-   "extrait": "\"When you can't tell what's legitimate, you question everything,\" said one cybersecurity expert focused on political campaigns.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "129b146128ce",
-   "titre": "DOJ vets say politically charged moves close to election violate norms",
-   "lien": "https://www.cbsnews.com/news/doj-veterans-say-politically-charged-moves-close-to-election-run-afoul-of-historical-norms/",
-   "source": "CBS News",
-   "date": "2026-10-29T19:40:39+00:00",
-   "extrait": "Former DOJ officials say Attorney General Todd Blanche's Justice Department has entered uncharted waters in ways that could influence politics.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "ad23532ca3bd",
-   "titre": "Mesures du gouvernement pour les lycéens : des annonces insuffisantes ?",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/politique/20261029-mesures-du-gouvernement-pour-les-lyc%C3%A9ens-des-annonces-insuffisantes",
-   "source": "France 24",
-   "date": "2026-10-29T19:40:11+00:00",
-   "extrait": "Malgré les annonces et la main tendue du gouvernement, les lycéens appellent à continuer la mobilisation, espérant plus de concessions de la part de l'exécutif. Marc Perelman en parle avec Louis…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "00eef14ba574",
-   "titre": "Spacewalkers begin final phase of a space station upgrade",
-   "lien": "https://www.cbsnews.com/news/spacewalkers-begin-final-phase-of-multi-year-space-station-power-system-upgrade/",
-   "source": "CBS News",
-   "date": "2026-10-29T19:32:31+00:00",
-   "extrait": "Two astronauts stepped outside the International Space Station for the first of two spacewalks, one week apart, to complete a complex upgrade to the aging power system.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "e6ed069654e1",
-   "titre": "Matignon s’apprête à vendre l’hôtel particulier du Haut-Commissariat à la stratégie et au plan",
-   "lien": "https://www.lemonde.fr/politique/article/2026/10/29/matignon-s-apprete-a-vendre-l-hotel-particulier-du-haut-commissariat-a-la-strategie-et-au-plan_6802384_823448.html",
-   "source": "Le Monde",
-   "date": "2026-10-29T19:29:24+00:00",
-   "extrait": "L’hôtel Beistegui, un petit bijou qui donne sur l’esplanade des Invalides, à Paris, appartient à l’Etat depuis 1971. Sa cession s’inscrit dans un programme visant à récupérer 300 millions d’euros en…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "95f6ac753c28",
-   "titre": "En Bosnie-Herzégovine, quatre morts et douze blessés dans le crash d’un hélicoptère de la Force européenne",
-   "lien": "https://www.lemonde.fr/international/article/2026/10/29/en-bosnie-herzegovine-quatre-morts-et-douze-blesses-dans-le-crash-d-un-helicoptere-de-la-force-europeenne_6802383_3210.html",
-   "source": "Le Monde",
-   "date": "2026-10-29T19:14:32+00:00",
-   "extrait": "L’appareil italien, qui contenait des membres de la Force européenne en Bosnie, s’est écrasé jeudi à Brcko, dans le nord-est du pays.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "e5cf0890769d",
-   "titre": "Attentat raciste dans les Yvelines : \"Il y a eu plusieurs ratés\", regrette Yassine Bouzrou, avocat de victimes",
-   "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-dans-les-yvelines-il-y-a-eu-plusieurs-rates-regrette-yassine-bouzrou-avocat-de-victimes_8259278.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-29T19:04:00+00:00",
-   "extrait": "Le suspect avait notamment été arrêté trois jours avant pour avoir agressé un homme noir dans une station-service d'Ile-de-France, selon une source proche de l’enquête.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "7826943637b1",
-   "titre": "Manifestations du 31 octobre : 70 000 policiers et gendarmes seront mobilisés, \"un dispositif exceptionnel\" similaire au 24 octobre, annonce Laurent Nuñez",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-31-octobre-70-000-policiers-et-gendarmes-seront-mobilises-un-dispositif-exceptionnel-similaire-au-24-octobre-annonce-laurent-nunez_8259305.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-29T19:00:18+00:00",
-   "extrait": "Le ministre de l'Intérieur dit s'attendre à \"une journée à risque très élevé\", samedi, notamment en soirée, avec la concomitance de la fête d’Halloween.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "b0072b8bec28",
-   "titre": "Stérilisations forcées au Pérou : après le classement de l’enquête, les victimes estiment que « la recherche de justice n’est pas terminée »",
-   "lien": "https://www.lemonde.fr/international/article/2026/10/29/sterilisations-forcees-au-perou-apres-le-classement-de-l-enquete-les-victimes-estiment-que-la-recherche-de-justice-n-est-pas-terminee_6802381_3210.html",
-   "source": "Le Monde",
-   "date": "2026-10-29T19:00:07+00:00",
-   "extrait": "Les plaignantes vont saisir le parquet général des droits humains après la décision du ministère public, mardi 27 octobre, de classer l’affaire portant sur la stérilisation forcée de milliers de…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "449f2abc96fa",
-   "titre": "Le cas Ali O., réfugié palestinien déchu de son statut, mis en examen pour terrorisme en France pour des actes commis en Cisjordanie, mobilise des rapporteurs spéciaux de l’ONU",
-   "lien": "https://www.lemonde.fr/societe/article/2026/10/29/le-cas-ali-o-refugie-palestinien-dechu-de-son-statut-mis-en-examen-pour-terrorisme-en-france-pour-des-actes-commis-en-cisjordanie-mobilise-des-rapporteurs-speciaux-de-l-onu_6802380_3224.html",
-   "source": "Le Monde",
-   "date": "2026-10-29T19:00:05+00:00",
-   "extrait": "Cet homme de 36 ans, en détention provisoire depuis deux ans et demi, s’est vu retirer le statut de réfugié sur la base d’informations provenant d’Israël. Quatre rapporteurs des Nations unies se…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "9ec098e50913",
-   "titre": "A la BCE, Christine Lagarde annonce son départ et veut « s’engager sur des sujets qui ne sont pas des sujets de politique monétaire »",
-   "lien": "https://www.lemonde.fr/economie/article/2026/10/29/a-la-bce-christine-lagarde-annonce-son-depart-et-veut-s-engager-sur-des-sujets-qui-ne-sont-pas-des-sujets-de-politique-monetaire_6802379_3234.html",
-   "source": "Le Monde",
-   "date": "2026-10-29T18:59:24+00:00",
-   "extrait": "Le Conseil des gouverneurs de la BCE a laissé les taux inchangés, en dépit de la reprise de l’inflation en zone euro, laissant les regards se focaliser sur l’annonce de la démission de la présidente…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "74075cd2f918",
-   "titre": "Collision meurtrière entre deux trains en Espagne : le bilan corrigé à 69 morts par le ministère des Transports",
-   "lien": "https://www.franceinfo.fr/monde/espagne/direct-collision-meurtriere-entre-deux-trains-en-espagne-l-enchainement-de-circonstances-qui-ont-conduit-a-l-accident-s-eclaircit-peu-a-peu_8258189.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-29T18:45:57+00:00",
-   "extrait": "Le gouvernement avait mentionné par erreur, jeudi soir, un total de 74 victimes, avant de corriger ce bilan et de le ramener au chiffre précédent de 69 morts.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "59db7d5e1edd",
-   "titre": "Le parquet de Lorient ouvre une enquête après la présence d'individus masqués prétendant défendre les commerçants en marge de la mobilisation du 24 octobre",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/le-parquet-de-lorient-ouvre-une-enquete-apres-la-presence-d-individus-masques-pretendant-defendre-les-commercants-en-marge-de-la-mobilisation-du-24-octobre_8259350.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-29T18:26:03+00:00",
-   "extrait": "Ce groupe autoproclamé \"d'entraide citoyenne\" s'est constitué dans le secteur de Lorient, en réponse à un appel national à défendre les commerçants face aux pillages éventuels. Un témoin a également…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "5da8819cb3ee",
-   "titre": "JOJ Dakar 2026 : dans les souvenirs de trois anciens olympiens sénégalais",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261029-joj-dakar-2026-dans-les-souvenirs-de-trois-anciens-olympiens-s%C3%A9n%C3%A9galais",
-   "source": "France 24",
-   "date": "2026-10-29T18:14:12+00:00",
-   "extrait": "🇸🇳 À quelques jours des JOJ Dakar 2026, plongez dans les souvenirs de trois anciens olympiens sénégalais. Rencontres avec des légendes comme Serena Williams et Mohamed Ali, moments forts et émotions…",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "2f0d89ff6cd9",
-   "titre": "Midterms 2026 : deux Dan Sullivan pour un siège en Alaska, la manipulation des démocrates dévoilée",
-   "lien": "https://www.lemonde.fr/international/article/2026/10/29/midterms-2026-deux-dan-sullivan-pour-un-siege-en-alaska-la-manipulation-des-democrates-devoilee_6802377_3210.html",
-   "source": "Le Monde",
-   "date": "2026-10-29T18:11:59+00:00",
-   "extrait": "Le « New York Times » a révélé, mercredi 28 octobre, que le recrutement d’un homonyme du sénateur sortant républicain a été orchestré par l’entourage de la candidate démocrate, Mary Peltola.",
-   "tags": [],
    "zone": "france"
   }
  ]
