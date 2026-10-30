@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-30T10:05:40+00:00",
+ "maj": "2026-10-30T11:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,6 +24,17 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "eaaaa83e33fa",
+   "titre": "Drupal warns of critical Commerce Core flaw exploited in attacks",
+   "lien": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
+   "source": "BleepingComputer",
+   "date": "2026-10-30T10:16:07+00:00",
+   "extrait": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
    "id": "93a6b87fe425",
    "titre": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
    "lien": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
@@ -31,6 +42,18 @@
    "date": "2026-10-30T09:18:13+00:00",
    "extrait": "Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]",
    "tags": []
+  },
+  {
+   "id": "ad2cc061f552",
+   "titre": "Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor",
+   "lien": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
+   "source": "The Hacker News",
+   "date": "2026-10-30T08:55:47+00:00",
+   "extrait": "Cybersecurity researchers have disclosed that the official Anthropic Claude Code extension was compromised on the Open VSX registry to install a persistent SSH backdoor on infected hosts. The issue…",
+   "tags": [
+    "Malware",
+    "IA"
+   ]
   },
   {
    "id": "6d2a0802c49f",
@@ -3397,28 +3420,6 @@
     "Faille",
     "Malware",
     "Mobile"
-   ]
-  },
-  {
-   "id": "467c211f344f",
-   "titre": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
-   "lien": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
-   "source": "The Hacker News",
-   "date": "2026-10-20T11:41:06+00:00",
-   "extrait": "WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete their accounts…",
-   "tags": [
-    "IA"
-   ]
-  },
-  {
-   "id": "df48f73ea919",
-   "titre": "What Security Teams Can Do To Tame Wild Code",
-   "lien": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
-   "source": "The Hacker News",
-   "date": "2026-10-20T11:33:04+00:00",
-   "extrait": "A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves time, reduces…",
-   "tags": [
-    "IA"
    ]
   }
  ]
