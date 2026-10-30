@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-30T15:05:43+00:00",
+ "maj": "2026-10-30T16:05:42+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,15 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "e645dafde1d4",
+   "titre": "Trezor warns of suspected crypto-theft implant in hardware wallet",
+   "lien": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
+   "source": "BleepingComputer",
+   "date": "2026-10-30T15:58:20+00:00",
+   "extrait": "Hardware wallet device maker Trezor has received credible reports about a suspected hardware crypto-theft implant in a Trezor Safe 5 sold by its reseller CryptoBilis in Southeast Asia. [...]",
+   "tags": []
+  },
   {
    "id": "96a0f026f2e0",
    "titre": "Malicious Claude Code extension on Cursor planted SSH backdoors",
@@ -172,6 +181,151 @@
    "extrait": "Cryptocurrency giant Binance said on Thursday that a \"security incident\" on its platform has impacted about $6.3 billion worth of assets. The world's biggest cryptocurrency exchange said nearly $3…",
    "tags": [
     "Fuite de données"
+   ]
+  },
+  {
+   "id": "01b3d65ece3b",
+   "titre": "Multiples vulnérabilités dans les produits IBM (30 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1433/",
+   "source": "CERT-FR",
+   "date": "2026-10-30T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "5d0aa1865d5d",
+   "titre": "Multiples vulnérabilités dans les produits Apple (30 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1421/",
+   "source": "CERT-FR",
+   "date": "2026-10-30T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "c2bc9ee7faad",
+   "titre": "Vulnérabilité dans Stormshield Management Center (30 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1429/",
+   "source": "CERT-FR",
+   "date": "2026-10-30T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans Stormshield Management Center. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "565b19547f10",
+   "titre": "Multiples vulnérabilités dans Google Chrome (30 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1422/",
+   "source": "CERT-FR",
+   "date": "2026-10-30T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "b933ef472f9d",
+   "titre": "Vulnérabilité dans CPython (30 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1423/",
+   "source": "CERT-FR",
+   "date": "2026-10-30T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans CPython. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "56927490b177",
+   "titre": "Multiples vulnérabilités dans le noyau Linux de SUSE (30 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1432/",
+   "source": "CERT-FR",
+   "date": "2026-10-30T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un…",
+   "tags": [
+    "Faille",
+    "Linux"
+   ]
+  },
+  {
+   "id": "a04cc8e270bb",
+   "titre": "Vulnérabilité dans Tenable Nessus Plugin (30 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1425/",
+   "source": "CERT-FR",
+   "date": "2026-10-30T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans Tenable Nessus Plugin. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "0b98238d4eef",
+   "titre": "Multiples vulnérabilités dans le noyau Linux de Red Hat (30 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1431/",
+   "source": "CERT-FR",
+   "date": "2026-10-30T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une…",
+   "tags": [
+    "Faille",
+    "Linux"
+   ]
+  },
+  {
+   "id": "06c4ba24038c",
+   "titre": "Multiples vulnérabilités dans les produits MongoDB (30 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1430/",
+   "source": "CERT-FR",
+   "date": "2026-10-30T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une injection SQL…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "a6b51e86c41d",
+   "titre": "Multiples vulnérabilités dans Suricata (30 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1428/",
+   "source": "CERT-FR",
+   "date": "2026-10-30T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Suricata. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "b0ef52c1a470",
+   "titre": "Multiples vulnérabilités dans Veeam Management Pack (30 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1426/",
+   "source": "CERT-FR",
+   "date": "2026-10-30T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Veeam Management Pack. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "92650a1e7ae8",
+   "titre": "Vulnérabilité dans GitLab (30 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1427/",
+   "source": "CERT-FR",
+   "date": "2026-10-30T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans les produits GitLab. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "6b1f0a190440",
+   "titre": "Vulnérabilité dans Ruby on Rails trilogy (30 octobre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1424/",
+   "source": "CERT-FR",
+   "date": "2026-10-30T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans Ruby on Rails trilogy. Elle permet à un attaquant de provoquer une injection SQL (SQLi).",
+   "tags": [
+    "Faille"
    ]
   },
   {
@@ -3253,161 +3407,6 @@
    "source": "CERT-FR",
    "date": "2026-10-21T00:00:00+00:00",
    "extrait": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "955c23a46eb5",
-   "titre": "Multiples vulnérabilités dans Apache Tomcat (21 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1358/",
-   "source": "CERT-FR",
-   "date": "2026-10-21T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "7e3ff1ddd688",
-   "titre": "Multiples vulnérabilités dans Oracle Weblogic (21 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1355/",
-   "source": "CERT-FR",
-   "date": "2026-10-21T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Oracle Weblogic. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "29a7929616be",
-   "titre": "Vulnérabilité dans Traefik (21 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1356/",
-   "source": "CERT-FR",
-   "date": "2026-10-21T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans Traefik. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "61cd0116fe50",
-   "titre": "Multiples vulnérabilités dans Oracle Systems (21 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1353/",
-   "source": "CERT-FR",
-   "date": "2026-10-21T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Oracle Systems. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "8c2a72f1b403",
-   "titre": "[Màj] Multiples vulnérabilités dans PHP (21 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-014/",
-   "source": "CERT-FR",
-   "date": "2026-10-21T00:00:00+00:00",
-   "extrait": "**[Mise à jour du 22 octobre 2026]** Le CERT-FR a connaissance de preuves de concept pour les vulnérabilités CVE-2026-109618 et CVE-2026-109619 pour des déploiements spécifique de PHP. **[Mise à…",
-   "tags": [
-    "CVE",
-    "Faille"
-   ]
-  },
-  {
-   "id": "2c25fbe47228",
-   "titre": "Multiples vulnérabilités dans Oracle Virtualization (21 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1354/",
-   "source": "CERT-FR",
-   "date": "2026-10-21T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "cbf57cc482cc",
-   "titre": "Multiples vulnérabilités dans Oracle Database Server (21 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1349/",
-   "source": "CERT-FR",
-   "date": "2026-10-21T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "38b3cc802aa7",
-   "titre": "Multiples vulnérabilités dans PHP (21 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1359/",
-   "source": "CERT-FR",
-   "date": "2026-10-21T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "53f3111e5ee9",
-   "titre": "Multiples vulnérabilités dans Oracle MySQL (21 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1351/",
-   "source": "CERT-FR",
-   "date": "2026-10-21T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "c249096c27c9",
-   "titre": "Multiples vulnérabilités dans Google Chrome (21 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1357/",
-   "source": "CERT-FR",
-   "date": "2026-10-21T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "f04798d390b7",
-   "titre": "Multiples vulnérabilités dans Oracle PeopleSoft (21 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1352/",
-   "source": "CERT-FR",
-   "date": "2026-10-21T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "f8950928c299",
-   "titre": "Multiples vulnérabilités dans Oracle Java SE (21 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1350/",
-   "source": "CERT-FR",
-   "date": "2026-10-21T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "36ce959ec3d6",
-   "titre": "Multiples vulnérabilités dans Apache Tomcat (21 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1358/",
-   "source": "CERT-FR",
-   "date": "2026-10-21T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "6c25bf5f3c69",
-   "titre": "Multiples vulnérabilités dans Oracle Weblogic (21 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1355/",
-   "source": "CERT-FR",
-   "date": "2026-10-21T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Oracle Weblogic. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une…",
    "tags": [
     "Faille"
    ]
