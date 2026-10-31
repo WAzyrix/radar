@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-31T21:05:40+00:00",
+ "maj": "2026-10-31T21:53:19+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,11 +22,57 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "4f37d5b85c4d",
+   "titre": "2026 elections live updates: Trump supports Republicans with telerallies",
+   "lien": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/",
+   "source": "CBS News",
+   "date": "2026-10-31T21:45:14+00:00",
+   "extrait": "The November 2026 midterm elections are just three days away. Candidates in key races — and President Trump — are making their closing arguments to voters.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "92b06cd15ed3",
+   "titre": "Shootings kill 2 at Halloween Spirit stores in California, Michigan",
+   "lien": "https://www.cbsnews.com/news/spirit-halloween-store-shooting-fairfield-california/",
+   "source": "CBS News",
+   "date": "2026-10-31T21:40:21+00:00",
+   "extrait": "Shootings on Friday night in California and Michigan at Halloween Spirit stores, a retailer selling costumes and decor, killed two people, authorities said.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "3ef1a8112a73",
+   "titre": "Thousands demonstrate in Paris as protests spread across Europe",
+   "lien": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-31T21:29:01+00:00",
+   "extrait": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "a6298c60d4ab",
+   "titre": "French police clash with some protesters again as demonstrations continue",
+   "lien": "https://www.cbsnews.com/news/france-protests-paris-police-clash-demonstrators-halloween/",
+   "source": "CBS News",
+   "date": "2026-10-31T21:11:55+00:00",
+   "extrait": "Police said about 70,000 people demonstrated in Paris alone. France's interior ministry said about 320,000 people rallied nationwide.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "1a029e49916e",
    "titre": "EN DIRECT, manifestations du 31 octobre : plusieurs centaines de milliers de personnes ont défilé contre la vie chère en France, des couvre-feux partiels prévus cette nuit dans certaines grandes villes",
    "lien": "https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-plusieurs-centaines-de-milliers-de-personnes-ont-defile-contre-la-vie-chere-en-france-des-couvre-feux-partiels-prevus-cette-nuit-dans-certaines-grandes-villes_6803391_3224.html",
    "source": "Le Monde",
-   "date": "2026-10-31T21:01:40+00:00",
+   "date": "2026-10-31T21:01:37+00:00",
    "extrait": "Les manifestations de samedi se sont « bien déroulées », a estimé Laurent Nuñez en début de soirée. Plus de 40 000 contrôles ont été menés par les forces de l’ordre samedi, et plus de 500 personnes…",
    "tags": [
     "Politique",
@@ -58,18 +104,6 @@
    "zone": "monde"
   },
   {
-   "id": "4f37d5b85c4d",
-   "titre": "2026 elections live updates: Trump supports Republicans with telerallies",
-   "lien": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/",
-   "source": "CBS News",
-   "date": "2026-10-31T20:49:56+00:00",
-   "extrait": "The November 2026 midterm elections are just three days away. Candidates in key races — and President Trump — are making their closing arguments to voters.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "1f50310cb707",
    "titre": "Cinq Britanniques d’ultradroite interpellés près de Dunkerque pour des « actions d’intimidation » contre des migrants",
    "lien": "https://www.lemonde.fr/societe/article/2026/10/31/cinq-britanniques-d-ultradroite-interpelles-pres-de-dunkerque-pour-des-actions-d-intimidation-contre-des-migrants_6803734_3224.html",
@@ -80,16 +114,6 @@
     "Justice"
    ],
    "zone": "france"
-  },
-  {
-   "id": "92b06cd15ed3",
-   "titre": "Shootings kill 2 at Halloween Spirit stores in California, Michigan",
-   "lien": "https://www.cbsnews.com/news/spirit-halloween-store-shooting-fairfield-california/",
-   "source": "CBS News",
-   "date": "2026-10-31T20:44:11+00:00",
-   "extrait": "Shootings on Friday night in California and Michigan at Halloween Spirit stores, a retailer selling costumes and decor, killed two people, authorities said.",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "ebba7d2f246f",
@@ -182,18 +206,6 @@
    "zone": "france"
   },
   {
-   "id": "3ef1a8112a73",
-   "titre": "Clashes erupt between police and protesters in Paris",
-   "lien": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-31T19:37:43+00:00",
-   "extrait": "Over 320,000 people protested around France in a third weekend of demonstrations against the rising cost of living and poor public services.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
    "id": "4b09569c771d",
    "titre": "France seethes again as youth-led protests sweep Europe",
    "lien": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
@@ -211,6 +223,18 @@
    "date": "2026-10-31T19:22:26+00:00",
    "extrait": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
    "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "396a25308e2b",
+   "titre": "Sénégal : les Jeux olympiques de la jeunesse sont officiellement ouverts",
+   "lien": "https://www.france24.com/fr/afrique/20261031-les-jeux-olympiques-de-la-jeunesse-premier-%C3%A9v%C3%A8nement-olympique-en-afrique-s-ouvrent-%C3%A0-dakar",
+   "source": "France 24",
+   "date": "2026-10-31T19:14:02+00:00",
+   "extrait": "",
+   "tags": [
+    "Sport"
+   ],
    "zone": "monde"
   },
   {
@@ -460,18 +484,6 @@
    "extrait": "L'ambassade appelle à éviter ce lieu culturel, un palais de l'époque impériale situé dans un grand parc dans le sud de Moscou. Les services de renseignements russes assurent faire \"le nécessaire\".",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "a6298c60d4ab",
-   "titre": "French police clash with some protesters again as demonstrations continue",
-   "lien": "https://www.cbsnews.com/news/france-protests-paris-police-clash-demonstrators-halloween/",
-   "source": "CBS News",
-   "date": "2026-10-31T16:57:12+00:00",
-   "extrait": "Police said about 70,000 people demonstrated in Paris alone. France's interior ministry said about 320,000 people rallied nationwide.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
   },
   {
    "id": "896568e9efb4",
@@ -1829,6 +1841,18 @@
    "zone": "usa"
   },
   {
+   "id": "2824d83da23b",
+   "titre": "Acte III de la colère sociale : 320 000 manifestants en France selon le ministère de l'Intérieur",
+   "lien": "https://www.france24.com/fr/france/20261031-acte-iii-de-la-col%C3%A8re-sociale-320-000-manifestants-en-france-selon-le-minist%C3%A8re-de-l-int%C3%A9rieur",
+   "source": "France 24",
+   "date": "2026-10-31T08:49:56+00:00",
+   "extrait": "L'acte III de la colère sociale a mobilisé samedi 320 000 personnes en France, selon le ministère de l'Intérieur, et près de 500 000 personnes d'après les organisateurs. \"Les cortèges se sont bien…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "2ec54ff601cb",
    "titre": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
    "lien": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
@@ -2040,18 +2064,6 @@
     "Économie"
    ],
    "zone": "france"
-  },
-  {
-   "id": "396a25308e2b",
-   "titre": "Les Jeux olympiques de la Jeunesse sont officiellement ouverts à Dakar, une première en Afrique",
-   "lien": "https://www.france24.com/fr/afrique/20261031-les-jeux-olympiques-de-la-jeunesse-premier-%C3%A9v%C3%A8nement-olympique-en-afrique-s-ouvrent-%C3%A0-dakar",
-   "source": "France 24",
-   "date": "2026-10-31T06:59:57+00:00",
-   "extrait": "Les Jeux olympiques de la jeunesse (JOJ) ont ouvert samedi à Dakar, au Sénégal. C'est la première fois qu'un évènement olympique se déroule sur le sol africain. Jusqu'au 13 novembre, 2 600 athlètes…",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "monde"
   },
   {
    "id": "70130130a3e8",
@@ -3372,19 +3384,6 @@
     "Conflits"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "79f8566f4b7b",
-   "titre": "Meta settles social media addiction lawsuit, averting trial",
-   "lien": "https://www.cbsnews.com/news/meta-settles-social-media-addiction-lawsuit-snapchat/",
-   "source": "CBS News",
-   "date": "2026-10-30T19:24:56+00:00",
-   "extrait": "Two plaintiffs alleged that Meta and Snap designed their social media platforms to foster addictive behavior.",
-   "tags": [
-    "Justice",
-    "Tech"
-   ],
-   "zone": "usa"
   }
  ]
 }
