@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-31T17:05:39+00:00",
+ "maj": "2026-10-31T18:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "ba55b05e53ea",
+   "titre": "Northflank security breach leads to abuse of customers' AI API keys",
+   "lien": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+   "source": "BleepingComputer",
+   "date": "2026-10-31T18:01:12+00:00",
+   "extrait": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API…",
+   "tags": [
+    "Fuite de données",
+    "IA"
+   ]
+  },
   {
    "id": "845cf24b8961",
    "titre": "New Android SMS of Death exploit can remotely crash unpatched phones",
@@ -3401,18 +3413,6 @@
    "extrait": "State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it does not yet know where the data came…",
    "tags": [
     "Fuite de données"
-   ]
-  },
-  {
-   "id": "f6fe2f9557b7",
-   "titre": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
-   "lien": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
-   "source": "The Hacker News",
-   "date": "2026-10-21T07:26:49+00:00",
-   "extrait": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting…",
-   "tags": [
-    "CVE",
-    "Faille"
    ]
   }
  ]
