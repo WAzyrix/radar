@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-31T05:05:40+00:00",
+ "maj": "2026-10-31T06:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,27 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "e8eb82345a00",
+   "titre": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
+   "lien": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+   "source": "The Hacker News",
+   "date": "2026-10-31T05:33:41+00:00",
+   "extrait": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the security firm…",
+   "tags": [
+    "Faille",
+    "IA"
+   ]
+  },
+  {
+   "id": "21ad2182a136",
+   "titre": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
+   "lien": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
+   "source": "The Hacker News",
+   "date": "2026-10-31T04:56:12+00:00",
+   "extrait": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it…",
+   "tags": []
+  },
   {
    "id": "f167e37bde6d",
    "titre": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
@@ -3388,28 +3409,6 @@
    "source": "CERT-FR",
    "date": "2026-10-21T00:00:00+00:00",
    "extrait": "De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "e1c63543b3fb",
-   "titre": "Vulnérabilité dans MongoDB PHP Driver (21 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1347/",
-   "source": "CERT-FR",
-   "date": "2026-10-21T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans MongoDB PHP Driver. Elle permet à un attaquant de provoquer un déni de service à distance.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "5580c8b06e9d",
-   "titre": "Multiples vulnérabilités dans les produits StormShield (21 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1345/",
-   "source": "CERT-FR",
-   "date": "2026-10-21T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits StormShield. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à…",
    "tags": [
     "Faille"
    ]
