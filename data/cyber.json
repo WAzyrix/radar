@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-10-31T15:05:39+00:00",
+ "maj": "2026-10-31T16:05:42+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,6 +24,19 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "845cf24b8961",
+   "titre": "New Android SMS of Death exploit can remotely crash unpatched phones",
+   "lien": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
+   "source": "BleepingComputer",
+   "date": "2026-10-31T15:35:11+00:00",
+   "extrait": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt…",
+   "tags": [
+    "CVE",
+    "Faille",
+    "Mobile"
+   ]
+  },
+  {
    "id": "b35f9e575d4b",
    "titre": "Reddit to lock content behind logins to fight scrapers",
    "lien": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
@@ -38,7 +51,7 @@
    "lien": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
    "source": "BleepingComputer",
    "date": "2026-10-31T13:10:19+00:00",
-   "extrait": "[...]",
+   "extrait": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build…",
    "tags": [
     "Faille",
     "IA"
@@ -3400,19 +3413,6 @@
    "tags": [
     "CVE",
     "Faille"
-   ]
-  },
-  {
-   "id": "bd60f0eb51aa",
-   "titre": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
-   "lien": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
-   "source": "The Hacker News",
-   "date": "2026-10-21T06:05:15+00:00",
-   "extrait": "A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization. According to a report published by Russian cybersecurity firm Solar, the activity…",
-   "tags": [
-    "Fuite de données",
-    "Malware",
-    "Outil"
    ]
   }
  ]
