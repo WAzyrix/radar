@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-31T08:05:39+00:00",
+ "maj": "2026-10-31T09:05:46+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,15 +22,242 @@
  "erreurs": [],
  "articles": [
   {
-   "id": "ebba7d2f246f",
-   "titre": "Mobilisation du 31 octobre : L'intersyndicale va se réunir pour décider des suites de la mobilisation après la décision du Conseil d'Etat",
-   "lien": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-31-octobre-suivez-cette-troisieme-journee-de-manifestations-pour-laquelle-le-gouvernement-prevoit-un-dispositif-de-securite-exceptionnel_8260562.html#xtor=RSS-3-[lestitres]",
+   "id": "e252f1bb03d0",
+   "titre": "Do you have seasonal affective disorder? How to tell — and what to do about it",
+   "lien": "https://www.npr.org/2026/10/31/nx-s1-6023200/do-you-have-seasonal-affective-disorder-how-to-tell-and-what-to-do-about-it",
+   "source": "NPR",
+   "date": "2026-10-31T09:01:00+00:00",
+   "extrait": "The syndrome can make people feel like a \"hibernating bear,\" says Dr. Norman Rosenthal, who published the first research on SAD. He explains how to identify the symptoms and what to do to feel better.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "3907c5121ed1",
+   "titre": "Daylight saving time is almost over. Here's what to know.",
+   "lien": "https://www.cbsnews.com/news/daylight-savings-time-ends-2026/",
+   "source": "CBS News",
+   "date": "2026-10-31T09:00:20+00:00",
+   "extrait": "Millions of Americans gain an hour of sleep this weekend when the time change commonly known as daylight savings ends for 2026, meaning clocks \"fall back.\"",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "755c6f28be49",
+   "titre": "Oyster stocks have plunged in the Chesapeake. This resident wants to bring them back",
+   "lien": "https://www.npr.org/2026/10/31/nx-s1-6011228/oyster-farming-conservation-chesapeake-bay",
+   "source": "NPR",
+   "date": "2026-10-31T09:00:00+00:00",
+   "extrait": "Oyster reefs once abounded in the Chesapeake, but overharvesting slashed their populations, leading to poorer water quality and less habitat for other species. Now, researchers and local residents…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "c87089fa99ba",
+   "titre": "Plans for a data center threaten scenic wilderness and dark skies in West Virginia",
+   "lien": "https://www.npr.org/2026/10/31/nx-s1-5992790/data-centers-west-virginia-skiing-dark-skies",
+   "source": "NPR",
+   "date": "2026-10-31T09:00:00+00:00",
+   "extrait": "Residents are fighting back against plans for a project that would span thousands of acres near the Monongahela National Forest and popular outdoor recreation, ski areas and dark sky sites.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "504f5f91deee",
+   "titre": "Can I trust the polls? And other questions from listeners about the 2026 midterms",
+   "lien": "https://www.npr.org/2026/10/31/g-s1-149981/listener-questions-npr-midterms-2026-election",
+   "source": "NPR",
+   "date": "2026-10-31T09:00:00+00:00",
+   "extrait": "Ahead of Election Day, listeners send in questions about whether debates are dead, if polls are reliable for election coverage and how Trump might work with Democrats if they win control of Congress.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "161fb92c1a36",
+   "titre": "After last year's storm, this remote Alaska town is still picking up the pieces",
+   "lien": "https://www.npr.org/2026/10/31/nx-s1-6021471/ex-typhoon-halong-damages-western-alaska-native-villages-kipnuk",
+   "source": "NPR",
+   "date": "2026-10-31T09:00:00+00:00",
+   "extrait": "In October, 2025, the remnants of a typhoon seriously damaged Alaska Native villages in the far western part of the state. A year later, one of the hardest hit communities is still recovering.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "10e9dc9d6d91",
+   "titre": "Oil company earnings skyrocket — again",
+   "lien": "https://www.npr.org/2026/10/31/nx-s1-6008072/oil-company-profits-gasoline-diesel-prices",
+   "source": "NPR",
+   "date": "2026-10-31T09:00:00+00:00",
+   "extrait": "Oil companies are reporting another quarter of sky-high profits as the war in Iran pushes up the price of oil — and prices at the pump.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "b5aa8f08ea5b",
+   "titre": "100 years later, Harry Houdini's death still haunts Detroit",
+   "lien": "https://www.npr.org/2026/10/31/nx-s1-6008110/100-years-harry-houdinis-death-haunts-detroit",
+   "source": "NPR",
+   "date": "2026-10-31T09:00:00+00:00",
+   "extrait": "The legacy of magician Harry Houdini still looms large in Detroit 100 years after his death there. Some mark the anniversary of Houdini's death by trying to make contact with his spirit.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "e4b8fc56b19e",
+   "titre": "Your writing was flagged as AI. What does that actually mean?",
+   "lien": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram",
+   "source": "NPR",
+   "date": "2026-10-31T09:00:00+00:00",
+   "extrait": "As editors turn to imperfect AI detection tools to weed out machine-generated submissions, writers who say they were falsely accused of using AI are left wondering what triggered a positive result.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "2ec54ff601cb",
+   "titre": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+   "lien": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-31T08:49:35+00:00",
+   "extrait": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "9fd5cf2fc156",
+   "titre": "Le Conseil d'Etat donne raison à Laurent Nuñez et valide le parcours entre porte de Bagnolet et porte de Charenton pour la manifestation du 31 octobre à Paris",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/le-conseil-d-etat-donne-raison-a-laurent-nunez-et-valide-le-parcours-entre-porte-de-bagnolet-et-porte-de-charenton-pour-la-manifestation-du-31-octobre-a-paris_8261531.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-10-31T07:57:51+00:00",
-   "extrait": "La juridiction du Palais Royal a annulé la décision du tribunal administratif qui avait donné raison aux organisateurs qui souhaitaient un parcours entre Bastille et Nation. Les manifestants…",
+   "date": "2026-10-31T08:40:19+00:00",
+   "extrait": "La plus haute juridiction administrative française désavoue le tribunal administratif qui avait autorisé le parcours entre Bastille et Nation voulu par les organisateurs.",
    "tags": [
     "Justice"
    ],
+   "zone": "france"
+  },
+  {
+   "id": "984cf7488e15",
+   "titre": "Trois corps découverts dans les décombres d'un immeuble à Clermont-Ferrand après un incendie, une personne placée en garde à vue",
+   "lien": "https://www.franceinfo.fr/faits-divers/trois-corps-decouverts-dans-les-decombres-d-un-immeuble-a-clermont-ferrand-apres-un-incendie-une-personne-placee-en-garde-a-vue_8261585.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-31T08:38:25+00:00",
+   "extrait": "Le parquet évoque \"une origine criminelle possible\", un homme a été interpellé vendredi et placé en garde à vue.",
+   "tags": [
+    "Climat",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "dcd06f0c7e9b",
+   "titre": "Trump predicts Iran war will end soon as Qatar pushes for a deal",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+   "source": "CBS News",
+   "date": "2026-10-31T08:31:21+00:00",
+   "extrait": "Trump predicts the war with Iran is \"going to end soon,\" without offering any details, as Qatari mediators return to Tehran to push for a deal.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "49e6f41fdfb1",
+   "titre": "Dernier Français en lice au WTT Champions de Montpellier, Félix Lebrun éliminé dès les huitièmes de finale",
+   "lien": "https://www.franceinfo.fr/sports/tennis-de-table/dernier-francais-en-lice-au-wtt-champions-de-montpellier-felix-lebrun-elimine-des-les-huitiemes-de-finale_8261573.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-31T08:31:06+00:00",
+   "extrait": "Vainqueur du tournoi il y a deux ans, le n°2 mondial a été renversé par Zhou Qihao, vendredi.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "b465353f4923",
+   "titre": "Adrien Bilal, Prix du meilleur jeune économiste 2026 : « La croissance n’est pas l’adversaire de la politique climatique, c’est même l’inverse »",
+   "lien": "https://www.lemonde.fr/idees/article/2026/10/31/adrien-bilal-prix-du-meilleur-jeune-economiste-2026-la-croissance-n-est-pas-l-adversaire-de-la-politique-climatique-c-est-meme-l-inverse_6803479_3232.html",
+   "source": "Le Monde",
+   "date": "2026-10-31T08:30:07+00:00",
+   "extrait": "Les dommages du réchauffement climatique sont considérables : ils rognent la croissance et, avec elle, les marges budgétaires de la France. Réduire nos émissions de CO₂ reste pourtant rentable, même…",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "976d2576ea34",
+   "titre": "\"Pour moi, c'est la course qui part à l'infini, qui part au bout du monde\" : 52 novices s'apprêtent à prendre le départ de la Route du Rhum",
+   "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/pour-moi-c-est-la-course-qui-part-a-l-infini-qui-part-au-bout-du-monde-52-novices-s-appretent-a-prendre-le-depart-de-la-route-du-rhum_8261510.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-31T08:29:04+00:00",
+   "extrait": "À quelques heures du départ de la 13e édition, l'émotion et l'appréhension se mêlent chez ces 52 \"rookies\". Si certains rêvent de prendre le large et de se mesurer à leurs idoles, d'autres redoutent…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "a53637d3192c",
+   "titre": "U.S. approves sale of 500 Patriot missiles to Ukraine",
+   "lien": "https://www.cbsnews.com/news/ukraine-patriot-missiles-us-lockheed-martin-sale-zelenskyy/",
+   "source": "CBS News",
+   "date": "2026-10-31T08:22:03+00:00",
+   "extrait": "Ukrainian President Volodymyr Zelenskyy urged his allies to speed up deliveries of the critical munition.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "ebba7d2f246f",
+   "titre": "Mobilisation du 31 octobre : l'intersyndicale va se réunir pour décider des suites de la mobilisation après la décision du Conseil d'Etat",
+   "lien": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-31-octobre-suivez-cette-troisieme-journee-de-manifestations-pour-laquelle-le-gouvernement-prevoit-un-dispositif-de-securite-exceptionnel_8260562.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-31T08:12:54+00:00",
+   "extrait": "La juridiction du Palais Royal a annulé la décision du tribunal administratif de Paris, qui avait donné raison aux organisateurs qui souhaitaient un parcours entre Bastille et Nation. Les…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "ac8480dc60eb",
+   "titre": "\"Je m'inquiète de ce que les producteurs vont faire de mon image\" : en Chine, les acteurs sont de plus en plus remplacés par des IA",
+   "lien": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-m-inquiete-de-ce-que-les-producteurs-vont-faire-de-mon-image-en-chine-les-acteurs-sont-de-plus-en-plus-remplaces-par-des-ia_8241151.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-31T08:09:33+00:00",
+   "extrait": "Les acteurs chinois font face à une nouvelle réalité. Les sociétés de production font appel à l'intelligence artificielle, plutôt qu'à des humains pour tourner leurs films. Une utilisation qui…",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "055e90e915a3",
+   "titre": "Le PSG signe sa première correction de la saison en Ligue 1 au Havre, avec un triplé d'Achraf Hakimi",
+   "lien": "https://www.franceinfo.fr/sports/foot/psg/le-psg-signe-sa-premiere-correction-de-la-saison-en-ligue-1-au-havre-avec-un-triple-d-achraf-hakimi_8261552.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-31T08:06:47+00:00",
+   "extrait": "Le club de la capitale est assuré de conserver la tête du championnat d'ici la fin de la 9e journée, lundi.",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "dcce189e3d8b",
+   "titre": "Pour Halloween, des bonbons sans sucre au goût amer",
+   "lien": "https://www.lemonde.fr/economie/article/2026/10/31/pour-halloween-des-bonbons-sans-sucre-au-gout-amer_6803476_3234.html",
+   "source": "Le Monde",
+   "date": "2026-10-31T08:00:19+00:00",
+   "extrait": "Les confiseries étiquetées « peu caloriques » ou « sans sucre », dont certaines arborent un Nutri-Score A, ont trouvé leur place dans les rayons des supermarchés. Elles ne sont pas pour autant sans…",
+   "tags": [],
    "zone": "france"
   },
   {
@@ -38,7 +265,7 @@
    "titre": "En Pologne, nuit de heurts devant le Tribunal constitutionnel",
    "lien": "https://www.lemonde.fr/international/article/2026/10/31/en-pologne-nuit-de-heurts-devant-le-tribunal-constitutionnel_6803472_3210.html",
    "source": "Le Monde",
-   "date": "2026-10-31T07:54:48+00:00",
+   "date": "2026-10-31T07:54:44+00:00",
    "extrait": "Né du refus du président polonais, Karol Nawrocki, de recevoir le serment de juges élus par la Diète, le blocage du Tribunal constitutionnel a tourné, vendredi 30 octobre, à l’affrontement ouvert. A…",
    "tags": [
     "Politique",
@@ -66,6 +293,19 @@
    "tags": [
     "Politique",
     "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "f6accfa253ef",
+   "titre": "Armes biochimiques, cyberattaques géantes, perte de contrôle... Ce que dit le dossier d'entrée en Bourse d'Anthropic sur les dangers de l'IA",
+   "lien": "https://www.franceinfo.fr/internet/intelligence-artificielle/armes-biochimiques-cyberattaques-geantes-perte-de-controle-ce-que-dit-le-dossier-d-entree-en-bourse-d-anthropic-sur-les-dangers-de-l-ia_8258888.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-31T07:25:55+00:00",
+   "extrait": "L'entreprise américaine, qui développe notamment l'intelligence artificielle générative Claude, a publié un long document en vue de sa prochaine introduction en Bourse, dont un tiers est consacré…",
+   "tags": [
+    "Économie",
+    "Tech"
    ],
    "zone": "france"
   },
@@ -99,6 +339,38 @@
    "tags": [
     "Politique"
    ],
+   "zone": "france"
+  },
+  {
+   "id": "396a25308e2b",
+   "titre": "Les Jeux olympiques de la jeunesse, premier évènement olympique en Afrique, s'ouvrent à Dakar",
+   "lien": "https://www.france24.com/fr/afrique/20261031-les-jeux-olympiques-de-la-jeunesse-premier-%C3%A9v%C3%A8nement-olympique-en-afrique-s-ouvrent-%C3%A0-dakar",
+   "source": "France 24",
+   "date": "2026-10-31T06:59:57+00:00",
+   "extrait": "Les Jeux olympiques de la jeunesse (JOJ) s'ouvrent vendredi à Dakar, au Sénégal. C'est la première fois qu'un évènement olympique se déroule sur le sol africain. Jusqu'au 13 novembre, 2 600 athètes…",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "70130130a3e8",
+   "titre": "\"Moi aussi, je suis insatisfaite !\" : inspirée par la France, la jeunesse allemande veut descendre dans la rue",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/moi-aussi-je-suis-insatisfaite-inspiree-par-la-france-la-jeunesse-allemande-veut-descendre-dans-la-rue_8261000.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-31T06:57:42+00:00",
+   "extrait": "La \"Gen Z\" allemande manifeste pour exprimer ses insatisfactions et dénoncer des décisions prises sans elle.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "3871e9c5ab04",
+   "titre": "Impressionnés par le mouvement social en France, des militants britanniques sortent un \"kit pratique pour apprendre à manifester\"",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/impressionnes-par-le-mouvement-social-en-france-des-militants-britanniques-sortent-un-kit-pratique-pour-apprendre-a-manifester_8261060.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-31T06:50:54+00:00",
+   "extrait": "Certains jeunes Britanniques ont défilé en France samedi 17 octobre. Ils rentrent au Royaume-Uni prêts à exporter les méthodes de manifestations françaises chez eux.",
+   "tags": [],
    "zone": "france"
   },
   {
@@ -184,6 +456,18 @@
    "zone": "monde"
   },
   {
+   "id": "4e69b4f0c46b",
+   "titre": "Grâce à un \"crowdfunding artistique\", Nicolas Rouger prend le départ de la Route du Rhum, trois ans après la casse accidentelle de son bateau",
+   "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/grace-a-un-crowdfunding-artistique-nicolas-rouger-prend-le-depart-de-la-route-du-rhum-trois-ans-apres-la-casse-accidentelle-de-son-bateau_8254396.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-10-31T05:30:02+00:00",
+   "extrait": "Depuis 2023, le skippeur marseillais a levé des montagnes pour être au départ de Route du Rhum, dimanche, grâce à un projet qui mêle l'art et le sport.",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "c015140c786a",
    "titre": "En Guyane, une sécheresse record complique l’accès à l’eau potable",
    "lien": "https://www.lemonde.fr/planete/article/2026/10/31/en-guyane-une-secheresse-record-complique-l-acces-a-l-eau-potable_6803397_3244.html",
@@ -216,6 +500,19 @@
    "zone": "france"
   },
   {
+   "id": "796b12c70967",
+   "titre": "EN DIRECT, manifestations du 31 octobre : à Paris, le cortège défilera entre les portes de Bagnolet et de Charenton ; en France, plus de 150 défilés prévus pour défendre le pouvoir d’achat",
+   "lien": "https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-plus-d-une-centaine-de-defiles-prevus-pour-cette-nouvelle-journee-de-mobilisation-quelque-70-000-policiers-deployes_6803391_3224.html",
+   "source": "Le Monde",
+   "date": "2026-10-31T05:00:09+00:00",
+   "extrait": "Dans une décision rendue tôt samedi matin, le Conseil d’Etat a donné raison au préfet de police de Paris et au gouvernement en validant le parcours des autorités, et en rejetant celui défendu par…",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "27b50d1672c8",
    "titre": "Suited and booted: How Joseph Kabila went from president to rebel leader",
    "lien": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&at_campaign=rss",
@@ -245,7 +542,7 @@
    "lien": "https://www.lemonde.fr/politique/article/2026/10/31/a-trappes-l-espoir-d-un-reveil-des-francais-alors-que-l-arrivee-de-l-extreme-droite-au-pouvoir-est-dans-toutes-les-tetes_6803379_823448.html",
    "source": "Le Monde",
    "date": "2026-10-31T04:00:40+00:00",
-   "extrait": "L’émotion était palpable, vendredi, lors de la cérémonie organisée par Ali Rabeh, le maire (Génération. s) de la commune, une semaine après l’attaque terroriste qui a coûté la vie à une personne et…",
+   "extrait": "L’émotion était palpable, vendredi, lors de la cérémonie organisée par Ali Rabeh, le maire (Génération.s) de la commune, une semaine après l’attaque terroriste qui a coûté la vie à une personne et…",
    "tags": [
     "Conflits"
    ],
@@ -360,10 +657,10 @@
   },
   {
    "id": "c56abd8110ec",
-   "titre": "La Bourse de New York saisie d’effroi, à la veille d’Halloween",
+   "titre": "La Bourse de New York saisie d’effroi, à la veille de Halloween",
    "lien": "https://www.lemonde.fr/economie/article/2026/10/31/la-bourse-de-new-york-saisie-d-effroi-a-la-veille-d-halloween_6803334_3234.html",
    "source": "Le Monde",
-   "date": "2026-10-31T02:17:22+00:00",
+   "date": "2026-10-31T02:17:19+00:00",
    "extrait": "Alors que les inquiétudes s’accumulent sur la rentabilité des investissements massifs des entreprises du secteur de l’intelligence artificielle, les résultats trimestriels décevants de ces géants…",
    "tags": [
     "Économie",
@@ -904,19 +1201,6 @@
     "Conflits"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "dcd06f0c7e9b",
-   "titre": "Trump predicts Iran war will end soon as Qatar pushes for a deal",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
-   "source": "CBS News",
-   "date": "2026-10-30T22:07:13+00:00",
-   "extrait": "Trump predicts the war with Iran is \"going to end soon,\" without offering any details, as Qatari mediators return to Tehran to push for a deal.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
   },
   {
    "id": "84471bddc063",
@@ -2044,18 +2328,6 @@
     "Politique"
    ],
    "zone": "france"
-  },
-  {
-   "id": "2ec54ff601cb",
-   "titre": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-   "lien": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-30T16:26:11+00:00",
-   "extrait": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
   },
   {
    "id": "d8708bdbe816",
@@ -3190,284 +3462,6 @@
    "tags": [
     "Politique"
    ],
-   "zone": "usa"
-  },
-  {
-   "id": "6e9d13db29ff",
-   "titre": "🔴 Ukraine en direct : 200 000 foyers privés d'électricité après les frappes russes dans la région de Dnipropetrovsk",
-   "lien": "https://www.france24.com/fr/europe/20261030-ukraine-en-direct-frappes-meurtri%C3%A8res-dans-la-r%C3%A9gion-de-kiev-le-r%C3%A9seau-%C3%A9lectrique-cibl%C3%A9",
-   "source": "France 24",
-   "date": "2026-10-30T12:47:05+00:00",
-   "extrait": "",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "fffbb818ff34",
-   "titre": "\"Ce président semble plus corrompu que les autres\" : à quatre jours des Midterms aux Etats-Unis, l'honnêteté de l'administration Trump en question",
-   "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/reportage-ce-president-semble-plus-corrompu-que-les-autres-a-quatre-jours-des-midterms-aux-etats-unis-l-honnetete-de-l-administration-trump-remise-en-question-par-certains-electeurs_8260142.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-30T12:38:30+00:00",
-   "extrait": "Neuf Américains sur dix se disent préoccupés par la corruption. Ils reprochent à Donald Trump de profiter de sa position pour s'enrichir personnellement. Depuis le début de son mandat, sa fortune…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "955dfe173dd2",
-   "titre": "Swedish academic says he has been barred from UK over event with Palestine Action founder",
-   "lien": "https://www.bbc.co.uk/news/articles/ck1l32jdlvl1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-30T12:36:55+00:00",
-   "extrait": "Andreas Malm was due to appear on a panel alongside a co-founder of the proscribed group next week.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "878e263237f0",
-   "titre": "En Ardèche, un gynécologue qui exerçait depuis une dizaine d'années dans une clinique d'Annonay mis en examen pour viols",
-   "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/en-ardeche-un-gynecologue-qui-exercait-depuis-une-dizaine-d-annees-dans-une-clinique-d-annonay-mis-en-examen-pour-viols_8260397.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-30T12:35:42+00:00",
-   "extrait": "D'anciennes patientes reprochent au médecin des examens douloureux, des gestes et remarques déplacées ou le non-respect de la confidentialité médicale. Le praticien conteste les faits qui lui sont…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "582981b85de1",
-   "titre": "La police a-t-elle coopéré avec des militants d'ultradroite à Montpellier lors de la manifestation du samedi 24 octobre ?",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/enquete-franceinfo-la-police-a-t-elle-coopere-avec-des-militants-d-ultradroite-a-montpellier-lors-de-la-manifestation-du-samedi-24-octobre_8257252.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-30T12:34:30+00:00",
-   "extrait": "De nombreuses publications sur les réseaux sociaux accusent les policiers d'avoir protégé et laissé agir ces groupes. Si l'exécutif nie toute accointance entre forces de l'ordre et militants…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c44f3864b217",
-   "titre": "Attentat raciste de Trappes : Que sait-on du tireur présumé ?",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261030-attentat-raciste-de-trappes-que-sait-on-du-tireur-pr%C3%A9sum%C3%A9",
-   "source": "France 24",
-   "date": "2026-10-30T12:33:41+00:00",
-   "extrait": "L'auteur présumé de l’attaque terroriste raciste qui a fait un mort et sept blessés dans les Yvelines le 23 octobre a été arrêté. Voici ce que l'on sait.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "0517f362e61a",
-   "titre": "Woman jailed for mushroom poison murders given harsher sentence",
-   "lien": "https://www.cbsnews.com/news/mushroom-poison-murders-australia-erin-patterson-harsher-sentence/",
-   "source": "CBS News",
-   "date": "2026-10-30T12:31:05+00:00",
-   "extrait": "Erin Patterson is only the second woman in Australia to be imprisoned for life without the possibility of parole.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "994dc4ad57af",
-   "titre": "La préfecture de police interdit les parcours dans le centre de Paris déposés par la CGT et les gilets jaunes pour la manifestation du 31 octobre",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/la-prefecture-de-police-interdit-les-parcours-dans-le-centre-de-paris-deposes-par-la-cgt-et-les-gilets-jaunes-pour-la-manifestation-du-31-octobre_8260361.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-30T12:28:43+00:00",
-   "extrait": "Elle contraint les deux cortèges à \"converger\" et à défiler en périphérie de la capitale, entre la porte de Bagnolet et la porte de Charenton.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "46e7d28610ba",
-   "titre": "What we know about Binance's $6.3bn hack",
-   "lien": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-30T12:27:28+00:00",
-   "extrait": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "867435196f8f",
-   "titre": "La Russie réintégrée aux championnats du monde de hockey sur glace, sur décision du Tribunal arbitral du sport",
-   "lien": "https://www.franceinfo.fr/sports/hockey-sur-glace/la-russie-reintegree-aux-championnats-du-monde-de-hockey-sur-glace-sur-decision-du-tribunal-arbitral-du-sport_8260241.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-30T12:24:54+00:00",
-   "extrait": "Depuis l'invasion de l'Ukraine en février 2022, la Russie était suspendue des compétitions internationales de hockey sur glace par l'IIHF.",
-   "tags": [
-    "Conflits",
-    "Justice",
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "7ddcf929f27a",
-   "titre": "En Italie, des milliers de jeunes et de travailleurs manifestent sous haute surveillance",
-   "lien": "https://www.lemonde.fr/international/article/2026/10/30/en-italie-des-milliers-de-jeunes-et-de-travailleurs-manifestent-sous-haute-surveillance_6803086_3210.html",
-   "source": "Le Monde",
-   "date": "2026-10-30T12:21:48+00:00",
-   "extrait": "Des cortèges ont défilé dans des dizaines de villes du pays, notamment à Bologne, Gênes, Naples et Turin, pour réclamer davantage de financements pour les écoles et des mesures contre la vie chère.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "eb77331eb195",
-   "titre": "Vente de préservatifs non conformes : 15 références retirées et rappelées sur le marché européen après une enquête de la DGCCRF",
-   "lien": "https://www.franceinfo.fr/sante/vente-de-preservatifs-non-conformes-15-references-retirees-et-rappelees-sur-le-marche-europeen-apres-une-enquete-de-la-dgccrf_8260220.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-30T12:21:36+00:00",
-   "extrait": "Environ sept millions de préservatifs produits par un fabricant malaisien sont concernés par ce rappel en raison de défauts \"susceptibles de causer éclatement et perforation\".",
-   "tags": [
-    "Économie",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "4d5e8a4d62a2",
-   "titre": "China denies allegations of spy operation targeting Nvidia CEO",
-   "lien": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-30T12:20:04+00:00",
-   "extrait": "US intelligence officials believe a Chinese businesswoman was gathering information for Beijing on the US chip-making giant, The New York Times reports.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "4ba116b2b610",
-   "titre": "Xénophobie en Afrique du Sud : le pays refuse les manifestations d'un mouvement anti-immigration",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261030-x%C3%A9nophobie-en-afrique-du-sud-le-pays-refuse-les-manifestations-d-un-mouvement-anti-immigration",
-   "source": "France 24",
-   "date": "2026-10-30T12:15:53+00:00",
-   "extrait": "En Afrique du Sud, alors que jeudi 22 octobre, un étranger a été battu à mort, le gouvernement a décidé d'agir. Le ministre de la Police a obtenu ce jeudi 29 octobre une ordonnance judiciaire…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "9bc686135bab",
-   "titre": "Cameroun : tournant décisif dans l'affaire Martinez Zogo, journaliste assassiné en 2023",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261030-cameroun-tournant-d%C3%A9cisif-dans-l-affaire-martinez-zogo-journaliste-assassin%C3%A9-en-2023",
-   "source": "France 24",
-   "date": "2026-10-30T12:11:55+00:00",
-   "extrait": "Suite à l'assassinat sauvage du journaliste camerounais Martinez Zogo en 2023, la procédure de l'affaire prend un tournant décisif grâce à un témoignage : celui d'un officier supérieur, évincé de…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "29c9b3f86540",
-   "titre": "Présidentielle 2027 : jusqu'où ira la chute de Gabriel Attal et Édouard Philippe ?",
-   "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-jusqu-ou-ira-la-chute-de-gabriel-attal-et-edouard-philippe_8260412.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-30T12:11:12+00:00",
-   "extrait": "Ils ont tous les deux pris leurs distances avec Emmanuel Macron. Pourtant, Gabriel Attal et Édouard Philippe restent associés à son bilan et peinent à convaincre qu’ils incarnent une véritable…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "586f517010cf",
-   "titre": "Rwanda : les États-Unis sanctionnent, accusant Kigali de soutenir le M23",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261030-rwanda-les-%C3%A9tats-unis-sanctionnent-le-pays-qu-il-accuse-de-soutenir-le-m23",
-   "source": "France 24",
-   "date": "2026-10-30T12:08:02+00:00",
-   "extrait": "Le gouvernement américain a annoncé mercredi 28 octobre avoir placé sous sanctions le ministère de la Défense rwandais, ainsi qu'une banque coopérative, pour leur soutien au groupe armé congolais…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "88e5a8d3a1b0",
-   "titre": "JOJ Dakar 2026 : Avant la compétition, la détente des athlètes",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261030-joj-dakar-2026-avant-la-comp%C3%A9tition-la-d%C3%A9tente-des-athl%C3%A8tes",
-   "source": "France 24",
-   "date": "2026-10-30T12:06:20+00:00",
-   "extrait": "🌍 Au village olympique, les athlètes profitent du Club House pour se détendre avant le début des compétitions. Jeux, loisirs et échanges rythment ces moments de convivialité, loin de la pression…",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "c3c296345fb4",
-   "titre": "Google value plunges by $500bn as its own AI search hits ad sales",
-   "lien": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-30T12:04:02+00:00",
-   "extrait": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "d7b108c1ee93",
-   "titre": "Marine Le Pen est-elle vraiment inéligible à l'élection présidentielle, comme l'affirme un magistrat honoraire de la Cour de cassation ?",
-   "lien": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/marine-le-pen-est-elle-vraiment-ineligible-a-l-election-presidentielle-comme-l-affirme-un-magistrat-honoraire-de-la-cour-de-cassation_8257378.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-30T12:03:48+00:00",
-   "extrait": "Didier Guérin a assuré mardi dans \"Le Monde\" que la candidate du Rassemblement national n’était éligible ni à ce jour ni dans l’hypothèse d’une cassation de l'arrêt de la cour d'appel. Cette…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "7b8680f2b373",
-   "titre": "Attentat à Trappes et La verrière : l'auteur présumé en détention provisoire",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261030-attentat-%C3%A0-trappes-et-la-verri%C3%A8re-l-auteur-pr%C3%A9sum%C3%A9-en-d%C3%A9tention-provisoire",
-   "source": "France 24",
-   "date": "2026-10-30T12:01:49+00:00",
-   "extrait": "Le suspect de l'attentat dans les Yvelines, qui a fait un mort et sept blessés vendredi 23 octobre, a été mis en examen et écroué jeudi 29 octobre à Paris, après avoir reconnu avoir ciblé des…",
-   "tags": [
-    "Conflits",
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "1a8b0d33cb53",
-   "titre": "Why is the Cheesecake Factory at the center of the latest culture war?",
-   "lien": "https://www.npr.org/2026/10/30/nx-s1-6023106/cheesecake-factory-culture-war-affordability-trump-obama",
-   "source": "NPR",
-   "date": "2026-10-30T12:00:31+00:00",
-   "extrait": "A joke by former President Obama has gone viral and received backlash from the Trump administration as the issue of affordability looms large over next week's midterm elections.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "8ef457718aed",
-   "titre": "« Un dirigeant qui n’investit pas dans l’adaptation climatique aujourd’hui se comporte comme un joueur de casino »",
-   "lien": "https://www.lemonde.fr/idees/article/2026/10/30/un-dirigeant-qui-n-investit-pas-dans-l-adaptation-climatique-aujourd-hui-se-comporte-comme-un-joueur-de-casino_6803083_3232.html",
-   "source": "Le Monde",
-   "date": "2026-10-30T12:00:01+00:00",
-   "extrait": "Pour encourager les investissements en faveur de la transition écologique, il faudrait substituer à la réflexion à long terme des échéances plus immédiates, estiment, dans une tribune au « Monde »…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "1b81eb89cb40",
-   "titre": "Why Is Everyone Talking About Jennifer Lawrence's Face?",
-   "lien": "https://www.cbsnews.com/video/why-everyone-talking-jennifer-lawrences-face/",
-   "source": "CBS News",
-   "date": "2026-10-30T12:00:00+00:00",
-   "extrait": "The internet can't stop talking about Jennifer Lawrence's face, and Vlad and Kelly want to know why. Joined by Dr. David Cangello, Vlad and Kelly are breaking down the rise of the bleph and the…",
-   "tags": [],
    "zone": "usa"
   }
  ]
