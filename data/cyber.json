@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-01T09:05:39+00:00",
+ "maj": "2026-11-01T10:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,12 +24,34 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "c1c20131973a",
+   "titre": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
+   "lien": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
+   "source": "The Hacker News",
+   "date": "2026-11-01T08:51:31+00:00",
+   "extrait": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
    "id": "2a3e4a8e199c",
    "titre": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
    "lien": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
    "source": "The Hacker News",
    "date": "2026-11-01T07:25:40+00:00",
    "extrait": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script…",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "6e20a9798345",
+   "titre": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+   "lien": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
+   "source": "The Hacker News",
+   "date": "2026-11-01T07:03:00+00:00",
+   "extrait": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked…",
    "tags": [
     "Fuite de données"
    ]
@@ -44,17 +66,6 @@
    "tags": [
     "Malware",
     "Windows"
-   ]
-  },
-  {
-   "id": "6e20a9798345",
-   "titre": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
-   "lien": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
-   "source": "The Hacker News",
-   "date": "2026-11-01T06:44:27+00:00",
-   "extrait": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked…",
-   "tags": [
-    "Fuite de données"
    ]
   },
   {
@@ -3404,17 +3415,6 @@
    "date": "2026-10-21T09:20:00+00:00",
    "extrait": "Aux Philippines ainsi qu’au Cambodge, des personnes ont été arrêtées dans une enquête concernant un SMS blaster, que les autorités associent à des messages frauduleux imitant un établissement…",
    "tags": []
-  },
-  {
-   "id": "705a2aee0bf3",
-   "titre": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
-   "lien": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-   "source": "The Hacker News",
-   "date": "2026-10-21T09:05:17+00:00",
-   "extrait": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official…",
-   "tags": [
-    "Faille"
-   ]
   }
  ]
 }
