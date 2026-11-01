@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-10-31T23:05:40+00:00",
+ "maj": "2026-11-01T00:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,26 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "5472b11c5554",
+   "titre": "$6.3 billion Binance hack likely work of North Korea, experts say",
+   "lien": "https://www.cbsnews.com/news/binance-hack-north-korea/",
+   "source": "CBS News",
+   "date": "2026-10-31T23:20:47+00:00",
+   "extrait": "A cyberattack on Binance, the world's largest crypto exchange, was likely carried out by North Korea, according to a blockchain intelligence firm.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "5f84f1aafe10",
+   "titre": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
+   "lien": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-31T23:06:13+00:00",
+   "extrait": "Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka.",
+   "tags": [],
+   "zone": "monde"
+  },
   {
    "id": "e236499e5ceb",
    "titre": "Crise politique en Pologne : Bruxelles appelle le président Karol Nawrocki à valider la nomination de nouveaux juges au Tribunal constitutionnel",
@@ -3358,30 +3378,6 @@
     "Politique"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "d6f468599e53",
-   "titre": "US tech stocks see sharp falls as AI spending nears $1tn",
-   "lien": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-30T20:34:46+00:00",
-   "extrait": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "39f7280f972d",
-   "titre": "La CAF rétropédale : la CAN se jouera de nouveau tous les deux ans",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/caf%C3%A9-des-sports/20261030-caf-r%C3%A9trop%C3%A9dale-can-se-jouera-de-nouveau-tous-deux-ans",
-   "source": "France 24",
-   "date": "2026-10-30T20:27:23+00:00",
-   "extrait": "C’est officiel depuis cette nuit : la Confédération africaine de football (CAF) fait machine arrière et maintient la Coupe d'Afrique des nations (CAN) tous les deux ans. La compétition continentale…",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "monde"
   }
  ]
 }
