@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-01T15:05:40+00:00",
+ "maj": "2026-11-01T16:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,19 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "af6ffe74845e",
+   "titre": "Alpine Linux rebuilds GitLab after attempted RCE attack",
+   "lien": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
+   "source": "BleepingComputer",
+   "date": "2026-11-01T15:11:21+00:00",
+   "extrait": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset…",
+   "tags": [
+    "Faille",
+    "Fuite de données",
+    "Linux"
+   ]
+  },
   {
    "id": "d15dc155427a",
    "titre": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
@@ -3406,17 +3419,6 @@
    "date": "2026-10-21T10:30:27+00:00",
    "extrait": "Attackers took control of more than 300 Tor exit relays in early October and used them to redirect SSH connections to servers that stole login passwords, a researcher found. Exit relays are the last…",
    "tags": []
-  },
-  {
-   "id": "c455efb4640b",
-   "titre": "Arnaque au bitcoin : un réseau piloté depuis des prisons",
-   "lien": "https://www.zataz.com/arnaque-au-bitcoin-un-reseau-pilote-depuis-des-prisons/",
-   "source": "Zataz",
-   "date": "2026-10-21T09:43:47+00:00",
-   "extrait": "Arnaque au bitcoin : une femme arrêtée et un réseau d'escroquerie lié à deux prisons.",
-   "tags": [
-    "Malware"
-   ]
   }
  ]
 }
