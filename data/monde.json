@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-01T06:53:01+00:00",
+ "maj": "2026-11-01T07:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,62 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "de77300dcc63",
+   "titre": "Shops looted as German cost of living protests turn violent",
+   "lien": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-01T07:05:50+00:00",
+   "extrait": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "8fa2de342312",
+   "titre": "India's opposition set to hold mega rally seeking election chief's resignation",
+   "lien": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-01T07:00:55+00:00",
+   "extrait": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "e4c792dd4b0f",
+   "titre": "\"48 Hours\" show schedule",
+   "lien": "https://www.cbsnews.com/48-hours/episode-schedule/",
+   "source": "CBS News",
+   "date": "2026-11-01T07:00:18+00:00",
+   "extrait": "\"48 Hours\" uncovers the narrative behind true crime cases with unmatched reporting and suspense.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "38f0e12f95c0",
+   "titre": "En Inde, l'opposition manifeste pour demander la démission du chef de la commission électorale",
+   "lien": "https://www.france24.com/fr/asie-pacifique/20261101-en-inde-opposition-manifestation-contre-r%C3%A9forme-listes-%C3%A9lectorales",
+   "source": "France 24",
+   "date": "2026-11-01T06:57:32+00:00",
+   "extrait": "Une grande manifestation réunissant les partis d'opposition, les organisations étudiantes et le mouvement des \"cafards\" se tient à Delhi dimanche, où un dispositif anti-émeute a été mis en place…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "9fa84fc6e661",
+   "titre": "Mobilisation importante mais en baisse, heurts en marge de certains cortèges, centres-villes sous haute protection... Ce qu'il faut retenir de la journée de mobilisation du 31 octobre",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/mobilisation-importante-mais-en-baisse-heurts-en-marge-de-certains-corteges-centres-villes-sous-haute-protection-ce-qu-il-faut-retenir-de-la-journee-de-mobilisation-du-31-octobre_8262017.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-01T06:55:29+00:00",
+   "extrait": "Ce troisième samedi consécutif de cortèges en France a réuni entre 320 000 et près d'un demi-million de manifestants selon les sources. 565 personnes ont été interpellées par les forces de l'ordre.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
   {
    "id": "73810cfa84aa",
    "titre": "Tarif fixe ou indexé ? On vous explique comment s'y retrouver dans la jungle des prix du gaz, au moment où les prix flambent",
@@ -99,16 +155,6 @@
    "zone": "france"
   },
   {
-   "id": "de77300dcc63",
-   "titre": "Shops looted as German cost of living protests turn violent",
-   "lien": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-01T06:30:59+00:00",
-   "extrait": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
    "id": "04e38ac11faa",
    "titre": "EN DIRECT, guerre en Ukraine : le site pétrolier de Kstovo, l’une des plus grandes raffineries de Russie, visé par une attaque",
    "lien": "https://www.lemonde.fr/international/live/2026/11/01/en-direct-guerre-en-ukraine-le-site-petrolier-de-kstovo-l-une-des-plus-grandes-raffineries-de-russie-vise-par-une-attaque_6803934_3210.html",
@@ -145,6 +191,28 @@
    "zone": "usa"
   },
   {
+   "id": "8a0ab9f080ca",
+   "titre": "Rioters loot stores in Germany amid cost of living protests",
+   "lien": "https://www.cbsnews.com/news/germany-protest-frankfurt-looting-violence/",
+   "source": "CBS News",
+   "date": "2026-11-01T05:53:35+00:00",
+   "extrait": "After a largely peaceful protest, violence broke out between police and demonstrators in Germany.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "b8268458a9f0",
+   "titre": "Avec huit bateaux au départ de la Route du Rhum, la classe reine des Ultim fait le pari de l'ouverture",
+   "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/avec-huit-bateaux-au-depart-de-la-route-du-rhum-la-classe-reine-des-ultim-fait-le-pari-de-l-ouverture_8221357.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-01T05:30:02+00:00",
+   "extrait": "Autrefois perçue comme élitiste, la classe Ultim se développe depuis plusieurs années pour s'étendre à de nouveaux skippeurs, afin de rendre cette catégorie plus accessible.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "63401d823736",
    "titre": "Watch: Heidi Klum as giant severed hand for Halloween bash",
    "lien": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
@@ -153,6 +221,28 @@
    "extrait": "The supermodel and TV host provided a gory new shock at her New York event.",
    "tags": [],
    "zone": "monde"
+  },
+  {
+   "id": "f49ab85050c3",
+   "titre": "\"Godzilla Minus Zero\" : le retour du célèbre \"Kaiju\" dans un second opus plein de surprises signé Takashi Yamazaki",
+   "lien": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/godzilla-minus-zero-le-retour-du-celebre-kaiju-dans-un-second-opus-plein-de-surprises-signe-takashi-yamazaki_8254666.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-01T05:00:16+00:00",
+   "extrait": "En mêlant le récit de destins intimes et le fantastique, cette nouvelle aventure de la saga Godzilla nous plonge dans l'inconscient d'un Japon toujours en proie aux cauchemars de la Seconde Guerre…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "efa0b56612d6",
+   "titre": "\"Singapura\", \"Black Doves\", \"Eldorado\"... Quelles séries vous attendent en novembre ?",
+   "lien": "https://www.franceinfo.fr/culture/series/singapura-black-doves-eldorado-quelles-series-vous-attendent-en-novembre_8254576.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-01T05:00:11+00:00",
+   "extrait": "Un biopic sur la vie de Mohamed Ali, le récit d'une révolution ratée en Colombie ou un pur thriller sur un braquage de banque en Suisse... Mais aussi quelques mini-séries historiques ou des sorties…",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "1f0eb3916c10",
@@ -299,16 +389,6 @@
    "extrait": "« Elle ou il s’est fait remarquer. » Coup de projecteur sur une femme ou un homme qui a marqué l’actualité. Cette semaine, l’humoriste, acteur et réalisateur canadien qui connaît un énorme succès…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "e4c792dd4b0f",
-   "titre": "\"48 Hours\" show schedule",
-   "lien": "https://www.cbsnews.com/48-hours/episode-schedule/",
-   "source": "CBS News",
-   "date": "2026-11-01T03:00:02+00:00",
-   "extrait": "\"48 Hours\" uncovers the narrative behind true crime cases with unmatched reporting and suspense.",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "34a0d196ea3c",
@@ -586,18 +666,6 @@
    "date": "2026-11-01T00:33:33+00:00",
    "extrait": "",
    "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "8fa2de342312",
-   "titre": "India's opposition set to hold mega rally seeking election chief's resignation",
-   "lien": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-01T00:12:07+00:00",
-   "extrait": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
-   "tags": [
-    "Politique"
-   ],
    "zone": "monde"
   },
   {
@@ -900,16 +968,6 @@
     "Justice"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "9fa84fc6e661",
-   "titre": "Mobilisation importante mais en baisse, heurts en marge de certains cortèges, centres-villes sous haute protection... Ce qu'il faut retenir de la journée de mobilisation du 31 octobre",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/mobilisation-importante-mais-en-baisse-heurts-en-marge-de-certains-corteges-centres-villes-sous-haute-protection-ce-qu-il-faut-retenir-de-la-journee-de-mobilisation-du-31-octobre_8262017.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-31T19:42:43+00:00",
-   "extrait": "Ce troisième samedi consécutif de cortèges en France a réuni entre 320 000 et près d'un demi-million de manifestants selon les sources.",
-   "tags": [],
-   "zone": "france"
   },
   {
    "id": "4b09569c771d",
@@ -3325,62 +3383,6 @@
    "date": "2026-10-30T23:54:08+00:00",
    "extrait": "CBS News chief medical correspondent, Dr. Jon LaPook, breaks down the current flu season and what you can do to stay protected.",
    "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "f80642512506",
-   "titre": "How hard is it to recover the $6 billion stolen from Binance?",
-   "lien": "https://www.cbsnews.com/news/binance-crypto-hack-stolen-funds-recovery/",
-   "source": "CBS News",
-   "date": "2026-10-30T23:50:03+00:00",
-   "extrait": "Security experts are calling it the \"largest bank robbery in human history.\" Getting all of the stolen crypto funds won't be easy.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "d1c0f6626ed0",
-   "titre": "Documents show funding scramble before around-the-world \"forever cruise\" was stranded",
-   "lien": "https://www.cbsnews.com/video/documents-show-funding-scramble-before-around-the-world-forever-cruise-was-stranded/",
-   "source": "CBS News",
-   "date": "2026-10-30T23:46:22+00:00",
-   "extrait": "The company behind a \"forever cruise\" that stranded more than 200 passengers in Cambodia this week blames rising fuel costs for halting the trip. But documents obtained by CBS News reveal a longer…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "a938d0352b68",
-   "titre": "Tech stocks plunge amid AI concerns as $6.3 billion Binance hack raises security fears",
-   "lien": "https://www.cbsnews.com/video/tech-stocks-plunge-amid-ai-concerns-6-3-billion-dollar-binance-hack-raises-security-fears/",
-   "source": "CBS News",
-   "date": "2026-10-30T23:42:00+00:00",
-   "extrait": "Tech stocks plunged amid concerns over AI investments, while a reported $6.3 billion hack of cryptocurrency exchange Binance raised security fears, with industry sources suspecting North Korean…",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "dd73ff6d735c",
-   "titre": "Manhunt underway after Toronto family violently attacked in home invasion",
-   "lien": "https://www.cbsnews.com/video/manhunt-underway-after-toronto-family-violently-attacked-in-home-invasion/",
-   "source": "CBS News",
-   "date": "2026-10-30T23:34:06+00:00",
-   "extrait": "Toronto police are searching for three masked suspects who allegedly forced their way into a family's home early Thursday, armed with guns and a hammer. All four family members inside at the time…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "f206289aab5b",
-   "titre": "\"Trump holds 27th campaign rally as midterms near \"",
-   "lien": "https://www.cbsnews.com/video/trump-holds-27th-campaign-rally-as-midterms-near/",
-   "source": "CBS News",
-   "date": "2026-10-30T23:32:24+00:00",
-   "extrait": "President Trump is holding his 27th rally in 30 days on Friday, a sign of how competitive key congressional races have become as Election Day closes in. Weijia Jiang has the latest.",
-   "tags": [
-    "Politique"
-   ],
    "zone": "usa"
   }
  ]
