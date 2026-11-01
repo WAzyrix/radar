@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-01T10:05:39+00:00",
+ "maj": "2026-11-01T11:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,13 +22,172 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "de77300dcc63",
+   "titre": "Shops looted as German cost of living protests turn violent",
+   "lien": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-01T11:03:36+00:00",
+   "extrait": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "edfaae1614ee",
+   "titre": "Mobilisation sociale : 20 commerces ont été dégradés le 31 octobre, un chiffre en baisse par rapport aux précédents week-ends de manifestations",
+   "lien": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-sociale-la-jeunesse-ne-lache-pas-declare-la-porte-parole-de-l-union-etudiante-au-lendemain-des-manifestations-du-31-octobre_8262449.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-01T11:02:26+00:00",
+   "extrait": "Après un nouveau samedi de mobilisation avec une participation en légère baisse, de nouveaux rendez-vous sont prévus la semaine prochaine avec en point culminant la grève nationale annoncée le 5…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "7ca0120b19d4",
+   "titre": "How Gen Z Republicans running for Congress are thinking about the future of the party",
+   "lien": "https://www.npr.org/2026/11/01/nx-s1-5946869/midterm-elections-gen-z-republicans",
+   "source": "NPR",
+   "date": "2026-11-01T11:00:00+00:00",
+   "extrait": "On the eve of what may prove to be a tough election for the GOP, young conservatives vying to be part of the first class of Gen Z Republicans in Congress want a role shaping the party's next chapter.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "1c884babcc0a",
+   "titre": "Au lendemain de la mobilisation du 31 octobre, Emmanuel Macron considère que \"le débat électoral et les urnes doivent prendre le pas sur la démocratie sociale et la rue\"",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/au-lendemain-de-la-mobilisation-du-31-octobre-emmanuel-macron-considere-que-le-debat-electoral-et-les-urnes-doivent-prendre-le-pas-sur-la-democratie-sociale-et-la-rue_8262659.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-01T10:42:48+00:00",
+   "extrait": "Après un acte III de manifestations lycéennes et contre la vie chère, le président de la République estime que les réponses aux revendications doivent être apportées à \"court terme\" par le…",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "23b2b257ad25",
+   "titre": "Binance resumes withdrawals for some cryptocurrencies after heist",
+   "lien": "https://www.cbsnews.com/news/binance-crypto-heist-withdrawals/",
+   "source": "CBS News",
+   "date": "2026-11-01T10:35:55+00:00",
+   "extrait": "The exchange said it would resume withdrawals in phases, pending security checks.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "d900713221de",
+   "titre": "La plateforme de cryptomonnaies Binance annonce une reprise des retraits après avoir perdu plus de six milliards de dollars dans un piratage",
+   "lien": "https://www.franceinfo.fr/economie/bitcoin/la-plateforme-de-cryptomonnaies-binance-annonce-une-reprise-des-retraits-apres-un-piratage-commis-par-des-hackers-de-coree-du-nord-selon-les-accusations-du-fbi_8262545.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-01T10:31:36+00:00",
+   "extrait": "Si le FBI a accusé des hackers nord-coréens, le président américain Donald Trump a émis des doutes sur l'intervention du régime de Kim Jong-un dans ce vol.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "34bbc1ac5b42",
+   "titre": "Au Liban, les dépenses du quotidien pèsent de plus en plus lourd",
+   "lien": "https://www.france24.com/fr/moyen-orient/20261101-au-liban-les-d%C3%A9penses-du-quotidien-p%C3%A8sent-de-plus-en-plus-lourd",
+   "source": "France 24",
+   "date": "2026-11-01T10:29:55+00:00",
+   "extrait": "Alors que le FMI réclame au Liban de nouvelles réformes économiques et bancaires, de nombreux ménages peinent à faire face au coût de la vie. La mise en œuvre de ces mesures suscite par ailleurs des…",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "91251c639c84",
+   "titre": "\"Les familles se confient à moi, me racontent leur histoire\" : gardien de cimetière, Sébastien se sent utile aux autres",
+   "lien": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/grenoble/portrait-les-familles-se-confient-a-moi-me-racontent-leur-histoire-gardien-de-cimetiere-sebastien-se-sent-utile-aux-autres-3440661.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-01T10:24:50+00:00",
+   "extrait": "À l'occasion de la Toussaint ce dimanche 1er novembre, de nombreuses familles vont se rendre dans les cimetières afin de rendre hommage à leurs défunts. À Grenoble, Sébastien Roca, gardien de…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "b0c6b01543fe",
+   "titre": "Comment la proximité avec le Canada pourrait influencer les midterms au Michigan",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261101-comment-proximit%C3%A9-avec-canada-pourrait-influencer-midterms-au-michigan-d%C3%A9troit-%C3%A9tats-unis-%C3%A9lections-mi-mandat-donald-trump",
+   "source": "France 24",
+   "date": "2026-11-01T10:23:28+00:00",
+   "extrait": "Détroit, au Michigan, est située à quelques kilomètres seulement du Canada. Les liens entre les deux pays sont nombreux, mais ils ont été mis à mal par la politique douanière du président américain…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "95b9fb944ed1",
-   "titre": "LIVE. Départ Route du Rhum. Les 115 bateaux prennent la mer au large de Saint-Malo, suivez le grand départ !",
+   "titre": "Suivez le grand départ de la Route du rhum depuis Saint-Malo",
    "lien": "https://france3-regions.franceinfo.fr/bretagne/ille-et-vilaine/saint-malo/live-route-du-rhum-2026-les-115-bateaux-engages-prennent-la-mer-direction-la-guadeloupe-suivez-le-grand-depart-3437001.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-11-01T10:01:43+00:00",
+   "date": "2026-11-01T10:22:24+00:00",
    "extrait": "À 13h02 très exactement sera donné le coup d'envoi de cette 13e Route du Rhum - Destination Guadeloupe. Un événement à suivre en direct sur France 3 et dès maintenant dans notre live. Nos équipes…",
    "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "c62b4b843ec3",
+   "titre": "Championne WNBA et inspiration pour toute une génération : Gabby Williams, taille patronne du basket français",
+   "lien": "https://www.franceinfo.fr/sports/basket/wnba/portrait-finaliste-wnba-et-inspiration-pour-toute-une-generation-gabby-williams-taille-patronne-du-basket-francais_8240452.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-01T10:21:05+00:00",
+   "extrait": "La Française Gabby Williams a mené sa franchise des Golden State Valkyries à la finale puis au titre WNBA, samedi, en inscrivant 30 points dans le match décisif contre l'Atlanta Dream.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "a94cafb942f4",
+   "titre": "EN DIRECT, guerre en Ukraine : le site pétrolier de Kstovo, grande raffinerie de Russie, visé par une attaque ; 371 drones russes « abattus ou neutralisés », selon Kiev",
+   "lien": "https://www.lemonde.fr/international/live/2026/11/01/en-direct-guerre-en-ukraine-le-site-petrolier-de-kstovo-grande-raffineries-de-russie-vise-par-une-attaque-371-drones-russes-abattus-ou-neutralises-selon-kiev_6803934_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-01T10:18:15+00:00",
+   "extrait": "Le gouverneur de la région de Nijni Novgorod, Gleb Nikitine, a rapporté « une attaque massive de drones » dans la nuit et dimanche matin, au cours de laquelle « une entreprise industrielle dans le…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "dcd06f0c7e9b",
+   "titre": "Trump says U.S. still has to \"take care\" of more targets in Iran",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+   "source": "CBS News",
+   "date": "2026-11-01T10:13:39+00:00",
+   "extrait": "After Iran's Supreme Leader warned against restarting the war, President Trump suggested there are still targets to \"take care of.\"",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "42ded722792d",
+   "titre": "Route du Rhum : Sam Goodchild prend la relève de Charlie Dalin",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261101-route-du-rhum-sam-goodchild-prend-la-rel%C3%A8ve-de-charlie-dalin",
+   "source": "France 24",
+   "date": "2026-11-01T10:07:59+00:00",
+   "extrait": "Sous un soleil radieux, 115 solitaires mettent dimanche les voiles au large de Saint-Malo en direction de la Guadeloupe pour la 13e édition de la légendaire Route du Rhum, sprint transatlantique que…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "c96eaed67eb8",
+   "titre": "Piratage de la plateforme de cryptomonnaies Binance : la plateforme annonce rouvrir les retraits, le FBI accuse la Corée du Nord du « casse du siècle »",
+   "lien": "https://www.lemonde.fr/pixels/article/2026/11/01/piratage-de-la-plateforme-de-cryptomonnaies-binance-la-plateforme-annonce-rouvrir-les-retraits-le-fbi-accuse-la-coree-du-nord-du-casse-du-siecle_6803867_4408997.html",
+   "source": "Le Monde",
+   "date": "2026-11-01T10:04:17+00:00",
+   "extrait": "La plateforme mondiale a annoncé, dimanche, avoir ouvert « la première série de retraits » à ses utilisateurs, procédant « par étapes » après le plus grand vol de cryptomonnaies jamais enregistré…",
+   "tags": [
+    "Justice"
+   ],
    "zone": "france"
   },
   {
@@ -54,6 +213,16 @@
    "zone": "france"
   },
   {
+   "id": "d37249483728",
+   "titre": "Un gendarme mobile victime d'un jet de cocktail Molotov à Paris à la fin de la manifestation du 31 octobre",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/un-gendarme-mobile-victime-d-un-jet-de-cocktail-molotov-a-paris-a-la-fin-de-la-manifestation-du-samedi-31-octobre_8262191.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-01T09:38:00+00:00",
+   "extrait": "Une bombe artisanale a explosé aux pieds d'un membre des forces de l'ordre lors d'affrontements près de la porte de Charenton, enflammant sa protection sur les jambes.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "25f42b44aafb",
    "titre": "\"Le budget sera refusé par le Parlement\", prévoit Philippe Juvin, rapporteur général du projet de loi de finances, qui plaide pour un recours au 49.3",
    "lien": "https://www.franceinfo.fr/economie/budget/le-budget-sera-refuse-par-le-parlement-prevoit-philippe-juvin-rapporteur-general-du-projet-de-loi-de-finances-qui-plaide-pour-un-recours-au-49-3_8262554.html#xtor=RSS-3-[lestitres]",
@@ -62,18 +231,6 @@
    "extrait": "Le député Les Républicains des Hauts-de-Seine plaide pour une baisse des dépenses d'environ 10% pour le budget 2027.",
    "tags": [
     "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "d900713221de",
-   "titre": "La plateforme de cryptomonnaies Binance annonce une reprise des retraits, après un piratage commis par des hackers de Corée du Nord selon les accusations du FBI.",
-   "lien": "https://www.franceinfo.fr/economie/bitcoin/la-plateforme-de-cryptomonnaies-binance-annonce-une-reprise-des-retraits-apres-un-piratage-commis-par-des-hackers-de-coree-du-nord-selon-les-accusations-du-fbi_8262545.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-01T09:32:53+00:00",
-   "extrait": "Le montant de ce piratage s'élèverait à plus de six milliards de dollars alors que Donald Trump émet des doutes sur l'intervention du régime de Pyongyang.",
-   "tags": [
-    "Politique"
    ],
    "zone": "france"
   },
@@ -99,19 +256,6 @@
     "Économie"
    ],
    "zone": "france"
-  },
-  {
-   "id": "dcd06f0c7e9b",
-   "titre": "Trump says U.S. still has to \"take care\" of more targets in Iran",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
-   "source": "CBS News",
-   "date": "2026-11-01T09:12:38+00:00",
-   "extrait": "After Iran's Supreme Leader warned against restarting the war, President Trump suggested there are still targets to \"take care of.\"",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
   },
   {
    "id": "73810cfa84aa",
@@ -197,16 +341,6 @@
    "zone": "france"
   },
   {
-   "id": "de77300dcc63",
-   "titre": "Shops looted as German cost of living protests turn violent",
-   "lien": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-01T08:43:00+00:00",
-   "extrait": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
    "id": "c30fb940ad16",
    "titre": "En Bulgarie, le second tour de l’élection présidentielle est ouvert, duel serré en vue sur fond de tensions avec la Russie",
    "lien": "https://www.lemonde.fr/international/article/2026/11/01/en-bulgarie-le-second-tour-de-l-election-presidentielle-s-ouvre-dimanche-avec-un-duel-serre-sur-fond-de-tensions-avec-la-russie_6804128_3210.html",
@@ -217,16 +351,6 @@
     "Politique",
     "Conflits"
    ],
-   "zone": "france"
-  },
-  {
-   "id": "edfaae1614ee",
-   "titre": "Mobilisation sociale : \"La jeunesse ne lâche pas\", déclare la porte-parole de l'Union étudiante au lendemain des manifestations du 31 octobre",
-   "lien": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-sociale-la-jeunesse-ne-lache-pas-declare-la-porte-parole-de-l-union-etudiante-au-lendemain-des-manifestations-du-31-octobre_8262449.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-01T08:35:14+00:00",
-   "extrait": "Après un nouveau samedi de manifestation avec une participation en légère baisse mais toujours vigoureuse, de nouveaux rendez-vous de mobilisation sont prévus la semaine prochaine avec un point…",
-   "tags": [],
    "zone": "france"
   },
   {
@@ -291,6 +415,16 @@
    "source": "franceinfo",
    "date": "2026-11-01T08:18:25+00:00",
    "extrait": "La Française a inscrit 30 des 68 points de sa franchise pour venir à bout du Dream d'Atlanta, dans la nuit de samedi à dimanche.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "1cfa6a3273d1",
+   "titre": "28 ans après la dernière victoire de son père Laurent, Basile Bourgnon prend le départ de sa première Route du Rhum",
+   "lien": "https://france3-regions.franceinfo.fr/bretagne/ille-et-vilaine/saint-malo/28-ans-apres-la-derniere-victoire-de-son-pere-laurent-basile-bourgnon-prend-le-depart-de-sa-premiere-route-du-rhum-3442182.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-01T07:30:40+00:00",
+   "extrait": "Dimanche 1er novembre, Basile Bourgnon prendra le départ de la Route du Rhum à bord de son voilier Edenred 5. Une première pour le jeune skipper, qui prend le relais de son père, Laurent Bougnon…",
    "tags": [],
    "zone": "france"
   },
@@ -366,7 +500,7 @@
    "lien": "https://www.france24.com/fr/asie-pacifique/20261101-en-inde-opposition-manifestation-contre-r%C3%A9forme-listes-%C3%A9lectorales",
    "source": "France 24",
    "date": "2026-11-01T06:57:32+00:00",
-   "extrait": "Une grande manifestation réunissant les partis d'opposition, les organisations étudiantes et le mouvement des \"cafards\" se tient à Delhi dimanche, où un dispositif anti-émeute a été mis en place…",
+   "extrait": "Une grande manifestation réunissant les partis d'opposition, les organisations étudiantes et le mouvement des \"cafards\" se tient à New Delhi dimanche, où un dispositif antiémeute a été mis en place…",
    "tags": [
     "Politique"
    ],
@@ -462,16 +596,6 @@
    "zone": "usa"
   },
   {
-   "id": "91251c639c84",
-   "titre": "\"Les familles se confient à moi, me racontent leur histoire\" : gardien de cimetière, Sébastien se sent utile aux autres",
-   "lien": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/grenoble/portrait-les-familles-se-confient-a-moi-me-racontent-leur-histoire-gardien-de-cimetiere-sebastien-se-sent-utile-aux-autres-3440661.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-01T05:55:09+00:00",
-   "extrait": "À l'occasion de la Toussaint ce dimanche 1er novembre, de nombreuses familles vont se rendre dans les cimetières afin de rendre hommage à leurs défunts. À Grenoble, Sébastien Roca, gardien de…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
    "id": "8a0ab9f080ca",
    "titre": "Rioters loot stores in Germany amid cost of living protests",
    "lien": "https://www.cbsnews.com/news/germany-protest-frankfurt-looting-violence/",
@@ -526,6 +650,16 @@
    "zone": "monde"
   },
   {
+   "id": "0f02fb44b689",
+   "titre": "Route du Rhum : 115 solitaires au départ de l'édition 2026 de la légendaire course transatlantique",
+   "lien": "https://www.france24.com/fr/sports/20261101-route-du-rhum-115-solitaires-au-d%C3%A9part-de-l-%C3%A9dition-2026-de-la-l%C3%A9gendaire-course-transatlantique",
+   "source": "France 24",
+   "date": "2026-11-01T05:25:53+00:00",
+   "extrait": "Le soleil est au rendez-vous dimanche à Saint-Malo pour le départ des 115 participants à la Route du Rhum, pour la 14e edition du célèbre sprint transatlantique en solitaire. Les skippers les plus…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
    "id": "f49ab85050c3",
    "titre": "\"Godzilla Minus Zero\" : le retour du célèbre \"kaiju\" dans un second opus plein de surprises signé Takashi Yamazaki",
    "lien": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/godzilla-minus-zero-le-retour-du-celebre-kaiju-dans-un-second-opus-plein-de-surprises-signe-takashi-yamazaki_8254666.html#xtor=RSS-3-[lestitres]",
@@ -545,6 +679,18 @@
    "date": "2026-11-01T05:00:11+00:00",
    "extrait": "Un biopic sur la vie de Mohamed Ali, le récit d'une révolution ratée en Colombie ou un pur thriller sur un braquage de banque en Suisse... Mais aussi quelques mini-séries historiques ou des sorties…",
    "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "d36e97986d00",
+   "titre": "A Rafah, seul point de passage avec l’Egypte, le « piège du retour » pour les Palestiniens de Gaza",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/01/a-rafah-seul-point-de-passage-avec-l-egypte-le-piege-du-retour-pour-les-palestiniens-de-gaza_6804022_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-01T04:50:09+00:00",
+   "extrait": "En plus des humiliations et des violences physiques subies par les voyageurs palestiniens transitant par le terminal de Rafah, une dizaine de Gazaouis ont été arrêtés depuis mars au poste-frontière…",
+   "tags": [
+    "Conflits"
+   ],
    "zone": "france"
   },
   {
@@ -680,6 +826,16 @@
    "tags": [
     "Politique"
    ],
+   "zone": "france"
+  },
+  {
+   "id": "2c71ce2ee5b3",
+   "titre": "« Je ne voudrais pas qu’ils tombent là-dessus » : en préparation du jour où ils vont disparaître, ils font le ménage dans leur téléphone",
+   "lien": "https://www.lemonde.fr/pixels/article/2026/11/01/je-ne-voudrais-pas-qu-ils-tombent-la-dessus-en-preparation-du-jour-ou-ils-vont-disparaitre-ils-font-le-menage-dans-leur-telephone_6803967_4408996.html",
+   "source": "Le Monde",
+   "date": "2026-11-01T04:00:09+00:00",
+   "extrait": "Messages, photos, notes… Nos smartphones conservent des années de vie privée susceptibles de tomber entre les mains de nos proches après notre mort. Pour éviter les découvertes embarrassantes…",
+   "tags": [],
    "zone": "france"
   },
   {
@@ -1165,16 +1321,6 @@
    "source": "franceinfo",
    "date": "2026-10-31T21:59:28+00:00",
    "extrait": "A Paris, la manifestation s'est globalement déroulée dans le calme, de la porte de Bagnolet à la porte de Charenton. Puis des tensions ont eu lieu au moment de la dispersion.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "d37249483728",
-   "titre": "Un gendarme mobile victime d'un jet de cocktail molotov à Paris, à la fin de la manifestation du samedi 31 octobre",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/un-gendarme-mobile-victime-d-un-jet-de-cocktail-molotov-a-paris-a-la-fin-de-la-manifestation-du-samedi-31-octobre_8262191.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-31T21:58:02+00:00",
-   "extrait": "Une bombe artisanale a explosé aux pieds d'un membre des forces de sécurité lors d'affrontements à la fin de la manifestation à Paris, près de la porte de Charenton, enflammant sa protection sur les…",
    "tags": [],
    "zone": "france"
   },
@@ -3240,153 +3386,6 @@
    "tags": [
     "Conflits"
    ],
-   "zone": "france"
-  },
-  {
-   "id": "f8844c1e0452",
-   "titre": "Chances d'une vague démocrate, enjeu pour Donald Trump et pour 2028... L'article à lire pour tout comprendre aux midterms, les élections de mi-mandat aux Etats-Unis",
-   "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/chances-d-une-vague-democrate-enjeu-pour-donald-trump-et-pour-2028-l-article-a-lire-pour-tout-comprendre-aux-midterms-les-elections-de-mi-mandat-aux-etats-unis_8237488.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-31T06:29:06+00:00",
-   "extrait": "Si le président américain en exercice sort rarement gagnant de ce scrutin, le revers pourrait être lourd pour Donald Trump, mardi 3 novembre. Les sondages prédisent à l'opposition démocrate une…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "54de6a3fdb94",
-   "titre": "La France est-elle le pays le moins sélectif pour accéder à l'enseignement supérieur, comme l'affirme le ministre Philippe Baptiste ?",
-   "lien": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-la-france-est-elle-le-pays-le-moins-selectif-pour-acceder-a-l-enseignement-superieur-comme-l-affirme-le-ministre-philippe-baptiste_8260157.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-31T06:28:18+00:00",
-   "extrait": "Le ministre de l'Enseignement supérieur s'appuie sur un rapport de l'OCDE, selon lequel \"95 % des candidats\" se sont vus proposer une place dans une formation en 2024. Ce chiffre est exact mais…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "30e4fd00870c",
-   "titre": "Grace Coddington, ex-bras droit d’Anna Wintour et esprit libre de la mode",
-   "lien": "https://www.lemonde.fr/m-styles/article/2026/10/31/grace-coddington-ex-bras-droit-d-anna-wintour-et-esprit-libre-de-la-mode_6803463_4497319.html",
-   "source": "Le Monde",
-   "date": "2026-10-31T06:00:07+00:00",
-   "extrait": "Cette ancienne mannequin à la rousseur légendaire a été pendant près de trente ans directrice de la mode de l’édition américaine du magazine « Vogue ». A 85 ans, Grace Coddington continue…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "e03f41038c10",
-   "titre": "EN DIRECT, midterms 2026 : retrouvez les dernières informations à quelques jours des élections",
-   "lien": "https://www.lemonde.fr/international/live/2026/10/31/en-direct-midterms-2026-retrouvez-les-dernieres-informations-a-quelques-jours-des-elections_6801590_3210.html",
-   "source": "Le Monde",
-   "date": "2026-10-31T05:56:56+00:00",
-   "extrait": "Lors d’un meeting en Floride, vendredi soir, Donald a de nouveau promis 5 000 dollars à chaque Américain en cas de victoire des républicains aux élections, malgré les interrogations sur la légalité…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "fe78595c0baf",
-   "titre": "Spain train disaster clouds Sánchez chances of re-election",
-   "lien": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-31T05:44:21+00:00",
-   "extrait": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "4e69b4f0c46b",
-   "titre": "Grâce à un \"crowdfunding artistique\", Nicolas Rouger prend le départ de la Route du Rhum, trois ans après la casse accidentelle de son bateau",
-   "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/grace-a-un-crowdfunding-artistique-nicolas-rouger-prend-le-depart-de-la-route-du-rhum-trois-ans-apres-la-casse-accidentelle-de-son-bateau_8254396.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-31T05:30:02+00:00",
-   "extrait": "Depuis 2023, le skippeur marseillais a levé des montagnes pour être au départ de Route du Rhum, dimanche, grâce à un projet qui mêle l'art et le sport.",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c015140c786a",
-   "titre": "En Guyane, une sécheresse record complique l’accès à l’eau potable",
-   "lien": "https://www.lemonde.fr/planete/article/2026/10/31/en-guyane-une-secheresse-record-complique-l-acces-a-l-eau-potable_6803397_3244.html",
-   "source": "Le Monde",
-   "date": "2026-10-31T05:00:44+00:00",
-   "extrait": "Décuplée par l’intensité du phénomène El Niño et le changement climatique, la sécheresse qui sévit actuellement dans le territoire amazonien exacerbe les difficultés chroniques d’accès à l’eau…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "f0ea36d2d585",
-   "titre": "« Je me sens privilégié dans mon rapport aux patients » : Hadrien, infirmier investi sur la minuscule île d’Hœdic",
-   "lien": "https://www.lemonde.fr/m-perso/article/2026/10/31/je-me-sens-privilegie-dans-mon-rapport-aux-patients-hadrien-infirmier-investi-sur-la-minuscule-ile-d-h-dic_6803394_4497916.html",
-   "source": "Le Monde",
-   "date": "2026-10-31T05:00:29+00:00",
-   "extrait": "Depuis treize ans, et grâce à un diplôme en pratique avancée, Hadrien Destrehem ausculte, suture, prélève, prescrit : il assure le suivi médical des Hœdicais et des vacanciers de passage. Une…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "a8ca78e5c90c",
-   "titre": "Midterms aux Etats-Unis : le petit guide pour tout comprendre aux élections de mi-mandat",
-   "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/10/31/midterms-aux-etats-unis-le-petit-guide-pour-tout-comprendre-aux-elections-de-mi-mandat_6803393_4355770.html",
-   "source": "Le Monde",
-   "date": "2026-10-31T05:00:20+00:00",
-   "extrait": "Outre le renouvellement d’une partie du Congrès, avec un enjeu important pour la suite de la présidence Trump, certains électeurs américains seront amenés, mardi 3 novembre, à élire leurs…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "a7837611f676",
-   "titre": "Que faire, que voir, où aller ? L’agenda culturel et lifestyle à partir du 31 octobre",
-   "lien": "https://www.lemonde.fr/m-styles/article/2026/10/31/que-faire-que-voir-ou-aller-l-agenda-culturel-et-lifestyle-a-partir-du-31-octobre_6803392_4497319.html",
-   "source": "Le Monde",
-   "date": "2026-10-31T05:00:16+00:00",
-   "extrait": "Chaque samedi, « Le Goût du Monde » vous propose sa sélection de rendez-vous et d’adresses, à Paris et partout en France. Cette semaine, une exposition événement sur Andy Warhol à Paris, une ode à…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "796b12c70967",
-   "titre": "EN DIRECT, manifestations du 31 octobre : à Paris, le cortège défilera entre les portes de Bagnolet et de Charenton ; en France, plus de 150 défilés prévus pour défendre le pouvoir d’achat",
-   "lien": "https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-plus-d-une-centaine-de-defiles-prevus-pour-cette-nouvelle-journee-de-mobilisation-quelque-70-000-policiers-deployes_6803391_3224.html",
-   "source": "Le Monde",
-   "date": "2026-10-31T05:00:09+00:00",
-   "extrait": "Dans une décision rendue tôt samedi matin, le Conseil d’Etat a donné raison au préfet de police de Paris et au gouvernement en validant le parcours des autorités, et en rejetant celui défendu par…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "8c9c00c86de1",
-   "titre": "Développement, héritage, capacité d’organisation… Les JO de la jeunesse, un premier événement olympique en Afrique qui se veut moteur pour le Sénégal et le continent",
-   "lien": "https://www.franceinfo.fr/jeux-olympiques-de-la-jeunesse/developpement-heritage-capacite-d-organisation-les-jo-de-la-jeunesse-un-premier-evenement-olympique-en-afrique-qui-se-veut-moteur-pour-le-senegal-et-le-continent_8259533.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-31T05:00:08+00:00",
-   "extrait": "Si les épreuves ont commencé dès vendredi, la cérémonie d’ouverture des JO de la jeunesse se tient samedi, à Dakar (Sénégal).",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "3619cbccc8f2",
-   "titre": "\"Moulin\", \"Quelques mots d'amour\", \"Hope\"... Quels sont les films à voir (ou pas) cette semaine au cinéma ?",
-   "lien": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/moulin-quelques-mots-d-amour-hope-quels-sont-les-films-a-voir-ou-pas-cette-semaine-au-cinema_8258945.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-31T05:00:07+00:00",
-   "extrait": "Découvrez les critiques de notre sélection des films sortis en salles le mercredi 28 octobre 2026.",
-   "tags": [],
    "zone": "france"
   }
  ]
