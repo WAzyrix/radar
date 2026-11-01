@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-01T19:05:44+00:00",
+ "maj": "2026-11-01T20:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "8cfea8890b08",
+   "titre": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+   "lien": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
+   "source": "BleepingComputer",
+   "date": "2026-11-01T19:57:53+00:00",
+   "extrait": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on…",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
   {
    "id": "af6ffe74845e",
    "titre": "Alpine Linux rebuilds GitLab after attempted RCE attack",
@@ -3410,15 +3421,6 @@
    "tags": [
     "IA"
    ]
-  },
-  {
-   "id": "00d9c6c07315",
-   "titre": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
-   "lien": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
-   "source": "The Hacker News",
-   "date": "2026-10-21T10:30:27+00:00",
-   "extrait": "Attackers took control of more than 300 Tor exit relays in early October and used them to redirect SSH connections to servers that stole login passwords, a researcher found. Exit relays are the last…",
-   "tags": []
   }
  ]
 }
