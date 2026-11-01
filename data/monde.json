@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-01T05:05:40+00:00",
+ "maj": "2026-11-01T06:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,18 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "5be8426eee55",
+   "titre": "Nashville chef's date night with football scout turns deadly",
+   "lien": "https://www.cbsnews.com/news/jade-benning-blaise-taylor-nashville-death-48-hours/",
+   "source": "CBS News",
+   "date": "2026-11-01T05:59:12+00:00",
+   "extrait": "What started out as a special dinner date between Jade Benning, a Nashville chef, and Blaise Taylor, an assistant football scout, at her Nashville apartment ended in her call to a friend — and his…",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "1f0eb3916c10",
    "titre": "« Je manifeste pour qu’on puisse manifester » : la mobilisation du 31 octobre, des cortèges festifs et déterminés corsetés par les dispositifs de sécurité",
    "lien": "https://www.lemonde.fr/societe/article/2026/11/01/je-manifeste-pour-qu-on-puisse-manifester-la-mobilisation-du-31-octobre-des-corteges-festifs-et-determines-corsetes-par-les-dispositifs-de-securite_6804015_3224.html",
@@ -29,6 +41,18 @@
    "date": "2026-11-01T04:37:03+00:00",
    "extrait": "Environ 500 000 personnes ont défilé samedi, selon les organisateurs (320 000 selon les autorités), dans toute la France. Les revendications initiales restent d’actualité, semaine après semaine…",
    "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "c30e3b7b30d4",
+   "titre": "« L’opposition à Nétanyahou a trop souvent choisi d’être aussi intransigeante que lui face aux Palestiniens »",
+   "lien": "https://www.lemonde.fr/un-si-proche-orient/article/2026/11/01/l-opposition-a-netanyahou-a-trop-souvent-choisi-d-etre-aussi-intransigeante-que-lui-face-aux-palestiniens_6804014_6116995.html",
+   "source": "Le Monde",
+   "date": "2026-11-01T04:36:14+00:00",
+   "extrait": "L’alternative est claire entre, d’une part, la démolition par Nétanyahou de l’Etat de droit et, d’autre part, une coalition incluant les partis arabes, souligne l’historien Jean-Pierre Filiu dans sa…",
+   "tags": [
+    "Politique"
+   ],
    "zone": "france"
   },
   {
@@ -42,6 +66,16 @@
     "Politique",
     "Conflits"
    ],
+   "zone": "france"
+  },
+  {
+   "id": "17cd2c06ec61",
+   "titre": "Sahara occidental : la disparition annoncée de la mission de l’ONU ouvre une période d’incertitudes",
+   "lien": "https://www.lemonde.fr/afrique/article/2026/11/01/sahara-occidental-la-disparition-annoncee-de-la-mission-de-l-onu-ouvre-une-periode-d-incertitudes_6804008_3212.html",
+   "source": "Le Monde",
+   "date": "2026-11-01T04:15:09+00:00",
+   "extrait": "La mission onusienne chargée de veiller au respect du cessez-le-feu dans l’ex-colonie espagnole, que se disputent le Maroc et le Front Polisario, va cesser d’exister à compter du 1ᵉʳ novembre. Le…",
+   "tags": [],
    "zone": "france"
   },
   {
@@ -69,18 +103,6 @@
    "zone": "france"
   },
   {
-   "id": "e96c615f2ebc",
-   "titre": "COP biodiversité à Erevan : « La présidence arménienne a fait un travail exemplaire »",
-   "lien": "https://www.lemonde.fr/planete/article/2026/11/01/cop-biodiversite-a-erevan-la-presidence-armenienne-a-fait-un-travail-exemplaire_6803972_3244.html",
-   "source": "Le Monde",
-   "date": "2026-11-01T04:00:29+00:00",
-   "extrait": "Steven Guilbeault, ancien ministre de l’environnement du Canada, et artisan de l’accord de Kunming-Montréal de 2022, un texte fondateur pour le vivant, porte un regard positif sur la conférence qui…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "5d8293472807",
    "titre": "Manifestations du 31 octobre : à Marseille, des échauffourées avec les forces de l’ordre à l’issue d’un parcours improvisé",
    "lien": "https://www.lemonde.fr/societe/article/2026/11/01/manifestations-du-31-octobre-a-marseille-des-echauffourees-avec-les-forces-de-l-ordre-a-l-issue-d-un-parcours-improvise_6803971_3224.html",
@@ -88,6 +110,18 @@
    "date": "2026-11-01T04:00:28+00:00",
    "extrait": "Environ 10 000 personnes, selon la préfecture, se sont réunies, samedi, dans le 1ᵉʳ arrondissement, en dépit de l’interdiction de manifester. En fin d’après-midi, la tension est montée d’un cran et…",
    "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "e96c615f2ebc",
+   "titre": "La COP d’Erevan analysée par Steven Guilbeault, figure des négociations sur la biodiversité : « La question des subventions néfastes est probablement le cheval de bataille des prochaines années »",
+   "lien": "https://www.lemonde.fr/planete/article/2026/11/01/cop-biodiversite-a-erevan-la-presidence-armenienne-a-fait-un-travail-exemplaire_6803972_3244.html",
+   "source": "Le Monde",
+   "date": "2026-11-01T04:00:27+00:00",
+   "extrait": "L’ancien ministre de l’environnement du Canada, et artisan de l’accord de Kunming-Montréal de 2022, un texte fondateur pour le vivant, porte un regard positif sur la conférence qui s’est achevée le…",
+   "tags": [
+    "Politique"
+   ],
    "zone": "france"
   },
   {
@@ -153,18 +187,6 @@
    "date": "2026-11-01T03:00:02+00:00",
    "extrait": "\"48 Hours\" uncovers the narrative behind true crime cases with unmatched reporting and suspense.",
    "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "5be8426eee55",
-   "titre": "Nashville chef's date night with football scout turns deadly",
-   "lien": "https://www.cbsnews.com/news/jade-benning-blaise-taylor-nashville-death-48-hours/",
-   "source": "CBS News",
-   "date": "2026-11-01T02:58:00+00:00",
-   "extrait": "What started out as a special dinner date between Jade Benning, a Nashville chef, and Blaise Taylor, an assistant football scout, at her Nashville apartment ended in her call to a friend — and his…",
-   "tags": [
-    "Sport"
-   ],
    "zone": "usa"
   },
   {
@@ -313,6 +335,16 @@
    "source": "CBS News",
    "date": "2026-11-01T01:01:47+00:00",
    "extrait": "There is a movement underway in the United Kingdom that is seeking official pardons for the thousands of women who were executed for witchcraft centuries ago. Holly Williams has the story.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "890c198eed5d",
+   "titre": "Jade Benning's Final Call",
+   "lien": "https://www.cbsnews.com/video/103126-48-hours-jade-bennings-final-call/",
+   "source": "CBS News",
+   "date": "2026-11-01T01:00:00+00:00",
+   "extrait": "How a phone call from a dying woman became a crucial piece of evidence when a date night turned deadly. \"48 Hours\" correspondent Natalie Morales reports.",
    "tags": [],
    "zone": "usa"
   },
@@ -3340,40 +3372,6 @@
     "Sport"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "a769f11ea5f8",
-   "titre": "Cost of caring for an elderly parent rising faster than inflation, study finds",
-   "lien": "https://www.cbsnews.com/video/cost-of-caring-for-an-elderly-parent-rising-faster-than-inflation-study-finds/",
-   "source": "CBS News",
-   "date": "2026-10-30T22:54:53+00:00",
-   "extrait": "The cost of caring for an elderly loved one has been rising faster than inflation, up 60% since 2021, according to a study by AARP. CBS News MoneyWatch reporter Megan Cerullo has the story.",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "4c023c8f41ed",
-   "titre": "Attentat raciste dans les Yvelines : le maire de Trappes accuse le RN d'avoir \"inoculé la haine\" dans l'esprit de l'auteur de l'attaque",
-   "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/direct-attentat-raciste-dans-les-yvelines-un-grand-rassemblement-organise-par-la-municipalite-de-trappes-prevu-a-18-heures-plusieurs-milliers-de-personnes-attendues_8259788.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-30T22:52:44+00:00",
-   "extrait": "Des milliers de personnes, parmi lesquelles des figures de gauche comme Jean-Luc Mélenchon, Olivier Faure, Raphaël Glucksmann et Marine Tondelier, participent, vendredi, à un rassemblement contre le…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "ef9e50420a4b",
-   "titre": "Manifestations du 31 octobre : plus de 40 stations de métro fermées à Paris, des couvre-feux imposés dans plusieurs villes",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-31-octobre-le-parcours-du-defile-parisien-objet-d-un-bras-de-fer-entre-les-syndicats-et-les-autorites_8259785.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-30T22:51:00+00:00",
-   "extrait": "Certaines fermetures dans la capitale interviendront dès 5h30, tandis que d'autres débuteront plus tard dans la matinée, voire dans la soirée à Châtelet et Les Halles.",
-   "tags": [],
-   "zone": "france"
   }
  ]
 }
