@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-01T20:05:41+00:00",
+ "maj": "2026-11-01T21:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,16 +22,134 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "fbb4abd67628",
+   "titre": "This week on \"Sunday Morning\" (Nov. 1)",
+   "lien": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-1-2026/",
+   "source": "CBS News",
+   "date": "2026-11-01T21:02:46+00:00",
+   "extrait": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "e630747aaad9",
+   "titre": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire expires",
+   "lien": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-01T21:01:58+00:00",
+   "extrait": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "28b608637e57",
+   "titre": "Judge tosses lawsuit seeking to delay certification of Alaska Senate race",
+   "lien": "https://www.cbsnews.com/news/judge-doj-lawsuit-alaska-senate-race-dan-sullivan/",
+   "source": "CBS News",
+   "date": "2026-11-01T20:59:29+00:00",
+   "extrait": "The Justice Department argued that Daniel J. Sullivan's name on the ballot potentially diverted voters, and the Democrat running in the race would benefit as a result.",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "4f37d5b85c4d",
+   "titre": "Live Updates: Michigan Democratic rift spills into public and more",
+   "lien": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/",
+   "source": "CBS News",
+   "date": "2026-11-01T20:57:53+00:00",
+   "extrait": "The November 2026 midterm elections are just two days away. Candidates in key races — and President Trump — are making their closing arguments to voters.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "677787e71095",
+   "titre": "Sanders says GOP rhetoric about El-Sayed \"should appall\" Americans",
+   "lien": "https://www.cbsnews.com/news/bernie-sanders-abdul-el-sayed-campaign-republican-rhetoric/",
+   "source": "CBS News",
+   "date": "2026-11-01T20:50:20+00:00",
+   "extrait": "Sen. Bernie Sanders, who's supported El-Sayed's campaign, specifically referred to comments made by Republican surrogates, including President Trump and GOP Sen. Ted Cruz of Texas",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "bca55fbe9414",
+   "titre": "Jet from Texas crashes near homes in Palm Beach, Florida, FAA says",
+   "lien": "https://www.cbsnews.com/news/texas-jet-florida-crash-11-1-2026/",
+   "source": "CBS News",
+   "date": "2026-11-01T20:43:00+00:00",
+   "extrait": "Details about what may have caused the crash had not yet been shared.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "56df8cdf18fb",
+   "titre": "Un sapeur-pompier gravement blessé par balle lors d'une intervention près de Marseille, un homme interpellé",
+   "lien": "https://www.franceinfo.fr/faits-divers/un-sapeur-pompier-blesse-par-balle-lors-d-une-intervention-pres-de-marseille-l-assaillant-retranche_8262992.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-01T20:40:59+00:00",
+   "extrait": "Un autre sapeur-pompier et un véhicule ont été touchés, selon le préfet des Bouches-du-Rhône. \"Je veux dire toute mon indignation face à cette agression violente gratuite\", a réagi le ministre de…",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "341a367f2575",
+   "titre": "Stevens endorses Rodgers amid rift with El-Sayed",
+   "lien": "https://www.cbsnews.com/news/haley-stevens-mike-rogers-together-church-abdul-el-sayed-michigan-senate/",
+   "source": "CBS News",
+   "date": "2026-11-01T20:37:47+00:00",
+   "extrait": "Haley Stevens, who had the support of the Senate Democrats' campaign arm in the primary, had previously said she was supporting the Democratic ticket.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "54d181a119dc",
+   "titre": "Présidentielle 2027 : Édouard Philippe refuse de participer à une primaire, source de \"division\"",
+   "lien": "https://www.france24.com/fr/france/20261101-pr%C3%A9sidentielle-2027-%C3%A9douard-philippe-refuse-de-participer-%C3%A0-une-primaire-source-de-division",
+   "source": "France 24",
+   "date": "2026-11-01T20:35:14+00:00",
+   "extrait": "Le candidat Horizons à l'élection présidentielle, Édouard Philippe, a confirmé dimanche son refus de participer à une éventuelle primaire de la droite et du centre. L'idée d'une \"primaire des…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "f5b6d367ab3d",
    "titre": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
    "lien": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-11-01T19:58:26+00:00",
+   "date": "2026-11-01T20:11:26+00:00",
    "extrait": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
    "tags": [
     "Politique"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "18dfbc98c6c9",
+   "titre": "Edouard Philippe juge la primaire à droite et au centre synonyme de « division » et de « confusion »",
+   "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/01/edouard-philippe-juge-la-primaire-a-droite-et-au-centre-synonyme-de-division-et-de-confusion_6804637_6205049.html",
+   "source": "Le Monde",
+   "date": "2026-11-01T20:04:44+00:00",
+   "extrait": "Le maire du Havre a estimé, dimanche, au journal de 20 heures de TF1, que la primaire envisagée à droite et au centre en vue de la présidentielle de 2027 « n’aura[it] pas lieu » et « n’a pas…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
   },
   {
    "id": "bc03d866da1b",
@@ -90,18 +208,6 @@
    "zone": "usa"
   },
   {
-   "id": "4f37d5b85c4d",
-   "titre": "Live Updates: Michigan Democratic rift spills into public and more",
-   "lien": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/",
-   "source": "CBS News",
-   "date": "2026-11-01T19:49:59+00:00",
-   "extrait": "The November 2026 midterm elections are just two days away. Candidates in key races — and President Trump — are making their closing arguments to voters.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "d8b0142e3f47",
    "titre": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
    "lien": "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
@@ -114,18 +220,6 @@
    "zone": "usa"
   },
   {
-   "id": "e630747aaad9",
-   "titre": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end within hours",
-   "lien": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-01T19:48:17+00:00",
-   "extrait": "A humanitarian ceasefire has allowed civilians to evacuate the Russian-occupied city of Oleshky.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
    "id": "259de09b8357",
    "titre": "Edouard Philippe refuse une nouvelle fois de participer à une primaire de la droite et du centre, source de \"division\" et de \"confusion\"",
    "lien": "https://www.franceinfo.fr/elections/presidentielle/edouard-philippe-refuse-une-nouvelle-fois-de-participer-a-une-primaire-de-la-droite-et-du-centre-source-de-division-et-de-confusion_8263160.html#xtor=RSS-3-[lestitres]",
@@ -134,18 +228,6 @@
    "extrait": "Celle-ci rassemblerait des \"gens qui ne sont pas d'accord\", a argué le maire du Havre (Seine-Maritime) dimanche soir sur TF1.",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "341a367f2575",
-   "titre": "Stevens endorses Rodgers amid rift with El-Sayed",
-   "lien": "https://www.cbsnews.com/news/haley-stevens-mike-rogers-together-church-abdul-el-sayed-michigan-senate/",
-   "source": "CBS News",
-   "date": "2026-11-01T19:45:10+00:00",
-   "extrait": "Haley Stevens, who had the support of the Senate Democrats' campaign arm in the primary, had previously said she was supporting the Democratic ticket.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
   },
   {
    "id": "974b1537b690",
@@ -233,19 +315,6 @@
    "date": "2026-11-01T19:13:20+00:00",
    "extrait": "Pennsylvania's Democratic Gov. Josh Shapiro said on \"Face the Nation with Margaret Brennan\" about the threats against him and his family, particularly over their religion \"it weighs on me, but it…",
    "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "28b608637e57",
-   "titre": "Judge tosses lawsuit seeking to delay certification of Alaska Senate race",
-   "lien": "https://www.cbsnews.com/news/judge-doj-lawsuit-alaska-senate-race-dan-sullivan/",
-   "source": "CBS News",
-   "date": "2026-11-01T19:11:53+00:00",
-   "extrait": "The Justice Department argued that Daniel J. Sullivan's name on the ballot potentially diverted voters, and the Democrat running in the race would benefit as a result.",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
    "zone": "usa"
   },
   {
@@ -423,19 +492,6 @@
    "zone": "usa"
   },
   {
-   "id": "56df8cdf18fb",
-   "titre": "Un sapeur-pompier gravement blessé par balle lors d'une intervention près de Marseille, un homme interpellé",
-   "lien": "https://www.franceinfo.fr/faits-divers/un-sapeur-pompier-blesse-par-balle-lors-d-une-intervention-pres-de-marseille-l-assaillant-retranche_8262992.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-01T18:09:42+00:00",
-   "extrait": "Un autre sapeur-pompier et un véhicule ont été touchés, selon le préfet des Bouches-du-Rhône. \"Je veux dire toute mon indignation face à cette agression violente gratuite\", a réagi le ministre de…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "889ca18df625",
    "titre": "JOJ Dakar 2026 : les coulisses de l'édition spéciale du dimanche",
    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261101-joj-dakar-2026-m%C3%A9dailles-temps-forts-et-r%C3%A9sultats-rendez-vous-dimanche-21h42-de-paris",
@@ -530,16 +586,6 @@
    "zone": "france"
   },
   {
-   "id": "fbb4abd67628",
-   "titre": "This week on \"Sunday Morning\" (Nov. 1)",
-   "lien": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-1-2026/",
-   "source": "CBS News",
-   "date": "2026-11-01T17:38:53+00:00",
-   "extrait": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "e2299a48ec99",
    "titre": "Pompier blessé par balle près de Marseille : un homme interpellé, annonce le préfet",
    "lien": "https://www.lemonde.fr/societe/article/2026/11/01/pompier-blesse-par-balle-pres-de-marseille-un-homme-interpelle-annonce-le-prefet_6804532_3224.html",
@@ -566,7 +612,7 @@
    "titre": "Ce qu’il faut retenir de l’actualité du week-end des 31 octobre et 1er novembre",
    "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/11/01/ce-qu-il-faut-retenir-de-l-actualite-du-week-end-des-31-octobre-et-1er-novembre_6804531_4355770.html",
    "source": "Le Monde",
-   "date": "2026-11-01T17:30:09+00:00",
+   "date": "2026-11-01T17:30:06+00:00",
    "extrait": "Vous n’avez pas suivi l’actualité ces derniers jours ? Voici ce qu’il s’est passé pendant ces dernières quarante-huit heures.",
    "tags": [],
    "zone": "france"
@@ -3393,53 +3439,6 @@
     "Conflits"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "5047c6dcf819",
-   "titre": "L'évacuation de la ville d'Olechky, un exemple réussi mais encore isolé de cessez-le-feu humanitaire entre l'Ukraine et la Russie",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-evacuation-de-la-ville-d-olechky-un-exemple-reussi-mais-encore-isole-de-cessez-le-feu-humanitaire-entre-l-ukraine-et-la-russie_8261840.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-31T18:43:56+00:00",
-   "extrait": "Des habitants de la ville sous occupation russe sont arrivés en territoire ukrainien au prix d'un long périple. \"On parle de plus d'une centaine de personnes, peut-être même plus de 200\", selon un…",
-   "tags": [
-    "Économie",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "823bd2c38a46",
-   "titre": "E. Leclerc baisse également le prix du gazole, après TotalEnergies",
-   "lien": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/e-leclerc-baisse-egalement-le-prix-du-gazole-apres-totalenergies_8262119.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-10-31T18:43:33+00:00",
-   "extrait": "Cette baisse sera de 21 centimes d'euro par litre, soit une économie d'un peu plus de 10 euros sur un plein de 50 litres",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c5e05211993f",
-   "titre": "Key takeaways from this week's political meeting in Beijing",
-   "lien": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
-   "source": "NPR",
-   "date": "2026-10-31T18:42:33+00:00",
-   "extrait": "The Communist party central committee meeting was focused on discipline and fighting corruption. It comes ahead of next year when Xi is widely expected to try to secure a fourth term.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "38f2b33a0cee",
-   "titre": "« De l’argent pour les systèmes sociaux plutôt que pour la guerre » : dans une trentaine de villes allemandes, des manifestants hostiles au service militaire",
-   "lien": "https://www.lemonde.fr/international/article/2026/10/31/de-l-argent-pour-les-systemes-sociaux-plutot-que-pour-la-guerre-dans-une-trentaine-de-villes-allemandes-des-manifestants-hostiles-au-service-militaire_6803729_3210.html",
-   "source": "Le Monde",
-   "date": "2026-10-31T18:31:53+00:00",
-   "extrait": "De Cologne à Berlin en passant par Hambourg, les rassemblements se sont déroulés sans débordement. Au sein des cortèges, constitués principalement de jeunes, le coût de la vie, le refus de la…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
   }
  ]
 }
