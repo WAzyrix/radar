@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-01T13:05:41+00:00",
+ "maj": "2026-11-01T14:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "d15dc155427a",
+   "titre": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
+   "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
+   "source": "BleepingComputer",
+   "date": "2026-11-01T13:53:11+00:00",
+   "extrait": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
+   "tags": [
+    "IA"
+   ]
+  },
   {
    "id": "c1c20131973a",
    "titre": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
@@ -3406,15 +3417,6 @@
    "tags": [
     "Malware"
    ]
-  },
-  {
-   "id": "994e8909d25e",
-   "titre": "Des arrestations autour d’un SMS blaster",
-   "lien": "https://www.zataz.com/quatre-arrestations-autour-dun-sms-blaster/",
-   "source": "Zataz",
-   "date": "2026-10-21T09:20:00+00:00",
-   "extrait": "Aux Philippines ainsi qu’au Cambodge, des personnes ont été arrêtées dans une enquête concernant un SMS blaster, que les autorités associent à des messages frauduleux imitant un établissement…",
-   "tags": []
   }
  ]
 }
