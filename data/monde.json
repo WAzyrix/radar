@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-02T04:05:41+00:00",
+ "maj": "2026-11-02T05:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,45 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "80a13b6c2c4c",
+   "titre": "Midterms 2026 : les reniements de Donald Trump l’exposent à un vote sanction de la part des électeurs américains",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/02/midterms-2026-les-reniements-de-donald-trump-l-exposent-a-un-vote-sanction-de-la-part-des-electeurs-americains_6804843_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-02T04:30:50+00:00",
+   "extrait": "La guerre en Iran et l’envolée du coût de la vie, malgré les promesses du président des Etats-Unis de juguler l’inflation et de ne plus engager son pays dans une aventure militaire extérieure…",
+   "tags": [
+    "Politique",
+    "Économie",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "dcd06f0c7e9b",
+   "titre": "Trump says Iran war will be put away very soon, \"one way or the other\"",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+   "source": "CBS News",
+   "date": "2026-11-02T04:15:54+00:00",
+   "extrait": "Earlier, President Trump predicted the war with Iran is \"going to end soon,\" without offering any details, as Qatari mediators return to Tehran to push for a deal.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "b4d207127272",
+   "titre": "L’OL retrouve le podium de la Ligue 1, l’OM pointe son nez en haut du classement",
+   "lien": "https://www.lemonde.fr/sport/article/2026/11/02/l-ol-retrouve-le-podium-de-la-ligue-1-l-om-pointe-son-nez-en-haut-du-classement_6804840_3242.html",
+   "source": "Le Monde",
+   "date": "2026-11-02T04:14:01+00:00",
+   "extrait": "Les Marseillais, désormais sixièmes, ont signé un quatrième succès de rang en championnat en s’imposant face à Toulouse (2-0). Les Lyonnais ont battu Angers (2-0) et partagent leur troisième place…",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "france"
+  },
   {
    "id": "bca55fbe9414",
    "titre": "Jet from Texas crashes near homes in Palm Beach, Florida, killing 9 on board",
@@ -368,19 +407,6 @@
    "zone": "monde"
   },
   {
-   "id": "dcd06f0c7e9b",
-   "titre": "Trump says Iran war will be put away very soon: \"One way or the other\"",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
-   "source": "CBS News",
-   "date": "2026-11-02T00:05:59+00:00",
-   "extrait": "Earlier, President Trump predicted the war with Iran is \"going to end soon,\" without offering any details, as Qatari mediators return to Tehran to push for a deal.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "f88a52a88e85",
    "titre": "11/1/2026: Michigan Senate Race; Cuba in Crisis; Wemby",
    "lien": "https://www.cbsnews.com/video/60minutes-2026-11-01/",
@@ -415,6 +441,18 @@
    "zone": "monde"
   },
   {
+   "id": "4d073572c1b4",
+   "titre": "11/1: CBS Weekend News",
+   "lien": "https://www.cbsnews.com/video/110126-cbs-weekend-news/",
+   "source": "CBS News",
+   "date": "2026-11-01T23:30:00+00:00",
+   "extrait": "Florida jet crash killed nine on board; fallout of Michigan Democratic rift and President Trump's final campaign push.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "9a598ba0549f",
    "titre": "Kimi Antonelli, sacré champion du monde de F1 à 20 ans, le pari gagnant de Mercedes",
    "lien": "https://www.lemonde.fr/sport/article/2026/11/01/kimi-antonelli-sacre-champion-du-monde-de-f1-a-20-ans-le-pari-gagnant-de-mercedes_6804705_3242.html",
@@ -443,6 +481,19 @@
    "extrait": "Sen. Bernie Sanders, who's supported El-Sayed's campaign, specifically referred to comments made by Republican surrogates, including President Trump and GOP Sen. Ted Cruz of Texas",
    "tags": [
     "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "5c1a12d656f9",
+   "titre": "Gulf region on edge as Qatar leads talks with Iran to stave off new U.S. attacks",
+   "lien": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
+   "source": "NPR",
+   "date": "2026-11-01T22:19:13+00:00",
+   "extrait": "Qatar has been leading intense mediation efforts over the past 72 hours to prevent a new round of possible U.S. attacks on Iran after Tuesday's midterm elections. The uncertainty has the entire Gulf…",
+   "tags": [
+    "Politique",
+    "Conflits"
    ],
    "zone": "usa"
   },
@@ -3400,54 +3451,6 @@
     "Politique"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "9513d1329393",
-   "titre": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-   "lien": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-01T00:46:12+00:00",
-   "extrait": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "b04c02cad234",
-   "titre": "Video shows immigration agents detaining man in North Hollywood",
-   "lien": "https://www.cbsnews.com/news/north-hollywood-ice-arrest-gun-pointed-at-bystander/",
-   "source": "CBS News",
-   "date": "2026-11-01T00:44:00+00:00",
-   "extrait": "Los Angeles leaders are speaking out after video captured the moments when a U.S. Immigration and Customs Enforcement agent pointed a gun at a bystander as a different man was detained in North…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "faf1874beb29",
-   "titre": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-   "lien": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-01T00:41:24+00:00",
-   "extrait": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "3778ac94b142",
-   "titre": "La justice rejette la plainte en diffamation de Donald Trump contre le « Wall Street Journal » au sujet d’une lettre à Jeffrey Epstein",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/01/lettre-a-jeffrey-epstein-la-justice-rejette-la-plainte-en-diffamation-de-donald-trump-contre-le-wall-street-journal_6803834_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-01T00:34:34+00:00",
-   "extrait": "Dans sa décision, le juge Darrin P. Gayles se garde de trancher sur l’authenticité du courrier aux tonalités salaces, daté de 2003 et attribué au milliardaire républicain par le média. Il considère…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
   }
  ]
 }
