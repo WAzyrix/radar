@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-02T09:05:40+00:00",
+ "maj": "2026-11-02T10:05:48+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "357136bfe66d",
+   "titre": "Ivanti patches two more Connect Secure zero-days chained in attacks",
+   "lien": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
+   "source": "BleepingComputer",
+   "date": "2026-11-02T09:33:26+00:00",
+   "extrait": "Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1. [...]",
+   "tags": [
+    "Faille"
+   ]
+  },
   {
    "id": "9714b90c19e0",
    "titre": "Arnaques dopées à l'IA - Comment ne pas tomber dans le panneau #sponso",
@@ -3413,17 +3424,6 @@
    "extrait": "Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and…",
    "tags": [
     "Malware"
-   ]
-  },
-  {
-   "id": "b81260804ad3",
-   "titre": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
-   "lien": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
-   "source": "The Hacker News",
-   "date": "2026-10-21T11:53:34+00:00",
-   "extrait": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized…",
-   "tags": [
-    "IA"
    ]
   }
  ]
