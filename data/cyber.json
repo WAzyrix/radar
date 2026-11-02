@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-02T05:05:40+00:00",
+ "maj": "2026-11-02T06:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,20 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "9068a344a035",
+   "titre": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
+   "lien": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
+   "source": "The Hacker News",
+   "date": "2026-11-02T05:51:07+00:00",
+   "extrait": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their…",
+   "tags": [
+    "Fuite de données",
+    "Malware",
+    "IA",
+    "Windows"
+   ]
+  },
   {
    "id": "8cfea8890b08",
    "titre": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
@@ -86,7 +100,7 @@
    "lien": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
    "source": "The Hacker News",
    "date": "2026-11-01T07:03:00+00:00",
-   "extrait": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked…",
+   "extrait": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets from Binance to TraderTraitor, a North Korea-aligned elite hacking group…",
    "tags": [
     "Fuite de données"
    ]
@@ -3409,17 +3423,6 @@
    "extrait": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that…",
    "tags": [
     "Faille"
-   ]
-  },
-  {
-   "id": "f31f85df952c",
-   "titre": "The Harness Is the Hard Part of Agentic Pentesting",
-   "lien": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
-   "source": "The Hacker News",
-   "date": "2026-10-21T10:32:40+00:00",
-   "extrait": "An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks safe to run…",
-   "tags": [
-    "IA"
    ]
   }
  ]
