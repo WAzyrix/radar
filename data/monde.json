@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-02T22:05:47+00:00",
+ "maj": "2026-11-02T23:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,16 +22,181 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "f80b7a5f1aa3",
+   "titre": "Supreme Court rejects Trump's request in California mail ballots dispute",
+   "lien": "https://www.cbsnews.com/news/supreme-court-rejects-trump-california-mail-ballots-alleged-noncitizens/",
+   "source": "CBS News",
+   "date": "2026-11-02T23:03:08+00:00",
+   "extrait": "Earlier Monday, the Trump administration asked the Supreme Court to order California election officials to set aside mail ballots from 20,000 people it alleges are noncitizens.",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "f85aaec81a21",
+   "titre": "Donald Trump change de ton et assure qu'un accord avec l'Iran \"pourrait arriver\"",
+   "lien": "https://www.france24.com/fr/moyen-orient/20261102-moyen-orient-donald-trump-accord-avec-l-iran-pourrait-arriver-detroit-d-ormuz-petrole",
+   "source": "France 24",
+   "date": "2026-11-02T22:56:40+00:00",
+   "extrait": "Après avoir affirmé être prêt à donner un \"coup de massue\" à l'Iran ce weekend, le président américain Donald Trump a changé de ton lundi, assurant qu'un accord avec Téhéran \"pourrait arriver\".",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "ce1f7c9d91ec",
+   "titre": "\"La première fois que j'ai vraiment vu la Terre sous mes pieds, sous le scaphandre, c'était surtout une joie\", confie l'astronaute Sophie Adenot",
+   "lien": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/la-premiere-fois-que-j-ai-vraiment-vu-la-terre-sous-mes-pieds-juste-la-sous-le-scaphandre-c-etait-surtout-une-joie-confie-sophie-adenot-astronaute_8264858.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-02T22:52:08+00:00",
+   "extrait": "Invitée du 20 Heures de France 2, l'astronaute française est revenue sur son expérience dans l'espace, les difficultés physiques rencontrées lors de son retour sur Terre et l'intensité des sorties…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "9f3beaf607ad",
+   "titre": "Cinq personnes tuées par des frappes israéliennes dans la bande de Gaza, selon la défense civile",
+   "lien": "https://www.franceinfo.fr/monde/palestine/gaza/cinq-personnes-tuees-par-des-frappes-israeliennes-dans-la-bande-de-gaza-selon-la-defense-civile_8264864.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-02T22:47:32+00:00",
+   "extrait": "L'armée israélienne dit avoir \"frappé plusieurs terroristes\" à divers endroits de l'enclave palestinienne.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "e8cef5f74342",
+   "titre": "Iran says \"ball is in the U.S. court\" on any deal to end the war",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/",
+   "source": "CBS News",
+   "date": "2026-11-02T22:42:08+00:00",
+   "extrait": "Trump must decide whether to end the war or return to it, Iran says, as both sides trade threats, but keep diplomacy alive.",
+   "tags": [
+    "Politique",
+    "Conflits",
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "ff6db5f0d0e8",
+   "titre": "Here's what Susan Collins and Troy Jackson are telling Maine voters ahead of the midterms",
+   "lien": "https://www.cbsnews.com/video/comparing-susan-collins-troy-jacksons-maine-campaign-messaging/",
+   "source": "CBS News",
+   "date": "2026-11-02T22:34:04+00:00",
+   "extrait": "One of Tuesday's midterm races to watch is in Maine, where five-term Republican incumbent Sen. Susan Collins is facing a challenge from Democrat Troy Jackson, the former Maine state senate…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "eb2ee9cdc3a7",
+   "titre": "Afrique du Sud : l’ANC face au mécontentement des électeurs aux municipales",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261102-afrique-du-sud-l-anc-face-au-m%C3%A9contentement-des-%C3%A9lecteurs-aux-municipales",
+   "source": "France 24",
+   "date": "2026-11-02T22:31:41+00:00",
+   "extrait": "Dans cette édition, direction l’Afrique du Sud, où les électeurs votent ce mercredi pour renouveler leurs conseils municipaux. Reportage à Mandela Bay, dans la province du Cap-Oriental, à la veille…",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "db7bb497241a",
+   "titre": "Can Trumpism Survive the Midterms?",
+   "lien": "https://www.cbsnews.com/video/can-trumpism-survive-the-midterms/",
+   "source": "CBS News",
+   "date": "2026-11-02T22:24:52+00:00",
+   "extrait": "Kevin Williamson, National Correspondent for The Dispatch, on how deep-red states became midterm battlegrounds and what that could mean for the future of MAGA and the GOP. If you'd like to share…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "13342bd31f1d",
+   "titre": "Rep. Debbie Dingell says Stevens' endorsement of Rogers has galvanized voters for El-Sayed",
+   "lien": "https://www.cbsnews.com/video/rep-debbie-dingell-says-stevens-endorsement-of-rogers-has-galvanized-voters-for-el-sayed/",
+   "source": "CBS News",
+   "date": "2026-11-02T22:24:28+00:00",
+   "extrait": "Rep. Debbie Dingell joins \"The Takeout\" to discuss Democratic Rep. Haley Stevens stunning decision to endorse Senate candidate Abdul El-Sayed's Republican opponent, Mike Rogers.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "7f48809004ae",
    "titre": "Live Updates: Trump tells GOP \"we gave this a very strong shot\"",
    "lien": "https://www.cbsnews.com/live-updates/2026-elections-monday-november-2/",
    "source": "CBS News",
-   "date": "2026-11-02T22:01:56+00:00",
+   "date": "2026-11-02T22:11:00+00:00",
    "extrait": "President Trump held an event Monday at the Washington, D.C., Reflecting Pool, while Michigan Democrats assess the fallout from a cross-party endorsement.",
    "tags": [
     "Politique"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "b0cc8ee859e4",
+   "titre": "L'économie américaine au coeur des préoccupations pour les Midterms",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261102-l-%C3%A9conomie-am%C3%A9ricaine-au-coeur-des-pr%C3%A9occupations-pour-les-midterms",
+   "source": "France 24",
+   "date": "2026-11-02T22:07:40+00:00",
+   "extrait": "A l'aube de son deuxième mandat, Donald Trump avait promis à la population le retour du \"golden age\", l'âge d'or des Etats-Unis et se faisait le héraut du pouvoir d'achat. Deux ans plus tard, le…",
+   "tags": [
+    "Politique",
+    "Économie",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "0dcf4c73133d",
+   "titre": "Donald Trump assure qu'un accord avec l'Iran \"pourrait arriver\"",
+   "lien": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-assure-qu-un-accord-avec-l-iran-pourrait-arriver_8264852.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-02T22:06:39+00:00",
+   "extrait": "Ce week-end, il s'était pourtant dit prêt à donner un \"coup de massue\" à l'Iran et avait déclaré qu'il lui restait à \"s'occuper\" d'un ou deux sites nucléaires iraniens.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "9a6367124117",
+   "titre": "Abdul El-Sayed says there are things he wishes he'd done differently in Senate campaign",
+   "lien": "https://www.cbsnews.com/video/abdul-el-sayed-cbs-news-things-differently-michigan-campaign/",
+   "source": "CBS News",
+   "date": "2026-11-02T22:03:45+00:00",
+   "extrait": "Democratic Senate candidate Abdul El-Sayed gave his final pitch to voters in Michigan after Democratic Rep. Haley Stevens announced she would vote for his Republican opponent, Mike Rogers, in…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "e11f3d795204",
+   "titre": "\"Francis Joyon va bien dans son bateau retourné\", déclare le directeur de la Route du Rhum",
+   "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/francis-joyon-va-bien-dans-son-bateau-retourne-declare-le-directeur-de-la-route-du-rhum_8264834.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-02T21:41:10+00:00",
+   "extrait": "Deux cargos sont déroutés pour porter secours au navigateur qui a chaviré lundi à 200 milles au sud-ouest de l'Irlande.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "90c3672c0ac2",
+   "titre": "Le camp d'Edouard Philippe critiqué par la gauche pour ses propos sur l'immigration",
+   "lien": "https://www.franceinfo.fr/elections/presidentielle/le-camp-d-edouard-philippe-critique-par-la-gauche-pour-ses-propos-sur-l-immigration_8264831.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-02T21:40:46+00:00",
+   "extrait": "Le candidat Horizons à la présidentielle a relié les pillages du 17 octobre à l'immigration. Pour Maud Bregeon, il a \"dit tout haut ce que beaucoup de Français pensent tout bas\".",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "f275ed79cd44",
@@ -120,6 +285,19 @@
    "zone": "france"
   },
   {
+   "id": "49f6bc32e45e",
+   "titre": "En Ukraine, des frappes russes pendant une distribution d'aide humanitaire font 26 morts",
+   "lien": "https://www.france24.com/fr/europe/20261102-en-ukraine-des-frappes-russes-pendant-une-distribution-d-aide-humanitaire-font-26-morts",
+   "source": "France 24",
+   "date": "2026-11-02T21:07:54+00:00",
+   "extrait": "La Russie a mené plusieurs frappes lundi contre une école où était distribuée de l'aide humanitaire à Komyshuvakha, dans la région de Zaporijjia, dans le sud-est de l'Ukraine. Le bilan est de 26…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "013341a1234a",
    "titre": "La préfecture de police interdit la manifestation prévue mardi par une organisation étudiante au coeur de Paris, Interfac IDF dépose un recours",
    "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/la-prefecture-de-police-interdit-la-manifestation-prevue-mardi-par-une-organisation-etudiante-au-coeur-de-paris-interfac-idf-depose-un-recours_8264807.html#xtor=RSS-3-[lestitres]",
@@ -142,6 +320,18 @@
     "Politique"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "ed58e9d975b3",
+   "titre": "Violences sexuelles : une nouvelle enquête atteste de leur ampleur chez les jeunes",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/02/violences-sexuelles-une-nouvelle-enquete-atteste-de-leur-ampleur-chez-les-jeunes_6805319_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-02T21:01:33+00:00",
+   "extrait": "Selon les résultats d’une étude menée par l’association Contre les violences sur mineurs (CVM), en partenariat notamment avec l’Inserm et l’AP-HP, 63 % des jeunes de 18 ans à 21 ans interrogés…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
   },
   {
    "id": "2f031abe5d26",
@@ -245,20 +435,6 @@
    "extrait": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground!\"",
    "tags": [],
    "zone": "monde"
-  },
-  {
-   "id": "e8cef5f74342",
-   "titre": "Iran says \"ball is in the U.S. court\" on any deal to end the war",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/",
-   "source": "CBS News",
-   "date": "2026-11-02T19:57:35+00:00",
-   "extrait": "Trump must decide whether to end the war or return to it, Iran says, as both sides trade threats, but keep diplomacy alive.",
-   "tags": [
-    "Politique",
-    "Conflits",
-    "Justice"
-   ],
-   "zone": "usa"
   },
   {
    "id": "3bbc6d75eba3",
@@ -447,14 +623,16 @@
    "zone": "usa"
   },
   {
-   "id": "e7d3fcf4d488",
-   "titre": "NASA telescope is plunging back to Earth after 22 years in orbit",
-   "lien": "https://www.cbsnews.com/news/nasa-telescope-swift-observatory-plunging-back-to-earth/",
-   "source": "CBS News",
-   "date": "2026-11-02T19:00:07+00:00",
-   "extrait": "The Swift Observatory is barely clinging to space after a failed rescue effort left it tottering lower and lower.",
-   "tags": [],
-   "zone": "usa"
+   "id": "ccd43763df33",
+   "titre": "Comment l’IA permet aux bidouilleurs de « décompiler », de fusionner ou de copier plus rapidement des jeux vidéo",
+   "lien": "https://www.lemonde.fr/pixels/article/2026/11/02/comment-l-ia-permet-aux-bidouilleurs-de-decompiler-de-fusionner-ou-de-copier-plus-rapidement-des-jeux-video_6805311_4408996.html",
+   "source": "Le Monde",
+   "date": "2026-11-02T19:00:08+00:00",
+   "extrait": "Depuis des années, des communautés de passionnés travaillent d’arrache-pied pour déchiffrer et reproduire le code de certains jeux afin de les réinventer ou de les faire fonctionner sur d’autres…",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "france"
   },
   {
    "id": "2038ce3173fc",
@@ -467,6 +645,16 @@
     "Politique"
    ],
    "zone": "france"
+  },
+  {
+   "id": "e7d3fcf4d488",
+   "titre": "NASA telescope is plunging back to Earth after 22 years in orbit",
+   "lien": "https://www.cbsnews.com/news/nasa-telescope-swift-observatory-plunging-back-to-earth/",
+   "source": "CBS News",
+   "date": "2026-11-02T19:00:00+00:00",
+   "extrait": "The Swift Observatory is barely clinging to space after a failed rescue effort left it tottering lower and lower.",
+   "tags": [],
+   "zone": "usa"
   },
   {
    "id": "3129776e641a",
@@ -871,15 +1059,14 @@
   },
   {
    "id": "f3e72d862082",
-   "titre": "EN DIRECT, guerre en Ukraine : le bilan des bombardements russes dans l’oblast de Zaporijia passe à 26 morts, déclare Volodymyr Zelensky",
+   "titre": "EN DIRECT, guerre en Ukraine : le bilan des bombardements russes dans l’oblast de Zaporijia passe à 26 morts, annonce Volodymyr Zelensky",
    "lien": "https://www.lemonde.fr/international/live/2026/11/02/en-direct-guerre-en-ukraine-dix-huit-personnes-ont-ete-tuees-par-des-bombardements-russes-dans-l-oblast-de-zaporijia-annonce-volodymyr-zelensky_6803934_3210.html",
    "source": "Le Monde",
    "date": "2026-11-02T17:30:57+00:00",
-   "extrait": "« Cinq personnes sont à l’hôpital. Il y en a encore sous les décombres. Les opérations de sauvetage se poursuivront aussi longtemps que nécessaire pour retrouver chaque personne », a précisé le…",
+   "extrait": "« Les opérations de sauvetage se poursuivront aussi longtemps que nécessaire pour retrouver chaque personne », alors que certaines sont toujours ensevelies sous les décombres, a précisé le président…",
    "tags": [
     "Politique",
-    "Conflits",
-    "Santé"
+    "Conflits"
    ],
    "zone": "france"
   },
@@ -1253,13 +1440,12 @@
   },
   {
    "id": "2cdce35538df",
-   "titre": "DOJ asks for Supreme Court to intervene on California ballot demands",
+   "titre": "The Supreme Court rejects a DOJ push to separate California ballots",
    "lien": "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump",
    "source": "NPR",
    "date": "2026-11-02T16:34:17+00:00",
-   "extrait": "On the eve of the Nov. 3 election, the Trump administration is hoping the Supreme Court will reverse lower courts that rejected its request to order California to set aside the ballots of thousands…",
+   "extrait": "The U.S. Supreme Court has denied a last-minute request from the Department of Justice to wade into its unprecedented feud with California over the state's voter rolls.",
    "tags": [
-    "Politique",
     "Justice"
    ],
    "zone": "usa"
@@ -3290,194 +3476,6 @@
    "tags": [
     "Politique",
     "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "4ac847ad97bb",
-   "titre": "What are Americans voting for in this election?",
-   "lien": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-02T09:22:55+00:00",
-   "extrait": "The BBC's Maddie Gerber explains what's on the ballot in the 2026 midterm elections in the United States.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "dab51c8ff8c2",
-   "titre": "Le président du Mucem Pierre-Olivier Costa, suspendu cet été, assure qu'il va reprendre ses fonctions",
-   "lien": "https://www.franceinfo.fr/culture/arts-expos/le-president-du-mucem-pierre-olivier-costa-suspendu-cet-ete-assure-qu-il-va-reprendre-ses-fonctions_8263652.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-02T09:20:42+00:00",
-   "extrait": "Il reste deux ans de mandat à Pierre-Olivier Costa, qu'il entend bien honorer, revendiquant un \"très bon\" bilan.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "42a772046541",
-   "titre": "L’impunité des meurtres de journalistes repart à la hausse, une première depuis 2012, selon l’Unesco",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/02/l-impunite-des-meurtres-de-journalistes-repart-a-la-hausse-une-premiere-depuis-2012-selon-l-unesco_6805223_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-02T09:15:58+00:00",
-   "extrait": "Six auteurs sur sept échappent à la justice, alerte l’organisation, qui recense 189 journalistes tués en 2024 et 2025, pour les deux tiers dans des zones de conflits",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "97ecdab8ff35",
-   "titre": "Dorange freinée, Williams reine des parquets, Antonelli roi de la F1 : les infos sport du week-end",
-   "lien": "https://www.france24.com/fr/sports/20261102-dorange-violette-gabby-williams-wnba-antonelli-f1",
-   "source": "France 24",
-   "date": "2026-11-02T09:13:48+00:00",
-   "extrait": "Le multicoque de Romain Pilliard et l'Imoca de Violette Dorange sont entrés en collision, deux heures après le départ de la Route du Rhum. Gabby Williams a été magistrale pour conquérir le titre de…",
-   "tags": [
-    "Économie",
-    "Sport"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "fdb5eae21df3",
-   "titre": "Le cofondateur de l’association Médecins Solidaires salue \"l'impact gigantesque\" de l'arrivée des \"docteurs juniors\" dans les territoires ruraux",
-   "lien": "https://www.franceinfo.fr/sante/deserts-medicaux/le-cofondateur-de-l-association-medecins-solidaires-salue-l-impact-gigantesque-de-l-arrivee-des-docteurs-juniors-dans-les-territoires-ruraux_8263694.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-02T09:12:50+00:00",
-   "extrait": "À partir de lundi, 3 000 \"docteurs juniors\" sont déployés dans les cabinets, maisons et centres de santé pour un an de stage, afin de compléter leur formation et à les encourager à s'installer dans…",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "4a9572a2813e",
-   "titre": "EN DIRECT, guerre en Ukraine : Kiev fait état de plus de 90 attaques russes contre ses infrastructures énergétiques en une semaine",
-   "lien": "https://www.lemonde.fr/international/live/2026/11/02/en-direct-guerre-en-ukraine-pres-de-800-personnes-ont-ete-evacuees-d-olechky-selon-melania-trump-qui-a-negocie-la-treve-humanitaire_6803934_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-02T09:11:26+00:00",
-   "extrait": "Le ministère de l’énergie a fait état d’un blessé parmi les employés du secteur énergétique dans l’oblast de Kharkiv et d’un autre tué lors d’une attaque russe à Kramatorsk, dans l’oblast de Donetsk.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "d658895fa9a1",
-   "titre": "\"Je n'exclus rien\" : pour les midterms, les jeunes républicains en plein doute sur leur soutien à Donald Trump",
-   "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/reportage-je-n-exclus-rien-pour-les-midterms-les-jeunes-republicains-en-plein-doute-sur-leur-soutien-a-donald-trump_8263613.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-02T09:07:14+00:00",
-   "extrait": "Entre espoirs déçus et désarroi politique, de jeunes électeurs MAGA se sentent un peu perdus lors des élections de mi-mandat aux États-Unis, où Donald Trump pourrait bien voir sa majorité à la…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "83798a025d26",
-   "titre": "\"Une station sur deux a répercuté la baisse\" du prix des carburants dès lundi, selon la porte-parole du gouvernement, Maud Bregeon",
-   "lien": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/une-station-sur-deux-a-repercute-la-baisse-du-prix-des-carburants-des-lundi-apres-le-destockage-de-reserves-strategiques-rapporte-la-porte-parole-du-gouvernement-maud-bregeon_8263640.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-02T09:03:23+00:00",
-   "extrait": "La ministre déléguée chargée de l'Énergie précise dans la foulée que le nombre de stations \"va augmenter dans les heures et les jours à venir\".",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "3489dfb1de48",
-   "titre": "« Anthropic en Bourse : l’apocalypse est-elle un risque d’investissement comme un autre ? »",
-   "lien": "https://www.lemonde.fr/idees/article/2026/11/02/anthropic-en-bourse-l-apocalypse-est-elle-un-risque-d-investissement-comme-un-autre_6805221_3232.html",
-   "source": "Le Monde",
-   "date": "2026-11-02T09:00:12+00:00",
-   "extrait": "L’entreprise d’intelligence artificielle détaille dans son document d’introduction en Bourse les risques « catastrophiques ou existentiels » que fait peser cette technologie sur l’humanité. Mais les…",
-   "tags": [
-    "Économie",
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "75739128256a",
-   "titre": "Les autorités espagnoles recensent 12 victimes étrangères parmi les 69 personnes tuées dans l'accident ferroviaire d'Urda",
-   "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/les-autorites-espagnolrecensent-12-victimes-etrangeres-parmi-les-69-personnes-tuees-dans-l-accident-ferroviaire-d-urda_8263664.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-02T08:51:14+00:00",
-   "extrait": "Selon un communiqué d'experts médico-légaux et de la police, 66 des 69 personnes qui ont perdu la vie ont désormais pu être identifiées, quatre jours après le drame.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "fa23ab08b5d7",
-   "titre": "Manifestation du 5 novembre à Paris : la CGT exige un parcours dans le centre-ville, de Bastille à Concorde",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/02/manifestation-du-5-novembre-a-paris-la-cgt-exige-un-parcours-dans-le-centre-ville-de-bastille-a-concorde_6805220_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-02T08:46:47+00:00",
-   "extrait": "La secrétaire générale de la CGT, Sophie Binet, a demandé lundi une réponse de la Préfecture de police de Paris à ce sujet. Celle-ci avait refusé aux manifestants de déambuler samedi dernier et le…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "901c67203623",
-   "titre": "Donald Trump avertit que les Etats-Unis devront, \"à un moment, donner un coup de massue\" à l'Iran",
-   "lien": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-avertit-que-les-etats-unis-devront-a-un-moment-donner-un-coup-de-massue-a-l-iran_8263538.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-02T08:38:29+00:00",
-   "extrait": "Le président des Etats-Unis a évoqué la possibilité pour ses troupes de mener de nouvelles frappes, près de neuf mois après le lancement d'une opération israélo-américaine en Iran.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "a80824ee4095",
-   "titre": "\"Arrêter de fumer pendant un mois multiplie par cinq ses chances d'arrêter définitivement\", encourage le professeur Yves Martinet",
-   "lien": "https://www.franceinfo.fr/sante/drogue-addictions/lutte-contre-le-tabagisme/arreter-de-fumer-pendant-un-mois-multiplie-par-cinq-ses-chances-d-arreter-definitivement-encourage-le-professeur-yves-martinet_8263661.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-02T08:38:06+00:00",
-   "extrait": "Initié lors de la présidence de François Hollande, le mois sans tabac dure tout le mois de novembre, et a commencé sa 11e édition dimanche.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "966e99e10213",
-   "titre": "Le réalisateur américain Michael Mann accidentellement blessé par balle dans un stand de tir à Los Angeles",
-   "lien": "https://www.franceinfo.fr/culture/cinema/le-realisateur-americain-michael-mann-accidentellement-blesse-par-balle-dans-un-stand-de-tir-a-los-angeles_8263643.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-02T08:31:03+00:00",
-   "extrait": "Le réalisateur de \"Heat\", \"Collatéral\" et du \"Dernier des Mohicans\" est un tireur sportif expérimenté, selon son entourage.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "406ada0a4c18",
-   "titre": "Liga : Yan Diomandé et Kylian Mbappé marquent encore pour le Real Madrid",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261102-liga-yan-diomand%C3%A9-et-kylian-mbapp%C3%A9-marquent-encore-pour-le-real-madrid",
-   "source": "France 24",
-   "date": "2026-11-02T08:13:56+00:00",
-   "extrait": "Kylian Mbappé et Yan Diomandé ont une nouvelle fois marqué pour le Real Madrid face à Santander (3-0). Après un début de saison en dents de scie, le Real Madrid a remporté 9 de ses 10 derniers…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "60f7d451b110",
-   "titre": "Crash d’avion en Floride : l’enregistrement de la pilote avant l’accident",
-   "lien": "https://www.lemonde.fr/international/video/2026/11/02/crash-d-avion-en-floride-l-enregistrement-de-la-pilote-avant-l-accident_6805186_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-02T08:13:36+00:00",
-   "extrait": "Le régulateur aérien américain a annoncé qu’il mènerait une enquête avec l’Agence fédérale américaine de sécurité des transports pour faire la lumière sur cet accident mortel.",
-   "tags": [
-    "Justice"
    ],
    "zone": "france"
   }
