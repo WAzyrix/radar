@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-02T14:05:51+00:00",
+ "maj": "2026-11-02T15:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,68 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "be1d39eaf1aa",
+   "titre": "BTCPay Server warns of hot wallet thefts targeting outdated instances",
+   "lien": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
+   "source": "BleepingComputer",
+   "date": "2026-11-02T15:03:07+00:00",
+   "extrait": "The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining \"hot wallets\" on instances running older…",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "5ea1d647d005",
+   "titre": "Your Mobile Carrier Stores Your Call Logs for Years",
+   "lien": "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/",
+   "source": "BleepingComputer",
+   "date": "2026-11-02T15:01:11+00:00",
+   "extrait": "Mobile carriers can retain years of call and text metadata, exposing sensitive details about customers' relationships, locations, and daily routines if breached. Cape examines the privacy risks of…",
+   "tags": []
+  },
+  {
+   "id": "39749d757eb1",
+   "titre": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
+   "lien": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
+   "source": "The Hacker News",
+   "date": "2026-11-02T14:46:05+00:00",
+   "extrait": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October…",
+   "tags": []
+  },
+  {
+   "id": "cab04cab3c66",
+   "titre": "Hackers disrupt refrigeration systems at European supermarkets",
+   "lien": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
+   "source": "BleepingComputer",
+   "date": "2026-11-02T14:28:39+00:00",
+   "extrait": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and…",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "b1be3d0fa2b7",
+   "titre": "HackerBooks - Les bouquins préférés des geeks, triés par Claude",
+   "lien": "https://korben.info/hackerbooks-hackertube-hacker-news.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-02T14:06:23+00:00",
+   "extrait": "Après le HackerTube de Karpathy, HackerBooks classe 15 766 livres cités sur Hacker News en séparant ceux qu'on cite de ceux qu'on recommande, un tri fait par Claude. Le CSV est à télécharger, comme…",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "5e44eebabf29",
+   "titre": "Microsoft fixes Smart App Control broken by October Windows update",
+   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/",
+   "source": "BleepingComputer",
+   "date": "2026-11-02T13:57:29+00:00",
+   "extrait": "Microsoft has resolved a known issue that prevented some users from activating the Smart App Control security feature after installing the October 2026 KB5127648 Windows 11 security update. [...]",
+   "tags": [
+    "Windows"
+   ]
+  },
   {
    "id": "288b4c45ace9",
    "titre": "Applis d'alerte piratées - FR-Alert est-il à l'abri ?",
@@ -136,6 +198,119 @@
     "Malware",
     "IA",
     "Windows"
+   ]
+  },
+  {
+   "id": "258b15ab8eb1",
+   "titre": "Bulletin d'actualité CERTFR-2026-ACT-046 (02 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-046/",
+   "source": "CERT-FR",
+   "date": "2026-11-02T00:00:00+00:00",
+   "extrait": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "417073e83927",
+   "titre": "Multiples vulnérabilités dans Tenable Identity Exposure (02 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1436/",
+   "source": "CERT-FR",
+   "date": "2026-11-02T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Tenable Identity Exposure. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "decf4a3252d9",
+   "titre": "Multiples vulnérabilités dans les produits Synology (02 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1435/",
+   "source": "CERT-FR",
+   "date": "2026-11-02T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Synology. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "a660ce42a4af",
+   "titre": "Multiples vulnérabilités dans Redmine (02 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1434/",
+   "source": "CERT-FR",
+   "date": "2026-11-02T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Redmine. Certaines d'entre elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), un contournement de la…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "483bc88286a7",
+   "titre": "Multiples vulnérabilités dans Microsoft Edge (02 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1440/",
+   "source": "CERT-FR",
+   "date": "2026-11-02T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+   "tags": [
+    "Faille",
+    "Windows"
+   ]
+  },
+  {
+   "id": "0f83f7ebfc7f",
+   "titre": "Multiples vulnérabilités dans Ivanti Connect Secure (02 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1442/",
+   "source": "CERT-FR",
+   "date": "2026-11-02T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Ivanti Connect Secure. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et…",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
+  },
+  {
+   "id": "0208af3bdc81",
+   "titre": "Multiples vulnérabilités dans Qnap QNE (02 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1437/",
+   "source": "CERT-FR",
+   "date": "2026-11-02T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Qnap QNE. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "9dfaa33ff83d",
+   "titre": "Multiples vulnérabilités dans macmon et NRSW (02 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1438/",
+   "source": "CERT-FR",
+   "date": "2026-11-02T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Belden macmon et NRSW. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "f610ce094118",
+   "titre": "Vulnérabilité dans Microsoft Visual Studio (02 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1441/",
+   "source": "CERT-FR",
+   "date": "2026-11-02T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans Microsoft Visual Studio. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+   "tags": [
+    "Faille",
+    "Windows"
+   ]
+  },
+  {
+   "id": "8ac8e92ca0e9",
+   "titre": "Vulnérabilité dans Traefik (02 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1439/",
+   "source": "CERT-FR",
+   "date": "2026-11-02T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans Traefik. Elle permet à un attaquant de provoquer un déni de service à distance.",
+   "tags": [
+    "Faille"
    ]
   },
   {
@@ -3250,182 +3425,6 @@
    "extrait": "De multiples vulnérabilités ont été découvertes dans Node.js. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la…",
    "tags": [
     "Faille"
-   ]
-  },
-  {
-   "id": "ec9c76493145",
-   "titre": "Multiples vulnérabilités dans GitLab (22 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1363/",
-   "source": "CERT-FR",
-   "date": "2026-10-22T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "edeb4cb0e504",
-   "titre": "Multiples vulnérabilités dans les produits Splunk (22 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1366/",
-   "source": "CERT-FR",
-   "date": "2026-10-22T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "b7fe98cc8dc8",
-   "titre": "Multiples vulnérabilités dans les produits Cisco (22 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1360/",
-   "source": "CERT-FR",
-   "date": "2026-10-22T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "d20ab6d9d676",
-   "titre": "Vulnérabilité dans les produits Mozilla (22 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1361/",
-   "source": "CERT-FR",
-   "date": "2026-10-22T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans les produits Mozilla. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "2ddaef35e43b",
-   "titre": "Multiples vulnérabilités dans les produits SolarWinds (22 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1364/",
-   "source": "CERT-FR",
-   "date": "2026-10-22T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une falsification de…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "832124389031",
-   "titre": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
-   "lien": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
-   "source": "BleepingComputer",
-   "date": "2026-10-21T22:16:26+00:00",
-   "extrait": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
-   "tags": [
-    "Malware",
-    "IA"
-   ]
-  },
-  {
-   "id": "e9fd60a700e2",
-   "titre": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
-   "lien": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
-   "source": "BleepingComputer",
-   "date": "2026-10-21T21:43:27+00:00",
-   "extrait": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
-   "tags": [
-    "Fuite de données",
-    "Malware"
-   ]
-  },
-  {
-   "id": "3371acd3dcb3",
-   "titre": "Lazarus hackers use post-quantum cryptography for malware delivery",
-   "lien": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
-   "source": "BleepingComputer",
-   "date": "2026-10-21T20:31:48+00:00",
-   "extrait": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
-   "tags": [
-    "Fuite de données",
-    "Malware"
-   ]
-  },
-  {
-   "id": "a9726704f0fa",
-   "titre": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
-   "lien": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
-   "source": "The Hacker News",
-   "date": "2026-10-21T18:57:34+00:00",
-   "extrait": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "71f0485320c6",
-   "titre": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
-   "lien": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
-   "source": "BleepingComputer",
-   "date": "2026-10-21T18:34:42+00:00",
-   "extrait": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
-   "tags": [
-    "Faille",
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "a5356f42a77a",
-   "titre": "Arrêtée pour avoir bloqué un robot de livraison Uber",
-   "lien": "https://www.zataz.com/arretee-pour-avoir-bloque-un-robot-de-livraison-uber/",
-   "source": "Zataz",
-   "date": "2026-10-21T18:04:11+00:00",
-   "extrait": "Une manifestante arrêtée pour avoir bloqué un robot Uber et dénoncé l'automatisation des emplois.",
-   "tags": []
-  },
-  {
-   "id": "f5335e20393b",
-   "titre": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
-   "lien": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
-   "source": "The Hacker News",
-   "date": "2026-10-21T18:01:57+00:00",
-   "extrait": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket…",
-   "tags": [
-    "Malware"
-   ]
-  },
-  {
-   "id": "2cd8b2bd53ed",
-   "titre": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
-   "lien": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
-   "source": "The Hacker News",
-   "date": "2026-10-21T16:33:47+00:00",
-   "extrait": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal…",
-   "tags": [
-    "IA"
-   ]
-  },
-  {
-   "id": "288893f63679",
-   "titre": "OpenAI agents disabled safety monitoring, one lied about it",
-   "lien": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
-   "source": "BleepingComputer",
-   "date": "2026-10-21T16:26:53+00:00",
-   "extrait": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]",
-   "tags": [
-    "IA"
-   ]
-  },
-  {
-   "id": "59bb22a9eb17",
-   "titre": "Panne chez Orange et Sosh !",
-   "lien": "https://www.zataz.com/panne-chez-orange-et-sosh/",
-   "source": "Zataz",
-   "date": "2026-10-21T15:21:36+00:00",
-   "extrait": "Ce mercredi 21 octobre 2026, une importante panne perturbe le réseau mobile d'Orange et de sa marque low cost Sosh.",
-   "tags": []
-  },
-  {
-   "id": "5aef8b0f33ed",
-   "titre": "Musique IA et faux streams : 18 mois de prison",
-   "lien": "https://www.zataz.com/musique-ia-et-faux-streams-18-mois-de-prison/",
-   "source": "Zataz",
-   "date": "2026-10-21T14:42:22+00:00",
-   "extrait": "Musique IA, faux comptes et royalties détournées : 18 mois de prison pour un fraudeur.",
-   "tags": [
-    "IA"
    ]
   }
  ]
