@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-02T06:05:40+00:00",
+ "maj": "2026-11-02T06:54:06+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,24 +22,105 @@
  "erreurs": [],
  "articles": [
   {
-   "id": "5123f7ad78f1",
-   "titre": "\"J'essaie de voter pour la meilleure personne\" : dans le Maine, des Américains encore indécis à la veille des élections de mi-mandat",
-   "lien": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-j-essaie-de-voter-pour-la-meilleure-personne-dans-le-maine-des-americains-encore-indecis-a-la-veille-des-elections-de-mi-mandat_8243356.html#xtor=RSS-3-[lestitres]",
+   "id": "db0c49dbdc2e",
+   "titre": "L'Ukraine et la Russie touchées par des cyberattaques visant des applications d'alerte à la population",
+   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-et-la-russie-touchees-par-des-cyberattaques-apres-la-fin-d-un-cessez-le-feu-dans-la-region-de-kherson_8263511.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-11-02T05:48:39+00:00",
-   "extrait": "Dans cet État rural du nord-est des États-Unis, la républicaine Susan Collins brigue un sixième mandat face au démocrate Troy Jackson, sur fond de difficultés économiques et de divisions politiques…",
+   "date": "2026-11-02T06:49:00+00:00",
+   "extrait": "Les deux pays ont dénoncé des piratages de ces services destinés à informer les citoyens des attaques à venir. Ces incidents interviennent quelques heures après la fin d'un cessez-le-feu dans la…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "901c67203623",
+   "titre": "Donald Trump avertit que les Etats-Unis devront, \"à un moment, donner un coup de massue\" à l'Iran",
+   "lien": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-avertit-que-les-etats-unis-devront-a-un-moment-donner-un-coup-de-massue-a-l-iran_8263538.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-02T06:44:16+00:00",
+   "extrait": "Le président des Etats-Unis a évoqué la possibilité pour ses troupes de mener de nouvelles frappes, près de neuf mois après le lancement d'une opération israélo-américaine en Iran.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "403c9c17a9ac",
+   "titre": "En direct : \"cyberattaques massives\" contre les applications d'alertes en Ukraine et en Russie",
+   "lien": "https://www.france24.com/fr/europe/20261102-en-direct-ukraine-et-russie-touch%C3%A9es-par-cyberattaques-apr%C3%A8s-fin-tr%C3%AAve",
+   "source": "France 24",
+   "date": "2026-11-02T06:23:40+00:00",
+   "extrait": "Kiev a indiqué dans la nuit que son application mobile d'alerte à la population avait été piratée, une annonce suivie par celle de la Russie rapportant lundi une attaque contre l'application du…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "74d7029a331a",
+   "titre": "Mobilisation lycéenne et étudiante : pour la reprise des cours, les organisations appellent à de nouveaux blocus",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-pour-la-reprise-des-cours-les-organisations-etudiantes-et-lyceennes-appellent-a-de-nouveaux-blocus_8263475.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-02T06:21:41+00:00",
+   "extrait": "\"Le temps d'un retour en classe est venu\", a estimé l'entourage d'Emmanuel Macron auprès de la presse dimanche, alors qu'une série de manifestations a pris le relais des blocages pendant les vacances.",
    "tags": [
     "Politique"
    ],
    "zone": "france"
   },
   {
-   "id": "74d7029a331a",
-   "titre": "Pour la reprise des cours, les organisations étudiantes et lycéennes appellent à de nouveaux blocus",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-pour-la-reprise-des-cours-les-organisations-etudiantes-et-lyceennes-appellent-a-de-nouveaux-blocus_8263475.html#xtor=RSS-3-[lestitres]",
+   "id": "bde9c950f039",
+   "titre": "9 dead as jet nosedives and erupts into fireball near busy roadway in South Florida",
+   "lien": "https://www.npr.org/2026/11/02/g-s1-151211/south-florida-jet-crash",
+   "source": "NPR",
+   "date": "2026-11-02T06:13:28+00:00",
+   "extrait": "U.S. Transportation Secretary Duffy says all nine people died aboard a business jet that crashed into a Florida neighborhood. The aircraft departed from Austin, Texas, and was headed to the Bahamas.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "c41fa4cf7ffa",
+   "titre": "Midterms : ce que changerait une majorité démocrate au Congrès pour Trump et les républicains",
+   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261102-midterms-que-changerait-une-majorit%C3%A9-d%C3%A9mocrate-au-congr%C3%A8s-pour-trump-et-les-r%C3%A9publicains",
+   "source": "France 24",
+   "date": "2026-11-02T06:08:13+00:00",
+   "extrait": "C'est un scénario dont les démocrates osaient à peine rêver il y a quelques mois, mais que les sondages rendent chaque jour un peu plus probable : les démocrates seraient en mesure de devenir…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "f3f6c3d1fba6",
+   "titre": "Iran killed her teenage daughter - now she is facing up to the regime",
+   "lien": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-02T06:00:54+00:00",
+   "extrait": "Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "a9f2b462b731",
+   "titre": "Le philosophe Jean-Gabriel Ganascia livre un essai éclairant sur les mythes que suscite l’intelligence artificielle",
+   "lien": "https://www.lemonde.fr/livres/article/2026/11/02/le-philosophe-jean-gabriel-ganascia-livre-un-essai-eclairant-sur-les-mythes-que-suscite-l-intelligence-artificielle_6805018_3260.html",
+   "source": "Le Monde",
+   "date": "2026-11-02T06:00:01+00:00",
+   "extrait": "« Mythologies de l’IA » s’inspire de Roland Barthes et de ses « Mythologies » pour penser l’émergence de l’IA à travers les « fables » qui l’accompagnent.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "5123f7ad78f1",
+   "titre": "\"J'essaie de voter pour la meilleure personne\" : dans le Maine, des Américains encore indécis à la veille des élections de mi-mandat",
+   "lien": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-j-essaie-de-voter-pour-la-meilleure-personne-dans-le-maine-des-americains-encore-indecis-a-la-veille-des-elections-de-mi-mandat_8243356.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-11-02T05:46:16+00:00",
-   "extrait": "\"Le temps d'un retour en classe est venu\", a estimé auprès de la presse dimanche l'entourage d'Emmanuel Macron, alors que les organisations veulent poursuivre le mouvement.",
+   "date": "2026-11-02T05:48:39+00:00",
+   "extrait": "Dans cet État rural du nord-est des États-Unis, la républicaine Susan Collins brigue un sixième mandat face au démocrate Troy Jackson, sur fond de difficultés économiques et de divisions politiques…",
    "tags": [
     "Politique"
    ],
@@ -75,6 +156,18 @@
    "date": "2026-11-02T05:27:47+00:00",
    "extrait": "Ils sont environ 3 000 à être déployés en France, notamment dans les territoires qui manquent cruellement de médecins généralistes. Ces docteurs juniors vont réaliser leur dernière année d'études…",
    "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "35194ddac65e",
+   "titre": "Les limites du modèle espagnol, où la croissance économique ne bénéficie pas à tous",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/02/les-limites-du-modele-espagnol-ou-la-croissance-economique-ne-beneficie-pas-a-tous_6804950_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-02T05:25:11+00:00",
+   "extrait": "Malgré une économie parmi les plus dynamiques d’Europe, souvent citée en exemple par la gauche française, la hausse spectaculaire du salaire minimum n’a pas empêché le pouvoir d’achat d’une partie…",
+   "tags": [
+    "Économie"
+   ],
    "zone": "france"
   },
   {
@@ -123,15 +216,27 @@
   },
   {
    "id": "33570f0a2787",
-   "titre": "A la tête de la FIFA, les nombreux avantages fiscaux, matériels et financiers de Gianni Infantino",
+   "titre": "Comment la FIFA a discrètement payé des millions d’euros d’impôts dus par son président, Gianni Infantino",
    "lien": "https://www.lemonde.fr/sport/article/2026/11/02/a-la-tete-de-la-fifa-les-nombreux-avantages-fiscaux-materiels-et-financiers-de-gianni-infantino_6804880_3242.html",
    "source": "Le Monde",
-   "date": "2026-11-02T05:00:19+00:00",
-   "extrait": "Selon des documents inédits, dont « Le Monde » a pris connaissance, le président de la Fédération internationale de football bénéficie de règles internes particulièrement avantageuses. L’instance…",
+   "date": "2026-11-02T05:00:15+00:00",
+   "extrait": "Selon des documents inédits, dont « Le Monde » a pris connaissance, le patron de la Fédération internationale de football bénéficie de règles internes particulièrement avantageuses. L’instance s’est…",
    "tags": [
     "Politique",
     "Économie",
     "Sport"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "c58ffa0fcda5",
+   "titre": "Dans un marché du travail qui se dégrade, même les diplômés de grandes écoles privilégient la sécurité de l’emploi",
+   "lien": "https://www.lemonde.fr/vie-au-travail/article/2026/11/02/dans-un-marche-du-travail-qui-se-degrade-meme-les-diplomes-de-grandes-ecoles-privilegient-la-securite-de-l-emploi_6804878_6768900.html",
+   "source": "Le Monde",
+   "date": "2026-11-02T05:00:05+00:00",
+   "extrait": "Le chômage des moins de 25 ans augmente en France et n’épargne pas les jeunes issus des grandes écoles. Ceux-ci optent donc pour des secteurs qui offrent des contrats de travail durables, comme la…",
+   "tags": [
+    "Économie"
    ],
    "zone": "france"
   },
@@ -147,15 +252,25 @@
   },
   {
    "id": "269f372d66c4",
-   "titre": "EN DIRECT, guerre en Ukraine : Kiev et Moscou visés par des cyberattaques peu après la fin de la trêve à Olechky ; au moins trois personnes tuées dans des frappes russes dimanche",
+   "titre": "EN DIRECT, guerre en Ukraine : Kiev et Moscou visées par des cyberattaques peu après la fin de la trêve à Olechky ; au moins trois personnes tuées dans des frappes russes dimanche",
    "lien": "https://www.lemonde.fr/international/live/2026/11/02/en-direct-guerre-en-ukraine-kiev-et-moscou-vises-par-des-cyberattaques-peu-apres-la-fin-de-la-treve-a-olechky-au-moins-trois-personnes-tuees-dans-des-frappes-russes-dimanche_6803934_3210.html",
    "source": "Le Monde",
-   "date": "2026-11-02T04:50:29+00:00",
+   "date": "2026-11-02T04:50:27+00:00",
    "extrait": "L’Ukraine a annoncé, dans la nuit de dimanche à lundi, le piratage de son application mobile d’alerte à la population. La Russie a par la suite affirmé que l’application de son ministère des…",
    "tags": [
     "Conflits"
    ],
    "zone": "france"
+  },
+  {
+   "id": "660903c7e4d9",
+   "titre": "How a Democrat in Michigan rocked the party days before the US midterms",
+   "lien": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-02T04:40:00+00:00",
+   "extrait": "BBC's Nada Tawfik visited Detroit, Michigan where the party spat unfolded.",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "80a13b6c2c4c",
@@ -197,6 +312,18 @@
    "zone": "france"
   },
   {
+   "id": "192330b7d972",
+   "titre": "Trump makes fevered campaign push in final weekend before election",
+   "lien": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-02T04:04:28+00:00",
+   "extrait": "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of Congress.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "089439ca1b70",
    "titre": "Le réchauffement climatique a entraîné plus de 10 000 naissances prématurées en Asie du Sud et du Sud-Est lors d’une vague de chaleur en avril 2024",
    "lien": "https://www.lemonde.fr/planete/article/2026/11/02/le-rechauffement-climatique-a-entraine-plus-de-10-000-naissances-prematurees-en-asie-du-sud-et-du-sud-est-lors-d-une-vague-de-chaleur-en-avril-2024_6804839_3244.html",
@@ -209,6 +336,26 @@
    "zone": "france"
   },
   {
+   "id": "0ce37b8d2ba2",
+   "titre": "China state broadcaster pulls La Liga matches following Mbappé joke",
+   "lien": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-02T03:58:38+00:00",
+   "extrait": "China Media Group, which acknowledged Mbappé's apology, has not said how long the blackout will last.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "bc46b33a5267",
+   "titre": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+   "lien": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-02T03:32:14+00:00",
+   "extrait": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
    "id": "4f37d5b85c4d",
    "titre": "Live Updates: Michigan Democratic rift spills into public view and more",
    "lien": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/",
@@ -219,6 +366,18 @@
     "Politique"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "27c8c1facaf4",
+   "titre": "Nine killed as small jet crashes on Florida street",
+   "lien": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-02T02:59:02+00:00",
+   "extrait": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
   },
   {
    "id": "34a0d196ea3c",
@@ -257,6 +416,18 @@
    "source": "France 24",
    "date": "2026-11-02T02:16:01+00:00",
    "extrait": "L'Ukraine a indiqué dans la nuit que son application mobile d'alerte à la population avait été piratée, une annonce suivie par celle de la Russie rapportant lundi une attaque contre l'application du…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "71994cbc4163",
+   "titre": "Ukraine et Russie s'accusent mutuellement de cyberattaques contre leur application d'alerte",
+   "lien": "https://www.france24.com/fr/europe/20261102-ukraine-et-russie-s-accusent-mutuellement-de-cyberattaques-contre-leurs-applications-d-alerte",
+   "source": "France 24",
+   "date": "2026-11-02T02:16:01+00:00",
+   "extrait": "L'Ukraine a indiqué dans la nuit de dimanche à lundi que son application mobile d'alerte à la population avait été piratée, une annonce suivie quelques heures plus tard par celle de la Russie…",
    "tags": [
     "Conflits"
    ],
@@ -365,6 +536,18 @@
    "extrait": "Ross Douthat sat down with both candidates as they made their cases to Michigan voters.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "eadf8de4b992",
+   "titre": "Crise dans l'éducation: blocages et manifestations en vue pour la reprise des cours",
+   "lien": "https://www.france24.com/fr/info-en-continu/20261102-crise-dans-l-%C3%A9ducation-blocages-et-manifestations-en-vue-pour-la-reprise-des-cours",
+   "source": "France 24",
+   "date": "2026-11-02T01:21:57+00:00",
+   "extrait": "La rentrée des vacances de la Toussaint s'ouvre lundi sous tension: les organisations étudiantes et lycéennes veulent poursuivre le mouvement engagé depuis six semaines, malgré les concessions…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
   },
   {
    "id": "5916ec6e788c",
@@ -633,6 +816,16 @@
    "zone": "france"
   },
   {
+   "id": "29501343da6b",
+   "titre": "Antonelli - the boy 'born in a garage' who became world champion",
+   "lien": "https://www.bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-01T22:25:01+00:00",
+   "extrait": "Kimi Antonelli was a natural driver at the age of three, according to his dad. Here's how he developed to become the F1 champion at the age of 20.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
    "id": "ef58a7b02961",
    "titre": "Do you know signs of a stroke? BE FAST are the words to remember",
    "lien": "https://www.npr.org/2026/11/01/nx-s1-6025502/stroke-acronym-be-fast",
@@ -817,7 +1010,7 @@
    "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/01/edouard-philippe-juge-la-primaire-a-droite-et-au-centre-synonyme-de-division-et-de-confusion_6804637_6205049.html",
    "source": "Le Monde",
    "date": "2026-11-01T20:04:44+00:00",
-   "extrait": "Le maire du Havre a estimé, dimanche, au journal de 20 heures de TF1, que la primaire envisagée à droite et au centre en vue de la présidentielle de 2027 « n’aura[it] pas lieu » et « n’a pas…",
+   "extrait": "Le maire du Havre a estimé, dimanche, au journal de 20 heures de TF1, que la primaire envisagée à droite et au centre en vue de la présidentielle de 2027 « n’aura[it] pas lieu » et « n’a[vait] pas…",
    "tags": [
     "Justice"
    ],
@@ -937,7 +1130,7 @@
    "lien": "https://www.france24.com/fr/europe/20261101-ukraine-au-dernier-jour-de-tr%C3%AAve-%C3%A0-olechky-la-population-se-pr%C3%A9pare-%C3%A0-une-reprise-de-la-guerre",
    "source": "France 24",
    "date": "2026-11-01T19:27:20+00:00",
-   "extrait": "La trêve exceptionnelle débutée mardi à Olechky s'est achevée dimanche soir, Moscou ayant refusé une proposition de l'Ukraine de prolonger ce cessez-le-feu. Sur place, les autorités saluent le…",
+   "extrait": "La trêve exceptionnelle débutée en début de semaine à Olechky s'est achevée dimanche soir, Moscou ayant refusé une proposition de l'Ukraine de prolonger ce cessez-le-feu. Sur place, les autorités…",
    "tags": [
     "Conflits"
    ],
@@ -3256,192 +3449,6 @@
     "Climat"
    ],
    "zone": "france"
-  },
-  {
-   "id": "dd7561d72be2",
-   "titre": "Route du rhum : derrière les 115 participants, la course aux sponsors laisse des skippeurs à quai",
-   "lien": "https://www.lemonde.fr/sport/article/2026/11/01/route-du-rhum-derriere-les-115-participants-la-course-aux-sponsors-laisse-des-skippeurs-a-quai_6804012_3242.html",
-   "source": "Le Monde",
-   "date": "2026-11-01T04:31:35+00:00",
-   "extrait": "Les concurrents de la transat en solitaire doivent s’élancer, dimanche, de Saint-Malo, avec pour destination la Guadeloupe. Plusieurs skippeurs, notamment dans la classe Imoca, ont renoncé à prendre…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "f9c7e3ab1be2",
-   "titre": "Donald Trump menace l’Iran de nouvelles frappes sur « un ou deux sites », dont le Kuh-e Kolang, près du complexe nucléaire de Natanz",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/01/donald-trump-menace-l-iran-de-nouvelles-frappes-sur-un-ou-deux-sites-dont-le-mont-kolang-pres-du-complexe-nucleaire-de-natanz_6804009_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-01T04:24:31+00:00",
-   "extrait": "« Nous pouvons faire ça en dix minutes », a affirmé le président américain, samedi, alors que des informations de presse évoquent une possible campagne militaire courte et intense après les…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "4a0b33f7f47e",
-   "titre": "Spéléologues urbains : « Les souterrains de Paris, c’est tellement inexploré qu’on pourrait croiser Xavier Dupont de Ligonnès »",
-   "lien": "https://www.lemonde.fr/m-perso/article/2026/11/01/speleologues-urbains-a-paris-c-est-tellement-inexplore-qu-on-pourrait-croiser-xavier-dupont-de-ligonnes_6804007_4497916.html",
-   "source": "Le Monde",
-   "date": "2026-11-01T04:15:09+00:00",
-   "extrait": "Des passionnés de souterrains descendent en rappel et clandestinement dans les entrailles de Paris pour explorer l’envers de la ville et son histoire. Des expéditions risquées mais à fort potentiel…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "17cd2c06ec61",
-   "titre": "Sahara occidental : la Russie et les Etats-Unis s’opposent au Conseil de sécurité sur l’avenir de la mission de l’ONU, qui ne sera pas reconduite après 35 ans sur le terrain",
-   "lien": "https://www.lemonde.fr/afrique/article/2026/11/01/sahara-occidental-la-disparition-annoncee-de-la-mission-de-l-onu-ouvre-une-periode-d-incertitudes_6804008_3212.html",
-   "source": "Le Monde",
-   "date": "2026-11-01T04:15:09+00:00",
-   "extrait": "La mission onusienne chargée de veiller au respect du cessez-le-feu dans l’ex-colonie espagnole, que se disputent le Maroc et le Front Polisario, va cesser d’exister à compter du 1ᵉʳ novembre. Le…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "8e82ba850521",
-   "titre": "Qu’est-ce qu’un « bon » orgasme ?",
-   "lien": "https://www.lemonde.fr/intimites/article/2026/11/01/qu-est-ce-qu-un-bon-orgasme_6804006_6190330.html",
-   "source": "Le Monde",
-   "date": "2026-11-01T04:10:09+00:00",
-   "extrait": "Durée, moyens d’y parvenir, puissance vécue… La jouissance lors de rapports sexuels est intimement liée au contexte et à la perception de chacune et de chacun, relate Maïa Mazaurette, chroniqueuse…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "6dbca3cb8b4e",
-   "titre": "Ce qui change le 1ᵉʳ novembre : gaz, crédit à la consommation, expulsions locatives, petits colis, retraites complémentaires",
-   "lien": "https://www.lemonde.fr/argent/article/2026/11/01/ce-qui-change-le-1-novembre-gaz-credit-a-la-consommation-expulsions-locatives-petits-colis-retraites-complementaires_6803973_1657007.html",
-   "source": "Le Monde",
-   "date": "2026-11-01T04:00:35+00:00",
-   "extrait": "Les pensions du secteur privé vont être revalorisées mais le prix du gaz va augmenter et une nouvelle taxe sur les colis est mise en place.",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "5d8293472807",
-   "titre": "Manifestations du 31 octobre : à Marseille, des échauffourées avec les forces de l’ordre à l’issue d’un parcours improvisé",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/01/manifestations-du-31-octobre-a-marseille-des-echauffourees-avec-les-forces-de-l-ordre-a-l-issue-d-un-parcours-improvise_6803971_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-01T04:00:28+00:00",
-   "extrait": "Environ 10 000 personnes, selon la préfecture, se sont réunies, samedi, dans le 1ᵉʳ arrondissement, en dépit de l’interdiction de manifester. En fin d’après-midi, la tension est montée d’un cran et…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "e96c615f2ebc",
-   "titre": "La COP d’Erevan analysée par Steven Guilbeault, figure des négociations sur la biodiversité : « La question des subventions néfastes est probablement le cheval de bataille des prochaines années »",
-   "lien": "https://www.lemonde.fr/planete/article/2026/11/01/cop-biodiversite-a-erevan-la-presidence-armenienne-a-fait-un-travail-exemplaire_6803972_3244.html",
-   "source": "Le Monde",
-   "date": "2026-11-01T04:00:27+00:00",
-   "extrait": "L’ancien ministre de l’environnement du Canada, et artisan de l’accord de Kunming-Montréal de 2022, un texte fondateur pour le vivant, porte un regard positif sur la conférence qui s’est achevée le…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "f6920fa7216e",
-   "titre": "« Je crois que je vais donner procuration à mes enfants et les laisser voter pour moi » : à moins de six mois de la présidentielle 2027, plongée dans la France indécise",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/01/je-crois-que-je-vais-donner-procuration-a-mes-enfants-et-les-laisser-voter-pour-moi-a-moins-de-six-mois-de-la-presidentielle-2027-plongee-dans-la-france-indecise_6803970_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-01T04:00:16+00:00",
-   "extrait": "Multiplication des candidatures, rejet du macronisme, peur de l’arrivée du Rassemblement national… Intéressés par la politique mais largement désabusés, une grande partie des électeurs ne savent pas…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "2c71ce2ee5b3",
-   "titre": "« Je ne voudrais pas qu’ils tombent là-dessus » : en préparation du jour où ils vont disparaître, ils font le ménage dans leur téléphone",
-   "lien": "https://www.lemonde.fr/pixels/article/2026/11/01/je-ne-voudrais-pas-qu-ils-tombent-la-dessus-en-preparation-du-jour-ou-ils-vont-disparaitre-ils-font-le-menage-dans-leur-telephone_6803967_4408996.html",
-   "source": "Le Monde",
-   "date": "2026-11-01T04:00:09+00:00",
-   "extrait": "Messages, photos, notes… Nos smartphones conservent des années de vie privée susceptibles de tomber entre les mains de nos proches après notre mort. Pour éviter les découvertes embarrassantes…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "7bdbb8b1b31a",
-   "titre": "EN DIRECT, guerre en Ukraine : Donald Trump et Vladimir Poutine pourraient s’entretenir à la mi-novembre, selon le chef de la diplomatie américaine",
-   "lien": "https://www.lemonde.fr/international/live/2026/11/01/en-direct-guerre-en-ukraine-donald-trump-et-vladimir-poutine-pourraient-s-entretenir-a-la-mi-novembre-selon-le-chef-de-la-diplomatie-americaine_6803934_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-01T03:41:27+00:00",
-   "extrait": "Marco Rubio a déclaré samedi avoir discuté avec Sergueï Lavrov, son homologue russe, d’une possible interaction entre les deux chefs d’Etat lors du prochain sommet de la Coopération économique pour…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "26c8838915b5",
-   "titre": "Notre sélection de BD, mangas et comics en octobre : « L’Insensé », « Baptism », « Super Supermarket »…",
-   "lien": "https://www.lemonde.fr/culture/article/2026/11/01/notre-selection-de-bd-mangas-et-comics-en-octobre-l-insense-baptism-super-supermarket_6803901_3246.html",
-   "source": "Le Monde",
-   "date": "2026-11-01T03:30:07+00:00",
-   "extrait": "Chaque mois, La Matinale vous propose une sélection d’ouvrages récemment sortis, chroniqués par la rédaction. Aujourd’hui, notamment, un album subtil et touchant de Manu Larcenet, qui, une nouvelle…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "8e4b6e04ed3d",
-   "titre": "Nathan Fielder, coréalisateur de « You Can See Everything », qui pourrait devenir le premier documentaire nommé à l’Oscar du meilleur film",
-   "lien": "https://www.lemonde.fr/m-le-mag/article/2026/11/01/nathan-fielder-corealisateur-de-you-can-see-everything-qui-pourrait-devenir-le-premier-documentaire-nomme-a-l-oscar-du-meilleur-film_6803900_4500055.html",
-   "source": "Le Monde",
-   "date": "2026-11-01T03:30:05+00:00",
-   "extrait": "« Elle ou il s’est fait remarquer. » Coup de projecteur sur une femme ou un homme qui a marqué l’actualité. Cette semaine, l’humoriste, acteur et réalisateur canadien qui connaît un énorme succès…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "70aa26204c8c",
-   "titre": "Piratage de la plateforme de cryptomonnaies Binance : la plateforme annonce rouvrir les retraits, le FBI accuse la Corée du Nord du « casse du siècle »",
-   "lien": "https://www.lemonde.fr/pixels/article/2026/11/01/piratage-de-la-plateforme-de-cryptomonnaies-binance-le-fbi-accuse-la-coree-du-nord-du-casse-du-siecle_6803867_4408996.html",
-   "source": "Le Monde",
-   "date": "2026-11-01T02:30:17+00:00",
-   "extrait": "La plateforme mondiale a annoncé, dimanche, avoir ouvert « la première série de retraits » à ses utilisateurs, procédant « par étapes » après le plus grand vol de cryptomonnaies jamais enregistré…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "cc1971927ffa",
-   "titre": "These firms you've never heard of are feeding fears the AI bubble could burst",
-   "lien": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-01T01:37:26+00:00",
-   "extrait": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "b67596b38629",
-   "titre": "Inside the U.K. movement to pardon women executed for witchcraft centuries ago",
-   "lien": "https://www.cbsnews.com/news/uk-movement-to-pardon-women-executed-for-witchcraft-maidstone/",
-   "source": "CBS News",
-   "date": "2026-11-01T01:35:50+00:00",
-   "extrait": "In total, across England and Scotland, around 5,000 women convicted of witchcraft were executed, some by hanging and some by burning.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "055fcb0ef4a5",
-   "titre": "JOJ Dakar 2026 : la fierté d'une Afrique qui entre dans l'histoire olympique",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261101-joj-dakar-2026-la-fiert%C3%A9-d-une-afrique-qui-entre-dans-l-histoire-olympique",
-   "source": "France 24",
-   "date": "2026-11-01T01:18:06+00:00",
-   "extrait": "Pour la première fois, le continent africain accueille un événement olympique. La cérémonie d'ouverture des Jeux olympiques de la jeunesse s'est tenue samedi 31 octobre au stade Abdoulaye Wade de…",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "monde"
   }
  ]
 }
