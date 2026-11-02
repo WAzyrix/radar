@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-02T12:05:41+00:00",
+ "maj": "2026-11-02T13:05:42+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "7398c8fe0a0b",
+   "titre": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
+   "lien": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
+   "source": "BleepingComputer",
+   "date": "2026-11-02T12:47:00+00:00",
+   "extrait": "Over 1,000 Internet-exposed GitLab servers are still unpatched against a maximum-severity flaw actively exploited in remote code execution attacks. [...]",
+   "tags": [
+    "Faille"
+   ]
+  },
   {
    "id": "e52f7534557d",
    "titre": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
@@ -3415,17 +3426,6 @@
    "extrait": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]",
    "tags": [
     "CVE",
-    "Faille"
-   ]
-  },
-  {
-   "id": "6478f5844cef",
-   "titre": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
-   "lien": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
-   "source": "The Hacker News",
-   "date": "2026-10-21T14:00:00+00:00",
-   "extrait": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36…",
-   "tags": [
     "Faille"
    ]
   }
