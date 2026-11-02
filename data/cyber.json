@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-02T18:05:38+00:00",
+ "maj": "2026-11-02T19:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,42 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "b9a8fe94cb9b",
+   "titre": "Fintech platform Sageworks taken offline after suspected cyberattack",
+   "lien": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
+   "source": "BleepingComputer",
+   "date": "2026-11-02T19:00:45+00:00",
+   "extrait": "Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by \"irregular activity\" in its…",
+   "tags": []
+  },
+  {
+   "id": "f8e64d371b0e",
+   "titre": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
+   "lien": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
+   "source": "BleepingComputer",
+   "date": "2026-11-02T18:16:34+00:00",
+   "extrait": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with…",
+   "tags": [
+    "Malware",
+    "Mobile"
+   ]
+  },
+  {
+   "id": "65afadf0cbc2",
+   "titre": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
+   "lien": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
+   "source": "The Hacker News",
+   "date": "2026-11-02T16:57:56+00:00",
+   "extrait": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was…",
+   "tags": [
+    "Fuite de données",
+    "Malware",
+    "Outil",
+    "Linux",
+    "Mobile"
+   ]
+  },
   {
    "id": "948be6f589a7",
    "titre": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
@@ -3391,39 +3427,6 @@
    "source": "CERT-FR",
    "date": "2026-10-22T00:00:00+00:00",
    "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "60b43d5cb507",
-   "titre": "Vulnérabilité dans les produits Mozilla (22 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1361/",
-   "source": "CERT-FR",
-   "date": "2026-10-22T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans les produits Mozilla. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "5537559b5bdd",
-   "titre": "Multiples vulnérabilités dans les produits SolarWinds (22 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1364/",
-   "source": "CERT-FR",
-   "date": "2026-10-22T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une falsification de…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "07492407d4e1",
-   "titre": "Multiples vulnérabilités dans ISC BIND (22 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1365/",
-   "source": "CERT-FR",
-   "date": "2026-10-22T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans ISC BIND. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
    "tags": [
     "Faille"
    ]
