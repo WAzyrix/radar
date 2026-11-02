@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-02T07:05:38+00:00",
+ "maj": "2026-11-02T08:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "9714b90c19e0",
+   "titre": "Arnaques dopées à l'IA - Comment ne pas tomber dans le panneau #sponso",
+   "lien": "https://korben.info/arnaques-dopees-ia-comment-se-proteger.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-02T07:20:47+00:00",
+   "extrait": "Une commande à coller, un lien, du code, un agent : des pièges où l'IA sert de décor de confiance, avec le réflexe gratuit pour chacun et ce que l'analyse des conversations d'ESET couvre ou pas.",
+   "tags": [
+    "Malware",
+    "IA"
+   ]
+  },
   {
    "id": "9068a344a035",
    "titre": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
@@ -3412,17 +3424,6 @@
    "extrait": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized…",
    "tags": [
     "IA"
-   ]
-  },
-  {
-   "id": "ec0fd993c8b5",
-   "titre": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
-   "lien": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
-   "source": "The Hacker News",
-   "date": "2026-10-21T10:36:53+00:00",
-   "extrait": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that…",
-   "tags": [
-    "Faille"
    ]
   }
  ]
