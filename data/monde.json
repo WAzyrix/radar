@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-02T21:05:40+00:00",
+ "maj": "2026-11-02T21:57:02+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,104 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "f275ed79cd44",
+   "titre": "Why Texas Dems are forecasting a \"Hispanic hurricane\" in midterms",
+   "lien": "https://www.cbsnews.com/news/texas-democrats-hispanic-vote-midterms-talarico-paxton-hinojosa-abbott/",
+   "source": "CBS News",
+   "date": "2026-11-02T21:30:00+00:00",
+   "extrait": "Two years ago, President Trump made historic gains with Hispanic voters nationwide and won a majority of Texas Hispanics. Now, Democrats believe they could swing back.",
+   "tags": [
+    "Politique",
+    "Climat"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "bc4cae7b1334",
+   "titre": "Pourquoi les Américains votent-ils toujours un mardi en novembre ?",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261102-pourquoi-am%C3%A9ricains-votent-toujours-mardi-en-novembre-%C3%A9tats-unis-%C3%A9lections-pr%C3%A9sidentielle-midterms-politique-histoire-culture-prime",
+   "source": "France 24",
+   "date": "2026-11-02T21:25:18+00:00",
+   "extrait": "Nombreux sont les pays se rendent aux urnes le week-end, comme la France. Mais les Américains, eux, votent... le mardi. Et toujours en novembre. D'où vient cette exception culturelle typique des…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "d8d1c8979a64",
+   "titre": "Pilot in plane crash said \"we're managing the ice,\" then \"Mayday\"",
+   "lien": "https://www.cbsnews.com/news/pilot-florida-plane-crash-ice-mayday/",
+   "source": "CBS News",
+   "date": "2026-11-02T21:18:00+00:00",
+   "extrait": "The business jet crashed onto a busy road, killing all nine people on board the aircraft as it burst into a massive fireball and left a huge crater.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "c6515e605213",
+   "titre": "Des frappes russes font 26 morts en Ukraine au lendemain de la fin d'un cessez-le-feu à Olechky, Volodymyr Zelensky dénonce l'anéantissement de \"tout espoir de progrès vers la paix\"",
+   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-frappes-russes-font-18-morts-en-ukraine-au-lendemain-de-la-fin-d-un-cessez-le-feu-a-olechky-volodymyr-zelensky-denonce-l-aneantissement-de-tout-espoir-de-progres-vers-la-paix_8264639.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-02T21:16:48+00:00",
+   "extrait": "\"C'est une preuve supplémentaire que la Russie ne veut ni désescalade ni véritable justice\", a estimé le président ukrainien au sujet des frappes russes contre un village du sud-est de l'Ukraine.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "89142b4f5b2c",
+   "titre": "EN DIRECT, midterms 2026 : « L’Iran veut un accord aussi rapidement que possible », assure Donald Trump",
+   "lien": "https://www.lemonde.fr/international/live/2026/11/02/en-direct-midterms-2026-l-iran-veut-un-accord-aussi-rapidement-que-possible-assure-donald-trump_6801590_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-02T21:13:49+00:00",
+   "extrait": "« Les prix du pétrole tombent comme des pierres (…) parce que les gens sentent qu’il n’y aura pas de guerre avec l’Iran », a écrit le président des Etats-Unis sur son réseau, Truth Social, après…",
+   "tags": [
+    "Politique",
+    "Économie",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "7584627279c2",
+   "titre": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+   "lien": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-02T21:10:04+00:00",
+   "extrait": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "c1b0dc2660ad",
+   "titre": "Présidentielle 2027 : la gauche fustige le camp d’Edouard Philippe pour ses propos sur l’immigration",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/02/presidentielle-2027-la-gauche-fustige-le-camp-d-edouard-philippe-pour-ses-propos-sur-l-immigration_6805320_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-02T21:09:22+00:00",
+   "extrait": "L’ancien premier ministre a jugé, la semaine dernière, « patente » la « surreprésentation » de jeunes issus de l’immigration lors des pillages du 17 octobre. Pour Maud Bregeon, il a « dit tout haut…",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "013341a1234a",
+   "titre": "La préfecture de police interdit la manifestation prévue mardi par une organisation étudiante au coeur de Paris, Interfac IDF dépose un recours",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/la-prefecture-de-police-interdit-la-manifestation-prevue-mardi-par-une-organisation-etudiante-au-coeur-de-paris-interfac-idf-depose-un-recours_8264807.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-02T21:03:50+00:00",
+   "extrait": "Les autorités ont évoqué un parcours \"incompatible avec les contraintes de sécurité en vigueur\" mises en place \"dans un contexte social extrêmement tendu\". L'organisation étudiante dénonce \"une…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "fe9b8f8dae7d",
    "titre": "Midterms : comment Donald Trump pave le récit d'un vote volé en cas de défaite",
    "lien": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261102-midterms-comment-donald-trump-pave-le-r%C3%A9cit-d-un-vote-vol%C3%A9-en-cas-de-d%C3%A9faite",
@@ -32,19 +130,6 @@
     "Politique"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "c6515e605213",
-   "titre": "Des frappes russes font 26 morts en Ukraine au lendemain de la fin d'un cessez-le-feu à Olechky, Volodymyr Zelensky dénonce l'anéantissement de \"tout espoir de progrès vers la paix\"",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-frappes-russes-font-18-morts-en-ukraine-au-lendemain-de-la-fin-d-un-cessez-le-feu-a-olechky-volodymyr-zelensky-denonce-l-aneantissement-de-tout-espoir-de-progres-vers-la-paix_8264639.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-02T20:55:33+00:00",
-   "extrait": "\"C'est une preuve supplémentaire que la Russie ne veut ni désescalade ni véritable justice\", a estimé le président ukrainien au sujet des frappes russes contre un village du sud-est de l'Ukraine.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
   },
   {
    "id": "2f031abe5d26",
@@ -67,18 +152,6 @@
     "Politique"
    ],
    "zone": "france"
-  },
-  {
-   "id": "7584627279c2",
-   "titre": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-   "lien": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-02T20:23:12+00:00",
-   "extrait": "Local officials say more had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
   },
   {
    "id": "f1c783ba1f82",
@@ -193,7 +266,7 @@
    "lien": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-02T19:49:22+00:00",
-   "extrait": "A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities. BBC Verify has used air traffic control audio and flight tracking data to reconstruct the…",
+   "extrait": "A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities.",
    "tags": [],
    "zone": "monde"
   },
@@ -299,7 +372,7 @@
    "titre": "Au Japon, une justice implacable contre des trafics de drogue en plein essor",
    "lien": "https://www.lemonde.fr/international/article/2026/11/02/au-japon-une-justice-implacable-contre-des-trafics-de-drogue-en-plein-essor_6805315_3210.html",
    "source": "Le Monde",
-   "date": "2026-11-02T19:30:08+00:00",
+   "date": "2026-11-02T19:30:07+00:00",
    "extrait": "Les douanes nippones arrêtent de plus en plus de « mules » transportant de la drogue vers l’Archipel. La justice les sanctionne sévèrement alors que le pays fait face à une forte augmentation des…",
    "tags": [],
    "zone": "france"
@@ -419,11 +492,11 @@
   },
   {
    "id": "01eb7c49e4ed",
-   "titre": "Trump tente une dernière fois de mobiliser à la veille des élections de mi-mandat",
+   "titre": "Trump tente de mobiliser une dernière fois à la veille des élections de mi-mandat",
    "lien": "https://www.france24.com/fr/am%C3%A9riques/20261102-trump-tente-une-derni%C3%A8re-fois-de-mobiliser-%C3%A0-la-veille-des-%C3%A9lections-de-mi-mandat",
    "source": "France 24",
    "date": "2026-11-02T18:53:59+00:00",
-   "extrait": "Le président américain Donald Trump a consacré lundi son dernier discours avant les élections de mi-mandat à vanter la rénovation du bassin de Washington alors que le mécontentement sur le coût de…",
+   "extrait": "Le président américain Donald Trump a consacré, lundi, son dernier discours avant les élections de mi-mandat à vanter la rénovation du bassin de Washington alors que le mécontentement sur le coût de…",
    "tags": [
     "Politique"
    ],
@@ -645,18 +718,6 @@
    "zone": "france"
   },
   {
-   "id": "41f0b136e942",
-   "titre": "Au Maroc, le dessinateur Yasser Mounbir condamné à quatre ans de prison ferme pour des caricatures du roi",
-   "lien": "https://www.lemonde.fr/afrique/article/2026/11/02/au-maroc-le-dessinateur-yasser-mounbir-condamne-a-quatre-ans-de-prison-ferme-pour-des-caricatures-du-roi_6805305_3212.html",
-   "source": "Le Monde",
-   "date": "2026-11-02T18:00:22+00:00",
-   "extrait": "L’artiste de 22 ans était jugé, le 30 octobre, pour « offense envers la personne du roi » après avoir réalisé et diffusé sur Instagram des représentations de Mohammed VI.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "d942784829c7",
    "titre": "Neyef, auteur de bande dessinée : « Je me sens attiré par les gens en marge »",
    "lien": "https://www.lemonde.fr/livres/article/2026/11/02/neyef-auteur-de-bande-dessinee-je-me-sens-attire-par-les-gens-en-marge_6805304_3260.html",
@@ -664,6 +725,18 @@
    "date": "2026-11-02T18:00:17+00:00",
    "extrait": "« Dans ma bulle ». Avec « Les Enfants perdus », le bédéaste nantais revisite le mythe de Peter Pan à la sauce grunge, projetant ses six jeunes héros dans un territoire hostile et délabré, peuplé…",
    "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "41f0b136e942",
+   "titre": "Au Maroc, le dessinateur Yasser Mounbir condamné à quatre ans de prison ferme pour des caricatures du roi",
+   "lien": "https://www.lemonde.fr/afrique/article/2026/11/02/au-maroc-le-dessinateur-yasser-mounbir-condamne-a-quatre-ans-de-prison-ferme-pour-des-caricatures-du-roi_6805305_3212.html",
+   "source": "Le Monde",
+   "date": "2026-11-02T18:00:14+00:00",
+   "extrait": "L’artiste de 22 ans était jugé, le 30 octobre, pour « offense envers la personne du roi » après avoir réalisé et diffusé sur Instagram des représentations de Mohammed VI.",
+   "tags": [
+    "Justice"
+   ],
    "zone": "france"
   },
   {
@@ -823,18 +896,6 @@
    "zone": "monde"
   },
   {
-   "id": "4dac6b0a4b51",
-   "titre": "CBS News shifts rating of South Carolina Senate race for Lindsey Graham's old seat",
-   "lien": "https://www.cbsnews.com/video/cbs-news-shifts-rating-of-south-carolina-senate-race-for-lindsey-grahams-old-seat/",
-   "source": "CBS News",
-   "date": "2026-11-02T17:28:56+00:00",
-   "extrait": "CBS News is labeling South Carolina as a battleground state as the Senate race for Lindsey Graham's old seat heats up. CBS News' Zak Hudak reports.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "c157e658749d",
    "titre": "Hacked alert apps send Ukrainians, Russians fake attack warnings",
    "lien": "https://www.cbsnews.com/news/ukraine-russia-war-app-hack-cyberattack-fake-nuclear-chemical-alerts/",
@@ -843,6 +904,18 @@
    "extrait": "Ukrainian and Russian emergency alert apps were hacked just hours apart, sending civilians false warnings of chemical and nuclear attacks.",
    "tags": [
     "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "4dac6b0a4b51",
+   "titre": "CBS News shifts rating of South Carolina Senate race for Lindsey Graham's old seat",
+   "lien": "https://www.cbsnews.com/video/cbs-news-shifts-rating-of-south-carolina-senate-race-for-lindsey-grahams-old-seat/",
+   "source": "CBS News",
+   "date": "2026-11-02T17:28:00+00:00",
+   "extrait": "CBS News is labeling South Carolina as a battleground state as the Senate race for Lindsey Graham's old seat heats up. CBS News' Zak Hudak reports.",
+   "tags": [
+    "Politique"
    ],
    "zone": "usa"
   },
@@ -1000,16 +1073,6 @@
     "Justice"
    ],
    "zone": "france"
-  },
-  {
-   "id": "d8d1c8979a64",
-   "titre": "Pilot in plane crash said \"we're managing the ice,\" then \"Mayday\"",
-   "lien": "https://www.cbsnews.com/news/pilot-florida-plane-crash-ice-mayday/",
-   "source": "CBS News",
-   "date": "2026-11-02T16:53:00+00:00",
-   "extrait": "The business jet crashed onto a busy road, killing all nine people on board the aircraft as it burst into a massive fireball and left a huge crater.",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "3428f060bf85",
@@ -3416,62 +3479,6 @@
    "tags": [
     "Justice"
    ],
-   "zone": "france"
-  },
-  {
-   "id": "42a63bccf55f",
-   "titre": "\"Augmenter les salaires, c'est relancer l'économie\", défend Sophie Binet, qui appelle les salariés à se mobiliser le 5 novembre",
-   "lien": "https://www.franceinfo.fr/politique/augmenter-les-salaires-c-est-relancer-l-economie-defend-sophie-binet-qui-appelle-les-salaries-a-se-mobiliser-le-5-novembre_8263610.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-02T08:13:09+00:00",
-   "extrait": "Invitée des 4 Vérités, Sophie Binet, secrétaire générale de la CGT, s'est exprimée, lundi 2 novembre, sur l'appel à la mobilisation lancé par les syndicats pour le 5 novembre. Ils demandent…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "4f37d5b85c4d",
-   "titre": "Michigan Democratic rift spills into public view and more campaign updates",
-   "lien": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/",
-   "source": "CBS News",
-   "date": "2026-11-02T08:06:00+00:00",
-   "extrait": "Ahead of the 2026 midterm elections on Tuesday, candidates in key races — and President Trump — are making their closing arguments to voters.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "cafec43657fa",
-   "titre": "Route du Rhum : Violette Dorange entre en collision avec le bateau de Romain Pilliard, les deux navires déroutés pour des réparations",
-   "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/route-du-rhum-violette-dorange-entre-en-collision-avec-le-bateau-de-romain-pilliard-mais-continue-sa-route_8263178.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-02T08:05:27+00:00",
-   "extrait": "La navigatrice a percuté le multicoque de Romain Pilliard dans la soirée, dimanche. Les deux skippeurs sont hors de danger, mais leurs bateaux vont devoir subir des réparations.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "c938dd9f291f",
-   "titre": "Popular Australian children's author jailed over child exploitation offences",
-   "lien": "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-02T08:03:39+00:00",
-   "extrait": "The author of Jasper Jones and Runt pleaded guilty in May after police raided his home months earlier.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "d2d375df1a75",
-   "titre": "Le Canada rêve d’exporter son gaz naturel liquéfié en Europe",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/02/le-canada-reve-d-exporter-son-gaz-naturel-liquefie-en-europe_6805185_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-02T08:00:08+00:00",
-   "extrait": "Ottawa est le cinquième producteur mondial de gaz naturel liquéfié (GNL) et pourrait devenir une nouvelle source d’approvisionnement pour les Européens, en quête de diversification. Mais…",
-   "tags": [],
    "zone": "france"
   }
  ]
