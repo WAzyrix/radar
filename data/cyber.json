@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-03T10:05:42+00:00",
+ "maj": "2026-11-03T11:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "8491f2b2e054",
+   "titre": "Harvard University data breach exposed info of 851,000 accounts",
+   "lien": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
+   "source": "BleepingComputer",
+   "date": "2026-11-03T10:53:25+00:00",
+   "extrait": "Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification…",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
   {
    "id": "07d9937fab38",
    "titre": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
@@ -3418,17 +3429,6 @@
    "source": "The Hacker News",
    "date": "2026-10-22T06:38:31+00:00",
    "extrait": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO disclosed, releasing working proof-of-concept code. By sending a small batch…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "3d29fe5d9f89",
-   "titre": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
-   "lien": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
-   "source": "The Hacker News",
-   "date": "2026-10-22T06:34:10+00:00",
-   "extrait": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities dating back to October 17, 2026, against its MadPot honeypot…",
    "tags": [
     "Faille"
    ]
