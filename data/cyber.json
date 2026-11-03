@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-03T18:05:48+00:00",
+ "maj": "2026-11-03T19:05:57+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,38 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "77eef035ebfc",
+   "titre": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
+   "lien": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
+   "source": "BleepingComputer",
+   "date": "2026-11-03T18:51:04+00:00",
+   "extrait": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]",
+   "tags": [
+    "IA"
+   ]
+  },
+  {
+   "id": "9ca07b46843b",
+   "titre": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
+   "lien": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
+   "source": "The Hacker News",
+   "date": "2026-11-03T18:46:38+00:00",
+   "extrait": "Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication…",
+   "tags": []
+  },
+  {
+   "id": "8afc2fab5966",
+   "titre": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
+   "lien": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
+   "source": "The Hacker News",
+   "date": "2026-11-03T18:16:19+00:00",
+   "extrait": "Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure. The…",
+   "tags": [
+    "Fuite de données",
+    "IA"
+   ]
+  },
   {
    "id": "19a35a6714f9",
    "titre": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
@@ -3406,41 +3438,6 @@
    "extrait": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
    "tags": [
     "Fuite de données"
-   ]
-  },
-  {
-   "id": "0151e8522bf7",
-   "titre": "LiteLLM release pipeline hacked to distribute info-stealer malware",
-   "lien": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
-   "source": "BleepingComputer",
-   "date": "2026-10-22T19:12:51+00:00",
-   "extrait": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
-   "tags": [
-    "Fuite de données",
-    "Malware"
-   ]
-  },
-  {
-   "id": "d76b50dba162",
-   "titre": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-   "lien": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-   "source": "The Hacker News",
-   "date": "2026-10-22T19:05:35+00:00",
-   "extrait": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone…",
-   "tags": [
-    "IA",
-    "Outil"
-   ]
-  },
-  {
-   "id": "23872cb1986e",
-   "titre": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
-   "lien": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
-   "source": "The Hacker News",
-   "date": "2026-10-22T19:05:17+00:00",
-   "extrait": "Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the central management system for VeloCloud SD-WAN networks, the company said in an advisory on…",
-   "tags": [
-    "Faille"
    ]
   }
  ]
