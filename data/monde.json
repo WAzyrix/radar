@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-03T02:05:43+00:00",
+ "maj": "2026-11-03T03:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,76 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "e8cef5f74342",
+   "titre": "Trump says \"Iran wants a settlement, as soon as possible\"",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/",
+   "source": "CBS News",
+   "date": "2026-11-03T03:05:20+00:00",
+   "extrait": "Trump must decide whether to end the war or return to it, Iran says, as both sides trade threats, but keep diplomacy alive.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "961347ee66d5",
+   "titre": "Trump to remove Rwanda and South Africa from US trade deal",
+   "lien": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-03T03:00:36+00:00",
+   "extrait": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "b246dd227ab1",
+   "titre": "U.S. strikes Iranian targets",
+   "lien": "https://www.cbsnews.com/news/u-s-strikes-iran-targets/",
+   "source": "CBS News",
+   "date": "2026-11-03T02:54:08+00:00",
+   "extrait": "The U.S. military launched strikes at Iran after Iran fired at a U.S. aircraft, a senior U.S. official told CBS News.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "d6d1275e0e9b",
+   "titre": "Coast Guard detains cruise ship in Miami, officials say",
+   "lien": "https://www.cbsnews.com/news/coast-guard-detains-msc-poesia-cruise-ship-miami/",
+   "source": "CBS News",
+   "date": "2026-11-03T02:44:00+00:00",
+   "extrait": "The MSC Poesia cruise ship is currently detained with passengers on board at the Port of Miami, and its itinerary is currently on hold, Coast Guard officials tell CBS News.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "fda22ac70de7",
+   "titre": "ICE planning to deport Afghans through Pakistan, official says",
+   "lien": "https://www.cbsnews.com/news/ice-deportation-afghans-through-pakistan/",
+   "source": "CBS News",
+   "date": "2026-11-03T02:27:18+00:00",
+   "extrait": "The plan has triggered alarm among advocates for Afghans, who warn that the proposal could lead to the deportation of Afghans who could be persecuted by the Taliban.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "c690264fe3a7",
+   "titre": "Procès du guet-apens hooligan à Brest : « On se demande comment il n’y a pas eu dix morts »",
+   "lien": "https://www.lemonde.fr/sport/article/2026/11/03/proces-du-guet-apens-hooligan-a-brest-on-se-demande-comment-il-n-y-a-pas-eu-dix-morts_6805354_3242.html",
+   "source": "Le Monde",
+   "date": "2026-11-03T02:19:45+00:00",
+   "extrait": "Dix supporteurs du Stade brestois étaient jugés pour avoir participé à l’attaque d’ultras lensois en avril 2025. Les prévenus, dont certains sont liés à l’ultradroite, minimisent leur participation…",
+   "tags": [
+    "Conflits",
+    "Justice"
+   ],
+   "zone": "france"
+  },
   {
    "id": "4d60e1ed23e9",
    "titre": "Man and boy arrested after allegedly attacking One Nation volunteer with baseball bat in Australia",
@@ -207,6 +277,18 @@
    "zone": "usa"
   },
   {
+   "id": "487c3e7c6b48",
+   "titre": "Massachusetts prosecutors intend to retry Lindsay Clancy",
+   "lien": "https://www.cbsnews.com/video/massachusetts-prosecutors-intend-retry-lindsay-clancy/",
+   "source": "CBS News",
+   "date": "2026-11-03T00:34:00+00:00",
+   "extrait": "Massachusetts prosecutors said they intend to try Lindsay Clancy again, nearly two months after her murder trial resulted in a hung jury. She was on trial for the killings of her three young…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "bb6761f14df4",
    "titre": "ICE officer turns himself in after allegedly running down immigrant with SUV",
    "lien": "https://www.cbsnews.com/video/ice-officer-turns-himself-allegedly-running-down-immigrant-suv/",
@@ -242,7 +324,7 @@
   },
   {
    "id": "ff38690d931f",
-   "titre": "Indian film star Ranbir Kapoor on AI, movies and fatherhood",
+   "titre": "Bollywood film star Ranbir Kapoor on AI, movies and fatherhood",
    "lien": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-03T00:09:13+00:00",
@@ -349,19 +431,6 @@
    "zone": "monde"
   },
   {
-   "id": "e8cef5f74342",
-   "titre": "Trump says \"Iran wants a settlement, as soon as possible\"",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/",
-   "source": "CBS News",
-   "date": "2026-11-02T23:32:31+00:00",
-   "extrait": "Trump must decide whether to end the war or return to it, Iran says, as both sides trade threats, but keep diplomacy alive.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "d22d8db0d9c6",
    "titre": "Trump's final midterm message for voters largely focuses on D.C. renovations",
    "lien": "https://www.cbsnews.com/video/trumps-final-midterm-message-largely-focuses-on-dc-renovations/",
@@ -455,9 +524,10 @@
    "lien": "https://www.france24.com/fr/moyen-orient/20261102-moyen-orient-donald-trump-accord-avec-l-iran-pourrait-arriver-detroit-d-ormuz-petrole",
    "source": "France 24",
    "date": "2026-11-02T22:56:40+00:00",
-   "extrait": "Après avoir affirmé être prêt à donner un \"coup de massue\" à l'Iran ce weekend, le président américain Donald Trump a changé de ton lundi, assurant qu'un accord avec Téhéran \"pourrait arriver\".",
+   "extrait": "Après avoir affirmé être prêt à donner un \"coup de massue\" à l'Iran ce weekend, le président américain Donald Trump a changé de ton lundi, assurant qu'un accord avec Téhéran \"pourrait arriver\"…",
    "tags": [
-    "Politique"
+    "Politique",
+    "Conflits"
    ],
    "zone": "monde"
   },
@@ -562,6 +632,18 @@
    "source": "CBS News",
    "date": "2026-11-02T22:03:45+00:00",
    "extrait": "Democratic Senate candidate Abdul El-Sayed gave his final pitch to voters in Michigan after Democratic Rep. Haley Stevens announced she would vote for his Republican opponent, Mike Rogers, in…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "4770bb2439c6",
+   "titre": "11/2: The Takeout with Major Garrett",
+   "lien": "https://www.cbsnews.com/video/110226-the-takeout-with-major-garrett/",
+   "source": "CBS News",
+   "date": "2026-11-02T22:00:00+00:00",
+   "extrait": "Fallout continues after Haley Stevens' endorsement of Mike Rogers in Michigan Senate race; Candidates make final pitches ahead of midterms.",
    "tags": [
     "Politique"
    ],
@@ -896,18 +978,6 @@
     "Politique"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "961347ee66d5",
-   "titre": "Trump to remove Rwanda and South Africa from US trade deal",
-   "lien": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-02T19:33:10+00:00",
-   "extrait": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
   },
   {
    "id": "39b3cb9c19bd",
@@ -3402,78 +3472,6 @@
     "Santé"
    ],
    "zone": "france"
-  },
-  {
-   "id": "63cc2b2f679a",
-   "titre": "Sébastien Lecornu se dit prêt à recevoir de nouveau les représentants lycéens « la semaine prochaine » ; plusieurs dizaines de lycées bloqués lundi matin",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/02/sebastien-lecornu-se-dit-pret-a-recevoir-de-nouveau-les-representants-lyceens-la-semaine-prochaine-41-lycees-bloques-lundi-dont-plusieurs-a-paris-marseille-et-toulouse_6805152_823449.html",
-   "source": "Le Monde",
-   "date": "2026-11-02T11:04:51+00:00",
-   "extrait": "Malgré les concessions annoncées par le gouvernement la semaine du 26 octobre, plusieurs organisations étudiantes et lycéennes ont appelé à poursuivre le mouvement à l’occasion de la rentrée…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "543f79c38db9",
-   "titre": "Maroc : l'artiste Yasser Mounbir condamné à quatre ans de prison",
-   "lien": "https://www.france24.com/fr/afrique/20261102-maroc-artiste-yasser-mounbir-condamnation-prison-liberte-expression-delit-insulte-roi",
-   "source": "France 24",
-   "date": "2026-11-02T11:04:10+00:00",
-   "extrait": "La justice marocaine vient de condamner à quatre ans de prison un jeune dessinateur, auteur de caricatures de Mohammed VI, pour \"insulte à l'encontre du roi\". Connu pour ses peintures engagées, le…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "1c75c0682819",
-   "titre": "🇸🇳 JOJ Dakar 2026 : les premières impression des jeunes athlètes",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261102-%F0%9F%87%B8%F0%9F%87%B3-joj-dakar-2026-les-premi%C3%A8res-impression-des-jeunes-athl%C3%A8tes",
-   "source": "France 24",
-   "date": "2026-11-02T11:03:43+00:00",
-   "extrait": "🔥 Ils ont entre 14 et 17 ans, et vivent leurs premières émotions sportives au niveau olympique sur les terres sénégalaises. À Dakar, notre envoyée spéciale est allée à la rencontre des jeunes…",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "8d3a7124404f",
-   "titre": "\"Une petite fortune sur le marché noir\" : deux suspects placés en détention provisoire après le vol de 13 singes dans un zoo près de Pau",
-   "lien": "https://france3-regions.franceinfo.fr/occitanie/hautes-pyrenees/tarbes/une-petite-fortune-sur-le-marche-noir-apres-le-vol-de-treize-singes-dans-un-zoo-deux-suspects-interpelles-pres-de-tarbes-3442740.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-02T11:02:07+00:00",
-   "extrait": "Dans la nuit du 26 au 27 octobre 2026, treize ouistitis et tamarins étaient volés au parc zoologique Exotic Park de Lescar (Pyrénées-Atlantiques). Deux suspects et la compagne de l’un d’eux ont été…",
-   "tags": [
-    "Économie",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "4c4b189dc6fa",
-   "titre": "Benoit Carré, compositeur : « L’IA génératrice de musique est, à l’évidence, bien meilleure que moi »",
-   "lien": "https://www.lemonde.fr/idees/article/2026/11/02/benoit-carre-compositeur-l-ia-generatrice-de-musique-est-a-l-evidence-bien-meilleure-que-moi_6805237_3232.html",
-   "source": "Le Monde",
-   "date": "2026-11-02T11:00:02+00:00",
-   "extrait": "L’artiste, ancien membre du groupe Lilicub, connu pour son titre « Voyage en Italie », explore la création avec des prototypes d’intelligence artificielle et considère, dans une tribune au « Monde…",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "f73f7f29aaeb",
-   "titre": "Five arrested after South African farmer shot and tortured",
-   "lien": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-02T10:48:47+00:00",
-   "extrait": "The attack on Donovan Marx, 50, comes as right-wing groups say there is a genocide of white people - a claim widely discredited.",
-   "tags": [
-    "Conflits",
-    "Justice"
-   ],
-   "zone": "monde"
   }
  ]
 }
