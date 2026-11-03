@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-03T11:05:40+00:00",
+ "maj": "2026-11-03T12:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "8ede56d402c1",
+   "titre": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
+   "lien": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
+   "source": "BleepingComputer",
+   "date": "2026-11-03T12:05:52+00:00",
+   "extrait": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
+   "tags": [
+    "Faille"
+   ]
+  },
   {
    "id": "8491f2b2e054",
    "titre": "Harvard University data breach exposed info of 851,000 accounts",
@@ -3420,17 +3431,6 @@
    "extrait": "Dans un article partenaire, Surfshark annonce une version de WireGuard entièrement post-quantique, combinant ML-KEM et certificats ML-DSA, d'abord sur iOS et macOS. Le VPN ajoute aussi une rotation…",
    "tags": [
     "Mobile"
-   ]
-  },
-  {
-   "id": "eff3ebf7d52f",
-   "titre": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
-   "lien": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
-   "source": "The Hacker News",
-   "date": "2026-10-22T06:38:31+00:00",
-   "extrait": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO disclosed, releasing working proof-of-concept code. By sending a small batch…",
-   "tags": [
-    "Faille"
    ]
   }
  ]
