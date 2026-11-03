@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-03T22:05:40+00:00",
+ "maj": "2026-11-03T23:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "b0a8ea5b6986",
+   "titre": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
+   "lien": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
+   "source": "BleepingComputer",
+   "date": "2026-11-03T22:18:50+00:00",
+   "extrait": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]",
+   "tags": [
+    "Fuite de données",
+    "Malware"
+   ]
+  },
   {
    "id": "27b11b637919",
    "titre": "WorkOS says attacker used ARTEX AI to breach internal sales app",
@@ -3427,17 +3439,6 @@
    "source": "CERT-FR",
    "date": "2026-10-23T00:00:00+00:00",
    "extrait": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "78d3f9487e63",
-   "titre": "Multiples vulnérabilités dans les produits Papercut (23 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1377/",
-   "source": "CERT-FR",
-   "date": "2026-10-23T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Papercut. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à…",
    "tags": [
     "Faille"
    ]
