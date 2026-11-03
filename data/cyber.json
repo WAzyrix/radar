@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-03T13:05:41+00:00",
+ "maj": "2026-11-03T14:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,29 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "c136875d05ca",
+   "titre": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
+   "lien": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
+   "source": "BleepingComputer",
+   "date": "2026-11-03T14:00:00+00:00",
+   "extrait": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]",
+   "tags": [
+    "Ransomware",
+    "IA"
+   ]
+  },
+  {
+   "id": "06b26e44f1d6",
+   "titre": "Police seizes over 100 servers in investment scam crackdown",
+   "lien": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
+   "source": "BleepingComputer",
+   "date": "2026-11-03T13:33:49+00:00",
+   "extrait": "European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to…",
+   "tags": [
+    "Malware"
+   ]
+  },
   {
    "id": "8ede56d402c1",
    "titre": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
@@ -3408,34 +3431,6 @@
    "date": "2026-10-22T11:15:42+00:00",
    "extrait": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables. Upon further investigation, the company found…",
    "tags": []
-  },
-  {
-   "id": "1d3516a0d0a6",
-   "titre": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
-   "lien": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
-   "source": "The Hacker News",
-   "date": "2026-10-22T10:44:05+00:00",
-   "extrait": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model…",
-   "tags": [
-    "Faille",
-    "IA",
-    "Outil",
-    "Windows"
-   ]
-  },
-  {
-   "id": "a9227db3dd33",
-   "titre": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
-   "lien": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
-   "source": "The Hacker News",
-   "date": "2026-10-22T08:28:48+00:00",
-   "extrait": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a…",
-   "tags": [
-    "Fuite de données",
-    "Malware",
-    "IA",
-    "Outil"
-   ]
   }
  ]
 }
