@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-03T14:05:40+00:00",
+ "maj": "2026-11-03T15:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "f6282e8c323a",
+   "titre": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
+   "lien": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
+   "source": "BleepingComputer",
+   "date": "2026-11-03T15:00:10+00:00",
+   "extrait": "Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC…",
+   "tags": [
+    "IA"
+   ]
+  },
   {
    "id": "c136875d05ca",
    "titre": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
@@ -162,6 +173,62 @@
    "tags": [
     "CVE",
     "Faille"
+   ]
+  },
+  {
+   "id": "dc2a246bd225",
+   "titre": "Multiples vulnérabilités dans NetApp ONTAP 9 (03 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1446/",
+   "source": "CERT-FR",
+   "date": "2026-11-03T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans NetApp ONTAP 9. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "7ca99e03f5c2",
+   "titre": "Multiples vulnérabilités dans GLPI (03 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1444/",
+   "source": "CERT-FR",
+   "date": "2026-11-03T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans GLPI. Elles permettent à un attaquant de provoquer une élévation de privilèges, une injection de code indirecte à distance (XSS) et un…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "d64e16f3a968",
+   "titre": "Multiples vulnérabilités dans PostgreSQL (03 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1445/",
+   "source": "CERT-FR",
+   "date": "2026-11-03T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans PostgreSQL. Elles permettent à un attaquant de provoquer une injection SQL (SQLi), un contournement de la politique de sécurité et un problème de…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "6cb26059f760",
+   "titre": "Multiples vulnérabilités dans Xen (03 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1447/",
+   "source": "CERT-FR",
+   "date": "2026-11-03T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "a1b249764f1c",
+   "titre": "Multiples vulnérabilités dans Google Android (03 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1443/",
+   "source": "CERT-FR",
+   "date": "2026-11-03T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de…",
+   "tags": [
+    "Faille",
+    "Mobile"
    ]
   },
   {
@@ -3369,68 +3436,6 @@
    "tags": [
     "Windows"
    ]
-  },
-  {
-   "id": "aa5b5ed9793a",
-   "titre": "Test du chargeur UGREEN Nexode Pro 300W",
-   "lien": "https://korben.info/test-du-chargeur-ugreen-nexode-pro-300w.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-10-22T14:44:30+00:00",
-   "extrait": "UGREEN propose sa station de charge Nexode Pro 300W en GaN, avec huit sorties : six USB-C (dont trois à 140W en PD 3.1), un USB-A et une prise DC de 240W. Elle est affichée à 126 euros au lieu de…",
-   "tags": []
-  },
-  {
-   "id": "92b876190d73",
-   "titre": "Machine speed attacks require machine speed detection and response",
-   "lien": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
-   "source": "BleepingComputer",
-   "date": "2026-10-22T14:02:12+00:00",
-   "extrait": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI…",
-   "tags": [
-    "Malware",
-    "IA",
-    "Outil"
-   ]
-  },
-  {
-   "id": "c145f24074c2",
-   "titre": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
-   "lien": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
-   "source": "The Hacker News",
-   "date": "2026-10-22T13:38:22+00:00",
-   "extrait": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds. In tandem, the effort saw law…",
-   "tags": []
-  },
-  {
-   "id": "c78f9791369d",
-   "titre": "Amazon says PHP2Shell exploitation began 4 days before patches",
-   "lien": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
-   "source": "BleepingComputer",
-   "date": "2026-10-22T13:09:12+00:00",
-   "extrait": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "0f812922fb34",
-   "titre": "GitLab warns of new max severity code execution vulnerability",
-   "lien": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
-   "source": "BleepingComputer",
-   "date": "2026-10-22T11:41:48+00:00",
-   "extrait": "GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "76b18c2dc5a9",
-   "titre": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
-   "lien": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
-   "source": "The Hacker News",
-   "date": "2026-10-22T11:15:42+00:00",
-   "extrait": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables. Upon further investigation, the company found…",
-   "tags": []
   }
  ]
 }
