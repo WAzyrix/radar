@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-03T16:05:39+00:00",
+ "maj": "2026-11-03T17:05:42+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,15 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "397a262080d2",
+   "titre": "Test du télémètre laser de poche HOTO - précis à 2 mm",
+   "lien": "https://korben.info/test-du-telemetre-laser-de-poche-hoto-precis-a-2-mm.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-03T16:11:37+00:00",
+   "extrait": "Le télémètre laser de poche HOTO, marque de l'écosystème Xiaomi, mesure de 5 centimètres à 30 mètres avec une précision de 2 millimètres. Il pèse 36 grammes, se recharge en USB-C, affiche la…",
+   "tags": []
+  },
   {
    "id": "310fe7a6e4c3",
    "titre": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
@@ -3429,17 +3438,6 @@
     "Fuite de données",
     "IA",
     "Linux"
-   ]
-  },
-  {
-   "id": "5d4f96d6acc6",
-   "titre": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
-   "lien": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-   "source": "BleepingComputer",
-   "date": "2026-10-22T17:18:22+00:00",
-   "extrait": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
-   "tags": [
-    "Faille"
    ]
   }
  ]
