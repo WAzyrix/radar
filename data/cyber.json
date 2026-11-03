@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-03T21:05:42+00:00",
+ "maj": "2026-11-03T22:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "27b11b637919",
+   "titre": "WorkOS says attacker used ARTEX AI to breach internal sales app",
+   "lien": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
+   "source": "BleepingComputer",
+   "date": "2026-11-03T21:28:44+00:00",
+   "extrait": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]",
+   "tags": [
+    "Fuite de données",
+    "IA"
+   ]
+  },
   {
    "id": "317e8557e095",
    "titre": "Binance says fake job interview led to $6.3 billion crypto heist",
@@ -3428,17 +3440,6 @@
    "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Papercut. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à…",
    "tags": [
     "Faille"
-   ]
-  },
-  {
-   "id": "6af5f5a84e31",
-   "titre": "Railway warns devs to rotate secrets after potential breach",
-   "lien": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
-   "source": "BleepingComputer",
-   "date": "2026-10-22T21:25:31+00:00",
-   "extrait": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
-   "tags": [
-    "Fuite de données"
    ]
   }
  ]
