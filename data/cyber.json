@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-03T19:50:28+00:00",
+ "maj": "2026-11-03T20:05:49+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "317e8557e095",
+   "titre": "Binance says fake job interview led to $6.3 billion crypto heist",
+   "lien": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
+   "source": "BleepingComputer",
+   "date": "2026-11-03T20:05:50+00:00",
+   "extrait": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet…",
+   "tags": [
+    "Fuite de données",
+    "Malware"
+   ]
+  },
   {
    "id": "77eef035ebfc",
    "titre": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
@@ -3425,17 +3437,6 @@
    "source": "BleepingComputer",
    "date": "2026-10-22T21:25:31+00:00",
    "extrait": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
-   "tags": [
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "177124c993da",
-   "titre": "Capcom confirms data breach affecting 11.7 million accounts",
-   "lien": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
-   "source": "BleepingComputer",
-   "date": "2026-10-22T20:22:45+00:00",
-   "extrait": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
    "tags": [
     "Fuite de données"
    ]
