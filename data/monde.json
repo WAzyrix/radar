@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-03T01:05:41+00:00",
+ "maj": "2026-11-03T02:05:43+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,12 +22,151 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "4d60e1ed23e9",
+   "titre": "Man and boy arrested after allegedly attacking One Nation volunteer with baseball bat in Australia",
+   "lien": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-03T01:57:46+00:00",
+   "extrait": "The incident comes amid growing calls for the temperature of political debate in Australia to be turned down.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "7584627279c2",
+   "titre": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+   "lien": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-03T01:56:27+00:00",
+   "extrait": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "0011cd952cde",
+   "titre": "More European grocery stores hit by apparent fridge-freezer hacks",
+   "lien": "https://www.cbsnews.com/news/europe-grocery-store-refrigerator-freezer-cyberattack-hack-food-wasted/",
+   "source": "CBS News",
+   "date": "2026-11-03T01:51:41+00:00",
+   "extrait": "Grocery chains in European nations say temperatures in some stores' fridges and freezers soared over 100 degrees just weeks after a similar incident in France.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "149fcba3c3d1",
+   "titre": "Former Border Patrol chief says southern border is at quietest level he's ever seen",
+   "lien": "https://www.cbsnews.com/video/former-border-patrol-chief-says-southern-border-is-at-quietest-level-hes-ever-seen/",
+   "source": "CBS News",
+   "date": "2026-11-03T01:51:35+00:00",
+   "extrait": "Former Border Patrol chief Raul Ortiz says some Biden administration officials were \"embracing the chaos and crisis\" at the southern border, but now he says the U.S.-Mexico border is at the quietest…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "39ef055725c3",
+   "titre": "Political AI deepfakes infiltrating midterm elections, could pose risks to voters",
+   "lien": "https://www.cbsnews.com/video/political-ai-deepfakes-infiltrating-midterm-elections-pose-risks-voters/",
+   "source": "CBS News",
+   "date": "2026-11-03T01:42:21+00:00",
+   "extrait": "CBS News MoneyWatch reporter Megan Cerullo discusses the issue of AI-generated deepfake videos in the lead-up to Election Day.",
+   "tags": [
+    "Politique",
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "188fbee357e1",
+   "titre": "How Hispanic voters could sway midterm election outcomes",
+   "lien": "https://www.cbsnews.com/video/how-hispanic-voters-could-sway-midterm-election-outcomes/",
+   "source": "CBS News",
+   "date": "2026-11-03T01:40:00+00:00",
+   "extrait": "Hispanic Americans could be one of the most consequential voting blocks in Tuesday's midterm elections. Journalist Enrique Acevedo joins \"The Daily Report\" to discuss.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "e181836a0e29",
+   "titre": "GOP Senate candidate Ashley Hinson says she's \"pro-Iowa\" when asked if she's MAGA",
+   "lien": "https://www.cbsnews.com/video/trump-team-covers-up-diversity-mural-iowa-city-pushed-back/",
+   "source": "CBS News",
+   "date": "2026-11-03T01:37:12+00:00",
+   "extrait": "Republican Senate candidate Rep. Ashley Hinson told CBS News she's an \"Iowa common sense conservative\" as she works to secure votes in her tight race with Democrat Josh Turek. CBS news' Lana Zak has…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "fde93fa8c413",
+   "titre": "North Korea denies being behind record $6.3bn Binance hack",
+   "lien": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-03T01:23:03+00:00",
+   "extrait": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "80b26e33ecc8",
+   "titre": "Michigan's Democratic Party chair says Haley Stevens \"lied to her own constituents\"",
+   "lien": "https://www.cbsnews.com/video/michigans-democratic-party-chair-haley-stevens-lied-constituents/",
+   "source": "CBS News",
+   "date": "2026-11-03T01:22:00+00:00",
+   "extrait": "Democratic Rep. Haley Stevens shocked her party this weekend when she endorsed Republican Mike Rogers for Senate over her primary opponent Abdul El-Sayed. The state's Democratic Party chair, Curtis…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "5e48acd2f6b9",
+   "titre": "New cyberattacks hit supermarket fridges across Europe",
+   "lien": "https://www.cbsnews.com/video/new-cyberattacks-hit-supermarket-fridges-across-europe/",
+   "source": "CBS News",
+   "date": "2026-11-03T01:18:33+00:00",
+   "extrait": "Grocery store chains across Europe are scrambling to re-stock shelves after a cyberattack left massive amounts of food spoiled. CBS news international reporter Inaya Folarin Iman has more.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "1b19ea5dc9c3",
+   "titre": "La Force multinationale pour l'Ukraine tiendra son premier exercice en Pologne en novembre",
+   "lien": "https://www.france24.com/fr/europe/20261103-force-multinationale-pour-l-ukraine-pemier-exercice-pologne-novembre-france-royaume-uni",
+   "source": "France 24",
+   "date": "2026-11-03T01:18:05+00:00",
+   "extrait": "Piloté par la France et le Royaume-Uni, l’exercice “Koalicja” réunira du 9 au 22 novembre quelque 2 800 militaires de dix pays en Pologne, à une centaine de kilomètres de la frontière ukrainienne…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "f80b7a5f1aa3",
    "titre": "Supreme Court rejects Trump's request in California mail ballots dispute",
    "lien": "https://www.cbsnews.com/news/supreme-court-rejects-trump-california-mail-ballots-alleged-noncitizens/",
    "source": "CBS News",
-   "date": "2026-11-03T01:02:20+00:00",
+   "date": "2026-11-03T01:02:00+00:00",
    "extrait": "Earlier Monday, the Trump administration asked the Supreme Court to order California election officials to set aside mail ballots from 20,000 people it alleges are noncitizens.",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "12852f1ca9a9",
+   "titre": "Supreme Court rejects Trump request for California to set aside ballots from alleged noncitizens",
+   "lien": "https://www.cbsnews.com/video/supreme-court-rejects-trump-request-for-california-to-set-aside-20000-ballots/",
+   "source": "CBS News",
+   "date": "2026-11-03T01:00:55+00:00",
+   "extrait": "The Supreme Court on Monday rejected President Trump's effort to set aside California ballots from 20,000 alleged noncitizens. CBS News' Jessica Levinson has more.",
    "tags": [
     "Politique",
     "Justice"
@@ -507,19 +646,6 @@
     "Politique"
    ],
    "zone": "france"
-  },
-  {
-   "id": "7584627279c2",
-   "titre": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-   "lien": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-02T21:10:04+00:00",
-   "extrait": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
   },
   {
    "id": "c1b0dc2660ad",
@@ -2833,16 +2959,6 @@
    "zone": "usa"
   },
   {
-   "id": "0011cd952cde",
-   "titre": "More European grocery stores hit by apparent fridge-freezer hacks",
-   "lien": "https://www.cbsnews.com/news/europe-grocery-store-refrigerator-freezer-cyberattack-hack-food-wasted/",
-   "source": "CBS News",
-   "date": "2026-11-02T12:45:00+00:00",
-   "extrait": "Grocery chains in European nations say temperatures in some stores' fridges and freezers soared over 100 degrees just weeks after a similar incident in France.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "045e63d45c05",
    "titre": "Attentat raciste à Trappes : le père de Pengo Bossio Wangi appelle à « une prise de conscience et un engagement contre le racisme »",
    "lien": "https://www.lemonde.fr/societe/article/2026/11/02/attentat-raciste-a-trappes-le-pere-de-pengo-bossio-wangi-appelle-a-une-prise-de-conscience-et-un-engagement-contre-le-racisme_6805250_3224.html",
@@ -3356,120 +3472,6 @@
    "tags": [
     "Conflits",
     "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "f84e2bedf39e",
-   "titre": "Les fournisseurs irlandais à la rescousse des Britanniques privés des livres de Sally Rooney, après son soutien au groupe interdit Palestine Action",
-   "lien": "https://www.franceinfo.fr/culture/livres/les-fournisseurs-irlandais-a-la-rescousse-des-britanniques-prives-des-livres-de-sally-rooney-suite-a-son-soutien-au-groupe-interdit-palestine-action_8263670.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-02T10:40:58+00:00",
-   "extrait": "L'autrice avait annoncé, en août 2025 son intention de reverser au groupe Palestine Action, classé \"terroriste\", une partie de ses droits d'auteur, y compris les redevances issues des adaptations…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "e8088ef2e26e",
-   "titre": "L'état du sapeur-pompier grièvement blessé par balle dimanche aux Pennes-Mirabeau, près de Marseille, \"est plutôt en train de s'améliorer\"",
-   "lien": "https://www.franceinfo.fr/faits-divers/l-etat-du-sapeur-pompier-grievement-blesse-par-balle-aux-pennes-mirabeau-pres-de-marseille-est-plutot-en-train-de-s-ameliorer_8263763.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-02T10:35:25+00:00",
-   "extrait": "Les syndicats de sapeurs-pompiers professionnels appellent à des rassemblements lundi midi devant les casernes en solidarité à leur collègue grièvement blessé par balle lors d'une intervention près…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "5c9e0a8d1b31",
-   "titre": "En Turquie, la débâcle des fonds d’investissement aux ramifications financières et politiques tentaculaires",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/02/en-turquie-la-debacle-des-fonds-d-investissement-aux-ramifications-financieres-et-politiques-tentaculaires_6805233_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-02T10:30:17+00:00",
-   "extrait": "L’enquête sur la chute du courtier Tera, soupçonné d’avoir orchestré des montages financiers frauduleux, met en cause des élus de l’AKP, le parti au pouvoir, ainsi que des hauts fonctionnaires. Un…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "caef81b2c4c1",
-   "titre": "\"Tant que nos dix revendications n'auront pas été écoutées, on ne s'arrêtera pas\", assure l'Union syndicale lycéenne à propos des mobilisations",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/tant-que-nos-dix-revendications-n-auront-pas-ete-ecoutees-on-ne-s-arretera-pas-assure-l-union-syndicale-lyceenne-a-propos-des-mobilisations_8263778.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-02T10:23:43+00:00",
-   "extrait": "Depuis la rentrée scolaire lundi, \"plusieurs dizaines de lycées bloqués\" ont été comptés selon Marius Mesnil, co-secrétaire général de l'Union syndicale lycéenne (USL).",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "3783948fe851",
-   "titre": "Au Japon, bientôt une \"Tokyo bis\" pour remplacer la capitale en cas de catastrophe naturelle majeure",
-   "lien": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/au-japon-bientot-une-tokyo-bis-pour-remplacer-la-capitale-en-cas-de-catastrophe-naturelle-majeure_8243341.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-02T10:15:24+00:00",
-   "extrait": "Le gouvernement japonais va choisir une capitale secondaire susceptible d'assurer la continuité de État si une crise grave paralysait Tokyo.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "82d1313c47f6",
-   "titre": "Blocages des lycées et des universités, grève du 5 novembre, manifestations de gilets jaunes… Quelles sont les mobilisations prévues cette semaine ?",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/blocages-des-lycees-et-des-universites-greve-du-5-novembre-manifestations-de-gilets-jaunes-a-quoi-faut-il-s-attendre-cette-semaine_8263529.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-02T10:14:28+00:00",
-   "extrait": "La semaine doit être marquée par la grande journée de grève et de manifestations prévue jeudi à l'appel des syndicats, et un nouveau samedi de mobilisation.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "b6bd849444cf",
-   "titre": "États-Unis : neuf morts dans le crash d’un avion en Floride",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261102-%C3%A9tats-unis-neuf-morts-dans-le-crash-d-un-avion-en-floride",
-   "source": "France 24",
-   "date": "2026-11-02T10:13:46+00:00",
-   "extrait": "Neuf personnes ont été tuées dimanche dans le sud-est des États-Unis dans l'accident spectaculaire d'un avion d'affaires tombé au sol comme une pierre à une dizaine de kilomètres de la résidence de…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "9649a87d4725",
-   "titre": "Israël annonce la fin de son opération militaire à Hébron, en Cisjordanie occupée",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/02/israel-annonce-la-fin-de-son-operation-militaire-a-hebron-en-cisjordanie-occupee_6805230_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-02T10:11:21+00:00",
-   "extrait": "Quelque 3 000 Palestiniens avaient été déplacés vers la ville dans le cadre de cette vaste opération lancée après l’attaque qui a coûté la vie à deux soldats israéliens. D’après les responsables…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "fb0d2fea6a25",
-   "titre": "Iran : le président Trump avertit devoir \"à un moment, donner un coup de massue\" à Téhéran",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261102-iran-le-pr%C3%A9sident-trump-avertit-devoir-%C3%A0-un-moment-donner-un-coup-de-massue-%C3%A0-t%C3%A9h%C3%A9ran",
-   "source": "France 24",
-   "date": "2026-11-02T10:11:14+00:00",
-   "extrait": "L'Iran a averti, dimanche 1er novembre, les États-Unis qu'une reprise des hostilités pourrait entraîner une guerre \"plus longue que la précédente\", au lendemain de nouvelles menaces de Donald Trump…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "798b64d3d07c",
-   "titre": "J-1 avant les Midterms : les républicains décus, quels enjeux ?",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261102-j-1-avant-les-midterms-les-r%C3%A9publicains-d%C3%A9cus-quels-enjeux",
-   "source": "France 24",
-   "date": "2026-11-02T10:08:55+00:00",
-   "extrait": "Les républicains \"ont une chance\" de gagner, mardi 3 novembre, les élections de mi-mandat, a assuré Donald Trump, vendredi 30 octobre, avant de partir pour un meeting en Floride. Mais les sondages…",
-   "tags": [
-    "Politique"
    ],
    "zone": "monde"
   }
