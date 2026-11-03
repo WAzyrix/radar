@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-03T03:05:39+00:00",
+ "maj": "2026-11-03T04:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,12 +22,86 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "b246dd227ab1",
+   "titre": "U.S. launches defensive strikes at Iranian targets",
+   "lien": "https://www.cbsnews.com/news/u-s-strikes-iran-targets/",
+   "source": "CBS News",
+   "date": "2026-11-03T03:50:42+00:00",
+   "extrait": "The U.S. military launched strikes at Iran after Iran fired at a U.S. aircraft, a senior U.S. official told CBS News.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "7062a3beba16",
+   "titre": "US strikes Iran ahead of midterm elections",
+   "lien": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-03T03:39:08+00:00",
+   "extrait": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "7f48809004ae",
+   "titre": "Live Updates: Trump tells GOP \"we gave this a very strong shot\"",
+   "lien": "https://www.cbsnews.com/live-updates/2026-elections-monday-november-2/",
+   "source": "CBS News",
+   "date": "2026-11-03T03:36:36+00:00",
+   "extrait": "President Trump held an event Monday at the Washington, D.C., Reflecting Pool, while Michigan Democrats assess the fallout from a cross-party endorsement.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "8597eb1bcf6f",
+   "titre": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+   "lien": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-03T03:32:36+00:00",
+   "extrait": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "4d60e1ed23e9",
+   "titre": "Man and boy arrested after allegedly attacking One Nation volunteer with bat",
+   "lien": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-03T03:30:16+00:00",
+   "extrait": "The incident comes amid growing calls for the temperature of political debate in Australia to be turned down.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "d0d7947a396e",
+   "titre": "New York congressional candidate Blake Gendebien talks about the cost of living ahead of midterms",
+   "lien": "https://www.cbsnews.com/video/new-york-congressional-candidate-blake-gendebien-talks-about-the-cost-of-living-ahead-of-midterms/",
+   "source": "CBS News",
+   "date": "2026-11-03T03:24:11+00:00",
+   "extrait": "Vice President JD Vance was in Rome, New York, on Monday campaigning on behalf of Republican congressional candidate Anthony Constantino in the state's 21st district. Democrat Blake Gendebien is…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "e8cef5f74342",
    "titre": "Trump says \"Iran wants a settlement, as soon as possible\"",
    "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/",
    "source": "CBS News",
-   "date": "2026-11-03T03:05:20+00:00",
-   "extrait": "Trump must decide whether to end the war or return to it, Iran says, as both sides trade threats, but keep diplomacy alive.",
+   "date": "2026-11-03T03:21:12+00:00",
+   "extrait": "President Trump must decide whether to end the war or return to it, Iran says, as both sides trade threats, but keep diplomacy alive.",
    "tags": [
     "Politique",
     "Conflits"
@@ -45,18 +119,6 @@
     "Politique"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "b246dd227ab1",
-   "titre": "U.S. strikes Iranian targets",
-   "lien": "https://www.cbsnews.com/news/u-s-strikes-iran-targets/",
-   "source": "CBS News",
-   "date": "2026-11-03T02:54:08+00:00",
-   "extrait": "The U.S. military launched strikes at Iran after Iran fired at a U.S. aircraft, a senior U.S. official told CBS News.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
   },
   {
    "id": "d6d1275e0e9b",
@@ -90,18 +152,6 @@
     "Justice"
    ],
    "zone": "france"
-  },
-  {
-   "id": "4d60e1ed23e9",
-   "titre": "Man and boy arrested after allegedly attacking One Nation volunteer with baseball bat in Australia",
-   "lien": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-03T01:57:46+00:00",
-   "extrait": "The incident comes amid growing calls for the temperature of political debate in Australia to be turned down.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
   },
   {
    "id": "7584627279c2",
@@ -394,11 +444,11 @@
   },
   {
    "id": "0524041695a0",
-   "titre": "Budget 2027 : les députés remanient la TVA sur l’électricité, la télévision payante ou encore les produits de première nécessité",
+   "titre": "Budget 2027 : les députés des amendements au devenir incertain, remaniant la TVA sur l’électricité ou encore la télévision payante",
    "lien": "https://www.lemonde.fr/politique/article/2026/11/03/budget-2027-les-deputes-remanient-la-tva-sur-l-electricite-la-television-payante-ou-encore-les-produits-de-premiere-necessite_6805244_823449.html",
    "source": "Le Monde",
    "date": "2026-11-02T23:53:56+00:00",
-   "extrait": "Dans un hémicycle clairsemé, les parlementaires ont voté lundi des mesures qu’ils savent peu susceptibles de perdurer, compte tenu du rejet probable du budget, et d’un recours au 49.3 ou aux…",
+   "extrait": "Dans un hémicycle clairsemé, les parlementaires ont voté lundi des mesures qu’ils savent peu susceptibles de perdurer, compte tenu du rejet probable du budget, et d’un possible recours par…",
    "tags": [
     "Politique",
     "Économie"
@@ -431,24 +481,24 @@
    "zone": "monde"
   },
   {
-   "id": "d22d8db0d9c6",
-   "titre": "Trump's final midterm message for voters largely focuses on D.C. renovations",
-   "lien": "https://www.cbsnews.com/video/trumps-final-midterm-message-largely-focuses-on-dc-renovations/",
+   "id": "e1e80d883c53",
+   "titre": "11/2: CBS Evening News",
+   "lien": "https://www.cbsnews.com/video/110226-cbs-evening-news/",
    "source": "CBS News",
-   "date": "2026-11-02T23:28:42+00:00",
-   "extrait": "President Trump delivered his final pitch for voters Monday ahead of Tuesday's midterm elections. CBS News' Weijia Jiang has more.",
+   "date": "2026-11-02T23:30:00+00:00",
+   "extrait": "President Trump makes his closing midterm pitch to voters; a Texas ICE officer was charged with aggravated assault.",
    "tags": [
     "Politique"
    ],
    "zone": "usa"
   },
   {
-   "id": "7f48809004ae",
-   "titre": "Live Updates: Trump tells GOP \"we gave this a very strong shot\"",
-   "lien": "https://www.cbsnews.com/live-updates/2026-elections-monday-november-2/",
+   "id": "d22d8db0d9c6",
+   "titre": "Trump's final midterm message for voters largely focuses on D.C. renovations",
+   "lien": "https://www.cbsnews.com/video/trumps-final-midterm-message-largely-focuses-on-dc-renovations/",
    "source": "CBS News",
-   "date": "2026-11-02T23:27:21+00:00",
-   "extrait": "President Trump held an event Monday at the Washington, D.C., Reflecting Pool, while Michigan Democrats assess the fallout from a cross-party endorsement.",
+   "date": "2026-11-02T23:28:42+00:00",
+   "extrait": "President Trump delivered his final pitch for voters Monday ahead of Tuesday's midterm elections. CBS News' Weijia Jiang has more.",
    "tags": [
     "Politique"
    ],
@@ -3422,55 +3472,6 @@
    "date": "2026-11-02T11:10:52+00:00",
    "extrait": "Débarrasser le lieu de vie d’un parent, à l’issue de son décès, est une expérience souvent éprouvante, du point de vue émotionnel autant que logistique. Vous avez traversé récemment cette période du…",
    "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "70a961279dc2",
-   "titre": "Midterms : le coût de la vie au cœur des priorités des électeurs du Michigan",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261102-midterms-le-co%C3%BBt-de-la-vie-au-c%C5%93ur-des-priorit%C3%A9s-des-%C3%A9lecteurs-du-michigan",
-   "source": "France 24",
-   "date": "2026-11-02T11:10:24+00:00",
-   "extrait": "Les élections de mi-mandat aux États-Unis ont lieu demain mardi 3 novembre. Le parti de Donald Trump est en mauvaise posture à la veille du vote. Dans le Michigan, l'un des swing states, État…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "b3de4f002a6f",
-   "titre": "L'aventurier britannique Karl Bushby accueilli en héros après 28 ans de marche autour du monde",
-   "lien": "https://www.france24.com/fr/europe/20261102-un-aventurier-britannique-accueilli-en-h%C3%A9ros-apr%C3%A8s-28-ans-de-marche-autour-du-monde",
-   "source": "France 24",
-   "date": "2026-11-02T11:09:56+00:00",
-   "extrait": "Après 28 ans, l'aventurier britannique Karl Bushby est rentré dans sa ville natale du nord-est de l'Angleterre lundi, au terme d'un périple de 50 000 kilomètres qui l'a mené du Chili à travers 29…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "c7acd3034b35",
-   "titre": "Mobilisation lycéenne en France : plus de 40 lycées bloqués au retour des vacances scolaires",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261102-mobilisation-lyc%C3%A9enne-en-france-plus-de-40-lyc%C3%A9es-bloqu%C3%A9s-au-retour-des-vacances-scolaires",
-   "source": "France 24",
-   "date": "2026-11-02T11:08:16+00:00",
-   "extrait": "En France, la mobilisation lycéenne continue lors de cette rentrée de vacances. Ce lundi 2 novembre au matin, 41 lycées étaient bloqués lundi à 9 h 30, soit 1 % des environs 3 700 établissements que…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "ddc5bab65737",
-   "titre": "Le président de l'université d'Aix-Marseille alerte sur la dégradation de la santé mentale des étudiants face aux blocages",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-president-de-l-universite-d-aix-marseille-alerte-sur-la-degradation-de-la-sante-mentale-des-etudiants-face-aux-blocages_8263853.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-02T11:07:50+00:00",
-   "extrait": "Éric Berton demande au gouvernement qu'il \"réinvestisse dans l'enseignement supérieur public\" face à des services universitaires \"surchargés\".",
-   "tags": [
-    "Politique",
-    "Santé"
-   ],
    "zone": "france"
   }
  ]
