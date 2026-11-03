@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-03T12:05:40+00:00",
+ "maj": "2026-11-03T13:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -32,6 +32,44 @@
    "extrait": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
    "tags": [
     "Faille"
+   ]
+  },
+  {
+   "id": "77f64f32faf5",
+   "titre": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
+   "lien": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
+   "source": "The Hacker News",
+   "date": "2026-11-03T11:23:53+00:00",
+   "extrait": "Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest…",
+   "tags": [
+    "CVE",
+    "Faille",
+    "Linux"
+   ]
+  },
+  {
+   "id": "20c9c9965d29",
+   "titre": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
+   "lien": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
+   "source": "The Hacker News",
+   "date": "2026-11-03T11:18:20+00:00",
+   "extrait": "Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk…",
+   "tags": [
+    "Faille",
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "3ce297811edf",
+   "titre": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
+   "lien": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
+   "source": "The Hacker News",
+   "date": "2026-11-03T11:00:45+00:00",
+   "extrait": "A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations. \"Active since at least February 2025, the group…",
+   "tags": [
+    "Faille",
+    "Fuite de données",
+    "Malware"
    ]
   },
   {
@@ -3397,40 +3435,6 @@
     "Malware",
     "IA",
     "Outil"
-   ]
-  },
-  {
-   "id": "df0211e45e19",
-   "titre": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
-   "lien": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
-   "source": "BleepingComputer",
-   "date": "2026-10-22T08:27:11+00:00",
-   "extrait": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and…",
-   "tags": [
-    "Ransomware",
-    "Malware"
-   ]
-  },
-  {
-   "id": "29143f2ae20d",
-   "titre": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
-   "lien": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
-   "source": "The Hacker News",
-   "date": "2026-10-22T07:47:22+00:00",
-   "extrait": "Node.js released security updates on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "c8ed131e6fe2",
-   "titre": "Votre VPN est-il prêt pour les menaces futures ? #sponso",
-   "lien": "https://korben.info/votre-vpn-est-il-pret-pour-les-menaces-futures.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-10-22T07:15:54+00:00",
-   "extrait": "Dans un article partenaire, Surfshark annonce une version de WireGuard entièrement post-quantique, combinant ML-KEM et certificats ML-DSA, d'abord sur iOS et macOS. Le VPN ajoute aussi une rotation…",
-   "tags": [
-    "Mobile"
    ]
   }
  ]

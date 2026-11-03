@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-03T12:05:40+00:00",
+ "maj": "2026-11-03T13:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,15 +22,220 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "eacf9ec3fb65",
+   "titre": "Election Day live updates with House and Senate control at stake",
+   "lien": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/",
+   "source": "CBS News",
+   "date": "2026-11-03T13:03:52+00:00",
+   "extrait": "All 435 House seats and 35 Senate seats are on the ballot, while 36 states will be electing governors.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "7a27d7545457",
+   "titre": "Quand les hallucinations de l'intelligence artificielle sèment le trouble dans les tribunaux britanniques",
+   "lien": "https://www.franceinfo.fr/internet/intelligence-artificielle/quand-les-hallucinations-de-l-intelligence-artificielle-sement-le-trouble-dans-les-tribunaux-britanniques_8265755.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-03T12:54:52+00:00",
+   "extrait": "Une procureure a cité trois fois une jurisprudence inexistante pour justifier des poursuites contre un enfant. Selon le \"Guardian\", l'erreur pourrait provenir de l'intelligence artificielle. Au…",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "6555382cc141",
+   "titre": "Les Etats-Unis ont mené des frappes \"limitées\" sur une île iranienne, selon des médias américains",
+   "lien": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-etats-unis-ont-mene-des-frappes-limitees-sur-une-ile-iranienne-selon-des-medias-americains_8265818.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-03T12:47:57+00:00",
+   "extrait": "Le président iranien, Massoud Pezechkian, a déclaré qu'une reprise des attaques américaines ne profiterait \"à personne\", alors que les négociations diplomatiques peinent à produire des résultats.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "05ac5497277b",
+   "titre": "La baisse des prix des carburants est amorcée dans 6 000 stations-service après le déstockage des réserves stratégiques, selon le gouvernement",
+   "lien": "https://www.franceinfo.fr/economie/automobile/essence/apres-le-destockage-des-reserves-strategiques-la-baisse-des-prix-des-carburants-amorcee-dans-6-000-stations-service-selon-le-gouvernement_8265662.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-03T12:47:23+00:00",
+   "extrait": "Cette baisse est en moyenne de 12 centimes par litre dans les stations concernées, selon le ministre du Commerce. A terme, l'intégralité des 10 000 stations du territoire sera concernée, affirme le…",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "65e5607ccaf4",
+   "titre": "Le prix Renaudot 2026 attribué à François-Henri Désérable pour « Le Palais »",
+   "lien": "https://www.lemonde.fr/livres/article/2026/11/03/le-prix-renaudot-2026-attribue-a-francois-henri-deserable-pour-le-palais_6805579_3260.html",
+   "source": "Le Monde",
+   "date": "2026-11-03T12:44:59+00:00",
+   "extrait": "Outre le lauréat, étaient en lice : « La méthode » de David Djaïz (Stock), « Stay Free » de Patrice Jean (Le Cherche midi), « Un corps indocile » de Osvalde Lewat (Philippe Rey), « Eugénie sous les…",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "b246dd227ab1",
+   "titre": "U.S. launches strikes on Iranian targets in Strait of Hormuz",
+   "lien": "https://www.cbsnews.com/news/u-s-strikes-iran-targets/",
+   "source": "CBS News",
+   "date": "2026-11-03T12:40:27+00:00",
+   "extrait": "The U.S. launched limited strikes on Iran's Qeshm Island in the Strait of Hormuz after Iran fired at a U.S. aircraft, a senior U.S. official told CBS News.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "35d25f5755e2",
+   "titre": "Mobilisation lycéenne et étudiante : 51 établissements de l'enseignement supérieur sont \"perturbés\", soit moins d'un tiers, selon le ministère",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-les-organisations-de-jeunesse-appellent-a-une-nouvelle-journee-de-blocages-massifs-des-facs-et-des-lycees-avant-la-greve-de-jeudi_8265284.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-03T12:35:36+00:00",
+   "extrait": "L'Union étudiante, de son côté, fait état \"d'une université sur deux perturbées\" et de \"plus de 50 campus bloqués\" sur les 181 que compte la France.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "c92cf3414038",
+   "titre": "\"L'Inconnue du quai de Javel\", prix Goncourt 2026 : avec l'aide de Maigret, Philippe Jaenada résout une affaire criminelle vieille de plus de soixante-dix ans",
+   "lien": "https://www.franceinfo.fr/culture/livres/prix-litteraires/l-inconnue-du-quai-de-javel-prix-goncourt-2026-avec-l-aide-de-maigret-philippe-jaenada-resout-une-affaire-criminelle-vieille-de-plus-de-soixante-dix-ans_8265794.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-03T12:33:20+00:00",
+   "extrait": "Dans ce nouveau roman, l'écrivain remonte le temps pour faire la lumière sur l'assassinat d'une jeune femme retrouvée sans vie sur un quai de Seine en 1949.",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "bd9b23d3b7a1",
+   "titre": "Au Sénégal, un budget crucial rejeté par l'Assemblée nationale",
+   "lien": "https://www.france24.com/fr/afrique/20261103-au-s%C3%A9n%C3%A9gal-un-budget-crucial-rejet%C3%A9-par-l-assembl%C3%A9e-nationale-pour-la-troisi%C3%A8me-fois",
+   "source": "France 24",
+   "date": "2026-11-03T12:31:40+00:00",
+   "extrait": "La crise politique autour du projet de loi de finances s'aggrave au Sénégal. L'Assemblée nationale a rejeté, mardi, le budget révisé présenté par le gouvernement. Le président Bassirou Diomaye Faye…",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "b11c108d99d0",
+   "titre": "Goncourt 2026 : le prix décerné à Philippe Jaenada pour \"L'inconnue du quai de Javel\"",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261103-goncourt-2026-le-prix-d%C3%A9cern%C3%A9-%C3%A0-philippe-jaenada-pour-l-inconnue-du-quai-de-javel",
+   "source": "France 24",
+   "date": "2026-11-03T12:22:51+00:00",
+   "extrait": "En France, le prix ​Goncourt 2026 ​a été attribué mardi 3 novembre à Philippe Jaenada ​pour ‌son roman \"L'inconnue du ⁠quai de Javel\", ‌publié chez Flammarion, a ⁠annoncé le président de l'académie…",
+   "tags": [
+    "Politique",
+    "Économie",
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "ea73bcfcb981",
+   "titre": "Élections locales en Afrique du Sud : les municipalités en difficulté",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261103-%C3%A9lections-locales-en-afrique-du-sud-les-municipalit%C3%A9s-en-difficult%C3%A9",
+   "source": "France 24",
+   "date": "2026-11-03T12:20:14+00:00",
+   "extrait": "Les électeurs sont appelés aux urnes ce mercredi 4 novembre pour les élections municipales qui se déroulent en Afrique du Sud. La situation financière des collectivités locales est préoccupante : 40…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "8f0dc394e052",
+   "titre": "L'armée américaine en mutation : des gradés ont le sens des affaires",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/aux-avant-postes/20261103-l-arm%C3%A9e-am%C3%A9ricaine-en-mutation-des-grad%C3%A9s-ont-le-sens-des-affaires",
+   "source": "France 24",
+   "date": "2026-11-03T12:18:48+00:00",
+   "extrait": "Pete Hegseth, ministre de la Guerre des États-Unis, fait le ménage dans les rangs : il dit avoir réduit de 20 % le nombre de généraux et d’amiraux et veut des “guerriers”, non des “wokistes”. Il…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "169a52f64f4c",
+   "titre": "Midterms : la Cour Suprême rejette un recours de l'administration Trump",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261103-midterms-la-cour-supr%C3%AAme-rejette-un-recours-de-l-administration-trump",
+   "source": "France 24",
+   "date": "2026-11-03T12:18:15+00:00",
+   "extrait": "La Cour suprême a rejeté sans surprise lundi 2 novembre un recours de l'administration Trump lui demandant de contraindre la Californie à isoler les bulletins de plus de 20 000 électeurs, au motif…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "e8cef5f74342",
+   "titre": "Trump says deal with Iran still possible as Americans set to vote",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/",
+   "source": "CBS News",
+   "date": "2026-11-03T12:15:45+00:00",
+   "extrait": "Despite limited new strikes on Iran and ongoing attacks on ships near the Strait of Hormuz, Trump says on eve of U.S. elections that a peace deal \"could happen.\"",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "e8f175073a32",
    "titre": "Le prix Goncourt remis à Philippe Jaenada pour \"L'Inconnue du quai de Javel\", le Renaudot récompense François-Henri Désérable avec \"Le Palais\"",
    "lien": "https://www.franceinfo.fr/culture/livres/prix-litteraires/direct-prix-goncourt-2026-qui-succedera-a-la-maison-vide-de-laurent-mauvignier_8264468.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-11-03T12:03:04+00:00",
+   "date": "2026-11-03T12:13:33+00:00",
    "extrait": "Quatre écrivains étaient en lice pour le plus illustre des prix littéraires, et tenter de succéder à Laurent Mauvignier.",
    "tags": [
     "Économie"
    ],
+   "zone": "france"
+  },
+  {
+   "id": "2f73c07c3713",
+   "titre": "US urges Venezuela to release remaining political prisoners",
+   "lien": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-03T12:09:20+00:00",
+   "extrait": "The US secretary of state also discusses laying the groundwork for 'free, fair, and credible elections'.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "5b03d90f69f2",
+   "titre": "Stolen watch worth $290,000 returned to store with apology note",
+   "lien": "https://www.cbsnews.com/news/stolen-luxury-watch-returned-tokyo-handwritten-apology/",
+   "source": "CBS News",
+   "date": "2026-11-03T12:08:50+00:00",
+   "extrait": "The case of the stolen Audemars Piguet timepiece took a twist when the store received a package containing the watch -- and a note saying sorry.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "90c8c1f012b4",
+   "titre": "La reconstitution du meurtre d'Agathe Hilairet sera organisée mercredi dans la Vienne, un an et demi après la découverte du corps de la joggeuse",
+   "lien": "https://www.franceinfo.fr/societe/justice/la-reconstitution-du-meurtre-d-agathe-hilairet-sera-organisee-mercredi-dans-la-vienne-un-an-et-demi-apres-la-decouverte-du-corps-de-la-joggeuse_8265809.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-03T12:06:15+00:00",
+   "extrait": "Selon ICI Poitou, Didier Laroche, le principal suspect, sera extrait de son lieu de détention le temps de répondre aux questions des enquêteurs et des magistrats ainsi que pour répéter la scène de…",
+   "tags": [],
    "zone": "france"
   },
   {
@@ -56,6 +261,16 @@
    "zone": "usa"
   },
   {
+   "id": "04f2341884c1",
+   "titre": "La bataille de la start-up toulousaine Aura Aero pour faire émerger une industrie française de l’avion électrique",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/03/la-bataille-de-la-start-up-toulousaine-aura-aero-pour-faire-emerger-une-industrie-francaise-de-l-avion-electrique_6805575_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-03T12:00:02+00:00",
+   "extrait": "L’entreprise, fondée en 2018, est passée à la vitesse supérieure en 2026 : financements de 340 millions d’euros, projets d’usines en France et aux Etats-Unis. Sa double ambition est de faire…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "61a9b0ff6625",
    "titre": "U.S. to mediate new round of Ukraine-Russia talks, Witkoff says",
    "lien": "https://www.cbsnews.com/news/ukraine-russia-war-ceasefire-talks-witkoff/",
@@ -68,16 +283,14 @@
    "zone": "usa"
   },
   {
-   "id": "eacf9ec3fb65",
-   "titre": "Election Day live updates with House and Senate control at stake",
-   "lien": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/",
-   "source": "CBS News",
-   "date": "2026-11-03T11:54:55+00:00",
-   "extrait": "All 435 House seats and 35 Senate seats are on the ballot, while 36 states will be electing governors.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
+   "id": "706cc0eb8958",
+   "titre": "Après les polémiques de l'édition 2026, le festival de la BD d'Angoulême change de nom et devient \"Angoulême Bande Dessinée\"",
+   "lien": "https://www.franceinfo.fr/culture/apres-les-polemiques-de-l-edition-2026-le-festival-de-la-bd-d-angouleme-change-de-nom-et-devient-angouleme-bande-dessinee_8265746.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-03T11:56:14+00:00",
+   "extrait": "La précédente édition, qui devait se tenir en 2026, a été annulée en raison d'accusations de dérives commerciales, management toxique ou encore de mauvaise gestion venant de la société organisatrice.",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "68c1a4773230",
@@ -101,15 +314,25 @@
   },
   {
    "id": "8e28b6d57c1c",
-   "titre": "Prix Goncourt 2026 : la prestigieuse récompense attribuée à Philippe Jaenada",
+   "titre": "Philippe Jaenada remporte le Goncourt pour \"L'Inconnue du quai de Javel\"",
    "lien": "https://www.france24.com/fr/culture/20261103-prix-goncourt-2026-prestigieuse-philippe-jaenada",
    "source": "France 24",
    "date": "2026-11-03T11:51:57+00:00",
-   "extrait": "Dans une année marquée par la polémique autour Thélyson Orélien et de l'IA, le prix Goncourt a finalement été attribué à Philippe Jaenada pour son roman \"L’inconnue du quai de Javel\".",
+   "extrait": "Dans une année marquée par la polémique autour de Thélyson Orélien et de l'intelligence artificielle, le prix Goncourt a finalement été attribué, mardi, à Philippe Jaenada pour son roman \"L’inconnue…",
    "tags": [
     "Économie",
     "Tech"
    ],
+   "zone": "monde"
+  },
+  {
+   "id": "8b0e9b13f19e",
+   "titre": "Indian tourist killed after two helicopters collide near Everest base camp",
+   "lien": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-03T11:51:08+00:00",
+   "extrait": "The two aircraft crashed just metres from the ground after trying to land at the same spot.",
+   "tags": [],
    "zone": "monde"
   },
   {
@@ -199,6 +422,16 @@
    "zone": "monde"
   },
   {
+   "id": "94ea656210c1",
+   "titre": "\"J'ai pris un pantalon de ski\" : avant le match face au FK Bodø/Glimt en Ligue des champions, les supporters lillois découvrent les conditions glaciales en Norvège",
+   "lien": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/j-ai-pris-un-pantalon-de-ski-avant-le-match-face-au-fk-bod-glimt-en-ligue-des-champions-les-supporters-de-lillois-decouvrent-les-conditions-glaciales-en-norvege_8265644.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-03T11:35:04+00:00",
+   "extrait": "Après trois défaites en trois matchs, le Losc est au pied du mur va défier la petite équipe norvégienne qui a fait sensation la saison dernière. Le club nordiste va tenter, dans des conditions…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "7062a3beba16",
    "titre": "US strikes Iranian island ahead of midterm elections",
    "lien": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
@@ -248,16 +481,6 @@
    "zone": "france"
   },
   {
-   "id": "35d25f5755e2",
-   "titre": "Mobilisation lycéenne et étudiante : 51 établissements d'enseignement supérieur sur 184 ont été perturbés, selon le ministère",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-les-organisations-de-jeunesse-appellent-a-une-nouvelle-journee-de-blocages-massifs-des-facs-et-des-lycees-avant-la-greve-de-jeudi_8265284.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-03T11:20:55+00:00",
-   "extrait": "L'Union étudiante, de son côté, fait état \"d'une université sur deux perturbées\" et de \"plus de 50 campus bloqués\".",
-   "tags": [],
-   "zone": "france"
-  },
-  {
    "id": "a298fec4e78f",
    "titre": "Une adolescente de 15 ans a été contrainte de se prostituer pendant plusieurs mois et violée par près de 900 clients dans le sud-est de la France",
    "lien": "https://www.franceinfo.fr/faits-divers/info-radio-france-une-adolescente-de-15-ans-contrainte-de-se-prostituer-aupres-de-pres-de-900-clients-dans-le-sud-est_8265647.html#xtor=RSS-3-[lestitres]",
@@ -266,32 +489,6 @@
    "extrait": "Deux hommes ont été interpellés et mis en examen près de Draguignan. Ils sont soupçonnés de proxénétisme et de traite d’êtres humains pour avoir contraint une jeune fille de 15 ans.",
    "tags": [
     "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "e8cef5f74342",
-   "titre": "Trump says deal with Iran still possible as Americans set to vote",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/",
-   "source": "CBS News",
-   "date": "2026-11-03T11:13:08+00:00",
-   "extrait": "Despite limited new strikes on Iran and ongoing attacks on ships near the Strait of Hormuz, Trump says on eve of U.S. elections that a peace deal \"could happen.\"",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "05ac5497277b",
-   "titre": "Après le déstockage des réserves stratégiques, la baisse des prix des carburants amorcée dans 6 000 stations-service, selon le gouvernement",
-   "lien": "https://www.franceinfo.fr/economie/automobile/essence/apres-le-destockage-des-reserves-strategiques-la-baisse-des-prix-des-carburants-amorcee-dans-6-000-stations-service-selon-le-gouvernement_8265662.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-03T11:10:25+00:00",
-   "extrait": "La baisse porte sur les prix du gazole routier, mais aussi ceux du fioul domestique et du gasoil non routier, utilisé notamment par les agriculteurs et les engins de travaux, a-t-il détaillé.",
-   "tags": [
-    "Politique",
-    "Économie"
    ],
    "zone": "france"
   },
@@ -697,6 +894,16 @@
     "Santé"
    ],
    "zone": "france"
+  },
+  {
+   "id": "b74602aabae4",
+   "titre": "Connect250 creates a time capsule of life in America",
+   "lien": "https://www.npr.org/2026/11/03/nx-s1-6026459/connect250-creates-a-time-capsule-of-life-in-america",
+   "source": "NPR",
+   "date": "2026-11-03T09:44:42+00:00",
+   "extrait": "We hear some of the results of StoryCorps teaming up with Morning Edition to connect listeners across America for a series of conversations about the country on the 250th anniversary of its founding.",
+   "tags": [],
+   "zone": "usa"
   },
   {
    "id": "c6515e605213",
@@ -1623,18 +1830,6 @@
     "Justice"
    ],
    "zone": "france"
-  },
-  {
-   "id": "b246dd227ab1",
-   "titre": "U.S. launches defensive strikes at Iranian targets",
-   "lien": "https://www.cbsnews.com/news/u-s-strikes-iran-targets/",
-   "source": "CBS News",
-   "date": "2026-11-03T03:50:42+00:00",
-   "extrait": "The U.S. military launched strikes at Iran after Iran fired at a U.S. aircraft, a senior U.S. official told CBS News.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
   },
   {
    "id": "8597eb1bcf6f",
@@ -3323,205 +3518,6 @@
    "extrait": "Une page d'histoire, sur les traces d'une légende de l'aviation. Jean Mermoz, tragiquement disparu en 1936, a été le premier à avoir traversé notamment l'Atlantique sud. Une vente aux enchères…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "407067448a6c",
-   "titre": "J-1 avant les midterms : sept États suffiraient à faire basculer le Sénat",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261102-j-1-avant-les-midterms-sept-%C3%A9tats-suffiraient-%C3%A0-faire-basculer-le-s%C3%A9nat",
-   "source": "France 24",
-   "date": "2026-11-02T16:46:10+00:00",
-   "extrait": "Les élections de mi-mandat ont lieu mardi 3 novembre aux États-Unis. Au-delà du pouvoir d'achat, les citoyens américains sont également préoccupés par des enjeux quotidiens tels que les conflits…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "57d1b9bdd5ba",
-   "titre": "Midterms : la jeunesse du Michigan convaincue par le démocrate Abdul El-Sayed",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261102-midterms-la-jeunesse-du-michigan-convaincue-par-le-d%C3%A9mocrate-abdul-el-sayed",
-   "source": "France 24",
-   "date": "2026-11-02T16:45:01+00:00",
-   "extrait": "Le siège du Michigan au Sénat est crucial pour les démocrates à un jour, qui espèrent reprendre le contrôle de la chambre haute du Congrès lors des midterms qui ont lieu mardi 3 novembre 2026. Le…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "2ce72b6bd31a",
-   "titre": "La course au Sénat relancée par un revirement surprise dans le Michigan",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261102-la-course-au-s%C3%A9nat-relanc%C3%A9e-par-un-revirement-surprise-dans-le-michigan",
-   "source": "France 24",
-   "date": "2026-11-02T16:43:02+00:00",
-   "extrait": "À un jour des midterms qui ont lieu mardi 3 novembre aux États-Unis, le Michigan vit le ralliement inattendu d'une élue démocrate au candidat républicain bousculant la fin de la campagne.Haley…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "79bdfa6411c5",
-   "titre": "Gazoducs souterrains et tunnels : en Ukraine, une nouvelle guerre à l'abri des drones",
-   "lien": "https://www.france24.com/fr/europe/20261102-gazoducs-souterrains-et-tunnels-en-ukraine-une-nouvelle-guerre-%C3%A0-l-abri-des-drones",
-   "source": "France 24",
-   "date": "2026-11-02T16:42:59+00:00",
-   "extrait": "Les Ukrainiens ont récemment annoncé le succès de leur opération \"Veles\", qui consistait à envoyer des troupes dans un gazoduc désaffecté dans la région de Koupiansk. Une manière pour Kiev…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "4d263a47f498",
-   "titre": "EN DIRECT, midterms 2026 : à Washington, Donald Trump qualifie les élections de mardi comme étant les « plus importantes de notre vie »",
-   "lien": "https://www.lemonde.fr/international/live/2026/11/02/en-direct-midterms-2026-donald-trump-va-lancer-un-ultime-appel-aux-electeurs-depuis-washington-j-d-vance-en-campagne-dans-l-etat-de-new-york_6801590_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-02T16:41:20+00:00",
-   "extrait": "« Le Parti démocrate a investi les candidats les plus extrêmes et les plus dangereux de l’histoire américaine », a également affirmé le président américain, lors de son intervention au bord du…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "5b6aeb8a89e7",
-   "titre": "Route du rhum : Francis Joyon, vainqueur en 2018, a chaviré ; une opération de secours déclenchée",
-   "lien": "https://www.lemonde.fr/sport/article/2026/11/02/route-du-rhum-francis-joyon-vainqueur-en-2018-a-chavire-une-operation-de-secours-declenchee_6805291_3242.html",
-   "source": "Le Monde",
-   "date": "2026-11-02T16:41:13+00:00",
-   "extrait": "Le skippeur de 70 ans, engagé cette année à la barre d’un Orma, multicoque de 60 pieds rapide mais très instable, avait pris un très bon départ, dimanche.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "b9a889989e39",
-   "titre": "L'UE dénonce \"des cyberattaques répétées extrêmement préoccupantes\" après une nouvelle panne de réfrigérateurs dans des supermarchés de plusieurs Etats membres",
-   "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-refrigerateurs-affectes-par-une-cyberattaque-dans-des-magasins-carrefour-en-belgique-des-incidents-signales-dans-d-autres-enseignes_8264036.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-02T16:40:36+00:00",
-   "extrait": "Une attaque similaire avait touché la France mi-octobre. \"Il s'agit d'une tentative délibérée de perturber notre chaîne d'approvisionnement alimentaire et de saper la confiance des consommateurs\", a…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "8b9c978f427b",
-   "titre": "Midterms : la vague démocrate se précise aux États-Unis",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261102-midterms-la-vague-d%C3%A9mocrate-se-pr%C3%A9cise-aux-%C3%A9tats-unis",
-   "source": "France 24",
-   "date": "2026-11-02T16:39:41+00:00",
-   "extrait": "Les républicains sont en posture précaire à moins d'une semaine des midterms qui se dérouleront mardi 3 novembre aux États-Unis. Ces élections s'avéreront décisives pour la suite du mandat de Donald…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "05729a3f1c3e",
-   "titre": "Midterms : une vague bleue va-t-elle gagner les États-Unis lors de ces élections ?",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261102-midterms-une-vague-bleue-va-t-elle-gagner-les-%C3%A9tats-unis-lors-de-ces-%C3%A9lections",
-   "source": "France 24",
-   "date": "2026-11-02T16:37:56+00:00",
-   "extrait": "Des agents fédéraux autour des bureaux de vote, une loi d'exception, ou encore la confiscation des bulletins : à quelques jours des élections de mi-mandat aux États-Unis, les autorités locales se…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "a584202cf5a7",
-   "titre": "En Irlande, un appel à l'interdiction des jeux à gratter bon marché pour protéger les enfants",
-   "lien": "https://www.franceinfo.fr/monde/europe/en-irlande-un-appel-a-l-interdiction-des-jeux-a-gratter-bon-marche-pour-proteger-les-enfants_8264465.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-02T16:35:46+00:00",
-   "extrait": "Des chercheurs irlandais appellent à une interdiction des jeux à gratter à faible coût, dans l'objectif de réduire les dommages liés aux jeux d'argent. Le média public irlandais RTE revient sur…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "aaab44009fd3",
-   "titre": "L'équipe de France remporte sa première médaille aux Jeux olympiques de la Jeunesse, en aviron de mer",
-   "lien": "https://www.franceinfo.fr/jeux-olympiques-de-la-jeunesse/l-equipe-de-france-remporte-sa-premiere-medaille-aux-jeux-olympiques-de-la-jeunesse_8264471.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-02T16:34:17+00:00",
-   "extrait": "Raphaël de Boussac et Elisa Guilloton, ont décroché, lundi, la première médaille française des Jeux Olympiques de la Jeunesse 2026, avec le bronze en double mixte en aviron de mer. A Dakar…",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "2cdce35538df",
-   "titre": "The Supreme Court rejects a DOJ push to separate California ballots",
-   "lien": "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump",
-   "source": "NPR",
-   "date": "2026-11-02T16:34:17+00:00",
-   "extrait": "The U.S. Supreme Court has denied a last-minute request from the Department of Justice to wade into its unprecedented feud with California over the state's voter rolls.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "a386101c891b",
-   "titre": "Midterms : l'ex-président Barack Obama s'invite dans les élections",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261102-midterms-l-ex-pr%C3%A9sident-barack-obama-s-invite-dans-les-%C3%A9lections",
-   "source": "France 24",
-   "date": "2026-11-02T16:34:14+00:00",
-   "extrait": "L'ex-président américain Barack Obama a fait son retour samedi 24 octobre en campagne avec un meeting dans l'Ohio pour soutenir les candidats démocrates aux élections de mi-mandat le 3 novembre…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "d3c4639a8d01",
-   "titre": "Midterms : à la veille du scrutin, Trump mobilise toutes ses ressources dans la course électorale",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261102-midterms-%C3%A0-la-veille-du-scrutin-trump-mobilise-toutes-ses-ressources-dans-la-course-%C3%A9lectorale",
-   "source": "France 24",
-   "date": "2026-11-02T16:32:06+00:00",
-   "extrait": "Derniers meetings sur fond de sondages favorables à l'approche des midterms qui se déroulent demain, mardi 3 novembre aux États-Unis : les démocrates jettent leurs dernières forces lundi 2 novembre…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "1cbd1327456a",
-   "titre": "U.K. man returns home after 28 years walking 30,000 miles around the world",
-   "lien": "https://www.cbsnews.com/news/englishman-karl-bushby-returns-home-walking-goliath-expedition/",
-   "source": "CBS News",
-   "date": "2026-11-02T16:30:24+00:00",
-   "extrait": "Karl Bushby began what came to be known as his \"Goliath Expedition\" in Chile on Nov. 1, 1998.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "c65471e11492",
-   "titre": "« Impossible », sur Arte.tv : un face-à-face ciselé entre un juge et un ancien activiste italien",
-   "lien": "https://www.lemonde.fr/culture/article/2026/11/02/impossible-sur-arte-tv-un-face-a-face-cisele-entre-un-juge-et-un-ancien-activiste-italien_6805289_3246.html",
-   "source": "Le Monde",
-   "date": "2026-11-02T16:30:09+00:00",
-   "extrait": "Emmanuel Finkiel adapte fidèlement le roman d’Erri De Luca dans une fiction servie par les acteurs Swann Arlaud et Fabrizio Bentivoglio.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "a4a586a0b580",
-   "titre": "La Cote d'Ivoire pépite du salon du chocolat",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/le-rendez-vous-afrique/20261102-la-cote-d-ivoire-p%C3%A9pite-du-salon-du-chocolat",
-   "source": "France 24",
-   "date": "2026-11-02T16:30:08+00:00",
-   "extrait": "Votre rendez-vous Afrique se délocalise au salon du chocolat de Paris. Ici, on vous promet des expériences immersives autour du chocolat. L'Afrique est LA terre de cacao par excellence ! À commencer…",
-   "tags": [],
-   "zone": "monde"
   }
  ]
 }
