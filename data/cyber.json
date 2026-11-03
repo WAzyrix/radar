@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-03T07:17:04+00:00",
+ "maj": "2026-11-03T08:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,27 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "d108c8cad61e",
+   "titre": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
+   "lien": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
+   "source": "The Hacker News",
+   "date": "2026-11-03T07:43:07+00:00",
+   "extrait": "Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks. The Taiwanese vendor said it observed…",
+   "tags": [
+    "Faille",
+    "Ransomware"
+   ]
+  },
+  {
+   "id": "36d509a3e525",
+   "titre": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
+   "lien": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
+   "source": "The Hacker News",
+   "date": "2026-11-03T07:27:07+00:00",
+   "extrait": "Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and…",
+   "tags": []
+  },
   {
    "id": "3e6bc640da57",
    "titre": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
@@ -3411,28 +3432,6 @@
     "Fuite de données",
     "IA",
     "Windows"
-   ]
-  },
-  {
-   "id": "a810cc019ff2",
-   "titre": "Multiples vulnérabilités dans ISC BIND (22 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1365/",
-   "source": "CERT-FR",
-   "date": "2026-10-22T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans ISC BIND. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "68ab44311725",
-   "titre": "Multiples vulnérabilités dans Node (22 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1367/",
-   "source": "CERT-FR",
-   "date": "2026-10-22T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Node.js. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la…",
-   "tags": [
-    "Faille"
    ]
   }
  ]
