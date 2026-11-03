@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-03T15:05:41+00:00",
+ "maj": "2026-11-03T16:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,11 +22,24 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "166b68c3fbc1",
+   "titre": "Manifestations du 17 octobre : suivez l'audition de Laurent Nuñez, ministre de l'Intérieur, sur sa gestion du maintien de l'ordre",
+   "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-manifestations-du-17-octobre-suivez-a-partir-de-16h30-l-audition-de-laurent-nunez-ministre-de-l-interieur-sur-sa-gestion-du-maintien-de-l-ordre_8265545.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-03T15:59:27+00:00",
+   "extrait": "\"Pour autant, l'échec constaté ne présume pas en soi d'une faute des services de l'Etat\", a ajouté le ministre de l'Intérieur, dans le cadre de la commission d'enquête de l'Assemblée nationale…",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "eacf9ec3fb65",
    "titre": "Americans cast ballots as polls open across the country — live updates",
    "lien": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/",
    "source": "CBS News",
-   "date": "2026-11-03T15:02:45+00:00",
+   "date": "2026-11-03T15:56:03+00:00",
    "extrait": "All 435 House seats and 35 Senate seats are on the ballot, while 36 states will be electing governors.",
    "tags": [
     "Politique"
@@ -34,12 +47,400 @@
    "zone": "usa"
   },
   {
+   "id": "cd2ab2488c56",
+   "titre": "For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life",
+   "lien": "https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson",
+   "source": "NPR",
+   "date": "2026-11-03T15:54:39+00:00",
+   "extrait": "In Kherson city, usually seething with Russian drones, friends met at cafes, families were out together and shoppers stocked up. \"The city seems alive,\" said one resident, \"just like it used to be.\"",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "35d25f5755e2",
+   "titre": "Grève du 5 novembre : la SNCF prévoit un trafic TGV \"légèrement perturbé\", et \"perturbé\" sur la plupart des autres lignes",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-les-organisations-de-jeunesse-appellent-a-une-nouvelle-journee-de-blocages-massifs-des-facs-et-des-lycees-avant-la-greve-de-jeudi_8265284.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-03T15:52:17+00:00",
+   "extrait": "Les syndicats ont appelé les salariés à un mouvement national, jeudi, afin de défendre le pouvoir d'achat.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "1682b3951134",
+   "titre": "\"Dexter: Resurrection\" stars on playing serial killer hunters",
+   "lien": "https://www.cbsnews.com/video/dexter-resurrection-stars-on-playing-serial-killer-hunters/",
+   "source": "CBS News",
+   "date": "2026-11-03T15:51:25+00:00",
+   "extrait": "Dominic Fumusa and David Zayas, who both star as detectives on \"Dexter: Resurrection,\" talk about how they got their acting starts and about playing serial killer hunters in the hit series.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "e8cef5f74342",
+   "titre": "Iran dismisses U.S. response to peace proposal as \"not convincing\"",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/",
+   "source": "CBS News",
+   "date": "2026-11-03T15:51:05+00:00",
+   "extrait": "Trump said on eve of U.S. elections that a deal with Iran \"could happen,\" but after new U.S. strikes, Tehran called America's response to the latest proposal \"not convincing.\"",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "4e5cbd78d2c4",
+   "titre": "Midterms - Le démocrate James Talarico tente de convaincre le Texas, bastion républicain",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261103-midterms-le-d%C3%A9mocrate-james-talarico-tente-de-convaincre-le-texas-bastion-r%C3%A9publicain",
+   "source": "France 24",
+   "date": "2026-11-03T15:49:12+00:00",
+   "extrait": "Au Texas, le dernier sénateur démocrate a été élu il y a 38 ans. Mais James Talarico essaye de changer la donne dans ce bastion républicain. Face à Ken Paxton, le démocrate tenait lundi 2 novembre…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "9157ef0ec9f7",
+   "titre": "Législatives en Israël : les coulisses de la couverture des élections",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261103-l%C3%A9gislatives-en-isra%C3%ABl-les-coulisses-de-la-couverture-des-%C3%A9lections",
+   "source": "France 24",
+   "date": "2026-11-03T15:46:51+00:00",
+   "extrait": "Les résultats des législatives en Israël, qui ont notamment vu la percée de deux partis arabes, ne seront pas remis en cause par les soupçons d'irrégularités, a affirmé dimanche 1er novembre le…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "4a649af0a965",
+   "titre": "Le roi du Royaume-Uni, Charles III, dit son \"horreur\" face à l'esclavage, une \"injustice monstrueuse\"",
+   "lien": "https://www.franceinfo.fr/monde/royaume-uni/le-roi-du-royaume-uni-charles-iii-dit-son-horreur-face-a-l-esclavage-une-injustice-monstrueuse_8266079.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-03T15:46:50+00:00",
+   "extrait": "Il s'exprimait à l'ouverture du sommet des dirigeants des pays du Commonwealth, au terme d'une tournée de plusieurs jours dans les Caraïbes.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "d6d1275e0e9b",
+   "titre": "Coast Guard detains cruise ship in Miami, officials say",
+   "lien": "https://www.cbsnews.com/news/coast-guard-detains-msc-poesia-cruise-ship-miami/",
+   "source": "CBS News",
+   "date": "2026-11-03T15:45:01+00:00",
+   "extrait": "The MSC Poesia cruise ship is currently detained with passengers on board at the Port of Miami, and its itinerary is currently on hold, Coast Guard officials tell CBS News.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "f6160fd748bf",
+   "titre": "Livret A : le plafond sera relevé à « entre 25 000 et 30 000 euros », en février prochain, annonce Sébastien Lecornu",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/03/livret-a-sebastien-lecornu-annonce-un-relevement-du-plafond-entre-25-000-et-30-000-euros-en-fevrier_6805615_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-03T15:44:26+00:00",
+   "extrait": "Le ministre de l’économie, Roland Lescure, précisera le nouveau plafond « dans les semaines qui viendront » à l’issue d’une « dernière concertation » avec les banques et la Caisse des dépôts. Le…",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "feffcce4011f",
+   "titre": "Après ses objets personnels, des lettres d'amour de Brigitte Bardot aux enchères",
+   "lien": "https://www.franceinfo.fr/culture/cinema/brigitte-bardot/apres-ses-objets-personnels-des-lettres-d-amour-de-brigitte-bardot-aux-encheres_8266082.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-03T15:42:42+00:00",
+   "extrait": "Après la vente aux enchères de 300 objets personnels ayant appartenu à Brigitte Bardot, 19 lettres d'amour écrites de sa main sont mises en vente ce mardi 3 novembre. Adressée à son deuxième mari…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "3e06962a517b",
+   "titre": "Présidentielle en France : y aura-t-il une primaire de la droite ?",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261103-pr%C3%A9sidentielle-en-france-y-aura-t-il-une-primaire-de-la-droite",
+   "source": "France 24",
+   "date": "2026-11-03T15:38:53+00:00",
+   "extrait": "En France, le candidat Renaissance à la présidentielle Gabriel Attal, distancé dans les sondages par Édouard Philippe dans l'espace du centre et de la droite, a estimé lundi 2 novembre qu'une…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "44e5533256dd",
+   "titre": "JOJ Dakar 2026 : l'Afrique place trois nageuses dans le top six du 200 mètres brasse",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261103-joj-dakar-2026-l-afrique-place-trois-nageuses-dans-le-top-six-du-200-m%C3%A8tres-brasse",
+   "source": "France 24",
+   "date": "2026-11-03T15:35:20+00:00",
+   "extrait": "La nage mise à l'honneur lors des Jeux Olympiques de la Jeunesse(JOJ) ce lundi 2 novembre à Dakar. La nageuse sud-afrcaine Chanel Veldsman a notamment remporté le bronze du 200 m brasse. Les…",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "88a2a66d7865",
+   "titre": "Attentat raciste à Trappes : le père de Pengo Bossio Wangi n'a pas été contacté par Emmanuel Macron ou le gouvernement, affirme son avocate",
+   "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-a-trappes-le-pere-de-pengo-bossio-wangi-n-a-pas-ete-contacte-par-emmanuel-macron-ou-le-gouvernement-affirme-son-avocate_8265641.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-03T15:34:46+00:00",
+   "extrait": "Zineb Alami, conseil du père du jeune homme de 26 ans tué le 23 octobre dans les Yvelines, s'est désolée lundi que son client n'ait pas reçu de \"condoléances\" de l'exécutif, comme ça a déjà été le…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "703e821b0007",
+   "titre": "Madagascar : qui sont les lauréats de la bourse Ghislaine Dupont et Claude Verlon ?",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261103-madagascar-qui-sont-les-laur%C3%A9ats-de-la-bourse-dupont-et-verlon",
+   "source": "France 24",
+   "date": "2026-11-03T15:32:52+00:00",
+   "extrait": "La bourse Ghislaine Dupont et Claude Verlon est décernée chaque année par RFI depuis 2014, en hommage à nos confrères assassinés dans le nord du Mali le 2 novembre 2013. Les deux lauréats de la 13e…",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "a7edfe62340a",
+   "titre": "Donald Trump annonce mettre fin à une aide annuelle de 3,8 milliards de dollars pour la sécurité d'Israël",
+   "lien": "https://www.franceinfo.fr/monde/usa/donald-trump-annonce-mettre-fin-a-une-aide-annuelle-de-3-8-milliards-de-dollars-pour-la-securite-d-israel_8266049.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-03T15:30:37+00:00",
+   "extrait": "Il a également précisé que le Premier ministre israélien, Benyamin Nétanyahou, était \"d'accord\" avec la fin de cette assistance courant jusqu'en 2028.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "f858d1455d56",
+   "titre": "Netflix, Amazon, Meta… Une nouvelle taxe sur les gigaoctets pourrait-elle faire grimper vos factures ?",
+   "lien": "https://www.franceinfo.fr/internet/netflix-amazon-meta-une-nouvelle-taxe-sur-les-gigaoctets-pourrait-elle-faire-grimper-vos-factures_8265908.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-03T15:29:59+00:00",
+   "extrait": "Les députés ont voté un amendement prévoyant de taxer les géants du numérique à hauteur de 5,5 centimes par gigaoctet consommé. Cette mesure pourrait rapporter 10 milliards d'euros à l'État, mais…",
+   "tags": [
+    "Politique",
+    "Économie",
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "795d25ac5d96",
+   "titre": "Somalie : l'Ouganda commence le retrait de ses troupes après 20 ans de présence",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261103-somalie-l-ouganda-commence-le-retrait-de-ses-troupes-apr%C3%A8s-20-ans-de-pr%C3%A9sence",
+   "source": "France 24",
+   "date": "2026-11-03T15:29:05+00:00",
+   "extrait": "L'Ouganda a annoncé lundi 2 novembre avoir commencé le retrait de ses troupes déployées en Somalie. L'armée ougandaise est présente depuis 20 ans en Somalie dans le cadre d'un accord bilatéral, mais…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "9dcf44e82166",
+   "titre": "Child dies of measles in New York for first time in 30 years",
+   "lien": "https://www.cbsnews.com/video/child-dies-of-measles-in-new-york-for-first-time-in-30-years/",
+   "source": "CBS News",
+   "date": "2026-11-03T15:27:25+00:00",
+   "extrait": "For the first time in 30 years, a child in New York died of measles, which comes amid outbreaks in 45 states and Washington, D.C., according to the Centers for Disease Control and Prevention. Dr…",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "5f6bf8fbdf10",
+   "titre": "RD Congo : l'incarcération de l'opposant Prince Epenge ravive les tensions",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261103-rd-congo-l-incarc%C3%A9ration-de-l-opposant-prince-epenge-ravive-les-tensions",
+   "source": "France 24",
+   "date": "2026-11-03T15:26:57+00:00",
+   "extrait": "En République démocratique du Congo, l'opposant Prince Epenge arrêté la semaine dernière, en fin octobre, est en prison à Makala. L'arrestation puis la détention de cette figure de l'opposition…",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "25025ec91f00",
    "titre": "Le plafond du livret A sera relevé en février, dans une fourchette de 25 000 à 30 000 euros, annonce Sébastien Lecornu",
    "lien": "https://www.franceinfo.fr/economie/votre-argent/livret-a/le-plafond-du-livret-a-sera-releve-en-fevrier-pour-atteindre-au-moins-25-000-euros-annonce-sebastien-lecornu_8265983.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-11-03T14:59:35+00:00",
+   "date": "2026-11-03T15:26:55+00:00",
    "extrait": "Le plafond est actuellement de 22 950 euros. Le taux sera lui aussi relevé, a précisé le Premier ministre à l'Assemblée nationale mardi, sans livrer davantage de détails.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "e19c36f11ae6",
+   "titre": "Lisa Rinna on returning to Broadway for \"It's a Wonderful Life: A Live Radio Play\"",
+   "lien": "https://www.cbsnews.com/video/lisa-rinna-on-returning-to-broadway-for-its-a-wonderful-life-a-live-radio-play/",
+   "source": "CBS News",
+   "date": "2026-11-03T15:24:15+00:00",
+   "extrait": "Lisa Rinna joins \"CBS Mornings\" to discuss her return to Broadway for \"It's a Wonderful Life: A Live Radio Play\" and more.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "111c091b877e",
+   "titre": "ICE officer faces charges in Houston",
+   "lien": "https://www.cbsnews.com/video/ice-officer-faces-charges-in-houston/",
+   "source": "CBS News",
+   "date": "2026-11-03T15:22:02+00:00",
+   "extrait": "An Immigration and Customs Enforcement officer has been charged in Houston with aggravated assault with a deadly weapon for allegedly hitting a man with his car. Jason Allen reports.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "910161bf2577",
+   "titre": "Iowa voters on key Senate race; unusual battleground in Kansas",
+   "lien": "https://www.cbsnews.com/video/iowa-voters-speak-out-amid-battleground-senate-race/",
+   "source": "CBS News",
+   "date": "2026-11-03T15:21:00+00:00",
+   "extrait": "Iowa candidates are making their final pitches to voters heading to the polls. Plus, history could be made in the Kansas Senate race. CBS News' Lana Zak and Riley Callanan report.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "bc3229a57691",
+   "titre": "5 people rescued in South Pacific after months at sea, 4 still missing",
+   "lien": "https://www.cbsnews.com/news/rescue-south-pacific-months-adrift-kiribati/",
+   "source": "CBS News",
+   "date": "2026-11-03T15:18:37+00:00",
+   "extrait": "The U.S. Coast Guard in Guam confirmed that the skiff with nine people aboard had been reported missing in July.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "e4d790ed07bd",
+   "titre": "Gayle checks in with Pennsylvania voters on how they're feeling about their 2024 choices",
+   "lien": "https://www.cbsnews.com/video/gayle-checks-in-with-pennsylvania-voters-on-how-theyre-feeling-about-their-2024-choices/",
+   "source": "CBS News",
+   "date": "2026-11-03T15:18:03+00:00",
+   "extrait": "Gayle King checked in with voters in Northampton County, Pennsylvania, to see how they're feeling about their 2024 choices and the midterm elections.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "2aace331b668",
+   "titre": "Texas voters discuss top issues in tight Senate race between Talarico, Paxton",
+   "lien": "https://www.cbsnews.com/video/texas-voters-discuss-top-issues-in-tight-senate-race-between-talarico-paxton/",
+   "source": "CBS News",
+   "date": "2026-11-03T15:17:05+00:00",
+   "extrait": "Adriana Diaz spoke with Texas voters about the top issues tipping the scales for them in a tight Senate race between Ken Paxton and James Talarico.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "395e39859bd5",
+   "titre": "Comment l’essor des médicaments anti-obésité modifie les habitudes alimentaires",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/03/comment-l-essor-des-medicaments-anti-obesite-modifie-les-habitudes-alimentaires_6805609_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-03T15:15:02+00:00",
+   "extrait": "Moins de produits de boulangerie, de confiseries, de biscuits, de snacks salés, de boissons gazeuses et de sodas : une étude du cabinet Bain, publiée mardi 3 novembre, portant sur des milliers de…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "37afafb8d23a",
+   "titre": "Le nouveau festival de la bande dessinée d’Angoulême dévoile ses grandes lignes",
+   "lien": "https://www.lemonde.fr/livres/article/2026/11/03/le-nouveau-festival-de-la-bande-dessinee-d-angouleme-devoile-ses-grandes-lignes_6805608_3260.html",
+   "source": "Le Monde",
+   "date": "2026-11-03T15:10:01+00:00",
+   "extrait": "Après de nombreuses polémiques et l’annulation de son édition 2026, le festival de la BD d’Angoulême change de nom et d’équipe. Laquelle a annoncé les changements pour la prochaine manifestation…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "f20649537681",
+   "titre": "Donald Trump annonce la fin d’une aide pour la sécurité d’Israël, d’un montant annuel de 3,8 milliards de dollars",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/03/donald-trump-annonce-la-fin-d-une-aide-pour-la-securite-d-israel-d-un-montant-annuel-de-3-8-milliards-de-dollars_6805607_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-03T15:08:08+00:00",
+   "extrait": "Cette assistance américaine à la sécurité d’Israël avait commencé en 2019, pour une durée de dix ans. L’accord avait été signé trois ans auparavant par Barack Obama.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "4ca46dc272d7",
+   "titre": "Lindsay Clancy likely headed for new trial, prosecutors say, as her lawyers fight for dismissal",
+   "lien": "https://www.cbsnews.com/video/lindsay-clancy-likely-headed-for-new-trial-prosecutors-say-as-her-lawyers-fight-for-dismissal/",
+   "source": "CBS News",
+   "date": "2026-11-03T15:08:07+00:00",
+   "extrait": "Lindsay Clancy was back in court Monday as her lawyers fight for the case to be dismissed. Meanwhile, prosecutors signaled they plan to retry her. Shanelle Kaul reports.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "71dd5c93f9ec",
+   "titre": "\"Dexter: Resurrection\" stars David Zayas and Dominic Fumusa | Between Us",
+   "lien": "https://www.cbsnews.com/video/dexter-david-zayas-dominic-fumusa-between-us/",
+   "source": "CBS News",
+   "date": "2026-11-03T15:04:45+00:00",
+   "extrait": "Stars of \"Dexter: Resurrection\" David Zayas and Dominic Fumusa interview each other, opening up about their experiences on the series, their careers and what it's like working together.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "b9396b8648c0",
+   "titre": "Pompier blessé par balle près de Marseille : le suspect présenté à la justice mardi en vue d'une probable mise en examen",
+   "lien": "https://www.franceinfo.fr/faits-divers/pompier-blesse-par-balle-pres-de-marseille-le-suspect-presente-a-la-justice-mardi-en-vue-d-une-probable-mise-en-examen_8266031.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-03T15:00:36+00:00",
+   "extrait": "À l'issue de sa garde à vue, le suspect est présenté à un juge, notamment pour \"tentatives d'homicides sur sapeurs-pompiers professionnels dans l'exercice de leurs fonctions\".",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "5887985e6235",
+   "titre": "Eric Zemmour : l’Arcom saisit la justice après des propos du polémiste d’extrême droite prononcés le lendemain de la mobilisation du 17 octobre",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/03/eric-zemmour-l-arcom-saisit-la-justice-apres-des-propos-du-polemiste-d-extreme-droite-prononces-le-lendemain-de-la-mobilisation-du-17-octobre_6805606_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-03T15:00:28+00:00",
+   "extrait": "Le possible candidat de Reconquête ! à la présidentielle 2027 avait évoqué le 18 octobre sur différentes chaînes de télévision « des hordes de barbares maghrébins et africains », et appelé à « la…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "c1e97d6fa4fe",
+   "titre": "Le Royaume-Uni durcit sa politique contre l’immigration légale",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/03/le-royaume-uni-durcit-sa-politique-contre-l-immigration-legale_6805604_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-03T15:00:00+00:00",
+   "extrait": "Les étrangers en situation régulière seront obligés, dans la plupart des cas, de patienter dix ans avant de pouvoir accéder au statut de résident permanent. Les hauts revenus bénéficieront d’un…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "ea6ef0def9e5",
+   "titre": "COP31 : « Il est essentiel que celles et ceux qui aspirent à gouverner notre pays présentent leur vision de l’avenir énergétique français »",
+   "lien": "https://www.lemonde.fr/idees/article/2026/11/03/cop31-il-est-essentiel-que-celles-et-ceux-qui-aspirent-a-gouverner-notre-pays-presentent-leur-vision-de-l-avenir-energetique-francais_6805605_3232.html",
+   "source": "Le Monde",
+   "date": "2026-11-03T15:00:00+00:00",
+   "extrait": "A quelques jours de l’ouverture de la COP31 à Antalya, en Turquie, les responsables des principales ONG pour l’accès à l’énergie et la transition écologique, des experts et des représentants du…",
    "tags": [
     "Politique"
    ],
@@ -127,11 +528,11 @@
   },
   {
    "id": "3243b46c7d93",
-   "titre": "Agression dans une école à Nice : la mère d’élève était en situation irrégulière et assignée à résidence, annonce Laurent Nuñez",
+   "titre": "Agression dans une école à Nice : l’autrice était en situation irrégulière et assignée à résidence, annonce Laurent Nuñez",
    "lien": "https://www.lemonde.fr/societe/article/2026/11/03/agression-dans-une-ecole-a-nice-la-mere-d-eleve-etait-en-situation-irreguliere-et-assignee-a-residence-annonce-laurent-nunez_6805601_3224.html",
    "source": "Le Monde",
    "date": "2026-11-03T14:41:15+00:00",
-   "extrait": "Interrogé sur le sujet dans le cadre des questions au gouvernement dans l’Hémicycle, mardi, le ministre de l’intérieur a également dénoncé une agression « insoutenable, intolérable dans une école de…",
+   "extrait": "Interrogé sur cette affaire dans le cadre des questions au gouvernement dans l’Hémicycle, mardi, le ministre de l’intérieur a également dénoncé une agression « insoutenable, intolérable dans une…",
    "tags": [
     "Politique"
    ],
@@ -160,19 +561,6 @@
     "Économie"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "e8cef5f74342",
-   "titre": "Trump says deal with Iran still possible as Americans vote",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/",
-   "source": "CBS News",
-   "date": "2026-11-03T14:34:39+00:00",
-   "extrait": "Despite limited new strikes on Iran and ongoing attacks on ships near the Strait of Hormuz, Trump says on eve of U.S. elections that a peace deal \"could happen.\"",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
   },
   {
    "id": "44de9b4d3b6c",
@@ -207,19 +595,6 @@
     "Politique"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "166b68c3fbc1",
-   "titre": "Manifestations du 17 octobre : suivez à partir de 16h30 l'audition de Laurent Nuñez, ministre de l'Intérieur, sur sa gestion du maintien de l'ordre",
-   "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-manifestations-du-17-octobre-suivez-a-partir-de-16h30-l-audition-de-laurent-nunez-ministre-de-l-interieur-sur-sa-gestion-du-maintien-de-l-ordre_8265545.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-03T14:30:02+00:00",
-   "extrait": "Le ministre de l'Intérieur s'exprime mardi dans le cadre de la commission d'enquête de l'Assemblée nationale consacrée à sa gestion du maintien de l'ordre le 17 octobre.",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
   },
   {
    "id": "d44dcbe39faf",
@@ -467,16 +842,6 @@
    "zone": "france"
   },
   {
-   "id": "35d25f5755e2",
-   "titre": "Mobilisation lycéenne et étudiante : deux cortèges non autorisés sont en cours à Paris, après l'interdiction du parcours initialement prévu par les organisations",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-les-organisations-de-jeunesse-appellent-a-une-nouvelle-journee-de-blocages-massifs-des-facs-et-des-lycees-avant-la-greve-de-jeudi_8265284.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-03T13:59:18+00:00",
-   "extrait": "Au total, 51 établissements de l'enseignement supérieur sont \"perturbés\" mardi, soit moins d'un tiers, selon le ministère de l'Enseignement supérieur. L'Union étudiante, de son côté, fait état…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
    "id": "f73b5e33f7fd",
    "titre": "Trump's unusual last-minute message to voters before the midterms",
    "lien": "https://www.cbsnews.com/video/trumps-unusual-last-minute-message-to-voters/",
@@ -606,6 +971,19 @@
    "zone": "france"
   },
   {
+   "id": "20539a1fc9a7",
+   "titre": "EN DIRECT, audition de Laurent Nuñez : « Le bilan de la journée du 17 octobre est un échec », déclare le ministre de l’intérieur en introduction de son audition devant la commission d’enquête",
+   "lien": "https://www.lemonde.fr/politique/live/2026/11/03/en-direct-audition-de-laurent-nunez-le-ministre-de-l-interieur-attendu-devant-la-commission-d-enquete-sur-les-violences-du-17-octobre-a-16-h-30_6805591_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-03T13:34:22+00:00",
+   "extrait": "La commission doit se pencher, entre autres, sur « la façon dont les pouvoirs publics se préparent en amont de tels événements », mais aussi sur les « renseignements et les moyens dont ils disposent…",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "c55008f2d255",
    "titre": "\"Le Palais\", prix Renaudot 2026 : une épopée du vin dans une fable gouleyante signée François-Henri Désérable",
    "lien": "https://www.franceinfo.fr/culture/livres/prix-litteraires/le-palais-prix-renaudot-2026-une-epopee-du-vin-dans-une-fable-gouleyante-signee-francois-henri-deserable_8265854.html#xtor=RSS-3-[lestitres]",
@@ -615,6 +993,16 @@
    "tags": [
     "Économie"
    ],
+   "zone": "france"
+  },
+  {
+   "id": "61e4de6d10d5",
+   "titre": "Au Brésil, les peuples autochtones dénoncent une vague de violences en représailles à la réélection de Lula",
+   "lien": "https://www.lemonde.fr/planete/article/2026/11/03/au-bresil-les-peuples-autochtones-denoncent-une-vague-de-violences-en-represailles-a-la-reelection-de-lula_6805590_3244.html",
+   "source": "Le Monde",
+   "date": "2026-11-03T13:30:07+00:00",
+   "extrait": "La plupart des cas de violence concernent le peuple Guarani-kaiowa, qui revendique la démarcation de ses terres ancestrales, occupées par des producteurs de soja dans le Mato Grosso do Sul, dans le…",
+   "tags": [],
    "zone": "france"
   },
   {
@@ -644,7 +1032,7 @@
   },
   {
    "id": "2ab0c199c255",
-   "titre": "EN DIRECT, midterms 2026 : « Aux Etats-Unis, des personnes avec des portefeuilles boursiers se sont fortement enrichies, tandis qu’une classe populaire a pris de plein fouet la hausse des prix »",
+   "titre": "EN DIRECT, midterms 2026 : « Beaucoup d’électeurs républicains soutiennent encore Trump pour son bilan sur l’immigration et gardent en mémoire la très forte inflation sous Joe Biden »",
    "lien": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-midterms-2026-jour-de-vote-aux-etats-unis-pour-les-elections-de-mi-mandat-les-dernieres-informations-et-les-reponses-a-vos-questions_6805528_3210.html",
    "source": "Le Monde",
    "date": "2026-11-03T13:24:04+00:00",
@@ -914,16 +1302,6 @@
    "zone": "france"
   },
   {
-   "id": "6080232afdab",
-   "titre": "The Awkward Money Talk Every Friend Group Needs | Money Moves with Jill Schlesinger",
-   "lien": "https://www.cbsnews.com/video/the-awkward-money-talk-every-friend-group-needs-money-moves-with-jill-schlesinger/",
-   "source": "CBS News",
-   "date": "2026-11-03T12:00:02+00:00",
-   "extrait": "Traveling with friends anytime soon? You might want to have \"the money talk\" before hand… In today's episode, Jill and Mark are breaking down the must-have conversations you should have before you…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "04f2341884c1",
    "titre": "La bataille de la start-up toulousaine Aura Aero pour faire émerger une industrie française de l’avion électrique",
    "lien": "https://www.lemonde.fr/economie/article/2026/11/03/la-bataille-de-la-start-up-toulousaine-aura-aero-pour-faire-emerger-une-industrie-francaise-de-l-avion-electrique_6805575_3234.html",
@@ -932,6 +1310,16 @@
    "extrait": "L’entreprise, fondée en 2018, est passée à la vitesse supérieure en 2026 : financements de 340 millions d’euros, projets d’usines en France et aux Etats-Unis. Sa double ambition est de faire…",
    "tags": [],
    "zone": "france"
+  },
+  {
+   "id": "6080232afdab",
+   "titre": "The Awkward Money Talk Every Friend Group Needs | Money Moves with Jill Schlesinger",
+   "lien": "https://www.cbsnews.com/video/the-awkward-money-talk-every-friend-group-needs-money-moves-with-jill-schlesinger/",
+   "source": "CBS News",
+   "date": "2026-11-03T12:00:00+00:00",
+   "extrait": "Traveling with friends anytime soon? You might want to have \"the money talk\" before hand… In this episode, Jill and Mark are breaking down the must-have conversations you should have before you plan…",
+   "tags": [],
+   "zone": "usa"
   },
   {
    "id": "61a9b0ff6625",
@@ -956,6 +1344,18 @@
    "zone": "france"
   },
   {
+   "id": "8e28b6d57c1c",
+   "titre": "🔴 Le Prix Goncourt 2026 décerné à Philippe Jaenada \"L'Inconnue du quai de Javel\"",
+   "lien": "https://www.france24.com/fr/culture/20261103-prix-goncourt-2026-prestigieuse-philippe-jaenada",
+   "source": "France 24",
+   "date": "2026-11-03T11:54:56+00:00",
+   "extrait": "",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "68c1a4773230",
    "titre": "Mobilisations en France : les blocages préoccupent certains parents et lycéens",
    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261103-mobilisations-en-france-les-blocages-pr%C3%A9occupent-certains-parents-et-lyc%C3%A9ens",
@@ -973,19 +1373,6 @@
    "date": "2026-11-03T11:51:59+00:00",
    "extrait": "Près de 50 lycées, sur les 3 700 présents sur le territoire national, est actuellement bloqué en ce mardi 3 novembre au matin, d'après le ministère de l'Éducation. Des chiffres une fois de plus…",
    "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "8e28b6d57c1c",
-   "titre": "Philippe Jaenada remporte le Goncourt pour \"L'Inconnue du quai de Javel\"",
-   "lien": "https://www.france24.com/fr/culture/20261103-prix-goncourt-2026-prestigieuse-philippe-jaenada",
-   "source": "France 24",
-   "date": "2026-11-03T11:51:57+00:00",
-   "extrait": "Dans une année marquée par la polémique autour de Thélyson Orélien et de l'intelligence artificielle, le prix Goncourt a finalement été attribué, mardi, à Philippe Jaenada pour son roman \"L’inconnue…",
-   "tags": [
-    "Économie",
-    "Tech"
-   ],
    "zone": "monde"
   },
   {
@@ -2573,16 +2960,6 @@
    "zone": "france"
   },
   {
-   "id": "d6d1275e0e9b",
-   "titre": "Coast Guard detains cruise ship in Miami, officials say",
-   "lien": "https://www.cbsnews.com/news/coast-guard-detains-msc-poesia-cruise-ship-miami/",
-   "source": "CBS News",
-   "date": "2026-11-03T02:44:00+00:00",
-   "extrait": "The MSC Poesia cruise ship is currently detained with passengers on board at the Port of Miami, and its itinerary is currently on hold, Coast Guard officials tell CBS News.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "fda22ac70de7",
    "titre": "ICE planning to deport Afghans through Pakistan, official says",
    "lien": "https://www.cbsnews.com/news/ice-deportation-afghans-through-pakistan/",
@@ -3148,395 +3525,6 @@
    "date": "2026-11-02T21:40:46+00:00",
    "extrait": "Le candidat Horizons à la présidentielle a relié les pillages du 17 octobre à l'immigration. Pour Maud Bregeon, il a \"dit tout haut ce que beaucoup de Français pensent tout bas\".",
    "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "87ca65d76d15",
-   "titre": "This woman defied lethal cancer. Can mRNA vaccines make that possible for others?",
-   "lien": "https://www.npr.org/2026/11/02/nx-s1-6009085/mrna-cancer-vaccine-pancreatic-skin",
-   "source": "NPR",
-   "date": "2026-11-02T21:31:10+00:00",
-   "extrait": "Researchers have been chasing the dream of a cancer vaccine for decades. Some recent successes with mRNA technology are garnering excitement from patients, doctors, government and investors.",
-   "tags": [
-    "Santé",
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "f275ed79cd44",
-   "titre": "Why Texas Dems are forecasting a \"Hispanic hurricane\" in midterms",
-   "lien": "https://www.cbsnews.com/news/texas-democrats-hispanic-vote-midterms-talarico-paxton-hinojosa-abbott/",
-   "source": "CBS News",
-   "date": "2026-11-02T21:30:00+00:00",
-   "extrait": "Two years ago, President Trump made historic gains with Hispanic voters nationwide and won a majority of Texas Hispanics. Now, Democrats believe they could swing back.",
-   "tags": [
-    "Politique",
-    "Climat"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "bc4cae7b1334",
-   "titre": "Pourquoi les Américains votent-ils toujours un mardi en novembre ?",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261102-pourquoi-am%C3%A9ricains-votent-toujours-mardi-en-novembre-%C3%A9tats-unis-%C3%A9lections-pr%C3%A9sidentielle-midterms-politique-histoire-culture-prime",
-   "source": "France 24",
-   "date": "2026-11-02T21:25:18+00:00",
-   "extrait": "Nombreux sont les pays se rendent aux urnes le week-end, comme la France. Mais les Américains, eux, votent... le mardi. Et toujours en novembre. D'où vient cette exception culturelle typique des…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "89142b4f5b2c",
-   "titre": "EN DIRECT, midterms 2026 : l’ultime discours de Donald Trump avant le scrutin, la décision de la Cour suprême sur la Californie… Retrouvez les dernières informations de la campagne",
-   "lien": "https://www.lemonde.fr/international/live/2026/11/02/en-direct-midterms-2026-l-iran-veut-un-accord-aussi-rapidement-que-possible-assure-donald-trump_6801590_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-02T21:13:47+00:00",
-   "extrait": "Les camps démocrate et républicain ont multiplié, lundi, les déplacements de dernière minute, à la veille des élections. Le président américain a lancé ses dernières piques contre ses rivaux…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c1b0dc2660ad",
-   "titre": "Présidentielle 2027 : la gauche fustige le camp d’Edouard Philippe pour ses propos sur l’immigration",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/02/presidentielle-2027-la-gauche-fustige-le-camp-d-edouard-philippe-pour-ses-propos-sur-l-immigration_6805320_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-02T21:09:22+00:00",
-   "extrait": "L’ancien premier ministre a jugé, la semaine dernière, « patente » la « surreprésentation » de jeunes issus de l’immigration lors des pillages du 17 octobre. Pour Maud Bregeon, il a « dit tout haut…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "49f6bc32e45e",
-   "titre": "En Ukraine, des frappes russes durant une distribution d'aide humanitaire font plus de 25 morts",
-   "lien": "https://www.france24.com/fr/europe/20261102-en-ukraine-des-frappes-russes-pendant-une-distribution-d-aide-humanitaire-font-26-morts",
-   "source": "France 24",
-   "date": "2026-11-02T21:07:54+00:00",
-   "extrait": "La Russie a mené plusieurs frappes, lundi, contre une école où était distribuée de l'aide humanitaire à Komyshuvakha, dans la région de Zaporijjia, dans le sud-est de l'Ukraine. Le bilan est d'au…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "013341a1234a",
-   "titre": "La préfecture de police interdit la manifestation prévue mardi par une organisation étudiante au coeur de Paris, Interfac IDF dépose un recours",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/la-prefecture-de-police-interdit-la-manifestation-prevue-mardi-par-une-organisation-etudiante-au-coeur-de-paris-interfac-idf-depose-un-recours_8264807.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-02T21:03:50+00:00",
-   "extrait": "Les autorités ont évoqué un parcours \"incompatible avec les contraintes de sécurité en vigueur\" mises en place \"dans un contexte social extrêmement tendu\". L'organisation étudiante dénonce \"une…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "fe9b8f8dae7d",
-   "titre": "Midterms : comment Donald Trump pave le récit d'un vote volé en cas de défaite",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261102-midterms-comment-donald-trump-pave-le-r%C3%A9cit-d-un-vote-vol%C3%A9-en-cas-de-d%C3%A9faite",
-   "source": "France 24",
-   "date": "2026-11-02T21:02:03+00:00",
-   "extrait": "Il pourrait perdre le contrôle du Congrès américain lors des élections de mi-mandat. Depuis plusieurs semaines, Donald Trump multiplie les accusations de fraudes électorales, la plupart du temps…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "ed58e9d975b3",
-   "titre": "Violences sexuelles : une nouvelle enquête atteste de leur ampleur chez les jeunes",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/02/violences-sexuelles-une-nouvelle-enquete-atteste-de-leur-ampleur-chez-les-jeunes_6805319_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-02T21:01:33+00:00",
-   "extrait": "Selon les résultats d’une étude menée par l’association Contre les violences sur mineurs, en partenariat avec l’Inserm et l’AP-HP, 63 % des jeunes de 18 ans à 21 ans interrogés déclarent avoir été…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "2f031abe5d26",
-   "titre": "Musk pumps $446m into US midterms, as campaign spending set to 'shatter' records",
-   "lien": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-02T20:54:44+00:00",
-   "extrait": "The 2026 campaign is projected to cost nearly $12bn - BBC Verify looks into where all that money has come from.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "26b3627d9e2b",
-   "titre": "Le gouvernement demande aux préfets de faciliter les ouvertures dominicales pour aider les commerces touchés par les violences en marge des manifestations",
-   "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-gouvernement-demande-aux-prefets-de-faciliter-les-ouvertures-dominicales-pour-aider-les-commerces-touches-par-les-violences-en-marge-des-manifestations_8264768.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-02T20:37:08+00:00",
-   "extrait": "Jeudi, le gouvernement avait déjà annoncé qu'il encourageait maires et préfets à autoriser des ouvertures dominicales exceptionnelles, réclamées par les professionnels jusqu'à Noël.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "f1c783ba1f82",
-   "titre": "Snap settles social media addiction lawsuit, averting trial",
-   "lien": "https://www.cbsnews.com/news/slug-snap-settles-social-media-addiction-lawsuit/",
-   "source": "CBS News",
-   "date": "2026-11-02T20:22:18+00:00",
-   "extrait": "Snap joins Alphabet, Meta and TikTok in resolving allegations that its social media platform was designed to encourage addictive behavior.",
-   "tags": [
-    "Justice",
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "1de8d607dd61",
-   "titre": "Ce que l'on sait du piratage des réfrigérateurs de supermarchés en Europe",
-   "lien": "https://www.france24.com/fr/europe/20261102-ce-que-sait-piratage-r%C3%A9frig%C3%A9rateurs-supermarch%C3%A9s-europe",
-   "source": "France 24",
-   "date": "2026-11-02T20:10:09+00:00",
-   "extrait": "Après la France, plusieurs dizaines de supermarchés européens ont été victimes, lundi, d'une cyberattaque visant leurs installations frigorifiques. En cause, des équipements parfois anciens, qui ne…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "5f3fc0f006ac",
-   "titre": "Man guilty of stealing cash from farm owned by South African president",
-   "lien": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-02T20:08:51+00:00",
-   "extrait": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "48982e3ccbf4",
-   "titre": "AI chatbots are becoming political advisers. Their answers can mislead voters",
-   "lien": "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice",
-   "source": "NPR",
-   "date": "2026-11-02T20:02:41+00:00",
-   "extrait": "Millions of Americans are turning to AI for election information, but chatbots are getting voting facts wrong and recommending candidates, raising concerns they could influence voters' decisions.",
-   "tags": [
-    "Politique",
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "9f31674056bb",
-   "titre": "\"Martyre de l'A10\" : près de 40 ans après, les parents d'Inass Touloub jugés aux assises",
-   "lien": "https://www.franceinfo.fr/faits-divers/martyre-de-l-a10/martyre-de-l-a10-pres-de-40-ans-apres-les-parents-d-inass-touloub-juges-aux-assises_8264750.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-02T20:02:07+00:00",
-   "extrait": "Lundi 2 novembre, à la barre, la mère d'Inass a reconnu des violences, mais contesté avoir volontairement donné la mort à sa fille. Jugé pour complicité, son père, aujourd'hui âgé de 72 ans, assure…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "8d072b3a15b4",
-   "titre": "Après les législatives en Israël, Benyamin Nétanyahou appelle à la formation d'une large coalition gouvernementale sous sa direction et sans les partis arabes",
-   "lien": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/apres-les-legislatives-en-israel-benyamin-netanyahou-appelle-a-la-formation-d-une-large-coalition-gouvernementale-sous-sa-direction-et-sans-les-partis-arabes_8264693.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-02T20:01:04+00:00",
-   "extrait": "Les élections législatives du 27 octobre n’ont dégagé aucune majorité : le camp du Premier ministre sortant est arrivé devant le bloc principal de l'opposition, mais loin de la majorité pour garder…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "5412ae699b2a",
-   "titre": "Is America really that polarized? The answer might be a surprise",
-   "lien": "https://www.npr.org/2026/11/02/nx-s1-6003534/us-political-polarization-research-trump",
-   "source": "NPR",
-   "date": "2026-11-02T20:00:00+00:00",
-   "extrait": "The U.S. has become more politically polarized, but research shows people overestimate their differences and there is 'messy middle' majority of Americans who share overlapping political views.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "3bbc6d75eba3",
-   "titre": "What Florida jet audio and flight data tells us about its final moments",
-   "lien": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-02T19:49:22+00:00",
-   "extrait": "A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "9de85c956efb",
-   "titre": "Le ministre de l'Intérieur \"ne renoncera à aucun moyen intermédiaire\" comme les grenades et gaz lacrymogènes lors des manifestations",
-   "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-ministre-de-l-interieur-ne-renoncera-a-aucun-moyen-intermediaire-comme-les-grenades-et-gaz-lacrymogenes-lors-des-manifestations_8264732.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-02T19:48:16+00:00",
-   "extrait": "\"La répression, elle n'existe pas\", a répondu Laurent Nuñez à des députés qui ont demandé de renoncer à l'emploi des grenades par les forces de l'ordre, après les graves blessures de lycéens lors du…",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "cbe5154fd2e4",
-   "titre": "A bitter sheriff's primary, a write-in campaign and a county divided",
-   "lien": "https://www.cbsnews.com/news/lee-county-alabama-sheriff-election-write-in-campaign/",
-   "source": "CBS News",
-   "date": "2026-11-02T19:43:17+00:00",
-   "extrait": "An unusual sheriff election in Lee County, Alabama, highlights how elected law enforcement often shapes issues of public safety, immigration and gun control.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "47b6d672a433",
-   "titre": "Agression d’une directrice d’école et d’une enseignante à Nice par une mère d’élève : une enquête ouverte pour « tentative de meurtre »",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/02/agression-d-une-directrice-d-ecole-et-d-une-enseignante-a-nice-par-une-mere-d-eleve-une-enquete-ouverte-pour-tentative-de-meurtre_6805317_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-02T19:41:29+00:00",
-   "extrait": "Une femme de 36 ans, mère de deux enfants scolarisés dans une école proche du centre de Nice, a menacé la directrice d’une arme à feu, avant de la frapper à plusieurs reprises, et de gifler une…",
-   "tags": [
-    "Conflits",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "b000dd11bf86",
-   "titre": "Sophie Adenot est l'invitée du 20 heures de France 2, suivez son interview",
-   "lien": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/direct-sophie-adenot-de-retour-sur-terre-suivez-sa-premiere-conference-de-presse-depuis-la-fin-de-son-programme-de-readaptation_8263655.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-02T19:41:29+00:00",
-   "extrait": "La Française a terminé son programme de remise en forme de trois semaines effectué au centre des astronautes européens, à Cologne (Allemagne).",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "028377f1d155",
-   "titre": "Midterms 2026 : un vote anti-Trump ?",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261102-midterms-2026-un-vote-anti-trump",
-   "source": "France 24",
-   "date": "2026-11-02T19:40:24+00:00",
-   "extrait": "Direction les États-Unis à la veille des élections de mi-mandat. La Chambre des représentants et un tiers du Sénat vont être renouvelés. Afin de faire basculer la chambre basse, les démocrates…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "ce33ffb8905b",
-   "titre": "Législatives en Israël : Benyamin Nétanyahou appelle à une large coalition, sous sa direction et sans les partis arabes ; l’opposition doit se réunir pour tenter de constituer une majorité",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/02/legislatives-en-israel-benyamin-netanyahou-appelle-a-une-large-coalition-sous-sa-direction-et-sans-les-partis-arabes-l-opposition-doit-se-reunir-pour-tenter-de-constituer-une-majorite_6805316_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-02T19:37:32+00:00",
-   "extrait": "Les élections législatives du 27 octobre n’ont dégagé aucune majorité, ni pour la coalition sortante du premier ministre israélien sortant, qui a obtenu 53 sièges, ni pour le bloc de l’opposition…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "871768d8740d",
-   "titre": "Case dismissed against 2 ex-FBI officials in Hunter Biden probe",
-   "lien": "https://www.cbsnews.com/news/judge-dismisses-ex-fbi-officials-hunter-biden-case/",
-   "source": "CBS News",
-   "date": "2026-11-02T19:34:20+00:00",
-   "extrait": "The two former FBI officials, Nicole Floris and Bradley Benavides, were accused of falsely suggesting to Congress that they weren't aware of the federal investigations surrounding Hunter Biden.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "39b3cb9c19bd",
-   "titre": "Au Japon, une justice implacable contre des trafics de drogue en plein essor",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/02/au-japon-une-justice-implacable-contre-des-trafics-de-drogue-en-plein-essor_6805315_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-02T19:30:07+00:00",
-   "extrait": "Les douanes nippones arrêtent de plus en plus de « mules » transportant de la drogue vers l’Archipel. La justice les sanctionne sévèrement alors que le pays fait face à une forte augmentation des…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "a646aadad875",
-   "titre": "Maintien de l’ordre : Laurent Nuñez affirme qu’il « ne renoncera à aucun moyen intermédiaire », comme les grenades et le gaz lacrymogène",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/02/maintien-de-l-ordre-laurent-nunez-affirme-qu-il-ne-renoncera-a-aucun-moyen-intermediaire-comme-les-grenades-et-gaz-lacrymogenes_6805314_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-02T19:27:54+00:00",
-   "extrait": "« La répression, elle n’existe pas (…). Nous, on est là pour éviter les troubles à l’ordre public », a déclaré le ministre de l’intérieur, lundi, devant la commission des lois de l’Assemblée…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "8372726f9ec0",
-   "titre": "Une enquête ouverte pour \"tentative de meurtre\" après l'agression à Nice d'une directrice d'école maternelle et d'une enseignante par une mère d'élèves",
-   "lien": "https://www.franceinfo.fr/faits-divers/a-nice-une-femme-interpellee-apres-avoir-agresse-la-directrice-d-une-ecole-maternelle-et-une-institutrice_8264156.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-02T19:25:12+00:00",
-   "extrait": "La femme de 36 ans, mère de deux enfants scolarisés à Nice, a menacé la directrice d'une arme à feu, avant de la frapper à plusieurs reprises, et de gifler une autre enseignante, selon le parquet de…",
-   "tags": [
-    "Conflits",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "7561b5be79b1",
-   "titre": "What does travel insurance cover? Here's what's included.",
-   "lien": "https://www.cbsnews.com/moneywatch/insurance/what-does-travel-insurance-cover-whats-included/",
-   "source": "CBS News",
-   "date": "2026-11-02T19:14:00+00:00",
-   "extrait": "Medical care, trip delays, and lost luggage are just some of the expenses travel insurance can cover.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "0bf141c22188",
-   "titre": "How much does travel insurance cost?",
-   "lien": "https://www.cbsnews.com/moneywatch/insurance/how-much-does-travel-insurance-cost/",
-   "source": "CBS News",
-   "date": "2026-11-02T19:13:20+00:00",
-   "extrait": "Travel insurance costs vary by trip length, traveler age and other factors. Here's what to consider.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "1ba98e73aa3f",
-   "titre": "Best travel insurance companies for 2026",
-   "lien": "https://www.cbsnews.com/moneywatch/insurance/travel/",
-   "source": "CBS News",
-   "date": "2026-11-02T19:11:00+00:00",
-   "extrait": "Compare the best travel insurance companies of 2026 to find the right protection for your trip and budget.",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "ccd43763df33",
-   "titre": "Comment l’IA permet aux bidouilleurs de « décompiler », de fusionner ou de copier plus rapidement des jeux vidéo",
-   "lien": "https://www.lemonde.fr/pixels/article/2026/11/02/comment-l-ia-permet-aux-bidouilleurs-de-decompiler-de-fusionner-ou-de-copier-plus-rapidement-des-jeux-video_6805311_4408996.html",
-   "source": "Le Monde",
-   "date": "2026-11-02T19:00:08+00:00",
-   "extrait": "Depuis des années, des communautés de passionnés travaillent d’arrache-pied pour déchiffrer et reproduire le code de certains jeux afin de les réinventer ou de les faire fonctionner sur d’autres…",
-   "tags": [
-    "Tech"
-   ],
    "zone": "france"
   }
  ]

@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-03T15:05:41+00:00",
+ "maj": "2026-11-03T16:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,43 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "310fe7a6e4c3",
+   "titre": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
+   "lien": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
+   "source": "The Hacker News",
+   "date": "2026-11-03T15:41:53+00:00",
+   "extrait": "Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services. The tactic is…",
+   "tags": [
+    "Fuite de données",
+    "Malware",
+    "IA"
+   ]
+  },
+  {
+   "id": "63d055e30b47",
+   "titre": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
+   "lien": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
+   "source": "The Hacker News",
+   "date": "2026-11-03T15:16:32+00:00",
+   "extrait": "An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a backdoor and collected…",
+   "tags": [
+    "Malware",
+    "Outil",
+    "Linux"
+   ]
+  },
+  {
+   "id": "36b3d0baf9aa",
+   "titre": "Barracuda warns of critical flaws allowing root access to devices",
+   "lien": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
+   "source": "BleepingComputer",
+   "date": "2026-11-03T15:06:16+00:00",
+   "extrait": "Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]",
+   "tags": [
+    "Faille"
+   ]
+  },
   {
    "id": "f6282e8c323a",
    "titre": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
@@ -3403,38 +3440,6 @@
    "extrait": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
    "tags": [
     "Faille"
-   ]
-  },
-  {
-   "id": "eebdb3f4f6ae",
-   "titre": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
-   "lien": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
-   "source": "The Hacker News",
-   "date": "2026-10-22T17:01:53+00:00",
-   "extrait": "Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by Trend Micro's Zero Day Initiative, with no fix yet in the…",
-   "tags": [
-    "Faille",
-    "Linux"
-   ]
-  },
-  {
-   "id": "6b7369ef168a",
-   "titre": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
-   "lien": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
-   "source": "The Hacker News",
-   "date": "2026-10-22T16:12:31+00:00",
-   "extrait": "Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data…",
-   "tags": []
-  },
-  {
-   "id": "0563a66ccd63",
-   "titre": "Microsoft shares how to fix broken Exchange Online EWS apps",
-   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
-   "source": "BleepingComputer",
-   "date": "2026-10-22T15:49:32+00:00",
-   "extrait": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]",
-   "tags": [
-    "Windows"
    ]
   }
  ]
