@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-04T05:05:39+00:00",
+ "maj": "2026-11-04T06:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,15 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "a45ef699f795",
+   "titre": "Astra a retouché les poids de Qwen pour qu'il puisse aller jusqu'au bout de sa réflexion",
+   "lien": "https://korben.info/gpt-6-astra-poids-qwen.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-04T04:44:37+00:00",
+   "extrait": "GPT-6 Astra a modifié 0,016 % des poids de Qwen3.5-0.8B et fait passer MATH-500 de 7,9 % à 48,1 %. Sauf que la retouche répare surtout des boucles de réflexion : réflexion coupée, son réglage par…",
+   "tags": []
+  },
   {
    "id": "04c313d4b4ca",
    "titre": "DiscImageStudio - Un dessin gravé dans les données du disque",
@@ -3431,17 +3440,6 @@
    "tags": [
     "Faille",
     "Linux"
-   ]
-  },
-  {
-   "id": "c141a7793baf",
-   "titre": "Multiples vulnérabilités dans les produits SUSE (23 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1372/",
-   "source": "CERT-FR",
-   "date": "2026-10-23T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de…",
-   "tags": [
-    "Faille"
    ]
   }
  ]
