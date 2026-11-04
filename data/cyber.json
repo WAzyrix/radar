@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-04T19:05:39+00:00",
+ "maj": "2026-11-04T20:04:24+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "1413af0079f4",
+   "titre": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+   "lien": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
+   "source": "BleepingComputer",
+   "date": "2026-11-04T19:05:19+00:00",
+   "extrait": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
   {
    "id": "801b944f5621",
    "titre": "Cyberattack disrupts blood storage refrigeration systems in France",
@@ -3420,18 +3431,6 @@
    "extrait": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have…",
    "tags": [
     "Malware"
-   ]
-  },
-  {
-   "id": "838b4b1ce253",
-   "titre": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-   "lien": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-   "source": "The Hacker News",
-   "date": "2026-10-24T06:25:57+00:00",
-   "extrait": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its…",
-   "tags": [
-    "CVE",
-    "Faille"
    ]
   }
  ]
