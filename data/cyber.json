@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-04T15:05:40+00:00",
+ "maj": "2026-11-04T16:21:26+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,6 +24,17 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "4ba7cadb265a",
+   "titre": "mSecure password manager hack prompts password reset warnings",
+   "lien": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
+   "source": "BleepingComputer",
+   "date": "2026-11-04T16:00:18+00:00",
+   "extrait": "mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly…",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
    "id": "d6dd46466a93",
    "titre": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
    "lien": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
@@ -36,7 +47,7 @@
   },
   {
    "id": "ffe69d986f99",
-   "titre": "Crédit Mutuel Arkéa : 133 millions de dollars détournés",
+   "titre": "Crédit Mutuel Arkéa : 133 millions de dollars détournés ?",
    "lien": "https://www.zataz.com/credit-mutuel-arkea-133-millions-de-dollars-detournes/",
    "source": "Zataz",
    "date": "2026-11-04T14:53:45+00:00",
@@ -247,6 +258,160 @@
    "tags": [
     "Linux",
     "Windows"
+   ]
+  },
+  {
+   "id": "b13cbe60c504",
+   "titre": "Multiples vulnérabilités dans les produits Symfony (04 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1460/",
+   "source": "CERT-FR",
+   "date": "2026-11-04T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Symfony. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "90c840765ea7",
+   "titre": "Multiples vulnérabilités dans Apache Zookeeper (04 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1448/",
+   "source": "CERT-FR",
+   "date": "2026-11-04T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Apache Zookeeper. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "2a4400c9cd6e",
+   "titre": "Multiples vulnérabilités dans les produits SonicWall (04 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1456/",
+   "source": "CERT-FR",
+   "date": "2026-11-04T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits SonicWall. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection SQL (SQLi).",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "59b477f31b5f",
+   "titre": "Vulnérabilité dans MongoDB (04 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1454/",
+   "source": "CERT-FR",
+   "date": "2026-11-04T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans MongoDB. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "21e4a8fd6045",
+   "titre": "Multiples vulnérabilités dans les produits Mattermost (04 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1458/",
+   "source": "CERT-FR",
+   "date": "2026-11-04T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "282e29c343fc",
+   "titre": "Vulnérabilité dans Laravel (04 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1457/",
+   "source": "CERT-FR",
+   "date": "2026-11-04T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans Laravel. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "8857f9c18f3d",
+   "titre": "Multiples vulnérabilités dans les produits HPE Aruba Networking (04 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1451/",
+   "source": "CERT-FR",
+   "date": "2026-11-04T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "ee0754369e78",
+   "titre": "Multiples vulnérabilités dans Google Chrome (04 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1450/",
+   "source": "CERT-FR",
+   "date": "2026-11-04T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "49a91d3e8913",
+   "titre": "Vulnérabilité dans Mozilla Firefox (04 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1455/",
+   "source": "CERT-FR",
+   "date": "2026-11-04T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans Mozilla Firefox. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "e1a46e7ff831",
+   "titre": "Multiples vulnérabilités dans les produits Citrix (04 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1449/",
+   "source": "CERT-FR",
+   "date": "2026-11-04T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Citrix. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "6886851a21fc",
+   "titre": "Multiples vulnérabilités dans NetApp StorageGRID (04 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1453/",
+   "source": "CERT-FR",
+   "date": "2026-11-04T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans NetApp StorageGRID. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "60a16bf6f203",
+   "titre": "Multiples vulnérabilités dans les produits Elastic (04 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1461/",
+   "source": "CERT-FR",
+   "date": "2026-11-04T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Elastic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "955f81b5cf5e",
+   "titre": "Multiples vulnérabilités dans SolarWinds Dameware (04 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1459/",
+   "source": "CERT-FR",
+   "date": "2026-11-04T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans SolarWinds Dameware. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "8e91b349c146",
+   "titre": "Multiples vulnérabilités dans Ruby on Rails (04 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1452/",
+   "source": "CERT-FR",
+   "date": "2026-11-04T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Ruby on Rails. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à…",
+   "tags": [
+    "Faille"
    ]
   },
   {
@@ -3268,177 +3433,6 @@
    "extrait": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]",
    "tags": [
     "Windows"
-   ]
-  },
-  {
-   "id": "f582252343af",
-   "titre": "Quest Diagnostics confirms data breach exposed patient records",
-   "lien": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
-   "source": "BleepingComputer",
-   "date": "2026-10-23T16:40:07+00:00",
-   "extrait": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]",
-   "tags": [
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "5d4b1321ac5e",
-   "titre": "PHP shares mitigation for new RCE vulnerability with no patch",
-   "lien": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
-   "source": "BleepingComputer",
-   "date": "2026-10-23T15:38:05+00:00",
-   "extrait": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "4eed9c7e0436",
-   "titre": "You gave your AI agent access, but who is giving it orders?",
-   "lien": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
-   "source": "BleepingComputer",
-   "date": "2026-10-23T14:00:10+00:00",
-   "extrait": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how…",
-   "tags": [
-    "IA"
-   ]
-  },
-  {
-   "id": "f059789b2437",
-   "titre": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
-   "lien": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
-   "source": "The Hacker News",
-   "date": "2026-10-23T13:50:56+00:00",
-   "extrait": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls…",
-   "tags": [
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "a3c3135e6fc7",
-   "titre": "Technostress : une faille pour l’ingénierie sociale",
-   "lien": "https://www.zataz.com/technostress-une-faille-pour-lingenierie-sociale/",
-   "source": "Zataz",
-   "date": "2026-10-23T12:56:16+00:00",
-   "extrait": "Technostress et ingénierie sociale : comment la surcharge numérique peut fragiliser la vigilance face aux manipulations.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "eb477469ff02",
-   "titre": "HPE patches eight max severity RCE and auth bypass AOS flaws",
-   "lien": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
-   "source": "BleepingComputer",
-   "date": "2026-10-23T12:48:00+00:00",
-   "extrait": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "3bc9a46d2904",
-   "titre": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
-   "lien": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
-   "source": "The Hacker News",
-   "date": "2026-10-23T11:25:43+00:00",
-   "extrait": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects…",
-   "tags": [
-    "CVE",
-    "Faille"
-   ]
-  },
-  {
-   "id": "80697809b26e",
-   "titre": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
-   "lien": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-   "source": "The Hacker News",
-   "date": "2026-10-23T11:11:23+00:00",
-   "extrait": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET…",
-   "tags": [
-    "Fuite de données",
-    "Malware"
-   ]
-  },
-  {
-   "id": "1724a21ac415",
-   "titre": "Piratage de la FFTir : la Fédération confirme le vol",
-   "lien": "https://www.zataz.com/piratage-de-la-fftir-la-federation-confirme-le-vol/",
-   "source": "Zataz",
-   "date": "2026-10-23T10:41:26+00:00",
-   "extrait": "FFTir : la Fédération confirme une cyberattaque, le vol de 64 000 photos et de milliers de documents personnels.",
-   "tags": [
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "ac229d8433af",
-   "titre": "Fraude bancaire : deux mails pour installer la peur",
-   "lien": "https://www.zataz.com/fraude-bancaire-deux-mails-pour-installer-la-peur/",
-   "source": "Zataz",
-   "date": "2026-10-23T10:27:14+00:00",
-   "extrait": "Alerte ZATAZ : deux faux mails bancaires, des milliers d'euros en jeu et une fraude téléphonique décryptée.",
-   "tags": []
-  },
-  {
-   "id": "3a89e69463ce",
-   "titre": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
-   "lien": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
-   "source": "The Hacker News",
-   "date": "2026-10-23T09:36:00+00:00",
-   "extrait": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open. The flaw, CVE-2026-112900, is in…",
-   "tags": [
-    "CVE",
-    "Faille"
-   ]
-  },
-  {
-   "id": "a2a9e372db7b",
-   "titre": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
-   "lien": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
-   "source": "The Hacker News",
-   "date": "2026-10-23T08:40:43+00:00",
-   "extrait": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have demonstrated. Their \"Node2Shell\" proof of concept ran…",
-   "tags": [
-    "CVE",
-    "Faille",
-    "Linux"
-   ]
-  },
-  {
-   "id": "6f084559d703",
-   "titre": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
-   "lien": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
-   "source": "The Hacker News",
-   "date": "2026-10-23T08:35:45+00:00",
-   "extrait": "AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22. The cause…",
-   "tags": [
-    "Faille",
-    "IA"
-   ]
-  },
-  {
-   "id": "199bd0864fa3",
-   "titre": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
-   "lien": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
-   "source": "The Hacker News",
-   "date": "2026-10-23T07:40:45+00:00",
-   "extrait": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it…",
-   "tags": [
-    "CVE",
-    "Faille",
-    "Malware"
-   ]
-  },
-  {
-   "id": "72523cfcc779",
-   "titre": "Multiples vulnérabilités dans les produits Red Hat (23 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1373/",
-   "source": "CERT-FR",
-   "date": "2026-10-23T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, un déni de…",
-   "tags": [
-    "Faille"
    ]
   }
  ]
