@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-04T00:05:39+00:00",
+ "maj": "2026-11-04T01:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,15 +22,221 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "76c196578594",
+   "titre": "Jon Ossoff wins Georgia 2026 Senate election, keeping seat for Democrats",
+   "lien": "https://www.cbsnews.com/news/georgia-2026-senate-ossoff-collins/",
+   "source": "CBS News",
+   "date": "2026-11-04T01:03:28+00:00",
+   "extrait": "Democratic Sen. Jon Ossoff defeated GOP Rep. Mike Collins in the Georgia Senate race, CBS News projects, holding onto his seat in the upper chamber.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "46dde36fc0fb",
-   "titre": "Senate election results as first polls begin to close",
+   "titre": "Senate election results as polls begin to close, Ossoff wins reelection",
    "lien": "https://www.cbsnews.com/live-updates/senate-election-results-2026/",
    "source": "CBS News",
-   "date": "2026-11-04T00:05:07+00:00",
+   "date": "2026-11-04T01:02:24+00:00",
    "extrait": "Republicans are defending a 53-47 majority in the Senate, as Democrats aim to flip enough seats to gain control.",
    "tags": [
     "Politique"
    ],
+   "zone": "usa"
+  },
+  {
+   "id": "eacf9ec3fb65",
+   "titre": "Midterm results coming in as polls close in half of states — live updates",
+   "lien": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/",
+   "source": "CBS News",
+   "date": "2026-11-04T01:02:16+00:00",
+   "extrait": "Polls are now closed in half of the states in the country as results from the 2026 midterm elections continue to come in. Follow live updates here.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "e9163f0724a9",
+   "titre": "Midterms 2026 : le démocrate Jon Ossoff est réélu sénateur en Géorgie, les premiers résultats tombent",
+   "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-midterms-2026-suivez-les-resultats-des-elections-de-mi-mandat-cruciales-pour-donald-trump-et-les-premieres-reactions_8265464.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-04T01:01:19+00:00",
+   "extrait": "Des bureaux de vote ont fermé sur la côte Est, alors que près de 250 millions d'électeurs américains sont appelés aux urnes dans ces élections de mi-mandat qui s'apparentent à un référendum pour ou…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "c7e474119e67",
+   "titre": "House election results as Democrats and GOP vie for control",
+   "lien": "https://www.cbsnews.com/live-updates/house-election-results-2026/",
+   "source": "CBS News",
+   "date": "2026-11-04T01:00:31+00:00",
+   "extrait": "Will Democrats or Republicans win control of the House in the 2026 election? Follow the midterm election results here, as polls begin to close.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "b0936e6dce0d",
+   "titre": "Jon Ossoff wins reelection in Georgia, easily defeating Republican Mike Collins",
+   "lien": "https://www.npr.org/2026/11/03/g-s1-150143/georgia-senate-race-jon-ossoff-mike-collins",
+   "source": "NPR",
+   "date": "2026-11-04T00:55:57+00:00",
+   "extrait": "A year ago, the Georgia Senate race was considered one of the cycle's marquee Senate showdowns. In the end, Ossoff easily defeated Collins.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "8478806a4903",
+   "titre": "See CBS News exit poll results for the 2026 midterm elections",
+   "lien": "https://www.cbsnews.com/news/cbs-news-exit-polls-midterm-elections-2026/",
+   "source": "CBS News",
+   "date": "2026-11-04T00:53:37+00:00",
+   "extrait": "Here's a national look at what's on voters' minds in the 2026 midterm elections as they cast their ballots.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "ab9d85007d7a",
+   "titre": "Polls close in Ohio, North Carolina and West Virginia",
+   "lien": "https://www.cbsnews.com/video/polls-close-ohio-north-carolina-west-virginia/",
+   "source": "CBS News",
+   "date": "2026-11-04T00:48:28+00:00",
+   "extrait": "Polls have closed in Ohio, West Virginia and at most precincts in North Carolina. Tony Dokoupil and Norah O'Donnell anchor CBS News' special coverage.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "591f47f86df8",
+   "titre": "911 call made by hero dad who took down Oregon school shooter released",
+   "lien": "https://www.cbsnews.com/video/911-call-made-by-hero-dad-who-took-down-oregon-school-shooter-released/",
+   "source": "CBS News",
+   "date": "2026-11-04T00:41:07+00:00",
+   "extrait": "A newly released 911 call details the moments before Kaylub Giamanco intervened in the Oregon elementary school shooting. Carter Evans has more.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "5ee20f2ba74f",
+   "titre": "Investigators find first pieces of Learjet after fatal Florida crash",
+   "lien": "https://www.cbsnews.com/video/investigators-find-first-pieces-of-learjet-after-fatal-florida-crash/",
+   "source": "CBS News",
+   "date": "2026-11-04T00:39:12+00:00",
+   "extrait": "Transportation Safety Board investigators found pieces of the Learjet that crashed in Florida on Monday, miles from the crash site. Kris Van Cleave reports.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "908fa94bae7a",
+   "titre": "Florida deals with severe flooding amid \"1,000-year rain event\"",
+   "lien": "https://www.cbsnews.com/video/florida-deals-with-severe-flooding-amid-1000-year-rain-event/",
+   "source": "CBS News",
+   "date": "2026-11-04T00:36:02+00:00",
+   "extrait": "At least eight counties in Florida are dealing with widespread flooding after a major rain event. Jason Allen has the story.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "07c1cb70b1a8",
+   "titre": "RESULTATS. Donald Trump va-t-il perdre le contrôle du Sénat ou de la Chambre des représentants ? Découvrez le décompte des sièges en direct",
+   "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/resultats-midterms-2026-donald-trump-va-t-il-perdre-le-controle-du-senat-ou-de-la-chambre-des-representants-suivez-le-decompte-des-sieges-en-direct_8237248.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-04T00:33:26+00:00",
+   "extrait": "Les Américains ont voté mardi pour le renouvellement de leur Congrès. Découvrez les résultats des élections de mi-mandat sur notre page mise à jour tout au long de la nuit.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "e8873f312e04",
+   "titre": "Polls close in 6 states as exit polls find Trump's approval rating at 38%",
+   "lien": "https://www.cbsnews.com/video/polls-close-6-states-exit-polls-find-trumps-approval-rating/",
+   "source": "CBS News",
+   "date": "2026-11-04T00:32:14+00:00",
+   "extrait": "The polls have closed in six U.S. states in the 2026 midterm elections that could determine the power of Congress. CBS News projects that incumbent Sen. Mark Warner will hold onto his seat in…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "3e7e44657929",
+   "titre": "Here are the races to watch in the House and Senate as midterm voting wraps",
+   "lien": "https://www.cbsnews.com/video/here-are-the-races-to-watch-in-the-house-and-senate-as-midterm-voting-wraps/",
+   "source": "CBS News",
+   "date": "2026-11-04T00:30:52+00:00",
+   "extrait": "Midterm voting is wrapping up as Americans decide who will represent them in the House and Senate. Ed O'Keefe breaks it down.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "b6ddb407954d",
+   "titre": "What the latest exit polls say as midterm voting wraps",
+   "lien": "https://www.cbsnews.com/video/what-the-latest-exit-polls-say-as-midterm-voting-wraps/",
+   "source": "CBS News",
+   "date": "2026-11-04T00:30:13+00:00",
+   "extrait": "Exit polls are flowing in as midterm voting wraps up across states. Major Garrett has the latest.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "c3cebb607d64",
+   "titre": "Trump tells CBS News he is willing to use \"tremendous powers\" if Democrats take Congress",
+   "lien": "https://www.cbsnews.com/video/trump-tells-cbs-news-willing-use-tremendous-powers-democrats-congress/",
+   "source": "CBS News",
+   "date": "2026-11-04T00:28:00+00:00",
+   "extrait": "Many midterm elections could act as a referendum on President Donald Trump and his second administration. CBS News chief Washington analyst Robert Costa spoke with the president on election night.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "722b73feae10",
+   "titre": "How to watch live election results on CBS News",
+   "lien": "https://www.cbsnews.com/news/where-to-watch-election-2026/",
+   "source": "CBS News",
+   "date": "2026-11-04T00:27:05+00:00",
+   "extrait": "With control of Congress on the line in House and Senate races around the country, here's how to watch the 2026 midterm election results on Tuesday, Nov. 3.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "e8672e81b501",
+   "titre": "EN DIRECT, midterms 2026 : de la Floride à la Californie, suivez les résultats des élections de mi-mandat en direct",
+   "lien": "https://www.lemonde.fr/international/live/2026/11/04/en-direct-midterms-2026-de-la-floride-a-la-californie-suivez-les-resultats-des-elections-de-mi-mandat-en-direct_6805528_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-04T00:21:03+00:00",
+   "extrait": "Les bureaux de vote ferment aux Etats-Unis, et les résultats commencent à tomber. Plus de 58 millions d’Américains ont déjà voté par anticipation – un record pour des élections de mi-mandat, qui…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "7f46da2064eb",
+   "titre": "Latest on tight races in Michigan, Texas, and Maine as voting underway",
+   "lien": "https://www.cbsnews.com/video/latest-on-tight-races-in-michigan-texas-and-maine-as-voting-underway/",
+   "source": "CBS News",
+   "date": "2026-11-04T00:19:39+00:00",
+   "extrait": "Tight midterm races in the states of Michigan, Texas, and Maine are coming to a close. Nikole Killion, Adriana Diaz, and Jericka Duncan have the latest.",
+   "tags": [],
    "zone": "usa"
   },
   {
@@ -46,12 +252,12 @@
    "zone": "monde"
   },
   {
-   "id": "c7e474119e67",
-   "titre": "House election results as Democrats and GOP vie for control",
-   "lien": "https://www.cbsnews.com/live-updates/house-election-results-2026/",
+   "id": "3ebef967391d",
+   "titre": "62% of Americans don't think Trump fights for people like them, exit poll shows",
+   "lien": "https://www.cbsnews.com/video/most-americans-dont-think-trump-fights-for-people-like-them-exit-poll-shows/",
    "source": "CBS News",
-   "date": "2026-11-04T00:00:18+00:00",
-   "extrait": "Will Democrats or Republicans win control of the House in the 2026 election? Follow the midterm election results here, as polls begin to close.",
+   "date": "2026-11-04T00:00:33+00:00",
+   "extrait": "A new exit poll shows 62% of Americans don't believe President Trump is fighting for them.",
    "tags": [
     "Politique"
    ],
@@ -70,18 +276,6 @@
    "zone": "usa"
   },
   {
-   "id": "eacf9ec3fb65",
-   "titre": "First midterm results start coming in as polls close in 6 states — live updates",
-   "lien": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/",
-   "source": "CBS News",
-   "date": "2026-11-04T00:00:01+00:00",
-   "extrait": "Polls are now closed in six states and the first results of the 2026 midterm elections are coming in. Follow live updates here.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "12b0eaea270a",
    "titre": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
    "lien": "https://www.bbc.co.uk/news/videos/cmy4x59kdknwo?at_medium=RSS&at_campaign=rss",
@@ -90,18 +284,6 @@
    "extrait": "The All's Fair star tells the BBC she has not given up, but will be \"more quiet\" about her journey to become a lawyer.",
    "tags": [],
    "zone": "monde"
-  },
-  {
-   "id": "e9163f0724a9",
-   "titre": "Les bureaux de vote commencent à fermer aux Etats-Unis, suivez les midterms 2026 avec nous",
-   "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-midterms-2026-suivez-les-resultats-des-elections-de-mi-mandat-cruciales-pour-donald-trump-et-les-premieres-reactions_8265464.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-03T23:56:00+00:00",
-   "extrait": "Près de 250 millions d'électeurs américains sont appelés aux urnes dans ces élections de mi-mandat qui s'apparentent à un référendum pour ou contre la poursuite de l'action du président Donald Trump.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
   },
   {
    "id": "6f0810a5175d",
@@ -373,30 +555,6 @@
    "zone": "usa"
   },
   {
-   "id": "722b73feae10",
-   "titre": "How to watch live election results on CBS News",
-   "lien": "https://www.cbsnews.com/news/where-to-watch-election-2026/",
-   "source": "CBS News",
-   "date": "2026-11-03T22:28:13+00:00",
-   "extrait": "With control of Congress on the line in House and Senate races around the country, here's how to watch the 2026 midterm election results on Tuesday, Nov. 3.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "8478806a4903",
-   "titre": "See CBS News exit poll results for the 2026 midterm elections",
-   "lien": "https://www.cbsnews.com/news/cbs-news-exit-polls-midterm-elections-2026/",
-   "source": "CBS News",
-   "date": "2026-11-03T22:28:00+00:00",
-   "extrait": "Here's a national look at what's on voters' minds in the 2026 midterm elections as they cast their ballots.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "e8f175073a32",
    "titre": "\"C'est une formidable nouvelle\", salue Philippe Jaenada, lauréat du prix Goncourt pour \"L'Inconnue du quai de Javel\", sur France 2",
    "lien": "https://www.franceinfo.fr/culture/livres/prix-litteraires/direct-prix-goncourt-2026-qui-succedera-a-la-maison-vide-de-laurent-mauvignier_8264468.html#xtor=RSS-3-[lestitres]",
@@ -410,11 +568,11 @@
   },
   {
    "id": "a570377798b9",
-   "titre": "Ligue des champions : le résumé du festival offensif du PSG face à Villarreal et du match nul frustrant de Lille face à Bodo Glimt",
+   "titre": "Ligue des champions : le résumé du festival offensif du PSG face à Villarreal et du match nul frustrant de Lille contre Bodo Glimt",
    "lien": "https://www.lemonde.fr/sport/article/2026/11/03/ligue-des-champions-le-resume-du-festival-offensif-du-psg-face-a-villarreal-et-du-match-nul-frustrant-de-lille-face-a-bodo-glimt_6805702_3242.html",
    "source": "Le Monde",
    "date": "2026-11-03T22:26:34+00:00",
-   "extrait": "Les Parisiens, qui ont déroulé, mardi, face à Villarreal (6-0), poursuivent leur sans-faute en Ligue des champions. Les Lillois, eux, ont été tenus en échec (0-0) lors de leur déplacement en Norvège.",
+   "extrait": "Les Parisiens, qui l’ont largement emporté, mardi, contre Villarreal (6-0), poursuivent leur sans-faute en Ligue des champions. Les Lillois, eux, ont été tenus en échec (0-0) lors de leur…",
    "tags": [],
    "zone": "france"
   },
@@ -534,18 +692,6 @@
    "zone": "usa"
   },
   {
-   "id": "07c1cb70b1a8",
-   "titre": "RESULTATS. Donald Trump va-t-il perdre le contrôle du Sénat ou de la Chambre des représentants ? Découvrez le décompte des sièges en direct",
-   "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/resultats-midterms-2026-donald-trump-va-t-il-perdre-le-controle-du-senat-ou-de-la-chambre-des-representants-suivez-le-decompte-des-sieges-en-direct_8237248.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-03T22:00:02+00:00",
-   "extrait": "Les Américains ont voté mardi pour le renouvellement de leur Congrès. Découvrez les résultats des élections de mi-mandat sur notre page mise à jour tout au long de la nuit.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "e38831f557c3",
    "titre": "Latest on California governor race as Xavier Becerra, Steve Hilton face off",
    "lien": "https://www.cbsnews.com/video/latest-on-california-governor-race-as/",
@@ -642,6 +788,16 @@
    "source": "franceinfo",
    "date": "2026-11-03T21:24:13+00:00",
    "extrait": "Dans son livre \"Flic\", paru en 2020, Valentin Gendrot avait décrit les \"tabassages\", les insultes racistes et homophobes, mais aussi le manque de moyens, les suicides et le mal-être des policiers…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "b46c5ba45212",
+   "titre": "La conférence du député LFI Raphaël Arnault, annulée à Lyon pour des raisons de sécurité, aura finalement lieu à Villeurbanne",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/03/la-conference-du-depute-lfi-raphael-arnault-annulee-a-lyon-pour-des-raisons-de-securite-aura-finalement-lieu-a-villeurbanne_6805669_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-03T21:13:15+00:00",
+   "extrait": "« Nous serons bien présents ce vendredi » pour rappeler que « Lyon et ses alentours sont des terres d’antifascisme et de résistance à l’extrême droite », ont affirmé dans un communiqué le député du…",
    "tags": [],
    "zone": "france"
   },
@@ -950,11 +1106,9 @@
    "titre": "Présidentielle 2027 : pourquoi les dates du scrutin virent au casse-tête constitutionnel",
    "lien": "https://www.lemonde.fr/politique/article/2026/11/03/presidentielle-2027-pourquoi-les-dates-du-scrutin-virent-au-casse-tete-constitutionnel_6805653_823448.html",
    "source": "Le Monde",
-   "date": "2026-11-03T19:00:12+00:00",
-   "extrait": "La controverse suscitée par le choix du 2 mai 2027 pour la tenue du second tour de l’élection présidentielle a pris une nouvelle ampleur à la suite des débordements survenus à l’occasion de la…",
-   "tags": [
-    "Politique"
-   ],
+   "date": "2026-11-03T19:00:05+00:00",
+   "extrait": "La controverse suscitée par le choix du 2 mai 2027 pour la tenue du second tour a pris une nouvelle ampleur à la suite des débordements survenus à l’occasion de la mobilisation du 17 octobre. Les…",
+   "tags": [],
    "zone": "france"
   },
   {
@@ -3331,169 +3485,6 @@
     "Économie",
     "Conflits"
    ],
-   "zone": "france"
-  },
-  {
-   "id": "9f39d6bd459b",
-   "titre": "Crise de l'aide alimentaire aux États-Unis : un enjeu de campagne dans l’Arizona",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/focus/20261103-crise-de-l-aide-alimentaire-aux-%C3%A9tats-unis-un-enjeu-de-campagne-dans-l-arizona",
-   "source": "France 24",
-   "date": "2026-11-03T10:42:44+00:00",
-   "extrait": "À l'approche des élections de mi-mandat aux États-Unis, l'Arizona, État clé du scrutin, est en première ligne d'une réforme majeure de l'aide sociale. Depuis l'adoption de la loi budgétaire de…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "9023c5171bb7",
-   "titre": "Midterms: au Michigan, le démocrate El-Sayed veut instaurer la gratuité des soins",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261103-midterms-au-michigan-le-d%C3%A9mocrate-el-sayed-veut-instaurer-la-gratuit%C3%A9-des-soins",
-   "source": "France 24",
-   "date": "2026-11-03T10:39:21+00:00",
-   "extrait": "Abdul El-Sayed, un médecin briguant sous la bannière démocrate un siège crucial au Sénat américain, électrise une foule de partisans à Détroit en lançant : \"Faites du bruit pour la santé publique !\"…",
-   "tags": [
-    "Politique",
-    "Santé"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "72d24c916ae2",
-   "titre": "Une enquête pour violences confiée à l'IGPN après qu'un homme a été blessé au visage à Marseille en marge des manifestations du 31 octobre",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/a-marseille-une-enquete-pour-violences-confiee-a-l-igpn-apres-qu-un-homme-a-ete-blesse-au-visage-en-marge-des-manifestations-du-31-octobre_8265575.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-03T10:37:48+00:00",
-   "extrait": "La victime, un homme de 39 ans, a déposé une plainte pour \"violences volontaires avec armes en réunion entraînant une ITT de plus de huit jours par personne dépositaire de l'autorité publique\".",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "43f5f12d6466",
-   "titre": "Lindsay Clancy judge says he's leaning toward retrial in March",
-   "lien": "https://www.cbsnews.com/news/lindsay-clancy-hearing-new-second-trial/",
-   "source": "CBS News",
-   "date": "2026-11-03T10:37:01+00:00",
-   "extrait": "Prosecutors in Lindsay Clancy's case say they plan to have her stand trial a second time, with the judge leaning toward a possible March retrial.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "dc09a81ff226",
-   "titre": "Midterms : l'inflation galopante pourrait détourner les électeurs de Donald Trump.",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261103-midterms-l-inflation-galopante-pourrait-d%C3%A9tourner-les-%C3%A9lecteurs-de-donald-trump",
-   "source": "France 24",
-   "date": "2026-11-03T10:36:01+00:00",
-   "extrait": "L'un des sujets majeurs de cette campagne des midterms, comme souvent aux Etats-Unis, est l'économie. Les chiffres sont en défaveur du président américain : l'inflation de septembre dépasse d'un…",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "75647068409c",
-   "titre": "La région Ile-de-France continue de proposer des contenus similaires à ses \"manuels libres\" dans les lycées, dénoncent les éditeurs privés",
-   "lien": "https://www.franceinfo.fr/societe/education/info-radio-france-la-region-ile-de-france-continue-de-proposer-des-contenus-similaires-a-ses-manuels-libres-dans-les-lycees_8265410.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-03T10:35:12+00:00",
-   "extrait": "Les éditeurs privés dénoncent la présence de ces manuels scolaires numériques, présentés comme \"libres\", malgré une décision de justice imposant à la région Île-de-France le retrait des \"manuels…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "f8c713f7a132",
-   "titre": "\"L'impact a-t-il produit un cratère ?\" : la sonde spatiale Hera envoyée examiner les dégâts du crash volontaire de la sonde Dart sur un astéroïde",
-   "lien": "https://www.franceinfo.fr/sciences/espace/l-impact-a-t-il-produit-un-cratere-la-sonde-spatiale-hera-envoyee-examiner-les-degats-du-crash-volontaire-de-la-sonde-dart-sur-un-asteroide_8265377.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-03T10:32:40+00:00",
-   "extrait": "Les agences spatiales poursuivent leur toute première opération de défense planétaire, en cas de risque de collision avec un un objet venu de l'espace. Après un impact provoqué en 2022 avec un…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "b0fbfa0a3669",
-   "titre": "Midterms : un vote décisif pour Donald Trump et la suite de son mandat",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261103-midterms-un-vote-d%C3%A9cisif-pour-donald-trump-et-la-suite-de-son-mandat",
-   "source": "France 24",
-   "date": "2026-11-03T10:31:37+00:00",
-   "extrait": "Les États-uniens sont appelés à voter mardi 3 novembre lors d'élections de mi-mandat décisives pour les deux dernières années de Donald Trump à la Maison Blanche. L'opposition pourrait reprendre…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "9d7b3f97904d",
-   "titre": "Une interface cerveau-machine pour communiquer avec des victimes de lésions aiguës",
-   "lien": "https://www.lemonde.fr/sciences/article/2026/11/03/une-interface-cerveau-machine-pour-communiquer-avec-des-victimes-de-lesions-aigues_6805568_1650684.html",
-   "source": "Le Monde",
-   "date": "2026-11-03T10:30:15+00:00",
-   "extrait": "Une équipe américaine a conçu un dispositif qui a permis à des patients ne pouvant s’exprimer par des mots ou des gestes de contrôler un ordinateur par leur seule activité cérébrale.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "bdebae14be13",
-   "titre": "Un débat budgétaire déconnecté de la réalité économique",
-   "lien": "https://www.lemonde.fr/idees/article/2026/11/03/un-debat-budgetaire-deconnecte-de-la-realite-economique_6805567_3232.html",
-   "source": "Le Monde",
-   "date": "2026-11-03T10:30:10+00:00",
-   "extrait": "Chaque groupe parlementaire défend ses priorités, avec les échéances électorales en ligne de mire, sans se soucier de l’équilibre général du budget 2027. La France ne sortira pas de cet engrenage…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "3445a8da5d27",
-   "titre": "Iran : frappes \"défensives\" des États-Unis contre l'île de Qeshm",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261103-iran-frappes-d%C3%A9fensives-des-%C3%A9tats-unis-contre-l-%C3%AEle-de-qeshm",
-   "source": "France 24",
-   "date": "2026-11-03T10:28:06+00:00",
-   "extrait": "Les États-Unis ont lancé des bombardement contre l'île iranienne de Qeshm, lundi 2 novembre au soir. Située à l'ouest du détroit d'Ormuz, l'île stratégique abriterait entre autres des missiles, une…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "f2aab002e94b",
-   "titre": "Le parti républicain inquiété par les Midterms : \"si nous perdons le Texas nous perdons l'Amérique\"",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261103-le-parti-r%C3%A9publicain-inqui%C3%A9t%C3%A9-par-les-midterms-si-nous-perdons-le-texas-nous-perdons-l-am%C3%A9rique",
-   "source": "France 24",
-   "date": "2026-11-03T10:23:59+00:00",
-   "extrait": "La bataille pour le Sénat, où 35 des 100 sièges sont en jeu lors des midterms du mardi 3 novembre, demeure incertaine. Un sondage du Siena College, donne toutefois les candidats démocrates favoris…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "99f7ab60226e",
-   "titre": "Pologne : le président Karol Nawrocki refuse les juges désignés par le Parlement",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261103-pologne-le-pr%C3%A9sident-karol-nawrocki-refuse-les-juges-d%C3%A9sign%C3%A9s-par-le-parlement",
-   "source": "France 24",
-   "date": "2026-11-03T10:21:14+00:00",
-   "extrait": "Le Premier ministre polonais a appelé, lundi 2 novembre, le président nationaliste Karol Nawrocki à reconnaître les juges récemment élus par le Parlement afin de résoudre la crise autour du Tribunal…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "321525213ea5",
-   "titre": "Condamnée au silence pour avoir « dénigré » les vins de Bordeaux, Alerte aux toxiques veut « briser l’omerta » sur les pesticides",
-   "lien": "https://www.lemonde.fr/planete/article/2026/11/03/condamnee-au-silence-pour-avoir-denigre-les-vins-de-bordeaux-alerte-aux-toxiques-veut-briser-l-omerta-sur-les-pesticides_6805563_3244.html",
-   "source": "Le Monde",
-   "date": "2026-11-03T10:08:45+00:00",
-   "extrait": "La cour d’appel de Bordeaux examine mardi le recours déposé par l’association Alerte aux toxiques. Elle avait été condamnée à 125 000 euros en 2021 pour avoir révélé la présence de traces de…",
-   "tags": [],
    "zone": "france"
   }
  ]
