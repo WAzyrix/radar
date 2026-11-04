@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-04T21:05:42+00:00",
+ "maj": "2026-11-04T22:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "de7887560061",
+   "titre": "Vercel rolls out new protection against stolen session cookie attacks",
+   "lien": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+   "source": "BleepingComputer",
+   "date": "2026-11-04T21:31:18+00:00",
+   "extrait": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
+   "tags": [
+    "Malware"
+   ]
+  },
   {
    "id": "0fd87eaf33b4",
    "titre": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
@@ -3424,15 +3435,6 @@
    "tags": [
     "IA"
    ]
-  },
-  {
-   "id": "e1dd062f9758",
-   "titre": "Point Vision : des données de patients dérobées",
-   "lien": "https://www.zataz.com/point-vision-des-donnees-de-patients-derobees/",
-   "source": "Zataz",
-   "date": "2026-10-24T09:29:23+00:00",
-   "extrait": "Cyberattaque chez Point Vision : données de patients volées, exposition possible des motifs de rendez-vous.",
-   "tags": []
   }
  ]
 }
