@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-04T14:05:51+00:00",
+ "maj": "2026-11-04T15:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,50 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "d6dd46466a93",
+   "titre": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
+   "lien": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
+   "source": "BleepingComputer",
+   "date": "2026-11-04T15:00:10+00:00",
+   "extrait": "A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation…",
+   "tags": [
+    "Malware"
+   ]
+  },
+  {
+   "id": "ffe69d986f99",
+   "titre": "Crédit Mutuel Arkéa : 133 millions de dollars détournés",
+   "lien": "https://www.zataz.com/credit-mutuel-arkea-133-millions-de-dollars-detournes/",
+   "source": "Zataz",
+   "date": "2026-11-04T14:53:45+00:00",
+   "extrait": "Fortuneo au cœur de la fraude Arkéa ? 133 millions de dollars détournés, des virements suspects et un blanchiment crypto.",
+   "tags": []
+  },
+  {
+   "id": "63cdf286f06a",
+   "titre": "SonicWall warns of unpatched flaws in end-of-life GMS software",
+   "lien": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
+   "source": "BleepingComputer",
+   "date": "2026-11-04T14:42:25+00:00",
+   "extrait": "SonicWall warned customers of two security flaws affecting end-of-life Global Management System (GMS) systems that will not be patched. [...]",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "5e99d13bfbb2",
+   "titre": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
+   "lien": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
+   "source": "The Hacker News",
+   "date": "2026-11-04T14:27:52+00:00",
+   "extrait": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain…",
+   "tags": [
+    "Faille",
+    "Fuite de données",
+    "Mobile"
+   ]
+  },
   {
    "id": "232bc399c6f4",
    "titre": "TikTok, une passerelle vers les casinos illégaux ?",
@@ -3395,52 +3439,6 @@
    "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, un déni de…",
    "tags": [
     "Faille"
-   ]
-  },
-  {
-   "id": "7e200f4d5d44",
-   "titre": "Multiples vulnérabilités dans les produits HPE Aruba Networking (23 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1369/",
-   "source": "CERT-FR",
-   "date": "2026-10-23T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "a137fe3b699c",
-   "titre": "Vulnérabilité dans Mattermost Server (23 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1368/",
-   "source": "CERT-FR",
-   "date": "2026-10-23T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "52eb5179c3fe",
-   "titre": "Multiples vulnérabilités dans Microsoft Edge (23 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1371/",
-   "source": "CERT-FR",
-   "date": "2026-10-23T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-   "tags": [
-    "Faille",
-    "Windows"
-   ]
-  },
-  {
-   "id": "dd0e05af2168",
-   "titre": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (23 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1375/",
-   "source": "CERT-FR",
-   "date": "2026-10-23T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la…",
-   "tags": [
-    "Faille",
-    "Linux"
    ]
   }
  ]
