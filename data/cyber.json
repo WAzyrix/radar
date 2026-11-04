@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-04T16:21:26+00:00",
+ "maj": "2026-11-04T17:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "9c8bdd95a7d5",
+   "titre": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
+   "lien": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
+   "source": "BleepingComputer",
+   "date": "2026-11-04T16:58:46+00:00",
+   "extrait": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials…",
+   "tags": [
+    "Fuite de données",
+    "Malware"
+   ]
+  },
   {
    "id": "4ba7cadb265a",
    "titre": "mSecure password manager hack prompts password reset warnings",
@@ -3422,17 +3434,6 @@
    "tags": [
     "Ransomware",
     "IA"
-   ]
-  },
-  {
-   "id": "27be26c6f177",
-   "titre": "Microsoft: Windows Server 2016 reaches end of support in January",
-   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
-   "source": "BleepingComputer",
-   "date": "2026-10-23T17:05:07+00:00",
-   "extrait": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]",
-   "tags": [
-    "Windows"
    ]
   }
  ]
