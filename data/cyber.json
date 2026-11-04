@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-04T09:05:39+00:00",
+ "maj": "2026-11-04T11:05:43+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,6 +24,41 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "955f969e9dae",
+   "titre": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
+   "lien": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
+   "source": "BleepingComputer",
+   "date": "2026-11-04T09:39:54+00:00",
+   "extrait": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
+   "tags": [
+    "Faille",
+    "Fuite de données",
+    "Mobile"
+   ]
+  },
+  {
+   "id": "d67b77ba30de",
+   "titre": "Revolut vire Claude Code pour une IA chinoise et divise ses coûts par dix",
+   "lien": "https://korben.info/revolut-vire-claude-code-pour-une-ia-chinoise-et-divise-ses-couts-par-dix.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-04T09:39:50+00:00",
+   "extrait": "Revolut affirme avoir réduit d'environ 90 % sa facture d'IA de codage en un an, en remplaçant Claude Code par GLM, un modèle ouvert du chinois Z.ai auto-hébergé sur 56 cartes Nvidia B200. Le coût…",
+   "tags": [
+    "IA"
+   ]
+  },
+  {
+   "id": "40a5a2749a72",
+   "titre": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
+   "lien": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
+   "source": "The Hacker News",
+   "date": "2026-11-04T08:17:11+00:00",
+   "extrait": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure. Also known as Fluffy Wolf, the threat actor has a history of…",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
    "id": "787e60888ba1",
    "titre": "Google coupe la recherche aux écoles qui refusent son IA",
    "lien": "https://korben.info/google-coupe-la-recherche-aux-ecoles-qui-refusent-son-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
@@ -32,6 +67,19 @@
    "extrait": "Google désactivera par défaut Gemini, Gemini Notebook et Search sur les comptes d'élèves américains, de la maternelle au lycée, avec une bascule début 2027. Un responsable a confirmé qu'une école…",
    "tags": [
     "IA"
+   ]
+  },
+  {
+   "id": "32c90d2f0958",
+   "titre": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
+   "lien": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
+   "source": "The Hacker News",
+   "date": "2026-11-04T07:46:15+00:00",
+   "extrait": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin. The flaw, CVE-2026-58868, affects Android 14…",
+   "tags": [
+    "CVE",
+    "Faille",
+    "Mobile"
    ]
   },
   {
@@ -3392,52 +3440,6 @@
    "source": "CERT-FR",
    "date": "2026-10-23T00:00:00+00:00",
    "extrait": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "494a22e4769e",
-   "titre": "Vulnérabilité dans Mattermost Server (23 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1368/",
-   "source": "CERT-FR",
-   "date": "2026-10-23T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "75e8a8828008",
-   "titre": "Multiples vulnérabilités dans Microsoft Edge (23 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1371/",
-   "source": "CERT-FR",
-   "date": "2026-10-23T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-   "tags": [
-    "Faille",
-    "Windows"
-   ]
-  },
-  {
-   "id": "17c4009d8877",
-   "titre": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (23 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1375/",
-   "source": "CERT-FR",
-   "date": "2026-10-23T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la…",
-   "tags": [
-    "Faille",
-    "Linux"
-   ]
-  },
-  {
-   "id": "5d8263813e15",
-   "titre": "Multiples vulnérabilités dans les produits Tenable (23 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1370/",
-   "source": "CERT-FR",
-   "date": "2026-10-23T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
    "tags": [
     "Faille"
    ]

@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-04T09:05:39+00:00",
+ "maj": "2026-11-04T11:05:43+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -19,16 +19,14 @@
   "Tech",
   "Sport"
  ],
- "erreurs": [
-  "France 24"
- ],
+ "erreurs": [],
  "articles": [
   {
    "id": "d1c033e035e4",
    "titre": "Key moments from a night of midterm election firsts",
    "lien": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-11-04T09:01:40+00:00",
+   "date": "2026-11-04T11:04:56+00:00",
    "extrait": "Democrats have taken control of Congress for the rest of Donald Trump's presidency - proving moments of celebration.",
    "tags": [
     "Politique"
@@ -36,11 +34,625 @@
    "zone": "monde"
   },
   {
+   "id": "7fd4c5e94b20",
+   "titre": "Iran says U.S. election results show Americans reject the war",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/",
+   "source": "CBS News",
+   "date": "2026-11-04T11:01:46+00:00",
+   "extrait": "As the war Trump launched with Israel against Iran drags into month nine, he acknowledges its role in the GOP's election defeat, but says he'd have done it anyway.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "6d2051b342cb",
+   "titre": "Melat Kiros becomes first woman from Gen Z elected to Congress",
+   "lien": "https://www.cbsnews.com/news/melat-kiros-first-gen-z-woman-congress-colorado/",
+   "source": "CBS News",
+   "date": "2026-11-04T11:00:15+00:00",
+   "extrait": "The 29-year-old democratic socialist from Colorado made history as the first woman from Generation Z to be elected to Congress.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "cc8272602731",
+   "titre": "Midterms : des lignes de fractures persistent entre démocrates",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-des-lignes-de-fractures-persistent-entre-d%C3%A9mocrates",
+   "source": "France 24",
+   "date": "2026-11-04T10:57:30+00:00",
+   "extrait": "Le démocrate Xavier Becerra a été sans surprise élu mardi 3 novembre gouverneur de Californie, devançant largement le républicain Steve Hilton et devenant le premier Hispanique à remporter le plus…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "3d5a5c451ee8",
+   "titre": "Bruno Retailleau estime qu'il \"faudra une primaire\" pour départager les quatre principaux candidats de la droite et du centre à l'élection présidentielle",
+   "lien": "https://www.franceinfo.fr/elections/presidentielle/pour-departager-les-quatre-principaux-candidats-de-la-droite-et-du-centre-a-l-election-presidentielle-bruno-retailleau-estime-qu-il-faudra-une-primaire_8267411.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-04T10:55:26+00:00",
+   "extrait": "Ce vote pourrait se tenir \"en début d'année\", estime le candidat désigné par Les Républicains, alors qu'Edouard Philippe continue de s'opposer à la tenue d'une primaire, qui pourrait aussi impliquer…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "d74143c42079",
+   "titre": "Midterms : les électeurs se réveillent face à la politique anti-immigration violente de Trump",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-les-%C3%A9lecteurs-se-r%C3%A9veillent-face-%C3%A0-la-politique-anti-immigration-violente-de-trump",
+   "source": "France 24",
+   "date": "2026-11-04T10:53:40+00:00",
+   "extrait": "Bien que la politique migratoire reste également un sujet sensible lors de ces midterms aux États-Unis. Le gouvernement Trump a été élu en partie pour son programme anti-immigration. Programme qui…",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "20f7cb64d3ee",
+   "titre": "Défaite de Trump : il n'y a \"pas de fatalité\" face à l'extrême droite, réagit la gauche française",
+   "lien": "https://www.france24.com/fr/france/20261104-defaite-de-trump-il-n-y-a-pas-de-fatalite-face-extreme-droite-reagit-la-gauche-francaise",
+   "source": "France 24",
+   "date": "2026-11-04T10:51:00+00:00",
+   "extrait": "Dans la foulée du revers électoral de Donald Trump lors des élections de mi-mandat, la gauche française veut y voir le signe qu'il n'y a \"pas de fatalité\" à une victoire de l'extrême droite lors de…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "359beb2833a5",
+   "titre": "L'accusé de l'assassinat terroriste du professeur Dominique Bernard renvoyé aux assises, non-lieu pour son frère et son cousin",
+   "lien": "https://www.franceinfo.fr/faits-divers/attaque-au-couteau-dans-un-lycee-a-arras/le-principal-suspect-dans-le-meurtre-du-professeur-dominique-bernard-renvoye-aux-assises-non-lieu-pour-son-frere-et-son-cousin_8267462.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-04T10:49:34+00:00",
+   "extrait": "Le Parquet national antiterroriste avait demandé le renvoi en procès non seulement de Mohammed Mogouchkov, mais aussi de ce frère et ce cousin, qui connaissaient sa radicalisation islamiste mais…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "23e086184227",
+   "titre": "\"Je n'avais pas le droit de quitter Marseille\" : un enseignant raconte son assignation à résidence l'empêchant de se rendre en manifestation",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/temoignage-je-n-avais-pas-le-droit-de-quitter-marseille-un-enseignant-raconte-son-assignation-a-residence-pour-l-empecher-de-manifester_8266340.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-04T10:46:57+00:00",
+   "extrait": "Plusieurs dizaines de personnes ont été interdites de manifester le week-end dernier, après des arrêtés pris par le ministère de l'Intérieur. L'une d'elles a accepté de témoigner. Il est enseignant…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "c01c93b1f437",
+   "titre": "Ligue des champions : le Paris Saint-Germain étrille Villarreal",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261104-ligue-des-champions-le-paris-saint-germain-%C3%A9trille-villarreal",
+   "source": "France 24",
+   "date": "2026-11-04T10:45:51+00:00",
+   "extrait": "Le Paris Saint-Germain n’a fait qu’une bouchée de Villarreal en Ligue des champions (6-0). Le match était déjà plié après 17 minutes et les buts de Neves (9’), Doué (12’), Mayulu (13’) et Ruiz (17’).",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "01ea66763ac9",
+   "titre": "Route du Rhum : le navigateur Armel Le Cléac'h, un des favoris, a chaviré durant la nuit mais est en \"sécurité\"",
+   "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/route-du-rhum-le-navigateur-armel-le-cleac-h-a-chavire-durant-la-nuit-mais-est-en-securite_8267318.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-04T10:37:05+00:00",
+   "extrait": "\"Armel est en sécurité à l’intérieur du bateau\" et \"n'est pas blessé\", a annoncé l'organisation de la transatlantique, mercredi.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "07bc4ff11a94",
+   "titre": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
+   "lien": "https://www.bbc.co.uk/news/articles/c6y8lz73vmv7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-04T10:35:03+00:00",
+   "extrait": "The Ethiopian-born American citizen admitted sharing dozens of classified documents with senior Ethiopian officials.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "eacf9ec3fb65",
+   "titre": "Democrats win House and Senate control in sweeping victory",
+   "lien": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/",
+   "source": "CBS News",
+   "date": "2026-11-04T10:34:05+00:00",
+   "extrait": "Democrats won control of both chambers of Congress in an election that's widely viewed as a rebuke of President Trump. Follow live updates here.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "3c4c3d18bb4d",
+   "titre": "Mobilisation des lycéens : les absences des élèves peuvent-elles pénaliser leur dossier Parcoursup ?",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-les-absences-des-eleves-peuvent-elles-penaliser-leur-dossier-parcoursup_8266520.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-04T10:32:04+00:00",
+   "extrait": "Toutes les absences depuis le début des blocages et des manifestations sont recensées et figureront sur le bulletin scolaire. Ce qui inquiète les élèves et leurs familles, alors qu'un syndicat…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "bd9b25489b52",
+   "titre": "\"Un message d’espoir pour tous\" : en France, la gauche salue le revers infligé à Donald Trump lors des midterms 2026",
+   "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/un-message-d-espoir-pour-tous-en-france-la-gauche-salue-le-revers-inflige-a-donald-trump-lors-des-midterms-2026_8267498.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-04T10:31:51+00:00",
+   "extrait": "La défaite est totale pour Donald Trump, après les élections de mi-mandat américaines. En France, plusieurs personnalités de gauche réagissent, comme Marine Tondelier : \"Puisse cette leçon nous…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "fed4153140fc",
+   "titre": "Sur la Route du Rhum, les abandons et les arrêts de course se multiplient",
+   "lien": "https://www.france24.com/fr/sports/20261104-sur-la-route-du-rhum-les-abandons-et-les-arr%C3%AAts-de-course-se-multiplient",
+   "source": "France 24",
+   "date": "2026-11-04T10:30:31+00:00",
+   "extrait": "L'édition 2026 de la Route du Rhum n'a pas fait de cadeau aux concurrents de la redoutable course transatlantique. Plusieurs prétendants au titre, parmi lesquels les Français et Française Armel Le…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "7673e1a6935a",
+   "titre": "Midterms : l'impact des data-centers sur la vie des citoyens, un enjeu crucial aux élections",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-l-impact-des-data-centers-sur-la-vie-des-citoyens-un-enjeu-crucial-aux-%C3%A9lections",
+   "source": "France 24",
+   "date": "2026-11-04T10:23:30+00:00",
+   "extrait": "Les data-centers, sujet crucial pour les électeurs américains, a poussé une partie des républicains à s'abstenir ou à voter le pour le parti opposé lors de ces midterms du mardi 3 novembre…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "d71041664bdf",
+   "titre": "EN DIRECT, guerre en Ukraine : la Chine dit être en contact avec les Etats-Unis et la Russie pour un sommet à trois",
+   "lien": "https://www.lemonde.fr/international/live/2026/11/04/en-direct-guerre-en-ukraine-la-chine-dit-etre-en-contact-avec-les-etats-unis-et-la-russie-pour-un-sommet-a-trois_6803934_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-04T10:21:15+00:00",
+   "extrait": "La possibilité d’une rencontre entre Xi Jinping, Donald Trump et Vladimir Poutine à l’occasion du sommet de l’APEC (Asia-Pacific Economic Cooperation), à Shenzhen, les 18 et 19 novembre, est évoquée…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "522bfa68430f",
+   "titre": "Midterms : ces élections, un test pour la démocratie états-unienne",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-ces-%C3%A9lections-un-test-pour-la-d%C3%A9mocratie-%C3%A9tats-unienne",
+   "source": "France 24",
+   "date": "2026-11-04T10:21:10+00:00",
+   "extrait": "Donald Trump, pendant ces deux premières années de mandat à énormément diriger par décret et à annoncé vouloir élargir le pouvoir exécutif. Les électeurs ont donc refusé cette manière de gouverner…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "c994a205b4da",
+   "titre": "Addiction des jeunes aux écrans : en Corée du Sud, la lutte s'organise",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/focus/20261104-addiction-des-jeunes-aux-%C3%A9crans-en-cor%C3%A9e-du-sud-la-lutte-s-organise",
+   "source": "France 24",
+   "date": "2026-11-04T10:20:14+00:00",
+   "extrait": "En France, la loi sur l’interdiction des réseaux sociaux aux moins de 15 ans vient d’être retoquée par le Conseil constitutionnel, et celle sur l’interdiction du portable au lycée tout juste…",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "7ac42405dd58",
+   "titre": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
+   "lien": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-04T10:19:41+00:00",
+   "extrait": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "8d09fb089c22",
+   "titre": "Midterms : le président Trump, source permanente de contradictions",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-le-pr%C3%A9sident-trump-source-permanente-de-contradictions",
+   "source": "France 24",
+   "date": "2026-11-04T10:18:52+00:00",
+   "extrait": "Donald Trump a déclaré à plusieurs reprises mardi 3 novembre qu'il \"félicitait\" ses opposants mais en rappelant tout de même avec insistance qu'il avait un \"pouvoir de veto\" face aux lois que…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "af781a138cda",
+   "titre": "Midterms en France : la gauche fête la défaite de Trump aux élections",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-en-france-la-gauche-f%C3%AAte-la-d%C3%A9faite-de-trump-aux-%C3%A9lections",
+   "source": "France 24",
+   "date": "2026-11-04T10:13:29+00:00",
+   "extrait": "De l'\"espoir\" et une \"leçon\": la gauche a célébré mercredi 4 novembre le revers cinglant imposé par les démocrates au président américain Donald Trump lors des élections de mi-manda. L'Écologiste…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "cf064f177920",
+   "titre": "Iran's chief negotiator says Americans voted 'no to war'",
+   "lien": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-04T10:11:39+00:00",
+   "extrait": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "79e8a3d1353b",
+   "titre": "Midterms 2026 : l'électorat états-unien a décidé de dire \"non à la guerre\"",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-2026-l-%C3%A9lectorat-%C3%A9tats-unien-a-d%C3%A9cid%C3%A9-de-dire-non-%C3%A0-la-guerre",
+   "source": "France 24",
+   "date": "2026-11-04T10:10:23+00:00",
+   "extrait": "Lors de ces élections de mi-mandat, les électeurs bien qu'inquiétés par la situation géopolitique du pays, se sont surtout penchés sur l'impact de ceux-ci sur leur quotidien. Le coût de la guerre en…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "ba9c54617372",
+   "titre": "Cyberattaque au Crédit mutuel Arkéa : le détournement est évalué à 118 millions d’euros",
+   "lien": "https://www.lemonde.fr/pixels/article/2026/11/04/le-credit-mutuel-arkea-confirme-avoir-ete-victime-d-une-cyberattaque-le-detournement-est-evalue-a-118-millions-d-euros_6806141_4408996.html",
+   "source": "Le Monde",
+   "date": "2026-11-04T10:08:38+00:00",
+   "extrait": "La caisse fédérale bretonne n’a pas communiqué le montant du préjudice, déclarant mercredi que l’incident était désormais « maîtrisé ».",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "b9ea6750a0fe",
+   "titre": "Une cyberattaque touche des installations frigorifiques utilisées par l'Etablissement français du sang, \"sans impact\" sur les échantillons conservés",
+   "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/une-cyberattaque-touche-des-installations-frigorifiques-utilisees-par-l-etablissement-francais-du-sang-sans-impact-sur-les-echantillons-conserves_8267426.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-04T10:08:37+00:00",
+   "extrait": "L'attaque a déréglé les chambres froides gérées par un prestataire sur trois sites de l'Etablissement français du sang. L'incident a rapidement été maîtrisé, sans aucune perte ni impact sanitaire à…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "3b437b1c23eb",
+   "titre": "Midterms : la régulation des data-centers, un argument de campagne fort au Texas",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-la-r%C3%A9gulation-des-data-centers-un-argument-de-campagne-fort-au-texas",
+   "source": "France 24",
+   "date": "2026-11-04T10:07:58+00:00",
+   "extrait": "La démocrate Gina Hinojosa a été élue gouverneure du Texas mardi 3 novembre. Le gouverneur républicain sortant Greg Abbott, qui briguait un 4e mandat, a été battu par cette avocate de 52 ans. Et…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "bd500917384c",
+   "titre": "Assassinat de Dominique Bernard : les avocats du frère de l’assaillant font part de leur \"immense soulagement\" après le non-lieu prononcé",
+   "lien": "https://www.franceinfo.fr/faits-divers/attaque-au-couteau-dans-un-lycee-a-arras/assassinat-de-dominique-bernard-les-avocats-du-frere-de-l-assaillant-font-part-de-leur-immense-soulagement-apres-le-non-lieu-prononce_8267468.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-04T10:07:01+00:00",
+   "extrait": "Devant la cour d'assises spéciale, les juges d'instruction ont prononcé mercredi un non-lieu pour le frère et le cousin de l'assassin présumé du professeur de français Dominique Bernard, trois ans…",
+   "tags": [
+    "Conflits",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "556d4ce1d6e7",
+   "titre": "Midterms : le jour du vote, Trump met fin à l'aide sécuritaire en Israël",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-le-jour-du-vote-trump-met-fin-%C3%A0-l-aide-s%C3%A9curitaire-en-isra%C3%ABl",
+   "source": "France 24",
+   "date": "2026-11-04T10:05:41+00:00",
+   "extrait": "Donald Trump a annoncé mardi 3 novembre, contre toute attente, mettre fin à une aide annuelle de 3,8 milliards de dollars à Israël, le jour des élections de mi-mandat aux États-Unis, où la question…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "4af8fa028082",
+   "titre": "Democrat Rosenthal wins ugly race for Texas railroad commissioner",
+   "lien": "https://www.cbsnews.com/news/texas-railroad-commissioner-democrat-rosenthal-bo-french/",
+   "source": "CBS News",
+   "date": "2026-11-04T10:04:56+00:00",
+   "extrait": "Republican Bo French attracted attention when he posted a photo of students of South Asian descent cheering at a football game with a caption saying the University of Texas has a \"problem\" that is…",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "bc44141f7daf",
+   "titre": "Hakeem Jeffries is poised to become the first Black speaker of the House",
+   "lien": "https://www.npr.org/2026/11/04/g-s1-150030/hakeem-jeffries-speaker-of-the-house-midterms",
+   "source": "NPR",
+   "date": "2026-11-04T10:00:00+00:00",
+   "extrait": "As speaker, the New York Democrat would be second in the presidential line of succession, after the vice president. He has vowed to focus on affordability and holding the administration accountable.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "51a38c2d664c",
+   "titre": "These 9 candidates for governor just made history",
+   "lien": "https://www.npr.org/2026/11/04/nx-s1-6028546/governor-candidates-history-election-2026",
+   "source": "NPR",
+   "date": "2026-11-04T10:00:00+00:00",
+   "extrait": "Voters on Tuesday elected the nation's first Black woman governor and the nation's first Native American woman governor.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "f65c39ef574c",
+   "titre": "Le Crédit Mutuel Arkéa victime d'un piratage de plus de 100 millions d'euros, sans répercussions pour les clients",
+   "lien": "https://www.franceinfo.fr/economie/fraude/le-credit-mutuel-arkea-bretagne-victime-d-un-piratage-de-plus-de-100-millions-d-euros-sans-repercussion-pour-les-clients_8267399.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-04T09:57:58+00:00",
+   "extrait": "La banque a été victime d'un piratage estimé à plus de 100 millions d'euros. Les clients ne sont pas concernés et l'incident est désormais maîtrisé, selon l'entreprise.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "b42362010773",
+   "titre": "How America voted in maps and charts",
+   "lien": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-04T09:53:18+00:00",
+   "extrait": "See the maps and charts that show how America voted in the US midterm elections.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "f39e1aee82a3",
+   "titre": "Les Californiens pas séduits par la taxe sur les milliardaires",
+   "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261104-les-californiens-pas-seduits-par-la-taxe-sur-les-milliardaires-proposition-40-zucman",
+   "source": "France 24",
+   "date": "2026-11-04T09:51:49+00:00",
+   "extrait": "La proposition visant à soumettre les milliardaires à un impôt sur la fortune exceptionnel de 5 % est en passe d'être rejetée par les Californiens mercredi. C'est la première fois qu'une telle…",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "9a3bd375f2df",
+   "titre": "Une adolescente de 14 ans portée disparue en Bretagne, un appel à témoins lancé",
+   "lien": "https://france3-regions.franceinfo.fr/bretagne/ille-et-vilaine/rennes/une-adolescente-de-14-ans-a-disparu-depuis-qu-elle-a-quitte-son-ecole-voici-ou-elle-pourrait-se-trouver-selon-les-gendarmes-3444012.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-04T09:51:26+00:00",
+   "extrait": "La jeune fille est portée disparue depuis le lundi 2 novembre. Elle aurait quitté son établissement scolaire de Bain-de-Bretagne (Ille-et-Vilaine), vers 17 h. Les gendarmes ont diffusé son…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "16d66fcb2ea9",
+   "titre": "Gina Hinojosa élue gouverneure au Texas, victoire majeure pour le Parti démocrate lors des midterms 2026",
+   "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/gina-hinojosa-elue-gouverneure-au-texas-victoire-majeure-pour-le-parti-democrate-lors-des-midterms-2026_8267357.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-04T09:50:03+00:00",
+   "extrait": "Comme James Talarico, élu sénateur dans cet Etat profondément conservateur, Gina Hinojosa incarne une nouvelle génération de démocrates.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "c72325aa124d",
+   "titre": "Nevada Attorney General Aaron Ford beats GOP incumbent for governor",
+   "lien": "https://www.npr.org/2026/11/04/g-s1-151138/midterms-ford-nevada-governor-lombardo",
+   "source": "NPR",
+   "date": "2026-11-04T09:48:40+00:00",
+   "extrait": "Democrat Aaron Ford defeated Republican Gov. Joe Lombardo. He's set to become Nevada's first Black governor.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "21d4fe665057",
+   "titre": "\"Lucky Luke\" : 80 ans et toujours bon pied, bon œil",
+   "lien": "https://www.franceinfo.fr/culture/bd/lucky-luke-80-ans-et-toujours-bon-pied-bon-il_8267351.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-04T09:38:37+00:00",
+   "extrait": "L'improbable duo formé par Blake et Mortimer célèbre également ses 80 printemps.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "94d8aee0cb62",
+   "titre": "Midterms 2026 : raz-de-marée démocrate au Congrès, les derniers résultats attendus pour la Chambre des représentants et le Sénat",
+   "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-midterms-2026-nette-avance-democrate-au-congres-des-premieres-victoires-historiques-suivez-les-resultats-des-elections-de-mi-mandat_8265776.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-04T09:29:25+00:00",
+   "extrait": "Les démocrates ont remporté la majorité absolue dans les deux chambres du Congrès américain mardi, lors des élections de mi-mandat.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "42b96d14a0c8",
+   "titre": "Midterms 2026 : la campagne la plus chère de l'histoire politique",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-2026-la-campagne-la-plus-ch%C3%A8re-de-l-histoire-politique",
+   "source": "France 24",
+   "date": "2026-11-04T09:25:55+00:00",
+   "extrait": "La campagne des midterms s'est imposée comme la campagne la plus chère de l'histoire états-unienne, battant les dépense de la présidentielle 2024. Un investissement de plus de 11 milliards de…",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "c4deb1f4741f",
+   "titre": "L'Organisation mondiale de la santé propose six mesures pour sauver 1,6 million de vies chaque année en luttant contre le changement climatique",
+   "lien": "https://www.franceinfo.fr/environnement/crise-climatique/l-organisation-mondiale-de-la-sante-propose-six-mesures-pour-sauver-1-6-million-de-vies-chaque-annee-en-luttant-contre-le-changement-climatique_8267363.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-04T09:24:30+00:00",
+   "extrait": "Dans une étude, l'organisation liste des dispositif permettant d'avoir une population en meilleure santé, de réduire les émissions de gaz à effet de serre tout en permettant de solidifier l'économie.",
+   "tags": [
+    "Économie",
+    "Santé"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "46dde36fc0fb",
+   "titre": "Democrats score major upsets and take control of Senate",
+   "lien": "https://www.cbsnews.com/live-updates/senate-election-results-2026/",
+   "source": "CBS News",
+   "date": "2026-11-04T09:23:00+00:00",
+   "extrait": "Democrats were able to pick up the seats needed to gain control of the Senate, CBS News projects, and the party scored several upset victories in red states.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "c7e474119e67",
+   "titre": "Democrats win House majority with Trump approval at historic low",
+   "lien": "https://www.cbsnews.com/live-updates/house-election-results-2026/",
+   "source": "CBS News",
+   "date": "2026-11-04T09:19:07+00:00",
+   "extrait": "Democrats have won control of the House in the 2026 election, CBS News projects. Follow the midterm election results here, as polls begin to close.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "e6813aa2f140",
+   "titre": "Deux Français détenus depuis juillet à Hong Kong pour trafic de cannabis remis en liberté sous caution",
+   "lien": "https://www.franceinfo.fr/societe/drogue/deux-francais-detenus-depuis-juillet-a-hong-kong-pour-trafic-de-cannabis-remis-en-liberte-sous-caution_8267390.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-04T09:15:38+00:00",
+   "extrait": "En provenance de Thaïlande, du cannabis avait été découvert par les douanes dans les bagages d'Ibrahim et Elias à leur atterrissage à Hong-Kong. Ils ont été piégés par de fausses annonces de…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "c71700321661",
+   "titre": "Mutuelles, système de santé : et si l’Alsace-Moselle avait tout compris ?",
+   "lien": "https://www.franceinfo.fr/replay-magazine/france-2/cash-investigation/video-mutuelles-systeme-de-sante-et-si-l-alsace-moselle-avait-tout-compris_8260493.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-04T09:12:25+00:00",
+   "extrait": "Notre système de santé semble à bout de souffle et tous les acteurs s’accordent à dire qu’il faut le réformer. Mais comment ? \"Cash Investigation\" s'est penché sur un modèle plus solidaire, dont les…",
+   "tags": [
+    "Justice",
+    "Santé"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "1d9559a74752",
+   "titre": "« Groland » s’arrête en décembre après trente-quatre ans d’humour satirique sur Canal+",
+   "lien": "https://www.lemonde.fr/culture/article/2026/11/04/groland-s-arrete-en-decembre-apres-trente-quatre-ans-d-humour-satirique-sur-canal_6806136_3246.html",
+   "source": "Le Monde",
+   "date": "2026-11-04T09:06:07+00:00",
+   "extrait": "Après avoir incarné l’esprit Canal, l’émission satirique s’apprête à tirer sa révérence lors d’une ultime soirée événement le 12 décembre.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "0a4e17ff72e2",
+   "titre": "Guillaume Cerutti choisi par Emmanuel Macron pour présider le château de Versailles",
+   "lien": "https://www.lemonde.fr/culture/article/2026/11/04/guillaume-cerutti-devrait-etre-nomme-president-du-chateau-de-versailles_6806135_3246.html",
+   "source": "Le Monde",
+   "date": "2026-11-04T09:03:48+00:00",
+   "extrait": "La nomination de cet énarque, passé depuis vingt ans dans le privé, doit être annoncée mercredi en conseil des ministres. Il remplacera Christophe Leribault, nommé en février à la tête du Louvre.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "099d3db05b2b",
+   "titre": "L'Iran annonce la destruction de quatre pétroliers qui tentaient de franchir le détroit d'Ormuz",
+   "lien": "https://www.france24.com/fr/moyen-orient/20261104-quatre-p%C3%A9troliers-tentant-franchir-d%C3%A9troit-ormuz-d%C3%A9truits",
+   "source": "France 24",
+   "date": "2026-11-04T09:03:11+00:00",
+   "extrait": "Les Gardiens de la révolution ont annoncé, mercredi, que quatre navires pétroliers avaient percuté des mines en tentant de franchir le détroit d'Ormuz. Ces destructions font suite à des frappes…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "03e9930f53ef",
+   "titre": "Midterms : 7 sièges remportés à la Chambre par les démocrates, 4 auraient suffi",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-7-si%C3%A8ges-remport%C3%A9s-%C3%A0-la-chambre-par-les-d%C3%A9mocrates-4-auraient-suffi",
+   "source": "France 24",
+   "date": "2026-11-04T09:00:48+00:00",
+   "extrait": "Les élections de mi-mandat mardi aux États-Unis ont brisé la majorité républicaine et quelques plafonds de verre, en faisant accéder des démocrates issus de minorités à des fonctions de premier…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "ae71ef437765",
+   "titre": "Au cœur d’un automne social, syndicats et patronat entament des négociations sur l’emploi des jeunes",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/04/au-c-ur-d-un-automne-social-syndicats-et-patronat-entament-des-negociations-sur-l-emploi-des-jeunes_6806134_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-04T09:00:08+00:00",
+   "extrait": "Le taux de chômage des 15-24 ans atteint 21,6 % au deuxième trimestre, en hausse de 2,5 points sur un an. Si les gouvernements successifs d’Emmanuel Macron ont multiplié les dispositifs pour y…",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "e6c7caff652c",
+   "titre": "L’ultradroite, cette mouvance qui utilise la violence pour défendre une idéologie d’extrême droite",
+   "lien": "https://www.lemonde.fr/idees/article/2026/11/04/l-ultradroite-cette-mouvance-qui-utilise-la-violence-pour-defendre-une-ideologie-d-extreme-droite_6806133_3232.html",
+   "source": "Le Monde",
+   "date": "2026-11-04T09:00:03+00:00",
+   "extrait": "Le profil de Kevin T., l’auteur de l’attentat raciste de Trappes (Yvelines), relève de « l’ultradroite radicale violente », a confirmé le parquet, mardi 3 novembre. Un phénomène en croissance : 23…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "c0e654a36c17",
+   "titre": "« Le Monde » répond à vos questions sur sa ligne éditoriale, sa gouvernance et la vie de sa rédaction",
+   "lien": "https://www.lemonde.fr/le-monde-et-vous/live/2026/11/04/le-monde-repond-a-vos-questions-sur-sa-ligne-editoriale-sa-gouvernance-et-la-vie-de-sa-redaction_6806132_6065879.html",
+   "source": "Le Monde",
+   "date": "2026-11-04T09:00:03+00:00",
+   "extrait": "Comme chaque mois, Gilles van Kote, directeur délégué aux relations avec les lecteurs, répond en direct aux questions des internautes concernant la couverture de l’actualité et la vie du journal.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "4f29f9dd4d5c",
    "titre": "Pete Ricketts wins Nebraska Senate election, CBS News projects",
    "lien": "https://www.cbsnews.com/news/nebraska-2026-senate-ricketts-osborn/",
    "source": "CBS News",
-   "date": "2026-11-04T09:00:42+00:00",
+   "date": "2026-11-04T09:00:00+00:00",
    "extrait": "GOP Sen. Pete Ricketts won reelection in the Nebraska Senate race, CBS News projects, fending off a challenge from independent Dan Osborn.",
    "tags": [
     "Politique"
@@ -48,23 +660,28 @@
    "zone": "usa"
   },
   {
-   "id": "e6c7caff652c",
-   "titre": "L’ultradroite, cette mouvance qui utilise la violence pour défendre une idéologie d’extrême droite",
-   "lien": "https://www.lemonde.fr/idees/article/2026/11/04/l-ultradroite-cette-mouvance-qui-utilise-la-violence-pour-defendre-une-ideologie-d-extreme-droite_6806133_3232.html",
-   "source": "Le Monde",
-   "date": "2026-11-04T09:00:04+00:00",
-   "extrait": "Le profil de Kevin T., l’auteur de l’attentat raciste de Trappes (Yvelines), relève de « l’ultradroite radicale violente », a confirmé le parquet, mardi 3 novembre. Un phénomène en croissance : 23…",
-   "tags": [],
-   "zone": "france"
+   "id": "9fabf4ece890",
+   "titre": "Midterms : à quoi va ressembler les deux prochaines années de mandat du président Trump ?",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-%C3%A0-quoi-va-ressembler-les-deux-prochaines-ann%C3%A9es-de-mandat-du-pr%C3%A9sident-trump",
+   "source": "France 24",
+   "date": "2026-11-04T08:58:46+00:00",
+   "extrait": "Les élections de mi-mandat montre l'ampleur de la défaite républicaine aux États-Unis. Le président Trump sera donc privé du pouvoir budgétaire, qui appartient au Congrès, mais pourra toutefois…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
   },
   {
-   "id": "01ea66763ac9",
-   "titre": "Route du Rhum : le navigateur Armel Le Cléac'h, un des favoris, a chaviré durant la nuit mais est en \"sécurité\"",
-   "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/route-du-rhum-le-navigateur-armel-le-cleac-h-a-chavire-durant-la-nuit-mais-est-en-securite_8267318.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-04T08:59:07+00:00",
-   "extrait": "\"Armel est en sécurité à l’intérieur du bateau\" et \"n'est pas blessé\", a annoncé l'organisation de la transatlantique, mercredi.",
-   "tags": [],
+   "id": "7372045bef9c",
+   "titre": "Midterms 2026 : Donald Trump subit une défaite historique, du Texas au Michigan",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/04/midterms-2026-donald-trump-subit-un-revers-historique_6806131_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-04T08:58:33+00:00",
+   "extrait": "La défaite brutale des républicains est d’abord liée au rejet du président américain, de son administration, de sa guerre en Iran avec Israël ou de la corruption institutionnalisée. Il n’a pas tenu…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
    "zone": "france"
   },
   {
@@ -91,29 +708,40 @@
    "zone": "usa"
   },
   {
-   "id": "7fd4c5e94b20",
-   "titre": "Trump admits Iran war partly responsible for GOP's midterm defeat",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/",
-   "source": "CBS News",
-   "date": "2026-11-04T08:46:40+00:00",
-   "extrait": "Despite acknowledging the Iran war was partially to blame for Republican losses, Trump said he didn't regret launching it.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "eacf9ec3fb65",
-   "titre": "Democrats win House and Senate control in sweeping victory",
-   "lien": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/",
-   "source": "CBS News",
-   "date": "2026-11-04T08:34:00+00:00",
-   "extrait": "Democrats won control of both chambers of Congress in an election that's widely viewed as a rebuke of President Trump. Follow live updates here.",
+   "id": "84864e989fd4",
+   "titre": "Midterms : le démocrate Abdul El-Sayed déclare fièrement \"Michigan, nous l'avons fait !\"",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-le-d%C3%A9mocrate-abdul-el-sayed-d%C3%A9clare-fi%C3%A8rement-michigan-nous-l-avons-fait",
+   "source": "France 24",
+   "date": "2026-11-04T08:42:52+00:00",
+   "extrait": "Le démocrate Abdul El-Sayed, issu de l'aile gauche du parti, a remporté l'élection sénatoriale dans l'État du Michigan mardi 3 novembre, battant son rival républicain Mike Rogers dans l'un des duels…",
    "tags": [
     "Politique"
    ],
-   "zone": "usa"
+   "zone": "monde"
+  },
+  {
+   "id": "7b3fe4422d37",
+   "titre": "Mobilisation du 5 novembre : le ministère de l'Education nationale estime à 17,54% le taux de grévistes dans le premier degré public jeudi",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/le-ministere-de-l-education-nationale-estime-a-17-54-le-taux-de-grevistes-dans-le-premier-degre-public-pour-la-mobilisation-du-5-novembre_8267255.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-04T08:42:37+00:00",
+   "extrait": "Les syndicats appellent à une mobilisation interprofessionnelle, jeudi. Les cortèges devraient être renforcés par des lycées et étudiants insatisfaits des premières réponses du gouvernement à leurs…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "315140af033b",
+   "titre": "Le démocrate Abdul el-Sayed devient le premier candidat musulman à être élu au Sénat américain, à l'issue des midterms 2026",
+   "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/le-democrate-abdul-el-sayed-elu-senateur-du-michigan-lors-des-midterms-2026-devenant-ainsi-le-premier-americain-de-confession-musulmane-a-sieger-au-senat_8267324.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-04T08:39:40+00:00",
+   "extrait": "Le médecin progressiste l'a emporté face au républicain Mike Rogers mardi au Michigan, lors des élections de mi-mandat aux Etats-Unis.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
   },
   {
    "id": "276b13aa987c",
@@ -122,6 +750,18 @@
    "source": "franceinfo",
    "date": "2026-11-04T08:28:36+00:00",
    "extrait": "Les élections de mi-mandat ont débouché sur une déroute du Parti républicain, mercredi. Donald Trump, qui fait désormais face à un Sénat et à une Chambre des représentants hostiles à son action, a…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "a8f059c366b3",
+   "titre": "\"Gouverner\" : que contient le nouveau livre de Jordan Bardella ?",
+   "lien": "https://www.franceinfo.fr/elections/presidentielle/gouverner-que-contient-le-nouveau-livre-de-jordan-bardella_8267120.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-04T08:28:23+00:00",
+   "extrait": "C'est son troisième ouvrage en deux ans, publié aux éditions Fayard, la maison d'édition du milliardaire ultraconservateur Vincent Bolloré. À six mois de l'élection présidentielle, Jordan Bardella…",
    "tags": [
     "Politique"
    ],
@@ -138,18 +778,6 @@
     "Politique"
    ],
    "zone": "france"
-  },
-  {
-   "id": "c7e474119e67",
-   "titre": "Democrats win House majority with Trump approval at historic low",
-   "lien": "https://www.cbsnews.com/live-updates/house-election-results-2026/",
-   "source": "CBS News",
-   "date": "2026-11-04T08:16:21+00:00",
-   "extrait": "Democrats have won control of the House in the 2026 election, CBS News projects. Follow the midterm election results here, as polls begin to close.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
   },
   {
    "id": "c03f11130b3f",
@@ -176,6 +804,44 @@
    "zone": "usa"
   },
   {
+   "id": "360175ddd663",
+   "titre": "Midterms : les Ukrainiens prudents sur la victoire des démocrates",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-les-ukrainiens-prudents-sur-la-victoire-des-d%C3%A9mocrates",
+   "source": "France 24",
+   "date": "2026-11-04T08:08:18+00:00",
+   "extrait": "En vue de la victoire des démocrates aux élections de mi-mandat, les Ukrainiens, d'abord inquiétés par les massives frappes russes de ces derniers jours, restent prudents sur les résultats. Le pays…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "291c10568fe1",
+   "titre": "Midterms : les soupçons envers Donald Trump de conflits d'intérêt pèsent dans le scrutin ?",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-les-soup%C3%A7ons-envers-donald-trump-de-conflits-d-int%C3%A9r%C3%AAt-p%C3%A8sent-dans-le-scrutin",
+   "source": "France 24",
+   "date": "2026-11-04T08:06:04+00:00",
+   "extrait": "Le scrutin des midterms continue de se dévoiler aux quatre coins des États-Unis ce mercredi 4 novembre, les démocrates confirmant les sondages sur leur avantage. De nombreux questionnements des…",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "c6bebd07ffd4",
+   "titre": "\"Michigan, nous l'avons fait !\" : Abdul El-Sayed remporte une victoire historique au Sénat",
+   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261104-michigan-nous-l-avons-fait-abdul-el-sayed-remporte-une-victoire-historique-au-s%C3%A9nat",
+   "source": "France 24",
+   "date": "2026-11-04T08:05:25+00:00",
+   "extrait": "Le démocrate Abdul El-Sayed, figure de l'aile gauche du parti, a remporté mercredi la course au Sénat dans le Michigan face au républicain Mike Rogers. La fin de campagne de ce fils d'immigrés…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "dd7ff5d545a0",
    "titre": "Propositions de loi, enquêtes visant l'administration et le clan Trump... Que peuvent faire les démocrates après leurs victoires lors des midterms 2026 ?",
    "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/propositions-de-lois-enquetes-visant-l-administration-et-le-clan-trump-que-peuvent-faire-les-democrates-apres-leurs-victoires-lors-des-midterms-2026_8265920.html#xtor=RSS-3-[lestitres]",
@@ -197,6 +863,18 @@
    "extrait": "L’accord, conclu dans le cadre d’une action intentée en Caroline du Sud impliquant plus de 100 000 plaignants couvre « environ 99 % » des réclamations, selon le groupe.",
    "tags": [],
    "zone": "france"
+  },
+  {
+   "id": "db0c3c3aa83d",
+   "titre": "Midterms : une réelle victoire stratégique des démocrates dans des États clés",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-2026-une-r%C3%A9elle-victoire-strat%C3%A9gique-des-d%C3%A9mocrates-dans-des-%C3%A9tats-cl%C3%A9s",
+   "source": "France 24",
+   "date": "2026-11-04T08:00:06+00:00",
+   "extrait": "Le Parti démocrate était donné, mardi 3 novembre au soir, victorieux de la majorité dans les deux chambres du Congrès américain à l'issue des élections de mi-mandat, un scrutin à valeur de…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
   },
   {
    "id": "70bd027f9a45",
@@ -226,16 +904,14 @@
    "zone": "france"
   },
   {
-   "id": "94d8aee0cb62",
-   "titre": "Midterms 2026 : Abdul el-Sayed, issu de l'aile gauche du Parti démocrate, devient le premier musulman élu au Sénat",
-   "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-midterms-2026-nette-avance-democrate-au-congres-des-premieres-victoires-historiques-suivez-les-resultats-des-elections-de-mi-mandat_8265776.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-04T07:50:06+00:00",
-   "extrait": "Le médecin de 42 ans illustre le raz-de-marée démocrate lors de ces élections de mi-mandat.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
+   "id": "5bb7055bc9f7",
+   "titre": "Attentat raciste de Trappes : le suspect a tenté de se suicider en prison",
+   "lien": "https://www.france24.com/fr/france/20261104-meurtrier-attentat-raciste-trappes-tentative-de-suicide-prison",
+   "source": "France 24",
+   "date": "2026-11-04T07:56:35+00:00",
+   "extrait": "Kévin T., l'assaillant de l'attentat de Trappes qui a tué Pengo Bossio Wangi et a blessé 7 autres personnes, a tenté de se suicider en détention. Cette tentative a eu lieu il y a quelques jours. Le…",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "a5a96187c7b5",
@@ -296,28 +972,6 @@
    "zone": "france"
   },
   {
-   "id": "46dde36fc0fb",
-   "titre": "Democrats score major upsets and take control of Senate",
-   "lien": "https://www.cbsnews.com/live-updates/senate-election-results-2026/",
-   "source": "CBS News",
-   "date": "2026-11-04T07:34:00+00:00",
-   "extrait": "Democrats were able to pick up the seats needed to gain control of the Senate, CBS News projects, and the party scored several upset victories in red states.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "3c4c3d18bb4d",
-   "titre": "Mobilisation des lycéens : les absences des élèves peuvent-elles pénaliser leur dossier Parcoursup ?",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-les-absences-des-eleves-peuvent-elles-penaliser-leur-dossier-parcoursup_8266520.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-04T07:32:40+00:00",
-   "extrait": "Toutes les absences depuis le début des blocages et des manifestations sont recensées et figureront sur le bulletin scolaire. Ce qui inquiète les élèves et leurs familles, alors qu'un syndicat…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
    "id": "788172991436",
    "titre": "South Carolina elects Democratic senator for first time in almost three decades",
    "lien": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
@@ -331,7 +985,7 @@
   },
   {
    "id": "1c203795acdc",
-   "titre": "\"C'est le seul enfant que j'ai vu dans cet état\" : au procès des parents de \"la petite martyre de l'A10\", le calvaire d'Inass Touloub se dessine",
+   "titre": "\"C'est le seul enfant que j'aie vu dans cet état\" : au procès des parents de \"la petite martyre de l'A10\", le calvaire d'Inass Touloub se dessine",
    "lien": "https://www.franceinfo.fr/faits-divers/martyre-de-l-a10/c-est-le-seul-enfant-que-j-ai-vu-dans-cet-etat-au-proces-des-parents-de-la-petite-martyre-de-l-a10-le-calvaire-d-inass-touloub-se-dessine_8266418.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-11-04T07:29:51+00:00",
@@ -390,18 +1044,6 @@
    "zone": "france"
   },
   {
-   "id": "b42362010773",
-   "titre": "How America voted in maps and charts",
-   "lien": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-04T07:24:59+00:00",
-   "extrait": "See the maps and charts that show how America voted in the US midterm elections.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
    "id": "dbba920c6d32",
    "titre": "Republicans tried to gerrymander their way out of big congressional losses. It didn't work",
    "lien": "https://www.npr.org/2026/11/04/nx-s1-6028588/redistricting-efforts-failed-republicans",
@@ -434,16 +1076,6 @@
     "Politique"
    ],
    "zone": "france"
-  },
-  {
-   "id": "cf064f177920",
-   "titre": "Four tankers destroyed by naval mines in Strait of Hormuz, Iran's IRGC says",
-   "lien": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-04T07:17:08+00:00",
-   "extrait": "Iran's Islamic Revolutionary Guard Corps says the vessels had hit sea mines while trying to cross a prohibited route.",
-   "tags": [],
-   "zone": "monde"
   },
   {
    "id": "b2cdbf9065a6",
@@ -575,7 +1207,7 @@
   },
   {
    "id": "db8842f4456e",
-   "titre": "Anthony Zurcher: Democrats tear up Trump's political map on historic night",
+   "titre": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
    "lien": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-04T06:53:56+00:00",
@@ -655,7 +1287,7 @@
   },
   {
    "id": "07c1cb70b1a8",
-   "titre": "RESULTATS. Les démocrates s'emparent de la Chambre des représentants et du Sénat, infligeant une cuisante défaite aux républicains de Donald Trump aux midterms 2026... Suivez le décompte des sièges au Congrès",
+   "titre": "RESULTATS. Triomphe des démocrates aux midterms 2026, cuisante défaite pour les républicains de Donald Trump ... Suivez le décompte des sièges à la Chambre des représentants et au Sénat",
    "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/resultats-midterms-2026-donald-trump-va-t-il-perdre-le-controle-du-senat-ou-de-la-chambre-des-representants-suivez-le-decompte-des-sieges-en-direct_8237248.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-11-04T06:38:12+00:00",
@@ -696,7 +1328,7 @@
    "titre": "Présidentielle 2027 : Bruno Retailleau juge qu’il faudra une primaire en début d’année",
    "lien": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-bruno-retailleau-juge-qu-il-faudra-une-primaire-en-debut-d-annee_6806114_823448.html",
    "source": "Le Monde",
-   "date": "2026-11-04T06:31:24+00:00",
+   "date": "2026-11-04T06:31:23+00:00",
    "extrait": "Le candidat Les Républicains disait, jusqu’à présent, ne pas s’opposer à une primaire, mais jugeait qu’elle ne pouvait avoir lieu en raison de la fin de non-recevoir d’Edouard Philippe, le mieux…",
    "tags": [
     "Justice"
@@ -783,16 +1415,6 @@
     "Politique"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "07bc4ff11a94",
-   "titre": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
-   "lien": "https://www.bbc.co.uk/news/articles/c6y8lz73vmv7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-04T06:07:24+00:00",
-   "extrait": "The Ethiopian-born American citizen admitted sharing dozens of classified documents with senior Ethiopian officials.",
-   "tags": [],
-   "zone": "monde"
   },
   {
    "id": "817a448b8ece",
@@ -1194,12 +1816,32 @@
    "zone": "france"
   },
   {
+   "id": "7594fe78454c",
+   "titre": "Electrifier les usages tout en freinant sur les énergies renouvelables, la politique paradoxale de la France",
+   "lien": "https://www.lemonde.fr/planete/article/2026/11/04/electrifier-les-usages-tout-en-freinant-sur-les-energies-renouvelables-la-politique-paradoxale-de-la-france_6806071_3244.html",
+   "source": "Le Monde",
+   "date": "2026-11-04T05:00:13+00:00",
+   "extrait": "Alors que le pays connaît un déséquilibre entre sa production et sa consommation d’électricité bas-carbone, les acteurs du solaire et de l’éolien s’inquiètent pour leur avenir avant même la…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "6048a6c410b8",
    "titre": "Pourquoi le PSG signe un début de saison historique en Ligue des champions",
    "lien": "https://www.franceinfo.fr/sports/foot/psg/pourquoi-le-psg-signe-un-debut-de-saison-historique-en-ligue-des-champions_8266628.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-11-04T05:00:06+00:00",
    "extrait": "Habitué aux démarrages chaotiques sous Luis Enrique, le club de la capitale apparaît transfiguré en phase de ligue et réalise le meilleur début de campagne de C1 de son histoire.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "feb19b270d2b",
+   "titre": "« J’ai un chez-moi, très petit mais cosy » : à Rennes, dans la chambre en cité U de Kevin",
+   "lien": "https://www.lemonde.fr/campus/article/2026/11/04/j-ai-un-chez-moi-tres-petit-mais-cosy-a-rennes-dans-la-chambre-en-cite-u-de-kevin_6806036_4401467.html",
+   "source": "Le Monde",
+   "date": "2026-11-04T05:00:03+00:00",
+   "extrait": "« Et toi, t’habites où ? » En pleine crise du logement, étudiants et jeunes actifs redéfinissent, souvent malgré eux, l’art de trouver un chez-soi. Cette semaine, Kevin raconte comment son quotidien…",
    "tags": [],
    "zone": "france"
   },
@@ -2839,636 +3481,6 @@
     "Économie"
    ],
    "zone": "france"
-  },
-  {
-   "id": "f315c7732798",
-   "titre": "Espagne : le ministre des transports démissionne après la catastrophe ferroviaire meurtrière",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/03/espagne-le-ministre-des-transports-demissionne-apres-la-catastrophe-ferroviaire-meurtriere_6805667_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-03T20:53:30+00:00",
-   "extrait": "« C’est une question de dignité politique, de cohérence et d’empathie envers les victimes », a déclaré Oscar Puente, une semaine après la collision à Urda qui a coûté la vie à au moins 69 personnes.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "d37aeeae8396",
-   "titre": "Opération « mains propres » en Serbie sur fond de transition démocratique ardue",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/03/operation-mains-propres-en-serbie-sur-fond-de-transition-democratique-ardue_6805666_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-03T20:51:38+00:00",
-   "extrait": "Une vague d’arrestations menée par le parquet illustre l’ampleur de la tâche qui attend la nouvelle majorité, constituée de figures de la société civile peu expérimentées en politique.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "d4efc2357402",
-   "titre": "EN DIRECT, midterms 2026 : du Texas à la Californie, suivez les élections de mi-mandat en direct",
-   "lien": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-midterms-2026-du-texas-a-la-californie-suivez-les-elections-de-mi-mandat-en-direct_6805528_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-03T20:50:00+00:00",
-   "extrait": "Les premiers bureaux de vote ont fermé aux Etats-Unis. Plus de 58 millions d’Américains ont déjà voté par anticipation – un record pour des élections de mi-mandat, qui pourraient cette fois-ci voir…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "0d491d7395d5",
-   "titre": "Frantic 911 call from hero dad who killed school shooter released",
-   "lien": "https://www.cbsnews.com/news/oregon-school-shooting-hero-dad-911-call/",
-   "source": "CBS News",
-   "date": "2026-11-03T20:49:08+00:00",
-   "extrait": "The armed father who was hailed for his heroic actions​ during a deadly shooting​ at his daughters' elementary school in Oregon frantically called authorities before he went after the shooter.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "4faf0c1a23a8",
-   "titre": "Des syndicats et associations de sept pays européens appellent à manifester contre la vie chère fin novembre",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/03/des-syndicats-et-associations-de-sept-pays-europeens-appellent-a-manifester-contre-la-vie-chere-fin-novembre_6805665_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-03T20:48:27+00:00",
-   "extrait": "Les représentants des organisations françaises, espagnoles, italiennes, britanniques, portugaises, grecques et belges espèrent rassembler « des millions » de personnes dans les rues les 20, 21 et 22…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "bab4d6f33680",
-   "titre": "L'émission satirique \"Groland\" prendra fin le 12 décembre après 34 ans de diffusion",
-   "lien": "https://www.franceinfo.fr/economie/medias/l-emission-satirique-groland-prendra-fin-le-12-decembre-apres-34-ans-de-diffusion_8266403.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-03T20:45:44+00:00",
-   "extrait": "\"Groland a marqué durablement l'histoire de Canal+ et du paysage audiovisuel français\", a salué la chaîne au sujet de l'émission, vue comme une survivance de \"l'esprit Canal\".",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "a09a583b0825",
-   "titre": "Seven flights across Europe targeted by suspected bomb threats",
-   "lien": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-03T20:42:47+00:00",
-   "extrait": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "74017fea8ffb",
-   "titre": "King calls slave trade a 'shameful chapter' during Commonwealth address",
-   "lien": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-03T20:38:38+00:00",
-   "extrait": "The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "403c9dd642be",
-   "titre": "\"Si j'ai pu vivre ce rêve, c'est grâce à vous\"... Les adieux émouvants de Gaël Monfils au public français et au tennis en marge du Masters 1000 de Paris",
-   "lien": "https://www.franceinfo.fr/sports/tennis/gael-monfils/video-si-j-ai-pu-vivre-ce-reve-c-est-grace-a-vous-les-adieux-emouvants-de-gael-monfils-au-public-francais-et-au-tennis-en-marge-du-masters-1000-de-paris_8266532.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-03T20:30:43+00:00",
-   "extrait": "Le néo-retraité a pris la parole, mardi soir, entre les deux matchs programmés en soirée du Masters 1000 de Paris. Il a tenu à remercier toutes les personnes croisées dans sa carrière ainsi que le…",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c06b8cb22efc",
-   "titre": "En Pologne, la crise autour du Tribunal constitutionnel préfigure une campagne virulente pour les prochaines élections législatives",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/03/en-pologne-la-crise-autour-du-tribunal-constitutionnel-prefigure-une-campagne-virulente-pour-les-prochaines-elections-legislatives_6805664_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-03T20:26:51+00:00",
-   "extrait": "Mardi, l’assemblée générale de l’institution a vu le camp de centre droit du premier ministre polonais, Donald Tusk, et l’opposition nationaliste camper sur leurs positions.",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "81f2b5fca3c6",
-   "titre": "Le conflit se poursuit entre les salariés de SFR et Bouygues Telecom, Free et Orange sur le volet social du rachat de l’opérateur",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/03/le-conflit-se-poursuit-entre-les-salaries-de-sfr-et-bouygues-telecom-free-et-orange-sur-le-volet-social-du-rachat-de-l-operateur_6805663_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-03T20:25:09+00:00",
-   "extrait": "De nombreux employés du groupe de Patrick Drahi ont de nouveau fait grève, mardi 3 novembre, sur fond de fortes inquiétudes sur l’emploi dans le cadre du rachat collectif du groupe par Bouygues…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "760b3d3d4548",
-   "titre": "Une série de fausses alertes à la bombe perturbe une dizaine de vols en Europe",
-   "lien": "https://www.france24.com/fr/europe/20261103-s%C3%A9rie-fausses-alertes-bombe-perturbe-dizaine-vols-europe-royaume-uni-heathrow-italie-espagne-bulgarie-hongrie",
-   "source": "France 24",
-   "date": "2026-11-03T20:00:13+00:00",
-   "extrait": "Le ciel européen a été perturbé mardi par une série de fausses alertes à la bombe ayant entraîné l'inspection d'avions et des opérations de déminage. En Hongrie et en Italie, des vols ont été…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "497d1487309e",
-   "titre": "Ligue des champions : le PSG mène déjà 4-0, tout reste à faire pour Lille à la pause... Suivez avec nous les matchs du soir",
-   "lien": "https://www.franceinfo.fr/sports/directs/direct-ligue-des-champions-villarreal-psg-bodo-glimt-lille-suivez-la-quatrieme-journee-de-la-phase-de-ligue-avec-nous_8264123.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-03T19:59:14+00:00",
-   "extrait": "Après les succès contre le Slovan Bratislava, Manchester City et le FC Barcelone, les joueurs de Luis Enrique vont tenter de rester en tête de la phase de ligue.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "3bcf9deddefe",
-   "titre": "Attorney and Trump foe targeted in Alaska ballot probe, sources say",
-   "lien": "https://www.cbsnews.com/news/alaska-ballot-investigation-democrats-marc-elias/",
-   "source": "CBS News",
-   "date": "2026-11-03T19:59:00+00:00",
-   "extrait": "Marc Elias, a longtime Democratic attorney and vocal opponent of the Trump administration, received one of about 20 target letters sent by the DOJ in its Alaska ballot investigation.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "2bb23db64bc3",
-   "titre": "\"Manque d'anticipation\", \"participation de l'ultragauche\", regrets sur \"les blessures graves\"… Trois déclarations à retenir de l'audition de Laurent Nuñez devant la commission d'enquête sur les violences du 17 octobre",
-   "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/manque-d-anticipation-participation-de-l-ultragauche-regrets-sur-les-blessures-graves-trois-declarations-a-retenir-de-l-audition-de-laurent-nunez-devant-la-commission-d-enquete-sur-les-violences-du-17-octobre_8266397.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-03T19:56:51+00:00",
-   "extrait": "Le ministre de l'Intérieur, entendu sous serment mardi après-midi, a reconnu un \"manque d'anticipation\" de sa part face à divers \"phénomènes\" survenus \"simultanément\", \"de manière à faire éclater le…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "9ccc173b46bc",
-   "titre": "Westchester County ballot scanners down at some midterm election sites in New York",
-   "lien": "https://www.cbsnews.com/video/westchester-county-ballot-scanners-down-at-election-sites/",
-   "source": "CBS News",
-   "date": "2026-11-03T19:45:21+00:00",
-   "extrait": "Some ballot scanners at polling sites in Westchester County, New York, are down, officials said. CBS News' Shannelle Kaul has more.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "49e6eedc67d8",
-   "titre": "« Le bilan de la journée du 17 octobre est un échec » : Laurent Nuñez auditionné par la commission d’enquête sur les violences des manifestations",
-   "lien": "https://www.lemonde.fr/videos/video/2026/11/03/le-bilan-de-la-journee-du-17-octobre-est-un-echec-laurent-nunez-auditionne-par-la-commission-d-enquete-sur-les-violences-des-manifestations_6805659_1669088.html",
-   "source": "Le Monde",
-   "date": "2026-11-03T19:34:47+00:00",
-   "extrait": "La commission sur les violences des 17 et 18 octobre doit se pencher, entre autres, sur « la façon dont les pouvoirs publics se préparent en amont de tels événements », mais aussi sur les «…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "6a60078f71c2",
-   "titre": "Chris Pappas makes final pitch to New Hampshire voters",
-   "lien": "https://www.cbsnews.com/video/chris-pappas-makes-final-pitch-to-voters/",
-   "source": "CBS News",
-   "date": "2026-11-03T19:34:40+00:00",
-   "extrait": "Democratic candidate Chris Pappas made his final pitch to New Hampshire voters as polls opened on Tuesday morning. CBS News' Jared Ochacher has more.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "1e707b9403de",
-   "titre": "L'intersyndicale saisit la justice sur le parcours de la manifestation du 5 novembre à Paris",
-   "lien": "https://www.franceinfo.fr/economie/greve/l-intersyndicale-saisit-la-justice-sur-le-parcours-parisien-de-la-manifestation-du-5-novembre_8266493.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-03T19:31:12+00:00",
-   "extrait": "Les différents syndicats souhaitent que la préfecture de police publie, avant mercredi à 14 heures, les potentiels arrêtés d'interdiction qu'elle pourrait prendre sur le tracé prévu jeudi entre…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "bf7ed31a3d5b",
-   "titre": "Midterms 2026 : Donald Trump révèle à Fox News que l’aide militaire à Israël sera « coupée à la fin de l’année »",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/03/midterms-2026-donald-trump-revele-a-fox-news-que-l-aide-militaire-a-israel-sera-coupee-a-la-fin-de-l-annee_6805657_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-03T19:30:07+00:00",
-   "extrait": "Le jour des élections de mi-mandat, le président américain a déclaré, sans concertation apparente ni détails, vouloir en finir avec le soutien de 3,8 milliards de dollars annuels à l’Etat hébreu…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "b5c7f615e357",
-   "titre": "Midterms : l'Amérique à l'heure du choix",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261103-midterms-l-am%C3%A9rique-%C3%A0-l-heure-du-choix",
-   "source": "France 24",
-   "date": "2026-11-03T19:27:08+00:00",
-   "extrait": "Coup d'envoi ce 3 novembre des élections de mi-mandat aux ETats-Unis. Les électeurs américains se rendent aux urnes afin d'élire les députés de la Chambre des représentants ainsi qu'un tiers du…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "9b74f629e9d5",
-   "titre": "JOJ Dakar 2026 : Comment circuler dans la capitale sénégalaise ?",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261103-joj-dakar-2026-comment-circuler-dans-la-capitale-s%C3%A9n%C3%A9galaise",
-   "source": "France 24",
-   "date": "2026-11-03T19:25:56+00:00",
-   "extrait": "🚦 À Dakar, les JOJ 2026 mettent la mobilité urbaine au défi. Entre transports publics, circulation et dispositifs spéciaux, comment se déplacer dans la capitale sénégalaise pendant les Jeux ? Un…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "3b99340e9d9a",
-   "titre": "NYC marathoner died from rare condition rhabdomyolysis, father says",
-   "lien": "https://www.cbsnews.com/news/nyc-marathon-runner-rhabdomyolysis-death-condition/",
-   "source": "CBS News",
-   "date": "2026-11-03T19:21:32+00:00",
-   "extrait": "Rhabdomyolysis is a rare condition that can occur after very intense exercise or be triggered by drugs.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "c741bdb723c9",
-   "titre": "Midterms 2026 : la folie des auto-collants 'I voted'",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261103-midterms-2026-la-folie-des-auto-collants-i-voted",
-   "source": "France 24",
-   "date": "2026-11-03T19:15:31+00:00",
-   "extrait": "#EtatsUnis : c'est l'accessoire tendance en ce moment dans le pays. Après avoir voté pour les #Midterms, les Américains arborent fièrement un sticker montrant leur participation à ces élections de…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "6ada1c205843",
-   "titre": "Supreme Court seems likely to favor Catholic schools in pre-K fight",
-   "lien": "https://www.cbsnews.com/news/supreme-court-st-mary-catholic-parish-v-roy-colorado-preschool/",
-   "source": "CBS News",
-   "date": "2026-11-03T19:12:56+00:00",
-   "extrait": "The Supreme Court is weighing a case involving Catholic preschools' efforts to participate in Colorado's universal preschool program.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "463c47ecf0bc",
-   "titre": "La SNCF annonce trois mesures pour améliorer le pouvoir d'achat de ses salariés face à l'inflation, dont une prime de 400 euros",
-   "lien": "https://www.franceinfo.fr/economie/transports/sncf/la-sncf-annonce-trois-mesures-pour-ameliorer-le-pouvoir-d-achat-de-ses-salaries-face-a-l-inflation-dont-une-prime-de-400-euros_8266442.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-03T19:06:36+00:00",
-   "extrait": "Les indemnités pour heures de nuit, dimanches et fêtes sont aussi augmentées de 2% pour les quelque 100 000 salariés qui assurent la continuité du service ferroviaire ou travaillent en horaires…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "918d7261ea1c",
-   "titre": "Présidentielle 2027 : pourquoi les dates du scrutin virent au casse-tête constitutionnel",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/03/presidentielle-2027-pourquoi-les-dates-du-scrutin-virent-au-casse-tete-constitutionnel_6805653_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-03T19:00:05+00:00",
-   "extrait": "La controverse suscitée par le choix du 2 mai 2027 pour la tenue du second tour a pris une nouvelle ampleur à la suite des débordements survenus à l’occasion de la mobilisation du 17 octobre. Les…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "94b94917e85c",
-   "titre": "Présomption de salariat, revenu minimum, transparence des algorithmes : les propositions de la mission sur les travailleurs des plateformes",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/03/presomption-de-salariat-revenu-minimum-transparence-des-algorithmes-les-propositions-de-la-mission-sur-les-travailleurs-de-plateformes_6805652_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-03T19:00:05+00:00",
-   "extrait": "Un rapport de mission remis au gouvernement le 2 novembre propose de mieux réguler le travail de plateforme, alors que la France a jusqu’au 2 décembre pour transposer une directive européenne sur le…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "ca7dcca15f48",
-   "titre": "Midterms : qui de Dan Sullivan ou de Dan Sullivan deviendra sénateur de l'Alaska ?",
-   "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-qui-de-dan-sullivan-ou-de-dan-sullivan-deviendra-senateur-de-l-alaska_8266472.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-03T18:59:34+00:00",
-   "extrait": "En Alaska, on voit double pour les élections de mi-mandat américaines. Dan Sullivan affronte Dan Sullivan pour un siège au Sénat. Une situation assez confuse... Selon une enquête du New York Times…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "587980c67d79",
-   "titre": "Mouvement lycéen : entre reprise des cours et maintien des blocages, la mobilisation à un moment charnière après les vacances",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/03/mouvement-lyceen-entre-reprise-des-cours-et-maintien-des-blocus-la-mobilisation-a-un-moment-charniere-apres-les-vacances_6805651_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-03T18:56:22+00:00",
-   "extrait": "La bataille des chiffres fait rage entre gouvernement et organisations syndicales sur le niveau des perturbations dans les lycées. Parmi les élèves présents au sein des blocages d’Ile-de-France, la…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "0d9ee1837dd6",
-   "titre": "Sarah El Haïry (Modem) : \"Les extrêmes alimentent des comportements violents\"",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/mardi-politique/20261103-sarah-el-ha%C3%AFry-modem-extr%C3%AAmes-alimentent-comportements-violents-haute-commissaire-enfance",
-   "source": "France 24",
-   "date": "2026-11-03T18:54:27+00:00",
-   "extrait": "La mobilisation lycéenne, tout en étant moins suivie, se poursuit. Pour Sarah El Haïry, haute-commissaire à l’Enfance, \"il faut mettre en œuvre les annonces faites aux lycéens\". La vice-présidente…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "166b68c3fbc1",
-   "titre": "Manifestations du 17 octobre : sous serment devant les députés, Laurent Nuñez reconnaît un \"manque d'anticipation\" de sa part lors de cette journée marqué par des pillages",
-   "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-manifestations-du-17-octobre-suivez-a-partir-de-16h30-l-audition-de-laurent-nunez-ministre-de-l-interieur-sur-sa-gestion-du-maintien-de-l-ordre_8265545.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-03T18:51:55+00:00",
-   "extrait": "Il a également évoqué un \"échec\", tout en précisant que \"l'échec constaté ne présum[ait] pas en soi une faute des services de l'Etat\", dans le cadre de la commission d'enquête de l'Assemblée…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "de810b91108b",
-   "titre": "Le Sénat adopte le projet de loi de protection des enfants",
-   "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/le-senat-adopte-le-projet-de-loi-de-protection-des-enfants_8266370.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-03T18:44:59+00:00",
-   "extrait": "Les députés et les sénateurs doivent désormais se réunir lors d'une commission mixte paritaire (CMP) pour aboutir à un texte commun, et donc à son adoption définitive.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "55bfe8d0541e",
-   "titre": "Prix Goncourt 2026 : Philippe Jaenada récompensé pour « L'inconnue du quai de Javel »",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20261103-prix-goncourt-2026-philippe-jaenada-r%C3%A9compens%C3%A9-pour-l-inconnue-du-quai-de-javel",
-   "source": "France 24",
-   "date": "2026-11-03T18:39:22+00:00",
-   "extrait": "Le prix Goncourt 2026 a été attribué à Philippe Jaenada pour « L'inconnue du quai de Javel » (Flammarion). Dans ce roman, l'écrivain français mène une enquête sur un meurtre non élucidé, celui de…",
-   "tags": [
-    "Économie",
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "77f093de87d0",
-   "titre": "Jérémie Beyou, un des favoris de la classe Imoca, abandonne la Route du Rhum pour raisons médicales",
-   "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/jeremie-beyou-un-des-favoris-de-la-classe-imoca-abandonne-la-route-du-rhum-pour-raisons-medicales_8266286.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-03T18:35:07+00:00",
-   "extrait": "Alors qu’il occupait la deuxième position de la flotte Imoca, à environ 500 milles au nord des Açores, le navigateur \"a pris la décision de mettre fin à sa course\", annonce son équipe.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "9ebbc5d6afca",
-   "titre": "Protection des enfants : le Sénat adopte le projet de loi du gouvernement, qui prévoit l’imprescriptibilité des crimes sexuels sur mineurs",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/03/protection-des-enfants-le-senat-adopte-le-projet-de-loi-du-gouvernement-qui-prevoit-l-imprescriptibilite-des-crimes-sexuels-sur-mineurs_6805650_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-03T18:30:06+00:00",
-   "extrait": "Le texte gouvernemental a été largement adopté, malgré l’abstention de la gauche, qui a notamment regretté l’absence de moyens financiers supplémentaires pour la protection de l’enfance.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "0c4d34739af8",
-   "titre": "Pesticides : « Il est urgent de renverser le rapport de force asymétrique avec les fabricants »",
-   "lien": "https://www.lemonde.fr/idees/article/2026/11/03/pesticides-il-est-urgent-de-renverser-le-rapport-de-force-asymetrique-avec-les-fabricants_6805649_3232.html",
-   "source": "Le Monde",
-   "date": "2026-11-03T18:30:06+00:00",
-   "extrait": "De la loi Duplomb à la loi d’urgence agricole et, aujourd’hui, à la loi omnibus X, le gouvernement soumet peu à peu l’expertise scientifique indépendante de l’Agence nationale de sécurité sanitaire…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "f33338ab1e63",
-   "titre": "How Wall Street analysts think the midterms could affect stocks",
-   "lien": "https://www.cbsnews.com/news/midterm-election-stocks-market-wall-street/",
-   "source": "CBS News",
-   "date": "2026-11-03T18:26:48+00:00",
-   "extrait": "Despite the political drama surrounding U.S. elections, stocks have historically risen following midterms, market data shows.",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "43b410f54f68",
-   "titre": "Charles Caudrelier, tenant du titre de la Route du rhum, contraint à l’abandon",
-   "lien": "https://www.lemonde.fr/sport/article/2026/11/03/charles-caudrelier-tenant-du-titre-de-la-route-du-rhum-contraint-a-l-abandon_6805648_3242.html",
-   "source": "Le Monde",
-   "date": "2026-11-03T18:24:43+00:00",
-   "extrait": "Le skippeur de 52 ans, vainqueur de la dernière édition de la course en 2022, a abandonné, mardi, deux jours après le départ de la 13ᵉ édition. Son maxi-trimaran a été victime d’une grave avarie de…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "da17693537e7",
-   "titre": "New Jersey's governor warns ports against accepting Russian diesel",
-   "lien": "https://www.cbsnews.com/news/new-jerseys-governor-warns-ports-against-accepting-russian-diesel/",
-   "source": "CBS News",
-   "date": "2026-11-03T18:19:43+00:00",
-   "extrait": "New Jersey Gov. Mikie Sherrill said ports and terminal operators receiving shipments of Russian diesel could face criminal penalties.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "60e135dac8b4",
-   "titre": "Plus de 22 tonnes de protoxyde d'azote saisies en Corrèze, découvertes dans la cargaison d'un poids lourd",
-   "lien": "https://www.franceinfo.fr/sante/drogue-addictions/plus-de-22-tonnes-de-protoxyde-d-azote-saisies-en-correze_8266343.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-03T18:08:17+00:00",
-   "extrait": "Le protoxyde d'azote a vu son usage détourné ces dernières années du fait de ses effets psychoactifs, malgré de graves risques pour la santé.",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "1e349039341b",
-   "titre": "Concurrence accrue, direction instable, finances dans le rouge... Pourquoi Gifi, placée en redressement judiciaire, se retrouve en grande difficulté",
-   "lien": "https://www.franceinfo.fr/economie/concurrence-accrue-direction-instable-finances-dans-le-rouge-pourquoi-gifi-placee-en-redressement-judiciaire-se-retrouve-en-grande-difficulte_8265626.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-03T18:02:56+00:00",
-   "extrait": "L'enseigne de produits du quotidien à petits prix emploie 6 000 personnes en France. Une audience doit se tenir début janvier pour \"déterminer si l'entreprise dispose des capacités financières…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "bd9a6cba3f2f",
-   "titre": "EN DIRECT, guerre en Ukraine : à Kiev, des coupures de courant d’urgence mises en place, le maire dénonce les attaques russes sur les infrastructures énergétiques de la ville",
-   "lien": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-guerre-en-ukraine-a-kiev-des-coupures-de-courant-d-urgence-mises-en-place-le-maire-denonce-les-attaques-russes-sur-les-infrastructures-energetiques-de-la-ville_6803934_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-03T18:01:01+00:00",
-   "extrait": "« La situation de l’approvisionnement en électricité à Kiev est extrêmement difficile », a déclaré, mardi, Vitali Klitschko, le maire de la capitale ukrainienne. « L’ennemi continue de détruire les…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "be0d26436eef",
-   "titre": "EN DIRECT, Villarreal-PSG et Bodo Glimt-Lille : les Parisiens vainqueurs après un petit festival, les Lillois tenus en échec",
-   "lien": "https://www.lemonde.fr/sport/live/2026/11/03/en-direct-villarreal-psg-et-bodo-glimt-lille-suivez-les-matchs-de-ligue-des-champions_6805646_3242.html",
-   "source": "Le Monde",
-   "date": "2026-11-03T18:00:12+00:00",
-   "extrait": "Le Paris Saint-Germain va tenter de poursuivre son sans-faute en Ligue des champions, mardi, sur la pelouse de Villarreal. De leur côté, les Lillois visent les premiers points de leur campagne…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "9ab28b8ea6f5",
-   "titre": "Au Luxembourg, le « FMI européen » s’inquiète de la situation financière de la France",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/03/au-luxembourg-le-fmi-europeen-s-inquiete-de-la-situation-financiere-de-la-france_6805642_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-03T18:00:01+00:00",
-   "extrait": "Le Mécanisme européen de stabilité peut prêter jusqu’à 500 milliards d’euros aux pays financièrement étranglés. « Nous n’avons aucune raison d’intervenir à ce stade », assure son directeur général.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "574c05766512",
-   "titre": "En Ukraine, la Russie intensifie ses frappes contre des cibles civiles",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/03/en-ukraine-la-russie-intensifie-ses-frappes-contre-des-cibles-civiles_6805643_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-03T18:00:01+00:00",
-   "extrait": "Un bombardement, le 1ᵉʳ novembre, contre une école faisant office, chaque lundi, de centre de distribution d’aide humanitaire a fait 33 morts et une cinquantaine de disparus, selon le dernier bilan.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "432ae0deafc0",
-   "titre": "Tenant du titre, Charles Caudrelier abandonne la Route du Rhum après une avarie",
-   "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/tenant-du-titre-charles-caudrelier-abandonne-la-route-du-rhum-apres-une-avarie_8266379.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-03T17:58:56+00:00",
-   "extrait": "Le skipper de 52 ans se trouvait dans le quatuor de tête, avant de découvrir une grave avarie de son foil, mardi.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "2e65d62996bf",
-   "titre": "DOJ sending 1,000 monitors to polling sites is an \"intimidation tactic,\" voting advocate says",
-   "lien": "https://www.cbsnews.com/video/doj-sending-1000-monitors-to-polling-sites-is-an-intimidation-tactic-voting-advocate-says/",
-   "source": "CBS News",
-   "date": "2026-11-03T17:53:53+00:00",
-   "extrait": "President Trump's Department of Justice deployed a record number of election monitors to polling sites across the U.S. Democracy Forward President Skye Perryman speaks about the importance of voting…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "ef8c64702c3c",
-   "titre": "Trump says U.S. will stop sending $4 billion yearly military assistance to Israel by end of year",
-   "lien": "https://www.cbsnews.com/video/trump-says-us-will-stop-sending-4b-annually-to-israel-by-the-end-of-the-year/",
-   "source": "CBS News",
-   "date": "2026-11-03T17:52:58+00:00",
-   "extrait": "President Trump suggested that the U.S. will bring its funding for Israel to a close in a recent interview. CBS News' Nicole Sganga reports.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "0cd14a5eae9a",
-   "titre": "The transplanted Scot doing famous father proud in New Zealand",
-   "lien": "https://www.bbc.co.uk/sport/rugby-union/articles/c6ewerp0w5lvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-03T17:50:16+00:00",
-   "extrait": "Clark Laidlaw, head coach at Super Rugby champions Hurricanes, has made a huge impact in New Zealand and would \"welcome a conversation\" about taking on the top job in Scotland.",
-   "tags": [
-    "Climat",
-    "Sport"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "4b432f0c44dc",
-   "titre": "Peut-on \"supprimer CNews\" ? On répond à quatre questions sur la fermeture de la chaîne, réclamée par plus de 700 000 personnes dans une pétition",
-   "lien": "https://www.franceinfo.fr/economie/medias/quatre-questions-sur-la-fermeture-de-la-chaine-cnews-reclamee-par-plus-de-700-000-personnes-dans-une-petition_8265569.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-03T17:45:57+00:00",
-   "extrait": "La suppression d'une chaîne de la TNT relève du régulateur de l'audiovisuel et non des députés. Une décision qui n'est, pour le moment, pas à l'ordre du jour.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "2c97c1c99753",
-   "titre": "Les Bleues affronteront l'Angleterre, le Portugal et l'Autriche en Ligue des nations sur la route du Mondial 2027",
-   "lien": "https://www.franceinfo.fr/sports/foot/ligue-des-nations/les-bleues-affronteront-l-angleterre-le-portugal-et-l-autriche-en-ligue-des-nations-sur-la-route-du-mondial-2027_8266331.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-03T17:43:25+00:00",
-   "extrait": "Le tirage au sort de la compétition, effectué mardi, a placé les doubles championnes d'Europe sur la route de l'équipe de France.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "4b95de13566d",
-   "titre": "Midterms 2026 : les bureaux de vote ont ouvert dans de nombreux Etats américains de la côte est",
-   "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-midterms-2026-suivez-la-journee-de-vote-pour-les-elections-americaines-de-mi-mandat-cruciales-pour-donald-trump_8265446.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-03T17:40:27+00:00",
-   "extrait": "Les électeurs américains sont appelés à renouveler l'intégralité de la Chambre des représentants ainsi qu'un tiers du Sénat pour ces élections de mi-mandat. Les démocrates espèrent une \"vague bleue\"…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "2c99cc4eb8e2",
-   "titre": "Pétition pour interdire CNews : l’Assemblée nationale votera en commission sur l’opportunité d’un débat",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/03/petition-pour-interdire-cnews-l-assemblee-nationale-votera-en-commission-sur-l-opportunite-d-un-debat_6805641_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-03T17:34:20+00:00",
-   "extrait": "Publié sur le site de l’Assemblée nationale et viral depuis l’attentat raciste de Trappes, un texte réclamant la fermeture de la chaîne du groupe Bolloré dépassait, mardi, les 750 000 signatures…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "8806bb4118be",
-   "titre": "Poland launches major security operation along border with Russia",
-   "lien": "https://www.cbsnews.com/news/poland-russia-border-operation-kaliningrad-sabotage-provocation-nato/",
-   "source": "CBS News",
-   "date": "2026-11-03T17:32:02+00:00",
-   "extrait": "Poland's prime minister says a rapid, major deployment of extra security forces to the border with Russia may have prevented \"attempted acts of provocation.\"",
-   "tags": [],
-   "zone": "usa"
   }
  ]
 }
