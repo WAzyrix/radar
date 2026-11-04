@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-04T20:05:54+00:00",
+ "maj": "2026-11-04T21:05:42+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "0fd87eaf33b4",
+   "titre": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+   "lien": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+   "source": "BleepingComputer",
+   "date": "2026-11-04T20:58:19+00:00",
+   "extrait": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials…",
+   "tags": [
+    "Faille",
+    "Fuite de données"
+   ]
+  },
   {
    "id": "1413af0079f4",
    "titre": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
@@ -3421,17 +3433,6 @@
    "date": "2026-10-24T09:29:23+00:00",
    "extrait": "Cyberattaque chez Point Vision : données de patients volées, exposition possible des motifs de rendez-vous.",
    "tags": []
-  },
-  {
-   "id": "94d51fe2d204",
-   "titre": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
-   "lien": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
-   "source": "The Hacker News",
-   "date": "2026-10-24T09:04:24+00:00",
-   "extrait": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have…",
-   "tags": [
-    "Malware"
-   ]
   }
  ]
 }
