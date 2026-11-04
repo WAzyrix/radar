@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-04T12:05:43+00:00",
+ "maj": "2026-11-04T13:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,63 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "62ad9c2a6bdd",
+   "titre": "CISA flags WordPress RCE flaw as actively exploited in attacks",
+   "lien": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
+   "source": "BleepingComputer",
+   "date": "2026-11-04T12:11:05+00:00",
+   "extrait": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "d013e25bf406",
+   "titre": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
+   "lien": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
+   "source": "The Hacker News",
+   "date": "2026-11-04T12:07:04+00:00",
+   "extrait": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "de8bbdd0e39a",
+   "titre": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
+   "lien": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
+   "source": "The Hacker News",
+   "date": "2026-11-04T11:46:27+00:00",
+   "extrait": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "ecf2013fdfbb",
+   "titre": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
+   "lien": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
+   "source": "The Hacker News",
+   "date": "2026-11-04T11:34:20+00:00",
+   "extrait": "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a…",
+   "tags": [
+    "IA"
+   ]
+  },
+  {
+   "id": "8384c224e801",
+   "titre": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
+   "lien": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
+   "source": "The Hacker News",
+   "date": "2026-11-04T11:24:31+00:00",
+   "extrait": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input…",
+   "tags": [
+    "Fuite de données",
+    "Malware",
+    "Windows"
+   ]
+  },
   {
    "id": "955f969e9dae",
    "titre": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
@@ -3387,61 +3444,6 @@
    "tags": [
     "Faille",
     "Linux"
-   ]
-  },
-  {
-   "id": "cdc89f4ec964",
-   "titre": "Multiples vulnérabilités dans les produits SUSE (23 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1372/",
-   "source": "CERT-FR",
-   "date": "2026-10-23T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "527506073396",
-   "titre": "Multiples vulnérabilités dans les produits IBM (23 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1378/",
-   "source": "CERT-FR",
-   "date": "2026-10-23T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "fa647be501f3",
-   "titre": "Multiples vulnérabilités dans les produits Papercut (23 octobre 2026)",
-   "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1377/",
-   "source": "CERT-FR",
-   "date": "2026-10-23T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Papercut. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "34976369be5c",
-   "titre": "Multiples vulnérabilités dans les produits Red Hat (23 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1373/",
-   "source": "CERT-FR",
-   "date": "2026-10-23T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, un déni de…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "ac364a6a3a3a",
-   "titre": "Multiples vulnérabilités dans les produits HPE Aruba Networking (23 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1369/",
-   "source": "CERT-FR",
-   "date": "2026-10-23T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance…",
-   "tags": [
-    "Faille"
    ]
   }
  ]
