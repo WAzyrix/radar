@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-04T04:05:39+00:00",
+ "maj": "2026-11-04T05:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,38 +22,428 @@
  "erreurs": [],
  "articles": [
   {
-   "id": "46dde36fc0fb",
-   "titre": "Democrats score major upsets in Texas, South Carolina and more results",
-   "lien": "https://www.cbsnews.com/live-updates/senate-election-results-2026/",
+   "id": "e56869b9ea3f",
+   "titre": "Adam Hamilton wins Kansas Senate race in another Democratic upset",
+   "lien": "https://www.cbsnews.com/news/kansas-2026-senate-hamilton-marshall/",
    "source": "CBS News",
-   "date": "2026-11-04T04:04:34+00:00",
-   "extrait": "Democrats scored two major upsets in Texas​ and South Carolina​, states President Trump won by double digits two years ago.",
+   "date": "2026-11-04T05:03:21+00:00",
+   "extrait": "Democratic Reverend Adam Hamilton defeated GOP Sen. Roger Marshall in the Kansas Senate race, CBS News projects, unseating the incumbent in a major upset.",
    "tags": [
     "Politique"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "c7e474119e67",
+   "titre": "Democrats win House majority with Trump approval at historic low",
+   "lien": "https://www.cbsnews.com/live-updates/house-election-results-2026/",
+   "source": "CBS News",
+   "date": "2026-11-04T05:03:04+00:00",
+   "extrait": "Democrats have won control of the House in the 2026 election, CBS News projects. Follow the midterm election results here, as polls begin to close.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "112526f16eb5",
+   "titre": "Democrat Josh Turek wins Iowa Senate race",
+   "lien": "https://www.cbsnews.com/news/iowa-2026-senate-hinson-turek/",
+   "source": "CBS News",
+   "date": "2026-11-04T05:00:31+00:00",
+   "extrait": "Democratic state Rep. Josh Turek defeated GOP Rep. Ashley Hinson in the Iowa Senate race, CBS News projects, in a major pickup for Democrats as they seek to take control of the upper chamber.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "163e0ee480fd",
+   "titre": "En Afrique du Sud, la déconfiture annoncée de l’ANC, en perte de vitesse dans les grandes villes du pays",
+   "lien": "https://www.lemonde.fr/afrique/article/2026/11/04/en-afrique-du-sud-la-deconfiture-annoncee-de-l-anc-en-perte-de-vitesse-dans-les-grandes-villes-du-pays_6806072_3212.html",
+   "source": "Le Monde",
+   "date": "2026-11-04T05:00:25+00:00",
+   "extrait": "Chômage, criminalité, déliquescence des infrastructures, corruption… Le pays, dirigé depuis 1994 par le Congrès national africain, est rongé par de multiples crises. Le parti est annoncé au…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "8327fc7f0803",
+   "titre": "GOP Rep. Tom Kean Jr. ousted in New Jersey",
+   "lien": "https://www.cbsnews.com/news/new-jersey-7-results-tom-kean-rebecca-bennett/",
+   "source": "CBS News",
+   "date": "2026-11-04T04:59:43+00:00",
+   "extrait": "Rebecca Bennett defeated the two-term Republican incumbent after his monthslong absence for depression treatment.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "07c1cb70b1a8",
+   "titre": "RESULTATS. Les démocrates s'emparent du Sénat, les républicains de Donald Trump en grande difficulté aux midterms 2026... Suivez le décompte des sièges au Congrès",
+   "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/resultats-midterms-2026-donald-trump-va-t-il-perdre-le-controle-du-senat-ou-de-la-chambre-des-representants-suivez-le-decompte-des-sieges-en-direct_8237248.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-04T04:59:16+00:00",
+   "extrait": "Les Américains ont voté mardi pour le renouvellement de la Chambre des représentants et d'une partie du Sénat. Découvrez les résultats des élections de mi-mandat sur notre page mise à jour tout au…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "d7e012490e83",
+   "titre": "Midterms 2026 : le démocrate Talarico élu sénateur au Texas, un exploit dans un bastion républicain",
+   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261104-midterms-2026-democrate-talarico-elu-senateur-texas-exploit-bastion-republicain",
+   "source": "France 24",
+   "date": "2026-11-04T04:58:52+00:00",
+   "extrait": "Le démocrate James Talarico a remporté mardi un siège au Sénat américain pour le Texas, en battant le républicain Ken Paxton. Il signe ainsi la première victoire démocrate à l'échelle de l'État…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "4f2091a9e207",
+   "titre": "Democrats retake House majority after 4 years",
+   "lien": "https://www.cbsnews.com/news/democrats-win-house-majority/",
+   "source": "CBS News",
+   "date": "2026-11-04T04:58:12+00:00",
+   "extrait": "The change in the balance of power sets up a clash with the Trump administration on oversight and other legislative priorities.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "46dde36fc0fb",
+   "titre": "Democrats score major upsets and take control of Senate",
+   "lien": "https://www.cbsnews.com/live-updates/senate-election-results-2026/",
+   "source": "CBS News",
+   "date": "2026-11-04T04:57:47+00:00",
+   "extrait": "Democrats were able to pick up the four seats needed to gain control of the Senate, CBS News projects.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "a37b862ae016",
+   "titre": "Democrats win control of Senate, CBS News projects",
+   "lien": "https://www.cbsnews.com/video/democrats-win-control-of-senate-cbs-news-projects/",
+   "source": "CBS News",
+   "date": "2026-11-04T04:54:41+00:00",
+   "extrait": "The Democratic Party will win control of the Senate in addition to the House, CBS News projects. CBS News' Weijia Jiang spoke to President Trump and shares her key takeaways from the conversation.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "eacf9ec3fb65",
+   "titre": "Trump says he'll work with Dems as they win Congress in major upset",
+   "lien": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/",
+   "source": "CBS News",
+   "date": "2026-11-04T04:52:38+00:00",
+   "extrait": "Democrats have won control of the House and Senate, winning multiple red states in a 2026 midterm election that is widely viewed as a rebuke of President Trump. Follow live updates here.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "87403d7e79f8",
+   "titre": "Wes Moore on historic governor race wins: \"Making history is not the assignment\"",
+   "lien": "https://www.cbsnews.com/video/wes-moore-historic-governor-race-wins-making-history-not-assignment/",
+   "source": "CBS News",
+   "date": "2026-11-04T04:48:22+00:00",
+   "extrait": "Democratic Maryland Gov. Wes Moore, projected to win reelection, joins CBS News on election night to discuss the other gubernatorial races across the U.S., including historic wins for other Black…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "817a448b8ece",
+   "titre": "Trump congratulates Democrats in election night call with CBS News",
+   "lien": "https://www.cbsnews.com/news/trump-congratulates-democrats-election-night-call/",
+   "source": "CBS News",
+   "date": "2026-11-04T04:47:48+00:00",
+   "extrait": "President Trump congratulated Democrats on their victories in a phone call with CBS News.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "8a24cb740acd",
+   "titre": "Midterms 2026 : Trump entre déni et sourde menace face à une condamnation électorale sans appel",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-2026-trump-entre-d%C3%A9ni-et-sourde-menace-face-%C3%A0-une-condamnation-%C3%A9lectorale-sans-appel",
+   "source": "France 24",
+   "date": "2026-11-04T04:46:14+00:00",
+   "extrait": "Donald Trump a choisi mardi une forme de déni et un ton de sourde menace, refusant d'assumer la responsabilité de la lourde défaite de son parti, les républicains, aux législatives de mi-mandat. \"Je…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "33db8d7a4651",
+   "titre": "Democrats win majority in the Senate, flipping control of upper chamber",
+   "lien": "https://www.cbsnews.com/news/senate-control-democrats-republicans-2026-midterm-elections/",
+   "source": "CBS News",
+   "date": "2026-11-04T04:46:12+00:00",
+   "extrait": "Democrats won control of the Senate in the 2026 elections with a raft of victories over Republicans in key races, cementing the new majority and flipping party control of the upper chamber.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "e504343926dd",
+   "titre": "Democrats win the Senate, setting up divided government for remainder of Trump's term",
+   "lien": "https://www.npr.org/2026/11/03/g-s1-149526/2026-midterms-congress-balance-of-power",
+   "source": "NPR",
+   "date": "2026-11-04T04:44:55+00:00",
+   "extrait": "Democrats won by making inroads in several states where they have long struggled, boosted by a challenging political environment for the GOP dominated by voter frustration over high prices.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "989b9c9b6fb7",
+   "titre": "EN DIRECT, midterms 2026 : les démocrates remportent la majorité des sièges au Sénat, les républicains en difficulté à la Chambre des représentants",
+   "lien": "https://www.lemonde.fr/international/live/2026/11/04/en-direct-midterms-2026-les-democrates-remportent-la-majorite-des-sieges-au-senat-les-republicains-en-difficulte-a-la-chambre-des-representants_6805528_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-04T04:44:18+00:00",
+   "extrait": "Le démocrate James Talarico a été élu sénateur au Texas, bastion républicain. Au Kansas, Adam Hamilton donne le siège de sénateur de l’Etat au Parti démocrate pour la première fois depuis 1932. Les…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "94d8aee0cb62",
+   "titre": "Midterms 2026 : les démocrates remportent la majorité absolue au Sénat après de nouvelles victoires dans l'Iowa et au Kansas",
+   "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-midterms-2026-nette-avance-democrate-au-congres-des-premieres-victoires-historiques-suivez-les-resultats-des-elections-de-mi-mandat_8265776.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-04T04:43:34+00:00",
+   "extrait": "Aux Etats-Unis, les résultats des élections de mi-mandat laissent entrevoir une journée difficile pour le camp du président républicain Donald Trump.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "835c8d9b6884",
+   "titre": "Democrat Josh Turek wins the Senate seat in Iowa",
+   "lien": "https://www.npr.org/2026/11/03/g-s1-148956/iowa-senate-race-josh-turek",
+   "source": "NPR",
+   "date": "2026-11-04T04:37:55+00:00",
+   "extrait": "Democrat Josh Turek has defeated Sen. Ashley Hinson in Iowa, according to a race call by the Associated Press.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "50c9491d355f",
+   "titre": "On a historic night for democratic socialists, Mamdani says midterms show power of working-class voters",
+   "lien": "https://www.npr.org/2026/11/03/nx-s1-6028105/on-a-historic-night-for-democratic-socialists-mamdani-says-midterms-show-power-of-working-class-voters",
+   "source": "NPR",
+   "date": "2026-11-04T04:37:44+00:00",
+   "extrait": "The New York mayor tells NPR's Juana Summers that newly elected democratic socialists need to seize this moment and show voters what politics can deliver.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "622e3660b6fd",
+   "titre": "Democrat Amy Acton wins Ohio governor's race",
+   "lien": "https://www.cbsnews.com/news/ohio-governors-race-results-amy-acton-vivek-ramaswamy/",
+   "source": "CBS News",
+   "date": "2026-11-04T04:36:28+00:00",
+   "extrait": "Vivek Ramaswamy's campaign produced a controversial ad in October that featured Amy Acton's estranged mother.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "79dd57d65a84",
+   "titre": "Democrat David Crowley wins Wisconsin governor's race",
+   "lien": "https://www.cbsnews.com/news/wisconsin-governors-race-results-david-crowley-wins-democrat/",
+   "source": "CBS News",
+   "date": "2026-11-04T04:33:36+00:00",
+   "extrait": "David Crowley won the Democratic nomination after dropping out of the primary and then jumping back in.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "8478806a4903",
+   "titre": "See CBS News exit poll results for the 2026 midterm elections",
+   "lien": "https://www.cbsnews.com/news/cbs-news-exit-polls-midterm-elections-2026/",
+   "source": "CBS News",
+   "date": "2026-11-04T04:32:22+00:00",
+   "extrait": "Here's a national look at what's on voters' minds in the 2026 midterm elections as they cast their ballots.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "5c0c1a030c24",
+   "titre": "Democrat David Crowley will be Wisconsin's first Black governor",
+   "lien": "https://www.npr.org/2026/11/03/g-s1-151235/democrat-david-crowley-will-be-wisconsins-first-black-governor",
+   "source": "NPR",
+   "date": "2026-11-04T04:28:24+00:00",
+   "extrait": "Democrat David Crowley defeated Republican Congressman Tom Tiffany in a campaign that focused on \"lowering costs for working families\" and bringing more jobs to Wisconsin.",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "5c403b008654",
+   "titre": "Adam Hamilton becomes the first Democratic senator from Kansas in nearly a century",
+   "lien": "https://www.npr.org/2026/11/03/g-s1-151587/kansas-senate-race-hamilton-marshall",
+   "source": "NPR",
+   "date": "2026-11-04T04:25:28+00:00",
+   "extrait": "Democrat Adam Hamilton beat Sen. Roger Marshall, a fierce loyalist to President Trump, per a race call by the Associated Press.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "adae4e056223",
+   "titre": "Missourians reject ballot proposal that would have re-imposed an abortion ban",
+   "lien": "https://www.npr.org/2026/11/03/g-s1-151063/missouri-abortion-ban-transgender",
+   "source": "NPR",
+   "date": "2026-11-04T04:25:05+00:00",
+   "extrait": "Missouri voters defeated a measure that would have banned abortion just two years after voters legalized abortion in another vote. Voters in Missouri legalized abortion two years ago but this time…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "4e68fc1b5686",
+   "titre": "Democrat Rob Sand wins Iowa governor's race, defeating Zach Lahn",
+   "lien": "https://www.cbsnews.com/news/iowa-governors-race-results-rob-sand-zach-lahn/",
+   "source": "CBS News",
+   "date": "2026-11-04T04:21:46+00:00",
+   "extrait": "CBS News projects Rob Sand will win the Iowa governor's office, the first Democrat to be elected to the governor's mansion since 2006 and defeating Zach Lahn.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "dbaab25fb8ee",
+   "titre": "Midterms 2026 : le démocrate Talarico fait basculer le Texas, exploit dans un bastion républicain",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-2026-le-d%C3%A9mocrate-talarico-fait-basculer-le-texas-exploit-dans-un-bastion-r%C3%A9publicain",
+   "source": "France 24",
+   "date": "2026-11-04T04:21:29+00:00",
+   "extrait": "Le démocrate James Talarico a été élu mardi sénateur du Texas, selon les projections des médias américains, réalisant un exploit dans un État du sud historiquement républicain.",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "224bb4f0cbb2",
    "titre": "Democrat Xavier Becerra wins California governor's race, CBS News projects",
    "lien": "https://www.cbsnews.com/news/california-governor-election-xavier-becerra-steve-hilton/",
    "source": "CBS News",
-   "date": "2026-11-04T04:03:49+00:00",
+   "date": "2026-11-04T04:21:14+00:00",
    "extrait": "Democrat Xavier Becerra will become California's next governor, CBS News projects, defeating Republican challenger Steve Hilton in a race that centered on the state's high cost of living, housing…",
    "tags": [],
    "zone": "usa"
   },
   {
-   "id": "94d8aee0cb62",
-   "titre": "Midterms 2026 : nette avance démocrate au Congrès, des premières victoires historiques... Suivez les résultats des élections de mi-mandat",
-   "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-midterms-2026-nette-avance-democrate-au-congres-des-premieres-victoires-historiques-suivez-les-resultats-des-elections-de-mi-mandat_8265776.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-04T04:02:27+00:00",
-   "extrait": "Aux Etats-Unis, les premiers résultats des élections de mi-mandat laissent entrevoir une journée difficile pour le camp du président républicain Donald Trump.",
+   "id": "03e5885f9a32",
+   "titre": "Democrat Gina Hinojosa wins race for Texas governor, ousting Greg Abbott",
+   "lien": "https://www.npr.org/2026/11/03/g-s1-150844/gina-hinojosa-texas-governor-abbott",
+   "source": "NPR",
+   "date": "2026-11-04T04:19:12+00:00",
+   "extrait": "Hinojosa, an Austin state representative, is set to be the state's first Democratic governor since 1995 and will be the state's first Latina governor.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "d18844664d89",
+   "titre": "Amy Acton becomes first Democrat to win Ohio governor race in nearly 20 years, CBS News projects",
+   "lien": "https://www.cbsnews.com/video/amy-acton-wins-ohio-governor-race-first-democrat-nearly-20-years-cbs-news-projects/",
+   "source": "CBS News",
+   "date": "2026-11-04T04:19:10+00:00",
+   "extrait": "Democrat Amy Acton defeats Republican Vivek Ramaswamy in Ohio's gubernatorial race, CBS News projects.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "a7fbb74c04f7",
+   "titre": "Gina Hinojosa wins Texas gubernatorial race against Greg Abbott",
+   "lien": "https://www.cbsnews.com/news/texas-governor-election-2026-greg-abbott-gina-hinojosa-results/",
+   "source": "CBS News",
+   "date": "2026-11-04T04:19:00+00:00",
+   "extrait": "Texas voters elected a governor to serve a four-year term overseeing the state's executive branch, implementing laws and shaping policies.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "1a515f24ff1b",
+   "titre": "Democrat Rob Sand wins Iowa governor's race, ending GOP control of the office",
+   "lien": "https://www.npr.org/2026/11/03/g-s1-151136/democrat-rob-sand-wins-iowa-governors-race-ending-gop-control-of-the-office",
+   "source": "NPR",
+   "date": "2026-11-04T04:16:59+00:00",
+   "extrait": "Democratic State Auditor Rob Sand stressed affordability and often talked about how his Christian faith guides him.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "91c08f9a3a16",
+   "titre": "Missouri voters turn down a Republican-backed congressional map",
+   "lien": "https://www.npr.org/2026/11/03/nx-s1-6028028/missouri-redistricting-ballot-measure",
+   "source": "NPR",
+   "date": "2026-11-04T04:11:48+00:00",
+   "extrait": "Missouri voters have denied a Republican-backed congressional map that wound its way through the courts before ultimately ending up on the state's ballot.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "9051c9f9eb46",
+   "titre": "Sherrod Brown wins Ohio Senate race, flipping seat for Democrats",
+   "lien": "https://www.cbsnews.com/news/ohio-2026-senate-husted-brown/",
+   "source": "CBS News",
+   "date": "2026-11-04T04:11:45+00:00",
+   "extrait": "Sherrod Brown faced off against Husted, who was appointed to the seat last year to replace Vice President JD Vance.",
    "tags": [
     "Politique"
    ],
-   "zone": "france"
+   "zone": "usa"
+  },
+  {
+   "id": "680f2ee54fe7",
+   "titre": "Democrat Sherrod Brown wins Ohio Senate race",
+   "lien": "https://www.npr.org/2026/11/03/g-s1-148948/ohio-senate-race-sherrod-brown-jon-husted",
+   "source": "NPR",
+   "date": "2026-11-04T04:10:28+00:00",
+   "extrait": "Democratic former U.S. Sen. Sherrod Brown has won back a seat on Capitol Hill, defeating incumbent Republican Sen. Jon Husted after a close and expensive battle, according to a race call by the…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "de3d50277200",
+   "titre": "Midterms 2026 : les facteurs déterminants qui ont pesé sur le scrutin",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-2026-les-facteurs-d%C3%A9terminants-qui-ont-pes%C3%A9-sur-le-scrutin",
+   "source": "France 24",
+   "date": "2026-11-04T04:09:03+00:00",
+   "extrait": "Les électeurs américains ont voté mardi à l’occasion des élections de mi-mandat (midterms), dont les résultats détermineront le contrôle du Congrès pour les deux dernières années du mandat…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
   },
   {
    "id": "c04e4191adc6",
@@ -68,40 +458,6 @@
    "zone": "usa"
   },
   {
-   "id": "eacf9ec3fb65",
-   "titre": "Democrats win House and lead in key Senate races as midterm results come in",
-   "lien": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/",
-   "source": "CBS News",
-   "date": "2026-11-04T04:01:58+00:00",
-   "extrait": "Polls are now closed across much of the country as results from the 2026 midterm elections continue to come in. Follow live updates here.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "07c1cb70b1a8",
-   "titre": "RESULTATS. Les démocrates en tête face aux républicains de Donald Trump aux midterms 2026, suivez le décompte des sièges au Sénat et à la Chambre des représentants",
-   "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/resultats-midterms-2026-donald-trump-va-t-il-perdre-le-controle-du-senat-ou-de-la-chambre-des-representants-suivez-le-decompte-des-sieges-en-direct_8237248.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-04T03:58:29+00:00",
-   "extrait": "Les Américains ont voté mardi pour le renouvellement de leur Congrès. Découvrez les résultats des élections de mi-mandat sur notre page mise à jour tout au long de la nuit.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "622e3660b6fd",
-   "titre": "Democrat Amy Acton wins Ohio governor's race",
-   "lien": "https://www.cbsnews.com/news/ohio-governors-race-results-amy-acton-vivek-ramaswamy/",
-   "source": "CBS News",
-   "date": "2026-11-04T03:56:14+00:00",
-   "extrait": "Vivek Ramaswamy's campaign produced a controversial ad in October that featured Amy Acton's estranged mother.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "35a9c8d5c003",
    "titre": "GOP Sen. Thom Tillis reacts after CBS News projects that Democrat Roy Cooper will win his seat",
    "lien": "https://www.cbsnews.com/video/watch-republican-senator-thom-tillis-reacts-to-midterm-results-in-north-carolina/",
@@ -109,18 +465,6 @@
    "date": "2026-11-04T03:55:39+00:00",
    "extrait": "Sen. Thom Tillis joins CBS News to share his live reaction to midterm results in his home state of North Carolina and beyond.",
    "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "c7e474119e67",
-   "titre": "Democrats win House majority as Trump approval at historic low",
-   "lien": "https://www.cbsnews.com/live-updates/house-election-results-2026/",
-   "source": "CBS News",
-   "date": "2026-11-04T03:53:56+00:00",
-   "extrait": "Democrats have won control of the House in the 2026 election, CBS News projects. Follow the midterm election results here, as polls begin to close.",
-   "tags": [
-    "Politique"
-   ],
    "zone": "usa"
   },
   {
@@ -147,6 +491,18 @@
     "Conflits"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "a228fb8ea97c",
+   "titre": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+   "lien": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-04T03:46:10+00:00",
+   "extrait": "Papua New Guinea police had earlier dismissed speculation that the 32kg object was \"merely a dummy\".",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
   },
   {
    "id": "0f9e1cdc72cb",
@@ -255,24 +611,24 @@
    "zone": "france"
   },
   {
+   "id": "788172991436",
+   "titre": "South Carolina elects Democratic senator for first time in almost three decades",
+   "lien": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-04T03:24:34+00:00",
+   "extrait": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "551ee5648cee",
    "titre": "Democrat Pete Buttigieg on election night: \"Good news after good news\"",
    "lien": "https://www.cbsnews.com/video/democrat-pete-buttigieg-election-night-good-news/",
    "source": "CBS News",
    "date": "2026-11-04T03:22:35+00:00",
    "extrait": "Pete Buttigieg, former Biden administration Transportation Secretary, joins CBS News from Michigan. He tells Gayle King that the energy among Democrats is \"extraordinary.\"",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "4f2091a9e207",
-   "titre": "Democrats retake House majority after 4 years",
-   "lien": "https://www.cbsnews.com/news/democrats-win-house-majority/",
-   "source": "CBS News",
-   "date": "2026-11-04T03:22:00+00:00",
-   "extrait": "The change in the balance of power sets up a clash with the Trump administration on oversight and other legislative priorities.",
    "tags": [
     "Politique"
    ],
@@ -313,16 +669,6 @@
     "Politique"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "8327fc7f0803",
-   "titre": "GOP Rep. Tom Kean Jr. ousted in New Jersey",
-   "lien": "https://www.cbsnews.com/news/new-jersey-7-results-tom-kean-rebecca-bennett/",
-   "source": "CBS News",
-   "date": "2026-11-04T02:55:02+00:00",
-   "extrait": "Rebecca Bennett defeated the two-term Republican incumbent after his monthslong absence for depression treatment.",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "d7eb0e84b241",
@@ -507,18 +853,6 @@
    "zone": "france"
   },
   {
-   "id": "8478806a4903",
-   "titre": "See CBS News exit poll results for the 2026 midterm elections",
-   "lien": "https://www.cbsnews.com/news/cbs-news-exit-polls-midterm-elections-2026/",
-   "source": "CBS News",
-   "date": "2026-11-04T01:53:18+00:00",
-   "extrait": "Here's a national look at what's on voters' minds in the 2026 midterm elections as they cast their ballots.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "c9ea6c66917c",
    "titre": "Ashley Moody projected to win Florida Senate election",
    "lien": "https://www.cbsnews.com/news/florida-2026-senate-moody-nixon/",
@@ -532,11 +866,11 @@
   },
   {
    "id": "1e04b7921b17",
-   "titre": "Midterms : la Caroline du Nord devient démocrate, la Géorgie le reste... Tous les résultats clés",
+   "titre": "Midterms : le Texas et le Kansas basculent démocrates, tous les résultats historiques au Sénat",
    "lien": "https://www.france24.com/fr/am%C3%A9riques/20261104-etats-unis-midterms-2026-en-direct-resultats-des-%C3%A9tats-cl%C3%A9-o%C3%B9-se-joue-la-majorit%C3%A9-au-s%C3%A9nat",
    "source": "France 24",
    "date": "2026-11-04T01:43:54+00:00",
-   "extrait": "Les premiers résultats dans la course à la majorité au Sénat laissent espérer une victoire pour les démocrates. En Géorgie et au New Hampshire, ils sont parvenus à conserver leur siège en danger…",
+   "extrait": "Les démocrates étaient mardi soir en passe de reprendre le contrôle des deux chambres du Congrès américain. Au Sénat, ils ont déjà fait basculer six sièges au Texas, au Kansas, dans l'Iowa, l'Ohio…",
    "tags": [
     "Politique"
    ],
@@ -966,6 +1300,18 @@
     "Politique"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "7448dce2e893",
+   "titre": "🔴 Midterms en direct : fermeture des premiers bureaux de vote, le contrôle du Congrès en jeu",
+   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261103-en-direct-etats-unis-midterms-elections-mi-mandat-congres-gouverneurs-trump-democrates-republicains",
+   "source": "France 24",
+   "date": "2026-11-03T23:09:13+00:00",
+   "extrait": "",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
   },
   {
    "id": "a900d45585ad",
@@ -1796,16 +2142,6 @@
     "Politique"
    ],
    "zone": "france"
-  },
-  {
-   "id": "7448dce2e893",
-   "titre": "🔴 Midterms en direct : les Américains aux urnes, le contrôle du Congrès en jeu",
-   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261103-en-direct-etats-unis-midterms-elections-mi-mandat-congres-gouverneurs-trump-democrates-republicains",
-   "source": "France 24",
-   "date": "2026-11-03T18:41:21+00:00",
-   "extrait": "",
-   "tags": [],
-   "zone": "monde"
   },
   {
    "id": "55bfe8d0541e",
@@ -3147,339 +3483,6 @@
    "extrait": "The two helicopters were ferrying trekkers who had been hiking up to Everest base camp during Nepal's popular trekking season.",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "1d9c03f712fa",
-   "titre": "Midterms : le président pourrait-il poser son veto en cas de victoire des démocrates ?",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261103-midterms-est-ce-que-le-pr%C3%A9sident-trump-pourrait-poser-son-v%C3%A9to-en-cas-de-victoire-des-d%C3%A9mocrates",
-   "source": "France 24",
-   "date": "2026-11-03T14:19:25+00:00",
-   "extrait": "Les midterms engagées ce mardi 3 novembre aux États-Unis permettra de décider de la suite du mandat de Trump. Si ces élections sont remportées par le Parti démocrate, un tiers des sénateurs, un…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "0eb184c53d55",
-   "titre": "Midterms : l'augmentation du prix de l'essence est au cœur du scrutin dans le Maine",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261103-midterms-l-augmentation-du-prix-de-l-essence-est-au-c%C5%93ur-du-scrutin-dans-le-maine",
-   "source": "France 24",
-   "date": "2026-11-03T14:16:53+00:00",
-   "extrait": "Le prix de l'essence en constante inflation depuis la guerre en Iran est au cœur des préoccupations de très nombreux États-uniens, notamment les électeurs du Maine qui s'apprêtent à élire un…",
-   "tags": [
-    "Économie",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "1939ed5908c3",
-   "titre": "U.S. launches strikes on Iranian targets in Strait of Hormuz, officials say",
-   "lien": "https://www.cbsnews.com/video/us-launches-strikes-on-iranian-targets-in-strait-of-hormuz-officials-say/",
-   "source": "CBS News",
-   "date": "2026-11-03T14:16:04+00:00",
-   "extrait": "The U.S. military conducted limited strikes on Iranian targets in the Strait of Hormuz on Monday, officials said. Charlie D'Agata reports.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "1658a015b559",
-   "titre": "Midterms : ouverture des bureaux de vote sur la côte est, le compte à rebours est lancé",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261103-midterms-ouverture-des-bureaux-de-vote-sur-la-c%C3%B4te-est-le-compte-%C3%A0-rebours-est-lanc%C3%A9",
-   "source": "France 24",
-   "date": "2026-11-03T14:14:15+00:00",
-   "extrait": "Les États-uniens votent mardi 3 novembre lors d'élections cruciales à valeur de référendum sur Donald Trump, l'opposition démocrate espérant remporter une double majorité au Congrès. Les bureaux de…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "063babe16b1e",
-   "titre": "Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia",
-   "lien": "https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia",
-   "source": "NPR",
-   "date": "2026-11-03T14:13:58+00:00",
-   "extrait": "he operation involved a warship, a maritime surveillance aircraft and marine commandos. The hijacking followed a resurgence of Somali piracy across the Gulf of Aden and western Indian Ocean.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "8d7e6e89b151",
-   "titre": "Témoignage : un immense data center de ChatGPT s’installe à côté de chez lui",
-   "lien": "https://www.lemonde.fr/international/video/2026/11/03/temoignage-un-immense-data-center-de-chatgpt-s-installe-a-cote-de-chez-lui_6805598_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-03T14:12:54+00:00",
-   "extrait": "Au Texas, OpenAI, la firme qui a inventé ChaptGPT, construit un immense data center alimenté en électricité grâce à des turbines au gaz. « Le Monde » a pu filmer sur place.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "e650011601c8",
-   "titre": "AI deepfakes pose risks to consumers and voters, experts warn",
-   "lien": "https://www.cbsnews.com/news/deepfakes-artificial-intelligence-consumer-risks-fraud/",
-   "source": "CBS News",
-   "date": "2026-11-03T14:12:41+00:00",
-   "extrait": "\"When you can't tell what's legitimate, you question everything,\" said one cybersecurity expert focused on political campaigns.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "5544b2d81992",
-   "titre": "Eye Opener: Voters head to polls across the U.S. for midterm elections",
-   "lien": "https://www.cbsnews.com/video/eye-opener-voters-head-to-polls-across-the-us-for-midterm-elections/",
-   "source": "CBS News",
-   "date": "2026-11-03T14:12:39+00:00",
-   "extrait": "Polls opened Tuesday morning for a high-stakes midterm election. All that and all that matters in today's Eye Opener.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "e7f94627573b",
-   "titre": "Après l’incendie de la mairie de Limoges, la défense des deux suspects dénonce un « dossier assez vide » et « des pressions politiques » lors d’une audience perturbée",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/03/apres-l-incendie-de-la-mairie-de-limoges-la-defense-des-deux-suspects-denonce-un-dossier-assez-vide-et-des-pressions-politiques-lors-d-une-audience-perturbee_6805597_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-03T14:09:18+00:00",
-   "extrait": "L’examen des recours formulés par les deux personnes suspectées d’avoir provoqué l’incendie de la mairie de Limoges, mardi à la cour d’appel de Haute-Vienne, s’est déroulé dans une ambiance tendue.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "5a55a9996127",
-   "titre": "Binance customers withdraw $7.42 billion after crypto heist",
-   "lien": "https://www.cbsnews.com/news/binance-customers-withdraw-billions-crypto-hack/",
-   "source": "CBS News",
-   "date": "2026-11-03T14:08:15+00:00",
-   "extrait": "Binance said the net outflow from the cryptocurrency exchange represents just 3% of its total holdings.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "29d0149a5227",
-   "titre": "Dans le sillage des manifestations européennes, une colère sociale qui gronde aussi en Suisse ?",
-   "lien": "https://www.franceinfo.fr/monde/europe/dans-le-sillage-des-manifestations-europeennes-une-colere-sociale-qui-gronde-aussi-en-suisse_8265935.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-03T14:06:13+00:00",
-   "extrait": "En écho aux mouvements de contestation français et européens, des manifestations ont dégénéré ce week-end à Zurich et à Bâle. Les observateurs sont toutefois divisés sur la composante sociale des…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "958614c7b034",
-   "titre": "Soccer player dies following on-field collision in Spain",
-   "lien": "https://www.cbsnews.com/news/soccer-player-dies-field-collision-spain/",
-   "source": "CBS News",
-   "date": "2026-11-03T14:00:20+00:00",
-   "extrait": "Spanish police have opened an investigation into possible involuntary manslaughter after a soccer player died following an on-field collision in a match.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "d043b900a8e5",
-   "titre": "La ruée mondiale vers le cuivre, devenu le métal le plus stratégique de la planète",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/03/la-ruee-mondiale-vers-le-cuivre-devenu-le-metal-le-plus-strategique-de-la-planete_6805596_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-03T14:00:16+00:00",
-   "extrait": "Le prix du cuivre a bondi de 30 % en un an, porté par des prévisions de demande en forte hausse, au point que l’offre mondiale pourrait devenir largement déficitaire à l’horizon 2035. La situation…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "10a9765c27ee",
-   "titre": "Etre une femme politique et devenir mère, le piège de l’injonction contradictoire",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/03/etre-une-femme-politique-et-devenir-mere-le-piege-de-l-injonction-contradictoire_6805594_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-03T14:00:12+00:00",
-   "extrait": "De Ségolène Royal à Marine Tondelier, concilier maternité et fonction politique continue de bousculer un temps politique taillé par et pour les hommes.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "1854d36523cd",
-   "titre": "Maylis Adhémar, une enfance sous extrême influence",
-   "lien": "https://www.lemonde.fr/m-le-mag/article/2026/11/03/maylis-adhemar-une-enfance-sous-extreme-influence_6805595_4500055.html",
-   "source": "Le Monde",
-   "date": "2026-11-03T14:00:08+00:00",
-   "extrait": "Dans « Comment j’ai cessé d’être une petite fasciste », l’écrivaine revient sur sa jeunesse au sein d’une famille intégriste et réactionnaire. Un récit d’émancipation qui sonne comme une charge…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "f73b5e33f7fd",
-   "titre": "Trump's unusual last-minute message to voters before the midterms",
-   "lien": "https://www.cbsnews.com/video/trumps-unusual-last-minute-message-to-voters/",
-   "source": "CBS News",
-   "date": "2026-11-03T13:56:00+00:00",
-   "extrait": "President Trump addressed voters in front of the Reflecting Pool, spending ample time touting his Washington, D.C., beautification plans ahead of the midterm elections. CBS News' Weijia Jiang reports.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "a80c9e9fe5be",
-   "titre": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-   "lien": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-03T13:55:47+00:00",
-   "extrait": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "a29411d0401b",
-   "titre": "How Alaska's ranked choice voting system works",
-   "lien": "https://www.cbsnews.com/news/ranked-choice-ballot-alaska-senate-dan-sullivan/",
-   "source": "CBS News",
-   "date": "2026-11-03T13:53:56+00:00",
-   "extrait": "Voters in Alaska are going to the polls to cast their ballots in key races, and the state's unique ranked choice voting system is back in the spotlight.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "abf0604124a6",
-   "titre": "U.S. strikes Iran's Qeshm Island ahead of Election Day",
-   "lien": "https://www.cbsnews.com/video/us-strikes-irans-qeshm-island/",
-   "source": "CBS News",
-   "date": "2026-11-03T13:53:34+00:00",
-   "extrait": "U.S. officials confirmed defensive strikes against Iran's Qeshm Island after a U.S. aircraft came under fire. CBS News' Ramy Inocencio reports.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "73f8703388b4",
-   "titre": "La Pologne affirme avoir déjoué une possible provocation à la frontière russe avec Kaliningrad",
-   "lien": "https://www.france24.com/fr/europe/20261103-la-pologne-affirme-avoir-d%C3%A9jou%C3%A9-une-possible-provocation-%C3%A0-la-fronti%C3%A8re-russe-avec-kaliningrad",
-   "source": "France 24",
-   "date": "2026-11-03T13:53:34+00:00",
-   "extrait": "Le Premier ministre polonais, Donald Tusk, a déclaré, mardi, qu'une possible provocation avait été déjouée dans la nuit à la frontière avec l'enclave russe de Kaliningrad. Les services polonais…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "4a423f2eb8ad",
-   "titre": "Supreme Court rejects Trump administration's last-ditch effort on California ballots",
-   "lien": "https://www.cbsnews.com/video/supreme-court-rejects-trump-administration-effort-to-force-california-to-separate-ballots/",
-   "source": "CBS News",
-   "date": "2026-11-03T13:49:00+00:00",
-   "extrait": "The Supreme Court quickly rejected a Department of Justice effort to force California to separate ballots, targeting alleged noncitizen voters. CBS News election law expert David Becker speaks on…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "a5ad8811e6bf",
-   "titre": "Jet may have broken apart before Florida crash, officials say, as family named among victims",
-   "lien": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-03T13:44:44+00:00",
-   "extrait": "Adam Robinson, Helen Sharp, and their two children - Emma, four, and Charlie, two - died after the plane nosedived.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "b95d3a7cdc5c",
-   "titre": "Donald Tusk affirme que la Pologne a déjoué une possible \"provocation\" à la frontière avec l'enclave russe de Kaliningrad",
-   "lien": "https://www.franceinfo.fr/monde/europe/union-europeenne/donald-tusk-affirme-que-la-pologne-a-dejoue-une-possible-provocation-a-la-frontiere-avec-l-enclave-russe-de-kaliningrad_8265896.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-03T13:43:46+00:00",
-   "extrait": "Les gardes-frontières ont observé une activité suspecte à la frontière, a déclaré le Premier ministre. \"Nous avons réussi à empêcher des tentatives de provocation, si c'était l'intention.\"",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "390a46b57b64",
-   "titre": "Top races to watch on Election Day",
-   "lien": "https://www.cbsnews.com/video/top-races-to-watch-on-election-day/",
-   "source": "CBS News",
-   "date": "2026-11-03T13:42:00+00:00",
-   "extrait": "Election Day is underway, and CBS News' Aaron Navarro, Adriana Diaz and Skyler Henry have team coverage on closely watched races in Michigan, Texas and Georgia.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "bda8433f88af",
-   "titre": "EN DIRECT, guerre en Ukraine : le bilan des frappes russes ciblant une école de Komychouvakha passe à 33 morts",
-   "lien": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-guerre-en-ukraine-melania-trump-va-reunir-a-la-maison-blanche-des-representants-de-la-russie-et-de-l-ukraine_6803934_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-03T13:41:18+00:00",
-   "extrait": "Les bombardements ont eu lieu dans cette ville de la région de Zaporijia, alors que des distributions d’aide humanitaire s’y déroulaient lundi. Plus de 50 personnes pourraient toujours se trouver…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "a39eb15a84cf",
-   "titre": "La mère d'élève soupçonnée d'avoir agressé une directrice d'école à Nice est sous OQTF et avait été suivie pour radicalisation islamiste",
-   "lien": "https://www.franceinfo.fr/faits-divers/la-mere-d-eleve-soupconnee-d-avoir-agresse-une-directrice-d-ecole-a-nice-est-sous-oqtf-et-avait-ete-suivie-pour-radicalisation_8265902.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-03T13:36:58+00:00",
-   "extrait": "Une directrice d'école et une enseignante ont été agressées lundi dans une école maternelle à Nice par une mère de famille. La femme de 36 ans était connue du renseignement territorial.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "20539a1fc9a7",
-   "titre": "Audition de Laurent Nuñez : retrouvez notre direct sur l’intervention du ministre de l’intérieur devant la commission d’enquête sur les violences du 17 octobre",
-   "lien": "https://www.lemonde.fr/politique/live/2026/11/03/en-direct-audition-de-laurent-nunez-le-ministre-de-l-interieur-attendu-devant-la-commission-d-enquete-sur-les-violences-du-17-octobre-a-16-h-30_6805591_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-03T13:34:22+00:00",
-   "extrait": "La commission sur les violences des 17 et 18 octobre doit se pencher, entre autres, sur « la façon dont les pouvoirs publics se préparent en amont de tels événements », mais aussi sur les «…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c55008f2d255",
-   "titre": "\"Le Palais\", prix Renaudot 2026 : une épopée du vin dans une fable gouleyante signée François-Henri Désérable",
-   "lien": "https://www.franceinfo.fr/culture/livres/prix-litteraires/le-palais-prix-renaudot-2026-une-epopee-du-vin-dans-une-fable-gouleyante-signee-francois-henri-deserable_8265854.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-03T13:32:04+00:00",
-   "extrait": "Avec ce sixième roman publié dans la rentrée littéraire 2026, l'auteur de \"Un certain M. Piekielny\" nous invite à découvrir l'incroyable épopée d'un \"palais absolu\", né à Delhi et élevé dans un…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "61e4de6d10d5",
-   "titre": "Au Brésil, les peuples autochtones dénoncent une vague de violences en représailles à la réélection de Lula",
-   "lien": "https://www.lemonde.fr/planete/article/2026/11/03/au-bresil-les-peuples-autochtones-denoncent-une-vague-de-violences-en-represailles-a-la-reelection-de-lula_6805590_3244.html",
-   "source": "Le Monde",
-   "date": "2026-11-03T13:30:07+00:00",
-   "extrait": "La plupart des cas de violence concernent le peuple Guarani-kaiowa, qui revendique la démarcation de ses terres ancestrales, occupées par des producteurs de soja dans le Mato Grosso do Sul, dans le…",
-   "tags": [],
-   "zone": "france"
   }
  ]
 }
