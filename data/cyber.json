@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-05T13:05:41+00:00",
+ "maj": "2026-11-05T14:05:50+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "5d4d03269391",
+   "titre": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
+   "lien": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
+   "source": "The Hacker News",
+   "date": "2026-11-05T12:25:00+00:00",
+   "extrait": "A critical finding can move through several security tools and still leave the organization exposed. The vulnerability has a severity score, and a ticket has reached the queue. Progress then depends…",
+   "tags": [
+    "Faille",
+    "Outil"
+   ]
+  },
   {
    "id": "25c3eda20cfe",
    "titre": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
@@ -3420,17 +3432,6 @@
    "tags": [
     "Faille",
     "Windows"
-   ]
-  },
-  {
-   "id": "ae40bebd6241",
-   "titre": "Multiples vulnérabilités dans les produits MongoDB (26 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1386/",
-   "source": "CERT-FR",
-   "date": "2026-10-26T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la…",
-   "tags": [
-    "Faille"
    ]
   }
  ]
