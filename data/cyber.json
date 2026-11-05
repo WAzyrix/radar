@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-05T19:05:39+00:00",
+ "maj": "2026-11-05T20:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "7e637a2f9fd7",
+   "titre": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
+   "lien": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
+   "source": "BleepingComputer",
+   "date": "2026-11-05T19:24:26+00:00",
+   "extrait": "OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]",
+   "tags": [
+    "IA"
+   ]
+  },
   {
    "id": "671b07a9ce2d",
    "titre": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
@@ -3419,17 +3430,6 @@
    "extrait": "A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174…",
    "tags": [
     "Malware"
-   ]
-  },
-  {
-   "id": "a5411bb33d7f",
-   "titre": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
-   "lien": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
-   "source": "The Hacker News",
-   "date": "2026-10-26T11:52:41+00:00",
-   "extrait": "Two critical flaws in Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the project's…",
-   "tags": [
-    "Faille"
    ]
   }
  ]

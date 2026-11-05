@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-05T19:05:39+00:00",
+ "maj": "2026-11-05T20:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,24 +22,300 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "7fd4c5e94b20",
+   "titre": "Oil prices rebound slightly as Iran claims new attacks on ships",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/",
+   "source": "CBS News",
+   "date": "2026-11-05T20:05:02+00:00",
+   "extrait": "Oil rebounds slightly as ships continue coming under attack in the Persian Gulf after prices plunged following President Trump's midterm elections rebuke.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "fb63401f21ad",
+   "titre": "Hostages share tales of terror, heroism during Trader Joe's standoff",
+   "lien": "https://www.cbsnews.com/news/trader-joes-hostages-share-tales-of-terror-heroism-during-standoff-with-gunman-gene-atkins/",
+   "source": "CBS News",
+   "date": "2026-11-05T20:01:43+00:00",
+   "extrait": "Hostages recount the chilling details about what actually happened inside the California store and how they were able to get out alive",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "1a5ea3c32072",
+   "titre": "Trump's lawyers argue appeal in \"hush money\" case",
+   "lien": "https://www.cbsnews.com/news/trump-hush-money-conviction-appeal/",
+   "source": "CBS News",
+   "date": "2026-11-05T20:00:28+00:00",
+   "extrait": "President Trump was convicted in 2024 of 34 felonies tied to a 2016 \"hush money\" payment to adult film star Stormy Daniels.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "11aba10a0a99",
+   "titre": "Harmeet Dhillon, DOJ's controversial civil rights chief, resigns",
+   "lien": "https://www.cbsnews.com/news/harmeet-dhillon-resigns-doj-civil-rights-division/",
+   "source": "CBS News",
+   "date": "2026-11-05T20:00:19+00:00",
+   "extrait": "Harmeet Dhillon, the assistant attorney general for the Civil Rights Division, resigned from the Justice Department on Thursday.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "413516c6ba41",
+   "titre": "Who could be behind hoax bomb threats to European air travel?",
+   "lien": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-05T19:58:40+00:00",
+   "extrait": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "204eb13dc1c2",
+   "titre": "Nithya Raman ousts incumbent Karen Bass in LA mayor's race, CBS News projects",
+   "lien": "https://www.cbsnews.com/news/los-angeles-mayor-election-2026-nithya-raman-karen-bass/",
+   "source": "CBS News",
+   "date": "2026-11-05T19:54:50+00:00",
+   "extrait": "Raman's win comes after resounding victories for Democrats across the country on Election Day.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "21c7aec019f7",
+   "titre": "Tombeur de Lorenzo Musetti à Paris, Luca Van Assche se qualifie pour la première fois de sa carrière en quart de finale d'un Masters 1000, Arthur Fils déjà éliminé",
+   "lien": "https://www.franceinfo.fr/sports/tennis/malgre-un-gros-combat-arthur-rinderknech-s-incline-en-huitieme-de-finale-du-masters-1000-de-paris-face-a-ben-shelton_8269331.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-05T19:54:35+00:00",
+   "extrait": "Le Français, qui réalise une très belle saison, s'est qualifié pour les quarts de finale du Masters 1000 de Paris, jeudi, face à l'Italien qui a sorti le nouveau numéro un mondial au tour précédent…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "e5c1ef548a99",
+   "titre": "Newsom moves to commute all California death sentences",
+   "lien": "https://www.cbsnews.com/news/gavin-newsom-california-death-row-commuted-life-in-prison/",
+   "source": "CBS News",
+   "date": "2026-11-05T19:52:00+00:00",
+   "extrait": "The move does not repeal California's death penalty or prevent prosecutors from seeking it in future cases.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "46dde36fc0fb",
+   "titre": "Democrats win Senate control — live updates",
+   "lien": "https://www.cbsnews.com/live-updates/senate-election-results-2026/",
+   "source": "CBS News",
+   "date": "2026-11-05T19:37:21+00:00",
+   "extrait": "Democrats were able to pick up the seats needed to gain control of the Senate, CBS News projects, and the party scored several upset victories in red states.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "f3486834d347",
+   "titre": "A Wall Street, la victoire démocrate aux midterms a fait exploser la bulle de l’IA",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/05/a-wall-street-la-victoire-democrate-aux-midterms-a-fait-exploser-la-bulle-de-l-ia_6807339_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-05T19:35:36+00:00",
+   "extrait": "Le Nasdaq, l’indice qui regroupe de nombreuses valeurs technologiques, perdait plus de 5 % en séance, jeudi 5 novembre. Les résultats des élections américaines de mi-mandat accentuent la défiance…",
+   "tags": [
+    "Politique",
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "efee15f33887",
+   "titre": "Stocks crater as midterms spur investor exodus from tech and AI",
+   "lien": "https://www.cbsnews.com/news/stocks-midterm-elections-tech-companies-ai-data-centers/",
+   "source": "CBS News",
+   "date": "2026-11-05T19:34:36+00:00",
+   "extrait": "Tech-heavy Nasdaq plunges nearly 1,300 points as Wall Street weighs the impact of Democratic wins on the AI sector.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "1830c8d6dbc0",
+   "titre": "Football : Olivier Létang, président du LOSC, suspendu quatre mois ferme pour ses propos contre l’arbitrage",
+   "lien": "https://www.lemonde.fr/sport/article/2026/11/05/football-olivier-letang-president-du-losc-suspendu-quatre-mois-ferme-pour-ses-propos-contre-l-arbitrage_6807338_3242.html",
+   "source": "Le Monde",
+   "date": "2026-11-05T19:34:22+00:00",
+   "extrait": "Déjà condamné à 20 000 euros d’amende par la commission de discipline de la Ligue de football professionnel mi-septembre, Olivier Létang a écopé en plus jeudi de six mois de suspension dont deux…",
+   "tags": [
+    "Politique",
+    "Sport"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "b191861c3b26",
+   "titre": "Eight killed in series of shootings in western Turkey",
+   "lien": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-05T19:32:54+00:00",
+   "extrait": "Victims are found in several locations in three separate vehicles, according to local reports.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "0664b27731d0",
+   "titre": "Un \"mannequin géant\" à l'effigie d'un CRS brûlé à Strasbourg lors de la manifestation du 5 novembre, le préfet va saisir la justice",
+   "lien": "https://www.franceinfo.fr/economie/greve/greve/un-mannequin-geant-a-l-effigie-d-un-crs-brule-a-strasbourg-lors-de-la-manifestation-du-5-novembre-le-prefet-va-saisir-la-justice_8269820.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-05T19:31:18+00:00",
+   "extrait": "\"La haine antiflic n'a plus aucune limite\", a réagi sur X le syndicat Alliance Police nationale.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "166b21e3adb8",
+   "titre": "Democrats prepare to take Congress as GOP grapples with stunning losses",
+   "lien": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
+   "source": "CBS News",
+   "date": "2026-11-05T19:27:24+00:00",
+   "extrait": "After Democrats' sweeping House and Senate victories, the party is laying out how it plans to wield power, while President Trump and Republicans react to their midterm losses.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "09901cac40b9",
+   "titre": "Gluesenkamp Perez wins competitive Washington race",
+   "lien": "https://www.cbsnews.com/news/washington-3rd-district-results-marie-gluesenkamp-perez-john-braun/",
+   "source": "CBS News",
+   "date": "2026-11-05T19:22:54+00:00",
+   "extrait": "The congresswoman beat Republican state Sen. John Braun in a district President Trump has won three times.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "425c48221cbd",
+   "titre": "All the House districts that flipped in the midterm elections",
+   "lien": "https://www.cbsnews.com/news/house-districts-flipped-2026-midterm-elections/",
+   "source": "CBS News",
+   "date": "2026-11-05T19:22:00+00:00",
+   "extrait": "Democrats won control of the House on Tuesday by flipping more than two dozen Republican-held seats, picking up perennial swing districts and seats that were once considered deep red.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "37aa28b48bb5",
+   "titre": "Coalition de Glucksmann à Lisnard : l’idée d’Emmanuel Macron ne trouve pas d’écho, même chez ses héritiers",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/05/coalition-de-glucksmann-a-lisnard-l-idee-d-emmanuel-macron-ne-trouve-pas-d-echo-meme-chez-ses-heritiers_6807337_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-05T19:21:13+00:00",
+   "extrait": "Mercredi, le président de la République a estimé, devant des visiteurs, que la social-démocratie, le centre et la droite devraient se rassembler dans une grande coalition. Une hypothèse accueillie…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "fc6435c0b7c4",
+   "titre": "Grèves et manifestations en France : le pouvoir sous pression ?",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261105-gr%C3%A8ves-et-manifestations-en-france-le-pouvoir-sous-pression",
+   "source": "France 24",
+   "date": "2026-11-05T19:20:41+00:00",
+   "extrait": "Nouvelle journée de mobilisation à l’appel des organisations syndicales, qui prennent le relai des mouvements des lycéens et étudiants. Parmi les revendications : la revalorisation des salaires, la…",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "08e5d38639a8",
    "titre": "Did Republican efforts to redistrict the House turn into a dummymander?",
    "lien": "https://www.cbsnews.com/news/dummymander-republican-redistricting-congress-trump/",
    "source": "CBS News",
-   "date": "2026-11-05T19:03:50+00:00",
+   "date": "2026-11-05T19:19:26+00:00",
    "extrait": "Republicans undertook a historic effort to redraw several states' Congressional districts mid-decade in an attempt to maintain control of the House.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "bd68099ebce6",
+   "titre": "Une conférence du député LFI Raphaël Arnault interdite à Villeurbanne, le préfet du Rhône évoque des risques \"d'affrontements entre des groupuscules radicaux\"",
+   "lien": "https://www.franceinfo.fr/politique/une-conference-du-depute-lfi-raphael-arnault-interdite-a-villeurbanne-le-prefet-du-rhone-evoque-des-risques-d-affrontements-entre-des-groupuscules-radicaux_8269784.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-05T19:12:54+00:00",
+   "extrait": "\"Cette mesure a pour objectif de prévenir les risques de troubles à l'ordre public\", explique la préfecture du Rhône au sujet de la conférence initialement prévue vendredi.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "f2692d9cc8a0",
+   "titre": "Mexican judge accused by U.S. of taking bribes in major drug case",
+   "lien": "https://www.cbsnews.com/news/mexican-judge-arrested-accused-us-bribes-drug-case-ryan-wedding/",
+   "source": "CBS News",
+   "date": "2026-11-05T19:11:46+00:00",
+   "extrait": "Luiz Benítez Alcántara is accused of releasing Andrew Clark from custody after accepting $2 million in bribe payments.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "5a56f3812c17",
+   "titre": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+   "lien": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-05T19:08:08+00:00",
+   "extrait": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
   },
   {
    "id": "c04c0fdfea3c",
    "titre": "Black candidates for governor make history with midterm victories",
    "lien": "https://www.cbsnews.com/news/2026-midterm-elections-governors-races-bottoms-donalds-crowley-moore-ford/",
    "source": "CBS News",
-   "date": "2026-11-05T19:01:17+00:00",
+   "date": "2026-11-05T19:07:09+00:00",
    "extrait": "Americans elected the country's first Black woman, and four other Black candidates, into gubernatorial roles during Tuesday's record midterm races.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "4c0572b7622e",
+   "titre": "From the archives: The SS United States",
+   "lien": "https://www.cbsnews.com/video/from-the-archives-the-ss-united-states/",
+   "source": "CBS News",
+   "date": "2026-11-05T19:04:05+00:00",
+   "extrait": "After a years-long legal dispute, the fabled ocean liner SS United States is destined to be sunk to create an artificial reef off the coast of Florida. Watch Mark Strassmann's Feb. 17, 2013 \"Sunday…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "b045da53d3ca",
+   "titre": "En Irak, petites mains et figures du djihadisme français passent en jugement",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/05/en-irak-petites-mains-et-figures-du-djihadisme-francais-passent-en-jugement_6807335_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-05T19:00:10+00:00",
+   "extrait": "Parmi les 47 ressortissants français transférés depuis la Syrie et jugés par la justice irakienne à Bagdad pour appartenance à l’organisation Etat islamique figurent des vétérans du djihadisme…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
   },
   {
    "id": "c7e474119e67",
@@ -86,26 +362,6 @@
    "zone": "usa"
   },
   {
-   "id": "b191861c3b26",
-   "titre": "Manhunt in western Turkey after eight killed in series of shootings",
-   "lien": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-05T18:48:53+00:00",
-   "extrait": "Eight people have been killed and one seriously injured in a series of shootings in western Turkey.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "11aba10a0a99",
-   "titre": "Harmeet Dhillon, DOJ's controversial civil rights chief, resigns",
-   "lien": "https://www.cbsnews.com/news/harmeet-dhillon-resigns-doj-civil-rights-division/",
-   "source": "CBS News",
-   "date": "2026-11-05T18:47:19+00:00",
-   "extrait": "Harmeet Dhillon, the assistant attorney general for the Civil Rights Division, resigned from the Justice Department on Thursday.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "e6e593addef5",
    "titre": "Dow posts biggest gain of the year after Democrats sweep Congress",
    "lien": "https://www.cbsnews.com/news/stock-market-soar-democrats-take-control-of-congress/",
@@ -115,18 +371,6 @@
    "tags": [
     "Politique",
     "Économie"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "204eb13dc1c2",
-   "titre": "Nithya Raman ousts incumbent Karen Bass in LA mayor's race, CBS News projects",
-   "lien": "https://www.cbsnews.com/news/los-angeles-mayor-election-2026-nithya-raman-karen-bass/",
-   "source": "CBS News",
-   "date": "2026-11-05T18:42:25+00:00",
-   "extrait": "Raman's win comes after resounding victories for Democrats across the country on Election Day.",
-   "tags": [
-    "Politique"
    ],
    "zone": "usa"
   },
@@ -144,16 +388,17 @@
    "zone": "france"
   },
   {
-   "id": "efee15f33887",
-   "titre": "Stocks crater as investors recoil from tech companies",
-   "lien": "https://www.cbsnews.com/news/stocks-midterm-elections-tech-companies-ai-data-centers/",
-   "source": "CBS News",
-   "date": "2026-11-05T18:39:32+00:00",
-   "extrait": "Tech-heavy Nasdaq plunges nearly 1,300 points as Wall Street weighs the impact of Democratic wins on the AI sector.",
+   "id": "35f3eccda7e0",
+   "titre": "Vanté par Donald Trump, l’accord américano-russe sur le gazole bat de l’aile",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/05/vante-par-donald-trump-l-accord-americano-russe-sur-le-gazole-bat-de-l-aile_6807332_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-05T18:38:21+00:00",
+   "extrait": "Plusieurs navires russes chargés de gazole destiné au marché américain ont brusquement changé de cap en haute mer, ces derniers jours. Craignant les risques réputationnels et les sanctions, les…",
    "tags": [
-    "Tech"
+    "Politique",
+    "Économie"
    ],
-   "zone": "usa"
+   "zone": "france"
   },
   {
    "id": "fb7bd8090948",
@@ -178,31 +423,6 @@
     "Politique"
    ],
    "zone": "france"
-  },
-  {
-   "id": "166b21e3adb8",
-   "titre": "Democrats prepare to take Congress as GOP grapples with stunning losses",
-   "lien": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
-   "source": "CBS News",
-   "date": "2026-11-05T18:32:13+00:00",
-   "extrait": "After Democrats' sweeping House and Senate victories, the party is laying out how it plans to wield power, while President Trump and Republicans react to their midterm losses.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "7fd4c5e94b20",
-   "titre": "Oil prices rebound slightly as Iran claims new attacks on ships",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/",
-   "source": "CBS News",
-   "date": "2026-11-05T18:30:38+00:00",
-   "extrait": "Oil rebounds slightly as ships continue coming under attack in the Persian Gulf after prices plunged following President Trump's midterm elections rebuke.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
   },
   {
    "id": "29bba3c89545",
@@ -385,16 +605,6 @@
    "zone": "france"
   },
   {
-   "id": "21c7aec019f7",
-   "titre": "Tombeur de Lorenzo Musetti à Paris, Luca Van Assche se qualifie pour la première fois de sa carrière en quart de finale d'un Masters 1000",
-   "lien": "https://www.franceinfo.fr/sports/tennis/malgre-un-gros-combat-arthur-rinderknech-s-incline-en-huitieme-de-finale-du-masters-1000-de-paris-face-a-ben-shelton_8269331.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-05T17:48:42+00:00",
-   "extrait": "Le Français, qui réalise une très belle saison, s'est qualifié pour les quarts de finale du Masters 1000 de Paris, jeudi, face à l'Italien qui a sorti le nouveau numéro un mondial au tour précédent…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
    "id": "a4b68145257d",
    "titre": "Manifestations pour le pouvoir d'achat, défaite de Donald Trump aux élections de mi-mandat",
    "lien": "https://www.france24.com/fr/%C3%A9missions/politique/20261105-manifestations-pour-le-pouvoir-d-achat-d%C3%A9faite-de-donald-trump-aux-%C3%A9lections-de-mi-mandat",
@@ -417,6 +627,16 @@
    "tags": [
     "Politique"
    ],
+   "zone": "france"
+  },
+  {
+   "id": "65bcc25656c9",
+   "titre": "\"Cette voiture est la seule chose qui me restait\" : à Lyon, un SDF a vu son véhicule brûler lors de la manifestation",
+   "lien": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/cette-voiture-est-la-seule-chose-qui-me-restait-a-lyon-un-sdf-a-vu-son-vehicule-bruler-lors-de-la-manifestation-3445098.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-05T17:41:19+00:00",
+   "extrait": "Fateh, 50 ans et sans domicile, a vu sa BMW partir en flammes jeudi 5 novembre lors de la manifestation à Lyon. Des étudiants du cortège l'ont aidé à récupérer ses papiers dans le coffre. Plusieurs…",
+   "tags": [],
    "zone": "france"
   },
   {
@@ -622,18 +842,6 @@
    "zone": "france"
   },
   {
-   "id": "1a5ea3c32072",
-   "titre": "Trump's lawyers to argue appeal in \"hush money\" case",
-   "lien": "https://www.cbsnews.com/news/trump-hush-money-conviction-appeal/",
-   "source": "CBS News",
-   "date": "2026-11-05T17:09:31+00:00",
-   "extrait": "President Trump was convicted in 2024 of 34 felonies tied to a 2016 \"hush money\" payment to adult film star Stormy Daniels.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "fb4a2125b050",
    "titre": "Hoax bomb threats affect at least 20 European flights within hours",
    "lien": "https://www.cbsnews.com/news/europe-flights-airlines-hoax-bomb-threats/",
@@ -764,11 +972,11 @@
   },
   {
    "id": "bb8cb1ca8da5",
-   "titre": "EN DIRECT, guerre en Ukraine : depuis la Maison Blanche, Melania Trump appelle à un cessez-le-feu « durable » en Ukraine",
+   "titre": "EN DIRECT, guerre en Ukraine : la trêve d’Olechky prouve que « quand Poutine le veut, les combats s’arrêtent », estime Volodymyr Zelensky",
    "lien": "https://www.lemonde.fr/international/live/2026/11/05/en-direct-guerre-en-ukraine-depuis-la-maison-blanche-melania-trump-appelle-a-un-cessez-le-feu-durable-en-ukraine_6803934_3210.html",
    "source": "Le Monde",
-   "date": "2026-11-05T16:39:06+00:00",
-   "extrait": "« Nous devons désormais faire preuve du courage que nous avons montré à Olechky pour trouver un terrain d’entente. Ensemble, nous pouvons bâtir quelque chose de plus durable qu’un simple…",
+   "date": "2026-11-05T16:39:04+00:00",
+   "extrait": "« Il en va de même pour nos compatriotes détenus en captivité en Russie. Quand Poutine le veut, ils rentrent chez eux. Et il en va de même pour nos enfants enlevés par la Russie », a ajouté le…",
    "tags": [
     "Politique",
     "Conflits"
@@ -834,6 +1042,19 @@
    "zone": "usa"
   },
   {
+   "id": "921ba682cb36",
+   "titre": "\"Il n'y a aucun blessé\": attaque aux mortiers d'artifice et incendie dans un lycée près de Toulouse, l'établissement évacué et fermé",
+   "lien": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/video-des-individus-cagoules-mettent-le-feu-a-un-lycee-pres-de-toulouse-un-important-dispositif-de-secours-deploye-sur-place-3444705.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-05T16:28:48+00:00",
+   "extrait": "Scènes de chaos ce jeudi matin devant le lycée Françoise à Tournefeuille (Haute-Garonne). Des personnes se sont introduites dans le lycée et ont mis le feu à la vie scolaire à l’intérieur du…",
+   "tags": [
+    "Conflits",
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "3f16e46bb147",
    "titre": "Midterms 2026 : le consensus pro-israélien de l'opinion américaine se fissure",
    "lien": "https://www.france24.com/fr/am%C3%A9riques/20261105-midterms-etats-unis-consensus-israel",
@@ -872,11 +1093,11 @@
   },
   {
    "id": "05cf6038c46a",
-   "titre": "EN DIRECT, grève du 5 novembre : entre 600 000 et 1,6 million de manifestants en France jeudi, une « conférence sociale » avec les syndicats et le patronat prévue à Matignon lundi",
+   "titre": "EN DIRECT, grève du 5 novembre : entre 575 000 et 1,6 million de manifestants en France jeudi, une « conférence sociale » avec les syndicats et le patronat prévue à Matignon lundi",
    "lien": "https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-pres-de-600-000-manifestants-en-france-ce-jeudi-selon-une-estimation-provisoire-du-ministere-de-l-interieur_6806775_823448.html",
    "source": "Le Monde",
    "date": "2026-11-05T16:19:20+00:00",
-   "extrait": "La CGT estime que les mobilisations ont réuni près de 1,6 million de personnes, dont 350 000 à Paris. Peu avant 17 heures, Beauvau a fait savoir que près de 600 000 personnes ont participé à la…",
+   "extrait": "La CGT estime que les mobilisations ont réuni près de 1,6 million de personnes, dont 350 000 à Paris. De son côté, le ministère de l’intérieur a évalué à 575 000 le nombre de manifestants en France…",
    "tags": [],
    "zone": "france"
   },
@@ -1178,6 +1399,18 @@
    "tags": [
     "Conflits",
     "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "e87bfd65ea2f",
+   "titre": "\"Tout brûler ce n'est pas drôle, ça ne sert à rien\" : près de Toulouse, un lycée saccagé par des tirs de mortiers d'artifice",
+   "lien": "https://www.franceinfo.fr/economie/greve/greve/pres-de-toulouse-un-lycee-saccage-par-des-tirs-de-mortiers-d-artifice_8269322.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-05T15:35:05+00:00",
+   "extrait": "Une partie d'un lycée professionnel situé à Tournefeuille, en Haute-Garonne, a été incendiée après des tirs de mortiers d'artifice, jeudi 5 novembre. L'opération a été menée par des jeunes cagoulés.",
+   "tags": [
+    "Climat"
    ],
    "zone": "france"
   },
@@ -1753,18 +1986,6 @@
    "zone": "france"
   },
   {
-   "id": "e87bfd65ea2f",
-   "titre": "Près de Toulouse, un lycée saccagé par des tirs de mortiers d'artifice",
-   "lien": "https://www.franceinfo.fr/economie/greve/greve/pres-de-toulouse-un-lycee-saccage-par-des-tirs-de-mortiers-d-artifice_8269322.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-05T13:17:31+00:00",
-   "extrait": "Une partie d'un lycée professionnel situé à Tournefeuille, en Haute-Garonne, a été incendiée après des tirs de mortiers d'artifice, jeudi 5 novembre. L'opération a été menée par des jeunes cagoulés.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "7a8f643f151d",
    "titre": "« Un jour, nous trouvons le directeur superstar du labo en train de réparer une fuite sous l’évier » : Jean-Baptiste, 30 ans, agent du ministère de la recherche",
    "lien": "https://www.lemonde.fr/campus/article/2026/11/05/un-jour-nous-trouvons-le-directeur-superstar-du-labo-en-train-de-reparer-une-fuite-sous-l-evier-jean-baptiste-30-ans-agent-du-ministere-de-la-recherche_6806870_4401467.html",
@@ -2061,6 +2282,16 @@
    "extrait": "L'œuvre du peintre impressionniste est apparue pour la dernière fois lors d'une vente à Londres en 2024.",
    "tags": [],
    "zone": "france"
+  },
+  {
+   "id": "e3ce75333f3f",
+   "titre": "After sweeping midterm wins, here's what Democrats hope to get done in the majority",
+   "lien": "https://www.npr.org/2026/11/05/nx-s1-6029331/democrats-have-a-long-to-do-list-when-they-take-over-congress-next-year",
+   "source": "NPR",
+   "date": "2026-11-05T11:45:35+00:00",
+   "extrait": "Democrats ran on lowering costs and stamping out corruption. Now that they've won, party leaders will have to unite a sometimes fractious caucus to fulfill those pledges.",
+   "tags": [],
+   "zone": "usa"
   },
   {
    "id": "480691fc2fe8",
@@ -2972,18 +3203,6 @@
    "zone": "france"
   },
   {
-   "id": "425c48221cbd",
-   "titre": "All the House districts that flipped in the midterm elections",
-   "lien": "https://www.cbsnews.com/news/house-districts-flipped-2026-midterm-elections/",
-   "source": "CBS News",
-   "date": "2026-11-05T04:32:00+00:00",
-   "extrait": "Democrats won control of the House on Tuesday by flipping more than two dozen Republican-held seats, picking up perennial swing districts and seats that were once considered deep red.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "491e8580b4f6",
    "titre": "Midterms 2026 : comment la base électorale qui avait porté Trump au pouvoir en 2024 s’est écroulée",
    "lien": "https://www.lemonde.fr/international/article/2026/11/05/midterms-2026-comment-la-coalition-d-electorats-qui-avait-permis-la-victoire-de-donald-trump-en-2024-s-est-delitee_6806708_3210.html",
@@ -3077,18 +3296,6 @@
     "Conflits"
    ],
    "zone": "france"
-  },
-  {
-   "id": "46dde36fc0fb",
-   "titre": "Democrats win Senate control — live updates",
-   "lien": "https://www.cbsnews.com/live-updates/senate-election-results-2026/",
-   "source": "CBS News",
-   "date": "2026-11-05T03:58:35+00:00",
-   "extrait": "Democrats were able to pick up the seats needed to gain control of the Senate, CBS News projects, and the party scored several upset victories in red states.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
   },
   {
    "id": "e8db9958c58d",
@@ -3247,207 +3454,6 @@
    "source": "BBC World",
    "date": "2026-11-05T02:09:23+00:00",
    "extrait": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "044625798bf9",
-   "titre": "What to expect from Congress after Democrats win both House and Senate",
-   "lien": "https://www.cbsnews.com/video/what-to-expect-from-new-washington-era-as-democrats-win-both-house-and-senate/",
-   "source": "CBS News",
-   "date": "2026-11-05T02:09:00+00:00",
-   "extrait": "A new era is coming in Washington after Democrats made historic wins in Tuesday's midterm elections to take back the House and Senate. CBS News' Arden Farhi breaks it down.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "4742eb99cb24",
-   "titre": "President Trump reacts to Democrats winning the House and Senate",
-   "lien": "https://www.cbsnews.com/video/president-trump-reacts-to-democrats-winning-the-house-and-senate/",
-   "source": "CBS News",
-   "date": "2026-11-05T02:07:42+00:00",
-   "extrait": "President Trump has no regrets about his war with Iran, despite CBS News projecting that Democrats will win both the House and Senate in the midterm elections. Weijia Jiang reports.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "9d88fb6300c0",
-   "titre": "DNC vice chair Shasti Conrad on what Tuesday's midterm wins mean for the party",
-   "lien": "https://www.cbsnews.com/video/dnc-vice-chair-shasti-conrad-on-what-tuesdays-midterm-wins-mean-for-the-party/",
-   "source": "CBS News",
-   "date": "2026-11-05T02:06:56+00:00",
-   "extrait": "Democratic National Committee vice chair Shasti Conrad joins \"The Takeout\" to offer her thoughts on the Democrats' midterm wins and what it means for the DNC.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "817135b63e62",
-   "titre": "Muddy footprint leads searchers to find missing 6-year-old",
-   "lien": "https://www.cbsnews.com/news/missing-boy-found-safe-kentucky/",
-   "source": "CBS News",
-   "date": "2026-11-05T01:55:00+00:00",
-   "extrait": "More than 300 volunteers on foot and horseback, as well as several law enforcement agencies, took part in an around-the-clock search for the child.",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "ab689670a127",
-   "titre": "6-year-old with autism Roman Heilman found after going missing for days in Kentucky",
-   "lien": "https://www.cbsnews.com/video/6-year-old-with-autism-roman-heilman-found-after-going-missing-for-days-in-kentucky/",
-   "source": "CBS News",
-   "date": "2026-11-05T01:54:06+00:00",
-   "extrait": "Six-year-old Roman Heilam went missing in Kentucky over the weekend after wandering away from his home, but was found by responders on horseback. Ian Lee has the story.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "ab210d7aebde",
-   "titre": "DFL trifecta 2.0: Democrats win full control of Minnesota government",
-   "lien": "https://www.cbsnews.com/news/minnesota-legislature-balance-of-power-2026-house-senate-control/",
-   "source": "CBS News",
-   "date": "2026-11-05T01:43:53+00:00",
-   "extrait": "Democrats flipped the Minnesota House and won the governor's race, returning the DFL to a trifecta after two years of divided government. The results, however, remain unofficial.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "a597f5c61900",
-   "titre": "La Corée du Nord teste des missiles de défense aérienne au lendemain des élections de mi-mandat américaines",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/05/la-coree-du-nord-teste-des-missiles-de-defense-aerienne-au-lendemain-des-elections-de-mi-mandat-americaines_6806536_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-05T01:22:48+00:00",
-   "extrait": "Il est courant que Pyongyang procède à des manœuvres militaires au moment des scrutins américains, considérant ces essais comme une démonstration de force.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "282cadcbf6b8",
-   "titre": "2 women advanced further in Navy SEAL tryouts than any in history",
-   "lien": "https://www.cbsnews.com/news/2-women-navy-seal-tryouts-2026/",
-   "source": "CBS News",
-   "date": "2026-11-05T01:11:37+00:00",
-   "extrait": "Though the two dropped out in the third or fourth week, no woman had previously made it to the third week of the Navy SEAL endurance tests before this year.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "d8548a835382",
-   "titre": "JOJ Dakar 2026 : à Saly, les retombées se font attendre",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261105-joj-dakar-2026-%C3%A0-saly-les-retomb%C3%A9es-des-joj-se-font-attendre",
-   "source": "France 24",
-   "date": "2026-11-05T01:00:45+00:00",
-   "extrait": "🏅 À Saly, les Jeux Olympiques de la Jeunesse étaient très attendus par les commerçants et artisans sénégalais, qui espéraient voir affluer les touristes. Mais en ce début de compétition, la…",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "ff2b27ea359e",
-   "titre": "Cheerleader pushes through to state-wide competition after all other members of her team quit",
-   "lien": "https://www.cbsnews.com/video/cheerleader-pushes-through-to-state-wide-competition-after-all-other-members-of-her-team-quit/",
-   "source": "CBS News",
-   "date": "2026-11-05T00:55:30+00:00",
-   "extrait": "A 14-year-old cheerleader in Georgia was left to face a statewide competition alone when all other members of her cheer team quit. She wowed the crowd anyway.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "f452aaaf01e9",
-   "titre": "Latest on Detroit Lions linebacker Jack Campbell's recovery after dramatic neck injury",
-   "lien": "https://www.cbsnews.com/video/latest-on-detroit-lions-linebacker-jack-campbells-recovery-after-dramatic-neck-injury/",
-   "source": "CBS News",
-   "date": "2026-11-05T00:51:00+00:00",
-   "extrait": "Detroit Lions linebacker Jack Campbell put out an encouraging statement Wednesday after suffering a severe neck injury. Mark Strassman reports.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "f73dbef9e731",
-   "titre": "The 2026 blue wave, in charts",
-   "lien": "https://www.cbsnews.com/news/2026-elections-blue-wave-charts-data/",
-   "source": "CBS News",
-   "date": "2026-11-05T00:47:55+00:00",
-   "extrait": "Compared to the 2024 presidential race, Democratic senators-elect won by larger margins in the 2026 midterms, while Republicans won by smaller ones.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "706c3f60ff0a",
-   "titre": "Shooter opens fire in Tampa Citibank campus as hundreds of officers respond",
-   "lien": "https://www.cbsnews.com/video/shooter-opens-fire-in-tampa-citibank-campus-as-hundreds-of-officers-respond/",
-   "source": "CBS News",
-   "date": "2026-11-05T00:46:32+00:00",
-   "extrait": "A gunman crashed his car into a corporate Citibank campus in Tampa before opening fire, fatally shooting at least one woman. Cristian Benavides has more.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "4284f72a865f",
-   "titre": "Americans share what voting in the midterms meant to them",
-   "lien": "https://www.cbsnews.com/video/americans-share-what-voting-in-the-midterms-meant-to-them/",
-   "source": "CBS News",
-   "date": "2026-11-05T00:43:09+00:00",
-   "extrait": "Many Americans fought through bad weather, long lines and more to vote in the midterms. Tony Dokoupil has the story.",
-   "tags": [
-    "Politique",
-    "Climat"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "d0435c353c6c",
-   "titre": "What's next as Democrats win control of House, Senate, CBS News projects",
-   "lien": "https://www.cbsnews.com/video/whats-next-as-democrats-win-control-of-house-senate-cbs-news-projects/",
-   "source": "CBS News",
-   "date": "2026-11-05T00:39:02+00:00",
-   "extrait": "Major Garrett shares what to expect from Democrats and the Trump administration as the blue party is projected to gain control of both the House and Senate.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "011d70229a00",
-   "titre": "Here's the state of unclaimed races the day after midterms",
-   "lien": "https://www.cbsnews.com/video/heres-the-state-of-unclaimed-races-the-day-after-midterms/",
-   "source": "CBS News",
-   "date": "2026-11-05T00:35:52+00:00",
-   "extrait": "Several Senate races are still undecided the day after the midterms. Ed O'Keefe breaks it down.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "3f56dd496343",
-   "titre": "California High-Speed Rail's CEO resigned. Will new leadership investigate the contracts he left behind?",
-   "lien": "https://www.cbsnews.com/news/california-high-speed-rail-ceo-choudri-resigns-stephenshaw-contracts/",
-   "source": "CBS News",
-   "date": "2026-11-05T00:35:37+00:00",
-   "extrait": "Records reveal millions in disputed consultant billing, a contract under inspector general investigation and unanswered oversight questions, now inherited by Gov. Gavin Newsom's budget director.",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "1280558a9a2a",
-   "titre": "Would you take a test to see if your life will be cut short? I did - and it changed me",
-   "lien": "https://www.bbc.co.uk/news/articles/cw62yq9vp7yyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-05T00:32:09+00:00",
-   "extrait": "Laura Sides faced a dilemma of whether to find out if she would inherit her father's condition.",
    "tags": [],
    "zone": "monde"
   }
