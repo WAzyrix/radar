@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-05T06:05:43+00:00",
+ "maj": "2026-11-05T07:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,65 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "469f5be3d86e",
+   "titre": "Jordan Bardella rattrapé par ses propos antisémites au lancement de son nouveau livre",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/05/jordan-bardella-rattrape-par-ses-propos-antisemites-au-lancement-de-son-nouveau-livre_6806827_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-05T06:51:35+00:00",
+   "extrait": "Le président du Rassemblement national voit la promotion de son livre perturbée par le rappel de ses anciens propos antisémites, dont il dément être l’auteur. La soirée de lancement organisée par…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "e09083fec519",
+   "titre": "Ligue des champions : Lens subit une défaite historique face à Côme",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261105-ligue-champions-lens-subit-d%C3%A9faite-historique-face-c%C3%B4me-football-real-madrid-europa-joj-dakar-tennis",
+   "source": "France 24",
+   "date": "2026-11-05T06:46:07+00:00",
+   "extrait": "Le RC Lens a subi la plus lourde défaite de l'histoire du football français en Coupe d'Europe, en s'inclinant à domicile face à Côme (9-1) en Ligue des champions. Déjà battus par Bruges (0-3) et le…",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "79e2afd27123",
+   "titre": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+   "lien": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-05T06:35:25+00:00",
+   "extrait": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "fa393ed45d4a",
+   "titre": "Les attaques contre les systèmes d'eau dans les conflits ont triplé entre 2021 et 2025, alerte l'Unicef",
+   "lien": "https://www.franceinfo.fr/monde/les-attaques-contre-les-systemes-d-eau-dans-les-conflits-ont-triple-entre-2021-et-2025-alerte-l-unicef_8268839.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-05T06:13:36+00:00",
+   "extrait": "L'agence de l'ONU dénonce des attaques sur les dispositifs d'acheminement en eau de plusieurs zones en conflit, \"exposant davantage les enfants aux épidémies, à la malnutrition et aux violences\"…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "bdd4061bf38c",
+   "titre": "Grève du 5 novembre : plus de 250 actions annoncées dans toute la France, selon une carte de la GGT",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/direct-greve-du-5-novembre-plus-de-250-actions-annoncees-dans-toute-la-france-selon-une-carte-de-la-ggt_8268827.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-05T06:10:46+00:00",
+   "extrait": "Salariés et fonctionnaires sont appelés par les syndicats à faire grève pour leurs salaires, jeunes et retraités à les rejoindre en manifestation, quand le gouvernement est attendu sur des réponses…",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "08e5d38639a8",
    "titre": "Did Republican efforts to redistrict the House turn into a dummymander?",
    "lien": "https://www.cbsnews.com/news/dummymander-republican-redistricting-congress-trump/",
@@ -30,6 +89,30 @@
    "extrait": "Republicans undertook a historic effort to redraw several states' Congressional districts mid-decade in an attempt to maintain control of the House.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "8c86d9b71377",
+   "titre": "En direct : la grogne sociale monte d'un cran, grève et manifestations partout en France",
+   "lien": "https://www.france24.com/fr/france/20261105-en-direct-grogne-sociale-monte-cran-greve-manifestations-interprofessionnelle-france-syndicat-police-lycee-fonctionnaires-retraites",
+   "source": "France 24",
+   "date": "2026-11-05T05:47:57+00:00",
+   "extrait": "Salariés et fonctionnaires sont appelés jeudi par les syndicats à faire grève, jeunes et retraités à les rejoindre en manifestation, quand le gouvernement est attendu sur des réponses concrètes. Le…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "ad92c225c594",
+   "titre": "Midterms, le \"sursaut démocratique ?\"",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261105-midterms-le-sursaut-d%C3%A9mocratique",
+   "source": "France 24",
+   "date": "2026-11-05T05:41:59+00:00",
+   "extrait": "A la Une de la presse, ce jeudi 5 novembre, le soulagement et même la joie des journaux étrangers, après la défaite des républicains (et à la victoire des démocrates) aux élections de mi-mandat, aux…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
   },
   {
    "id": "cdbb2ad09964",
@@ -124,6 +207,26 @@
    "zone": "france"
   },
   {
+   "id": "32a3b3401c9d",
+   "titre": "Les carreaux quadrillent à nouveau la mode",
+   "lien": "https://www.lemonde.fr/m-styles/article/2026/11/05/les-carreaux-quadrillent-a-nouveau-la-mode_6806820_4497319.html",
+   "source": "Le Monde",
+   "date": "2026-11-05T05:01:06+00:00",
+   "extrait": "Du tartan écossais au madras indien, ces motifs envahissent les podiums et le flux continu des réseaux sociaux, mettant ainsi à l’honneur des techniques de tissage ancestrales.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "3b6fee549659",
+   "titre": "Mariage sous le régime de la communauté : les loyers du bien propre d’un époux sont communs aux deux",
+   "lien": "https://www.lemonde.fr/argent/article/2026/11/05/mariage-sous-le-regime-de-la-communaute-les-loyers-du-bien-propre-d-un-epoux-sont-communs-aux-deux_6806818_1657007.html",
+   "source": "Le Monde",
+   "date": "2026-11-05T05:01:00+00:00",
+   "extrait": "Lors du divorce, le conjoint qui a remboursé le crédit de son logement avec les revenus tirés de sa location doit une « récompense » tenant compte de la plus-value gagnée.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "be7fab400272",
    "titre": "Midterms 2026 : après la déroute républicaine, l’Ukraine nourrit le maigre espoir de freiner la dérive américaine en faveur de la Russie",
    "lien": "https://www.lemonde.fr/international/article/2026/11/05/midterms-2026-apres-la-deroute-republicaine-l-ukraine-nourrit-le-maigre-espoir-de-freiner-la-derive-americaine-en-faveur-de-la-russie_6806811_3210.html",
@@ -141,7 +244,7 @@
    "titre": "« Nous avancions à tâtons dans le noir » : derrière « Zelda : Ocarina of Time », le génie plein de nostalgie d’Eiji Aonuma et Hidemaro Fujibayashi",
    "lien": "https://www.lemonde.fr/pixels/article/2026/11/05/nous-avancions-a-tatons-dans-le-noir-derriere-zelda-ocarina-of-time-le-genie-plein-de-nostalgie-d-eiji-aonuma-et-hidemaro-fujibayashi_6806778_4408996.html",
    "source": "Le Monde",
-   "date": "2026-11-05T05:00:15+00:00",
+   "date": "2026-11-05T05:00:08+00:00",
    "extrait": "A l’occasion de la sortie, jeudi, du remake de ce jeu vidéo culte de 1998, les deux principaux producteurs de la franchise racontent comment ils se sont replongés dans ce chef-d’œuvre pionnier.",
    "tags": [],
    "zone": "france"
@@ -196,7 +299,7 @@
   },
   {
    "id": "04f4449bf875",
-   "titre": "À Hong Kong, le militant prodémocratie Joshua Wong condamné à 10 ans de prison supplémentaires",
+   "titre": "À Hong Kong, le militant prodémocratie Joshua Wong condamné à dix ans de prison supplémentaires",
    "lien": "https://www.france24.com/fr/asie-pacifique/20261105-hong-kong-militant-prodemocratie-joshua-wong-condamne-10-ans-prison-supplementaires-loi-securite-nationale-chine-justice",
    "source": "France 24",
    "date": "2026-11-05T04:15:17+00:00",
@@ -215,6 +318,18 @@
    "extrait": "Poursuivi pour avoir touché les parties intimes de prisonniers travaillant sous ses ordres pendant plusieurs années, Maxime G., l’un des contremaîtres de l’atelier de métallerie de l’établissement…",
    "tags": [
     "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "51dce8c37d6a",
+   "titre": "La rémunération des cadres décline pour la première fois depuis 2010",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/05/la-remuneration-des-cadres-decline-pour-la-premiere-fois-depuis-2010_6806671_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-05T04:00:20+00:00",
+   "extrait": "Avec des salaires qui augmentent moins que l’inflation, les cadres subissent une baisse de leur pouvoir d’achat, selon le baromètre de l’APEC publié jeudi.",
+   "tags": [
+    "Économie"
    ],
    "zone": "france"
   },
@@ -266,16 +381,6 @@
    "zone": "usa"
   },
   {
-   "id": "79e2afd27123",
-   "titre": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-   "lien": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-05T03:56:16+00:00",
-   "extrait": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
    "id": "e8db9958c58d",
    "titre": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
    "lien": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
@@ -309,12 +414,25 @@
    "zone": "usa"
   },
   {
+   "id": "58e3ef27bbc1",
+   "titre": "En Allemagne, le numéro deux du gouvernement régional de Bavière retrouvé mort à son hôtel à Berlin",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/05/en-allemagne-le-numero-deux-du-gouvernement-regional-de-baviere-retrouve-mort-a-son-hotel-a-berlin_6806602_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-05T03:05:04+00:00",
+   "extrait": "La cause du décès de Hubert Aiwanger, 55 ans, président du parti ultraconservateur Freie Wähler, est encore inconnue. La police et le parquet ont ouvert une enquête.",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "63133f309464",
    "titre": "La Corée du Sud va déployer sa marine près du détroit d'Ormuz pour en garantir la circulation",
    "lien": "https://www.france24.com/fr/moyen-orient/20261105-coree-sud-va-deployer-marine-d%C3%A9troit-ormuz-pour-garantir-circulation-iran-moyen-orient-cheonghae-antipiraterie-deminage-defense-commerce",
    "source": "France 24",
    "date": "2026-11-05T03:03:30+00:00",
-   "extrait": "Séoul va élargir la zone d'opérations de l'unité antipiraterie Cheonghae de sa marine, et déployer un destroyer, un avion de patrouille maritime et une équipe de déminage près du détroit d'Ormuz, a…",
+   "extrait": "Séoul va élargir la zone d'opérations de l'unité antipiraterie Cheonghae de sa marine et déployer un destroyer, un avion de patrouille maritime et une équipe de déminage près du détroit d'Ormuz, a…",
    "tags": [],
    "zone": "monde"
   },
@@ -745,7 +863,7 @@
   },
   {
    "id": "6383311ce738",
-   "titre": "L'Assemblée nationale rejette, à l'unanimité, en première lecture le budget de l'État 2027",
+   "titre": "L'Assemblée nationale rejette le budget de l'État 2027 à l'unanimité en première lecture",
    "lien": "https://www.france24.com/fr/france/20261104-assemblee-nationale-rejette-unanimite-en-premiere-lecture-budget-etat-2027-pib-finances",
    "source": "France 24",
    "date": "2026-11-04T23:16:53+00:00",
@@ -797,8 +915,8 @@
    "titre": "Présidentielle 2027 : Emmanuel Macron préconise une coalition de Glucksmann à Lisnard",
    "lien": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-emmanuel-macron-preconise-une-coalition-de-glucksmann-a-lisnard_6806470_823448.html",
    "source": "Le Monde",
-   "date": "2026-11-04T22:58:35+00:00",
-   "extrait": "Le chef de l’Etat estime que seule une large alliance au sein de l’espace central permettra d’éviter le duel Le Pen-Mélenchon au second tour de l’élection présidentielle.",
+   "date": "2026-11-04T22:58:31+00:00",
+   "extrait": "Le chef de l’Etat estime que seule une large alliance au sein de l’espace central permettra de déjouer le duel Le Pen-Mélenchon au second tour de l’élection présidentielle.",
    "tags": [
     "Politique"
    ],
@@ -876,8 +994,20 @@
    "lien": "https://www.france24.com/fr/sports/20261104-ligue-champions-rc-lens-etrille-par-come-domicile-football-nico-paz-defaite",
    "source": "France 24",
    "date": "2026-11-04T22:37:24+00:00",
-   "extrait": "Les Sang et Or, complètement dépassés, ont été étrillés (9-1) contre Côme au stade Bollaert, mercredi lors de la 4e journée de phase de ligue en Ligue des champions. Le Real Madrid, difficile…",
+   "extrait": "Les Sang et Or, complètement dépassés, ont été étrillés (9-1) contre Côme au stade Bollaert, mercredi, lors de la 4e journée de phase de ligue en Ligue des champions. Le Real Madrid, difficile…",
    "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "a9ac7f0a377b",
+   "titre": "'Hopefully things get done': Americans react to historic political shift",
+   "lien": "https://www.bbc.co.uk/news/videos/cwj0l61e2927o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-04T22:34:08+00:00",
+   "extrait": "The BBC spoke to voters from different states for their reaction to Democrats taking control of both the Senate and the House of Representatives.",
+   "tags": [
+    "Politique"
+   ],
    "zone": "monde"
   },
   {
@@ -2181,6 +2311,16 @@
    "zone": "usa"
   },
   {
+   "id": "3e07dc05c7fd",
+   "titre": "Présidentielle 2027 : le cinéma français appelle les candidats à protéger son modèle, notamment face aux menaces de l’extrême droite",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-le-cinema-francais-appelle-les-candidats-a-proteger-son-modele-notamment-face-aux-menaces-de-l-extreme-droite_6806324_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-04T16:00:30+00:00",
+   "extrait": "Un manifeste signé par quatre organisations majeures du secteur propose 12 engagements, parmi lesquels l’inscription de la « souveraineté culturelle française et européenne » dans la Constitution ou…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "0a0ba9b3fddf",
    "titre": "Vote des jeunes, des minorités ethniques… Visualisez comment se sont prononcés les Américains lors des midterms",
    "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/vote-des-jeunes-des-minorites-ethniques-visualisez-comment-se-sont-prononces-les-americains-lors-des-midterms_8267702.html#xtor=RSS-3-[lestitres]",
@@ -3369,142 +3509,6 @@
     "Politique"
    ],
    "zone": "france"
-  },
-  {
-   "id": "c9278230a0af",
-   "titre": "The world is reacting to the Democrats' sweeping midterm elections victory",
-   "lien": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections",
-   "source": "NPR",
-   "date": "2026-11-04T12:34:35+00:00",
-   "extrait": "From Kyiv to Moscow, and Tehran to Tel Aviv, all eyes were on the Democrats big win as foreign powers weigh how a flipped Congress will affect international relations.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "7ecdf22efae8",
-   "titre": "Sharp objects found in Halloween sweets in three European nations",
-   "lien": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-04T12:34:33+00:00",
-   "extrait": "Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate containing a pin.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "52caec2a2885",
-   "titre": "L’ambition sans limite d’Arthur Fils, premier Français qualifié pour le Masters depuis 2016",
-   "lien": "https://www.lemonde.fr/sport/article/2026/11/04/l-ambition-sans-limite-d-arthur-fils-premier-francais-qualifie-pour-le-masters-depuis-2016_6806221_3242.html",
-   "source": "Le Monde",
-   "date": "2026-11-04T12:33:01+00:00",
-   "extrait": "Le tennisman francilien de 23 ans a appris quelques heures avant son entrée en lice au Masters 1000 de Paris, qu’il disputera, à partir du 15 novembre à Turin, la compétition de fin de saison qui…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "37b9757946ea",
-   "titre": "Droit à l'avortement, victoires historiques : la revanche des femmes lors des midterms",
-   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261104-droit-avortement-femmes-victoires-historiques-midterms-democrates-etats-unis",
-   "source": "France 24",
-   "date": "2026-11-04T12:22:55+00:00",
-   "extrait": "Les femmes sont les grandes gagnantes de la vague bleue historique qui a submergé le Congrès en infligeant à Donald ​Trump un camouflet sévère. Des propositions sur la défense du droit à…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "1662d1f5206c",
-   "titre": "Le prix Femina est décerné à Yannick Haenel pour « La solitude des professeurs est infinie »",
-   "lien": "https://www.lemonde.fr/livres/article/2026/11/04/le-prix-femina-est-decerne-a-yannick-haenel-pour-la-solitude-des-professeurs-est-infinie_6806219_3260.html",
-   "source": "Le Monde",
-   "date": "2026-11-04T12:19:25+00:00",
-   "extrait": "L’écrivain a été distingué, mercredi 4 novembre, pour ce roman solaire, et non scolaire, d’un jeune professeur de collège animé d’un puissant désir d’enseigner et qui débute dans un établissement…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "15671bdc470c",
-   "titre": "Défaite de Donald Trump aux midterms, de mauvaises augures pour les droites ?",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/face-%C3%A0-face/20261104-d%C3%A9faite-donald-trump-midterms-mauvaises-augures-pour-les-droites",
-   "source": "France 24",
-   "date": "2026-11-04T12:19:04+00:00",
-   "extrait": "Aux États-Unis, Donald Trump essuie une sérieuse défaite aux élections de mi-mandat : les républicains perdent la majorité aux deux chambres du Congrès après la victoire écrasante des démocrates. Ce…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "ef8d4f76f0ff",
-   "titre": "Democrats seize full control of Congress. And, which candidates made history last night",
-   "lien": "https://www.npr.org/2026/11/04/g-s1-151745/up-first-newsletter-midterms-democrats-congress-control",
-   "source": "NPR",
-   "date": "2026-11-04T12:18:39+00:00",
-   "extrait": "Democrats have won the House and the Senate, taking full control of Congress for the first time since 2023. And history was made in several states. Here's what happened last night.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "5f9d40e846c9",
-   "titre": "6 takeaways from Democrats' big wave on election night",
-   "lien": "https://www.npr.org/2026/11/04/nx-s1-6022216/midterms-democrats-trump-republicans-analysis",
-   "source": "NPR",
-   "date": "2026-11-04T12:02:38+00:00",
-   "extrait": "The magnitude of the Democrats' outcome was always a possibility, but the depth and breadth of their victories were jaw-dropping.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "6f4e374db4d7",
-   "titre": "RD Congo : Une mine chinoise poursuivie en justice pour pollution",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261104-rd-congo-une-mine-chinoise-poursuivie-en-justice-pour-pollution",
-   "source": "France 24",
-   "date": "2026-11-04T12:01:52+00:00",
-   "extrait": "En République démocratique du Congo, des habitants poursuivent en justice une immense mine chinoise et le gouvernement pour pollution environnementale. Une affaire d'une ampleur inédite, qui…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "a817db2f2dd2",
-   "titre": "RD Congo : une immense mine chinoise accusée de pollution par 27 plaignants",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261104-rd-congo-une-immense-mine-chinoise-accus%C3%A9e-de-pollution-par-27-plaignants",
-   "source": "France 24",
-   "date": "2026-11-04T12:00:32+00:00",
-   "extrait": "À Kolwezi en République Démocratique du Congo, 27 plaignants poursuivent en justice une immense mine chinoise et le gouvernement pour pollution environnementale. Ce sera l’une des affaires les plus…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "c56cf8441fc5",
-   "titre": "Remembering Andy Rooney | 60 Minutes Archive",
-   "lien": "https://www.cbsnews.com/video/remembering-andy-rooney-60-minutes-archive/",
-   "source": "CBS News",
-   "date": "2026-11-04T12:00:18+00:00",
-   "extrait": "For decades, Andy Rooney captivated audiences with his prickly wit and commentary at the end of the 60 Minutes broadcast. Upon his retirement in 2011, Morley Safer asked him if he ever thought he…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "7d3581e9341c",
-   "titre": "A dermatologist's guide to anti-aging treatments: Botox, peptides, more",
-   "lien": "https://www.cbsnews.com/news/dermatologist-anti-aging-treatments-botox-healthful/",
-   "source": "CBS News",
-   "date": "2026-11-04T12:00:10+00:00",
-   "extrait": "Dr. Elizabeth Hale has shared expert advice about melanoma and skin care — and now she's bringing us answers to questions about a wide range of popular anti-aging treatments.",
-   "tags": [],
-   "zone": "usa"
   }
  ]
 }

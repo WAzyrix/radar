@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-05T06:05:43+00:00",
+ "maj": "2026-11-05T07:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -21,10 +21,33 @@
   "Windows",
   "Mobile"
  ],
- "erreurs": [
-  "Zataz"
- ],
+ "erreurs": [],
  "articles": [
+  {
+   "id": "7c721745a9e0",
+   "titre": "HatchZip - Décompresser une archive énorme sur un disque plein",
+   "lien": "https://korben.info/hatchzip.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-05T06:24:56+00:00",
+   "extrait": "HatchZip extrait une archive ZIP, 7z, RAR ou tar en la coupant par la fin au fur et à mesure : un jeu de 180 Go qui en fait 200 ne demande plus 380 Go de disque. Gratuit et open source, il vérifie…",
+   "tags": [
+    "Outil"
+   ]
+  },
+  {
+   "id": "2a5b7d5a686a",
+   "titre": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+   "lien": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+   "source": "The Hacker News",
+   "date": "2026-11-05T05:17:04+00:00",
+   "extrait": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities…",
+   "tags": [
+    "CVE",
+    "Faille",
+    "Fuite de données",
+    "Malware"
+   ]
+  },
   {
    "id": "25c3eda20cfe",
    "titre": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
@@ -3419,26 +3442,6 @@
     "Faille",
     "Windows"
    ]
-  },
-  {
-   "id": "3a1a036ef73a",
-   "titre": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-   "lien": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-   "source": "The Hacker News",
-   "date": "2026-10-24T11:03:33+00:00",
-   "extrait": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of…",
-   "tags": [
-    "Outil"
-   ]
-  },
-  {
-   "id": "1065140518e1",
-   "titre": "DeepSeek banni des agences fédérales US",
-   "lien": "https://www.zataz.com/deepseek-banni-des-agences-federales-civiles-americaines/",
-   "source": "Zataz",
-   "date": "2026-10-24T10:46:39+00:00",
-   "extrait": "DeepSeek banni des agences fédérales civiles américaines : portée, calendrier et risques pour les données.",
-   "tags": []
   }
  ]
 }
