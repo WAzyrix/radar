@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-05T12:05:41+00:00",
+ "maj": "2026-11-05T13:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,19 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "25c3eda20cfe",
+   "titre": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+   "lien": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+   "source": "The Hacker News",
+   "date": "2026-11-05T12:08:54+00:00",
+   "extrait": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for…",
+   "tags": [
+    "Faille",
+    "IA",
+    "Linux"
+   ]
+  },
   {
    "id": "1981b067cd83",
    "titre": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
@@ -128,19 +141,6 @@
     "Faille",
     "Fuite de données",
     "Malware"
-   ]
-  },
-  {
-   "id": "25c3eda20cfe",
-   "titre": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
-   "lien": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-   "source": "The Hacker News",
-   "date": "2026-11-05T04:31:16+00:00",
-   "extrait": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for…",
-   "tags": [
-    "Faille",
-    "IA",
-    "Linux"
    ]
   },
   {
