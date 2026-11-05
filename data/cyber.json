@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-05T21:05:39+00:00",
+ "maj": "2026-11-05T22:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,20 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "886e9406677f",
+   "titre": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+   "lien": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
+   "source": "BleepingComputer",
+   "date": "2026-11-05T21:30:30+00:00",
+   "extrait": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google…",
+   "tags": [
+    "Fuite de données",
+    "Malware",
+    "IA",
+    "Windows"
+   ]
+  },
   {
    "id": "58f4053a1bb9",
    "titre": "Nearly 1.5 million exposed secrets targeted in new revocation program",
@@ -53,6 +67,31 @@
    "tags": [
     "Faille",
     "Linux"
+   ]
+  },
+  {
+   "id": "3fe484f436f5",
+   "titre": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
+   "lien": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
+   "source": "The Hacker News",
+   "date": "2026-11-05T16:42:46+00:00",
+   "extrait": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the…",
+   "tags": [
+    "Faille",
+    "Linux"
+   ]
+  },
+  {
+   "id": "306be99284dc",
+   "titre": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+   "lien": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+   "source": "The Hacker News",
+   "date": "2026-11-05T16:42:32+00:00",
+   "extrait": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the…",
+   "tags": [
+    "Faille",
+    "Malware",
+    "IA"
    ]
   },
   {
@@ -3392,42 +3431,6 @@
     "Ransomware",
     "Malware",
     "Windows"
-   ]
-  },
-  {
-   "id": "cf08225efb6b",
-   "titre": "Microsoft releases emergency .NET patches for critical Brotli flaw",
-   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/",
-   "source": "BleepingComputer",
-   "date": "2026-10-26T15:38:24+00:00",
-   "extrait": "Microsoft released emergency .NET security updates to patch a critical vulnerability known as Broccoli2Shell, also tracked as Node2Shell and HTTP2Shell. [...]",
-   "tags": [
-    "Faille",
-    "Windows"
-   ]
-  },
-  {
-   "id": "3576934612fc",
-   "titre": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
-   "lien": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
-   "source": "The Hacker News",
-   "date": "2026-10-26T14:06:13+00:00",
-   "extrait": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets…",
-   "tags": [
-    "Faille",
-    "Fuite de données",
-    "IA"
-   ]
-  },
-  {
-   "id": "3c0f1fb39eea",
-   "titre": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
-   "lien": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
-   "source": "BleepingComputer",
-   "date": "2026-10-26T14:00:10+00:00",
-   "extrait": "A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the…",
-   "tags": [
-    "IA"
    ]
   }
  ]
