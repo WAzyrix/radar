@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-05T09:05:41+00:00",
+ "maj": "2026-11-05T10:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,41 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "da77af0f435f",
+   "titre": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
+   "lien": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
+   "source": "BleepingComputer",
+   "date": "2026-11-05T09:18:29+00:00",
+   "extrait": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
+   "tags": [
+    "Faille",
+    "Mobile"
+   ]
+  },
+  {
+   "id": "96a1ace9f58c",
+   "titre": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
+   "lien": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
+   "source": "The Hacker News",
+   "date": "2026-11-05T09:13:28+00:00",
+   "extrait": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3. The change specifically applies to…",
+   "tags": [
+    "Mobile"
+   ]
+  },
+  {
+   "id": "4f9bb7c1ff8e",
+   "titre": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
+   "lien": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
+   "source": "The Hacker News",
+   "date": "2026-11-05T08:42:03+00:00",
+   "extrait": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking…",
+   "tags": [
+    "IA",
+    "Outil"
+   ]
+  },
   {
    "id": "d7f4bfc72d13",
    "titre": "J'ai testé CottageCore, le jeu cosy d'une vieille connaissance",
@@ -3398,41 +3433,6 @@
    "extrait": "De multiples vulnérabilités ont été découvertes dans CPython. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
    "tags": [
     "Faille"
-   ]
-  },
-  {
-   "id": "4a8154151413",
-   "titre": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-   "lien": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-   "source": "The Hacker News",
-   "date": "2026-10-25T17:44:09+00:00",
-   "extrait": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack…",
-   "tags": [
-    "Faille",
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "3eda0d6ae7e3",
-   "titre": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
-   "lien": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-   "source": "The Hacker News",
-   "date": "2026-10-25T17:19:46+00:00",
-   "extrait": "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the…",
-   "tags": [
-    "Faille",
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "9e8f060397f4",
-   "titre": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
-   "lien": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
-   "source": "BleepingComputer",
-   "date": "2026-10-25T15:49:38+00:00",
-   "extrait": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
-   "tags": [
-    "IA"
    ]
   }
  ]
