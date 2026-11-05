@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-05T04:05:39+00:00",
+ "maj": "2026-11-05T05:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -21,8 +21,23 @@
   "Windows",
   "Mobile"
  ],
- "erreurs": [],
+ "erreurs": [
+  "Zataz"
+ ],
  "articles": [
+  {
+   "id": "25c3eda20cfe",
+   "titre": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+   "lien": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+   "source": "The Hacker News",
+   "date": "2026-11-05T04:31:16+00:00",
+   "extrait": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for…",
+   "tags": [
+    "Faille",
+    "IA",
+    "Linux"
+   ]
+  },
   {
    "id": "de7887560061",
    "titre": "Vercel rolls out new protection against stolen session cookie attacks",
@@ -174,7 +189,7 @@
    "lien": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
    "source": "The Hacker News",
    "date": "2026-11-04T14:27:52+00:00",
-   "extrait": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain…",
+   "extrait": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply…",
    "tags": [
     "Faille",
     "Fuite de données",
@@ -3424,17 +3439,6 @@
    "date": "2026-10-24T10:46:39+00:00",
    "extrait": "DeepSeek banni des agences fédérales civiles américaines : portée, calendrier et risques pour les données.",
    "tags": []
-  },
-  {
-   "id": "afec56c7243a",
-   "titre": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
-   "lien": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-   "source": "The Hacker News",
-   "date": "2026-10-24T10:36:33+00:00",
-   "extrait": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on…",
-   "tags": [
-    "IA"
-   ]
   }
  ]
 }
