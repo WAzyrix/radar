@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-05T14:05:50+00:00",
+ "maj": "2026-11-05T15:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,14 +22,404 @@
  "erreurs": [],
  "articles": [
   {
-   "id": "bdd4061bf38c",
-   "titre": "Mobilisation du 5 novembre : près de 10% des agents de la fonction publique participent au mouvement de grève, selon le ministère",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/direct-greve-du-5-novembre-plus-de-250-actions-annoncees-dans-toute-la-france-selon-une-carte-de-la-ggt_8268827.html#xtor=RSS-3-[lestitres]",
+   "id": "fb4a2125b050",
+   "titre": "Hoax bomb threats affect at least 20 European flights within hours",
+   "lien": "https://www.cbsnews.com/news/europe-flights-airlines-hoax-bomb-threats/",
+   "source": "CBS News",
+   "date": "2026-11-05T15:05:56+00:00",
+   "extrait": "At least 20 flights in Europe deal with bomb threats, adding to what one expert calls an unusual level of hoaxes in a short time period, suggesting \"a very deliberate act.\"",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "e16f94ee4082",
+   "titre": "Présidentielle 2027 : la majorité du groupe communiste à l'Assemblée apporte son soutien à Jean-Luc Mélenchon plutôt qu'à Fabien Roussel",
+   "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-la-majorite-du-groupe-communiste-a-l-assemblee-apporte-son-soutien-a-jean-luc-melenchon-plutot-qu-a-fabien-roussel_8269403.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-11-05T14:01:40+00:00",
-   "extrait": "Le décompte de 250.000 manifestants \"n'est qu'un début\", a assuré la secrétaire générale de la CGT, Sophie Binet, à la presse avant le départ du cortège parisien.",
+   "date": "2026-11-05T15:03:46+00:00",
+   "extrait": "Neuf des 17 élus du groupe communiste et ultramarin ont choisi de rallier le candidat insoumis, aux dépens du candidat de leur propre parti.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "adb969697b1c",
+   "titre": "\"Je m'en contrefous\" : Raphaël Glucksmann répond aux militants hostiles à sa présence, avant d'être contraint de quitter le cortège",
+   "lien": "https://www.franceinfo.fr/elections/presidentielle/je-m-en-contrefous-raphael-glucksmann-repond-aux-militants-hostiles-a-sa-presence-sur-la-manifestation-parisienne_8269385.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-05T15:03:27+00:00",
+   "extrait": "Le candidat social-démocrate à la présidentielle est régulièrement pris à partie par des militants de la gauche radicale.",
    "tags": [],
    "zone": "france"
+  },
+  {
+   "id": "9f2de1cb6ea0",
+   "titre": "First-time homebuyers remain scarce, but a record share of them pay all cash",
+   "lien": "https://www.npr.org/2026/11/05/nx-s1-6022491/real-estate-all-cash-offer",
+   "source": "NPR",
+   "date": "2026-11-05T15:00:00+00:00",
+   "extrait": "A new report finds generational wealth is widening the divide between homebuyers and those priced out. The median age of first-time buyers also remains at a record high.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "bdd4061bf38c",
+   "titre": "Mobilisation du 5 novembre : une très forte participation à Paris, quelques incidents en tête de cortège",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/direct-greve-du-5-novembre-plus-de-250-actions-annoncees-dans-toute-la-france-selon-une-carte-de-la-ggt_8268827.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-05T14:58:59+00:00",
+   "extrait": "\"Le message de la rue au gouvernement et au patronat est clair : rien ne nous arrêtera\", sauf \"la réponse aux revendications\", a déclaré la secrétaire générale de la CGT Sophie Binet;",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "929ab18f21ff",
+   "titre": "Wendy's rejects $1.4 billion hostile takeover bid",
+   "lien": "https://www.cbsnews.com/news/wendys-rejects-takeover-bid/",
+   "source": "CBS News",
+   "date": "2026-11-05T14:56:03+00:00",
+   "extrait": "Wendy's rebuffs unsolicited offer from Trian Partners, led by activist investor Nelson Peltz, and another group of investment firms.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "3abe29addd9a",
+   "titre": "U.S. ID's remains of WWII soldier from iconic \"Merrill's Marauders\"",
+   "lien": "https://www.cbsnews.com/news/us-identifies-remains-wwii-soldier-merrills-marauders/",
+   "source": "CBS News",
+   "date": "2026-11-05T14:54:36+00:00",
+   "extrait": "The U.S. military said it has identified the remains of a soldier who fought with the iconic \"Merrill's Marauders\" unit during World War II.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "952cff5e4f2d",
+   "titre": "Législatives en Israël : Eisenkot veut \"renforcer les relations\" avec les États-Unis",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261105-l%C3%A9gislatives-en-isra%C3%ABl-eisenkot-veut-renforcer-les-relations-avec-les-%C3%A9tats-unis",
+   "source": "France 24",
+   "date": "2026-11-05T14:53:52+00:00",
+   "extrait": "Gadi Eisenkot, principal rival du Premier ministre Benjamin Netanyahu, s'est engagé mercredi 4 novembre à \"renouveler et renforcer les relations\" avec les États-Unis s'il devenait chef du…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "1e51f1f16507",
+   "titre": "Russell Brand found guilty of rape and sexual assault",
+   "lien": "https://www.cbsnews.com/news/russell-brand-found-guilty-rape-sexually-assults/",
+   "source": "CBS News",
+   "date": "2026-11-05T14:50:26+00:00",
+   "extrait": "Actor and comedian Russell Brand was accused of three counts of rape, three counts of sexual assault and one charge of attempted indecent assault.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "18acfed683c9",
+   "titre": "Présidentielle 2027 : la majorité du groupe communiste et ultramarin à l’Assemblée annonce soutenir Jean-Luc Mélenchon",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/05/presidentielle-2027-la-majorite-du-groupe-communiste-et-ultramarin-a-l-assemblee-annonce-soutenir-jean-luc-melenchon_6806973_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-05T14:49:26+00:00",
+   "extrait": "Malgré le choix officiel du PCF qui a désigné Fabien Roussel, plusieurs députés appellent à une union de la gauche de rupture derrière le candidat de la France insoumise pour 2027.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "7d049d5ad586",
+   "titre": "Grève du 5 novembre : environ 1 000 lycées \"à l'arrêt\" selon l'Union Syndicale Étudiante",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261105-gr%C3%A8ve-du-5-novembre-environ-1-000-lyc%C3%A9es-%C3%A0-l-arr%C3%AAt-selon-l-union-syndicale-%C3%A9tudiante",
+   "source": "France 24",
+   "date": "2026-11-05T14:48:06+00:00",
+   "extrait": "Environ 2,2 % des établissements scolaires étaient \"bloqués\", soit 81 lycées sur 3 700, dans le cadre de la journée de mobilisation à l'appel des syndicats ce jeudi 5 novembre, selon Matignon…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "f32ae8f39dc2",
+   "titre": "Pourquoi le « Ring » de Richard Wagner continue de fasciner les foules, 150 ans après sa création",
+   "lien": "https://www.lemonde.fr/culture/article/2026/11/05/pourquoi-le-ring-de-richard-wagner-continue-de-fasciner-les-foules-150-ans-apres-sa-creation_6806970_3246.html",
+   "source": "Le Monde",
+   "date": "2026-11-05T14:44:52+00:00",
+   "extrait": "La « Tétralogie » créée en 1876, est jouée en novembre à l’Opéra de Paris. Une œuvre hors normes par sa richesse et son ampleur, qui représente un défi à monter en intégralité.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "f3d8198f99cd",
+   "titre": "Mobilisations en France : \"il va falloir un peu se bouger sur les réponses sociales\"",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261105-mobilisations-en-france-il-va-falloir-un-peu-se-bouger-sur-les-r%C3%A9ponses-sociales",
+   "source": "France 24",
+   "date": "2026-11-05T14:44:02+00:00",
+   "extrait": "La secrétaire nationale des Écologistes Marine Tondelier a estimé \"qu'\"il faudrait peut-être se bouger sur les réponses sociales\" en soutient aux mouvement sociaux en France, qui juge que ça va être…",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "ba26403f95e1",
+   "titre": "France holds new strikes and protests as unions demand immediate answers",
+   "lien": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-05T14:42:29+00:00",
+   "extrait": "Five of France's unions join a wave of strikes and protests in a national day of action.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "353726671fdd",
+   "titre": "How data center development impacted midterm election results",
+   "lien": "https://www.cbsnews.com/video/how-data-center-development-impacted-midterm-election-results/",
+   "source": "CBS News",
+   "date": "2026-11-05T14:40:12+00:00",
+   "extrait": "Opposition to data center development impacted the 2026 midterm elections. Puck AI correspondent Ian Krietzberg has more.",
+   "tags": [
+    "Politique",
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "75daf63819d7",
+   "titre": "France : un début d'incendie éteint dans un lycée près de Toulouse",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261105-france-un-d%C3%A9but-d-incendie-dans-un-lyc%C3%A9e-pr%C3%A8s-de-toulouse",
+   "source": "France 24",
+   "date": "2026-11-05T14:39:41+00:00",
+   "extrait": "Une trentaine d'individus ont pénétré tôt jeudi 5 novembre dans un lycée de Tournefeuille près de Toulouse, tirant des mortiers d'artifice et provoquant un incendie rapidement éteint par les…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "8e3d9a1b0d2e",
+   "titre": "Bomb threats disrupt flights across Europe, cause chaos for travelers",
+   "lien": "https://www.cbsnews.com/video/bomb-threats-disrupt-flights-across-europe/",
+   "source": "CBS News",
+   "date": "2026-11-05T14:39:28+00:00",
+   "extrait": "A series of bomb threats diverted passenger flights across Europe, raising questions for investigators. CBS News' Holly Williams has the latest.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "421cf7e4961e",
+   "titre": "Grève du 5 novembre : jusqu'à 700 000 manifestants attendus partout dans le pays",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261105-gr%C3%A8ve-du-5-novembre-jusqu-%C3%A0-700-000-manifestants-attendus-partout-dans-le-pays",
+   "source": "France 24",
+   "date": "2026-11-05T14:37:35+00:00",
+   "extrait": "En France, la journée d'action nationale de l'intersyndicale a rassemblé jeudi 5 novembre, 270 000 manifestants dans 180 cortèges, hors Paris, selon un bilan à 13H00 des autorités donné par…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "be63d5c512b3",
+   "titre": "Republicans point fingers after massive midterms defeat; Jeffries runs for House speaker",
+   "lien": "https://www.cbsnews.com/video/republicans-point-fingers-after-massive-midterms-defeat/",
+   "source": "CBS News",
+   "date": "2026-11-05T14:37:00+00:00",
+   "extrait": "House Speaker Mike Johnson plans to step aside from his party leadership role as Republicans reel from the midterm election results. Meanwhile, current House Minority Leader Hakeem Jeffries launched…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "ccbef597c542",
+   "titre": "Europe : au moins 15 avions perturbés par de fausses alertes à la bombe",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261105-europe-au-moins-15-avions-perturb%C3%A9s-par-de-fausses-alertes-%C3%A0-la-bombe",
+   "source": "France 24",
+   "date": "2026-11-05T14:35:26+00:00",
+   "extrait": "Au moins 15 vols européens ont fait l'objet d'alertes à la bombe jeudi 5 novembre, et plusieurs appareils ont été escortés par des avions de chasse tandis que deux vols ont été déroutés, d'après les…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "89284e2c8fc7",
+   "titre": "Europe : le trafic aérien de perturbé après plusieurs alertes sécuritaires",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261105-europe-le-trafic-a%C3%A9rien-de-perturb%C3%A9-apr%C3%A8s-plusieurs-alertes-s%C3%A9curitaires",
+   "source": "France 24",
+   "date": "2026-11-05T14:34:03+00:00",
+   "extrait": "Le procureur de la République, Rémi Coutin, a annoncé s'être rendu sur la base aérienne 105 de l'armée de l'air et de l'espace, à Évreux, où s'est finalement posé l'A320 jeudi 5 novembre dans la…",
+   "tags": [
+    "Conflits",
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "c4cf974385e7",
+   "titre": "Deadly Citibank shooting was likely a targeted attack, investigators say",
+   "lien": "https://www.cbsnews.com/video/citibank-shooting-that-killed-1-likely-a-targeted-attack-investigators-say/",
+   "source": "CBS News",
+   "date": "2026-11-05T14:30:40+00:00",
+   "extrait": "A shooter crashed a car and opened fire at Citibank's corporate campus, killing one person. CBS News' Cristian Benavides has more details.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "363930edbbdf",
+   "titre": "Ce que l’on sait des alertes à la bombe qui ont perturbé le trafic aérien en Europe",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/05/ce-que-l-on-sait-des-alertes-a-la-bombe-qui-ont-perturbe-le-trafic-aerien-en-europe_6806848_3211.html",
+   "source": "Le Monde",
+   "date": "2026-11-05T14:29:48+00:00",
+   "extrait": "A midi jeudi, douze vols avaient été visés par des alertes à la bombe, ont signalé plusieurs autorités et compagnies. Tous les vols se sont posés en sécurité, ont-elles confirmé.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "ac06689408ba",
+   "titre": "A bitter end for Ronaldo - the icon who transformed Portugal",
+   "lien": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-05T14:29:40+00:00",
+   "extrait": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "e470c9e1d35a",
+   "titre": "Watch: How rapist Brand was never far from controversy",
+   "lien": "https://www.bbc.co.uk/news/videos/c9dr8713zjgyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-05T14:28:21+00:00",
+   "extrait": "BBC correspondent Sima Kotecha explains how the trial unfolded.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "03a09f33759e",
+   "titre": "\"On espère mettre fin à cette épidémie\" d'Ebola : deux vaccins ouvrent une nouvelle piste d'espoir en RDC",
+   "lien": "https://www.franceinfo.fr/sante/maladie/ebola/on-espere-mettre-fin-a-cette-epidemie-d-ebola-deux-vaccins-ouvrent-une-nouvelle-piste-d-espoir-en-rdc_8268329.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-05T14:28:16+00:00",
+   "extrait": "L'OMS recommande de lancer des essais cliniques sur ces deux nouveaux vaccins. Une avancée porteuse d'espoir face à une épidémie qui a déjà fait plus de 5 300 morts et contre laquelle aucun vaccin…",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "7c373f921f13",
+   "titre": "Midterms 2026 : l’argent d’Elon Musk n’a pas suffi à garder le Texas dans le giron républicain",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/05/midterms-2026-l-argent-d-elon-musk-n-a-pas-suffi-a-garder-le-texas-dans-le-giron-republicain_6806937_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-05T14:21:11+00:00",
+   "extrait": "L’homme le plus riche du monde a engagé près d’un demi-milliard de dollars dans l’espoir de stopper la vague démocrate, en vain. Les sommes dépensées en politique aux Etats-Unis n’ont cessé d’enfler…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "4a05bc4c7f7f",
+   "titre": "Mississippi, Alaska Senate races still up in the air, results may bolster Democratic blue wave",
+   "lien": "https://www.cbsnews.com/video/mississippi-alaska-senate-races-still-up-in-the-air/",
+   "source": "CBS News",
+   "date": "2026-11-05T14:17:00+00:00",
+   "extrait": "Two Senate seats are still up for grabs as Alaska and Mississippi tally votes. Sabato's Crystal Ball managing editor Kyle Kondik shares his analysis.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "b7bbe7b5e17a",
+   "titre": "Un avion reliant Dublin à Rome dérouté vers la base d'Evreux après une alerte à la bombe",
+   "lien": "https://www.franceinfo.fr/france/un-avion-de-ligne-a320-reliant-dublin-a-rome-a-ete-deroute-vers-la-base-aerienne-d-evreux-a-la-suite-d-une-alerte-a-la-bombe-annonce-matignon_8268986.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-05T14:15:24+00:00",
+   "extrait": "Une dizaine de vols commerciaux en Europe avaient été visés mardi par des alertes à la bombe qui se sont révélées fausses selon les autorités des pays concernés.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "2845cb378de9",
+   "titre": "At least 15 European flights receive bomb threats in a single day",
+   "lien": "https://www.cbsnews.com/video/at-least-15-european-flights-receive-bomb-threats-in-a-single-day/",
+   "source": "CBS News",
+   "date": "2026-11-05T14:13:48+00:00",
+   "extrait": "At least 15 commercial European flights received bomb threats Thursday, bringing the week's total to more than 20. Holly Williams reports.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "166b21e3adb8",
+   "titre": "Democrats prepare to take Congress as GOP grapples with stunning losses",
+   "lien": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
+   "source": "CBS News",
+   "date": "2026-11-05T14:12:30+00:00",
+   "extrait": "After Democrats' sweeping House and Senate victories, the party is laying out how it plans to wield power, while President Trump and Republicans react to their midterm losses.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "7fd4c5e94b20",
+   "titre": "Iran says U.S. election results show Americans reject the war",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/",
+   "source": "CBS News",
+   "date": "2026-11-05T14:10:42+00:00",
+   "extrait": "As the war Trump launched with Israel against Iran drags into month nine, he acknowledges its role in the GOP's election defeat but says he'd have done it anyway.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "3b6e020f2353",
+   "titre": "Mississippi Senate race is toss-up, with razor-thin margin",
+   "lien": "https://www.cbsnews.com/news/mississippi-senate-race-results-2026-midterms/",
+   "source": "CBS News",
+   "date": "2026-11-05T14:08:54+00:00",
+   "extrait": "The Senate race in deep-red Mississippi remains unresolved Thursday morning, as Democrat Scott Colom has mounted a surprisingly competitive challenge to incumbent Sen. Cindy Hyde-Smith.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "cba85f088361",
+   "titre": "Zelenskyy hopes U.S. Democrats will bolster Ukraine support as citizens make due without water",
+   "lien": "https://www.cbsnews.com/video/zelenskyy-reacts-to-us-midterm-results/",
+   "source": "CBS News",
+   "date": "2026-11-05T14:08:36+00:00",
+   "extrait": "Ukraine's President Volodymyr Zelenskyy says he hopes that the results of the U.S. midterms will generate additional support for Ukraine. CBS News' Aidan Stretch reports.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "b448c90d3002",
+   "titre": "Republicans reckon with stunning midterm losses as Democrats gear up to take Congress",
+   "lien": "https://www.cbsnews.com/video/republicans-reckon-with-stunning-midterm-losses-as-democrats-gear-up-to-take-congress/",
+   "source": "CBS News",
+   "date": "2026-11-05T14:03:07+00:00",
+   "extrait": "Republicans are grappling with major midterm losses as Democrats prepare to take control of Congress after crushing victories. Nancy Cordes, Ed O'Keefe and Kelly O'Grady report.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
   },
   {
    "id": "25c9cc372448",
@@ -42,21 +432,36 @@
    "zone": "usa"
   },
   {
-   "id": "b7bbe7b5e17a",
-   "titre": "Un avion de ligne A320 reliant Dublin à Rome a été dérouté vers la base aérienne d'Evreux à la suite d'une alerte à la bombe, annonce Matignon",
-   "lien": "https://www.franceinfo.fr/france/un-avion-de-ligne-a320-reliant-dublin-a-rome-a-ete-deroute-vers-la-base-aerienne-d-evreux-a-la-suite-d-une-alerte-a-la-bombe-annonce-matignon_8268986.html#xtor=RSS-3-[lestitres]",
+   "id": "012b039d441a",
+   "titre": "Des milliers de cas confirmés, plusieurs morts en Pennsylvanie, une vaccination en recul... Ce que l'on sait de l'épidémie de rougeole aux Etats-Unis",
+   "lien": "https://www.franceinfo.fr/sante/maladie/des-milliers-de-cas-confirmes-plusieurs-morts-en-pennsylvanie-une-vaccination-en-recul-ce-que-l-on-sait-de-l-epidemie-de-rougeole-aux-etats-unis_8269070.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-11-05T13:57:38+00:00",
-   "extrait": "Une dizaine de vols commerciaux en Europe avaient été visés mardi par des alertes à la bombe qui se sont révélées fausses selon les autorités des pays concernés.",
-   "tags": [],
+   "date": "2026-11-05T13:57:37+00:00",
+   "extrait": "Au 29 octobre, 4 852 cas confirmés de cette maladie grave et contagieuse avaient été décomptés dans le pays, soit déjà plus du double que sur toute l'année 2025. Entre 2020 et 2024, le nombre de cas…",
+   "tags": [
+    "Santé"
+   ],
    "zone": "france"
+  },
+  {
+   "id": "f1f826739a4b",
+   "titre": "Les images de destruction à Gaza remplacées sur Apple Plans ? Retour sur une confusion",
+   "lien": "https://www.france24.com/fr/moyen-orient/20261105-images-de-destruction-gaza-remplac%C3%A9es-sur-apple-plans-retour-sur-une-confusion",
+   "source": "France 24",
+   "date": "2026-11-05T13:57:04+00:00",
+   "extrait": "Depuis début novembre, le service de cartographie d'Apple, Apple Plans, est accusé d'avoir remplacé ses images satellite de Gaza par des images d'avant la guerre. En réalité, il ne les a simplement…",
+   "tags": [
+    "Conflits",
+    "Tech"
+   ],
+   "zone": "monde"
   },
   {
    "id": "595136daa071",
    "titre": "Trump says Republicans losing the midterms due to Iran war is \"largely true\"",
    "lien": "https://www.cbsnews.com/video/trump-says-its-largely-true-gop-lost-power-due-to-iran-war/",
    "source": "CBS News",
-   "date": "2026-11-05T13:53:41+00:00",
+   "date": "2026-11-05T13:53:00+00:00",
    "extrait": "President Trump agreed with Vice President JD Vance that the Iran war may have cost Republicans during the 2026 midterm elections. CBS News' Olivia Rinaldi and Aaron MacLean have more details.",
    "tags": [
     "Politique",
@@ -85,6 +490,30 @@
    "extrait": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
    "tags": [],
    "zone": "monde"
+  },
+  {
+   "id": "f83cf5c4d19d",
+   "titre": "Alain Chamfort évoque le deuil des proches emportés par Alzheimer dans une chanson poignante, \"L'Absurdité\"",
+   "lien": "https://www.franceinfo.fr/culture/musique/chanson-francaise/alain-chamfort-evoque-le-deuil-des-proches-emportes-par-alzheimer-dans-une-chanson-poignante-l-absurdite_8269073.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-05T13:45:31+00:00",
+   "extrait": "Le titre inédit a été dévoilé le 30 octobre, cosigné par le chanteur et par l'un de ses auteurs, Pierre-Dominique Burgaud. Chacun d'entre eux a perdu sa mère des suites de cette maladie.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "aa74ed69c42f",
+   "titre": "Un adolescent de 16 ans blessé par arme blanche par un autre élève majeur, en marge d'un blocage devant un lycée de La Courneuve",
+   "lien": "https://www.franceinfo.fr/faits-divers/un-adolescent-de-16-ans-blesse-par-arme-blanche-par-un-autre-eleve-majeur-en-marge-d-un-blocage-devant-un-lycee-de-la-courneuve_8269352.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-05T13:45:13+00:00",
+   "extrait": "Le mis en cause a été interpellé et placé en garde à vue, selon le parquet de Bobigny. Cette agression fait suite à un différend sur des feux de poubelles.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
   },
   {
    "id": "69e0c50fb56e",
@@ -120,6 +549,16 @@
    "zone": "france"
   },
   {
+   "id": "4079252eb55e",
+   "titre": "La famille de Quentin Deranque dénonce une conférence du député LFI Raphaël Arnault à Villeurbanne",
+   "lien": "https://www.franceinfo.fr/faits-divers/mort-de-quentin-militant-identitaire-agresse-a-lyon/la-famille-de-quentin-deranque-denonce-une-conference-du-depute-lfi-raphael-arnault-a-villeurbanne_8269316.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-05T13:27:05+00:00",
+   "extrait": "Dans un communiqué, elle regrette \"que la dignité et la décence n'aient pas conduit\" l'élu insoumis \"à tenir sa réunion publique hors de l'agglomération\" où le militant d'extrême droite a été tué.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "1a5ea3c32072",
    "titre": "Trump's lawyers to argue appeal in \"hush money\" case",
    "lien": "https://www.cbsnews.com/news/trump-hush-money-conviction-appeal/",
@@ -129,16 +568,6 @@
    "tags": [
     "Politique"
    ],
-   "zone": "usa"
-  },
-  {
-   "id": "fb4a2125b050",
-   "titre": "Hoax bomb threats affect at least 25 European flights in a week",
-   "lien": "https://www.cbsnews.com/news/europe-flights-airlines-hoax-bomb-threats/",
-   "source": "CBS News",
-   "date": "2026-11-05T13:19:00+00:00",
-   "extrait": "At least 18 flights in Europe deal with bomb threats, adding to what one expert calls an unusual level of hoaxes in a short time period, suggesting \"a very deliberate act.\"",
-   "tags": [],
    "zone": "usa"
   },
   {
@@ -176,43 +605,6 @@
    "zone": "france"
   },
   {
-   "id": "ba26403f95e1",
-   "titre": "France holds new strikes and protests as unions demand immediate answers",
-   "lien": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-05T13:04:04+00:00",
-   "extrait": "Five of France's unions join a wave of strikes and protests in a national day of action.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "7fd4c5e94b20",
-   "titre": "Iran says U.S. election results show Americans reject the war",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/",
-   "source": "CBS News",
-   "date": "2026-11-05T13:02:27+00:00",
-   "extrait": "As the war Trump launched with Israel against Iran drags into month nine, he acknowledges its role in the GOP's election defeat but says he'd have done it anyway.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "166b21e3adb8",
-   "titre": "Democrats prepare to take Congress as GOP grapples with stunning losses",
-   "lien": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
-   "source": "CBS News",
-   "date": "2026-11-05T13:01:53+00:00",
-   "extrait": "After Democrats' sweeping House and Senate victories, the party is laying out how it plans to wield power, while President Trump and Republicans react to their midterm losses.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "25b43f2449e0",
    "titre": "Sabotage de câbles en mer Baltique : un capitaine russe et un membre d’équipage condamnés en Finlande",
    "lien": "https://www.lemonde.fr/international/article/2026/11/05/sabotage-de-cables-en-mer-baltique-un-capitaine-russe-et-un-membre-d-equipage-condamnes-en-finlande_6806868_3210.html",
@@ -238,11 +630,11 @@
   },
   {
    "id": "c5c895b61d08",
-   "titre": "EN DIRECT, grève du 5 novembre : près de 10 % de grévistes dans la fonction publique d’Etat ; « une centaine d’écoles fermées » à Paris",
+   "titre": "EN DIRECT, grève du 5 novembre : à Paris, le cortège coupé en deux à cause de la présence de black bloc, après un début dans le calme",
    "lien": "https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-les-corteges-se-deroulent-globalement-bien-rapporte-l-entourage-de-laurent-nunez-qui-denombre-270-000-manifestants-hors-paris_6806775_823448.html",
    "source": "Le Monde",
    "date": "2026-11-05T12:55:32+00:00",
-   "extrait": "« Les cortèges se déroulent globalement bien », rapporte l’entourage de Laurent Nuñez, qui dénombre 270 000 personnes dans 180 manifestations, hors Paris. La CGT a recensé jeudi, à 13 heures, « plus…",
+   "extrait": "« Les cortèges se déroulent globalement bien », rapporte l’entourage de Laurent Nuñez, qui dénombre 270 000 personnes dans 180 manifestations, hors Paris. Dans la capitale, le cortège s’est élancé à…",
    "tags": [],
    "zone": "france"
   },
@@ -273,14 +665,13 @@
   },
   {
    "id": "1c246cb7da40",
-   "titre": "EN DIRECT, guerre en Ukraine : l’importation de gazole russe aux Etats-Unis tourne court",
+   "titre": "EN DIRECT, guerre en Ukraine : les forces russes progressent à Kostiantynivka, selon DeepState",
    "lien": "https://www.lemonde.fr/international/live/2026/11/05/en-direct-guerre-en-ukraine-l-importation-de-gazole-russe-aux-etats-unis-tourne-court_6803934_3210.html",
    "source": "Le Monde",
-   "date": "2026-11-05T12:39:31+00:00",
-   "extrait": "« Deux des trois cargaisons de diesel russe à destination des Etats-Unis ont été déroutées », a déclaré Matt Smith, analyste chez Kpler. Mikie Sherrill, gouverneure du New Jersey, a demandé aux…",
+   "date": "2026-11-05T12:39:29+00:00",
+   "extrait": "L’armée russe a récemment gagné du terrain dans le nord-ouest de Kostiantynivka, ville située à la pointe méridionale de la « ceinture fortifiée » de l’oblast de Donetsk assiégée depuis un an, selon…",
    "tags": [
-    "Conflits",
-    "Justice"
+    "Conflits"
    ],
    "zone": "france"
   },
@@ -330,7 +721,7 @@
   },
   {
    "id": "5f4215acab76",
-   "titre": "Afrique du sud : l’ANC au pouvoir en danger lors des municipales",
+   "titre": "Afrique du Sud : l’ANC au pouvoir en danger lors des municipales",
    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261105-afrique-du-sud-l-anc-au-pouvoir-en-danger-lors-des-municipales",
    "source": "France 24",
    "date": "2026-11-05T12:20:54+00:00",
@@ -422,18 +813,6 @@
    "zone": "usa"
   },
   {
-   "id": "3b6e020f2353",
-   "titre": "Mississippi Senate race is toss-up, with razor-thin margin",
-   "lien": "https://www.cbsnews.com/news/mississippi-senate-race-results-2026-midterms/",
-   "source": "CBS News",
-   "date": "2026-11-05T12:00:55+00:00",
-   "extrait": "The Senate race in deep-red Mississippi remains unresolved Wednesday morning, as Democrat Scott Colom has mounted a surprisingly competitive challenge to incumbent Sen. Cindy Hyde-Smith.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "21813886a138",
    "titre": "Comment affirmer l'humanité ? Parlons-en avec le grand philosophe Souleymane Bachir Diagne",
    "lien": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20261105-comment-affirmer-l-humanit%C3%A9-parlons-en-avec-le-grand-philosophe-souleymane-bachir-diagne",
@@ -487,6 +866,19 @@
    "extrait": "L'œuvre du peintre impressionniste est apparue pour la dernière fois lors d'une vente à Londres en 2024.",
    "tags": [],
    "zone": "france"
+  },
+  {
+   "id": "480691fc2fe8",
+   "titre": "Sen. Gillibrand says Democrats must end Iran war, hold Trump accountable. But how?",
+   "lien": "https://www.npr.org/2026/11/05/nx-s1-6028837/kirsten-gillibrand-democrats-congress-priorities",
+   "source": "NPR",
+   "date": "2026-11-05T11:45:30+00:00",
+   "extrait": "Sen. Kirsten Gillibrand spoke with Morning Edition about Democrats' priorities, from lowering costs to ending the Iran war. But questions remain about how they'll deliver.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
   },
   {
    "id": "cd9daaefbbe9",
@@ -1379,8 +1771,8 @@
    "titre": "All the House districts that flipped in the midterm elections",
    "lien": "https://www.cbsnews.com/news/house-districts-flipped-2026-midterm-elections/",
    "source": "CBS News",
-   "date": "2026-11-05T04:32:12+00:00",
-   "extrait": "Democrats won control of the House on Tuesday by flipping more than two dozen Republican-held seats, picking up perennial swing districts and seats that were once considered deep-red.",
+   "date": "2026-11-05T04:32:00+00:00",
+   "extrait": "Democrats won control of the House on Tuesday by flipping more than two dozen Republican-held seats, picking up perennial swing districts and seats that were once considered deep red.",
    "tags": [
     "Politique"
    ],
@@ -2415,6 +2807,16 @@
    "zone": "usa"
   },
   {
+   "id": "f65c39ef574c",
+   "titre": "Le Crédit Mutuel Arkéa victime d'un piratage de plus de 100 millions d'euros sans répercussion pour les clients",
+   "lien": "https://www.franceinfo.fr/economie/fraude/le-credit-mutuel-arkea-bretagne-victime-d-un-piratage-de-plus-de-100-millions-d-euros-sans-repercussion-pour-les-clients_8267399.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-04T20:33:37+00:00",
+   "extrait": "\"Par mesure de précaution\", certaines transactions ont été temporairement suspendues, a expliqué la banque. Les clients ne sont pas concernés et l'incident est désormais maîtrisé, selon l'entreprise.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "4d28949ab239",
    "titre": "Agression dans une école à Nice : l’autrice mise en examen pour tentative de meurtre et écrouée",
    "lien": "https://www.lemonde.fr/societe/article/2026/11/04/agression-dans-une-ecole-a-nice-l-autrice-mise-en-examen-pour-tentative-de-meurtre-et-ecrouee_6805601_3225.html",
@@ -3086,406 +3488,6 @@
    "tags": [
     "Politique",
     "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "ac29e12c6e89",
-   "titre": "Dans l'Oise, une femme de 57 ans tuée par balles, son beau-frère placé en garde à vue",
-   "lien": "https://www.franceinfo.fr/faits-divers/dans-l-oise-une-femme-de-57-ans-tuee-par-balles-son-beau-frere-place-en-garde-a-vue_8268101.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-04T16:58:23+00:00",
-   "extrait": "\"Les circonstances précises des tirs et le mobile du passage à l'acte ne sont pas encore connus\", déclare le procureur de la République de Beauvais.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "3c205b47d3d6",
-   "titre": "Ukraine says \"insane attack\" on aid center may have killed 70",
-   "lien": "https://www.cbsnews.com/news/ukraine-russia-war-zelenskyy-aid-center-attack-death-toll/",
-   "source": "CBS News",
-   "date": "2026-11-04T16:53:54+00:00",
-   "extrait": "Ukraine's president says an \"insane attack\" by Russia on an aid distribution center may have killed 70 people, as he renews his plea for air defenses.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "927c41800377",
-   "titre": "A BFM-TV, des journalistes s’inquiètent de la « banalisation de certains propos racistes » à l’antenne et réclament des « mesures concrètes » de la direction",
-   "lien": "https://www.lemonde.fr/actualite-medias/article/2026/11/04/a-bfm-tv-des-journalistes-s-inquietent-de-la-banalisation-de-certains-propos-racistes-a-l-antenne-et-reclament-des-mesures-concretes-de-la-direction_6806368_3236.html",
-   "source": "Le Monde",
-   "date": "2026-11-04T16:53:16+00:00",
-   "extrait": "Dans une lettre à la direction signée par 200 journalistes, la SDJ appelle à « couper avec cette image de chaîne raciste qui ne représente absolument pas [leurs] convictions ». Certaines mesures ont…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "6394a8448d6d",
-   "titre": "\"Vous êtes tous trop durs avec moi\" : les confidences d'Emmanuel Macron dévoilées dans un livre choc de l'éditorialiste de gauche Françoise Degois",
-   "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/vous-etes-tous-trop-durs-avec-moi-les-confidences-d-emmanuel-macron-devoilees-dans-un-livre-choc-de-l-editorialiste-de-gauche-francoise-degois_8267477.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-04T16:52:28+00:00",
-   "extrait": "L'ancienne conseillère de Ségolène Royal publie ses échanges privés avec le chef de l'Etat, dans lesquels il se confie entre autres sur la dissolution, le Rassemblement national, Gabriel Attal ou…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "66d29c285b85",
-   "titre": "Avec la cyberattaque au Crédit mutuel Arkéa, les banques européennes prennent conscience de l’ampleur de leur vulnérabilité",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/04/avec-la-cyberattaque-au-credit-mutuel-arkea-les-banques-europeennes-prennent-conscience-de-l-ampleur-de-leur-vulnerabilite_6806367_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-04T16:51:29+00:00",
-   "extrait": "Les pirates informatiques sont parvenus à dérober une partie des fonds propres d’Arkéa. Une attaque inédite dans la finance européenne.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "104e3691d4fc",
-   "titre": "Au procès des parents de la \"petite martyre de l'A10\", l'audience suspendue après un malaise de l'accusée dans la salle",
-   "lien": "https://www.franceinfo.fr/faits-divers/martyre-de-l-a10/martyre-de-l-a10-l-audience-suspendue-apres-un-malaise-de-l-accusee-dans-la-salle_8267966.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-04T16:47:07+00:00",
-   "extrait": "Halima El Bakhti est jugée depuis lundi devant la cour d'assises du Loir-et-Cher à Blois pour torture et actes de barbarie ayant entraîné la mort sans intention de la donner. Elle s'est écroulée…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "3c7f064f6a03",
-   "titre": "Vance blames Iran conflict for GOP defeats: \"The reason we lost is the war\"",
-   "lien": "https://www.cbsnews.com/news/jd-vance-2026-midterms-iran/",
-   "source": "CBS News",
-   "date": "2026-11-04T16:41:41+00:00",
-   "extrait": "\"If you'd like to argue it was worth it, that losing the Senate for the next 6 years was worth it, then do so,\" Vice President JD Vance said.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "f65c39ef574c",
-   "titre": "Le Crédit Mutuel Arkéa victime d'un piratage de plus de 100 millions d'euros, sans répercussions pour les clients",
-   "lien": "https://www.franceinfo.fr/economie/fraude/le-credit-mutuel-arkea-bretagne-victime-d-un-piratage-de-plus-de-100-millions-d-euros-sans-repercussion-pour-les-clients_8267399.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-04T16:41:11+00:00",
-   "extrait": "\"Par mesure de précaution\", certaines transactions ont été temporairement suspendues, a expliqué la banque. Les clients ne sont pas concernés et l'incident est désormais maîtrisé, selon l'entreprise.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "19d86bd3cf57",
-   "titre": "'Most difficult days of my life' for keeper Owono",
-   "lien": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-04T16:40:38+00:00",
-   "extrait": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "0d491d7395d5",
-   "titre": "Frantic 911 call from hero dad who killed school shooter released",
-   "lien": "https://www.cbsnews.com/news/oregon-school-shooting-hero-dad-911-call/",
-   "source": "CBS News",
-   "date": "2026-11-04T16:38:48+00:00",
-   "extrait": "The armed father who was hailed for his heroic actions​ during a deadly shooting​ at his daughters' elementary school in Oregon frantically called authorities before he went after the shooter.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "2ee10c358da7",
-   "titre": "911 audio reveals moments father decided to enter Bend elementary school to disarm shooter",
-   "lien": "https://www.cbsnews.com/video/911-audio-reveals-moments-father-decided-to-enter-bend-elementary-school-to-disarm-shooter/",
-   "source": "CBS News",
-   "date": "2026-11-04T16:36:54+00:00",
-   "extrait": "Newly obtained audio of the 911 call made by the man who disarmed and killed the elementary school shooter in Bend, Oregon, reveals the tense moments before he ran into the mayhem. Carter Evans…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "925c42f55ff3",
-   "titre": "Midterms : changements en vue en Afrique ?",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/le-rendez-vous-afrique/20261104-midterms-changement-en-vue-en-afrique",
-   "source": "France 24",
-   "date": "2026-11-04T16:36:46+00:00",
-   "extrait": "Après la victoire des démocrates aux élections américaines, la politique africaine de la Maison Blanche va_t-elle évoluer ? Le retour au pouvoir de Donald Trump a eu des conséquences très concrètes…",
-   "tags": [
-    "Politique",
-    "Santé"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "27b71ce92652",
-   "titre": "Elise Stefanik, Jasmine Crockett break down Democrats' blue wave in midterms",
-   "lien": "https://www.cbsnews.com/video/elise-stefanik-jasmine-crockett-break-down-democrats-blue-wave-midterms/",
-   "source": "CBS News",
-   "date": "2026-11-04T16:35:36+00:00",
-   "extrait": "Texas Democratic Rep. Jasmine Crockett and New York Republican Rep. Elise Stefanik share their thoughts on the midterm elections.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "33899efb0854",
-   "titre": "The young politicians with African roots making history in the US midterms",
-   "lien": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-04T16:34:32+00:00",
-   "extrait": "For some young Africans, these victories offer a glimpse of what a new generation of voters could do at home.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "120a40020b07",
-   "titre": "Mort de Jesus de Miguel : \"Ces derniers jours sont les plus difficiles de ma vie\", assure le gardien impliqué dans le choc mortel",
-   "lien": "https://www.franceinfo.fr/sports/foot/liga/mort-de-jesus-de-miguel-ces-derniers-jours-sont-les-plus-difficiles-de-ma-vie-assure-le-gardien-implique-dans-le-choc-mortel_8267993.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-04T16:33:47+00:00",
-   "extrait": "Fautif dans la violente collision qui a coûté la vie au joueur espagnol, Jesus Owono a présenté ses condoléances, mercredi, dans un communiqué publié par son club.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "5912c3a2ffcf",
-   "titre": "Corruption, dossier Epstein... les démocrates préparent une série d'enquêtes sur le clan Trump",
-   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261104-corruption-dossier-epstein-d%C3%A9mocrates-pr%C3%A9parent-s%C3%A9rie-enqu%C3%AAtes-clan-trump-midterms-congr%C3%A8s",
-   "source": "France 24",
-   "date": "2026-11-04T16:33:34+00:00",
-   "extrait": "Devenu majoritaire au Congrès, le Parti démocrate a désormais les coudées franches pour lancer des enquêtes parlementaires sur l’administration Trump, sur fond d'enrichissement personnel du clan…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "a645e4a1ff41",
-   "titre": "Les deux départements corses placés en vigilance orange \"pluie-inondations\" jeudi",
-   "lien": "https://www.franceinfo.fr/environnement/meteo/les-deux-departements-corses-places-en-vigilance-orange-pluie-inondations-a-partir-de-jeudi-matin_8267861.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-04T16:31:18+00:00",
-   "extrait": "De fortes précipitations sont attendues notamment sur la façade orientale de l'île, avec des cumuls qui devraient dépasser les 200 mm.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "f484c360fce8",
-   "titre": "« Ninho : le prix à payer », sur Netflix : retour sur la carrière fulgurante d’une star du rap français",
-   "lien": "https://www.lemonde.fr/culture/article/2026/11/04/ninho-le-prix-a-payer-sur-netflix-retour-sur-la-carriere-fulgurante-d-une-star-du-rap-francais_6806359_3246.html",
-   "source": "Le Monde",
-   "date": "2026-11-04T16:30:09+00:00",
-   "extrait": "Dans ce documentaire réalisé par Thibaut de Longeville et Yanis Tiliouine, le rappeur qui a rempli deux fois le Stade de France raconte les coulisses sordides de son succès.",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c1aca974f21b",
-   "titre": "Plane parts found miles from Florida crash site",
-   "lien": "https://www.cbsnews.com/video/plane-parts-found-miles-from-florida-crash-site/",
-   "source": "CBS News",
-   "date": "2026-11-04T16:26:55+00:00",
-   "extrait": "Parts of the plane that crashed in Florida, killing nine people, were found miles from where it hit the ground, officials said. Cristian Benavides reports.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "ca70ab29b22d",
-   "titre": "French blood storage impacted by freezer hacks as theories swirl about culprits",
-   "lien": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-04T16:26:15+00:00",
-   "extrait": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "97a6883eb1a3",
-   "titre": "Éthiopie : Des milliers de déplacés privés d’aides humanitaires",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261104-%C3%A9thiopie-des-milliers-de-d%C3%A9plac%C3%A9s-priv%C3%A9s-d-aides-humanitaires",
-   "source": "France 24",
-   "date": "2026-11-04T16:20:09+00:00",
-   "extrait": "La reprise du conflit en Ethiopie a provoqué le déplacement de milliers de civils. Mais après des années de guerre et des coupes budgétaires drastiques, les organisations humanitaires se font rares…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "93a89f8f1c63",
-   "titre": "Adam Schiff says Democrats' first priority should be \"tackling corruption\"",
-   "lien": "https://www.cbsnews.com/video/adam-schiff-says-democrats-first-priority-should-be-tackling-corruption/",
-   "source": "CBS News",
-   "date": "2026-11-04T16:20:01+00:00",
-   "extrait": "California Sen. Adam Schiff told Kris Van Cleave that he believes Democrats' top priority should be \"tackling corruption\" after a blue wave swept Tuesday's midterm elections.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "6c3f25681536",
-   "titre": "Deepfakes, fake news sur X, fausses vidéos… Comment les fausses informations ont inondé la campagne des midterms 2026",
-   "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/deepfakes-fake-news-sur-x-fausses-videos-comment-les-fausses-informations-ont-inonde-la-campagne-des-midterms-2026_8267981.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-04T16:18:34+00:00",
-   "extrait": "Ces fausses informations sont venues en majorité du camp républicain mais parfois aussi du camp démocrate, ainsi que de puissances étrangères.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "812f6529ab85",
-   "titre": "Israel's president begins consultations with parties after election deadlock",
-   "lien": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-04T16:18:21+00:00",
-   "extrait": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "c3fe8f99d1fa",
-   "titre": "Midterms : \"Trump n'est plus une machine à gagner\" pour les républicains",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-tump-n-est-plus-une-machine-%C3%A0-gagner-pour-les-r%C3%A9publicains",
-   "source": "France 24",
-   "date": "2026-11-04T16:16:52+00:00",
-   "extrait": "Analyse de notre chroniqueur Gauthier Rybinski.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "5e1f4c0e290d",
-   "titre": "EN DIRECT, midterms 2026 : pour son premier discours après une défaite historique, Trump parle de sa salle de bal à la Maison Blanche",
-   "lien": "https://www.lemonde.fr/international/live/2026/11/04/en-direct-midterms-2026-le-vice-president-j-d-vance-considere-que-la-guerre-en-iran-est-la-raison-pour-laquelle-le-parti-republicain-a-perdu_6805528_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-04T16:16:12+00:00",
-   "extrait": "A la Maison Blanche, le président américain a réservé ses premières remarques à son projet de rénovation. Quelques heures avant, son vice-président a déclaré que « la véritable raison pour laquelle…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "e968b2db521b",
-   "titre": "Hackers can hijack grocery store freezers. What about our homes?",
-   "lien": "https://www.cbsnews.com/news/europe-freezer-hack-cybercrime-are-smart-devices-vulnerable/",
-   "source": "CBS News",
-   "date": "2026-11-04T16:09:00+00:00",
-   "extrait": "Large-scale hacks targeting grocery stores in Europe and France's blood banks are renewing concerns about the vulnerabilities of everyday \"smart\" devices.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "6349107ac62f",
-   "titre": "Kansas just elected a Democrat. His message to Washington? Be decent",
-   "lien": "https://www.npr.org/2026/11/04/nx-s1-6028587/adam-hamilton-kansas-senate-political-divides",
-   "source": "NPR",
-   "date": "2026-11-04T16:08:41+00:00",
-   "extrait": "The Methodist pastor who flipped a Republican Senate seat says voters want more than political change. He tells NPR what he heard from Kansans about decency, faith and finding common ground.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "21945ebce021",
-   "titre": "Adam Hamilton says he wants to spend his time in Senate \"helping the people in Kansas\"",
-   "lien": "https://www.cbsnews.com/video/adam-hamilton-says-he-wants-to-spend-his-time-in-senate-helping-the-people-in-kansas/",
-   "source": "CBS News",
-   "date": "2026-11-04T16:03:23+00:00",
-   "extrait": "Adam Hamilton, who became the first Democrat to win a Senate seat in Kansas since 1932, talks about how he won over voters in his state and what he plans to do when he enters office.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "3e07dc05c7fd",
-   "titre": "Présidentielle 2027 : le cinéma français appelle les candidats à protéger son modèle, notamment face aux menaces de l’extrême droite",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-le-cinema-francais-appelle-les-candidats-a-proteger-son-modele-notamment-face-aux-menaces-de-l-extreme-droite_6806324_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-04T16:00:30+00:00",
-   "extrait": "Un manifeste signé par quatre organisations majeures du secteur propose 12 engagements, parmi lesquels l’inscription de la « souveraineté culturelle française et européenne » dans la Constitution ou…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "0a0ba9b3fddf",
-   "titre": "Vote des jeunes, des minorités ethniques… Visualisez comment se sont prononcés les Américains lors des midterms",
-   "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/vote-des-jeunes-des-minorites-ethniques-visualisez-comment-se-sont-prononces-les-americains-lors-des-midterms_8267702.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-04T16:00:23+00:00",
-   "extrait": "Les jeunes et les Afro-Américains ont massivement rejeté le vote républicain à la Chambre des représentants et ont voté en faveur des démocrates, révèle un sondage commandé pour Associated Press.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "244c9b545860",
-   "titre": "Au Sénégal, la douloureuse mémoire des « années d’ajustement structurel » ressurgit après l’accord conclu avec le FMI",
-   "lien": "https://www.lemonde.fr/afrique/article/2026/11/04/au-senegal-la-douloureuse-memoire-des-annees-d-ajustement-structurel-ressurgit-apres-l-accord-conclu-avec-le-fmi_6806322_3212.html",
-   "source": "Le Monde",
-   "date": "2026-11-04T16:00:23+00:00",
-   "extrait": "Le 1er septembre, Dakar et l’institution de Bretton Woods ont trouvé un agrément en vue d’un programme d’aide de près de 1,9 milliard d’euros. Un accord qui rappelle l’époque des réformes…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "f069c71e5562",
-   "titre": "Le match entre Viking et Sabah, l’affiche la plus improbable de la saison de Ligue des champions",
-   "lien": "https://www.lemonde.fr/sport/article/2026/11/04/le-match-entre-viking-et-sabah-l-affiche-la-plus-improbable-de-la-saison-de-ligue-des-champions_6806321_3242.html",
-   "source": "Le Monde",
-   "date": "2026-11-04T16:00:20+00:00",
-   "extrait": "Le club norvégien de Stavanger accueille son homologue azerbaïdjanais, mercredi, dans le cadre de la 4ᵉ journée de la compétition européenne de football. Deux formations dont les entraîneurs sortent…",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "23686718a26f",
-   "titre": "Pourquoi les juges d’instruction ont décidé de renvoyer devant la cour d’assises spéciale l’assassin de Dominique Bernard",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/04/pourquoi-les-juges-d-instructions-ont-decide-de-renvoyer-devant-la-cour-d-assises-speciale-l-assassin-de-dominique-bernard_6806323_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-04T16:00:14+00:00",
-   "extrait": "Par ordonnance en date du 4 novembre, les juges d’instruction antiterroristes ont mis en accusation Mohammed Mogouchkov, Russe de 23 ans, devant la cour d’assises spécialement composée pour être…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "27912a97ff8d",
-   "titre": "En Suède, l’extrême droite se déchire sur la question de l’identité",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/04/en-suede-l-extreme-droite-se-dechire-sur-la-question-de-l-identite_6806320_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-04T16:00:03+00:00",
-   "extrait": "Alors que les discussions sont en cours pour tenter de former un nouveau gouvernement, les Démocrates de Suède (SD) se divisent sur les causes de leur échec aux législatives et sur la définition du…",
-   "tags": [
-    "Politique"
    ],
    "zone": "france"
   }
