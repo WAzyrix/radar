@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-05T20:05:40+00:00",
+ "maj": "2026-11-05T20:18:16+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,58 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "e5c1ef548a99",
+   "titre": "Newsom moves to commute all California death sentences",
+   "lien": "https://www.cbsnews.com/news/gavin-newsom-california-death-row-commuted-life-in-prison/",
+   "source": "CBS News",
+   "date": "2026-11-05T20:12:48+00:00",
+   "extrait": "The move does not repeal California's death penalty or prevent prosecutors from seeking it in future cases.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "a49f25ad0c4a",
+   "titre": "California governor commutes death sentences for all 548 people on death row",
+   "lien": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-05T20:12:03+00:00",
+   "extrait": "California has historically had the largest population of death row inmates in the US.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "b27f05d75945",
+   "titre": "LIV Golf shutting down after debtors bail and players head for exits",
+   "lien": "https://www.cbsnews.com/news/liv-golf-shutting-down-operations-bankruptcy/",
+   "source": "CBS News",
+   "date": "2026-11-05T20:09:37+00:00",
+   "extrait": "Bankrupt LIV Golf, which sought to disrupt professional golf, will wind down its operations after failing to secure funding.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "166b21e3adb8",
+   "titre": "Democrats prepare to take Congress as GOP grapples with stunning losses",
+   "lien": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
+   "source": "CBS News",
+   "date": "2026-11-05T20:09:21+00:00",
+   "extrait": "After Democrats' sweeping House and Senate victories, the party is laying out how it plans to wield power, while President Trump and Republicans react to their midterm losses.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "d480836da2d6",
+   "titre": "How to talk to your parents about end-of-life planning",
+   "lien": "https://www.cbsnews.com/news/how-to-talk-to-your-parents-about-end-of-life-planning/",
+   "source": "CBS News",
+   "date": "2026-11-05T20:09:21+00:00",
+   "extrait": "End-of-life planning can be difficult to discuss, but the right approach can make the conversation easier.",
+   "tags": [],
+   "zone": "usa"
+  },
   {
    "id": "7fd4c5e94b20",
    "titre": "Oil prices rebound slightly as Iran claims new attacks on ships",
@@ -77,6 +129,18 @@
    "zone": "monde"
   },
   {
+   "id": "d802f6db77ae",
+   "titre": "L'Olympique lyonnais accroche la Real Sociedad en Ligue Europa, au bout d'un duel âprement disputé",
+   "lien": "https://www.franceinfo.fr/sports/foot/ligue-europa/l-olympique-lyonnais-accroche-la-real-sociedad-en-ligue-europa-au-bout-d-un-duel-aprement-dispute_8269802.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-05T19:56:26+00:00",
+   "extrait": "Corentin Tolisso a égalisé pour les Lyonnais d'un superbe enchaînement, jeudi, à San Sebastian.",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "204eb13dc1c2",
    "titre": "Nithya Raman ousts incumbent Karen Bass in LA mayor's race, CBS News projects",
    "lien": "https://www.cbsnews.com/news/los-angeles-mayor-election-2026-nithya-raman-karen-bass/",
@@ -97,16 +161,6 @@
    "extrait": "Le Français, qui réalise une très belle saison, s'est qualifié pour les quarts de finale du Masters 1000 de Paris, jeudi, face à l'Italien qui a sorti le nouveau numéro un mondial au tour précédent…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "e5c1ef548a99",
-   "titre": "Newsom moves to commute all California death sentences",
-   "lien": "https://www.cbsnews.com/news/gavin-newsom-california-death-row-commuted-life-in-prison/",
-   "source": "CBS News",
-   "date": "2026-11-05T19:52:00+00:00",
-   "extrait": "The move does not repeal California's death penalty or prevent prosecutors from seeking it in future cases.",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "46dde36fc0fb",
@@ -179,18 +233,6 @@
     "Justice"
    ],
    "zone": "france"
-  },
-  {
-   "id": "166b21e3adb8",
-   "titre": "Democrats prepare to take Congress as GOP grapples with stunning losses",
-   "lien": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
-   "source": "CBS News",
-   "date": "2026-11-05T19:27:24+00:00",
-   "extrait": "After Democrats' sweeping House and Senate victories, the party is laying out how it plans to wield power, while President Trump and Republicans react to their midterm losses.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
   },
   {
    "id": "09901cac40b9",
@@ -499,7 +541,7 @@
    "titre": "L’ancien comédien britannique Russell Brand jugé coupable d’un viol et d’agressions sexuelles",
    "lien": "https://www.lemonde.fr/international/article/2026/11/05/l-ancien-comedien-britannique-russell-brand-juge-coupable-d-un-viol-et-d-agressions-sexuelles_6807325_3210.html",
    "source": "Le Monde",
-   "date": "2026-11-05T18:00:03+00:00",
+   "date": "2026-11-05T18:00:02+00:00",
    "extrait": "Six femmes l’accusaient de viols et d’agressions sexuelles entre 1999 et 2009, quand il était un célèbre humoriste et présentateur de télévision.",
    "tags": [
     "Justice"
@@ -530,6 +572,19 @@
     "Économie"
    ],
    "zone": "france"
+  },
+  {
+   "id": "c0beb4b56091",
+   "titre": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
+   "lien": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-05T17:57:57+00:00",
+   "extrait": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms",
+   "tags": [
+    "Économie",
+    "Tech"
+   ],
+   "zone": "monde"
   },
   {
    "id": "a0fc92baae63",
@@ -3402,60 +3457,6 @@
     "Conflits"
    ],
    "zone": "france"
-  },
-  {
-   "id": "1cab5adf2690",
-   "titre": "Republicans look for answers after Democrats' sweeping midterm wins",
-   "lien": "https://www.cbsnews.com/video/republicans-begin-pointing-fingers-as-democrats-hinojosa-donalds-more-score-historic-wins/",
-   "source": "CBS News",
-   "date": "2026-11-05T02:28:00+00:00",
-   "extrait": "Republicans are picking up the pieces after Democrats scored multiple historic wins in the midterms. CBS News' Zak Hudak reports and strategists Cameron French and Keith Sheridan join \"The Daily…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "6f8a733984e0",
-   "titre": "Republicans look for answers after Democrats' sweeping midterm wins",
-   "lien": "https://www.cbsnews.com/video/republicans-begin-pointing-fingers-as-democrats-sweep-midterm-wins/",
-   "source": "CBS News",
-   "date": "2026-11-05T02:28:00+00:00",
-   "extrait": "Republicans are picking up the pieces after Democrats scored multiple historic wins in the midterms. CBS News' Zak Hudak reports and strategists Cameron French and Keith Sheridan join \"The Daily…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "2b272e0cb08c",
-   "titre": "Mississippi Senate race still too close to call with 95% of ballots counted",
-   "lien": "https://www.cbsnews.com/video/mississippi-senate-race-too-close-to-call/",
-   "source": "CBS News",
-   "date": "2026-11-05T02:21:00+00:00",
-   "extrait": "The Mississippi Senate race between Scott Colom and Cindy Hyde-Smith is still too close to call the day after Tuesday's midterm elections. Austin Park, editor-in-chief at VoteHub, joins \"The Daily…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "361dcebeabfb",
-   "titre": "Alaska Senate race still undecided, Peltola and Sullivan separated by slim margin",
-   "lien": "https://www.cbsnews.com/video/alaska-senate-race-still-undecided-day-after-midterms-as-sullivan-peltola-controversy-lingers/",
-   "source": "CBS News",
-   "date": "2026-11-05T02:17:00+00:00",
-   "extrait": "Votes are still being counted in Alaska's Senate race between incumbent Republican Dan Sullivan and Democrat Mary Peltola. CBS News' Taurean Small reports.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "8fe19bb2da56",
-   "titre": "Pope Leo hosts Bob Dylan at official residence in Rome",
-   "lien": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-05T02:09:23+00:00",
-   "extrait": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
-   "tags": [],
-   "zone": "monde"
   }
  ]
 }
