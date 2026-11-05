@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-05T08:05:40+00:00",
+ "maj": "2026-11-05T09:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,44 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "d7f4bfc72d13",
+   "titre": "J'ai testé CottageCore, le jeu cosy d'une vieille connaissance",
+   "lien": "https://korben.info/cottagecore-village-david.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-05T08:27:13+00:00",
+   "extrait": "David Catuhe, le créateur de Babylon.js, sort CottageCore, un jeu de construction de village tout doux. J'y ai joué en bêta : c'est très chill, joli et ultra personnalisable, avec quelques accrocs à…",
+   "tags": []
+  },
+  {
+   "id": "eaceb2f31821",
+   "titre": "Pourquoi utiliser un VPN avec Starlink #sponso",
+   "lien": "https://korben.info/pourquoi-utiliser-un-vpn-avec-starlink.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-05T08:05:01+00:00",
+   "extrait": "Starlink fournit environ 150 Mbps, mais reste un FAI américain qui voit votre navigation, utilise du CGNAT (IP partagée, CAPTCHAs, blocages) et ne gère pas le VPN sur son routeur. Selon l'article…",
+   "tags": []
+  },
+  {
+   "id": "46b293118f5a",
+   "titre": "Wing Commander - Volez en coop dans votre navigateur",
+   "lien": "https://korben.info/wing-commander-coop-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-05T07:33:13+00:00",
+   "extrait": "Deux frères ont greffé une vraie coop sur le premier Wing Commander sous DOS à coups de dumps mémoire et de code détourné. Le projet a dormi six ans, et il se joue maintenant dans le navigateur avec…",
+   "tags": []
+  },
+  {
+   "id": "a665869d02d2",
+   "titre": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
+   "lien": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
+   "source": "The Hacker News",
+   "date": "2026-11-05T07:06:33+00:00",
+   "extrait": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets…",
+   "tags": [
+    "Faille"
+   ]
+  },
   {
    "id": "7c721745a9e0",
    "titre": "HatchZip - Décompresser une archive énorme sur un disque plein",
@@ -3395,52 +3433,6 @@
    "extrait": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
    "tags": [
     "IA"
-   ]
-  },
-  {
-   "id": "5d0e99bc982d",
-   "titre": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
-   "lien": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
-   "source": "The Hacker News",
-   "date": "2026-10-25T06:54:29+00:00",
-   "extrait": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models…",
-   "tags": [
-    "IA"
-   ]
-  },
-  {
-   "id": "10b0251915e8",
-   "titre": "Chimeraz revendique des fuites visant trois partis français, dont celui du groupe présidentiel",
-   "lien": "https://www.zataz.com/chimeraz-revendique-des-fuites-visant-trois-partis-francais/",
-   "source": "Zataz",
-   "date": "2026-10-24T23:00:29+00:00",
-   "extrait": "Chimeraz revendique des données annoncées comme volées aux partis politiques de Renaissance, LFI et du PCF.",
-   "tags": [
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "a6ce31709924",
-   "titre": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
-   "lien": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-   "source": "BleepingComputer",
-   "date": "2026-10-24T14:17:32+00:00",
-   "extrait": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "a0a9e49aec28",
-   "titre": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-   "lien": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-   "source": "The Hacker News",
-   "date": "2026-10-24T11:09:29+00:00",
-   "extrait": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, Microsoft's .NET, the Python Brotli and brotlicffi packages, and Envoy…",
-   "tags": [
-    "CVE",
-    "Faille",
-    "Windows"
    ]
   }
  ]
