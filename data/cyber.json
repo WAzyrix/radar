@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-05T15:05:40+00:00",
+ "maj": "2026-11-05T16:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,28 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "dad53d7e3ed5",
+   "titre": "Closing the Identity Gap at the Service Desk",
+   "lien": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
+   "source": "BleepingComputer",
+   "date": "2026-11-05T15:00:10+00:00",
+   "extrait": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional…",
+   "tags": []
+  },
+  {
+   "id": "59043a855535",
+   "titre": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+   "lien": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+   "source": "The Hacker News",
+   "date": "2026-11-05T14:41:10+00:00",
+   "extrait": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple…",
+   "tags": [
+    "Faille",
+    "Fuite de données",
+    "Outil"
+   ]
+  },
   {
    "id": "5d4d03269391",
    "titre": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
@@ -3409,29 +3431,6 @@
    "extrait": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
    "tags": [
     "Faille"
-   ]
-  },
-  {
-   "id": "ab1139486e2d",
-   "titre": "Vulnérabilité dans Mattermost Server (26 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1380/",
-   "source": "CERT-FR",
-   "date": "2026-10-26T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "9b86338548b6",
-   "titre": "Vulnérabilité dans les produits Microsoft (26 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1383/",
-   "source": "CERT-FR",
-   "date": "2026-10-26T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer une élévation de privilèges.",
-   "tags": [
-    "Faille",
-    "Windows"
    ]
   }
  ]
