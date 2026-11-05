@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-05T03:05:39+00:00",
+ "maj": "2026-11-05T04:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,16 +22,103 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "46dde36fc0fb",
+   "titre": "Democrats win Senate control — live updates",
+   "lien": "https://www.cbsnews.com/live-updates/senate-election-results-2026/",
+   "source": "CBS News",
+   "date": "2026-11-05T03:58:35+00:00",
+   "extrait": "Democrats were able to pick up the seats needed to gain control of the Senate, CBS News projects, and the party scored several upset victories in red states.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "c7e474119e67",
+   "titre": "Democrats win House majority with Trump approval at historic low",
+   "lien": "https://www.cbsnews.com/live-updates/house-election-results-2026/",
+   "source": "CBS News",
+   "date": "2026-11-05T03:58:16+00:00",
+   "extrait": "Democrats won control of the House in the 2026 midterm elections, CBS News projects, with victories in battleground districts across the country.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "79e2afd27123",
+   "titre": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+   "lien": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-05T03:56:16+00:00",
+   "extrait": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "08e5d38639a8",
+   "titre": "Did Republican efforts to redistrict the House turn into a dummymander?",
+   "lien": "https://www.cbsnews.com/news/dummymander-republican-redistricting-congress-trump/",
+   "source": "CBS News",
+   "date": "2026-11-05T03:55:51+00:00",
+   "extrait": "Republicans undertook a historic effort to redraw several states' Congressional districts mid-decade in an attempt to maintain control of the House.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "e8db9958c58d",
+   "titre": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+   "lien": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-05T03:47:56+00:00",
+   "extrait": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "eacf9ec3fb65",
    "titre": "Midterm fallout begins after Democrats win control of Congress",
    "lien": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/",
    "source": "CBS News",
-   "date": "2026-11-05T02:56:59+00:00",
+   "date": "2026-11-05T03:22:51+00:00",
    "extrait": "The impact of Democrats' sweeping victories in the 2026 midterm elections is already being felt in Washington. Follow live updates here.",
    "tags": [
     "Politique"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "997c37ada312",
+   "titre": "2 Native American women make history in midterms",
+   "lien": "https://www.cbsnews.com/news/deb-haaland-peggy-flanagan-native-american-women-make-history-midterms/",
+   "source": "CBS News",
+   "date": "2026-11-05T03:19:00+00:00",
+   "extrait": "In New Mexico, former Interior Secretary Deb Haaland was elected governor, making her the first Native American woman elected to lead a U.S. state. In Minnesota, Lt. Gov. Peggy Flanagan became the…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "883cb279c67a",
+   "titre": "Presidential historian calls Democrats' midterm wins \"history in the making\"",
+   "lien": "https://www.cbsnews.com/video/presidential-historian-breaks-down-significance-of-midterm-election/",
+   "source": "CBS News",
+   "date": "2026-11-05T03:06:10+00:00",
+   "extrait": "Presidential historian Douglas Brinkley joins \"The Daily Report\" to break down the significance of Democrats' sweeping midterm victories.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "63133f309464",
+   "titre": "La Corée du Sud va déployer sa marine près du détroit d'Ormuz pour en garantir la circulation",
+   "lien": "https://www.france24.com/fr/moyen-orient/20261105-coree-sud-va-deployer-marine-d%C3%A9troit-ormuz-pour-garantir-circulation-iran-moyen-orient-cheonghae-antipiraterie-deminage-defense-commerce",
+   "source": "France 24",
+   "date": "2026-11-05T03:03:30+00:00",
+   "extrait": "Séoul va élargir la zone d'opérations de l'unité antipiraterie Cheonghae de sa marine, et déployer un destroyer, un avion de patrouille maritime et une équipe de déminage près du détroit d'Ormuz, a…",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "39e74ce60623",
@@ -82,16 +169,6 @@
    "zone": "usa"
   },
   {
-   "id": "08e5d38639a8",
-   "titre": "Did Republican efforts to redistrict the House turn into a dummymander?",
-   "lien": "https://www.cbsnews.com/news/dummymander-republican-redistricting-congress-trump/",
-   "source": "CBS News",
-   "date": "2026-11-05T02:23:05+00:00",
-   "extrait": "Republicans undertook a historic effort to redraw several states' Congressional districts mid-decade in an attempt to maintain control of the House.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "2b272e0cb08c",
    "titre": "Mississippi Senate race still too close to call with 95% of ballots counted",
    "lien": "https://www.cbsnews.com/video/mississippi-senate-race-too-close-to-call/",
@@ -126,6 +203,16 @@
     "Politique"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "8fe19bb2da56",
+   "titre": "Pope Leo hosts Bob Dylan at official residence in Rome",
+   "lien": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-05T02:09:23+00:00",
+   "extrait": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "044625798bf9",
@@ -319,18 +406,6 @@
    "zone": "usa"
   },
   {
-   "id": "46dde36fc0fb",
-   "titre": "Democrats win Senate control — live updates",
-   "lien": "https://www.cbsnews.com/live-updates/senate-election-results-2026/",
-   "source": "CBS News",
-   "date": "2026-11-05T00:32:21+00:00",
-   "extrait": "Democrats were able to pick up the seats needed to gain control of the Senate, CBS News projects, and the party scored several upset victories in red states.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "b79f4a068fc0",
    "titre": "Talarico, Hinojosa win Texas for Democrats amid wide discontent over ICE tactics, more",
    "lien": "https://www.cbsnews.com/video/talarico-hinojosa-win-texas-for-democrats-amid-wide-discontent-over-ice-tactics-more/",
@@ -399,6 +474,18 @@
    "zone": "usa"
   },
   {
+   "id": "e626a6401717",
+   "titre": "Mother and daughter die after suspected grizzly bear attack in Canada",
+   "lien": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-04T23:50:40+00:00",
+   "extrait": "Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "3a032d267a67",
    "titre": "Le RC Lens subit « une humiliation » face à Côme en Ligue des champions et poursuit son début de saison tumultueux",
    "lien": "https://www.lemonde.fr/sport/article/2026/11/05/le-rc-lens-subit-une-humiliation-face-a-come-en-ligue-des-champions-et-poursuit-son-debut-de-saison-tumultueux_6806503_3242.html",
@@ -418,6 +505,18 @@
    "tags": [
     "Politique",
     "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "a2a87b2a0747",
+   "titre": "11/4: CBS Evening News",
+   "lien": "https://www.cbsnews.com/video/110426-cbs-evening-news/",
+   "source": "CBS News",
+   "date": "2026-11-04T23:30:00+00:00",
+   "extrait": "Trump reacts to midterms defeat; Talarico, Hinojosa win Texas.",
+   "tags": [
+    "Politique"
    ],
    "zone": "usa"
   },
@@ -459,16 +558,16 @@
    "zone": "usa"
   },
   {
-   "id": "c7e474119e67",
-   "titre": "Democrats win House majority with Trump approval at historic low",
-   "lien": "https://www.cbsnews.com/live-updates/house-election-results-2026/",
-   "source": "CBS News",
-   "date": "2026-11-04T23:11:28+00:00",
-   "extrait": "Democrats won control of the House in the 2026 midterm elections, CBS News projects, with victories in battleground districts across the country.",
+   "id": "f22a5b47adbf",
+   "titre": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+   "lien": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-04T23:12:47+00:00",
+   "extrait": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
    "tags": [
-    "Politique"
+    "Climat"
    ],
-   "zone": "usa"
+   "zone": "monde"
   },
   {
    "id": "40606250d7be",
@@ -1304,6 +1403,18 @@
    "source": "BBC World",
    "date": "2026-11-04T18:01:31+00:00",
    "extrait": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "be5639c6e297",
+   "titre": "What Democrats can and can't do with their new power after taking Congress",
+   "lien": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-04T18:01:27+00:00",
+   "extrait": "Democrats can vote legislation through. But Trump still has veto power.",
    "tags": [
     "Politique"
    ],
@@ -3385,122 +3496,6 @@
    "tags": [
     "Conflits",
     "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "932d82025f57",
-   "titre": "Treize personnes interpellées dans un braquage d’une usine de joaillerie à Besançon",
-   "lien": "https://www.franceinfo.fr/faits-divers/braquage/treize-personnes-interpellees-dans-un-braquage-d-une-usine-de-joaillerie-a-besancon_8267570.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-04T11:04:08+00:00",
-   "extrait": "L’or dérobé, dont la quantité est estimée à plusieurs dizaines de kilos, a été retrouvé. Les enquêteurs ont également découvert des bijoux, des charges explosives ainsi que des armes.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "ab27b812bd7c",
-   "titre": "Midterms : le rejet de la politique de Trump ou la victoire des idées démocrates ?",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-le-rejet-de-la-politique-de-trump-ou-la-victoire-des-id%C3%A9es-d%C3%A9mocrates",
-   "source": "France 24",
-   "date": "2026-11-04T11:02:05+00:00",
-   "extrait": "Les conséquences de la politique de Trump, en place pour son deuxième mandat, sont défaillantes pour les citoyens états-uniens, faisant des démocrates les victorieux de ces midterms votée mardi 3…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "21b59b52b7b1",
-   "titre": "Midterms : le raz-de-marée démocrate a conquis des bastions républicains",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-le-raz-de-mar%C3%A9e-d%C3%A9mocrate-a-conquis-des-bastions-r%C3%A9publicains",
-   "source": "France 24",
-   "date": "2026-11-04T11:00:23+00:00",
-   "extrait": "Les démocrates ont infligé à Donald Trump et son parti républicain une déroute d'ampleur historique en reprenant le contrôle du Congrès américain à l'issue des élections de mi-mandat mardi 3…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "44efaa0a71a8",
-   "titre": "« Après les midterms, une obligation de renouvellement va s’imposer chez les démocrates comme chez les républicains »",
-   "lien": "https://www.lemonde.fr/idees/article/2026/11/04/apres-les-midterms-une-obligation-de-renouvellement-va-s-imposer-chez-les-democrates-comme-chez-les-republicains_6806147_3232.html",
-   "source": "Le Monde",
-   "date": "2026-11-04T11:00:08+00:00",
-   "extrait": "Les démocrates savent qu’ils ont moins gagné le 3 novembre que Donald Trump a perdu et que leur image est exécrable, décrypte Gilles Paris, éditorialiste au « Monde » dans sa chronique. Le Parti…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "4cabccbef03c",
-   "titre": "On a testé… « The Legend of Zelda : Ocarina of Time Remake » : quand un chef-d’œuvre du jeu vidéo s’offre une cure de jouvence",
-   "lien": "https://www.lemonde.fr/pixels/article/2026/11/04/on-a-teste-the-legend-of-zelda-ocarina-of-time-remake-quand-un-chef-d-uvre-du-jeu-video-s-offre-une-cure-de-jouvence_6806148_4408996.html",
-   "source": "Le Monde",
-   "date": "2026-11-04T11:00:08+00:00",
-   "extrait": "Le jeu culte, sorti en 1998 sur Nintendo 64, revient dans une version Switch 2 très fidèle au matériel d’origine : une aventure avec un grand « A » et un « Zelda » avec un grand « Z ».",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "6d2051b342cb",
-   "titre": "Melat Kiros becomes first woman from Gen Z elected to Congress",
-   "lien": "https://www.cbsnews.com/news/melat-kiros-first-gen-z-woman-congress-colorado/",
-   "source": "CBS News",
-   "date": "2026-11-04T11:00:00+00:00",
-   "extrait": "The 29-year-old democratic socialist from Colorado made history as the first woman from Generation Z to be elected to Congress.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "b4e1c6ba5505",
-   "titre": "Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe",
-   "lien": "https://www.npr.org/2026/11/04/nx-s1-6026597/review-legend-of-zelda-ocarina-of-time-remake-switch-2",
-   "source": "NPR",
-   "date": "2026-11-04T11:00:00+00:00",
-   "extrait": "Nintendo's new Ocarina of Time remake enshrines its place in the gaming canon for generations to come. But despite its stupendous production values, the game left me feeling oddly bereft.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "cc8272602731",
-   "titre": "Midterms : des lignes de fractures persistent entre démocrates",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-des-lignes-de-fractures-persistent-entre-d%C3%A9mocrates",
-   "source": "France 24",
-   "date": "2026-11-04T10:57:30+00:00",
-   "extrait": "Le démocrate Xavier Becerra a été sans surprise élu mardi 3 novembre gouverneur de Californie, devançant largement le républicain Steve Hilton et devenant le premier Hispanique à remporter le plus…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "32e13cee6211",
-   "titre": "\"On transforme un peu le livret A en mille-feuille\", dénonce un économiste après l'annonce du gouvernement",
-   "lien": "https://www.franceinfo.fr/economie/votre-argent/livret-a/on-transforme-un-peu-le-livret-a-en-mille-feuille-denonce-un-economiste-apres-l-annonce-du-gouvernement_8267177.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-04T10:57:04+00:00",
-   "extrait": "Dès février 2027, le plafond du livret A sera relevé \"entre 25 000 et 30 000 euros\", a annoncé mardi le gouvernement. Une fausse bonne idée, selon Philippe Crevel, économiste et directeur général du…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "3d5a5c451ee8",
-   "titre": "Bruno Retailleau estime qu'il \"faudra une primaire\" pour départager les quatre principaux candidats de la droite et du centre à l'élection présidentielle",
-   "lien": "https://www.franceinfo.fr/elections/presidentielle/pour-departager-les-quatre-principaux-candidats-de-la-droite-et-du-centre-a-l-election-presidentielle-bruno-retailleau-estime-qu-il-faudra-une-primaire_8267411.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-04T10:55:26+00:00",
-   "extrait": "Ce vote pourrait se tenir \"en début d'année\", estime le candidat désigné par Les Républicains, alors qu'Edouard Philippe continue de s'opposer à la tenue d'une primaire, qui pourrait aussi impliquer…",
-   "tags": [
-    "Politique"
    ],
    "zone": "france"
   }
