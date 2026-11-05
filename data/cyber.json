@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-05T17:05:41+00:00",
+ "maj": "2026-11-05T18:05:53+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "671b07a9ce2d",
+   "titre": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
+   "lien": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
+   "source": "BleepingComputer",
+   "date": "2026-11-05T17:45:29+00:00",
+   "extrait": "A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication…",
+   "tags": [
+    "Faille",
+    "Linux"
+   ]
+  },
   {
    "id": "0e040b8f64fe",
    "titre": "Cyberattaque contre les frigos de l’EFS : le plasma visé",
@@ -208,6 +220,96 @@
     "Faille",
     "Fuite de données",
     "Malware"
+   ]
+  },
+  {
+   "id": "1ab6fb49689b",
+   "titre": "Multiples vulnérabilités dans Microsoft Edge (05 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1466/",
+   "source": "CERT-FR",
+   "date": "2026-11-05T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non…",
+   "tags": [
+    "Faille",
+    "Windows"
+   ]
+  },
+  {
+   "id": "45a027a4c288",
+   "titre": "Multiples vulnérabilités dans les produits Siemens (05 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1464/",
+   "source": "CERT-FR",
+   "date": "2026-11-05T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "79dd47017c56",
+   "titre": "Vulnérabilité dans OpenSSH (05 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1468/",
+   "source": "CERT-FR",
+   "date": "2026-11-05T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans OpenSSH. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "463ebe39838b",
+   "titre": "Multiples vulnérabilités dans les produits Cisco (05 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1467/",
+   "source": "CERT-FR",
+   "date": "2026-11-05T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "c8f5c2d8f23d",
+   "titre": "Multiples vulnérabilités dans OpenOffice (05 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1463/",
+   "source": "CERT-FR",
+   "date": "2026-11-05T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans OpenOffice. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "2025f328c3d4",
+   "titre": "Multiples vulnérabilités dans SPIP (05 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1465/",
+   "source": "CERT-FR",
+   "date": "2026-11-05T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans SPIP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "a43f221f9628",
+   "titre": "Multiples vulnérabilités dans MongoDB (05 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1462/",
+   "source": "CERT-FR",
+   "date": "2026-11-05T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "790327c5c921",
+   "titre": "Vulnérabilité dans OpenSSH (05 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-015/",
+   "source": "CERT-FR",
+   "date": "2026-11-05T00:00:00+00:00",
+   "extrait": "Le 5 novembre 2026, OpenSSH a publié un avis de sécurité concernant une vulnérabilité qui permet à un attaquant de contourner l’authentification d'un service SSH. En effet, sur les systèmes Linux…",
+   "tags": [
+    "Faille",
+    "Linux"
    ]
   },
   {
@@ -3326,108 +3428,6 @@
    "source": "The Hacker News",
    "date": "2026-10-26T11:52:41+00:00",
    "extrait": "Two critical flaws in Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the project's…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "49aedb62ce7d",
-   "titre": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
-   "lien": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
-   "source": "The Hacker News",
-   "date": "2026-10-26T11:23:56+00:00",
-   "extrait": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform…",
-   "tags": []
-  },
-  {
-   "id": "4dd6d369bedf",
-   "titre": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
-   "lien": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
-   "source": "BleepingComputer",
-   "date": "2026-10-26T10:26:52+00:00",
-   "extrait": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]",
-   "tags": [
-    "Fuite de données",
-    "Outil",
-    "Linux"
-   ]
-  },
-  {
-   "id": "275e6f3b55af",
-   "titre": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
-   "lien": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
-   "source": "The Hacker News",
-   "date": "2026-10-26T09:54:02+00:00",
-   "extrait": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who…",
-   "tags": [
-    "Malware",
-    "Mobile"
-   ]
-  },
-  {
-   "id": "fbd9cb2b4455",
-   "titre": "PHP2Shell security flaws now sucessfully exploited in the wild",
-   "lien": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
-   "source": "BleepingComputer",
-   "date": "2026-10-26T09:19:57+00:00",
-   "extrait": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
-   "tags": [
-    "CVE",
-    "Faille"
-   ]
-  },
-  {
-   "id": "35a2887f8653",
-   "titre": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
-   "lien": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
-   "source": "The Hacker News",
-   "date": "2026-10-26T08:35:51+00:00",
-   "extrait": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen…",
-   "tags": [
-    "Windows"
-   ]
-  },
-  {
-   "id": "8e95a20d61e4",
-   "titre": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
-   "lien": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
-   "source": "The Hacker News",
-   "date": "2026-10-26T07:49:46+00:00",
-   "extrait": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The…",
-   "tags": [
-    "Outil"
-   ]
-  },
-  {
-   "id": "8239096a100a",
-   "titre": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
-   "lien": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
-   "source": "The Hacker News",
-   "date": "2026-10-26T06:03:48+00:00",
-   "extrait": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm Forever Security said in a report…",
-   "tags": [
-    "Malware",
-    "IA"
-   ]
-  },
-  {
-   "id": "a3354384527e",
-   "titre": "Bulletin d'actualité CERTFR-2026-ACT-045 (26 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-045/",
-   "source": "CERT-FR",
-   "date": "2026-10-26T00:00:00+00:00",
-   "extrait": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "4a56f3bae32b",
-   "titre": "Multiples vulnérabilités dans les produits Tenable (26 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1381/",
-   "source": "CERT-FR",
-   "date": "2026-10-26T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
    "tags": [
     "Faille"
    ]
