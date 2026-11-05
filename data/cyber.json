@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-05T10:05:41+00:00",
+ "maj": "2026-11-05T11:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,15 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "1981b067cd83",
+   "titre": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
+   "lien": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
+   "source": "The Hacker News",
+   "date": "2026-11-05T10:06:19+00:00",
+   "extrait": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For…",
+   "tags": []
+  },
   {
    "id": "da77af0f435f",
    "titre": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
@@ -3420,17 +3429,6 @@
    "source": "CERT-FR",
    "date": "2026-10-26T00:00:00+00:00",
    "extrait": "De multiples vulnérabilités ont été découvertes dans les produits MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "9ed253577526",
-   "titre": "Multiples vulnérabilités dans CPython (26 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1379/",
-   "source": "CERT-FR",
-   "date": "2026-10-26T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans CPython. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
    "tags": [
     "Faille"
    ]
