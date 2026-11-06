@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-06T22:05:40+00:00",
+ "maj": "2026-11-06T23:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,19 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "b99b441690fc",
+   "titre": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+   "lien": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+   "source": "BleepingComputer",
+   "date": "2026-11-06T22:27:25+00:00",
+   "extrait": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing…",
+   "tags": [
+    "Fuite de données",
+    "IA",
+    "Outil"
+   ]
+  },
   {
    "id": "ba147c5fc5c9",
    "titre": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
@@ -3418,17 +3431,6 @@
    "tags": [
     "Fuite de données",
     "IA"
-   ]
-  },
-  {
-   "id": "eeae20ed2a5a",
-   "titre": "Tailscale warns of SSH flaws allowing root privilege escalation",
-   "lien": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
-   "source": "BleepingComputer",
-   "date": "2026-10-27T14:09:46+00:00",
-   "extrait": "The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]",
-   "tags": [
-    "Faille"
    ]
   }
  ]
