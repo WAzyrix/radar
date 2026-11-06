@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-06T06:05:46+00:00",
+ "maj": "2026-11-06T07:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,38 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "e5c1ef548a99",
+   "titre": "Newsom moves to commute all California death sentences",
+   "lien": "https://www.cbsnews.com/news/gavin-newsom-california-death-row-commuted-life-in-prison/",
+   "source": "CBS News",
+   "date": "2026-11-06T07:02:21+00:00",
+   "extrait": "The move does not repeal California's death penalty or prevent prosecutors from seeking it in future cases.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "1fa742f0630a",
+   "titre": "Macau jails pro-democracy campaigner in city's first national security case",
+   "lien": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-06T06:46:21+00:00",
+   "extrait": "Au Kam San was sentenced to 12 years and six months' jail for \"subversion against the political power of the state\".",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "492b3cf21e9a",
+   "titre": "Accord sur le gazole mort-né : pourquoi les pétroliers russes se détournent des États-Unis",
+   "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261106-accord-sur-le-gazole-mort-n%C3%A9-pourquoi-les-p%C3%A9troliers-russes-se-d%C3%A9tournent-des-%C3%A9tats-unis",
+   "source": "France 24",
+   "date": "2026-11-06T06:37:01+00:00",
+   "extrait": "Les premiers pétroliers qui devaient livrer du gazole russe aux États-Unis ont changé de cap et ne se dirigent plus vers les côtes américaines. Une décision qui enterre, sans doute, l’accord entre…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "ed0306f97694",
    "titre": "Midterms : les démocrates engrangent les sièges, Donald Trump fustige des élections truquées",
    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-midterms-les-d%C3%A9mocrates-engrangent-les-si%C3%A8ges-donald-trump-fustige-des-%C3%A9lections-truqu%C3%A9es",
@@ -34,6 +66,19 @@
    "zone": "monde"
   },
   {
+   "id": "38d8dc70ea3f",
+   "titre": "Did a data centre revolt affect the US mid-term election results?",
+   "lien": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-06T06:01:13+00:00",
+   "extrait": "BBC Verify examines whether US voters were influenced by the data centre boom - and the impact anti-AI sentiment could have on the industry.",
+   "tags": [
+    "Politique",
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "c0beb4b56091",
    "titre": "Global tech stocks plunge as US midterms add to AI slowdown fears",
    "lien": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
@@ -42,6 +87,18 @@
    "extrait": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
    "tags": [
     "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "402519e27b05",
+   "titre": "A wildfire killed their loved ones in Spain. These British families demand to know why",
+   "lien": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-06T06:00:46+00:00",
+   "extrait": "Nine British nationals were among the 15 people who died when fire ripped through the village of Bédar this summer.",
+   "tags": [
+    "Climat"
    ],
    "zone": "monde"
   },
@@ -186,6 +243,28 @@
    "zone": "usa"
   },
   {
+   "id": "6cfdb0616097",
+   "titre": "Pourquoi l’inflation réelle est toujours moins élevée que celle ressentie par les Français",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/06/pourquoi-l-inflation-reelle-est-toujours-moins-elevee-que-celle-ressentie-par-les-francais_6807726_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-06T05:00:35+00:00",
+   "extrait": "L’écart de perception sur la hausse des prix s’explique par le poids des achats les plus fréquents, notamment ceux concernant l’alimentation et les carburants. Sans oublier qu’un indicateur…",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "510cc84d0707",
+   "titre": "« A table, les recommandations sur les écrans doivent aussi concerner les parents »",
+   "lien": "https://www.lemonde.fr/idees/article/2026/11/06/a-table-les-recommandations-sur-les-ecrans-doivent-aussi-concerner-les-parents_6807719_3232.html",
+   "source": "Le Monde",
+   "date": "2026-11-06T05:00:06+00:00",
+   "extrait": "Alors que les politiques de prévention s’adressent d’ordinaire aux enfants, elles devraient être étendues aux adultes, qui, d’après plusieurs études, sont nombreux à utiliser leur smartphone pendant…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "15042e04c0c9",
    "titre": "Avec Mbappé mais sans Dembélé, à quoi faut-il s'attendre pour la deuxième liste de Zinédine Zidane à la tête des Bleus ?",
    "lien": "https://www.franceinfo.fr/sports/foot/equipe-de-france/avec-mbappe-mais-sans-dembele-a-quoi-faut-il-s-attendre-pour-la-deuxieme-liste-de-zinedine-zidane-a-la-tete-des-bleus_8269550.html#xtor=RSS-3-[lestitres]",
@@ -231,11 +310,21 @@
    "zone": "usa"
   },
   {
+   "id": "2fd08b5d3cbd",
+   "titre": "« C’est mignon ce que tu fais avec ta bouche » : en entreprise, les ingénieures encore trop souvent victimes de sexisme",
+   "lien": "https://www.lemonde.fr/campus/article/2026/11/06/c-est-mignon-ce-que-tu-fais-avec-ta-bouche-en-entreprise-les-ingenieures-encore-trop-souvent-victimes-de-sexisme_6807649_4401467.html",
+   "source": "Le Monde",
+   "date": "2026-11-06T04:30:13+00:00",
+   "extrait": "Malgré #MeToo, les discriminations touchent toujours les professionnelles, souvent minoritaires dans le milieu de l’ingénierie, au point parfois de les pousser à se réorienter.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "ff515db18f5b",
    "titre": "Midterms 2026 : les démocrates s’interrogent sur leur stratégie et leur direction dans le prochain Congrès",
    "lien": "https://www.lemonde.fr/international/article/2026/11/06/midterms-2026-les-democrates-s-interrogent-sur-leur-strategie-et-leur-direction-dans-le-prochain-congres_6807648_3210.html",
    "source": "Le Monde",
-   "date": "2026-11-06T04:30:07+00:00",
+   "date": "2026-11-06T04:30:02+00:00",
    "extrait": "Hakeem Jeffries et Chuck Schumer, pressentis pour devenir respectivement speaker de la Chambre des représentants et chef de la majorité au Sénat, sont contestés. Mais ils travaillent déjà sur les…",
    "tags": [
     "Politique"
@@ -259,7 +348,7 @@
    "titre": "BFM-TV : Sonia Mabrouk au cœur d’un conflit interne, révélant des turbulences plus profondes",
    "lien": "https://www.lemonde.fr/economie/article/2026/11/06/bfm-tv-sonia-mabrouk-au-c-ur-d-un-conflit-interne-revelant-des-turbulences-plus-profondes_6807612_3234.html",
    "source": "Le Monde",
-   "date": "2026-11-06T04:00:06+00:00",
+   "date": "2026-11-06T04:00:00+00:00",
    "extrait": "La présentatrice, transfuge de CNews, fait l’objet d’une fronde au sein de la chaîne d’information, sur fond de contestations de la ligne éditoriale, parfois jugée complaisante vis-à-vis de…",
    "tags": [],
    "zone": "france"
@@ -324,6 +413,16 @@
    "zone": "usa"
   },
   {
+   "id": "b523329556e9",
+   "titre": "Hongkong se pose en future Monaco asiatique",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/06/hongkong-se-pose-en-future-monaco-asiatique_6807479_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-06T02:30:10+00:00",
+   "extrait": "Depuis des décennies, le territoire se compare à Singapour, et réciproquement. Mais c’est désormais davantage à la Principauté qu’il a l’intention de ressembler, ambitionnant de devenir la capitale…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "929ab18f21ff",
    "titre": "Wendy's rejects $1.4 billion hostile takeover bid",
    "lien": "https://www.cbsnews.com/news/wendys-rejects-takeover-bid/",
@@ -363,16 +462,6 @@
    "tags": [
     "Économie"
    ],
-   "zone": "usa"
-  },
-  {
-   "id": "e5c1ef548a99",
-   "titre": "Newsom moves to commute all California death sentences",
-   "lien": "https://www.cbsnews.com/news/gavin-newsom-california-death-row-commuted-life-in-prison/",
-   "source": "CBS News",
-   "date": "2026-11-06T02:16:17+00:00",
-   "extrait": "The move does not repeal California's death penalty or prevent prosecutors from seeking it in future cases.",
-   "tags": [],
    "zone": "usa"
   },
   {
@@ -1625,7 +1714,7 @@
   },
   {
    "id": "35f3eccda7e0",
-   "titre": "Vanté par Donald Trump, l’accord américano-russe sur le gazole bat de l’aile",
+   "titre": "L’accord américano-russe sur le gazole vanté par Donald Trump bat de l’aile",
    "lien": "https://www.lemonde.fr/international/article/2026/11/05/vante-par-donald-trump-l-accord-americano-russe-sur-le-gazole-bat-de-l-aile_6807332_3210.html",
    "source": "Le Monde",
    "date": "2026-11-05T18:38:21+00:00",
@@ -1853,11 +1942,11 @@
   },
   {
    "id": "a4b68145257d",
-   "titre": "Manifestations pour le pouvoir d'achat, défaite de Donald Trump aux élections de mi-mandat",
+   "titre": "Pouvoir d'achat : de quels leviers le gouvernement dispose-t-il ?",
    "lien": "https://www.france24.com/fr/%C3%A9missions/politique/20261105-manifestations-pour-le-pouvoir-d-achat-d%C3%A9faite-de-donald-trump-aux-%C3%A9lections-de-mi-mandat",
    "source": "France 24",
    "date": "2026-11-05T17:48:23+00:00",
-   "extrait": "La journée de mobilisation à l’appel des syndicats et pour le pouvoir d’achat, a réuni 600 000 personnes selon le gouvernement. Les syndicats réclament une hausse significative du SMIC et…",
+   "extrait": "La journée de mobilisation à l’appel des syndicats et pour le pouvoir d’achat a réuni 600 000 personnes, selon le gouvernement. Les syndicats réclament une hausse significative du Smic et…",
    "tags": [
     "Politique",
     "Économie"
@@ -3371,98 +3460,6 @@
    "extrait": "Le Français a livré un match titanesque mercredi contre Dallas avec plusieurs records en carrière à la clé (52 points, 24 rebonds) dans la victoire de son équipe des San Antonio Spurs contre les…",
    "tags": [
     "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "797e4e42648e",
-   "titre": "Un lycée de Tournefeuille, près de Toulouse, touché par un incendie après l'irruption d'individus munis de mortiers d'artifice",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/un-lycee-de-tournefeuille-pres-de-toulouse-touche-par-un-incendie-apres-l-irruption-d-individus-munis-de-mortiers-d-artifice_8269217.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-05T12:16:24+00:00",
-   "extrait": "\"Cet acte était une volonté de brûler l'ensemble de l'établissement\", a dénoncé le vice-président PS de la région Occitanie, Kamel Chibli.",
-   "tags": [
-    "Politique",
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "3cc4779c3f59",
-   "titre": "Newly found prehistoric \"giant rat\" species named after princess",
-   "lien": "https://www.cbsnews.com/news/giant-rat-fossilized-teeth-reveal-thailand/",
-   "source": "CBS News",
-   "date": "2026-11-05T12:11:38+00:00",
-   "extrait": "The ancient creature offers new clues about how early rodents evolved to enormous sizes.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "1443ae8b2674",
-   "titre": "Guerre en Ukraine : \"il y a maintenant de l'espoir, puisqu'il existe cet équilibre des forces\"",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261105-guerre-en-ukraine-il-y-a-maintenant-de-l-espoir-puisqu-il-existe-cet-%C3%A9quilibre-des-forces",
-   "source": "France 24",
-   "date": "2026-11-05T12:11:16+00:00",
-   "extrait": "Le dirigeant ukrainien a estimé dans un entretien diffusé mercredi 4 novembre soir, qu'il \"y a donc maintenant de l'espoir, puisqu'il existe cet équilibre des forces, et que nous serons davantage…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "51b7f19be2b3",
-   "titre": "Ronaldo retires from Portugal national team",
-   "lien": "https://www.cbsnews.com/news/ronaldo-retires-portugal-legendary-career/",
-   "source": "CBS News",
-   "date": "2026-11-05T12:10:21+00:00",
-   "extrait": "Cristiano Ronaldo says he won't play for Portugal anymore, ending a career that spanned six World Cups and included a European title and the men's all-time international scoring record.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "2dafbe767bcf",
-   "titre": "De l'Ukraine au Congo, Bernard Lavilliers sort un album épatant \"Rite cruel\"",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20261105-de-l-ukraine-au-congo-bernard-lavilliers-sort-un-album-%C3%A9patant-rite-cruel",
-   "source": "France 24",
-   "date": "2026-11-05T12:05:24+00:00",
-   "extrait": "À 80 ans, sa voix tient. Bernard Lavilliers chante le monde, ses incessants voyages, et reste fidèle à ses engagements humanistes.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "a72192c804a4",
-   "titre": "What's next for Democrats after the midterms. And, a look at the outstanding races",
-   "lien": "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction",
-   "source": "NPR",
-   "date": "2026-11-05T12:02:24+00:00",
-   "extrait": "Democrats have regained control of Congress. They have a long list of investigations into Trump planned. And, not all races have been called. Here's a look at how they could affect the Dems' majority.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "21813886a138",
-   "titre": "Comment affirmer l'humanité ? Parlons-en avec le grand philosophe Souleymane Bachir Diagne",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20261105-comment-affirmer-l-humanit%C3%A9-parlons-en-avec-le-grand-philosophe-souleymane-bachir-diagne",
-   "source": "France 24",
-   "date": "2026-11-05T12:00:23+00:00",
-   "extrait": "L'entretien de Parlons-en est consacré à celui que le Nouvel Obs considère comme l'un des 25 plus grands penseurs de notre époque. Souleymane Bachir Diagne est sénégalais mais a enseigné la…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "52993d924f1f",
-   "titre": "Les jeunes, laissés-pour-compte du marché de l’emploi néo-zélandais",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/05/les-jeunes-laisses-pour-compte-du-marche-de-l-emploi-neo-zelandais_6806859_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-05T12:00:07+00:00",
-   "extrait": "A l’approche des élections législatives qui se tiendront le 7 novembre en Nouvelle-Zélande, le chômage représente la deuxième préoccupation des électeurs âgés de 18 à 34 ans, derrière le coût de la…",
-   "tags": [
-    "Politique",
-    "Économie"
    ],
    "zone": "france"
   }
