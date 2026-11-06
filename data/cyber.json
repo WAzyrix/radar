@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-06T08:05:39+00:00",
+ "maj": "2026-11-06T09:05:42+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "6facdf5f94df",
+   "titre": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
+   "lien": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
+   "source": "The Hacker News",
+   "date": "2026-11-06T08:04:49+00:00",
+   "extrait": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens…",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
   {
    "id": "ed60ea7fa412",
    "titre": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
@@ -3420,17 +3431,6 @@
    "date": "2026-10-26T19:26:20+00:00",
    "extrait": "DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]",
    "tags": []
-  },
-  {
-   "id": "961277245249",
-   "titre": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
-   "lien": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
-   "source": "The Hacker News",
-   "date": "2026-10-26T18:12:22+00:00",
-   "extrait": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to Dutch e-commerce security company…",
-   "tags": [
-    "Fuite de données"
-   ]
   }
  ]
 }
