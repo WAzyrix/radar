@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-06T19:42:50+00:00",
+ "maj": "2026-11-06T20:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,13 +22,102 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "b43fe65246e1",
+   "titre": "Trump installs Stephen Miller as chief of staff, replacing Susie Wiles",
+   "lien": "https://www.cbsnews.com/news/stephen-miller-trump-chief-of-staff-susie-wiles/",
+   "source": "CBS News",
+   "date": "2026-11-06T20:05:59+00:00",
+   "extrait": "\"I wanted to make a change,\" President Trump said, explaining the major staffing shakeup.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "f3b63a893ac9",
+   "titre": "This week on \"Sunday Morning\" (Nov. 8)",
+   "lien": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-8-2026/",
+   "source": "CBS News",
+   "date": "2026-11-06T19:56:58+00:00",
+   "extrait": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "dce2bac29685",
+   "titre": "Attentat de Trappes : les obsèques de Pengo Bossio Wangi se dérouleront samedi",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/06/attentat-de-trappes-les-obseques-de-pengo-bossio-wangi-se-derouleront-samedi_6807863_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-06T19:56:22+00:00",
+   "extrait": "La cérémonie publique, qui se tiendra de 16 heures à 17 heures au cimetière paysager de Guyancourt (Yvelines), n’est pas ouverte « aux journalistes » et « aux femmes et hommes politiques », selon le…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "d883cb078363",
+   "titre": "Latest news after Trump replaces Susie Wiles with Stephen Miller as chief of staff",
+   "lien": "https://www.cbsnews.com/video/latest-news-after-trump-replaces-susie-wiles-with-stephen-miller-as-chief-of-staff/",
+   "source": "CBS News",
+   "date": "2026-11-06T19:55:21+00:00",
+   "extrait": "President Trump is replacing Susie Wiles as his chief of staff. Here's how Stephen Miller could take on the role.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "41c62e340af2",
+   "titre": "Ukrainian official expresses optimism about eventual Putin-Zelenskyy meeting",
+   "lien": "https://www.cbsnews.com/news/ukraine-official-kyrylo-budanov-optimistic-us-relations-trilateral-negotiations-russia/",
+   "source": "CBS News",
+   "date": "2026-11-06T19:52:27+00:00",
+   "extrait": "Ukrainian, Russian and American delegations will meet in Abu Dhabi on Nov. 10 and 11 for the first trilateral talks since February.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
    "id": "1270bea40600",
    "titre": "Mobilisation de la jeunesse : Sébastien Lecornu recevra les représentants des lycéens et des étudiants lundi",
    "lien": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-sociale-le-ministre-du-travail-juge-important-d-essayer-de-relever-le-smic-au-dela-de-la-barre-des-1-500-euros-net_8270366.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-11-06T19:41:33+00:00",
+   "date": "2026-11-06T19:50:20+00:00",
    "extrait": "Les organisations de jeunesse seront réunies à partir de 15h30, avant une réunion du comité de réforme de Parcoursup, qui doit rendre ses premières recommandations dans les prochaines semaines.",
    "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "0ca137083b93",
+   "titre": "No one knows how many ballots are outstanding in Mississippi's Senate race",
+   "lien": "https://www.npr.org/2026/11/06/nx-s1-6030645/mississippi-senate-results-provisional-ballots",
+   "source": "NPR",
+   "date": "2026-11-06T19:50:14+00:00",
+   "extrait": "The razor-thin margin between GOP Sen. Cindy Hyde-Smith and Democrat Scott Colom is shining a light on an election process in Mississippi that is among the slowest and most decentralized in the U.S.",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "093f8e9d3581",
+   "titre": "China's giant pandas made public in Atlanta",
+   "lien": "https://www.cbsnews.com/video/giant-pandas-from-china-go-public-at-atlanta-zoo/",
+   "source": "CBS News",
+   "date": "2026-11-06T19:42:55+00:00",
+   "extrait": "The two giant pandas that China sent to the U.S. as part of a conservation and diplomatic effort are now available for public viewing in Atlanta's zoo. CBS News' Mark Strassmann reports.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "c31a400ea2d2",
+   "titre": "Donald Trump nomme Stephen Miller, représentant de la droite identitaire, au poste stratégique de directeur de cabinet",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/06/donald-trump-nomme-stephen-miller-representant-de-la-droite-identitaire-au-poste-strategique-de-directeur-de-cabinet_6807861_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-06T19:41:18+00:00",
+   "extrait": "Il s’agit du premier grand remaniement au sein de l’exécutif américain après la défaite monumentale enregistrée par le Parti républicain lors des élections de mi-mandat.",
+   "tags": [
+    "Politique"
+   ],
    "zone": "france"
   },
   {
@@ -41,18 +130,6 @@
    "tags": [
     "Politique",
     "Santé"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "b43fe65246e1",
-   "titre": "Trump installs Stephen Miller as chief of staff, replacing Susie Wiles",
-   "lien": "https://www.cbsnews.com/news/stephen-miller-trump-chief-of-staff-susie-wiles/",
-   "source": "CBS News",
-   "date": "2026-11-06T19:40:33+00:00",
-   "extrait": "President Trump announced Stephen Miller will replace Susie Wiles as his chief of staff, the most significant shakeup of his team since the midterms.",
-   "tags": [
-    "Politique"
    ],
    "zone": "usa"
   },
@@ -85,10 +162,10 @@
   },
   {
    "id": "b9555caac80b",
-   "titre": "Democrats eye Supreme court reforms after the midterms",
+   "titre": "Democrats eye Supreme Court reforms after the midterms",
    "lien": "https://www.cbsnews.com/video/democrats-eye-supreme-court-reforms-after-the-midterms/",
    "source": "CBS News",
-   "date": "2026-11-06T19:35:44+00:00",
+   "date": "2026-11-06T19:35:00+00:00",
    "extrait": "Democrats may target the Supreme Court for reforms such as a firm code of conduct, term limits or possibly expanding the number of high court justices. CBS News' Melissa Quinn reports.",
    "tags": [
     "Justice"
@@ -112,12 +189,22 @@
    "titre": "Thomas Markle Sr., Meghan's father, arrested in Florida",
    "lien": "https://www.cbsnews.com/news/thomas-markle-sr-meghan-father-arrested-florida/",
    "source": "CBS News",
-   "date": "2026-11-06T19:31:04+00:00",
+   "date": "2026-11-06T19:31:00+00:00",
    "extrait": "It was reported in October that Meghan's estranged father, Thomas Markle, was under investigation by authorities in the Philippines for alleged possession of child sexual abuse materials.",
    "tags": [
     "Justice"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "2043d386566b",
+   "titre": "Maïssa, éborgnée à 17 ans le 17 octobre : « J’ai reçu le tir mais deux secondes avant j’étais en train de sourire »",
+   "lien": "https://www.lemonde.fr/videos/video/2026/11/06/maissa-eborgnee-a-17-ans-le-17-octobre-j-ai-recu-le-tir-mais-deux-secondes-avant-j-etais-en-train-de-sourire_6807857_1669088.html",
+   "source": "Le Monde",
+   "date": "2026-11-06T19:28:01+00:00",
+   "extrait": "La jeune femme, qui n’était pas venue dans le centre de Mulhouse pour manifester, a été touchée à l’œil, par ce que des témoins et son avocat identifient comme un tir au lance-grenades des forces de…",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "d8b83daed93c",
@@ -193,7 +280,7 @@
    "lien": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery",
    "source": "NPR",
    "date": "2026-11-06T19:13:06+00:00",
-   "extrait": "After lung surgery, Pope Leo embarks on a 12-day tour of South America, navigating political tensions and returning to Peru, the place he once called home.",
+   "extrait": "Pope Leo begins his first South American tour since lung cancer surgery. The 12-day journey takes him to Uruguay, Argentina and Peru, where he spent two decades.",
    "tags": [
     "Santé"
    ],
@@ -349,10 +436,10 @@
   },
   {
    "id": "3b6e020f2353",
-   "titre": "Mississippi Senate race still a toss-up, with razor-thin margin",
+   "titre": "Mississippi Senate race still a toss-up; Democrat takes narrow lead",
    "lien": "https://www.cbsnews.com/news/mississippi-senate-race-results-2026-midterms/",
    "source": "CBS News",
-   "date": "2026-11-06T18:23:13+00:00",
+   "date": "2026-11-06T18:23:00+00:00",
    "extrait": "The Senate race in deep-red Mississippi remains unresolved, as Democrat Scott Colom has mounted a surprisingly competitive challenge to incumbent Sen. Cindy Hyde-Smith.",
    "tags": [
     "Politique"
@@ -417,16 +504,6 @@
     "Sport"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "f3b63a893ac9",
-   "titre": "This week on \"Sunday Morning\" (Nov. 8)",
-   "lien": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-8-2026/",
-   "source": "CBS News",
-   "date": "2026-11-06T18:01:56+00:00",
-   "extrait": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "f377dcd8e302",
@@ -615,8 +692,8 @@
    "titre": "Cyberattacks may target supermarkets and other vital refrigerators, U.S. government warns",
    "lien": "https://www.cbsnews.com/video/cyberattacks-may-target-supermarket-and-other-vital-refrigerators-us-government-warns/",
    "source": "CBS News",
-   "date": "2026-11-06T17:28:58+00:00",
-   "extrait": "The U.S. says it's aware of malicious actors targeting refrigerators and other industrial gear used to keep vital items cool. CBS News' Charlie D'Agata asked the Pentagon about this urgent matter.",
+   "date": "2026-11-06T17:28:00+00:00",
+   "extrait": "The U.S. says it's aware of malicious actors targeting refrigerators and other industrial gear used to keep vital items cool. CBS News' Charlie D'Agata asked the U.S. Army about this urgent matter.",
    "tags": [],
    "zone": "usa"
   },
@@ -925,12 +1002,13 @@
   },
   {
    "id": "bd5ca7d9d537",
-   "titre": "EN DIRECT, guerre en Ukraine : Kiev annonce un record de plus de 30 000 missions de drones terrestres en octobre",
+   "titre": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky affirme que la Russie prépare une nouvelle attaque contre le réseau énergétique et les ponts sur le Dniepr",
    "lien": "https://www.lemonde.fr/international/live/2026/11/06/en-direct-guerre-en-ukraine-volodymyr-zelensky-reclame-le-deblocage-de-16-milliards-de-dollars-d-aide-americaine_6803934_3210.html",
    "source": "Le Monde",
    "date": "2026-11-06T16:47:27+00:00",
-   "extrait": "Les forces ukrainiennes ont effectué 31 398 missions de logistique et d’évacuation à l’aide de drones terrestres au mois d’octobre, contre 7 511 en janvier, selon le ministère de la défense…",
+   "extrait": "« Nous avons besoin d’intercepteurs pour les Patriot », a insisté le président ukrainien, dans son allocution quotidienne, appelant les partenaires de Kiev, en premier lieu les Etats-Unis, à ne pas…",
    "tags": [
+    "Politique",
     "Conflits"
    ],
    "zone": "france"
@@ -1140,6 +1218,16 @@
    "source": "Le Monde",
    "date": "2026-11-06T16:00:22+00:00",
    "extrait": "Un jour, ils quittent la maison pour de bon. Que faire de cet espace où ils ont grandi ? Un bureau ? Une chambre d’amis ? Le laisser figé dans l’enfance ? Clara Georges a recueilli vos témoignages…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "d159f69ddeae",
+   "titre": "Présidentielle 2027 : l’hypothèse d’une candidature de Christine Lagarde questionne à droite et au sein du bloc central",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/06/presidentielle-2027-l-hypothese-d-une-candidature-de-christine-lagarde-questionne-a-droite-et-au-sein-du-bloc-central_6807815_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-06T16:00:16+00:00",
+   "extrait": "Entre éloges publics prudents et scepticisme en coulisses, la démission anticipée de la patronne de la BCE alimente les spéculations au sein d’un camp en quête d’un candidat capable de doubler…",
    "tags": [],
    "zone": "france"
   },
@@ -1439,11 +1527,11 @@
   },
   {
    "id": "af979b270e63",
-   "titre": "European air traffic is targeted by new threats after a week of hoaxes",
+   "titre": "European flights and broadcasters are targeted with another wave of bomb threats",
    "lien": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes",
    "source": "NPR",
    "date": "2026-11-06T15:21:31+00:00",
-   "extrait": "Officials across Europe reported a fresh slew of bomb threats against multiple flights on Friday, following a string of hoaxes that have caused flight diversions this week. Two broadcasters also…",
+   "extrait": "Officials across Europe reported a slew of bomb threats against multiple flights, following a string of hoaxes that caused flight diversions this week. Three broadcasters also received threats.",
    "tags": [],
    "zone": "usa"
   },
@@ -3353,90 +3441,6 @@
     "Politique",
     "Justice"
    ],
-   "zone": "france"
-  },
-  {
-   "id": "73b3d436c2b9",
-   "titre": "Le parti de l’ex-ministre des finances grec Yanis Varoufakis privé de compte bancaire en Belgique",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/06/le-parti-de-l-ex-ministre-des-finances-grec-yanis-varoufakis-prive-de-compte-bancaire-en-belgique_6807737_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-06T07:30:04+00:00",
-   "extrait": "L’économiste affirme qu’une banque belge a brutalement fermé, le 8 octobre, le compte de son mouvement européen DiEM25, sur lequel étaient recueillis les dons des militants et des sympathisants.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "1189ded5db61",
-   "titre": "\"Quoi qu'on fasse, on est pris en étau\" : des proviseurs alertent sur une situation qui \"peut exploser au quotidien\"",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/quoi-qu-on-fasse-on-est-pris-en-etau-des-proviseurs-de-lycees-alertent-sur-une-situation-qui-peut-exploser-au-quotidien_8270390.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-06T07:27:29+00:00",
-   "extrait": "Alors que la mobilisation lycéenne se poursuit, une trentaine de chefs d'établissements parisiens se sont rassemblés, jeudi, devant la Sorbonne, au nom de toute la profession. Ils soulignent le…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "9ab5e093464b",
-   "titre": "L'ouverture de l'A69 \"est un désastre environnemental\", dénonce la députée écologiste Christine Arrighi",
-   "lien": "https://www.franceinfo.fr/environnement/crise-climatique/chantier-de-l-autoroute-a69/ouverture-de-l-a69-c-est-un-desastre-environnemental-denonce-la-deputee-ecologiste-christine-arrighi_8270423.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-06T07:27:06+00:00",
-   "extrait": "\"Cette autoroute ne sera pas empruntée car trop chère ou parce qu'elle sera boycottée\", alerte l'élue vendredi matin. Elle parle également des conséquences environnementales de l'autoroute A69.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "a87cf29de8f7",
-   "titre": "\"Sélection assumée\" ou \"absence totale\" de tri : derrière la suppression de Parcoursup, l'épineux débat sur l'accès à l'université",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/selection-assumee-ou-absence-totale-de-tri-derriere-la-suppression-de-parcoursup-l-epineux-debat-sur-l-acces-a-l-universite_8265539.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-06T07:20:17+00:00",
-   "extrait": "Alors que le nombre de bacheliers voulant accéder à l'enseignement supérieur ne cesse de croître, la fin annoncée de Parcoursup pose de nombreuses questions.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "7e0515f3ceab",
-   "titre": "Municipales en Afrique du Sud : l'ANC vers un recul électoral inédit, selon des résultats partiels",
-   "lien": "https://www.france24.com/fr/afrique/20261106-municipales-en-afrique-du-sud-l-anc-vers-un-recul-%C3%A9lectoral-in%C3%A9dit-selon-des-r%C3%A9sultats-partiels",
-   "source": "France 24",
-   "date": "2026-11-06T07:20:04+00:00",
-   "extrait": "Le Congrès national africain (ANC), qui dirige l'Afrique du Sud depuis 1994, se dirige vers le pire résultat électoral de son histoire, indiquaient vendredi les scores après dépouillement de plus…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "8e687c419ac0",
-   "titre": "Cristiano Ronaldo met un terme à sa carrière internationale",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261106-cristiano-ronaldo-met-un-terme-%C3%A0-sa-carri%C3%A8re-internationale",
-   "source": "France 24",
-   "date": "2026-11-06T07:15:14+00:00",
-   "extrait": "Cristiano Ronaldo a annoncé, jeudi, sa retraite internationale, après 23 ans sous le maillot du Portugal. À 41 ans, l'attaquant d'Al-Nassr quitte la sélection avec 234 sélections et 146 buts, deux…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "e5c1ef548a99",
-   "titre": "Newsom moves to commute all California death sentences",
-   "lien": "https://www.cbsnews.com/news/gavin-newsom-california-death-row-commuted-life-in-prison/",
-   "source": "CBS News",
-   "date": "2026-11-06T07:02:21+00:00",
-   "extrait": "The move does not repeal California's death penalty or prevent prosecutors from seeking it in future cases.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "650a3923b9f9",
-   "titre": "Exposition à Besançon : « Soustraire certains noms ou certaines formules à un titre est une opération idéologique »",
-   "lien": "https://www.lemonde.fr/idees/article/2026/11/06/exposition-a-besancon-soustraire-certains-noms-ou-certaines-formules-a-un-titre-est-une-operation-ideologique_6807733_3232.html",
-   "source": "Le Monde",
-   "date": "2026-11-06T07:00:09+00:00",
-   "extrait": "La municipalité bisontine a fait le choix de retirer la devise anarchiste « Ni dieu ni maître » et la mention de l’artiste Banksy au nom d’une exposition artistique accueillie dans la ville en…",
-   "tags": [],
    "zone": "france"
   }
  ]
