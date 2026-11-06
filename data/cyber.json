@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-06T16:05:39+00:00",
+ "maj": "2026-11-06T17:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,6 +24,29 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "c4daeac5c98c",
+   "titre": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+   "lien": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
+   "source": "BleepingComputer",
+   "date": "2026-11-06T17:04:23+00:00",
+   "extrait": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]",
+   "tags": [
+    "Faille",
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "9fe769e3c933",
+   "titre": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
+   "lien": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+   "source": "The Hacker News",
+   "date": "2026-11-06T16:08:38+00:00",
+   "extrait": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update that installs…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
    "id": "af6d1b8b9d25",
    "titre": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
    "lien": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
@@ -33,6 +56,20 @@
    "tags": []
   },
   {
+   "id": "a40dff3d749a",
+   "titre": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+   "lien": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+   "source": "The Hacker News",
+   "date": "2026-11-06T15:21:49+00:00",
+   "extrait": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The…",
+   "tags": [
+    "CVE",
+    "Faille",
+    "Fuite de données",
+    "Linux"
+   ]
+  },
+  {
    "id": "3647bbef0072",
    "titre": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
    "lien": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
@@ -40,6 +77,19 @@
    "date": "2026-11-06T15:00:10+00:00",
    "extrait": "IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]",
    "tags": []
+  },
+  {
+   "id": "17e04fbcf2b3",
+   "titre": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
+   "lien": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+   "source": "The Hacker News",
+   "date": "2026-11-06T14:58:32+00:00",
+   "extrait": "OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in…",
+   "tags": [
+    "Faille",
+    "IA",
+    "Linux"
+   ]
   },
   {
    "id": "f8e9629a67be",
@@ -3377,56 +3427,6 @@
    "extrait": "The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on…",
    "tags": [
     "Faille"
-   ]
-  },
-  {
-   "id": "0afa3606f14e",
-   "titre": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
-   "lien": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
-   "source": "The Hacker News",
-   "date": "2026-10-27T13:59:09+00:00",
-   "extrait": "Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices. The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is…",
-   "tags": [
-    "CVE",
-    "Faille",
-    "Mobile"
-   ]
-  },
-  {
-   "id": "a6006728be28",
-   "titre": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
-   "lien": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
-   "source": "The Hacker News",
-   "date": "2026-10-27T12:09:50+00:00",
-   "extrait": "Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's…",
-   "tags": [
-    "CVE",
-    "Faille",
-    "Windows",
-    "Mobile"
-   ]
-  },
-  {
-   "id": "3fba9192c925",
-   "titre": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
-   "lien": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
-   "source": "The Hacker News",
-   "date": "2026-10-27T11:46:00+00:00",
-   "extrait": "An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a statement on October 26. Someone with that key…",
-   "tags": [
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "1ce9ccf10a03",
-   "titre": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
-   "lien": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
-   "source": "The Hacker News",
-   "date": "2026-10-27T11:32:46+00:00",
-   "extrait": "Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and tailor phishing…",
-   "tags": [
-    "Malware",
-    "IA"
    ]
   }
  ]
