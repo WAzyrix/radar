@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-06T11:05:39+00:00",
+ "maj": "2026-11-06T12:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,15 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "6625b8a777d1",
+   "titre": "The Flood is Coming And The Pipes Were Already Full",
+   "lien": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
+   "source": "The Hacker News",
+   "date": "2026-11-06T11:30:00+00:00",
+   "extrait": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the…",
+   "tags": []
+  },
   {
    "id": "0b2d6f426478",
    "titre": "War.app - Le jeu de conquête où personne n'attend son tour",
@@ -3417,17 +3426,6 @@
    "extrait": "De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et un contournement de la politique de…",
    "tags": [
     "Faille"
-   ]
-  },
-  {
-   "id": "627cc70bbf65",
-   "titre": "University of Copenhagen data breach exposes data of 525,000 people",
-   "lien": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
-   "source": "BleepingComputer",
-   "date": "2026-10-26T22:20:36+00:00",
-   "extrait": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
-   "tags": [
-    "Fuite de données"
    ]
   }
  ]
