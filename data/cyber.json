@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-06T10:05:42+00:00",
+ "maj": "2026-11-06T11:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,26 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "0b2d6f426478",
+   "titre": "War.app - Le jeu de conquête où personne n'attend son tour",
+   "lien": "https://korben.info/war-app-warzone-risk-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-06T09:58:12+00:00",
+   "extrait": "Warzone s'appelle War.app depuis avril, après un accord avec Activision. Le jeu ne change pas : une carte du monde, des ordres donnés par tous en même temps, pas de dés par défaut, et c'est gratuit…",
+   "tags": []
+  },
+  {
+   "id": "3dc5acb5ec70",
+   "titre": "Comment activer XeSS et sa génération de frames en x4 dans vos jeux Linux",
+   "lien": "https://korben.info/xess-xmx-linux-proton.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-06T09:44:47+00:00",
+   "extrait": "Le projet communautaire xess-xmx-linux fait tourner la vraie XeSS d'Intel sur les unités XMX des Arc dans les jeux Proton, frame generation 3x et 4x comprise. Matériel concerné, installation…",
+   "tags": [
+    "Linux"
+   ]
+  },
   {
    "id": "3a8f9a3bb5fd",
    "titre": "MetaMask says recent attack didn't affect wallet infrastructure",
@@ -3408,28 +3428,6 @@
    "extrait": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
    "tags": [
     "Fuite de données"
-   ]
-  },
-  {
-   "id": "9b6153963ef5",
-   "titre": "Former pentester used ARTEX AI to steal 8.2 million data records",
-   "lien": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
-   "source": "BleepingComputer",
-   "date": "2026-10-26T21:08:28+00:00",
-   "extrait": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the…",
-   "tags": [
-    "IA"
-   ]
-  },
-  {
-   "id": "154f68998af1",
-   "titre": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
-   "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
-   "source": "BleepingComputer",
-   "date": "2026-10-26T20:46:49+00:00",
-   "extrait": "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]",
-   "tags": [
-    "IA"
    ]
   }
  ]

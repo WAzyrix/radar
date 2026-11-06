@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-06T10:05:42+00:00",
+ "maj": "2026-11-06T11:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,13 +22,289 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "9b3da4c59356",
+   "titre": "Democrats could dust off plans for court reforms after capturing Congress",
+   "lien": "https://www.cbsnews.com/news/democrats-house-senate-supreme-court-reforms/",
+   "source": "CBS News",
+   "date": "2026-11-06T11:00:06+00:00",
+   "extrait": "Democrats has proposed a variety of measures aimed at reshaping the Supreme Court over the years and may be poised to push them forward after winning the House and Senate majorities.",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "5954db4d4ac2",
+   "titre": "Accident de car dans l'Ain : deux jeunes passagers sont morts, dont un mineur, le ministre des Transports attendu sur place",
+   "lien": "https://www.franceinfo.fr/faits-divers/accident/direct-accident-d-un-car-scolaire-dans-l-ain-deux-enfants-sont-morts-le-ministre-des-transports-attendu-sur-place_8270534.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-06T10:57:39+00:00",
+   "extrait": "Le véhicule a \"quitté la route et heurté un arbre dans le fossé\", selon le maire de la commune de Lent, où l'accident s'est produit dans la matinée.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "a3c55c34d0c5",
-   "titre": "Tanzanian opposition leader found guilty of incitement",
+   "titre": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
    "lien": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-11-06T10:05:32+00:00",
-   "extrait": "The 58-year-old, who has been detained since April last year, was acquitted of the more serious charge of treason.",
+   "date": "2026-11-06T10:57:30+00:00",
+   "extrait": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
    "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "1dbcb0594af8",
+   "titre": "Two dead after bus crashes in France, officials say",
+   "lien": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-06T10:57:14+00:00",
+   "extrait": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "fd99adecf84f",
+   "titre": "Un accident de car fait deux morts dans l'Ain, dont un mineur, annonce le parquet de Bourg-en-Bresse",
+   "lien": "https://www.franceinfo.fr/faits-divers/accident/un-accident-de-car-fait-plusieurs-victimes-dans-l-ain-annonce-la-prefecture_8270492.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-06T10:55:38+00:00",
+   "extrait": "La sortie de route a également fait seize blessés, dont trois dans un état grave. Le chauffeur n'a pas encore été entendu.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "c22c68b9ab77",
+   "titre": "A Lyon, l'entrée du lycée Edouard-Herriot incendiée, des élèves évacués",
+   "lien": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/le-lycee-brule-avec-des-eleves-a-l-interieur-et-certains-exultent-un-incendie-allume-devant-un-lycee-de-lyon-3445323.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-06T10:54:34+00:00",
+   "extrait": "Des poubelles ont été incendiées ce vendredi matin devant le lycée Édouard-Herriot dont la porte principale s'est embrasée.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "d968387dd2ea",
+   "titre": "Ukraine : le bilan de la frappe russe de lundi dans le Sud monte à 50 morts",
+   "lien": "https://www.france24.com/fr/europe/20261106-ukraine-le-bilan-de-la-frappe-russe-de-lundi-dans-le-sud-monte-%C3%A0-50-morts",
+   "source": "France 24",
+   "date": "2026-11-06T10:50:55+00:00",
+   "extrait": "Le bilan de la frappe russe qui a touché, lundi, un point de distribution d'aide humanitaire dans le sud de l'Ukraine a grimpé à 50 morts, ont annoncé vendredi les secours, alors que des corps…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "ffc4f8f9dbe4",
+   "titre": "Les géants de l'IA s'effondrent en Bourse après la défaite des républicains aux midterms",
+   "lien": "https://www.franceinfo.fr/internet/intelligence-artificielle/l-ia-s-effondre-en-bourse-apres-la-defaite-des-republicains-aux-midterms_8270603.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-06T10:46:42+00:00",
+   "extrait": "Lors des élections de mi-mandat aux États-Unis, de nombreux électeurs ont choisi les démocrates car ils s'opposaient au développement des data centers.",
+   "tags": [
+    "Politique",
+    "Économie",
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "e963b51b327c",
+   "titre": "En Italie, une « taxe de sortie » pour les grandes fortunes",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/06/en-italie-une-taxe-de-sortie-pour-les-grandes-fortunes_6807773_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-06T10:45:05+00:00",
+   "extrait": "Le projet de loi de finances pour 2027 du gouvernement Meloni prévoit la création d’une « exit tax » visant les grandes fortunes qui décideraient de quitter l’Italie. Une mesure qui infléchirait une…",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "d41a5dad57e0",
+   "titre": "RD Congo : des milliers d'agents déployés pour lancer le recensement national",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-rd-congo-des-milliers-d-agents-d%C3%A9ploy%C3%A9s-pour-lancer-le-recensement-national",
+   "source": "France 24",
+   "date": "2026-11-06T10:43:34+00:00",
+   "extrait": "En RD Congo, le recensement général de la population entre dans sa phase pratique. Des milliers d’agents cartographes sillonnent les rues de la capitale pour recueillir les données sur la…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "015f73f5bd71",
+   "titre": "Afrique du Sud : vers un score historiquement bas pour l'ANC aux municipales ?",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-afrique-du-sud-vers-un-score-historiquement-bas-pour-l-anc-aux-municipales",
+   "source": "France 24",
+   "date": "2026-11-06T10:42:09+00:00",
+   "extrait": "Le Congrès national africain (ANC), à la tête de l'Afrique du Sud depuis 1994, se dirige vers le pire résultat électoral de son histoire, indiquaient les scores après dépouillement de la moitié des…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "56c988fe7431",
+   "titre": "AGOA : les États-Unis menacent d'exclure le Rwanda et l'Afrique du Sud",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-agoa-les-%C3%A9tats-unis-menacent-d-exclure-le-rwanda-et-l-afrique-du-sud",
+   "source": "France 24",
+   "date": "2026-11-06T10:39:07+00:00",
+   "extrait": "L'administration Trump veut retirer au Rwanda et à l'Afrique du Sud leur accès préférentiel au marché américain, dans le cadre de l'AGOA, un accord qui permet à plus de trente pays africains…",
+   "tags": [
+    "Politique",
+    "Économie",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "bc580b9ed8d3",
+   "titre": "Martine Rose nommée directrice artistique de Balenciaga",
+   "lien": "https://www.lemonde.fr/m-styles/article/2026/11/06/martine-rose-nommee-directrice-artistique-de-balenciaga_6807772_4497319.html",
+   "source": "Le Monde",
+   "date": "2026-11-06T10:38:59+00:00",
+   "extrait": "La créatrice britannico-jamaïcaine remplace Pierpaolo Piccioli, écarté après seulement dix-huit mois. Elle incarne un changement de cap pour la griffe du groupe Kering.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "c14d3925c2fd",
+   "titre": "Sept personnes, dont l'ex-joueuse du PSG Aminata Diallo, renvoyées en correctionnelle dans l'affaire de l'agression de Kheira Hamraoui",
+   "lien": "https://www.franceinfo.fr/sports/foot/sept-personnes-dont-l-ex-joueuse-du-psg-aminata-diallo-renvoyees-en-correctionnelle-dans-l-affaire-hamraoui_8270579.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-06T10:33:20+00:00",
+   "extrait": "L'ancienne joueuse du Paris Saint-Germain et de l'équipe de France, qui évolue aujourd'hui en Arabie saoudite, est suspectée d'avoir commandité l'agression de Kheira Hamraoui il y a cinq ans, alors…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "fee16c41ac24",
+   "titre": "Les violences conjugales ont augmenté de 5% en un an",
+   "lien": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/les-violences-conjugales-ont-augmente-de-5-en-un-an_8270633.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-06T10:29:01+00:00",
+   "extrait": "Les forces de l'ordre ont recensé 285 000 victimes de violences conjugales en 2025. Le meilleur accueil des victimes et la libération de la parole des femmes pourraient expliquer cette hausse des…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "27cd1ac09b3e",
+   "titre": "Accident de car dans l'Ain : deux jeunes dont un mineur tués, 16 blessés",
+   "lien": "https://www.france24.com/fr/france/20261106-accident-de-car-dans-l-ain-deux-jeunes-dont-un-mineur-tu%C3%A9s-3-bless%C3%A9s-graves",
+   "source": "France 24",
+   "date": "2026-11-06T10:26:22+00:00",
+   "extrait": "Un accident de car d'une ligne régionale transportant de nombreux élèves au sud de Bourg-en-Bresse a tué, vendredi matin, deux jeunes dont un mineur et fait 16 blessés dont trois graves, selon un…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "2cafb6e5ab55",
+   "titre": "L’année 2026 sera « probablement » la deuxième année la plus chaude jamais enregistrée dans le monde, après 2024",
+   "lien": "https://www.lemonde.fr/planete/article/2026/11/06/l-annee-2026-sera-probablement-la-deuxieme-annee-la-plus-chaude-jamais-enregistree-dans-le-monde-apres-2024_6807768_3244.html",
+   "source": "Le Monde",
+   "date": "2026-11-06T10:25:24+00:00",
+   "extrait": "Par ailleurs, octobre 2026 a été, à l’échelle mondiale, le mois d’octobre le plus chaud jamais enregistré sur la planète, avec une température moyenne de l’air supérieure de 1,75 °C à celle de…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "7fd4c5e94b20",
+   "titre": "Oil prices rebound slightly as Iran claims new attacks on ships",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/",
+   "source": "CBS News",
+   "date": "2026-11-06T10:23:03+00:00",
+   "extrait": "Oil rebounds slightly as ships continue coming under attack in the Persian Gulf after prices plunged following President Trump's midterm elections rebuke.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "2b2705404b07",
+   "titre": "L'IA fait vaciller les Bourses mondiales après les midterms",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-l-ia-fait-vaciller-les-bourses-mondiales-apr%C3%A8s-les-midterms",
+   "source": "France 24",
+   "date": "2026-11-06T10:16:53+00:00",
+   "extrait": "Les valeurs liées à l'IA ont dégringolé jeudi sur les marchés boursiers mondiaux, les investisseurs craignant que la construction de centres de données ne soit freinée aux États-Unis, après la…",
+   "tags": [
+    "Politique",
+    "Économie",
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "af053026e19e",
+   "titre": "Depuis son ouverture, le Puy du Fou espagnol a déjà conquis plus de 6 millions de visiteurs",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-depuis-son-ouverture-le-puy-du-fou-espagnol-a-d%C3%A9j%C3%A0-conquis-plus-de-6-millions-de-visiteurs",
+   "source": "France 24",
+   "date": "2026-11-06T10:15:11+00:00",
+   "extrait": "Le Puy du Fou España a officiellement franchi le cap des 6 millions de visiteurs cumulés le 12 septembre 2026, consolidant sa position sur la scène touristique européenne. Ce jalon symbolique…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "f0da9b6e9075",
+   "titre": "Accident de car dans l'Ain : un mineur et un jeune majeur décédés et 16 blessés dont 3 graves",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-accident-de-car-dans-l-ain-un-mineur-et-un-jeune-majeur-d%C3%A9c%C3%A9d%C3%A9s-et-16-bless%C3%A9s-dont-3-graves",
+   "source": "France 24",
+   "date": "2026-11-06T10:14:38+00:00",
+   "extrait": "Un accident ​impliquant un car d'une ​ligne de transport interurbain dans le secteur ​de ‌Lent (Ain) a ⁠fait \"plusieurs victimes\", a annoncé ‌vendredi la préfecture de l'Ain.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "beb0925c2d53",
+   "titre": "Tom Laperche file vers la victoire sur la Route du Rhum, son arrivée attendue samedi",
+   "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/tom-laperche-file-vers-la-victoire-sur-la-route-du-rhum-son-arrivee-attendue-samedi_8270471.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-06T10:12:41+00:00",
+   "extrait": "Le skippeur SVR Lazartigue a creusé l'écart, et pourrait battre le record de l'épreuve établi lors de la précédente édition.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "3003dfeeef6f",
+   "titre": "Israël : Gadi Eisenkot bien placé pour former le prochain gouvernement ?",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-isra%C3%ABl-gadi-eisenkot-bien-plac%C3%A9-pour-former-le-prochain-gouvernement",
+   "source": "France 24",
+   "date": "2026-11-06T10:10:19+00:00",
+   "extrait": "Le président israélien annoncera dimanche qui sera chargé de former le prochain gouvernement, le centriste Gadi Eisenkot apparaissant en position de force grâce au soutien des partis arabes face au…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "44e510b96c2a",
+   "titre": "Paraguay : Santiago Peña, l'économiste réputé défait par une crise bancaire",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-paraguay-santiago-pe%C3%B1a-l-%C3%A9conomiste-r%C3%A9put%C3%A9-d%C3%A9fait-par-une-crise-bancaire",
+   "source": "France 24",
+   "date": "2026-11-06T10:10:04+00:00",
+   "extrait": "Le président paraguayen Santiago Peña, qui a présenté sa démission jeudi, est passé en trois ans d'une image de brillant économiste incarnant la jeune garde du parti dominant dans le pays, à celle…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "315a97e0d0fd",
+   "titre": "Après les midterms, la montée en puissance des socialistes démocrates redessine la présidentielle",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-apr%C3%A8s-les-midterms-la-mont%C3%A9e-en-puissance-des-socialistes-d%C3%A9mocrates-redessine-la-pr%C3%A9sidentielle",
+   "source": "France 24",
+   "date": "2026-11-06T10:06:57+00:00",
+   "extrait": "Au lendemain des midterms, les deux grands partis américains ont déjà les yeux rivés sur la présidentielle. Alors que les divisions internes s’expriment au sein de chaque camp, l’émergence de…",
+   "tags": [
+    "Politique"
+   ],
    "zone": "monde"
   },
   {
@@ -62,26 +338,6 @@
    "extrait": "School enrollment was already expected to plunge by 2 million kids by 2030. Education experts say deporting immigrant families, many with school-age children, is making the crisis worse.",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "c14d3925c2fd",
-   "titre": "Sept personnes, dont l'ex-joueuse du PSG Aminata Diallo, renvoyées en correctionnelle dans l'affaire de l'agression de Kheira Hamraoui",
-   "lien": "https://www.franceinfo.fr/sports/foot/sept-personnes-dont-l-ex-joueuse-du-psg-aminata-diallo-renvoyees-en-correctionnelle-dans-l-affaire-hamraoui_8270579.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-06T09:57:26+00:00",
-   "extrait": "L'ancienne joueuse du Paris Saint-Germain et de l'équipe de France, qui évolue aujourd'hui en Arabie saoudite, est suspectée d'avoir participé à l'agression de Kheira Hamraoui il y a cinq ans, alors…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "1dbcb0594af8",
-   "titre": "'Several victims' after bus crashes in France, officials say",
-   "lien": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-06T09:57:11+00:00",
-   "extrait": "The local mayor says the bus \"left the road and hit a tree in the ditch\", with the education minister saying students are involved.",
-   "tags": [],
-   "zone": "monde"
   },
   {
    "id": "af31ad637890",
@@ -155,16 +411,14 @@
    "zone": "usa"
   },
   {
-   "id": "5954db4d4ac2",
-   "titre": "Accident d'un car dans l'Ain : deux enfants sont morts, le ministre des Transports attendu sur place",
-   "lien": "https://www.franceinfo.fr/faits-divers/accident/direct-accident-d-un-car-scolaire-dans-l-ain-deux-enfants-sont-morts-le-ministre-des-transports-attendu-sur-place_8270534.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-06T09:46:59+00:00",
-   "extrait": "Le véhicule a \"quitté la route et heurté un arbre dans le fossé\", selon le maire de la commune de Lent (Ain), où l'accident s'est produit dans la matinée.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
+   "id": "62afb68f8e76",
+   "titre": "Former Army medic reflects on his toughest moments helping the wounded",
+   "lien": "https://www.npr.org/2026/11/06/nx-s1-6027720/former-army-medic-reflects-on-his-toughest-moments-helping-the-wounded",
+   "source": "NPR",
+   "date": "2026-11-06T09:46:06+00:00",
+   "extrait": "Twenty years ago, Army Staff Sergeant Phillip Trezza deployed to Iraq as a medic. He speaks with his teenage daughter about some of his toughest moments.",
+   "tags": [],
+   "zone": "usa"
   },
   {
    "id": "6f0c9dfc485c",
@@ -210,18 +464,6 @@
    "source": "franceinfo",
    "date": "2026-11-06T09:20:29+00:00",
    "extrait": "Découvrez la liste actualisée de tous les candidats et candidates lancés dans la course à l'Elysée, classés par couleur politique.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "fd99adecf84f",
-   "titre": "Un accident de car fait \"plusieurs victimes\" dans l'Ain, annonce la préfecture",
-   "lien": "https://www.franceinfo.fr/faits-divers/accident/un-accident-de-car-fait-plusieurs-victimes-dans-l-ain-annonce-la-prefecture_8270492.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-06T09:20:28+00:00",
-   "extrait": "Le ministre des Transport, Philippe Tabarot, a annoncé se rendre sur place.",
    "tags": [
     "Politique"
    ],
@@ -302,18 +544,8 @@
    "zone": "monde"
   },
   {
-   "id": "beb0925c2d53",
-   "titre": "Tom Laperche file vers la victoire sur la Route du Rhum, son arrivée attendue samedi",
-   "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/tom-laperche-file-vers-la-victoire-sur-la-route-du-rhum-son-arrivee-attendue-samedi_8270471.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-06T09:04:05+00:00",
-   "extrait": "Le skipper SVR Lazartigue a creusé l'écart, et pourrait battre le record de l'épreuve établi lors de la précédente édition.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
    "id": "ec692af23d61",
-   "titre": "\"C'est un immense privilège\" : la britannique Martine Rose nommée à la tête de Balenciaga",
+   "titre": "\"C'est un immense privilège\" : la créatrice britannique Martine Rose nommée à la tête de Balenciaga",
    "lien": "https://www.franceinfo.fr/culture/mode/balenciaga/c-est-un-immense-privilege-la-britannique-martine-rose-nommee-a-la-tete-de-balenciaga_8270477.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-11-06T09:03:34+00:00",
@@ -357,12 +589,22 @@
    "zone": "france"
   },
   {
+   "id": "b5d9beac0328",
+   "titre": "Les importations d’animaux vers Vantara, gigantesque sanctuaire indien, restent sous surveillance malgré la volonté du centre de redorer son image",
+   "lien": "https://www.lemonde.fr/planete/article/2026/11/06/les-importations-d-animaux-vers-vantara-gigantesque-sanctuaire-indien-restent-sous-surveillance-malgre-la-volonte-du-centre-de-redorer-son-image_6807749_3244.html",
+   "source": "Le Monde",
+   "date": "2026-11-06T09:00:11+00:00",
+   "extrait": "Alors que l’Inde a été critiquée pour ne pas avoir suffisamment contrôlé les importations massives d’animaux à destination de cette grande réserve privée, le pays demeure sous la surveillance de la…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "8726d67c8c13",
-   "titre": "Un accident de car près de Bourg-en-Bresse fait plusieurs victimes",
+   "titre": "Deux personnes meurent dans un accident de car dans l’Ain ; 16 blessés, dont 3 graves",
    "lien": "https://www.lemonde.fr/societe/article/2026/11/06/un-accident-de-car-pres-de-bourg-en-bresse-fait-plusieurs-victimes_6807748_3224.html",
    "source": "Le Monde",
    "date": "2026-11-06T08:58:26+00:00",
-   "extrait": "L’accident, qui s’est produit vendredi matin à Lent, dans l’Ain, au sud de Bourg-en-Bresse, a fait « 2 morts et 3 blessés sur 63 passagers », selon la préfecture de l’Ain. Le ministre des…",
+   "extrait": "L’accident, qui s’est produit vendredi matin à Lent, dans l’Ain, au sud de Bourg-en-Bresse, a fait « 2 morts, dont un mineur, et 16 blessés, dont 3 graves », selon la préfecture de l’Ain. Le…",
    "tags": [
     "Politique"
    ],
@@ -377,19 +619,6 @@
    "extrait": "Excédés par des heures de coupures d’électricité, les habitants de Karachi sont descendus dans la rue et ont bloqué plusieurs axes du poumon économique du Pakistan. Une colère qui illustre les…",
    "tags": [],
    "zone": "monde"
-  },
-  {
-   "id": "7fd4c5e94b20",
-   "titre": "Oil prices rebound slightly as Iran claims new attacks on ships",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/",
-   "source": "CBS News",
-   "date": "2026-11-06T08:55:42+00:00",
-   "extrait": "Oil rebounds slightly as ships continue coming under attack in the Persian Gulf after prices plunged following President Trump's midterm elections rebuke.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
   },
   {
    "id": "b2eb974c0589",
@@ -874,6 +1103,16 @@
    "zone": "usa"
   },
   {
+   "id": "2d28c6cd4880",
+   "titre": "Sait-on recycler les batteries électriques ?",
+   "lien": "https://www.lemonde.fr/planete/article/2026/11/06/sait-on-recycler-les-batteries-electriques_6807730_3244.html",
+   "source": "Le Monde",
+   "date": "2026-11-06T05:30:07+00:00",
+   "extrait": "Chaque semaine, l’équipe du podcast « Chaleur humaine » répond à vos questions sur la transition climatique",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "0c6a0419d1c5",
    "titre": "Présidentielle 2027 : Jean-Luc Mélenchon construit son programme L’Avenir en commun autour du concept de « nouvelle France »",
    "lien": "https://www.lemonde.fr/politique/article/2026/11/06/presidentielle-2027-jean-luc-melenchon-construit-son-programme-l-avenir-en-commun-autour-du-concept-de-nouvelle-france_6807729_823448.html",
@@ -1211,6 +1450,16 @@
     "Économie"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "0d7d1e6bf2da",
+   "titre": "Reboots of Girls & Harry Potter: Has Hollywood Run Out of Ideas? | Straight Up with Kelly and Vlad",
+   "lien": "https://www.cbsnews.com/video/reboots-girls-glee-harry-potter-hollywood-run-out-of-ideas/",
+   "source": "CBS News",
+   "date": "2026-11-06T01:57:00+00:00",
+   "extrait": "Scrubs is back. Malcolm in the Middle is back. Girls, Glee and Clueless are on the way, and Harry Potter starts all over again on Christmas Day. Has Hollywood run out of ideas, or just run out of…",
+   "tags": [],
+   "zone": "usa"
   },
   {
    "id": "e43da8bdfea9",
@@ -3227,260 +3476,6 @@
    "extrait": "Chris Pappas, élu dans le New Hampshire lors des midterms le mardi 3 novembre, devient le premier sénateur ouvertement gay. Après sa victoire, il est apparu avec celui qu'il décrit comme \"son mari…",
    "tags": [],
    "zone": "monde"
-  },
-  {
-   "id": "4ebbd37ef137",
-   "titre": "Can kids outgrow peanut allergies?",
-   "lien": "https://www.cbsnews.com/video/can-kids-outgrow-a-peanut-allergies/",
-   "source": "CBS News",
-   "date": "2026-11-05T16:03:00+00:00",
-   "extrait": "Dr. Tania Elliott joins \"CBS Mornings\" to break down information about peanut allergies, and discuss a new study suggesting more kids need to be retested.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "c412636f6f10",
-   "titre": "Le ténor star Roberto Alagna et la soprano américaine Ailyn Pérez ressuscitent « Manon Lescaut » de Puccini à Paris",
-   "lien": "https://www.lemonde.fr/culture/article/2026/11/05/le-tenor-star-roberto-alagna-et-la-soprano-americaine-ailyn-perez-ressuscitent-manon-lescaut-de-puccini-a-paris_6807077_3246.html",
-   "source": "Le Monde",
-   "date": "2026-11-05T16:00:07+00:00",
-   "extrait": "Le premier grand succès du compositeur italien est interprété par un Orchestre national de France incandescent dirigé, par le chef Lorenzo Passerini, au Théâtre des Champs-Elysées. Une première dans…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "cb895246e3da",
-   "titre": "La déroute du camp Trump aux midterms : qu'en est-il de la future politique économique ?",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261105-la-d%C3%A9route-du-camp-trump-aux-midterms-qu-en-est-il-de-la-future-politique-%C3%A9conomique",
-   "source": "France 24",
-   "date": "2026-11-05T16:00:06+00:00",
-   "extrait": "Suite à la défaite du camp Trump ce mardi 3 novembre aux midterms, des questionnements quant au futur économique du pays émergent. Moins d'investissement dans le militaire, plus dans la santé et la…",
-   "tags": [
-    "Politique",
-    "Économie",
-    "Santé"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "c6540d6318a8",
-   "titre": "Escaped killer hid in shed, stole truck, left apology note before capture",
-   "lien": "https://www.cbsnews.com/news/escaped-killer-hid-shed-drank-beer-stole-truck-apology-note/",
-   "source": "CBS News",
-   "date": "2026-11-05T15:57:40+00:00",
-   "extrait": "Authorities are still trying to piece together how a convicted murderer in Tennessee evaded capture for more than a week.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "40cd02e5c19c",
-   "titre": "Grève du 5 novembre : une augmentation du SMIC demandée pas les syndicats",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261105-gr%C3%A8ve-du-5-novembre-une-augmentation-du-smic-demand%C3%A9e-pas-les-syndicats",
-   "source": "France 24",
-   "date": "2026-11-05T15:57:21+00:00",
-   "extrait": "Déjà un \"succès\" de la mobilisation du jeudi 5 novembre pour les syndicats : les grèves pour différentes causes sociales avaient rassemblé à la mi-journée des centaines de milliers de personnes hors…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "b1a46f188c81",
-   "titre": "Grève du 5 novembre : le cortège devrait rassembler entre 40 000 et 80 000 manifestants à Paris",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261105-gr%C3%A8ve-du-5-novembre-le-cort%C3%A8ge-devrait-rassembler-entre-40-000-et-80-000-manifestants-%C3%A0-paris",
-   "source": "France 24",
-   "date": "2026-11-05T15:55:04+00:00",
-   "extrait": "Près de 10 %, des agents de la fonction publique d'Etat ont participé jeudi 5 novembre au mouvement de grève dans le cadre de la journée d'action pour les salaires et le pouvoir d'achat, d'après le…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "b42362010773",
-   "titre": "How America voted in maps and charts",
-   "lien": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-05T15:52:04+00:00",
-   "extrait": "See the maps and charts that show how America voted in the US midterm elections.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "51292e02e368",
-   "titre": "Cristiano Ronaldo prend sa retraite internationale, triste fin d’une histoire qui a un peu trop duré",
-   "lien": "https://www.lemonde.fr/sport/article/2026/11/05/cristiano-ronaldo-prend-sa-retraite-internationale-triste-fin-d-une-histoire-qui-a-un-peu-trop-dure_6807075_3242.html",
-   "source": "Le Monde",
-   "date": "2026-11-05T15:50:55+00:00",
-   "extrait": "Le footballeur portugais a annoncé qu’il raccrochait les crampons en sélection, jeudi, dans une vidéo publiée sur Instagram. Véritable légende dans son pays, il part sur un coup d’éclat et une…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "fa3936aa041c",
-   "titre": "Russell Brand is being investigated over two new rape complaints, police say",
-   "lien": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-05T15:44:49+00:00",
-   "extrait": "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "8654b4112e6d",
-   "titre": "Midterms : les démocrates engrangent les sièges, Donald Trump fustige des élections \"truquées\"",
-   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261105-midterms-les-d%C3%A9mocrates-engrangent-les-si%C3%A8ges-donald-trump-fustige-des-%C3%A9lections-truqu%C3%A9es",
-   "source": "France 24",
-   "date": "2026-11-05T15:44:04+00:00",
-   "extrait": "Après leur victoire éclatante aux élections américaines de mi-mandat, les démocrates sont assurés de compter au moins 250 élus à la Chambre des représentants et 54 sénateurs, alors même que le…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "df71ed07a3ed",
-   "titre": "Details emerge after gunman opens fire at Citibank building in Tampa",
-   "lien": "https://www.cbsnews.com/video/details-emerge-after-gunman-opens-fire-at-citibank-building-in-tampa/",
-   "source": "CBS News",
-   "date": "2026-11-05T15:43:54+00:00",
-   "extrait": "Details are emerging on the shooting inside the Citibank building in Tampa, Florida, that killed one person and injured others, according to police. Cristian Benavidess reports.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "d3e7d2df70fd",
-   "titre": "Extended interview: Former Border Patrol chief on changes at border under Trump, more",
-   "lien": "https://www.cbsnews.com/video/extended-interview-former-border-patrol-chief-raul-ortiz/",
-   "source": "CBS News",
-   "date": "2026-11-05T15:43:43+00:00",
-   "extrait": "Former Border Patrol Chief Raul Ortiz sat down with CBS News' Camilo Montoya-Galvez last month to discuss the drop in illegal crossings at the southern border under President Trump and why he thinks…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "dbf8382ccdf3",
-   "titre": "Un lycée fermé à Tournefeuille, près de Toulouse, après un début d’incendie par des personnes masquées",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/05/un-lycee-ferme-pres-de-toulouse-apres-un-debut-d-incendie-par-des-personnes-masquees_6807073_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-05T15:42:42+00:00",
-   "extrait": "Sur des images d’Ici-Occitanie, on voit des personnes masquées et vêtues de noir pénétrer dans un lycée de Tournefeuille (Haute-Garonne). « Le lycée sera fermé pour la journée », a prévenu la…",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "8f86fcff5b8f",
-   "titre": "Dépenses du gouvernement : une étude relève « l’opacité » des rémunérations dans les cabinets ministériels",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/05/depenses-du-gouvernement-une-etude-releve-l-opacite-des-remunerations-dans-les-cabinets-ministeriels_6807040_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-05T15:38:58+00:00",
-   "extrait": "Dans une note pour l’Observatoire de l’éthique publique, qu’il préside, l’ancien député René Dosière évalue le « coût du gouvernement Lecornu » à 165,7 millions d’euros en année pleine, soit moins…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "87b3f47eef48",
-   "titre": "Rénovation des lycées : la liste du gouvernement contestée par les régions, qui dénoncent une méthode « inacceptable »",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/05/renovation-des-lycees-la-liste-du-gouvernement-contestee-par-les-regions-qui-denoncent-une-methode-inacceptable_6807039_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-05T15:36:56+00:00",
-   "extrait": "Lundi, le ministre de l’éducation nationale, Edouard Geffray, a annoncé que la plateforme de concertation avait permis d’identifier 200 bâtiments à rénover en priorité, se félicitant que, « pour la…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "50b9dde2b6c9",
-   "titre": "Le braqueur français Antonio Ferrara a été condamné à 13 ans de prisonen Belgique",
-   "lien": "https://www.franceinfo.fr/societe/justice/le-braqueur-francais-antonio-ferrara-a-ete-condamne-en-belgique-a-13-ans-de-prison_8269508.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-05T15:35:33+00:00",
-   "extrait": "Il était jugé pour un projet d'attaque à main armée à Bochum (Allemagne), début 2025.",
-   "tags": [
-    "Conflits",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "e87bfd65ea2f",
-   "titre": "\"Tout brûler ce n'est pas drôle, ça ne sert à rien\" : près de Toulouse, un lycée saccagé par des tirs de mortiers d'artifice",
-   "lien": "https://www.franceinfo.fr/economie/greve/greve/pres-de-toulouse-un-lycee-saccage-par-des-tirs-de-mortiers-d-artifice_8269322.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-05T15:35:05+00:00",
-   "extrait": "Une partie d'un lycée professionnel situé à Tournefeuille, en Haute-Garonne, a été incendiée après des tirs de mortiers d'artifice, jeudi 5 novembre. L'opération a été menée par des jeunes cagoulés.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "a1ddf0409577",
-   "titre": "Midterms : la déroute républicaine fragilise l'avenir de Pete Hegseth au Pentagone",
-   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261105-apr%C3%A8s-la-d%C3%A9route-r%C3%A9publicaine-aux-midterms-les-jours-compt%C3%A9s-de-pete-hegseth-au-pentagone-donald-trump",
-   "source": "France 24",
-   "date": "2026-11-05T15:33:24+00:00",
-   "extrait": "Visage de l'impopulaire guerre en Iran, le controversé Pete Hegseth apparaît comme un bouc émissaire idéal après la débâcle du camp Trump aux élections de mi-mandat. Alors que les démocrates…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "1a1415416d0c",
-   "titre": "De quoi parle l’extrême droite lorsqu’elle utilise le terme « remigration » ?",
-   "lien": "https://www.lemonde.fr/videos/video/2026/11/05/de-quoi-parle-l-extreme-droite-lorsqu-elle-utilise-le-terme-remigration_6807006_1669088.html",
-   "source": "Le Monde",
-   "date": "2026-11-05T15:30:08+00:00",
-   "extrait": "Le week-end du 31 octobre, des tags « Remigration » ont été découverts dans des rues de Paris, en marge d’un colloque et d’une manifestation sur ce thème, qui ont été annulés par arrêtés préfectoraux.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "ed8acce162ce",
-   "titre": "Exclusive discounts from CBS Mornings Deals",
-   "lien": "https://www.cbsnews.com/video/cbs-mornings-deals-110526/",
-   "source": "CBS News",
-   "date": "2026-11-05T15:27:35+00:00",
-   "extrait": "On this edition of CBS Deals, we show you items that could help improve your everyday lifestyle. Visit cbsdeals.com to take advantage of these exclusive deals today. CBS earns commissions on…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "cddcf21f7fdd",
-   "titre": "Natalee Holloway's mom says she suspected Joran van der Sloot of daughter's disappearance in new doc",
-   "lien": "https://www.cbsnews.com/video/natalee-holloways-mom-suspected-joran-van-der-sloot-of-daughter-disappearance-new-documentary/",
-   "source": "CBS News",
-   "date": "2026-11-05T15:22:58+00:00",
-   "extrait": "A new Netflix documentary called \"Taken: Natalee Hollloway\" reveals stunning details about the 18-year-old's disappearance and her mother's confrontation with the man eventually arrested for her…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "075affd876a6",
-   "titre": "Russell Brand found guilty of rape and sexual assault",
-   "lien": "https://www.cbsnews.com/video/russell-brand-found-guilty-of-rape-and-sexual-assault/",
-   "source": "CBS News",
-   "date": "2026-11-05T15:20:17+00:00",
-   "extrait": "Actor Russell Brand has been found guilty of rape and sexual assault. CBS News' Vlad Duthiers reports.",
-   "tags": [],
-   "zone": "usa"
   }
  ]
 }
