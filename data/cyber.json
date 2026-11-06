@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-06T00:05:39+00:00",
+ "maj": "2026-11-06T01:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "97d7db0e7e4a",
+   "titre": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+   "lien": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+   "source": "BleepingComputer",
+   "date": "2026-11-06T00:56:44+00:00",
+   "extrait": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards…",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
   {
    "id": "886e9406677f",
    "titre": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
@@ -3418,19 +3429,6 @@
    "extrait": "A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]",
    "tags": [
     "Faille"
-   ]
-  },
-  {
-   "id": "03f54c74f6fe",
-   "titre": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
-   "lien": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
-   "source": "The Hacker News",
-   "date": "2026-10-26T15:52:40+00:00",
-   "extrait": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external chat…",
-   "tags": [
-    "Ransomware",
-    "Malware",
-    "Windows"
    ]
   }
  ]
