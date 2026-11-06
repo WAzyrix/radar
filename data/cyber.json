@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-06T12:05:39+00:00",
+ "maj": "2026-11-06T13:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,42 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "d0b8b49f25ce",
+   "titre": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
+   "lien": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
+   "source": "BleepingComputer",
+   "date": "2026-11-06T12:37:22+00:00",
+   "extrait": "D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "649e0d8b078e",
+   "titre": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
+   "lien": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
+   "source": "The Hacker News",
+   "date": "2026-11-06T12:06:43+00:00",
+   "extrait": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The fixed build…",
+   "tags": [
+    "CVE",
+    "Faille",
+    "Fuite de données",
+    "Windows"
+   ]
+  },
+  {
+   "id": "cea41b0360f6",
+   "titre": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
+   "lien": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
+   "source": "The Hacker News",
+   "date": "2026-11-06T12:06:35+00:00",
+   "extrait": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test. The…",
+   "tags": [
+    "Faille"
+   ]
+  },
   {
    "id": "6625b8a777d1",
    "titre": "The Flood is Coming And The Pipes Were Already Full",
@@ -3392,39 +3428,6 @@
    "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges…",
    "tags": [
     "CVE",
-    "Faille"
-   ]
-  },
-  {
-   "id": "16bce2099ff9",
-   "titre": "Multiples vulnérabilités dans Tenable Network Monitor (27 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1390/",
-   "source": "CERT-FR",
-   "date": "2026-10-27T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Tenable Network Monitor. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "bed2f1945b9c",
-   "titre": "Vulnérabilité dans Mattermost Server (27 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1388/",
-   "source": "CERT-FR",
-   "date": "2026-10-27T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un déni de service à distance.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "552d52685105",
-   "titre": "Multiples vulnérabilités dans Mozilla Firefox (27 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1391/",
-   "source": "CERT-FR",
-   "date": "2026-10-27T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et un contournement de la politique de…",
-   "tags": [
     "Faille"
    ]
   }
