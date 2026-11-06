@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-06T20:05:39+00:00",
+ "maj": "2026-11-06T21:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,19 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "ba147c5fc5c9",
+   "titre": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+   "lien": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+   "source": "BleepingComputer",
+   "date": "2026-11-06T20:24:19+00:00",
+   "extrait": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct…",
+   "tags": [
+    "Faille",
+    "IA",
+    "Linux"
+   ]
+  },
   {
    "id": "a97be9095b72",
    "titre": "Fake security tools on GitHub push backdoors and infostealers",
@@ -3416,18 +3429,6 @@
    "extrait": "The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]",
    "tags": [
     "Faille"
-   ]
-  },
-  {
-   "id": "b611ff4c270c",
-   "titre": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
-   "lien": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
-   "source": "BleepingComputer",
-   "date": "2026-10-27T14:01:11+00:00",
-   "extrait": "Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the…",
-   "tags": [
-    "Outil",
-    "Windows"
    ]
   }
  ]
