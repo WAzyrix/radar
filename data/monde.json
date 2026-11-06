@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-06T19:05:41+00:00",
+ "maj": "2026-11-06T19:42:50+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,11 +22,213 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "1270bea40600",
+   "titre": "Mobilisation de la jeunesse : Sébastien Lecornu recevra les représentants des lycéens et des étudiants lundi",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-sociale-le-ministre-du-travail-juge-important-d-essayer-de-relever-le-smic-au-dela-de-la-barre-des-1-500-euros-net_8270366.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-06T19:41:33+00:00",
+   "extrait": "Les organisations de jeunesse seront réunies à partir de 15h30, avant une réunion du comité de réforme de Parcoursup, qui doit rendre ses premières recommandations dans les prochaines semaines.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "0abf2f74bd45",
+   "titre": "Sen. Chris Murphy out of hospital, will miss votes after stroke",
+   "lien": "https://www.cbsnews.com/news/chris-murphy-stroke-hospital-miss-votes/",
+   "source": "CBS News",
+   "date": "2026-11-06T19:41:00+00:00",
+   "extrait": "Murphy's doctor said he expects the senator to \"make a full recovery following rehabilitation.\"",
+   "tags": [
+    "Politique",
+    "Santé"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "b43fe65246e1",
+   "titre": "Trump installs Stephen Miller as chief of staff, replacing Susie Wiles",
+   "lien": "https://www.cbsnews.com/news/stephen-miller-trump-chief-of-staff-susie-wiles/",
+   "source": "CBS News",
+   "date": "2026-11-06T19:40:33+00:00",
+   "extrait": "President Trump announced Stephen Miller will replace Susie Wiles as his chief of staff, the most significant shakeup of his team since the midterms.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "b412a7bb391e",
+   "titre": "Trump touts imminent decision on potential new attack on Iran",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
+   "source": "CBS News",
+   "date": "2026-11-06T19:39:35+00:00",
+   "extrait": "President Trump says he will make a decision \"very soon\" on whether to \"destroy what is left of\" Iran, calls Qatari emir as mediators push for a peace deal.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "8fc8e90c6b31",
+   "titre": "AI stocks climb after trillions wiped from market values",
+   "lien": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-06T19:37:10+00:00",
+   "extrait": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+   "tags": [
+    "Politique",
+    "Économie",
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "b9555caac80b",
+   "titre": "Democrats eye Supreme court reforms after the midterms",
+   "lien": "https://www.cbsnews.com/video/democrats-eye-supreme-court-reforms-after-the-midterms/",
+   "source": "CBS News",
+   "date": "2026-11-06T19:35:44+00:00",
+   "extrait": "Democrats may target the Supreme Court for reforms such as a firm code of conduct, term limits or possibly expanding the number of high court justices. CBS News' Melissa Quinn reports.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "166b21e3adb8",
+   "titre": "Trump shakes up team as Democratic majority comes into focus",
+   "lien": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
+   "source": "CBS News",
+   "date": "2026-11-06T19:34:34+00:00",
+   "extrait": "President Trump is swapping out his chief of staff after Republicans' losses in the midterms, with more than two dozen House races unresolved. Follow live updates.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "d99a36da2f50",
+   "titre": "Thomas Markle Sr., Meghan's father, arrested in Florida",
+   "lien": "https://www.cbsnews.com/news/thomas-markle-sr-meghan-father-arrested-florida/",
+   "source": "CBS News",
+   "date": "2026-11-06T19:31:04+00:00",
+   "extrait": "It was reported in October that Meghan's estranged father, Thomas Markle, was under investigation by authorities in the Philippines for alleged possession of child sexual abuse materials.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "d8b83daed93c",
+   "titre": "How to shop for car insurance online",
+   "lien": "https://www.cbsnews.com/news/how-to-shop-for-car-insurance-online/",
+   "source": "CBS News",
+   "date": "2026-11-06T19:27:44+00:00",
+   "extrait": "Comparing car insurance quotes online could lead to savings, but there are a few things to know before you buy.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "d496ab242429",
+   "titre": "A bord du « TGV nouvelle génération », entre Paris et Marseille : un train repensé de A à Z, à la capacité accrue et moins gourmand en énergie",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/06/a-bord-du-tgv-nouvelle-generation-entre-paris-et-marseille-un-train-repense-de-a-a-z-a-la-capacite-accrue-et-moins-gourmand-en-energie_6807856_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-06T19:23:11+00:00",
+   "extrait": "Livré par Alstom à la SNCF avec plus de deux ans de retard, il a effectué son voyage inaugural vendredi. Il remplacera progressivement les plus vieilles unités de la flotte.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "cd4151252783",
+   "titre": "Manifestations du 7 novembre : le dispositif de sécurité \"reconduit\" avec 70 000 policiers et gendarmes mobilisés",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/manifestation-du-7-novembre-le-dispositif-de-securite-reconduit-avec-70-000-policiers-et-gendarmes-mobilises_8271407.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-06T19:18:23+00:00",
+   "extrait": "\"Le risque est exactement le même que pour les samedis précédents\", a estimé, vendredi, le ministre de l'Intérieur, Laurent Nuñez.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "ba22c619f557",
+   "titre": "Exit polls show data centers weren't winners in 2026 elections",
+   "lien": "https://www.cbsnews.com/news/exit-polls-data-centers-2026-election/",
+   "source": "CBS News",
+   "date": "2026-11-06T19:17:00+00:00",
+   "extrait": "Big majorities of 2026 election voters opposed the building of data centers in their community.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "0e589b9ec677",
+   "titre": "Trump replaces Susie Wiles with Stephen Miller as chief of staff | Special Report",
+   "lien": "https://www.cbsnews.com/video/trump-replaces-susie-wiles-with-stephen-miller-as-chief-of-staff-special-report/",
+   "source": "CBS News",
+   "date": "2026-11-06T19:16:00+00:00",
+   "extrait": "President Trump announced on social media that Stephen Miller will replace Susie Wiles as his chief of staff. Tony Dokoupil anchored this special report.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "3841f99019b0",
+   "titre": "Stephen Miller will replace Susie Wiles as Trump's chief of staff",
+   "lien": "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff",
+   "source": "NPR",
+   "date": "2026-11-06T19:13:52+00:00",
+   "extrait": "The change comes after sweeping Republican losses in the midterm elections.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "3ec91ac54b20",
+   "titre": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
+   "lien": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery",
+   "source": "NPR",
+   "date": "2026-11-06T19:13:06+00:00",
+   "extrait": "After lung surgery, Pope Leo embarks on a 12-day tour of South America, navigating political tensions and returning to Peru, the place he once called home.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "d65380aa1f24",
+   "titre": "Key moments from ex-cop's trial in the death of Sandra Birchmore",
+   "lien": "https://www.cbsnews.com/news/matthew-farwell-trial-sandra-birchmore-key-moments/",
+   "source": "CBS News",
+   "date": "2026-11-06T19:12:00+00:00",
+   "extrait": "A jury in Massachusetts is deliberating the fate of former police officer Matthew Farwell, who is charged in the 2021 death of 23-year-old Sandra Birchmore.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "dfccf102fc76",
+   "titre": "En Haïti, \"depuis l’arrivée des forces salvadoriennes, les gangs semblent paniqués\"",
+   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261106-ha%C3%AFti-depuis-arriv%C3%A9e-forces-salvadoriennes-gangs-semblent-paniqu%C3%A9s",
+   "source": "France 24",
+   "date": "2026-11-06T19:08:05+00:00",
+   "extrait": "Le déploiement de troupes salvadoriennes contre les gangs suscite un espoir chez une partie de la population haïtienne, comme le rapportent nos Observateurs. Dans les territoires qu'ils contrôlent…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "30539f3879fc",
    "titre": "Stocks rebound after tech selloff that pushed Nasdaq into correction",
    "lien": "https://www.cbsnews.com/news/stocks-tech-sell-off-nasdaq-correction-dow/",
    "source": "CBS News",
-   "date": "2026-11-06T19:02:10+00:00",
+   "date": "2026-11-06T19:06:59+00:00",
    "extrait": "The S&P 500 and Nasdaq edged up in early trading after a Thursday rout driven by concerns about a potential slowdown in data center construction.",
    "tags": [
     "Tech"
@@ -34,16 +236,52 @@
    "zone": "usa"
   },
   {
-   "id": "b43fe65246e1",
-   "titre": "Stephen Miller to replace Susie Wiles as Trump's chief of staff",
-   "lien": "https://www.cbsnews.com/news/stephen-miller-trump-chief-of-staff-susie-wiles/",
-   "source": "CBS News",
-   "date": "2026-11-06T19:00:44+00:00",
-   "extrait": "President Trump announced Stephen Miller will replace Susie Wiles as his chief of staff, the most significant shakeup yet since the midterms.",
+   "id": "7b69296aec77",
+   "titre": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
+   "lien": "https://www.npr.org/2026/11/06/nx-s1-6032602/cyberattack-blood-bank-healthcare",
+   "source": "NPR",
+   "date": "2026-11-06T19:00:21+00:00",
+   "extrait": "A healthcare intelligence-sharing organization is warning its members to lock down systems following cyberattacks on cold storage systems, including a French blood bank.",
    "tags": [
-    "Politique"
+    "Santé"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "d3c46df851eb",
+   "titre": "Josep Borrell : \"Quelle voix européenne s'est élevée contre Trump et la guerre en Iran ?\"",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/ici-l-europe/20261106-josep-borrell-quelle-voix-europ%C3%A9enne-s-est-%C3%A9lev%C3%A9e-contre-trump-et-la-guerre-en-iran",
+   "source": "France 24",
+   "date": "2026-11-06T18:49:37+00:00",
+   "extrait": "Cette semaine, Caroline de Camaret reçoit Josep Borrell, ancien Haut représentant de l'Union européenne (UE) pour les Affaires étrangères jusqu'en 2024. Également président du Parlement européen…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "d6a743664e0b",
+   "titre": "\"Ce sont des blessures de guerre\" : trois femmes gravement blessées par des grenades tirées par la police le 17 octobre racontent comment leur vie a basculé",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/temoignages-ce-sont-des-blessures-de-guerre-trois-femmes-gravement-blessees-par-des-grenades-lancees-par-la-police-le-17-octobre-racontent-comment-leur-vie-a-bascule_8271329.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-06T18:47:57+00:00",
+   "extrait": "Gravement touchées par des grenades policières lors de la manifestation du 17 octobre à Marseille, Suzanne, Laurie et Olive* resteront blessées à vie. Deux d'entre elles ont annoncé déposer plainte.",
+   "tags": [
+    "Conflits",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "b80d7871fdb0",
+   "titre": "En Ligue 2 ans il y a deux ans, fils d'un ancien joueur pro... Qui est Pablo Pagis, la nouvelle surprise appelée en équipe de France par Zinédine Zidane ?",
+   "lien": "https://www.franceinfo.fr/sports/foot/equipe-de-france/qui-est-pablo-pagis-la-nouvelle-surprise-appelee-en-equipe-de-france-par-zinedine-zidane_8271425.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-06T18:42:13+00:00",
+   "extrait": "L’attaquant du Paris FC a été appelé pour la première fois en équipe de France par Zinédine Zidane, vendredi.",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "322729e95124",
@@ -66,6 +304,16 @@
    "extrait": "Le véhicule a \"quitté la route et heurté un arbre dans le fossé\", selon le maire de la commune de Lent, où l'accident s'est produit vendredi matin.",
    "tags": [],
    "zone": "france"
+  },
+  {
+   "id": "713fc5a1b121",
+   "titre": "Médine, conscience et engagement",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/l%C3%A9gendes-urbaines/20261106-m%C3%A9dine-conscience-et-engagement",
+   "source": "France 24",
+   "date": "2026-11-06T18:30:50+00:00",
+   "extrait": "Rendez-vous avec le rappeur Médine à l’occasion de la sortie de son recueil de titres \"Enfants du destin\", qui sortira le 11 décembre. Elle sera suivie d’une tournée française, notamment les 11 et…",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "9caab7356c6d",
@@ -112,18 +360,6 @@
    "zone": "usa"
   },
   {
-   "id": "166b21e3adb8",
-   "titre": "Size of Democratic majorities comes into focus as GOP grapples with loss",
-   "lien": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
-   "source": "CBS News",
-   "date": "2026-11-06T18:22:38+00:00",
-   "extrait": "The dust continues to settle after Democrats' sweeping victories in the midterm elections. Follow live updates here.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "e28590dd0f7f",
    "titre": "La justice autorise in extremis une conférence du député LFI Raphaël Arnault à Villeurbanne",
    "lien": "https://www.franceinfo.fr/politique/la-justice-autorise-in-extremis-une-conference-du-depute-lfi-raphael-arnault-a-villeurbanne_8271167.html#xtor=RSS-3-[lestitres]",
@@ -145,6 +381,16 @@
    "tags": [
     "Économie"
    ],
+   "zone": "france"
+  },
+  {
+   "id": "fab6ed1095f9",
+   "titre": "Au Pakistan, un couple d’avocats « défenseurs des sans-voix » persécuté par les autorités",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/06/au-pakistan-un-couple-d-avocats-defenseurs-des-sans-voix-persecute-par-les-autorites_6807851_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-06T18:09:42+00:00",
+   "extrait": "Engagés dans la défense des minorités ethniques, des journalistes poursuivis pour diffamation et des personnes accusées de blasphème, Imaan Mazari et son époux, Hadi Ali Chattha, ont été condamnés…",
+   "tags": [],
    "zone": "france"
   },
   {
@@ -183,18 +429,6 @@
    "zone": "usa"
   },
   {
-   "id": "d99a36da2f50",
-   "titre": "Thomas Markle Sr., Meghan's father, arrested in Florida",
-   "lien": "https://www.cbsnews.com/news/thomas-markle-sr-meghan-father-arrested-florida/",
-   "source": "CBS News",
-   "date": "2026-11-06T18:01:00+00:00",
-   "extrait": "It was reported in October that Meghan's estranged father, Thomas Markle, was under investigation by authorities in the Philippines for alleged possession of child sexual abuse materials.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "f377dcd8e302",
    "titre": "Deux morts de 7 et 18 ans, le chauffeur placé en garde à vue… Ce que l'on sait de l'accident de car près de Bourg-en-Bresse, dans l'Ain",
    "lien": "https://www.franceinfo.fr/faits-divers/accident/deux-morts-une-enquete-ouverte-ce-que-l-on-sait-de-l-accident-de-car-pres-de-bourg-en-bresse-dans-l-ain_8270546.html#xtor=RSS-3-[lestitres]",
@@ -209,7 +443,7 @@
    "titre": "Data center backlash fuels votes for change, stock market swing",
    "lien": "https://www.cbsnews.com/news/ai-data-centers-stock-market-congress/",
    "source": "CBS News",
-   "date": "2026-11-06T17:57:49+00:00",
+   "date": "2026-11-06T17:57:00+00:00",
    "extrait": "Concern over AI and misgivings about data center construction​ helped drive votes​ for change in the midterms — and fueled volatility on the stock market that experts say is likely to continue.",
    "tags": [
     "Politique",
@@ -387,19 +621,6 @@
    "zone": "usa"
   },
   {
-   "id": "b412a7bb391e",
-   "titre": "Trump touts imminent decision on potential new attack on Iran",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
-   "source": "CBS News",
-   "date": "2026-11-06T17:27:00+00:00",
-   "extrait": "President Trump says he will make a decision \"very soon\" on whether to \"destroy what is left of\" Iran, calls Qatari emir as mediators push for a peace deal.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "fb4a2125b050",
    "titre": "Hoax bomb threats affect at least 20 European flights within hours",
    "lien": "https://www.cbsnews.com/news/europe-flights-airlines-hoax-bomb-threats/",
@@ -477,6 +698,16 @@
    "zone": "usa"
   },
   {
+   "id": "3d9d7772a4f2",
+   "titre": "\"Les blocages, ça prive d'éducation des élèves qui ont droit à l'éducation\" : des parents se mobilisent pour que leurs enfants puissent aller en cours",
+   "lien": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/les-blocages-ca-prive-d-education-des-eleves-qui-ont-droit-a-l-education-des-parents-se-mobilisent-pour-que-leurs-enfants-puissent-aller-en-cours-3445401.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-06T17:10:30+00:00",
+   "extrait": "À Toulouse, de plus en plus de parents d'élèves se mobilisent devant les lycées bloqués. Objectif : permettre à leurs enfants d'assister aux cours. Après le lycée Bellevue, puis Toulouse-Lautrec…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "58dce984c952",
    "titre": "Midterms aux États-Unis : Trump dénonce des \"élections truquées\" sans avancer de preuve",
    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-midterms-aux-%C3%A9tats-unis-trump-d%C3%A9nonce-des-%C3%A9lections-truqu%C3%A9es-sans-avancer-de-preuve",
@@ -487,16 +718,6 @@
     "Politique"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "1270bea40600",
-   "titre": "Mobilisation du 7 novembre : le dispositif de 70 000 policiers et gendarmes \"reconduit\" samedi, annonce Laurent Nuñez",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-sociale-le-ministre-du-travail-juge-important-d-essayer-de-relever-le-smic-au-dela-de-la-barre-des-1-500-euros-net_8270366.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-06T17:09:25+00:00",
-   "extrait": "La CGT Ile-de-France a confirmé à l'AFP l'autorisation du parcours déposé par une intersyndicale des unions régionales (CGT, FO, FSU, Solidaires, CFDT) avec l'intersyndicale jeunesse (Union…",
-   "tags": [],
-   "zone": "france"
   },
   {
    "id": "ef50b3045fe3",
@@ -524,7 +745,7 @@
   },
   {
    "id": "e2928b28e93f",
-   "titre": "Manifestations du 7 novembre : le dispositif de sécurité est « reconduit », avec 70 000 policiers et gendarmes mobilisés, annonce Laurent Nuñez",
+   "titre": "Manifestations du 7 novembre : un quatrième samedi de mobilisation ; 70 000 policiers et gendarmes mobilisés",
    "lien": "https://www.lemonde.fr/politique/article/2026/11/06/manifestations-du-7-novembre-le-dispositif-de-securite-est-reconduit-avec-70-000-policiers-et-gendarmes-mobilises_6807790_823449.html",
    "source": "Le Monde",
    "date": "2026-11-06T17:05:00+00:00",
@@ -545,20 +766,6 @@
     "Climat"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "8fc8e90c6b31",
-   "titre": "AI stocks climb after trillions wiped from market values",
-   "lien": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-06T17:03:02+00:00",
-   "extrait": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-   "tags": [
-    "Politique",
-    "Économie",
-    "Tech"
-   ],
-   "zone": "monde"
   },
   {
    "id": "65650c7b9553",
@@ -914,7 +1121,7 @@
   },
   {
    "id": "cdf4047f2c6b",
-   "titre": "Majoritairement des femmes, employées dans des TPE... Quel est le profil des deux millions de salariés payés au smic ?",
+   "titre": "Éventuelle hausse du smic : quel est le profil des salariés qui sont payés au salaire minimum ?",
    "lien": "https://www.franceinfo.fr/economie/pouvoir-achat/qui-sont-les-deux-millions-de-salaries-concernes-directement-par-une-eventuelle-hausse-du-smic_8270882.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-11-06T16:05:23+00:00",
@@ -1036,18 +1243,6 @@
    "extrait": "Historic flooding prompted dozens of rescues in Georgia and Tennessee. Skyler Henry has more.",
    "tags": [
     "Climat"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "d65380aa1f24",
-   "titre": "Key moments from ex-cop's trial in the death of Sandra Birchmore",
-   "lien": "https://www.cbsnews.com/news/matthew-farwell-trial-sandra-birchmore-key-moments/",
-   "source": "CBS News",
-   "date": "2026-11-06T15:45:00+00:00",
-   "extrait": "The fate of Matthew Farwell is expected to go to the jury soon in the 2021 death of Sandra Birchmore.",
-   "tags": [
-    "Justice"
    ],
    "zone": "usa"
   },
@@ -1277,7 +1472,7 @@
    "titre": "Zelenskyy chief of staff on Russia peace talks: \"These negotiations are not the last\"",
    "lien": "https://www.cbsnews.com/video/zelenskyy-chief-of-staff-on-russia-peace-talks-these-negotiations-are-not-the-last/",
    "source": "CBS News",
-   "date": "2026-11-06T15:13:38+00:00",
+   "date": "2026-11-06T15:13:00+00:00",
    "extrait": "The U.S. is holding talks with Ukraine and Russia in Abu Dhabi next week. CBS News' Aidan Stretch spoke to Volodymyr Zelenskyy's chief of staff, Lieutenant General Kyrylo Budanov, about what to…",
    "tags": [
     "Conflits"
@@ -1883,6 +2078,18 @@
    "extrait": "Paul Mackenzie was convicted of murdering 190 children and one adult after he ordered his followers to starve themselves to death in order to meet Jesus.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "5ec1b44c62c0",
+   "titre": "“On a basculé” : deux lycées incendiés près de Toulouse, les proviseurs se serrent les coudes",
+   "lien": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/on-a-bascule-apres-tournefeuille-un-autre-lycee-en-feu-a-cugnaux-les-proviseurs-se-serrent-les-coudes-3445410.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-06T13:16:49+00:00",
+   "extrait": "Au lendemain de l'incendie qui a en partie dévasté un lycée de Tournefeuille suite à l'intrusion d'une trentaine d'individus en cagoulées, un rassemblement était organisé devant l'établissement ce…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
   },
   {
    "id": "63970db84aad",
@@ -3230,207 +3437,6 @@
    "date": "2026-11-06T07:00:09+00:00",
    "extrait": "La municipalité bisontine a fait le choix de retirer la devise anarchiste « Ni dieu ni maître » et la mention de l’artiste Banksy au nom d’une exposition artistique accueillie dans la ville en…",
    "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "a7c837ecf1eb",
-   "titre": "Avec sa Backyard caritative, l’influenceur Clem qui court veut réunir stars du trail et d’Internet",
-   "lien": "https://www.lemonde.fr/pixels/article/2026/11/06/avec-sa-backyard-caritative-l-influenceur-clem-qui-court-veut-reunir-stars-du-trail-et-d-internet_6807732_4408996.html",
-   "source": "Le Monde",
-   "date": "2026-11-06T07:00:05+00:00",
-   "extrait": "La course sera retransmise vendredi en direct sur Twitch, vingt-cinq heures durant et au profit de l’association Rêves. Elle fera s’affronter notamment le streameur Domingo et la vainqueure de…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "8859a7a5155f",
-   "titre": "La Garonne à des niveaux \"historiquement bas par rapport aux 30 dernières années\", une situation inédite pour un mois de novembre",
-   "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/reportage-la-garonne-a-des-niveaux-historiquement-bas-par-rapport-aux-30-dernieres-annees-une-situation-inedite-pour-un-mois-de-novembre_8268233.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-06T06:58:57+00:00",
-   "extrait": "La sécheresse persistante de la Garonne entraîne la prolongation des lâchers d'eau depuis les réserves des Pyrénées. Une situation inédite à cette période de l'année.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "0a59df411fc9",
-   "titre": "\"Si on pouvait avoir la trêve des confiseurs !\" : à Paris, des commerçants se confient sur la chute de la fréquentation liée aux manifestations",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/si-on-pouvait-avoir-la-treve-des-confiseurs-a-paris-des-commercants-se-confient-sur-la-chute-de-la-frequentation-liee-aux-manifestations_8270330.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-06T06:46:53+00:00",
-   "extrait": "Après trois samedis de mobilisation et encore une journée morte pour de nombreux magasins de centre-ville, jeudi, de nombreux commerçants souffrent, et pas seulement ceux qui ont été vandalisés et…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "1fa742f0630a",
-   "titre": "Macau jails pro-democracy campaigner in city's first national security case",
-   "lien": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-06T06:46:21+00:00",
-   "extrait": "Au Kam San was sentenced to 12 years and six months' jail for \"subversion against the political power of the state\".",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "492b3cf21e9a",
-   "titre": "Accord sur le gazole mort-né : pourquoi les pétroliers russes se détournent des États-Unis",
-   "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261106-accord-sur-le-gazole-mort-n%C3%A9-pourquoi-les-p%C3%A9troliers-russes-se-d%C3%A9tournent-des-%C3%A9tats-unis",
-   "source": "France 24",
-   "date": "2026-11-06T06:37:01+00:00",
-   "extrait": "Les premiers pétroliers qui devaient livrer du gazole russe aux États-Unis ont changé de cap et ne se dirigent plus vers les côtes américaines. Une décision qui enterre, sans doute, l’accord entre…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "795ab6c3bccf",
-   "titre": "Après l'agression dans une école à Nice, les professeurs du groupe scolaire appelés à la grève vendredi",
-   "lien": "https://www.franceinfo.fr/economie/greve/apres-l-agression-dans-une-ecole-a-nice-les-professeurs-du-groupe-scolaire-appeles-a-la-greve-vendredi_8270381.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-06T06:31:48+00:00",
-   "extrait": "Les organisations syndicales apportent leur soutien aux personnels de la communauté éducative touchés par ce drame en début de semaine. Ils demandent des moyens pour renforcer la sécurité de…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "ed0306f97694",
-   "titre": "Midterms : les démocrates engrangent les sièges, Donald Trump fustige des élections truquées",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-midterms-les-d%C3%A9mocrates-engrangent-les-si%C3%A8ges-donald-trump-fustige-des-%C3%A9lections-truqu%C3%A9es",
-   "source": "France 24",
-   "date": "2026-11-06T06:04:03+00:00",
-   "extrait": "Après leur victoire éclatante aux élections américaines de mi-mandat, les démocrates sont assurés de compter au moins 250 élus à la Chambre des représentants et 54 sénateurs, alors même que le…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "38d8dc70ea3f",
-   "titre": "Did a data centre revolt affect the US midterm election results?",
-   "lien": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-06T06:01:13+00:00",
-   "extrait": "BBC Verify examines whether US voters were influenced by the data centre boom - and the impact anti-AI sentiment could have on the industry.",
-   "tags": [
-    "Politique",
-    "Tech"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "c0beb4b56091",
-   "titre": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-   "lien": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-06T06:00:59+00:00",
-   "extrait": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "402519e27b05",
-   "titre": "A wildfire killed their loved ones in Spain. These British families demand to know why",
-   "lien": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-06T06:00:46+00:00",
-   "extrait": "Nine British nationals were among the 15 people who died when fire ripped through the village of Bédar this summer.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "003c07323f63",
-   "titre": "« L’Héritage » est le nouveau et troublant roman de Jonathan Littell, autour d’un bourreau dans un pays imaginaire d’Europe centrale",
-   "lien": "https://www.lemonde.fr/livres/article/2026/11/06/l-heritage-est-le-nouveau-et-troublant-roman-de-jonathan-littell-autour-d-un-bourreau-dans-un-pays-imaginaire-d-europe-centrale_6807731_3260.html",
-   "source": "Le Monde",
-   "date": "2026-11-06T06:00:06+00:00",
-   "extrait": "L’auteur des « Bienveillantes », prix Goncourt 2006, retrace les parcours d’un frère et d’une sœur broyés, chacun à sa façon, par un Etat autoritaire et mafieux. Un roman sans illusion.",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "de71c54d514f",
-   "titre": "\"Ce serait presque drôle, si ça ne montait pas les gens les uns contre les autres\" : après l'incendie de la mairie de Limoges, le plateau de Millevaches pointé du doigt comme un bastion de \"l'ultragauche\"",
-   "lien": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-ce-serait-presque-drole-si-ca-ne-montait-pas-les-gens-les-uns-contre-les-autres-apres-l-incendie-de-la-mairie-de-limoges-le-plateau-de-millevaches-pointe-du-doigt-comme-un-bastion-de-l-ultragauche_8249923.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-06T05:42:28+00:00",
-   "extrait": "Depuis le 17 octobre et l'incendie de son hôtel de ville, le maire (LR) de Limoges a pointé du doigt \"l'ultragauche\" et sa prétendue \"base arrière\" sur le plateau de Millevaches. Les habitants de ce…",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "2d28c6cd4880",
-   "titre": "Sait-on recycler les batteries électriques ?",
-   "lien": "https://www.lemonde.fr/planete/article/2026/11/06/sait-on-recycler-les-batteries-electriques_6807730_3244.html",
-   "source": "Le Monde",
-   "date": "2026-11-06T05:30:07+00:00",
-   "extrait": "Chaque semaine, l’équipe du podcast « Chaleur humaine » répond à vos questions sur la transition climatique",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "0c6a0419d1c5",
-   "titre": "Présidentielle 2027 : Jean-Luc Mélenchon construit son programme L’Avenir en commun autour du concept de « nouvelle France »",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/06/presidentielle-2027-jean-luc-melenchon-construit-son-programme-l-avenir-en-commun-autour-du-concept-de-nouvelle-france_6807729_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-06T05:30:00+00:00",
-   "extrait": "Le programme de La France insoumise, paru ce vendredi, érige la bifurcation écologique en priorité absolue tout en mettant l’accent sur la lutte contre « l’islamophobie, l’antisémitisme et toutes…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "0764baa29aa4",
-   "titre": "Mots croisés : une nouvelle verbicruciste pour « Le Monde », ou quand le sphinx se genre au féminin",
-   "lien": "https://www.lemonde.fr/services/article/2026/11/06/mots-croises-quand-le-sphinx-se-genre-au-feminin_6807728_1667456.html",
-   "source": "Le Monde",
-   "date": "2026-11-06T05:30:00+00:00",
-   "extrait": "Nouvelle plateforme, nouveaux jeux, nouvelle autrice : les jeux du « Monde » achèvent leur mue et se dévoilent en une version 2.0. Notre verbicruciste Erika Barnoin vous adresse ces premiers mots de…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "780368edba0f",
-   "titre": "Violences dans le périscolaire à Paris : des parents s'inquiètent de la longueur des procédures, \"ma fille est en train d'oublier\", alerte une maman",
-   "lien": "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/info-franceinfo-violences-dans-le-periscolaire-a-paris-des-parents-s-inquietent-de-la-longueur-des-procedures-ma-fille-est-en-train-d-oublier-alerte-une-maman_8270258.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-06T05:23:19+00:00",
-   "extrait": "Les enquêteurs de la brigade de protection des mineurs font face à un afflux de plaintes et signalements. 230 dossiers traités actuellement, avec des conséquences sur le traitement des procédures et…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "fd2bb79a2da5",
-   "titre": "Un \"nombre de procédures en croissance\" : pourquoi le Parquet national antiterroriste se saisit de plus en plus d'affaires liées à l'\"ultradroite radicale violente\"",
-   "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/un-nombre-de-procedures-en-croissance-pourquoi-le-parquet-national-antiterroriste-se-saisit-de-plus-en-plus-d-affaires-liees-a-l-ultradroite-radicale-violente_8267705.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-06T05:10:27+00:00",
-   "extrait": "Deux semaines après l'attentat raciste de Trappes, le procureur Olivier Christen a alerté sur la montée de cette menace en France. Le nombre d'enquêtes ouvertes par le Pnat en lien avec cette…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c05224d95d5e",
-   "titre": "\"Le chauffage avant décembre ? Jamais !\" : contraints d'économiser à cause de l'inflation, des utilisateurs de TikTok partagent des astuces pour supporter le froid",
-   "lien": "https://www.franceinfo.fr/environnement/energie/le-chauffage-avant-decembre-jamais-contraints-d-economiser-a-cause-de-l-inflation-des-utilisateurs-de-tiktok-partagent-des-astuces-pour-supporter-le-froid_8269046.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-06T05:09:42+00:00",
-   "extrait": "Entre système D et témoignages de précarité énergétique, des internautes ironisent sur les moyens mis en place pour retarder le moment d'allumer leur radiateur. Cette tendance illustre les…",
-   "tags": [
-    "Économie"
-   ],
    "zone": "france"
   }
  ]
