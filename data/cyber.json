@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-06T09:05:42+00:00",
+ "maj": "2026-11-06T10:05:42+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,15 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "3a8f9a3bb5fd",
+   "titre": "MetaMask says recent attack didn't affect wallet infrastructure",
+   "lien": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
+   "source": "BleepingComputer",
+   "date": "2026-11-06T09:22:28+00:00",
+   "extrait": "Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]",
+   "tags": []
+  },
   {
    "id": "6facdf5f94df",
    "titre": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
@@ -3422,15 +3431,6 @@
    "tags": [
     "IA"
    ]
-  },
-  {
-   "id": "d84dc99ca60f",
-   "titre": "DreamHost forces password resets in ongoing \"incident\"",
-   "lien": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
-   "source": "BleepingComputer",
-   "date": "2026-10-26T19:26:20+00:00",
-   "extrait": "DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]",
-   "tags": []
   }
  ]
 }
