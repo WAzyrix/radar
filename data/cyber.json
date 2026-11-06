@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-06T18:05:40+00:00",
+ "maj": "2026-11-06T19:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "a97be9095b72",
+   "titre": "Fake security tools on GitHub push backdoors and infostealers",
+   "lien": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
+   "source": "BleepingComputer",
+   "date": "2026-11-06T18:46:52+00:00",
+   "extrait": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
+   "tags": [
+    "Malware",
+    "Outil"
+   ]
+  },
   {
    "id": "c4daeac5c98c",
    "titre": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
@@ -3416,17 +3428,6 @@
    "tags": [
     "Outil",
     "Windows"
-   ]
-  },
-  {
-   "id": "ae042a0b53b2",
-   "titre": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
-   "lien": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
-   "source": "The Hacker News",
-   "date": "2026-10-27T13:59:48+00:00",
-   "extrait": "The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on…",
-   "tags": [
-    "Faille"
    ]
   }
  ]
