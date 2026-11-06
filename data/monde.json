@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-05T23:05:38+00:00",
+ "maj": "2026-11-06T00:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,11 +22,24 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "c0beb4b56091",
+   "titre": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+   "lien": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-06T00:05:05+00:00",
+   "extrait": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
+   "tags": [
+    "Économie",
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "204eb13dc1c2",
    "titre": "Nithya Raman ousts incumbent Karen Bass in LA mayor's race, CBS News projects",
    "lien": "https://www.cbsnews.com/news/los-angeles-mayor-election-2026-nithya-raman-karen-bass/",
    "source": "CBS News",
-   "date": "2026-11-05T23:03:49+00:00",
+   "date": "2026-11-06T00:03:01+00:00",
    "extrait": "Raman's win comes after resounding victories for Democrats across the country on Election Day.",
    "tags": [
     "Politique"
@@ -34,28 +47,204 @@
    "zone": "usa"
   },
   {
-   "id": "425c48221cbd",
-   "titre": "All the House districts that flipped in the midterm elections",
-   "lien": "https://www.cbsnews.com/news/house-districts-flipped-2026-midterm-elections/",
+   "id": "08e5d38639a8",
+   "titre": "Did GOP efforts to redistrict the House turn into a dummymander?",
+   "lien": "https://www.cbsnews.com/news/dummymander-republican-redistricting-congress-trump/",
    "source": "CBS News",
-   "date": "2026-11-05T22:58:00+00:00",
-   "extrait": "Democrats won control of the House on Tuesday by flipping more than three dozen Republican-held seats, picking up perennial swing districts and seats that were once considered deep red.",
+   "date": "2026-11-05T23:56:15+00:00",
+   "extrait": "Republicans undertook a historic effort to redraw several states' Congressional districts mid-decade in an attempt to maintain control of the House.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "e604e040f8bc",
+   "titre": "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
+   "lien": "https://www.npr.org/2026/11/05/nx-s1-6030662/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine",
+   "source": "NPR",
+   "date": "2026-11-05T23:52:48+00:00",
+   "extrait": "The six-day pause from the Russian-occupied city of Oleshky comes as the administration ramps up efforts to secure an agreement to end the war in Ukraine.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "a2c0a3151c04",
+   "titre": "DeSantis calls midterms close to \"extinction-level\" for GOP, says corruption focus worked",
+   "lien": "https://www.cbsnews.com/video/desantis-calls-midterms-close-to-extinction-level-for-gop-says-corruption-focus-worked/",
+   "source": "CBS News",
+   "date": "2026-11-05T23:49:41+00:00",
+   "extrait": "Former Republican congressman from Louisiana Garret Graves and Communications Director for the Democratic House majority PAC CJ Warnke join \"The Takeout.\"",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "5cd7ee8a5a08",
+   "titre": "Dolly Parton's estate moves to dismiss lawsuit against nephew",
+   "lien": "https://www.cbsnews.com/news/dolly-parton-estate-lawsuit-dismissed-nephew-bryan-seaver/",
+   "source": "CBS News",
+   "date": "2026-11-05T23:46:43+00:00",
+   "extrait": "The details of the resolution between Dolly Parton's estate and her nephew, Bryan Seaver, were not immediately known.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "3234b0a80579",
+   "titre": "Voters reject data centers on Election Day as 44 ballot measures to restrict them pass",
+   "lien": "https://www.cbsnews.com/video/voters-reject-data-centers-on-election-day-as-44-ballot-measures-to-restrict-them-pass/",
+   "source": "CBS News",
+   "date": "2026-11-05T23:38:06+00:00",
+   "extrait": "Americans strongly rejected data centers on Election Day, with 44 ballot measures to restrict their operation passing. Joe Brettell, founder of Forward Energy Public Relations, joins \"The Takeout.\"",
    "tags": [
     "Politique"
    ],
    "zone": "usa"
   },
   {
+   "id": "c1f673138066",
+   "titre": "Feds warn of potential cyberattacks on industrial refrigerators",
+   "lien": "https://www.cbsnews.com/news/refrigeration-systems-cyber-threats-cisa-warning/",
+   "source": "CBS News",
+   "date": "2026-11-05T23:37:06+00:00",
+   "extrait": "After a wave of attacks in Europe, U.S. officials are warning of \"ongoing\" cyber threats targeting refrigeration systems used in healthcare, agriculture and other industries.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "4e98f009d349",
+   "titre": "How North Carolina Democrats flipped several House seats in historically GOP districts",
+   "lien": "https://www.npr.org/2026/11/05/nx-s1-6031719/north-carolina-democrats-flip-house-seats-republican-districts",
+   "source": "NPR",
+   "date": "2026-11-05T23:34:36+00:00",
+   "extrait": "All of these seats were in districts redrawn in 2023 to favor Republican candidates.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "6716a18e70c6",
+   "titre": "Republicans lose midterms despite redistricting push",
+   "lien": "https://www.cbsnews.com/video/republican-redistricting-push-for-midterms-fails/",
+   "source": "CBS News",
+   "date": "2026-11-05T23:27:00+00:00",
+   "extrait": "Democrats won a strong majority in the House despite a Republican push to gain seats through congressional redistricting. CBS News election law expert David Becker breaks it down.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "425c48221cbd",
+   "titre": "Democrats have flipped over 40 House seats. Here's the breakdown.",
+   "lien": "https://www.cbsnews.com/news/house-districts-flipped-2026-midterm-elections/",
+   "source": "CBS News",
+   "date": "2026-11-05T23:26:00+00:00",
+   "extrait": "Democrats won control of the House on Tuesday by flipping more than three dozen Republican-held seats, picking up perennial swing districts and seats that were once considered deep red.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "b828359f049c",
+   "titre": "Lawler defeated in New York battleground district",
+   "lien": "https://www.cbsnews.com/news/new-york-17th-district-results-mike-lawler-cait-conley/",
+   "source": "CBS News",
+   "date": "2026-11-05T23:19:09+00:00",
+   "extrait": "Democrat Cait Conley won the crucial 17th Congressional District seat.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "927ac1fd8263",
+   "titre": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
+   "lien": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-05T23:16:53+00:00",
+   "extrait": "The Delhi government has announced a four-month winter action plan, but experts say that won't be enough.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "674d753fc55b",
+   "titre": "CBS News exit polls show how Democrats won in the midterms",
+   "lien": "https://www.cbsnews.com/news/cbs-news-exit-polls-2026-midterms-democrats/",
+   "source": "CBS News",
+   "date": "2026-11-05T23:16:05+00:00",
+   "extrait": "Economic issues helped propel President Trump to victory in 2024, and those same issues dragged down his party in 2026.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "243b32d425bc",
+   "titre": "L'OM s'impose sur la pelouse du Bayer Leverkusen et débloque enfin son compteur en Ligue Europa",
+   "lien": "https://www.franceinfo.fr/sports/foot/ligue-europa/l-om-s-impose-sur-la-pelouse-du-bayer-leverkusen-et-debloque-enfin-son-compteur-en-ligue-europa_8269892.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-05T23:11:38+00:00",
+   "extrait": "Après trois défaites de rang sur la scène européenne, les Marseillais ont décroché leur première victoire de la saison en Ligue Europa, jeudi.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "5fd72ab2475d",
+   "titre": "Melania Trump's adviser Marc Beckman on her localized Ukraine ceasefire",
+   "lien": "https://www.cbsnews.com/video/melania-trumps-adviser-marc-beckman-on-her-localized-ukraine-ceasefire/",
+   "source": "CBS News",
+   "date": "2026-11-05T23:11:34+00:00",
+   "extrait": "Marc Beckman, Melania Trump's exclusive senior adviser, joins \"The Takeout\" to discuss her recent efforts to negotiate a local ceasefire in Olehky, Ukraine.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "45aad86c7c6b",
+   "titre": "Trump vs le Congrès : la bataille des pouvoirs",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261105-trump-vs-le-congr%C3%A8s-la-bataille-des-pouvoirs",
+   "source": "France 24",
+   "date": "2026-11-05T23:11:30+00:00",
+   "extrait": "Pour ces élections de mi-mandat, le verdict est sans appel : les démocrates sont les grands gagnants. Donald Trump a donc perdu sa majorité au Sénat à la Chambre des représentants. Dès janvier, il…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "a49f25ad0c4a",
+   "titre": "California governor commutes sentences for state's 548 death row inmates",
+   "lien": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-05T23:09:33+00:00",
+   "extrait": "California has historically had the largest population of people on death row in the US.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
    "id": "42ecf9dbb6b9",
    "titre": "Donald Trump s'emporte contre des élections \"truquées\", après la défaite des républicains aux midterms 2026",
    "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/donald-trump-s-emporte-contre-des-elections-truquees-apres-la-defaite-des-republicains-aux-midterms-2026_8269964.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-11-05T22:57:35+00:00",
+   "date": "2026-11-05T23:09:25+00:00",
    "extrait": "\"Nos élections sont tellement truquées, vous n'avez pas idée\", a déclaré le président américain, qui refuse d'endosser la responsabilité de la défaite républicaine aux élections de mi-mandat.",
    "tags": [
     "Politique"
    ],
    "zone": "france"
+  },
+  {
+   "id": "efee15f33887",
+   "titre": "Stocks crater as midterms spur investor exodus from tech and AI",
+   "lien": "https://www.cbsnews.com/news/stocks-midterm-elections-tech-companies-ai-data-centers/",
+   "source": "CBS News",
+   "date": "2026-11-05T23:06:45+00:00",
+   "extrait": "The tech-heavy Nasdaq is now in a \"correction\" as Wall Street weighs the impact of the Democrats' wins on the critical AI sector.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
   },
   {
    "id": "091f9e5d4073",
@@ -75,7 +264,7 @@
    "titre": "EN DIRECT, guerre en Ukraine : la trêve d’Olechky prouve que « quand Poutine le veut, les combats s’arrêtent », estime Volodymyr Zelensky",
    "lien": "https://www.lemonde.fr/international/live/2026/11/05/en-direct-guerre-en-ukraine-la-treve-d-olechky-prouve-que-quand-poutine-le-veut-les-combats-s-arretent-estime-volodymyr-zelensky_6803934_3210.html",
    "source": "Le Monde",
-   "date": "2026-11-05T22:55:04+00:00",
+   "date": "2026-11-05T22:55:00+00:00",
    "extrait": "« Il en va de même pour nos compatriotes détenus en captivité en Russie. Quand Poutine le veut, ils rentrent chez eux. Et il en va de même pour nos enfants enlevés par la Russie », a ajouté le…",
    "tags": [
     "Politique",
@@ -162,16 +351,6 @@
    "zone": "usa"
   },
   {
-   "id": "a49f25ad0c4a",
-   "titre": "California governor commutes sentences for state's 548 death row inmates",
-   "lien": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-05T22:31:40+00:00",
-   "extrait": "California has historically had the largest population of people on death row in the US.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
    "id": "b434904043c4",
    "titre": "Why the stock market tumbled after the midterm surge",
    "lien": "https://www.cbsnews.com/video/why-the-stock-market-tumbled-after-the-midterm-surge/",
@@ -243,29 +422,6 @@
    "zone": "usa"
   },
   {
-   "id": "243b32d425bc",
-   "titre": "L'OM s'impose sur la pelouse du Bayer Leverkusen et débloque enfin son compteur en Ligue Europa",
-   "lien": "https://www.franceinfo.fr/sports/foot/ligue-europa/l-om-s-impose-sur-la-pelouse-du-bayer-leverkusen-et-debloque-enfin-son-compteur-en-ligue-europa_8269892.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-05T22:13:48+00:00",
-   "extrait": "Après trois défaites de rang sur la scène européenne, les Marseillais ont décroché leur première victoire de la saison en Ligue Europa, jeudi.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "c0beb4b56091",
-   "titre": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-   "lien": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-05T22:13:38+00:00",
-   "extrait": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
-   "tags": [
-    "Économie",
-    "Tech"
-   ],
-   "zone": "monde"
-  },
-  {
    "id": "2401b3d7d241",
    "titre": "48 heures à \"L'Escale\", le plus grand restaurant routier de France",
    "lien": "https://www.franceinfo.fr/culture/48-heures-a-l-escale-le-plus-grand-restaurant-routier-de-france_8269910.html#xtor=RSS-3-[lestitres]",
@@ -308,18 +464,6 @@
    "zone": "france"
   },
   {
-   "id": "efee15f33887",
-   "titre": "Stocks crater as midterms spur investor exodus from tech and AI",
-   "lien": "https://www.cbsnews.com/news/stocks-midterm-elections-tech-companies-ai-data-centers/",
-   "source": "CBS News",
-   "date": "2026-11-05T21:53:00+00:00",
-   "extrait": "The tech-heavy Nasdaq is now in a \"correction\" as Wall Street weighs the impact of the Democrats' wins on the critical AI sector.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "af40eaee6b79",
    "titre": "Breaking down Democrats' top priorities once sworn in; looking ahead to 2028",
    "lien": "https://www.cbsnews.com/video/breaking-down-democrats-top-priorities-looking-ahead-2028/",
@@ -328,6 +472,18 @@
    "extrait": "After the Democratic midterm sweep, the officials will be tasked with delivering on their campaign promises once sworn in. CBS News' Fin Gómez breaks down their top priorities and Marc Caputo looks…",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "e3b14526f7fb",
+   "titre": "Municipales en Afrique du Sud: l'ANC se dirige vers son pire résultat électoral",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261105-municipales-en-afrique-du-sud-l-anc-se-dirige-vers-son-pire-r%C3%A9sultat-%C3%A9lectoral",
+   "source": "France 24",
+   "date": "2026-11-05T21:47:25+00:00",
+   "extrait": "Le Congrès national africain (ANC), à la tête de l'Afrique du Sud depuis 1994, se dirige vers le pire résultat électoral de son histoire, indiquent les scores après dépouillement de la moitié des…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
   },
   {
    "id": "45dc2e14745c",
@@ -388,16 +544,6 @@
    "tags": [
     "Politique"
    ],
-   "zone": "usa"
-  },
-  {
-   "id": "08e5d38639a8",
-   "titre": "Did Republican efforts to redistrict the House turn into a dummymander?",
-   "lien": "https://www.cbsnews.com/news/dummymander-republican-redistricting-congress-trump/",
-   "source": "CBS News",
-   "date": "2026-11-05T21:16:49+00:00",
-   "extrait": "Republicans undertook a historic effort to redraw several states' Congressional districts mid-decade in an attempt to maintain control of the House.",
-   "tags": [],
    "zone": "usa"
   },
   {
@@ -709,6 +855,18 @@
    "zone": "usa"
   },
   {
+   "id": "aeb2cf91ace1",
+   "titre": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
+   "lien": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-05T19:08:48+00:00",
+   "extrait": "New Zealanders will head to the polls on 7 November to elect a new government, with rising cost of living a key concern for voters.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "5a56f3812c17",
    "titre": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
    "lien": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
@@ -859,6 +1017,16 @@
     "Politique"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "b4bb7442d6a0",
+   "titre": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
+   "lien": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-05T18:22:46+00:00",
+   "extrait": "BBC Verify has been analysing messages after flights across Europe were targeted by fake bomb threats - the second such incident this week.",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "0218913634c5",
@@ -1046,8 +1214,8 @@
    "titre": "Paraguay : le président Santiago Peña annonce sa démission",
    "lien": "https://www.lemonde.fr/international/article/2026/11/05/paraguay-le-president-santiago-pena-annonce-sa-demission_6807257_3210.html",
    "source": "Le Monde",
-   "date": "2026-11-05T17:43:42+00:00",
-   "extrait": "L’annonce intervient quarante-huit heures après l’éclatement d’une crise bancaire, qui a vu la Banque centrale du Paraguay mettre sous tutelle Ueno, une entité financière revendiquant 2,94 millions…",
+   "date": "2026-11-05T17:43:41+00:00",
+   "extrait": "L’annonce intervient quarante-huit heures après l’éclatement d’une crise bancaire, qui a vu la Banque centrale du Paraguay mettre sous tutelle Ueno, une entité financière revendiquant près de 3…",
    "tags": [
     "Politique"
    ],
@@ -1192,7 +1360,7 @@
    "titre": "Peanut allergy study finds babies should be retested. Here's what to know.",
    "lien": "https://www.cbsnews.com/news/peanut-allergy-infants-diagnosis-study/",
    "source": "CBS News",
-   "date": "2026-11-05T17:26:37+00:00",
+   "date": "2026-11-05T17:26:00+00:00",
    "extrait": "About one in 50 kids in the United States has a peanut allergy​. But a new study from Australia shows parents should consider having their kids retested.",
    "tags": [],
    "zone": "usa"
@@ -1720,6 +1888,18 @@
    "zone": "monde"
   },
   {
+   "id": "8654b4112e6d",
+   "titre": "Midterms : les démocrates engrangent les sièges, Donald Trump fustige des élections \"truquées\"",
+   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261105-midterms-les-d%C3%A9mocrates-engrangent-les-si%C3%A8ges-donald-trump-fustige-des-%C3%A9lections-truqu%C3%A9es",
+   "source": "France 24",
+   "date": "2026-11-05T15:44:04+00:00",
+   "extrait": "Après leur victoire éclatante aux élections américaines de mi-mandat, les démocrates sont assurés de compter au moins 250 élus à la Chambre des représentants et 54 sénateurs, alors même que le…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "df71ed07a3ed",
    "titre": "Details emerge after gunman opens fire at Citibank building in Tampa",
    "lien": "https://www.cbsnews.com/video/details-emerge-after-gunman-opens-fire-at-citibank-building-in-tampa/",
@@ -1754,18 +1934,6 @@
     "Climat"
    ],
    "zone": "france"
-  },
-  {
-   "id": "674d753fc55b",
-   "titre": "CBS News exit polls show how Democrats won in the midterms",
-   "lien": "https://www.cbsnews.com/news/cbs-news-exit-polls-2026-midterms-democrats/",
-   "source": "CBS News",
-   "date": "2026-11-05T15:40:52+00:00",
-   "extrait": "Economic issues helped propel President Trump to victory in 2024, and those same issues dragged down his party in 2026.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
   },
   {
    "id": "8f86fcff5b8f",
@@ -3288,174 +3456,6 @@
    "tags": [
     "Climat",
     "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "717d9b504144",
-   "titre": "L’Hérault, le Gard et la Corse placés en vigilance orange pluie-inondation, plusieurs évacuations au sud de l’île",
-   "lien": "https://www.lemonde.fr/planete/article/2026/11/05/l-herault-et-le-gard-rejoignent-la-corse-dans-une-vigilance-orange-pluie-inondation-etendue-durant-la-journee-de-jeudi_6806834_3244.html",
-   "source": "Le Monde",
-   "date": "2026-11-05T08:01:17+00:00",
-   "extrait": "Des pluies torrentielles ont provoqué des inondations, des évacuations et la fermeture de routes en Corse, alors que l’Hérault et le Gard sont frappés par des orages, jeudi, depuis l’arrivée de…",
-   "tags": [
-    "Conflits",
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "3e6c05fa97fa",
-   "titre": "Italian chef fired after refusing to put pineapple on pizza",
-   "lien": "https://www.bbc.co.uk/news/articles/cx4g1qy6gq9mo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-05T07:56:53+00:00",
-   "extrait": "He had told his employer, an Australian restaurant, that pineapple on pizza was \"offensive\" to Italian culture.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "77239f262cbf",
-   "titre": "\"On n'a ni argent ni majorité\" : le gouvernement Lecornu a-t-il encore des marges de manœuvre pour répondre à la crise sociale ?",
-   "lien": "https://www.franceinfo.fr/economie/greve/greve/on-n-a-ni-argent-ni-majorite-le-gouvernement-lecornu-a-t-il-encore-des-marges-de-man-uvre-pour-repondre-a-la-crise-sociale_8265512.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-05T07:41:57+00:00",
-   "extrait": "L'intersyndicale appelle jeudi à une grande mobilisation sur la thématique du pouvoir d'achat, tandis que les organisations de jeunesse poursuivent leurs opérations de blocage. Face à la persistance…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "4e3b33b5e79e",
-   "titre": "A Hong Kong, le militant prodémocratie Joshua Wong condamné à 10 ans de prison supplémentaires",
-   "lien": "https://www.franceinfo.fr/monde/chine/hong-kong/a-hong-kong-le-militant-prodemocratie-joshua-wong-condamne-a-10-ans-de-prison-supplementaires_8268917.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-05T07:38:52+00:00",
-   "extrait": "Il était encore reproché à Joshua Wong d'avoir demandé à des pays, des particuliers ou des institutions à l'étranger, notamment en s'exprimant dans les médias, d'\"imposer des sanctions ou un blocus…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "e8a8587ac0fe",
-   "titre": "Comment la pauvreté progresse dans la population française",
-   "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/11/05/comment-la-pauvrete-progresse-dans-la-population-francaise_6806829_4355770.html",
-   "source": "Le Monde",
-   "date": "2026-11-05T07:30:08+00:00",
-   "extrait": "Le taux de pauvreté n’a jamais été aussi haut depuis au moins trente ans. Cette situation, qui touche particulièrement certaines catégories de la population, s’accompagne souvent de privations…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "40740d4e6acc",
-   "titre": "Melania Trump réunit des représentants russes et ukrainiens à la Maison Blanche",
-   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261105-melania-trump-r%C3%A9unit-repr%C3%A9sentants-russes-ukrainiens-maison-blanche-etats-unis-guerre",
-   "source": "France 24",
-   "date": "2026-11-05T07:29:44+00:00",
-   "extrait": "À moins d'une semaine des pourparlers à Abu Dhabi, Melania Trump doit recevoir des représentants russes et ukrainiens à la Maison Blanche jeudi, pour tenter de trouver une issue au conflit en…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "3b4e34e396ff",
-   "titre": "Des journalistes quittent la soirée de lancement du livre de Jordan Bardella, après que le RN a notamment refusé l'accès à Mediapart",
-   "lien": "https://www.franceinfo.fr/politique/front-national/des-journalistes-quittent-la-soiree-de-lancement-du-livre-de-jordan-bardella-apres-que-le-rn-a-refuse-l-acces-a-mediapart_8268878.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-05T07:19:57+00:00",
-   "extrait": "Un membre de la rédaction du journal Politis ainsi qu'un journaliste indépendant se sont également vus interdire l'accès à l'évènement.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "6d6c05f806ac",
-   "titre": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
-   "lien": "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan",
-   "source": "NPR",
-   "date": "2026-11-05T07:02:12+00:00",
-   "extrait": "The American singer-songwriter and poet visited with the American pope at the Vatican during a break between concert dates in Italy. The Vatican said the encounter was brief.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "469f5be3d86e",
-   "titre": "Jordan Bardella rattrapé par ses propos antisémites à l’occasion du lancement de son nouveau livre",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/05/jordan-bardella-rattrape-par-ses-propos-antisemites-au-lancement-de-son-nouveau-livre_6806827_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-05T06:51:34+00:00",
-   "extrait": "Le président du Rassemblement national voit sa promotion perturbée par le rappel de ses anciens propos antisémites dont il dément être l’auteur. La soirée de lancement organisée par son éditeur…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "e09083fec519",
-   "titre": "Ligue des champions : Lens subit une défaite historique face à Côme",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261105-ligue-champions-lens-subit-d%C3%A9faite-historique-face-c%C3%B4me-football-real-madrid-europa-joj-dakar-tennis",
-   "source": "France 24",
-   "date": "2026-11-05T06:46:07+00:00",
-   "extrait": "Le RC Lens a subi la plus lourde défaite de l'histoire du football français en Coupe d'Europe, en s'inclinant à domicile face à Côme (9-1) en Ligue des champions. Déjà battus par Bruges (0-3) et le…",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "98ab1ca41668",
-   "titre": "Communiqué des syndicats et de salariés du Groupe Le Monde et du « Nouvel Obs »",
-   "lien": "https://www.lemonde.fr/le-monde-et-vous/article/2026/11/05/communique-des-syndicats-et-de-salaries-du-groupe-le-monde-et-du-nouvel-obs_6806826_6065879.html",
-   "source": "Le Monde",
-   "date": "2026-11-05T06:30:06+00:00",
-   "extrait": "A l’appel des syndicats, des salariés du Groupe Le Monde et du « Nouvel Obs » sont en grève jeudi 5 novembre. Voici leur texte.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "fa393ed45d4a",
-   "titre": "Les attaques contre les systèmes d'eau dans les conflits ont triplé entre 2021 et 2025, alerte l'Unicef",
-   "lien": "https://www.franceinfo.fr/monde/les-attaques-contre-les-systemes-d-eau-dans-les-conflits-ont-triple-entre-2021-et-2025-alerte-l-unicef_8268839.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-05T06:13:36+00:00",
-   "extrait": "L'agence de l'ONU dénonce des attaques sur les dispositifs d'acheminement en eau de plusieurs zones en conflit, \"exposant davantage les enfants aux épidémies, à la malnutrition et aux violences\"…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "ad92c225c594",
-   "titre": "Midterms, le \"sursaut démocratique ?\"",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261105-midterms-le-sursaut-d%C3%A9mocratique",
-   "source": "France 24",
-   "date": "2026-11-05T05:41:59+00:00",
-   "extrait": "À la une de la presse, ce jeudi 5 novembre, le soulagement et même la joie des journaux étrangers, après la défaite des républicains (et la victoire des démocrates) aux élections de mi-mandat, aux…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "cdbb2ad09964",
-   "titre": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
-   "lien": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced",
-   "source": "NPR",
-   "date": "2026-11-05T05:29:56+00:00",
-   "extrait": "Wong was sentenced for his second conviction under a Beijing-imposed national security law, in a case that critics say reflects the crackdown on the city's once-thriving pro-democracy movement.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "f013396ac508",
-   "titre": "L'Hérault et le Gard rejoignent la Corse en vigilance orange \"pluie-inondation\", annonce Météo-France",
-   "lien": "https://www.franceinfo.fr/environnement/meteo/l-herault-et-le-gard-rejoignent-la-corse-en-vigilance-orange-pluie-inondation-annonce-meteo-france_8268779.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-05T05:22:34+00:00",
-   "extrait": "La vigilance sera effective à partir de 10 heures dans ces deux départements du sud de la France.",
-   "tags": [
-    "Climat"
    ],
    "zone": "france"
   }
