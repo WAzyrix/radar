@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-06T23:05:39+00:00",
+ "maj": "2026-11-07T00:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "ca1a9396bb65",
+   "titre": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+   "lien": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+   "source": "BleepingComputer",
+   "date": "2026-11-07T00:00:55+00:00",
+   "extrait": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
+   "tags": [
+    "Faille"
+   ]
+  },
   {
    "id": "b99b441690fc",
    "titre": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
@@ -3419,18 +3430,6 @@
    "extrait": "Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic…",
    "tags": [
     "Windows"
-   ]
-  },
-  {
-   "id": "db852607b136",
-   "titre": "Warp discloses breach exposing AI agent logs, user telemetry data",
-   "lien": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
-   "source": "BleepingComputer",
-   "date": "2026-10-27T16:15:39+00:00",
-   "extrait": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]",
-   "tags": [
-    "Fuite de données",
-    "IA"
    ]
   }
  ]
