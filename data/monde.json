@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-07T18:05:39+00:00",
+ "maj": "2026-11-07T19:05:42+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,97 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "e6471ba42c69",
+   "titre": "Benoît Sineau a activé sa balise de détresse sur la Route du Rhum, des concurrents déroutés pour le secourir",
+   "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/benoit-sineau-a-active-sa-balise-de-detresse-sur-la-route-du-rhum-des-concurrents-deroutes-pour-le-secourir_8272628.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-07T18:50:04+00:00",
+   "extrait": "L'organisation a annoncé samedi dans un communiqué qu'elle avait demandé à plusieurs bateaux de venir en aide au skippeur d'Ekinox-Rhétores.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "fcc99d44aa30",
+   "titre": "Aux obsèques de Pengo Bossio Wangi, une foule de proches et d’anonymes réunis : « C’est important d’être là pour montrer notre solidarité, quelle que soit la religion, la couleur »",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/07/aux-obseques-de-pengo-bossio-wangi-une-foule-de-proches-et-d-anonymes-reunis-c-est-important-d-etre-la-pour-montrer-notre-solidarite-quelle-que-soit-la-religion-la-couleur_6808310_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-07T18:45:59+00:00",
+   "extrait": "Les obsèques de Pengo Bossio Wangi, tué dans l’attentat raciste de Trappes, le 23 octobre, se sont déroulées samedi à Guyancourt (Yvelines).",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "d72119534799",
+   "titre": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
+   "lien": "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
+   "source": "NPR",
+   "date": "2026-11-07T18:37:36+00:00",
+   "extrait": "A gunman targeted random people as he drove into Krakow's Main Square, a major tourist spot. Police shot and wounded the gunman during a gunfight.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "f3b63a893ac9",
+   "titre": "This week on \"Sunday Morning\" (Nov. 8)",
+   "lien": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-8-2026/",
+   "source": "CBS News",
+   "date": "2026-11-07T18:35:15+00:00",
+   "extrait": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "ac748c842a86",
+   "titre": "EN DIRECT, guerre en Ukraine : les dernières informations",
+   "lien": "https://www.lemonde.fr/international/live/2026/11/07/en-direct-guerre-en-ukraine-les-dernieres-informations_6803934_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-07T18:24:37+00:00",
+   "extrait": "L’armée russe a lancé plusieurs attaques contre des infrastructures énergétiques ukrainiennes, cette nuit, selon le ministère de l’énergie ukrainien, qui signale des coupures d’électricité dans les…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "10a11a207755",
+   "titre": "What we know about Krakow mass shooting so far",
+   "lien": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-07T18:22:11+00:00",
+   "extrait": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "696e716012df",
+   "titre": "Sunday on 60 Minutes: France on fire",
+   "lien": "https://www.cbsnews.com/video/sunday-on-60-minutes-france-on-fire/",
+   "source": "CBS News",
+   "date": "2026-11-07T18:17:00+00:00",
+   "extrait": "For weeks, protests have swept across France — businesses ransacked, police injured. One person who could gain from the turmoil? Right-wing populist Marine Le Pen. Watch our report on the unrest…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "a190c1df0327",
+   "titre": "US offers $20m reward for information about Iran's nuclear programme",
+   "lien": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-07T18:14:38+00:00",
+   "extrait": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "10d5ce296369",
    "titre": "A Cracovie, en Pologne, un assaillant tire sur des passants, faisant six morts et \"plusieurs blessés\"",
    "lien": "https://www.franceinfo.fr/faits-divers/en-pologne-une-fusillade-a-cracovie-fait-cinq-morts-et-plusieurs-blesses-selon-le-porte-parole-de-la-police_8272454.html#xtor=RSS-3-[lestitres]",
@@ -35,12 +126,34 @@
    "zone": "france"
   },
   {
+   "id": "0c8822513a1d",
+   "titre": "Le soignant qui a changé ma vie : « J’étais sa patiente pour Covid long, je suis devenue sa collègue »",
+   "lien": "https://www.lemonde.fr/intimites/article/2026/11/07/le-soignant-qui-a-change-ma-vie-j-etais-sa-patiente-pour-covid-long-je-suis-devenue-sa-collegue_6808308_6190330.html",
+   "source": "Le Monde",
+   "date": "2026-11-07T18:00:05+00:00",
+   "extrait": "Chaque mois, « Le Monde » part à la rencontre d’un soignant et d’un soigné qui, ensemble et au-delà du soin, ont su nouer un lien. Etonnante trajectoire que celle du duo formé par Valérie Triponez…",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "91715b126c18",
+   "titre": "Une sélection de livres de poche : « Les Femmes et la Libération », André Comte-Sponville, Paul Lynch, Lydie Salvayre…",
+   "lien": "https://www.lemonde.fr/critique-litteraire/article/2026/11/07/une-selection-de-livres-de-poche-les-femmes-et-la-liberation-andre-comte-sponville-paul-lynch-lydie-salvayre_6808307_5473203.html",
+   "source": "Le Monde",
+   "date": "2026-11-07T18:00:04+00:00",
+   "extrait": "Parmi les livres de poche parus récemment, « Le Monde des livres » vous recommande…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "080e9c6d0a2d",
    "titre": "Les députés communistes qui soutiennent La France insoumise se sont mis \"en dehors du parti\", estime le PCF",
    "lien": "https://www.franceinfo.fr/politique/les-deputes-communistes-qui-soutiennent-la-france-insoumise-se-sont-mis-en-dehors-du-parti-estime-le-pcf_8272592.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-11-07T17:59:42+00:00",
-   "extrait": "\"Celui ou celle qui fait ce choix se met de lui-même en dehors du parti et de ses instances ne peut plus participer [aux instances du parti] et ne peut plus s'exprimer au nom du PCF durant cette…",
+   "extrait": "Cette décision vise les députés communistes qui ont annoncé vendredi soutenir la candidature de Jean-Luc Mélenchon, au lieu de celle du dirigeant du mouvement, Fabien Roussel.",
    "tags": [
     "Politique"
    ],
@@ -78,6 +191,16 @@
    "source": "franceinfo",
    "date": "2026-11-07T17:57:04+00:00",
    "extrait": "L'Espagnol a tenu rang et n'a pas eu à forcer son jeu face à Casper Ruud en demi-finales du tournoi francilien, samedi.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "e5b8318ceef4",
+   "titre": "Des sportifs et créateurs de contenus français courent pendant vingt-cinq heures pour soutenir une association",
+   "lien": "https://www.lemonde.fr/videos/article/2026/11/07/des-sportifs-et-createurs-de-contenus-francais-courent-pendant-vingt-cinq-heures-pour-soutenir-une-association_6808306_1669088.html",
+   "source": "Le Monde",
+   "date": "2026-11-07T17:50:19+00:00",
+   "extrait": "Cent quarante coureurs ont récolté près de 1,5 million d’euros pour l’association Rêves, qui réalise les vœux d’enfants gravement malades.",
    "tags": [],
    "zone": "france"
   },
@@ -206,6 +329,18 @@
    "zone": "france"
   },
   {
+   "id": "b3534df0c874",
+   "titre": "Houthis say at least 25 killed in Saudi air strike",
+   "lien": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-07T17:09:24+00:00",
+   "extrait": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "438c97cbaf18",
    "titre": "Mélenchon : \"Je n'ai qu'une chose raisonnable à vous proposer, il faut tout changer\"",
    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261107-m%C3%A9lenchon-je-n-ai-qu-une-chose-raisonnable-%C3%A0-vous-proposer-il-faut-tout-changer",
@@ -217,11 +352,11 @@
   },
   {
    "id": "680b45f0b093",
-   "titre": "EN DIRECT, manifestations du 7 novembre : 146 000 personnes ont défilé en France samedi, selon le ministère de l’intérieur, 250 000, selon l’intersyndicale de la jeunesse",
+   "titre": "Revivez les manifestations du 7 novembre : 146 000 personnes ont défilé dans le calme en France, selon le ministère de l’intérieur, 250 000, selon l’intersyndicale de la jeunesse",
    "lien": "https://www.lemonde.fr/societe/live/2026/11/07/en-direct-manifestations-du-7-novembre-146-000-personnes-ont-defile-en-france-samedi-selon-le-ministere-de-l-interieur-250-000-selon-l-intersyndicale-de-la-jeunesse_6808254_3224.html",
    "source": "Le Monde",
    "date": "2026-11-07T17:07:26+00:00",
-   "extrait": "La situation sur l’ensemble du territoire national, au regard du maintien de l’ordre, « demeure globalement calme et maîtrisée », a indiqué le ministère de l’intérieur dans l’après-midi. A Paris…",
+   "extrait": "Des défilés contre la vie chère globalement dans le calme et une mobilisation en baisse, mais toujours vivace : des dizaines de milliers de personnes sont descendues dans la rue, samedi, pour…",
    "tags": [
     "Politique"
    ],
@@ -250,6 +385,28 @@
     "Justice"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "7c6011a77a15",
+   "titre": "Hervé Le Bras, historien : « Une France de technocrates est en train d’être remplacée par une France de tribuns »",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/07/herve-le-bras-historien-une-france-de-technocrates-est-en-train-d-etre-remplacee-par-une-france-de-tribuns_6808301_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-07T17:00:33+00:00",
+   "extrait": "Dans un entretien au « Monde », Hervé Le Bras explique comment une partie de la population française en perte de repères traditionnels et se sentant exclue pourrait écarter les élites actuelles au…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "cddd8615f8c1",
+   "titre": "Carla Shatz, neuroscientifique : « La notion que le cerveau est déjà plastique in utero, bien avant la naissance, a été déterminante »",
+   "lien": "https://www.lemonde.fr/sciences/article/2026/11/07/carla-shatz-neuroscientifique-la-notion-que-le-cerveau-est-deja-plastique-in-utero-bien-avant-la-naissance-a-ete-determinante_6808300_1650684.html",
+   "source": "Le Monde",
+   "date": "2026-11-07T17:00:18+00:00",
+   "extrait": "La chercheuse américaine a reçu le 3 novembre la Grande Médaille de l’Académie des sciences, une récompense qui met en valeur ses découvertes sur le développement du cerveau. Elle raconte dans un…",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "4f324d444515",
@@ -468,6 +625,19 @@
    "zone": "usa"
   },
   {
+   "id": "561f539765bc",
+   "titre": "Edwin Pindi, président du club de football de Troyes : « Même sous pavillon étranger, il y a un vrai respect de l’identité locale »",
+   "lien": "https://www.lemonde.fr/sport/article/2026/11/07/edwin-pindi-president-du-club-de-football-de-troyes-meme-sous-pavillon-etranger-il-y-a-un-vrai-respect-de-l-identite-locale_6808295_3242.html",
+   "source": "Le Monde",
+   "date": "2026-11-07T16:00:11+00:00",
+   "extrait": "Alors que la formation auboise affronte le PSG au Parc des Princes, samedi, en Ligue 1, son dirigeant revient, dans un entretien au « Monde », sur les relations avec son puissant propriétaire, le…",
+   "tags": [
+    "Politique",
+    "Sport"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "62e4a3490f47",
    "titre": "JOJ Dakar 2026 : à Saly, les JOJ mettent en lumière un littoral menacé par l'érosion",
    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261107-joj-dakar-2026-%C3%A0-saly-les-joj-mettent-en-lumi%C3%A8re-un-littoral-menac%C3%A9-par-l-%C3%A9rosion",
@@ -560,16 +730,6 @@
     "Justice"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "f3b63a893ac9",
-   "titre": "This week on \"Sunday Morning\" (Nov. 8)",
-   "lien": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-8-2026/",
-   "source": "CBS News",
-   "date": "2026-11-07T15:24:53+00:00",
-   "extrait": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "0e075f7e3852",
@@ -2013,6 +2173,18 @@
    "zone": "france"
   },
   {
+   "id": "54c7148a46e1",
+   "titre": "Le néolibéralisme est-il mort ? Vie et métamorphoses de la doctrine qui a façonné le monde contemporain",
+   "lien": "https://www.lemonde.fr/idees/article/2026/11/07/le-neoliberalisme-est-il-mort-vie-et-metamorphoses-de-la-doctrine-qui-a-faconne-le-monde-contemporain_6808201_3232.html",
+   "source": "Le Monde",
+   "date": "2026-11-07T04:55:01+00:00",
+   "extrait": "L’élection de Donald Trump et le Brexit, en 2016, marquent-ils la fin de quatre décennies d’hégémonie du néolibéralisme ? Le débat anime des intellectuels à travers le monde, qui s’interrogent sur…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "ae90075847b9",
    "titre": "Mouvement lycéen : après les vacances scolaires, un retour des blocages marqué par une hausse des tensions",
    "lien": "https://www.lemonde.fr/societe/article/2026/11/07/mouvement-lyceen-apres-les-vacances-scolaires-un-retour-des-blocages-marque-par-une-hausse-des-tensions_6808168_3224.html",
@@ -2027,8 +2199,8 @@
    "titre": "Derrière le piratage de Binance, le savoir-faire redoutable des hackeurs nord-coréens",
    "lien": "https://www.lemonde.fr/pixels/article/2026/11/07/derriere-le-piratage-de-binance-le-savoir-faire-redoutable-des-hackeurs-nord-coreens_6808134_4408996.html",
    "source": "Le Monde",
-   "date": "2026-11-07T04:00:13+00:00",
-   "extrait": "Depuis plus de dix ans, le régime de Pyongyang finance son programme balistique et nucléaire à coup de « cybercasses ». Les pirates nord-coréens ont fait de l’industrie des cryptomonnaies leur cible…",
+   "date": "2026-11-07T04:00:07+00:00",
+   "extrait": "Depuis plus de dix ans, Pyongyang finance son programme balistique et nucléaire à coup de « cybercasses ». Les pirates nord-coréens ont fait de l’industrie des cryptomonnaies leur cible principale…",
    "tags": [],
    "zone": "france"
   },
@@ -3267,180 +3439,6 @@
     "Santé"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "cf6bc2adb951",
-   "titre": "Yémen : des dizaines de morts dans une attaque sur un marché, les houthistes et les forces gouvernementales s’accusent mutuellement",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/06/yemen-des-dizaines-de-morts-dans-une-attaque-sur-un-marche-les-houthistes-et-les-forces-gouvernementales-s-accusent-mutuellement_6807855_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-06T18:50:48+00:00",
-   "extrait": "Les bombardements ont eu lieu dans le gouvernorat de Taëz, dans l’ouest du pays, dont la ville éponyme est encerclée depuis des semaines par les houthistes, qui contrôlent également la capitale…",
-   "tags": [
-    "Économie",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "d3c46df851eb",
-   "titre": "Josep Borrell : \"Quelle voix européenne s'est élevée contre Trump et la guerre en Iran ?\"",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/ici-l-europe/20261106-josep-borrell-quelle-voix-europ%C3%A9enne-s-est-%C3%A9lev%C3%A9e-contre-trump-et-la-guerre-en-iran",
-   "source": "France 24",
-   "date": "2026-11-06T18:49:37+00:00",
-   "extrait": "Cette semaine, Caroline de Camaret reçoit Josep Borrell, ancien Haut représentant de l'Union européenne (UE) pour les Affaires étrangères jusqu'en 2024. Également président du Parlement européen…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "d6a743664e0b",
-   "titre": "\"Ce sont des blessures de guerre\" : trois femmes gravement blessées par des grenades tirées par la police le 17 octobre racontent comment leur vie a basculé",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/temoignages-ce-sont-des-blessures-de-guerre-trois-femmes-gravement-blessees-par-des-grenades-lancees-par-la-police-le-17-octobre-racontent-comment-leur-vie-a-bascule_8271329.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-06T18:47:57+00:00",
-   "extrait": "Gravement touchées par des grenades policières lors de la manifestation du 17 octobre à Marseille, Suzanne, Laurie et Olive* resteront blessées à vie. Deux d'entre elles ont annoncé déposer plainte.",
-   "tags": [
-    "Conflits",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "b80d7871fdb0",
-   "titre": "En Ligue 2 ans il y a deux ans, fils d'un ancien joueur pro... Qui est Pablo Pagis, la nouvelle surprise appelée en équipe de France par Zinédine Zidane ?",
-   "lien": "https://www.franceinfo.fr/sports/foot/equipe-de-france/qui-est-pablo-pagis-la-nouvelle-surprise-appelee-en-equipe-de-france-par-zinedine-zidane_8271425.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-06T18:42:13+00:00",
-   "extrait": "L’attaquant du Paris FC a été appelé pour la première fois en équipe de France par Zinédine Zidane, vendredi.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "322729e95124",
-   "titre": "Latest news after Meghan Markle's father was arrested in a child pornography probe",
-   "lien": "https://www.cbsnews.com/video/latest-news-after-meghan-markles-father-was-arrested-in-a-child-pornography-probe/",
-   "source": "CBS News",
-   "date": "2026-11-06T18:40:09+00:00",
-   "extrait": "Thomas Markle Sr., Duchess Meghan's father, has been arrested in Florida, sources say, over his alleged possession of child pornography. CBS News' Jake Rosen and Cristian Benavides report.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "713fc5a1b121",
-   "titre": "Médine, conscience et engagement",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/l%C3%A9gendes-urbaines/20261106-m%C3%A9dine-conscience-et-engagement",
-   "source": "France 24",
-   "date": "2026-11-06T18:30:50+00:00",
-   "extrait": "Rendez-vous avec le rappeur Médine à l’occasion de la sortie de son recueil de titres \"Enfants du destin\", qui sortira le 11 décembre. Elle sera suivie d’une tournée française, notamment les 11 et…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "9caab7356c6d",
-   "titre": "Surfréquentation à Chamonix : vers l’instauration de quotas touristiques, une première dans les Alpes",
-   "lien": "https://www.lemonde.fr/planete/article/2026/11/06/surfrequentation-a-chamonix-vers-l-instauration-de-quotas-touristiques-une-premiere-dans-les-alpes_6807854_3244.html",
-   "source": "Le Monde",
-   "date": "2026-11-06T18:30:06+00:00",
-   "extrait": "L’accès au lac Blanc et aux lacs des Chéserys, offrant une vue imprenable sur le massif du Mont-Blanc, devrait être soumis à une réservation obligatoire, avec des jauges de 600 à 1 000 personnes, à…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "23d719317a50",
-   "titre": "Talented 3-year-old boy at the center of a soccer team controversy is getting amazing opportunities",
-   "lien": "https://www.cbsnews.com/video/3-year-old-boy-at-the-center-of-a-soccer-team-controversy-is-getting-new-opportunities/",
-   "source": "CBS News",
-   "date": "2026-11-06T18:24:55+00:00",
-   "extrait": "Nevada Pierre, the 3-year-old boy prodigy who faced anger and frustration during a youth soccer game, has gone viral for his talent. CBS News' Adriana Diaz spoke to Pierre's mom about his future.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "e28590dd0f7f",
-   "titre": "La justice autorise in extremis une conférence du député LFI Raphaël Arnault à Villeurbanne",
-   "lien": "https://www.franceinfo.fr/politique/la-justice-autorise-in-extremis-une-conference-du-depute-lfi-raphael-arnault-a-villeurbanne_8271167.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-06T18:22:11+00:00",
-   "extrait": "Le tribunal administratif a invalidé en partie un arrêté préfectoral d'interdiction pris jeudi, en raison d'un risque d'affrontements \"entre des groupuscules radicaux\".",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "0fce9fb27720",
-   "titre": "Manifestations de samedi en France : 70 000 policiers et gendarmes à nouveau mobilisés",
-   "lien": "https://www.france24.com/fr/france/20261106-manifestations-de-samedi-en-france-70-000-policiers-et-gendarmes-%C3%A0-nouveau-mobilis%C3%A9s",
-   "source": "France 24",
-   "date": "2026-11-06T18:18:03+00:00",
-   "extrait": "Le ministre de l'Intérieur a annoncé vendredi la reconduction d'un dispositif de \"sécurité\" en vue des manifestations de samedi. 70 000 policiers et gendarmes seront déployés sur l'ensemble du…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "022fb87053ad",
-   "titre": "Aux Etats-Unis, l’accélération inattendue des créations d’emplois",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/06/aux-etats-unis-l-acceleration-inattendue-des-creations-d-emplois_6807852_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-06T18:10:39+00:00",
-   "extrait": "Les statistiques officielles pour le mois d’octobre ont fait état d’un léger recul du chômage et d’un bond des créations d’emplois, qui ont plus que doublé par rapport à septembre.",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "fab6ed1095f9",
-   "titre": "Au Pakistan, un couple d’avocats « défenseurs des sans-voix » persécuté par les autorités",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/06/au-pakistan-un-couple-d-avocats-defenseurs-des-sans-voix-persecute-par-les-autorites_6807851_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-06T18:09:42+00:00",
-   "extrait": "Engagés dans la défense des minorités ethniques, des journalistes poursuivis pour diffamation et des personnes accusées de blasphème, Imaan Mazari et son époux, Hadi Ali Chattha, ont été condamnés…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "a5148dc4377c",
-   "titre": "Derrière l'évacuation de la ville ukrainienne d'Olechky, une opération de propagande russe ?",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/vu-de-russie/20261106-derri%C3%A8re-l-%C3%A9vacuation-de-la-ville-ukrainienne-d-olechky-une-op%C3%A9ration-de-propagande-russe",
-   "source": "France 24",
-   "date": "2026-11-06T18:04:57+00:00",
-   "extrait": "Entre le 27 octobre et le 1er novembre, un cessez-le-feu a été instauré dans la ville ukrainienne d'Olechky, occupée par les Russes depuis le début de la guerre à grande échelle en 2022. Le but…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "18b8f852b621",
-   "titre": "JOJ Dakar 2026 : Une équipe de réfugiés, une première dans l’histoire des JO de la jeunesse",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261106-joj-dakar-2026-une-%C3%A9quipe-de-r%C3%A9fugi%C3%A9s-une-premi%C3%A8re-dans-l-histoire-des-jo-de-la-jeunesse",
-   "source": "France 24",
-   "date": "2026-11-06T18:03:17+00:00",
-   "extrait": "C'est une première dans l'histoire des Jeux olympiques de la jeunesse. Une équipe olympique de réfugiés prend part à la compétition. Six jeunes, six parcours différents et une même fierté. Celle de…",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "4ec5ab6fc413",
-   "titre": "L’essai « OnlyFans, le capitalisme du désir » récuse les fausses promesses d’un géant de la pornographie en ligne",
-   "lien": "https://www.lemonde.fr/idees/article/2026/11/06/l-essai-onlyfans-le-capitalisme-du-desir-recuse-les-fausses-promesses-d-un-geant-de-la-pornographie-en-ligne_6807849_3232.html",
-   "source": "Le Monde",
-   "date": "2026-11-06T18:00:06+00:00",
-   "extrait": "Pour son nouvel ouvrage, le sociologue Pierre Brasseur a enquêté sur la plateforme qui prétend être au service des créatrices de contenus sexuellement explicites. Mais en permettant à chacun de…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
   }
  ]
 }
