@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-07T12:05:39+00:00",
+ "maj": "2026-11-07T13:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,100 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "fdd008bbd96a",
+   "titre": "No one knew why a dad couldn't eat. Then a surgeon took a second look.",
+   "lien": "https://www.cbsnews.com/news/long-island-dad-bowel-blockage-inflammation-surgery/",
+   "source": "CBS News",
+   "date": "2026-11-07T13:00:13+00:00",
+   "extrait": "Richard Satin was in constant pain and couldn't eat. He was sure he was dying — until a surgeon found something unusual.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "1c31429da490",
+   "titre": "Perspective: Simon Winchester was here to tell a story",
+   "lien": "https://www.npr.org/2026/11/07/nx-s1-6023225/perspective-simon-winchester-was-here-to-tell-a-story",
+   "source": "NPR",
+   "date": "2026-11-07T13:00:00+00:00",
+   "extrait": "British American reporter and author Simon Winchester died of a heart attack Nov. 3. We take a moment to remember his long career, which included covering Bloody Sunday and Watergate.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "be57de8b0614",
+   "titre": "Sébastien Chenu estime que la Ciivise a les oreilles \"fragiles\", après les propos de Julien Odoul qualifiant cette commission de \"service sanitaire du Hamas\"",
+   "lien": "https://www.franceinfo.fr/politique/front-national/sebastien-chenu-estime-que-la-ciivise-a-les-oreilles-fragiles-apres-les-propos-de-julien-odoul-qualifiant-cette-commission-de-service-sanitaire-du-hamas_8272253.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-07T12:54:45+00:00",
+   "extrait": "La directrice de la Ciivise, Maryse Le Men-Régnier, a saisi la présidente de l'Assemblée nationale mercredi, dénonçant dans une lettre ouverte des propos \"inadmissibles\".",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "91f75f3082fd",
+   "titre": "Présidentielle 2027 : Edouard Philippe accuse Jean-Luc Mélenchon d'avoir une \"vision communautariste\" et de vouloir une \"économie administrée\"",
+   "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-jean-luc-melenchon-va-presenter-son-programme-au-bourget_8272022.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-07T12:53:39+00:00",
+   "extrait": "A six mois de la présidentielle, Jean-Luc Mélenchon tient un meeting samedi au Bourget. Edouard Philippe se rend de son côté aux Rencontres de l'avenir à Saint-Raphaël, et Bruno Retailleau sera à…",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "e6afdaa46c60",
+   "titre": "Ukraine's power network suffers further damage after fresh Russian strikes",
+   "lien": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-07T12:49:36+00:00",
+   "extrait": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "50f5452d5a50",
+   "titre": "Au Yémen, des frappes saoudiennes font 22 morts, selon les rebelles houthis",
+   "lien": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-des-frappes-saoudiennes-font-22-morts-selon-les-houthis_8272298.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-07T12:42:56+00:00",
+   "extrait": "Les autorités saoudiennes n'ont pas commenté ces informations, alors que des opérations de sauvetage sont toujours en cours.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "71d6e2be8f5e",
+   "titre": "A peine retraité, Gaël Monfils est nommé capitaine des Bleus en Coupe Davis",
+   "lien": "https://www.lemonde.fr/sport/article/2026/11/07/a-peine-retraite-gael-monfils-est-nomme-capitaine-des-bleus-en-coupe-davis_6808273_3242.html",
+   "source": "Le Monde",
+   "date": "2026-11-07T12:32:01+00:00",
+   "extrait": "Quelques jours après l’annonce de sa retraite sportive, le Francilien a été choisi par la Fédération française de tennis pour succéder à Paul-Henri Mathieu, dont les résultats ont été décevants, à…",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "fe773657f48e",
+   "titre": "Four things we learned this week about 2028 White House race",
+   "lien": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-07T12:23:28+00:00",
+   "extrait": "The seismic Democratic gains in Congress could shape the presidential election, so who had a good night and who's making moves?",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
   {
    "id": "e60f0c4ad176",
    "titre": "Résultats des Midterms, conséquences sur la politique étrangère US et mobilisation sociale en France",
@@ -77,18 +171,6 @@
    "extrait": "This year's the Princess Diana honor roll highlights 198 inspiring young activists and advocates — including an 18-year-old guy in India who founded Team Period.",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "be57de8b0614",
-   "titre": "Sébastien Chenu estime que la Ciivise a les oreilles \"fragiles\", après les propos de Julien Odoul qualifiant cette commission de \"service sanitaire du Hamas\"",
-   "lien": "https://www.franceinfo.fr/politique/front-national/sebastien-chenu-estime-que-la-ciivise-a-les-oreilles-fragiles-apres-les-propos-de-julien-odoul-qualifiant-cette-commission-de-service-sanitaire-du-hamas_8272253.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-07T11:42:38+00:00",
-   "extrait": "La directrice de la Ciivise, Maryse Le Men-Régnier, a saisi la présidente de l'Assemblée nationale mercredi, dénonçant dans une lettre ouverte des propos \"inadmissibles\".",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
   },
   {
    "id": "35097160c475",
@@ -160,16 +242,6 @@
    "zone": "france"
   },
   {
-   "id": "91f75f3082fd",
-   "titre": "Présidentielle 2027 : le programme de LFI est un \"projet de démantèlement de la France\", fustige Marine Le Pen",
-   "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-jean-luc-melenchon-va-presenter-son-programme-au-bourget_8272022.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-07T10:49:49+00:00",
-   "extrait": "A six mois de la présidentielle, Jean-Luc Mélenchon assure samedi un meeting au Bourget. Edouard Philippe se rend de son côté aux Rencontres de l'avenir à Saint-Raphaël, et Bruno Retailleau sera à…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
    "id": "88049fb5ca15",
    "titre": "Des militants occupent le chantier d'un centre de données Microsoft à Amsterdam",
    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261107-des-militants-occupent-le-chantier-d-un-centre-de-donn%C3%A9es-microsoft-%C3%A0-amsterdam",
@@ -200,6 +272,18 @@
    "date": "2026-11-07T10:30:11+00:00",
    "extrait": "A 22 ans, le joueur français, ex-numéro un mondial junior, réalise, dans le tournoi indoor parisien, la plus belle performance de sa carrière, tout en suivant un cursus universitaire de…",
    "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "8c8709364959",
+   "titre": "En Guadeloupe, la ministre Naïma Moutchou ne promet rien lors de son déplacement",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/07/en-guadeloupe-la-ministre-naima-moutchou-ne-promet-rien-lors-de-son-deplacement_6808267_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-07T10:30:08+00:00",
+   "extrait": "Pour la première fois depuis sa nomination en octobre 2025, la ministre des outre-mer est arrivée mercredi dans l’archipel pour un passage en revue de tous les sujets, mais sans décision majeure à…",
+   "tags": [
+    "Politique"
+   ],
    "zone": "france"
   },
   {
@@ -370,6 +454,18 @@
    "zone": "monde"
   },
   {
+   "id": "7bb9e759cbe2",
+   "titre": "Plus de 500 kilomètres de câbles de cuivre volés dans des parcs photovoltaïques, un préjudice de plus d'un million d'euros",
+   "lien": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/plus-de-500-kilometres-de-cables-de-cuivre-voles-dans-des-parcs-photovoltaiques-un-prejudice-de-plus-d-un-million-d-euros-3445896.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-07T09:51:51+00:00",
+   "extrait": "Plusieurs centrales photovoltaïques implantées en Gironde et dans plusieurs départements d'Aquitaine, du Poitou-Charentes et d'Occitanie, ont été victimes de vols massifs de câbles électriques…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "0cef5f38e5e2",
    "titre": "\"Il faut faire des choix financiers\" : au salon Paris pour l'emploi, la hausse du coût de la vie et le niveau du salaire au centre des préoccupations",
    "lien": "https://www.franceinfo.fr/economie/emploi/reportage-il-faut-faire-des-choix-financiers-au-salon-paris-pour-l-emploi-des-demandeurs-d-emploi-face-a-la-hausse-du-cout-de-la-vie_8272046.html#xtor=RSS-3-[lestitres]",
@@ -496,6 +592,16 @@
     "Santé"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "43454d02612e",
+   "titre": "Les mystères du bouton « Eco » du lave-linge : « Comment est-il possible que le truc le plus long soit le plus économique ? »",
+   "lien": "https://www.lemonde.fr/m-le-mag/article/2026/11/07/les-mysteres-du-bouton-eco-du-lave-linge-comment-est-il-possible-que-le-truc-le-plus-long-soit-le-plus-economique_6808257_4500055.html",
+   "source": "Le Monde",
+   "date": "2026-11-07T09:00:12+00:00",
+   "extrait": "Dans sa chronique, Guillemette Faure met en lumière les transformations invisibles de notre époque. Cette semaine, l’infinie complexité des programmes des lave-linge.",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "36a98c63c5ef",
@@ -819,6 +925,19 @@
    "extrait": "La nouvelle compétition du calendrier rugby vient pimenter le mois de novembre, et lancer la saison internationale en vue du Mondial à partir du 1er octobre 2027.",
    "tags": [
     "Sport"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "cc43178ce81d",
+   "titre": "Midterms 2026 : les démocrates lancés à l’assaut du budget du Pentagone et de la guerre contre l’Iran",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/07/midterms-2026-les-democrates-lances-a-l-assaut-du-budget-du-pentagone-et-de-la-guerre-contre-l-iran_6808203_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-07T05:00:02+00:00",
+   "extrait": "Le prohibitif projet de bouclier antimissile Golden Dome pourrait devenir l’une des premières cibles des élus démocrates. Très opposés au conflit avec la République islamique, ces derniers dénoncent…",
+   "tags": [
+    "Économie",
+    "Conflits"
    ],
    "zone": "france"
   },
@@ -2945,18 +3064,6 @@
    "zone": "monde"
   },
   {
-   "id": "fe773657f48e",
-   "titre": "Four midterms takeaways for 2028 White House race",
-   "lien": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-06T16:12:22+00:00",
-   "extrait": "The buzz about the presidential election is already under way - here's what we learned this week.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
    "id": "6a9e2b10b8e6",
    "titre": "Son bateau trop lourdement endommagé, Violette Dorange abandonne la Route du Rhum",
    "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/son-bateau-trop-lourdement-endommage-violette-dorange-abandonne-la-route-du-rhum_8271146.html#xtor=RSS-3-[lestitres]",
@@ -3311,100 +3418,6 @@
    "extrait": "Après le succès avignonnais, \"Olympe(s)\" s'installe à La Scala Paris jusqu'au 17 janvier 2027. Olympe(s), un spectacle qui fait du bien tout en donnant à réfléchir. Euphorisant.",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "85190ae8408e",
-   "titre": "\"Pour eux, ce sont des moments bouleversants\" : les images des sauvetages des skippers Armel Le Cléac'h et Francis Joyon en pleine Route du Rhum",
-   "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/pour-eux-ce-sont-des-moments-bouleversants-les-images-des-sauvetages-des-skippers-armel-le-cleac-h-et-francis-joyon-en-pleine-route-du-rhum_8271002.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-06T15:17:47+00:00",
-   "extrait": "Retour sur les images incroyables du sauvetage d'Armel Le Cléac'h et Francis Joyon. Les deux navigateurs engagés dans la Route du Rhum ont chaviré en pleine mer, ils ont été secourus par des cargos…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "6a9c58a45135",
-   "titre": "Zelenskyy chief of staff on Russia peace talks: \"These negotiations are not the last\"",
-   "lien": "https://www.cbsnews.com/video/zelenskyy-chief-of-staff-on-russia-peace-talks-these-negotiations-are-not-the-last/",
-   "source": "CBS News",
-   "date": "2026-11-06T15:13:00+00:00",
-   "extrait": "The U.S. is holding talks with Ukraine and Russia in Abu Dhabi next week. CBS News' Aidan Stretch spoke to Volodymyr Zelenskyy's chief of staff, Lieutenant General Kyrylo Budanov, about what to…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "9b52393670d5",
-   "titre": "How to release inner negativity",
-   "lien": "https://www.cbsnews.com/video/how-to-release-inner-negativity/",
-   "source": "CBS News",
-   "date": "2026-11-06T15:10:40+00:00",
-   "extrait": "Do you struggle with anxiety or inner negativity? Shadé Zahrai, author of \"Big Trust: Rewire Self-Doubt, Find Your Confidence, and Fuel Success,\" has some tips on improving your self-esteem.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "f792adc49c29",
-   "titre": "Hegseth reacts as Republicans blame him for the midterm results: \"We will not back down\"",
-   "lien": "https://www.cbsnews.com/video/hegseth-reacts-as-republicans-blame-him-for-the-midterm-results/",
-   "source": "CBS News",
-   "date": "2026-11-06T15:05:53+00:00",
-   "extrait": "Secretary of Defense Pete Hegseth remains defiant as Republicans blame him for the catastrophic midterm losses. CBS News' Nancy Cordes reports.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "cd665cafdd0a",
-   "titre": "Jay Rockefeller, former governor and U.S. senator, dies at 89",
-   "lien": "https://www.cbsnews.com/news/jay-rockefeller-former-west-virginia-governor-us-senator-dies-89/",
-   "source": "CBS News",
-   "date": "2026-11-06T15:04:15+00:00",
-   "extrait": "Jay Rockefeller, who served as West Virginia governor and senator and was the last member of his family's political dynasty, has died at the age of 89.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "6b35d98b98b0",
-   "titre": "Un policier de Carcassonne condamné à six mois de prison avec sursis pour « violences volontaires » sur une personne SDF",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/06/un-policier-de-carcassonne-condamne-a-six-mois-de-prison-avec-sursis-pour-violences-volontaires-sur-une-personne-sdf_6807802_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-06T15:02:40+00:00",
-   "extrait": "Le fonctionnaire de 43 ans a également reçu une interdiction d’exercer sur la voie publique pendant un an. Le décès de la victime, survenu treize jours après les faits, ne présente « aucun lien »…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "d2d6666689bd",
-   "titre": "Watch: Is it the end of the road for Tesla's Cybertruck?",
-   "lien": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-06T15:02:03+00:00",
-   "extrait": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "61dcee63803e",
-   "titre": "Le député LR Antoine Vermorel veut verdir la droite avec un livre programme sur l’environnement",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/06/le-depute-lr-antoine-vermorel-veut-verdir-la-droite-avec-un-livre-programme-sur-l-environnement_6807801_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-06T15:00:03+00:00",
-   "extrait": "Spécialiste du sujet chez LR, le député de 33 ans livre cent propositions pour une « écologie gagnante ». Ce soutien de Bruno Retailleau défend une règle d’or environnementale, la création d’une TVA…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "a8af594bcaa2",
-   "titre": "Un Indien sauve, seul, son île de l'érosion en plantant une forêt à main nues",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-le-reportage/20261106-un-indien-sauve-seul-son-%C3%AEle-de-l-%C3%A9rosion-en-plantant-une-for%C3%AAt-%C3%A0-main-nues",
-   "source": "France 24",
-   "date": "2026-11-06T14:57:20+00:00",
-   "extrait": "En Inde, un agriculteur sauve son île de l'érosion en plantant, seul, une forêt à main nues. Baptisé \"Forest Man\", Jadav Payeng a consacré plus de 40 ans de sa vie à mettre en terre des arbres un…",
-   "tags": [],
-   "zone": "monde"
   }
  ]
 }
