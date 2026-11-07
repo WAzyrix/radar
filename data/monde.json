@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-07T04:05:38+00:00",
+ "maj": "2026-11-07T05:05:38+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,43 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "ccf7c092c716",
+   "titre": "Présidentielle 2027 : Raphaël Glucksmann met en ordre de bataille la famille socialiste pour la campagne",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/07/presidentielle-2027-raphael-glucksmann-met-en-ordre-de-bataille-la-famille-socialiste-pour-la-campagne_6808238_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-07T05:00:20+00:00",
+   "extrait": "Le vainqueur de la primaire sociale-démocrate a dévoilé l’équipe qui portera sa candidature pour l’Elysée, avec le souci de faire la part belle aux différents courants internes du Parti socialiste…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "92e4c3348b27",
+   "titre": "Thierry Cotillard, patron d’Intermarché : « L’hypersensibilité au prix est telle qu’il y a un risque de déconsommation si l’inflation alimentaire dépasse 2 % ou 3 % »",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/07/thierry-cotillard-patron-d-intermarche-l-hypersensibilite-au-prix-est-telle-qu-il-y-a-un-risque-de-deconsommation-si-l-inflation-alimentaire-depasse-2-ou-3_6808204_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-07T05:00:08+00:00",
+   "extrait": "En amont des négociations commerciales annuelles entre les enseignes de supermarchés et les industriels de l’agroalimentaire, qui débuteront le 1ᵉʳ décembre, le président de Groupement Mousquetaires…",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "166b21e3adb8",
+   "titre": "Trump shakes up team as Democratic majority comes into focus",
+   "lien": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
+   "source": "CBS News",
+   "date": "2026-11-07T04:31:47+00:00",
+   "extrait": "President Trump is swapping out his chief of staff after Republicans' losses in the midterms, with more than two dozen House races unresolved. Follow live updates.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
   {
    "id": "23de5927776a",
    "titre": "Stephen Miller, l’idéologue réactionnaire de la Maison Blanche, devient le nouveau chef de l’administration Trump",
@@ -46,11 +83,24 @@
    "zone": "france"
   },
   {
+   "id": "a41907c82a62",
+   "titre": "Paraguay's President Santiago Peña impeached and arrested",
+   "lien": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-07T03:25:00+00:00",
+   "extrait": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "e12c3c5c3538",
    "titre": "Les Etats-Unis offrent 20 millions de dollars et « un possible déménagement » pour des informations sur le programme nucléaire iranien",
    "lien": "https://www.lemonde.fr/international/article/2026/11/07/les-etats-unis-offrent-20-millions-de-dollars-et-un-possible-demenagement-pour-des-informations-sur-le-programme-nucleaire-iranien_6808067_3210.html",
    "source": "Le Monde",
-   "date": "2026-11-07T02:13:33+00:00",
+   "date": "2026-11-07T02:13:31+00:00",
    "extrait": "Ces informations peuvent concerner « [les] installations, [les] équipements et le personnel associé », a précisé le commandement militaire américain pour le Moyen-Orient.",
    "tags": [],
    "zone": "france"
@@ -214,6 +264,16 @@
    "zone": "usa"
   },
   {
+   "id": "444a51598711",
+   "titre": "This man refused life-saving treatment because of his religion - days later the rules changed",
+   "lien": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-07T01:27:47+00:00",
+   "extrait": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
    "id": "348c809bd915",
    "titre": "Meghan Markle's estranged father arrested by FBI in Florida on child sex abuse material charges",
    "lien": "https://www.cbsnews.com/video/meghan-markles-estranged-father-arrested-by-fbi-in-florida-on-child-sex-abuse-material-charges/",
@@ -249,6 +309,16 @@
     "Politique"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "cccced87afcb",
+   "titre": "The young Somali woman changing how the world sees Mogadishu",
+   "lien": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-07T01:19:49+00:00",
+   "extrait": "For some tourists, the contrast between Somalia's reputation and what they experience on the ground can be striking.",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "4f8ffaa3a209",
@@ -450,6 +520,18 @@
    "zone": "france"
   },
   {
+   "id": "f727bf68d6bb",
+   "titre": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+   "lien": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-06T23:46:08+00:00",
+   "extrait": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "00d7d1446368",
    "titre": "What Trump's choice to replace Susie Wiles with Stephen Miller means",
    "lien": "https://www.cbsnews.com/video/what-trump-choice-replace-wiles-with-stephen-miller-means/",
@@ -495,6 +577,18 @@
     "Justice"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "1129afa74846",
+   "titre": "With Stephen Miller pick, Trump readies for a battle",
+   "lien": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-06T23:24:15+00:00",
+   "extrait": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
   },
   {
    "id": "46dde36fc0fb",
@@ -563,18 +657,6 @@
     "Conflits"
    ],
    "zone": "france"
-  },
-  {
-   "id": "166b21e3adb8",
-   "titre": "Trump shakes up team as Democratic majority comes into focus",
-   "lien": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
-   "source": "CBS News",
-   "date": "2026-11-06T23:04:42+00:00",
-   "extrait": "President Trump is swapping out his chief of staff after Republicans' losses in the midterms, with more than two dozen House races unresolved. Follow live updates.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
   },
   {
    "id": "964de362ef47",
@@ -3344,89 +3426,6 @@
    "source": "franceinfo",
    "date": "2026-11-06T11:45:18+00:00",
    "extrait": "Déjà plus de 46 000 euros ont été récoltés pour réparer son bateau et reprendre la course au plus vite. Dimanche, son trimaran est entré en collision avec l'Imoca de Violette Dorange.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "f8c6883d8f8f",
-   "titre": "Au Japon, l'IA aide les ministres à répondre aux questions piégeuses des parlementaires",
-   "lien": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/au-japon-l-ia-aide-les-ministres-a-repondre-aux-questions-piegeuses-des-parlementaires_8249878.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-06T11:44:10+00:00",
-   "extrait": "Le gouvernement japonais vient de créer une plateforme d’intelligence artificielle pour faire gagner du temps aux haut-fonctionnaires chargés de documenter les réponses. L'idée est d'apaiser le…",
-   "tags": [
-    "Politique",
-    "Climat",
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "db45f793bdb6",
-   "titre": "Deux personnes retrouvées mortes en Corse-du-Sud après que leur voiture a été emportée par les inondations",
-   "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/deux-personnes-ont-ete-retrouvees-mortes-en-corse-du-sud-apres-que-leur-voiture-a-ete-emportee-par-les-inondations_8270402.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-06T11:43:09+00:00",
-   "extrait": "Les pluies torrentielles qui s'abattent sur la Corse, dont les deux départements étaient placés en vigilance orange pour un risque de \"pluie-inondation\" depuis jeudi matin, ont occasionné…",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "20a4226b714b",
-   "titre": "Boxe : Imane Khelif fera ses débuts professionnels le 15 décembre à Paris",
-   "lien": "https://www.franceinfo.fr/sports/boxe/boxe-imane-khelif-fera-ses-debuts-professionnels-le-15-decembre-a-paris_8270768.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-06T11:36:39+00:00",
-   "extrait": "Cible d'attaques sur son genre depuis sa médaille d'or aux JO de Paris, en 2024, la boxeuse algérienne va lancer sa carrière pro, mi-décembre.",
-   "tags": [
-    "Conflits",
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "da78df11568d",
-   "titre": "Catastrophe ferroviaire en Espagne : le parquet européen ouvre une enquête quant à d’éventuelles fraudes sur la ligne accidentée à Urda",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/06/catastrophe-ferroviaire-en-espagne-le-parquet-europeen-ouvre-une-enquete-quant-a-d-eventuelles-fraudes-sur-la-ligne-accidentee-a-urda_6807780_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-06T11:31:33+00:00",
-   "extrait": "L’enquête concerne « une possible fraude affectant des fonds européens destinés à la rénovation et à l’amélioration de la sécurité, de la signalisation et des systèmes de communication » sur la…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "6098a8167e58",
-   "titre": "L’autoroute A69 ouverte aux automobilistes, après quatre ans de contestation, avec un péage à 20,40 euros",
-   "lien": "https://www.lemonde.fr/planete/article/2026/11/06/l-autoroute-a69-ouverte-aux-automobilistes-apres-quatre-ans-de-contestation-avec-un-peage-a-20-40-euros_6807779_3244.html",
-   "source": "Le Monde",
-   "date": "2026-11-06T11:30:04+00:00",
-   "extrait": "Depuis 2023, les associations environnementales ont multiplié les recours juridiques et rassemblements pour​ contester ce projet devenu symbole des combats écologistes. Le prix de l’aller-retour…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c3acb2756c31",
-   "titre": "Comment la saga \"Hunger Games\" s'est imposée comme un symbole de la révolte en France",
-   "lien": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/comment-la-saga-hunger-games-s-est-imposee-comme-un-symbole-de-la-revolte-en-france_8270327.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-06T11:30:00+00:00",
-   "extrait": "De Paris à Marseille, des orchestres jouent la chanson épique du film devant des manifestants qui lèvent trois doigts en l'air en signe de ralliement. Des symboles devenus universels pour rallier…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "65840b63fa0f",
-   "titre": "\"Pour moi, c'est le jeu de la décennie\" : après treize ans d'attente, le phénomène \"GTA VI\" s'apprête à déferler sur l'industrie du divertissement",
-   "lien": "https://www.franceinfo.fr/culture/jeux-video/pour-moi-c-est-le-jeu-de-la-decennie-apres-treize-ans-d-attente-le-phenomene-gta-vi-s-apprete-a-deferler-sur-l-industrie-du-divertissement_8270513.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-06T11:29:51+00:00",
-   "extrait": "Si l'éditeur américain Take-Two Interactive, maison mère du studio, n'a pas communiqué sur les précommandes, celles-ci ont déjà généré environ 750 millions de dollars (667 millions d'euros) deux…",
    "tags": [],
    "zone": "france"
   }
