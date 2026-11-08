@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-08T05:05:38+00:00",
+ "maj": "2026-11-08T06:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,30 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "e4d4ce2099fc",
+   "titre": "Scandale bancaire au Paraguay : le président destitué Santiago Peña placé en détention préventive",
+   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261108-scandale-bancaire-au-paraguay-le-pr%C3%A9sident-destitu%C3%A9-santiago-pe%C3%B1a-plac%C3%A9-en-d%C3%A9tention-pr%C3%A9ventive",
+   "source": "France 24",
+   "date": "2026-11-08T06:01:51+00:00",
+   "extrait": "Le président destitué du Paraguay Santiago Peña a été placé samedi en détention préventive, dans une installation militaire de la garde présidentielle, après son inculpation pour \"abus de confiance\"…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "7c4b8b53da79",
+   "titre": "Jensen Huang, le patron de Nvidia, soupçonné aux Etats-Unis d’avoir été espionné par une entrepreneuse chinoise dans le cadre d’une relation sentimentale",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/08/jensen-huang-le-patron-de-nvidia-soupconne-aux-etats-unis-d-avoir-ete-espionne-par-une-entrepreneuse-chinoise-dans-le-cadre-d-une-relation-sentimentale_6808394_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-08T04:55:15+00:00",
+   "extrait": "Selon des révélations du « New York Times », Jensen Huang, dont l’entreprise fabrique des puces de pointe indispensables au développement de l’intelligence artificielle, aurait entretenu des…",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "d761f973b842",
    "titre": "NYC schools employee faces murder charge in Brooklyn jogger's killing",
    "lien": "https://www.cbsnews.com/news/katie-suarez-jogger-fatally-stabbed-in-brooklyn/",
@@ -42,6 +66,16 @@
     "Conflits"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "82c304c448a3",
+   "titre": "« J’ai un entretien ce vendredi ! C’est mon dernier espoir… » : quand la réalité de la crise envahit les réseaux sociaux",
+   "lien": "https://www.lemonde.fr/m-perso/article/2026/11/08/j-ai-un-entretien-ce-vendredi-c-est-mon-dernier-espoir-quand-la-realite-de-la-crise-envahit-les-reseaux-sociaux_6808389_4497916.html",
+   "source": "Le Monde",
+   "date": "2026-11-08T04:00:31+00:00",
+   "extrait": "Selon l’Insee, en France, le taux de chômage des moins de 25 ans a dépassé, au deuxième trimestre, les 21 %. Face à la difficulté à s’insérer dans le monde du travail, de nombreux jeunes « sous…",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "066305067d94",
@@ -725,14 +759,13 @@
   },
   {
    "id": "026a3ce81823",
-   "titre": "En Pologne, une attaque par arme à feu a fait au moins six morts à Cracovie, Donald Tusk dénonce un acte de « terrorisme »",
+   "titre": "En Pologne, un tireur « fasciné par les idéologies d’extrême droite » fait au moins six morts à Cracovie, Donald Tusk dénonce un acte de « terrorisme »",
    "lien": "https://www.lemonde.fr/international/article/2026/11/07/en-pologne-au-moins-six-morts-dans-une-attaque-par-arme-a-feu-a-cracovie-le-tireur-interpelle_6808293_3211.html",
    "source": "Le Monde",
    "date": "2026-11-07T17:34:57+00:00",
-   "extrait": "Le tireur, un Polonais de 24 ans « fasciné par les idéologies d’extrême droite » d’après le premier ministre, a ouvert le feu « au hasard » sur la grande place de la vieille ville. Deux jours de…",
+   "extrait": "L’attaquant, un Polonais de 24 ans, a ouvert le feu « au hasard » sur la grande place de la vieille ville avant d’être blessé et neutralisé par la police. Deux jours de deuil national ont été…",
    "tags": [
-    "Politique",
-    "Conflits"
+    "Justice"
    ],
    "zone": "france"
   },
@@ -3406,36 +3439,6 @@
     "Tech"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "d9dff7269968",
-   "titre": "Rob Sand's runway modeling past resurfaces after Iowa gubernatorial win",
-   "lien": "https://www.cbsnews.com/news/rob-sand-iowa-governor-elect-prada-model-resurfaces/",
-   "source": "CBS News",
-   "date": "2026-11-06T21:31:01+00:00",
-   "extrait": "Vogue asked on Instagram whether followers knew the Iowa governor-elect once modeled for Prada. A verified account for Sand, who was previously elected to the Iowa state auditor's office, replied…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "b214849aa4a0",
-   "titre": "Escargots, huîtres, viandes d'exception… Les produits de fêtes déjà dans le viseur des cambrioleurs",
-   "lien": "https://www.franceinfo.fr/faits-divers/escargots-huitres-viandes-d-exception-les-produits-de-fetes-deja-dans-le-viseur-des-cambrioleurs_8271554.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-06T21:31:01+00:00",
-   "extrait": "Certains vols saisonniers se multiplient. Plus les dates des fêtes de fin d’année approchent, et plus les affaires s'accumulent : de nombreux artisans, producteurs, éleveurs, viticulteurs et…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "a1fa16b56292",
-   "titre": "Cristiano Ronaldo et le Portugal, c'est fini !",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/caf%C3%A9-des-sports/20261106-cristiano-ronaldo-portugal-fini",
-   "source": "France 24",
-   "date": "2026-11-06T21:30:03+00:00",
-   "extrait": "Après son départ du rassemblement juste après le match contre la Norvège, Cristiano Ronaldo a finalement décidé de prendre sa retraite internationale. Son bilan avec la sélection portugaise : 234…",
-   "tags": [],
-   "zone": "monde"
   }
  ]
 }
