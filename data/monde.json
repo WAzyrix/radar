@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-08T01:05:38+00:00",
+ "maj": "2026-11-08T02:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,12 +22,24 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "10a11a207755",
+   "titre": "What we know so far after Krakow gun attack",
+   "lien": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-08T01:47:41+00:00",
+   "extrait": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "d761f973b842",
    "titre": "NYPD arrests suspect in stabbing death of Brooklyn jogger",
    "lien": "https://www.cbsnews.com/news/katie-suarez-jogger-fatally-stabbed-in-brooklyn/",
    "source": "CBS News",
-   "date": "2026-11-08T00:44:23+00:00",
-   "extrait": "A suspect is facing murder charges in the stabbing death of a 28-year-old woman last week while she was jogging in Brooklyn.",
+   "date": "2026-11-08T01:08:18+00:00",
+   "extrait": "A New York City Department of Education employee is facing murder charges in the stabbing death of a 28-year-old woman last week in Brooklyn, authorities announced Saturday.",
    "tags": [
     "Justice"
    ],
@@ -90,18 +102,6 @@
    "zone": "usa"
   },
   {
-   "id": "10a11a207755",
-   "titre": "What we know so far after Krakow gun attack",
-   "lien": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-07T22:58:49+00:00",
-   "extrait": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
    "id": "49b82641b60e",
    "titre": "Championnat des nations : une victoire au prix fort pour le XV de France contre les Fidji",
    "lien": "https://www.lemonde.fr/sport/article/2026/11/07/une-victoire-au-prix-fort-pour-le-xv-de-france-contre-les-fidji_6808318_3242.html",
@@ -112,6 +112,31 @@
     "Économie"
    ],
    "zone": "france"
+  },
+  {
+   "id": "f28a52056323",
+   "titre": "JOJ Dakar 2026 : Elisabeth Diatta offre au Sénégal sa première médaille d'or",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261107-joj-dakar-2026-elisabeth-diatta-offre-au-s%C3%A9n%C3%A9gal-sa-premi%C3%A8re-m%C3%A9daille-d-or",
+   "source": "France 24",
+   "date": "2026-11-07T22:47:30+00:00",
+   "extrait": "Élisabeth Diatta offre au Sénégal sa première médaille d'or des JOJ, ce samedi En finale de lutte de plage. Une fierté pour sa coach Isabelle Sambou, ancienne porte-drapeau du Sénégal aux JO de Rio…",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "aa50ea5eb3e3",
+   "titre": "Surf : l'incroyable expédition des \"Lost in the Swell\" au cercle arctique",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261107-surf-l-incroyable-exp%C3%A9dition-des-lost-in-the-swell-au-cercle-arctique",
+   "source": "France 24",
+   "date": "2026-11-07T22:40:11+00:00",
+   "extrait": "Depuis 15 ans, Lost in the Swell sillonne la planète à la recherche de spots de surf reculés et encore vierges. Pour cette nouvelle expédition \"Le Règne des Neiges\", le trio est parti au cercle…",
+   "tags": [
+    "Politique",
+    "Climat"
+   ],
+   "zone": "monde"
   },
   {
    "id": "96d8b36dd2d1",
@@ -454,7 +479,7 @@
   },
   {
    "id": "d72119534799",
-   "titre": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
+   "titre": "Polish gunman who killed 6 people in Krakow has 'ultranationalistic' views, authorities say",
    "lien": "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
    "source": "NPR",
    "date": "2026-11-07T18:37:36+00:00",
@@ -3418,31 +3443,6 @@
     "Tech"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "790d61db2ff7",
-   "titre": "Donald Trump promeut son conseiller Stephen Miller, représentant de la droite identitaire,comme directeur de cabinet",
-   "lien": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-promeut-comme-directeur-de-cabinet-son-conseiller-stephen-miller-representant-de-la-droite-identitaire_8271515.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-06T21:02:11+00:00",
-   "extrait": "Le président américain \"n'aurait pas pu faire un pire choix\" que Stephen Miller, partisan d'une ligne dure contre l'immigration, s'est indigné le chef des démocrates au Sénat américain, Chuck Schumer.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "1e75e8a33760",
-   "titre": "Musk says Tesla will end Cybertruck production next year",
-   "lien": "https://www.cbsnews.com/news/tesla-ending-cybertruck-production-next-year/",
-   "source": "CBS News",
-   "date": "2026-11-06T20:57:20+00:00",
-   "extrait": "Tesla CEO Elon Musk said the electric car maker will halt production of its Cybertruck next year and prioritize self-driving taxis.",
-   "tags": [
-    "Économie",
-    "Tech"
-   ],
-   "zone": "usa"
   }
  ]
 }
