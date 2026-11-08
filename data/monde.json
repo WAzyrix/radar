@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-08T02:05:41+00:00",
+ "maj": "2026-11-08T03:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,51 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "f3b63a893ac9",
+   "titre": "This week on \"Sunday Morning\" (Nov. 8)",
+   "lien": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-8-2026/",
+   "source": "CBS News",
+   "date": "2026-11-08T03:06:00+00:00",
+   "extrait": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "489bb5466556",
+   "titre": "Route du rhum 2026 : Tom Laperche remporte l’épreuve en Ultim et établit un nouveau record",
+   "lien": "https://www.lemonde.fr/sport/article/2026/11/08/route-du-rhum-2026-tom-laperche-remporte-l-epreuve-en-ultim-et-etablit-un-nouveau-record_6808351_3242.html",
+   "source": "Le Monde",
+   "date": "2026-11-08T02:53:17+00:00",
+   "extrait": "Le skippeur français a franchi, samedi 7 novembre au soir, à Pointe-à-Pitre, en Guadeloupe, la ligne d’arrivée de l’épreuve transatlantique à bord de son maxi-trimaran « SVR-Lazartigue ». Il efface…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "b412a7bb391e",
+   "titre": "U.S. expands naval blockade to include task force on disrupting ground transport",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
+   "source": "CBS News",
+   "date": "2026-11-08T02:29:42+00:00",
+   "extrait": "The U.S. did not say whether any military action would be involved in preventing weapons technology or sanctioned items from entering Iran.",
+   "tags": [
+    "Conflits",
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "96d8b36dd2d1",
+   "titre": "Trump says he offered UFC's Dana White the press secretary role",
+   "lien": "https://www.cbsnews.com/news/trump-offers-white-house-press-secretary-role-dana-white/",
+   "source": "CBS News",
+   "date": "2026-11-08T02:09:00+00:00",
+   "extrait": "The role of the White House press secretary has been largely vacant since Karoline Leavitt stepped aside ​in August.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
   {
    "id": "10a11a207755",
    "titre": "What we know so far after Krakow gun attack",
@@ -92,16 +137,6 @@
    "zone": "usa"
   },
   {
-   "id": "f3b63a893ac9",
-   "titre": "This week on \"Sunday Morning\" (Nov. 8)",
-   "lien": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-8-2026/",
-   "source": "CBS News",
-   "date": "2026-11-07T23:29:08+00:00",
-   "extrait": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "49b82641b60e",
    "titre": "Championnat des nations : une victoire au prix fort pour le XV de France contre les Fidji",
    "lien": "https://www.lemonde.fr/sport/article/2026/11/07/une-victoire-au-prix-fort-pour-le-xv-de-france-contre-les-fidji_6808318_3242.html",
@@ -137,18 +172,6 @@
     "Climat"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "96d8b36dd2d1",
-   "titre": "Trump says he offered UFC's Dana White the press secretary role",
-   "lien": "https://www.cbsnews.com/news/trump-offers-white-house-press-secretary-role-dana-white/",
-   "source": "CBS News",
-   "date": "2026-11-07T22:27:45+00:00",
-   "extrait": "The role of the White House press secretary has been largely vacant since Karoline Leavitt stepped aside ​in August.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
   },
   {
    "id": "6f06cf85fa11",
@@ -262,19 +285,6 @@
    "extrait": "L'organisation a annoncé samedi dans un communiqué qu'elle avait demandé à plusieurs bateaux de venir en aide au skippeur d'Ekinox-Rhétores.",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "b412a7bb391e",
-   "titre": "U.S. expands naval blockade to include task force on disrupting ground transport",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
-   "source": "CBS News",
-   "date": "2026-11-07T21:00:06+00:00",
-   "extrait": "The U.S. did not say whether any military action would be involved in preventing weapons technology or sanctioned items from entering Iran.",
-   "tags": [
-    "Conflits",
-    "Tech"
-   ],
-   "zone": "usa"
   },
   {
    "id": "455e059bf304",
@@ -3429,20 +3439,6 @@
     "Politique"
    ],
    "zone": "france"
-  },
-  {
-   "id": "8fc8e90c6b31",
-   "titre": "AI stocks climb after trillions wiped from market values",
-   "lien": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-06T21:06:25+00:00",
-   "extrait": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-   "tags": [
-    "Politique",
-    "Économie",
-    "Tech"
-   ],
-   "zone": "monde"
   }
  ]
 }
