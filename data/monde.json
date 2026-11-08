@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-08T22:30:26+00:00",
+ "maj": "2026-11-08T23:05:38+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,29 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "e43d618e7987",
+   "titre": "Nvidia investigates CEO Jensen Huang over Chinese espionage concerns",
+   "lien": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/",
+   "source": "CBS News",
+   "date": "2026-11-08T22:56:06+00:00",
+   "extrait": "The board of Nvidia said it had no reason to believe that the company's secrets or national security were compromised.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "b412a7bb391e",
+   "titre": "Iran downplays new U.S. task force aimed at disrupting land routes",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
+   "source": "CBS News",
+   "date": "2026-11-08T22:44:43+00:00",
+   "extrait": "The U.S. did not say whether any military action would be involved in preventing weapons technology or sanctioned items from entering Iran.",
+   "tags": [
+    "Conflits",
+    "Tech"
+   ],
+   "zone": "usa"
+  },
   {
    "id": "817435c4b557",
    "titre": "New House members on their top priorities: \"Cannot be afraid to do big things\"",
@@ -44,16 +67,6 @@
     "Économie"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "e43d618e7987",
-   "titre": "Nvidia investigates CEO Jensen Huang over Chinese espionage concerns",
-   "lien": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/",
-   "source": "CBS News",
-   "date": "2026-11-08T21:58:00+00:00",
-   "extrait": "The board of Nvidia said it had no reason to believe that the company's secrets or national security were compromised.",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "5b0765137c3a",
@@ -231,19 +244,6 @@
    "extrait": "Watch Margaret Brennan's full interview with former senior White House aide Calley Means, a portion of which aired on Nov. 8, 2026.",
    "tags": [
     "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "b412a7bb391e",
-   "titre": "Iran downplays new U.S. task force aimed at disrupting land routes",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
-   "source": "CBS News",
-   "date": "2026-11-08T20:04:57+00:00",
-   "extrait": "The U.S. did not say whether any military action would be involved in preventing weapons technology or sanctioned items from entering Iran.",
-   "tags": [
-    "Conflits",
-    "Tech"
    ],
    "zone": "usa"
   },

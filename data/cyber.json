@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-08T22:30:26+00:00",
+ "maj": "2026-11-08T23:05:38+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,15 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "b460fe1d81cc",
+   "titre": "Alain Afflelou : des données clients et bancaires exposées ?",
+   "lien": "https://www.zataz.com/alain-afflelou-des-donnees-clients-et-bancaires-exposees/",
+   "source": "Zataz",
+   "date": "2026-11-08T23:03:54+00:00",
+   "extrait": "Alain Afflelou visé par Emperador : les pirates mettent à execution leur menace aprés une demande de rançon qui a échouée.",
+   "tags": []
+  },
   {
    "id": "840fc9184c68",
    "titre": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
@@ -3419,17 +3428,6 @@
    "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation…",
    "tags": [
     "Faille"
-   ]
-  },
-  {
-   "id": "5246b1272668",
-   "titre": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
-   "lien": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
-   "source": "BleepingComputer",
-   "date": "2026-10-27T23:35:51+00:00",
-   "extrait": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a…",
-   "tags": [
-    "Ransomware"
    ]
   }
  ]
