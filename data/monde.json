@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-09T02:05:41+00:00",
+ "maj": "2026-11-09T03:05:38+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,13 +22,95 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "166b21e3adb8",
+   "titre": "Trump says U.S. took a \"giant step back in history\" with midterm results",
+   "lien": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
+   "source": "CBS News",
+   "date": "2026-11-09T02:32:57+00:00",
+   "extrait": "President Trump on Sunday said the U.S. \"took a giant step back in history\" as his White House continued to roil from his post-midterm shakeup",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "eb07f8a2974c",
+   "titre": "Le patron de Nvidia, Jensen Huang, reconnaît avoir eu une liaison extraconjugale avec une personne considérée comme une espionne de Pékin",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/09/le-patron-de-nvidia-jensen-huang-reconnait-avoir-eu-une-liaison-extraconjugale-avec-une-personne-consideree-comme-une-espionne-de-pekin_6808531_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-09T02:21:10+00:00",
+   "extrait": "Cette affaire aux airs de vaudeville concerne une entreprise valorisée à 4 500 milliards de dollars qui fabrique des microprocesseurs essentiels à la révolution de l’IA, au cœur de la rivalité entre…",
+   "tags": [
+    "Justice",
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "c4c2bd5e8cb0",
+   "titre": "OC fishermen find cruise ship employee treading water miles off coast",
+   "lien": "https://www.cbsnews.com/news/newport-beach-fishermen-find-man-treading-water-royal-caribbean-cruise-ship-employee/",
+   "source": "CBS News",
+   "date": "2026-11-09T02:12:38+00:00",
+   "extrait": "Two Newport Beach fishermen found a Royal Caribbean cruise ship employee treading water nearly 20 miles off the coast while returning home from a fishing trip near Catalina Island on Friday.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
    "id": "e43d618e7987",
    "titre": "Nvidia investigates CEO Jensen Huang over Chinese espionage concerns",
    "lien": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/",
    "source": "CBS News",
-   "date": "2026-11-09T02:04:54+00:00",
+   "date": "2026-11-09T02:11:24+00:00",
    "extrait": "The board of Nvidia said it had no reason to believe that the company's secrets or national security were compromised.",
    "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "85424ca69040",
+   "titre": "Poland mourns Krakow shooting victims as terrorism probe launched",
+   "lien": "https://www.cbsnews.com/news/poland-mourns-krakow-mass-shooting-victims-terrorism-probe/",
+   "source": "CBS News",
+   "date": "2026-11-09T02:10:02+00:00",
+   "extrait": "The attack, which Poland's defense minister described as an \"act of terror,\" happened in Main Square, a major tourist hub in the heart of Krakow's Old Town.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "4354ab61832b",
+   "titre": "Supermarkets, water control systems, more hacked around U.S., world",
+   "lien": "https://www.cbsnews.com/video/supermarkets-water-control-systems-more-hacked-us-world/",
+   "source": "CBS News",
+   "date": "2026-11-09T02:09:43+00:00",
+   "extrait": "Authorities around the world are trying to find the source of a series of bomb threats and cyberattacks. Ramy Inocencio reports from Paris.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "0aaa3804534a",
+   "titre": "6 killed, 15 wounded in Poland terror attack",
+   "lien": "https://www.cbsnews.com/video/6-killed-15-wounded-poland-terror-attack/",
+   "source": "CBS News",
+   "date": "2026-11-09T02:05:45+00:00",
+   "extrait": "Six people were killed when a gunman opened fire in Poland's second-largest city of Krakow. Fifteen others were wounded in what police called a terror attack.",
+   "tags": [
+    "Conflits",
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "453fe6e24253",
+   "titre": "Trump prepares for a fight with Congress, assembling more combative White House",
+   "lien": "https://www.cbsnews.com/video/trump-prepares-fight-congress-assembling-more-combative-white-house/",
+   "source": "CBS News",
+   "date": "2026-11-09T02:05:16+00:00",
+   "extrait": "Lawmakers are returning to Washington, D.C., to a stunning new political reality, and President Trump is vowing to fight back against the new Congress after the midterm blowout. He spoke with 60…",
+   "tags": [
+    "Politique"
+   ],
    "zone": "usa"
   },
   {
@@ -285,6 +367,18 @@
    "zone": "france"
   },
   {
+   "id": "ffeb1807152c",
+   "titre": "11/8: CBS Weekend News",
+   "lien": "https://www.cbsnews.com/video/110826-cbs-weekend-news/",
+   "source": "CBS News",
+   "date": "2026-11-08T23:30:00+00:00",
+   "extrait": "Nvidia investigates its CEO over an alleged Chinese intelligence affair; an ambitious agenda and battles await the new Congress.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "b66e741b997e",
    "titre": "\"Forever cruise\" arrested at Singapore port, court records show",
    "lien": "https://www.cbsnews.com/news/odyssey-forever-cruise-arrested-at-singapore-port/",
@@ -307,16 +401,6 @@
     "Conflits",
     "Tech"
    ],
-   "zone": "usa"
-  },
-  {
-   "id": "c4c2bd5e8cb0",
-   "titre": "OC fishermen find cruise ship employee treading water miles off coast",
-   "lien": "https://www.cbsnews.com/news/newport-beach-fishermen-find-man-treading-water-royal-caribbean-cruise-ship-employee/",
-   "source": "CBS News",
-   "date": "2026-11-08T23:06:40+00:00",
-   "extrait": "Two Newport Beach fishermen found a Royal Caribbean cruise ship employee treading water nearly 20 miles off the coast while returning home from a fishing trip near Catalina Island on Friday.",
-   "tags": [],
    "zone": "usa"
   },
   {
@@ -962,23 +1046,11 @@
    "zone": "usa"
   },
   {
-   "id": "166b21e3adb8",
-   "titre": "Trump says U.S. took a \"giant step back in history\" with midterm results",
-   "lien": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
-   "source": "CBS News",
-   "date": "2026-11-08T17:04:39+00:00",
-   "extrait": "President Trump on Sunday said the U.S. \"took a giant step back in history\" as his White House continued to roil from his post-midterm shakeup",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "bcfc1414a5a3",
    "titre": "L’affaire Michel Zecler, emblématique des violences policières, devant la justice",
    "lien": "https://www.lemonde.fr/societe/article/2026/11/08/l-affaire-michel-zecler-emblematique-des-violences-policieres-devant-la-justice_6808454_3224.html",
    "source": "Le Monde",
-   "date": "2026-11-08T17:00:02+00:00",
+   "date": "2026-11-08T17:00:00+00:00",
    "extrait": "A partir du lundi 9 novembre, trois policiers comparaissent devant la cour criminelle de Paris pour des violences infligées au producteur de musique, dont les images avaient choqué l’opinion en 2020.",
    "tags": [],
    "zone": "france"
@@ -1375,18 +1447,6 @@
    "date": "2026-11-08T14:59:11+00:00",
    "extrait": "In Bay City, Michigan, 65-year-old Al Sager and 76-year-old Susan Guc were both content with being single their whole lives – committed to being uncommitted – until they both underwent heart…",
    "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "85424ca69040",
-   "titre": "Poland mourns Krakow shooting victims as terrorism probe launched",
-   "lien": "https://www.cbsnews.com/news/poland-mourns-krakow-mass-shooting-victims-terrorism-probe/",
-   "source": "CBS News",
-   "date": "2026-11-08T14:55:18+00:00",
-   "extrait": "The attack, which Poland's defense minister described as an \"act of terror,\" happened in Main Square, a major tourist hub in the heart of Krakow's Old Town.",
-   "tags": [
-    "Conflits"
-   ],
    "zone": "usa"
   },
   {
@@ -3388,62 +3448,6 @@
    "extrait": "Parmi les livres de poche parus récemment, « Le Monde des livres » vous recommande…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "080e9c6d0a2d",
-   "titre": "Les députés communistes qui soutiennent La France insoumise se sont mis \"en dehors du parti\", estime le PCF",
-   "lien": "https://www.franceinfo.fr/politique/les-deputes-communistes-qui-soutiennent-la-france-insoumise-se-sont-mis-en-dehors-du-parti-estime-le-pcf_8272592.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-07T17:59:42+00:00",
-   "extrait": "Cette décision vise les députés communistes qui ont annoncé vendredi soutenir la candidature de Jean-Luc Mélenchon, au lieu de celle du dirigeant du mouvement, Fabien Roussel.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c334eb223f39",
-   "titre": "Gaza wedding festival sees 250 couples married at the same time",
-   "lien": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-07T17:58:41+00:00",
-   "extrait": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "50481811f098",
-   "titre": "Solide, Carlos Alcaraz rejoint Ben Shelton en finale du Masters 1000 de Paris",
-   "lien": "https://www.franceinfo.fr/sports/tennis/masters-1000/solide-carlos-alcaraz-rejoint-ben-shelton-en-finale-du-masters-1000-de-paris_8272580.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-07T17:57:04+00:00",
-   "extrait": "L'Espagnol a tenu rang et n'a pas eu à forcer son jeu face à Casper Ruud en demi-finales du tournoi francilien, samedi.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "e5b8318ceef4",
-   "titre": "Des sportifs et créateurs de contenus français courent pendant vingt-cinq heures pour soutenir une association",
-   "lien": "https://www.lemonde.fr/videos/article/2026/11/07/des-sportifs-et-createurs-de-contenus-francais-courent-pendant-vingt-cinq-heures-pour-soutenir-une-association_6808306_1669088.html",
-   "source": "Le Monde",
-   "date": "2026-11-07T17:50:19+00:00",
-   "extrait": "Cent quarante coureurs ont récolté près de 1,5 million d’euros pour l’association Rêves, qui réalise les vœux d’enfants gravement malades.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "8982d1674d3f",
-   "titre": "Fausses alertes à la bombe : enquête ouverte en France sur un \"lien avec des puissances étrangères\"",
-   "lien": "https://www.france24.com/fr/europe/20261107-fausses-alertes-%C3%A0-la-bombe-enqu%C3%AAte-ouverte-en-france-sur-un-lien-avec-des-puissances-%C3%A9trang%C3%A8res",
-   "source": "France 24",
-   "date": "2026-11-07T17:48:40+00:00",
-   "extrait": "Alors que des dizaines de vols commerciaux ont été visés par des alertes à la bombe en Europe depuis le début de la semaine, le parquet de Paris a ouvert une enquête, a-t-il indiqué samedi. Les…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
   }
  ]
 }
