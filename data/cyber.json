@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-09T06:05:40+00:00",
+ "maj": "2026-11-09T07:05:38+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,29 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "df6a1e5a88d8",
+   "titre": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
+   "lien": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
+   "source": "The Hacker News",
+   "date": "2026-11-09T06:15:10+00:00",
+   "extrait": "U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "3d5dfb277e1d",
+   "titre": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
+   "lien": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
+   "source": "The Hacker News",
+   "date": "2026-11-09T06:05:24+00:00",
+   "extrait": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following…",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
+  },
   {
    "id": "7ad68b589b78",
    "titre": "Un pirate revendique le vol de millions de données d’automobilistes français",
@@ -3399,28 +3422,6 @@
    "source": "CERT-FR",
    "date": "2026-10-28T00:00:00+00:00",
    "extrait": "Une vulnérabilité a été découverte dans les produits Belden. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "c8d8366281d6",
-   "titre": "Vulnérabilité dans Axis Camera Station Pro (28 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1408/",
-   "source": "CERT-FR",
-   "date": "2026-10-28T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans Axis Camera Station Pro. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "c3653add9321",
-   "titre": "Multiples vulnérabilités dans Docker Desktop (28 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1401/",
-   "source": "CERT-FR",
-   "date": "2026-10-28T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Docker Desktop. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de…",
    "tags": [
     "Faille"
    ]
