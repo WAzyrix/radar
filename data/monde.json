@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-09T15:05:43+00:00",
+ "maj": "2026-11-09T16:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,293 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "b1e3101e6331",
+   "titre": "Russell Brand sentenced to more than 10 years for rape and sex assault",
+   "lien": "https://www.cbsnews.com/video/russell-brand-sentenced-to-more-than-10-years-for-rape-and-sex-assault/",
+   "source": "CBS News",
+   "date": "2026-11-09T15:56:15+00:00",
+   "extrait": "Russell Brand has been sentenced to 10 and a half years in prison for raping a woman in 2009 and sexually assaulting three others. CBS News' Vlad Duthiers reports.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "463de6cda80a",
+   "titre": "Nvidia stock slumps amid board investigation into CEO Jensen Huang",
+   "lien": "https://www.cbsnews.com/news/nvidia-jensen-huang-stock-board-investigation-spy/",
+   "source": "CBS News",
+   "date": "2026-11-09T15:56:06+00:00",
+   "extrait": "Investors are questioning whether Huang's future as Nvidia's CEO may be at risk amid allegations that he was targeted in a Chinese intelligence operation.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "a5ed618a9774",
+   "titre": "L'écrivaine Amélie Nothomb annonce rejoindre les éditions Gallimard",
+   "lien": "https://www.franceinfo.fr/culture/livres/l-ecrivaine-amelie-nothomb-annonce-rejoindre-les-editions-gallimard_8274620.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-09T15:53:46+00:00",
+   "extrait": "L'une des autrices les plus lues en France a publié ses trente-cinq romans chez Albin Michel.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "fe5fa831bd9c",
+   "titre": "Sénégal : au moins 39 morts dans le naufrage d'une pirogue de migrants",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261109-s%C3%A9n%C3%A9gal-au-moins-39-morts-dans-le-naufrage-d-une-pirogue-de-migrants",
+   "source": "France 24",
+   "date": "2026-11-09T15:53:16+00:00",
+   "extrait": "🇸🇳 Sénégal, au moins 39 personnes ont péri dans le naufrage d’une pirogue transportant des migrants au large de Kébémer, dans le nord-ouest du pays. Les opérations de recherche se poursuivent pour…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "99f4b08e1a5d",
+   "titre": "Congress returns for lame-duck sprint after GOP midterm losses",
+   "lien": "https://www.cbsnews.com/news/midterm-elections-congress-returns-lame-duck/",
+   "source": "CBS News",
+   "date": "2026-11-09T15:52:59+00:00",
+   "extrait": "Lawmakers are returning to Capitol Hill for the first time since the midterm elections, which delivered a slew of Democratic victories that will dramatically reshape the balance of power in…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "2965feb8b5ec",
+   "titre": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+   "lien": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-09T15:46:20+00:00",
+   "extrait": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "f36e76f9c3d9",
+   "titre": "Trump says he sees no reason to escalate war with Iran",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/",
+   "source": "CBS News",
+   "date": "2026-11-09T15:45:30+00:00",
+   "extrait": "President Trump told 60 Minutes the war with Iran was a \"good decision\" in the long term, despite its short-term impact.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "02d92b337520",
+   "titre": "Russell Brand sentenced to over 10 years for rape and sex assault",
+   "lien": "https://www.cbsnews.com/news/russell-brand-sentenced-prison-rape-sexual-assault/",
+   "source": "CBS News",
+   "date": "2026-11-09T15:45:00+00:00",
+   "extrait": "Disgraced British television personality and Hollywood actor Russell Brand has been sentenced to prison for raping a woman in 2009 and sexually assaulting three others.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "431baf187db4",
+   "titre": "Afrique du Sud : 30,76 % pour l'ANC, pire score de son histoire",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261109-afrique-du-sud-30-76-pour-l-anc-pire-score-de-son-histoire",
+   "source": "France 24",
+   "date": "2026-11-09T15:44:30+00:00",
+   "extrait": "Le Congrès national africain (ANC), parti dominant la politique sud-africaine depuis la fin de l'apartheid, a obtenu 30,76 % des voix aux élections municipales, le pire score de son histoire, selon…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "fec78399608e",
+   "titre": "Airbnb durcit son règlement : les hôtes n’ont plus le droit de demander à défaire le lit, lancer une machine ou laver la vaisselle",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/09/airbnb-durcit-son-reglement-les-hotes-n-ont-plus-le-droit-de-demander-a-defaire-le-lit-lancer-une-machine-ou-laver-la-vaisselle_6808664_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-09T15:42:07+00:00",
+   "extrait": "La plateforme de location touristique a repensé ses règles relatives aux hébergements « pour les rendre plus simples à consulter » et demande désormais aux hôtes d’« être raisonnables » dans leurs…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "baedeecb1416",
+   "titre": "Guinée : les déchets envahissent les rues de Conakry",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261109-guin%C3%A9e-les-d%C3%A9chets-envahissent-les-rues-de-conakry",
+   "source": "France 24",
+   "date": "2026-11-09T15:40:57+00:00",
+   "extrait": "Conakry croule sous les ordures. Dans la capitale guinéenne, des montagnes de sacs envahissent les grandes artères, dans une odeur presque irrespirable. En cause : la fermeture de la décharge de…",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "614762607404",
+   "titre": "Législatives en Espagne : la droite en tête dans les sondages à trois semaines du scrutin",
+   "lien": "https://www.france24.com/fr/europe/20261109-l%C3%A9gislatives-espagne-droite-en-t%C3%AAte-sondages-trois-semaines-scrutin",
+   "source": "France 24",
+   "date": "2026-11-09T15:39:16+00:00",
+   "extrait": "Selon les derniers sondages, le Parti ⁠populaire (PP) devance largement la formation du Premier ministre socialiste Pedro Sanchez à l'approche des élections législatives anticipées ​du 29 novembre…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "760452e1aa6b",
+   "titre": "Ole Miss investigating \"deeply troubling\" video of racist gestures",
+   "lien": "https://www.cbsnews.com/news/university-mississippi-investigating-doorbell-video-racist-gestures/",
+   "source": "CBS News",
+   "date": "2026-11-09T15:37:26+00:00",
+   "extrait": "The video, posted on social media, shows two girls making monkey sounds and gestures as they pass by a Ring camera on an apartment door.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "5228d58f4fc2",
+   "titre": "How ALDI is helping people save on this year's Thanksgiving grocery shopping",
+   "lien": "https://www.cbsnews.com/video/how-aldi-is-helping-people-save-on-this-years-thanksgiving-grocery-shopping/",
+   "source": "CBS News",
+   "date": "2026-11-09T15:36:44+00:00",
+   "extrait": "One of the top concerns for voters during the midterm elections was affordability, polls show, and many people are concerned about the cost of food. Ash-har Quraishi reports on how ALDI is helping…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "57937dda3b63",
+   "titre": "Alleged cartel leader wanted by the U.S. is captured in Mexico",
+   "lien": "https://www.cbsnews.com/news/mexico-captures-cjng-cartel-leader-wanted-by-us-dea-intelligence/",
+   "source": "CBS News",
+   "date": "2026-11-09T15:34:45+00:00",
+   "extrait": "The DEA said that alleged cartel leader known as \"R2\" was wanted in the U.S. on federal drug trafficking and firearms charges.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "d436fd5153d8",
+   "titre": "How Trump's immigration policies in Kansas affected farmers and agricultural workers",
+   "lien": "https://www.cbsnews.com/video/how-trumps-immigration-policies-in-kansas-affected-farmers-and-agricultural-workers/",
+   "source": "CBS News",
+   "date": "2026-11-09T15:30:50+00:00",
+   "extrait": "Mathew Teagarden, the CEO of the Kansas Livestock Association, joins CBS News with his take on President Trump's immigration policies that may have affected midterm voters.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "3ca81553ebd7",
+   "titre": "Scandales de corruption, accidents de trains... Comment le ministère des Transports est devenu le cauchemar du chef du gouvernement espagnol, Pedro Sanchez",
+   "lien": "https://www.franceinfo.fr/monde/espagne/scandales-de-corruption-accidents-de-trains-comment-le-ministere-des-transports-est-devenu-le-cauchemar-du-chef-du-gouvernement-espagnol-pedro-sanchez_8274596.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-09T15:23:50+00:00",
+   "extrait": "Alors que le réseau ferroviaire espagnol a enregistré trois accidents mortels en un an, le ministère des Transports a été secoué par un vaste scandale qui a notamment impliqué un ministre. La RTVE…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "f9d2eb8d6b38",
+   "titre": "Democratic, Republican strategists react to Trump's \"60 Minutes\" remarks after midterms",
+   "lien": "https://www.cbsnews.com/video/democratic-republican-strategists-react-to-trumps-60-minutes-remarks-after-midterms/",
+   "source": "CBS News",
+   "date": "2026-11-09T15:23:00+00:00",
+   "extrait": "President Trump is speaking out after Democrats swept in the midterms. Political strategists Kristian Ramos and Harrison Fields break down his latest remarks.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "5d018f13c55a",
+   "titre": "SKIMS Advent calendar sparks controversy",
+   "lien": "https://www.cbsnews.com/video/skims-advent-calendar-sparks-controversy/",
+   "source": "CBS News",
+   "date": "2026-11-09T15:22:37+00:00",
+   "extrait": "The Advent calendar industry is booming, which has become a problem for some who don't think the contents are worth the price tags. Lilia Luciano reports.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "451ed6be73f2",
+   "titre": "Le prix de référence du gaz augmentera encore en décembre, de 5,8%",
+   "lien": "https://www.franceinfo.fr/environnement/energie/le-prix-de-reference-du-gaz-augmentera-encore-en-decembre-de-5-8_8274680.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-09T15:20:04+00:00",
+   "extrait": "\"On subit un prix de marché international, on importe 95% de notre gaz\", a déclaré Emmanuelle Wargon, la présidente de la CRE, qui fixe cette valeur repère suivie par une partie des contrats. Sa…",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "c05f938dadbe",
+   "titre": "Day 1 for Stephen Miller as Trump's chief of staff, sources say immigration crackdown won't ease",
+   "lien": "https://www.cbsnews.com/video/day-1-for-stephen-miller-as-trumps-chief-of-staff-sources-say-immigration-crackdown-wont-ease/",
+   "source": "CBS News",
+   "date": "2026-11-09T15:17:07+00:00",
+   "extrait": "Stephen Miller is starting in his role as President Trump's chief of staff, but lawmakers may be reluctant to work with him given his past immigration stances. CBS News' Ed O'Keefe reports.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "86a988233c43",
+   "titre": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
+   "lien": "https://www.npr.org/2026/11/09/g-s1-152634/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution",
+   "source": "NPR",
+   "date": "2026-11-09T15:09:53+00:00",
+   "extrait": "New Delhi, home to over 30 million people, regularly ranks among the world's most polluted areas during winter, with pollution worsening in late October and November.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "d38a9bb5db10",
+   "titre": "L'établissement catholique Stanislas n'a pas tenu compte d'accusations de violences sexuelles visant l'un de ses professeurs, selon Mediapart",
+   "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/l-etablissement-catholique-stanislas-n-a-pas-tenu-compte-d-accusations-de-violences-sexuelles-visant-l-un-de-ses-professeurs-selon-mediapart_8274278.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-09T15:09:06+00:00",
+   "extrait": "D'après le média d'investigation, Olivier Parent a été recruté en 2013 par l'établissement parisien comme maître d'internat et professeur de musique, alors qu'il était déjà accusé de viol sur…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "299b46164b3d",
+   "titre": "La situation des nappes phréatiques en France reste \"très préoccupante\" malgré une pluviométrie \"conforme à la normale\" en octobre",
+   "lien": "https://www.franceinfo.fr/environnement/la-situation-des-nappes-phreatiques-en-france-reste-tres-preoccupante-malgre-une-pluviometrie-conforme-a-la-normale-en-octobre_8274644.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-09T15:08:59+00:00",
+   "extrait": "Au 1er novembre, 64% des points d'observation des nappes sont en dessous des normales, contre 66% il y a un mois, précise le Bureau de recherches géologiques et minières.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "00e482854005",
+   "titre": "EN DIRECT, guerre en Ukraine : la délégation ukrainienne est en route pour Abou Dhabi, où des négociations avec les représentants américains et russes sont prévues mardi et mercredi",
+   "lien": "https://www.lemonde.fr/international/live/2026/11/09/en-direct-guerre-en-ukraine-la-delegation-ukrainienne-est-en-route-pour-abou-dhabi-ou-des-negociations-avec-les-representants-americains-et-russes-sont-prevues-mardi-et-mercredi_6808609_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-09T15:07:52+00:00",
+   "extrait": "Kiev souligne vouloir maintenir des positions communes avec ses partenaires et faire en sorte que l’Europe participe au processus diplomatique. Des représentants de la France, du Royaume-Uni, de…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "5c4e6b070719",
+   "titre": "Jeffries: Democrats are committed to \"holding the crooks accountable\"",
+   "lien": "https://www.cbsnews.com/news/hakeem-jeffries-corruption-midterm-election-victories/",
+   "source": "CBS News",
+   "date": "2026-11-09T15:05:50+00:00",
+   "extrait": "House Minority Leader Hakeem Jeffries said that Democrats will focus \"relentlessly\" on addressing affordability in their majorities, while also setting their sights on combatting corruption.",
+   "tags": [],
+   "zone": "usa"
+  },
   {
    "id": "a80ea1805c03",
    "titre": "Conférence sociale : \"Le compte n'y est pas\", déplore Olivier Faure après les annonces du gouvernement",
@@ -71,14 +358,16 @@
    "zone": "france"
   },
   {
-   "id": "02d92b337520",
-   "titre": "Russell Brand sentenced to over 10 years for rape and sex assault",
-   "lien": "https://www.cbsnews.com/news/russell-brand-sentenced-prison-rape-sexual-assault/",
-   "source": "CBS News",
-   "date": "2026-11-09T14:55:18+00:00",
-   "extrait": "Disgraced British television personality and Hollywood actor Russell Brand has been sentenced to prison for raping a woman in 2009 and sexually assaulting three others.",
-   "tags": [],
-   "zone": "usa"
+   "id": "4a27e510bcee",
+   "titre": "\"Si les Français m’y autorisent\" : Teddy Riner prévoit de continuer sa carrière de judoka malgré sa candidature à la présidentielle",
+   "lien": "https://www.franceinfo.fr/sports/judo/teddy-riner/si-les-francais-m-y-autorisent-teddy-riner-prevoit-de-continuer-sa-carriere-de-judoka-malgre-sa-candidature-a-la-presidentielle_8274368.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-09T14:53:19+00:00",
+   "extrait": "Le judoka a annoncé sa candidature à la présidentielle, lundi, sans renoncer à son ambition de participer aux Jeux olympiques de Los Angeles en 2028.",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "france"
   },
   {
    "id": "86c373111778",
@@ -113,16 +402,6 @@
     "Justice"
    ],
    "zone": "france"
-  },
-  {
-   "id": "463de6cda80a",
-   "titre": "Nvidia stock slumps amid board investigation into CEO Jensen Huang",
-   "lien": "https://www.cbsnews.com/news/nvidia-jensen-huang-stock-board-investigation-spy/",
-   "source": "CBS News",
-   "date": "2026-11-09T14:46:46+00:00",
-   "extrait": "Investors are questioning whether Huang's future as Nvidia's CEO may be at risk amid allegations that he was targeted in a Chinese intelligence operation.",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "474691794557",
@@ -194,7 +473,7 @@
    "titre": "Hausse du smic : le gouvernement annonce une revalorisation de 1,6 % à partir du 1ᵉʳ décembre, la CGT dénonce « des miettes »",
    "lien": "https://www.lemonde.fr/economie-francaise/article/2026/11/09/hausse-du-smic-le-gouvernement-annonce-une-revalorisation-de-1-6-a-partir-du-1-decembre-la-cgt-denonce-des-miettes_6808660_1656968.html",
    "source": "Le Monde",
-   "date": "2026-11-09T14:41:04+00:00",
+   "date": "2026-11-09T14:41:03+00:00",
    "extrait": "A l’issue d’une conférence sociale à Matignon, Sébastien Lecornu a déclaré qu’il s’agissait de la « deuxième hausse la plus importante en vingt ans ». Une assertion immédiatement contestée par les…",
    "tags": [
     "Politique"
@@ -286,19 +565,6 @@
    "zone": "france"
   },
   {
-   "id": "f36e76f9c3d9",
-   "titre": "Trump says he sees no reason to escalate war with Iran",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/",
-   "source": "CBS News",
-   "date": "2026-11-09T14:26:56+00:00",
-   "extrait": "President Trump told 60 Minutes the war with Iran was a \"good decision\" in the long term, despite its short-term impact.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "8b633548ea6c",
    "titre": "Une intersyndicale de la fonction publique annonce une grève le 17 novembre, la CGT appelle \"l'ensemble des salariés, des retraités, des jeunes\" à se mobiliser",
    "lien": "https://www.franceinfo.fr/economie/greve/une-intersyndicale-de-la-fonction-publique-appelle-a-la-greve-le-17-novembre_8274494.html#xtor=RSS-3-[lestitres]",
@@ -367,6 +633,16 @@
    "zone": "france"
   },
   {
+   "id": "0c8c2e9dab71",
+   "titre": "Appel à témoignages : vous êtes jeune salarié et le logement est un frein à votre émancipation ? Racontez-nous",
+   "lien": "https://www.lemonde.fr/campus/appel-temoignages/2026/11/09/appel-a-temoignages-vous-etes-jeune-salarie-et-le-logement-est-un-frein-a-votre-emancipation-racontez-nous_6808656_4401467.html",
+   "source": "Le Monde",
+   "date": "2026-11-09T14:03:33+00:00",
+   "extrait": "Entre précarité professionnelle et loyers prohibitifs, l’accès à l’autonomie devient un luxe. Jeune actif de moins de 35 ans, racontez-nous les obstacles que vous rencontrez pour vous loger ou vos…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "ae6738030fbb",
    "titre": "Augmentation du smic, allègements de charges pour les entreprises... Ce qu'il faut retenir des annonces du gouvernement à l'issue de la conférence sociale",
    "lien": "https://www.franceinfo.fr/economie/greve/augmentation-du-smic-allegements-de-charges-pour-les-entreprises-ce-qu-il-faut-retenir-des-annonces-du-gouvernement-a-l-issue-de-la-conference-sociale_8274527.html#xtor=RSS-3-[lestitres]",
@@ -376,6 +652,18 @@
    "tags": [
     "Politique",
     "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "0371b562e0d0",
+   "titre": "De Teddy Riner à Brigitte Macron ou d’Aya Nakamura à Miyazaki, 15 ans de portraits de « M »",
+   "lien": "https://www.lemonde.fr/m-le-mag/visuel/2026/11/09/de-teddy-riner-a-brigitte-macron-ou-d-aya-nakamura-a-miyazaki-15-ans-de-portraits-de-m_6808655_4500055.html",
+   "source": "Le Monde",
+   "date": "2026-11-09T14:00:06+00:00",
+   "extrait": "« Les 15 ans de M » (20/20). En quinze ans d’existence, « M » a fait du portrait sa marque de fabrique, tant à l’écrit qu’en photo. C’est cet art que nous célébrons ici, en exhumant de nos archives…",
+   "tags": [
+    "Politique"
    ],
    "zone": "france"
   },
@@ -450,18 +738,6 @@
     "Politique"
    ],
    "zone": "france"
-  },
-  {
-   "id": "99f4b08e1a5d",
-   "titre": "Congress returns for lame-duck sprint after GOP midterm losses",
-   "lien": "https://www.cbsnews.com/news/midterm-elections-congress-returns-lame-duck/",
-   "source": "CBS News",
-   "date": "2026-11-09T13:51:53+00:00",
-   "extrait": "Lawmakers are returning to Capitol Hill for the first time since the midterm elections, which delivered a slew of Democratic victories that will dramatically reshape the balance of power in…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
   },
   {
    "id": "62900173f34f",
@@ -649,18 +925,6 @@
     "Justice"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "2965feb8b5ec",
-   "titre": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-   "lien": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-09T13:10:32+00:00",
-   "extrait": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "monde"
   },
   {
    "id": "c9bf49a58653",
@@ -1431,6 +1695,16 @@
    "tags": [
     "Politique"
    ],
+   "zone": "france"
+  },
+  {
+   "id": "bac6842d8fbb",
+   "titre": "COP31 : le secrétaire général de l’ONU appelle, dans son discours d’ouverture, les Etats à « se montrer à la hauteur »",
+   "lien": "https://www.lemonde.fr/planete/article/2026/11/09/ouverture-de-la-cop31-le-secretaire-general-de-l-onu-appelle-les-etats-a-se-montrer-a-la-hauteur_6808630_3244.html",
+   "source": "Le Monde",
+   "date": "2026-11-09T09:04:49+00:00",
+   "extrait": "La Turquie préside cette conférence annuelle avec l’appui de l’Australie, chargée de conduire les négociations, à la suite d’un compromis inédit quant à l’organisation de la Conférence des parties.",
+   "tags": [],
    "zone": "france"
   },
   {
@@ -3220,286 +3494,6 @@
    "tags": [
     "Politique",
     "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "09a5e5b09637",
-   "titre": "Open: This is \"Face the Nation with Margaret Brennan,\" Nov. 8, 2026",
-   "lien": "https://www.cbsnews.com/video/open-this-is-face-the-nation-with-margaret-brennan-nov-8-2026/",
-   "source": "CBS News",
-   "date": "2026-11-08T16:38:04+00:00",
-   "extrait": "This week on \"Face the Nation with Margaret Brennan,\" as the final results of Tuesday's midterm elections trickle in, Rep.-elect Nancy Lacore of South Carolina and Rep. French Hill discuss the…",
-   "tags": [
-    "Politique",
-    "Santé"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "e91fcdf33345",
-   "titre": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
-   "lien": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
-   "source": "NPR",
-   "date": "2026-11-08T16:30:16+00:00",
-   "extrait": "On Sunday, tens of thousands packed the main square in Florida, Uruguay, to watch Pope Leo speak.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "9179bb5285b3",
-   "titre": "« Zola intime : naissance d’un photographe », sur Arte : la vie d’Emile révélée par la lumière",
-   "lien": "https://www.lemonde.fr/culture/article/2026/11/08/zola-intime-naissance-d-un-photographe-sur-arte-la-vie-d-emile-revelee-par-la-lumiere_6808450_3246.html",
-   "source": "Le Monde",
-   "date": "2026-11-08T16:30:11+00:00",
-   "extrait": "L’auteur des « Rougon-Macquart », défenseur du capitaine Dreyfus et conscience du siècle, était fou de photographie. Le réalisateur Daniel Ablin nous fait découvrir son œuvre originale et encore…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "ba53e921e933",
-   "titre": "Carlos Alcaraz remporte le Masters 1000 de Paris pour la première fois grâce à son succès contre Ben Shelton en finale",
-   "lien": "https://www.franceinfo.fr/sports/tennis/masters-1000/carlos-alcaraz-remporte-le-masters-1000-de-paris-pour-la-premiere-fois-grace-a-son-succes-contre-ben-shelton-en-finale_8273420.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-08T16:28:48+00:00",
-   "extrait": "L'Espagnol, parfois imprécis, a fini par s'imposer pour la première fois en indoor à Paris, dimanche.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "7fd5d383ae5e",
-   "titre": "Le ministre de la justice américain, Todd Blanche, prêt à défendre les membres de l’administration Trump visés par des enquêtes de la majorité démocrate au Congrès",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/08/le-ministre-de-la-justice-americain-todd-blanche-pret-a-defendre-les-membres-de-l-administration-trump-vises-par-des-enquetes-de-la-majorite-democrate-au-congres_6808449_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-08T16:13:45+00:00",
-   "extrait": "Le principal membre démocrate de la commission des enquêtes de la Chambre des représentants, Robert Garcia, a reproché à Todd Blanche de continuer à se comporter en « avocat personnel de Donald…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "1d829d59cfa2",
-   "titre": "Footage shows derailed carriages after fatal train crash in Egypt",
-   "lien": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-08T16:05:57+00:00",
-   "extrait": "At least seven people died when two trains collided, causing several carriages to derail and fall down an embankment.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "faf6e5f1b1b9",
-   "titre": "Route du Rhum : \"Franchement, c'est un rêve d'enfant\", savoure Laperche",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261108-route-du-rhum-franchement-c-est-un-r%C3%AAve-d-enfant-savoure-laperche",
-   "source": "France 24",
-   "date": "2026-11-08T16:03:00+00:00",
-   "extrait": "\"Franchement, c'est un rêve d'enfant. J'ai toujours vu des images incroyables des arrivées ici, celles des grands champions depuis des décennies. Mon rêve était de courir un jour dans cette…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "ccf0bf569a39",
-   "titre": "En Israël, Gadi Eisenkot affirme que le Likoud, parti de Benyamin Nétanyahou, est bienvenu pour former une coalition gouvernementale",
-   "lien": "https://www.franceinfo.fr/monde/israel/en-israel-gadi-eisenkot-affirme-que-le-likoud-parti-de-benyamin-netanyahou-est-bienvenu-pour-former-une-coalition-gouvernementale_8273507.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-08T16:00:51+00:00",
-   "extrait": "Le président israélien a officiellement remis dimanche à Gadi Eisenkot, chef du principal bloc d'opposition, le mandat de former le prochain gouvernement.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "d48f4c6ad78d",
-   "titre": "La contestation contre les data centers monte en Europe",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/08/la-contestation-contre-les-data-centers-monte-en-europe_6808448_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-08T16:00:08+00:00",
-   "extrait": "A l’appel d’une coalition d’associations environnementales, des dizaines de manifestations se sont tenues dans une quinzaine de pays européens, vendredi et samedi, pour réclamer un moratoire sur la…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "7ccf493ba7a7",
-   "titre": "Israël : Gadi Eisenkot, officiellement chargé de former un nouveau gouvernement, invite le Likoud de Benyamin Nétanyahou à participer à une coalition",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/08/israel-gadi-eisenkot-officiellement-charge-de-former-un-nouveau-gouvernement-invite-le-likoud-de-benyamin-netanyahou-a-participer-a-une-coalition_6808446_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-08T15:54:49+00:00",
-   "extrait": "« Si les membres du Likoud et du Parti sioniste religieux [du ministre des finances sortant, Bezalel Smotrich] estiment sincèrement que l’heure est à l’unité (…), je ne vois aucune raison pour…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "e71a1789cb3b",
-   "titre": "Dans la bande de Gaza, des dizaines de milliers de déplacés privés d'abri à cause de pluies diluviennes",
-   "lien": "https://www.franceinfo.fr/monde/palestine/gaza/dans-la-bande-de-gaza-des-milliers-de-deplaces-prives-d-abri-a-cause-d-importantes-intemperies_8273447.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-08T15:34:20+00:00",
-   "extrait": "Environ \"70 000 tentes abritant des dizaines de milliers de personnes déplacées ont été inondées\", ont déclaré samedi les autorités locales.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "ecc3cc8ec4aa",
-   "titre": "Nature: Fall colors in Texas",
-   "lien": "https://www.cbsnews.com/video/nature-fall-colors-in-texas/",
-   "source": "CBS News",
-   "date": "2026-11-08T15:30:19+00:00",
-   "extrait": "We leave you this Sunday in the peace and quiet of the Lost Maples State Natural Area in Vanderpool, Texas. Videographer: Scot Miller.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "dad0841c727b",
-   "titre": "En Espagne, Pedro Sanchez tente de relancer sa campagne après la catastrophe ferroviaire d’Urda",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/08/en-espagne-pedro-sanchez-tente-de-relancer-sa-campagne-apres-la-catastrophe-ferroviaire-d-urda_6808444_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-08T15:30:07+00:00",
-   "extrait": "Après avoir misé sur une campagne optimiste placée sous le signe de la « force de l’amour », le premier ministre socialiste, fragilisé par la tragédie qui a fait 69 morts, fin octobre, cherche à…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "d8de4a092555",
-   "titre": "11/8: Face The Nation",
-   "lien": "https://www.cbsnews.com/video/110826-face-the-nation/",
-   "source": "CBS News",
-   "date": "2026-11-08T15:30:00+00:00",
-   "extrait": "This week on \"Face the Nation with Margaret Brennan,\" as the final results of Tuesday's midterm elections trickle in, Rep.-elect Nancy Lacore of South Carolina and Rep. French Hill discuss the…",
-   "tags": [
-    "Politique",
-    "Santé"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "03034027aa75",
-   "titre": "Photos of the week",
-   "lien": "https://www.cbsnews.com/video/photos-of-the-week-110826/",
-   "source": "CBS News",
-   "date": "2026-11-08T15:27:01+00:00",
-   "extrait": "\"Sunday Morning\" looks at some of the most evocative images captured the week of Nov. 1-7, 2026.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "c8a412abdd0e",
-   "titre": "With \"Thrasher,\" Brandon Flowers returns home",
-   "lien": "https://www.cbsnews.com/news/with-thrasher-brandon-flowers-returns-home/",
-   "source": "CBS News",
-   "date": "2026-11-08T15:24:00+00:00",
-   "extrait": "Smalltown Nephi, Utah, was where the musical sensibilities of Killers frontman Brandon Flowers started to take form, before finding success as a rock star in Las Vegas. Now his solo album…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "020ffaf3f962",
-   "titre": "With \"Thrasher,\" Brandon Flowers returns home",
-   "lien": "https://www.cbsnews.com/video/with-thrasher-brandon-flowers-returns-home/",
-   "source": "CBS News",
-   "date": "2026-11-08T15:23:00+00:00",
-   "extrait": "Small town Nephi, Utah, was where the musical sensibilities of Brandon Flowers, frontman of The Killers, started to take form, before being seduced by the bright lights of Las Vegas. Now he's…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "f32d9a17be21",
-   "titre": "Jon Meacham on the midterms and America's \"better angels\"",
-   "lien": "https://www.cbsnews.com/news/jon-meacham-on-the-midterms-and-americas-better-angels/",
-   "source": "CBS News",
-   "date": "2026-11-08T15:15:33+00:00",
-   "extrait": "In last week's historic elections, voters were asked to weigh in on whether our nation will maintain the ideals of equality, dignity, fair play, and the rule of law; historian Jon Meacham says that…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "61ac7a1e4e5d",
-   "titre": "Jon Meacham on the midterms and America's \"better angels\"",
-   "lien": "https://www.cbsnews.com/video/jon-meacham-on-the-midterms-and-americas-better-angels/",
-   "source": "CBS News",
-   "date": "2026-11-08T15:14:02+00:00",
-   "extrait": "Reflecting on this week's historic midterm elections, in which voters were asked to weigh in on whether our nation will maintain the ideals of equality, dignity, fair play, and the rule of law…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "ad80bd53f706",
-   "titre": "🔴 En direct : Gadi Eisenkot officiellement chargé de former le prochain gouvernement en Israël",
-   "lien": "https://www.france24.com/fr/moyen-orient/20261107-isra%C3%ABl-gadi-eisenkot-rival-de-benjamin-netanyahu-sera-charg%C3%A9-de-former-le-prochain-gouvernement",
-   "source": "France 24",
-   "date": "2026-11-08T15:13:35+00:00",
-   "extrait": "",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "da521eee381b",
-   "titre": "Judi Dench on an actor's life",
-   "lien": "https://www.cbsnews.com/news/judi-dench-is-it-too-late-to-make-a-run-for-it/",
-   "source": "CBS News",
-   "date": "2026-11-08T15:11:21+00:00",
-   "extrait": "A film producer once told Judi Dench she had \"everything wrong with her face.\" One Oscar and a Damehood later, she's had the last laugh. The actress, now 91, talks about her new memoir, \"Is It Too…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "f6af1934d913",
-   "titre": "Extended interview: Dame Judi Dench and Brendan O'Hea",
-   "lien": "https://www.cbsnews.com/video/extended-interview-dame-judi-dench-and-brendan-ohea/",
-   "source": "CBS News",
-   "date": "2026-11-08T15:08:13+00:00",
-   "extrait": "In this web exclusive, Dame Judi Dench discusses her new memoir, \"Is It Too Late to Make a Run for It?,\" co-written with friend and fellow actor Brendan O'Hea. She also talks with Seth Doane about…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "ee39245ad751",
-   "titre": "Russell Brand to learn sentence after being found guilty of rape and sexual assault",
-   "lien": "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault",
-   "source": "NPR",
-   "date": "2026-11-08T15:07:15+00:00",
-   "extrait": "Comedian Brand faces a \"significant\" prison sentence, which a London court judge is set to hand down on Monday.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "c5a23bbbf2ce",
-   "titre": "Judi Dench on an actor's life",
-   "lien": "https://www.cbsnews.com/video/judi-dench-on-an-actors-life/",
-   "source": "CBS News",
-   "date": "2026-11-08T15:06:12+00:00",
-   "extrait": "A film producer once told Judi Dench she had \"everything wrong with her face.\" Eight Academy Award nominations, one Oscar, and a Damehood later, she's had the last laugh. The actress, now 91, talks…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "9f5d5daac994",
-   "titre": "La victoire des démocrates est un \"gigantesque pas en arrière dans l'histoire\" des Etats-Unis, affirme Donald Trump",
-   "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/la-victoire-des-democrates-est-un-gigantesque-pas-en-arriere-dans-l-histoire-des-etats-unis-affirme-donald-trump_8273432.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-08T15:00:57+00:00",
-   "extrait": "Les élections de mi-mandat ont été marquées par une vague bleue, dont l'ampleur a sidéré les observateurs et assommé les républicains.",
-   "tags": [
-    "Politique"
    ],
    "zone": "france"
   }
