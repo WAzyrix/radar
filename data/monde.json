@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-09T01:05:39+00:00",
+ "maj": "2026-11-09T02:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,26 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "e43d618e7987",
+   "titre": "Nvidia investigates CEO Jensen Huang over Chinese espionage concerns",
+   "lien": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/",
+   "source": "CBS News",
+   "date": "2026-11-09T02:04:54+00:00",
+   "extrait": "The board of Nvidia said it had no reason to believe that the company's secrets or national security were compromised.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "6269831010c3",
+   "titre": "How NASA is working to grow food on the moon",
+   "lien": "https://www.cbsnews.com/video/how-nasa-working-grow-food-moon/",
+   "source": "CBS News",
+   "date": "2026-11-09T01:13:07+00:00",
+   "extrait": "NASA plans to build a permanent lunar base in the 2030s, and keeping astronauts fed could be simpler if they could grow their own food. Mark Strassmann takes a look at how they're researching lunar…",
+   "tags": [],
+   "zone": "usa"
+  },
   {
    "id": "a065f1e911aa",
    "titre": "Pro-Israel and pro-Palestinian protesters clash in streets of Philadelphia",
@@ -75,7 +95,7 @@
    "titre": "Trump says he was kidding when he offered UFC CEO press secretary role",
    "lien": "https://www.cbsnews.com/news/trump-offers-white-house-press-secretary-role-dana-white/",
    "source": "CBS News",
-   "date": "2026-11-09T00:06:35+00:00",
+   "date": "2026-11-09T00:06:00+00:00",
    "extrait": "The role of the White House press secretary has been largely vacant since Karoline Leavitt stepped aside ​in August.",
    "tags": [
     "Politique"
@@ -256,7 +276,7 @@
    "titre": "EN DIRECT, guerre en Ukraine : Marco Rubio fait état de progrès pour l’« architecture de sécurité » après la guerre",
    "lien": "https://www.lemonde.fr/international/live/2026/11/09/en-direct-guerre-en-ukraine-marco-rubio-fait-etat-de-progres-pour-l-architecture-de-securite-apres-la-guerre_6803934_3210.html",
    "source": "Le Monde",
-   "date": "2026-11-08T23:34:07+00:00",
+   "date": "2026-11-08T23:34:04+00:00",
    "extrait": "Le secrétaire d’Etat américain s’exprimait avant de s’envoler pour un sommet des ministres des affaires étrangères du G7 à Paris, alors que des négociations entre la Russie et l’Ukraine sous…",
    "tags": [
     "Politique",
@@ -269,7 +289,7 @@
    "titre": "\"Forever cruise\" arrested at Singapore port, court records show",
    "lien": "https://www.cbsnews.com/news/odyssey-forever-cruise-arrested-at-singapore-port/",
    "source": "CBS News",
-   "date": "2026-11-08T23:24:02+00:00",
+   "date": "2026-11-08T23:24:00+00:00",
    "extrait": "A source familiar with the matter tells CBS News that a fuel supplier likely hired a law firm to pursue legal action against the Odyssey.",
    "tags": [
     "Justice"
@@ -300,14 +320,16 @@
    "zone": "usa"
   },
   {
-   "id": "e43d618e7987",
-   "titre": "Nvidia investigates CEO Jensen Huang over Chinese espionage concerns",
-   "lien": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/",
-   "source": "CBS News",
-   "date": "2026-11-08T22:56:06+00:00",
-   "extrait": "The board of Nvidia said it had no reason to believe that the company's secrets or national security were compromised.",
-   "tags": [],
-   "zone": "usa"
+   "id": "71c07ce5a5f6",
+   "titre": "Paracyclisme : le triplé fou de Tifany Huot-Marchand aux Mondiaux sur piste",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261108-paracyclisme-le-tripl%C3%A9-fou-de-tifany-huot-marchand-aux-mondiaux-sur-piste",
+   "source": "France 24",
+   "date": "2026-11-08T22:49:10+00:00",
+   "extrait": "La paracycliste française de 32 ans Tifany Huot-Marchand est devenue triple championne du monde sur piste. Une résurrection pour cette ancienne patineuse de vitesse, victime d'un terrible accident…",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "monde"
   },
   {
    "id": "d9c1b845dff8",
@@ -3422,28 +3444,6 @@
     "Justice"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "56b980e6e615",
-   "titre": "Pope Leo calls for universal healthcare weeks after lung cancer surgery",
-   "lien": "https://www.cbsnews.com/news/pope-leo-xiv-universal-healthcare-uruguay/",
-   "source": "CBS News",
-   "date": "2026-11-07T17:36:14+00:00",
-   "extrait": "Pope Leo XIV spoke about access to healthcare on his first stop in Uruguay during his 12-day Latin American tour.",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "9db2edc9c0da",
-   "titre": "\"Face the Nation with Margaret Brennan\" guests for Nov. 8, 2026",
-   "lien": "https://www.cbsnews.com/news/face-the-nation-guests-11-08-2026/",
-   "source": "CBS News",
-   "date": "2026-11-07T17:36:09+00:00",
-   "extrait": "This week's guests include Democratic Sen. Elizabeth Warren, Republican Rep. French Hill and Democratic Rep.-elect Nancy Lacore.",
-   "tags": [],
-   "zone": "usa"
   }
  ]
 }
