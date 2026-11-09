@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-09T16:05:40+00:00",
+ "maj": "2026-11-09T17:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,6 +24,26 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "83c125a28e2a",
+   "titre": "Cyberattaque des frigos : la piste iranienne se précise",
+   "lien": "https://www.zataz.com/cyberattaque-des-frigos-la-piste-iranienne-se-precise/",
+   "source": "Zataz",
+   "date": "2026-11-09T16:28:21+00:00",
+   "extrait": "Cyberattaque de 700 sites frigorifiques : Paris vise une unité iranienne après vingt départs de feu.",
+   "tags": []
+  },
+  {
+   "id": "094609239735",
+   "titre": "Binance denies data breach after alleged ShinyHunters claims",
+   "lien": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
+   "source": "BleepingComputer",
+   "date": "2026-11-09T16:12:39+00:00",
+   "extrait": "Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a newly emerged underground cybercrime forum. [...]",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
    "id": "d7669d6db99e",
    "titre": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
    "lien": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
@@ -36,6 +56,15 @@
     "Fuite de données",
     "Linux"
    ]
+  },
+  {
+   "id": "28fa25c170db",
+   "titre": "Test du câble UGREEN Nexode 240W - avec un écran qui révèle la puissance en temps réel",
+   "lien": "https://korben.info/test-du-cable-ugreen-nexode-240w-avec-un-ecran-qui-revele-la-puissance-en-temps-reel.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-09T15:43:45+00:00",
+   "extrait": "Korben teste depuis trois semaines le câble USB-C UGREEN Nexode 240W, qui intègre un écran LCD affichant la puissance réelle en watts. Compatible USB PD 3.1 (48 V, 5 A) avec puce E-Mark, il existe…",
+   "tags": []
   },
   {
    "id": "82ab336fed5a",
@@ -320,6 +349,15 @@
    "tags": [
     "Faille"
    ]
+  },
+  {
+   "id": "29abacd5fb5e",
+   "titre": "Activités cyber offensives ciblant la France menées par des acteurs iraniens liés au CRGI (09 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2026-CTI-009/",
+   "source": "CERT-FR",
+   "date": "2026-11-09T00:00:00+00:00",
+   "extrait": "Les membres du **Centre de Coordination des Crises Cyber (C4)** \\* ont observé plusieurs attaques à but de déstabilisation menées à l’encontre des intérêts français, qu’ils sont en mesure d’imputer…",
+   "tags": []
   },
   {
    "id": "0a175a74e4d7",
@@ -3363,56 +3401,6 @@
    "extrait": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]",
    "tags": [
     "Fuite de données"
-   ]
-  },
-  {
-   "id": "bce30872ee07",
-   "titre": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
-   "lien": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
-   "source": "The Hacker News",
-   "date": "2026-10-28T16:23:34+00:00",
-   "extrait": "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown. Orange…",
-   "tags": [
-    "Faille",
-    "Windows"
-   ]
-  },
-  {
-   "id": "eb73651e36ee",
-   "titre": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
-   "lien": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
-   "source": "The Hacker News",
-   "date": "2026-10-28T16:02:45+00:00",
-   "extrait": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the…",
-   "tags": [
-    "Faille",
-    "Fuite de données",
-    "IA",
-    "Linux"
-   ]
-  },
-  {
-   "id": "6e5b341998e9",
-   "titre": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
-   "lien": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
-   "source": "BleepingComputer",
-   "date": "2026-10-28T16:00:00+00:00",
-   "extrait": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting…",
-   "tags": [
-    "Faille",
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "7f47388e611d",
-   "titre": "Microsoft urges Entra ID admins to migrate users to passkeys",
-   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/",
-   "source": "BleepingComputer",
-   "date": "2026-10-28T14:48:32+00:00",
-   "extrait": "Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and voice authentication in February 2027. [...]",
-   "tags": [
-    "Malware",
-    "Windows"
    ]
   }
  ]
