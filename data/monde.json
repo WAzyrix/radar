@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-09T22:05:45+00:00",
+ "maj": "2026-11-09T22:44:11+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,168 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "956d04839231",
+   "titre": "Trump admin proposes stricter unemployment work search rules",
+   "lien": "https://www.cbsnews.com/news/trump-work-search-rules-unemployment-benefits/",
+   "source": "CBS News",
+   "date": "2026-11-09T22:41:27+00:00",
+   "extrait": "Under a proposed federal rule, Americans seeking unemployment aid would have to conduct more job searches each week.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "0c3161612a54",
+   "titre": "Top lawyer in DOJ's Civil Division is latest in string of resignations",
+   "lien": "https://www.cbsnews.com/news/top-lawyer-justice-department-civil-division-brett-shumate-resigns/",
+   "source": "CBS News",
+   "date": "2026-11-09T22:37:58+00:00",
+   "extrait": "The top lawyer in the Justice Department's Civil Division resigned on Monday, marking the latest in a wave of departures since the midterm elections.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "f36e76f9c3d9",
+   "titre": "Trump says Iran war at \"status quo,\" warns U.S. \"locked and loaded\"",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/",
+   "source": "CBS News",
+   "date": "2026-11-09T22:37:32+00:00",
+   "extrait": "President Trump told 60 Minutes the war with Iran was a \"good decision\" in the long term, despite its short-term impact.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "b8f2116afa3c",
+   "titre": "Sécurité de l’IA : l’Elysée fait signer un « appel de Paris » à huit pays ainsi qu’à Sam Altman, Dario Amodei et Arthur Mensch",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/09/securite-de-l-ia-l-elysee-fait-signer-un-appel-de-paris-a-huit-pays-ainsi-qu-a-sam-altman-dario-amodei-et-arthur-mensch_6808706_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-09T22:35:02+00:00",
+   "extrait": "A la veille du Forum de Paris sur la paix, Emmanuel Macron a organisé une déclaration plaidant pour des standards communs de classement des incidents liés à l’intelligence artificielle et à des…",
+   "tags": [
+    "Politique",
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "3cdcb14143f0",
+   "titre": "A timeline of the Karen Read case",
+   "lien": "https://www.cbsnews.com/news/karen-read-trial-timeline-john-okeefe/",
+   "source": "CBS News",
+   "date": "2026-11-09T22:34:52+00:00",
+   "extrait": "Here's a look at how events have unfolded in the Karen Read case.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "688595448966",
+   "titre": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+   "lien": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-09T22:34:14+00:00",
+   "extrait": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "d78728237030",
+   "titre": "Fraternity suspended after video shows men on fire",
+   "lien": "https://www.cbsnews.com/news/ohio-state-suspends-fraternity-men-fire-video/",
+   "source": "CBS News",
+   "date": "2026-11-09T22:33:50+00:00",
+   "extrait": "A fraternity at Ohio State University has been temporarily suspended while authorities investigate a video that appears to show two people engulfed in flames.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "dc54cd1e24ad",
+   "titre": "France accuses Iran of cyber 'sabotage' in fridge attacks",
+   "lien": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
+   "source": "NPR",
+   "date": "2026-11-09T22:30:49+00:00",
+   "extrait": "France says Iranian military hackers took over refrigeration controllers at around 700 different retail sites last month, turning up temperatures in the middle of the night and spoiling millions of…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "d87745969b88",
+   "titre": "Afrique du Sud : la déroute de l'ANC, parti de Nelson Mandela, aux municipales",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261109-afrique-du-sud-la-d%C3%A9route-de-l-anc-parti-de-nelson-mandela-aux-municipales",
+   "source": "France 24",
+   "date": "2026-11-09T22:20:53+00:00",
+   "extrait": "Le Congrès national africain (ANC), parti dominant la politique sud-africaine depuis la fin de l'apartheid, a obtenu 30,76 % des voix aux élections municipales, le pire score de son histoire, selon…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "252d8fe34b86",
+   "titre": "Mobilisation des lycéens et étudiants : la réunion du comité de réforme de Parcoursup s'est achevée peu avant 21 heures",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-representants-du-mouvement-recus-par-le-premier-ministre-lundi-apres-midi_8274272.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-09T22:18:24+00:00",
+   "extrait": "La réception des représentants des lycéens et des étudiants par Sébastien Lecornu était suivie d'une première réunion de travail sur la réforme de la plateforme contestée, autour du Premier ministre…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "fe7e5047267f",
+   "titre": "Jérôme Banctel élu \"cuisinier de l'année 2027\" par le guide Gault et Millau",
+   "lien": "https://www.franceinfo.fr/culture/cuisine-et-gastronomie/jerome-banctel-elu-cuisinier-de-l-annee-2027-par-le-guide-gault-et-millau_8275241.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-09T22:13:28+00:00",
+   "extrait": "Le chef du restaurant Gabriel à Paris a remporté lundi une distinction qui lui avait échappé de peu en novembre 2023.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "e86c1c6d5056",
+   "titre": "Nvidia stock drops amid investigation into CEO's affair with suspected Chinese spy",
+   "lien": "https://www.cbsnews.com/video/nvidia-stock-drops-amid-investigation-ceos-affair-suspected-chinese-spy/",
+   "source": "CBS News",
+   "date": "2026-11-09T22:10:15+00:00",
+   "extrait": "Nvidia stock took a hit on Monday after the company announced an investigation into CEO Jensen Huang and his relationship with Chinese business executive Alice Huang. U.S. intelligence officials…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "70061c95bb79",
+   "titre": "Torture en Ukraine : que dit la photo de cet adolescent ?",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261109-torture-en-ukraine-que-dit-la-photo-de-cet-adolescent",
+   "source": "France 24",
+   "date": "2026-11-09T22:08:24+00:00",
+   "extrait": "Des publications faites dans les sphères pro-russes ont relayé une photo et des vidéos devenues virales, dans lesquelles un adolescent ukrainien, l'air terrifié, est escorté. Le jeune homme est…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "59f7849f985f",
+   "titre": "Cameroun : après des reports, le président, Paul Biya, convoque des élections législatives et municipales le 7 février",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/09/cameroun-apres-des-reports-le-president-paul-biya-convoque-des-elections-legislatives-et-municipales-le-7-fevrier_6808705_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-09T22:06:32+00:00",
+   "extrait": "Paul Biya, 93 ans et doyen mondial des chefs d’Etat, a été réélu président du Cameroun pour la huitième fois en 2025. Cette dernière élection, contestée par l’opposition, avait été réprimée dans le…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "994093ce7cec",
    "titre": "Judge sets trial date for Charlie Kirk's accused killer",
    "lien": "https://www.cbsnews.com/news/charlie-kirk-tyler-robinson-murder-trial-date/",
@@ -32,6 +194,19 @@
     "Justice"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "ea1264116709",
+   "titre": "Hausse du SMIC : l'exécutif se félicite, les syndicats râlent, le patronat se désole",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261109-hausse-du-smic-l-ex%C3%A9cutif-se-f%C3%A9licite-les-syndicats-r%C3%A2lent-le-patronat-se-d%C3%A9sole",
+   "source": "France 24",
+   "date": "2026-11-09T22:03:45+00:00",
+   "extrait": "Le gouvernement annonce une revalorisation du SMIC de 1,6%, soit 24€ mensuels, qui porte le salaire minimum à 1501,90€ dès le 1er décembre. Les syndicats estiment que c'est trop peu (la CFDT…",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "monde"
   },
   {
    "id": "142b1467961b",
@@ -118,19 +293,6 @@
    "zone": "france"
   },
   {
-   "id": "f36e76f9c3d9",
-   "titre": "Trump says he sees no reason to escalate war with Iran",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/",
-   "source": "CBS News",
-   "date": "2026-11-09T21:43:12+00:00",
-   "extrait": "President Trump told 60 Minutes the war with Iran was a \"good decision\" in the long term, despite its short-term impact.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "d8661b3dae23",
    "titre": "Jeffries and Massie take questions after new impeachment articles introduced against Hegseth",
    "lien": "https://www.cbsnews.com/video/jeffries-and-massie-take-questions-after-new-impeachment-articles-introduced-against-hegseth/",
@@ -164,18 +326,6 @@
     "Justice"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "688595448966",
-   "titre": "Judge denies motion to dismiss Lindsay Clancy's murder case",
-   "lien": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-09T21:31:49+00:00",
-   "extrait": "The ruling means prosecutors can pursue the case, meaning they could reduce charges in a potential second trial or dismiss them altogether.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
   },
   {
    "id": "d1d0e7a0952b",
@@ -272,6 +422,16 @@
    "zone": "france"
   },
   {
+   "id": "b1a66a420c7e",
+   "titre": "Les brèves critiques du « Monde des livres » : Elisabeth Badinter, Juan Tallon, Emmanuel de Waresquiel, Jonathan Zacaï…",
+   "lien": "https://www.lemonde.fr/critique-litteraire/article/2026/11/09/les-breves-critiques-du-monde-des-livres-elisabeth-badinter-juan-tallon-emmanuel-de-waresquiel-jonathan-zacai_6808701_5473203.html",
+   "source": "Le Monde",
+   "date": "2026-11-09T21:00:06+00:00",
+   "extrait": "Chaque semaine, une sélection de parutions récentes, au-delà des titres phares.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "18c7f2a98388",
    "titre": "Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth",
    "lien": "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth",
@@ -315,18 +475,6 @@
    "date": "2026-11-09T20:39:17+00:00",
    "extrait": "\"Nous sommes seuls\", déplore Nicolas Bonnet, secrétaire national du SNPDEN-Unsa, lundi sur franceinfo. Ce proviseur d'un lycée à Libourne (Gironde) est confronté à des \"jets de pavés, des poubelles…",
    "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "252d8fe34b86",
-   "titre": "Mobilisation des lycéens et étudiants : la réunion du comité de réforme de Parcoursup s'est achevée peu avant 21 heures",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-representants-du-mouvement-recus-par-le-premier-ministre-lundi-apres-midi_8274272.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T20:35:32+00:00",
-   "extrait": "La réception des représentants des lycéens et des étudiants par Sébastien Lecornu était suivie d'une première réunion de travail sur la réforme de la plateforme contestée, autour du Premier ministre…",
-   "tags": [
-    "Politique"
-   ],
    "zone": "france"
   },
   {
@@ -1272,6 +1420,16 @@
    "tags": [
     "Économie"
    ],
+   "zone": "france"
+  },
+  {
+   "id": "e5c778263e55",
+   "titre": "Au Pérou, l’autorité électorale sanctionne les « réélections déguisées » des maires après le scrutin",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/09/au-perou-l-autorite-electorale-sanctionne-les-reelections-deguisees-des-maires-apres-le-scrutin_6808668_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-09T16:00:16+00:00",
+   "extrait": "Le jury national électoral péruvien, en suivant scrupuleusement la Constitution, empêche d’investir les têtes de listes dans quelque 420 municipalités. A commencer par Lima, où le maire sortant…",
+   "tags": [],
    "zone": "france"
   },
   {
@@ -3326,167 +3484,6 @@
    "date": "2026-11-09T05:10:02+00:00",
    "extrait": "Le documentaire de David Austin et Andy Morahan dévoile des images inédites, d'une énergie folle, de la performance de la star britannique à Bercy. Spectaculaire, électrisant et lumineux.",
    "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "d50ee662f074",
-   "titre": "« S’engager dans le syndicalisme aujourd’hui en France, c’est souvent s’exposer aux discriminations et à la répression »",
-   "lien": "https://www.lemonde.fr/idees/article/2026/11/09/s-engager-dans-le-syndicalisme-aujourd-hui-en-france-c-est-souvent-s-exposer-aux-discriminations-et-a-la-repression_6808613_3232.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T05:00:52+00:00",
-   "extrait": "Trois spécialistes des syndicats rejettent, dans une tribune au « Monde », les propositions des économistes Pierre Cahuc et André Zylberberg visant à lutter contre la désaffection qui touche les…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "38e00388903e",
-   "titre": "Pollution aux pesticides : en restreignant la portée d’une taxe, le gouvernement a privé les agences de l’eau de plus de 90 millions d’euros de redevance",
-   "lien": "https://www.lemonde.fr/planete/article/2026/11/09/pollution-aux-pesticides-en-restreignant-la-portee-d-une-taxe-le-gouvernement-a-prive-les-agences-de-l-eau-de-plus-de-90-millions-d-euros-de-redevance_6808615_3244.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T05:00:42+00:00",
-   "extrait": "En consultant la liste des substances soumises à la redevance pour pollutions diffuses, reversée aux agences et offices de l’eau, l’association Générations futures s’est rendu compte que les taux…",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "3e31a53a7042",
-   "titre": "Après un été de cyberattaques et un an de blocage, la loi « résilience » de retour à l’Assemblée nationale",
-   "lien": "https://www.lemonde.fr/pixels/article/2026/11/09/apres-un-ete-de-cyberattaques-et-un-an-de-blocage-la-loi-resilience-de-retour-a-l-assemblee-nationale_6808612_4408996.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T05:00:31+00:00",
-   "extrait": "Le gouvernement espère faire voter ce texte très attendu en matière de cybersécurité, sans son article 16 bis, qui hérisse les services de renseignement. Pour ce faire, il a annoncé renoncer à…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "8f96b868be39",
-   "titre": "EN DIRECT, guerre en Ukraine : à l’approche de pourparlers à Abou Dhabi, Donald Trump promet une fin prochaine du conflit, avec un pays aux « contours un peu différents »",
-   "lien": "https://www.lemonde.fr/international/live/2026/11/09/en-direct-guerre-en-ukraine-reunion-a-paris-lundi-pour-financer-la-reparation-de-l-arche-de-tchernobyl_6808609_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T05:00:20+00:00",
-   "extrait": "Interrogé sur la perspective d’une Ukraine libre et indépendante à l’issue des négociations entre délégations ukrainienne, russe et américaine, le président américain a répondu qu’un accord…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "4c20602bcef1",
-   "titre": "COP31 : la Turquie et l’Australie, deux pays fortement dépendants du charbon, aux manettes du principal sommet sur le climat",
-   "lien": "https://www.lemonde.fr/planete/article/2026/11/09/cop31-la-turquie-et-l-australie-deux-pays-fortement-dependants-du-charbon-aux-manettes-du-principal-sommet-sur-le-climat_6808608_3244.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T05:00:20+00:00",
-   "extrait": "Pour la première fois, la présidence de la conférence mondiale, qui s’ouvre lundi à Antalya, est partagée entre deux Etats. Ces deux derniers ont jusqu’ici évité d’aborder la question des énergies…",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "ba04e1ce6b1d",
-   "titre": "A Vevey, en Suisse, « l’œil » exceptionnel du collectionneur Jean Planque",
-   "lien": "https://www.lemonde.fr/culture/article/2026/11/09/a-vevey-en-suisse-l-il-exceptionnel-du-collectionneur-jean-planque_6808605_3246.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T05:00:09+00:00",
-   "extrait": "Le Musée Jenisch consacre une exposition à celui qui constitua avec le galeriste bâlois Ernst Beyeler un fructueux et avisé tandem dont témoignent les œuvres de Van Gogh, Picasso ou Dubuffet…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "dbc89cd9d69c",
-   "titre": "Crédit immobilier : la hausse des taux pénalise les plus modestes",
-   "lien": "https://www.lemonde.fr/argent/article/2026/11/09/credit-immobilier-la-hausse-des-taux-penalise-les-plus-modestes_6808606_1657007.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T05:00:09+00:00",
-   "extrait": "Le niveau de 4 % sur vingt-cinq ans a été dépassé pour certains profils d’emprunteur et la situation devrait se dégrader rapidement, alors que toutes les banques n’ont pas encore répercuté les…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "f1fe547f3439",
-   "titre": "Laperche dompte le Rhum, Alcaraz sacré à Paris, le XV de France en balade face aux Fidji... Le récap sport du week-end",
-   "lien": "https://www.franceinfo.fr/sports/l-essentiel-du-sport/laperche-dompte-le-rhum-alcaraz-sacre-a-paris-le-xv-de-france-en-balade-face-aux-fidji-le-recap-sport-du-week-end_8273111.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T05:00:02+00:00",
-   "extrait": "L'événement majeur du week-end est le titre du skippeur de 29 ans, qui a battu le record de la Route du Rhum, dans la nuit de samedi à dimanche.",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "502bc40733bd",
-   "titre": "Trois questions sur la conférence sociale organisée à Matignon",
-   "lien": "https://www.franceinfo.fr/economie/pouvoir-achat/revendications-des-syndicats-pistes-du-gouvernement-fonction-publique-absente-trois-questions-sur-la-conference-sociale-organisee-a-matignon_8273354.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T04:52:42+00:00",
-   "extrait": "L'intersyndicale précise qu'elle ne cessera pas la mobilisation tant qu'elle n'obtiendra pas de \"réponse aux revendications portées depuis plusieurs semaines\".",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "03dc81a74be0",
-   "titre": "\"Tout le monde est malade\" : à Elbistan, l'extraction du charbon brise les vies des habitants, loin des promesses de la Turquie avant la COP31",
-   "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/reportage-tout-le-monde-est-malade-a-elbistan-l-extraction-du-charbon-brise-les-vies-des-habitants-loin-des-promesses-de-la-turquie-avant-la-cop31_8268068.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T04:51:23+00:00",
-   "extrait": "L'hôte du 31e sommet pour le climat souhaite mettre la transition énergétique au cœur des discussions. Pourtant, la plus polluante des énergies fossiles est extraite à plein régime dans le pays.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "eaf6761cad13",
-   "titre": "Conférence sociale : pourquoi les entreprises françaises auront du mal à augmenter les salaires sans croissance",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/09/sans-croissance-les-entreprises-francaises-peineront-a-augmenter-les-salaires-auxquels-elles-consacrent-deja-une-large-part-de-leur-richesse_6808603_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T04:45:08+00:00",
-   "extrait": "La rémunération du travail sera au cœur des discussions de la conférence sociale qui s’ouvre lundi 9 novembre à Matignon. Pour les entreprises fragilisées par les difficultés économiques, une hausse…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "91f852beaadb",
-   "titre": "Mobilisation sociale : pour Sébastien Lecornu, la semaine de toutes les négociations",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/09/mobilisation-sociale-pour-sebastien-lecornu-la-semaine-de-toutes-les-negociations_6808601_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T04:30:38+00:00",
-   "extrait": "Le premier ministre devait recevoir, lundi, les partenaires sociaux puis les lycéens, avant de réunir, en fin de semaine, les agents de la fonction publique. Si la réponse n’était pas à la hauteur…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "fb5b63bbcd8f",
-   "titre": "Au Crédit municipal de Lille, des prêts sur gage pour maintenir la tête hors de l’eau : « Je suis descendue bien bas pour venir ici »",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/09/au-credit-municipal-de-lille-on-a-de-plus-en-plus-de-prets-de-moins-de-100-euros_6808599_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T04:30:07+00:00",
-   "extrait": "Bijoux, vaisselle, appareils photo, montres mis en dépôt : l’activité historique de prêt sur gage du Crédit municipal lillois reste très sollicitée face à la dégradation du pouvoir d’achat.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "f0d8c577597d",
-   "titre": "En Argentine, la leçon du pape Léon XIV à Javier Milei : « L’économie doit être au service de la personne, pas le contraire »",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/09/en-argentine-la-lecon-du-pape-leon-xiv-a-javier-milei-l-economie-doit-etre-au-service-de-la-personne-et-non-la-personne-au-service-de-l-economie_6808600_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T04:30:07+00:00",
-   "extrait": "Accueilli par le président argentin à Buenos Aires, dimanche, le souverain pontife a délivré un discours exprimant sans ambages ce qu’il pense de la politique ultralibérale mise en œuvre par le…",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
    "zone": "france"
   }
  ]
