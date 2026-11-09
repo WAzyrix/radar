@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-09T03:05:38+00:00",
+ "maj": "2026-11-09T04:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,16 +22,39 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "b412a7bb391e",
+   "titre": "Iran downplays new U.S. task force aimed at disrupting land routes",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
+   "source": "CBS News",
+   "date": "2026-11-09T03:35:47+00:00",
+   "extrait": "The U.S. did not say whether any military action would be involved in preventing weapons technology or sanctioned items from entering Iran.",
+   "tags": [
+    "Conflits",
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "166b21e3adb8",
    "titre": "Trump says U.S. took a \"giant step back in history\" with midterm results",
    "lien": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
    "source": "CBS News",
-   "date": "2026-11-09T02:32:57+00:00",
+   "date": "2026-11-09T03:29:24+00:00",
    "extrait": "President Trump on Sunday said the U.S. \"took a giant step back in history\" as his White House continued to roil from his post-midterm shakeup",
    "tags": [
     "Politique"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "19d96a41ce30",
+   "titre": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+   "lien": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-09T02:50:13+00:00",
+   "extrait": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "eb07f8a2974c",
@@ -227,7 +250,7 @@
    "titre": "French protests could benefit far-right political leader Marine Le Pen",
    "lien": "https://www.cbsnews.com/video/france-marine-le-pen-60-minutes-video-2026-11-08/",
    "source": "CBS News",
-   "date": "2026-11-09T00:00:17+00:00",
+   "date": "2026-11-09T00:00:00+00:00",
    "extrait": "60 Minutes visits France to understand who and what are driving protests and interviews populist, far-right politician Marine Le Pen, who could benefit from the strife in the streets.",
    "tags": [],
    "zone": "usa"
@@ -237,7 +260,7 @@
    "titre": "Coming up on 60 Minutes: Investigating the latest fronts in America's opioid crisis",
    "lien": "https://www.cbsnews.com/video/synthetic-opioids-kratom-60-minutes-video-2026-11-08/",
    "source": "CBS News",
-   "date": "2026-11-09T00:00:12+00:00",
+   "date": "2026-11-09T00:00:00+00:00",
    "extrait": "60 Minutes investigates synthetic opioids, which the DEA calls the deadliest drug threat the U.S. has faced. Jon Wertheim also reports on legal, addictive opioids, often marketed as natural herbal…",
    "tags": [
     "Économie"
@@ -332,6 +355,18 @@
    "zone": "usa"
   },
   {
+   "id": "6624fb26dc13",
+   "titre": "11/8/2026: Donald Trump; France on Fire",
+   "lien": "https://www.cbsnews.com/video/60minutes-2026-11-08/",
+   "source": "CBS News",
+   "date": "2026-11-09T00:00:00+00:00",
+   "extrait": "First, President Donald Trump: The 2026 60 Minutes post-midterms interview. And, French protests may shift the political landscape.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "c1496ce38262",
    "titre": "NASA is looking for astronauts to live and work on the Moon",
    "lien": "https://www.npr.org/2026/11/08/nx-s1-6034002/nasa-astronaut-class-applications-2026",
@@ -391,19 +426,6 @@
    "zone": "usa"
   },
   {
-   "id": "b412a7bb391e",
-   "titre": "Iran downplays new U.S. task force aimed at disrupting land routes",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
-   "source": "CBS News",
-   "date": "2026-11-08T23:14:17+00:00",
-   "extrait": "The U.S. did not say whether any military action would be involved in preventing weapons technology or sanctioned items from entering Iran.",
-   "tags": [
-    "Conflits",
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "71c07ce5a5f6",
    "titre": "Paracyclisme : le triplé fou de Tifany Huot-Marchand aux Mondiaux sur piste",
    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261108-paracyclisme-le-tripl%C3%A9-fou-de-tifany-huot-marchand-aux-mondiaux-sur-piste",
@@ -445,7 +467,7 @@
    "lien": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-08T22:05:12+00:00",
-   "extrait": "Two doctors were eating near the city's Main Market Square when a gunman began firing at random.",
+   "extrait": "Two doctors were eating near the Polish city's Main Market Square when a gunman began firing at random.",
    "tags": [
     "Économie"
    ],
@@ -3424,28 +3446,6 @@
    "source": "Le Monde",
    "date": "2026-11-07T18:10:03+00:00",
    "extrait": "Les hommes de Fabien Galthié ont débuté le mois de novembre par une large victoire, samedi, à Décines-Charpieu (54-17). Confronté à une vague de blessure, le sélectionneur devra néanmoins…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "0c8822513a1d",
-   "titre": "Le soignant qui a changé ma vie : « J’étais sa patiente pour Covid long, je suis devenue sa collègue »",
-   "lien": "https://www.lemonde.fr/intimites/article/2026/11/07/le-soignant-qui-a-change-ma-vie-j-etais-sa-patiente-pour-covid-long-je-suis-devenue-sa-collegue_6808308_6190330.html",
-   "source": "Le Monde",
-   "date": "2026-11-07T18:00:05+00:00",
-   "extrait": "Chaque mois, « Le Monde » part à la rencontre d’un soignant et d’un soigné qui, ensemble et au-delà du soin, ont su nouer un lien. Etonnante trajectoire que celle du duo formé par Valérie Triponez…",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "91715b126c18",
-   "titre": "Une sélection de livres de poche : « Les Femmes et la Libération », André Comte-Sponville, Paul Lynch, Lydie Salvayre…",
-   "lien": "https://www.lemonde.fr/critique-litteraire/article/2026/11/07/une-selection-de-livres-de-poche-les-femmes-et-la-liberation-andre-comte-sponville-paul-lynch-lydie-salvayre_6808307_5473203.html",
-   "source": "Le Monde",
-   "date": "2026-11-07T18:00:04+00:00",
-   "extrait": "Parmi les livres de poche parus récemment, « Le Monde des livres » vous recommande…",
    "tags": [],
    "zone": "france"
   }
