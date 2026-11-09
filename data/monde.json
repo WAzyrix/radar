@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-09T07:05:38+00:00",
+ "maj": "2026-11-09T07:14:33+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -26,7 +26,7 @@
    "titre": "Gunman who carried out Poland mass shooting has died, police say",
    "lien": "https://www.cbsnews.com/news/poland-mourns-krakow-mass-shooting-victims-terrorism-probe/",
    "source": "CBS News",
-   "date": "2026-11-09T07:04:41+00:00",
+   "date": "2026-11-09T07:11:10+00:00",
    "extrait": "The attack, which Poland's defense minister described as an \"act of terror,\" left six people dead aside from the gunman and 15 wounded.",
    "tags": [
     "Conflits",
@@ -35,12 +35,62 @@
    "zone": "usa"
   },
   {
+   "id": "53ec5b89e2c5",
+   "titre": "Huit personnes sont mortes dans le naufrage d'une embarcation de migrants au large de la Grèce",
+   "lien": "https://www.franceinfo.fr/monde/europe/migrants/huit-personnes-sont-mortes-dans-le-naufrage-d-une-embarcation-de-migrants-au-large-de-la-grece_8274113.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-09T07:08:09+00:00",
+   "extrait": "Il s'agit du deuxième accident au large de Crète en trois jours. Cette île grecque est l'un des principaux points d'entrée dans l'Union européenne des migrants.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "3149e587198d",
+   "titre": "Krakow shooting suspect has died in hospital, police say",
+   "lien": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-09T07:06:58+00:00",
+   "extrait": "At least six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
+   "tags": [
+    "Justice",
+    "Santé"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "ca6fb33b9217",
+   "titre": "Electrification, intelligence artificielle, financements... Quels sont les enjeux de la COP31, qui s'ouvre à Antalya ?",
+   "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/electrification-intelligence-artificielle-financements-quels-sont-les-enjeux-de-la-cop31-qui-s-ouvre-a-antalya_8223061.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-09T07:02:57+00:00",
+   "extrait": "Le 31e sommet des Nations unies sur le climat se tient du 9 au 20 novembre en Turquie, où le gouvernement de Recep Tayyip Erdogan a mené ces derniers mois une campagne anti-LGBT qui a entraîné de…",
+   "tags": [
+    "Politique",
+    "Climat",
+    "Justice",
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "a80ea1805c03",
-   "titre": "Conférence sociale : pour répondre à la colère, le Premier ministre réunit lundi matin les syndicats et la patronat",
+   "titre": "Conférence sociale : pour répondre à la colère, le Premier ministre réunit lundi matin les syndicats et le patronat",
    "lien": "https://www.franceinfo.fr/economie/greve/direct-conference-sociale-pour-repondre-a-la-colere-le-premier-ministre-reunit-lundi-matin-les-syndicats_8273954.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-11-09T07:00:54+00:00",
+   "date": "2026-11-09T07:01:27+00:00",
    "extrait": "Sous pression, Sébastien Lecornu tente lundi de répondre à la colère sociale exprimée depuis plusieurs semaines par les syndicats et la jeunesse. Il recevra lundi après-midi les organisations…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "580cc49addeb",
+   "titre": "Conférence sociale : \"Augmenter le smic à 1 500 euros, ce n'est pas suffisant\", estime le président de la CFTC",
+   "lien": "https://www.franceinfo.fr/economie/pouvoir-achat/conference-sociale-augmenter-le-smic-a-1-500-euros-ce-n-est-pas-suffisant-estime-le-president-de-la-cftc_8274110.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-09T07:00:43+00:00",
+   "extrait": "Avant de participer à la \"conférence sociale\", Cyril Chabanier réclame une \"hausse de 2%\" du smic, soit une trentaine d'euros net en plus. Il salue quand même un \"coup de pouce\" qui \"est bon à…",
    "tags": [
     "Politique"
    ],
@@ -55,19 +105,6 @@
    "extrait": "A la Une de la presse, ce lundi 9 novembre, la publication, aujourd’hui, du dernier numéro du journal d’opposition russe Novaya Gazeta, symbole du combat pour la démocratie. Un chiffre à la Une…",
    "tags": [
     "Climat"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "3149e587198d",
-   "titre": "Krakow shooting suspect has died in hospital, police say",
-   "lien": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-09T06:50:09+00:00",
-   "extrait": "At least six people were killed in the shooting and a dozen more were injured.",
-   "tags": [
-    "Justice",
-    "Santé"
    ],
    "zone": "monde"
   },
@@ -317,21 +354,6 @@
    "zone": "france"
   },
   {
-   "id": "ca6fb33b9217",
-   "titre": "Electrification, intelligence artificielle, financements... Quels sont les enjeux de la COP31, qui s'ouvre à Antalya ?",
-   "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/electrification-intelligence-artificielle-financements-quels-sont-les-enjeux-de-la-cop31-qui-s-ouvre-a-antalya_8223061.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T04:49:43+00:00",
-   "extrait": "Le 31e sommet des Nations unies sur le climat se tient du 9 au 20 novembre en Turquie, où le gouvernement de Recep Tayyip Erdogan a mené ces derniers mois une campagne anti-LGBT qui a entraîné de…",
-   "tags": [
-    "Politique",
-    "Climat",
-    "Justice",
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "91f852beaadb",
    "titre": "Mobilisation sociale : pour Sébastien Lecornu, la semaine de toutes les négociations",
    "lien": "https://www.lemonde.fr/politique/article/2026/11/09/mobilisation-sociale-pour-sebastien-lecornu-la-semaine-de-toutes-les-negociations_6808601_823448.html",
@@ -378,11 +400,11 @@
   },
   {
    "id": "1423a0968903",
-   "titre": "Après l’incendie du « nid d’aigle » d’Hitler, un débat s’ouvre sur sa reconstruction",
+   "titre": "Après l’incendie du « nid d’aigle » d’Hitler dans les montagnes de Bavière, un débat s’ouvre sur sa reconstruction",
    "lien": "https://www.lemonde.fr/international/article/2026/11/09/apres-l-incendie-du-nid-d-aigle-d-hitler-un-debat-s-ouvre-sur-sa-reconstruction_6808597_3210.html",
    "source": "Le Monde",
-   "date": "2026-11-09T04:00:19+00:00",
-   "extrait": "Le feu criminel qui a endommagé la maison construite dans les années 1930 dans les Alpes de Berchtesgaden, à la frontière autrichienne, donne lieu à une réflexion sur le traitement réservé aux…",
+   "date": "2026-11-09T04:00:16+00:00",
+   "extrait": "Le feu criminel qui a endommagé en octobre la maison construite dans les années 1930 dans les Alpes de Berchtesgaden, à la frontière autrichienne, donne lieu à une réflexion sur le traitement…",
    "tags": [
     "Climat"
    ],
@@ -3439,28 +3461,6 @@
    "extrait": "NPR's Rob Schmitz speaks with Austin-based political commentator David Griscom. He authored a book titled The Myth of Red Texas which tells the story of economic populism in Texas.",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "6969d49de7fb",
-   "titre": "Oklahoma tribes say proposed legal changes put ancestral lands in Ohio at risk",
-   "lien": "https://www.npr.org/2026/11/07/nx-s1-6029409/oklahoma-tribes-says-proposed-legal-changes-puts-ancestral-lands-in-ohio-at-risk",
-   "source": "NPR",
-   "date": "2026-11-07T22:12:02+00:00",
-   "extrait": "The Trump administration has proposed changes to the National Historic Preservation Act that could endanger historic sites significant to tribal nations across the country. Oklahoma tribes say that…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "f5f33b993aa7",
-   "titre": "Le XV de France signe une démonstration face à des Fidjiens stériles pour son premier match d'automne",
-   "lien": "https://www.franceinfo.fr/sports/rugby/xv-de-france/le-xv-de-france-signe-une-demonstration-face-a-des-fidjiens-steriles-pour-son-premier-match-d-automne_8272730.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-07T22:01:02+00:00",
-   "extrait": "Les hommes de Fabien Galthié n'ont pas laissé le moindre espoir aux Fidjiens (54-17), samedi soir à Lyon. Point noir de la soirée : la sortie sur blessure de Romain Ntamack.",
-   "tags": [],
-   "zone": "france"
   }
  ]
 }
