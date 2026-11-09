@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-09T13:05:41+00:00",
+ "maj": "2026-11-09T14:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,39 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "7ef80ee6e03a",
+   "titre": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
+   "lien": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/",
+   "source": "BleepingComputer",
+   "date": "2026-11-09T13:28:56+00:00",
+   "extrait": "The US Department of the Treasury has cut off the MEXC Global crypto exchange from the US financial system over sanctions evasion and links with cybercrime gangs. [...]",
+   "tags": []
+  },
+  {
+   "id": "ab56c88bece7",
+   "titre": "NomadNet - Votre site et vos fichiers sur Reticulum",
+   "lien": "https://korben.info/reticulum-nomadnet-site-fichiers.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-09T13:18:03+00:00",
+   "extrait": "Installer NomadNet, activer un nœud, écrire sa page index.mu et proposer des fichiers sur Reticulum, tuto testé sur deux machines Ubuntu 24.04. Avec ce qu'il faut savoir avant d'allumer le nœud : il…",
+   "tags": [
+    "Outil",
+    "Linux"
+   ]
+  },
+  {
+   "id": "748ff78dd5ad",
+   "titre": "Chicago95 - Votre Xubuntu déguisé en Windows 95",
+   "lien": "https://korben.info/chicago95-xfce-windows-95.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-09T13:16:31+00:00",
+   "extrait": "Le thème Chicago95 habille XFCE en Windows 95, des fenêtres à l'invite MS-DOS. Le tuto, testé sur une Xubuntu 26.04, signale ce qui coince : greffon du tableau de bord, fond d'écran, polices bitmap…",
+   "tags": [
+    "Outil",
+    "Windows"
+   ]
+  },
   {
    "id": "53877e7ba1bf",
    "titre": "Ukraine dismantles crypto scam network that stole €4.3 million",
@@ -3384,42 +3417,6 @@
    "date": "2026-10-28T07:37:50+00:00",
    "extrait": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a domain associated with a bulletproof hosting provider (BPH) named Virtualine. The move was in response to the service being…",
    "tags": []
-  },
-  {
-   "id": "697aeb2243e0",
-   "titre": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
-   "lien": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
-   "source": "The Hacker News",
-   "date": "2026-10-28T07:13:21+00:00",
-   "extrait": "Japan's GMO Internet Group is offering up to $1 million in total for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand…",
-   "tags": [
-    "Fuite de données",
-    "Windows"
-   ]
-  },
-  {
-   "id": "345dc53c4910",
-   "titre": "Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers",
-   "lien": "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html",
-   "source": "The Hacker News",
-   "date": "2026-10-28T06:20:37+00:00",
-   "extrait": "Tailscale has released version 1.104.4 to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the root user should be able to touch…",
-   "tags": [
-    "Faille",
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "f01e6eed4371",
-   "titre": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
-   "lien": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
-   "source": "The Hacker News",
-   "date": "2026-10-28T06:04:58+00:00",
-   "extrait": "The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week. Oracle patched all three…",
-   "tags": [
-    "CVE",
-    "Faille"
-   ]
   }
  ]
 }
