@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-09T09:05:41+00:00",
+ "maj": "2026-11-09T10:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "e8082cc54dfb",
+   "titre": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
+   "lien": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
+   "source": "The Hacker News",
+   "date": "2026-11-09T09:01:50+00:00",
+   "extrait": "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week. The agents also found a Taipei fire…",
+   "tags": [
+    "Fuite de données",
+    "IA"
+   ]
+  },
   {
    "id": "a2c922a06d73",
    "titre": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
@@ -3411,17 +3423,6 @@
    "source": "CERT-FR",
    "date": "2026-10-28T00:00:00+00:00",
    "extrait": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "9741d79bd3fe",
-   "titre": "Multiples vulnérabilités dans Mitel OpenScape Endpoint Management (28 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1404/",
-   "source": "CERT-FR",
-   "date": "2026-10-28T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Mitel OpenScape Endpoint Management. Elles permettent à un attaquant de provoquer une élévation de privilèges et un contournement de la politique…",
    "tags": [
     "Faille"
    ]
