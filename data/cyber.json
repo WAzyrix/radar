@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-09T12:05:39+00:00",
+ "maj": "2026-11-09T13:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,26 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "53877e7ba1bf",
+   "titre": "Ukraine dismantles crypto scam network that stole €4.3 million",
+   "lien": "https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/",
+   "source": "BleepingComputer",
+   "date": "2026-11-09T12:16:13+00:00",
+   "extrait": "Ukrainian law enforcement arrested four suspects in a case involving the theft of more than €4.3 million using a network of cryptocurrency investment scam call centers. [...]",
+   "tags": [
+    "Malware"
+   ]
+  },
+  {
+   "id": "2adbdddcfc7e",
+   "titre": "iKnow - Ce que votre Mac sait de votre famille",
+   "lien": "https://korben.info/graphe-connaissances-apple-iknow.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-09T12:12:35+00:00",
+   "extrait": "Deux chercheurs d'Eighth Rank décrivent le graphe de vos proches que macOS remplit en local, avec deux classificateurs qui notent qui est de la famille. Ce qui est recoupé, ce qui ne l'est pas, et…",
+   "tags": []
+  },
   {
    "id": "07aa0c8de75e",
    "titre": "Nvidia : l’espionnage par la séduction et le social engineering",
@@ -3398,30 +3418,6 @@
    "extrait": "The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week. Oracle patched all three…",
    "tags": [
     "CVE",
-    "Faille"
-   ]
-  },
-  {
-   "id": "dc166c047f57",
-   "titre": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
-   "lien": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
-   "source": "The Hacker News",
-   "date": "2026-10-28T05:42:26+00:00",
-   "extrait": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited…",
-   "tags": [
-    "CVE",
-    "Faille",
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "8374ad3c3987",
-   "titre": "Multiples vulnérabilités dans Metabase (28 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1403/",
-   "source": "CERT-FR",
-   "date": "2026-10-28T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Metabase. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-   "tags": [
     "Faille"
    ]
   }
