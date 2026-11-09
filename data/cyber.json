@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-09T18:06:30+00:00",
+ "maj": "2026-11-09T19:05:43+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "e89c57c6d564",
+   "titre": "France blames Iranian hackers for supermarket attacks that sparked fires",
+   "lien": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
+   "source": "BleepingComputer",
+   "date": "2026-11-09T18:32:42+00:00",
+   "extrait": "France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food…",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
   {
    "id": "bd73ebc7b854",
    "titre": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
@@ -3395,15 +3406,6 @@
    "source": "BleepingComputer",
    "date": "2026-10-28T20:47:22+00:00",
    "extrait": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]",
-   "tags": []
-  },
-  {
-   "id": "d9b49b7f0de2",
-   "titre": "Discord to let search engines index public server messages",
-   "lien": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
-   "source": "BleepingComputer",
-   "date": "2026-10-28T18:44:16+00:00",
-   "extrait": "Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]",
    "tags": []
   }
  ]
