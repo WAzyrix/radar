@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-09T20:05:41+00:00",
+ "maj": "2026-11-09T21:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,15 +22,190 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "dfdd7bb2e5a4",
+   "titre": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+   "lien": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-09T21:04:36+00:00",
+   "extrait": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "18c7f2a98388",
+   "titre": "Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth",
+   "lien": "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth",
+   "source": "NPR",
+   "date": "2026-11-09T20:52:24+00:00",
+   "extrait": "The articles accuse Hegseth of \"high crimes and misdemeanors,\" including for waging war against Iran in violation of the War Powers Resolution.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "f95e0fab285b",
    "titre": "Supreme Court allows border wall construction in Big Bend region",
    "lien": "https://www.cbsnews.com/news/supreme-court-trump-border-wall-big-bend/",
    "source": "CBS News",
-   "date": "2026-11-09T20:00:52+00:00",
+   "date": "2026-11-09T20:50:28+00:00",
    "extrait": "The Supreme Court agreed to lift a district court order that temporarily stopped construction of the border wall and other infrastructure in the Big Bend sector.",
    "tags": [
     "Justice"
    ],
+   "zone": "usa"
+  },
+  {
+   "id": "12647216fa6b",
+   "titre": "Turkey steel factory blast kills at least 17 people",
+   "lien": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-09T20:42:04+00:00",
+   "extrait": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "670f5b890a68",
+   "titre": "\"Nous sommes devenus des cibles\" : le principal syndicat des proviseurs appelle au rassemblement vendredi 13 novembre",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/nous-sommes-devenus-des-cibles-le-principal-syndicat-des-proviseurs-appelle-au-rassemblement-vendredi-13-novembre_8275154.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-09T20:39:17+00:00",
+   "extrait": "\"Nous sommes seuls\", déplore Nicolas Bonnet, secrétaire national du SNPDEN-Unsa, lundi sur franceinfo. Ce proviseur d'un lycée à Libourne (Gironde) est confronté à des \"jets de pavés, des poubelles…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "463de6cda80a",
+   "titre": "Nvidia stock slumps amid board investigation into CEO Jensen Huang",
+   "lien": "https://www.cbsnews.com/news/nvidia-jensen-huang-stock-board-investigation-spy/",
+   "source": "CBS News",
+   "date": "2026-11-09T20:37:29+00:00",
+   "extrait": "Investors are questioning whether Huang's future as Nvidia's CEO may be at risk amid allegations that he was targeted in a Chinese intelligence operation.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "252d8fe34b86",
+   "titre": "Mobilisation des lycéens et étudiants : la réunion du comité de réforme de Parcoursup s'est achevée peu avant 21 heures",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-representants-du-mouvement-recus-par-le-premier-ministre-lundi-apres-midi_8274272.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-09T20:35:32+00:00",
+   "extrait": "La réception des représentants des lycéens et des étudiants par Sébastien Lecornu était suivie d'une première réunion de travail sur la réforme de la plateforme contestée, autour du Premier ministre…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "e71a417693ae",
+   "titre": "Pete Hegseth, secrétaire à la défense de Donald Trump, visé par une procédure de destitution déclenchée par un élu républicain",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/09/pete-hegseth-secretaire-a-la-defense-de-donald-trump-vise-par-une-procedure-de-destitution-declenchee-par-un-elu-republicain_6808699_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-09T20:33:13+00:00",
+   "extrait": "L’impeachment a été lancé par Thomas Massie, qui dénonce la guerre en Iran et la manière dont ce membre du cabinet de Donald Trump l’a menée.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "964218fcb336",
+   "titre": "Le ministre américain de la Défense Pete Hegseth visé par une procédure de destitution",
+   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261109-%C3%A9tats-unis-ministre-d%C3%A9fense-pete-hegseth-vis%C3%A9-proc%C3%A9dure-destitution",
+   "source": "France 24",
+   "date": "2026-11-09T20:28:53+00:00",
+   "extrait": "Un député républicain a lancé lundi une procédure de mise en accusation du controversé ministre américain de la Défense, Pete Hegseth, fragilisé par la percée démocrate aux midterms. Elle devrait…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "38fdffc30428",
+   "titre": "Domicile d'un policier incendié à Auch : pas de lien avec sa profession à ce stade, selon le parquet",
+   "lien": "https://www.franceinfo.fr/faits-divers/domicile-d-un-policier-incendie-a-auch-pas-de-lien-avec-sa-profession-a-ce-stade-selon-le-parquet_8275139.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-09T20:25:38+00:00",
+   "extrait": "Le ministre de l'Intérieur avait affirmé samedi soir que \"tout laisse à penser que cet acte criminel intolérable a été commis en raison de la profession de ce policier\"",
+   "tags": [
+    "Politique",
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "a539e96508e5",
+   "titre": "Massie introduces Hegseth impeachment articles, teeing up vote",
+   "lien": "https://www.cbsnews.com/news/pete-hegseth-impeachment-vote-house-thomas-massie/",
+   "source": "CBS News",
+   "date": "2026-11-09T20:23:46+00:00",
+   "extrait": "Rep. Thomas Massie on Monday introduced articles of impeachment against Defense Secretary Pete Hegseth, accusing him of waging war against Iran without congressional authorization.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "87181a6313bc",
+   "titre": "France accuses Iran of supermarket fridge hacking",
+   "lien": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-09T20:20:08+00:00",
+   "extrait": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "05e327e8ffc5",
+   "titre": "Le maire d'Evreux, dans l'Eure, a saisi le Conseil d'Etat pour contester l'annulation des deux tours de l'élection municipale",
+   "lien": "https://www.franceinfo.fr/elections/municipales/le-maire-d-evreux-dans-l-eure-a-saisi-le-conseil-d-etat-pour-contester-l-annulation-des-deux-tours-de-l-election-municipale_8275130.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-09T20:18:38+00:00",
+   "extrait": "En cas de confirmation du jugement rendu par le tribunal administratif de Rouen, de nouvelles élections devront être organisées au plus tard début août 2027.",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "073f1a3aee8c",
+   "titre": "Google faces mounting backlash for controversial AI school policy",
+   "lien": "https://www.cbsnews.com/news/ed-markey-google-ai-search-schools/",
+   "source": "CBS News",
+   "date": "2026-11-09T20:14:20+00:00",
+   "extrait": "Google puts schools in an \"impossible position\" by blocking students from using its search platform unless AI tools are also enabled, Senator said.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "299b46164b3d",
+   "titre": "La situation des nappes phréatiques en France reste \"très préoccupante\", malgré une pluviométrie \"conforme à la normale\" en octobre",
+   "lien": "https://www.franceinfo.fr/environnement/la-situation-des-nappes-phreatiques-en-france-reste-tres-preoccupante-malgre-une-pluviometrie-conforme-a-la-normale-en-octobre_8274644.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-09T20:06:28+00:00",
+   "extrait": "Au 1er novembre, 64% des points d'observation des nappes restaient en dessous des normales, contre 66% un mois plus tôt, précise le Bureau de recherches géologiques et minières.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "052a30a5271a",
+   "titre": "Why shopping for car insurance is important now",
+   "lien": "https://www.cbsnews.com/news/why-shopping-for-car-insurance-is-important-now/",
+   "source": "CBS News",
+   "date": "2026-11-09T20:06:20+00:00",
+   "extrait": "Your current car insurance policy may no longer be your best option. Here's why it's worth comparing your options.",
+   "tags": [],
    "zone": "usa"
   },
   {
@@ -54,54 +229,6 @@
     "Conflits"
    ],
    "zone": "france"
-  },
-  {
-   "id": "252d8fe34b86",
-   "titre": "Mobilisation des lycéens et étudiants : des représentants des élèves ont quitté une réunion sur Parcoursup pour protester contre la présence de l'extrême droite",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-representants-du-mouvement-recus-par-le-premier-ministre-lundi-apres-midi_8274272.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T19:47:58+00:00",
-   "extrait": "La réception des représentants des lycéens et des étudiants par Sébastien Lecornu était suivie d'une première réunion de travail sur la réforme de la plateforme contestée, autour du Premier ministre…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "463de6cda80a",
-   "titre": "Nvidia stock slumps amid board investigation into CEO Jensen Huang",
-   "lien": "https://www.cbsnews.com/news/nvidia-jensen-huang-stock-board-investigation-spy/",
-   "source": "CBS News",
-   "date": "2026-11-09T19:46:20+00:00",
-   "extrait": "Investors are questioning whether Huang's future as Nvidia's CEO may be at risk amid allegations that he was targeted in a Chinese intelligence operation.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "dfdd7bb2e5a4",
-   "titre": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-   "lien": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-09T19:39:33+00:00",
-   "extrait": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "a539e96508e5",
-   "titre": "Massie introduces Hegseth impeachment articles, teeing up vote",
-   "lien": "https://www.cbsnews.com/news/pete-hegseth-impeachment-vote-house-thomas-massie/",
-   "source": "CBS News",
-   "date": "2026-11-09T19:38:34+00:00",
-   "extrait": "Rep. Thomas Massie on Monday introduced articles of impeachment against Defense Secretary Pete Hegseth, accusing him of waging war against Iran without congressional authorization.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
   },
   {
    "id": "f36e76f9c3d9",
@@ -128,12 +255,15 @@
   },
   {
    "id": "8456ee5312ec",
-   "titre": "EN DIRECT, mobilisation lycéenne : au lendemain des discussions avec Sébastien Lecornu, lycéens et étudiants sont appelés à manifester mardi",
+   "titre": "EN DIRECT, mobilisation lycéenne : les discussions avec Sébastien Lecornu tournent court, une grande partie des organisations lycéennes et étudiantes ont quitté Matignon",
    "lien": "https://www.lemonde.fr/politique/live/2026/11/09/en-direct-mobilisation-lyceenne-au-lendemain-des-discussions-avec-sebastien-lecornu-lyceens-et-etudiants-sont-appeles-a-manifester-mardi_6808627_823448.html",
    "source": "Le Monde",
    "date": "2026-11-09T19:29:54+00:00",
-   "extrait": "Des représentants des lycéens et des étudiants ont quitté le comité de réforme de Parcoursup, organisé lundi à Matignon, face à la « présence de l’extrême droite ».",
-   "tags": [],
+   "extrait": "Parmi les organisations de jeunesse, seuls Renouveau lycéen, l’UNI et quelques élus du Conseil national de la vie lycéenne ont choisi de rester dans une réunion à laquelle participait le premier…",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
    "zone": "france"
   },
   {
@@ -192,6 +322,18 @@
    "extrait": "The space agency is recruiting its next class of astronauts as the U.S. plans a new mission to the moon. Here's the kind of person NASA is looking for.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "7e770681b727",
+   "titre": "Millions fill Buenos Aires streets to welcome Pope Leo XIV",
+   "lien": "https://www.bbc.co.uk/news/videos/cvp8g82pled5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-09T19:09:27+00:00",
+   "extrait": "The Pope celebrated an outdoor Mass in Argentina's capital, the second stop on a 12-day tour of Latin America, just three weeks after having had surgery for lung cancer.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "monde"
   },
   {
    "id": "d8a4e7268ade",
@@ -370,18 +512,6 @@
    "date": "2026-11-09T18:08:07+00:00",
    "extrait": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
    "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "12647216fa6b",
-   "titre": "Turkey steel factory blast kills at least 16 people",
-   "lien": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-09T18:04:01+00:00",
-   "extrait": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
-   "tags": [
-    "Climat"
-   ],
    "zone": "monde"
   },
   {
@@ -637,7 +767,7 @@
    "lien": "https://www.france24.com/fr/europe/20261109-com%C3%A9dien-russell-brand-condamn%C3%A9-dix-ans-prison-viol-agressions-sexuelles",
    "source": "France 24",
    "date": "2026-11-09T17:00:01+00:00",
-   "extrait": "Acteur et homoriste devenu influenceur complotiste, le Britannique Russell Brand a été condamné lundi à dix ans de prison pour viol et agressions sexuelles par un tribunal de Londres.",
+   "extrait": "Acteur et humoriste devenu influenceur complotiste, le Britannique Russell Brand a été condamné lundi à dix ans de prison pour viol et agressions sexuelles par un tribunal de Londres.",
    "tags": [
     "Justice"
    ],
@@ -677,18 +807,6 @@
     "Sport"
    ],
    "zone": "france"
-  },
-  {
-   "id": "87181a6313bc",
-   "titre": "France accuses Iran of supermarket fridge hacking",
-   "lien": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-09T16:55:07+00:00",
-   "extrait": "The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
   },
   {
    "id": "f71d21f3cce5",
@@ -734,7 +852,7 @@
    "lien": "https://www.lemonde.fr/pixels/article/2026/11/09/cyberattaque-des-refrigerateurs-de-supermarche-la-justice-ouvre-une-enquete-contre-un-groupe-iranien-jean-noel-barrot-souhaite-des-sanctions-a-l-echelle-europeenne_6808673_4408996.html",
    "source": "Le Monde",
    "date": "2026-11-09T16:41:34+00:00",
-   "extrait": "Plus de 700 magasins avaient été ciblés par cette cyberattaque, en octobre. Les pirates avaient visé les systèmes de dégivrage, afin de faire monter la température des appareils.",
+   "extrait": "Plus de 700 magasins avaient été ciblés en octobre. Les pirates avaient visé les systèmes de dégivrage, afin de faire monter la température des appareils.",
    "tags": [
     "Justice"
    ],
@@ -1217,16 +1335,6 @@
    "source": "franceinfo",
    "date": "2026-11-09T15:09:06+00:00",
    "extrait": "D'après le média d'investigation, Olivier Parent a été recruté en 2013 par l'établissement parisien comme maître d'internat et professeur de musique, alors qu'il était déjà accusé de viol sur…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "299b46164b3d",
-   "titre": "La situation des nappes phréatiques en France reste \"très préoccupante\" malgré une pluviométrie \"conforme à la normale\" en octobre",
-   "lien": "https://www.franceinfo.fr/environnement/la-situation-des-nappes-phreatiques-en-france-reste-tres-preoccupante-malgre-une-pluviometrie-conforme-a-la-normale-en-octobre_8274644.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T15:08:59+00:00",
-   "extrait": "Au 1er novembre, 64% des points d'observation des nappes sont en dessous des normales, contre 66% il y a un mois, précise le Bureau de recherches géologiques et minières.",
    "tags": [],
    "zone": "france"
   },
@@ -3380,110 +3488,6 @@
    "extrait": "AI giant Nvidia says it has opened an investigation into its CEO and co-founder, Jensen Huang, after he admitted to having a relationship with an alleged Chinese spy. Akiko Fujita reports.",
    "tags": [
     "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "5ab4b643300f",
-   "titre": "Nvidia launches investigation into CEO's alleged relationship with Chinese spy",
-   "lien": "https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
-   "source": "NPR",
-   "date": "2026-11-09T00:17:43+00:00",
-   "extrait": "The chipmaking giant says it is looking into reports by The New York Times that its CEO, Jensen Huang, was the target of a Chinese intelligence operation.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "96d8b36dd2d1",
-   "titre": "Trump says he was kidding when he offered UFC CEO press secretary role",
-   "lien": "https://www.cbsnews.com/news/trump-offers-white-house-press-secretary-role-dana-white/",
-   "source": "CBS News",
-   "date": "2026-11-09T00:06:00+00:00",
-   "extrait": "The role of the White House press secretary has been largely vacant since Karoline Leavitt stepped aside ​in August.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "96a40d48a842",
-   "titre": "Extended Interview: President Trump on 60 Minutes",
-   "lien": "https://www.cbsnews.com/video/president-donald-trumps-extended-november-2026-60-minutes-interview/",
-   "source": "CBS News",
-   "date": "2026-11-09T00:05:14+00:00",
-   "extrait": "President Trump sat down with Ross Douthat in November 2026 to discuss Republican losses in the midterm elections, the wars in Iran and Ukraine, the economy, and more.",
-   "tags": [
-    "Politique",
-    "Économie",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "545dd4396356",
-   "titre": "Ligue 1 : Marseille s’impose à Lens et signe une cinquième victoire d’affilée, les Sang et Or s’enfoncent dans la crise",
-   "lien": "https://www.lemonde.fr/sport/article/2026/11/09/ligue-1-marseille-s-impose-a-lens-et-signe-une-cinquieme-victoire-consecutive-les-sang-et-or-s-enfoncent-dans-la-crise_6808498_3242.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T00:02:54+00:00",
-   "extrait": "Dans les autres matchs de dimanche, Lille a conforté sa place de dauphin au classement grâce à son succès contre Rennes (2-1). Lyon, totalement inoffensif, a chuté à Brest (2-0), en très grande forme.",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "bc3efa94bef6",
-   "titre": "Le Pen says France \"least racist\" country, floats expelling migrants",
-   "lien": "https://www.cbsnews.com/news/france-marine-le-pen-floats-expelling-immigrants-who-dont-assimilate-60-minutes/",
-   "source": "CBS News",
-   "date": "2026-11-09T00:00:00+00:00",
-   "extrait": "A stagnating economy has fueled protests across France in recent weeks — and is driving support for extremist politicians.",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "9c70e3969cca",
-   "titre": "French protests could benefit far-right political leader Marine Le Pen",
-   "lien": "https://www.cbsnews.com/video/france-marine-le-pen-60-minutes-video-2026-11-08/",
-   "source": "CBS News",
-   "date": "2026-11-09T00:00:00+00:00",
-   "extrait": "60 Minutes visits France to understand who and what are driving protests and interviews populist, far-right politician Marine Le Pen, who could benefit from the strife in the streets.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "d5375e1ba252",
-   "titre": "Coming up on 60 Minutes: Investigating the latest fronts in America's opioid crisis",
-   "lien": "https://www.cbsnews.com/video/synthetic-opioids-kratom-60-minutes-video-2026-11-08/",
-   "source": "CBS News",
-   "date": "2026-11-09T00:00:00+00:00",
-   "extrait": "60 Minutes investigates synthetic opioids, which the DEA calls the deadliest drug threat the U.S. has faced. Jon Wertheim also reports on legal, addictive opioids, often marketed as natural herbal…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "b1936578771c",
-   "titre": "60 Minutes Transcript: What's driving French protests",
-   "lien": "https://www.cbsnews.com/news/how-protests-could-push-france-to-political-extremes-60-minutes-transcript/",
-   "source": "CBS News",
-   "date": "2026-11-09T00:00:00+00:00",
-   "extrait": "60 Minutes visits France to understand who and what are driving protests and interviews populist, far-right politician Marine Le Pen, who could benefit from the strife in the streets.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "f340bb29d0af",
-   "titre": "10 takeaways from Trump's 60 Minutes interview",
-   "lien": "https://www.cbsnews.com/news/10-takeaways-from-trump-60-minutes-interview/",
-   "source": "CBS News",
-   "date": "2026-11-09T00:00:00+00:00",
-   "extrait": "Here are the biggest takeaways from our interview with President Trump following bruising GOP midterm losses.",
-   "tags": [
-    "Politique"
    ],
    "zone": "usa"
   }
