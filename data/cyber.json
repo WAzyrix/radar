@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-09T14:05:40+00:00",
+ "maj": "2026-11-09T15:05:43+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,6 +24,17 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "47fb58a628fd",
+   "titre": "FBI agent stole $2.5 million in crypto from hackers under investigation",
+   "lien": "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/",
+   "source": "BleepingComputer",
+   "date": "2026-11-09T14:34:03+00:00",
+   "extrait": "A former FBI agent has pleaded guilty to stealing nearly $2.5 million from the wallets of fraud victims and nation-state hackers under investigation. [...]",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
    "id": "7ef80ee6e03a",
    "titre": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
    "lien": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/",
@@ -31,6 +42,19 @@
    "date": "2026-11-09T13:28:56+00:00",
    "extrait": "The US Department of the Treasury has cut off the MEXC Global crypto exchange from the US financial system over sanctions evasion and links with cybercrime gangs. [...]",
    "tags": []
+  },
+  {
+   "id": "2c42fb617031",
+   "titre": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
+   "lien": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
+   "source": "The Hacker News",
+   "date": "2026-11-09T13:28:25+00:00",
+   "extrait": "A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep…",
+   "tags": [
+    "Faille",
+    "Fuite de données",
+    "Outil"
+   ]
   },
   {
    "id": "ab56c88bece7",
@@ -3393,30 +3417,6 @@
    "tags": [
     "Ransomware"
    ]
-  },
-  {
-   "id": "d75560f4cad5",
-   "titre": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
-   "lien": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
-   "source": "The Hacker News",
-   "date": "2026-10-28T08:15:07+00:00",
-   "extrait": "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report…",
-   "tags": [
-    "Faille",
-    "IA",
-    "Linux",
-    "Windows",
-    "Mobile"
-   ]
-  },
-  {
-   "id": "6fcf621f852d",
-   "titre": "FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering",
-   "lien": "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html",
-   "source": "The Hacker News",
-   "date": "2026-10-28T07:37:50+00:00",
-   "extrait": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a domain associated with a bulletproof hosting provider (BPH) named Virtualine. The move was in response to the service being…",
-   "tags": []
   }
  ]
 }
