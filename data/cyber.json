@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-09T07:14:33+00:00",
+ "maj": "2026-11-09T08:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "a2c922a06d73",
+   "titre": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
+   "lien": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
+   "source": "The Hacker News",
+   "date": "2026-11-09T07:05:48+00:00",
+   "extrait": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty. According to reports from Bloomberg and CNBC…",
+   "tags": [
+    "IA"
+   ]
+  },
   {
    "id": "df6a1e5a88d8",
    "titre": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
@@ -3411,17 +3422,6 @@
    "source": "CERT-FR",
    "date": "2026-10-28T00:00:00+00:00",
    "extrait": "De multiples vulnérabilités ont été découvertes dans Mitel OpenScape Endpoint Management. Elles permettent à un attaquant de provoquer une élévation de privilèges et un contournement de la politique…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "5b7d0f8be878",
-   "titre": "Vulnérabilité dans les produits Belden (28 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1407/",
-   "source": "CERT-FR",
-   "date": "2026-10-28T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans les produits Belden. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
    "tags": [
     "Faille"
    ]
