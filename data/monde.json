@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-09T21:05:40+00:00",
+ "maj": "2026-11-09T22:05:45+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,17 +22,254 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "994093ce7cec",
+   "titre": "Judge sets trial date for Charlie Kirk's accused killer",
+   "lien": "https://www.cbsnews.com/news/charlie-kirk-tyler-robinson-murder-trial-date/",
+   "source": "CBS News",
+   "date": "2026-11-09T22:05:53+00:00",
+   "extrait": "Tyler Robinson, 23, is set to stand trial on a charge of aggravated murder, which could see him face the death penalty",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "142b1467961b",
+   "titre": "Au Cameroun, le président Paul Biya convoque des législatives et municipales le 7 février",
+   "lien": "https://www.franceinfo.fr/monde/afrique/cameroun/au-cameroun-le-president-paul-biya-convoque-des-legislatives-et-municipales-le-7-fevrier_8275235.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-09T22:01:07+00:00",
+   "extrait": "Ce rendez-vous électoral sera le premier depuis la réélection de Paul Biya en octobre 2025, un résultat qui avait été contesté par l'opposition et une partie de la population.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "b39d4bdd480b",
+   "titre": "Mobilisation lycéenne : à Matignon, la première réunion sur la réforme de Parcoursup tourne court",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/09/mobilisation-lyceenne-a-matignon-la-premiere-reunion-sur-la-reforme-de-parcoursup-tourne-court_6808704_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-09T22:00:47+00:00",
+   "extrait": "Plusieurs responsables syndicaux ont quitté la réunion, dénonçant notamment la présence du syndicat étudiant UNI, ainsi que celle de Thierry Tesson, député RN du Nord, et de Gaëlle Frontoni…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "e28a56bd61ad",
+   "titre": "These House and Senate midterm races don't have winners yet",
+   "lien": "https://www.cbsnews.com/news/2026-midterm-election-house-senate-projections-toss-up/",
+   "source": "CBS News",
+   "date": "2026-11-09T21:59:28+00:00",
+   "extrait": "Democrats won sizable House and Senate majorities in the 2026 midterm elections, but the exact margins are unclear because some races haven't been projected yet. Here's where the results stand.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "3b6e020f2353",
+   "titre": "Mississippi Senate race still a toss-up; Democrat holds slim lead",
+   "lien": "https://www.cbsnews.com/news/mississippi-senate-race-results-2026-midterms/",
+   "source": "CBS News",
+   "date": "2026-11-09T21:56:09+00:00",
+   "extrait": "The Senate race in deep-red Mississippi remains unresolved, as Democrat Scott Colom has mounted a surprisingly competitive challenge to incumbent Sen. Cindy Hyde-Smith.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "ed37d32e2c4a",
+   "titre": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+   "lien": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-09T21:52:28+00:00",
+   "extrait": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "16b14e3a7e1f",
+   "titre": "Supreme Court says border wall construction can continue in west Texas",
+   "lien": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump",
+   "source": "NPR",
+   "date": "2026-11-09T21:47:39+00:00",
+   "extrait": "The Trump administration filed an emergency relief request with the high court earlier in October asking for the construction to continue while a lawsuit over the plan moves forward.",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "0892318bb51f",
+   "titre": "Aux Etats-Unis, une procédure de destitution contre le ministre de la Défense a été lancée au Congrès",
+   "lien": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-une-procedure-de-destitution-contre-le-ministre-de-la-defense-a-ete-lancee-au-congres_8275211.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-09T21:46:43+00:00",
+   "extrait": "Le député Thomas Massie dénonce notamment la guerre en Iran et la manière dont Pete Hegseth l'a menée.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "f36e76f9c3d9",
+   "titre": "Trump says he sees no reason to escalate war with Iran",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/",
+   "source": "CBS News",
+   "date": "2026-11-09T21:43:12+00:00",
+   "extrait": "President Trump told 60 Minutes the war with Iran was a \"good decision\" in the long term, despite its short-term impact.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "d8661b3dae23",
+   "titre": "Jeffries and Massie take questions after new impeachment articles introduced against Hegseth",
+   "lien": "https://www.cbsnews.com/video/jeffries-and-massie-take-questions-after-new-impeachment-articles-introduced-against-hegseth/",
+   "source": "CBS News",
+   "date": "2026-11-09T21:37:52+00:00",
+   "extrait": "Democratic House Minority Leader Hakeem Jeffries and GOP Rep. Thomas Massie spoke to reporters Monday after Massie introduced new articles of impeachment against Defense Secretary Pete Hegseth.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
    "id": "dfdd7bb2e5a4",
    "titre": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
    "lien": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-11-09T21:04:36+00:00",
+   "date": "2026-11-09T21:37:02+00:00",
    "extrait": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
    "tags": [
     "Politique",
     "Justice"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "d65380aa1f24",
+   "titre": "Key moments from ex-cop's trial in the death of Sandra Birchmore",
+   "lien": "https://www.cbsnews.com/news/matthew-farwell-trial-sandra-birchmore-key-moments/",
+   "source": "CBS News",
+   "date": "2026-11-09T21:35:12+00:00",
+   "extrait": "A jury in Massachusetts is deliberating the fate of former police officer Matthew Farwell, who is charged in the 2021 death of 23-year-old Sandra Birchmore.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "688595448966",
+   "titre": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+   "lien": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-09T21:31:49+00:00",
+   "extrait": "The ruling means prosecutors can pursue the case, meaning they could reduce charges in a potential second trial or dismiss them altogether.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "d1d0e7a0952b",
+   "titre": "Succession de Christine Lagarde à la tête de la BCE : Paris pourrait soutenir Pablo Hernandez de Cos face à Klaas Knot dans la course à la présidence",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/09/succession-de-christine-lagarde-a-la-tete-de-la-bce-paris-pourrait-soutenir-pablo-hernandez-de-cos-face-a-klaas-knot-dans-la-course-a-la-presidence_6808703_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-09T21:26:21+00:00",
+   "extrait": "Emmanuel Macron et le chancelier allemand Friedrich Merz ont évoqué ce week-end la succession de Christine Lagarde à la tête de la Banque centrale européenne. Les chefs d’Etat et de gouvernement…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "33b0cd9cd1be",
+   "titre": "Au Cameroun, le président Biya fixe au 7 février la tenue de législatives et municipales",
+   "lien": "https://www.france24.com/fr/afrique/20261109-cameroun-pr%C3%A9sident-biya-fixe-7-f%C3%A9vrier-%C3%A9lections-l%C3%A9gislatives-municipales",
+   "source": "France 24",
+   "date": "2026-11-09T21:22:49+00:00",
+   "extrait": "Le président Paul Biya a annoncé lundi convoquer des élections législatives et municipales le 7 février 2027. Un scrutin qui sera organisé dans un contexte tendu, marqué par la répression de…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "581684728dc4",
+   "titre": "Deux ans de prison avec sursis ont été requis contre le navigateur Kevin Escoffier, jugé pour agressions sexuelles",
+   "lien": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/deux-ans-de-prison-avec-sursis-ont-ete-requis-contre-le-navigateur-kevin-escoffier-juge-pour-agressions-sexuelles_8275199.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-09T21:21:46+00:00",
+   "extrait": "Le ministère public a également demandé pour le navigateur une obligation de soins et une interdiction d'exercer sa profession pour une durée de deux ans.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "463de6cda80a",
+   "titre": "Nvidia stock slumps amid board investigation into CEO Jensen Huang",
+   "lien": "https://www.cbsnews.com/news/nvidia-jensen-huang-stock-board-investigation-spy/",
+   "source": "CBS News",
+   "date": "2026-11-09T21:21:20+00:00",
+   "extrait": "Investors are questioning whether Huang's future as Nvidia's CEO may be at risk amid allegations that he was targeted in a Chinese intelligence operation.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "a539e96508e5",
+   "titre": "Massie introduces Hegseth impeachment articles, teeing up vote",
+   "lien": "https://www.cbsnews.com/news/pete-hegseth-impeachment-vote-house-thomas-massie/",
+   "source": "CBS News",
+   "date": "2026-11-09T21:21:18+00:00",
+   "extrait": "Rep. Thomas Massie on Monday introduced articles of impeachment against Defense Secretary Pete Hegseth, accusing him of waging war against Iran without congressional authorization.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "85d2e875cde0",
+   "titre": "L’éditrice de Bardella et Knafo, Lise Boëll, arrive à la tête de Grasset",
+   "lien": "https://www.lemonde.fr/livres/article/2026/11/09/l-editrice-de-bardella-et-knafo-lise-boell-arrive-a-la-tete-de-grasset_6808702_3260.html",
+   "source": "Le Monde",
+   "date": "2026-11-09T21:17:51+00:00",
+   "extrait": "La patronne de Fayard est nommée directrice générale déléguée de Grasset, sept mois après le limogeage d’Olivier Nora. Elle arrive dans une maison vidée de ses auteurs et dont les salariés…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "981dacfe5617",
+   "titre": "Augmentation du salaire minimum : Lecornu peut-il calmer la colère ?",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261109-augmentation-du-salaire-minimum-lecornu-peut-il-calmer-la-col%C3%A8re",
+   "source": "France 24",
+   "date": "2026-11-09T21:12:12+00:00",
+   "extrait": "Sébastien Lecornu a tenté de répondre à la colère sociale : le Premier ministre a annoncé une hausse du smic de 0,6%. Le salaire minimum sera porté dès le 1er décembre à 1502 euros mensuels net, ce…",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "fc4a32601c4f",
+   "titre": "Manifestations du 9 novembre à Paris : un parcours et un rassemblement statique imposés par la préfecture",
+   "lien": "https://www.franceinfo.fr/economie/greve/manifestations-du-9-novembre-a-paris-un-parcours-et-un-rassemblement-statique-imposes-mardi-par-la-prefecture_8275178.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-09T21:00:47+00:00",
+   "extrait": "Lundi soir, la préfecture de police a notamment fait savoir que le parcours déposé par le syndicat enseignant FSU était interdit, imposant comme trajet Panthéon - Place d'Italie.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
   },
   {
    "id": "18c7f2a98388",
@@ -81,16 +318,6 @@
    "zone": "france"
   },
   {
-   "id": "463de6cda80a",
-   "titre": "Nvidia stock slumps amid board investigation into CEO Jensen Huang",
-   "lien": "https://www.cbsnews.com/news/nvidia-jensen-huang-stock-board-investigation-spy/",
-   "source": "CBS News",
-   "date": "2026-11-09T20:37:29+00:00",
-   "extrait": "Investors are questioning whether Huang's future as Nvidia's CEO may be at risk amid allegations that he was targeted in a Chinese intelligence operation.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "252d8fe34b86",
    "titre": "Mobilisation des lycéens et étudiants : la réunion du comité de réforme de Parcoursup s'est achevée peu avant 21 heures",
    "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-representants-du-mouvement-recus-par-le-premier-ministre-lundi-apres-midi_8274272.html#xtor=RSS-3-[lestitres]",
@@ -99,6 +326,18 @@
    "extrait": "La réception des représentants des lycéens et des étudiants par Sébastien Lecornu était suivie d'une première réunion de travail sur la réforme de la plateforme contestée, autour du Premier ministre…",
    "tags": [
     "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "380231a2b1f3",
+   "titre": "« Je suis un simple exécutant » : les explications chaotiques du « boucher » au procès du triple narchomicide de 2020",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/09/je-suis-un-simple-executant-les-explications-chaotiques-du-boucher-au-proces-du-triple-narchomicide-de-2020_6808700_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-09T20:33:47+00:00",
+   "extrait": "S’il reconnaît avoir démembré une des victimes, Malik Kariba, l’un des cinq coaccusés au procès du triple homicide de décembre 2020, lié au trafic de drogue, assure avoir agi sur ordre, « terrifié ».",
+   "tags": [
+    "Justice"
    ],
    "zone": "france"
   },
@@ -139,19 +378,6 @@
     "Climat"
    ],
    "zone": "france"
-  },
-  {
-   "id": "a539e96508e5",
-   "titre": "Massie introduces Hegseth impeachment articles, teeing up vote",
-   "lien": "https://www.cbsnews.com/news/pete-hegseth-impeachment-vote-house-thomas-massie/",
-   "source": "CBS News",
-   "date": "2026-11-09T20:23:46+00:00",
-   "extrait": "Rep. Thomas Massie on Monday introduced articles of impeachment against Defense Secretary Pete Hegseth, accusing him of waging war against Iran without congressional authorization.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
   },
   {
    "id": "87181a6313bc",
@@ -229,19 +455,6 @@
     "Conflits"
    ],
    "zone": "france"
-  },
-  {
-   "id": "f36e76f9c3d9",
-   "titre": "Trump says he sees no reason to escalate war with Iran",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/",
-   "source": "CBS News",
-   "date": "2026-11-09T19:37:00+00:00",
-   "extrait": "President Trump told 60 Minutes the war with Iran was a \"good decision\" in the long term, despite its short-term impact.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
   },
   {
    "id": "ab461ed5ac46",
@@ -354,18 +567,6 @@
    "extrait": "Face à l’envol de la consommation d’électricité causé par les centres de données, la Norvège a annoncé, lundi 9 novembre, dans la foulée du Danemark et de la Finlande, des restrictions pour limiter…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "e28a56bd61ad",
-   "titre": "These House and Senate midterm races don't have winners yet",
-   "lien": "https://www.cbsnews.com/news/2026-midterm-election-house-senate-projections-toss-up/",
-   "source": "CBS News",
-   "date": "2026-11-09T18:52:01+00:00",
-   "extrait": "Democrats won sizable House and Senate majorities in the 2026 midterm elections, but the exact margins are unclear because some races haven't been projected yet. Here's where the results stand.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
   },
   {
    "id": "5d50f342b44b",
@@ -1101,7 +1302,7 @@
    "titre": "Russell Brand sentenced to more than 10 years for rape and sex assault",
    "lien": "https://www.cbsnews.com/video/russell-brand-sentenced-to-more-than-10-years-for-rape-and-sex-assault/",
    "source": "CBS News",
-   "date": "2026-11-09T15:56:15+00:00",
+   "date": "2026-11-09T15:56:00+00:00",
    "extrait": "Russell Brand has been sentenced to 10 and a half years in prison for raping a woman in 2009 and sexually assaulting three others. CBS News' Vlad Duthiers reports.",
    "tags": [],
    "zone": "usa"
@@ -1945,18 +2146,6 @@
    "zone": "france"
   },
   {
-   "id": "d65380aa1f24",
-   "titre": "Key moments from ex-cop's trial in the death of Sandra Birchmore",
-   "lien": "https://www.cbsnews.com/news/matthew-farwell-trial-sandra-birchmore-key-moments/",
-   "source": "CBS News",
-   "date": "2026-11-09T13:12:12+00:00",
-   "extrait": "A jury in Massachusetts is deliberating the fate of former police officer Matthew Farwell, who is charged in the 2021 death of 23-year-old Sandra Birchmore.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "c9bf49a58653",
    "titre": "Hausse du smic : \"On apporte une mauvaise réponse à un vrai problème\", réagit le président du Medef Patrick Martin",
    "lien": "https://www.franceinfo.fr/economie/pouvoir-achat/hausse-du-smic-on-apporte-une-mauvaise-reponse-a-un-vrai-probleme-reagit-le-president-du-medef-patrick-martin_8274548.html#xtor=RSS-3-[lestitres]",
@@ -2048,18 +2237,6 @@
    "extrait": "Le vainqueur de la primaire sociale-démocrate a promis, lundi, de déclarer l’« état d’urgence écologique » et d’inscrire cette préoccupation dans la Constitution. Ses propositions sur l’énergie, les…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "3b6e020f2353",
-   "titre": "Mississippi Senate race still a toss-up; Democrat holds slim lead",
-   "lien": "https://www.cbsnews.com/news/mississippi-senate-race-results-2026-midterms/",
-   "source": "CBS News",
-   "date": "2026-11-09T12:49:00+00:00",
-   "extrait": "The Senate race in deep-red Mississippi remains unresolved, as Democrat Scott Colom has mounted a surprisingly competitive challenge to incumbent Sen. Cindy Hyde-Smith.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
   },
   {
    "id": "2d41d1c8a463",
@@ -3311,185 +3488,6 @@
     "Économie"
    ],
    "zone": "france"
-  },
-  {
-   "id": "1423a0968903",
-   "titre": "Après l’incendie du « nid d’aigle » d’Hitler dans les montagnes de Bavière, un débat s’ouvre sur sa reconstruction",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/09/apres-l-incendie-du-nid-d-aigle-d-hitler-un-debat-s-ouvre-sur-sa-reconstruction_6808597_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T04:00:16+00:00",
-   "extrait": "Le feu criminel qui a endommagé en octobre la maison construite dans les années 1930 dans les Alpes de Berchtesgaden, à la frontière autrichienne, donne lieu à une réflexion sur le traitement…",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "bb1331918810",
-   "titre": "La fermeture du journal « Novaïa Gazeta », la fin d’un repère pour l’« autre Russie »",
-   "lien": "https://www.lemonde.fr/idees/article/2026/11/09/la-fermeture-de-novaia-gazeta-la-fin-d-un-repere-pour-l-autre-russie_6808564_3232.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T04:00:05+00:00",
-   "extrait": "Le journal du Prix Nobel de la paix Dmitri Mouratov cesse son existence ce lundi 9 novembre. Ses journalistes, sous la pression du Kremlin, avaient réussi à tenir à bout de bras le titre depuis les…",
-   "tags": [
-    "Économie",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "cdb96d440ada",
-   "titre": "Présidentielle 2027 : Edouard Philippe tente le pari risqué du virage à droite pour sa campagne",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/09/presidentielle-2027-edouard-philippe-tente-le-pari-risque-du-virage-a-droite-pour-sa-campagne_6808565_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T04:00:05+00:00",
-   "extrait": "En durcissant son discours sur l’immigration afin de consolider son socle électoral, l’ancien premier ministre pourrait s’aliéner les électeurs modérés dont il a besoin pour franchir le premier tour.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "b412a7bb391e",
-   "titre": "Iran downplays new U.S. task force aimed at disrupting land routes",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
-   "source": "CBS News",
-   "date": "2026-11-09T03:35:00+00:00",
-   "extrait": "The U.S. did not say whether any military action would be involved in preventing weapons technology or sanctioned items from entering Iran.",
-   "tags": [
-    "Conflits",
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "19d96a41ce30",
-   "titre": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
-   "lien": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-09T02:50:13+00:00",
-   "extrait": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "eb07f8a2974c",
-   "titre": "Le patron de Nvidia, Jensen Huang, reconnaît avoir eu une liaison extraconjugale avec une personne considérée comme une espionne de Pékin",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/09/le-patron-de-nvidia-jensen-huang-reconnait-avoir-eu-une-liaison-extraconjugale-avec-une-personne-consideree-comme-une-espionne-de-pekin_6808531_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T02:21:07+00:00",
-   "extrait": "Cette affaire aux airs de vaudeville concerne une entreprise valorisée à 4 500 milliards de dollars qui fabrique des microprocesseurs essentiels à la révolution de l’IA, au cœur de la rivalité entre…",
-   "tags": [
-    "Justice",
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c4c2bd5e8cb0",
-   "titre": "OC fishermen find cruise ship employee treading water miles off coast",
-   "lien": "https://www.cbsnews.com/news/newport-beach-fishermen-find-man-treading-water-royal-caribbean-cruise-ship-employee/",
-   "source": "CBS News",
-   "date": "2026-11-09T02:12:38+00:00",
-   "extrait": "Two Newport Beach fishermen found a Royal Caribbean cruise ship employee treading water nearly 20 miles off the coast while returning home from a fishing trip near Catalina Island on Friday.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "4354ab61832b",
-   "titre": "Supermarkets, water control systems, more hacked around U.S., world",
-   "lien": "https://www.cbsnews.com/video/supermarkets-water-control-systems-more-hacked-us-world/",
-   "source": "CBS News",
-   "date": "2026-11-09T02:09:00+00:00",
-   "extrait": "Authorities around the world are trying to find the source of a series of bomb threats and cyberattacks. Ramy Inocencio reports from Paris.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "0aaa3804534a",
-   "titre": "6 killed, 15 wounded in Poland terror attack",
-   "lien": "https://www.cbsnews.com/video/6-killed-15-wounded-poland-terror-attack/",
-   "source": "CBS News",
-   "date": "2026-11-09T02:05:45+00:00",
-   "extrait": "Six people were killed when a gunman opened fire in Poland's second-largest city of Krakow. Fifteen others were wounded in what police called a terror attack.",
-   "tags": [
-    "Conflits",
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "453fe6e24253",
-   "titre": "Trump prepares for a fight with Congress, assembling more combative White House",
-   "lien": "https://www.cbsnews.com/video/trump-prepares-fight-congress-assembling-more-combative-white-house/",
-   "source": "CBS News",
-   "date": "2026-11-09T02:05:00+00:00",
-   "extrait": "Lawmakers are returning to Washington, D.C., to a stunning new political reality, and President Trump is vowing to fight back against the new Congress after the midterm blowout. He spoke with 60…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "6269831010c3",
-   "titre": "How NASA is working to grow food on the moon",
-   "lien": "https://www.cbsnews.com/video/how-nasa-working-grow-food-moon/",
-   "source": "CBS News",
-   "date": "2026-11-09T01:13:07+00:00",
-   "extrait": "NASA plans to build a permanent lunar base in the 2030s, and keeping astronauts fed could be simpler if they could grow their own food. Mark Strassmann takes a look at how they're researching lunar…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "62fa1b8e317b",
-   "titre": "France : une conférence sociale à Matignon pour écouter la colère des syndicats et lycéens",
-   "lien": "https://www.france24.com/fr/france/20261109-france-une-conf%C3%A9rence-sociale-%C3%A0-matignon-pour-%C3%A9couter-la-col%C3%A8re-des-syndicats-et-lyc%C3%A9ens",
-   "source": "France 24",
-   "date": "2026-11-09T00:58:05+00:00",
-   "extrait": "Après des semaines de manifestations dans tout le pays, le Premier ministre Sébastien Lecornu reçoit lundi à Matignon les partenaires sociaux et les dirigeants de la jeunesse venus exposer leurs…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "a065f1e911aa",
-   "titre": "Pro-Israel and pro-Palestinian protesters clash in streets of Philadelphia",
-   "lien": "https://www.cbsnews.com/video/pro-israel-pro-palestinian-protesters-clash-streets-philadelphia/",
-   "source": "CBS News",
-   "date": "2026-11-09T00:53:33+00:00",
-   "extrait": "Pro-Israel and pro-Palestinian protesters clashed over a bike boycott against six Jewish-owned businesses. Three people were arrested. Jared Ochacher has more details.",
-   "tags": [
-    "Conflits",
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "8915290b21e2",
-   "titre": "Pope Leo on 3-country tour, weeks after lung cancer surgery",
-   "lien": "https://www.cbsnews.com/video/pope-leo-3-country-tour-weeks-after-lung-cancer-surgery/",
-   "source": "CBS News",
-   "date": "2026-11-09T00:51:33+00:00",
-   "extrait": "Pope Leo is in Argentina after wrapping up his visit to Uruguay. The 71-year-old pope arrived in Buenos Aires, where he was greeted at the airport by President Javier Milei and a military band…",
-   "tags": [
-    "Politique",
-    "Conflits",
-    "Santé"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "c3cfe0e46fc5",
-   "titre": "Nvidia probing CEO after he admitted to affair with alleged Chinese spy",
-   "lien": "https://www.cbsnews.com/video/nvidia-probing-ceo-after-admitted-affair-alleged-chinese-spy/",
-   "source": "CBS News",
-   "date": "2026-11-09T00:47:00+00:00",
-   "extrait": "AI giant Nvidia says it has opened an investigation into its CEO and co-founder, Jensen Huang, after he admitted to having a relationship with an alleged Chinese spy. Akiko Fujita reports.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
   }
  ]
 }

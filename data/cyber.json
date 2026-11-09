@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-09T21:05:40+00:00",
+ "maj": "2026-11-09T22:05:45+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,39 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "19df3c9cef04",
+   "titre": "Cybersécurité : la CNIL sanctionne dix collectivités",
+   "lien": "https://www.zataz.com/cybersecurite-la-cnil-sanctionne-dix-collectivites/",
+   "source": "Zataz",
+   "date": "2026-11-09T21:50:33+00:00",
+   "extrait": "La CNIL sanctionne dix collectivités pour des failles de cybersécurité. Amendes, RGPD, accès sensibles et NIS2.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "8d206c962ee8",
+   "titre": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+   "lien": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
+   "source": "BleepingComputer",
+   "date": "2026-11-09T21:26:25+00:00",
+   "extrait": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "b9b072a1ed15",
+   "titre": "York University breach exposed personal information dating to 2007",
+   "lien": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
+   "source": "BleepingComputer",
+   "date": "2026-11-09T21:22:31+00:00",
+   "extrait": "York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
   {
    "id": "e89c57c6d564",
    "titre": "France blames Iranian hackers for supermarket attacks that sparked fires",
@@ -3376,37 +3409,6 @@
    "tags": [
     "Faille"
    ]
-  },
-  {
-   "id": "dfd7c9d09a26",
-   "titre": "Vulnérabilité dans les produits ESET (29 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1416/",
-   "source": "CERT-FR",
-   "date": "2026-10-29T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans les produits ESET. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "3fa6a2e75bfe",
-   "titre": "Multiples vulnérabilités dans Foxit Online Services (29 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1418/",
-   "source": "CERT-FR",
-   "date": "2026-10-29T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Foxit Online Services. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "6369b7f8877c",
-   "titre": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
-   "lien": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
-   "source": "BleepingComputer",
-   "date": "2026-10-28T20:47:22+00:00",
-   "extrait": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]",
-   "tags": []
   }
  ]
 }
