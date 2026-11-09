@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-09T10:05:41+00:00",
+ "maj": "2026-11-09T11:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "62af4291e17c",
+   "titre": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
+   "lien": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
+   "source": "The Hacker News",
+   "date": "2026-11-09T10:01:21+00:00",
+   "extrait": "Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said yesterday. It has several security…",
+   "tags": [
+    "Faille"
+   ]
+  },
   {
    "id": "e8082cc54dfb",
    "titre": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
@@ -3412,17 +3423,6 @@
    "source": "CERT-FR",
    "date": "2026-10-28T00:00:00+00:00",
    "extrait": "Une vulnérabilité a été découverte dans CPython. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "6f572656b6bc",
-   "titre": "Multiples vulnérabilités dans Google Chrome (28 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1398/",
-   "source": "CERT-FR",
-   "date": "2026-10-28T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
    "tags": [
     "Faille"
    ]
