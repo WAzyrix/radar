@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-09T19:05:43+00:00",
+ "maj": "2026-11-09T20:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,13 +22,165 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "f95e0fab285b",
+   "titre": "Supreme Court allows border wall construction in Big Bend region",
+   "lien": "https://www.cbsnews.com/news/supreme-court-trump-border-wall-big-bend/",
+   "source": "CBS News",
+   "date": "2026-11-09T20:00:52+00:00",
+   "extrait": "The Supreme Court agreed to lift a district court order that temporarily stopped construction of the border wall and other infrastructure in the Big Bend sector.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "c1a8be3a6f4b",
+   "titre": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+   "lien": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-09T19:58:01+00:00",
+   "extrait": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "af64079e58e0",
+   "titre": "Solange Alexandre, ancienne résistante et cheffe de maquis, est morte à l’âge de 104 ans",
+   "lien": "https://www.lemonde.fr/disparitions/article/2026/11/09/solange-alexandre-ancienne-resistante-et-cheffe-de-maquis-est-morte-a-l-age-de-104-ans_6808698_3382.html",
+   "source": "Le Monde",
+   "date": "2026-11-09T19:56:55+00:00",
+   "extrait": "Sous le nom de code « Corlay », elle avait été agente de liaison et espionne avant de créer en 1944 le maquis « Pas-de-Bœuf » à Ruillé-sur-Loir. Elle avait terminé la guerre avec le grade de…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "252d8fe34b86",
+   "titre": "Mobilisation des lycéens et étudiants : des représentants des élèves ont quitté une réunion sur Parcoursup pour protester contre la présence de l'extrême droite",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-representants-du-mouvement-recus-par-le-premier-ministre-lundi-apres-midi_8274272.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-09T19:47:58+00:00",
+   "extrait": "La réception des représentants des lycéens et des étudiants par Sébastien Lecornu était suivie d'une première réunion de travail sur la réforme de la plateforme contestée, autour du Premier ministre…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "463de6cda80a",
+   "titre": "Nvidia stock slumps amid board investigation into CEO Jensen Huang",
+   "lien": "https://www.cbsnews.com/news/nvidia-jensen-huang-stock-board-investigation-spy/",
+   "source": "CBS News",
+   "date": "2026-11-09T19:46:20+00:00",
+   "extrait": "Investors are questioning whether Huang's future as Nvidia's CEO may be at risk amid allegations that he was targeted in a Chinese intelligence operation.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "dfdd7bb2e5a4",
+   "titre": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+   "lien": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-09T19:39:33+00:00",
+   "extrait": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "a539e96508e5",
+   "titre": "Massie introduces Hegseth impeachment articles, teeing up vote",
+   "lien": "https://www.cbsnews.com/news/pete-hegseth-impeachment-vote-house-thomas-massie/",
+   "source": "CBS News",
+   "date": "2026-11-09T19:38:34+00:00",
+   "extrait": "Rep. Thomas Massie on Monday introduced articles of impeachment against Defense Secretary Pete Hegseth, accusing him of waging war against Iran without congressional authorization.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "f36e76f9c3d9",
+   "titre": "Trump says he sees no reason to escalate war with Iran",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/",
+   "source": "CBS News",
+   "date": "2026-11-09T19:37:00+00:00",
+   "extrait": "President Trump told 60 Minutes the war with Iran was a \"good decision\" in the long term, despite its short-term impact.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "ab461ed5ac46",
+   "titre": "Watch: Massie introduces new impeachment articles against Hegseth",
+   "lien": "https://www.cbsnews.com/video/watch-massie-introduces-new-impeachment-articles-against-hegseth/",
+   "source": "CBS News",
+   "date": "2026-11-09T19:36:34+00:00",
+   "extrait": "Republican Rep. Thomas Massie on Monday introduced updated articles of impeachment against Defense Secretary Pete Hegseth. Following Massie's remarks, CBS News' Taurean Small provided additional…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "8456ee5312ec",
+   "titre": "EN DIRECT, mobilisation lycéenne : au lendemain des discussions avec Sébastien Lecornu, lycéens et étudiants sont appelés à manifester mardi",
+   "lien": "https://www.lemonde.fr/politique/live/2026/11/09/en-direct-mobilisation-lyceenne-au-lendemain-des-discussions-avec-sebastien-lecornu-lyceens-et-etudiants-sont-appeles-a-manifester-mardi_6808627_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-09T19:29:54+00:00",
+   "extrait": "Des représentants des lycéens et des étudiants ont quitté le comité de réforme de Parcoursup, organisé lundi à Matignon, face à la « présence de l’extrême droite ».",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "1894672e0920",
+   "titre": "Procès des parents \"de la petite martyre de l'A10\" : revivez la journée d'audience dédiée aux expertises psychologiques et psychiatriques des accusés",
+   "lien": "https://www.franceinfo.fr/faits-divers/martyre-de-l-a10/direct-proces-des-parents-de-la-petite-martyre-de-l-a10-la-personnalite-des-deux-accuses-au-c-ur-du-sixieme-jour-d-audience_8274377.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-09T19:29:33+00:00",
+   "extrait": "Les parents de la fillette, retrouvée morte à 4 ans le 11 août 1987, le long de l'autoroute A10, sont jugés pour \"actes de torture et de barbarie ayant entraîné la mort sans intention de la donner\"…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "712320a428bc",
-   "titre": "Le nombre d'overdoses a plus que doublé en 10 ans en France, alerte l'Office antistupéfiants",
+   "titre": "Le nombre d'overdoses mortelles a plus que doublé en 10 ans en France, alerte l'Office antistupéfiants",
    "lien": "https://www.franceinfo.fr/sante/les-overdoses-ont-plus-que-double-en-10-ans-alerte-l-office-antistupefiants_8275040.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-11-09T19:02:42+00:00",
+   "date": "2026-11-09T19:19:32+00:00",
    "extrait": "Les drogues de synthèse, très accessibles et en plein essor, représentent une menace supplémentaire, pointe l'Ofast dans une note consultée lundi par l'AFP.",
    "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "237b35a0add6",
+   "titre": "U.S. gas prices on track to fall below $4 a gallon, experts say",
+   "lien": "https://www.cbsnews.com/news/gas-prices-below-four-dollars-expert-predicts/",
+   "source": "CBS News",
+   "date": "2026-11-09T19:15:46+00:00",
+   "extrait": "Fuel prices have dropped in recent weeks amid hopes that the midterm elections would increase pressure on the U.S. and Iran to reach a peace deal.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "b4fa6f4535e6",
+   "titre": "\"Ça ne peut qu'apporter au pays\" : Emmanuel Macron félicite Teddy Riner pour sa candidature à l'élection présidentielle",
+   "lien": "https://www.franceinfo.fr/elections/presidentielle/ca-ne-peut-qu-apporter-au-pays-emmanuel-macron-felicite-teddy-riner-pour-sa-candidature-a-l-election-presidentielle_8275085.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-09T19:15:21+00:00",
+   "extrait": "Auprès de France 5, le président de la République a salué \"un grand champion\". Plus tôt lundi, le judoka français a pris de court la classe politique en se lançant dans la course à l'Elysée.",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
    "zone": "france"
   },
   {
@@ -36,10 +188,30 @@
    "titre": "NASA is recruiting new astronauts. Here are the qualifications.",
    "lien": "https://www.cbsnews.com/news/nasa-hiring-astronaut-applications-requirements-moon/",
    "source": "CBS News",
-   "date": "2026-11-09T18:56:41+00:00",
+   "date": "2026-11-09T19:11:04+00:00",
    "extrait": "The space agency is recruiting its next class of astronauts as the U.S. plans a new mission to the moon. Here's the kind of person NASA is looking for.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "d8a4e7268ade",
+   "titre": "Le maire de Fréjus, David Rachline, interdit la chasse et le foie gras et suscite l’ire du RN",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/09/le-maire-de-frejus-david-rachline-interdit-la-chasse-et-le-foie-gras-et-suscite-l-ire-du-rn_6808696_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-09T19:00:00+00:00",
+   "extrait": "L’ancien numéro trois du Rassemblement national, écarté des instances dirigeantes, promeut dans sa ville le végétarisme et un autre choix que le foie gras. Une atteinte à « l’art de vivre à la…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "c52aa075688b",
+   "titre": "Les pays nordiques freinent le déploiement des data centers",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/09/les-pays-nordiques-freinent-le-deploiement-des-data-centers_6808695_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-09T18:52:11+00:00",
+   "extrait": "Face à l’envol de la consommation d’électricité causé par les centres de données, la Norvège a annoncé, lundi 9 novembre, dans la foulée du Danemark et de la Finlande, des restrictions pour limiter…",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "e28a56bd61ad",
@@ -142,17 +314,16 @@
    "zone": "monde"
   },
   {
-   "id": "f36e76f9c3d9",
-   "titre": "Trump says he sees no reason to escalate war with Iran",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/",
-   "source": "CBS News",
-   "date": "2026-11-09T18:27:27+00:00",
-   "extrait": "President Trump told 60 Minutes the war with Iran was a \"good decision\" in the long term, despite its short-term impact.",
+   "id": "42d3de3b9b73",
+   "titre": "Quand les citoyens s’associent à la recherche en santé, des protocoles aux résultats : « Ça me plaît de pouvoir participer à quelque chose autour d’Alzheimer»",
+   "lien": "https://www.lemonde.fr/sciences/article/2026/11/09/quand-les-citoyens-s-associent-a-la-recherche-en-sante-des-protocoles-aux-resultats-ca-me-plait-de-pouvoir-participer-a-quelque-chose-autour-d-alzheimer_6808692_1650684.html",
+   "source": "Le Monde",
+   "date": "2026-11-09T18:30:05+00:00",
+   "extrait": "La recherche participative, qui consiste à inclure les citoyens dans les projets scientifiques, connaît un essor dans le domaine de la santé. Ouvrant de nouvelles perspectives aux chercheurs, elle…",
    "tags": [
-    "Politique",
-    "Conflits"
+    "Santé"
    ],
-   "zone": "usa"
+   "zone": "france"
   },
   {
    "id": "8fc2a8910314",
@@ -192,29 +363,6 @@
    "zone": "france"
   },
   {
-   "id": "dfdd7bb2e5a4",
-   "titre": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-   "lien": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-09T18:19:19+00:00",
-   "extrait": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "c1a8be3a6f4b",
-   "titre": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-   "lien": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-09T18:11:11+00:00",
-   "extrait": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
    "id": "c30ff4fbaf05",
    "titre": "Russia's leading independent newspaper closes after eviction",
    "lien": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
@@ -251,7 +399,7 @@
    "titre": "Le BHV Marais, en redressement judiciaire, contraint de fermer ses portes lundi soir",
    "lien": "https://www.lemonde.fr/economie/article/2026/11/09/le-bhv-marais-en-redressement-judiciaire-contraint-de-fermer-ses-portes-lundi-soir_6808684_3234.html",
    "source": "Le Monde",
-   "date": "2026-11-09T17:59:38+00:00",
+   "date": "2026-11-09T17:59:34+00:00",
    "extrait": "Selon le président de l’enseigne, les magasins ont dû fermer « par précaution », car une des polices d’assurance « n’a pas pu être transférée dans le cadre du redressement judiciaire en cours ».",
    "tags": [
     "Politique",
@@ -306,18 +454,6 @@
     "Politique"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "1894672e0920",
-   "titre": "Procès des parents \"de la petite martyre de l'A10\" : \"Je pense qu'elle se souvient de tout\", estime un expert psychiatre au sujet de la mère d'Inass Touloub",
-   "lien": "https://www.franceinfo.fr/faits-divers/martyre-de-l-a10/direct-proces-des-parents-de-la-petite-martyre-de-l-a10-la-personnalite-des-deux-accuses-au-c-ur-du-sixieme-jour-d-audience_8274377.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T17:43:46+00:00",
-   "extrait": "Les parents de la fillette, retrouvée morte à 4 ans le 11 août 1987, le long de l'autoroute A10, sont jugés pour \"actes de torture et de barbarie ayant entraîné la mort sans intention de la donner\"…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
   },
   {
    "id": "1b5763a835e9",
@@ -391,36 +527,12 @@
    "zone": "monde"
   },
   {
-   "id": "a539e96508e5",
-   "titre": "Hegseth could face impeachment vote this week as House returns",
-   "lien": "https://www.cbsnews.com/news/pete-hegseth-impeachment-vote-house-thomas-massie/",
-   "source": "CBS News",
-   "date": "2026-11-09T17:28:19+00:00",
-   "extrait": "Defense Secretary Pete Hegseth could face a vote on articles of impeachment in the House as early as this week.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "a80ea1805c03",
    "titre": "Conférence sociale : \"Le compte n'y est pas\", déplore Olivier Faure après les annonces du gouvernement",
    "lien": "https://www.franceinfo.fr/economie/greve/direct-conference-sociale-pour-repondre-a-la-colere-le-premier-ministre-reunit-lundi-matin-les-syndicats_8273954.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-11-09T17:28:10+00:00",
    "extrait": "Sous pression, Sébastien Lecornu a reçu les partenaires sociaux lundi matin pour tenter de répondre à la colère sociale exprimée depuis plusieurs semaines. Une hausse de 1,6% du smic le 1er décembre…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "252d8fe34b86",
-   "titre": "Mobilisation des lycéens : \"On demande l'abrogation de Parcoursup\", martèle la secrétaire générale du syndicat Les Lycéens avant une réunion avec le Premier ministre",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-representants-du-mouvement-recus-par-le-premier-ministre-lundi-apres-midi_8274272.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T17:27:58+00:00",
-   "extrait": "Sébastien Lecornu reçoit lundi après-midi les représentants des lycéens et des étudiants, dans la foulée de la conférence sociale avec les syndicats et le patronat, et avant une réunion de travail…",
    "tags": [
     "Politique"
    ],
@@ -721,16 +833,6 @@
    "zone": "france"
   },
   {
-   "id": "463de6cda80a",
-   "titre": "Nvidia stock slumps amid board investigation into CEO Jensen Huang",
-   "lien": "https://www.cbsnews.com/news/nvidia-jensen-huang-stock-board-investigation-spy/",
-   "source": "CBS News",
-   "date": "2026-11-09T16:27:07+00:00",
-   "extrait": "Investors are questioning whether Huang's future as Nvidia's CEO may be at risk amid allegations that he was targeted in a Chinese intelligence operation.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "7545189694b3",
    "titre": "Gunman who opened fire in Krakow, Poland, dies in hospital, police say",
    "lien": "https://www.cbsnews.com/video/gunman-who-opened-fire-in-krakow-poland-dies-in-hospital-police-say/",
@@ -744,16 +846,6 @@
    "zone": "usa"
   },
   {
-   "id": "198d68377424",
-   "titre": "\"Reading Rainbow\" host LeVar Burton on his new memoir",
-   "lien": "https://www.cbsnews.com/video/reading-rainbow-host-levar-burton-on-his-new-memoir/",
-   "source": "CBS News",
-   "date": "2026-11-09T16:18:32+00:00",
-   "extrait": "LeVar Burton, who hosted \"Reading Rainbow\" on PBS and starred in \"Star Trek: The Next Generation\" and ABC's \"Roots,\" sits down with \"CBS Mornings\" to talk about his new memoir, \"Take My Word For It.\"",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "845cb21c9ff1",
    "titre": "En Chine, une \"fête des célibataires\" très lucrative",
    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261109-en-chine-une-f%C3%AAte-des-c%C3%A9libataires-tr%C3%A8s-lucrative",
@@ -762,6 +854,16 @@
    "extrait": "En Chine, la fièvre acheteuse monte à l'approche du 11 novembre, date de la Journée des célibataires. En deux jours, des millions de consommateurs vont se ruer sur les promotions de cet événement…",
    "tags": [],
    "zone": "monde"
+  },
+  {
+   "id": "198d68377424",
+   "titre": "\"Reading Rainbow\" host LeVar Burton on his new memoir",
+   "lien": "https://www.cbsnews.com/video/reading-rainbow-host-levar-burton-on-his-new-memoir/",
+   "source": "CBS News",
+   "date": "2026-11-09T16:18:00+00:00",
+   "extrait": "LeVar Burton, who hosted \"Reading Rainbow\" on PBS and starred in \"Star Trek: The Next Generation\" and ABC's \"Roots,\" sits down with \"CBS Mornings\" to talk about his new memoir, \"Take My Word For It.\"",
+   "tags": [],
+   "zone": "usa"
   },
   {
    "id": "b66e741b997e",
@@ -861,6 +963,19 @@
    "date": "2026-11-09T16:00:12+00:00",
    "extrait": "Les 4 et 5 novembre, à la Cité de l’architecture et du patrimoine, architectes, ingénieurs, collectifs citoyens et élus ont réfléchi aux nouveaux usages possibles pour les édifices remarquables.",
    "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "13f64ffc71d8",
+   "titre": "Jean-Marie Guéhenno, ancien diplomate : « Les midterms sont un tournant historique pour Israël »",
+   "lien": "https://www.lemonde.fr/idees/article/2026/11/09/jean-marie-guehenno-ancien-diplomate-les-midterms-sont-un-tournant-historique-pour-israel_6808667_3232.html",
+   "source": "Le Monde",
+   "date": "2026-11-09T16:00:12+00:00",
+   "extrait": "La distance nouvelle entre les Etats-Unis et Israël, au lendemain des élections de mi-mandat, devrait contraindre l’Etat hébreu à modifier son approche avec ses voisins, explique, dans une tribune…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
    "zone": "france"
   },
   {
@@ -1280,7 +1395,7 @@
    "titre": "How to qualify for credit card debt forgiveness in 2027",
    "lien": "https://www.cbsnews.com/news/how-to-qualify-for-credit-card-debt-forgiveness-in-2027/",
    "source": "CBS News",
-   "date": "2026-11-09T14:38:43+00:00",
+   "date": "2026-11-09T14:38:00+00:00",
    "extrait": "Credit card debt forgiveness merits serious consideration for many borrowers heading into 2027. Here's how to qualify.",
    "tags": [],
    "zone": "usa"
@@ -2018,11 +2133,11 @@
   },
   {
    "id": "c598479640b6",
-   "titre": "Teddy Riner annonce être candidat à l’élection présidentielle de 2027, poussé par la « colère » sociale et l’envie de « fédérer » les Français",
+   "titre": "Teddy Riner annonce être candidat à l’élection présidentielle de 2027, Emmanuel Macron se dit « très heureux » que le judoka « s’engage dans le débat »",
    "lien": "https://www.lemonde.fr/politique/article/2026/11/09/teddy-riner-annonce-etre-candidat-a-l-election-presidentielle-pousse-par-la-colere-sociale-et-l-envie-de-federer-les-francais_6808643_823448.html",
    "source": "Le Monde",
    "date": "2026-11-09T11:11:40+00:00",
-   "extrait": "Le triple champion olympique de judo en individuel, qui dit n’être « ni de droite ni de gauche », compte aller « jusqu’au bout », sans pour autant arrêter sa carrière sportive, sa campagne débutera…",
+   "extrait": "Le triple champion olympique de judo en individuel, qui dit n’être « ni de droite ni de gauche », compte aller « jusqu’au bout », sans pour autant arrêter sa carrière sportive. Sa campagne débutera…",
    "tags": [
     "Politique",
     "Sport"
@@ -3371,131 +3486,6 @@
     "Politique"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "42b7fb785b48",
-   "titre": "President Donald Trump: The 2026 60 Minutes post-midterms interview",
-   "lien": "https://www.cbsnews.com/video/donald-trump-60-minutes-video-2026-11-08/",
-   "source": "CBS News",
-   "date": "2026-11-09T00:00:00+00:00",
-   "extrait": "In a wide-ranging conversation, President Trump discusses Republican losses in the midterms, his potential successors, the Iran war, immigration, allegations of corruption, and artificial…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "e8b4526ffefe",
-   "titre": "60 Minutes Transcript: Trump, the 2026 post-midterms interview",
-   "lien": "https://www.cbsnews.com/news/donald-trump-2026-post-midterm-elections-interview-60-minutes-transcript/",
-   "source": "CBS News",
-   "date": "2026-11-09T00:00:00+00:00",
-   "extrait": "In a wide-ranging conversation, President Trump discusses Republican losses in the midterms, his potential successors, the Iran war, immigration, allegations of corruption, and artificial…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "0b62408ece41",
-   "titre": "Full transcript: Trump on 60 Minutes",
-   "lien": "https://www.cbsnews.com/news/read-the-full-transcript-of-ross-douthats-interview-with-president-trump/",
-   "source": "CBS News",
-   "date": "2026-11-09T00:00:00+00:00",
-   "extrait": "President Trump sat down with Ross Douthat to discuss Republican losses in the midterm elections, the wars in Iran and Ukraine, the economy and more.",
-   "tags": [
-    "Politique",
-    "Économie",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "be6bf39c5f40",
-   "titre": "Trump: \"I do hate some of my enemies, and I always will\"",
-   "lien": "https://www.cbsnews.com/news/could-trump-forgive-his-opponents-60-minutes/",
-   "source": "CBS News",
-   "date": "2026-11-09T00:00:00+00:00",
-   "extrait": "Mr. Trump said he \"wouldn't be real\" if he said he could forgive his opponents, calling them \"extremely dishonest people.\"",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "ed2b409d19b9",
-   "titre": "Trump: Deportation policy might have been \"too tough\"",
-   "lien": "https://www.cbsnews.com/news/trump-says-some-of-his-immigration-policies-may-have-been-too-tough-60-minutes/",
-   "source": "CBS News",
-   "date": "2026-11-09T00:00:00+00:00",
-   "extrait": "In an interview with 60 Minutes, President Trump said his administration's deportation policy might have been \"too tough\" in pursuing immigrants with \"good jobs.\"",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "6624fb26dc13",
-   "titre": "11/8/2026: Donald Trump; France on Fire",
-   "lien": "https://www.cbsnews.com/video/60minutes-2026-11-08/",
-   "source": "CBS News",
-   "date": "2026-11-09T00:00:00+00:00",
-   "extrait": "First, President Donald Trump: The 2026 60 Minutes post-midterms interview. And, French protests may shift the political landscape.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "8ae28ca18ca3",
-   "titre": "En Argentine, le pape Léon XIV appelle les dirigeants à peser leurs mots et \"chercher des compromis\"",
-   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261108-le-pape-demande-une-%C3%A9conomie-au-service-de-la-personne",
-   "source": "France 24",
-   "date": "2026-11-08T23:52:02+00:00",
-   "extrait": "Léon XIV n'a pas mâché ses mots dimanche en Argentine lors d'une allocution prononcée devant les autorités civiles et politiques du pays, en présence du président ultralibéral Javier Milei. Le pape…",
-   "tags": [
-    "Politique",
-    "Conflits",
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "c1496ce38262",
-   "titre": "NASA is looking for astronauts to live and work on the Moon",
-   "lien": "https://www.npr.org/2026/11/08/nx-s1-6034002/nasa-astronaut-class-applications-2026",
-   "source": "NPR",
-   "date": "2026-11-08T23:36:47+00:00",
-   "extrait": "NASA needs more recruits in order to return to the moon after being gone more than half a century.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "d73561d04635",
-   "titre": "Trois policiers jugés pour la violente agression de Michel Zecler en 2020",
-   "lien": "https://www.france24.com/fr/info-en-continu/20261108-trois-policiers-jug%C3%A9s-pour-la-violente-agression-de-michel-zecler-en-2020",
-   "source": "France 24",
-   "date": "2026-11-08T23:36:01+00:00",
-   "extrait": "Trois policiers sont jugés à partir de lundi devant la cour criminelle de Paris pour le passage à tabac en novembre 2020 du producteur noir Michel Zecler, dont l'agression filmée avait choqué et…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "7476f1500e82",
-   "titre": "Trois policiers devant la justice pour le passage à tabac de Michel Zecler en 2020",
-   "lien": "https://www.france24.com/fr/france/20261108-trois-policiers-jug%C3%A9s-pour-la-violente-agression-de-michel-zecler-en-2020",
-   "source": "France 24",
-   "date": "2026-11-08T23:36:01+00:00",
-   "extrait": "Trois policiers sont jugés à partir de lundi devant la cour criminelle de Paris pour le passage à tabac en novembre 2020 du producteur noir Michel Zecler. Une affaire de violences policières qui…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
   }
  ]
 }
