@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-10T10:05:42+00:00",
+ "maj": "2026-11-10T11:05:42+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,44 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "ba7507c6f20e",
+   "titre": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
+   "lien": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
+   "source": "The Hacker News",
+   "date": "2026-11-10T10:16:51+00:00",
+   "extrait": "An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that…",
+   "tags": [
+    "Faille",
+    "Mobile"
+   ]
+  },
+  {
+   "id": "0e899e1e6c12",
+   "titre": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
+   "lien": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
+   "source": "BleepingComputer",
+   "date": "2026-11-10T10:10:20+00:00",
+   "extrait": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root…",
+   "tags": [
+    "Faille",
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "7d35c70e6708",
+   "titre": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
+   "lien": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
+   "source": "The Hacker News",
+   "date": "2026-11-10T10:07:29+00:00",
+   "extrait": "The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' Microsoft…",
+   "tags": [
+    "Fuite de données",
+    "Malware",
+    "Outil",
+    "Windows"
+   ]
+  },
   {
    "id": "8791ad63d4b7",
    "titre": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
@@ -3367,40 +3405,6 @@
    "extrait": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it…",
    "tags": [
     "IA"
-   ]
-  },
-  {
-   "id": "409f0b0486b7",
-   "titre": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
-   "lien": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
-   "source": "BleepingComputer",
-   "date": "2026-10-29T11:10:13+00:00",
-   "extrait": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "083a1ea7d205",
-   "titre": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
-   "lien": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
-   "source": "The Hacker News",
-   "date": "2026-10-29T10:44:46+00:00",
-   "extrait": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has…",
-   "tags": [
-    "CVE",
-    "Faille"
-   ]
-  },
-  {
-   "id": "cf3544e85171",
-   "titre": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
-   "lien": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
-   "source": "The Hacker News",
-   "date": "2026-10-29T10:26:33+00:00",
-   "extrait": "GitHub has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time. \"The firewall inspects both metadata…",
-   "tags": [
-    "Outil"
    ]
   }
  ]
