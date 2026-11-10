@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-10T07:05:42+00:00",
+ "maj": "2026-11-10T07:46:59+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,40 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "9844bc61915e",
+   "titre": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
+   "lien": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
+   "source": "The Hacker News",
+   "date": "2026-11-10T06:52:54+00:00",
+   "extrait": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE…",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
+  },
+  {
+   "id": "79fe4fc65cdf",
+   "titre": "Platypus - L'ornithorynque qui vous fait cligner des yeux",
+   "lien": "https://korben.info/platypus-cligner-des-yeux-ecran.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-10T06:49:52+00:00",
+   "extrait": "Platypus Companion fait passer quelques secondes un ornithorynque en bas de l'écran, sur Mac et Windows, pour vous rappeler de cligner des yeux, de vous étirer ou de faire une pause. Version…",
+   "tags": [
+    "Windows"
+   ]
+  },
+  {
+   "id": "329980cc6fad",
+   "titre": "N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits",
+   "lien": "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html",
+   "source": "The Hacker News",
+   "date": "2026-11-10T06:44:36+00:00",
+   "extrait": "N-able said it has taken N-central Hosted Environments offline and is urging on-premises customers to shut down their servers until further notice following the public disclosure of over 30…",
+   "tags": [
+    "Faille"
+   ]
+  },
   {
    "id": "b579a343e6b6",
    "titre": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
@@ -3371,40 +3405,6 @@
    "source": "CERT-FR",
    "date": "2026-10-29T00:00:00+00:00",
    "extrait": "Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer une élévation de privilèges.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "dc24dfcaf203",
-   "titre": "Multiples vulnérabilités dans Veeam Backup for Microsoft 365 (29 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1411/",
-   "source": "CERT-FR",
-   "date": "2026-10-29T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Veeam Backup for Microsoft 365. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une…",
-   "tags": [
-    "Faille",
-    "Windows"
-   ]
-  },
-  {
-   "id": "e8b62f828e67",
-   "titre": "Multiples vulnérabilités dans Elastic Cloud Enterprise (29 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1419/",
-   "source": "CERT-FR",
-   "date": "2026-10-29T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Elastic Cloud Enterprise. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "88a83cc3d83a",
-   "titre": "Vulnérabilité dans les produits Kaspersky (29 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1417/",
-   "source": "CERT-FR",
-   "date": "2026-10-29T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans les produits Kaspersky. Elle permet à un attaquant de provoquer un déni de service.",
    "tags": [
     "Faille"
    ]

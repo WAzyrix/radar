@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-10T07:05:42+00:00",
+ "maj": "2026-11-10T07:46:59+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,22 +22,95 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "8f25b241e0b5",
+   "titre": "Infox sur Brigitte Macron : nouvelle manœuvre judiciaire du couple présidentiel contre Candace Owens",
+   "lien": "https://www.france24.com/fr/france/20261110-infox-brigitte-macron-nouvelle-man%C5%93uvre-judiciaire-couple-pr%C3%A9sidentiel-contre-candace-owens-influenceuse-transgenre",
+   "source": "France 24",
+   "date": "2026-11-10T07:46:00+00:00",
+   "extrait": "Après un premier revers procédural aux États-Unis, les époux Macron ont relancé les poursuites contre l'influenceuse américaine Candace Owens, dont les vidéos consacrées à la Première dame ont…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "a1d7f2c3206c",
+   "titre": "La France \"ne s'interdit rien\" dans la riposte contre l'Iran, accusé d'être à l'origine de la cyberattaque contre des frigos connectés en octobre",
+   "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/la-france-ne-s-interdit-rien-dans-la-riposte-contre-l-iran-accuse-d-etre-a-l-origine-de-la-cyberattaque-contre-des-frigos-connectes-affirme-jean-noel-barrot_8275883.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T07:24:24+00:00",
+   "extrait": "Invité de franceinfo mardi, le ministre des Affaires étrangères, Jean-Noël Barrot, a promis que des sanctions seront prises contre les Gardiens de la Révolution. Le chef de la diplomatie française a…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "eca27af82f31",
+   "titre": "\"On ne rentrera jamais dans une salle avec l'extrême droite\" : la première réunion du comité de réforme de Parcoursup tourne court",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-ne-rentrera-jamais-dans-une-salle-avec-l-extreme-droite-la-premiere-reunion-du-comite-de-reforme-parcoursup-tourne-court_8275253.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T07:19:43+00:00",
+   "extrait": "Plusieurs représentants de l'intersyndicale lycéenne et étudiante ont quitté lundi soir cette réunion organisée à Matignon autour du Premier ministre.",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "ae3da607dd4b",
+   "titre": "Le chômage se stabilise au troisième trimestre en France, à 8,2 %",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/10/le-chomage-se-stabilise-au-troisieme-trimestre-a-8-2_6808794_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-10T07:16:03+00:00",
+   "extrait": "Après six trimestres de hausse consécutive, le taux de chômage reflue légèrement, à – 0,1 point au troisième trimestre 2026 selon l’Insee. Une statistique à relativiser, toutefois, car sur un an, il…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "670674f2267c",
+   "titre": "Le taux de chômage en France reste quasiment stable au troisième trimestre, à 8,2%",
+   "lien": "https://www.franceinfo.fr/economie/emploi/chomage/le-taux-de-chomage-en-france-reste-quasiment-stable-au-troisieme-trimestre-a-8-2-selon-l-insee_8275856.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T07:14:10+00:00",
+   "extrait": "Sur un an, donc en comparaison avec le troisième trimestre 2025, le taux de chômage est en revanche en hausse de 0,4 point, a annoncé l'Insee mardi.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "a3a767f226f9",
+   "titre": "T. Riner candidat à la présidentielle, ou quand tout le monde a un avis sur tout et surtout un avis",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261110-t-riner-candidat-%C3%A0-la-pr%C3%A9sidentielle-ou-quand-tout-le-monde-a-un-avis-sur-tout-et-surtout-un-avis",
+   "source": "France 24",
+   "date": "2026-11-10T07:09:06+00:00",
+   "extrait": "A la Une de la presse, ce mardi 10 novembre, les réactions plus que mitigées, en France, à l’annonce de la revalorisation du SMIC, le salaire minimum. La perplexité d’une partie de la presse face à…",
+   "tags": [
+    "Politique",
+    "Économie",
+    "Sport"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "fc4a32601c4f",
+   "titre": "Manifestations du 10 novembre à Paris : un parcours et un rassemblement statique imposés par la préfecture",
+   "lien": "https://www.franceinfo.fr/economie/greve/manifestations-du-9-novembre-a-paris-un-parcours-et-un-rassemblement-statique-imposes-mardi-par-la-prefecture_8275178.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T07:06:33+00:00",
+   "extrait": "Lundi soir, la préfecture de police a notamment fait savoir que le parcours déposé par le syndicat enseignant FSU était interdit, imposant un trajet entre le Panthéon et la place d'Italie.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "e9dd35fea20b",
    "titre": "Manifestations du 10 novembre : étudiants, lycéens et enseignants appellent à une nouvelle journée d'action mardi",
    "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-10-novembre-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-d-action-mardi_8275703.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-11-10T07:00:09+00:00",
    "extrait": "Les discussions avec l'exécutif sont dans l'impasse, près de deux mois après le début du mouvement de contestation de la jeunesse.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "670674f2267c",
-   "titre": "Le taux de chômage en France reste quasiment stable au troisième trimestre à 8,2 %, selon l'Insee",
-   "lien": "https://www.franceinfo.fr/economie/emploi/chomage/le-taux-de-chomage-en-france-reste-quasiment-stable-au-troisieme-trimestre-a-8-2-selon-l-insee_8275856.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-10T06:51:01+00:00",
-   "extrait": "Sur un an, donc en comparaison avec le troisième trimestre 2025, le taux de chômage est en revanche en hausse de 0,4 point.",
    "tags": [],
    "zone": "france"
   },
@@ -113,11 +186,11 @@
   },
   {
    "id": "402dcb19ddb2",
-   "titre": "Guerre en Ukraine : cinq choses à savoir sur les pourparlers d'Abou Dhabi",
+   "titre": "Guerre en Ukraine : cinq choses à savoir sur les pourparlers d'Abu Dhabi",
    "lien": "https://www.france24.com/fr/moyen-orient/20261110-guerre-ukraine-cinq-choses-savoir-pourparlers-abou-dhabi-russie-%C3%A9tats-unis-trump",
    "source": "France 24",
    "date": "2026-11-10T06:19:35+00:00",
-   "extrait": "Trouver une issue à la guerre qui oppose depuis plus de quatre ans la Russie à l'Ukraine : voilà l'ambitieux objectif des pourparlers de paix qui s'ouvrent mardi à Abou Dhabi, aux Émirats arabes…",
+   "extrait": "Trouver une issue à la guerre qui oppose depuis plus de quatre ans la Russie à l'Ukraine : voilà l'ambitieux objectif des pourparlers de paix qui s'ouvrent mardi à Abu Dhabi, aux Émirats arabes…",
    "tags": [
     "Conflits"
    ],
@@ -254,18 +327,6 @@
    "zone": "monde"
   },
   {
-   "id": "fc4a32601c4f",
-   "titre": "Manifestations du 10 novembre à Paris : un parcours et un rassemblement statique imposés par la préfecture",
-   "lien": "https://www.franceinfo.fr/economie/greve/manifestations-du-9-novembre-a-paris-un-parcours-et-un-rassemblement-statique-imposes-mardi-par-la-prefecture_8275178.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-10T05:18:51+00:00",
-   "extrait": "Lundi soir, la préfecture de police a notamment fait savoir que le parcours déposé par le syndicat enseignant FSU était interdit, imposant comme trajet Panthéon - Place d'Italie.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "5fb19c6dacac",
    "titre": "Bain de foule, bonnets et petits nouveaux : les Bleus ont ouvert le deuxième chapitre de l'ère Zinédine Zidane, à Clairefontaine",
    "lien": "https://www.franceinfo.fr/sports/foot/equipe-de-france/reportage-bain-de-foule-bonnets-et-petits-nouveaux-les-bleus-ont-ouvert-le-deuxieme-chapitre-de-l-ere-zinedine-zidane-a-clairefontaine_8275187.html#xtor=RSS-3-[lestitres]",
@@ -330,8 +391,8 @@
    "titre": "Au procès de Kevin Escoffier pour agression sexuelle, le skippeur évoque son caractère « intense » et ses « besoins sexuels »",
    "lien": "https://www.lemonde.fr/societe/article/2026/11/10/au-proces-de-kevin-escoffier-pour-agression-sexuelle-le-skippeur-evoque-son-caractere-intense-et-ses-besoins-sexuels_6808786_3224.html",
    "source": "Le Monde",
-   "date": "2026-11-10T05:00:21+00:00",
-   "extrait": "L’ancien navigateur était renvoyé devant le tribunal judiciaire de Lorient, lundi, pour des faits d’agression sexuelle sur quatre femmes. Le parquet a requis deux ans de prison avec sursis dans deux…",
+   "date": "2026-11-10T05:00:19+00:00",
+   "extrait": "L’ancien navigateur était renvoyé devant le tribunal judiciaire de Lorient, lundi 9 novembre, pour des faits d’agression sexuelle sur quatre femmes. Le parquet a requis deux ans de prison avec…",
    "tags": [
     "Justice"
    ],
@@ -351,11 +412,11 @@
   },
   {
    "id": "8b32b1a43f3f",
-   "titre": "Vladimir Medinski, le négociateur du Kremlin aux pourparlers d’Abou Dhabi, n’est pas enclin au compromis",
+   "titre": "Vladimir Medinski, ce négociateur du Kremlin aux pourparlers d’Abou Dhabi dont l’idée fixe est d’incorporer l’Ukraine à la Russie",
    "lien": "https://www.lemonde.fr/international/article/2026/11/10/heraut-du-recit-imperialiste-russe-vladimir-medinski-le-negociateur-du-kremlin-aux-pourparlers-d-abou-dhabi-n-est-pas-enclin-au-compromis_6808782_3210.html",
    "source": "Le Monde",
    "date": "2026-11-10T04:34:32+00:00",
-   "extrait": "La désignation de ce propagandiste à la tête de la délégation russe aux discussions trilatérales – Russie, Ukraine, Etats-Unis – prévues mardi 10 et mercredi 11 aux Emirats arabes unis n’est pas un…",
+   "extrait": "La désignation de ce propagandiste à la tête de la délégation russe aux discussions trilatérales – Russie, Ukraine, Etats-Unis –, prévues mardi 10 et mercredi 11 aux Emirats arabes unis, n’est pas…",
    "tags": [
     "Conflits"
    ],
@@ -416,18 +477,6 @@
    "zone": "france"
   },
   {
-   "id": "ad19f21d8ee2",
-   "titre": "Comment on a redonné vie à des variétés locales de blé capables de s’adapter au changement climatique",
-   "lien": "https://www.lemonde.fr/chaleur-humaine/article/2026/11/10/comment-on-a-redonne-vie-a-des-varietes-locales-de-ble-capables-de-s-adapter-au-changement-climatique_6808772_6125299.html",
-   "source": "Le Monde",
-   "date": "2026-11-10T04:00:07+00:00",
-   "extrait": "Avec la série « On avance », « Le Monde » part à la rencontre de personnes qui agissent collectivement pour le climat et la biodiversité. Dans les Hauts-de-France, un groupe de paysans, meuniers et…",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "8491dda495ad",
    "titre": "Depuis le G7 à Paris, l’Europe s’inquiète des plans américains pour l’Ukraine",
    "lien": "https://www.lemonde.fr/international/article/2026/11/10/depuis-le-g7-a-paris-l-europe-s-inquiete-des-plans-americains-pour-l-ukraine_6808771_3210.html",
@@ -437,6 +486,18 @@
    "tags": [
     "Politique",
     "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "ad19f21d8ee2",
+   "titre": "Comment on a redonné vie à des variétés locales de blé capables de s’adapter au changement climatique",
+   "lien": "https://www.lemonde.fr/chaleur-humaine/article/2026/11/10/comment-on-a-redonne-vie-a-des-varietes-locales-de-ble-capables-de-s-adapter-au-changement-climatique_6808772_6125299.html",
+   "source": "Le Monde",
+   "date": "2026-11-10T04:00:02+00:00",
+   "extrait": "Avec la série « On avance », « Le Monde » part à la rencontre de personnes qui agissent collectivement pour le climat et la biodiversité. Dans les Hauts-de-France, un groupe de paysans, meuniers et…",
+   "tags": [
+    "Climat"
    ],
    "zone": "france"
   },
@@ -526,12 +587,13 @@
   },
   {
    "id": "4ff199de1a42",
-   "titre": "Les électeurs de Californie rejettent une taxe de 5 % des milliardaires conçue notamment par l’économiste Gabriel Zucman",
+   "titre": "Taxe Zucman : les électeurs de Californie rejettent une taxation de 5 % des milliardaires après un long dépouillement",
    "lien": "https://www.lemonde.fr/international/article/2026/11/10/etats-unis-les-electeurs-de-californie-rejettent-un-avatar-de-la-taxe-zucman-sur-les-milliardaires_6808768_3210.html",
    "source": "Le Monde",
    "date": "2026-11-10T02:57:41+00:00",
-   "extrait": "La « proposition 40 », qui était soumise à référendum lors des midterms aux Etats-Unis, a été repoussée selon les résultats proclamés dans la nuit de lundi à mardi. Après la victoire des démocrates…",
+   "extrait": "La « proposition 40 », qui était soumise à référendum lors des midterms aux Etats-Unis, a été repoussée, selon les résultats proclamés dans la nuit de lundi à mardi. Après la victoire des démocrates…",
    "tags": [
+    "Politique",
     "Économie"
    ],
    "zone": "france"
@@ -1052,7 +1114,7 @@
   },
   {
    "id": "d3a5939105b8",
-   "titre": "Donald Trump évoque un « élan positif » vers un accord de paix avec l’Iran après sa rencontre avec le premier ministre du Qatar",
+   "titre": "Donald Trump dit que la guerre contre l’Iran était « militairement terminée » après sa rencontre avec le premier ministre du Qatar",
    "lien": "https://www.lemonde.fr/international/article/2026/11/10/donald-trump-evoque-un-elan-positif-vers-un-accord-de-paix-avec-l-iran-apres-sa-rencontre-avec-le-premier-ministre-du-qatar_6808708_3210.html",
    "source": "Le Monde",
    "date": "2026-11-09T23:26:10+00:00",
@@ -1206,19 +1268,6 @@
    "zone": "usa"
   },
   {
-   "id": "eca27af82f31",
-   "titre": "\"On ne rentrera jamais dans une salle avec l'extrême droite\" : la première réunion du comité de réforme Parcoursup tourne court",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-ne-rentrera-jamais-dans-une-salle-avec-l-extreme-droite-la-premiere-reunion-du-comite-de-reforme-parcoursup-tourne-court_8275253.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T22:37:56+00:00",
-   "extrait": "Plusieurs représentants de l'intersyndicale lycéenne et étudiante ont quitté lundi soir cette réunion organisée à Matignon autour du Premier ministre.",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "b8f2116afa3c",
    "titre": "Sécurité de l’IA : l’Elysée fait signer un « appel de Paris » à huit pays ainsi qu’à Sam Altman, Dario Amodei et Arthur Mensch",
    "lien": "https://www.lemonde.fr/economie/article/2026/11/09/securite-de-l-ia-l-elysee-fait-signer-un-appel-de-paris-a-huit-pays-ainsi-qu-a-sam-altman-dario-amodei-et-arthur-mensch_6808706_3234.html",
@@ -1332,6 +1381,18 @@
     "Justice"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "1fe74a880340",
+   "titre": "La France accuse l’Iran de la cyberattaque contre des frigos de supermarchés",
+   "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/la-france-accuse-l-iran-de-la-cyberattaque-contre-des-frigos-de-supermarches_8275238.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-09T22:04:07+00:00",
+   "extrait": "La France accuse les Gardiens de la Révolution iraniens d’être à l’origine de la cyberattaque de frigos, survenue en octobre dernier dans plus de 700 supermarchés. Une enquête a été ouverte.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
   },
   {
    "id": "ea1264116709",
@@ -1595,7 +1656,7 @@
    "lien": "https://www.lemonde.fr/societe/article/2026/11/09/je-suis-un-simple-executant-les-explications-chaotiques-du-boucher-au-proces-du-triple-narchomicide-de-2020_6808700_3224.html",
    "source": "Le Monde",
    "date": "2026-11-09T20:33:47+00:00",
-   "extrait": "S’il reconnaît avoir démembré une des victimes, Malik Kariba, l’un des cinq coaccusés au procès du triple homicide de décembre 2020, lié au trafic de drogue, assure avoir agi sur ordre, « terrifié ».",
+   "extrait": "S’il reconnaît avoir démembré l’une des victimes, Malik Kariba, un des cinq coaccusés au procès du triple homicide de décembre 2020, lié au trafic de drogue, assure avoir agi sur ordre, « terrifié ».",
    "tags": [
     "Justice"
    ],
@@ -1916,11 +1977,11 @@
   },
   {
    "id": "22355ccb33d9",
-   "titre": "COP31: les nations insulaires du Pacifique entre peur et espoir",
+   "titre": "COP31 : les nations insulaires du Pacifique entre peur et espoir",
    "lien": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261109-cop31-les-nations-insulaires-du-pacifique-entre-peur-et-espoir",
    "source": "France 24",
    "date": "2026-11-09T18:35:12+00:00",
-   "extrait": "La COP31 Climat s'est ouverte ce lundi à Antalya. Elle est co-présidée par la Turquie et l'Australie, qui a voulu s'associer aux nations insulaires du Pacifique, dont la survie est menacée par la…",
+   "extrait": "La COP31 Climat s'est ouverte, lundi, à Antalya. Elle est co-présidée par la Turquie et l'Australie, qui a voulu s'associer aux nations insulaires du Pacifique, dont la survie est menacée par la…",
    "tags": [
     "Climat"
    ],
@@ -3419,66 +3480,6 @@
     "Économie"
    ],
    "zone": "france"
-  },
-  {
-   "id": "24abf47ff6b4",
-   "titre": "France : que retenir de la conférence sociale tenue par Sébastien Lecornu ?",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261109-france-que-retenir-de-la-conf%C3%A9rence-sociale-tenue-par-s%C3%A9bastien-lecornu",
-   "source": "France 24",
-   "date": "2026-11-09T13:00:34+00:00",
-   "extrait": "Le ministre du Travail Jean-Pierre Farandou a annoncé lundi que le Smic allait être augmenté de 1,6 % dès le 1er décembre pour être porté à 1.502 euros net environ, soit une augmentation mensuelle…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "2e255871d2a5",
-   "titre": "Deux manifestantes portent plainte après avoir été blessées à Marseille le 17 octobre",
-   "lien": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/des-blessures-de-guerre-deux-manifestantes-portent-plainte-apres-avoir-ete-blessees-a-marseille-des-femmes-mutilees-par-des-grenades-le-17-octobre-3446523.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T13:00:10+00:00",
-   "extrait": "Âgées de 21, 31 ans, deux femmes qui ont participé à la manifestation du 17 octobre à Marseille portent plainte ce lundi 9 novembre après avoir été grièvement blessées par des grenades lancées par…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "236864d34f94",
-   "titre": "REPLAY - Lecornu annonce une hausse du salaire minimum de 1,6 %",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261109-replay-lecornu-annonce-une-hausse-du-salaire-minimum-de-1-6",
-   "source": "France 24",
-   "date": "2026-11-09T12:59:59+00:00",
-   "extrait": "Sous pression des manifestants, le Premier ministre Sébastien Lecornu a reçu lundi matin à Matignon les représentants du patronat et des syndicats du secteur privé afin d'apporter des \"réponses…",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "206095d33834",
-   "titre": "France : réunion à Paris des ministres du G7",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261109-france-r%C3%A9union-%C3%A0-paris-des-ministres-du-g7",
-   "source": "France 24",
-   "date": "2026-11-09T12:57:56+00:00",
-   "extrait": "Une réunion des ministres des ⁠Affaires étrangères des ​pays du G7 prévue ce lundi à Paris va permettre aux alliés de Washington d'évaluer si le revers subi par Donald Trump ​lors des élections de…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "166b21e3adb8",
-   "titre": "Trump says U.S. took a \"giant step back in history\" with midterm results",
-   "lien": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
-   "source": "CBS News",
-   "date": "2026-11-09T12:54:43+00:00",
-   "extrait": "President Trump on Sunday said the U.S. \"took a giant step back in history\" as his White House continued to roil from his post-midterm shakeup",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
   }
  ]
 }
