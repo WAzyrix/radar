@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-10T06:05:42+00:00",
+ "maj": "2026-11-10T07:05:42+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,27 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "b579a343e6b6",
+   "titre": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
+   "lien": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
+   "source": "The Hacker News",
+   "date": "2026-11-10T06:31:42+00:00",
+   "extrait": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added four security flaws impacting GPUStack, SignalWire FreeSwitch, OpenBSD OpenSSH, and IBM Aspera Faspex to its Known…",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
+  },
+  {
+   "id": "51ffc9a689bb",
+   "titre": "Nylon - Le VPN WireGuard qui trouve seul son chemin",
+   "lien": "https://korben.info/nylon-vpn-mesh-wireguard.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-10T06:21:51+00:00",
+   "extrait": "Nylon relie vos machines en WireGuard sans serveur de coordination : chaque nœud relaie pour les autres et le trafic suit la route de plus faible latence. À condition d'avoir un bout joignable par…",
+   "tags": []
+  },
   {
    "id": "071f266d6e16",
    "titre": "DockEcho - Un Dock sur chacun de vos écrans Mac",
@@ -3384,28 +3405,6 @@
    "source": "CERT-FR",
    "date": "2026-10-29T00:00:00+00:00",
    "extrait": "Une vulnérabilité a été découverte dans les produits Kaspersky. Elle permet à un attaquant de provoquer un déni de service.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "c1b6db841a9e",
-   "titre": "Multiples vulnérabilités dans PostgreSQL Anonymizer (29 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1413/",
-   "source": "CERT-FR",
-   "date": "2026-10-29T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans PostgreSQL Anonymizer. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "2b03bc7db98c",
-   "titre": "Multiples vulnérabilités dans les produits Juniper Networks (29 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1414/",
-   "source": "CERT-FR",
-   "date": "2026-10-29T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une…",
    "tags": [
     "Faille"
    ]
