@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-09T23:05:42+00:00",
+ "maj": "2026-11-10T00:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "48d9ef3d98d6",
+   "titre": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
+   "lien": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
+   "source": "BleepingComputer",
+   "date": "2026-11-09T23:52:12+00:00",
+   "extrait": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee…",
+   "tags": [
+    "Ransomware"
+   ]
+  },
   {
    "id": "fb65eccd7583",
    "titre": "SEGA newsletter data breach exposes 2.2 million email addresses",
@@ -3395,17 +3406,6 @@
    "source": "CERT-FR",
    "date": "2026-10-29T00:00:00+00:00",
    "extrait": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "1d478ff841c7",
-   "titre": "Multiples vulnérabilités dans WordPress (29 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1420/",
-   "source": "CERT-FR",
-   "date": "2026-10-29T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans WordPress. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à…",
    "tags": [
     "Faille"
    ]
