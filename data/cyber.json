@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-10T18:05:41+00:00",
+ "maj": "2026-11-10T19:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "33bc3cf0f92e",
+   "titre": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
+   "lien": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
+   "source": "BleepingComputer",
+   "date": "2026-11-10T18:33:26+00:00",
+   "extrait": "Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
+   "tags": [
+    "Faille",
+    "Windows"
+   ]
+  },
   {
    "id": "82b5e1a648c0",
    "titre": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
@@ -3383,17 +3395,6 @@
    "source": "CERT-FR",
    "date": "2026-10-30T00:00:00+00:00",
    "extrait": "Une vulnérabilité a été découverte dans les produits GitLab. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "6b1f0a190440",
-   "titre": "Vulnérabilité dans Ruby on Rails trilogy (30 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1424/",
-   "source": "CERT-FR",
-   "date": "2026-10-30T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans Ruby on Rails trilogy. Elle permet à un attaquant de provoquer une injection SQL (SQLi).",
    "tags": [
     "Faille"
    ]
