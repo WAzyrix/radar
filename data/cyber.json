@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-10T05:05:39+00:00",
+ "maj": "2026-11-10T06:05:42+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "071f266d6e16",
+   "titre": "DockEcho - Un Dock sur chacun de vos écrans Mac",
+   "lien": "https://korben.info/dockecho-dock-macos-chaque-ecran.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-10T05:44:55+00:00",
+   "extrait": "DockEcho pose une copie synchronisée du Dock de macOS sur chaque écran externe, avec vos réglages. Open source, sous licence MIT, à compiler soi-même.",
+   "tags": [
+    "Outil"
+   ]
+  },
   {
    "id": "48d9ef3d98d6",
    "titre": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
@@ -3395,17 +3406,6 @@
    "source": "CERT-FR",
    "date": "2026-10-29T00:00:00+00:00",
    "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "457d77ef26f6",
-   "titre": "Vulnérabilité dans Mattermost Server (29 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1409/",
-   "source": "CERT-FR",
-   "date": "2026-10-29T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
    "tags": [
     "Faille"
    ]
