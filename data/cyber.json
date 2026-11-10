@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-10T09:05:40+00:00",
+ "maj": "2026-11-10T10:05:42+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,39 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "8791ad63d4b7",
+   "titre": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
+   "lien": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
+   "source": "BleepingComputer",
+   "date": "2026-11-10T10:04:32+00:00",
+   "extrait": "The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations. [...]",
+   "tags": [
+    "Fuite de données",
+    "Malware",
+    "Windows"
+   ]
+  },
+  {
+   "id": "ce0b470d4dea",
+   "titre": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
+   "lien": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
+   "source": "The Hacker News",
+   "date": "2026-11-10T10:02:40+00:00",
+   "extrait": "Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score. Three are in the SAP…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "e56a3763b149",
+   "titre": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
+   "lien": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
+   "source": "The Hacker News",
+   "date": "2026-11-10T09:08:20+00:00",
+   "extrait": "An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran's Islamic Revolutionary Guard Corps (IRGC), the French government said…",
+   "tags": []
+  },
   {
    "id": "7e1f9b33c691",
    "titre": "Google patches eighth Chrome zero-day exploited in attacks this year",
@@ -3368,45 +3401,6 @@
    "extrait": "GitHub has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time. \"The firewall inspects both metadata…",
    "tags": [
     "Outil"
-   ]
-  },
-  {
-   "id": "9ac8296dadd7",
-   "titre": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
-   "lien": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
-   "source": "The Hacker News",
-   "date": "2026-10-29T09:05:39+00:00",
-   "extrait": "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab released a fix, Alpine Linux said on 28 October. The flaw…",
-   "tags": [
-    "CVE",
-    "Faille",
-    "Linux"
-   ]
-  },
-  {
-   "id": "aabd8e14b270",
-   "titre": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
-   "lien": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
-   "source": "The Hacker News",
-   "date": "2026-10-29T08:24:22+00:00",
-   "extrait": "Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network. The malware, called KeyDrift, is…",
-   "tags": [
-    "Faille",
-    "Fuite de données",
-    "Malware"
-   ]
-  },
-  {
-   "id": "e91f33b06ca8",
-   "titre": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
-   "lien": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
-   "source": "The Hacker News",
-   "date": "2026-10-29T06:22:33+00:00",
-   "extrait": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after…",
-   "tags": [
-    "CVE",
-    "Faille",
-    "Fuite de données"
    ]
   }
  ]
