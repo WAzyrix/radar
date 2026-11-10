@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-10T15:05:44+00:00",
+ "maj": "2026-11-10T16:05:42+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,16 +22,428 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "e05ecd22f34d",
+   "titre": "\"Papa est enfermé\" : le carnet retrouvé d’un civil interné en France pendant la Grande Guerre",
+   "lien": "https://www.france24.com/fr/france/20261110-premiere-guerre-mondiale-france-internement-etrangers-ennemis-camps-immigration",
+   "source": "France 24",
+   "date": "2026-11-10T16:01:45+00:00",
+   "extrait": "À l’occasion du 11-Novembre, France 24 vous raconte l’histoire de Samuel Gunsberg, imprimeur né à Budapest et installé en France en l'an 1900, interné dès 1914 comme \"sujet ennemi\". Son carnet…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "067b76bb44d0",
+   "titre": "Le nouveau Parlement israélien siège pour la première fois, le président Isaac Herzog appelle au compromis pour former un gouvernement",
+   "lien": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/en-israel-le-president-isaac-herzog-appelle-au-compromis-pour-former-un-gouvernement-en-inaugurant-le-nouveau-parlement_8276426.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T16:00:50+00:00",
+   "extrait": "L'investiture des députés intervient en pleine bataille politique entre le camp du centriste Gadi Eisenkot, chargé de former un gouvernement, et celui du Premier ministre sortant Benyamin…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "f36e76f9c3d9",
+   "titre": "Trump says Iran war at \"status quo,\" warns U.S. \"locked and loaded\"",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/",
+   "source": "CBS News",
+   "date": "2026-11-10T15:58:37+00:00",
+   "extrait": "President Trump told 60 Minutes the war with Iran was a \"good decision\" in the long term, despite its short-term impact.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "4ce8ab5e4e92",
+   "titre": "France says Iran behind costly grocery store refrigeration hacks",
+   "lien": "https://www.cbsnews.com/news/france-iran-behind-refrigerator-freezer-hack-cyberattack/",
+   "source": "CBS News",
+   "date": "2026-11-10T15:54:45+00:00",
+   "extrait": "The Paris prosecutor's office says investigators have determined that a cyberattack on grocery store chains was \"carried out to serve a foreign power — in this case, Iran.\"",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "88a2826a17c0",
+   "titre": "L'auteur de la tuerie de Cracovie en Pologne a \"consulté des sites\" sur le néonazi Anders Behring Breivik",
+   "lien": "https://www.franceinfo.fr/faits-divers/police/l-auteur-de-la-tuerie-de-cracovie-en-pologne-s-interessait-au-neonazi-anders-behring-breivik_8276345.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T15:54:34+00:00",
+   "extrait": "Michal Oksinski, qui a tué trois membres de sa famille puis six personnes en pleine rue, avait consulté des sites sur le terroriste norvégien, qui avait fait 77 morts en 2011, près du siège du…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "ef3b26c7272b",
+   "titre": "Food prices surged more than expected in October, CPI report shows",
+   "lien": "https://www.cbsnews.com/video/inflation-rose-more-than-expected-in-october-cpi-report-shows/",
+   "source": "CBS News",
+   "date": "2026-11-10T15:52:05+00:00",
+   "extrait": "U.S. consumer prices rose at a higher rate than expected in October, according to the October Consumer Price Index (CPI) report. CBS News' Kelly O'Grady explains more.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "a1d054d1ae78",
+   "titre": "Meghan makes first public appearance since estranged dad's arrest",
+   "lien": "https://www.cbsnews.com/video/meghan-makes-first-public-appearance-since-estranged-dads-arrest/",
+   "source": "CBS News",
+   "date": "2026-11-10T15:51:58+00:00",
+   "extrait": "Meghan, Duchess of Sussex, made her first public appearance after the FBI arrested her estranged father, Thomas Markle Sr., on charges related to possession of child sexual abuse materials. CBS…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "cc6fba4ad1bf",
+   "titre": "Inflation remained elevated in October, CPI report shows",
+   "lien": "https://www.cbsnews.com/news/october-cpi-report-elevated-inflation/",
+   "source": "CBS News",
+   "date": "2026-11-10T15:51:29+00:00",
+   "extrait": "Inflation rose at a monthly pace of 0.4%, hotter than economists had forecast and raising expectations that the Federal Reserve will increase interest rates in December.",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "71ab83aa7760",
+   "titre": "Israel's new parliament sworn in as leaders compete to form government",
+   "lien": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-10T15:51:09+00:00",
+   "extrait": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "4cf39f362cb1",
+   "titre": "Why the U.S. military is moving aircraft out of a U.K. base",
+   "lien": "https://www.cbsnews.com/video/why-the-us-military-is-moving-aircraft-out-of-a-uk-base/",
+   "source": "CBS News",
+   "date": "2026-11-10T15:49:41+00:00",
+   "extrait": "The U.S. military has relocated various aircraft away from RAF Mildenhall in the United Kingdom due to an Iranian security threat. CBS News national security analyst Aaron MacLean reports.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "42c60c99f569",
+   "titre": "Dad who stopped school shooting says he went into \"mission mode\"",
+   "lien": "https://www.cbsnews.com/news/kaylub-giamanco-oregon-school-shooting-interview/",
+   "source": "CBS News",
+   "date": "2026-11-10T15:46:13+00:00",
+   "extrait": "Kaylub Giamanco shared how he stopped a shooting at his daughters' school in Bend, Oregon in his first network television interview.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "7aa796a1a60f",
+   "titre": "Reported Iran threat sees U.S. moves planes from second U.K. base",
+   "lien": "https://www.cbsnews.com/news/raf-mildenhall-us-tanker-relocation-iran-threat-military-aircraft-moved/",
+   "source": "CBS News",
+   "date": "2026-11-10T15:45:00+00:00",
+   "extrait": "The reported movement comes just over a month after a security incident at a separate air base hosting U.S. aircraft used in the war with Iran.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "14f8362bdfa6",
+   "titre": "Près de 400 000 Russes sont morts au combat depuis le début de l'invasion de l'Ukraine, selon une fuite de données inédite",
+   "lien": "https://www.franceinfo.fr/monde/russie/pres-de-400-000-russes-sont-morts-au-combat-depuis-le-debut-de-l-invasion-de-l-ukraine-selon-une-fuite-de-donnees-inedite_8276057.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T15:44:26+00:00",
+   "extrait": "Deux groupes de hackers ont ciblé l'agence des statistiques de l'Etat russe, afin de télécharger des registres mentionnant les causes de décès. Ces documents montrent l'immense coût humain de…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "301bd9abf7ae",
+   "titre": "Hero dad who shot Oregon school gunman describes going into \"mission mode\" during shooting",
+   "lien": "https://www.cbsnews.com/video/hero-dad-who-shot-oregon-school-gunman-describes-going-into-mission-mode-during-shooting/",
+   "source": "CBS News",
+   "date": "2026-11-10T15:37:52+00:00",
+   "extrait": "Kaylub Giamanco, the father who shot and killed the gunman at Silver Rail Elementary School in Bend, Oregon, sits down with \"CBS Mornings\" with his wife, Kelsey, to talk about his heroic actions…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "9a2b24c05ae7",
+   "titre": "Exclusive discounts from CBS Mornings Deals",
+   "lien": "https://www.cbsnews.com/video/exclusive-discounts-from-cbs-mornings-deals-186/",
+   "source": "CBS News",
+   "date": "2026-11-10T15:35:06+00:00",
+   "extrait": "On this edition of CBS Deals, we show you items that could help improve your everyday lifestyle. Visit cbsdeals.com to take advantage of these exclusive deals today. CBS earns commissions on…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "be09198e064b",
+   "titre": "No sign of progress as U.S.-Ukraine-Russia talks get underway",
+   "lien": "https://www.cbsnews.com/news/us-russia-ukraine-war-talks-peace-abu-dhabi-deal/",
+   "source": "CBS News",
+   "date": "2026-11-10T15:33:40+00:00",
+   "extrait": "It is the first such trilateral diplomatic push since negotiations were suspended following the start of the war with Iran.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "64db82d938b6",
+   "titre": "DOC NYC documentary film festival returns. Check out this year's lineup.",
+   "lien": "https://www.cbsnews.com/news/doc-nyc-documentary-film-festival-2026/",
+   "source": "CBS News",
+   "date": "2026-11-10T15:32:17+00:00",
+   "extrait": "America's largest festival for nonfiction cinema, with more than 115 feature-length documentaries plus short film programs, opens in NYC theaters and streams online.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "c67565d8838d",
+   "titre": "Lauren Sánchez Bezos on her new children's holiday book",
+   "lien": "https://www.cbsnews.com/video/lauren-snchez-bezos-on-her-new-childrens-holiday-book/",
+   "source": "CBS News",
+   "date": "2026-11-10T15:31:51+00:00",
+   "extrait": "Lauren Sánchez Bezos joins \"CBS Mornings\" to talk about her new children's holiday book, \"The Fly Who Flew to the North Pole.\"",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "534382e34b4c",
+   "titre": "Affaire Mohamed Al-Fayed : gardes à vue et perquisitions, dont une au Ritz, dans l’enquête sur un réseau présumé de traite de femmes",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/10/affaire-mohamed-al-fayed-gardes-a-vue-et-perquisitions-dont-une-au-ritz-dans-l-enquete-sur-un-reseau-presume-de-traite-de-femmes_6808864_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-10T15:31:15+00:00",
+   "extrait": "Mort en 2023 sans avoir jamais été poursuivi, malgré de nombreuses plaintes, le milliardaire égyptien fait l’objet d’enquêtes conjointes en France et au Royaume-Uni, où la police a déjà reçu 163…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "d44008169354",
    "titre": "Live Updates: GOP lawmakers elect leaders for new Congress",
    "lien": "https://www.cbsnews.com/live-updates/congress-today-senate-house-leadership-elections/",
    "source": "CBS News",
-   "date": "2026-11-10T15:04:52+00:00",
+   "date": "2026-11-10T15:30:37+00:00",
    "extrait": "Republicans are scheduled to elect their leaders for the new Congress, and the House will vote on whether to move forward with Defense Secretary Pete Hegseth's impeachment.",
    "tags": [
     "Politique"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "c3daf24fd3a7",
+   "titre": "Négociations Ukraine-Russie : Volodymyr Zelensky fait état d'une première journée de pourparlers \"constructifs et assez substantiels\"",
+   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-reprise-des-negociations-directes-entre-kiev-et-moscou-apres-plus-de-huit-mois-d-interruption_8275967.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T15:22:42+00:00",
+   "extrait": "Les questions humanitaires et les garanties de sécurité ont été au cœur des pourparlers entre Russes et Ukrainiens sous médiation américaine, mardi à Abou Dhabi, d'après le président ukrainien.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "3e46bd0c4c64",
+   "titre": "L'écrivain Kamel Daoud et sa femme condamnés par contumace en Algérie à cinq ans de prison ferme",
+   "lien": "https://www.franceinfo.fr/culture/livres/l-ecrivain-kamel-daoud-et-sa-femme-condamnes-par-contumace-en-algerie-a-cinq-ans-de-prison-ferme_8276420.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T15:22:36+00:00",
+   "extrait": "L'auteur et son épouse, la psychiatre Aïcha Dahdouh, sont également condamnés à verser une amende de 300 000 dinars d'amende chacun. Ils restent sous le coup d'un mandat d'arrêt international.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "94f6f290993a",
+   "titre": "Where the Trump administration's lawsuits seeking voter data stand",
+   "lien": "https://www.cbsnews.com/news/trump-lawsuits-state-voter-rolls-justice-department/",
+   "source": "CBS News",
+   "date": "2026-11-10T15:20:05+00:00",
+   "extrait": "The Justice Department has filed lawsuits against 30 states and the District of Columbia in an effort to force them to hand over their unredacted voter rolls containing voters' sensitive information.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "ebfb31069154",
+   "titre": "Meghan Markle's father ordered to undergo psychiatric exam",
+   "lien": "https://www.cbsnews.com/news/thomas-markle-ordered-psychiatric-exam-meghan-markle-father/",
+   "source": "CBS News",
+   "date": "2026-11-10T15:19:28+00:00",
+   "extrait": "Judge Lindsay Griffin cited Thomas Markle's \"health condition,\" \"advanced age\" and \"lack of recall\" in the order.",
+   "tags": [
+    "Justice",
+    "Santé"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "74327052eb80",
+   "titre": "Hegseth argues against Massie's impeachment, claims all his military actions were legal",
+   "lien": "https://www.cbsnews.com/video/hegseth-argues-against-massies-impeachment-claims-all-his-military-action-was-legal/",
+   "source": "CBS News",
+   "date": "2026-11-10T15:19:00+00:00",
+   "extrait": "Secretary of Defense Pete Hegseth held a briefing at the Pentagon, where he laid out his argument against an effort to impeach him on Capitol Hill. Hegseth claimed all of his military operations…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "c511d5a56cda",
+   "titre": "Hegseth decries impeachment effort with vote expected later today",
+   "lien": "https://www.cbsnews.com/news/hegseth-pentagon-briefing-impeachment-iran-war/",
+   "source": "CBS News",
+   "date": "2026-11-10T15:18:35+00:00",
+   "extrait": "Republican Rep. Thomas Massie said a vote in the House is expected later Tuesday on the impeachment resolutions against Defense Secretary Pete Hegseth.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "e9dd35fea20b",
+   "titre": "Mobilisation du 10 novembre : l'intersyndicale lycéenne et étudiante appelle à manifester de nouveau samedi et mardi prochain",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-10-novembre-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-d-action-mardi_8275703.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T15:17:57+00:00",
+   "extrait": "L'intersyndicale de la jeunesse a faite cette annonce mardi lors d'une conférence de presse, avant le départ d'une nouvelle manifestation à Paris, rassemblant organisations de jeunesse et enseignants.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "06dc1d574b60",
+   "titre": "Would you let a drone fly inside your home for security?",
+   "lien": "https://www.cbsnews.com/video/would-you-let-a-drone-fly-inside-your-home-for-security/",
+   "source": "CBS News",
+   "date": "2026-11-10T15:16:08+00:00",
+   "extrait": "Ring camera founder Jamie Siminoff joined Jo Ling Kent to show her how the company's in-home drone security could work.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "f6cc6f4c3852",
+   "titre": "Another top DOJ official resigns after Democrats sweep midterms",
+   "lien": "https://www.cbsnews.com/video/another-top-doj-official-resigns-after-democrats-sweep-midterms/",
+   "source": "CBS News",
+   "date": "2026-11-10T15:15:00+00:00",
+   "extrait": "Various high-ranking officials at the Department of Justice have resigned in the last week as the Trump administration continues an extensive series of lawsuits in court. CBS News reporter Jake…",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "2b9947aa703a",
+   "titre": "Michel Houellebecq mis en examen pour ses propos sur les musulmans lors d’un entretien dans la revue « Front populaire » en 2022",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/10/michel-houellebecq-mis-en-examen-pour-ses-propos-sur-les-musulmans-lors-d-un-entretien-dans-la-revue-front-populaire-en-2022_6808858_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-10T15:14:51+00:00",
+   "extrait": "L’écrivain, par la voix de ses avocats, conteste le délit pénal de « complicité de provocation à la discrimination, à la haine ou à la violence à l’égard d’un groupe de personnes à raison de leur…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "8ffa6ca1e69e",
+   "titre": "La pétition appelant à \"supprimer CNews de l'audiovisuel français\" classée en commission à l'Assemblée nationale",
+   "lien": "https://www.franceinfo.fr/politique/la-petition-appelant-a-supprimer-cnews-de-l-audiovisuel-francais-classee-par-la-commission-de-l-assemblee-nationale_8276303.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T15:13:02+00:00",
+   "extrait": "Les députés de la commission des affaires culturelles et de l'éducation se sont opposés, d'une courte majorité, à l'organisation d'un débat dans l'hémicycle sur ce texte, qui a recueilli plus d'un…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "81ca516af25f",
+   "titre": "Reader's guide for \"Solace in Winter\" by Mary Lawson",
+   "lien": "https://www.cbsnews.com/news/readers-guide-solace-in-winter-by-mary-lawson-oprahs-book-club-pick/",
+   "source": "CBS News",
+   "date": "2026-11-10T15:08:22+00:00",
+   "extrait": "Here's a reader's guide for \"Solace in Winter\" by Mary Lawson, Oprah Winfrey's November book club pick",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "b239329cacb3",
+   "titre": "Read an excerpt from Oprah's November book club pick",
+   "lien": "https://www.cbsnews.com/news/read-a-free-excerpt-oprah-winfrey-book-club-pick-solace-in-winter-by-mary-lawson/",
+   "source": "CBS News",
+   "date": "2026-11-10T15:07:30+00:00",
+   "extrait": "Oprah Winfrey chose \"Solace in Winter\" by Mary Lawson as her latest book club pick. Read a free excerpt.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "3cb82c2a5c1c",
+   "titre": "Pétition pour \"supprimer CNews de l'audiovisuel français\" : les députés ne donnent pas suite",
+   "lien": "https://www.france24.com/fr/france/20261110-p%C3%A9tition-pour-supprimer-cnews-audiovisuel-fran%C3%A7ais-d%C3%A9put%C3%A9s-donnent-pas-suite",
+   "source": "France 24",
+   "date": "2026-11-10T15:06:52+00:00",
+   "extrait": "La pétition pour \"supprimer CNews de l'audiovisuel français\" avait recueilli plus d’un million de signataires, autorisant sont débat à l'Assemblée nationale. Mardi, la commission des affaires…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "a8e82fc5657d",
+   "titre": "Meghan and Harry make first public appearance since her estranged father's arrest",
+   "lien": "https://www.cbsnews.com/video/meghan-and-harry-make-first-public-appearance-since-her-estranged-fathers-arrest/",
+   "source": "CBS News",
+   "date": "2026-11-10T15:05:50+00:00",
+   "extrait": "Prince Harry and Meghan, Duchess of Sussex, made their first public appearance since her estranged father's arrest in Tampa, Florida, last week. Ramy Inocencio reports.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "a6ff96d6e78e",
+   "titre": "Pete Hegseth, visé par une procédure de destitution, dénonce une « mise en scène politique »",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/10/vise-par-une-procedure-de-destitution-pete-hegseth-denonce-une-mise-en-scene-politique_6808854_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-10T15:02:53+00:00",
+   "extrait": "Le ministre de la défense américain est accusé d’avoir enfreint la loi en menant la guerre contre l’Iran sans avoir obtenu l’autorisation du Congrès, et ce « au grand préjudice de la cause du droit…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "6086a6da289f",
+   "titre": "En Israël, comment la Knesset s’est fragmentée au profit de la droite dure nationaliste depuis plus de cinquante ans",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/10/en-israel-comment-la-knesset-s-est-fragmentee-au-profit-de-la-droite-dure-nationaliste-depuis-plus-de-cinquante-ans_6808852_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-10T15:00:02+00:00",
+   "extrait": "De la guerre du Kippour au traumatisme du 7-Octobre, retour en infographies sur la façon dont les enjeux de paix et de sécurité ont façonné les rapports de force au sein du Parlement israélien.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
   },
   {
    "id": "d26e8337fb00",
@@ -48,20 +460,10 @@
    "titre": "Oprah's latest book club pick is \"Solace in Winter\" by Mary Lawson",
    "lien": "https://www.cbsnews.com/video/oprahs-latest-book-club-pick-is-solace-in-winter-by-mary-lawson/",
    "source": "CBS News",
-   "date": "2026-11-10T14:57:52+00:00",
+   "date": "2026-11-10T14:57:00+00:00",
    "extrait": "Oprah Winfrey exclusively announced on \"CBS Mornings\" that her November book club pick is \"Winter in Solace\" by Mary Lawson.",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "e9dd35fea20b",
-   "titre": "Mobilisation du 10 novembre : l'intersyndicale lycéenne et étudiante appelle à manifester de nouveau samedi et mardi prochain",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-10-novembre-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-d-action-mardi_8275703.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-10T14:56:51+00:00",
-   "extrait": "L'intersyndicale de la jeunesse a faite cette annonce, mardi, lors d'une conférence de presse, avant le départ d'une nouvelle manifestation à Paris, rassemblant organisations de jeunesse et…",
-   "tags": [],
-   "zone": "france"
   },
   {
    "id": "c3863f03d6e5",
@@ -86,23 +488,11 @@
    "zone": "usa"
   },
   {
-   "id": "c511d5a56cda",
-   "titre": "Hegseth decries impeachment effort with vote expected later today",
-   "lien": "https://www.cbsnews.com/news/hegseth-pentagon-briefing-impeachment-iran-war/",
-   "source": "CBS News",
-   "date": "2026-11-10T14:51:16+00:00",
-   "extrait": "Republican Rep. Thomas Massie said a vote in the House is expected later Tuesday on the impeachment resolutions against Defense Secretary Pete Hegseth.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "1ba7f4159ba5",
    "titre": "Republicans to decide House and Senate leadership after rough midterm performance",
    "lien": "https://www.cbsnews.com/video/republicans-to-decide-house-and-senate-leadership-after-rough-midterm-performance/",
    "source": "CBS News",
-   "date": "2026-11-10T14:51:03+00:00",
+   "date": "2026-11-10T14:51:00+00:00",
    "extrait": "Republicans and Democrats must elect their party leaders in the House and Senate. After their stunning midterm defeat. The House GOP will vote today. CBS News' Nikole Killion has the latest.",
    "tags": [
     "Politique"
@@ -157,18 +547,6 @@
    "zone": "monde"
   },
   {
-   "id": "cc6fba4ad1bf",
-   "titre": "Inflation remained elevated in October, CPI report shows",
-   "lien": "https://www.cbsnews.com/news/october-cpi-report-elevated-inflation/",
-   "source": "CBS News",
-   "date": "2026-11-10T14:46:21+00:00",
-   "extrait": "Inflation rose at a monthly pace of 0.4%, hotter than economists had forecast.",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "acea9477c80b",
    "titre": "Will Russia-Ukraine peace talks in Abu Dhabi actually make progress?",
    "lien": "https://www.cbsnews.com/video/will-russia-ukraine-peace-talks-in-abu-dhabi-actually-make-progress/",
@@ -185,8 +563,8 @@
    "titre": "EN DIRECT, guerre en Ukraine : Marco Rubio juge les pourparlers d’Abou Dhabi « très productifs »",
    "lien": "https://www.lemonde.fr/international/live/2026/11/10/en-direct-guerre-en-ukraine-marco-rubio-juge-les-pourparlers-d-abou-dhabi-tres-productifs_6808609_3210.html",
    "source": "Le Monde",
-   "date": "2026-11-10T14:43:42+00:00",
-   "extrait": "Les pourparlers de mardi, à Abou Dhabi, entre la Russie et l’Ukraine dans le cadre de la médiation américaine ont été « très productifs », a assuré le secrétaire d’Etat américain, mais il reste…",
+   "date": "2026-11-10T14:43:31+00:00",
+   "extrait": "Des négociations entre la Russie et l’Ukraine se tiennent aux Emirats arabes unis, dans le cadre d’une médiation américaine. Selon le secrétaire d’Etat américain, il reste « beaucoup de travail à…",
    "tags": [
     "Conflits",
     "Justice"
@@ -198,7 +576,7 @@
    "titre": "IA : Anthropic maintient le timing de son entrée en Bourse et vise jusqu’à 1 400 milliards de dollars de valorisation",
    "lien": "https://www.lemonde.fr/economie/article/2026/11/10/ia-anthropic-maintient-le-timing-de-son-entree-en-bourse-et-vise-jusqu-a-1-400-milliards-de-dollars-de-valorisation_6808850_3234.html",
    "source": "Le Monde",
-   "date": "2026-11-10T14:38:23+00:00",
+   "date": "2026-11-10T14:38:19+00:00",
    "extrait": "La start-up maison mère de Claude pourrait viser une cotation dès le jeudi 19 novembre, avec un prix de première cotation un peu revu à la baisse.",
    "tags": [
     "Économie",
@@ -231,19 +609,6 @@
    "zone": "usa"
   },
   {
-   "id": "f36e76f9c3d9",
-   "titre": "Trump says Iran war at \"status quo,\" warns U.S. \"locked and loaded\"",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/",
-   "source": "CBS News",
-   "date": "2026-11-10T14:34:47+00:00",
-   "extrait": "President Trump told 60 Minutes the war with Iran was a \"good decision\" in the long term, despite its short-term impact.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "5c3f3ad61f98",
    "titre": "Israël : le Parlement tient sa première session, tandis que Gadi Eisenkot promet de former un nouveau gouvernement « le plus vite possible »",
    "lien": "https://www.lemonde.fr/international/article/2026/11/10/israel-le-parlement-tient-sa-premiere-session-tandis-que-gadi-eisenkot-promet-de-former-un-nouveau-gouvernement-le-plus-vite-possible_6808849_3210.html",
@@ -267,6 +632,16 @@
    "zone": "france"
   },
   {
+   "id": "e574ff70ccae",
+   "titre": "« Il faut brûler maman », de et avec Albert Dupontel : un huis clos théâtral absurde dans une maison de pompes funèbres",
+   "lien": "https://www.lemonde.fr/culture/article/2026/11/10/il-faut-bruler-maman-de-et-avec-albert-dupontel-un-huis-clos-theatral-absurde-dans-une-maison-de-pompes-funebres_6808848_3246.html",
+   "source": "Le Monde",
+   "date": "2026-11-10T14:30:11+00:00",
+   "extrait": "Le neuvième long-métrage du réalisateur dilue le potentiel comique du scénario dans un sentimentalisme éculé.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "bab41b15e9e8",
    "titre": "Elections législatives en Espagne : l’immigration, enjeu controversé de la campagne électorale",
    "lien": "https://www.lemonde.fr/international/article/2026/11/10/espagne-l-immigration-enjeu-controverse-de-la-campagne-electorale_6808847_3210.html",
@@ -284,7 +659,7 @@
    "lien": "https://www.lemonde.fr/economie/article/2026/11/10/les-auteurs-vent-debout-contre-la-nomination-de-lise-boell-a-la-tete-de-grasset_6808846_3234.html",
    "source": "Le Monde",
    "date": "2026-11-10T14:29:45+00:00",
-   "extrait": "Alors que l’arrivée de la nouvelle équipe de direction a été accueillie de façon glaciale par les salariés, une virulente tribune des auteurs qui ont quitté la maison s’oppose au « pillage » de…",
+   "extrait": "Alors que l’arrivée de la nouvelle équipe de direction a été accueillie glacialement par les salariés, une virulente tribune des auteurs qui ont quitté la maison s’oppose au « pillage » de Grasset.",
    "tags": [],
    "zone": "france"
   },
@@ -302,14 +677,15 @@
   },
   {
    "id": "3c92a6d88ac6",
-   "titre": "En direct : le président israélien annonce officiellement l'investiture du nouveau Parlement",
+   "titre": "Israël en direct : le parti d'Eisenkot dépose un projet de loi pour créer une commission d'enquête sur le 7-Octobre",
    "lien": "https://www.france24.com/fr/moyen-orient/20261110-en-direct-le-pr%C3%A9sident-isra%C3%A9lien-annonce-officiellement-l-investiture-du-nouveau-parlement",
    "source": "France 24",
    "date": "2026-11-10T14:29:01+00:00",
    "extrait": "En ouvrant la session inaugurale du nouveau Parlement, le président Isaac Herzog a exhorté mardi les différentes forces politiques à faire des compromis pour doter Israël d'un nouveau gouvernement…",
    "tags": [
     "Politique",
-    "Conflits"
+    "Conflits",
+    "Justice"
    ],
    "zone": "monde"
   },
@@ -342,7 +718,7 @@
    "titre": "Meghan and Harry do first public event since her father's arrest",
    "lien": "https://www.cbsnews.com/news/prince-harry-meghan-eu-thomas-markle-arrest-child-sex-abuse-images/",
    "source": "CBS News",
-   "date": "2026-11-10T14:22:30+00:00",
+   "date": "2026-11-10T14:22:00+00:00",
    "extrait": "Harry and Meghan's first appearance since the duchess's estranged father was arrested over alleged child sex abuse imagery was at an EU event on online safety for kids.",
    "tags": [
     "Justice"
@@ -428,18 +804,6 @@
    "zone": "monde"
   },
   {
-   "id": "8ffa6ca1e69e",
-   "titre": "La pétition appelant à \"supprimer CNews de l'audiovisuel français\" classée en commission à l'Assemblée nationale",
-   "lien": "https://www.franceinfo.fr/politique/la-petition-appelant-a-supprimer-cnews-de-l-audiovisuel-francais-classee-par-la-commission-de-l-assemblee-nationale_8276303.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-10T14:02:17+00:00",
-   "extrait": "Les députés de la commission des affaires culturelles et de l'éducation se sont opposés, d'une courte majorité, à l'organisation d'un débat dans l'hémicycle sur ce texte, qui a recueilli plus d'un…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "743177fa1ba7",
    "titre": "FBI investigates suspected murder aboard cruise ship",
    "lien": "https://www.cbsnews.com/video/fbi-investigates-suspected-murder-aboard-cruise-ship/",
@@ -515,18 +879,6 @@
    "source": "franceinfo",
    "date": "2026-11-10T13:51:41+00:00",
    "extrait": "Le candidat de La France insoumise à la présidentielle a proposé que la population ukrainienne du Donbass, en grande partie occupée par les Russes, soit consultée pour savoir si elle voulait rester…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c3daf24fd3a7",
-   "titre": "Négociations Ukraine-Russie : la première journée de pourparlers à Abou Dhabi, sous la médiation des États-Unis, s'est achevée",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-reprise-des-negociations-directes-entre-kiev-et-moscou-apres-plus-de-huit-mois-d-interruption_8275967.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-10T13:45:20+00:00",
-   "extrait": "Ces discussions entre Kiev et Moscou visent à progresser vers un règlement diplomatique du conflit et, selon Washington, à travailler à un \"nouveau\" cadre de sécurité incluant l'Europe.",
    "tags": [
     "Conflits"
    ],
@@ -621,26 +973,6 @@
    "zone": "usa"
   },
   {
-   "id": "b239329cacb3",
-   "titre": "Read an excerpt from Oprah's November book club pick",
-   "lien": "https://www.cbsnews.com/news/read-a-free-excerpt-oprah-winfrey-book-club-pick-solace-in-winter-by-mary-lawson/",
-   "source": "CBS News",
-   "date": "2026-11-10T13:30:00+00:00",
-   "extrait": "Oprah Winfrey chose \"Solace in Winter\" by Mary Lawson as her latest book club pick. Read a free excerpt.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "81ca516af25f",
-   "titre": "Reader's guide for \"Solace in Winter\" by Mary Lawson",
-   "lien": "https://www.cbsnews.com/news/readers-guide-solace-in-winter-by-mary-lawson-oprahs-book-club-pick/",
-   "source": "CBS News",
-   "date": "2026-11-10T13:30:00+00:00",
-   "extrait": "Here's a reader's guide for \"Solace in Winter\" by Mary Lawson, Oprah Winfrey's November book club pick",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "528f59c91b43",
    "titre": "Best pet insurance for cats in 2026: Compare top companies",
    "lien": "https://www.cbsnews.com/moneywatch/insurance/cats/",
@@ -649,18 +981,6 @@
    "extrait": "Here's the best pet insurance providers for kittens, senior cats and everything in between.",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "88a2826a17c0",
-   "titre": "L'auteur de la tuerie de Cracovie en Pologne a \"consulté des sites\" sur le néonazi Anders Behring Breivik",
-   "lien": "https://www.franceinfo.fr/faits-divers/police/l-auteur-de-la-tuerie-de-cracovie-en-pologne-s-interessait-au-neonazi-anders-behring-breivik_8276345.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-10T13:25:14+00:00",
-   "extrait": "Le 22 juillet 2011, Anders Behring Breivik avait d'abord fait exploser une bombe dans une camionnette près du siège du gouvernement à Oslo, faisant huit morts, puis tué par balle 69 autres…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
   },
   {
    "id": "39299601a00c",
@@ -697,18 +1017,6 @@
     "Conflits"
    ],
    "zone": "france"
-  },
-  {
-   "id": "be09198e064b",
-   "titre": "U.S., Russia and Ukraine start talks aimed at ending war",
-   "lien": "https://www.cbsnews.com/news/us-russia-ukraine-war-talks-peace-abu-dhabi-deal/",
-   "source": "CBS News",
-   "date": "2026-11-10T13:01:14+00:00",
-   "extrait": "It is the first such trilateral diplomatic push since negotiations were suspended following the start of the war with Iran.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
   },
   {
    "id": "71149e7a332f",
@@ -805,18 +1113,6 @@
    "zone": "monde"
   },
   {
-   "id": "71ab83aa7760",
-   "titre": "Israel's new parliament to be sworn in as leaders compete to form government",
-   "lien": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-10T12:25:48+00:00",
-   "extrait": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
    "id": "e5faa837afcb",
    "titre": "Comment la Chine parvient à acheter des puces Nvidia malgré les restrictions américaines",
    "lien": "https://www.franceinfo.fr/internet/intelligence-artificielle/comment-la-chine-parvient-a-acheter-des-puces-nvidia-malgre-les-restrictions-americaines_8276231.html#xtor=RSS-3-[lestitres]",
@@ -897,19 +1193,6 @@
    "extrait": "L'alerte avait été donnée en 2025 alors qu'un mineur avait \"acheté un produit désigné comme étant du CBD dans un distributeur automatique\" alors que son accès était \"accessible sans aucune…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "ebfb31069154",
-   "titre": "Meghan Markle's father ordered to undergo psychiatric exam",
-   "lien": "https://www.cbsnews.com/news/thomas-markle-ordered-psychiatric-exam-meghan-markle-father/",
-   "source": "CBS News",
-   "date": "2026-11-10T12:08:06+00:00",
-   "extrait": "Judge Lindsay Griffin cited Thomas Markle's \"health condition,\" \"advanced age\" and \"lack of recall\" in the order.",
-   "tags": [
-    "Justice",
-    "Santé"
-   ],
-   "zone": "usa"
   },
   {
    "id": "e4694389980b",
@@ -1237,18 +1520,6 @@
    "zone": "monde"
   },
   {
-   "id": "7aa796a1a60f",
-   "titre": "Reported Iran threat sees U.S. moves planes from second U.K. base",
-   "lien": "https://www.cbsnews.com/news/raf-mildenhall-us-tanker-relocation-iran-threat-military-aircraft-moved/",
-   "source": "CBS News",
-   "date": "2026-11-10T10:50:43+00:00",
-   "extrait": "The reported movement comes just over a month after a security incident at a separate air base hosting U.S. aircraft used in the war with Iran.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "be9fb94978fe",
    "titre": "Ukraine - Russie : l'Union Européenne impose sa présence à Abu Dhabi",
    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261110-ukraine-russie-l-union-europ%C3%A9enne-impose-sa-pr%C3%A9sence-%C3%A0-abu-dhabi",
@@ -1394,7 +1665,7 @@
    "lien": "https://www.lemonde.fr/economie/article/2026/11/10/au-point-le-sort-d-etienne-gernelle-son-directeur-est-scelle_6808658_3235.html",
    "source": "Le Monde",
    "date": "2026-11-10T10:13:52+00:00",
-   "extrait": "Après la mise à l’écart de Valérie Toranian de la direction de la rédaction de l’hebdomadaire détenu par la famille Pinault, le directeur depuis douze ans a annoncé mardi 10 novembre sa révocation.",
+   "extrait": "Après la mise à l’écart de Valérie Toranian de la direction de la rédaction de l’hebdomadaire détenu par la famille Pinault, le directeur depuis douze ans a annoncé, mardi matin, sa révocation.",
    "tags": [],
    "zone": "france"
   },
@@ -1562,16 +1833,6 @@
     "Conflits"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "4ce8ab5e4e92",
-   "titre": "France says Iran behind costly grocery store refrigeration hacks",
-   "lien": "https://www.cbsnews.com/news/france-iran-behind-refrigerator-freezer-hack-cyberattack/",
-   "source": "CBS News",
-   "date": "2026-11-10T09:39:20+00:00",
-   "extrait": "The Paris prosecutor's office says investigators have determined that a cyberattack on grocery store chains was \"carried out to serve a foreign power — in this case, Iran.\"",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "5650dfb1ca78",
@@ -3224,273 +3485,6 @@
    "extrait": "Ce rendez-vous électoral sera le premier depuis la réélection de Paul Biya en octobre 2025, un résultat qui avait été contesté par l'opposition et une partie de la population.",
    "tags": [
     "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "b39d4bdd480b",
-   "titre": "Mobilisation lycéenne : à Matignon, la première réunion sur la réforme de Parcoursup tourne court",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/09/mobilisation-lyceenne-a-matignon-la-premiere-reunion-sur-la-reforme-de-parcoursup-tourne-court_6808704_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T22:00:45+00:00",
-   "extrait": "Plusieurs responsables syndicaux ont quitté la réunion, dénonçant notamment la présence du syndicat étudiant UNI, ainsi que celle de Thierry Tesson, député RN du Nord, et de Gaëlle Frontoni…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "b91decc8a446",
-   "titre": "11/9: The Takeout with Major Garrett",
-   "lien": "https://www.cbsnews.com/video/110926-the-takeout-with-major-garrett/",
-   "source": "CBS News",
-   "date": "2026-11-09T22:00:00+00:00",
-   "extrait": "Trump holds press briefing alongside Dana White; Lawmakers return to Capitol Hill for lame duck session.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "937eedb0321b",
-   "titre": "What Trump meant when he said the U.S. is cutting aid to Israel",
-   "lien": "https://www.npr.org/2026/11/09/nx-s1-6029320/us-trump-israel-military-aid",
-   "source": "NPR",
-   "date": "2026-11-09T21:58:14+00:00",
-   "extrait": "President Trump says he's halting aid to Israel. Israelis are worried. But experts say the U.S. is just shifting aid from the State Department to the Pentagon, with less congressional oversight.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "ed37d32e2c4a",
-   "titre": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
-   "lien": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-09T21:52:28+00:00",
-   "extrait": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "f8a5a7047ff2",
-   "titre": "Trial date of alleged Charlie Kirk killer set for June 2028",
-   "lien": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-09T21:48:38+00:00",
-   "extrait": "Tyler Robinson has pleaded not guilty to aggravated murder and six other charges in connection with the 2025 killing of the conservative activist.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "16b14e3a7e1f",
-   "titre": "Supreme Court says border wall construction can continue in west Texas",
-   "lien": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump",
-   "source": "NPR",
-   "date": "2026-11-09T21:47:39+00:00",
-   "extrait": "The Trump administration filed an emergency relief request with the high court earlier in October asking for the construction to continue while a lawsuit over the plan moves forward.",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "0892318bb51f",
-   "titre": "Aux Etats-Unis, une procédure de destitution contre le ministre de la Défense a été lancée au Congrès",
-   "lien": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-une-procedure-de-destitution-contre-le-ministre-de-la-defense-a-ete-lancee-au-congres_8275211.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T21:46:43+00:00",
-   "extrait": "Le député Thomas Massie dénonce notamment la guerre en Iran et la manière dont Pete Hegseth l'a menée.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "7d86472d7e6c",
-   "titre": "Comment le nombre dérogations pour l'utilisation de pesticides s'est envolé en France",
-   "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/pesticides-des-derogations-qui-deviennent-la-regle_8275121.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T21:45:11+00:00",
-   "extrait": "Protéger notre environnement c'est aussi décider de ce qu'on autorise ou pas dans nos champs. En France certains pesticides pourtant interdits peuvent être utilisés grâce à des permissions…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "d8661b3dae23",
-   "titre": "Jeffries and Massie take questions after new impeachment articles introduced against Hegseth",
-   "lien": "https://www.cbsnews.com/video/jeffries-and-massie-take-questions-after-new-impeachment-articles-introduced-against-hegseth/",
-   "source": "CBS News",
-   "date": "2026-11-09T21:37:52+00:00",
-   "extrait": "Democratic House Minority Leader Hakeem Jeffries and GOP Rep. Thomas Massie spoke to reporters Monday after Massie introduced new articles of impeachment against Defense Secretary Pete Hegseth.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "d1d0e7a0952b",
-   "titre": "Succession de Christine Lagarde à la tête de la BCE : Paris pourrait soutenir Pablo Hernandez de Cos face à Klaas Knot dans la course à la présidence",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/09/succession-de-christine-lagarde-a-la-tete-de-la-bce-paris-pourrait-soutenir-pablo-hernandez-de-cos-face-a-klaas-knot-dans-la-course-a-la-presidence_6808703_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T21:26:21+00:00",
-   "extrait": "Emmanuel Macron et le chancelier allemand, Friedrich Merz, ont évoqué ce week-end la succession de Christine Lagarde à la tête de la Banque centrale européenne. Les chefs d’Etat et de gouvernement…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "33b0cd9cd1be",
-   "titre": "Au Cameroun, le président Biya fixe au 7 février la tenue de législatives et municipales",
-   "lien": "https://www.france24.com/fr/afrique/20261109-cameroun-pr%C3%A9sident-biya-fixe-7-f%C3%A9vrier-%C3%A9lections-l%C3%A9gislatives-municipales",
-   "source": "France 24",
-   "date": "2026-11-09T21:22:49+00:00",
-   "extrait": "Le président Paul Biya a annoncé lundi convoquer des élections législatives et municipales le 7 février 2027. Un scrutin qui sera organisé dans un contexte tendu, marqué par la répression de…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "581684728dc4",
-   "titre": "Deux ans de prison avec sursis ont été requis contre le navigateur Kevin Escoffier, jugé pour agressions sexuelles",
-   "lien": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/deux-ans-de-prison-avec-sursis-ont-ete-requis-contre-le-navigateur-kevin-escoffier-juge-pour-agressions-sexuelles_8275199.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T21:21:46+00:00",
-   "extrait": "Le ministère public a également demandé pour le navigateur une obligation de soins et une interdiction d'exercer sa profession pour une durée de deux ans.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "463de6cda80a",
-   "titre": "Nvidia stock slumps amid board investigation into CEO Jensen Huang",
-   "lien": "https://www.cbsnews.com/news/nvidia-jensen-huang-stock-board-investigation-spy/",
-   "source": "CBS News",
-   "date": "2026-11-09T21:21:20+00:00",
-   "extrait": "Investors are questioning whether Huang's future as Nvidia's CEO may be at risk amid allegations that he was targeted in a Chinese intelligence operation.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "85d2e875cde0",
-   "titre": "L’éditrice de Jordan Bardella et Sarah Knafo, Lise Boëll, arrive à la tête de Grasset",
-   "lien": "https://www.lemonde.fr/livres/article/2026/11/09/l-editrice-de-bardella-et-knafo-lise-boell-arrive-a-la-tete-de-grasset_6808702_3260.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T21:17:51+00:00",
-   "extrait": "La PDG de Fayard est nommée directrice générale déléguée de Grasset, sept mois après le limogeage d’Olivier Nora. Elle arrive dans une maison vidée de ses auteurs et dont les salariés souhaitent…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "981dacfe5617",
-   "titre": "Augmentation du salaire minimum : Lecornu peut-il calmer la colère ?",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261109-augmentation-du-salaire-minimum-lecornu-peut-il-calmer-la-col%C3%A8re",
-   "source": "France 24",
-   "date": "2026-11-09T21:12:12+00:00",
-   "extrait": "Sébastien Lecornu a tenté de répondre à la colère sociale : le Premier ministre a annoncé une hausse du smic de 0,6 %. Loin des demandes des syndicats. Autre annonce : la prime carburant sera…",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "b1a66a420c7e",
-   "titre": "Les brèves critiques du « Monde des livres » : Elisabeth Badinter, Juan Tallon, Emmanuel de Waresquiel, Jonathan Zacaï…",
-   "lien": "https://www.lemonde.fr/critique-litteraire/article/2026/11/09/les-breves-critiques-du-monde-des-livres-elisabeth-badinter-juan-tallon-emmanuel-de-waresquiel-jonathan-zacai_6808701_5473203.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T21:00:06+00:00",
-   "extrait": "Chaque semaine, une sélection de parutions récentes, au-delà des titres phares.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "18c7f2a98388",
-   "titre": "Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth",
-   "lien": "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth",
-   "source": "NPR",
-   "date": "2026-11-09T20:52:24+00:00",
-   "extrait": "The articles accuse Hegseth of \"high crimes and misdemeanors,\" including for waging war against Iran in violation of the War Powers Resolution.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "3b4bf5aafb27",
-   "titre": "\"Si le smic augmente, je suis obligé d'augmenter les autres\" : la hausse du salaire minimum vue par des salariés et dirigeants de PME",
-   "lien": "https://www.franceinfo.fr/economie/entreprises/si-le-smic-augmente-je-suis-oblige-d-augmenter-les-autres-la-hausse-du-salaire-minimum-vue-par-des-salaries-et-dirigeants-de-pme_8275166.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T20:51:58+00:00",
-   "extrait": "La hausse du Smic annoncée par l'exécutif laisse de côté quelques oubliés. Les salariés qui gagnent juste au-dessus n’auront pas forcément un euro de plus. Avec un salaire minimum qui les rattrape…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "f95e0fab285b",
-   "titre": "Supreme Court allows border wall construction in Big Bend region",
-   "lien": "https://www.cbsnews.com/news/supreme-court-trump-border-wall-big-bend/",
-   "source": "CBS News",
-   "date": "2026-11-09T20:50:28+00:00",
-   "extrait": "The Supreme Court agreed to lift a district court order that temporarily stopped construction of the border wall and other infrastructure in the Big Bend sector.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "12647216fa6b",
-   "titre": "Turkey steel factory blast kills at least 17 people",
-   "lien": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-09T20:42:04+00:00",
-   "extrait": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "670f5b890a68",
-   "titre": "\"Nous sommes devenus des cibles\" : le principal syndicat des proviseurs appelle au rassemblement vendredi 13 novembre",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/nous-sommes-devenus-des-cibles-le-principal-syndicat-des-proviseurs-appelle-au-rassemblement-vendredi-13-novembre_8275154.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T20:39:17+00:00",
-   "extrait": "\"Nous sommes seuls\", déplore Nicolas Bonnet, secrétaire national du SNPDEN-Unsa, lundi sur franceinfo. Ce proviseur d'un lycée à Libourne (Gironde) est confronté à des \"jets de pavés, des poubelles…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "380231a2b1f3",
-   "titre": "« Je ne sais pas pourquoi il fallait le découper » : les explications chaotiques du « boucher » au procès du triple narchomicide de 2020",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/09/je-suis-un-simple-executant-les-explications-chaotiques-du-boucher-au-proces-du-triple-narchomicide-de-2020_6808700_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T20:33:47+00:00",
-   "extrait": "S’il reconnaît avoir démembré l’une des victimes, Malik Kariba, un des cinq coaccusés au procès du triple homicide de décembre 2020, lié au trafic de drogue, assure avoir agi sur ordre, « terrifié ».",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "e71a417693ae",
-   "titre": "Pete Hegseth, secrétaire à la défense de Donald Trump, visé par une procédure de destitution déclenchée par un élu républicain",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/09/pete-hegseth-secretaire-a-la-defense-de-donald-trump-vise-par-une-procedure-de-destitution-declenchee-par-un-elu-republicain_6808699_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T20:33:10+00:00",
-   "extrait": "L’impeachment a été lancé par Thomas Massie, qui dénonce la guerre en Iran et la manière dont ce membre du cabinet de Donald Trump l’a menée.",
-   "tags": [
-    "Politique",
-    "Conflits"
    ],
    "zone": "france"
   }
