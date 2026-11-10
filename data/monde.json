@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-10T21:05:39+00:00",
+ "maj": "2026-11-10T22:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,11 +22,100 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "cfbf988a0cdd",
+   "titre": "Nvidia's trillion-dollar bind: Can it afford to lose Jensen Huang?",
+   "lien": "https://www.cbsnews.com/news/jensen-huang-affair-nvidia-ceo-dilemma/",
+   "source": "CBS News",
+   "date": "2026-11-10T22:03:03+00:00",
+   "extrait": "Other CEOs have been ousted over undisclosed relationships, but Nvidia's inquiry shines a spotlight on how closely the chipmaker's fortunes are tied to its co-founder.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "665273818f0e",
+   "titre": "Sanders won't back Schumer as Democratic leader",
+   "lien": "https://www.cbsnews.com/news/bernie-sanders-chuck-schumer-democratic-leader-senate/",
+   "source": "CBS News",
+   "date": "2026-11-10T22:00:00+00:00",
+   "extrait": "Sen. Bernie Sanders said Tuesday he won't support Sen. Chuck Schumer as Democratic leader in the new Congress, becoming the most prominent progressive to oppose his candidacy to date.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "d68f526af6ae",
+   "titre": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+   "lien": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-10T21:59:54+00:00",
+   "extrait": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "00ad3004cef0",
+   "titre": "3 Iran-backed operatives indicted for alleged role in terror plots",
+   "lien": "https://www.cbsnews.com/news/3-iran-operatives-indicted-terror-plots/",
+   "source": "CBS News",
+   "date": "2026-11-10T21:59:00+00:00",
+   "extrait": "Three Iran-linked operatives are accused of plotting a terrorist attack at an air base in the U.K. and attempting over a dozen attacks in the U.S. and Europe.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "7cdf396407c1",
+   "titre": "Pourparlers Ukraine-Russie : Washington plaide pour un \"nouveau\" cadre de sécurité avec l'Europe",
+   "lien": "https://www.france24.com/fr/europe/20261110-pourparlers-ukraine-russie-washington-plaide-nouveau-cadre-s%C3%A9curit%C3%A9-europe",
+   "source": "France 24",
+   "date": "2026-11-10T21:57:11+00:00",
+   "extrait": "Les pourparlers sous médiation américaine entamés mardi entre Kiev et Moscou à Abu Dhabi ont été \"constructifs\", selon le président ukrainien Volodymyr Zelensky. Washington a, en outre, évoqué la…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "c6a95416ba8e",
+   "titre": "Timeline: The disappearance of Maya Millete",
+   "lien": "https://www.cbsnews.com/news/maya-millete-disappearance-timeline/",
+   "source": "CBS News",
+   "date": "2026-11-10T21:52:02+00:00",
+   "extrait": "Maya Millete, 39, went missing in January 2021. What was happening between her and her husband before she disappeared and what does spellcasting have to do with it?",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "ca05f15caf2f",
+   "titre": "Jury convicts Matthew Farwell of killing Sandra Birchmore and unborn child",
+   "lien": "https://www.cbsnews.com/video/jury-convicts-matthew-farwell-sandra-birchmore-and-unborn-child/",
+   "source": "CBS News",
+   "date": "2026-11-10T21:44:43+00:00",
+   "extrait": "A Massachusetts jury has convicted former police officer Matthew Farwell of killing Sandra Birchmore and the unborn child she was carrying. CBS News legal contributor Jessica Levinson reports.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "dc68d423cf32",
+   "titre": "Dans le Val-d'Oise, une enseignante a été suspendue pour des propos racistes envers un étudiant noir",
+   "lien": "https://www.franceinfo.fr/societe/racisme/comme-un-petit-singe-une-enseignante-suspendue-pour-propos-racistes-envers-un-etudiant-noir_8276705.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T21:41:26+00:00",
+   "extrait": "Les faits remontent à la fin du mois d'octobre, au moment du blocus d'un IUT de l'université CY Cergy Paris Université. Un signalement auprès du procureur de la République, au titre de l'article 40…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "d44008169354",
    "titre": "Live Updates: GOP picks leaders, Hegseth faces impeachment vote",
    "lien": "https://www.cbsnews.com/live-updates/congress-today-senate-house-leadership-elections/",
    "source": "CBS News",
-   "date": "2026-11-10T21:05:02+00:00",
+   "date": "2026-11-10T21:36:42+00:00",
    "extrait": "House and Senate Republicans held internal elections for their leadership teams on Tuesday as they prepare to become the minority in January.",
    "tags": [
     "Politique"
@@ -38,10 +127,114 @@
    "titre": "House GOP elects Jim Jordan as next leader in major shakeup",
    "lien": "https://www.cbsnews.com/news/jim-jordan-house-minority-leader-republicans/",
    "source": "CBS News",
-   "date": "2026-11-10T21:00:42+00:00",
+   "date": "2026-11-10T21:36:06+00:00",
    "extrait": "Judiciary Committee Chairman Jim Jordan defeated Majority Leader Steve Scalise for the role of minority leader.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "f36e76f9c3d9",
+   "titre": "Rubio says U.S. has \"no need\" to restart combat operations in Iran",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/",
+   "source": "CBS News",
+   "date": "2026-11-10T21:27:41+00:00",
+   "extrait": "Secretary of State Marco Rubio said he saw no need to resume major combat operations against Iran because economic sanctions were working so effectively.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "c8155dccf0da",
+   "titre": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
+   "lien": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-10T21:23:00+00:00",
+   "extrait": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "32a9a34e6ccc",
+   "titre": "Israël : devant la Knesset, Gadi Eisenkot promet des réformes législatives rapides avant même la formation du gouvernement",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/10/israel-devant-la-knesset-gadi-eisenkot-promet-des-reformes-legislatives-rapides-avant-meme-la-formation-du-gouvernement_6808907_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-10T21:22:14+00:00",
+   "extrait": "Même si un nouveau gouvernement n’a pas encore été formé, l’Assemblée peut déjà adopter des lois, dont l’instauration d’une commission d’enquête, dotée de pouvoirs d’investigation, sur le 7 octobre…",
+   "tags": [
+    "Politique",
+    "Conflits",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "6c22ff3622d0",
+   "titre": "First day of Ukraine peace talks constructive, Zelensky says",
+   "lien": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-10T21:21:55+00:00",
+   "extrait": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "3b6e020f2353",
+   "titre": "Mississippi Senate race leans Democratic; Colom holds narrow lead",
+   "lien": "https://www.cbsnews.com/news/mississippi-senate-race-results-2026-midterms/",
+   "source": "CBS News",
+   "date": "2026-11-10T21:19:21+00:00",
+   "extrait": "The Senate race in deep-red Mississippi remains unresolved, as Democrat Scott Colom has mounted a surprisingly competitive challenge to incumbent Sen. Cindy Hyde-Smith.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "bce0b3ad1c09",
+   "titre": "\"La violence n'a pas sa place en démocratie\", condamne Emmanuel Macron après l'agression d'une élue devant un lycée bloqué à Chelles",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/la-violence-n-a-pas-sa-place-en-democratie-condamne-emmanuel-macron-apres-l-agression-d-une-elue-devant-un-lycee-bloque-a-chelles_8276969.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T21:18:35+00:00",
+   "extrait": "Le président de la République a apporté mardi son \"soutien\" à l'élue qui a été \"aspergée d'essence\" devant un lycée bloqué en Seine-et-Marne.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "ced5427ce379",
+   "titre": "Why does Australia want Brits to swap Sydney for the outback?",
+   "lien": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-10T21:17:00+00:00",
+   "extrait": "Australia wants changes to UK deal that would push backpackers out of Bondi and into remote regions.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "022617445295",
+   "titre": "Sanders says he won't support Schumer for majority leader in next Congress",
+   "lien": "https://www.cbsnews.com/video/sanders-says-he-wont-support-schumer-for-majority-leader-in-next-congress/",
+   "source": "CBS News",
+   "date": "2026-11-10T21:12:05+00:00",
+   "extrait": "Sen. Bernie Sanders said Tuesday that he would not support Sen. Chuck Schumer's push to be the next Senate majority leader. CBS News' Taurean Small has more.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "2cdf33579b3a",
+   "titre": "Les Casques bleus au Liban rapportent qu'ils ont essuyé des tirs dans le sud du pays",
+   "lien": "https://www.franceinfo.fr/monde/proche-orient/liban/les-casques-bleus-au-liban-rapportent-qu-ils-ont-essuye-des-tirs-dans-le-sud-du-pays_8276954.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T21:10:56+00:00",
+   "extrait": "Déployée dans le sud du Liban depuis 1978 pour surveiller les hostilités avec Israël, la Finul a perdu sept de ses membresces huit derniers mois. Son mandat se terminera fin décembre.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
   },
   {
    "id": "e9dd35fea20b",
@@ -54,16 +247,6 @@
     "Politique"
    ],
    "zone": "france"
-  },
-  {
-   "id": "f36e76f9c3d9",
-   "titre": "Rubio says U.S. has \"no need\" to restart combat operations in Iran",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/",
-   "source": "CBS News",
-   "date": "2026-11-10T20:58:09+00:00",
-   "extrait": "Rubio said he saw no need to resume major combat operations against Iran because economic sanctions were working so effectively.",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "bb891a8b4ac0",
@@ -86,16 +269,6 @@
     "Justice"
    ],
    "zone": "france"
-  },
-  {
-   "id": "c8155dccf0da",
-   "titre": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
-   "lien": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-10T20:53:33+00:00",
-   "extrait": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
-   "tags": [],
-   "zone": "monde"
   },
   {
    "id": "89584a7f0f4d",
@@ -144,28 +317,6 @@
    "zone": "usa"
   },
   {
-   "id": "d68f526af6ae",
-   "titre": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
-   "lien": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-10T20:40:13+00:00",
-   "extrait": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "665273818f0e",
-   "titre": "Sanders won't back Schumer as Democratic leader in new Congress",
-   "lien": "https://www.cbsnews.com/news/bernie-sanders-chuck-schumer-democratic-leader-senate/",
-   "source": "CBS News",
-   "date": "2026-11-10T20:39:37+00:00",
-   "extrait": "Sen. Bernie Sanders said Tuesday he won't support Sen. Chuck Schumer as Democratic leader in the new Congress, becoming the most prominent progressive to oppose his candidacy to date.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "5615a0ab874f",
    "titre": "US federal authorities could have prevented Epstein crimes, report finds",
    "lien": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&at_campaign=rss",
@@ -202,7 +353,7 @@
    "titre": "Key moments from ex-cop's trial in the death of Sandra Birchmore",
    "lien": "https://www.cbsnews.com/news/matthew-farwell-trial-sandra-birchmore-key-moments/",
    "source": "CBS News",
-   "date": "2026-11-10T20:31:08+00:00",
+   "date": "2026-11-10T20:31:00+00:00",
    "extrait": "A jury in Massachusetts convicted former police officer Matthew Farwell in the 2021 death of 23-year-old Sandra Birchmore.",
    "tags": [
     "Justice"
@@ -321,7 +472,7 @@
    "lien": "https://www.lemonde.fr/politique/article/2026/11/10/eric-zemmour-confirme-sa-candidature-a-l-election-presidentielle_6808904_823448.html",
    "source": "Le Monde",
    "date": "2026-11-10T19:55:14+00:00",
-   "extrait": "Le polémiste d’extrême droite a répété, mardi 10 novembre, sur le plateau de TF1, qu’il concourrait une deuxième fois à l’Elysée, au grand dam de ceux qui lui préfèrent sa compagne, Sarah Knafo.",
+   "extrait": "Le polémiste d’extrême droite a répété, mardi 10 novembre, sur le plateau du « 20 heures » de TF1, qu’il concourrait une deuxième fois à l’Elysée, au grand dam de ceux qui lui préfèrent sa compagne…",
    "tags": [
     "Politique"
    ],
@@ -338,18 +489,6 @@
     "Politique"
    ],
    "zone": "france"
-  },
-  {
-   "id": "3b6e020f2353",
-   "titre": "Mississippi Senate race leans Democratic; Colom holds narrow lead",
-   "lien": "https://www.cbsnews.com/news/mississippi-senate-race-results-2026-midterms/",
-   "source": "CBS News",
-   "date": "2026-11-10T19:47:05+00:00",
-   "extrait": "The Senate race in deep-red Mississippi remains unresolved, as Democrat Scott Colom has mounted a surprisingly competitive challenge to incumbent Sen. Cindy Hyde-Smith.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
   },
   {
    "id": "895b89d65a66",
@@ -822,16 +961,6 @@
    "zone": "usa"
   },
   {
-   "id": "dc68d423cf32",
-   "titre": "\"Comme un petit singe\" : une enseignante suspendue pour propos racistes envers un étudiant noir",
-   "lien": "https://www.franceinfo.fr/societe/racisme/comme-un-petit-singe-une-enseignante-suspendue-pour-propos-racistes-envers-un-etudiant-noir_8276705.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-10T17:34:23+00:00",
-   "extrait": "Les faits remontent à la fin du mois d'octobre, au moment du blocus d'un IUT de l'université CY Cergy Paris Université. Un signalement auprès du procureur de la République, au titre de l'article 40…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
    "id": "729072895cba",
    "titre": "Qui est Vladimir Medinski, l'historien nationaliste à la tête de la délégation russe à Abu Dhabi ?",
    "lien": "https://www.france24.com/fr/europe/20261110-qui-vladimir-medinski-historien-nationaliste-t%C3%AAte-d%C3%A9l%C3%A9gation-russe-abu-dhabi",
@@ -854,18 +983,6 @@
     "Climat"
    ],
    "zone": "france"
-  },
-  {
-   "id": "6c22ff3622d0",
-   "titre": "First day of Ukraine peace talks constructive, Zelensky says",
-   "lien": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-10T17:29:36+00:00",
-   "extrait": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
   },
   {
    "id": "a0e608bd4747",
@@ -3329,126 +3446,6 @@
     "Politique"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "af6475e51f31",
-   "titre": "Emmanuel Macron estime qu'il faut \"interdire\" l'IA là où elle comporte un \"risque\" pour les enfants",
-   "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-estime-qu-il-faut-interdire-l-ia-la-ou-elle-comporte-un-risque-pour-les-enfants_8275799.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-10T07:37:35+00:00",
-   "extrait": "Cette déclaration, relayée par le quotidien \"Les Echos\", intervient à la veille de l'adoption d'une charte en la matière au Forum de Paris sur la paix.",
-   "tags": [
-    "Politique",
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "36a321b2e7f6",
-   "titre": "\"Le marché du travail tient bien\", note Jean-Pierre Farandou qui parle d'une baisse \"satisfaisante\" du chômage",
-   "lien": "https://www.franceinfo.fr/economie/emploi/chomage/chomage-le-marche-du-travail-tient-bien-note-jean-pierre-farandou-qui-parle-d-une-baisse-satisfaisante_8275784.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-10T07:37:14+00:00",
-   "extrait": "Le ministre du Travail a réagi mardi au taux de chômage en France qui reste quasiment stable au troisième trimestre. Jean-Pierre Farandou revient également sur la revalorisation du smic.",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "960cc8d2ce0e",
-   "titre": "Donald Trump dit voir \"un élan positif\" vers un accord avec l'Iran, après sa rencontre avec le Premier ministre qatarien",
-   "lien": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-dit-voir-un-elan-positif-vers-un-accord-avec-l-iran-apres-sa-rencontre-avec-le-premier-ministre-qatari_8275775.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-10T07:33:20+00:00",
-   "extrait": "\"Arrêtez de fabriquer de fausses informations à propos de discussions imaginaires\", a rétorqué le secrétaire du Conseil suprême de sécurité nationale iranien.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "2b4675f2f400",
-   "titre": "Frigos victimes de cyberattaques : la France \"ne s'interdit rien\" dans la riposte contre l'Iran",
-   "lien": "https://www.france24.com/fr/france/20261110-cyberattaque-contre-des-frigos-la-france-dit-ne-s-interdit-rien-dans-la-riposte-contre-l-iran",
-   "source": "France 24",
-   "date": "2026-11-10T07:32:02+00:00",
-   "extrait": "⁠L'ambassadeur d'Iran en France, dont le pays est soupçonné d'être à l'origine des ⁠cyberattaques de grande ampleur ayant visé les réfrigérateurs de plusieurs supermarchés, a été convoqué mardi…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "eca27af82f31",
-   "titre": "\"On ne rentrera jamais dans une salle avec l'extrême droite\" : la première réunion du comité de réforme de Parcoursup tourne court",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-ne-rentrera-jamais-dans-une-salle-avec-l-extreme-droite-la-premiere-reunion-du-comite-de-reforme-parcoursup-tourne-court_8275253.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-10T07:19:43+00:00",
-   "extrait": "Plusieurs représentants de l'intersyndicale lycéenne et étudiante ont quitté lundi soir cette réunion organisée à Matignon autour du Premier ministre.",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "ae3da607dd4b",
-   "titre": "Le chômage se stabilise au troisième trimestre en France, à 8,2 %",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/10/le-chomage-se-stabilise-au-troisieme-trimestre-a-8-2_6808794_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-10T07:16:03+00:00",
-   "extrait": "Après six trimestres de hausse consécutive, le taux de chômage reflue légèrement, à – 0,1 point au troisième trimestre 2026 selon l’Insee. Une statistique à relativiser, toutefois, car sur un an, il…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "670674f2267c",
-   "titre": "Le taux de chômage en France reste quasiment stable au troisième trimestre, à 8,2%",
-   "lien": "https://www.franceinfo.fr/economie/emploi/chomage/le-taux-de-chomage-en-france-reste-quasiment-stable-au-troisieme-trimestre-a-8-2-selon-l-insee_8275856.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-10T07:14:10+00:00",
-   "extrait": "Sur un an, donc en comparaison avec le troisième trimestre 2025, le taux de chômage est en revanche en hausse de 0,4 point, a annoncé l'Insee mardi.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "a3a767f226f9",
-   "titre": "Teddy Riner candidat à la présidentielle : quand tout le monde a un avis sur tout",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261110-t-riner-candidat-%C3%A0-la-pr%C3%A9sidentielle-ou-quand-tout-le-monde-a-un-avis-sur-tout-et-surtout-un-avis",
-   "source": "France 24",
-   "date": "2026-11-10T07:09:06+00:00",
-   "extrait": "À la une de la presse, ce mardi 10 novembre, la perplexité d’une partie de la presse face à la candidature du quintuple médaillé olympique de judo Teddy Riner à la présidentielle de 2027, les…",
-   "tags": [
-    "Politique",
-    "Économie",
-    "Sport"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "fc4a32601c4f",
-   "titre": "Manifestations du 10 novembre à Paris : un parcours et un rassemblement statique imposés par la préfecture",
-   "lien": "https://www.franceinfo.fr/economie/greve/manifestations-du-9-novembre-a-paris-un-parcours-et-un-rassemblement-statique-imposes-mardi-par-la-prefecture_8275178.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-10T07:06:33+00:00",
-   "extrait": "Lundi soir, la préfecture de police a notamment fait savoir que le parcours déposé par le syndicat enseignant FSU était interdit, imposant un trajet entre le Panthéon et la place d'Italie.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "b68c8511804f",
-   "titre": "\"Dette cognitive\" et \"dette émotionnelle\" : la commission IA générative et vulnérabilités rend son rapport à l'Élysée",
-   "lien": "https://www.franceinfo.fr/internet/intelligence-artificielle/dette-cognitive-et-dette-emotionnelle-la-commission-ia-generative-et-vulnerabilites-rend-son-rapport-a-l-elysee_8275853.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-10T06:47:55+00:00",
-   "extrait": "Sur France Inter, Amine Benyamina, co-président de cette commission appelle à \"ne pas rentrer dans le mur\". Selon lui, l'utilisation de l'IA générative peut notamment provoquer une altération de la…",
-   "tags": [
-    "Politique",
-    "Tech"
-   ],
-   "zone": "france"
   }
  ]
 }
