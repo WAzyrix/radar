@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-10T14:05:44+00:00",
+ "maj": "2026-11-10T15:05:44+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,23 +22,133 @@
  "erreurs": [],
  "articles": [
   {
-   "id": "cc6fba4ad1bf",
-   "titre": "Inflation remained elevated in October, CPI report shows",
-   "lien": "https://www.cbsnews.com/news/october-cpi-report-elevated-inflation/",
+   "id": "d44008169354",
+   "titre": "Live Updates: GOP lawmakers elect leaders for new Congress",
+   "lien": "https://www.cbsnews.com/live-updates/congress-today-senate-house-leadership-elections/",
    "source": "CBS News",
-   "date": "2026-11-10T14:05:22+00:00",
-   "extrait": "Inflation rose at a monthly pace of 0.4%, hotter than economists had forecast.",
+   "date": "2026-11-10T15:04:52+00:00",
+   "extrait": "Republicans are scheduled to elect their leaders for the new Congress, and the House will vote on whether to move forward with Defense Secretary Pete Hegseth's impeachment.",
    "tags": [
-    "Économie"
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "d26e8337fb00",
+   "titre": "Video shows home rapidly engulfed in flames after e-bike battery explodes",
+   "lien": "https://www.cbsnews.com/video/video-shows-home-rapidly-engulfed-in-flames-after-e-bike-battery-explodes/",
+   "source": "CBS News",
+   "date": "2026-11-10T14:59:05+00:00",
+   "extrait": "A terrifying video shows a family's home in Oregon engulfed in fire after an e-bike battery exploded. Everyone inside the house made it out safely, authorities said. Tom Hanson reports.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "246819ded9d8",
+   "titre": "Oprah's latest book club pick is \"Solace in Winter\" by Mary Lawson",
+   "lien": "https://www.cbsnews.com/video/oprahs-latest-book-club-pick-is-solace-in-winter-by-mary-lawson/",
+   "source": "CBS News",
+   "date": "2026-11-10T14:57:52+00:00",
+   "extrait": "Oprah Winfrey exclusively announced on \"CBS Mornings\" that her November book club pick is \"Winter in Solace\" by Mary Lawson.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "e9dd35fea20b",
+   "titre": "Mobilisation du 10 novembre : l'intersyndicale lycéenne et étudiante appelle à manifester de nouveau samedi et mardi prochain",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-10-novembre-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-d-action-mardi_8275703.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T14:56:51+00:00",
+   "extrait": "L'intersyndicale de la jeunesse a faite cette annonce, mardi, lors d'une conférence de presse, avant le départ d'une nouvelle manifestation à Paris, rassemblant organisations de jeunesse et…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "c3863f03d6e5",
+   "titre": "California's Unfinished Business | Helping lawmakers hold themselves accountable",
+   "lien": "https://www.cbsnews.com/news/california-lawmakers-audit-accountability-cbs-news-tracker/",
+   "source": "CBS News",
+   "date": "2026-11-10T14:53:25+00:00",
+   "extrait": "CBS News California built a first-of-its-kind public accountability tool tracking state audit recommendations to lawmakers — detailing what lawmakers were told to fix, how audit-backed bills died…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "1a7292006dd8",
+   "titre": "Passenger arrested over alleged murder on cruise ship",
+   "lien": "https://www.cbsnews.com/video/passenger-arrested-over-alleged-murder-on-cruise-ship/",
+   "source": "CBS News",
+   "date": "2026-11-10T14:52:55+00:00",
+   "extrait": "The FBI is investigating an alleged murder on an MSC cruise ship out of Galveston, Texas. Jason Allen reports.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "c511d5a56cda",
+   "titre": "Hegseth decries impeachment effort with vote expected later today",
+   "lien": "https://www.cbsnews.com/news/hegseth-pentagon-briefing-impeachment-iran-war/",
+   "source": "CBS News",
+   "date": "2026-11-10T14:51:16+00:00",
+   "extrait": "Republican Rep. Thomas Massie said a vote in the House is expected later Tuesday on the impeachment resolutions against Defense Secretary Pete Hegseth.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "1ba7f4159ba5",
+   "titre": "Republicans to decide House and Senate leadership after rough midterm performance",
+   "lien": "https://www.cbsnews.com/video/republicans-to-decide-house-and-senate-leadership-after-rough-midterm-performance/",
+   "source": "CBS News",
+   "date": "2026-11-10T14:51:03+00:00",
+   "extrait": "Republicans and Democrats must elect their party leaders in the House and Senate. After their stunning midterm defeat. The House GOP will vote today. CBS News' Nikole Killion has the latest.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "76711a5c6b42",
+   "titre": "Trump defends Hegseth amid impeachment push",
+   "lien": "https://www.cbsnews.com/video/trump-defends-hegseth-amid-impeachment-push/",
+   "source": "CBS News",
+   "date": "2026-11-10T14:49:31+00:00",
+   "extrait": "President Trump defended Defense Secretary Pete Hegseth's record on Monday amid a push for his impeachment, led by Republican Rep. Thomas Massie. Ed O'Keefe reports.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "1f9c2465bfbb",
+   "titre": "L'écrivain Michel Houellebecq mis en examen pour \"complicité de provocation à la discrimination, à la haine ou à la violence\" après des propos sur les musulmans",
+   "lien": "https://www.franceinfo.fr/culture/livres/houellebecq/michel-houellebecq-mis-en-examen-pour-complicite-de-provocation-a-la-discrimination-a-la-haine-ou-a-la-violence-apres-des-propos-sur-les-musulmans_8276459.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T14:47:28+00:00",
+   "extrait": "En cause, des propos tenus par l'écrivain à l'égard des musulmans fin novembre 2022 dans la revue \"Front populaire\", dans un entretien avec le philosophe Michel Onfray.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "589786665d3f",
+   "titre": "Hegseth on the defense during Pentagon briefing as possible impeachment looms",
+   "lien": "https://www.cbsnews.com/video/hegseth-on-the-defense-in-pentagon-briefing/",
+   "source": "CBS News",
+   "date": "2026-11-10T14:47:00+00:00",
+   "extrait": "Defense Secretary Pete Hegseth held his first Pentagon press briefing in six months as he faces heavy scrutiny and potential impeachment over the Iran war. CBS News' Eleanor Watson and Ed O'Keefe…",
+   "tags": [
+    "Conflits"
    ],
    "zone": "usa"
   },
   {
    "id": "adf593f41910",
-   "titre": "Anthropic heads for $1.3 trillion valuation in major stock market listing",
+   "titre": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
    "lien": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-11-10T14:04:22+00:00",
+   "date": "2026-11-10T14:46:50+00:00",
    "extrait": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
    "tags": [
     "Économie",
@@ -47,16 +157,287 @@
    "zone": "monde"
   },
   {
-   "id": "c511d5a56cda",
-   "titre": "Hegseth decries impeachment effort with vote expected later today",
-   "lien": "https://www.cbsnews.com/news/hegseth-pentagon-briefing-impeachment-iran-war/",
+   "id": "cc6fba4ad1bf",
+   "titre": "Inflation remained elevated in October, CPI report shows",
+   "lien": "https://www.cbsnews.com/news/october-cpi-report-elevated-inflation/",
    "source": "CBS News",
-   "date": "2026-11-10T14:02:24+00:00",
-   "extrait": "Republican Rep. Thomas Massie said a vote in the House is expected later Tuesday on the impeachment resolutions against Defense Secretary Pete Hegseth.",
+   "date": "2026-11-10T14:46:21+00:00",
+   "extrait": "Inflation rose at a monthly pace of 0.4%, hotter than economists had forecast.",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "acea9477c80b",
+   "titre": "Will Russia-Ukraine peace talks in Abu Dhabi actually make progress?",
+   "lien": "https://www.cbsnews.com/video/will-russia-ukraine-peace-talks-in-abu-dhabi-actually-make-progress/",
+   "source": "CBS News",
+   "date": "2026-11-10T14:45:52+00:00",
+   "extrait": "Peace talks between the U.S., Russia and Ukraine are underway in Abu Dhabi. The Atlantic Council senior fellow Michael Bociurkiw shares his thoughts.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "baa3dde6285f",
+   "titre": "EN DIRECT, guerre en Ukraine : Marco Rubio juge les pourparlers d’Abou Dhabi « très productifs »",
+   "lien": "https://www.lemonde.fr/international/live/2026/11/10/en-direct-guerre-en-ukraine-marco-rubio-juge-les-pourparlers-d-abou-dhabi-tres-productifs_6808609_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-10T14:43:42+00:00",
+   "extrait": "Les pourparlers de mardi, à Abou Dhabi, entre la Russie et l’Ukraine dans le cadre de la médiation américaine ont été « très productifs », a assuré le secrétaire d’Etat américain, mais il reste…",
+   "tags": [
+    "Conflits",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "c23e5fca9d02",
+   "titre": "IA : Anthropic maintient le timing de son entrée en Bourse et vise jusqu’à 1 400 milliards de dollars de valorisation",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/10/ia-anthropic-maintient-le-timing-de-son-entree-en-bourse-et-vise-jusqu-a-1-400-milliards-de-dollars-de-valorisation_6808850_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-10T14:38:23+00:00",
+   "extrait": "La start-up maison mère de Claude pourrait viser une cotation dès le jeudi 19 novembre, avec un prix de première cotation un peu revu à la baisse.",
+   "tags": [
+    "Économie",
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "6c22ff3622d0",
+   "titre": "First day of Ukraine peace talks 'very productive', US says",
+   "lien": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-10T14:36:57+00:00",
+   "extrait": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "4b6f442377a7",
+   "titre": "Gas prices dip below $4 but inflation remains stubbornly high",
+   "lien": "https://www.npr.org/2026/11/10/nx-s1-6034518/inflation-consumer-prices-economy-gas-prices",
+   "source": "NPR",
+   "date": "2026-11-10T14:35:50+00:00",
+   "extrait": "Gasoline prices fell below $4 a gallon Tuesday for the first time in three months — but the overall cost of living remains stubbornly high.",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "f36e76f9c3d9",
+   "titre": "Trump says Iran war at \"status quo,\" warns U.S. \"locked and loaded\"",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/",
+   "source": "CBS News",
+   "date": "2026-11-10T14:34:47+00:00",
+   "extrait": "President Trump told 60 Minutes the war with Iran was a \"good decision\" in the long term, despite its short-term impact.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "5c3f3ad61f98",
+   "titre": "Israël : le Parlement tient sa première session, tandis que Gadi Eisenkot promet de former un nouveau gouvernement « le plus vite possible »",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/10/israel-le-parlement-tient-sa-premiere-session-tandis-que-gadi-eisenkot-promet-de-former-un-nouveau-gouvernement-le-plus-vite-possible_6808849_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-10T14:32:46+00:00",
+   "extrait": "Le premier enjeu pour les nouveaux députés sera l’élection du président du Parlement, poste occupé pour le moment par Amir Ohana, membre du Likoud, le parti de Benyamin Nétanyahou. Plusieurs…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "0f0094f2c45b",
+   "titre": "Face à la cyberattaque en France attribuée à l'Iran, l'Union européenne se dit prête à une réponse \"rapide et unie\"",
+   "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/face-a-la-cyberattaque-en-france-attribuee-a-l-iran-l-union-europeenne-se-dit-prete-a-une-reponse-rapide-et-unie_8276429.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T14:31:30+00:00",
+   "extrait": "Face aux cyberattaques, \"nous continuerons de traiter ce type de comportement malveillant en utilisant tous les outils dont nous disposons\", y compris les \"sanctions\", a déclaré Anouar El Anouni…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "bab41b15e9e8",
+   "titre": "Elections législatives en Espagne : l’immigration, enjeu controversé de la campagne électorale",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/10/espagne-l-immigration-enjeu-controverse-de-la-campagne-electorale_6808847_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-10T14:30:06+00:00",
+   "extrait": "Alors que les îles Canaries sont sujettes à une nouvelle vague migratoire avec l’arrivée en quelques jours de 6 000 migrants, l’état d’urgence y a été décrété le vendredi 6 novembre. En campagne…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "b6326ff03efd",
+   "titre": "Grasset : les auteurs vent debout contre la nomination de Lise Boëll",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/10/les-auteurs-vent-debout-contre-la-nomination-de-lise-boell-a-la-tete-de-grasset_6808846_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-10T14:29:45+00:00",
+   "extrait": "Alors que l’arrivée de la nouvelle équipe de direction a été accueillie de façon glaciale par les salariés, une virulente tribune des auteurs qui ont quitté la maison s’oppose au « pillage » de…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "32d8aa0fe195",
+   "titre": "Nvidia CEO grapples with affair fallout amid questions over what White House knew",
+   "lien": "https://www.cbsnews.com/video/nvidia-ceo-grapples-affair-fallout-amid-questions-what-white-house-knew/",
+   "source": "CBS News",
+   "date": "2026-11-10T14:29:03+00:00",
+   "extrait": "Nvidia CEO Jensen Huang is facing an investigation by his company's board after his affair with an alleged Chinese spy. Meanwhile, President Trump defended Huang amid questions over how much the…",
    "tags": [
     "Politique"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "3c92a6d88ac6",
+   "titre": "En direct : le président israélien annonce officiellement l'investiture du nouveau Parlement",
+   "lien": "https://www.france24.com/fr/moyen-orient/20261110-en-direct-le-pr%C3%A9sident-isra%C3%A9lien-annonce-officiellement-l-investiture-du-nouveau-parlement",
+   "source": "France 24",
+   "date": "2026-11-10T14:29:01+00:00",
+   "extrait": "En ouvrant la session inaugurale du nouveau Parlement, le président Isaac Herzog a exhorté mardi les différentes forces politiques à faire des compromis pour doter Israël d'un nouveau gouvernement…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "6659fbe2890f",
+   "titre": "Arrests made in Mohamed Al Fayed probe in France, police say",
+   "lien": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-10T14:29:00+00:00",
+   "extrait": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "d65380aa1f24",
+   "titre": "Key moments from ex-cop's trial in the death of Sandra Birchmore",
+   "lien": "https://www.cbsnews.com/news/matthew-farwell-trial-sandra-birchmore-key-moments/",
+   "source": "CBS News",
+   "date": "2026-11-10T14:28:00+00:00",
+   "extrait": "A jury in Massachusetts is deliberating the fate of former police officer Matthew Farwell, who is charged in the 2021 death of 23-year-old Sandra Birchmore.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "1d69af9e8c67",
+   "titre": "Meghan and Harry do first public event since her father's arrest",
+   "lien": "https://www.cbsnews.com/news/prince-harry-meghan-eu-thomas-markle-arrest-child-sex-abuse-images/",
+   "source": "CBS News",
+   "date": "2026-11-10T14:22:30+00:00",
+   "extrait": "Harry and Meghan's first appearance since the duchess's estranged father was arrested over alleged child sex abuse imagery was at an EU event on online safety for kids.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "f3a4563d7937",
+   "titre": "What to know about new GLP-1 warning on possible vision loss",
+   "lien": "https://www.cbsnews.com/video/what-to-know-about-new-glp-1-warning-on-possible-vision-loss/",
+   "source": "CBS News",
+   "date": "2026-11-10T14:21:12+00:00",
+   "extrait": "Dr. Jon LaPook joins \"CBS Mornings\" to break down the facts on a new warning about GLP-1 medications causing possible vision loss.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "2ff5ffbf93e5",
+   "titre": "Eye Opener: Nvidia's Jensen Huang deals with affair fallout",
+   "lien": "https://www.cbsnews.com/video/eye-opener-nvidia-jensen-huang-deals-with-affair-fallout/",
+   "source": "CBS News",
+   "date": "2026-11-10T14:21:05+00:00",
+   "extrait": "Nvidia CEO Jensen Huang is dealing with fallout after his affair with an alleged Chinese spy. All that and all that matters in today's Eye Opener.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "db60a703114c",
+   "titre": "'Like gods reigning over humans': Many defectors see daughter of North Korea's Kim as heir apparent",
+   "lien": "https://www.npr.org/2026/11/10/g-s1-152795/like-gods-reigning-over-humans-many-defectors-see-daughter-of-north-koreas-kim-as-heir-apparent",
+   "source": "NPR",
+   "date": "2026-11-10T14:16:53+00:00",
+   "extrait": "Little is known about her except that she's reportedly about 13 and named Kim Ju Ae, but Korea's spy agency says she's likely her father's heir.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "4c78fdaa9f1b",
+   "titre": "La pétition pour « supprimer CNews de l’audiovisuel français » est enterrée par l’Assemblée nationale",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/10/la-petition-pour-supprimer-cnews-de-l-audiovisuel-francais-est-enterree-par-l-assemblee-nationale_6808844_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-10T14:16:10+00:00",
+   "extrait": "Les députés de la commission des affaires culturelles ont décidé, mardi 10 novembre, de classer le texte qui avait dépassé le million de signataires dimanche.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "0c26e4e6a97e",
+   "titre": "Qu'est-ce que Shahid Kaveh, le groupe cyber iranien accusé d'avoir attaqué les frigos de supermarchés en France ?",
+   "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/qu-est-ce-que-shahid-kaveh-le-groupe-cyber-iranien-accuse-d-avoir-attaque-les-frigos-de-supermarches-en-france_8276177.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T14:11:19+00:00",
+   "extrait": "La France affirme que l'Iran est responsable de la cyberattaque qui a perturbé des centaines de magasins mi-octobre. L'unité Shahid Kaveh, rattachée aux Gardiens de la Révolution iraniens et…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "bb1e72c2062f",
+   "titre": "Jet de bouteille d'essence, enquête ouverte… Ce que l'on sait de l'agression d'une conseillère régionale devant un lycée de Chelles",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/jet-de-bouteille-d-essence-enquete-ouverte-ce-que-l-on-sait-de-l-agression-d-une-conseillere-regionale-devant-un-lycee-de-chelles_8276324.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T14:04:25+00:00",
+   "extrait": "Une élue régionale LR a reçu une bouteille d'essence dans la poitrine, mardi matin, alors qu'elle était venue négocier le retour en classe des élèves d'un lycée de cette ville de région parisienne…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "4fa508c8b753",
+   "titre": "Ce que l’on sait sur les exercices de l’armée chinoise autour de Taïwan",
+   "lien": "https://www.france24.com/fr/asie-pacifique/20261110-ce-que-l-on-sait-sur-les-exercices-de-l-arm%C3%A9e-chinoise-autour-de-ta%C3%AFwan",
+   "source": "France 24",
+   "date": "2026-11-10T14:02:50+00:00",
+   "extrait": "Depuis le début du mois de novembre, la Chine mène des exercices militaires majeurs autour de Taïwan. Mais contrairement à ce que laissent entendre des internautes, les forces armées chinoises n’ont…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "8ffa6ca1e69e",
+   "titre": "La pétition appelant à \"supprimer CNews de l'audiovisuel français\" classée en commission à l'Assemblée nationale",
+   "lien": "https://www.franceinfo.fr/politique/la-petition-appelant-a-supprimer-cnews-de-l-audiovisuel-francais-classee-par-la-commission-de-l-assemblee-nationale_8276303.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T14:02:17+00:00",
+   "extrait": "Les députés de la commission des affaires culturelles et de l'éducation se sont opposés, d'une courte majorité, à l'organisation d'un débat dans l'hémicycle sur ce texte, qui a recueilli plus d'un…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
   },
   {
    "id": "743177fa1ba7",
@@ -82,16 +463,28 @@
    "zone": "usa"
   },
   {
-   "id": "d44008169354",
-   "titre": "Live Updates: House, Senate GOP hold leadership elections",
-   "lien": "https://www.cbsnews.com/live-updates/congress-today-senate-house-leadership-elections/",
+   "id": "92f34abb5bbe",
+   "titre": "Nvidia in crisis amid probe into CEO's affair with alleged Chinese spy",
+   "lien": "https://www.cbsnews.com/video/nvidia-in-crisis-amid-probe-into-ceos-affair-with-alleged-chinese-spy/",
    "source": "CBS News",
-   "date": "2026-11-10T14:01:05+00:00",
-   "extrait": "Republicans in Congress are scheduled to elect their leaders for the new Congress on Tuesday, as they regroup following Democrats' victories last week that flipped both chambers.",
+   "date": "2026-11-10T14:01:09+00:00",
+   "extrait": "Tech giant Nvidia's future is unclear after CEO Jensen Huang admitted to an affair with an alleged Chinese spy. CBS News' Bradley Blackburn reports, plus financial journalist Bill Cohan shares his…",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "5811d606ac67",
+   "titre": "Présidentielle 2027 : David Lisnard et les raisons d’une surprenante percée libérale",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/10/presidentielle-2027-david-lisnard-et-les-raisons-d-une-percee-liberale-inattendue_6808840_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-10T14:00:03+00:00",
+   "extrait": "Longtemps sous-estimé par ses adversaires, le maire de Cannes est la sensation de cet automne à droite. Passé plusieurs fois devant Bruno Retailleau dans les sondages, le candidat mise sur une…",
    "tags": [
     "Politique"
    ],
-   "zone": "usa"
+   "zone": "france"
   },
   {
    "id": "e353a147a5a9",
@@ -106,6 +499,16 @@
    "zone": "france"
   },
   {
+   "id": "3c3dda88bebe",
+   "titre": "Des enseignants d'un lycée de Tours, en Indre-et-Loire, exercent leur droit de retrait face à des menaces",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/des-enseignants-d-un-lycee-de-tours-en-indre-et-loire-exercent-leur-droit-de-retrait-face-a-des-menaces_8276387.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T13:55:07+00:00",
+   "extrait": "Ces enseignants s'inquiètent de menaces à l'encontre de la proviseure du lycée et de la découverte d'éléments nécessaires à la fabrication de cocktails Molotov près de l'établissement.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "f90b49c909cd",
    "titre": "\"C'est au peuple de décider ce qu'il veut\" : on vous résume la polémique suscitée par les propos de Jean-Luc Mélenchon sur l'Ukraine",
    "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/c-est-au-peuple-de-decider-lui-meme-ce-qu-il-veut-on-vous-resume-la-polemique-suscitee-par-les-propos-de-jean-luc-melenchon-sur-l-ukraine_8276072.html#xtor=RSS-3-[lestitres]",
@@ -114,18 +517,6 @@
    "extrait": "Le candidat de La France insoumise à la présidentielle a proposé que la population ukrainienne du Donbass, en grande partie occupée par les Russes, soit consultée pour savoir si elle voulait rester…",
    "tags": [
     "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "8ffa6ca1e69e",
-   "titre": "La pétition appelant à \"supprimer CNews de l'audiovisuel français\" classée en commission à l'Assemblée nationale",
-   "lien": "https://www.franceinfo.fr/politique/la-petition-appelant-a-supprimer-cnews-de-l-audiovisuel-francais-classee-par-la-commission-de-l-assemblee-nationale_8276303.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-10T13:50:09+00:00",
-   "extrait": "Les députés de la commission des affaires culturelles et de l'éducation se sont opposés, d'une courte majorité, à l'organisation d'un débat dans l'hémicycle sur ce texte, qui a recueilli plus d'un…",
-   "tags": [
-    "Politique"
    ],
    "zone": "france"
   },
@@ -165,17 +556,14 @@
    "zone": "monde"
   },
   {
-   "id": "f36e76f9c3d9",
-   "titre": "Trump says Iran war at \"status quo,\" warns U.S. \"locked and loaded\"",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/",
-   "source": "CBS News",
-   "date": "2026-11-10T13:42:25+00:00",
-   "extrait": "President Trump told 60 Minutes the war with Iran was a \"good decision\" in the long term, despite its short-term impact.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
+   "id": "6366df4fe0b9",
+   "titre": "En Loire-Atlantique, un conducteur de car scolaire fait un malaise au volant, une quinzaine d'adolescents étaient à bord",
+   "lien": "https://france3-regions.franceinfo.fr/pays-de-la-loire/loire-atlantique/nantes/un-conducteur-de-car-scolaire-fait-un-malaise-au-volant-une-quinzaine-d-adolescents-etaient-a-bord-3447462.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T13:41:55+00:00",
+   "extrait": "Les sapeurs-pompiers sont intervenus à bord d'un autocar pour prendre en charge son conducteur, victime d'un malaise sur la commune de Noyal-sur-Brutz, en Loire-Atlantique. Il assurait alors le…",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "41361067a938",
@@ -191,21 +579,11 @@
    "zone": "monde"
   },
   {
-   "id": "e9dd35fea20b",
-   "titre": "Manifestations du 10 novembre : le cortège parisien s'est élancé depuis le Panthéon",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-10-novembre-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-d-action-mardi_8275703.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-10T13:37:32+00:00",
-   "extrait": "Dans l'Education nationale, la grève \"s'annonce suivie à certains endroits\", a estimé Sophie Vénétitay. Selon la secrétaire générale du Snes-FSU, la mobilisation devrait toutefois être moins…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
    "id": "df1de38da92f",
    "titre": "Cyberattaque contre des réfrigérateurs de supermarchés : l’Iran rejette « les accusations infondées » de la France",
    "lien": "https://www.lemonde.fr/international/article/2026/11/10/cyberattaque-contre-des-refrigerateurs-de-supermarches-l-iran-rejette-les-accusations-infondees-de-la-france_6808797_3211.html",
    "source": "Le Monde",
-   "date": "2026-11-10T13:34:08+00:00",
+   "date": "2026-11-10T13:34:05+00:00",
    "extrait": "La France a officiellement attribué à une unité cyber relevant du corps des Gardiens de la révolution de la République islamique la responsabilité de la cyberattaque d’ampleur contre des contrôleurs…",
    "tags": [],
    "zone": "france"
@@ -215,7 +593,7 @@
    "titre": "Is travel insurance worth it? When it pays off",
    "lien": "https://www.cbsnews.com/news/is-travel-insurance-worth-it-when-it-pays-off/",
    "source": "CBS News",
-   "date": "2026-11-10T13:33:22+00:00",
+   "date": "2026-11-10T13:33:00+00:00",
    "extrait": "Travel insurance makes sense in many scenarios, but is it right for every traveler? Here's when it can pay off.",
    "tags": [],
    "zone": "usa"
@@ -732,6 +1110,18 @@
    "zone": "france"
   },
   {
+   "id": "65d42faac30a",
+   "titre": "Aux États-Unis, la politique migratoire favorise l'essor des restaurants indiens",
+   "lien": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/aux-etats-unis-la-politique-migratoire-favorise-l-essor-des-restaurants-indiens_8254996.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T11:14:38+00:00",
+   "extrait": "Sur le bord des routes californiennes, on trouve de plus en plus de restaurants proposant de la cuisine indienne. Un essor dû en partie à la politique anti-migrants de l'administration de Donald…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "aeccb629023a",
    "titre": "Affaire Huang : soupçons d'espionnage chez Nvidia, roi des puces d'IA",
    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261110-affaire-huang-soup%C3%A7ons-d-espionnage-chez-nvidia-roi-des-puces-d-ia",
@@ -799,13 +1189,12 @@
   },
   {
    "id": "30a5c026a295",
-   "titre": "U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
+   "titre": "Russia and Ukraine hold nearly 4 hours of U.S.-mediated talks in Abu Dhabi",
    "lien": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks",
    "source": "NPR",
    "date": "2026-11-10T10:58:18+00:00",
-   "extrait": "The two-day session in the UAE's capital, Abu Dhabi, is the first such meeting since February. It will focus on security guarantees, the White House said before the discussions.",
+   "extrait": "Hopes of progress in ending Europe's biggest conflict since World War II are tempered by the absence of any significant breakthroughs in three previous rounds of talks early this year.",
    "tags": [
-    "Politique",
     "Conflits"
    ],
    "zone": "usa"
@@ -1150,6 +1539,18 @@
    "zone": "france"
   },
   {
+   "id": "b9192607b631",
+   "titre": "La disparition à 104 ans de Solange Alexandre, une des rares résistantes à avoir dirigé des maquisards",
+   "lien": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/la-disparition-a-104-ans-de-solange-alexandre-une-des-rares-resistantes-a-avoir-dirige-des-maquisards_8275781.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T09:40:43+00:00",
+   "extrait": "Agente de liaison, espionne et cheffe de maquis en Touraine, Solange Alexandre est entrée en résistance à 18 ans pour défendre la liberté pendant la Seconde Guerre mondiale. Un engagement qu'elle a…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "3ac6d44b8143",
    "titre": "Trump says more US attacks on Iran 'highly unlikely'",
    "lien": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
@@ -1256,18 +1657,6 @@
    "zone": "france"
   },
   {
-   "id": "6c22ff3622d0",
-   "titre": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-   "lien": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-10T09:07:00+00:00",
-   "extrait": "Kyiv, Washington and Moscow have all sent delegations to the United Arab Emirates for the first trilateral talks since February.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
    "id": "dd591a80d64b",
    "titre": "Cyberattaques contre les supermarchés : pourquoi l'Iran mène-t-il une guerre économique en France ?",
    "lien": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261110-cyberattaques-contre-les-supermarch%C3%A9s-pourquoi-l-iran-m%C3%A8ne-t-il-une-guerre-%C3%A9conomique-en-france",
@@ -1296,6 +1685,16 @@
    "source": "Le Monde",
    "date": "2026-11-10T08:59:19+00:00",
    "extrait": "Le sportif de haut niveau a créé la surprise, lundi, en déclarant se présenter pour « relever la France », tout en n’étant « ni de droite ni de gauche ». Quelques dossiers, notamment fiscaux…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "72a55833fc1e",
+   "titre": "\"Canons à son\" ou \"avertisseurs sonores\" : que sait-on du son strident utilisé par la gendarmerie pendant une manifestation à Bordeaux ?",
+   "lien": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-canons-a-son-ou-avertisseurs-sonores-que-sait-on-du-son-strident-utilise-par-la-gendarmerie-pendant-une-manifestation-a-bordeaux_8255014.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T08:58:44+00:00",
+   "extrait": "Manon Aubry, députée européenne La France insoumise, affirme que la gendarmerie a utilisé des \"canons à son contre des manifestants\" samedi à Bordeaux et publie une vidéo de blindés Centaures qui…",
    "tags": [],
    "zone": "france"
   },
@@ -2211,7 +2610,7 @@
    "titre": "FDA warns of rare vision-loss side effect from GLP-1 drugs",
    "lien": "https://www.cbsnews.com/news/glp-1-vision-loss-side-effect-warning-fda/",
    "source": "CBS News",
-   "date": "2026-11-10T00:54:39+00:00",
+   "date": "2026-11-10T00:54:00+00:00",
    "extrait": "The Food and Drug Administration is adding a new warning about possible rare cases of vision loss reported with GLP-1 drugs like Ozempic, Wegovy and other brands.",
    "tags": [],
    "zone": "usa"
@@ -2293,7 +2692,7 @@
    "titre": "Massie introduces Hegseth impeachment articles, teeing up vote",
    "lien": "https://www.cbsnews.com/news/pete-hegseth-impeachment-vote-house-thomas-massie/",
    "source": "CBS News",
-   "date": "2026-11-10T00:36:12+00:00",
+   "date": "2026-11-10T00:36:00+00:00",
    "extrait": "Rep. Thomas Massie on Monday introduced articles of impeachment against Defense Secretary Pete Hegseth, accusing him of waging war against Iran without congressional authorization.",
    "tags": [
     "Politique",
@@ -2934,18 +3333,6 @@
    "zone": "usa"
   },
   {
-   "id": "d65380aa1f24",
-   "titre": "Key moments from ex-cop's trial in the death of Sandra Birchmore",
-   "lien": "https://www.cbsnews.com/news/matthew-farwell-trial-sandra-birchmore-key-moments/",
-   "source": "CBS News",
-   "date": "2026-11-09T21:35:00+00:00",
-   "extrait": "A jury in Massachusetts is deliberating the fate of former police officer Matthew Farwell, who is charged in the 2021 death of 23-year-old Sandra Birchmore.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "d1d0e7a0952b",
    "titre": "Succession de Christine Lagarde à la tête de la BCE : Paris pourrait soutenir Pablo Hernandez de Cos face à Klaas Knot dans la course à la présidence",
    "lien": "https://www.lemonde.fr/economie/article/2026/11/09/succession-de-christine-lagarde-a-la-tete-de-la-bce-paris-pourrait-soutenir-pablo-hernandez-de-cos-face-a-klaas-knot-dans-la-course-a-la-presidence_6808703_3234.html",
@@ -3106,393 +3493,6 @@
     "Conflits"
    ],
    "zone": "france"
-  },
-  {
-   "id": "964218fcb336",
-   "titre": "Le ministre américain de la Défense Pete Hegseth visé par une procédure de destitution",
-   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261109-%C3%A9tats-unis-ministre-d%C3%A9fense-pete-hegseth-vis%C3%A9-proc%C3%A9dure-destitution",
-   "source": "France 24",
-   "date": "2026-11-09T20:28:53+00:00",
-   "extrait": "Un député républicain a lancé lundi une procédure de mise en accusation du controversé ministre américain de la Défense, Pete Hegseth, fragilisé par la percée démocrate aux midterms. Elle devrait…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "a10a651685da",
-   "titre": "Caméras, brigade de surveillance… Ces communes qui luttent activement contre les dépôts sauvages d'ordures",
-   "lien": "https://www.franceinfo.fr/environnement/actions-ecologiques/gestion-des-dechets/cameras-brigade-de-surveillance-ces-communes-qui-luttent-activement-contre-les-depots-sauvages-d-ordures_8275148.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T20:25:56+00:00",
-   "extrait": "C'est un problème auquel de nombreux maires se heurtent : les décharges sauvages, dont le nettoyage coûte cher aux communes. Alors, comment empêcher ces dépôts ? Les équipes du \"20 Heures\" se sont…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "38fdffc30428",
-   "titre": "Domicile d'un policier incendié à Auch : pas de lien avec sa profession à ce stade, selon le parquet",
-   "lien": "https://www.franceinfo.fr/faits-divers/domicile-d-un-policier-incendie-a-auch-pas-de-lien-avec-sa-profession-a-ce-stade-selon-le-parquet_8275139.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T20:25:38+00:00",
-   "extrait": "Le ministre de l'Intérieur avait affirmé samedi soir que \"tout laisse à penser que cet acte criminel intolérable a été commis en raison de la profession de ce policier\"",
-   "tags": [
-    "Politique",
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "05e327e8ffc5",
-   "titre": "Le maire d'Evreux, dans l'Eure, a saisi le Conseil d'Etat pour contester l'annulation des deux tours de l'élection municipale",
-   "lien": "https://www.franceinfo.fr/elections/municipales/le-maire-d-evreux-dans-l-eure-a-saisi-le-conseil-d-etat-pour-contester-l-annulation-des-deux-tours-de-l-election-municipale_8275130.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T20:18:38+00:00",
-   "extrait": "En cas de confirmation du jugement rendu par le tribunal administratif de Rouen, de nouvelles élections devront être organisées au plus tard début août 2027.",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "073f1a3aee8c",
-   "titre": "Google faces mounting backlash for controversial AI school policy",
-   "lien": "https://www.cbsnews.com/news/ed-markey-google-ai-search-schools/",
-   "source": "CBS News",
-   "date": "2026-11-09T20:14:20+00:00",
-   "extrait": "Google puts schools in an \"impossible position\" by blocking students from using its search platform unless AI tools are also enabled, Senator said.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "299b46164b3d",
-   "titre": "La situation des nappes phréatiques en France reste \"très préoccupante\", malgré une pluviométrie \"conforme à la normale\" en octobre",
-   "lien": "https://www.franceinfo.fr/environnement/la-situation-des-nappes-phreatiques-en-france-reste-tres-preoccupante-malgre-une-pluviometrie-conforme-a-la-normale-en-octobre_8274644.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T20:06:28+00:00",
-   "extrait": "Au 1er novembre, 64% des points d'observation des nappes restaient en dessous des normales, contre 66% un mois plus tôt, précise le Bureau de recherches géologiques et minières.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "052a30a5271a",
-   "titre": "Why shopping for car insurance is important now",
-   "lien": "https://www.cbsnews.com/news/why-shopping-for-car-insurance-is-important-now/",
-   "source": "CBS News",
-   "date": "2026-11-09T20:06:20+00:00",
-   "extrait": "Your current car insurance policy may no longer be your best option. Here's why it's worth comparing your options.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "6d347233b445",
-   "titre": "Guerre en Ukraine : le Canada annonce des sanctions supplémentaires contre la Russie",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-le-canada-annonce-des-sanctions-supplementaires-contre-la-russie_8274593.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T20:04:16+00:00",
-   "extrait": "Le Canada cible en particulier la base industrielle de défense avec des sanctions contre \"des acteurs impliqués dans le développement de la technologie des missiles balistiques et dans les activités…",
-   "tags": [
-    "Conflits",
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c1a8be3a6f4b",
-   "titre": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-   "lien": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-09T19:58:01+00:00",
-   "extrait": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "af64079e58e0",
-   "titre": "Solange Alexandre, ancienne résistante et cheffe de maquis, est morte à l’âge de 104 ans",
-   "lien": "https://www.lemonde.fr/disparitions/article/2026/11/09/solange-alexandre-ancienne-resistante-et-cheffe-de-maquis-est-morte-a-l-age-de-104-ans_6808698_3382.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T19:56:55+00:00",
-   "extrait": "Sous le nom de code « Corlay », elle avait été agente de liaison et espionne avant de créer en 1944 le maquis « Pas-de-Bœuf » à Ruillé-sur-Loir. Elle avait terminé la guerre avec le grade de…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "869043b798d2",
-   "titre": "Une semaine après son redressement judiciaire, le BHV ferme ses portes",
-   "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261109-une-semaine-apr%C3%A8s-son-redressement-judiciaire-le-bhv-ferme-ses-portes",
-   "source": "France 24",
-   "date": "2026-11-09T19:38:01+00:00",
-   "extrait": "Placé en redressement judiciaire le 2 novembre, le BHV Marais, célèbre grand magasin parisien, a été contraint de fermer ses portes lundi soir. La direction invoque une simple \"régularisation…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "ab461ed5ac46",
-   "titre": "Watch: Massie introduces new impeachment articles against Hegseth",
-   "lien": "https://www.cbsnews.com/video/watch-massie-introduces-new-impeachment-articles-against-hegseth/",
-   "source": "CBS News",
-   "date": "2026-11-09T19:36:34+00:00",
-   "extrait": "Republican Rep. Thomas Massie on Monday introduced updated articles of impeachment against Defense Secretary Pete Hegseth. Following Massie's remarks, CBS News' Taurean Small provided additional…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "8456ee5312ec",
-   "titre": "EN DIRECT, mobilisation lycéenne : les discussions avec Sébastien Lecornu tournent court, une grande partie des organisations lycéennes et étudiantes ont quitté Matignon",
-   "lien": "https://www.lemonde.fr/politique/live/2026/11/09/en-direct-mobilisation-lyceenne-au-lendemain-des-discussions-avec-sebastien-lecornu-lyceens-et-etudiants-sont-appeles-a-manifester-mardi_6808627_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T19:29:54+00:00",
-   "extrait": "Parmi les organisations de jeunesse, seuls Renouveau lycéen, l’UNI et quelques élus du Conseil national de la vie lycéenne ont choisi de rester dans une réunion à laquelle participait le premier…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "1894672e0920",
-   "titre": "Procès des parents \"de la petite martyre de l'A10\" : revivez la journée d'audience dédiée aux expertises psychologiques et psychiatriques des accusés",
-   "lien": "https://www.franceinfo.fr/faits-divers/martyre-de-l-a10/direct-proces-des-parents-de-la-petite-martyre-de-l-a10-la-personnalite-des-deux-accuses-au-c-ur-du-sixieme-jour-d-audience_8274377.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T19:29:33+00:00",
-   "extrait": "Les parents de la fillette, retrouvée morte à 4 ans le 11 août 1987, le long de l'autoroute A10, sont jugés pour \"actes de torture et de barbarie ayant entraîné la mort sans intention de la donner\"…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "712320a428bc",
-   "titre": "Le nombre d'overdoses mortelles a plus que doublé en 10 ans en France, alerte l'Office antistupéfiants",
-   "lien": "https://www.franceinfo.fr/sante/les-overdoses-ont-plus-que-double-en-10-ans-alerte-l-office-antistupefiants_8275040.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T19:19:32+00:00",
-   "extrait": "Les drogues de synthèse, très accessibles et en plein essor, représentent une menace supplémentaire, pointe l'Ofast dans une note consultée lundi par l'AFP.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "237b35a0add6",
-   "titre": "U.S. gas prices on track to fall below $4 a gallon, experts say",
-   "lien": "https://www.cbsnews.com/news/gas-prices-below-four-dollars-expert-predicts/",
-   "source": "CBS News",
-   "date": "2026-11-09T19:15:46+00:00",
-   "extrait": "Fuel prices have dropped in recent weeks amid hopes that the midterm elections would increase pressure on the U.S. and Iran to reach a peace deal.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "b4fa6f4535e6",
-   "titre": "\"Ça ne peut qu'apporter au pays\" : Emmanuel Macron félicite Teddy Riner pour sa candidature à l'élection présidentielle",
-   "lien": "https://www.franceinfo.fr/elections/presidentielle/ca-ne-peut-qu-apporter-au-pays-emmanuel-macron-felicite-teddy-riner-pour-sa-candidature-a-l-election-presidentielle_8275085.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T19:15:21+00:00",
-   "extrait": "Auprès de France 5, le président de la République a salué \"un grand champion\". Plus tôt lundi, le judoka français a pris de court la classe politique en se lançant dans la course à l'Elysée.",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "fef15bac4418",
-   "titre": "NASA is recruiting new astronauts. Here are the qualifications.",
-   "lien": "https://www.cbsnews.com/news/nasa-hiring-astronaut-applications-requirements-moon/",
-   "source": "CBS News",
-   "date": "2026-11-09T19:11:04+00:00",
-   "extrait": "The space agency is recruiting its next class of astronauts as the U.S. plans a new mission to the moon. Here's the kind of person NASA is looking for.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "7e770681b727",
-   "titre": "Millions fill Buenos Aires streets to welcome Pope Leo XIV",
-   "lien": "https://www.bbc.co.uk/news/videos/cvp8g82pled5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-09T19:09:27+00:00",
-   "extrait": "The Pope celebrated an outdoor Mass in Argentina's capital, the second stop on a 12-day tour of Latin America, just three weeks after having had surgery for lung cancer.",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "6ee7353a4bf7",
-   "titre": "En Guadeloupe, une juge chargée de l'enquête sur l'accident d'un homme renversé par une voiture de gendarmerie",
-   "lien": "https://la1ere.franceinfo.fr/guadeloupe/wendy-olibrice-percute-par-un-vehicule-de-gendarmerie-une-juge-d-instruction-desormais-chargee-de-l-enquete-1756182.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T19:05:05+00:00",
-   "extrait": "L'enquête sur l'accident qui a grièvement blessé Wendy Olibrice, 23 ans, dans la nuit du 20 au 21 octobre à Basse-Terre, connaît une nouvelle étape. Une juge d'instruction a été saisie le 6…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "d8a4e7268ade",
-   "titre": "Le maire de Fréjus, David Rachline, interdit la chasse et le foie gras et suscite l’ire du RN",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/09/le-maire-de-frejus-david-rachline-interdit-la-chasse-et-le-foie-gras-et-suscite-l-ire-du-rn_6808696_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T19:00:00+00:00",
-   "extrait": "L’ancien numéro trois du Rassemblement national, écarté des instances dirigeantes, promeut dans sa ville le végétarisme et un autre choix que le foie gras. Une atteinte à « l’art de vivre à la…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "c52aa075688b",
-   "titre": "Les pays nordiques freinent le déploiement des data centers",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/09/les-pays-nordiques-freinent-le-deploiement-des-data-centers_6808695_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T18:52:11+00:00",
-   "extrait": "Face à l’envol de la consommation d’électricité causé par les centres de données, la Norvège a annoncé, lundi 9 novembre, dans la foulée du Danemark et de la Finlande, des restrictions pour limiter…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "5d50f342b44b",
-   "titre": "Gabon : le Bloc des Cinq dénonce le blocage de la réforme des partis politques",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261109-gabon-le-bloc-des-cinq-d%C3%A9nonce-le-blocage-de-la-r%C3%A9forme-des-partis-politques",
-   "source": "France 24",
-   "date": "2026-11-09T18:47:51+00:00",
-   "extrait": "🇬🇦 Au Gabon, le blocage du processus de réforme des partis politiques suscite de vives tensions. Cinq mois après l’échéance du 27 juin, le ministère de l’Intérieur n’a toujours pas rendu ses…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "66defa021c7e",
-   "titre": "COP31 : le monde face au défi climatique",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261109-cop31-le-monde-face-au-d%C3%A9fi-climatique",
-   "source": "France 24",
-   "date": "2026-11-09T18:44:52+00:00",
-   "extrait": "La COP31 s’est ouverte à Antalya, en Turquie, avec un objectif : accélérer la transition énergétique face à l’urgence climatique. Électrification, sortie des énergies fossiles, financements : quels…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "866c19d0d9c5",
-   "titre": "\"Les Etats-Unis ont presque un droit de vie et de mort numérique sur chacun d'entre nous\", dénonce Nicolas Guillou, juge de la Cour pénale internationale sanctionné par Washington",
-   "lien": "https://www.franceinfo.fr/internet/les-etats-unis-ont-presque-un-droit-de-vie-et-de-mort-numerique-sur-chacun-d-entre-nous-denonce-nicolas-guillou-juge-de-la-cour-penale-internationale-sanctionne-par-washington_8275049.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T18:43:03+00:00",
-   "extrait": "\"Il faut, à mon sens, une portabilité de notre personnalité numérique pour qu'on ne soit plus prisonnier des multinationales qui siphonnent nos données\", défend le magistrat de la CPI, lundi sur…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "be1fb2324f93",
-   "titre": "Pete Hegseth reacts to calls for impeachment: \"We're not worried about that\"",
-   "lien": "https://www.cbsnews.com/video/pete-hegseth-impeachment-were-not-worried-about-that/",
-   "source": "CBS News",
-   "date": "2026-11-09T18:40:42+00:00",
-   "extrait": "Defense Secretary Pete Hegseth told reporters Tuesday that he's \"not worried\" about calls for his impeachment amid the Democrats' sweeping midterm wins.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "e6918e8b5c9e",
-   "titre": "Lise Boëll, PDG de Fayard, nommée directrice générale déléguée chez Grasset",
-   "lien": "https://www.lemonde.fr/livres/article/2026/11/09/lise-boell-pdg-de-fayard-nommee-directrice-generale-deleguee-chez-grasset_6808693_3260.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T18:40:39+00:00",
-   "extrait": "Sept mois après le limogeage d’Olivier Nora, Lise Boëll cumulera ses fonctions avec celles de PDG de Fayard, qui édite notamment Jordan Bardella, Nicolas Sarkozy, Philippe de Villiers et Sarah Knafo.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "0bd8cb695512",
-   "titre": "Judge calls Russell Brand a \"sexual predator\" during sentencing",
-   "lien": "https://www.cbsnews.com/video/judge-calls-russell-brand-sexual-predator-during-sentencing/",
-   "source": "CBS News",
-   "date": "2026-11-09T18:39:41+00:00",
-   "extrait": "Russell Brand was sentenced in the U.K. on Monday. He's facing 10 years and 6 months in prison for rape and sexual assault. CBS News' Holly Williams has the latest.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "26f489558d16",
-   "titre": "A l'approche du 11-Novembre, des syndicats d'enseignants critiquent la nouvelle commémoration instaurée pour les élèves du CM1 à la terminale",
-   "lien": "https://www.franceinfo.fr/societe/education/a-l-ecole-la-commemoration-du-11-novembre-fait-des-vagues-chez-certains-syndicats_8274968.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T18:37:02+00:00",
-   "extrait": "Plusieurs organisations craignent une forme d'embrigadement des jeunes, mais aussi une instrumentalisation politique de cette journée à laquelle pourront être conviés des élus, à quelques mois de la…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "22355ccb33d9",
-   "titre": "COP31 : les nations insulaires du Pacifique entre peur et espoir",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261109-cop31-les-nations-insulaires-du-pacifique-entre-peur-et-espoir",
-   "source": "France 24",
-   "date": "2026-11-09T18:35:12+00:00",
-   "extrait": "La COP31 Climat s'est ouverte, lundi, à Antalya. Elle est co-présidée par la Turquie et l'Australie, qui a voulu s'associer aux nations insulaires du Pacifique, dont la survie est menacée par la…",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "42d3de3b9b73",
-   "titre": "Quand les citoyens s’associent à la recherche en santé, des protocoles aux résultats : « Ça me plaît de pouvoir participer à quelque chose autour d’Alzheimer»",
-   "lien": "https://www.lemonde.fr/sciences/article/2026/11/09/quand-les-citoyens-s-associent-a-la-recherche-en-sante-des-protocoles-aux-resultats-ca-me-plait-de-pouvoir-participer-a-quelque-chose-autour-d-alzheimer_6808692_1650684.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T18:30:05+00:00",
-   "extrait": "La recherche participative, qui consiste à inclure les citoyens dans les projets scientifiques, connaît un essor dans le domaine de la santé. Ouvrant de nouvelles perspectives aux chercheurs, elle…",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "d67048af2ec8",
-   "titre": "Qui est Gadi Eisenkot, l’homme qui pourrait succéder à Benyamin Nétanyahou en Israël ?",
-   "lien": "https://www.lemonde.fr/videos/video/2026/11/09/qui-est-gadi-eisenkot-l-homme-qui-pourrait-succeder-a-benyamin-netanyahou-en-israel_6808690_1669088.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T18:30:05+00:00",
-   "extrait": "Cet ancien chef d’état-major de l’armée israélienne vient d’être chargé par le président israélien, Isaac Herzog, de former un nouveau gouvernement.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "8fc2a8910314",
-   "titre": "\"Il emprunte à la gauche et à la droite\" : où situer politiquement la candidature de Teddy Riner à l'élection présidentielle ?",
-   "lien": "https://www.franceinfo.fr/elections/presidentielle/candidats/il-emprunte-a-la-gauche-et-a-la-droite-ou-situer-politiquement-la-candidature-de-teddy-riner-a-l-election-presidentielle_8274662.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T18:25:48+00:00",
-   "extrait": "Le judoka revendique un positionnement en dehors des étiquettes politiques de gauche ou de droite qui peut rappeler celui d'Emmanuel Macron en 2017.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "e8e72e129f1a",
-   "titre": "Israël : avec ses sept députés, Avigdor Liberman principal obstacle à un gouvernement Eisenkot ?",
-   "lien": "https://www.france24.com/fr/moyen-orient/20261109-israel-avigdor-liberman-principal-obstacle-gouvernement-eisenkot-netanyahu",
-   "source": "France 24",
-   "date": "2026-11-09T18:25:37+00:00",
-   "extrait": "Avec seulement sept députés, Avigdor Liberman tente à nouveau de s'imposer comme le faiseur de roi de la politique israélienne. Le chef d'Israël Beitenou, un parti ultranationaliste membre de la…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
   }
  ]
 }
