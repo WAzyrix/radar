@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-10T01:05:39+00:00",
+ "maj": "2026-11-10T02:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,54 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "9b6cbbc69269",
+   "titre": "Qantas to outsource 850 local jobs with most roles moving to India",
+   "lien": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-10T01:55:22+00:00",
+   "extrait": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+   "tags": [
+    "Économie",
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "2eeebfe27c6a",
+   "titre": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+   "lien": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-10T01:44:53+00:00",
+   "extrait": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "dfdd7bb2e5a4",
+   "titre": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+   "lien": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-10T01:38:49+00:00",
+   "extrait": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "9e6c538a3b42",
+   "titre": "En Argentine, le pape Léon XIV célèbre une messe devant 2,5 millions de fidèles et rencontre des victimes de violences sexuelles",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/10/en-argentine-le-pape-leon-xiv-celebre-une-messe-devant-2-5-millions-de-fideles-et-rencontre-des-victimes-de-violences-sexuelles_6808764_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-10T01:14:34+00:00",
+   "extrait": "L’affluence, lors de cette messe à Buenos Aires, est la plus massive en dix-huit mois de pontificat du pape américain.",
+   "tags": [],
+   "zone": "france"
+  },
   {
    "id": "e43d618e7987",
    "titre": "Nvidia investigates CEO Jensen Huang over Chinese spy concerns",
@@ -147,18 +195,6 @@
     "Justice"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "2eeebfe27c6a",
-   "titre": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-   "lien": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-10T00:34:53+00:00",
-   "extrait": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
   },
   {
    "id": "c9db7a0114f0",
@@ -299,6 +335,18 @@
    "zone": "usa"
   },
   {
+   "id": "79033cd0cf40",
+   "titre": "France : nouvelle journée d'action à l'appel des étudiants, lycéens et enseignants",
+   "lien": "https://www.france24.com/fr/france/20261109-france-nouvelle-journ%C3%A9e-d-action-%C3%A0-l-appel-des-%C3%A9tudiants-lyc%C3%A9ens-et-enseignants",
+   "source": "France 24",
+   "date": "2026-11-09T23:52:02+00:00",
+   "extrait": "Près de deux mois après le début du mouvement lycéen et étudiant, une intersyndicale appelle mardi à une journée de grève et de manifestations dans la plupart des grandes villes de France, après une…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "2965feb8b5ec",
    "titre": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
    "lien": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
@@ -321,19 +369,6 @@
     "Justice"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "dfdd7bb2e5a4",
-   "titre": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-   "lien": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-09T23:45:14+00:00",
-   "extrait": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "monde"
   },
   {
    "id": "264841c7fc86",
@@ -688,6 +723,18 @@
     "Justice"
    ],
    "zone": "france"
+  },
+  {
+   "id": "b91decc8a446",
+   "titre": "11/9: The Takeout with Major Garrett",
+   "lien": "https://www.cbsnews.com/video/110926-the-takeout-with-major-garrett/",
+   "source": "CBS News",
+   "date": "2026-11-09T22:00:00+00:00",
+   "extrait": "Trump holds press briefing alongside Dana White; Lawmakers return to Capitol Hill for lame duck session.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
   },
   {
    "id": "e28a56bd61ad",
@@ -3428,50 +3475,6 @@
     "Justice"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "53ec5b89e2c5",
-   "titre": "Vingt migrants retrouvés morts sur deux embarcations au large de la Crète",
-   "lien": "https://www.franceinfo.fr/monde/europe/migrants/huit-personnes-sont-mortes-dans-le-naufrage-d-une-embarcation-de-migrants-au-large-de-la-grece_8274113.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T09:23:19+00:00",
-   "extrait": "Cette île grecque est l'un des principaux points d'entrée dans l'Union européenne des migrants.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "cd7500b6045c",
-   "titre": "Procès de Kevin Escoffier : une trentaine de personnes manifestent devant le tribunal de Lorient pour que \"la honte change de camp\"",
-   "lien": "https://www.franceinfo.fr/faits-divers/justice-proces/proces-de-kevin-escoffier-une-trentaine-de-personnes-manifestent-devant-le-tribunal-de-lorient-pour-que-la-honte-change-de-camp_8274239.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T09:16:09+00:00",
-   "extrait": "Le procès du skippeur breton Kevin Escoffier s'ouvre lundi devant le tribunal de Lorient. Il est accusé d'agressions sexuelles par quatre femmes. Une trentaine de personnes manifestent à l'appel du…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "6b94f6c83d91",
-   "titre": "\"Une cinquantaine d'élèves supplémentaires ont été blessés par leurs camarades\" durant la semaine de la rentrée, selon le ministre de l'Education nationale",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-cinquantaine-d-eleves-supplementaires-ont-ete-blesses-par-leurs-camarades-durant-la-semaine-de-la-rentree-selon-le-ministre-de-l-education-nationale_8274140.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T09:15:46+00:00",
-   "extrait": "Edouard Geffray a affirmé lundi sur le plateau des \"4 Vérités\" sur France 2 que \"des élèves ont été blessés assez sérieusement au niveau de la perte d'audition avec des éclats de tirs de mortiers\".",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "bac6842d8fbb",
-   "titre": "COP31 : le secrétaire général de l’ONU appelle, dans son discours d’ouverture, les Etats à « se montrer à la hauteur »",
-   "lien": "https://www.lemonde.fr/planete/article/2026/11/09/ouverture-de-la-cop31-le-secretaire-general-de-l-onu-appelle-les-etats-a-se-montrer-a-la-hauteur_6808630_3244.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T09:04:49+00:00",
-   "extrait": "La Turquie préside cette conférence annuelle avec l’appui de l’Australie, chargée de conduire les négociations, à la suite d’un compromis inédit quant à l’organisation de la Conférence des parties.",
-   "tags": [],
-   "zone": "france"
   }
  ]
 }
