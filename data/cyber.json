@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-10T16:05:42+00:00",
+ "maj": "2026-11-10T17:05:42+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,6 +24,30 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "82b5e1a648c0",
+   "titre": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
+   "lien": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
+   "source": "BleepingComputer",
+   "date": "2026-11-10T16:17:16+00:00",
+   "extrait": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "0eb55bf1598e",
+   "titre": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
+   "lien": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
+   "source": "The Hacker News",
+   "date": "2026-11-10T16:00:55+00:00",
+   "extrait": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant. The activity, observed by Huntress in…",
+   "tags": [
+    "CVE",
+    "Faille",
+    "Malware"
+   ]
+  },
+  {
    "id": "89d6f6254d42",
    "titre": "Binance warns of iOS flaw that could leak crypto wallet secrets",
    "lien": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
@@ -34,6 +58,29 @@
     "Faille",
     "Fuite de données",
     "Mobile"
+   ]
+  },
+  {
+   "id": "7e413807cc2f",
+   "titre": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
+   "lien": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
+   "source": "The Hacker News",
+   "date": "2026-11-10T15:58:44+00:00",
+   "extrait": "The threat actor known as Blind Eagle has resurfaced with a new campaign targeting organizations in Latin America through judicial and administrative-themed phishing lures to deliver a remote access…",
+   "tags": [
+    "Malware"
+   ]
+  },
+  {
+   "id": "7646e96e2e7b",
+   "titre": "Fireworks AI Breach Widens to Expose Customer Billing Data and Incomplete Model Weights",
+   "lien": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
+   "source": "The Hacker News",
+   "date": "2026-11-10T15:33:59+00:00",
+   "extrait": "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month uncovered further malicious activity, affecting account and billing information…",
+   "tags": [
+    "Fuite de données",
+    "IA"
    ]
   },
   {
@@ -3349,52 +3396,6 @@
    "extrait": "Une vulnérabilité a été découverte dans Ruby on Rails trilogy. Elle permet à un attaquant de provoquer une injection SQL (SQLi).",
    "tags": [
     "Faille"
-   ]
-  },
-  {
-   "id": "7363e725b55a",
-   "titre": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
-   "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
-   "source": "BleepingComputer",
-   "date": "2026-10-29T23:35:52+00:00",
-   "extrait": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]",
-   "tags": [
-    "IA"
-   ]
-  },
-  {
-   "id": "7d9fa054e5fe",
-   "titre": "Binance probes potential $5.8 billion crypto-theft hack",
-   "lien": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
-   "source": "BleepingComputer",
-   "date": "2026-10-29T22:45:23+00:00",
-   "extrait": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
-   "tags": [
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "a6d0e88b749c",
-   "titre": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
-   "lien": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
-   "source": "BleepingComputer",
-   "date": "2026-10-29T22:09:24+00:00",
-   "extrait": "A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake…",
-   "tags": [
-    "Malware",
-    "IA",
-    "Outil"
-   ]
-  },
-  {
-   "id": "17e71a11c730",
-   "titre": "Japan Airlines suffers third-party data breach exposing passenger info",
-   "lien": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
-   "source": "BleepingComputer",
-   "date": "2026-10-29T22:08:04+00:00",
-   "extrait": "Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]",
-   "tags": [
-    "Fuite de données"
    ]
   }
  ]
