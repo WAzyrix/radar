@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-10T03:05:40+00:00",
+ "maj": "2026-11-10T04:05:42+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,55 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "2eeebfe27c6a",
+   "titre": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+   "lien": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-10T03:58:13+00:00",
+   "extrait": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "8c71436c12e5",
+   "titre": "L'Australie va imposer des garde-fous aux entreprises de l'IA opérant sur son sol",
+   "lien": "https://www.france24.com/fr/asie-pacifique/20261110-australie-va-imposer-garde-fous-entreprises-ia",
+   "source": "France 24",
+   "date": "2026-11-10T03:24:03+00:00",
+   "extrait": "L'Australie va créer une nouvelle autorité de régulation de l'IA, a annoncé son Premier ministre mardi. Les entreprises du secteur opérant sur le sol australien seront soumises à de nouvelles…",
+   "tags": [
+    "Politique",
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "29011e4a1b46",
+   "titre": "California voters reject billionaire wealth tax, CBS News projects",
+   "lien": "https://www.cbsnews.com/news/california-proposition-40-billionaire-wealth-tax-rejected-cbs-projects/",
+   "source": "CBS News",
+   "date": "2026-11-10T03:23:16+00:00",
+   "extrait": "Voters in California have rejected a tax on the state's wealthiest residents, CBS News projects, following a campaign that has split traditional allies and shattered spending records for a…",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "d6e2db18b426",
+   "titre": "California voters defeat billionaire tax proposal that divided Democrats",
+   "lien": "https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum",
+   "source": "NPR",
+   "date": "2026-11-10T03:05:39+00:00",
+   "extrait": "The novel proposal would have charged billionaires a one-time 5% tax on most of their overall wealth, including their ownership in companies.",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "usa"
+  },
   {
    "id": "e28a56bd61ad",
    "titre": "These House and Senate midterm races don't have winners yet",
@@ -46,18 +95,6 @@
    "zone": "france"
   },
   {
-   "id": "29011e4a1b46",
-   "titre": "California voters reject billionaire wealth tax, CBS News projects",
-   "lien": "https://www.cbsnews.com/news/california-proposition-40-billionaire-wealth-tax-rejected-cbs-projects/",
-   "source": "CBS News",
-   "date": "2026-11-10T02:45:00+00:00",
-   "extrait": "Voters in California have rejected a tax on the state's wealthiest residents, CBS News projects, following a campaign that has split traditional allies and shattered spending records for a…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "bc0e49baae51",
    "titre": "Accord sécuritaire Salvador-Haïti : Amnesty International appelle à la transparence et au respect des droits humains",
    "lien": "https://www.lemonde.fr/international/article/2026/11/10/accord-securitaire-salvador-haiti-amnesty-international-appelle-a-la-transparence-et-au-respect-des-droits-humains_6808767_3210.html",
@@ -79,6 +116,19 @@
     "Conflits"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "3ac6d44b8143",
+   "titre": "Trump says Iran war is 'effectively over' militarily with further strikes unlikely",
+   "lien": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-10T02:38:00+00:00",
+   "extrait": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation in the Middle East change.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
   },
   {
    "id": "c476efe77723",
@@ -175,18 +225,6 @@
    "tags": [
     "Économie",
     "Tech"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "2eeebfe27c6a",
-   "titre": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-   "lien": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-10T01:44:53+00:00",
-   "extrait": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-   "tags": [
-    "Politique"
    ],
    "zone": "monde"
   },
@@ -537,6 +575,19 @@
     "Conflits"
    ],
    "zone": "france"
+  },
+  {
+   "id": "b16e93836508",
+   "titre": "11/9: CBS Evening News",
+   "lien": "https://www.cbsnews.com/video/110926-cbs-evening-news/",
+   "source": "CBS News",
+   "date": "2026-11-09T23:30:00+00:00",
+   "extrait": "Secret Service arrests two men near the White House; articles of impeachment were introduced against Pete Hegseth.",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "usa"
   },
   {
    "id": "688595448966",
@@ -3430,50 +3481,6 @@
     "Santé"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "2de5ea63e896",
-   "titre": "Democrats won big on issues like immigration. But ICE still has the money",
-   "lien": "https://www.npr.org/2026/11/09/nx-s1-6032870/immigration-enforcement-ice-democrats-election",
-   "source": "NPR",
-   "date": "2026-11-09T10:00:00+00:00",
-   "extrait": "Following Tuesday's \"blue wave,\" Democrats have vowed to reign in ICE's power. What could they actually accomplish?",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "ffa16ca1b813",
-   "titre": "Democrats won big. Can they lower your grocery bill?",
-   "lien": "https://www.npr.org/2026/11/09/nx-s1-6030830/democrats-grocery-bill-affordability",
-   "source": "NPR",
-   "date": "2026-11-09T10:00:00+00:00",
-   "extrait": "Affordability concerns were top of mind for voters heading into the midterms, as tariffs and the war in Iran drove up prices, including food costs. Now, Americans are expecting relief from Washington.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "710769da434d",
-   "titre": "On wild Cumberland Island, a land swap proposal stirs controversy",
-   "lien": "https://www.npr.org/2026/11/09/nx-s1-5981341/cumberland-island-national-park-service-proposal",
-   "source": "NPR",
-   "date": "2026-11-09T10:00:00+00:00",
-   "extrait": "Visitors, ecologists, park rangers and residents all love this wild barrier island off the coast of southern Georgia. But they have different ideas of how to best protect it.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "023e9af4583c",
-   "titre": "He was diagnosed with cancer. Then he was told he lost his Medicaid",
-   "lien": "https://www.npr.org/2026/11/09/nx-s1-6032732/trump-medicaid-health-nebraska-work-insurance",
-   "source": "NPR",
-   "date": "2026-11-09T10:00:00+00:00",
-   "extrait": "Health clinics and organizations advocating for poor and working-class Nebraskans say the rollout of Medicaid work requirements has been rife with problems.",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "usa"
   }
  ]
 }
