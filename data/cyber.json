@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-10T19:05:41+00:00",
+ "maj": "2026-11-10T20:01:53+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,6 +24,54 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "09de80ae0aa4",
+   "titre": "Hackers exploit trusted AWS access to breach multiple cloud environments",
+   "lien": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
+   "source": "BleepingComputer",
+   "date": "2026-11-10T19:31:11+00:00",
+   "extrait": "A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments…",
+   "tags": [
+    "Faille",
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "b86930e18372",
+   "titre": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+   "lien": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
+   "source": "The Hacker News",
+   "date": "2026-11-10T19:23:10+00:00",
+   "extrait": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with…",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
+  },
+  {
+   "id": "b958c2272095",
+   "titre": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+   "lien": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
+   "source": "The Hacker News",
+   "date": "2026-11-10T19:19:39+00:00",
+   "extrait": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday. The attacker could also have seen…",
+   "tags": [
+    "Faille",
+    "IA"
+   ]
+  },
+  {
+   "id": "50eb1dccf495",
+   "titre": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
+   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
+   "source": "BleepingComputer",
+   "date": "2026-11-10T19:07:36+00:00",
+   "extrait": "Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]",
+   "tags": [
+    "Faille",
+    "Windows"
+   ]
+  },
+  {
    "id": "33bc3cf0f92e",
    "titre": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
    "lien": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
@@ -33,6 +81,29 @@
    "tags": [
     "Faille",
     "Windows"
+   ]
+  },
+  {
+   "id": "9398616ade4d",
+   "titre": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
+   "lien": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
+   "source": "The Hacker News",
+   "date": "2026-11-10T18:12:21+00:00",
+   "extrait": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild. The authentication bypass flaw, which does…",
+   "tags": [
+    "Faille",
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "3ac35ff64736",
+   "titre": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
+   "lien": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
+   "source": "The Hacker News",
+   "date": "2026-11-10T17:43:23+00:00",
+   "extrait": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military…",
+   "tags": [
+    "Malware"
    ]
   },
   {
@@ -85,7 +156,7 @@
   },
   {
    "id": "7646e96e2e7b",
-   "titre": "Fireworks AI Breach Widens to Expose Customer Billing Data and Incomplete Model Weights",
+   "titre": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
    "lien": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
    "source": "The Hacker News",
    "date": "2026-11-10T15:33:59+00:00",
@@ -3330,73 +3401,6 @@
    "tags": [
     "Faille",
     "Linux"
-   ]
-  },
-  {
-   "id": "a04cc8e270bb",
-   "titre": "Vulnérabilité dans Tenable Nessus Plugin (30 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1425/",
-   "source": "CERT-FR",
-   "date": "2026-10-30T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans Tenable Nessus Plugin. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "0b98238d4eef",
-   "titre": "Multiples vulnérabilités dans le noyau Linux de Red Hat (30 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1431/",
-   "source": "CERT-FR",
-   "date": "2026-10-30T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une…",
-   "tags": [
-    "Faille",
-    "Linux"
-   ]
-  },
-  {
-   "id": "06c4ba24038c",
-   "titre": "Multiples vulnérabilités dans les produits MongoDB (30 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1430/",
-   "source": "CERT-FR",
-   "date": "2026-10-30T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une injection SQL…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "a6b51e86c41d",
-   "titre": "Multiples vulnérabilités dans Suricata (30 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1428/",
-   "source": "CERT-FR",
-   "date": "2026-10-30T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Suricata. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "b0ef52c1a470",
-   "titre": "Multiples vulnérabilités dans Veeam Management Pack (30 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1426/",
-   "source": "CERT-FR",
-   "date": "2026-10-30T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Veeam Management Pack. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "92650a1e7ae8",
-   "titre": "Vulnérabilité dans GitLab (30 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1427/",
-   "source": "CERT-FR",
-   "date": "2026-10-30T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans les produits GitLab. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-   "tags": [
-    "Faille"
    ]
   }
  ]

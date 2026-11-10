@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-10T19:05:41+00:00",
+ "maj": "2026-11-10T20:01:53+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,11 +22,57 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "e28a56bd61ad",
+   "titre": "These House and Senate midterm races don't have winners yet",
+   "lien": "https://www.cbsnews.com/news/2026-midterm-election-house-senate-projections-toss-up/",
+   "source": "CBS News",
+   "date": "2026-11-10T20:00:21+00:00",
+   "extrait": "Democrats won sizable House and Senate majorities in the 2026 midterm elections, but the exact margins are unclear because some races haven't been projected yet. Here's where the results stand.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "013ae40318ac",
+   "titre": "House GOP elects Jim Jordan as next leader in major shakeup",
+   "lien": "https://www.cbsnews.com/news/jim-jordan-house-minority-leader-republicans/",
+   "source": "CBS News",
+   "date": "2026-11-10T19:59:01+00:00",
+   "extrait": "Judiciary Committee Chairman Jim Jordan defeated Majority Leader Steve Scalise for the role of minority leader.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "848108fa4520",
+   "titre": "Eric Zemmour confirme sa candidature à l’élection présidentielle",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/10/eric-zemmour-confirme-sa-candidature-a-l-election-presidentielle_6808904_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-10T19:55:14+00:00",
+   "extrait": "Le polémiste d’extrême droite a répété, mardi 10 novembre, sur le plateau de TF1, qu’il concourrait une deuxième fois à l’Elysée, au grand dam de ceux qui lui préfèrent sa compagne, Sarah Knafo.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "d44008169354",
+   "titre": "Live Updates: GOP picks leaders, Hegseth faces impeachment vote",
+   "lien": "https://www.cbsnews.com/live-updates/congress-today-senate-house-leadership-elections/",
+   "source": "CBS News",
+   "date": "2026-11-10T19:53:28+00:00",
+   "extrait": "House Republicans voted to elevate Rep. Jim Jordan as their leader, and the chamber will vote on whether to move forward with Defense Secretary Pete Hegseth's impeachment.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "194756f3fe06",
    "titre": "Matthew Farwell convicted of killing Sandra Birchmore, unborn child",
    "lien": "https://www.cbsnews.com/news/matthew-farwell-trial-jury-verdict-sandra-birchmore/",
    "source": "CBS News",
-   "date": "2026-11-10T19:04:41+00:00",
+   "date": "2026-11-10T19:52:51+00:00",
    "extrait": "A jury has found former Stoughton, Massachusetts, police officer Matthew Farwell guilty of killing Sandra Birchmore and her unborn child.",
    "tags": [
     "Justice"
@@ -34,17 +80,172 @@
    "zone": "usa"
   },
   {
-   "id": "f36e76f9c3d9",
-   "titre": "Trump says Iran war at \"status quo,\" warns U.S. \"locked and loaded\"",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/",
-   "source": "CBS News",
-   "date": "2026-11-10T19:00:40+00:00",
-   "extrait": "President Trump told 60 Minutes the war with Iran was a \"good decision\" in the long term, despite its short-term impact.",
+   "id": "68f18b892223",
+   "titre": "Eric Zemmour, leader du parti d'extrême droite Reconquête, officialise sa candidature à la présidentielle",
+   "lien": "https://www.franceinfo.fr/elections/presidentielle/eric-zemmour-leader-du-parti-d-extreme-droite-reconquete-officialise-sa-candidature-a-la-presidentielle_8276858.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T19:49:36+00:00",
+   "extrait": "En 2022, le polémiste avait fini quatrième du premier tour de l'élection présidentielle avec 7,07% des voix.",
    "tags": [
-    "Politique",
-    "Conflits"
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "3b6e020f2353",
+   "titre": "Mississippi Senate race leans Democratic; Colom holds narrow lead",
+   "lien": "https://www.cbsnews.com/news/mississippi-senate-race-results-2026-midterms/",
+   "source": "CBS News",
+   "date": "2026-11-10T19:47:05+00:00",
+   "extrait": "The Senate race in deep-red Mississippi remains unresolved, as Democrat Scott Colom has mounted a surprisingly competitive challenge to incumbent Sen. Cindy Hyde-Smith.",
+   "tags": [
+    "Politique"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "895b89d65a66",
+   "titre": "Jockey Izzy Neale, 22, dies after her horse falls during race",
+   "lien": "https://www.cbsnews.com/news/izzy-neale-dies-jockey-horse-fatal-fall-race-australia/",
+   "source": "CBS News",
+   "date": "2026-11-10T19:42:58+00:00",
+   "extrait": "Izzy Neale suffered injuries when her horse Marnoo fell and suffered a fatal leg injury in the homestretch of a 1-mile race.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "127169720b07",
+   "titre": "Judge denounces DOJ lawsuit over California mail ballots",
+   "lien": "https://www.cbsnews.com/news/judge-david-carter-justice-department-lawsuit-california-mail-ballots-noncitizens/",
+   "source": "CBS News",
+   "date": "2026-11-10T19:40:37+00:00",
+   "extrait": "The Justice Department unsuccessfully attempted to force California election workers to set aside mail ballots returned from up to 20,000 alleged noncitizens.",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "0a4163650c66",
+   "titre": "Study: Data center energy costs hit lower income households hardest",
+   "lien": "https://www.cbsnews.com/news/rising-energy-costs-ai-data-centers-lower-income-rural-households-study/",
+   "source": "CBS News",
+   "date": "2026-11-10T19:39:06+00:00",
+   "extrait": "A new study found that lower-income, rural households bore a disproportionate share of the financial burdens associated with AI data centers and the energy they use.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "ec8acdf8ddf9",
+   "titre": "A la Guadeloupe, les dérives de la « Sécu » examinées par la Cour des comptes : 1,2 milliard d’euros perdus, une désorganisation interne et des délais qui s’allongent",
+   "lien": "https://www.lemonde.fr/outre-mer/article/2026/11/10/a-la-guadeloupe-les-derives-de-la-secu-examinees-par-la-cour-des-comptes-1-2-milliard-d-euros-perdus-une-desorganisation-interne-et-des-delais-qui-s-allongent_6808903_1840826.html",
+   "source": "Le Monde",
+   "date": "2026-11-10T19:33:43+00:00",
+   "extrait": "« Les résultats ne sont pas à la hauteur des besoins des assurés de ce territoire ultramarin marqué par la précarité », estiment les magistrats financiers dans un rapport publié mardi.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "5eb1d48fa937",
+   "titre": "Le milliardaire tchèque Daniel Kretinsky remporte son OPA sur Fnac Darty",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/10/le-milliardaire-tcheque-daniel-kretinsky-remporte-son-opa-sur-fnac-darty_6808902_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-10T19:33:20+00:00",
+   "extrait": "A l’issue de l’offre publique d’achat lancée le 26 janvier, Daniel Kretinsky, à travers sa société EP Group, devient l’actionnaire de contrôle du distributeur français de produits culturels…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "8ffa6ca1e69e",
+   "titre": "La pétition appelant à \"supprimer CNews de l'audiovisuel français\" classée en commission à l'Assemblée nationale",
+   "lien": "https://www.franceinfo.fr/politique/la-petition-appelant-a-supprimer-cnews-de-l-audiovisuel-francais-classee-par-la-commission-de-l-assemblee-nationale_8276303.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T19:28:47+00:00",
+   "extrait": "Les députés de la commission des affaires culturelles et de l'éducation se sont opposés, d'une courte majorité, à l'organisation d'un débat dans l'hémicycle sur ce texte, qui a recueilli plus d'un…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "c0afce5fb81f",
+   "titre": "Inside the unconventional tenure of Stanley Woodward, DOJ's No. 3",
+   "lien": "https://www.cbsnews.com/news/stanley-woodward-department-of-justice-associate-attorney-general/",
+   "source": "CBS News",
+   "date": "2026-11-10T19:22:59+00:00",
+   "extrait": "Observers say Associate Attorney General Stanley Woodward has carved out an unusual role, with a pattern of intervening in pending criminal cases involving corporations.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "9134dd9ee739",
+   "titre": "EN DIRECT, guerre en Ukraine : un militaire américain, soupçonné d’espionnage au profit de la Russie, arrêté au Royaume-Uni",
+   "lien": "https://www.lemonde.fr/international/live/2026/11/10/en-direct-guerre-en-ukraine-un-militaire-americain-soupconne-d-espionnage-au-profit-de-la-russie-arrete-au-royaume-uni_6808609_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-10T19:22:57+00:00",
+   "extrait": "Cet homme de 41 ans a été interpellé, mardi, par la police antiterroriste britannique. Par ailleurs, des négociations entre la Russie et l’Ukraine se tiennent mardi et mercredi aux Emirats arabes…",
+   "tags": [
+    "Conflits",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "7c395304e549",
+   "titre": "L'Iran rejette \"les accusations infondées\" de la France concernant la cyberattaque contre les frigos de supermarchés",
+   "lien": "https://www.franceinfo.fr/monde/iran/l-iran-rejette-les-accusations-infondees-de-la-france-concernant-la-cyberattaque-contre-des-frigos_8276831.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T19:17:26+00:00",
+   "extrait": "Lundi, Paris a officiellement attribué à une unité cyberoffensive relevant du corps des Gardiens de la Révolution de la République islamique la responsabilité de cette cyberattaque.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "2c5e4bbc99bf",
+   "titre": "COP31: Un sommet des leaders boudé, quelles conséquences?",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261110-cop31-un-sommet-des-leaders-boud%C3%A9-quelles-cons%C3%A9quences",
+   "source": "France 24",
+   "date": "2026-11-10T19:14:29+00:00",
+   "extrait": "De nombreux chefs d'Etat et de gouvernement ne feront pas le déplacement à Antalya pour la COP31. Le Sommet des leaders se tient en comité restreint ces mercredi et jeudi. Quelles conséquences pour…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "d65380aa1f24",
+   "titre": "Key moments from ex-cop's trial in the death of Sandra Birchmore",
+   "lien": "https://www.cbsnews.com/news/matthew-farwell-trial-sandra-birchmore-key-moments/",
+   "source": "CBS News",
+   "date": "2026-11-10T19:12:24+00:00",
+   "extrait": "A jury in Massachusetts convicted former police officer Matthew Farwell in the 2021 death of 23-year-old Sandra Birchmore.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "f36e76f9c3d9",
+   "titre": "Rubio says U.S. has \"no need\" to restart combat operations in Iran",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/",
+   "source": "CBS News",
+   "date": "2026-11-10T19:10:06+00:00",
+   "extrait": "Rubio said he saw no need to resume major combat operations against Iran because economic sanctions were working so effectively.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "4351f7372315",
+   "titre": "Sénégal : des parents en deuil après le naufrage d'une pirogue transportant des migrants",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261110-s%C3%A9n%C3%A9gal-des-parents-en-deuil-apr%C3%A8s-le-naufrage-d-une-pirogue-transportant-des-migrants",
+   "source": "France 24",
+   "date": "2026-11-10T19:03:57+00:00",
+   "extrait": "🇸🇳 Sur la plage de Tébène 2, au nord-est du Sénégal, l’épave de la pirogue qui a chaviré vendredi après-midi a été retrouvée. Le naufrage a coûté la vie à au moins 39 personnes migrantes, faisant de…",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "76dd978295b6",
@@ -57,16 +258,6 @@
     "Tech"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "7c395304e549",
-   "titre": "L'Iran rejette \"les accusations infondées\" de la France concernant la cyberattaque contre les frigos de supermarchés",
-   "lien": "https://www.franceinfo.fr/monde/iran/l-iran-rejette-les-accusations-infondees-de-la-france-concernant-la-cyberattaque-contre-des-frigos_8276831.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-10T18:58:09+00:00",
-   "extrait": "Lundi, Paris a officiellement attribué à une unité cyber-offensive relevant du corps des Gardiens de la Révolution de la République islamique la responsabilité de cette cyberattaque.",
-   "tags": [],
-   "zone": "france"
   },
   {
    "id": "cc6fba4ad1bf",
@@ -121,6 +312,18 @@
    "extrait": "Defense Secretary Pete Hegseth spoke to reporters Tuesday, sharply dismissing Rep. Thomas Massie's articles of impeachment against him. CBS News' Charlie D'Agata has the latest.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "ce5dbb7e24f6",
+   "titre": "Nvidia : le scandale d’espionnage fait chuter de plus de 6 % à Wall Street l’entreprise américaine, qui perd sa place de deuxième capitalisation mondiale",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/10/nvidia-le-scandale-d-espionnage-fait-chuter-de-plus-de-6-a-wall-street-l-entreprise-americaine-qui-perd-sa-place-de-deuxieme-capitalisation-mondiale_6808895_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-10T18:43:56+00:00",
+   "extrait": "Depuis l’éclatement de l’affaire ce week-end, la multinationale américaine des semi-conducteurs a vu s’envoler plus de 400 milliards de dollars de capitalisation boursière, dans un contexte…",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "france"
   },
   {
    "id": "bb1e72c2062f",
@@ -470,18 +673,6 @@
    "zone": "usa"
   },
   {
-   "id": "d44008169354",
-   "titre": "Live Updates: GOP lawmakers elect leaders for new Congress",
-   "lien": "https://www.cbsnews.com/live-updates/congress-today-senate-house-leadership-elections/",
-   "source": "CBS News",
-   "date": "2026-11-10T17:13:58+00:00",
-   "extrait": "Republicans are scheduled to elect their leaders for the new Congress, and the House will vote on whether to move forward with Defense Secretary Pete Hegseth's impeachment.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "09e013317f8a",
    "titre": "Des harkis réclament justice pour le traitement de leurs morts dans des camps en France dans les années 1960 : « Nous avons été traités avec mépris par la République »",
    "lien": "https://www.lemonde.fr/afrique/article/2026/11/10/des-harkis-reclament-justice-pour-le-traitement-de-leurs-morts-dans-des-camps-en-france-dans-les-annees-1960-nous-avons-ete-traites-avec-mepris-par-la-republique_6808883_3212.html",
@@ -729,6 +920,16 @@
    "zone": "usa"
   },
   {
+   "id": "6268d540ad4c",
+   "titre": "Significant developments in Lindsay Clancy, Birchmore-Farwell cases",
+   "lien": "https://www.cbsnews.com/video/significant-developments-in-lindsay-clancy-sandra-birchmore-cases/",
+   "source": "CBS News",
+   "date": "2026-11-10T16:33:00+00:00",
+   "extrait": "Caroline Polisi reports on developments in the Lindsay Clancy and Sandra Birchmore-Matthew Farwell cases.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
    "id": "63a239dfaeec",
    "titre": "Mobilisations en France : une partie du monde éducatif maintient la mobilisation",
    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261110-mobilisations-en-france-une-partie-du-monde-%C3%A9ducatif-maintient-la-mobilisation",
@@ -881,18 +1082,6 @@
     "Conflits"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "8ffa6ca1e69e",
-   "titre": "La pétition appelant à \"supprimer CNews de l'audiovisuel français\" classée en commission à l'Assemblée nationale",
-   "lien": "https://www.franceinfo.fr/politique/la-petition-appelant-a-supprimer-cnews-de-l-audiovisuel-francais-classee-par-la-commission-de-l-assemblee-nationale_8276303.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-10T16:10:30+00:00",
-   "extrait": "Les députés de la commission des affaires culturelles et de l'éducation se sont opposés, d'une courte majorité, à l'organisation d'un débat dans l'hémicycle sur ce texte, qui a recueilli plus d'un…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
   },
   {
    "id": "b8520ead4f8c",
@@ -1496,18 +1685,6 @@
     "Conflits"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "d65380aa1f24",
-   "titre": "Key moments from ex-cop's trial in the death of Sandra Birchmore",
-   "lien": "https://www.cbsnews.com/news/matthew-farwell-trial-sandra-birchmore-key-moments/",
-   "source": "CBS News",
-   "date": "2026-11-10T14:28:00+00:00",
-   "extrait": "A jury in Massachusetts is deliberating the fate of former police officer Matthew Farwell, who is charged in the 2021 death of 23-year-old Sandra Birchmore.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
   },
   {
    "id": "1d69af9e8c67",
@@ -3278,192 +3455,6 @@
    "tags": [
     "Politique"
    ],
-   "zone": "france"
-  },
-  {
-   "id": "8b32b1a43f3f",
-   "titre": "Vladimir Medinski, ce négociateur du Kremlin aux pourparlers d’Abou Dhabi dont l’idée fixe est d’incorporer l’Ukraine à la Russie",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/10/heraut-du-recit-imperialiste-russe-vladimir-medinski-le-negociateur-du-kremlin-aux-pourparlers-d-abou-dhabi-n-est-pas-enclin-au-compromis_6808782_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-10T04:34:32+00:00",
-   "extrait": "La désignation de ce propagandiste à la tête de la délégation russe aux discussions trilatérales – Russie, Ukraine, Etats-Unis –, prévues mardi 10 et mercredi 11 aux Emirats arabes unis, n’est pas…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "24555cd6b3e3",
-   "titre": "Midterms 2026 : « Nous, les Américains, ne pouvons pas continuer à nous engager dans le monde avec notre seule puissance militaire »",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/10/midterms-2026-nous-les-americains-ne-pouvons-pas-continuer-a-nous-engager-dans-le-monde-avec-notre-seule-puissance-militaire_6808780_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-10T04:31:07+00:00",
-   "extrait": "Dans un entretien au « Monde », Ben Rhodes, ex-conseiller adjoint à la sécurité nationale de Barack Obama, expose les priorités de politique extérieure de la nouvelle majorité démocrate au Congrès.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "2ebaa45b2552",
-   "titre": "A l’ouverture du procès des policiers accusés d’avoir passé à tabac Michel Zecler, la question du racisme domine les débats",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/10/a-l-ouverture-du-proces-des-policiers-accuses-d-avoir-passe-a-tabac-michel-zecler-la-question-du-racisme-domine-les-debats_6808779_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-10T04:30:07+00:00",
-   "extrait": "Trois fonctionnaires sont jugés pour violences lors de l’interpellation du producteur de musique, à Paris, en 2020, et faux en écriture publique, mais la circonstance aggravante d’un mobile raciste…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "3e959195095e",
-   "titre": "La condamnation de Russell Brand à dix ans de prison pour viol au Royaume-Uni, réminiscence de #MeToo et de l’affaire Weinstein",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/10/au-royaume-uni-la-condamnation-de-russell-brand-reminiscence-de-metoo-et-de-l-affaire-weinstein_6808777_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-10T04:00:25+00:00",
-   "extrait": "Des enquêtes de la presse britannique en 2023 sont à l’origine du procès de l’ex-animateur et humoriste, condamné lundi à dix ans et six mois de prison pour viol et agressions sexuelles.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "6e2118de271c",
-   "titre": "Le naufrage du projet de data center Matador au Texas, prélude au coup de frein sur les centres de données",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/10/etats-unis-le-naufrage-du-projet-matador-au-texas-prelude-au-coup-de-frein-sur-les-data-centers_6808778_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-10T04:00:25+00:00",
-   "extrait": "L’un des plus gros centres de données en construction dans le pays est déjà à vendre et la valeur de l’entreprise a fondu, au moment où les élections de mi-mandat, le 3 novembre, ont marqué un fort…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c87f3eda4698",
-   "titre": "Mobilisation lycéenne et étudiante : l’intersyndicale claque la porte du comité de réforme de Parcoursup à Matignon",
-   "lien": "https://www.lemonde.fr/campus/article/2026/11/10/mobilisation-lyceenne-et-etudiante-l-intersyndicale-claque-la-porte-du-comite-de-reforme-de-parcoursup-a-matignon_6808775_4401467.html",
-   "source": "Le Monde",
-   "date": "2026-11-10T04:00:14+00:00",
-   "extrait": "La réunion présidée par Sébastien Lecornu, lundi, n’a donné lieu à aucune annonce, s’étonnent les organisations lycéennes et étudiantes, qui protestaient aussi contre la présence du syndicat UNI et…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "6da2f9f2f38e",
-   "titre": "Les émissions de CO₂ liées aux énergies fossiles en très légère baisse dans le monde, un signal encourageant mais insuffisant",
-   "lien": "https://www.lemonde.fr/planete/article/2026/11/10/les-emissions-de-co-liees-aux-energies-fossiles-en-tres-legere-baisse-dans-le-monde-un-signal-encourageant-mais-insuffisant_6808774_3244.html",
-   "source": "Le Monde",
-   "date": "2026-11-10T04:00:14+00:00",
-   "extrait": "Selon le Global Carbon Project, les émissions provoquées par la combustion de charbon, de pétrole et de gaz devraient baisser de 0,4 % en 2026 grâce au déploiement des renouvelables mais aussi en…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "8491dda495ad",
-   "titre": "Depuis le G7 à Paris, l’Europe s’inquiète des plans américains pour l’Ukraine",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/10/depuis-le-g7-a-paris-l-europe-s-inquiete-des-plans-americains-pour-l-ukraine_6808771_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-10T04:00:04+00:00",
-   "extrait": "Les ministres des affaires étrangères du G7 étaient réunis à Paris, pour la première fois depuis les midterms américaines, lundi. Les représentants européens s’y sont inquiétés que Donald Trump, en…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "ad19f21d8ee2",
-   "titre": "Comment on a redonné vie à des variétés locales de blé capables de s’adapter au changement climatique",
-   "lien": "https://www.lemonde.fr/chaleur-humaine/article/2026/11/10/comment-on-a-redonne-vie-a-des-varietes-locales-de-ble-capables-de-s-adapter-au-changement-climatique_6808772_6125299.html",
-   "source": "Le Monde",
-   "date": "2026-11-10T04:00:02+00:00",
-   "extrait": "Avec la série « On avance », « Le Monde » part à la rencontre de personnes qui agissent collectivement pour le climat et la biodiversité. Dans les Hauts-de-France, un groupe de paysans, meuniers et…",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "e93ceeba7ed0",
-   "titre": "L’Australie va renforcer sa régulation de l’IA après un piratage de plateformes gouvernementales par un modèle d’OpenAI",
-   "lien": "https://www.lemonde.fr/pixels/article/2026/11/10/l-australie-va-renforcer-sa-regulation-de-l-ia-apres-un-piratage-de-plateformes-gouvernementales-par-un-modele-d-openai_6808770_4408996.html",
-   "source": "Le Monde",
-   "date": "2026-11-10T03:41:35+00:00",
-   "extrait": "Une nouvelle autorité de régulation va être créée dans le but de mieux encadrer le secteur. Cela intervient après qu’un agent autonome d’OpenAI a infiltré un site internet du gouvernement australien…",
-   "tags": [
-    "Politique",
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "82814a67d393",
-   "titre": "Les séries de la semaine : « Eldorado », « 12 12 12 » et « The Good Daughter »",
-   "lien": "https://www.lemonde.fr/series/article/2026/11/10/les-series-de-la-semaine-eldorado-12-12-12-et-the-good-daughter_6808769_5439376.html",
-   "source": "Le Monde",
-   "date": "2026-11-10T03:30:07+00:00",
-   "extrait": "Chaque mardi, La Matinale propose une sélection de séries à (re)découvrir sur petit écran. Aujourd’hui, notamment, le casse spectaculaire d’une banque zurichoise et la traque qui s’ensuit par un…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "8c71436c12e5",
-   "titre": "L'Australie va imposer des garde-fous aux entreprises de l'IA opérant sur son sol",
-   "lien": "https://www.france24.com/fr/asie-pacifique/20261110-australie-va-imposer-garde-fous-entreprises-ia",
-   "source": "France 24",
-   "date": "2026-11-10T03:24:03+00:00",
-   "extrait": "L'Australie va se doter d'une nouvelle autorité chargée de réguler l'IA, a annoncé le Premier ministre Anthony Albanese mardi. Les entreprises du secteur opérant dans le pays seront soumises à de…",
-   "tags": [
-    "Politique",
-    "Tech"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "d6e2db18b426",
-   "titre": "California voters defeat billionaire tax proposal that divided Democrats",
-   "lien": "https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum",
-   "source": "NPR",
-   "date": "2026-11-10T03:05:39+00:00",
-   "extrait": "The novel proposal would have charged billionaires a one-time 5% tax on most of their overall wealth, including their ownership in companies.",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "e28a56bd61ad",
-   "titre": "These House and Senate midterm races don't have winners yet",
-   "lien": "https://www.cbsnews.com/news/2026-midterm-election-house-senate-projections-toss-up/",
-   "source": "CBS News",
-   "date": "2026-11-10T03:00:27+00:00",
-   "extrait": "Democrats won sizable House and Senate majorities in the 2026 midterm elections, but the exact margins are unclear because some races haven't been projected yet. Here's where the results stand.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "4ff199de1a42",
-   "titre": "Taxe Zucman : les électeurs de Californie rejettent une taxation de 5 % des milliardaires après un long dépouillement",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/10/etats-unis-les-electeurs-de-californie-rejettent-un-avatar-de-la-taxe-zucman-sur-les-milliardaires_6808768_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-10T02:57:41+00:00",
-   "extrait": "La « proposition 40 », qui était soumise à référendum lors des midterms aux Etats-Unis, a été repoussée, selon les résultats proclamés dans la nuit de lundi à mardi. Après la victoire des démocrates…",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "bc0e49baae51",
-   "titre": "Accord sécuritaire Salvador-Haïti : Amnesty International appelle à la transparence et au respect des droits humains",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/10/accord-securitaire-salvador-haiti-amnesty-international-appelle-a-la-transparence-et-au-respect-des-droits-humains_6808767_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-10T02:43:00+00:00",
-   "extrait": "Sous couvert d’une mission de récupération de quatre soldats portés disparus à Port-au-Prince, Nayib Bukele pourrait, selon des analystes, chercher à exporter son modèle de lutte sans merci contre…",
-   "tags": [],
    "zone": "france"
   }
  ]
