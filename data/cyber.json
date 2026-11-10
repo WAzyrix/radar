@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-10T07:46:59+00:00",
+ "maj": "2026-11-10T08:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "7d2482c88528",
+   "titre": "Fireworks AI discloses new breach after cloud provider hack",
+   "lien": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
+   "source": "BleepingComputer",
+   "date": "2026-11-10T07:49:58+00:00",
+   "extrait": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]",
+   "tags": [
+    "Fuite de données",
+    "IA"
+   ]
+  },
   {
    "id": "9844bc61915e",
    "titre": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
@@ -3395,17 +3407,6 @@
    "extrait": "Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer un déni de service à distance. Cisco indique que la vulnérabilité CVE-2026-76418 est activement…",
    "tags": [
     "CVE",
-    "Faille"
-   ]
-  },
-  {
-   "id": "0d53bc8aaab4",
-   "titre": "Vulnérabilité dans les produits NetApp (29 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1410/",
-   "source": "CERT-FR",
-   "date": "2026-10-29T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer une élévation de privilèges.",
-   "tags": [
     "Faille"
    ]
   }
