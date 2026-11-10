@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-10T08:05:41+00:00",
+ "maj": "2026-11-10T09:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,28 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "7e1f9b33c691",
+   "titre": "Google patches eighth Chrome zero-day exploited in attacks this year",
+   "lien": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
+   "source": "BleepingComputer",
+   "date": "2026-11-10T08:51:25+00:00",
+   "extrait": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "0e6f77f0820c",
+   "titre": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
+   "lien": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
+   "source": "The Hacker News",
+   "date": "2026-11-10T08:16:14+00:00",
+   "extrait": "Anthropic on Monday released Claude Fable 5.2 and Claude Mythos 5.2 models, which it said exhibit improvements in coding, reasoning, and vision. During pre-release training, the large language…",
+   "tags": [
+    "IA"
+   ]
+  },
   {
    "id": "7d2482c88528",
    "titre": "Fireworks AI discloses new breach after cloud provider hack",
@@ -3385,29 +3407,6 @@
     "CVE",
     "Faille",
     "Fuite de données"
-   ]
-  },
-  {
-   "id": "f4eff089be53",
-   "titre": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
-   "lien": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
-   "source": "The Hacker News",
-   "date": "2026-10-29T05:50:17+00:00",
-   "extrait": "Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces. \"Active exploitation has…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "654dbb1ef414",
-   "titre": "Vulnérabilité dans les produits Cisco (29 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1412/",
-   "source": "CERT-FR",
-   "date": "2026-10-29T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer un déni de service à distance. Cisco indique que la vulnérabilité CVE-2026-76418 est activement…",
-   "tags": [
-    "CVE",
-    "Faille"
    ]
   }
  ]
