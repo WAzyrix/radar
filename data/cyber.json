@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-10T11:05:42+00:00",
+ "maj": "2026-11-10T12:05:42+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "3badf33b9e63",
+   "titre": "Beyond the Alert: The Case for Rich Network Data",
+   "lien": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
+   "source": "The Hacker News",
+   "date": "2026-11-10T11:38:13+00:00",
+   "extrait": "At some point your security will fail. This isn’t pessimism. It’s not because your team and tools aren’t sophisticated enough. It’s the reason we have detections in the first place. And, it’s why…",
+   "tags": [
+    "Outil"
+   ]
+  },
   {
    "id": "ba7507c6f20e",
    "titre": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
@@ -3394,17 +3405,6 @@
    "tags": [
     "IA",
     "Outil"
-   ]
-  },
-  {
-   "id": "c9e7c513e143",
-   "titre": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
-   "lien": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
-   "source": "The Hacker News",
-   "date": "2026-10-29T11:33:15+00:00",
-   "extrait": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it…",
-   "tags": [
-    "IA"
    ]
   }
  ]
