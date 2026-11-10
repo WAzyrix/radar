@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-10T12:05:42+00:00",
+ "maj": "2026-11-10T13:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,29 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "4271579ddeba",
+   "titre": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
+   "lien": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
+   "source": "The Hacker News",
+   "date": "2026-11-10T12:15:31+00:00",
+   "extrait": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to…",
+   "tags": [
+    "Outil",
+    "Mobile"
+   ]
+  },
+  {
+   "id": "9af5f29020c4",
+   "titre": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
+   "lien": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
+   "source": "BleepingComputer",
+   "date": "2026-11-10T12:07:03+00:00",
+   "extrait": "SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]",
+   "tags": [
+    "Faille"
+   ]
+  },
   {
    "id": "3badf33b9e63",
    "titre": "Beyond the Alert: The Case for Rich Network Data",
@@ -3381,30 +3404,6 @@
    "tags": [
     "Faille",
     "IA"
-   ]
-  },
-  {
-   "id": "dd1c518d70f0",
-   "titre": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
-   "lien": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
-   "source": "The Hacker News",
-   "date": "2026-10-29T11:39:18+00:00",
-   "extrait": "A flaw in Telegram for Android could be chained with two other bugs to take full control of a victim's phone through a voice call, once the victim answered, according to security startup NebuSec…",
-   "tags": [
-    "Faille",
-    "Mobile"
-   ]
-  },
-  {
-   "id": "e6aa25e9694d",
-   "titre": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
-   "lien": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
-   "source": "The Hacker News",
-   "date": "2026-10-29T11:33:41+00:00",
-   "extrait": "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing…",
-   "tags": [
-    "IA",
-    "Outil"
    ]
   }
  ]
