@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-10T20:05:40+00:00",
+ "maj": "2026-11-10T21:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "230bcad0faf3",
+   "titre": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
+   "lien": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
+   "source": "BleepingComputer",
+   "date": "2026-11-10T20:54:55+00:00",
+   "extrait": "Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
   {
    "id": "9814f0299437",
    "titre": "Microsoft releases Windows 10 KB5131096 extended security update",
@@ -3388,17 +3399,6 @@
    "source": "CERT-FR",
    "date": "2026-10-30T00:00:00+00:00",
    "extrait": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "b933ef472f9d",
-   "titre": "Vulnérabilité dans CPython (30 octobre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1423/",
-   "source": "CERT-FR",
-   "date": "2026-10-30T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans CPython. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
    "tags": [
     "Faille"
    ]
