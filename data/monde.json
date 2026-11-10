@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-10T13:05:39+00:00",
+ "maj": "2026-11-10T14:05:44+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,29 +22,303 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "cc6fba4ad1bf",
+   "titre": "Inflation remained elevated in October, CPI report shows",
+   "lien": "https://www.cbsnews.com/news/october-cpi-report-elevated-inflation/",
+   "source": "CBS News",
+   "date": "2026-11-10T14:05:22+00:00",
+   "extrait": "Inflation rose at a monthly pace of 0.4%, hotter than economists had forecast.",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "adf593f41910",
+   "titre": "Anthropic heads for $1.3 trillion valuation in major stock market listing",
+   "lien": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-10T14:04:22+00:00",
+   "extrait": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
+   "tags": [
+    "Économie",
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "c511d5a56cda",
-   "titre": "Watch Live: Hegseth holds Pentagon briefing amid impeachment effort",
+   "titre": "Hegseth decries impeachment effort with vote expected later today",
    "lien": "https://www.cbsnews.com/news/hegseth-pentagon-briefing-impeachment-iran-war/",
    "source": "CBS News",
-   "date": "2026-11-10T13:05:43+00:00",
-   "extrait": "Defense Secretary Pete Hegseth is holding a rare Pentagon news briefing Tuesday morning, as lawmakers are expected to vote on his impeachment this week.",
+   "date": "2026-11-10T14:02:24+00:00",
+   "extrait": "Republican Rep. Thomas Massie said a vote in the House is expected later Tuesday on the impeachment resolutions against Defense Secretary Pete Hegseth.",
    "tags": [
     "Politique"
    ],
    "zone": "usa"
   },
   {
+   "id": "743177fa1ba7",
+   "titre": "FBI investigates suspected murder aboard cruise ship",
+   "lien": "https://www.cbsnews.com/video/fbi-investigates-suspected-murder-aboard-cruise-ship/",
+   "source": "CBS News",
+   "date": "2026-11-10T14:01:34+00:00",
+   "extrait": "Federal authorities have taken a man into custody in connection with a suspected murder aboard the MSC Seascape cruise ship. CBS News' Jason Allen reports.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "f5c2b76eb6e0",
+   "titre": "Indonesia's VP offers resignation as questions mount over his eligibility",
+   "lien": "https://www.npr.org/2026/11/10/g-s1-152788/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility",
+   "source": "NPR",
+   "date": "2026-11-10T14:01:14+00:00",
+   "extrait": "His resignation offer comes amid a widening political rift between Prabowo and Widodo and a separate investigation into allegations that senior police officials wiretapped the president.",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "d44008169354",
+   "titre": "Live Updates: House, Senate GOP hold leadership elections",
+   "lien": "https://www.cbsnews.com/live-updates/congress-today-senate-house-leadership-elections/",
+   "source": "CBS News",
+   "date": "2026-11-10T14:01:05+00:00",
+   "extrait": "Republicans in Congress are scheduled to elect their leaders for the new Congress on Tuesday, as they regroup following Democrats' victories last week that flipped both chambers.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "e353a147a5a9",
+   "titre": "Quelque 240 membres de l'Education nationale ont été blessés lors du mouvement lycéen, annonce le gouvernement",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/pres-de-300-membres-de-l-education-nationale-ont-ete-blesses-lors-du-mouvement-lyceen-selon-le-gouvernement_8276330.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T13:58:52+00:00",
+   "extrait": "Le ministère de l'Education nationale faisait état jusqu'à présent de plus de 200 blessés.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "f90b49c909cd",
+   "titre": "\"C'est au peuple de décider ce qu'il veut\" : on vous résume la polémique suscitée par les propos de Jean-Luc Mélenchon sur l'Ukraine",
+   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/c-est-au-peuple-de-decider-lui-meme-ce-qu-il-veut-on-vous-resume-la-polemique-suscitee-par-les-propos-de-jean-luc-melenchon-sur-l-ukraine_8276072.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T13:51:41+00:00",
+   "extrait": "Le candidat de La France insoumise à la présidentielle a proposé que la population ukrainienne du Donbass, en grande partie occupée par les Russes, soit consultée pour savoir si elle voulait rester…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "8ffa6ca1e69e",
+   "titre": "La pétition appelant à \"supprimer CNews de l'audiovisuel français\" classée en commission à l'Assemblée nationale",
+   "lien": "https://www.franceinfo.fr/politique/la-petition-appelant-a-supprimer-cnews-de-l-audiovisuel-francais-classee-par-la-commission-de-l-assemblee-nationale_8276303.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T13:50:09+00:00",
+   "extrait": "Les députés de la commission des affaires culturelles et de l'éducation se sont opposés, d'une courte majorité, à l'organisation d'un débat dans l'hémicycle sur ce texte, qui a recueilli plus d'un…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "c3daf24fd3a7",
+   "titre": "Négociations Ukraine-Russie : la première journée de pourparlers à Abou Dhabi, sous la médiation des États-Unis, s'est achevée",
+   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-reprise-des-negociations-directes-entre-kiev-et-moscou-apres-plus-de-huit-mois-d-interruption_8275967.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T13:45:20+00:00",
+   "extrait": "Ces discussions entre Kiev et Moscou visent à progresser vers un règlement diplomatique du conflit et, selon Washington, à travailler à un \"nouveau\" cadre de sécurité incluant l'Europe.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "87181a6313bc",
+   "titre": "Iran rejects French claims it was behind supermarket fridge hacking",
+   "lien": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-10T13:45:13+00:00",
+   "extrait": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "d9f56506431f",
+   "titre": "Procédure de destitution aux États-Unis : Pete Hegseth fustige une \"mise en scène politique\"",
+   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261110-%C3%A9tats-unis-proc%C3%A9dure-destitution-pete-hegseth-fustige-mise-en-sc%C3%A8ne-politique",
+   "source": "France 24",
+   "date": "2026-11-10T13:44:15+00:00",
+   "extrait": "Lors d'une conférence de presse, le ministre américain de la Défense Pete Hegseth a qualifié mardi de \"farce\" et de \"mise en scène politique\" la procédure de destitution initiée à son encontre pour…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "f36e76f9c3d9",
    "titre": "Trump says Iran war at \"status quo,\" warns U.S. \"locked and loaded\"",
    "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/",
    "source": "CBS News",
-   "date": "2026-11-10T13:04:25+00:00",
+   "date": "2026-11-10T13:42:25+00:00",
    "extrait": "President Trump told 60 Minutes the war with Iran was a \"good decision\" in the long term, despite its short-term impact.",
    "tags": [
     "Politique",
     "Conflits"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "41361067a938",
+   "titre": "Les ministres du G7 réunis à Paris : l'Iran et l'Ukraine au cœur des débats",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261110-les-ministres-du-g7-r%C3%A9unis-%C3%A0-paris-l-iran-et-l-ukraine-au-c%C5%93ur-des-d%C3%A9bats",
+   "source": "France 24",
+   "date": "2026-11-10T13:39:42+00:00",
+   "extrait": "Le chef de la diplomatie française, Jean-Noël Barrot, s'est entretenu mardi 10 novembre à Paris avec son homologue ukrainien, Andrii Sybiha, en marge de ⁠la réunion des ministres des Affaires…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "e9dd35fea20b",
+   "titre": "Manifestations du 10 novembre : le cortège parisien s'est élancé depuis le Panthéon",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-10-novembre-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-d-action-mardi_8275703.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T13:37:32+00:00",
+   "extrait": "Dans l'Education nationale, la grève \"s'annonce suivie à certains endroits\", a estimé Sophie Vénétitay. Selon la secrétaire générale du Snes-FSU, la mobilisation devrait toutefois être moins…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "df1de38da92f",
+   "titre": "Cyberattaque contre des réfrigérateurs de supermarchés : l’Iran rejette « les accusations infondées » de la France",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/10/cyberattaque-contre-des-refrigerateurs-de-supermarches-l-iran-rejette-les-accusations-infondees-de-la-france_6808797_3211.html",
+   "source": "Le Monde",
+   "date": "2026-11-10T13:34:08+00:00",
+   "extrait": "La France a officiellement attribué à une unité cyber relevant du corps des Gardiens de la révolution de la République islamique la responsabilité de la cyberattaque d’ampleur contre des contrôleurs…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "d932e49671dc",
+   "titre": "Is travel insurance worth it? When it pays off",
+   "lien": "https://www.cbsnews.com/news/is-travel-insurance-worth-it-when-it-pays-off/",
+   "source": "CBS News",
+   "date": "2026-11-10T13:33:22+00:00",
+   "extrait": "Travel insurance makes sense in many scenarios, but is it right for every traveler? Here's when it can pay off.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "a05ac2302e28",
+   "titre": "Centres de données : le coup de chaud ?",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20261110-centres-de-donn%C3%A9es-le-coup-de-chaud",
+   "source": "France 24",
+   "date": "2026-11-10T13:31:12+00:00",
+   "extrait": "La colère gronde contre les centres de données. Depuis plusieurs mois, des États-Unis à l’Europe, des associations se mobilisent contre l’implantation de data centers. Énergivores, consommateurs…",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "b549a6efecab",
+   "titre": "The average cost for a new vehicle in the U.S. hits a record high: over $51,000",
+   "lien": "https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high",
+   "source": "NPR",
+   "date": "2026-11-10T13:30:00+00:00",
+   "extrait": "Vehicle transaction prices are up to a new record high, according to the Kelley Blue Book — and some buyers are extending their car loans to finance them.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "b239329cacb3",
+   "titre": "Read an excerpt from Oprah's November book club pick",
+   "lien": "https://www.cbsnews.com/news/read-a-free-excerpt-oprah-winfrey-book-club-pick-solace-in-winter-by-mary-lawson/",
+   "source": "CBS News",
+   "date": "2026-11-10T13:30:00+00:00",
+   "extrait": "Oprah Winfrey chose \"Solace in Winter\" by Mary Lawson as her latest book club pick. Read a free excerpt.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "81ca516af25f",
+   "titre": "Reader's guide for \"Solace in Winter\" by Mary Lawson",
+   "lien": "https://www.cbsnews.com/news/readers-guide-solace-in-winter-by-mary-lawson-oprahs-book-club-pick/",
+   "source": "CBS News",
+   "date": "2026-11-10T13:30:00+00:00",
+   "extrait": "Here's a reader's guide for \"Solace in Winter\" by Mary Lawson, Oprah Winfrey's November book club pick",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "528f59c91b43",
+   "titre": "Best pet insurance for cats in 2026: Compare top companies",
+   "lien": "https://www.cbsnews.com/moneywatch/insurance/cats/",
+   "source": "CBS News",
+   "date": "2026-11-10T13:29:00+00:00",
+   "extrait": "Here's the best pet insurance providers for kittens, senior cats and everything in between.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "88a2826a17c0",
+   "titre": "L'auteur de la tuerie de Cracovie en Pologne a \"consulté des sites\" sur le néonazi Anders Behring Breivik",
+   "lien": "https://www.franceinfo.fr/faits-divers/police/l-auteur-de-la-tuerie-de-cracovie-en-pologne-s-interessait-au-neonazi-anders-behring-breivik_8276345.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-10T13:25:14+00:00",
+   "extrait": "Le 22 juillet 2011, Anders Behring Breivik avait d'abord fait exploser une bombe dans une camionnette près du siège du gouvernement à Oslo, faisant huit morts, puis tué par balle 69 autres…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "39299601a00c",
+   "titre": "French wartime resistance heroine Solange Alexandre dies aged 104",
+   "lien": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-10T13:23:54+00:00",
+   "extrait": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "abb287b24275",
+   "titre": "California police investigate after 27 fall ill at half-marathon running event",
+   "lien": "https://www.bbc.co.uk/news/articles/cq0ldlyd556go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-10T13:22:12+00:00",
+   "extrait": "A local hospital says runners had \"unusual\" symptoms after racing on an atypically hot day.",
+   "tags": [
+    "Justice",
+    "Santé"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "064a7eea53a4",
+   "titre": "Donald Trump estime que la guerre contre l’Iran est « militairement terminée », après sa rencontre avec le premier ministre du Qatar",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/10/donald-trump-estime-que-la-guerre-contre-l-iran-est-militairement-terminee-apres-sa-rencontre-avec-le-premier-ministre-du-qatar_6808708_3211.html",
+   "source": "Le Monde",
+   "date": "2026-11-10T13:05:32+00:00",
+   "extrait": "Le président américain a ajouté sur son réseau, Truth Social, que, si une reprise des frappes contre l’Iran était « peu probable », les Etats-Unis restaient « prêts à intervenir ».",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
   },
   {
    "id": "be09198e064b",
@@ -55,31 +329,6 @@
    "extrait": "It is the first such trilateral diplomatic push since negotiations were suspended following the start of the war with Iran.",
    "tags": [
     "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "adf593f41910",
-   "titre": "Anthropic to raise $64bn in major stock market listing",
-   "lien": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-10T13:01:03+00:00",
-   "extrait": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
-   "tags": [
-    "Économie",
-    "Tech"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "d44008169354",
-   "titre": "Live Updates: House and Senate Republicans hold leadership elections",
-   "lien": "https://www.cbsnews.com/live-updates/congress-today-senate-house-leadership-elections/",
-   "source": "CBS News",
-   "date": "2026-11-10T12:59:45+00:00",
-   "extrait": "Republicans in Congress are scheduled to elect their leaders for the new Congress on Tuesday, as they regroup following Democrats' victories last week that flipped both chambers.",
-   "tags": [
-    "Politique"
    ],
    "zone": "usa"
   },
@@ -95,18 +344,6 @@
     "Justice"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "e353a147a5a9",
-   "titre": "Près de 300 membres de l'Education nationale ont été blessés lors du mouvement lycéen, annonce le gouvernement",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/pres-de-300-membres-de-l-education-nationale-ont-ete-blesses-lors-du-mouvement-lyceen-selon-le-gouvernement_8276330.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-10T12:49:13+00:00",
-   "extrait": "Le ministère de l'Education nationale faisait état jusqu'à présent de plus de 200 blessés.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
   },
   {
    "id": "bcce9ae4b67e",
@@ -134,30 +371,8 @@
    "zone": "usa"
   },
   {
-   "id": "e9dd35fea20b",
-   "titre": "Manifestations du 10 novembre : \"On n'est plus sur des revendications lycéennes, on est sur des comportements criminels\", réagit Edouard Geffray, après l'agression d'une élue locale LR à Chelles",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-10-novembre-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-d-action-mardi_8275703.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-10T12:37:40+00:00",
-   "extrait": "Cette conseillère régionale se trouvait alors devant un lycée de Seine-et-Marne \"aux côtés de parents d'élèves qui se battent pour que les cours reprennent\", selon la présidente de la région…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "c3daf24fd3a7",
-   "titre": "Négociations Ukraine-Russie : Européens et Américains affirment leur engagement commun en faveur d'une sécurité européenne \"forte\" pour l'après-guerre",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-reprise-des-negociations-directes-entre-kiev-et-moscou-apres-plus-de-huit-mois-d-interruption_8275967.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-10T12:37:09+00:00",
-   "extrait": "Les discussions avaient été mises en suspens fin février après les frappes israélo-américaines en Iran et le début du conflit au Moyen-Orient.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "4b9d99aa8861",
-   "titre": "Mobilisations en France : une revalorisation qu'il \"ne faut pas mépriser\"",
+   "titre": "Mobilisations en France : une revalorisation qu'il \"ne faut pas mépriser\" (Lecornu)",
    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261110-mobilisations-en-france-une-revalorisation-qu-il-ne-faut-pas-m%C3%A9priser",
    "source": "France 24",
    "date": "2026-11-10T12:37:00+00:00",
@@ -449,11 +664,11 @@
   },
   {
    "id": "5643d3d7eb9e",
-   "titre": "Police officer dies and another injured after backpack explosion in Oviedo",
+   "titre": "Police officer dies and another injured after backpack explosion in northern Spain",
    "lien": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-10T11:25:46+00:00",
-   "extrait": "Officers attended the scene in connection with a separate incident at a residential building in the city.",
+   "extrait": "Officers attended the scene in connection with a separate incident at a residential building in the Spanish city.",
    "tags": [
     "Justice"
    ],
@@ -486,7 +701,7 @@
   },
   {
    "id": "239e3145b542",
-   "titre": "Gaz : nouvelle hausse de 5,8 % à venir pour les foyers français, dans le sillage de la guerre au Moyen-Orient",
+   "titre": "Gaz : nouvelle hausse de 5,8 % à venir pour les foyers français, répercussion de la guerre au Moyen-Orient",
    "lien": "https://www.lemonde.fr/economie/article/2026/11/10/gaz-nouvelle-hausse-de-5-8-a-venir-pour-les-foyers-francais-dans-le-sillage-du-conflit-au-moyen-orient_6808828_3234.html",
    "source": "Le Monde",
    "date": "2026-11-10T11:16:20+00:00",
@@ -529,16 +744,6 @@
    "zone": "monde"
   },
   {
-   "id": "415c54326c7f",
-   "titre": "How well did Kalshi predict the midterms? We crunched the data",
-   "lien": "https://www.cbsnews.com/news/kalshi-midterms-2026-how-accurate/",
-   "source": "CBS News",
-   "date": "2026-11-10T11:00:05+00:00",
-   "extrait": "Kalshi traders' favored candidate won 95% of congressional and governors' races, a CBS News analysis found.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "2e351dae0591",
    "titre": "La désintégration extrêmement rare d’une particule suscite l’espoir de découvrir une nouvelle physique",
    "lien": "https://www.lemonde.fr/sciences/article/2026/11/10/la-desintegration-extremement-rare-d-une-particule-suscite-l-espoir-de-decouvrir-une-nouvelle-physique_6808823_1650684.html",
@@ -557,6 +762,16 @@
    "extrait": "A gauche comme ailleurs, les prétendants à l’Elysée repensent leur stratégie vis-à-vis des médias du groupe Bolloré, alors que les appels au boycott de la chaîne CNews se multiplient.",
    "tags": [],
    "zone": "france"
+  },
+  {
+   "id": "415c54326c7f",
+   "titre": "How well did Kalshi predict the midterms? We crunched the data.",
+   "lien": "https://www.cbsnews.com/news/kalshi-midterms-2026-how-accurate/",
+   "source": "CBS News",
+   "date": "2026-11-10T11:00:00+00:00",
+   "extrait": "Kalshi traders' favored candidate won 95% of congressional and governors' races, a CBS News analysis found.",
+   "tags": [],
+   "zone": "usa"
   },
   {
    "id": "8b96d2534c0f",
@@ -829,6 +1044,20 @@
    "zone": "france"
   },
   {
+   "id": "081bac8cd0f5",
+   "titre": "Nvidia : le scandale d’espionnage « révèle la face cachée de la guerre froide technologique à laquelle se livrent les Etats-Unis et la Chine »",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/10/le-scandale-d-espionnage-chez-nvidia-revele-la-face-cachee-de-la-guerre-froide-technologique-a-laquelle-se-livrent-les-etats-unis-et-la-chine_6808810_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-10T10:00:09+00:00",
+   "extrait": "Jensen Huang, le dirigeant du géant de la tech, a reconnu avoir entretenu une liaison avec une femme d’affaires chinoise suspectée par les services secrets américains d’espionner pour le compte de…",
+   "tags": [
+    "Économie",
+    "Conflits",
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "0dc6502a9377",
    "titre": "Is honesty always the best policy? When to speak up — or stay silent",
    "lien": "https://www.npr.org/2026/11/10/nx-s1-6034519/is-honesty-always-the-best-policy-when-to-speak-up-or-stay-silent",
@@ -1000,6 +1229,18 @@
     "Tech"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "668fdc02f08c",
+   "titre": "Grève du 10 novembre : étudiants, lycéens et enseignants à nouveau mobilisés pour « mettre le gouvernement sous pression »",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/10/greve-du-10-novembre-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-d-action-pour-mettre-le-gouvernement-sous-pression_6808805_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-10T09:08:26+00:00",
+   "extrait": "Près de deux mois après le début du mouvement de contestation et alors que les réponses de l’exécutif sont jugées « insuffisantes », des manifestations sont prévues dans la plupart des grandes…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
   },
   {
    "id": "d33493cfedba",
@@ -2697,7 +2938,7 @@
    "titre": "Key moments from ex-cop's trial in the death of Sandra Birchmore",
    "lien": "https://www.cbsnews.com/news/matthew-farwell-trial-sandra-birchmore-key-moments/",
    "source": "CBS News",
-   "date": "2026-11-09T21:35:12+00:00",
+   "date": "2026-11-09T21:35:00+00:00",
    "extrait": "A jury in Massachusetts is deliberating the fate of former police officer Matthew Farwell, who is charged in the 2021 death of 23-year-old Sandra Birchmore.",
    "tags": [
     "Justice"
@@ -2900,16 +3141,6 @@
     "Climat"
    ],
    "zone": "france"
-  },
-  {
-   "id": "87181a6313bc",
-   "titre": "France accuses Iran of supermarket fridge hacking",
-   "lien": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-09T20:20:08+00:00",
-   "extrait": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
-   "tags": [],
-   "zone": "monde"
   },
   {
    "id": "05e327e8ffc5",
@@ -3262,243 +3493,6 @@
     "Conflits"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "4c72f813cb5e",
-   "titre": "Grèce : les traversées de migrants depuis la Libye vers la Crète toujours plus nombreuses et périlleuses",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/09/grece-les-traversees-de-migrants-depuis-la-libye-vers-la-crete-toujours-plus-nombreuses-et-perilleuses_6808689_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T18:20:17+00:00",
-   "extrait": "Au moins vingt-deux migrants partis de Libye sont morts après leur traversée pour rejoindre la Crète entre le 8 et le 9 novembre. Face à cette hausse des arrivées sur l’île, Athènes dénonce le…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c30ff4fbaf05",
-   "titre": "Russia's leading independent newspaper closes after eviction",
-   "lien": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-09T18:08:07+00:00",
-   "extrait": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "0b2b3fde28e3",
-   "titre": "Why car insurance prices keep rising, and what drivers can do",
-   "lien": "https://www.cbsnews.com/news/why-car-insurance-prices-keep-rising-and-what-drivers-can-do/",
-   "source": "CBS News",
-   "date": "2026-11-09T18:02:07+00:00",
-   "extrait": "Auto insurance is getting more expensive, but understanding what's driving the costs higher could help you save.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "a537bab811bc",
-   "titre": "Le BHV Marais, en redressement judiciaire, contraint de fermer ses portes lundi soir",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/09/le-bhv-marais-en-redressement-judiciaire-contraint-de-fermer-ses-portes-lundi-soir_6808684_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T17:59:34+00:00",
-   "extrait": "Selon le président de l’enseigne, les magasins ont dû fermer « par précaution », car une des polices d’assurance « n’a pas pu être transférée dans le cadre du redressement judiciaire en cours ».",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "eacc172633ad",
-   "titre": "La France accuse l'Iran de la cyberattaque contre des frigos de supermarchés, une unité des Gardiens de la Révolution visée par une enquête",
-   "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/cyberattaque-contre-des-frigos-de-supermarches-le-parquet-de-paris-ouvre-une-enquete-visant-une-unite-des-gardiens-de-la-revolution-iraniens_8274806.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T17:59:10+00:00",
-   "extrait": "\"C'est une attaque d'une ampleur inédite et d'une agressivité inédite\", a déclaré le ministre des Affaires étrangères, Jean-Noël Barrot. L'attaque avait visé des installations frigorifiques de 700…",
-   "tags": [
-    "Politique",
-    "Conflits",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "0af7cb467a94",
-   "titre": "Un homme présenté comme menaçant retrouvé mort chez lui, dans la Meuse, après l'intervention des gendarmes, deux enquêtes ouvertes",
-   "lien": "https://www.franceinfo.fr/faits-divers/un-homme-presente-comme-menacant-retrouve-mort-chez-lui-dans-la-meuse-apres-l-intervention-des-gendarmes-deux-enquetes-ouvertes_8274980.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T17:50:29+00:00",
-   "extrait": "Une enquête pour \"violence et menace sur personne dépositaire de l'autorité publique\" a été ouverte à l'encontre de l'homme décédé dimanche. Ce dernier, décrit comme étant armé d'une machette, a…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "73d8f4edb1eb",
-   "titre": "Turquie : l’explosion d’une usine sidérurgique fait 16 morts et plusieurs blessés",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/09/turquie-l-explosion-d-une-usine-siderurgique-fait-16-morts-et-plusieurs-blesses_6808683_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T17:48:39+00:00",
-   "extrait": "Les conditions de sécurité du site de production turc sont critiquées par un collectif d’ouvriers et l’opposition politique de gauche, après un troisième accident mortel en trois semaines, survenu…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "46e24dd13879",
-   "titre": "Trump questions midterm elections integrity after previously accepting results",
-   "lien": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-09T17:47:29+00:00",
-   "extrait": "Trump made the claims, without evidence, on Truth Social on Monday.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "1b5763a835e9",
-   "titre": "Après les concerts de Céline Dion, le syndicat des entrepreneurs du spectacle vivant attaque les vendeurs de faux billets et critique l’Etat",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/09/apres-les-concerts-de-celine-dion-le-syndicat-des-entrepreneurs-du-spectacle-vivant-attaque-les-vendeurs-de-faux-billets-et-critique-l-etat_6808682_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T17:42:38+00:00",
-   "extrait": "La principale organisation du secteur, Ekhoscènes, multiplie les actions judiciaires contre « les escrocs » qui ont arnaqué des milliers de fans. Elle s’insurge également contre l’Etat, qui cherche…",
-   "tags": [
-    "Économie",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "3212b72eb6ba",
-   "titre": "\"Une opération historique\" : plus de 800 chiens sauvés dans un élevage par la SPA",
-   "lien": "https://france3-regions.franceinfo.fr/centre-val-de-loire/indre/une-operation-historique-plus-de-800-chiens-sauves-dans-un-elevage-par-la-spa-3447003.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T17:41:31+00:00",
-   "extrait": "Les 3 et 4 novembre, plus de 800 chiens ont été sauvés dans un élevage de l'Indre soupçonné d'escroquerie et de mauvais traitements envers les animaux. La SPA indique que c'est la plus grande…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "02cc9754c546",
-   "titre": "Scandale Nvidia : quand le renseignement chinois passe par le \"sexpionage\"",
-   "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261109-scandale-nvidia-quand-renseignement-chinois-passe-sexpionage",
-   "source": "France 24",
-   "date": "2026-11-09T17:37:17+00:00",
-   "extrait": "La révélation d’une liaison entre Jensen Huang, dirigeant de Nvidia, et une ressortissante chinoise soupçonnée de travailler pour les services de renseignement de Pékin a fait l’effet d’une bombe…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "221ed9111226",
-   "titre": "Incendie de Crans-Montana : un des restaurants du couple Moretti, propriétaire du bar Le Constellation, mis en faillite",
-   "lien": "https://www.franceinfo.fr/faits-divers/incendie-dans-un-bar-de-crans-montana-en-suisse/incendie-de-crans-montana-un-des-restaurants-du-couple-moretti-proprietaire-du-bar-le-constellation-mis-en-faillite_8274818.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T17:36:23+00:00",
-   "extrait": "Le sinistre, qui s'était déclaré la nuit du Nouvel An, avait tué 41 personnes, principalement des adolescents et de jeunes adultes, dont de nombreux Italiens et Français.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "7276488cd519",
-   "titre": "SKIMS Advent calendar sparks controversy: \"I can get these at Dollar Tree\"",
-   "lien": "https://www.cbsnews.com/news/kim-kardashian-skims-accessories-advent-calendar-sparks-controversy/",
-   "source": "CBS News",
-   "date": "2026-11-09T17:32:00+00:00",
-   "extrait": "Kim Kardashian's SKIMS apparel brand has faced backlash from TikTok creators over its Advent calendar, which includes various small accessories and costs $148.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "df0ce1a49372",
-   "titre": "Comment de fausses vidéos sont utilisées pour décrédibiliser les inondations à Gaza",
-   "lien": "https://www.france24.com/fr/moyen-orient/20261109-comment-de-fausses-vid%C3%A9os-sont-utilis%C3%A9es-pour-d%C3%A9cr%C3%A9dibiliser-les-inondations-%C3%A0-gaza",
-   "source": "France 24",
-   "date": "2026-11-09T17:30:52+00:00",
-   "extrait": "Les 6 et 7 novembre, des inondations ont touché des camps de réfugiés dans la bande de Gaza. De nombreuses vidéos, partagées sur les réseaux sociaux montrent la détresse des habitants. Cependant, de…",
-   "tags": [
-    "Conflits",
-    "Climat",
-    "Tech"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "a80ea1805c03",
-   "titre": "Conférence sociale : \"Le compte n'y est pas\", déplore Olivier Faure après les annonces du gouvernement",
-   "lien": "https://www.franceinfo.fr/economie/greve/direct-conference-sociale-pour-repondre-a-la-colere-le-premier-ministre-reunit-lundi-matin-les-syndicats_8273954.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T17:28:10+00:00",
-   "extrait": "Sous pression, Sébastien Lecornu a reçu les partenaires sociaux lundi matin pour tenter de répondre à la colère sociale exprimée depuis plusieurs semaines. Une hausse de 1,6% du smic le 1er décembre…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "21af7d39b8f1",
-   "titre": "Gaza : de fortes pluies font quatre morts dans un camp de déplacés palestiniens",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261109-gaza-de-fortes-pluies-font-quatre-morts-dans-un-camp-de-d%C3%A9plac%C3%A9s-palestiniens",
-   "source": "France 24",
-   "date": "2026-11-09T17:23:27+00:00",
-   "extrait": "Des pluies torrentielles dans ​la bande de Gaza ont provoqué l'effondrement d'un talus de sable et de pierres sur des tentes de Palestiniens déplacés, tuant une femme et ​trois enfants. Près de 70…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "e95eaa580c86",
-   "titre": "Carlos Vicens, un élève de Pep Guardiola pour prendre la relève de Paulo Fonseca à l’Olympique lyonnais",
-   "lien": "https://www.lemonde.fr/football/article/2026/11/09/carlos-vicens-un-eleve-de-pep-guardiola-pour-prendre-la-releve-de-paulo-fonseca-a-l-olympique-lyonnais_6808680_1616938.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T17:09:21+00:00",
-   "extrait": "Le technicien majorquin de 43 ans a été nommé, lundi, entraîneur de l’OL, en remplacement de Paulo Fonseca, parti au Sporting Portugal. Il a passé huit ans à Manchester City, dont quatre en tant…",
-   "tags": [
-    "Politique",
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "a609520351d9",
-   "titre": "L'Espagnol Carlos Vicens devient le nouvel entraîneur de l'Olympique lyonnais",
-   "lien": "https://www.franceinfo.fr/sports/foot/ligue-1/l-espagnol-carlos-vicens-devient-le-nouvel-entraineur-de-l-olympique-lyonnais_8273561.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-09T17:08:02+00:00",
-   "extrait": "Quatre jours après le départ en pleine saison de Paulo Fonseca, l'OL a désigné son successeur sur le banc, dimanche.",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "88aea3d1a064",
-   "titre": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
-   "lien": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-09T17:06:18+00:00",
-   "extrait": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "da0950b6db31",
-   "titre": "Guerre en Ukraine : 400 000 morts russes, le bilan que Vladimir Poutine voulait cacher",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/09/le-bilan-que-vladimir-poutine-voulait-cacher-400-000-morts-russes-dans-la-guerre-en-ukraine_6808679_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-09T17:05:37+00:00",
-   "extrait": "Des hackeurs biélorusses et ukrainiens ont réussi à infiltrer les ordinateurs de Rosstat, l’agence russe des statistiques. Leurs chiffres, publiés par Bloomberg, prennent en compte les certificats…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
   }
  ]
 }
