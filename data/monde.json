@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-11T06:05:40+00:00",
+ "maj": "2026-11-11T07:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,60 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "8e41bf9fe90d",
+   "titre": "At least 3 killed when SUV crashes into North Hollywood food stand",
+   "lien": "https://www.cbsnews.com/news/north-hollywood-food-stand-crash-metro-bus-stop-lankershim-chandler-boulevard/",
+   "source": "CBS News",
+   "date": "2026-11-11T06:28:11+00:00",
+   "extrait": "At least three people were killed and three others injured when an SUV crashed into a food stand near a Metro bus stop in North Hollywood.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "b6da873d09ef",
+   "titre": "Qui est Elizabeth Holmes, star déchue de la Silicon Valley et phénomène d'un documentaire aux Etats-Unis ?",
+   "lien": "https://www.franceinfo.fr/culture/cinema/qui-est-elizabeth-holmes-star-dechue-de-la-silicon-valley-et-phenomene-d-un-documentaire-aux-etats-unis_8276498.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-11T06:17:52+00:00",
+   "extrait": "Condamnée pour avoir escroqué des investisseurs avec sa start-up Theranos, Elizabeth Holmes fascine à nouveau les Américains avec un documentaire devenu un véritable phénomène culturel…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "9a22d5c7de2a",
+   "titre": "Le navigateur français Corentin Horeau remporte la Route du Rhum dans la catégorie Imoca, Basile Bourgnon triomphe en Ocean Fifty",
+   "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/les-navigateurs-francais-corentin-horeau-et-basile-bourgnon-remportent-la-route-du-rhum-en-imoca-et-ocean-fifty_8277284.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-11T06:17:48+00:00",
+   "extrait": "Corentin Horeau a franchi la ligne en Guadeloupe à 6h14, heure de Paris, précédé de deux minutes par Basile Bourgnon, qui est arrivé à 6h12.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "17fe43b34aaa",
+   "titre": "La procédure de destitution du ministre de la Défense américain, Pete Hegseth, torpillée par les républicains au Congrès",
+   "lien": "https://www.franceinfo.fr/monde/usa/la-procedure-de-destitution-contre-peter-hegseth-torpillee-par-les-republicains-au-congres-americain_8277347.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-11T06:13:10+00:00",
+   "extrait": "Les élus républicains sont parvenus à renvoyer en commission cette résolution, permettant ainsi de reporter, sans fixer de date, tout vote contre Pete Hegseth, secoué par des polémiques à répétition.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "7866f142e6db",
+   "titre": "Christophe Gleizes détenu depuis 500 jours : le monde du sport maintient le pressing",
+   "lien": "https://www.france24.com/fr/france/20261111-christophe-gleizes-d%C3%A9tenu-depuis-500-jours-monde-sport-maintient-pressing-algerie",
+   "source": "France 24",
+   "date": "2026-11-11T06:08:32+00:00",
+   "extrait": "Détenu depuis 500 jours dans une prison algérienne pour \"apologie du terrorisme\", le grand reporter Christophe Gleizes continue de purger une peine de sept ans malgré une intense mobilisation de ses…",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "28cfded1710d",
    "titre": "Négociations Ukraine-Russie : suite et fin des pourparlers mercredi, après des \"changements\" salués par Volodymyr Zelensky",
    "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-negociations-ukraine-russie-suite-et-fin-des-pourparlers-mercredi-apres-des-changements-salues-par-volodymyr-zelensky_8277323.html#xtor=RSS-3-[lestitres]",
@@ -32,16 +86,6 @@
     "Politique",
     "Conflits"
    ],
-   "zone": "france"
-  },
-  {
-   "id": "9a22d5c7de2a",
-   "titre": "Les navigateurs français Corentin Horeau et Basile Bourgnon remportent la Route du Rhum en Imoca et Ocean Fifty",
-   "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/les-navigateurs-francais-corentin-horeau-et-basile-bourgnon-remportent-la-route-du-rhum-en-imoca-et-ocean-fifty_8277284.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-11T05:50:35+00:00",
-   "extrait": "Corentin Horeau a franchi la ligne en Guadeloupe à 6h14, heure de Paris, précédé de deux minutes par Besile Bourgnon, qui est arrivé à 6h12.",
-   "tags": [],
    "zone": "france"
   },
   {
@@ -66,6 +110,19 @@
     "Justice"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "7bcc406e9b9c",
+   "titre": "Le gouvernement veut baisser la durée maximale d’indemnisation des malades atteints d’une affection de longue durée non exonérante",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/11/le-gouvernement-veut-baisser-la-duree-maximale-d-indemnisation-des-malades-atteints-d-une-affection-de-longue-duree-non-exonerante_6808938_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-11T05:30:05+00:00",
+   "extrait": "La durée maximale d’indemnisation des assurés bénéficiant de ce statut dérogatoire est réduite à un an au lieu de trois depuis le 15 octobre, dans un objectif de réduction des coûts. Au risque que…",
+   "tags": [
+    "Politique",
+    "Santé"
+   ],
+   "zone": "france"
   },
   {
    "id": "8a6fc89cd0c9",
@@ -101,11 +158,11 @@
   },
   {
    "id": "454ed8a245ff",
-   "titre": "En Colombie, le prix Nobel de la paix Juan Manuel Santos reproche au président d’exhiber des cadavres « avec fierté »",
+   "titre": "En Colombie, le Prix Nobel de la paix Juan Manuel Santos reproche au président d’exhiber des cadavres « avec fierté »",
    "lien": "https://www.lemonde.fr/international/article/2026/11/11/en-colombie-le-prix-nobel-de-la-paix-juan-manuel-santos-reproche-au-president-d-exhiber-des-cadavres-avec-fierte_6808936_3210.html",
    "source": "Le Monde",
    "date": "2026-11-11T05:06:23+00:00",
-   "extrait": "Abelardo De la Espriella a promis « la tombe ou la prison » aux criminels qui se financent par le trafic de drogue, l’extorsion et l’exploitation minière illégale. Le dirigeant d’extrême droite a…",
+   "extrait": "Abelardo de la Espriella a promis « la tombe ou la prison » aux criminels qui se financent par le trafic de drogue, l’extorsion et l’exploitation minière illégale. Le dirigeant d’extrême droite a…",
    "tags": [
     "Politique",
     "Économie"
@@ -232,7 +289,7 @@
    "lien": "https://www.lemonde.fr/international/article/2026/11/11/guerre-en-ukraine-a-abu-dhabi-les-pourparlers-russo-ukrainiens-condamnes-a-l-impasse_6808927_3210.html",
    "source": "Le Monde",
    "date": "2026-11-11T04:30:08+00:00",
-   "extrait": "A l’issue de la rencontre, mardi 10 novembre, le président Zelensky a souligné un débat « constructif », quand la partie russe, rétive à l’idée d’un cessez-le-feu, est restée muette. Après huit mois…",
+   "extrait": "A l’issue de la rencontre, mardi 10 novembre, le président ukrainien, Volodymyr Zelensky, a souligné un débat « constructif », quand la partie russe, rétive à l’idée d’un cessez-le-feu, est restée…",
    "tags": [
     "Politique",
     "Conflits"
@@ -252,21 +309,11 @@
    "zone": "usa"
   },
   {
-   "id": "8e41bf9fe90d",
-   "titre": "At least 3 killed when SUV crashes into North Hollywood food stand",
-   "lien": "https://www.cbsnews.com/news/north-hollywood-food-stand-crash-metro-bus-stop-lankershim-chandler-boulevard/",
-   "source": "CBS News",
-   "date": "2026-11-11T04:06:18+00:00",
-   "extrait": "At least three people were killed and three others injured when an SUV crashed into a food stand near a Metro bus stop in North Hollywood.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "fe414ac4e810",
    "titre": "Au procès de l’explosion de la rue de Trévise, le témoignage éclairant d’un restaurateur et les hypothèses d’un inspecteur de la Ville de Paris",
    "lien": "https://www.lemonde.fr/societe/article/2026/11/11/au-proces-de-l-explosion-de-la-rue-de-trevise-le-temoignage-eclairant-d-un-restaurateur-et-les-hypotheses-d-un-inspecteur-de-la-ville-de-paris_6808923_3224.html",
    "source": "Le Monde",
-   "date": "2026-11-11T04:00:15+00:00",
+   "date": "2026-11-11T04:00:13+00:00",
    "extrait": "Le patron d’un établissement voisin s’était inquiété à la fois de l’affaissement du trottoir et des fuites d’eaux usées dans les caves. L’inspecteur chargé d’un audit de la municipalité après la…",
    "tags": [
     "Justice"
@@ -274,12 +321,25 @@
    "zone": "france"
   },
   {
+   "id": "a7d7bddd13ae",
+   "titre": "Parcoursup : « La sélection n’est pas l’ennemie de l’égalité des chances »",
+   "lien": "https://www.lemonde.fr/idees/article/2026/11/11/parcoursup-la-selection-n-est-pas-l-ennemie-de-l-egalite-des-chances_6808921_3232.html",
+   "source": "Le Monde",
+   "date": "2026-11-11T04:00:03+00:00",
+   "extrait": "Supprimer toute régulation à l’entrée de l’université revient à fabriquer des générations de jeunes sans emploi, explique le président du conseil d’orientation des politiques de jeunesse, Hugo Huet…",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "a350c50af1f6",
-   "titre": "Affaire Michel Zecler : au procès des policiers poursuivis pour violences, des vidéos accablantes et une victime toujours dans le « chaos »",
+   "titre": "Procès de l’interpellation violente de Michel Zecler par des policiers : des vidéos accablantes et une victime toujours dans le « chaos »",
    "lien": "https://www.lemonde.fr/societe/article/2026/11/11/affaire-michel-zecler-au-proces-des-policiers-poursuivis-pour-violences-des-videos-accablantes-et-une-victime-toujours-dans-le-chaos_6808924_3224.html",
    "source": "Le Monde",
    "date": "2026-11-11T04:00:02+00:00",
-   "extrait": "Les images analysées au cours de l’enquête montrent l’avalanche de coups portés par les trois agents sur le producteur de musique en 2020, à Paris, sans répondre à toutes les questions, notamment au…",
+   "extrait": "Les images analysées au cours de l’enquête, et présentées lors du deuxième jour d’audience, mardi 10 novembre, devant la cour criminelle de Paris, montrent l’avalanche de coups portés par les trois…",
    "tags": [
     "Justice"
    ],
@@ -353,13 +413,12 @@
   },
   {
    "id": "fec0f5935bd5",
-   "titre": "Au Brésil, Meta condamnée à une lourde amende pour un traitement jugé inégal entre Lula et Flavio Bolsonaro durant la présidentielle",
+   "titre": "Au Brésil, Meta condamnée à une lourde amende pour une différence de traitement jugée inégale entre Lula et Flavio Bolsonaro durant la présidentielle",
    "lien": "https://www.lemonde.fr/international/article/2026/11/11/au-bresil-meta-condamnee-a-une-lourde-amende-pour-un-traitement-juge-inegal-entre-lula-et-flavio-bolsonaro-durant-la-presidentielle_6808918_3210.html",
    "source": "Le Monde",
    "date": "2026-11-11T03:16:28+00:00",
    "extrait": "Au cours de la campagne, l’équipe de Lula avait accusé la maison mère de Facebook, d’Instagram et de WhatsApp de s’être livrée à une « manipulation algorithmique » destinée à avantager son rival de…",
    "tags": [
-    "Justice",
     "Tech"
    ],
    "zone": "france"
@@ -381,7 +440,7 @@
    "titre": "Kennedy family members join lawsuit to block Trump's arch",
    "lien": "https://www.cbsnews.com/news/kennedy-family-trump-triumphal-arch/",
    "source": "CBS News",
-   "date": "2026-11-11T02:53:10+00:00",
+   "date": "2026-11-11T02:53:00+00:00",
    "extrait": "Several members of the Kennedy family have joined the legal battle to prevent President Trump from building a large triumphal arch near Arlington National Cemetery.",
    "tags": [
     "Politique"
@@ -405,8 +464,8 @@
    "titre": "NASA recruiting new astronauts, deadline to apply set for early December",
    "lien": "https://www.cbsnews.com/video/nasa-recruiting-new-astronauts-deadline-to-apply-set-for-early-december/",
    "source": "CBS News",
-   "date": "2026-11-11T02:50:04+00:00",
-   "extrait": "Astronaut Nichole Stilwell joins \"The Daily Report\" to discuss job requirements and her experience in space amid a new recruiting push by NASA, with applications closing on December 3rd.",
+   "date": "2026-11-11T02:50:00+00:00",
+   "extrait": "Astronaut Nichole Stilwell joins \"The Daily Report\" to discuss job requirements and her experience in space amid a new recruiting push by NASA, with applications closing on Dec. 3.",
    "tags": [],
    "zone": "usa"
   },
@@ -449,7 +508,7 @@
    "lien": "https://www.france24.com/fr/am%C3%A9riques/20261111-presidentielle-bresil-meta-ecope-amende-traitement-inegal-lula-bolsonaro",
    "source": "France 24",
    "date": "2026-11-11T02:40:41+00:00",
-   "extrait": "Le Tribunal supérieur électoral du Brésil a infligé mardi à Meta une amende de 7,5 millions de réais (environ 1,2 million d’euros) pour n'avoir pas respecté l'égalité de traitement entre les…",
+   "extrait": "Le Tribunal supérieur électoral du Brésil a infligé mardi au géant des technologies Meta une amende de 7,5 millions de réais (environ 1,2 million d’euros) pour n'avoir pas respecté l'égalité de…",
    "tags": [
     "Justice",
     "Tech"
@@ -471,11 +530,11 @@
   },
   {
    "id": "e67a48d5e04a",
-   "titre": "A Buenos Aires, devant un million de jeunes, le pape Léon XIV exhorte à résister « aux idoles de notre temps » : succès, apparence, plaisir effréné",
+   "titre": "A Buenos Aires, devant un million de jeunes, le pape Léon XIV exhorte à résister « aux idoles de notre temps » : le succès, l’apparence, le plaisir effréné",
    "lien": "https://www.lemonde.fr/international/article/2026/11/11/a-buenos-aires-devant-un-million-de-jeunes-le-pape-leon-xiv-exhorte-a-resister-aux-idoles-de-notre-temps-succes-apparence-plaisir-effrene_6808916_3210.html",
    "source": "Le Monde",
    "date": "2026-11-11T02:17:06+00:00",
-   "extrait": "Le souverain pontife a aussi évoqué, mardi, en Argentine, son opération en octobre pour un cancer du poumon, mais pour faire l’éloge de la « persévérance » pastorale.",
+   "extrait": "Le souverain pontife a aussi évoqué, mardi, en Argentine, son opération en octobre pour un cancer du poumon, mais pour faire l’éloge de la persévérance pastorale.",
    "tags": [
     "Santé"
    ],
@@ -499,8 +558,8 @@
    "titre": "GLP-1 drugs to carry warning about rare vision-loss side effect, FDA says",
    "lien": "https://www.cbsnews.com/video/glp-1-drugs-to-carry-warning-about-rare-vision-loss-side-effect-fda-says/",
    "source": "CBS News",
-   "date": "2026-11-11T01:59:54+00:00",
-   "extrait": "GLP-1 drugs will now carry a warning for a rare, but potentially dangerous side effect that can lead to vision loss, the FDA says. Dr. Rachel Pessah-Pollack joins CBS News to discuss.",
+   "date": "2026-11-11T01:59:00+00:00",
+   "extrait": "GLP-1 drugs will now carry a warning for a rare, but potentially dangerous side effect that can lead to vision loss, the FDA says. Dr. Rachel Pessah-Pollack joins CBS News' \"The Daily Report\" to…",
    "tags": [],
    "zone": "usa"
   },
@@ -818,7 +877,7 @@
    "titre": "Etats-Unis : Pete Hegseth, défiant et offensif, échappe à une tentative de destitution au Congrès",
    "lien": "https://www.lemonde.fr/international/article/2026/11/11/etats-unis-pete-hegseth-defiant-et-offensif-echappe-a-une-tentative-de-destitution-au-congres_6808912_3210.html",
    "source": "Le Monde",
-   "date": "2026-11-11T00:28:21+00:00",
+   "date": "2026-11-11T00:28:18+00:00",
    "extrait": "Mis en cause par le républicain Thomas Massie pour huit motifs, dont la guerre en Iran et les exécutions extrajudiciaires dans les Caraïbes, le secrétaire à la défense a vivement contre-attaqué…",
    "tags": [
     "Conflits"
@@ -1008,7 +1067,7 @@
    "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/le-parquet-de-paris-ouvre-une-enquete-apres-la-cyberattaque-ayant-touche-des-chambres-froides-de-l-etablissement-francais-du-sang_8277005.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-11-10T22:52:29+00:00",
-   "extrait": "Les investigations ont été confiées à l'Office anti-cybercriminalité et à la Direction générale de la sécurité intérieure pour \"atteinte à un système de traitement informatisé de données\".",
+   "extrait": "Les investigations ont été confiées à l'Office anti-cybercriminalité et à la direction générale de la sécurité intérieure pour \"atteinte à un système de traitement informatisé de données\".",
    "tags": [
     "Justice"
    ],
@@ -2173,6 +2232,16 @@
     "Conflits"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "75a0284cb2e9",
+   "titre": "Sonia Mabrouk dans « Le Monde », une journaliste prometteuse désormais soupçonnée de complaisance envers l’extrême droite",
+   "lien": "https://www.lemonde.fr/m-le-mag/article/2026/11/10/sonia-mabrouk-dans-le-monde-une-journaliste-prometteuse-desormais-soupconnee-de-complaisance-envers-l-extreme-droite_6808880_4500055.html",
+   "source": "Le Monde",
+   "date": "2026-11-10T17:00:10+00:00",
+   "extrait": "Contestée à BFM-TV, qu’elle a rejoint cette année, l’ex-présentatrice vedette de CNews se trouve dans la tourmente. Son nom était apparu dans le quotidien en juin 2011.",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "424560022e91",
@@ -3364,75 +3433,6 @@
     "Tech"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "b549a6efecab",
-   "titre": "The average cost for a new vehicle in the U.S. hits a record high: over $51,000",
-   "lien": "https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high",
-   "source": "NPR",
-   "date": "2026-11-10T13:30:00+00:00",
-   "extrait": "Vehicle transaction prices are up to a new record high, according to the Kelley Blue Book — and some buyers are extending their car loans to finance them.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "528f59c91b43",
-   "titre": "Best pet insurance for cats in 2026: Compare top companies",
-   "lien": "https://www.cbsnews.com/moneywatch/insurance/cats/",
-   "source": "CBS News",
-   "date": "2026-11-10T13:29:00+00:00",
-   "extrait": "Here's the best pet insurance providers for kittens, senior cats and everything in between.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "39299601a00c",
-   "titre": "French wartime resistance heroine Solange Alexandre dies aged 104",
-   "lien": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-10T13:23:54+00:00",
-   "extrait": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "abb287b24275",
-   "titre": "California police investigate after 27 fall ill at half-marathon running event",
-   "lien": "https://www.bbc.co.uk/news/articles/cq0ldlyd556go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-10T13:22:12+00:00",
-   "extrait": "A local hospital says runners had \"unusual\" symptoms after racing on an atypically hot day.",
-   "tags": [
-    "Justice",
-    "Santé"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "064a7eea53a4",
-   "titre": "Donald Trump estime que la guerre contre l’Iran est « militairement terminée », après sa rencontre avec le premier ministre du Qatar",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/10/donald-trump-estime-que-la-guerre-contre-l-iran-est-militairement-terminee-apres-sa-rencontre-avec-le-premier-ministre-du-qatar_6808708_3211.html",
-   "source": "Le Monde",
-   "date": "2026-11-10T13:05:32+00:00",
-   "extrait": "Le président américain a ajouté sur son réseau, Truth Social, que, si une reprise des frappes contre l’Iran était « peu probable », les Etats-Unis restaient « prêts à intervenir ».",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "71149e7a332f",
-   "titre": "Congo court sentences 66 soldiers to death for cowardice, mutiny",
-   "lien": "https://www.cbsnews.com/news/congo-soldiers-death-sentence-execution-for-cowardice/",
-   "source": "CBS News",
-   "date": "2026-11-10T12:50:20+00:00",
-   "extrait": "A military court in the Democratic Republic of Congo has sentenced 66 soldiers to death for cowardice and mutiny after they allegedly fled fighting with rebels.",
-   "tags": [
-    "Conflits",
-    "Justice"
-   ],
-   "zone": "usa"
   }
  ]
 }
