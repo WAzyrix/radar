@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-11T10:05:41+00:00",
+ "maj": "2026-11-11T11:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -19,8 +19,174 @@
   "Tech",
   "Sport"
  ],
- "erreurs": [],
+ "erreurs": [
+  "France 24"
+ ],
  "articles": [
+  {
+   "id": "d4c2fdb74043",
+   "titre": "Trump's judicial confirmations to face resistance in Democratic-controlled Senate",
+   "lien": "https://www.cbsnews.com/news/trump-judicial-confirmations-democrats-senate/",
+   "source": "CBS News",
+   "date": "2026-11-11T11:00:09+00:00",
+   "extrait": "A Democratic-controlled Senate is unlikely to help President Trump and Republicans continue their push to remake the federal judiciary in the next two years.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "9647deeb7085",
+   "titre": "Cérémonie du 11-Novembre : Emmanuel Macron a rendu hommage à Georges Clemenceau et au soldat inconnu",
+   "lien": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/direct-ceremonie-du-11-novembre-suivez-les-commemorations-et-l-emission-speciale-de-france-2_8276093.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-11T10:52:08+00:00",
+   "extrait": "Le président participe pour la dernière fois à ces célébrations en tant que chef de l'Etat. Cette année, l'accent est mis sur la figure du maréchal Foch.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "28cfded1710d",
+   "titre": "Négociations Ukraine-Russie : Volodymyr Zelensky salue l'inclusion des Européens dans les négociations",
+   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-negociations-ukraine-russie-suite-et-fin-des-pourparlers-mercredi-apres-des-changements-salues-par-volodymyr-zelensky_8277323.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-11T10:47:18+00:00",
+   "extrait": "\"Nous ne pouvons pas mettre fin à cette guerre, réfléchir à la sécurité en Europe, ni envisager la reconstruction de l'Ukraine sans l'Europe\", a affirmé Volodymyr Zelensky devant la presse.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "b2ad6301dcd0",
+   "titre": "Intelligence artificielle : la nouvelle règle du CNC en matière de doublage est \"une première étape\" selon le secteur",
+   "lien": "https://www.franceinfo.fr/culture/intelligence-artificielle-la-nouvelle-regle-du-cnc-en-matiere-de-doublage-est-une-premiere-etape-selon-le-secteur_8277566.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-11T10:43:41+00:00",
+   "extrait": "Cette mesure, réclamée depuis quatre ans, prévoit que les aides du CNC ne contribuent qu'à la rémunération des auteurs des textes et des artistes-interprètes.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "e9e67473c648",
+   "titre": "La famille Kennedy porte plainte contre le projet d'arc de triomphe de Donald Trump",
+   "lien": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/la-famille-kennedy-porte-plainte-contre-le-projet-d-arc-de-triomphe-de-donald-trump_8277659.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-11T10:39:39+00:00",
+   "extrait": "Ce projet \"jettera en permanence une ombre\" sur \"les sépultures et les monuments commémoratifs érigés en l'honneur de la famille Kennedy au cimetière d'Arlington\", stipule la plainte déposée lundi…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "e56e90b2b365",
+   "titre": "Stacy Keach, star of \"Mike Hammer\" TV series and stage, dies at 85",
+   "lien": "https://www.cbsnews.com/news/stacy-keach-mike-hammer-stage-dies-85/",
+   "source": "CBS News",
+   "date": "2026-11-11T10:37:00+00:00",
+   "extrait": "Stacy Keach, one of America's finest stage actors who became best known for playing scruffy private eye Mike Hammer on TV, HAS DIED. hE WAS 85.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "ebfb31069154",
+   "titre": "Meghan Markle's father jailed after cutting off monitoring device",
+   "lien": "https://www.cbsnews.com/news/thomas-markle-ordered-psychiatric-exam-meghan-markle-father/",
+   "source": "CBS News",
+   "date": "2026-11-11T10:20:07+00:00",
+   "extrait": "Thomas Markle was jailed in Florida after federal prosecutors alleged that he cut off his location monitoring device.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "fb5573ea532c",
+   "titre": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+   "lien": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-11T10:15:12+00:00",
+   "extrait": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "58ae28aeb4de",
+   "titre": "Sans les vidéos, Michel Zecler \"ne serait pas devant la cour en tant que victime, mais en tant qu'auteur\", déclare son avocat",
+   "lien": "https://www.franceinfo.fr/faits-divers/justice-proces/sans-les-videos-michel-zecler-ne-serait-pas-devant-la-cour-en-tant-que-victime-mais-en-tant-qu-auteur-declare-son-avocat_8277623.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-11T10:14:07+00:00",
+   "extrait": "Serge Money, l'avocat de Michel Zecler au procès des policiers accusés de l'avoir roué de coups a qualifié mercredi sur franceinfo ce procès d'\"historique\". Il souhaite désormais que son client soit…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "c134e35b6b95",
+   "titre": "Les solutions pour apaiser les étudiants \"sont dans les mains du gouvernement\" estime la présidente de la Fage, qui appelle à continuer à manifester",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-solutions-pour-apaiser-les-etudiants-sont-dans-les-mains-du-gouvernement-estime-la-presidente-de-la-f-qui-appelle-a-continuer-a-manifester_8277413.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-11T10:10:15+00:00",
+   "extrait": "La mobilisation étudiante et lycéenne se poursuit, malgré des cortèges plus clairsemés mardi. De nouveaux appels à manifester ont été lancés par l'intersyndicale de la jeunesse et celle de la…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "3ac473d8e03a",
+   "titre": "Des maires d'arrondissements parisiens demandent la mise en place d'arrêtés pour éviter les blocages aux abords des lycées",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/des-maires-d-arrondissements-parisiens-demandent-la-mise-en-place-d-arretes-perimetriques-aux-abords-des-lycees-pour-eviter-les-blocages_8277587.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-11T10:03:37+00:00",
+   "extrait": "Dans cette lettre, ils sollicitent le préfet de police de Paris pour \"prévenir les rassemblements susceptibles d'entraver l'accès aux établissements et de provoquer des troubles à l'ordre public\"…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "627f295ac5ea",
+   "titre": "Guerre en Ukraine : \"Vladimir Poutine sait qu'il a le temps pour lui\", analyse David Rigoulet-Roze, chercheur à l'Institut français d'analyse stratégique",
+   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-vladimir-poutine-sait-qu-il-a-le-temps-pour-lui-analyse-david-rigoulet-roze-chercheur-a-l-institut-francais-d-analyse-strategique_8277584.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-11T10:03:35+00:00",
+   "extrait": "David Rigoulet-Roze, chercheur à l'Institut français d'analyse stratégique, était l'invité actu de la matinale pour évoquer les négociations entre la Russie, l'Ukraine et les États-Unis, la place…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "8f76ea099942",
+   "titre": "Iran-backed trio accused of plotting attacks on U.K. base hosting U.S. jets",
+   "lien": "https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy",
+   "source": "NPR",
+   "date": "2026-11-11T10:02:54+00:00",
+   "extrait": "Iran-backed operatives have been charged over nearly 20 attacks, including a plot on a U.K. base housing U.S. troops. Separately, a U.S. soldier is held in the U.K. on Russia spying claims.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "6319e18e8124",
+   "titre": "Morning News Brief: Hegseth impeachment, new House GOP leader, UK probes base plot",
+   "lien": "https://www.npr.org/2026/11/11/nx-s1-6035568/morning-news-brief-hegseth-impeachment-new-house-gop-leader-uk-probes-base-plot",
+   "source": "NPR",
+   "date": "2026-11-11T10:02:44+00:00",
+   "extrait": "Republicans block Hegseth impeachment, Trump ally picked to lead House GOP minority, UK investigates alleged Iran-backed plot.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
   {
    "id": "669d61f3cc1c",
    "titre": "Roseline Layo célèbre les voix féminines africaines avec \"Divas\"",
@@ -30,6 +196,70 @@
    "extrait": "Roseline Layo est l’une des voix incontournables de la Côte d’Ivoire. Elle chante l’amour, les joies et les peines du quotidien. Des piano-bars d’Abidjan aux scènes internationales, elle a fait de…",
    "tags": [],
    "zone": "monde"
+  },
+  {
+   "id": "ef245686d066",
+   "titre": "Oil giant ExxonMobil left Venezuela years ago. Now it's considering a return",
+   "lien": "https://www.npr.org/2026/11/11/nx-s1-5979080/exxonmobil-oil-mou-venezuela",
+   "source": "NPR",
+   "date": "2026-11-11T10:00:00+00:00",
+   "extrait": "ExxonMobil has signed a memorandum of understanding with the Venezuelan government and its state-owned oil company to explore opportunities in the country.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "5011a547602a",
+   "titre": "AI hoaxes are deceiving 911 dispatchers, and they're only getting harder to detect",
+   "lien": "https://www.npr.org/2026/11/11/nx-s1-6034449/ai-911-calls-swatting",
+   "source": "NPR",
+   "date": "2026-11-11T10:00:00+00:00",
+   "extrait": "Swatters are increasingly using AI technology that creates synthetic voices or sound effects to generate remarkably believable fake emergency calls to law enforcement.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "ed6136ea06e9",
+   "titre": "Volunteer musicians play songs for veterans who are hospitalized",
+   "lien": "https://www.npr.org/2026/11/11/nx-s1-6005263/volunteer-musicians-play-songs-for-veterans-who-are-hospitalized",
+   "source": "NPR",
+   "date": "2026-11-11T10:00:00+00:00",
+   "extrait": "Volunteer musicians play for veterans and others who are hospitalized. They're part of Musicians On Call, a group that spreads the healing power of music.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "e40120a78ce1",
+   "titre": "Both sides now? Critics slam DOJ moves to dismiss convictions of Trump allies",
+   "lien": "https://www.npr.org/2026/11/11/g-s1-152713/doj-abandons-convictions-trump-allies-no-defense",
+   "source": "NPR",
+   "date": "2026-11-11T10:00:00+00:00",
+   "extrait": "The DOJ moved to dismiss criminal convictions of former Trump adviser Steve Bannon and of the Oath Keepers, in what it calls \"the interests of justice.\" Critics are crying foul.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "50ece4f925b0",
+   "titre": "Your guide to hosting a flavorful, cozy and stress-free Thanksgiving",
+   "lien": "https://www.npr.org/2026/11/11/nx-s1-6034639/your-guide-to-hosting-a-flavorful-cozy-and-stress-free-thanksgiving",
+   "source": "NPR",
+   "date": "2026-11-11T10:00:00+00:00",
+   "extrait": "Whether you're hosting friendsgiving or Thanksgiving, we've got foolproof turkey recipes, advice on how to stay present while hosting, and directions on how to create a stunning floral arrangement.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "0536102efdb3",
+   "titre": "U.S. officials look to Europe to learn how to make prison better",
+   "lien": "https://www.npr.org/2026/11/11/nx-s1-6026417/us-prisons-european-model-rehabilitation",
+   "source": "NPR",
+   "date": "2026-11-11T10:00:00+00:00",
+   "extrait": "American prison officials are looking to European nations like Germany and Norway for a roadmap on how to design a prison that emphasizes rehabilitation and a successful return to life on the outside.",
+   "tags": [],
+   "zone": "usa"
   },
   {
    "id": "0434155b7b85",
@@ -43,6 +273,18 @@
     "Conflits"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "77e53edde1a3",
+   "titre": "Bruno Retailleau propose une primaire de la droite et du centre les 31 janvier et 7 février",
+   "lien": "https://www.franceinfo.fr/elections/presidentielle/bruno-retailleau-propose-une-primaire-de-la-droite-et-du-centre-les-31-janvier-et-7-fevrier_8277581.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-11T09:54:07+00:00",
+   "extrait": "Parmi les quatre candidats à qui le président des Républicains a adressé une lettre allant dans ce sens, seul Edouard Philippe (Horizons) est opposé à l'idée d'une primaire.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
   },
   {
    "id": "9a094099a025",
@@ -224,10 +466,8 @@
    "lien": "https://www.franceinfo.fr/culture/series/l-acteur-americain-stacy-keach-star-de-la-serie-mike-hammer-est-mort-a-l-age-de-85-ans_8277542.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-11-11T09:20:34+00:00",
-   "extrait": "Le célèbre comédien, notamment connu pour avoir incarné à la télévisions le détective privé Mike Hammer, est mort mardi d'une maladie cardiaque.",
-   "tags": [
-    "Santé"
-   ],
+   "extrait": "A la télévision, outre Mike Hammer, il a notamment joué dans des séries à succès comme \"Prison Break\" et \"Mon oncle Charlie\".",
+   "tags": [],
    "zone": "france"
   },
   {
@@ -343,30 +583,6 @@
    "tags": [
     "Politique",
     "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "28cfded1710d",
-   "titre": "Négociations Ukraine-Russie : le deuxième et dernier jour des pourparlers a démarré à Abou Dhabi",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-negociations-ukraine-russie-suite-et-fin-des-pourparlers-mercredi-apres-des-changements-salues-par-volodymyr-zelensky_8277323.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-11T09:02:20+00:00",
-   "extrait": "La journée a commencé \"par une rencontre trilatérale avec les Etats-Unis et la Russie\", a précisé le chef de la délégation ukrainienne.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "9647deeb7085",
-   "titre": "Cérémonie du 11-Novembre : Emmanuel Macron rend hommage \"à ceux qui ne sont jamais revenus\"",
-   "lien": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/direct-ceremonie-du-11-novembre-suivez-les-commemorations-et-l-emission-speciale-de-france-2_8276093.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-11T08:54:16+00:00",
-   "extrait": "Le président participe pour la dernière fois à ces célébrations en tant que chef de l'Etat. Cette année, l'accent est mis sur la figure du maréchal Foch.",
-   "tags": [
-    "Politique"
    ],
    "zone": "france"
   },
@@ -509,6 +725,18 @@
    "date": "2026-11-11T07:56:20+00:00",
    "extrait": "Pour la première fois, les établissements scolaires doivent marquer ce jour de l'Armistice de 1918 et organiser des hommages. Extraits de lettres de \"poilus\", chanson… Au collège du Vieux Chêne, à…",
    "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "1ddad10d03f8",
+   "titre": "\"Ce qu'on veut, maintenant, c'est une diplomatie plus offensive\", plaident la mère et le beau-père de Christophe Gleizes détenu en Algérie depuis 500 jours",
+   "lien": "https://www.franceinfo.fr/culture/livres/emprisonnement-du-journaliste-christophe-gleizes-en-algerie/ce-qu-on-veut-maintenant-c-est-une-diplomatie-plus-offensive-plaident-la-mere-et-le-beau-pere-de-christophe-gleizes-detenu-en-algerie-depuis-500-jours_8277446.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-11T07:54:22+00:00",
+   "extrait": "Avant l'échéance de l'élection présidentielle en France, Sylvie et Francis Godard veulent mettre \"un coup d'accélérateur\" sur les négociations diplomatiques entre Alger et Paris. Invités sur France…",
+   "tags": [
+    "Politique"
+   ],
    "zone": "france"
   },
   {
@@ -867,7 +1095,7 @@
   },
   {
    "id": "7415181b6912",
-   "titre": "Le journaliste Christophe Gleizes, en détention en Algérie, compose avec la routine de la vie carcérale : « Ce sont 500 jours de trop »",
+   "titre": "Le journaliste Christophe Gleizes, en détention en Algérie, compose avec la routine de la vie carcérale : « Ce sont cinq cents jours de trop »",
    "lien": "https://www.lemonde.fr/international/article/2026/11/11/le-journaliste-christophe-gleizes-en-detention-en-algerie-compose-avec-la-routine-de-la-vie-carcerale-ce-sont-500-jours-de-trop_6808926_3210.html",
    "source": "Le Monde",
    "date": "2026-11-11T04:30:08+00:00",
@@ -938,16 +1166,6 @@
    "zone": "france"
   },
   {
-   "id": "ebfb31069154",
-   "titre": "Meghan Markle's father jailed after cutting off monitoring device",
-   "lien": "https://www.cbsnews.com/news/thomas-markle-ordered-psychiatric-exam-meghan-markle-father/",
-   "source": "CBS News",
-   "date": "2026-11-11T03:47:17+00:00",
-   "extrait": "Thomas Markle was jailed in Florida on Tuesday after federal prosecutors allege that he cut off his location monitoring device earlier in the day.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "7f2e24070d41",
    "titre": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
    "lien": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss",
@@ -990,18 +1208,6 @@
    "extrait": "Chaque mercredi dans La Matinale, les journalistes cinéma du « Monde » livrent leurs critiques des films à découvrir en salle. Aujourd’hui, notamment, Sandra Wollner brosse un portrait du deuil avec…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "fb5573ea532c",
-   "titre": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-   "lien": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-11T03:26:42+00:00",
-   "extrait": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
   },
   {
    "id": "fec0f5935bd5",
@@ -2879,6 +3085,18 @@
    "zone": "france"
   },
   {
+   "id": "ce708fc67f40",
+   "titre": "Dans « 15/18 », le cinéaste Cédric Kahn s’empare de la détresse adolescente au sein d’un service psychiatrique",
+   "lien": "https://www.lemonde.fr/culture/article/2026/11/10/dans-15-18-le-cineaste-cedric-khan-s-empare-de-la-detresse-adolescente-au-sein-d-un-service-psychiatrique_6808878_3246.html",
+   "source": "Le Monde",
+   "date": "2026-11-10T17:00:05+00:00",
+   "extrait": "Œuvre hybride dans la filmographie du réalisateur, ce nouveau long-métrage, dont une bonne partie se passe dans l’enceinte d’un hôpital parisien, peine à convaincre.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "424560022e91",
    "titre": "Le choléra a fait plus de 3 000 morts dans le monde depuis le début de l'année, selon l'OMS",
    "lien": "https://www.franceinfo.fr/sante/plus-de-3-000-morts-du-cholera-depuis-le-debut-de-l-annee-selon-l-oms_8276561.html#xtor=RSS-3-[lestitres]",
@@ -3229,214 +3447,6 @@
    "extrait": "About 50 other people were injured in the pile-ups along a section of the Trakia motorway, officials have said.",
    "tags": [],
    "zone": "monde"
-  },
-  {
-   "id": "e05ecd22f34d",
-   "titre": "\"Papa est enfermé\" : le carnet retrouvé d’un civil interné en France pendant la Grande Guerre",
-   "lien": "https://www.france24.com/fr/france/20261110-premiere-guerre-mondiale-france-internement-etrangers-ennemis-camps-immigration",
-   "source": "France 24",
-   "date": "2026-11-10T16:01:45+00:00",
-   "extrait": "À l’occasion du 11-Novembre, France 24 vous raconte l’histoire de Samuel Gunsberg, imprimeur né à Budapest et installé en France en l'an 1900, interné dès 1914 comme \"sujet ennemi\". Son carnet…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "921b40e6bdb6",
-   "titre": "Le « harcèlement sexuel d’ambiance » au travail, une nouvelle notion qui incite les entreprises à réagir",
-   "lien": "https://www.lemonde.fr/vie-au-travail/article/2026/11/10/le-harcelement-sexuel-d-ambiance-au-travail-une-nouvelle-notion-qui-incite-les-entreprises-a-reagir_6808872_6768900.html",
-   "source": "Le Monde",
-   "date": "2026-11-10T16:00:29+00:00",
-   "extrait": "Blagues graveleuses, réflexions sexistes, gestes obscènes, diffusion d’images pornographiques… De nombreux comportements observés dans l’entreprise peuvent être considérés comme du « harcèlement…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "1098a39f4a87",
-   "titre": "« Depuis 500 jours, Christophe Gleizes est séparé des siens et privé d’une liberté fondamentale : celle d’informer »",
-   "lien": "https://www.lemonde.fr/idees/article/2026/11/10/depuis-500-jours-christophe-gleizes-est-separe-des-siens-et-prive-d-une-liberte-fondamentale-celle-d-informer_6808871_3232.html",
-   "source": "Le Monde",
-   "date": "2026-11-10T16:00:26+00:00",
-   "extrait": "Dans une tribune, 40 sociétés de journalistes et de rédacteurs appellent à la libération du journaliste français, détenu en Algérie.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "f6cdd6ff5471",
-   "titre": "Ce que l’on sait de l’affaire Michel Zecler",
-   "lien": "https://www.lemonde.fr/videos/video/2026/11/10/ce-que-l-on-sait-de-l-affaire-michel-zecler_6808867_1669088.html",
-   "source": "Le Monde",
-   "date": "2026-11-10T16:00:03+00:00",
-   "extrait": "Cette affaire de violences policières, devenue emblématique, est jugée depuis le lundi 9 novembre devant la cour criminelle de Paris. Trois policiers comparaissent pour des violences infligées au…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "1dcdfb90ecd7",
-   "titre": "\"Nous avons le choix entre le mauvais et le pire\" : les députés arabes israéliens soutiennent Gadi Eizenkot du bout des lèvres",
-   "lien": "https://www.franceinfo.fr/politique/nous-avons-le-choix-entre-le-mauvais-et-le-pire-les-deputes-arabes-israeliens-soutiennent-gadi-eizenkot-du-bout-des-levres_8276405.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-10T15:55:47+00:00",
-   "extrait": "Les 120 parlementaires israéliens élus lors des élections législatives du 27 octobre font leur rentrée à la Knesset ce mardi. Pour former le gouvernement, qui va succéder à celui de Benyamin…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "88a2826a17c0",
-   "titre": "L'auteur de la tuerie de Cracovie en Pologne a \"consulté des sites\" sur le néonazi Anders Behring Breivik",
-   "lien": "https://www.franceinfo.fr/faits-divers/police/l-auteur-de-la-tuerie-de-cracovie-en-pologne-s-interessait-au-neonazi-anders-behring-breivik_8276345.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-10T15:54:34+00:00",
-   "extrait": "Michal Oksinski, qui a tué trois membres de sa famille puis six personnes en pleine rue, avait consulté des sites sur le terroriste norvégien, qui avait fait 77 morts en 2011, près du siège du…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "ef3b26c7272b",
-   "titre": "Food prices surged more than expected in October, CPI report shows",
-   "lien": "https://www.cbsnews.com/video/inflation-rose-more-than-expected-in-october-cpi-report-shows/",
-   "source": "CBS News",
-   "date": "2026-11-10T15:52:05+00:00",
-   "extrait": "U.S. consumer prices rose at a higher rate than expected in October, according to the October Consumer Price Index (CPI) report. CBS News' Kelly O'Grady explains more.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "a1d054d1ae78",
-   "titre": "Meghan makes first public appearance since estranged dad's arrest",
-   "lien": "https://www.cbsnews.com/video/meghan-makes-first-public-appearance-since-estranged-dads-arrest/",
-   "source": "CBS News",
-   "date": "2026-11-10T15:51:58+00:00",
-   "extrait": "Meghan, Duchess of Sussex, made her first public appearance after the FBI arrested her estranged father, Thomas Markle Sr., on charges related to possession of child sexual abuse materials. CBS…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "4cf39f362cb1",
-   "titre": "Why the U.S. military is moving aircraft out of a U.K. base",
-   "lien": "https://www.cbsnews.com/video/why-the-us-military-is-moving-aircraft-out-of-a-uk-base/",
-   "source": "CBS News",
-   "date": "2026-11-10T15:49:41+00:00",
-   "extrait": "The U.S. military has relocated various aircraft away from RAF Mildenhall in the United Kingdom due to an Iranian security threat. CBS News national security analyst Aaron MacLean reports.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "42c60c99f569",
-   "titre": "Dad went into \"mission mode\" to stop school shooting",
-   "lien": "https://www.cbsnews.com/news/kaylub-giamanco-oregon-school-shooting-interview/",
-   "source": "CBS News",
-   "date": "2026-11-10T15:46:00+00:00",
-   "extrait": "Kaylub Giamanco shared how he stopped a shooting at his daughters' school in Bend, Oregon, in his first network television interview.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "7aa796a1a60f",
-   "titre": "Reported Iran threat sees U.S. move planes from second U.K. base",
-   "lien": "https://www.cbsnews.com/news/raf-mildenhall-us-tanker-relocation-iran-threat-military-aircraft-moved/",
-   "source": "CBS News",
-   "date": "2026-11-10T15:45:00+00:00",
-   "extrait": "The reported movement comes just over a month after a security incident at a separate air base hosting U.S. aircraft used in the war with Iran.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "14f8362bdfa6",
-   "titre": "Près de 400 000 Russes sont morts au combat depuis le début de l'invasion de l'Ukraine, selon une fuite de données inédite",
-   "lien": "https://www.franceinfo.fr/monde/russie/pres-de-400-000-russes-sont-morts-au-combat-depuis-le-debut-de-l-invasion-de-l-ukraine-selon-une-fuite-de-donnees-inedite_8276057.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-10T15:44:26+00:00",
-   "extrait": "Deux groupes de hackers ont ciblé l'agence des statistiques de l'Etat russe, afin de télécharger des registres mentionnant les causes de décès. Ces documents montrent l'immense coût humain de…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "f9e9c07cac5b",
-   "titre": "'It's a farce': Hegseth's defiant response to impeachment effort",
-   "lien": "https://www.bbc.co.uk/news/videos/cwm24249dezmo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-10T15:40:43+00:00",
-   "extrait": "The BBC’s Gary O’Donoghue breaks down how the US defence secretary defended his record after a Republican congressman launched an attempt to impeach him.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "301bd9abf7ae",
-   "titre": "Hero dad who shot Oregon school gunman describes going into \"mission mode\" during shooting",
-   "lien": "https://www.cbsnews.com/video/hero-dad-who-shot-oregon-school-gunman-describes-going-into-mission-mode-during-shooting/",
-   "source": "CBS News",
-   "date": "2026-11-10T15:37:00+00:00",
-   "extrait": "Kaylub Giamanco, the father who shot and killed the gunman at Silver Rail Elementary School in Bend, Oregon, sits down with \"CBS Mornings\" with his wife, Kelsey, to talk about his heroic actions…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "9a2b24c05ae7",
-   "titre": "Exclusive discounts from CBS Mornings Deals",
-   "lien": "https://www.cbsnews.com/video/exclusive-discounts-from-cbs-mornings-deals-186/",
-   "source": "CBS News",
-   "date": "2026-11-10T15:35:06+00:00",
-   "extrait": "On this edition of CBS Deals, we show you items that could help improve your everyday lifestyle. Visit cbsdeals.com to take advantage of these exclusive deals today. CBS earns commissions on…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "be09198e064b",
-   "titre": "No sign of progress as U.S.-Ukraine-Russia talks get underway",
-   "lien": "https://www.cbsnews.com/news/us-russia-ukraine-war-talks-peace-abu-dhabi-deal/",
-   "source": "CBS News",
-   "date": "2026-11-10T15:33:40+00:00",
-   "extrait": "It is the first such trilateral diplomatic push since negotiations were suspended following the start of the war with Iran.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "64db82d938b6",
-   "titre": "DOC NYC documentary film festival returns. Check out this year's lineup.",
-   "lien": "https://www.cbsnews.com/news/doc-nyc-documentary-film-festival-2026/",
-   "source": "CBS News",
-   "date": "2026-11-10T15:32:00+00:00",
-   "extrait": "America's largest festival for nonfiction cinema, with more than 115 feature-length documentaries plus short film programs, opens in NYC theaters and streams online.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "c67565d8838d",
-   "titre": "Lauren Sánchez Bezos on her new children's holiday book",
-   "lien": "https://www.cbsnews.com/video/lauren-snchez-bezos-on-her-new-childrens-holiday-book/",
-   "source": "CBS News",
-   "date": "2026-11-10T15:31:51+00:00",
-   "extrait": "Lauren Sánchez Bezos joins \"CBS Mornings\" to talk about her new children's holiday book, \"The Fly Who Flew to the North Pole.\"",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "534382e34b4c",
-   "titre": "Affaire Mohamed Al Fayed : gardes à vue et perquisitions, dont une au Ritz, dans l’enquête sur un réseau présumé de traite de femmes",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/10/affaire-mohamed-al-fayed-gardes-a-vue-et-perquisitions-dont-une-au-ritz-dans-l-enquete-sur-un-reseau-presume-de-traite-de-femmes_6808864_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-10T15:31:14+00:00",
-   "extrait": "Mort en 2023 sans avoir jamais été poursuivi, malgré de nombreuses plaintes, le milliardaire égyptien fait l’objet d’enquêtes conjointes en France et au Royaume-Uni, où la police a déjà reçu 163…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-11T10:05:41+00:00",
+ "maj": "2026-11-11T11:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "474586429e7c",
+   "titre": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
+   "lien": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+   "source": "BleepingComputer",
+   "date": "2026-11-11T10:12:08+00:00",
+   "extrait": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]",
+   "tags": [
+    "Faille",
+    "Fuite de données"
+   ]
+  },
   {
    "id": "6cc651115394",
    "titre": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
@@ -3395,18 +3407,6 @@
    "date": "2026-10-30T09:18:13+00:00",
    "extrait": "Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]",
    "tags": []
-  },
-  {
-   "id": "ad2cc061f552",
-   "titre": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
-   "lien": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
-   "source": "The Hacker News",
-   "date": "2026-10-30T08:55:47+00:00",
-   "extrait": "Cybersecurity researchers have disclosed that a trojanized version of Anthropic's official Claude Code extension was distributed through the Cursor Marketplace as a legitimate update, attempting to…",
-   "tags": [
-    "Malware",
-    "IA"
-   ]
   }
  ]
 }
