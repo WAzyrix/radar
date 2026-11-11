@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-11T16:05:44+00:00",
+ "maj": "2026-11-11T17:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,42 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "4c32248b415f",
+   "titre": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+   "lien": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+   "source": "BleepingComputer",
+   "date": "2026-11-11T16:24:18+00:00",
+   "extrait": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]",
+   "tags": [
+    "Ransomware",
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "8b35f69eac70",
+   "titre": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+   "lien": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+   "source": "The Hacker News",
+   "date": "2026-11-11T16:12:46+00:00",
+   "extrait": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems. The…",
+   "tags": [
+    "CVE",
+    "Faille",
+    "Windows"
+   ]
+  },
+  {
+   "id": "63cbf25606a5",
+   "titre": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+   "lien": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
+   "source": "The Hacker News",
+   "date": "2026-11-11T15:34:27+00:00",
+   "extrait": "Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials…",
+   "tags": [
+    "IA"
+   ]
+  },
   {
    "id": "9c9df925add3",
    "titre": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
@@ -3381,40 +3417,6 @@
    "source": "The Hacker News",
    "date": "2026-10-30T15:17:28+00:00",
    "extrait": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "96a0f026f2e0",
-   "titre": "Malicious Claude Code extension on Cursor planted SSH backdoors",
-   "lien": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
-   "source": "BleepingComputer",
-   "date": "2026-10-30T14:36:54+00:00",
-   "extrait": "A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to…",
-   "tags": [
-    "Malware",
-    "IA"
-   ]
-  },
-  {
-   "id": "6473fc7702e5",
-   "titre": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
-   "lien": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
-   "source": "The Hacker News",
-   "date": "2026-10-30T14:08:14+00:00",
-   "extrait": "Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released. The vulnerability, which does not have a CVE identifier…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "27c3e9ac8130",
-   "titre": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
-   "lien": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
-   "source": "BleepingComputer",
-   "date": "2026-10-30T14:00:10+00:00",
-   "extrait": "Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their…",
    "tags": [
     "Faille"
    ]
