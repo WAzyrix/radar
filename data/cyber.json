@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-11T20:05:39+00:00",
+ "maj": "2026-11-11T21:07:06+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "4555dea14647",
+   "titre": "Notion says Fireworks breach exposed customer AI chat transcripts",
+   "lien": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+   "source": "BleepingComputer",
+   "date": "2026-11-11T20:54:20+00:00",
+   "extrait": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
+   "tags": [
+    "Fuite de données",
+    "IA"
+   ]
+  },
   {
    "id": "4c32248b415f",
    "titre": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
@@ -3409,17 +3421,6 @@
    "date": "2026-10-30T15:58:20+00:00",
    "extrait": "Hardware wallet device maker Trezor has received credible reports about a suspected hardware crypto-theft implant in a Trezor Safe 5 sold by its reseller CryptoBilis in Southeast Asia. [...]",
    "tags": []
-  },
-  {
-   "id": "bfec2004bdb1",
-   "titre": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
-   "lien": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
-   "source": "The Hacker News",
-   "date": "2026-10-30T15:17:28+00:00",
-   "extrait": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes…",
-   "tags": [
-    "Faille"
-   ]
   }
  ]
 }
