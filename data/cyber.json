@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-11T15:05:42+00:00",
+ "maj": "2026-11-11T16:05:44+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "9c9df925add3",
+   "titre": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+   "lien": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
+   "source": "BleepingComputer",
+   "date": "2026-11-11T15:12:59+00:00",
+   "extrait": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]",
+   "tags": [
+    "Fuite de données",
+    "IA"
+   ]
+  },
   {
    "id": "a9021fd43362",
    "titre": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
@@ -3403,17 +3415,6 @@
    "source": "BleepingComputer",
    "date": "2026-10-30T14:00:10+00:00",
    "extrait": "Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "09382f93624b",
-   "titre": "CISA says max severity GitLab flaw now exploited in the wild",
-   "lien": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
-   "source": "BleepingComputer",
-   "date": "2026-10-30T13:00:32+00:00",
-   "extrait": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]",
    "tags": [
     "Faille"
    ]
