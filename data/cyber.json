@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-11T12:05:42+00:00",
+ "maj": "2026-11-11T13:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,48 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "693679885746",
+   "titre": "N-able releases security hotfixes for zero-day vulnerabilities",
+   "lien": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
+   "source": "BleepingComputer",
+   "date": "2026-11-11T12:32:27+00:00",
+   "extrait": "N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "14caa111eec6",
+   "titre": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
+   "lien": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
+   "source": "The Hacker News",
+   "date": "2026-11-11T12:19:40+00:00",
+   "extrait": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the…",
+   "tags": [
+    "IA"
+   ]
+  },
+  {
+   "id": "de18400249b3",
+   "titre": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
+   "lien": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
+   "source": "The Hacker News",
+   "date": "2026-11-11T12:01:59+00:00",
+   "extrait": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability that’s separate from any human’s. That was true for…",
+   "tags": [
+    "IA"
+   ]
+  },
+  {
+   "id": "b80a24c89312",
+   "titre": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
+   "lien": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
+   "source": "The Hacker News",
+   "date": "2026-11-11T12:00:53+00:00",
+   "extrait": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys. Each…",
+   "tags": []
+  },
   {
    "id": "15c0b59087ed",
    "titre": "Microsoft fixes audio issues caused by September security updates",
@@ -3367,48 +3409,6 @@
    "date": "2026-10-30T11:58:53+00:00",
    "extrait": "The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won’t…",
    "tags": []
-  },
-  {
-   "id": "4198413c0e43",
-   "titre": "Microsoft finally fixes VPN issues caused by September updates",
-   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/",
-   "source": "BleepingComputer",
-   "date": "2026-10-30T11:20:26+00:00",
-   "extrait": "Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...]",
-   "tags": [
-    "Windows"
-   ]
-  },
-  {
-   "id": "1c52b7965621",
-   "titre": "Test d'un chargeur UGREEN 160W qui cache un câble rétractable et un écran",
-   "lien": "https://korben.info/test-dun-chargeur-ugreen-160w-qui-cache-un-cable-retractable-et-un-ecran.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-10-30T10:51:04+00:00",
-   "extrait": "UGREEN propose le Nexode Pro 160W, un chargeur au nitrure de gallium doté d'un câble USB-C rétractable de 70 cm (jusqu'à 140 W) et d'un écran couleur affichant puissance, tension et température par…",
-   "tags": []
-  },
-  {
-   "id": "6734aa3aec6c",
-   "titre": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
-   "lien": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
-   "source": "The Hacker News",
-   "date": "2026-10-30T10:40:45+00:00",
-   "extrait": "Ahmad Umar Agha, a Syrian Electronic Army hacker known online as \"Th3Pr0,\" has been sentenced by a U.S. federal court to 42 months in prison for his role in a hacking conspiracy that targeted…",
-   "tags": [
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "eaaaa83e33fa",
-   "titre": "Drupal warns of critical Commerce Core flaw exploited in attacks",
-   "lien": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
-   "source": "BleepingComputer",
-   "date": "2026-10-30T10:16:07+00:00",
-   "extrait": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
-   "tags": [
-    "Faille"
-   ]
   }
  ]
 }
