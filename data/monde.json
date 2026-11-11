@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-11T19:52:59+00:00",
+ "maj": "2026-11-11T20:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,12 +22,36 @@
  "erreurs": [],
  "articles": [
   {
-   "id": "e1689fd969ef",
-   "titre": "Alertes à la bombe visant des écoles en Europe : \"rien\" n'a été trouvé dans les établissements italiens, rapporte Giorgia Meloni",
-   "lien": "https://www.franceinfo.fr/monde/europe/direct-des-centaines-d-ecoles-visees-par-des-alertes-a-la-bombe-en-italie-en-irlande-et-au-royaume-uni-de-nombreux-etablissements-evacues_8277773.html#xtor=RSS-3-[lestitres]",
+   "id": "5bde87244137",
+   "titre": "African writing award probe finds 'no evidence' winning story was AI generated",
+   "lien": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-11T20:00:54+00:00",
+   "extrait": "Zimbabwean writer Simbarashe Kundizeza has also vehemently denied the allegation made in a US magazine.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "23565797d1ba",
+   "titre": "Clashes in Barcelona as thousands join Spain general strike",
+   "lien": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-11T19:59:48+00:00",
+   "extrait": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "b2b56b0e5fd5",
+   "titre": "La Russie interdit de territoire deux députés et deux journalistes français, en réponse à l'expulsion de Xenia Fedorova",
+   "lien": "https://www.franceinfo.fr/monde/russie/la-russie-interdit-l-entree-sur-son-territoire-a-deux-deputes-et-deux-journalistes-francais-en-reponse-a-l-expulsion-de-xenia-fedorova_8277836.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-11-11T19:47:51+00:00",
-   "extrait": "Des centaines d'établissements scolaires ont aussi été visés mercredi par des messages menaçants au Royaume-Uni et en Irlande.",
+   "date": "2026-11-11T19:57:34+00:00",
+   "extrait": "La décision, qui vise les élus Sacha Houlié et Arthur Delaporte et les reporters Ariane Chemin et Paul Gogo, a été prise \"en raison de leur participation au harcèlement\" de la chroniqueuse…",
    "tags": [],
    "zone": "france"
   },
@@ -36,13 +60,47 @@
    "titre": "Iran vows not to give up \"a single particle\" of nuclear material",
    "lien": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/",
    "source": "CBS News",
-   "date": "2026-11-11T19:41:32+00:00",
+   "date": "2026-11-11T19:57:15+00:00",
    "extrait": "President Trump has repeatedly cited Iran's nuclear program as the core reason for going to war, but Tehran says it will not hand over any of its enriched uranium.",
    "tags": [
     "Politique",
     "Conflits"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "e28a56bd61ad",
+   "titre": "These House and Senate midterm races don't have winners yet",
+   "lien": "https://www.cbsnews.com/news/2026-midterm-election-house-senate-projections-toss-up/",
+   "source": "CBS News",
+   "date": "2026-11-11T19:55:22+00:00",
+   "extrait": "Democrats won sizable House and Senate majorities in the 2026 midterm elections, but the exact margins are unclear because some races haven't been projected yet. Here's where the results stand.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "5440dea1f55a",
+   "titre": "Tesla extends Cybertruck production to clear backlog, Musk says",
+   "lien": "https://www.cbsnews.com/news/tesla-extend-cybertruck-production-backlog/",
+   "source": "CBS News",
+   "date": "2026-11-11T19:55:13+00:00",
+   "extrait": "Tesla CEO Elon Musk originally said Tesla would wind down production​ at its Texas factory in mid-2027.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "e1689fd969ef",
+   "titre": "Alertes à la bombe visant des écoles en Europe : \"rien\" n'a été trouvé dans les établissements italiens, rapporte Giorgia Meloni",
+   "lien": "https://www.franceinfo.fr/monde/europe/direct-des-centaines-d-ecoles-visees-par-des-alertes-a-la-bombe-en-italie-en-irlande-et-au-royaume-uni-de-nombreux-etablissements-evacues_8277773.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-11T19:47:51+00:00",
+   "extrait": "Des centaines d'établissements scolaires ont aussi été visés mercredi par des messages menaçants au Royaume-Uni et en Irlande.",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "1399104b4951",
@@ -55,6 +113,18 @@
     "Tech"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "7d0b3534d654",
+   "titre": "Procès du triple narchomicide de 2020 : le parquet général dénonce des « meurtres d’une sauvagerie sans nom » et requiert quatre condamnations à perpétuité",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/11/proces-du-triple-narchomicide-de-2020-le-parquet-general-denonce-des-meurtres-d-une-sauvagerie-sans-nom-et-requiert-quatre-condamnations-a-perpetuite_6809028_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-11T19:37:10+00:00",
+   "extrait": "Après trois semaines et demie d’une audience sous tension à la cour d’assises des Bouches-du-Rhône, le ministère public a dénoncé « la fourberie, la lâcheté, la trahison… Méthode habituelle des…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
   },
   {
    "id": "bd685a7d7607",
@@ -142,6 +212,18 @@
    "extrait": "Chargé de former un nouveau gouvernement, le chef de l’opposition israélienne a demandé au premier ministre sortant, qui est toujours chargé des affaires courantes, de « faire preuve de…",
    "tags": [
     "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "bde83d3d9aa6",
+   "titre": "Présidentielle 2027 : Jean-Luc Mélenchon, critiqué pour ses propositions sur l’Ukraine, accuse les médias d’avoir « truqué ses paroles »",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/11/presidentielle-2027-jean-luc-melenchon-critique-pour-ses-propositions-sur-l-ukraine-accuse-les-medias-d-avoir-truque-ses-paroles_6809023_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-11T19:20:46+00:00",
+   "extrait": "Le candidat « insoumis » a, lors de son meeting du 7 novembre, évoqué la possibilité d’un référendum sur la cession du Donbass à la Russie pour résoudre le conflit. Le chef de file de La France…",
+   "tags": [
     "Conflits"
    ],
    "zone": "france"
@@ -443,19 +525,6 @@
    "extrait": "Le diplomate avait pris ses fonctions en mars 2025 et participé au rapprochement entre la Russie et les Etats-Unis.",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "23565797d1ba",
-   "titre": "Spain sees widespread disruption in first general strike for 14 years",
-   "lien": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-11T17:44:32+00:00",
-   "extrait": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
   },
   {
    "id": "cbdbddba8272",
@@ -980,16 +1049,6 @@
    "source": "franceinfo",
    "date": "2026-11-11T15:49:11+00:00",
    "extrait": "Lors de la perquisition à son domicile, les enquêteurs ont découvert sur un post-it une liste de quatre personnalités de gauche et d'extrême gauche, ainsi que leurs numéros de téléphone.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "b2b56b0e5fd5",
-   "titre": "La Russie interdit de territoire deux députés et deux journalistes français, en réponse à l'expulsion de Xenia Fedorova",
-   "lien": "https://www.franceinfo.fr/monde/russie/la-russie-interdit-l-entree-sur-son-territoire-a-deux-deputes-et-deux-journalistes-francais-en-reponse-a-l-expulsion-de-xenia-fedorova_8277836.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-11T15:47:09+00:00",
-   "extrait": "La décision, qui vise les élus Sacha Houlié et Arthur Delaporte et les reporters Ariane Chemin et Paul Gogo, a été prise \"en raison de leur participation au harcèlement\" de la chroniqueuse…",
    "tags": [],
    "zone": "france"
   },
@@ -3380,62 +3439,6 @@
     "Tech"
    ],
    "zone": "france"
-  },
-  {
-   "id": "7f2e24070d41",
-   "titre": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
-   "lien": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-11T03:44:06+00:00",
-   "extrait": "Nine members of the political dynasty say the 250ft structure would cast a shadow on gravesites.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "e526c0457488",
-   "titre": "Trinité-et-Tobago : la justice dépénalise l’homosexualité",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/11/trinite-et-tobago-la-justice-depenalise-l-homosexualite_6808920_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-11T03:33:43+00:00",
-   "extrait": "En vertu de la loi, les personnes condamnées pour « sodomie » risquaient jusqu’à cinq ans d’emprisonnement, et celles pour « indécence grave » deux ans.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "d52c3f80a080",
-   "titre": "Les films à l’affiche : « Everytime », « Izolyatsia », « 15/18 », « Scrooge », « Il faut brûler maman »…",
-   "lien": "https://www.lemonde.fr/cinema/article/2026/11/11/les-films-a-l-affiche-everytime-izolyatsia-15-18-scrooge-il-faut-bruler-maman_6808919_3476.html",
-   "source": "Le Monde",
-   "date": "2026-11-11T03:30:08+00:00",
-   "extrait": "Chaque mercredi dans La Matinale, les journalistes cinéma du « Monde » livrent leurs critiques des films à découvrir en salle. Aujourd’hui, notamment, Sandra Wollner brosse un portrait du deuil avec…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "fec0f5935bd5",
-   "titre": "Au Brésil, Meta condamnée à une lourde amende pour une différence de traitement jugée inégale entre Lula et Flavio Bolsonaro durant la présidentielle",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/11/au-bresil-meta-condamnee-a-une-lourde-amende-pour-un-traitement-juge-inegal-entre-lula-et-flavio-bolsonaro-durant-la-presidentielle_6808918_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-11T03:16:28+00:00",
-   "extrait": "Au cours de la campagne, l’équipe de Lula avait accusé la maison mère de Facebook, d’Instagram et de WhatsApp de s’être livrée à une « manipulation algorithmique » destinée à avantager son rival de…",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "1c33927e523f",
-   "titre": "Mississippi Senate election results could come as soon as Friday",
-   "lien": "https://www.cbsnews.com/video/latest-in-uncalled-senate-races-in-alaska-mississippi/",
-   "source": "CBS News",
-   "date": "2026-11-11T02:55:00+00:00",
-   "extrait": "A week after the midterm elections, the Senate races in Alaska and Mississippi remain uncalled, but official results for Mississippi could be released as soon as Friday. CBS News' Mark Strassmann…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
   }
  ]
 }
