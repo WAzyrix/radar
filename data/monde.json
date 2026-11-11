@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-11T21:07:06+00:00",
+ "maj": "2026-11-11T22:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,18 +22,196 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "11f8839dbef3",
+   "titre": "White House warns of \"blatant criminality\" in Democratic probes",
+   "lien": "https://www.cbsnews.com/news/white-house-counsel-will-scharf-house-oversight-committee-robert-garcia-investigations/",
+   "source": "CBS News",
+   "date": "2026-11-11T22:03:21+00:00",
+   "extrait": "White House counsel Will Scharf warned that congressional subpoenas could lead to investigations from the executive branch.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "8af544bf9805",
+   "titre": "Veterans coming home with CTE | 60 Minutes Archive",
+   "lien": "https://www.cbsnews.com/video/veterans-coming-home-with-cte-60-minutes-archive/",
+   "source": "CBS News",
+   "date": "2026-11-11T22:02:07+00:00",
+   "extrait": "In 2018, 60 Minutes reported on CTE, a degenerative brain disease known for impacting athletes who suffer concussions that is now showing up in soldiers returning from combat.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "130f6a7a929f",
+   "titre": "Baby found \"clinging to life\" after being buried in crate for 24 hours",
+   "lien": "https://www.cbsnews.com/news/baby-found-alive-buried-dog-crate-24-hours-south-carolina/",
+   "source": "CBS News",
+   "date": "2026-11-11T22:01:21+00:00",
+   "extrait": "An infant was found alive after apparently being buried in a dog crate for about 24 hours, authorities in South Carolina said.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "e1717806a8b0",
+   "titre": "Quatre organisations syndicales de journalistes déposent plainte contre X après plusieurs entraves par des forces de l'ordre lors de manifestations",
+   "lien": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/quatre-organisations-syndicales-de-journalistes-deposent-plainte-contre-x-apres-plusieurs-entraves-par-des-forces-de-l-ordre-lors-de-manifestations_8278373.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-11T21:56:49+00:00",
+   "extrait": "Plusieurs journalistes avaient auparavant porté plainte, notamment à Paris, pour dénoncer des \"violences et entraves commises à leur encontre\" lors de la couverture de la mobilisation sociale.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "f26f93271513",
+   "titre": "Amnesty dénonce l'inaction des autorités et de l'ONU pour empêcher un massacre au Soudan du Sud",
+   "lien": "https://www.franceinfo.fr/monde/afrique/soudan-du-sud/amnesty-denonce-l-inaction-des-autorites-et-de-l-onu-pour-empecher-un-massacre-au-soudan-du-sud_8278367.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-11T21:53:43+00:00",
+   "extrait": "L'organisation de défense des droits humains, qui dit avoir interrogé des dizaines de témoins et victimes, a révélé jeudi que les deux parties avaient été informées de la possibilité d'une attaque…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "42be5ca9f809",
+   "titre": "Trump says Iran war will be over \"when we want to end it\"",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/",
+   "source": "CBS News",
+   "date": "2026-11-11T21:52:00+00:00",
+   "extrait": "President Trump spoke about the Iran war during a Veterans Day address on Wednesday at Arlington National Cemetery.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "c8843c98732e",
+   "titre": "Ole Miss students speak out after alleged racial harassment in video",
+   "lien": "https://www.cbsnews.com/news/ole-miss-students-speak-out-racist-harassment/",
+   "source": "CBS News",
+   "date": "2026-11-11T21:47:49+00:00",
+   "extrait": "Doorbell video captured two White students making monkey gestures and sounds outside an apartment where a group of Black students live.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "71aa01562cc0",
+   "titre": "Les proches du journaliste Christophe Gleizes espèrent une grâce présidentielle",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261111-les-proches-du-journaliste-christophe-gleizes-esp%C3%A8rent-une-gr%C3%A2ce-pr%C3%A9sidentielle",
+   "source": "France 24",
+   "date": "2026-11-11T21:37:52+00:00",
+   "extrait": "Les proches de Christophe Gleizes reçus dans la journée par Jean-Noël Barrot, le ministre des Affaires étrangères. Le journaliste français est détenu depuis 500 jours en Algérie, condamné pour…",
+   "tags": [
+    "Politique",
+    "Sport"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "32c7c3984085",
    "titre": "SNAP proposal would increase food insecurity, critics say",
    "lien": "https://www.cbsnews.com/news/usda-proposes-snap-eligibility-rule-change-food-stamps/",
    "source": "CBS News",
-   "date": "2026-11-11T21:04:23+00:00",
+   "date": "2026-11-11T21:21:03+00:00",
    "extrait": "Anti-hunger advocates are blasting a proposed change to SNAP rules that could cut off more than 6 million people from access to federal food aid.",
    "tags": [],
    "zone": "usa"
   },
   {
+   "id": "4acd79face7c",
+   "titre": "Autonomie de la Corse : le gouvernement annule une réunion prévue jeudi à Paris après le désistement des nationalistes",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/11/autonomie-de-la-corse-le-gouvernement-annule-une-reunion-prevue-jeudi-a-paris-apres-le-desistement-des-nationalistes_6809032_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-11T21:20:11+00:00",
+   "extrait": "Le président du conseil exécutif et la présidente de l’Assemblée de Corse, qui reprochent au gouvernement de ne pas avoir répondu à des propositions adoptées le 4 novembre, avaient annoncé qu’ils ne…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "bfd367032123",
+   "titre": "Hegseth's group reprimanded for noise at Tomb of Unknown Soldier",
+   "lien": "https://www.cbsnews.com/news/hegseth-tomb-of-the-unknown-soldier-arlington-cemetery/",
+   "source": "CBS News",
+   "date": "2026-11-11T21:13:00+00:00",
+   "extrait": "A guard at the Tomb of the Unknown Soldier reprimanded a group of people that included Defense Secretary Pete Hegseth for making noise at the site.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "a0c26c85d95a",
+   "titre": "Watch: Hegseth's group reprimanded at Tomb of Unknown Soldier for making noise",
+   "lien": "https://www.cbsnews.com/video/watch-hegseth-group-reprimanded-at-tomb-of-unknown-soldier-for-making-noise/",
+   "source": "CBS News",
+   "date": "2026-11-11T21:12:40+00:00",
+   "extrait": "A soldier guarding the Tomb of the Unknown Soldier reprimanded a group of people, including Defense Secretary Pete Hegseth, for making noise on Wednesday.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "e0bc9cd1d908",
+   "titre": "Cisjordanie occupée : un responsable des colons israélien refoulé à son arrivée en France",
+   "lien": "https://www.france24.com/fr/france/20261111-responsable-colons-isra%C3%A9liens-cisjordanie-occup%C3%A9e-refoul%C3%A9-son-arriv%C3%A9e-france",
+   "source": "France 24",
+   "date": "2026-11-11T21:12:37+00:00",
+   "extrait": "Yossi Dagan, qui dirige une structure représentant les colonies juives en Samarie, au nord de la Cisjordanie occupée, s'est vu refuser l'entrée sur le territoire français à cause de son \"rôle actif…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "9957c5bf3081",
+   "titre": "Les menaces d'ingérence de la Russie \"sont à prendre très au sérieux\", réagit le député Sacha Houlié après son interdiction de territoire par Moscou",
+   "lien": "https://www.franceinfo.fr/monde/russie/les-menaces-d-ingerence-de-la-russie-sont-a-prendre-tres-au-serieux-reagit-le-depute-sacha-houlie-apres-son-interdiction-de-territoire-par-moscou_8278337.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-11T21:07:53+00:00",
+   "extrait": "Le député Place publique appelle, mercredi sur franceinfo, à la vigilance face à la multiplication des tentatives d'ingérences et cyberattaques, à l'approche de la présidentielle en France.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "c57a6459e821",
+   "titre": "Face à l'avalanche de forfaits, Zinédine Zidane et les Bleus obligés d'innover en attaque pour défier l’Italie en Ligue des nations",
+   "lien": "https://www.franceinfo.fr/sports/foot/equipe-de-france/face-a-l-avalanche-de-forfaits-zinedine-zidane-et-les-bleus-obliges-d-innover-en-attaque-pour-defier-l-italie-en-ligue-des-nations_8278229.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-11T21:07:17+00:00",
+   "extrait": "Capitaine des Bleus, Kylian Mbappé a déclaré forfait pour le match face à l'Italie, jeudi, à San Siro.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "0c8c3de07383",
+   "titre": "En Espagne, des centaines de milliers de personnes ont manifesté pour l'accès au logement et le pouvoir d'achat",
+   "lien": "https://www.franceinfo.fr/monde/espagne/en-espagne-une-greve-generale-pour-defendre-l-acces-au-logement-et-le-pouvoir-d-achat_8277731.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-11T21:01:15+00:00",
+   "extrait": "Les principaux syndicats avaient appelé à une grève dans le prolongement du mouvement de protestation autour de la crise du logement, né fin septembre après l'expulsion d'une Madrilène de 87 ans",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "ce9b3eab334d",
+   "titre": "Le collectif de victimes de Bétharram s'associe à l'artiste JR pour une grande installation devant Notre-Dame de Paris intitulée \"Les Visages de Bétharram\"",
+   "lien": "https://www.franceinfo.fr/culture/arts-expos/le-collectif-de-victimes-de-betharram-s-associe-a-l-artiste-jr-pour-une-grande-installation-devant-notre-dame-de-paris-intitulee-les-visages-de-betharram_8278325.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-11T20:55:35+00:00",
+   "extrait": "Cette nouvelle œuvre sera exposée sur une large partie du parvis de la cathédrale à l'été 2027. Elle sera constituée de visages de victimes.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "23565797d1ba",
-   "titre": "Clashes erupt in Barcelona as thousands join Spain general strike",
+   "titre": "Clashes erupt in Barcelona after thousands join Spain general strike",
    "lien": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-11T20:52:52+00:00",
@@ -101,19 +279,6 @@
    "zone": "france"
   },
   {
-   "id": "42be5ca9f809",
-   "titre": "Iran vows not to give up \"a single particle\" of nuclear material",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/",
-   "source": "CBS News",
-   "date": "2026-11-11T20:18:18+00:00",
-   "extrait": "President Trump has repeatedly cited Iran's nuclear program as the core reason for going to war, but Tehran says it will not hand over any of its enriched uranium.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "b2b56b0e5fd5",
    "titre": "La Russie interdit de territoire deux députés et deux journalistes français, en réponse à l'expulsion de Xenia Fedorova",
    "lien": "https://www.franceinfo.fr/monde/russie/la-russie-interdit-l-entree-sur-son-territoire-a-deux-deputes-et-deux-journalistes-francais-en-reponse-a-l-expulsion-de-xenia-fedorova_8277836.html#xtor=RSS-3-[lestitres]",
@@ -140,7 +305,7 @@
    "titre": "Mississippi Senate race leans Democratic as Colom's lead grows",
    "lien": "https://www.cbsnews.com/news/mississippi-senate-race-results-2026-midterms/",
    "source": "CBS News",
-   "date": "2026-11-11T20:11:53+00:00",
+   "date": "2026-11-11T20:11:00+00:00",
    "extrait": "The Senate race in deep-red Mississippi remains unresolved, as Democrat Scott Colom has mounted a surprisingly competitive challenge to incumbent Sen. Cindy Hyde-Smith.",
    "tags": [
     "Politique"
@@ -245,7 +410,7 @@
    "titre": "Procès du triple narchomicide de 2020 : le parquet général dénonce des « meurtres d’une sauvagerie sans nom » et requiert quatre condamnations à perpétuité",
    "lien": "https://www.lemonde.fr/societe/article/2026/11/11/proces-du-triple-narchomicide-de-2020-le-parquet-general-denonce-des-meurtres-d-une-sauvagerie-sans-nom-et-requiert-quatre-condamnations-a-perpetuite_6809028_3224.html",
    "source": "Le Monde",
-   "date": "2026-11-11T19:37:10+00:00",
+   "date": "2026-11-11T19:37:09+00:00",
    "extrait": "Après trois semaines et demie d’une audience sous tension à la cour d’assises des Bouches-du-Rhône, le ministère public a dénoncé « la fourberie, la lâcheté, la trahison… Méthode habituelle des…",
    "tags": [
     "Justice"
@@ -414,16 +579,6 @@
    "zone": "france"
   },
   {
-   "id": "130f6a7a929f",
-   "titre": "Baby found \"clinging to life\" after being buried in crate for 24 hours",
-   "lien": "https://www.cbsnews.com/news/baby-found-alive-buried-dog-crate-24-hours-south-carolina/",
-   "source": "CBS News",
-   "date": "2026-11-11T18:59:03+00:00",
-   "extrait": "An infant was found alive after apparently being buried in a dog crate for about 24 hours, authorities in South Carolina said.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "248b9d58be0b",
    "titre": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky est arrivé en Irlande, où il doit notamment s’entretenir avec les émissaires américains après les négociations à Abou Dhabi",
    "lien": "https://www.lemonde.fr/international/live/2026/11/11/en-direct-guerre-en-ukraine-volodymyr-zelensky-est-arrive-en-irlande-ou-il-doit-notamment-s-entretenir-avec-les-emissaires-americains-apres-les-negociations-a-abou-dhabi_6808609_3210.html",
@@ -560,18 +715,6 @@
    "extrait": "\"Nous avons tous été très touchés par ses récits et sa personnalité unique\", écrivent les éditions Exemplaire sur Instagram. L'éditeur avait publié un recueil des dessins que l'autrice publiait…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "11f8839dbef3",
-   "titre": "White House warns of \"blatant criminality\" in Democratic probes",
-   "lien": "https://www.cbsnews.com/news/white-house-counsel-will-scharf-house-oversight-committee-robert-garcia-investigations/",
-   "source": "CBS News",
-   "date": "2026-11-11T18:12:40+00:00",
-   "extrait": "White House counsel Will Scharf warned that congressional subpoenas could lead to investigations from the executive branch.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
   },
   {
    "id": "77d2e141ffd8",
@@ -752,16 +895,6 @@
    "extrait": "En première ligne du dérèglement climatique, les petits États insulaires du Pacifique sont présentés comme le troisième acteur majeur de la COP31, aux côtés de la Turquie et de l'Australie…",
    "tags": [],
    "zone": "monde"
-  },
-  {
-   "id": "c8843c98732e",
-   "titre": "Ole Miss students speak out after alleged racial harassment in video",
-   "lien": "https://www.cbsnews.com/news/ole-miss-students-speak-out-racist-harassment/",
-   "source": "CBS News",
-   "date": "2026-11-11T17:10:00+00:00",
-   "extrait": "Doorbell video captured two White students making monkey gestures and sounds outside an apartment where a group of Black students live.",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "a089e20d84f0",
@@ -1538,11 +1671,11 @@
   },
   {
    "id": "09abd47ad69e",
-   "titre": "The sinking of the SS United States, the world's fastest ocean liner",
+   "titre": "The sinking of the SS United States, once the world's fastest ocean liner",
    "lien": "https://www.cbsnews.com/video/the-sinking-of-the-ss-united-states-the-worlds-fastest-ocean-liner/",
    "source": "CBS News",
    "date": "2026-11-11T14:24:00+00:00",
-   "extrait": "The SS United States shattered records as the world's fastest ocean liner. Now, she'll break a new record, sinking off the coast of Florida to become the world's largest artificial reef. CBS News'…",
+   "extrait": "The SS United States previously shattered records as the world's fastest ocean liner. Now, she'll break a new record, sinking off the coast of Florida to become the world's largest artificial reef…",
    "tags": [],
    "zone": "usa"
   },
@@ -3292,143 +3425,6 @@
    "tags": [
     "Politique"
    ],
-   "zone": "france"
-  },
-  {
-   "id": "58d34889d245",
-   "titre": "\"Collab\", \"contenu sponsorisé\"… La Commission européenne interdit ces termes flous et renforce la transparence sur les réseaux sociaux",
-   "lien": "https://www.franceinfo.fr/internet/reseaux-sociaux/collab-contenu-sponsorise-la-commission-europeenne-interdit-ces-termes-flous-et-renforce-la-transparence-sur-les-reseaux-sociaux_8276885.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-11T05:44:54+00:00",
-   "extrait": "Les influenceurs dans le viseur des autorités européennes. Ils auront bientôt l'obligation de déclarer si les vidéos qu'ils postent font l'objet d'un contrat publicitaire ou d'une coopération…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "d096fb601ca0",
-   "titre": "En Egypte, \"l'intensification des atteintes à la liberté de la presse\"",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261111-en-egypte-l-intensification-des-atteintes-%C3%A0-la-libert%C3%A9-de-la-presse",
-   "source": "France 24",
-   "date": "2026-11-11T05:30:34+00:00",
-   "extrait": "A la Une de la presse, ce mercredi 11 novembre, la première grève générale, aujourd’hui, en Espagne, depuis 14 ans. L’échec, en France, de la pétition pour la fermeture de la chaîne CNews. La…",
-   "tags": [
-    "Conflits",
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "7bcc406e9b9c",
-   "titre": "Le gouvernement veut baisser la durée maximale d’indemnisation des malades atteints d’une affection de longue durée non exonérante",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/11/le-gouvernement-veut-baisser-la-duree-maximale-d-indemnisation-des-malades-atteints-d-une-affection-de-longue-duree-non-exonerante_6808938_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-11T05:30:05+00:00",
-   "extrait": "La durée maximale d’indemnisation des assurés bénéficiant de ce statut dérogatoire est réduite à un an au lieu de trois depuis le 15 octobre, dans un objectif de réduction des coûts. Au risque que…",
-   "tags": [
-    "Politique",
-    "Santé"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "8a6fc89cd0c9",
-   "titre": "Route du rhum 2026 : Corentin Horeau s’impose en Imoca, un coup de maître pour sa première participation",
-   "lien": "https://www.lemonde.fr/sport/article/2026/11/11/route-du-rhum-2026-corentin-horeau-s-impose-en-imoca-un-coup-de-maitre-pour-sa-premiere-participation_6808937_3242.html",
-   "source": "Le Monde",
-   "date": "2026-11-11T05:25:21+00:00",
-   "extrait": "Suivant une stratégie très maîtrisée, le skippeur breton de 37 ans a remporté, dans la nuit de mardi à mercredi, la course transatlantique dans la catégorie des monocoques du Vendée Globe. Il…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "b46445fb66c9",
-   "titre": "Un enfant de six ans à vélo meurt à Nantes après avoir été percuté par un camion",
-   "lien": "https://www.franceinfo.fr/faits-divers/un-enfant-de-six-ans-a-velo-meurt-a-nantes-apres-avoir-ete-percute-par-un-camion_8277260.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-11T05:19:49+00:00",
-   "extrait": "L'enfant était sur un vélo avec ses parents au moment de l'accident, mardi en fin de journée. La victime n'a pas pu être réanimée par les services de secours.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "1c1cc369d538",
-   "titre": "\"15/18\" : la santé mentale des adolescents dans le nouveau film lumineux de Cédric Kahn",
-   "lien": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/15-18-la-sante-mentale-des-adolescents-dans-le-nouveau-film-lumineux-de-cedric-kahn_8274830.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-11T05:10:02+00:00",
-   "extrait": "Avec ce nouveau film sur la santé mentale, Cédric Kahn capte en creux le malaise d'une jeunesse en prise avec un monde qui va mal.",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "454ed8a245ff",
-   "titre": "En Colombie, le Prix Nobel de la paix Juan Manuel Santos reproche au président d’exhiber des cadavres « avec fierté »",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/11/en-colombie-le-prix-nobel-de-la-paix-juan-manuel-santos-reproche-au-president-d-exhiber-des-cadavres-avec-fierte_6808936_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-11T05:06:23+00:00",
-   "extrait": "Abelardo de la Espriella a promis « la tombe ou la prison » aux criminels qui se financent par le trafic de drogue, l’extorsion et l’exploitation minière illégale. Le dirigeant d’extrême droite a…",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "f8a34d7799b9",
-   "titre": "\"On avait besoin de croire au miracle !\" : l'affaire des \"avions renifleurs\" d'Elf-Aquitaine portée à l'écran par Louis Farge, dans la série \"Eldorado\".",
-   "lien": "https://www.franceinfo.fr/culture/series/entretien-on-avait-besoin-de-croire-au-miracle-l-affaire-des-avions-renifleurs-d-elf-aquitaine-portee-a-l-ecran-par-louis-farge-dans-la-serie-eldorado_8240329.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-11T05:05:02+00:00",
-   "extrait": "La mini-série s'inspire d'une affaire devenue célèbre dans les années 1980, où un duo d'escrocs belges était parvenu à soutirer des milliards de francs à l'entreprise Elf-Aquitaine, absorbée depuis…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "e30456736e36",
-   "titre": "Iran, territoires palestiniens, Liban... Pourquoi un gouvernement israélien mené par Gadi Eisenkot ne signifierait pas un changement de stratégie militaire",
-   "lien": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/iran-territoires-palestiniens-liban-pourquoi-un-gouvernement-israelien-mene-par-gadi-eisenkot-ne-signifierait-pas-un-changement-de-strategie-militaire_8276090.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-11T05:03:41+00:00",
-   "extrait": "Le centriste a 28 jours pour trouver un accord de coalition au sein du Parlement. Un objectif difficile à atteindre, mais pas en raison des objectifs sécuritaires de chaque parti.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "70a105228038",
-   "titre": "\"Elle n'évoluait pas dans la même réalité\" : au procès des parents de la \"petite martyre de l'A10\", le délicat examen psychiatrique de l'accusée",
-   "lien": "https://www.franceinfo.fr/faits-divers/martyre-de-l-a10/elle-n-evoluait-pas-dans-la-meme-realite-au-proces-des-parents-de-la-petite-martyre-de-l-a10-le-delicat-examen-psychiatrique-de-l-accusee_8276840.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-11T05:02:04+00:00",
-   "extrait": "La question centrale de l'altération du discernement d'Halima El Bakhti, 72 ans, a occupé la cour d'assises du Loir-et-Cher mardi. Le psychiatre Daniel Zagury, qui s'est entretenu avec elle et l'un…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "082e9f5dcc1e",
-   "titre": "Procès des parents de « la petite inconnue de l’A10 » : le psychiatre Daniel Zagury ouvre la porte du huis clos familial",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/11/proces-des-parents-de-la-petite-inconnue-de-l-a10-le-psychiatre-daniel-zagury-ouvre-la-porte-du-huis-clos-familial_6808934_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-11T05:00:26+00:00",
-   "extrait": "Selon le psychiatre, Halima El Bakhti a reproduit sur sa fille les maltraitances qu’elle aurait elle-même subies dans l’enfance et qu’elle nie farouchement. « Inass a été élue à l’envers comme une…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "aacebb632c0c",
-   "titre": "A quoi servent encore les négociations climatiques, alors que la COP31 s'est ouverte à Antalya ?",
-   "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/a-quoi-servent-encore-les-negociations-climatiques-alors-que-la-cop31-s-est-ouverte-a-antalya_8274536.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-11T05:00:26+00:00",
-   "extrait": "A l'heure où les conflits entre grandes puissances mettent à mal le multilatéralisme, le succès d'une COP ne peut plus s'apprécier à l'aune des seules négociations techniques.",
-   "tags": [],
    "zone": "france"
   }
  ]

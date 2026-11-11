@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-11T21:07:06+00:00",
+ "maj": "2026-11-11T22:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,15 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "a4a34375ee4e",
+   "titre": "eMudhra revokes 8 more CA certificates after private key mishap",
+   "lien": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
+   "source": "BleepingComputer",
+   "date": "2026-11-11T21:27:40+00:00",
+   "extrait": "Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys…",
+   "tags": []
+  },
   {
    "id": "4555dea14647",
    "titre": "Notion says Fireworks breach exposed customer AI chat transcripts",
@@ -3412,15 +3421,6 @@
     "Fuite de données",
     "IA"
    ]
-  },
-  {
-   "id": "e645dafde1d4",
-   "titre": "Trezor warns of suspected crypto-theft implant in hardware wallet",
-   "lien": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
-   "source": "BleepingComputer",
-   "date": "2026-10-30T15:58:20+00:00",
-   "extrait": "Hardware wallet device maker Trezor has received credible reports about a suspected hardware crypto-theft implant in a Trezor Safe 5 sold by its reseller CryptoBilis in Southeast Asia. [...]",
-   "tags": []
   }
  ]
 }
