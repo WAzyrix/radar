@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-11T11:05:39+00:00",
+ "maj": "2026-11-11T12:05:42+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "15c0b59087ed",
+   "titre": "Microsoft fixes audio issues caused by September security updates",
+   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
+   "source": "BleepingComputer",
+   "date": "2026-11-11T11:18:36+00:00",
+   "extrait": "Microsoft says the November 2026 cumulative updates resolve USB audio issues plaguing Windows users who have installed security updates released since September. [...]",
+   "tags": [
+    "Windows"
+   ]
+  },
   {
    "id": "474586429e7c",
    "titre": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
@@ -3398,15 +3409,6 @@
    "tags": [
     "Faille"
    ]
-  },
-  {
-   "id": "93a6b87fe425",
-   "titre": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
-   "lien": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
-   "source": "BleepingComputer",
-   "date": "2026-10-30T09:18:13+00:00",
-   "extrait": "Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]",
-   "tags": []
   }
  ]
 }
