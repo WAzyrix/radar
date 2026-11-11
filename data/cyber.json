@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-11T22:05:40+00:00",
+ "maj": "2026-11-11T23:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,29 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "7f241c94ac84",
+   "titre": "Baker Tilly notifies clients of data breach at third-party provider",
+   "lien": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
+   "source": "BleepingComputer",
+   "date": "2026-11-11T23:01:31+00:00",
+   "extrait": "The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "ccdd6c7f3ffe",
+   "titre": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+   "lien": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+   "source": "BleepingComputer",
+   "date": "2026-11-11T22:56:21+00:00",
+   "extrait": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer…",
+   "tags": [
+    "Fuite de données",
+    "Malware"
+   ]
+  },
   {
    "id": "a4a34375ee4e",
    "titre": "eMudhra revokes 8 more CA certificates after private key mishap",
@@ -3396,31 +3419,6 @@
    "date": "2026-10-31T04:56:12+00:00",
    "extrait": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it…",
    "tags": []
-  },
-  {
-   "id": "f167e37bde6d",
-   "titre": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
-   "lien": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
-   "source": "BleepingComputer",
-   "date": "2026-10-30T21:09:46+00:00",
-   "extrait": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running…",
-   "tags": [
-    "Faille",
-    "IA",
-    "Linux"
-   ]
-  },
-  {
-   "id": "46d8d781bead",
-   "titre": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
-   "lien": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
-   "source": "The Hacker News",
-   "date": "2026-10-30T16:58:44+00:00",
-   "extrait": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets…",
-   "tags": [
-    "Fuite de données",
-    "IA"
-   ]
   }
  ]
 }
