@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-11T14:05:42+00:00",
+ "maj": "2026-11-11T15:05:42+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,32 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "a9021fd43362",
+   "titre": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
+   "lien": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
+   "source": "BleepingComputer",
+   "date": "2026-11-11T15:01:11+00:00",
+   "extrait": "Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techniques are spreading through underground forums…",
+   "tags": [
+    "Faille",
+    "Jailbreak",
+    "Outil",
+    "Linux"
+   ]
+  },
+  {
+   "id": "7fc0ff6aee2a",
+   "titre": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
+   "lien": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
+   "source": "The Hacker News",
+   "date": "2026-11-11T14:01:00+00:00",
+   "extrait": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026. Cynet's CyOps and Research…",
+   "tags": [
+    "Faille",
+    "Fuite de données"
+   ]
+  },
   {
    "id": "693679885746",
    "titre": "N-able releases security hotfixes for zero-day vulnerabilities",
@@ -3391,24 +3417,6 @@
    "tags": [
     "Faille"
    ]
-  },
-  {
-   "id": "4eafb481bfd9",
-   "titre": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
-   "lien": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
-   "source": "The Hacker News",
-   "date": "2026-10-30T12:21:56+00:00",
-   "extrait": "A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported. Trezor has not yet…",
-   "tags": []
-  },
-  {
-   "id": "0e3774900031",
-   "titre": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
-   "lien": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
-   "source": "The Hacker News",
-   "date": "2026-10-30T11:58:53+00:00",
-   "extrait": "The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won’t…",
-   "tags": []
   }
  ]
 }
