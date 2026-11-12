@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-12T07:45:27+00:00",
+ "maj": "2026-11-12T08:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,13 +22,49 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "6a0680b3fc1b",
+   "titre": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
+   "lien": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-12T07:59:33+00:00",
+   "extrait": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "e43f9305f9c6",
-   "titre": "Plusieurs personnalités politiques réagissent après avoir été visées par le principal suspect de l'attentat raciste de Trappes",
+   "titre": "\"Les autorités ne prennent pas le problème à sa mesure\" : les réactions des personnalités politiques listées par le suspect de l'attentat raciste de Trappes",
    "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/plusieurs-personnalites-politiques-reagissent-apres-avoir-ete-visees-par-le-principal-suspect-de-l-attentat-raciste-de-trappes_8278679.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-11-12T07:38:12+00:00",
-   "extrait": "La perquisition au domicile de Kévin Tessier a révélé la présence d'une liste de personnalités de gauche et d'extrême gauche qu'il qualifie d'\"ennemis de la France\". Des personnalités politiques…",
+   "date": "2026-11-12T07:57:19+00:00",
+   "extrait": "La perquisition au domicile de Kévin Tessier a révélé la présence d'une liste de personnalités de gauche et d'extrême gauche qu'il qualifie d'\"ennemis de la France\". Les personnalités visées…",
    "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "6b361174c905",
+   "titre": "Ugandan police investigate deaths of four pupils in suspected school poisoning",
+   "lien": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-12T07:45:52+00:00",
+   "extrait": "The head teacher of the school has been arrested to assist police investigations.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "fc99b508b8ff",
+   "titre": "\"Des Kévin Tessier, il y en a des centaines\" : le maire de Trappes, Ali Rabeh, réagit à la liste de personnalités de gauche et d'extrême gauche retrouvée chez le suspect",
+   "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/des-kevin-tessier-il-y-en-a-des-centaines-reagit-le-maire-de-trappes-ali-rabeh_8278847.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-12T07:44:04+00:00",
+   "extrait": "Interrogé sur la liste de personnalités de gauche et d'extrême gauche dressée par le principal suspect de l'attentat raciste de Trappes, Ali Rabeh \"n'est pas surpris\". L'élu du parti Génération.s…",
+   "tags": [
+    "Politique"
+   ],
    "zone": "france"
   },
   {
@@ -163,7 +199,7 @@
   },
   {
    "id": "2fe80b8e0b96",
-   "titre": "« Faites preuve de respect ! » : un garde rappelle à l’ordre Pete Hegseth près de la tombe du Soldat inconnu",
+   "titre": "« Faites preuve de respect ! » : un garde américain rappelle à l’ordre Pete Hegseth près de la tombe du Soldat inconnu",
    "lien": "https://www.lemonde.fr/international/article/2026/11/12/faites-preuve-de-respect-un-garde-rappelle-a-l-ordre-pete-hegseth-pres-de-la-tombe-du-soldat-inconnu_6809067_3210.html",
    "source": "Le Monde",
    "date": "2026-11-12T06:55:09+00:00",
@@ -274,16 +310,17 @@
    "zone": "france"
   },
   {
-   "id": "6a0680b3fc1b",
-   "titre": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
-   "lien": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-12T05:59:18+00:00",
-   "extrait": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
+   "id": "60a1af00133b",
+   "titre": "Budget 2027 : le Sénat veut sauver le projet rejeté par l’Assemblée nationale",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/12/budget-2027-le-senat-veut-sauver-le-projet-rejete-par-l-assemblee-nationale_6809064_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-12T06:00:11+00:00",
+   "extrait": "Les sénateurs ont commencé à étudier le projet de loi rejeté à l’unanimité par les députés le 4 novembre. Leur ambition : muscler le texte, pour s’assurer que le déficit public sera effectivement…",
    "tags": [
-    "Conflits"
+    "Politique",
+    "Économie"
    ],
-   "zone": "monde"
+   "zone": "france"
   },
   {
    "id": "9243bc64fb10",
@@ -526,11 +563,11 @@
   },
   {
    "id": "e8d0b12d49fa",
-   "titre": "Famed ship SS United States sunk off coast of Florida",
+   "titre": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
    "lien": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-12T04:03:13+00:00",
-   "extrait": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
+   "extrait": "Activists wanted the historic liner to be turned into a museum, but it will instead become the world's largest artificial ocean reef.",
    "tags": [],
    "zone": "monde"
   },
@@ -1020,7 +1057,7 @@
   },
   {
    "id": "d720dc784527",
-   "titre": "Après une victoire au Mississippi, les démocrates renforcent leur majorité au Sénat",
+   "titre": "Après une victoire dans le Mississippi, les démocrates renforcent leur majorité au Sénat",
    "lien": "https://www.france24.com/fr/am%C3%A9riques/20261111-etats-unis-victoire-mississippi-democrates-renforcent-majorite-senat-scott-colom",
    "source": "France 24",
    "date": "2026-11-11T23:38:41+00:00",
@@ -1290,7 +1327,7 @@
    "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261111-les-proches-du-journaliste-christophe-gleizes-esp%C3%A8rent-une-gr%C3%A2ce-pr%C3%A9sidentielle",
    "source": "France 24",
    "date": "2026-11-11T21:37:52+00:00",
-   "extrait": "Les proches de Christophe Gleizes reçus dans la journée par Jean-Noël Barrot, le ministre des Affaires étrangères. Le journaliste français est détenu depuis 500 jours en Algérie, condamné pour…",
+   "extrait": "Les proches de Christophe Gleizes ont été reçus dans la journée par Jean-Noël Barrot, le ministre des Affaires étrangères. Le journaliste français est détenu depuis 500 jours en Algérie, condamné…",
    "tags": [
     "Politique",
     "Sport"
@@ -3381,40 +3418,6 @@
    "date": "2026-11-11T12:04:19+00:00",
    "extrait": "L'écrivain a vendu plus de 60 millions de livres et plusieurs de ses ouvrages ont été adaptés à la télévision où il est devenu célèbre grâce à la série \"Little Britain\".",
    "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "de802cdea4ef",
-   "titre": "Commémorations du 11-Novembre, exercice de la Coalition des volontaires en Pologne",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261111-comment-l-europe-pr%C3%A9pare-sa-soci%C3%A9t%C3%A9-%C3%A0-la-guerre",
-   "source": "France 24",
-   "date": "2026-11-11T12:03:29+00:00",
-   "extrait": "Le président français Emmanuel Macron préside ce mercredi – pour la dernière fois en tant que chef de l'État –, les commémorations du 11 novembre 1918. Parallèlement, et jusqu'au 22 novembre, se…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "27aa66e59ef6",
-   "titre": "\"Il faut se mobiliser et faire du bruit pour faire exister\" Christophe Gleizes \"en dehors de sa prison en Algérie\", appelle Élise Lucet",
-   "lien": "https://www.franceinfo.fr/culture/livres/emprisonnement-du-journaliste-christophe-gleizes-en-algerie/il-faut-se-mobiliser-et-faire-du-bruit-pour-faire-exister-christophe-gleizes-en-dehors-de-sa-prison-en-algerie-appelle-elise-lucet_8277761.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-11T12:02:53+00:00",
-   "extrait": "La présentatrice des émissions Cash Investigation et Envoyé spécial sur France Télévisions apporte son soutien au journaliste détenu en Algérie depuis 500 jours et souhaite une mobilisation pour…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "4ce81a3e69f7",
-   "titre": "11-Novembre : Emmanuel Macron préside la cérémonie de commémoration pour la dernière fois",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/11/11-novembre-emmanuel-macron-preside-la-ceremonie-de-commemoration-pour-la-derniere-fois_6808966_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-11T12:00:34+00:00",
-   "extrait": "Le président de la République a pris part, dans la matinée, au traditionnel dépôt de gerbe devant la statue de Georges Clemenceau puis à l’hommage au Soldat inconnu et au ravivage de la flamme sous…",
-   "tags": [
-    "Politique"
-   ],
    "zone": "france"
   }
  ]
