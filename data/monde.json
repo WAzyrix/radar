@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-12T03:05:40+00:00",
+ "maj": "2026-11-12T04:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,12 +22,100 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "e8d0b12d49fa",
+   "titre": "Famed ship SS United States sunk off coast of Florida",
+   "lien": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-12T04:03:13+00:00",
+   "extrait": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "e4a5945bc19c",
+   "titre": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+   "lien": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-12T04:00:30+00:00",
+   "extrait": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "55ccdce7120e",
+   "titre": "SS United States sinks, will become world's largest artificial reef",
+   "lien": "https://www.cbsnews.com/news/ss-united-states-sinking-ocean-floor-largest-artificial-reef-world-florida-gulf-coast/",
+   "source": "CBS News",
+   "date": "2026-11-12T03:47:00+00:00",
+   "extrait": "The 1,000-foot-long SS United States was sent to the bottom of the ocean in a controlled, explosive-free sinking that is taking place about 20 nautical miles off the Gulf Coast of Florida.",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "916f962ce184",
+   "titre": "At least 2 killed, 17 hurt in Brooklyn building collapse",
+   "lien": "https://www.cbsnews.com/news/brooklyn-building-collapse-bedford-avenue/",
+   "source": "CBS News",
+   "date": "2026-11-12T03:45:26+00:00",
+   "extrait": "A major technical rescue operation was ongoing, involving hundreds of firefighters.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "fcbf9d76c7b4",
+   "titre": "Democrat Scott Colom wins Mississippi Senate race in upset",
+   "lien": "https://www.cbsnews.com/news/mississippi-2026-senate-scott-colom-cindy-hyde-smith/",
+   "source": "CBS News",
+   "date": "2026-11-12T03:39:25+00:00",
+   "extrait": "Democrat Scott Colom defeated GOP Sen. Cindy Hyde-Smith in the Mississippi Senate race, delivering Democrats an eighth flipped Senate seat after the dramatic race had been up in the air for days.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "7df318055668",
+   "titre": "Pope declares Peru his \"homeland\" in final leg of South America trip",
+   "lien": "https://www.cbsnews.com/news/pope-leo-peru-homeland-south-america-trip/",
+   "source": "CBS News",
+   "date": "2026-11-12T03:36:07+00:00",
+   "extrait": "Pope Leo declared Peru his \"homeland\" as he arrived in Lima at the start of his historic visit​, returning to the place that taught him how to be a pastor.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "35a83d16348f",
+   "titre": "Did Jensen Huang Just Destroy America's AI Advantage?",
+   "lien": "https://www.cbsnews.com/video/did-jensen-huang-just-destroy-americas-ai-advantage-great-question/",
+   "source": "CBS News",
+   "date": "2026-11-12T03:25:43+00:00",
+   "extrait": "Billionaires, governments, spies, and the most coveted technology in the world. Author and journalist Patrick McGee explains what we know so far about the scandal surrounding NVIDIA CEO Jensen…",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "8e41bf9fe90d",
    "titre": "3 killed when SUV crashes into North Hollywood food stand",
    "lien": "https://www.cbsnews.com/news/north-hollywood-food-stand-crash-metro-bus-stop-lankershim-chandler-boulevard/",
    "source": "CBS News",
-   "date": "2026-11-12T02:57:52+00:00",
+   "date": "2026-11-12T03:23:58+00:00",
    "extrait": "At least three people were killed and two others were severely injured when an SUV crashed into a food stand near a Metro bus stop in North Hollywood.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "b85161856f56",
+   "titre": "World's fastest ocean liner is sunk to break another record: largest artificial reef",
+   "lien": "https://www.npr.org/2026/11/11/nx-s1-6030853/ss-united-states-artificial-reef-sinking",
+   "source": "NPR",
+   "date": "2026-11-12T03:10:32+00:00",
+   "extrait": "The SS United States broke trans-Atlantic speed records. On Wednesday, it was sunk off the Florida coast and will become a diving destination and home for marine life.",
    "tags": [],
    "zone": "usa"
   },
@@ -36,10 +124,20 @@
    "titre": "Nvidia's board preparing to oust CEO Jensen Huang, sources say",
    "lien": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/",
    "source": "CBS News",
-   "date": "2026-11-12T02:52:18+00:00",
+   "date": "2026-11-12T02:52:00+00:00",
    "extrait": "Nvidia's board of directors is preparing to oust CEO Jensen Huang soon, according to two sources, amid allegations Huang had an affair with a woman U.S. intelligence agencies believe was a Chinese…",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "408292687526",
+   "titre": "Le conseil d'administration de Nvidia doit décider de l'avenir de son patron Jensen Huang",
+   "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261112-le-conseil-d-administration-de-nvidia-doit-d%C3%A9cider-de-l-avenir-de-son-patron-jensen-huang",
+   "source": "France 24",
+   "date": "2026-11-12T02:49:29+00:00",
+   "extrait": "Selon le Wall Street Journal, le conseil d'administration du géant des puces électroniques Nvidia devait se réunir dès mercredi pour décider de l'avenir de son patron Jensen Huang, dans la tourmente…",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "f603853ef093",
@@ -77,23 +175,25 @@
   },
   {
    "id": "0de3b4c908f2",
-   "titre": "New York building collapse kills one person and injures 12",
+   "titre": "Survivor pulled from rubble of deadly building collapse in New York",
    "lien": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-12T02:33:12+00:00",
-   "extrait": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
+   "extrait": "Two people are dead and several others injured as rescuers scour the debris in Brooklyn.",
    "tags": [],
    "zone": "monde"
   },
   {
-   "id": "916f962ce184",
-   "titre": "At least 2 killed, 17 hurt in Brooklyn building collapse",
-   "lien": "https://www.cbsnews.com/news/brooklyn-building-collapse-bedford-avenue/",
-   "source": "CBS News",
-   "date": "2026-11-12T02:29:49+00:00",
-   "extrait": "A major technical rescue operation was ongoing, involving hundreds of firefighters.",
-   "tags": [],
-   "zone": "usa"
+   "id": "05b7461257b5",
+   "titre": "En direct : les émissaires américains vont rencontrer Vladimir Poutine, puis Volodymyr Zelensky",
+   "lien": "https://www.france24.com/fr/europe/20261112-en-direct-ukraine-russie-emissaires-americains-rencontre-vladimir-poutine-volodymyr-zelensky",
+   "source": "France 24",
+   "date": "2026-11-12T02:21:03+00:00",
+   "extrait": "Les émissaires américains Jared Kushner et Steve Witkoff doivent rencontrer jeudi à Moscou le président russe Vladimir Poutine, puis le même jour à Dublin son homologue ukrainien Volodymyr Zelensky…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
   },
   {
    "id": "38065e8ab44c",
@@ -104,18 +204,6 @@
    "extrait": "New York City Mayor Zohran Mamdani and FDNY Commissioner Lillian Bonsignore gave an update Wednesday night on a deadly building collapse in Brooklyn as rescuers continued to search for survivors…",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "e4a5945bc19c",
-   "titre": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-   "lien": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-12T02:09:08+00:00",
-   "extrait": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
   },
   {
    "id": "3d410fbb5947",
@@ -302,6 +390,16 @@
    "zone": "usa"
   },
   {
+   "id": "29058567a29c",
+   "titre": "Firefighters dig through rubble of collapsed Brooklyn building",
+   "lien": "https://www.cbsnews.com/video/firefighters-dig-rubble-collapsed-brooklyn-building/",
+   "source": "CBS News",
+   "date": "2026-11-12T00:50:00+00:00",
+   "extrait": "Several people were killed and more than a dozen were injured Wednesday when a building collapsed in New York City. Fire officials said many others had been pulled from the rubble in a major rescue…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
    "id": "a658d08245cd",
    "titre": "Building adaptive homes for disabled veterans",
    "lien": "https://www.cbsnews.com/video/building-adaptive-homes-for-disabled-veterans/",
@@ -342,18 +440,6 @@
    "source": "CBS News",
    "date": "2026-11-12T00:20:42+00:00",
    "extrait": "A contingent of new representatives coming to the House are members of the Democratic Socialists of America. One of them, Rep.-elect Chris Rabb of Pennsylvania's 3rd Congressional District, joins…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "fcbf9d76c7b4",
-   "titre": "Democrat Scott Colom wins Mississippi Senate race in upset",
-   "lien": "https://www.cbsnews.com/news/mississippi-2026-senate-scott-colom-cindy-hyde-smith/",
-   "source": "CBS News",
-   "date": "2026-11-12T00:19:03+00:00",
-   "extrait": "Democrat Scott Colom defeated GOP Sen. Cindy Hyde-Smith in the Mississippi Senate race, delivering Democrats an eighth flipped Senate seat after the dramatic race had been up in the air for days.",
    "tags": [
     "Politique"
    ],
@@ -404,18 +490,6 @@
    "date": "2026-11-12T00:05:48+00:00",
    "extrait": "Democrats won pivotal races in Texas, South Carolina, Georgia, Mississippi, Michigan and elsewhere. Here are the biggest victories of the 2026 midterms.",
    "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "55ccdce7120e",
-   "titre": "SS United States to become world's largest artificial reef",
-   "lien": "https://www.cbsnews.com/news/ss-united-states-sinking-ocean-floor-largest-artificial-reef-world-florida-gulf-coast/",
-   "source": "CBS News",
-   "date": "2026-11-12T00:04:00+00:00",
-   "extrait": "The 1,000-foot long SS United States is being sent to the bottom of the ocean in a controlled, explosive-free sinking that is taking place about 20 nautical miles off the Gulf Coast of Florida.",
-   "tags": [
-    "Sport"
-   ],
    "zone": "usa"
   },
   {
@@ -497,6 +571,16 @@
     "Tech"
    ],
    "zone": "france"
+  },
+  {
+   "id": "8e0622c1cd45",
+   "titre": "11/11: CBS Evening News",
+   "lien": "https://www.cbsnews.com/video/111126-cbs-evening-news/",
+   "source": "CBS News",
+   "date": "2026-11-11T23:30:00+00:00",
+   "extrait": "Several people were killed in a Brooklyn building collapse; Nvidia's board is preparing to oust CEO Jensen Huang, sources say.",
+   "tags": [],
+   "zone": "usa"
   },
   {
    "id": "0539a38e17a1",
@@ -1214,16 +1298,6 @@
    "zone": "monde"
   },
   {
-   "id": "e8d0b12d49fa",
-   "titre": "Famed ship SS United States to be sunk off coast of Florida",
-   "lien": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-11T18:42:27+00:00",
-   "extrait": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
    "id": "07f84e1d7519",
    "titre": "En Suède, le Parlement ouvre la voie à la déchéance de nationalité des binationaux",
    "lien": "https://www.lemonde.fr/international/article/2026/11/11/en-suede-le-parlement-ouvre-la-voie-a-la-decheance-de-nationalite-des-binationaux_6809021_3210.html",
@@ -1414,14 +1488,12 @@
   },
   {
    "id": "8d5d608e48f4",
-   "titre": "Après l'Argentine, le pape Léon XIV arrive au Pérou, sa patrie d'adoption",
+   "titre": "Au Pérou, sa patrie d'adoption, le pape Léon XIV appelle à surmonter les divisions du passé",
    "lien": "https://www.france24.com/fr/am%C3%A9riques/20261111-apr%C3%A8s-l-argentine-le-pape-l%C3%A9on-xiv-arrive-au-p%C3%A9rou-sa-patrie-d-adoption",
    "source": "France 24",
    "date": "2026-11-11T17:58:06+00:00",
-   "extrait": "C'est la dernière étape de sa tournée en Amérique latine : le pape François a quitté l'Argentine pour le Pérou où il est arrivé mercredi. Au-delà de la ferveur suscitée par son retour dans son pays…",
-   "tags": [
-    "Conflits"
-   ],
+   "extrait": "C'est la dernière étape de sa tournée en Amérique latine : le pape Léon XIV a quitté l'Argentine pour le Pérou, son pays d'adoption, où il est arrivé mercredi. Acclamé par des milliers de fidèles…",
+   "tags": [],
    "zone": "monde"
   },
   {
@@ -3341,85 +3413,6 @@
    "extrait": "Volunteer musicians play for veterans and others who are hospitalized. They're part of Musicians On Call, a group that spreads the healing power of music.",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "e40120a78ce1",
-   "titre": "Both sides now? Critics slam DOJ moves to dismiss convictions of Trump allies",
-   "lien": "https://www.npr.org/2026/11/11/g-s1-152713/doj-abandons-convictions-trump-allies-no-defense",
-   "source": "NPR",
-   "date": "2026-11-11T10:00:00+00:00",
-   "extrait": "The DOJ moved to dismiss criminal convictions of former Trump adviser Steve Bannon and of the Oath Keepers, in what it calls \"the interests of justice.\" Critics are crying foul.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "50ece4f925b0",
-   "titre": "New recipes and decorating ideas to try this Thanksgiving",
-   "lien": "https://www.npr.org/2026/11/11/nx-s1-6034639/your-guide-to-hosting-a-flavorful-cozy-and-stress-free-thanksgiving",
-   "source": "NPR",
-   "date": "2026-11-11T10:00:00+00:00",
-   "extrait": "Whether you're hosting friendsgiving or Thanksgiving, we've got foolproof turkey recipes, advice on how to stay present while hosting, and directions on how to create a stunning floral arrangement.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "0536102efdb3",
-   "titre": "U.S. officials look to Europe to learn how to make prison better",
-   "lien": "https://www.npr.org/2026/11/11/nx-s1-6026417/us-prisons-european-model-rehabilitation",
-   "source": "NPR",
-   "date": "2026-11-11T10:00:00+00:00",
-   "extrait": "American prison officials are looking to European nations like Germany and Norway for a roadmap on how to design a prison that emphasizes rehabilitation and a successful return to life on the outside.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "0434155b7b85",
-   "titre": "Spain's first general strike in 14 years demands solutions to housing crisis",
-   "lien": "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike",
-   "source": "NPR",
-   "date": "2026-11-11T09:54:54+00:00",
-   "extrait": "Less than three weeks before a national election that could catapult the far right to power, Spain's workers are striking on Wednesday to demand that the government remedy the nation's housing crisis.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "77e53edde1a3",
-   "titre": "Bruno Retailleau, patron des Républicains, propose une primaire de la droite et du centre les 31 janvier et 7 février",
-   "lien": "https://www.franceinfo.fr/elections/presidentielle/bruno-retailleau-propose-une-primaire-de-la-droite-et-du-centre-les-31-janvier-et-7-fevrier_8277581.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-11T09:54:07+00:00",
-   "extrait": "Parmi les quatre candidats à qui le président des Républicains a adressé une lettre allant dans ce sens, seul Edouard Philippe (Horizons) est opposé à l'idée d'une primaire.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "9a094099a025",
-   "titre": "Grim details emerge after bears kill woman and daughter",
-   "lien": "https://www.cbsnews.com/news/grizzly-bear-kills-woman-daughter-canada-search/",
-   "source": "CBS News",
-   "date": "2026-11-11T09:49:56+00:00",
-   "extrait": "The delay in finding the remains of the two women was complicated by difficult terrain and the grizzly bears' behavior.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "27dad18834f3",
-   "titre": "COP31 : la question des énergies fossiles relancée, la Turquie pousse l'électrification",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261111-cop31-la-question-des-%C3%A9nergies-fossiles-relanc%C3%A9e-la-turquie-pousse-l-%C3%A9lectrification",
-   "source": "France 24",
-   "date": "2026-11-11T09:48:42+00:00",
-   "extrait": "La sortie des énergies fossiles, sujet hautement inflammable lors des réunions sur le climat, est revenue sur le devant de la scène à la COP31 où l'hôte turc tente de pousser un objectif plus…",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "monde"
   }
  ]
 }
