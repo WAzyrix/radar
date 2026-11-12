@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-12T20:05:41+00:00",
+ "maj": "2026-11-12T20:28:47+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "fd416d58448a",
+   "titre": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+   "lien": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
+   "source": "BleepingComputer",
+   "date": "2026-11-12T20:15:16+00:00",
+   "extrait": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
+   "tags": [
+    "Windows"
+   ]
+  },
   {
    "id": "5e7c3d53ea73",
    "titre": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
@@ -3422,18 +3433,6 @@
    "tags": [
     "Faille",
     "Fuite de données"
-   ]
-  },
-  {
-   "id": "d108c8cad61e",
-   "titre": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
-   "lien": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
-   "source": "The Hacker News",
-   "date": "2026-11-03T07:43:07+00:00",
-   "extrait": "Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks. The Taiwanese vendor said it observed…",
-   "tags": [
-    "Faille",
-    "Ransomware"
    ]
   }
  ]
