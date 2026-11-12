@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-12T16:05:40+00:00",
+ "maj": "2026-11-12T17:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,6 +24,17 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "093b008afb96",
+   "titre": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
+   "lien": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
+   "source": "The Hacker News",
+   "date": "2026-11-12T16:27:01+00:00",
+   "extrait": "A critical flaw in Red Hat Quay allows an attacker who can access a Quay registry to read and overwrite private container images in every repository. Quay enables anonymous access by default, and…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
    "id": "ad9757975fce",
    "titre": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
    "lien": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
@@ -34,6 +45,31 @@
     "Faille",
     "Fuite de données",
     "Windows"
+   ]
+  },
+  {
+   "id": "c398aa3e9226",
+   "titre": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
+   "lien": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
+   "source": "The Hacker News",
+   "date": "2026-11-12T15:38:49+00:00",
+   "extrait": "Citrix has released patches for multiple critical security flaws impacting NetScaler ADC, Citrix NetScaler Gateway, and NetScaler Console that could lead to denial-of-service (DoS) or an…",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
+  },
+  {
+   "id": "50b7d482cfd7",
+   "titre": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
+   "lien": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
+   "source": "The Hacker News",
+   "date": "2026-11-12T15:15:40+00:00",
+   "extrait": "Cybersecurity researchers have found that lookalike domains masquerading as artificial intelligence (AI) tools are being used to serve ClickFix-style lures, browser-hijacking malware, and a set of…",
+   "tags": [
+    "Malware",
+    "IA",
+    "Outil"
    ]
   },
   {
@@ -69,6 +105,20 @@
    "extrait": "Apify has rotated critical internal secrets and revoked some third-party OAuth connections after detecting unauthorized access to its internal systems. [...]",
    "tags": [
     "Fuite de données"
+   ]
+  },
+  {
+   "id": "daa356fef18a",
+   "titre": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
+   "lien": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
+   "source": "The Hacker News",
+   "date": "2026-11-12T13:08:28+00:00",
+   "extrait": "The ongoing campaign targeting ConnectWise ScreenConnect deployments involves the exploitation of a now-patched critical security flaw in the remote access software, and not a new vulnerability, it…",
+   "tags": [
+    "CVE",
+    "Faille",
+    "Fuite de données",
+    "Malware"
    ]
   },
   {
@@ -3379,51 +3429,6 @@
    "extrait": "De multiples vulnérabilités ont été découvertes dans NetApp ONTAP 9. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
    "tags": [
     "Faille"
-   ]
-  },
-  {
-   "id": "7ca99e03f5c2",
-   "titre": "Multiples vulnérabilités dans GLPI (03 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1444/",
-   "source": "CERT-FR",
-   "date": "2026-11-03T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans GLPI. Elles permettent à un attaquant de provoquer une élévation de privilèges, une injection de code indirecte à distance (XSS) et un…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "d64e16f3a968",
-   "titre": "Multiples vulnérabilités dans PostgreSQL (03 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1445/",
-   "source": "CERT-FR",
-   "date": "2026-11-03T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans PostgreSQL. Elles permettent à un attaquant de provoquer une injection SQL (SQLi), un contournement de la politique de sécurité et un problème de…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "6cb26059f760",
-   "titre": "Multiples vulnérabilités dans Xen (03 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1447/",
-   "source": "CERT-FR",
-   "date": "2026-11-03T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "a1b249764f1c",
-   "titre": "Multiples vulnérabilités dans Google Android (03 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1443/",
-   "source": "CERT-FR",
-   "date": "2026-11-03T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de…",
-   "tags": [
-    "Faille",
-    "Mobile"
    ]
   }
  ]
