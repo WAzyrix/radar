@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-12T07:05:39+00:00",
+ "maj": "2026-11-12T07:45:27+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "417b99b8248b",
+   "titre": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
+   "lien": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
+   "source": "The Hacker News",
+   "date": "2026-11-12T06:42:47+00:00",
+   "extrait": "Starting Tuesday, an attacker used stolen credentials for 4,837 GitHub accounts to plant a secret stealer in repositories those accounts could write to, according to Aikido Security, a security…",
+   "tags": [
+    "Malware",
+    "Outil"
+   ]
+  },
   {
    "id": "8b748363b7cc",
    "titre": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
@@ -3409,18 +3421,6 @@
    "tags": [
     "Fuite de données",
     "Outil"
-   ]
-  },
-  {
-   "id": "4a3beb5aa5ff",
-   "titre": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
-   "lien": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
-   "source": "The Hacker News",
-   "date": "2026-10-31T08:27:43+00:00",
-   "extrait": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog…",
-   "tags": [
-    "CVE",
-    "Faille"
    ]
   }
  ]
