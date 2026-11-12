@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-12T14:05:42+00:00",
+ "maj": "2026-11-12T15:05:42+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "7927f7b9de97",
+   "titre": "Apify rotates API tokens, prompts 2FA resets after breach",
+   "lien": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
+   "source": "BleepingComputer",
+   "date": "2026-11-12T14:36:47+00:00",
+   "extrait": "Apify has rotated critical internal secrets and revoked some third-party OAuth connections after detecting unauthorized access to its internal systems. [...]",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
   {
    "id": "00c8c05e542b",
    "titre": "Microsoft: Recent Windows updates cause SQL Server performance issues",
@@ -3411,17 +3422,6 @@
    "extrait": "Une vulnérabilité a été découverte dans Traefik. Elle permet à un attaquant de provoquer un déni de service à distance.",
    "tags": [
     "Faille"
-   ]
-  },
-  {
-   "id": "8cfea8890b08",
-   "titre": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
-   "lien": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
-   "source": "BleepingComputer",
-   "date": "2026-11-01T19:57:53+00:00",
-   "extrait": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on…",
-   "tags": [
-    "Fuite de données"
    ]
   }
  ]

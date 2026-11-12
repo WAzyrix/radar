@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-12T14:05:42+00:00",
+ "maj": "2026-11-12T15:05:42+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,23 +22,11 @@
  "erreurs": [],
  "articles": [
   {
-   "id": "a020bde73133",
-   "titre": "Who could replace Jensen Huang as Nvidia's chief executive?",
-   "lien": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-12T14:05:35+00:00",
-   "extrait": "As uncertainty swirls over the boss of the AI chip giant, some names have emerged as potential successors.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "monde"
-  },
-  {
    "id": "2be0e3e6e43f",
-   "titre": "Multiple people shot in Washington, D.C.'s Logan Circle, authorities say",
+   "titre": "5 people shot in D.C.'s Logan Circle neighborhood",
    "lien": "https://www.cbsnews.com/news/washington-dc-shooting-gym-vida/",
    "source": "CBS News",
-   "date": "2026-11-12T14:05:03+00:00",
+   "date": "2026-11-12T14:58:26+00:00",
    "extrait": "Residents have been asked to avoid the area of 15th and P Street in Washington, D.C., as police respond to the incident.",
    "tags": [
     "Justice"
@@ -46,24 +34,64 @@
    "zone": "usa"
   },
   {
-   "id": "c84ec90bd9cb",
-   "titre": "Nvidia CEO Jensen Huang resigns, board announces",
-   "lien": "https://www.cbsnews.com/news/nvidia-ceo-jensen-huang-resigns/",
+   "id": "2488b496e741",
+   "titre": "2 top Trump advisors are in Russia for talks with Putin",
+   "lien": "https://www.cbsnews.com/video/2-top-trump-advisors-are-in-russia-for-talks-with-putin/",
    "source": "CBS News",
-   "date": "2026-11-12T14:03:47+00:00",
-   "extrait": "Nvidia CEO Jensen Huang has resigned effective immediately, the company's board of directors announced Thursday.",
-   "tags": [],
+   "date": "2026-11-12T14:56:54+00:00",
+   "extrait": "Jared Kushner and Steve Witkoff, two Trump administration advisors, are in Russia for talks with President Vladimir Putin about the war in Ukraine. CBS News' Ramy Inocencio reports.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
    "zone": "usa"
   },
   {
-   "id": "bd5c464e7b18",
-   "titre": "Le PDG de Nvidia Jensen Huang quitte ses fonctions à la tête de l'entreprise",
-   "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261112-le-pdg-de-nvidia-jensen-huang-quitte-ses-fonctions-%C3%A0-la-t%C3%AAte-de-l-entreprise",
-   "source": "France 24",
-   "date": "2026-11-12T14:01:57+00:00",
-   "extrait": "Jensen Huang, le PDG de l'entreprise Nvidia, a quitté ses fonctions de directeur général du ​groupe ‌après ⁠une enquête visant à déterminer ‌si le patron du géant ⁠technologique avait été la cible…",
+   "id": "119ba8ede29e",
+   "titre": "Dans un camp de la bande de Gaza glacial et inondé, un bébé de 9 mois est « mort de froid », selon des médecins palestiniens",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/12/a-gaza-un-bebe-est-mort-de-froid-dans-un-camp-de-deplaces-a-khan-younes-selon-une-source-medicale-et-les-services-de-secours-palestiniens_6809112_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-12T14:55:54+00:00",
+   "extrait": "Selon l’Unicef, onze enfants sont morts d’hypothermie dans l’enclave palestinienne l’hiver dernier.",
    "tags": [
-    "Justice"
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "37f8521cea37",
+   "titre": "Présidentielle 2027 : suivez l'interview de Marine Tondelier, sixième des huit candidats interrogés dans le cadre de l'opération \"Nos services publics\"",
+   "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-12T14:54:49+00:00",
+   "extrait": "Huit des principaux candidats à l'élection présidentielle 2027 répondent jeudi, au fil de la journée, aux questions des journalistes de France Télévisions et Radio France à propos de l'accès et de…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "c6a88938b538",
+   "titre": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+   "lien": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-12T14:54:47+00:00",
+   "extrait": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+   "tags": [
+    "Conflits",
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "7287c85d5b66",
+   "titre": "Sommet en Irlande : le président ukrainien appelle l'Europe à se montrer \"très attentive\"",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-sommet-en-irlande-le-pr%C3%A9sident-ukrainien-appelle-l-europe-%C3%A0-se-montrer-tr%C3%A8s-attentive",
+   "source": "France 24",
+   "date": "2026-11-12T14:53:49+00:00",
+   "extrait": "Le président ukrainien Volodymyr Zelensky a appelé jeudi 12 novembre l'Europe à se montrer \"très attentive\" aux discussions russo-américaines sur la sécurité du continent. Le président ukrainien…",
+   "tags": [
+    "Politique"
    ],
    "zone": "monde"
   },
@@ -72,7 +100,7 @@
    "titre": "Centre-ville inondé, routes fermées, éboulements : la dépression Charles frappe la Côte d'Azur",
    "lien": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/cannes/embouteillages-accident-perturbations-les-degats-de-la-tempete-charles-sur-la-cote-d-azur-3448236.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-11-12T13:57:47+00:00",
+   "date": "2026-11-12T14:49:28+00:00",
    "extrait": "La région est touchée par de fortes pluies ce jeudi 12 novembre suite à la dépression Charles. Les intempéries ont provoqué des perturbations sur les routes, des éboulements et des évacuations, tour…",
    "tags": [
     "Conflits"
@@ -80,13 +108,69 @@
    "zone": "france"
   },
   {
-   "id": "191a6b7ae2f8",
-   "titre": "Jensen Huang, patron emblématique de Nvidia et parrain de l’IA, démis de ses fonctions",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/12/jensen-huang-patron-emblematique-de-nvidia-et-parrain-de-l-ia-demis-de-ses-fonctions_6809106_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-12T13:53:07+00:00",
-   "extrait": "Le fondateur du géant des semi-conducteurs américain, mis en cause pour une liaison avec une entrepreneuse chinoise soupçonnée d’espionnage, a été limogé par le conseil d’administration.",
+   "id": "a020bde73133",
+   "titre": "Who could replace Jensen Huang as Nvidia's permanent chief executive?",
+   "lien": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-12T14:48:26+00:00",
+   "extrait": "Chief financial officer Colette Kress will replace him temporarily, but several others are in the frame as potential successors.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "cd1d60c7c0e9",
+   "titre": "Présidentielle 2027 : la candidature de Teddy Riner peut-elle peser sur les résultats ?",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-pr%C3%A9sidentielle-2027-la-candidature-de-teddy-riner-peut-elle-peser-sur-les-r%C3%A9sultats",
+   "source": "France 24",
+   "date": "2026-11-12T14:47:44+00:00",
+   "extrait": "Un nouveau grand oral pour les candidats à la présidentielle qui retrouvent sur France info TV ce jeudi 12 novembre pour un débat sur les services publics. À 157 jours du premier tour, les…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "14b5f014fd62",
+   "titre": "Nvidia set to lose $700 billion in value as Jensen Huang resigns",
+   "lien": "https://www.cbsnews.com/news/nvidia-stock-nvda-ceo-jensen-huang/",
+   "source": "CBS News",
+   "date": "2026-11-12T14:41:54+00:00",
+   "extrait": "Shares of the chipmaker extended their losses after Nvidia said its longtime CEO is stepping down amid revelations of a relationship with a suspected Chinese spy.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "42be5ca9f809",
+   "titre": "Trump says \"we don't need a deal with Iran\"",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/",
+   "source": "CBS News",
+   "date": "2026-11-12T14:40:20+00:00",
+   "extrait": "President Trump says the war with Iran has been won and \"we don't need a deal,\" as Tehran sticks to its demands and continues attacking ships.",
    "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "5a579197e74a",
+   "titre": "Company under scrutiny for ties to Nvidia and China",
+   "lien": "https://www.cbsnews.com/news/megaspeed-nvidia-china-ties/",
+   "source": "CBS News",
+   "date": "2026-11-12T14:37:53+00:00",
+   "extrait": "The unusual global footprint of Megaspeed, a major buyer of Nvidia's powerful AI computer chips, is fueling questions about whether it's a front for the Chinese government.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "55ae00bc4fe4",
+   "titre": "Le patron du géant de la tech Nvidia, Jensen Huang, démissionne après la révélation d'une liaison avec une femme soupçonnée d'espionnage pour la Chine",
+   "lien": "https://www.franceinfo.fr/internet/intelligence-artificielle/le-patron-du-geant-de-la-tech-nvidia-jensen-huang-demissionne-apres-la-revelation-d-une-liaison-avec-une-femme-soupconnee-d-espionnage-pour-la-chine_8279405.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-12T14:37:47+00:00",
+   "extrait": "Géant des puces électroniques, Nvidia est devenu une entreprise centrale dans le développement de l'intelligence artificielle. Certains de ses composants sont jugés si stratégiques par les…",
+   "tags": [
+    "Justice",
     "Tech"
    ],
    "zone": "france"
@@ -96,42 +180,184 @@
    "titre": "Watch Live: Crews search for survivors in Brooklyn building collapse",
    "lien": "https://www.cbsnews.com/news/building-collapse-nyc-brooklyn-flatbush-rescue-operation/",
    "source": "CBS News",
-   "date": "2026-11-12T13:53:03+00:00",
+   "date": "2026-11-12T14:30:26+00:00",
    "extrait": "At least eight people were killed and 17 others were injured​ after a building collapsed in Flatbush, Brooklyn.",
    "tags": [],
    "zone": "usa"
   },
   {
-   "id": "14b5f014fd62",
-   "titre": "Nvidia set to lose over $600 billion as CEO faces possible ouster",
-   "lien": "https://www.cbsnews.com/news/nvidia-stock-nvda-ceo-jensen-huang/",
+   "id": "c84ec90bd9cb",
+   "titre": "Nvidia CEO Jensen Huang resigns in wake of affair, spy scandal",
+   "lien": "https://www.cbsnews.com/news/nvidia-ceo-jensen-huang-resigns/",
    "source": "CBS News",
-   "date": "2026-11-12T13:51:59+00:00",
-   "extrait": "Shares of the chipmaker are poised to extend their losses amid disclosures that CEO Jensen Huang had a relationship with a suspected Chinese spy.",
+   "date": "2026-11-12T14:30:10+00:00",
+   "extrait": "Nvidia CEO Jensen Huang has resigned effective immediately, the company's board of directors announced Thursday.",
    "tags": [],
    "zone": "usa"
   },
   {
-   "id": "5a579197e74a",
-   "titre": "Company under scrutiny for ties to Nvidia and China",
-   "lien": "https://www.cbsnews.com/news/megaspeed-nvidia-china-ties/",
+   "id": "4ecb35c3c6f7",
+   "titre": "Meet Scott Colom, Mississippi's first Black senator since 1881",
+   "lien": "https://www.cbsnews.com/video/meet-scott-colom-mississippis-first-black-senator-since-1881/",
    "source": "CBS News",
-   "date": "2026-11-12T13:51:10+00:00",
-   "extrait": "The unusual global footprint of Megaspeed, a major buyer of Nvidia's powerful AI computer chips, is fueling questions about whether it's a front for the Chinese government.",
+   "date": "2026-11-12T14:29:51+00:00",
+   "extrait": "Democrat Scott Colom defeated Republican Sen. Cindy Hyde-Smith in the Mississippi Senate race, CBS News projects. Mark Strassmann has more.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "b8bb9c4cdad0",
+   "titre": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+   "lien": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-12T14:27:30+00:00",
+   "extrait": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+   "tags": [
+    "Conflits",
+    "Santé"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "34efa953c678",
+   "titre": "Gérard Depardieu renonce à son procès en appel pour deux agressions sexuelles commises lors du tournage du film \"Les Volets verts\"",
+   "lien": "https://www.franceinfo.fr/culture/cinema/depardieu/gerard-depardieu-renonce-a-son-proces-en-appel-pour-deux-agressions-sexuelles-commises-lors-du-tournage-du-film-les-volets-verts_8279438.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-12T14:25:18+00:00",
+   "extrait": "En mai 2025, le comédien avait été condamné en première instance par le tribunal correctionnel de Paris à 18 mois de prison avec sursis pour agressions sexuelles.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "d08f5826855b",
+   "titre": "Millions of Ebola dollars going missing as virus spreads, medical charity warns",
+   "lien": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-12T14:24:48+00:00",
+   "extrait": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "c7dc8d23584c",
+   "titre": "Indonesia's VP resigns as his eligibility and academic credentials are questioned",
+   "lien": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned",
+   "source": "NPR",
+   "date": "2026-11-12T14:22:50+00:00",
+   "extrait": "Raka is the son of former President Joko Widodo. The Constitutional Court and the Supreme Court ruled last month that the documents that Raka submitted regarding his overseas education didn't meet…",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "5d35c6713e4f",
+   "titre": "Nvidia CEO Jensen Huang steps down amid alleged spy scandal",
+   "lien": "https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-stepped-down",
+   "source": "NPR",
+   "date": "2026-11-12T14:17:20+00:00",
+   "extrait": "Huang co-founded the chipmaker Nvidia, which has become one of the driving forces behind the AI boom. But reports that he may have had an affair with an alleged Chinese spy quickly sank his career.",
    "tags": [
     "Tech"
    ],
    "zone": "usa"
   },
   {
-   "id": "37f8521cea37",
-   "titre": "Présidentielle 2027 : suivez l'interview de Bruno Retailleau, cinquième des huit candidats interrogés dans le cadre de l'opération \"Nos services publics\"",
-   "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-12T13:50:20+00:00",
-   "extrait": "Huit des principaux candidats à l'élection présidentielle 2027 répondent jeudi, au fil de la journée, aux questions des journalistes de France Télévisions et Radio France à propos de l'accès et de…",
+   "id": "e03dcf16d5c7",
+   "titre": "Agriculture : la ministre de l’agriculture détaille un plan de relance pour le secteur de « 725 millions d’euros »",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/12/plan-de-relance-agricole-la-ministre-annie-genevard-devoile-une-enveloppe-de-725-millions-d-euros_6809111_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-12T14:17:15+00:00",
+   "extrait": "Le montant dépasse la fourchette de 500 à 700 millions d’euros évoquée en octobre par le premier ministre, Sébastien Lecornu.",
    "tags": [
     "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "4def7f0d139f",
+   "titre": "Nvidia CEO Jensen Huang resigns, company says",
+   "lien": "https://www.cbsnews.com/video/nvidia-ceo-jensen-huang-resigns-company-says/",
+   "source": "CBS News",
+   "date": "2026-11-12T14:16:28+00:00",
+   "extrait": "Jensen Huang, the CEO of AI tech giant Nvidia, has resigned, the company announced Thursday. Author and journalist Patrick McGee joins with more.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "9383d43d1ea1",
+   "titre": "RD CONGO : ouverture du procès de l'opposant politique Prince Epenge",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-rd-congo-ouverture-du-proc%C3%A8s-de-l-opposant-politique-prince-epenge-1",
+   "source": "France 24",
+   "date": "2026-11-12T14:12:53+00:00",
+   "extrait": "🇨🇩 Republique democratique Congo, le procès de Prince Epenge, porte-parole de la coalition d’opposition Lamuka, s’est ouvert mercredi 11 novembre. Il est poursuivi pour « propagation de faux bruits…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "b6d34d1d60c3",
+   "titre": "Qui est Alice Huang, la femme mystérieuse au cœur du scandale Nvidia ?",
+   "lien": "https://www.franceinfo.fr/monde/chine/qui-est-alice-huang-la-femme-mysterieuse-au-c-ur-du-scandale-nvidia_8278904.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-12T14:07:39+00:00",
+   "extrait": "Cette femme d'affaires chinoise est soupçonnée d'avoir facilité l'accès de Pékin à des puces électroniques américaines, en entretenant une liaison avec le patron de Nvidia. Elle reste introuvable…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "5a5618ec1d07",
+   "titre": "En Espagne, le Parlement vote un texte pour protéger le droit au logement, avec notamment des mesures contre les fonds « vautour »",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/12/apres-la-greve-en-espagne-le-parlement-adopte-des-mesures-pour-proteger-le-droit-au-logement_6809110_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-12T14:03:17+00:00",
+   "extrait": "Alors que la droite promet d’abroger ces mesures si elle revient au pouvoir, le texte adopté jeudi suspend les expulsions de personnes vulnérables jusqu’en 2030 et cible les fonds dits « vautour ».",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "bd5c464e7b18",
+   "titre": "Affaire Nvidia : le PDG Jensen Huang quitte ses fonctions à la tête du géant de la tech",
+   "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261112-le-pdg-de-nvidia-jensen-huang-quitte-ses-fonctions-%C3%A0-la-t%C3%AAte-de-l-entreprise",
+   "source": "France 24",
+   "date": "2026-11-12T14:01:57+00:00",
+   "extrait": "Le PDG du géant américain des puces électroniques Nvidia, Jensen Huang, dans la tourmente depuis la révélation d’une liaison avec une femme soupçonnée d’espionnage au profit de la Chine, a été démis…",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "1db39b7ee2b2",
+   "titre": "Le cake au citron et au pavot : la recette de Pascale Weeks",
+   "lien": "https://www.lemonde.fr/les-recettes-du-monde/article/2026/11/12/le-cake-au-citron-et-au-pavot-la-recette-de-pascale-weeks_6809108_5324493.html",
+   "source": "Le Monde",
+   "date": "2026-11-12T14:00:05+00:00",
+   "extrait": "Ce cake, simple et délicieux, est un peu l’emblème du parcours de l’autrice culinaire, qui continue de le confectionner très souvent.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "191a6b7ae2f8",
+   "titre": "Jensen Huang, patron emblématique de Nvidia et parrain de l’IA, quitte ses fonctions",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/12/jensen-huang-patron-emblematique-de-nvidia-et-parrain-de-l-ia-demis-de-ses-fonctions_6809106_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-12T13:53:07+00:00",
+   "extrait": "Le fondateur du géant des semi-conducteurs américain, mis en cause pour une liaison avec une entrepreneuse chinoise soupçonnée d’espionnage, quitte l’entreprise.",
+   "tags": [
+    "Tech"
    ],
    "zone": "france"
   },
@@ -144,19 +370,6 @@
    "extrait": "Invité de la journée spéciale \"Nos Services Publics\", le candidat Reconquête à la présidentielle réagissait à la découverte d'une liste de personnalités de gauche et d'extrême gauche lors d'une…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "42be5ca9f809",
-   "titre": "Attacks on ships continue as Trump and Iran claim the upper hand",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/",
-   "source": "CBS News",
-   "date": "2026-11-12T13:47:15+00:00",
-   "extrait": "Iran insists it will only negotiate a peace deal when its core demands are met, as President Trump says the war will end \"when we want to end it.\"",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
   },
   {
    "id": "5db4994a726d",
@@ -389,18 +602,6 @@
    "zone": "monde"
   },
   {
-   "id": "d08f5826855b",
-   "titre": "Millions of Ebola dollars going missing as virus spreads, medical charity warns",
-   "lien": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-12T13:02:37+00:00",
-   "extrait": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "monde"
-  },
-  {
    "id": "e4a5945bc19c",
    "titre": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
    "lien": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
@@ -434,7 +635,7 @@
   },
   {
    "id": "0a13908b15d9",
-   "titre": "EN DIRECT, guerre en Ukraine : Poutine propose une mission « humanitaire » dans une ville d’Ukraine ; les émissaires américains veulent la participation des Européens aux négociations",
+   "titre": "EN DIRECT, guerre en Ukraine : Vladimir Poutine prévient qu’une mission de maintien de la paix avec des soldats étrangers en Ukraine serait considérée comme « une cible légitime »",
    "lien": "https://www.lemonde.fr/international/live/2026/11/12/en-direct-guerre-en-ukraine-vladimir-poutine-a-detruit-la-securite-europeenne-apres-l-invasion-de-l-ukraine-estime-antonio-costa-president-du-conseil-europeen_6808609_3210.html",
    "source": "Le Monde",
    "date": "2026-11-12T12:52:51+00:00",
@@ -442,6 +643,18 @@
    "tags": [
     "Politique",
     "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "769a7e200445",
+   "titre": "ENQUETE « C’est pas normal d’aller manifester et de finir avec ça dans le corps » : des blessés du mouvement social racontent",
+   "lien": "https://www.lemonde.fr/videos/video/2026/11/12/ce-n-est-pas-normal-d-aller-manifester-et-de-finir-avec-ca-dans-le-corps-des-blesses-du-mouvement-social-temoignent_6809104_1669088.html",
+   "source": "Le Monde",
+   "date": "2026-11-12T12:50:44+00:00",
+   "extrait": "Depuis le mois de septembre, des dizaines de personnes ont été blessées en manifestation. Les victimes et leurs proches témoignent auprès du « Monde ».",
+   "tags": [
+    "Justice"
    ],
    "zone": "france"
   },
@@ -462,7 +675,7 @@
    "titre": "Nvidia's board preparing to oust CEO Jensen Huang, sources say",
    "lien": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/",
    "source": "CBS News",
-   "date": "2026-11-12T12:48:56+00:00",
+   "date": "2026-11-12T12:48:00+00:00",
    "extrait": "Nvidia's board of directors is preparing to oust CEO Jensen Huang soon, according to two sources, amid allegations Huang had an affair with a woman U.S. intelligence agencies believe was a Chinese…",
    "tags": [],
    "zone": "usa"
@@ -512,16 +725,6 @@
    "zone": "france"
   },
   {
-   "id": "916f962ce184",
-   "titre": "At least 8 killed, 17 hurt in Brooklyn building collapse",
-   "lien": "https://www.cbsnews.com/news/brooklyn-building-collapse-bedford-avenue/",
-   "source": "CBS News",
-   "date": "2026-11-12T12:35:38+00:00",
-   "extrait": "A major technical rescue operation was ongoing, involving hundreds of firefighters.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "b2e32a53041f",
    "titre": "Plus de 100 000 billets SNCF vendus en trente minutes pour les vacances d'hiver et de printemps, un record",
    "lien": "https://www.franceinfo.fr/economie/transports/sncf/plus-de-100-000-billets-sncf-vendus-en-30-minutes-pour-les-vacances-d-hiver-et-de-printemps-un-record-historique_8279282.html#xtor=RSS-3-[lestitres]",
@@ -536,7 +739,7 @@
    "titre": "En 2025, les flux migratoires ont augmenté en Europe du Sud, mais reculé en Amérique du Nord",
    "lien": "https://www.lemonde.fr/international/article/2026/11/12/en-2025-les-flux-migratoires-ont-augmente-en-europe-du-sud-mais-recule-en-amerique-du-nord_6809102_3210.html",
    "source": "Le Monde",
-   "date": "2026-11-12T12:30:03+00:00",
+   "date": "2026-11-12T12:30:02+00:00",
    "extrait": "Le rapport annuel de l’OCDE, publié jeudi, relève des tendances divergentes selon les pays. La forte progression de l’immigration légale au Portugal, en Italie et en Espagne, contraste avec des…",
    "tags": [],
    "zone": "france"
@@ -552,25 +755,12 @@
    "zone": "france"
   },
   {
-   "id": "b8bb9c4cdad0",
-   "titre": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-   "lien": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-12T12:26:01+00:00",
-   "extrait": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-   "tags": [
-    "Conflits",
-    "Santé"
-   ],
-   "zone": "monde"
-  },
-  {
    "id": "44922249b524",
    "titre": "Ecrits antisémites : Jordan Bardella porte plainte pour faux et usage de faux",
    "lien": "https://www.lemonde.fr/politique/article/2026/11/12/ecrits-antisemites-jordan-bardella-porte-plainte-pour-faux-et-usage-de-faux_6809101_823448.html",
    "source": "Le Monde",
    "date": "2026-11-12T12:23:02+00:00",
-   "extrait": "Le président du RN avait déjà déposé une plainte pour diffamation contre le site d’investigation « Mediapart ».",
+   "extrait": "Le président du Rassemblement national avait déjà déposé une plainte pour diffamation contre le site d’investigation « Mediapart ».",
    "tags": [
     "Politique"
    ],
@@ -581,7 +771,7 @@
    "titre": "Democrat Scott Colom wins Mississippi Senate race in upset",
    "lien": "https://www.cbsnews.com/news/mississippi-2026-senate-scott-colom-cindy-hyde-smith/",
    "source": "CBS News",
-   "date": "2026-11-12T12:20:32+00:00",
+   "date": "2026-11-12T12:20:00+00:00",
    "extrait": "Democrat Scott Colom defeated GOP Sen. Cindy Hyde-Smith in the Mississippi Senate race, delivering Democrats an eighth flipped Senate seat after the dramatic race had been up in the air for days.",
    "tags": [
     "Politique"
@@ -609,19 +799,6 @@
    "extrait": "Christophe Gleizes est incarcéré depuis 500 jours en Algérie. L'occasion de sensibiliser l'opinion au sort du journaliste, condamné à sept ans de prison pour apologie du terrorisme après un…",
    "tags": [
     "Sport"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "c6a88938b538",
-   "titre": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-   "lien": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-12T12:14:51+00:00",
-   "extrait": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
-   "tags": [
-    "Conflits",
-    "Tech"
    ],
    "zone": "monde"
   },
@@ -743,11 +920,11 @@
   },
   {
    "id": "863ae4261f4c",
-   "titre": "EN DIRECT, présidentielle 2027 | Suivez le grand oral de huit candidats sur les services publics : Bruno Retailleau souhaite créer 40 000 places de prison et propose un référendum sur la politique pénale",
+   "titre": "EN DIRECT, présidentielle 2027 | Suivez le grand oral de huit candidats sur Franceinfo : Marine Tondelier veut renforcer la justice, qui n’est pas « laxiste » mais peut être un système « deux poids, deux mesures »",
    "lien": "https://www.lemonde.fr/politique/live/2026/11/12/en-direct-presidentielle-2027-suivez-le-grand-oral-de-huit-candidats-sur-les-services-publics-raphael-glucksmann-souhaite-une-refonte-et-un-sauvetage-de-l-ecole-publique-dans-son-ensemble_6809070_823448.html",
    "source": "Le Monde",
    "date": "2026-11-12T11:50:45+00:00",
-   "extrait": "Gabriel Attal a défendu la sélection à l’université et estime que Parcoursup peut être amélioré. Fabien Roussel veut, lui, recruter 500 000 fonctionnaires en cinq ans, tandis que Raphaël Glucksmann…",
+   "extrait": "Huit candidats à l’Elysée seront interrogés, jeudi 12 novembre, sur les services publics, de l’éducation à la sécurité jusqu’à 19 heures. Edouard Philippe et Jean-Luc Mélenchon n’ont pas encore été…",
    "tags": [],
    "zone": "france"
   },
@@ -784,12 +961,22 @@
    "zone": "monde"
   },
   {
+   "id": "916f962ce184",
+   "titre": "At least 8 killed, 17 hurt in Brooklyn building collapse",
+   "lien": "https://www.cbsnews.com/news/brooklyn-building-collapse-bedford-avenue/",
+   "source": "CBS News",
+   "date": "2026-11-12T11:35:00+00:00",
+   "extrait": "A major technical rescue operation was ongoing, involving hundreds of firefighters.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
    "id": "6fa8abbb35ef",
    "titre": "Pierre-Edouard Stérin, le milliardaire conservateur, jugé en janvier pour son refus répété de venir devant une commission d’enquête de l’Assemblée",
    "lien": "https://www.lemonde.fr/societe/article/2026/11/12/le-milliardaire-conservateur-pierre-edouard-sterin-sera-juge-en-janvier-pour-son-refus-repete-de-venir-devant-une-commission-d-enquete-de-l-assemblee_6809094_3224.html",
    "source": "Le Monde",
    "date": "2026-11-12T11:24:53+00:00",
-   "extrait": "L’homme d’affaires proche de l’extrême droite, avait refusé à deux reprises de se rendre à des convocations de la commission d’enquête de l’Assemblée sur « l’organisation des élections en France »…",
+   "extrait": "L’homme d’affaires proche de l’extrême droite avait refusé à deux reprises de se rendre à des convocations de la commission d’enquête de l’Assemblée sur « l’organisation des élections en France »…",
    "tags": [
     "Politique",
     "Justice"
@@ -1153,7 +1340,7 @@
   },
   {
    "id": "984d23b5f616",
-   "titre": "How Scott Colom defied the odds to go from district attorney to Mississippi's Democratic US Senator",
+   "titre": "How Scott Colom defied the odds to go from DA to Mississippi's Democratic U.S. Senator",
    "lien": "https://www.npr.org/2026/11/12/nx-s1-6037438/scott-colom-defied-the-odds-mississippi-democratic-senator",
    "source": "NPR",
    "date": "2026-11-12T10:00:00+00:00",
@@ -1263,16 +1450,6 @@
    "source": "Le Monde",
    "date": "2026-11-12T09:21:57+00:00",
    "extrait": "L’établissement, qui gardera son nom, va faire l’objet d’un an de travaux. Gérald Passedat restera associé au projet comme conseiller spécial de la famille Saadé.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "b6d34d1d60c3",
-   "titre": "Qui est Alice Huang, la femme mystérieuse au cœur du scandale Nvidia ?",
-   "lien": "https://www.franceinfo.fr/monde/chine/qui-est-alice-huang-la-femme-mysterieuse-au-c-ur-du-scandale-nvidia_8278904.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-12T09:18:16+00:00",
-   "extrait": "Cette femme d'affaires chinoise est soupçonnée d'avoir facilité l'accès de Pékin à des puces électroniques américaines, en entretenant une liaison avec le patron de Nvidia. Elle reste introuvable…",
    "tags": [],
    "zone": "france"
   },
@@ -3250,174 +3427,6 @@
    "source": "franceinfo",
    "date": "2026-11-11T18:10:28+00:00",
    "extrait": "Les élèves du CM1 à la terminale participeront désormais tous les ans, autour du 11-Novembre, à un \"temps mémoriel\" en hommage à \"tous les Morts pour la France\".",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "88d40d52b564",
-   "titre": "\"Une immense fierté pour moi d'être là où je suis\" : Emmanuel Macron a présidé sa dernière cérémonie du 11-Novembre",
-   "lien": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/emmanuel-macron-a-preside-sa-derniere-ceremonie-du-11-novembre_8278010.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-11T18:05:42+00:00",
-   "extrait": "Le président de la République a exprimé, d'un ton ému, son \"immense gratitude\" envers les anciens combattants. \"C'est une immense fierté pour moi, depuis près de dix ans, d'être là où je suis\"…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "3a270928c1cf",
-   "titre": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-   "lien": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-11T18:04:58+00:00",
-   "extrait": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "b43c38248d84",
-   "titre": "Les parents de Christophe Gleizes, journaliste détenu en Algérie depuis 500 jours, sur France 24",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261111-les-parents-de-christophe-gleizes-journaliste-d%C3%A9tenu-en-alg%C3%A9rie-depuis-500-jours-sur-france-24",
-   "source": "France 24",
-   "date": "2026-11-11T18:04:24+00:00",
-   "extrait": "\"On demande simplement la grâce à Christophe\" : les parents de Christophe Gleizes, journaliste français détenu en Algérie depuis 500 jours appellent à la libération de leur fils. Retrouvez…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "21a295048770",
-   "titre": "A l’origine de la fatwa visant Nike, le grand mufti de Libye, prédicateur radical et agitateur politique",
-   "lien": "https://www.lemonde.fr/afrique/article/2026/11/11/a-l-origine-de-la-fatwa-visant-nike-le-grand-mufti-de-libye-predicateur-radical-et-agitateur-politique_6809015_3212.html",
-   "source": "Le Monde",
-   "date": "2026-11-11T18:00:15+00:00",
-   "extrait": "La marque américaine de sport est dans le viseur de Sadiq Al-Ghariani, qu’il accuse de promouvoir des symboles « associés au polythéisme ». Le grand mufti de Libye, âgé de 83 ans, est un habitué des…",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "40f1ad3e7584",
-   "titre": "Avec « Taillevent », Bruno Laurioux redonne vie au grand cuisinier des rois de France pour une traversée du XIVᵉ siècle à hauteur de fourneaux",
-   "lien": "https://www.lemonde.fr/livres/article/2026/11/11/avec-taillevent-bruno-laurioux-redonne-vie-au-grand-cuisinier-des-rois-de-france-pour-une-traversee-du-xiv-siecle-a-hauteur-de-fourneaux_6809014_3260.html",
-   "source": "Le Monde",
-   "date": "2026-11-11T18:00:12+00:00",
-   "extrait": "Un livre aussi passionnant que gourmand dans lequel l’historien offre une histoire de France et de la guerre de Cent Ans par le bas d’une rare clarté.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "0c766c4d098e",
-   "titre": "« Passer par les émotions, plus que par l’intellect » : le Théâtre de la Cité internationale, à Paris, tente de sensibiliser le public aux urgences écologiques",
-   "lien": "https://www.lemonde.fr/culture/article/2026/11/11/passer-par-les-emotions-plus-que-par-l-intellect-le-theatre-de-la-cite-internationale-a-paris-tente-de-sensibiliser-le-public-aux-urgences-ecologiques_6809013_3246.html",
-   "source": "Le Monde",
-   "date": "2026-11-11T18:00:09+00:00",
-   "extrait": "Sous l’impulsion d’un duo de directrices, Frédérique Aït-Touati et Nathalie Vimeux, une alliance inédite entre artistes et scientifiques est mise sur pied.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "8d5d608e48f4",
-   "titre": "Au Pérou, sa patrie d'adoption, le pape Léon XIV appelle à surmonter les divisions du passé",
-   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261111-apr%C3%A8s-l-argentine-le-pape-l%C3%A9on-xiv-arrive-au-p%C3%A9rou-sa-patrie-d-adoption",
-   "source": "France 24",
-   "date": "2026-11-11T17:58:06+00:00",
-   "extrait": "C'est la dernière étape de sa tournée en Amérique latine : le pape Léon XIV a quitté l'Argentine pour le Pérou, son pays d'adoption, où il est arrivé mercredi. Acclamé par des milliers de fidèles…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "cb461b161e11",
-   "titre": "\"Un temps de concorde\" : Sébastien Lecornu vante les commémorations du 11-Novembre instaurées dans les écoles",
-   "lien": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/la-polemique-autour-de-la-commemoration-du-11-novembre-a-l-ecole-est-tres-regrettable-deplore-la-ministre-deleguee-aux-armees-et-aux-anciens-combattants_8277551.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-11T17:57:27+00:00",
-   "extrait": "Le ministre de l'Education nationale a pour sa part assuré mercredi sur BFMTV/RMC n'avoir eu \"aucun écho de moment de tension ou de refus sur le terrain à ce stade\".",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "34798e3f9bd3",
-   "titre": "Alexandre Dartchiev, l’ambassadeur de Russie aux Etats-Unis, est mort « soudainement » à 66 ans",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/11/alexandre-dartchiev-l-ambassadeur-russe-aux-etats-unis-est-mort-soudainement-a-66-ans_6809012_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-11T17:56:13+00:00",
-   "extrait": "Le diplomate avait pris ses fonctions en mars 2025 et participé au rapprochement entre la Russie et les Etats-Unis.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "cbdbddba8272",
-   "titre": "Congressional Democrats target Trump's \"pardon industrial complex\"",
-   "lien": "https://www.cbsnews.com/news/democrats-congress-trump-pardon-industrial-complex/",
-   "source": "CBS News",
-   "date": "2026-11-11T17:36:00+00:00",
-   "extrait": "A new bill would bring scrutiny to pardons tied to the president's allies and donors, but legal experts say it would likely run up against the Constitution.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "e56e90b2b365",
-   "titre": "Stacy Keach, star of \"Mike Hammer\" TV series and stage, dies at 85",
-   "lien": "https://www.cbsnews.com/news/stacy-keach-mike-hammer-stage-dies-85/",
-   "source": "CBS News",
-   "date": "2026-11-11T17:31:48+00:00",
-   "extrait": "Stacy Keach, one of America's finest stage actors who became best known for playing scruffy private eye Mike Hammer on TV, has died. He was 85.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "eb61d1fb9b40",
-   "titre": "Présidentielle 2027 : comment Emmanuel Macron a adoubé la candidature de Teddy Riner",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/11/presidentielle-2027-comment-emmanuel-macron-a-adoube-la-candidature-de-teddy-riner_6809010_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-11T17:31:03+00:00",
-   "extrait": "Même s’il ne l’a pas organisée, le président de la République se réjouit de la candidature du judoka, alors qu’il n’a jamais soutenu ses anciens premiers ministres Edouard Philippe et Gabriel Attal…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "dac308f17b4b",
-   "titre": "Midterms 2026 : au Texas, l’improbable victoire du démocrate Bobby Pulido, star de la musique tex-mex",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/11/midterms-2026-aux-etats-unis-l-improbable-victoire-de-bobby-pulido-star-de-la-musique-tex-mex_6809009_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-11T17:30:04+00:00",
-   "extrait": "Le chanteur américain, star de ce genre musical apprécié des Latinos, vient d’être élu dans un territoire qui avait largement voté pour Donald Trump en 2024. Jeudi 12 novembre, il est en lice pour…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "e37aaa4b4a70",
-   "titre": "Greetings from Senegal, where breakdancers are competing in the Youth Olympics",
-   "lien": "https://www.npr.org/2026/11/11/g-s1-150228/senegal-youth-olympic-games-breakdancing",
-   "source": "NPR",
-   "date": "2026-11-11T17:23:10+00:00",
-   "extrait": "Senegal's breakdancers have been practicing for their country's historic hosting of the Youth Olympic Games this month. It's the first time Africa is hosting an Olympic event.",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "285130a68cfd",
-   "titre": "Un conseiller municipal de Sancoins, dans le Cher, porte plainte pour \"injure raciste\" après un commentaire sur Facebook",
-   "lien": "https://www.franceinfo.fr/societe/racisme/un-conseiller-municipal-de-sancoins-dans-le-cher-porte-plainte-pour-injure-raciste-apres-un-commentaire-sur-facebook_8278121.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-11T17:22:27+00:00",
-   "extrait": "Le message en question a été posté sous une publication de l'élu écologiste Mansour Thiamsur la cantine à un euro. \"Aujourd'hui, la honte et la peur doivent changer de camp\", a-t-il commenté.",
    "tags": [],
    "zone": "france"
   }
