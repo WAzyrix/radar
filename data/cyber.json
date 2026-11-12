@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-12T19:05:42+00:00",
+ "maj": "2026-11-12T20:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,29 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "5e7c3d53ea73",
+   "titre": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+   "lien": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+   "source": "BleepingComputer",
+   "date": "2026-11-12T19:51:16+00:00",
+   "extrait": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting…",
+   "tags": [
+    "Faille",
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "fac8887887ba",
+   "titre": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
+   "lien": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
+   "source": "BleepingComputer",
+   "date": "2026-11-12T19:12:55+00:00",
+   "extrait": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
+   "tags": [
+    "Faille"
+   ]
+  },
   {
    "id": "950205e16691",
    "titre": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
@@ -3411,28 +3434,6 @@
    "tags": [
     "Faille",
     "Ransomware"
-   ]
-  },
-  {
-   "id": "36d509a3e525",
-   "titre": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
-   "lien": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
-   "source": "The Hacker News",
-   "date": "2026-11-03T07:27:07+00:00",
-   "extrait": "Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and…",
-   "tags": []
-  },
-  {
-   "id": "3e6bc640da57",
-   "titre": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
-   "lien": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
-   "source": "The Hacker News",
-   "date": "2026-11-03T05:34:41+00:00",
-   "extrait": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed. The vulnerability, tracked as CVE-2026-58115 (CVSS…",
-   "tags": [
-    "CVE",
-    "Faille",
-    "Malware"
    ]
   }
  ]
