@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-12T10:05:39+00:00",
+ "maj": "2026-11-12T11:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,8 +22,318 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "37f8521cea37",
+   "titre": "Présidentielle 2027 : suivez l'interview de Raphaël Glucksmann, troisième des huit candidats interrogés dans le cadre de l'opération \"Nos services publics\"",
+   "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-12T11:03:09+00:00",
+   "extrait": "Huit des principaux candidats à l'élection présidentielle 2027 répondent jeudi, au fil de la journée, aux questions des journalistes de France Télévisions et Radio France à propos de l'accès et de…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "b41f2c706832",
+   "titre": "ICE deportations and arrests hit record high",
+   "lien": "https://www.cbsnews.com/news/ice-deportations-arrests-hit-record-high/",
+   "source": "CBS News",
+   "date": "2026-11-12T11:00:06+00:00",
+   "extrait": "New Department of Homeland Security figures show more than 483,000 deportations and 491,000 immigration arrests in fiscal year 2026.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "f47f76b108bb",
+   "titre": "With Jim Jordan as leader, House GOP signals its ready to fight",
+   "lien": "https://www.cbsnews.com/news/jim-jordan-house-republican-leader-democrats/",
+   "source": "CBS News",
+   "date": "2026-11-12T11:00:06+00:00",
+   "extrait": "Republicans described the incoming minority leader as a \"fighter\" who can go head to head with Hakeem Jeffries.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "916f962ce184",
+   "titre": "At least 3 killed, 17 hurt in Brooklyn building collapse",
+   "lien": "https://www.cbsnews.com/news/brooklyn-building-collapse-bedford-avenue/",
+   "source": "CBS News",
+   "date": "2026-11-12T11:00:01+00:00",
+   "extrait": "A major technical rescue operation was ongoing, involving hundreds of firefighters.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "ba41e4987bb0",
+   "titre": "Des images inédites de centaines de millions de galaxies grâce au télescope Euclid",
+   "lien": "https://www.franceinfo.fr/sciences/astronomie/on-commence-a-les-regarder-d-une-facon-differente-le-telescope-euclid-devoile-des-centaines-de-millions-de-galaxies-dans-des-images-inedites_8277968.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-12T11:00:01+00:00",
+   "extrait": "L'Agence spatiale européenne publie, jeudi, la première grande livraison d'images et de données capturées par les caméras du télescope Euclid, lancé dans l’espace en 2023. Un voyage inédit et…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "07ee6271d745",
+   "titre": "Gabriel Attal promet qu'il n'y aura \"pas de poste supprimé\" dans l'Education nationale s'il est élu",
+   "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-le-candidat-renaissance-gabriel-attal-promet-qu-il-n-y-aura-pas-de-poste-supprime-dans-l-education-nationale-s-il-est-elu_8278985.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-12T10:57:36+00:00",
+   "extrait": "Dans le cadre de la journée évènement franceinfo consacrée aux services publics, le candidat Renaissance à la présidentielle a détaillé son programme sur cet enjeu majeur du scrutin, jeudi 12…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "1497feeb340a",
+   "titre": "Pérou : le pape léon XIV célèbre son retour dans sa \"patrie\"",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-p%C3%A9rou-le-pape-l%C3%A9on-xiv-c%C3%A9l%C3%A8bre-son-retour-dans-sa-patrie",
+   "source": "France 24",
+   "date": "2026-11-12T10:57:12+00:00",
+   "extrait": "Le pape Léon XIV a célébré mercredi 11 novembre son retour au Pérou, sa \"patrie\", lors de son premier discours dans le pays où il a exercé son ministère pendant près de deux décennies et dont il a…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "42be5ca9f809",
+   "titre": "Trump says Iran war will be over \"when we want to end it\"",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/",
+   "source": "CBS News",
+   "date": "2026-11-12T10:48:49+00:00",
+   "extrait": "President Trump spoke about the Iran war during a Veterans Day address at Arlington National Cemetery.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "33604caf57a6",
+   "titre": "New York building collapse kills at least two, officials say",
+   "lien": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-12T10:40:49+00:00",
+   "extrait": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "4927ce32745a",
+   "titre": "États-Unis : qui est Scott Colom, premier sénateur afro-américain du Mississippi ?",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-%C3%A9tats-unis-qui-est-scott-colom-premier-s%C3%A9nateur-afro-am%C3%A9ricain-du-mississippi",
+   "source": "France 24",
+   "date": "2026-11-12T10:39:35+00:00",
+   "extrait": "Les démocrates ont réalisé une percée spectaculaire dans le Mississippi traditionnellement conservateur en ôtant aux républicains un siège au Sénat américain. Scott Colom devient alors le premier…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "e40eb3e79ceb",
+   "titre": "Scandale Nvidia : le patron Jensen Huang bientôt démis de ses fonctions ?",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-scandale-nvidia-le-patron-jensen-huang-bient%C3%B4t-d%C3%A9mis-de-ses-fonctions",
+   "source": "France 24",
+   "date": "2026-11-12T10:36:27+00:00",
+   "extrait": "Le conseil d'administration de Nvidia s'apprête à évincer son cofondateur et PDG Jensen Huang, ont rapporté mercredi 11 novembre des médias américains, alors que le dirigeant du géant des puces…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "6342373402b2",
+   "titre": "Grève générale en Espagne : quelque 120 000 manifestants ont défilé à Madrid",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-gr%C3%A8ve-g%C3%A9n%C3%A9rale-en-espagne-quelque-120-000-manifestants-ont-d%C3%A9fil%C3%A9-%C3%A0-madrid",
+   "source": "France 24",
+   "date": "2026-11-12T10:33:29+00:00",
+   "extrait": "Quelque 120 000 manifestants ont défilé mercredi 11 novembre au soir dans le centre-ville de Madrid, en clôture d'une journée de grève générale en Espagne pour défendre le droit au logement et le…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "d37a5d4cd08f",
+   "titre": "Nouveau gouvernement en Israël : quel avenir pour Benjamin Netanyahu ?",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-nouveau-gouvernement-en-isra%C3%ABl-quel-avenir-pour-benjamin-netanyahu",
+   "source": "France 24",
+   "date": "2026-11-12T10:29:45+00:00",
+   "extrait": "Gadi Eisenkot, chargé de former le prochain gouvernement en Israël, a appelé mercredi 11 novembre le Premier ministre sortant Benjamin Netanyahu à \"faire preuve de responsabilité\" sur les décisions…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "68b3ef6c3b50",
+   "titre": "Occupation du Sud-Liban par Israël : le désespoir des déplacés",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/focus/20261112-reportage-sud-liban-guerre-israel-deplaces",
+   "source": "France 24",
+   "date": "2026-11-12T10:29:16+00:00",
+   "extrait": "Au Liban, plus de 360 000 personnes ont été déplacées par ces derniers mois de guerre entre Israël et le Hezbollah, d’après les Nations unies. Dans la zone frontalière, l’armée israélienne occupe 6…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "5a579197e74a",
+   "titre": "Company under scrutiny for ties to Nvidia and China",
+   "lien": "https://www.cbsnews.com/news/megaspeed-nvidia-china-ties/",
+   "source": "CBS News",
+   "date": "2026-11-12T10:27:37+00:00",
+   "extrait": "The unusual global footprint of Megaspeed, a major buyer of Nvidia's powerful AI computer chips, is fueling questions about whether it's a front for the Chinese government.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "962e4239636a",
+   "titre": "Déserts médicaux : quel bilan pour le plan de lutte lancé en 2025 ?",
+   "lien": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-deserts-medicaux-quel-bilan-pour-le-plan-de-lutte-lance-en-2025_8276234.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-12T10:27:30+00:00",
+   "extrait": "Plus de 6 millions de Français sans médecin traitant, 87% du territoire classé \"désert médical\"... Face à cette situation, François Bayrou, alors Premier ministre, lançait en avril 2025 un appel à…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "5db4994a726d",
+   "titre": "Guerre en Ukraine : les émissaires américains sont arrivés au Kremlin pour y rencontrer Vladimir Poutine",
+   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-les-emissaires-americains-sont-arrives-en-russie-pour-une-rencontre-avec-vladimir-poutine_8278706.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-12T10:27:05+00:00",
+   "extrait": "Steve Witkoff et Jared Kushner doivent également rencontrer le président ukrainien à Dublin, jeudi, au lendemain de la fin des pourparlers à Abou Dhabi.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "f3808dec3012",
+   "titre": "Guerre en Ukraine : une \"fenêtre d'opportunité\" pour un cessez-le-feu d'après Zelensky",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-guerre-en-ukraine-une-fen%C3%AAtre-d-opportunit%C3%A9-pour-un-cessez-le-feu-d-apr%C3%A8s-zelensky",
+   "source": "France 24",
+   "date": "2026-11-12T10:26:56+00:00",
+   "extrait": "Les émissaires américains rencontrent, jeudi 12 novembre à Moscou, le président russe Vladimir Poutine, puis, le même jour à Dublin, son homologue ukrainien Volodymyr Zelensky, après les discussions…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "9139385413bb",
+   "titre": "Le ministre de la Défense américain réprimandé par un garde lors de la cérémonie de commémoration du 11-Novembre",
+   "lien": "https://www.franceinfo.fr/monde/usa/tous-les-visiteurs-doivent-maintenir-une-atmosphere-de-silence-le-ministre-de-la-defense-americain-reprimande-par-un-garde-lors-de-la-ceremonie-de-commemoration-du-11-novembre_8279003.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-12T10:25:46+00:00",
+   "extrait": "Pete Hegseth et son entourage discutaient et riaient près de la tombe du Soldat inconnu au cimetière national d'Arlington, en pleine journée des anciens combattants, mercredi.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "80432f6c4676",
+   "titre": "Guerre hybride : l'Europe de plus en plus cible de la cybercriminalité",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-guerre-hybride-l-europe-de-plus-en-plus-cible-de-la-cybercriminalit%C3%A9",
+   "source": "France 24",
+   "date": "2026-11-12T10:23:07+00:00",
+   "extrait": "À la suite des alertes à la bombe envoyées à des avions et dans des écoles, ainsi qu'au piratage de frigos en octobre, l'Europe apparaît de plus en plus visée par la cybercriminalité, laissant place…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "309540f38d57",
+   "titre": "Nvidia's board preparing to oust CEO Jensen Huang, sources say",
+   "lien": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/",
+   "source": "CBS News",
+   "date": "2026-11-12T10:22:09+00:00",
+   "extrait": "Nvidia's board of directors is preparing to oust CEO Jensen Huang soon, according to two sources, amid allegations Huang had an affair with a woman U.S. intelligence agencies believe was a Chinese…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "433af809863a",
+   "titre": "Les autorités de santé examinent le lien entre une thérapie génique contre une maladie pédiatrique rare et le risque de cancer",
+   "lien": "https://www.lemonde.fr/sciences/article/2026/11/12/les-autorites-de-sante-examinent-le-lien-entre-une-therapie-genique-contre-une-maladie-pediatrique-rare-et-le-risque-de-cancer_6809086_1650684.html",
+   "source": "Le Monde",
+   "date": "2026-11-12T10:22:05+00:00",
+   "extrait": "Novartis a annoncé que des tumeurs étaient apparues chez neuf jeunes patients qui bénéficiaient de son traitement contre une maladie mortelle, l’amyotrophie spinale. « La balance bénéfice-risque du…",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "d0b8e55a4ecd",
+   "titre": "Italie : des milliers d'écoles visées par des alertes à la bombe",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-italie-des-milliers-d-%C3%A9coles-vis%C3%A9es-par-des-alertes-%C3%A0-la-bombe",
+   "source": "France 24",
+   "date": "2026-11-12T10:19:43+00:00",
+   "extrait": "Des milliers d'écoles italiennes ont reçu, mercredi 12 novembre, par mail de fausses alertes à la bombe, ayant conduit à l'évacuation de certaines d'entre elles, sans qu'aucun \"danger concret\" n'ait…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "a843e42ce0e9",
+   "titre": "British woman missing from cruise ship in Atlantic",
+   "lien": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-12T10:13:35+00:00",
+   "extrait": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "c6a88938b538",
+   "titre": "US envoys arrive in Moscow for Ukraine talks with Vladimir Putin",
+   "lien": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-12T10:08:38+00:00",
+   "extrait": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "c5c729af8abf",
+   "titre": "Ukraine : le système satellitaire militaire américain Starshield de nouveau limité, selon Zelensky",
+   "lien": "https://www.france24.com/fr/europe/20261112-ukraine-syst%C3%A8me-satellitaire-militaire-am%C3%A9ricain-starshield-de-nouveau-limit%C3%A9-selon-zelensky",
+   "source": "France 24",
+   "date": "2026-11-12T10:07:04+00:00",
+   "extrait": "Le président ukrainien a dénoncé jeudi des ralentissements systématiques du service de SpaceX utilisé par ses troupes. Selon lui, ces dysfonctionnements durent depuis plusieurs jours.",
+   "tags": [
+    "Politique",
+    "Conflits",
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "e6a4d3097534",
+   "titre": "\"On n'a rien trouvé, dans aucune école\", assure Giorgia Meloni après les milliers d'alertes à la bombe ayant visé des écoles italiennes",
+   "lien": "https://www.franceinfo.fr/monde/italie/on-n-a-rien-trouve-dans-aucune-ecole-assure-giorgia-meloni-apres-les-milliers-d-alertes-a-la-bombe-ayant-vise-des-ecoles-italiennes_8278382.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-12T10:03:43+00:00",
+   "extrait": "La cheffe du gouvernement italien a estimé mercredi que ces messages visaient avant tout à \"faire peur\", à provoquer \"le soupçon\" et \"le chaos\".",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "e4a5945bc19c",
-   "titre": "Democrat Scott Colom makes history as Mississippi elects first black senator for 150 years",
+   "titre": "Democrat Scott Colom makes history as Mississippi elects first black senator in 150 years",
    "lien": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-12T10:02:32+00:00",
@@ -34,18 +344,6 @@
    "zone": "monde"
   },
   {
-   "id": "37f8521cea37",
-   "titre": "Présidentielle 2027 : suivez l'interview de Fabien Roussel, deuxième des huit candidats interrogés dans le cadre de l'opération \"Nos services publics\"",
-   "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-12T10:01:45+00:00",
-   "extrait": "Huit des principaux candidats à l'élection présidentielle 2027 répondent jeudi, au fil de la journée, aux questions des journalistes de France Télévisions et Radio France à propos de l'accès et de…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "dd3d08bfbfec",
    "titre": "Un immeuble s'effondre à New York et fait au moins deux morts et 17 blessés",
    "lien": "https://www.franceinfo.fr/monde/usa/un-immeuble-s-effondre-a-new-york-au-moins-deux-morts-et-17-blesses-selon-un-bilan-provisoire_8278736.html#xtor=RSS-3-[lestitres]",
@@ -53,6 +351,19 @@
    "date": "2026-11-12T10:00:08+00:00",
    "extrait": "Parmi les personnes blessées figurent sept enfants, dont quatre grièvement touchés. Les services de secours sont toujours à pied d'œuvre et les autorités ignorent pour le moment les causes de cet…",
    "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "ded9a0c83a7d",
+   "titre": "Au Canada, « une usine fantôme de Stellantis est ballottée au rythme de la guerre commerciale et du réarmement mondial »",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/12/au-canada-une-usine-fantome-de-stellantis-est-ballottee-au-rythme-des-grands-bouleversements-economiques-de-la-guerre-commerciale-au-rearmement-mondial_6809084_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-12T10:00:08+00:00",
+   "extrait": "Alors que le constructeur européen a annoncé, lundi 9 novembre, la vente du grand site industriel de Brampton, dans l’Ontario, à l’industriel de défense canadien Roshel, les questions soulevées par…",
+   "tags": [
+    "Économie",
+    "Conflits"
+   ],
    "zone": "france"
   },
   {
@@ -151,6 +462,18 @@
    "zone": "monde"
   },
   {
+   "id": "d34458f3e9d7",
+   "titre": "L'actrice Nicole Kidman recevra un César d'honneur lors de la 52e cérémonie",
+   "lien": "https://www.franceinfo.fr/culture/cinema/l-actrice-nicole-kidman-recevra-un-cesar-d-honneur-lors-de-la-52e-ceremonie_8279006.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-12T09:41:09+00:00",
+   "extrait": "L'Académie des César l'a annoncé dans un communiqué jeudi : l'actrice australo-américaine Nicole Kidman recevra un César d'honneur sur la scène de l'Olympia à Paris en février 2027.",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "11744b698a75",
    "titre": "COP31 : le Royaume-Uni se dote d’une émissaire « pour la sécurité climatique », une première mondiale",
    "lien": "https://www.lemonde.fr/planete/article/2026/11/12/cop31-le-royaume-uni-se-dote-d-un-emissaire-pour-la-securite-climatique-une-premiere-mondiale_6809081_3244.html",
@@ -178,7 +501,7 @@
    "lien": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital",
    "source": "NPR",
    "date": "2026-11-12T09:29:30+00:00",
-   "extrait": "The victims included a surgeon, and at least a dozen more were injured. Israel said it was targeting a Hamas commander and other militants.",
+   "extrait": "The victims included a surgeon, and dozens more were injured. Israel said it was targeting a Hamas commander and other militants.",
    "tags": [
     "Conflits",
     "Santé"
@@ -242,14 +565,14 @@
    "zone": "france"
   },
   {
-   "id": "309540f38d57",
-   "titre": "Nvidia's board preparing to oust CEO Jensen Huang, sources say",
-   "lien": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/",
-   "source": "CBS News",
-   "date": "2026-11-12T09:18:54+00:00",
-   "extrait": "Nvidia's board of directors is preparing to oust CEO Jensen Huang soon, according to two sources, amid allegations Huang had an affair with a woman U.S. intelligence agencies believe was a Chinese…",
+   "id": "b6d34d1d60c3",
+   "titre": "Qui est Alice Huang, la femme mystérieuse au cœur du scandale Nvidia ?",
+   "lien": "https://www.franceinfo.fr/monde/chine/qui-est-alice-huang-la-femme-mysterieuse-au-c-ur-du-scandale-nvidia_8278904.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-12T09:18:16+00:00",
+   "extrait": "Cette femme d'affaires chinoise est soupçonnée d'avoir facilité l'accès de Pékin à des puces électroniques américaines, en entretenant une liaison avec le patron de Nvidia. Elle reste introuvable…",
    "tags": [],
-   "zone": "usa"
+   "zone": "france"
   },
   {
    "id": "6464571f1001",
@@ -284,19 +607,6 @@
    "date": "2026-11-12T09:04:54+00:00",
    "extrait": "La navigatrice qui a grandi à Nice vient d'achever sa Route du Rhum mercredi 11 novembre en arrivant à Pointe-à-Pitre, en Guadeloupe. Elle est la première femme à terminer cette mythique course dans…",
    "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "5db4994a726d",
-   "titre": "Guerre en Ukraine : \"Rien dans l'attitude de la Russie ne signale une volonté ou une ouverture\", estime le ministre de l'Europe après les pourparlers à Abou Dhabi",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-les-emissaires-americains-sont-arrives-en-russie-pour-une-rencontre-avec-vladimir-poutine_8278706.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-12T09:01:14+00:00",
-   "extrait": "Benjamin Haddad sera à Dublin jeudi après-midi, où les émissaires américains doivent rencontrer Volodymyr Zelensky. Dans la matinée, Jared Kushner et Steve Witkoff vont rencontre Vladimir Poutine à…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
    "zone": "france"
   },
   {
@@ -346,19 +656,6 @@
     "Climat"
    ],
    "zone": "france"
-  },
-  {
-   "id": "42be5ca9f809",
-   "titre": "Trump says Iran war will be over \"when we want to end it\"",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/",
-   "source": "CBS News",
-   "date": "2026-11-12T08:33:06+00:00",
-   "extrait": "President Trump spoke about the Iran war during a Veterans Day address at Arlington National Cemetery.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
   },
   {
    "id": "443188636eb6",
@@ -441,11 +738,11 @@
   },
   {
    "id": "6b361174c905",
-   "titre": "Ugandan police investigate deaths of four pupils in suspected school poisoning",
+   "titre": "Oranges investigated after four girls die in suspected Uganda school poisoning",
    "lien": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-12T07:45:52+00:00",
-   "extrait": "The head teacher of the school has been arrested to assist police investigations.",
+   "extrait": "The girls started vomiting after eating oranges brought in by a fellow pupil - police are travelling to the village they came from.",
    "tags": [
     "Justice"
    ],
@@ -465,11 +762,11 @@
   },
   {
    "id": "583b6470db95",
-   "titre": "EN DIRECT, présidentielle 2027 | Suivez le grand oral de huit candidats sur les services publics : Gabriel Attal se redit « favorable » à une primaire du centre et de la droite",
+   "titre": "EN DIRECT, présidentielle 2027 | Suivez le grand oral de huit candidats sur les services publics : Fabien Roussel veut recruter 500 000 fonctionnaires supplémentaires en cinq ans pour environ 15 milliards d’euros",
    "lien": "https://www.lemonde.fr/politique/live/2026/11/12/en-direct-presidentielle-2027-suivez-le-grand-oral-de-huit-candidats-sur-les-services-publics_6809070_823448.html",
    "source": "Le Monde",
    "date": "2026-11-12T07:31:15+00:00",
-   "extrait": "Raphaël Glucksmann, Edouard Philippe, Jean-Luc Mélenchon, Fabien Roussel, Marine Tondelier, Bruno Retailleau et Eric Zemmour seront aussi interrogés jeudi sur les services publics, de l’éducation à…",
+   "extrait": "Gabriel Attal, qui a été le premier à repondre aux questions des journalistes, s’est redit « favorable à une primaire » du centre et de la droite. Raphaël Glucksmann, Edouard Philippe, Jean-Luc…",
    "tags": [],
    "zone": "france"
   },
@@ -743,26 +1040,6 @@
    "zone": "france"
   },
   {
-   "id": "916f962ce184",
-   "titre": "At least 2 killed, 17 hurt in Brooklyn building collapse",
-   "lien": "https://www.cbsnews.com/news/brooklyn-building-collapse-bedford-avenue/",
-   "source": "CBS News",
-   "date": "2026-11-12T05:17:00+00:00",
-   "extrait": "A major technical rescue operation was ongoing, involving hundreds of firefighters.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "33604caf57a6",
-   "titre": "New York building collapse kills at least two, officials say",
-   "lien": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-12T05:12:56+00:00",
-   "extrait": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
    "id": "0c4e37e4a51b",
    "titre": "La TVA à 0% sur les produits de première nécessité a-t-elle \"fait baisser l'ensemble des prix\" en Espagne et en Pologne, comme l'affirme Sébastien Chenu ?",
    "lien": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-la-tva-a-0-sur-les-produits-de-premiere-necessite-a-t-elle-fait-baisser-l-ensemble-des-prix-en-espagne-et-en-pologne-comme-l-affirme-sebastien-chenu_8276051.html#xtor=RSS-3-[lestitres]",
@@ -816,6 +1093,16 @@
    "tags": [
     "Économie"
    ],
+   "zone": "france"
+  },
+  {
+   "id": "59e86a05b5b2",
+   "titre": "Ces restaurants isolés qui font le pari de la haute gastronomie",
+   "lien": "https://www.lemonde.fr/m-styles/article/2026/11/12/ces-restaurants-isoles-qui-font-le-pari-de-la-haute-gastronomie_6809057_4497319.html",
+   "source": "Le Monde",
+   "date": "2026-11-12T05:00:39+00:00",
+   "extrait": "Ouvrir une table d’exception à l’écart d’une ville ou d’un grand axe de circulation est une gageure. Au cœur des Cévennes, en Ardèche ou dans le Lot-et-Garonne, trois adresses ont relevé le défi…",
+   "tags": [],
    "zone": "france"
   },
   {
@@ -1049,13 +1336,14 @@
   },
   {
    "id": "05b7461257b5",
-   "titre": "En direct : Zelensky dénonce des \"perturbations de Starshield sur toute la ligne de front ukrainienne\"",
+   "titre": "En direct : les émissaires américains sont arrivés au Kremlin pour les discussions avec Poutine",
    "lien": "https://www.france24.com/fr/europe/20261112-en-direct-ukraine-russie-emissaires-americains-rencontre-vladimir-poutine-volodymyr-zelensky",
    "source": "France 24",
    "date": "2026-11-12T02:21:03+00:00",
-   "extrait": "Volodymyr Zelensky a dénoncé jeudi des \"perturbations de Starshield sur toute la ligne de front ukrainienne\" au moment où les émissaires américains Jared Kushner et Steve Witkoff sont à Moscou pour…",
+   "extrait": "Les émissaires de Donald Trump, Steve Witkoff et Jared Kushner, sont arrivés jeudi au Kremlin pour des pourparlers sur l'Ukraine avec le président russe Vladimir Poutine. De son côté, Volodymyr…",
    "tags": [
-    "Politique"
+    "Politique",
+    "Conflits"
    ],
    "zone": "monde"
   },
@@ -1407,7 +1695,7 @@
    "lien": "https://www.lemonde.fr/economie/article/2026/11/12/le-patron-de-nvidia-mis-en-cause-pour-une-liaison-avec-une-chinoise-soupconnee-d-espionnage-accuse-d-avoir-eu-une-seconde-affaire-sentimentale-avec-une-salariee_6809035_3234.html",
    "source": "Le Monde",
    "date": "2026-11-11T23:30:03+00:00",
-   "extrait": "Selon le « Wall Street Jounal », le conseil d’administration se préparait, mercredi soir, à révoquer Jensen Huang, le fondateur du géant des puces nécessaires à la révolution de l’intelligence…",
+   "extrait": "Selon le « Wall Street Journal », le conseil d’administration se préparait, mercredi soir, à révoquer Jensen Huang, le fondateur du géant des puces électroniques nécessaires à la révolution de…",
    "tags": [
     "Tech"
    ],
@@ -1516,16 +1804,6 @@
     "Politique",
     "Conflits"
    ],
-   "zone": "france"
-  },
-  {
-   "id": "e6a4d3097534",
-   "titre": "\"On n'a rien trouvé, dans aucune école\", assure Giorgia Meloni après les milliers d'alertes à la bombe ayant visé des écoles italiennes",
-   "lien": "https://www.franceinfo.fr/monde/italie/on-n-a-rien-trouve-dans-aucune-ecole-assure-giorgia-meloni-apres-les-milliers-d-alertes-a-la-bombe-ayant-vise-des-ecoles-italiennes_8278382.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-11T22:09:22+00:00",
-   "extrait": "Dans une vidéo postée mercredi soir sur ses réseaux sociaux, elle a estimé que ces messages visaient avant tout à \"faire peur\", à provoquer \"le soupçon\" et \"le chaos\".",
-   "tags": [],
    "zone": "france"
   },
   {
@@ -1654,6 +1932,16 @@
    "extrait": "Doorbell video captured two White students making monkey gestures and sounds outside an apartment where a group of Black students live.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "8e7b36ee326d",
+   "titre": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
+   "lien": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-11T21:43:35+00:00",
+   "extrait": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet.",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "71aa01562cc0",
@@ -2875,18 +3163,6 @@
    "zone": "monde"
   },
   {
-   "id": "5a579197e74a",
-   "titre": "Company under scrutiny for ties to Nvidia and China",
-   "lien": "https://www.cbsnews.com/news/megaspeed-nvidia-china-ties/",
-   "source": "CBS News",
-   "date": "2026-11-11T15:41:00+00:00",
-   "extrait": "The unusual global footprint of Megaspeed, a major buyer of Nvidia's powerful AI computer chips, is fueling questions about whether it's a front for the Chinese government.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "ee3fdb50a127",
    "titre": "Kaja Kallas : \"Sur la levée des sanctions russes, Washington ne peut négocier à la place de l'UE\"",
    "lien": "https://www.france24.com/fr/%C3%A9missions/ici-l-europe/20261111-exclusif-kaja-kallas-ue-lev%C3%A9e-sanctions-russes-trump-ne-peut-discuter-%C3%A0-la-place-de-bruxelles",
@@ -3155,267 +3431,6 @@
     "Économie"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "f91bc6457a9c",
-   "titre": "How Hegseth survived Massie's impeachment effort",
-   "lien": "https://www.cbsnews.com/video/how-hegseth-survived-massies-impeachment-effort/",
-   "source": "CBS News",
-   "date": "2026-11-11T14:32:00+00:00",
-   "extrait": "The impeachment effort against Defense Secretary Pete Hegseth failed in the House of Representatives. CBS News' Ed O'Keefe explains.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "d52468396c3a",
-   "titre": "Cyberattaques : les objets connectés de nos maisons sont-ils suffisamment protégés ?",
-   "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/cyberattaques-les-objets-connectes-de-nos-maisons-sont-ils-suffisamment-proteges_8277902.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-11T14:27:05+00:00",
-   "extrait": "Après les réfrigérateurs de supermarchés, faut-il craindre des cyberattaques de nos appareils ménagers ? L'agence européenne de cybersécurité lance une mise en garde : les objets connectés du…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "0cb9f4fce18c",
-   "titre": "American soldier accused of spying for Russia had access to sensitive information in U.K.",
-   "lien": "https://www.cbsnews.com/video/american-soldier-accused-of-spying-for-russia-had-access-to-sensitive-information/",
-   "source": "CBS News",
-   "date": "2026-11-11T14:25:00+00:00",
-   "extrait": "An American soldier who has not been identified publicly is currently detained in London over allegedly spying for Russia. CBS News' Charlie D'Agata reports.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "09abd47ad69e",
-   "titre": "The sinking of the SS United States, once the world's fastest ocean liner",
-   "lien": "https://www.cbsnews.com/video/the-sinking-of-the-ss-united-states-the-worlds-fastest-ocean-liner/",
-   "source": "CBS News",
-   "date": "2026-11-11T14:24:00+00:00",
-   "extrait": "The SS United States previously shattered records as the world's fastest ocean liner. Now, she'll break a new record, sinking off the coast of Florida to become the world's largest artificial reef…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "ee8dc6eb9584",
-   "titre": "La justice brésilienne a infligé une amende à Meta pour traitement inégal entre Lula et Flavio Bolsonaro lors de la présidentielle",
-   "lien": "https://www.franceinfo.fr/monde/bresil/la-justice-bresilienne-a-inflige-une-amende-a-meta-pour-traitement-inegal-entre-lula-et-flavio-bolsonaro-lors-de-la-presidentielle_8277806.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-11T14:22:45+00:00",
-   "extrait": "Luiz Inacio Lula da Silva a créé la surprise en battant Flavio Bolsonaro lors du second tour de la présidentielle le 25 octobre, à l'issue d'une campagne au cours de laquelle il a dénoncé une…",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "6619cca57248",
-   "titre": "Cartel boss helped Olympian traffic drugs, evade capture, U.S. says",
-   "lien": "https://www.cbsnews.com/news/ryan-wedding-cartel-drug-trafficking-mexico/",
-   "source": "CBS News",
-   "date": "2026-11-11T14:22:32+00:00",
-   "extrait": "A cartel boss bribed Mexican public officials to help Olympian Ryan Wedding avoid capture while running a multinational drug trafficking organization, the Department of Justice said.",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "86067ea55183",
-   "titre": "Following big Democratic wins, these swing voters are looking for results",
-   "lien": "https://www.npr.org/2026/11/11/nx-s1-6036790/swing-voters-swing-states-democrats-congress",
-   "source": "NPR",
-   "date": "2026-11-11T14:19:42+00:00",
-   "extrait": "For the swing voters NPR is regularly checking in with as part of its Swing Shift series, the election results brought mixed emotions, as does the pending Democratic control of Congress.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "e110ee4f0474",
-   "titre": "Hegseth survives impeachment effort",
-   "lien": "https://www.cbsnews.com/video/hegseth-survives-impeachment-effort/",
-   "source": "CBS News",
-   "date": "2026-11-11T14:19:34+00:00",
-   "extrait": "Secretary of Defense Pete Hegseth survived an impeachment effort by lawmakers. CBS News' Nikole Killion and Olivia Rinaldi report as Republicans settle on leaders for the next congressional term.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "46aa848ff27e",
-   "titre": "Inside a data center built pre-AI boom, and how it's benefited a community",
-   "lien": "https://www.cbsnews.com/video/inside-a-data-center-built-pre-ai-boom-and-how-its-benefitted-a-community/",
-   "source": "CBS News",
-   "date": "2026-11-11T14:17:00+00:00",
-   "extrait": "Jo Ling Kent goes inside a Microsoft data center built two decades ago in Quincy, Washington, and speaks to the town's mayor to learn how it has benefited the community.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "67e569953349",
-   "titre": "Details emerge on alleged cruise ship murder",
-   "lien": "https://www.cbsnews.com/video/details-emerge-on-alleged-cruise-ship-murder/",
-   "source": "CBS News",
-   "date": "2026-11-11T14:12:21+00:00",
-   "extrait": "New details are emerging about a man who allegedly killed his wife on a cruise hours into the voyage. Jason Allen reports.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "819654a75256",
-   "titre": "\"Je ne veux pas fermer la porte à la compétition\" : Lindsey Vonn opérée pour la neuvième fois mais pas résignée à 42 ans",
-   "lien": "https://www.franceinfo.fr/sports/sports-d-hiver/ski-alpin/je-ne-veux-pas-fermer-la-porte-a-la-competition-lindsey-vonn-operee-pour-la-neuvieme-fois-mais-pas-resignee-a-42-ans_8277866.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-11T14:09:02+00:00",
-   "extrait": "La skieuse américaine s'est exprimée, lundi sur ses réseaux sociaux, confiant avoir subi une neuvième opération sur sa jambe gauche, gravement touchée lors de la descente des JO de Milan-Cortina 2026.",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "1f8999a73d6b",
-   "titre": "Plusieurs attaques en Éthiopie : le point sur la situation",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261111-plusieurs-attaques-en-%C3%A9thiopie-le-point-sur-la-situation",
-   "source": "France 24",
-   "date": "2026-11-11T14:07:38+00:00",
-   "extrait": "L'enquête se poursuit en Éthiopie après cette série d'attaques survenue la semaine dernière. Cela s'est passé dans l'ouest du pays, près de la frontière avec le Soudan. Au moins 65 personnes ont été…",
-   "tags": [
-    "Conflits",
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "280d308b5def",
-   "titre": "DOJ details numerous terror plots and charges 3 people for alleged Iranian-backed plans",
-   "lien": "https://www.cbsnews.com/video/doj-details-numerous-terror-plots-and-charges-3-people-for-alleged-iranian-backed-plans/",
-   "source": "CBS News",
-   "date": "2026-11-11T14:05:47+00:00",
-   "extrait": "The Justice Department released more details on more than a dozen terror plots in the U.S. and Europe being linked to Iran. Three people have been charged. CBS News' Courtney Kealy reports.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "eec0dc945f66",
-   "titre": "\"Dix fois plus douloureux\" : l’impact suspecté des gaz lacrymogènes sur les règles",
-   "lien": "https://www.france24.com/fr/france/20261111-dix-fois-plus-douloureux-l-impact-suspect%C3%A9-des-gaz-lacrymog%C3%A8nes-sur-les-r%C3%A8gles",
-   "source": "France 24",
-   "date": "2026-11-11T14:05:17+00:00",
-   "extrait": "Alors que la police française a largement recours aux gaz lacrymogènes lors des manifestations en France, des milliers de témoignages de femmes faisant état de troubles menstruels (règles très…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "d4bdccf40103",
-   "titre": "Triple homicide en 2020 : prison à perpétuité requise contre des figures du narcobanditisme marseillais, dont l’une des victimes est le frère d’Amine Kessaci",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/11/triple-homicide-en-2020-prison-a-perpetuite-requise-contre-des-figures-du-narcobanditisme-marseillais-dont-l-une-des-victimes-est-le-frere-d-amine-kessaci_6808979_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-11T14:03:56+00:00",
-   "extrait": "Les figures du narcobanditisme marseillais Amine Oualane et Karim Harrat sont accusés d’avoir commandité l’assassinat de trois vingtenaires à Marseille en 2020 – Brahim Chabane, le grand frère du…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "201198df92c6",
-   "titre": "American soldier accused of spying for Russia. Here's what we know.",
-   "lien": "https://www.cbsnews.com/video/american-soldier-accused-of-spying-for-russia-heres-what-we-know/",
-   "source": "CBS News",
-   "date": "2026-11-11T14:00:39+00:00",
-   "extrait": "An American soldier based in the U.K. is being accused of spying for Russia. CBS News' Ramy Inocencio reports.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "6103611a1744",
-   "titre": "Ole Miss students targeted with racist gestures in Ring camera video speak out",
-   "lien": "https://www.cbsnews.com/video/ole-miss-students-targeted-with-racist-gestures-in-ring-camera-video-speak-out/",
-   "source": "CBS News",
-   "date": "2026-11-11T13:59:12+00:00",
-   "extrait": "The Ole Miss students who live in the dorm room where a group of women was caught making racist gestures on a Ring camera sat down with Jericka Duncan to discuss the ordeal.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "350f22aa6e2d",
-   "titre": "Ole Miss students who say they were targeted in alleged racist incident on Ring video speak out",
-   "lien": "https://www.cbsnews.com/video/ole-miss-students-who-say-they-were-targeted-in-alleged-racist-incident-on-ring-video-speak-out/",
-   "source": "CBS News",
-   "date": "2026-11-11T13:59:00+00:00",
-   "extrait": "The Ole Miss students who live in the dorm room where a group of women was caught making racist gestures on a Ring camera sat down with Jericka Duncan to discuss the ordeal.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "5eb4128d98ad",
-   "titre": "Espagne : journée de grève historique à moins de trois semaines des législatives anticipées",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261111-espagne-journ%C3%A9e-de-gr%C3%A8ve-historique-%C3%A0-moins-de-trois-semaines-des-l%C3%A9gislatives-anticip%C3%A9es",
-   "source": "France 24",
-   "date": "2026-11-11T13:57:04+00:00",
-   "extrait": "Les salariés espagnols sont appelés mercredi pour la première fois depuis 2012 à une grève générale pour défendre l'accès au logement et le pouvoir d'achat, un mouvement qui devrait servir de…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "5ef90cb0e5fa",
-   "titre": "Des écoles évacuées dans toute l'Italie après des alertes à la bombe",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261111-des-%C3%A9coles-%C3%A9vacu%C3%A9es-dans-toute-l-italie-apr%C3%A8s-des-alertes-%C3%A0-la-bombe",
-   "source": "France 24",
-   "date": "2026-11-11T13:49:22+00:00",
-   "extrait": "Des centaines d'écoles ont été évacuées dans toute l'Italie mercredi à la suite d'une série de fausses alertes à la bombe, selon les médias locaux – la Première ministre italienne Giorgia Meloni…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "34f01262c158",
-   "titre": "Sandra Birchmore's therapist recalls red flags with Matthew Farwell after conviction",
-   "lien": "https://www.cbsnews.com/video/sandra-birchmores-therapist-recalls-red-flags-with-matthew-farwell-after-conviction/",
-   "source": "CBS News",
-   "date": "2026-11-11T13:46:37+00:00",
-   "extrait": "Ex-Massachusetts police officer Matthew Farwell was found guilty Tuesday of killing Sandra Birchmore and her unborn child. Birchmore's therapist, who testified at the trial, sat down with Tom Hanson…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "c8bb4ae0abf8",
-   "titre": "REPLAY. Emmanuel Macron s'exprime à l'occasion des commémorations de l'Armistice du 11-Novembre",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261111-replay-emmanuel-macron-s-exprime-%C3%A0-l-occasion-de-l-armistice-du-11-novembre",
-   "source": "France 24",
-   "date": "2026-11-11T13:45:16+00:00",
-   "extrait": "Le président français s'est exprimé ce mercredi à l'occasion des commémorations de l'Armistice du 11 novembre 1918.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "19d07c0425ff",
-   "titre": "\"Je suis très heureux d'arriver ici en premier\", réagit le navigateur Corentin Horeau, premier des monocoques à achever la Route du Rhum",
-   "lien": "https://www.franceinfo.fr/sports/voile/route-du-rhum/je-suis-tres-heureux-d-arriver-ici-en-premier-reagit-le-navigateur-corentin-horeau-premier-des-monocoques-a-achever-la-route-du-rhum_8277863.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-11T13:40:57+00:00",
-   "extrait": "\"Une Route du Rhum, c'est légendaire et j'avais une revanche à prendre de mon côté\", savoure le vainqueur dans la catégorie Imoca, mercredi sur France Inter.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "7b8c6324c170",
-   "titre": "L’acteur américain Stacy Keach, détective de la série « Mike Hammer », est mort à 85 ans",
-   "lien": "https://www.lemonde.fr/disparitions/article/2026/11/11/l-acteur-americain-stacy-keach-detective-de-la-serie-mike-hammer-est-mort-a-85-ans_6808977_3382.html",
-   "source": "Le Monde",
-   "date": "2026-11-11T13:36:53+00:00",
-   "extrait": "Bien que considéré comme l’un des plus grands interprètes de Shakespeare au théâtre aux Etats-Unis, Stacy Keach était indissolublement associé à la série « Mickey Spillane’s Mike Hammer » (1984-1987).",
-   "tags": [],
-   "zone": "france"
   }
  ]
 }

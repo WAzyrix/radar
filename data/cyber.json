@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-12T10:05:39+00:00",
+ "maj": "2026-11-12T11:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "a3551b4d4049",
+   "titre": "Microsoft confirms Windows security updates installation issues",
+   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
+   "source": "BleepingComputer",
+   "date": "2026-11-12T10:24:07+00:00",
+   "extrait": "Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update. [...]",
+   "tags": [
+    "Windows"
+   ]
+  },
   {
    "id": "3ca0085eba4f",
    "titre": "Hackers plant GSocket on Linux servers for persistent access",
@@ -106,6 +117,15 @@
    "tags": [
     "Faille"
    ]
+  },
+  {
+   "id": "00b1d1af6a08",
+   "titre": "Point de situation de l’opération REACTIV – octobre 2026 (12 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2026-CTI-010/",
+   "source": "CERT-FR",
+   "date": "2026-11-12T00:00:00+00:00",
+   "extrait": "Face à l’intensification des attaques cybercriminelles liées à des violations de données affectant les services de l’État, le Premier ministre a demandé le 1er septembre 2026 à l’Agence nationale de…",
+   "tags": []
   },
   {
    "id": "7f241c94ac84",
@@ -3399,31 +3419,6 @@
    "tags": [
     "Malware",
     "Windows"
-   ]
-  },
-  {
-   "id": "ba55b05e53ea",
-   "titre": "Northflank security breach leads to abuse of customers' AI API keys",
-   "lien": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
-   "source": "BleepingComputer",
-   "date": "2026-10-31T18:01:12+00:00",
-   "extrait": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API…",
-   "tags": [
-    "Fuite de données",
-    "IA"
-   ]
-  },
-  {
-   "id": "845cf24b8961",
-   "titre": "New Android SMS of Death exploit can remotely crash unpatched phones",
-   "lien": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
-   "source": "BleepingComputer",
-   "date": "2026-10-31T15:35:11+00:00",
-   "extrait": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt…",
-   "tags": [
-    "CVE",
-    "Faille",
-    "Mobile"
    ]
   }
  ]
