@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-12T11:05:41+00:00",
+ "maj": "2026-11-12T12:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,15 +22,255 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "b8bb9c4cdad0",
+   "titre": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+   "lien": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-12T12:03:47+00:00",
+   "extrait": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+   "tags": [
+    "Conflits",
+    "Santé"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "a0ae94e99935",
+   "titre": "\"Éclats de guerre\" : le photoreporter Patrick Chauvel témoigne de ses 60 ans de carrière",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20261112-%C3%A9clats-de-guerre-le-photoreporter-patrick-chauvel-t%C3%A9moigne-de-ses-60-ans-de-carri%C3%A8re",
+   "source": "France 24",
+   "date": "2026-11-12T12:02:01+00:00",
+   "extrait": "Il est de ceux que l'on appelle volontiers une légende dans sa profession. Le photoreporter Patrick Chauvel a couvert tous les grands conflits de notre histoire moderne depuis plus de soixante ans…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "66cb551ab420",
+   "titre": "Ligue des Nations : la France affronte l'Italie sans Kylian Mbappé",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-ligue-des-nations-la-france-affronte-l-italie-sans-kylian-mbapp%C3%A9",
+   "source": "France 24",
+   "date": "2026-11-12T12:01:53+00:00",
+   "extrait": "Amoindrie par les pépins physiques de Kylian Mbappé, forfait, l'équipe de France va tout de même tenter de confirmer ses bons débuts en Ligue des nations en s'offrant contre l'Italie une place en…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "05b313496c27",
+   "titre": "Cyberattaque des frigos: la France accuse l'Iran",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20261112-cyberattaque-des-frigos-la-france-accuse-l-iran",
+   "source": "France 24",
+   "date": "2026-11-12T12:00:50+00:00",
+   "extrait": "La France accuse l'Iran d'être responsable de la cybertattaque contre des réfrigérateurs de supermarchés survenue en octobre. On va plus loin avec Patricia Allémonière et David Delos.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "916f962ce184",
+   "titre": "At least 6 killed, 19 hurt in Brooklyn building collapse",
+   "lien": "https://www.cbsnews.com/news/brooklyn-building-collapse-bedford-avenue/",
+   "source": "CBS News",
+   "date": "2026-11-12T12:00:48+00:00",
+   "extrait": "A major technical rescue operation was ongoing, involving hundreds of firefighters.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "8ac25afa9efc",
+   "titre": "The Reality of College Tuition Sticker Shock | Money Moves with Jill Schlesinger",
+   "lien": "https://www.cbsnews.com/video/the-reality-of-college-tuition-sticker-shock-money-moves-with-jill-schlesinger/",
+   "source": "CBS News",
+   "date": "2026-11-12T12:00:20+00:00",
+   "extrait": "Is in-state college tuition worth $50,000 a year? In today's episode, Jill and Mark are questioning the skyrocketing cost of higher education, explaining why parents shouldn't let a 17-year-old…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "58dff895eec4",
+   "titre": "Sneak peek: Murder at Mount Hood",
+   "lien": "https://www.cbsnews.com/video/sneak-peek-murder-at-mount-hood/",
+   "source": "CBS News",
+   "date": "2026-11-12T12:00:00+00:00",
+   "extrait": "ALL NEW: When a beloved Oregon woman goes missing, her community in the mountains bands together to help solve the case. \"48 Hours\" correspondemt peter Van Sant reports Saturday, Nov. 14 at 10/9c on…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "91180ae0d080",
+   "titre": "Centre-ville inondé, routes fermées, éboulements : la dépression Charles frappe la Côte d'Azur",
+   "lien": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/cannes/embouteillages-accident-perturbations-les-degats-de-la-tempete-charles-sur-la-cote-d-azur-3448236.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-12T11:59:30+00:00",
+   "extrait": "La région est touchée par de fortes pluies ce jeudi 12 novembre suite à la dépression Charles. Les intempéries ont provoqué des perturbations sur les routes, des éboulements et des évacuations, tour…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "5db4994a726d",
+   "titre": "Guerre en Ukraine : l'Europe doit avoir \"une vision claire et unie de ce qu'elle veut pour l'Ukraine et pour elle-même\", défend Emmanuel Macron",
+   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-les-emissaires-americains-sont-arrives-en-russie-pour-une-rencontre-avec-vladimir-poutine_8278706.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-12T11:54:05+00:00",
+   "extrait": "Le chef de l'Etat est à Dublin jeudi pour un sommet de la Communauté politique européenne, où Volodymyr Zelensky est également présent.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "71c474e011fb",
+   "titre": "Midterms 2026 : Scott Colom, premier sénateur noir du Mississippi depuis 150 ans",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-midterms-2026-scott-colom-premier-s%C3%A9nateur-noir-du-mississippi-depuis-150-ans",
+   "source": "France 24",
+   "date": "2026-11-12T11:53:29+00:00",
+   "extrait": "Plus d'une semaine après le scrutin des midterms aux États-Unis, le démocrate Scott Colom a remporté sur le fil la course pour le poste de sénateur du Mississippi. Il devient ainsi le premier…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "eec4d0bd7d3e",
+   "titre": "Boy found alive after 6 days lost in wilderness: \"Grounded for life\"",
+   "lien": "https://www.cbsnews.com/news/teen-found-alive-6-days-lost-australia-wilderness/",
+   "source": "CBS News",
+   "date": "2026-11-12T11:52:35+00:00",
+   "extrait": "Video shot from the rescue helicopter showed the boy was shirtless and sunburned. He was wearing shorts and boots and was using towels as blankets.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "863ae4261f4c",
+   "titre": "EN DIRECT, présidentielle 2027 | Suivez le grand oral de huit candidats sur les services publics : Raphaël Glucksmann souhaite une « refonte et un sauvetage de l’école publique dans son ensemble »",
+   "lien": "https://www.lemonde.fr/politique/live/2026/11/12/en-direct-presidentielle-2027-suivez-le-grand-oral-de-huit-candidats-sur-les-services-publics-raphael-glucksmann-souhaite-une-refonte-et-un-sauvetage-de-l-ecole-publique-dans-son-ensemble_6809070_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-12T11:50:45+00:00",
+   "extrait": "Gabriel Attal s’est redit « favorable à une primaire » du centre et de la droite. Fabien Roussel veut, lui, recruter 500 000 fonctionnaires en cinq ans. Vont aussi s’exprimer sur la chaîne…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "515d4fcf6753",
+   "titre": "Accusations d'antisémitisme : Jordan Bardella a porté plainte pour faux et usage de faux",
+   "lien": "https://www.france24.com/fr/france/20261112-france-accusations-antisemitisme-jordan-bardella-a-porte-plainte-pour-faux-et-usage-de-faux",
+   "source": "France 24",
+   "date": "2026-11-12T11:50:13+00:00",
+   "extrait": "Le président du Rassemblement national, Jordan Bardella, a porté plainte pour faux et usage de faux après les révélations de Mediapart, qui l'avait accusé d'avoir tenu des propos antisémites en 2013…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "b1958e25edd5",
+   "titre": "Nicole Kidman recevra un César d’honneur lors de la prochaine cérémonie qui se tiendra le 25 février, à Paris",
+   "lien": "https://www.lemonde.fr/culture/article/2026/11/12/nicole-kidman-recevra-un-cesar-d-honneur-lors-de-la-prochaine-ceremonie-qui-se-tiendra-le-25-fevrier-a-paris_6809097_3246.html",
+   "source": "Le Monde",
+   "date": "2026-11-12T11:48:36+00:00",
+   "extrait": "Icône glamour mais aussi figure du cinéma d’auteur, la comédienne australo-américaine de 59 ans a réussi à se réinventer pour rester incontournable.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "33604caf57a6",
+   "titre": "New York building collapse kills at least four people",
+   "lien": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-12T11:48:14+00:00",
+   "extrait": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "dd3d08bfbfec",
+   "titre": "Un immeuble s'effondre à New York et fait au moins quatre morts et 17 blessés",
+   "lien": "https://www.franceinfo.fr/monde/usa/un-immeuble-s-effondre-a-new-york-au-moins-deux-morts-et-17-blesses-selon-un-bilan-provisoire_8278736.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-12T11:39:43+00:00",
+   "extrait": "Parmi les personnes blessées figurent sept enfants, dont quatre grièvement touchés. Les services de secours sont toujours à pied d'œuvre et les autorités ignorent pour le moment les causes de cet…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "42be5ca9f809",
+   "titre": "Trump says Iran war will be over \"when we want to end it\"",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/",
+   "source": "CBS News",
+   "date": "2026-11-12T11:37:46+00:00",
+   "extrait": "President Trump spoke about the Iran war during a Veterans Day address at Arlington National Cemetery.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "6fa8abbb35ef",
+   "titre": "Le milliardaire conservateur Pierre-Edouard Stérin sera jugé en janvier pour son refus répété de venir devant une commission d’enquête de l’Assemblée",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/12/le-milliardaire-conservateur-pierre-edouard-sterin-sera-juge-en-janvier-pour-son-refus-repete-de-venir-devant-une-commission-d-enquete-de-l-assemblee_6809094_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-12T11:24:53+00:00",
+   "extrait": "M. Stérin, homme d’affaires proche de l’extrême droite, avait refusé à deux reprises de se rendre à des convocations de la commission d’enquête de l’Assemblée sur « l’organisation des élections en…",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "37f8521cea37",
    "titre": "Présidentielle 2027 : suivez l'interview de Raphaël Glucksmann, troisième des huit candidats interrogés dans le cadre de l'opération \"Nos services publics\"",
    "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-11-12T11:03:09+00:00",
+   "date": "2026-11-12T11:16:13+00:00",
    "extrait": "Huit des principaux candidats à l'élection présidentielle 2027 répondent jeudi, au fil de la journée, aux questions des journalistes de France Télévisions et Radio France à propos de l'accès et de…",
    "tags": [
     "Politique"
    ],
+   "zone": "france"
+  },
+  {
+   "id": "991f8e0b62ad",
+   "titre": "CNews : un débat public est nécessaire",
+   "lien": "https://www.lemonde.fr/idees/article/2026/11/12/cnews-un-debat-public-est-necessaire_6809092_3232.html",
+   "source": "Le Monde",
+   "date": "2026-11-12T11:13:01+00:00",
+   "extrait": "La conférence des présidents de l’Assemblée peut encore décider qu’un débat ait lieu dans l’Hémicycle sur le bien-fondé du maintien de la chaîne dont les émissions servent à diffuser des propos…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "ac4e63a700ee",
+   "titre": "\"L'extrême droite tue la démocratie et l'extrême droite tue même celles et ceux qui l'exercent\", dénonce Fabien Roussel",
+   "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-de-trappes-l-extreme-droite-tue-la-democratie-et-l-extreme-droite-tue-meme-celles-et-ceux-qui-l-exercent-denonce-fabien-roussel_8279168.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-12T11:07:25+00:00",
+   "extrait": "Invité de la journée évènement franceinfo consacrée aux services publics, jeudi 12 novembre, Fabien Roussel réagit à ces noms de personnalité de gauche retrouvés sur un post-it au domicile de Kévin…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "6bbaf9f03ac8",
+   "titre": "Irlande : la capitale prête à accueillir le sommet de la Communauté politique européenne",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-irlande-la-capitale-se-pr%C3%A9pare-%C3%A0-accueillir-le-sommet-de-la-communaut%C3%A9-politique-europ%C3%A9enne",
+   "source": "France 24",
+   "date": "2026-11-12T11:02:44+00:00",
+   "extrait": "Le neuvième sommet de la Communauté politique européenne réunira des dirigeants de 47 pays du continent à Dublin, en Irlande ce jeudi 12 novembre. Alors que le monde est en profonde transformation…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "cd81d5cb0d7e",
+   "titre": "La mort de Stacy Keach, le dur parfait du cinéma hollywoodien des années 1970",
+   "lien": "https://www.lemonde.fr/disparitions/article/2026/11/12/la-mort-de-stacy-keach-le-dur-parfait-du-cinema-hollywoodien-des-annees-1970_6809089_3382.html",
+   "source": "Le Monde",
+   "date": "2026-11-12T11:00:08+00:00",
+   "extrait": "L’acteur américain, qui avait commencé sa carrière au théâtre, avait accédé à une grande notoriété en interprétant le rôle principal dans la série télévisée « Mike Hammer ». Il s’est éteint le 10…",
+   "tags": [],
    "zone": "france"
   },
   {
@@ -46,26 +286,6 @@
    "zone": "usa"
   },
   {
-   "id": "f47f76b108bb",
-   "titre": "With Jim Jordan as leader, House GOP signals its ready to fight",
-   "lien": "https://www.cbsnews.com/news/jim-jordan-house-republican-leader-democrats/",
-   "source": "CBS News",
-   "date": "2026-11-12T11:00:06+00:00",
-   "extrait": "Republicans described the incoming minority leader as a \"fighter\" who can go head to head with Hakeem Jeffries.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "916f962ce184",
-   "titre": "At least 3 killed, 17 hurt in Brooklyn building collapse",
-   "lien": "https://www.cbsnews.com/news/brooklyn-building-collapse-bedford-avenue/",
-   "source": "CBS News",
-   "date": "2026-11-12T11:00:01+00:00",
-   "extrait": "A major technical rescue operation was ongoing, involving hundreds of firefighters.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "ba41e4987bb0",
    "titre": "Des images inédites de centaines de millions de galaxies grâce au télescope Euclid",
    "lien": "https://www.franceinfo.fr/sciences/astronomie/on-commence-a-les-regarder-d-une-facon-differente-le-telescope-euclid-devoile-des-centaines-de-millions-de-galaxies-dans-des-images-inedites_8277968.html#xtor=RSS-3-[lestitres]",
@@ -74,6 +294,16 @@
    "extrait": "L'Agence spatiale européenne publie, jeudi, la première grande livraison d'images et de données capturées par les caméras du télescope Euclid, lancé dans l’espace en 2023. Un voyage inédit et…",
    "tags": [],
    "zone": "france"
+  },
+  {
+   "id": "f47f76b108bb",
+   "titre": "With Jim Jordan as leader, House GOP signals it's ready to fight",
+   "lien": "https://www.cbsnews.com/news/jim-jordan-house-republican-leader-democrats/",
+   "source": "CBS News",
+   "date": "2026-11-12T11:00:00+00:00",
+   "extrait": "Republicans described the incoming minority leader as a \"fighter\" who can go head to head with Hakeem Jeffries.",
+   "tags": [],
+   "zone": "usa"
   },
   {
    "id": "07ee6271d745",
@@ -96,31 +326,20 @@
    "zone": "monde"
   },
   {
-   "id": "42be5ca9f809",
-   "titre": "Trump says Iran war will be over \"when we want to end it\"",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/",
-   "source": "CBS News",
-   "date": "2026-11-12T10:48:49+00:00",
-   "extrait": "President Trump spoke about the Iran war during a Veterans Day address at Arlington National Cemetery.",
+   "id": "aad9e13e8969",
+   "titre": "Mouvement lycéen : le gouvernement veut une saisine « systématique » de la justice en cas de violences",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/12/mouvement-lyceen-le-gouvernement-veut-une-saisine-systematique-de-la-justice-en-cas-de-violences_6809088_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-12T10:53:16+00:00",
+   "extrait": "Désireux de « mettre fin à cette crise », le gouvernement a assuré que « la sécurisation des établissements continuera d’être assurée (…) aussi longtemps que nécessaire » et que « des poursuites…",
    "tags": [
-    "Politique",
-    "Conflits"
+    "Politique"
    ],
-   "zone": "usa"
-  },
-  {
-   "id": "33604caf57a6",
-   "titre": "New York building collapse kills at least two, officials say",
-   "lien": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-12T10:40:49+00:00",
-   "extrait": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
-   "tags": [],
-   "zone": "monde"
+   "zone": "france"
   },
   {
    "id": "4927ce32745a",
-   "titre": "États-Unis : qui est Scott Colom, premier sénateur afro-américain du Mississippi ?",
+   "titre": "États-Unis : qui est Scott Colom, premier sénateur noir du Mississippi depuis 150 ans ?",
    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-%C3%A9tats-unis-qui-est-scott-colom-premier-s%C3%A9nateur-afro-am%C3%A9ricain-du-mississippi",
    "source": "France 24",
    "date": "2026-11-12T10:39:35+00:00",
@@ -188,6 +407,18 @@
    "zone": "usa"
   },
   {
+   "id": "eafe5218a3ec",
+   "titre": "Victor Wembanyama, auteur d’un début de saison tonitruant, devient une équation insoluble pour ses rivaux de NBA",
+   "lien": "https://www.lemonde.fr/sport/article/2026/11/12/victor-wembanyama-auteur-d-un-debut-de-saison-tonitruant-devient-une-equation-insoluble-pour-ses-rivaux-de-nba_6809087_3242.html",
+   "source": "Le Monde",
+   "date": "2026-11-12T10:27:32+00:00",
+   "extrait": "Avec 32 points, 9 rebonds et 5 contres, mercredi face aux Chicago Bulls, la superstar française du basket a signé une performance dans la lignée de son amorce de saison, menant son équipe des San…",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "962e4239636a",
    "titre": "Déserts médicaux : quel bilan pour le plan de lutte lancé en 2025 ?",
    "lien": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-deserts-medicaux-quel-bilan-pour-le-plan-de-lutte-lance-en-2025_8276234.html#xtor=RSS-3-[lestitres]",
@@ -196,19 +427,6 @@
    "extrait": "Plus de 6 millions de Français sans médecin traitant, 87% du territoire classé \"désert médical\"... Face à cette situation, François Bayrou, alors Premier ministre, lançait en avril 2025 un appel à…",
    "tags": [
     "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "5db4994a726d",
-   "titre": "Guerre en Ukraine : les émissaires américains sont arrivés au Kremlin pour y rencontrer Vladimir Poutine",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-les-emissaires-americains-sont-arrives-en-russie-pour-une-rencontre-avec-vladimir-poutine_8278706.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-12T10:27:05+00:00",
-   "extrait": "Steve Witkoff et Jared Kushner doivent également rencontrer le président ukrainien à Dublin, jeudi, au lendemain de la fin des pourparlers à Abou Dhabi.",
-   "tags": [
-    "Politique",
-    "Conflits"
    ],
    "zone": "france"
   },
@@ -333,7 +551,7 @@
   },
   {
    "id": "e4a5945bc19c",
-   "titre": "Democrat Scott Colom makes history as Mississippi elects first black senator in 150 years",
+   "titre": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
    "lien": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-12T10:02:32+00:00",
@@ -342,16 +560,6 @@
     "Politique"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "dd3d08bfbfec",
-   "titre": "Un immeuble s'effondre à New York et fait au moins deux morts et 17 blessés",
-   "lien": "https://www.franceinfo.fr/monde/usa/un-immeuble-s-effondre-a-new-york-au-moins-deux-morts-et-17-blesses-selon-un-bilan-provisoire_8278736.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-12T10:00:08+00:00",
-   "extrait": "Parmi les personnes blessées figurent sept enfants, dont quatre grièvement touchés. Les services de secours sont toujours à pied d'œuvre et les autorités ignorent pour le moment les causes de cet…",
-   "tags": [],
-   "zone": "france"
   },
   {
    "id": "ded9a0c83a7d",
@@ -449,19 +657,6 @@
    "zone": "usa"
   },
   {
-   "id": "b8bb9c4cdad0",
-   "titre": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-   "lien": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-12T09:43:11+00:00",
-   "extrait": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-   "tags": [
-    "Conflits",
-    "Santé"
-   ],
-   "zone": "monde"
-  },
-  {
    "id": "d34458f3e9d7",
    "titre": "L'actrice Nicole Kidman recevra un César d'honneur lors de la 52e cérémonie",
    "lien": "https://www.franceinfo.fr/culture/cinema/l-actrice-nicole-kidman-recevra-un-cesar-d-honneur-lors-de-la-52e-ceremonie_8279006.html#xtor=RSS-3-[lestitres]",
@@ -485,7 +680,7 @@
   },
   {
    "id": "6d71caa3ba0f",
-   "titre": "Scandale visant le patron de Nvidia : la Chine accuse les Etats-Unis de \"fabriquer\" des \"récits d'espionnage\" pour imposer un \"blocus technologique\"",
+   "titre": "Affaire Nvidia : la Chine accuse les Etats-Unis de \"fabriquer\" des \"récits d'espionnage\" pour imposer un \"blocus technologique\"",
    "lien": "https://www.franceinfo.fr/internet/intelligence-artificielle/mise-en-cause-dans-le-scandale-touchant-le-patron-de-nvidia-la-chine-accuse-les-etats-unis-de-fabriquer-des-recits-d-espionnage-pour-imposer-un-blocus-technologique_8278889.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-11-12T09:38:33+00:00",
@@ -573,6 +768,18 @@
    "extrait": "Cette femme d'affaires chinoise est soupçonnée d'avoir facilité l'accès de Pékin à des puces électroniques américaines, en entretenant une liaison avec le patron de Nvidia. Elle reste introuvable…",
    "tags": [],
    "zone": "france"
+  },
+  {
+   "id": "05b7461257b5",
+   "titre": "🔴 En direct : le réseau militaire américain Starshield de nouveau limité en Ukraine, selon Zelensky",
+   "lien": "https://www.france24.com/fr/europe/20261112-en-direct-ukraine-russie-emissaires-americains-rencontre-vladimir-poutine-volodymyr-zelensky",
+   "source": "France 24",
+   "date": "2026-11-12T09:16:25+00:00",
+   "extrait": "",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
   },
   {
    "id": "6464571f1001",
@@ -1100,7 +1307,7 @@
    "titre": "Ces restaurants isolés qui font le pari de la haute gastronomie",
    "lien": "https://www.lemonde.fr/m-styles/article/2026/11/12/ces-restaurants-isoles-qui-font-le-pari-de-la-haute-gastronomie_6809057_4497319.html",
    "source": "Le Monde",
-   "date": "2026-11-12T05:00:39+00:00",
+   "date": "2026-11-12T05:00:28+00:00",
    "extrait": "Ouvrir une table d’exception à l’écart d’une ville ou d’un grand axe de circulation est une gageure. Au cœur des Cévennes, en Ardèche ou dans le Lot-et-Garonne, trois adresses ont relevé le défi…",
    "tags": [],
    "zone": "france"
@@ -1133,6 +1340,18 @@
    "date": "2026-11-12T05:00:07+00:00",
    "extrait": "Le candidat Les Républicains propose de départager les postulants à l’Elysée les 31 janvier et 7 février 2027. Une première réunion doit avoir lieu mardi pour fixer les modalités du scrutin. Si…",
    "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "746b44accb6b",
+   "titre": "Comment les jobs d’appoint deviennent une nécessité pour des salariés ou chômeurs en quête de pouvoir d’achat",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/12/le-jobbing-ce-microtravail-qui-prend-de-plus-en-plus-de-poids-pour-boucler-les-fins-de-mois_6809052_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-12T05:00:07+00:00",
+   "extrait": "Les plateformes de « jobbing » séduisent de nombreux particuliers, que ce soit pour les services entre voisins (bricolage, jardinage), la livraison de courses ou le gardiennage de colis. Et ce…",
+   "tags": [
+    "Économie"
+   ],
    "zone": "france"
   },
   {
@@ -1333,19 +1552,6 @@
    "extrait": "Des milliers de maisons et d’immeubles abritent des appartements enterrés, les propriétaires y trouvant un moyen de rembourser leur crédit immobilier, et les locataires un toit pour moins cher.",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "05b7461257b5",
-   "titre": "En direct : les émissaires américains sont arrivés au Kremlin pour les discussions avec Poutine",
-   "lien": "https://www.france24.com/fr/europe/20261112-en-direct-ukraine-russie-emissaires-americains-rencontre-vladimir-poutine-volodymyr-zelensky",
-   "source": "France 24",
-   "date": "2026-11-12T02:21:03+00:00",
-   "extrait": "Les émissaires de Donald Trump, Steve Witkoff et Jared Kushner, sont arrivés jeudi au Kremlin pour des pourparlers sur l'Ukraine avec le président russe Vladimir Poutine. De son côté, Volodymyr…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
   },
   {
    "id": "38065e8ab44c",
@@ -2516,11 +2722,11 @@
   },
   {
    "id": "e4e38eb1bcc2",
-   "titre": "Le Science Media Centre de Londres, qui aide à vulgariser l’information scientifique, accusé d’être influencé par ses financeurs industriels",
+   "titre": "Le Science Media Centre de Londres accusé d’être influencé par ses financeurs industriels",
    "lien": "https://www.lemonde.fr/sciences/article/2026/11/11/le-science-media-centre-de-londres-qui-aide-a-vulgariser-l-information-scientifique-accuse-d-etre-influence-par-ses-financeurs-industriels_6809016_1650684.html",
    "source": "Le Monde",
    "date": "2026-11-11T18:15:07+00:00",
-   "extrait": "Cet organisme philanthropique met à la disposition des médias des commentaires d’experts sur les nouvelles publications scientifiques. D’après une recension effectuée par des chercheurs, ces avis…",
+   "extrait": "L’organisme philanthropique aide à vulgariser l’information scientifique en mettant à la disposition des médias des commentaires d’experts sur les nouvelles publications scientifiques. D’après une…",
    "tags": [],
    "zone": "france"
   },
@@ -3216,221 +3422,6 @@
    "extrait": "Jeudi 12 novembre, franceinfo organise une journée exceptionnelle consacrée aux services publics, en direct et en public au Studio 104 de la Maison de la Radio et de la Musique.",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "1230b252cf6b",
-   "titre": "En Egypte, Hossam Hassan, le sélectionneur de l’équipe nationale de football, débarqué à cause de ses déboires conjugaux",
-   "lien": "https://www.lemonde.fr/afrique/article/2026/11/11/en-egypte-hossam-hassan-le-selectionneur-de-l-equipe-nationale-de-football-debarque-a-cause-de-ses-deboires-conjugaux_6808992_3212.html",
-   "source": "Le Monde",
-   "date": "2026-11-11T15:30:02+00:00",
-   "extrait": "La Fédération de football égyptienne a décidé de limoger l’entraîneur après avoir constaté la « répercussion négative sur l’image et la stabilité de la sélection nationale » de ses problèmes de…",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "d331bbfcddd6",
-   "titre": "Éliminatoires de la CAN 2027 : qui peut se qualifier, qui doit réagir ? Le point par groupe",
-   "lien": "https://www.france24.com/fr/sports/20261111-eliminatoires-can-2027-point-par-groupe",
-   "source": "France 24",
-   "date": "2026-11-11T15:29:19+00:00",
-   "extrait": "Alors que le Maroc, la Côte d'Ivoire et le Mali pourraient composter leur ticket pour la CAN 2027 dès cette trêve internationale, le Ghana et le Nigeria sont en grand danger. Découvrez groupe par…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "7c14f4e9caea",
-   "titre": "\"On se barre de Kiev, on n'en peut plus d'être ici\" : dans la capitale ukrainienne bombardée, des commerces ferment les uns après les autres",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/on-se-barre-de-kiev-on-n-en-peut-plus-d-etre-ici-a-kiev-des-commerces-ferment-les-uns-apres-les-autres_8277908.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-11T15:27:09+00:00",
-   "extrait": "Pour les habitants de Kiev, les coupures de courant sont quotidiennes, avec des alertes à répétition et des frappes presque toutes les nuits. Avec le manque d'électricité et les habitants qui ne…",
-   "tags": [
-    "Économie",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "9f50bbdb255a",
-   "titre": "EN DIRECT, guerre en Ukraine : premières condamnations après que la Russie a interdit l’entrée sur son territoire à deux députés et deux journalistes français, dont Ariane Chemin, du « Monde »",
-   "lien": "https://www.lemonde.fr/international/live/2026/11/11/en-direct-guerre-en-ukraine-les-condamnations-se-multiplient-apres-que-la-russie-a-interdit-l-entree-sur-son-territoire-a-deux-deputes-et-deux-journalistes-francais-dont-ariane-chemin-du-monde_6808609_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-11T15:22:16+00:00",
-   "extrait": "La mesure a été prise en réponse à l’expulsion de la chroniqueuse pro-Kremlin Xenia Fedorova, a annoncé la diplomatie russe mercredi. Les députés Sacha Houlié (Place publique) et Arthur Delaporte…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "f5414d969c9e",
-   "titre": "\"La Ronde de nuit\" de Rembrandt et ses petits microbes exposés au musée Artis-Micropia à Amsterdam",
-   "lien": "https://www.franceinfo.fr/culture/arts-expos/la-ronde-de-nuit-de-rembrandt-et-ses-petits-microbes-exposes-au-musee-artis-micropia-a-amsterdam_8277905.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-11T15:19:42+00:00",
-   "extrait": "Les bactéries, qui circulent sur l'œuvre, ne représentent aucune menace pour son intégrité.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "dd6ce90ab397",
-   "titre": "Exclusive discounts from CBS Mornings Deals",
-   "lien": "https://www.cbsnews.com/video/exclusive-discounts-from-cbs-mornings-deals-187/",
-   "source": "CBS News",
-   "date": "2026-11-11T15:15:24+00:00",
-   "extrait": "On this edition of CBS Deals, we show you items that could help improve your everyday lifestyle. Visit cbsdeals.com to take advantage of these exclusive deals today. CBS earns commissions on…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "51cb46fc6c8b",
-   "titre": "These are the best anti-inflammatory foods to boost your gut health, according to a nutritionist",
-   "lien": "https://www.cbsnews.com/video/these-are-the-best-anti-inflammatory-foods-to-boost-your-gut-health-according-to-a-nutritionist/",
-   "source": "CBS News",
-   "date": "2026-11-11T15:10:12+00:00",
-   "extrait": "Nutritionist and founder of Nutritious Life Keri Glassman joins \"CBS Mornings\" to break down the best anti-inflammatory foods for your gut.",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "6bf838e76fcf",
-   "titre": "Hausse du prix du gaz : faut-il changer de contrat pour réduire sa facture ?",
-   "lien": "https://www.franceinfo.fr/environnement/energie/hausse-du-prix-du-gaz-faut-il-changer-de-contrat-pour-reduire-sa-facture_8277929.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-11T15:09:21+00:00",
-   "extrait": "Les tarifs du gaz vont augmenter de 5,8 % en décembre, après une hausse de 6 % en novembre. Les foyers concernés sont ceux qui ont souscrit une offre indexée sur le prix repère. Pour limiter…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "4e5d09f328bf",
-   "titre": "RDC : \"C’est Kagame le véritable chef\" des rebelles, pas Kabila, selon la cheffe de la diplomatie",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/en-t%C3%AAte-%C3%A0-t%C3%AAte/20261111-exclusif-rdc-entretien-ministre-affaires-etrangeres-paul-kagame-v%C3%A9ritable-chef-des-rebelles-kabila-frn-fdlr",
-   "source": "France 24",
-   "date": "2026-11-11T15:06:10+00:00",
-   "extrait": "Dans un entretien accordé à France 24, la ministre des Affaires étrangères congolaise, Thérèse Kayikwamba Wagner, voit en Paul Kagame, président rwandais, “le véritable chef” du front rebelle de…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "4ddd07f09d29",
-   "titre": "La SNCF met en vente jeudi ses billets de TGV de janvier jusqu'au début de l'été, pour la première fois dès novembre",
-   "lien": "https://www.franceinfo.fr/economie/transports/sncf/pour-la-premiere-fois-la-sncf-met-en-vente-des-jeudi-12-novembre-ses-billets-de-train-jusqu-au-debut-de-l-ete_8277770.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-11T15:01:08+00:00",
-   "extrait": "Les réservations pour les trains Intercités ouvriront également jeudi, cette fois pour les trajets jusqu'au 31 mars.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "5bd0daf6b68d",
-   "titre": "Friedrich Merz menace de priver de fonds européens les pays de l’UE qui ne soutiennent pas l’Ukraine",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/11/friedrich-merz-menace-de-priver-de-fonds-europeens-les-pays-de-l-ue-qui-ne-soutiennent-pas-l-ukraine_6808988_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-11T15:00:11+00:00",
-   "extrait": "L’Allemagne réclame que tous les Etats de l’Union, sans exception, apportent leur contribution financière à Kiev, après que la Bulgarie, la Hongrie, la Slovaquie et la République tchèque ont…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "b589c39253d7",
-   "titre": "When to expect results for the Mississippi Senate race",
-   "lien": "https://www.cbsnews.com/video/when-to-expect-results-for-the-mississippi-senate-race/",
-   "source": "CBS News",
-   "date": "2026-11-11T15:00:00+00:00",
-   "extrait": "The Mississippi Senate race remains too close to call. CBS News' Mark Strassmann reports.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "6544e3079296",
-   "titre": "Pour les parents de Christophe Gleizes, \"il faudrait quand même qu'on nous entende\"",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261111-les-parents-de-christophe-gleizes-invit%C3%A9s-de-france-24",
-   "source": "France 24",
-   "date": "2026-11-11T14:59:46+00:00",
-   "extrait": "Cela fait 500 jours que le journaliste français Christophe Gleizes est détenu en Algérie. Ses parents ont confié à France 24 leurs inquiétudes et leurs espoirs. \"500 jours, c'est énorme pour nous et…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "6043de0206d6",
-   "titre": "En garde à vue, Kevin Tessier, auteur de l’attentat raciste de Trappes, a déclaré « assumer » ses actes et « espérer devenir un exemple pour les Français »",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/11/les-declarations-en-garde-a-vue-de-kevin-tessier-l-auteur-de-l-attentat-raciste-de-trappes-j-espere-que-je-deviendrai-un-exemple-pour-les-francais_6808986_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-11T14:57:45+00:00",
-   "extrait": "« Le Monde » révèle les coulisses de la garde à vue de Kevin Tessier, suspecté d’avoir assassiné un homme et blessé sept personnes dans les Yvelines le 23 octobre, entre déclarations confuses…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "bc93c941a230",
-   "titre": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-   "lien": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-11T14:56:11+00:00",
-   "extrait": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "1d1745fdb418",
-   "titre": "Thousands of schools in Europe get hoax bomb threats",
-   "lien": "https://www.cbsnews.com/news/bomb-threat-schools-europe-italy-uk-ireland-hoaxes-hybrid-warfare-iran-russia/",
-   "source": "CBS News",
-   "date": "2026-11-11T14:49:44+00:00",
-   "extrait": "Less than a week after more than 20 European flights got fake bomb threats, hundreds of schools in Italy, the U.K. and Ireland were hit by similar hoaxes.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "d6709b5d246b",
-   "titre": "Johnny Depp de retour à Hollywood dans la peau de \"Scrooge\"",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20261111-johnny-depp-de-retour-%C3%A0-hollywood-dans-la-peau-de-scrooge",
-   "source": "France 24",
-   "date": "2026-11-11T14:41:53+00:00",
-   "extrait": "Johnny Depp renoue avec Hollywood dans la peau du plus célèbre des grincheux de Noël ! Cette semaine dans \"À l’Affiche\", Nina Masson et Thomas Baurez reviennent sur les sorties cinéma à ne pas…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "ea8867e52cbb",
-   "titre": "La Russie interdit l’entrée sur son territoire à deux députés et deux journalistes français, après l’expulsion de Xenia Fedorova",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/11/la-russie-interdit-l-entree-sur-son-territoire-a-deux-deputes-et-deux-journalistes-francais-apres-l-expulsion-de-xenia-fedorova_6808983_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-11T14:35:42+00:00",
-   "extrait": "Le ciblage d’élus et de journalistes français par Moscou illustre la dégradation persistante des relations franco-russes.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "cc6fba4ad1bf",
-   "titre": "Hotter-than-expected inflation raises chances of Fed rate hike",
-   "lien": "https://www.cbsnews.com/news/october-cpi-report-elevated-inflation/",
-   "source": "CBS News",
-   "date": "2026-11-11T14:33:44+00:00",
-   "extrait": "Inflation rose at a monthly pace of 0.4%, hotter than economists had forecast and raising expectations that the Federal Reserve will increase interest rates in December.",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "usa"
   }
  ]
 }
