@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-12T05:05:40+00:00",
+ "maj": "2026-11-12T06:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,19 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "8b748363b7cc",
+   "titre": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
+   "lien": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
+   "source": "The Hacker News",
+   "date": "2026-11-12T05:12:26+00:00",
+   "extrait": "A critical flaw in Apache HTTP Server's HTTP/2 module, mod_http2, can let a remote attacker run code on the server. Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is fixed…",
+   "tags": [
+    "CVE",
+    "Faille",
+    "Linux"
+   ]
+  },
   {
    "id": "f1a5b4bff7b5",
    "titre": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
@@ -3408,18 +3421,6 @@
    "tags": [
     "CVE",
     "Faille"
-   ]
-  },
-  {
-   "id": "e8eb82345a00",
-   "titre": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
-   "lien": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
-   "source": "The Hacker News",
-   "date": "2026-10-31T05:33:41+00:00",
-   "extrait": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the security firm…",
-   "tags": [
-    "Faille",
-    "IA"
    ]
   }
  ]
