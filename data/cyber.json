@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-12T12:05:41+00:00",
+ "maj": "2026-11-12T13:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,78 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "00c8c05e542b",
+   "titre": "Microsoft: Recent Windows updates cause SQL Server performance issues",
+   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
+   "source": "BleepingComputer",
+   "date": "2026-11-12T12:11:11+00:00",
+   "extrait": "Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues. [...]",
+   "tags": [
+    "Faille",
+    "Windows"
+   ]
+  },
+  {
+   "id": "5af74d5ce665",
+   "titre": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
+   "lien": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
+   "source": "The Hacker News",
+   "date": "2026-11-12T12:09:14+00:00",
+   "extrait": "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week. The company has already applied mitigations…",
+   "tags": [
+    "Faille",
+    "Fuite de données",
+    "Linux"
+   ]
+  },
+  {
+   "id": "950205e16691",
+   "titre": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+   "lien": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+   "source": "The Hacker News",
+   "date": "2026-11-12T12:02:51+00:00",
+   "extrait": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and…",
+   "tags": [
+    "IA",
+    "Outil"
+   ]
+  },
+  {
+   "id": "4fb3f4a554eb",
+   "titre": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
+   "lien": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
+   "source": "The Hacker News",
+   "date": "2026-11-12T11:51:43+00:00",
+   "extrait": "N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2. \"Based on our…",
+   "tags": [
+    "Faille",
+    "Windows"
+   ]
+  },
+  {
+   "id": "f7cf57082e20",
+   "titre": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
+   "lien": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
+   "source": "The Hacker News",
+   "date": "2026-11-12T11:51:31+00:00",
+   "extrait": "Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Every check defenders normally lean on to judge a link came back clean, and the operator…",
+   "tags": [
+    "Malware"
+   ]
+  },
+  {
+   "id": "988b46d175c6",
+   "titre": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
+   "lien": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
+   "source": "The Hacker News",
+   "date": "2026-11-12T11:33:15+00:00",
+   "extrait": "PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution. The security flaw, tracked…",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
+  },
   {
    "id": "a3551b4d4049",
    "titre": "Microsoft confirms Windows security updates installation issues",
@@ -3350,75 +3422,6 @@
    "extrait": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on…",
    "tags": [
     "Fuite de données"
-   ]
-  },
-  {
-   "id": "af6ffe74845e",
-   "titre": "Alpine Linux rebuilds GitLab after attempted RCE attack",
-   "lien": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
-   "source": "BleepingComputer",
-   "date": "2026-11-01T15:11:21+00:00",
-   "extrait": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset…",
-   "tags": [
-    "Faille",
-    "Fuite de données",
-    "Linux"
-   ]
-  },
-  {
-   "id": "d15dc155427a",
-   "titre": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
-   "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
-   "source": "BleepingComputer",
-   "date": "2026-11-01T13:53:11+00:00",
-   "extrait": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
-   "tags": [
-    "IA"
-   ]
-  },
-  {
-   "id": "c1c20131973a",
-   "titre": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
-   "lien": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
-   "source": "The Hacker News",
-   "date": "2026-11-01T08:51:31+00:00",
-   "extrait": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "2a3e4a8e199c",
-   "titre": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
-   "lien": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
-   "source": "The Hacker News",
-   "date": "2026-11-01T07:25:40+00:00",
-   "extrait": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script…",
-   "tags": [
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "6e20a9798345",
-   "titre": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
-   "lien": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
-   "source": "The Hacker News",
-   "date": "2026-11-01T07:03:00+00:00",
-   "extrait": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets from Binance to TraderTraitor, a North Korea-aligned elite hacking group…",
-   "tags": [
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "be08e34bf976",
-   "titre": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
-   "lien": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
-   "source": "The Hacker News",
-   "date": "2026-11-01T07:02:58+00:00",
-   "extrait": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia. The activity, detailed by…",
-   "tags": [
-    "Malware",
-    "Windows"
    ]
   }
  ]
