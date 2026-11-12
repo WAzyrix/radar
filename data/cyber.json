@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-12T04:05:40+00:00",
+ "maj": "2026-11-12T05:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "f1a5b4bff7b5",
+   "titre": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
+   "lien": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
+   "source": "The Hacker News",
+   "date": "2026-11-12T04:39:48+00:00",
+   "extrait": "ConnectWise has taken the precautionary step of disabling five third-party extensions in partner environments following reports of unauthorized access. In an advisory posted on its site, the company…",
+   "tags": [
+    "Faille"
+   ]
+  },
   {
    "id": "7f241c94ac84",
    "titre": "Baker Tilly notifies clients of data breach at third-party provider",
@@ -3410,15 +3421,6 @@
     "Faille",
     "IA"
    ]
-  },
-  {
-   "id": "21ad2182a136",
-   "titre": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
-   "lien": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
-   "source": "The Hacker News",
-   "date": "2026-10-31T04:56:12+00:00",
-   "extrait": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it…",
-   "tags": []
   }
  ]
 }
