@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-12T09:05:39+00:00",
+ "maj": "2026-11-12T10:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,43 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "3ca0085eba4f",
+   "titre": "Hackers plant GSocket on Linux servers for persistent access",
+   "lien": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
+   "source": "BleepingComputer",
+   "date": "2026-11-12T09:38:00+00:00",
+   "extrait": "Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access…",
+   "tags": [
+    "Fuite de données",
+    "Outil",
+    "Linux"
+   ]
+  },
+  {
+   "id": "26d811aac83d",
+   "titre": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
+   "lien": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
+   "source": "The Hacker News",
+   "date": "2026-11-12T09:25:00+00:00",
+   "extrait": "A critical flaw in MongoDB Server allows an unauthenticated attacker to send two requests that trigger a crash on the database server. The crash occurs only if that server is later chosen to take…",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
+  },
+  {
+   "id": "c2d283cd7530",
+   "titre": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
+   "lien": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
+   "source": "The Hacker News",
+   "date": "2026-11-12T08:20:37+00:00",
+   "extrait": "A flaw fixed in Node.js this week lets unauthenticated clients crash servers that use the runtime's built-in HTTP/2 support on the 24.x and 26.x release lines. A second HTTP/2 flaw can cause a…",
+   "tags": [
+    "Faille",
+    "Fuite de données"
+   ]
+  },
   {
    "id": "135be29d2d7e",
    "titre": "Modern Web Guidance - Votre agent IA va enfin goûter au code web moderne",
@@ -3387,39 +3424,6 @@
     "CVE",
     "Faille",
     "Mobile"
-   ]
-  },
-  {
-   "id": "b35f9e575d4b",
-   "titre": "Reddit to lock content behind logins to fight scrapers",
-   "lien": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
-   "source": "BleepingComputer",
-   "date": "2026-10-31T14:05:15+00:00",
-   "extrait": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]",
-   "tags": []
-  },
-  {
-   "id": "4e3b797fd4a7",
-   "titre": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
-   "lien": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
-   "source": "BleepingComputer",
-   "date": "2026-10-31T13:10:19+00:00",
-   "extrait": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build…",
-   "tags": [
-    "Faille",
-    "IA"
-   ]
-  },
-  {
-   "id": "a291b7051796",
-   "titre": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
-   "lien": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
-   "source": "BleepingComputer",
-   "date": "2026-10-31T12:50:09+00:00",
-   "extrait": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user…",
-   "tags": [
-    "Fuite de données",
-    "Outil"
    ]
   }
  ]
