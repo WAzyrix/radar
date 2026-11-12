@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-12T08:05:41+00:00",
+ "maj": "2026-11-12T09:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "135be29d2d7e",
+   "titre": "Modern Web Guidance - Votre agent IA va enfin goûter au code web moderne",
+   "lien": "https://korben.info/modern-web-guidance-agents-web.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-12T08:00:00+00:00",
+   "extrait": "Modern Web Guidance glisse dans votre agent de code des guides sur les fonctionnalités natives du navigateur. Installation, scan, télémétrie et limites.",
+   "tags": [
+    "IA"
+   ]
+  },
   {
    "id": "417b99b8248b",
    "titre": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
@@ -3406,18 +3417,6 @@
    "source": "BleepingComputer",
    "date": "2026-10-31T12:50:09+00:00",
    "extrait": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user…",
-   "tags": [
-    "Fuite de données",
-    "Outil"
-   ]
-  },
-  {
-   "id": "1f2870fb86df",
-   "titre": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
-   "lien": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
-   "source": "The Hacker News",
-   "date": "2026-10-31T12:01:56+00:00",
-   "extrait": "American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data. However, the company noted that the…",
    "tags": [
     "Fuite de données",
     "Outil"
