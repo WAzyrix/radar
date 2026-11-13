@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-13T13:05:41+00:00",
+ "maj": "2026-11-13T14:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,17 +22,239 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "6caeddeed217",
+   "titre": "D.C. gunman appeared to vent about problems with luxury condo",
+   "lien": "https://www.cbsnews.com/news/dc-shooting-gunman-social-media/",
+   "source": "CBS News",
+   "date": "2026-11-13T14:02:31+00:00",
+   "extrait": "An X account associated with D.C. shooting suspect Matt Lambert was filled with complaints about mold, rodents and disrepair in his unit in the condo building.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "5ea42b11c508",
+   "titre": "L’Allemagne renforce ses services de renseignement, face à la menace russe et aux cyberattaques",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/13/l-allemagne-renforce-ses-services-de-renseignement-face-a-la-menace-russe-et-aux-cyberattaques_6809331_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-13T14:01:08+00:00",
+   "extrait": "L’opposition alerte sur les risques pour l’Etat de droit, alors que Berlin dote ses services de renseignement de capacités inédites de riposte et de sabotage numérique.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "0787c3f68b7e",
+   "titre": "Microsoft battling major worldwide outage",
+   "lien": "https://www.cbsnews.com/news/microsoft-battling-major-outage/",
+   "source": "CBS News",
+   "date": "2026-11-13T14:00:12+00:00",
+   "extrait": "A Microsoft outage involving services like Outlook and Teams has dragged on for hours and impacted many users, companies and some government operations.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "b2a3985b13b8",
+   "titre": "Critics say Lutnick failed to cut off diversion of Nvidia chips to China",
+   "lien": "https://www.cbsnews.com/news/lutnick-nvidia-ai-chips-china/",
+   "source": "CBS News",
+   "date": "2026-11-13T13:59:19+00:00",
+   "extrait": "Commerce Secretary Howard Lutnick is under fire from critics asking whether his ties to Chinese companies and friendship with ex-Nvidia CEO Jensen Huang contributed to a lack of oversight over…",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "d6c0abc35a81",
+   "titre": "Trente ans après la disparition de Marion Wagon, le pôle \"cold cases\" de Nanterre lance un appel à témoins",
+   "lien": "https://www.franceinfo.fr/faits-divers/affaire/30-ans-apres-la-disparition-de-marion-wagon-le-pole-cold-cases-de-nanterre-lance-un-appel-a-temoins_8281049.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-13T13:58:28+00:00",
+   "extrait": "Après un nouveau témoignage d'une femme de 43 ans, les enquêteurs sont sur la piste d'un nouveau suspect. Ils veulent notamment savoir si d'autres jeunes filles, qui étaient adolescentes à l'époque…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "2faa88cd560a",
+   "titre": "France-Afrique du Sud : la nouvelle défense des Bleus au révélateur du rouleau compresseur des Springboks",
+   "lien": "https://www.lemonde.fr/sport/article/2026/11/13/france-afrique-du-sud-la-nouvelle-defense-des-bleus-au-revelateur-du-rouleau-compresseur-des-springboks_6809328_3242.html",
+   "source": "Le Monde",
+   "date": "2026-11-13T13:57:54+00:00",
+   "extrait": "L’équipe de France de rugby, amoindrie par les blessures, affronte les doubles champions du monde en titre, vendredi 13 novembre, au Stade de France, dans le choc de la cinquième journée du…",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "614cfdcfac1a",
+   "titre": "Convergence de différents mots d'ordre, important dispositif policier… A quoi s'attendre pour la journée de mobilisation du samedi 14 novembre ?",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/convergence-de-differents-mots-d-ordre-important-dispositif-policier-a-quoi-s-attendre-pour-la-journee-de-mobilisation-du-samedi-14-novembre_8280806.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-13T13:55:06+00:00",
+   "extrait": "La coordination des gilets jaunes et des organisations de jeunesse appellent à défiler samedi \"contre la vie chère\". D'autres manifestations – pour le climat, contre les violences policières ou les…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "feb039e464cc",
+   "titre": "\"Savoir ce qu'il s'est passé il y a 30 ans est extrêmement difficile en matière criminelle\", réagit l'avocat des parents de Marion Wagon",
+   "lien": "https://www.franceinfo.fr/faits-divers/affaire/disparition-de-marion-wagon-savoir-ce-qu-il-s-est-passe-il-y-a-30-ans-est-extremement-difficile-en-matiere-criminelle-reagit-l-avocat-de-ses-parents_8281106.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-13T13:43:32+00:00",
+   "extrait": "Après un nouveau témoignage, le pôle \"cold cases\" de Nanterre lance un appel à témoins pour élucider l'affaire de la disparition de Marion Wagon en 1996.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "d4a831cdaf7e",
+   "titre": "Why you shouldn't wait until 2027 to deal with your credit card debt",
+   "lien": "https://www.cbsnews.com/news/why-shouldnt-wait-until-2027-deal-with-credit-card-debt/",
+   "source": "CBS News",
+   "date": "2026-11-13T13:39:02+00:00",
+   "extrait": "Thinking of waiting until 2027 to tackle your high-rate credit card debt? Here's why that could be a costly mistake.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "0c8c98d524b6",
+   "titre": "Can you negotiate your pet insurance premiums? Here's what to know.",
+   "lien": "https://www.cbsnews.com/news/can-you-negotiate-your-pet-insurance-premiums/",
+   "source": "CBS News",
+   "date": "2026-11-13T13:38:16+00:00",
+   "extrait": "Pet insurance costs can add up quickly, but there may be ways to lower your premiums without losing coverage.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "e7c1062d1c2b",
+   "titre": "Remembering singer and actor Peggy King",
+   "lien": "https://www.npr.org/2026/11/13/nx-s1-6038917/remembering-singer-and-actor-peggy-king",
+   "source": "NPR",
+   "date": "2026-11-13T13:35:22+00:00",
+   "extrait": "King, who died Oct. 25, got her start singing in big bands in the 1950s. She had a string of hits, a contract with MGM and was a popular fixture on TV variety shows. Originally broadcast in 1983.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "e1efe6f1af4b",
+   "titre": "What we know about the global Microsoft outage",
+   "lien": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-13T13:34:53+00:00",
+   "extrait": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "28d13b454da8",
+   "titre": "Manchester United names USMNT coach Mauricio Pochettino as its manager",
+   "lien": "https://www.npr.org/2026/11/13/nx-s1-6038932/mauricio-pochettino-usmnt-manchester-united",
+   "source": "NPR",
+   "date": "2026-11-13T13:32:23+00:00",
+   "extrait": "Mauricio Pochettino is out as head coach of the U.S. men's national soccer team. Pochettino led the U.S. to the round of 16 at last year's World Cup. He's departing to coach Manchester United.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "1dc7e352e053",
+   "titre": "Sébastien Lecornu ouvre une discussion d'un mois avec les syndicats de fonctionnaires portant notamment sur une \"revalorisation des bas salaires\"",
+   "lien": "https://www.franceinfo.fr/economie/syndicats/sebastien-lecornu-ouvre-une-discussion-d-un-mois-avec-les-syndicats-de-fonctionnaires-portant-notamment-sur-une-revalorisation-des-bas-salaires_8281073.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-13T13:31:37+00:00",
+   "extrait": "Le Premier ministre recevra à nouveau les organisations représentatives de la fonction publique le 11 décembre, après les élections professionnelles, pour \"sceller des avancées dès la mi-décembre\".",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "dbda4ef768ec",
+   "titre": "Mercedes-Benz : le comité d’entreprise et le syndicat IG Metall dénoncent des menaces de fermetures d’usines en Allemagne",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/13/mercedes-benz-le-comite-d-entreprise-et-le-syndicat-ig-metall-denoncent-des-menaces-de-fermetures-d-usines-en-allemagne_6809327_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-13T13:30:15+00:00",
+   "extrait": "Sous la pression de la concurrence chinoise, le constructeur allemand a gelé tout nouvel investissement national et envisage d’allonger le temps de travail de ses employés sans hausse de salaire…",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "3d8c06c66150",
+   "titre": "L'actu en dessin : la COP31 a peu de chances d'aboutir à des résolutions majeures",
+   "lien": "https://www.france24.com/fr/plan%C3%A8te/20261113-actu-en-dessin-cop31-climat-peu-de-chances-aboutir-r%C3%A9solutions-majeures-environnement-r%C3%A9chauffement",
+   "source": "France 24",
+   "date": "2026-11-13T13:27:16+00:00",
+   "extrait": "Du 9 au 20 novembre, la communauté internationale se réunit à Antalya, en Turquie, à l'occasion de la COP31. Mais alors que la crise énergétique liée à la guerre au Moyen-Orient a contraint les pays…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "e8f2ef6400bb",
+   "titre": "En Haïti, des soldats salvadoriens interviennent dans un stade contrôlé par les gangs",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261113-en-ha%C3%AFti-des-soldats-salvadoriens-interviennent-dans-un-stade-contr%C3%B4l%C3%A9-par-les-gangs",
+   "source": "France 24",
+   "date": "2026-11-13T13:21:40+00:00",
+   "extrait": "Des soldats salvadoriens sont intervenus dans le stade Sylvio-Cator, à Port-au-Prince, tombé aux mains des gangs en 2024, selon des images publiées par le président Nayib Bukele. Ces interventions…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "b89976813fa9",
+   "titre": "Guerre en Ukraine : la Russie veut connaître les \"intentions\" des Européens avant de les laisser participer aux pourparlers",
+   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-la-russie-veut-connaitre-les-intentions-des-europeens-avant-de-les-laisser-participer-aux-pourparlers_8280860.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-13T13:21:23+00:00",
+   "extrait": "La cheffe de la diplomatie de l'Union européenne a de son côté exclu vendredi que la Russie ait son mot à dire pour choisir les représentants européens pour de futures négociations.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "f83a676d74f0",
    "titre": "U.N. watchdog agency pushes for access to key Iran nuclear site",
    "lien": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/",
    "source": "CBS News",
-   "date": "2026-11-13T13:02:08+00:00",
+   "date": "2026-11-13T13:14:13+00:00",
    "extrait": "As Trump signals he may let the Iran war fester, the U.N. nuclear agency is \"increasingly concerned\" about access to a key uranium facility, according to a leaked report.",
    "tags": [
     "Politique",
     "Conflits"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "ea73e67e82ee",
+   "titre": "Le marché mondial du pétrole devrait redevenir excédentaire au dernier trimestre, selon l’Agence internationale de l’énergie",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/13/le-marche-mondial-du-petrole-devrait-redevenir-excedentaire-au-dernier-trimestre-selon-l-agence-internationale-de-l-energie_6809326_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-13T13:12:17+00:00",
+   "extrait": "L’offre mondiale de pétrole devrait dépasser la demande au dernier trimestre 2026, pour la première fois depuis le déclenchement de la guerre en Iran fin février, déclare vendredi 13 novembre…",
+   "tags": [
+    "Économie",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "9db77797674f",
+   "titre": "Des améliorations constatées, pas de cyberattaque d'après Microsoft… Ce que l'on sait de la panne mondiale qui touche le géant américain depuis jeudi",
+   "lien": "https://www.franceinfo.fr/internet/panne-informatique-mondiale/outlook-et-teams-perturbes-pas-de-cyberattaque-d-apres-microsoft-ce-que-l-on-sait-de-la-panne-mondiale-qui-touche-le-geant-americain-depuis-jeudi_8280671.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-13T13:01:40+00:00",
+   "extrait": "Plusieurs millions d'utilisateurs ne peuvent pas accéder à leurs e-mails depuis jeudi soir. La panne affecte aussi certaines fonctions des assistants d'intelligence artificielle.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "france"
   },
   {
    "id": "460c7cb9e734",
@@ -47,6 +269,16 @@
    "zone": "monde"
   },
   {
+   "id": "0c5d8561d4d1",
+   "titre": "\"On n'a vraiment plus le choix\" : après un mois et demi de mobilisation, lycéens et enseignants s'inquiètent des conséquences sur les notes",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-n-a-vraiment-plus-le-choix-apres-un-mois-et-demi-de-mobilisation-lyceens-et-enseignants-s-inquietent-des-consequences-sur-les-notes_8280770.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-13T12:59:32+00:00",
+   "extrait": "À l'approche de la fin du trimestre, les enseignants tentent de calculer une moyenne, avec très peu de notes. Chaque établissement bricole de son côté. Les élèves et les enseignants craignent des…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "395ec45ff224",
    "titre": "Star of reality show \"Below Deck\" arrested after teenager dies",
    "lien": "https://www.cbsnews.com/news/below-deck-joao-franco-arrested-turkey-fight-teenager-death/",
@@ -57,18 +289,6 @@
     "Justice"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "b89976813fa9",
-   "titre": "Guerre en Ukraine : la Russie veut connaître les \"intentions\" des Européens avant de les laisser participer aux pourparlers",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-la-russie-veut-connaitre-les-intentions-des-europeens-avant-de-les-laisser-participer-aux-pourparlers_8280860.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-13T12:45:23+00:00",
-   "extrait": "La cheffe de la diplomatie de l'Union européenne a de son côté exclu vendredi que la Russie ait son mot à dire pour choisir les représentants européens pour de futures négociations.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
   },
   {
    "id": "16e7e033457b",
@@ -82,13 +302,25 @@
   },
   {
    "id": "b9ee0fba0c7f",
-   "titre": "Crise sociale : la CFDT rejoint l'appel à la mobilisation dans le public le 17 novembre, estimant que les propositions du gouvernement \"ne constituent pas de véritables avancées\"",
+   "titre": "Crise sociale : la CFDT rejoint l'appel à la mobilisation dans le public le 17 novembre",
    "lien": "https://www.franceinfo.fr/economie/pouvoir-achat/direct-crise-sociale-les-syndicats-de-fonctionnaires-recu-vendredi-matin-par-le-premier-ministre-pour-reclamer-de-meilleurs-salaires_8280482.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-11-13T12:44:01+00:00",
    "extrait": "\"Le gouvernement refuse toujours de débloquer les moyens budgétaires à la hauteur pour répondre à la perte continue de pouvoir d'achat des agents\", a écrit vendredi la troisième force syndicale dans…",
    "tags": [
     "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "dd3230ff09ff",
+   "titre": "Sébastien Lecornu ouvre une discussion d’un mois avec les syndicats de fonctionnaires, notamment sur la revalorisation des « bas salaires »",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/13/mobilisations-sociales-sebastien-lecornu-ouvre-une-discussion-d-un-mois-avec-les-syndicats_6809324_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-13T12:43:02+00:00",
+   "extrait": "A l’issue de la réunion à Matignon, la CFDT a annoncé se joindre à l’appel à la grève et à la mobilisation dans le public mardi 17 novembre.",
+   "tags": [
+    "Économie"
    ],
    "zone": "france"
   },
@@ -137,26 +369,6 @@
    "tags": [
     "Tech"
    ],
-   "zone": "usa"
-  },
-  {
-   "id": "e1efe6f1af4b",
-   "titre": "What we know about the global Microsoft outage",
-   "lien": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-13T12:31:49+00:00",
-   "extrait": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "6caeddeed217",
-   "titre": "D.C. gunman appeared to vent about problems with luxury condo",
-   "lien": "https://www.cbsnews.com/news/dc-shooting-gunman-social-media/",
-   "source": "CBS News",
-   "date": "2026-11-13T12:29:00+00:00",
-   "extrait": "An X account associated with D.C. shooting suspect Matt Lambert was filled with complaints about mold, rodents and disrepair in his unit in the condo building.",
-   "tags": [],
    "zone": "usa"
   },
   {
@@ -275,18 +487,6 @@
    "zone": "france"
   },
   {
-   "id": "9db77797674f",
-   "titre": "Des améliorations constatées, pas de cyberattaque d'après Microsoft… Ce que l'on sait de la panne mondiale qui touche le géant américain depuis jeudi",
-   "lien": "https://www.franceinfo.fr/internet/panne-informatique-mondiale/outlook-et-teams-perturbes-pas-de-cyberattaque-d-apres-microsoft-ce-que-l-on-sait-de-la-panne-mondiale-qui-touche-le-geant-americain-depuis-jeudi_8280671.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-13T11:45:58+00:00",
-   "extrait": "Des dizaines de milliers d'utilisateurs ne peuvent pas accéder à leurs e-mails depuis jeudi soir. La panne affecte aussi certaines fonctions des assistants d'intelligence artificielle.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "a18aa197b559",
    "titre": "Watch: How a server outage took down Microsoft Teams and Outlook",
    "lien": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
@@ -352,16 +552,6 @@
     "Santé"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "0787c3f68b7e",
-   "titre": "Microsoft battling major worldwide outage",
-   "lien": "https://www.cbsnews.com/news/microsoft-battling-major-outage/",
-   "source": "CBS News",
-   "date": "2026-11-13T11:32:34+00:00",
-   "extrait": "A Microsoft outage involving services like Outlook and Teams has dragged on for hours and impacted many users, companies and some government operations.",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "c0035810c4d3",
@@ -525,11 +715,11 @@
   },
   {
    "id": "f67892e254f7",
-   "titre": "EN DIRECT, guerre en Ukraine : Kaja Kallas met en garde contre les « pièges » tendus par Moscou",
+   "titre": "EN DIRECT, guerre en Ukraine : les recettes pétrolières russes à l’exportation au plus haut depuis mai",
    "lien": "https://www.lemonde.fr/international/live/2026/11/13/en-direct-guerre-en-ukraine-kaja-kallas-met-en-garde-contre-les-pieges-tendus-par-moscou_6808609_3210.html",
    "source": "Le Monde",
    "date": "2026-11-13T10:44:39+00:00",
-   "extrait": "La cheffe de la diplomatie européenne a appelé les Européens à faire du cessez-le-feu en Ukraine leur priorité. « Si nous commençons à parler de ce que la Russie demande concernant l’architecture de…",
+   "extrait": "La Russie a tiré près de 21,2 milliards de dollars (environ 19 milliards d’euros) de ses exportations pétrolières en octobre, soit une hausse d’environ 65 % sur un an, selon l’Agence internationale…",
    "tags": [
     "Conflits"
    ],
@@ -541,7 +731,7 @@
    "lien": "https://www.lemonde.fr/pixels/article/2026/11/13/ce-que-l-on-sait-de-la-panne-d-outlook-et-de-microsoft-365_6809312_4408996.html",
    "source": "Le Monde",
    "date": "2026-11-13T10:42:43+00:00",
-   "extrait": "Plusieurs services de Microsoft, comme son outil de messagerie Outlook, Teams ou Copilot, connaissent d’importantes perturbations vendredi, ce qui affecte entreprises et gouvernements à travers le…",
+   "extrait": "Plusieurs services de Microsoft, comme Outlook, Teams ou Copilot, connaissent d’importantes perturbations vendredi, ce qui affecte entreprises et gouvernements à travers le monde. La firme…",
    "tags": [
     "Politique"
    ],
@@ -1390,6 +1580,19 @@
    "zone": "france"
   },
   {
+   "id": "25024415aaa2",
+   "titre": "La défaite de Trump va-t-elle changer quelque chose pour le climat ?",
+   "lien": "https://www.lemonde.fr/planete/article/2026/11/13/la-defaite-de-trump-va-t-elle-changer-quelque-chose-pour-le-climat_6809283_3244.html",
+   "source": "Le Monde",
+   "date": "2026-11-13T05:30:07+00:00",
+   "extrait": "Chaque semaine, l’équipe du podcast Chaleur humaine répond à vos questions sur la transition climatique",
+   "tags": [
+    "Politique",
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "547dae0d2606",
    "titre": "Antoine Dupont, Maxime Lucu et poker menteur : le XV de France mise sur l'effet de surprise contre l'Afrique du Sud",
    "lien": "https://www.franceinfo.fr/sports/rugby/coupe-d-automne-des-nations/antoine-dupont-maxime-lucu-et-poker-menteur-le-xv-de-france-mise-sur-l-effet-de-surprise-contre-l-afrique-du-sud_8279915.html#xtor=RSS-3-[lestitres]",
@@ -2207,22 +2410,10 @@
    "titre": "Ex-Oklahoma death row inmate pleads guilty to lesser charge",
    "lien": "https://www.cbsnews.com/news/richard-glossip-ex-oklahoma-death-row-inmate-pleads-guilty-to-accessory/",
    "source": "CBS News",
-   "date": "2026-11-12T23:34:05+00:00",
+   "date": "2026-11-12T23:34:00+00:00",
    "extrait": "During his time on death row, courts set nine different execution dates for Richard Glossip, and he came so close to being put to death that he ate three separate last meals.",
    "tags": [
     "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "b2a3985b13b8",
-   "titre": "Critics say Lutnick failed to cut off diversion of Nvidia chips to China",
-   "lien": "https://www.cbsnews.com/news/lutnick-nvidia-ai-chips-china/",
-   "source": "CBS News",
-   "date": "2026-11-12T23:33:00+00:00",
-   "extrait": "Commerce Secretary Howard Lutnick is under fire from critics asking whether his ties to Chinese companies and friendship with ex-Nvidia CEO Jensen Huang contributed to a lack of oversight over…",
-   "tags": [
-    "Tech"
    ],
    "zone": "usa"
   },
@@ -3182,196 +3373,6 @@
     "Tech"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "73d14eafca6f",
-   "titre": "Casualties continue to rise after Brooklyn building collapses",
-   "lien": "https://www.npr.org/sections/the-picture-show/2026/11/12/g-s1-153229/brooklyn-building-collapse-photos",
-   "source": "NPR",
-   "date": "2026-11-12T18:15:00+00:00",
-   "extrait": "First responders continue to search for survivors after a building in Brooklyn collapsed, leaving at least eight dead and dozens injured.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "91180ae0d080",
-   "titre": "Entreprises inondées, évacuations, routes fermées, éboulements : la dépression Charles frappe la Côte d'Azur",
-   "lien": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/cannes/embouteillages-accident-perturbations-les-degats-de-la-tempete-charles-sur-la-cote-d-azur-3448236.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-12T18:11:43+00:00",
-   "extrait": "La région est touchée par de fortes pluies ce jeudi 12 novembre suite à la dépression Charles. Les intempéries ont provoqué des perturbations sur les routes, des éboulements, des évacuations et des…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "3f2631cf7998",
-   "titre": "Affaire Lyhanna : Gérald Darmanin saisit le Conseil supérieur de la magistrature contre une substitut du procureur d'Auch",
-   "lien": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/affaire-lyhanna-gerald-darmanin-saisit-le-conseil-superieur-de-la-magistrature-contre-une-substitut-du-procureur-d-auch-pour-ne-pas-avoir-verifie-les-antecedents-du-suspect_8279870.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-12T18:06:24+00:00",
-   "extrait": "Le garde des Sceaux a saisi le CSM contre une substitut du parquet d'Auch après l'enquête administrative de l'Inspection générale judiciaire.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "56af8914e4ae",
-   "titre": "On fait le point sur la proposition de Jean-Luc Mélenchon d'autodéclarer les arrêts-maladies de courte durée",
-   "lien": "https://www.franceinfo.fr/sante/maladie/on-fait-le-point-sur-la-proposition-de-jean-luc-melenchon-d-autodeclarer-les-arrets-maladie-de-courte-duree_8279177.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-12T18:05:23+00:00",
-   "extrait": "Cette proposition, qui vise à désengorger les cabinets de médecins et à réaliser des économies en remboursant moins de consultations selon les insoumis, a été qualifiée de \"pure démagogie\" par le…",
-   "tags": [
-    "Politique",
-    "Économie",
-    "Santé"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "2a05140efa99",
-   "titre": "Plus d'un million de personnes sont mortes de la tuberculose en 2025, les objectifs mondiaux restent lointains s'inquiète l'OMS",
-   "lien": "https://www.franceinfo.fr/sante/plus-d-un-million-de-personnes-sont-mortes-de-la-tuberculose-en-2025-les-objectifs-mondiaux-restent-lointains-s-inquiete-l-oms_8279858.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-12T18:04:53+00:00",
-   "extrait": "Les décès dus à la tuberculose ont diminué de 4% par rapport à 2024, tandis que le nombre de cas a stagné à -0,7%.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "37f8521cea37",
-   "titre": "Présidentielle 2027 : le bac professionnel doit être rétabli en quatre ans, estime Jean-Luc Mélenchon dans le cadre de l'opération \"Nos services publics\"",
-   "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-12T18:00:34+00:00",
-   "extrait": "Huit des principaux candidats à l'élection présidentielle 2027 répondent jeudi, au fil de la journée, aux questions des journalistes de France Télévisions et Radio France à propos de l'accès et de…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "1041cdef27a7",
-   "titre": "Au Royaume-Uni, deux affaires de violences sexuelles interrogent à nouveau la « culture du silence » dans les médias et la culture",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/12/au-royaume-uni-deux-affaires-de-violences-sexuelles-interrogent-a-nouveau-la-culture-du-silence-dans-les-medias-et-la-culture_6809149_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-12T18:00:20+00:00",
-   "extrait": "La ministre de la culture britannique va recevoir des dirigeants du monde culturel et médiatique afin de leur demander de mieux protéger « les femmes et les lanceurs d’alerte » contre les « abus de…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "4df324092898",
-   "titre": "Entre la France et l’Algérie, les échanges commerciaux s’effondrent, nouvel effet de la crise entre les deux pays",
-   "lien": "https://www.lemonde.fr/afrique/article/2026/11/12/entre-la-france-et-l-algerie-les-echanges-commerciaux-s-effondrent-nouvel-effet-de-la-crise-entre-les-deux-pays_6809148_3212.html",
-   "source": "Le Monde",
-   "date": "2026-11-12T18:00:20+00:00",
-   "extrait": "Conséquence des tensions diplomatiques entre les deux Etats, les exportations françaises vers l’Algérie subissent une baisse sans précédent. Des secteurs comme les produits sidérurgiques ou…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "60ad73cecb79",
-   "titre": "Iconic NBC Sports announcer Dan Hicks dies at 64",
-   "lien": "https://www.cbsnews.com/news/dan-hicks-dies-nbc-sports-announcer-dead-age-64-wife-hannah-storm/",
-   "source": "CBS News",
-   "date": "2026-11-12T18:00:13+00:00",
-   "extrait": "Dan Hicks was the voice of golf, Olympic swimming and Notre Dame football during a 35-year career at NBC Sports.",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "342d3a05fa3b",
-   "titre": "Mamdani gives update on deadly NYC building collapse, rescue efforts",
-   "lien": "https://www.cbsnews.com/video/mamdani-gives-update-on-deadly-nyc-building-collapse-rescue-efforts/",
-   "source": "CBS News",
-   "date": "2026-11-12T17:57:33+00:00",
-   "extrait": "New York City Mayor Zohran Mamdani shared updates and took questions following a deadly building collapse in Brooklyn. CBS News' Jared Ochacher reports.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "db5dc68ee913",
-   "titre": "CAN 2027 : après une démonstration à domicile, la RD Congo a déjà un pied en Afrique de l'Est",
-   "lien": "https://www.france24.com/fr/sports/20261112-can-2027-apr%C3%A8s-une-d%C3%A9monstration-%C3%A0-domicile-la-rd-congo-a-d%C3%A9j%C3%A0-un-pied-en-afrique-de-l-est",
-   "source": "France 24",
-   "date": "2026-11-12T17:54:13+00:00",
-   "extrait": "La RD Congo continue son sans-faute dans les qualifications de la CAN 2027. Au stade des Martyrs de Kinshasa, la Sierra-Leone a été la victime du jour des Léopards (3-1). Les hommes de Sebastien…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "e4c792dd4b0f",
-   "titre": "\"48 Hours\" show schedule",
-   "lien": "https://www.cbsnews.com/48-hours/episode-schedule/",
-   "source": "CBS News",
-   "date": "2026-11-12T17:53:13+00:00",
-   "extrait": "\"48 Hours\" uncovers the narrative behind true crime cases with unmatched reporting and suspense.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "60f65255c284",
-   "titre": "\"Complément d'enquête\". \"J'ai décidé qu'on ne pourrait plus porter l'abaya à l'école\" : les coulisses d'une opération de communication en 2023 qui a fait bondir la popularité de Gabriel Attal",
-   "lien": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-complement-d-enquete-j-ai-decide-qu-on-ne-pourrait-plus-porter-l-abaya-a-l-ecole-les-coulisses-d-une-operation-de-communication-en-2023-qui-a-fait-bondir-la-popularite-de-gabriel-attal_8278169.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-12T17:51:36+00:00",
-   "extrait": "Selon ses détracteurs, la méthode Gabriel Attal, ce serait beaucoup de com, au détriment parfois du fond. Cet extrait de \"Complément d'enquête\" sur l'enfant (pas si) chéri de la macronie révèle les…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "e7c287f9e5dc",
-   "titre": "Candidature de Teddy Riner : qui a le plus à craindre aux présidentielles ?",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/politique/20261112-candidature-de-teddy-riner-primaire-de-la-droite-et-du-centre",
-   "source": "France 24",
-   "date": "2026-11-12T17:48:15+00:00",
-   "extrait": "Le judoka Teddy Riner est candidat à la présidentielle. Emmanuel Macron s'est réjoui de cette annonce. L'objectif est maintenant de transformer sa popularité en voix. L'arrivée du sportif dans la…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "b68d9edcf65b",
-   "titre": "Présidentielle 2027 : \"La possibilité de se syndiquer doit être interdite\" dans la magistrature, estime Édouard Philippe",
-   "lien": "https://www.franceinfo.fr/elections/presidentielle-2027-la-possibilite-de-se-syndiquer-doit-etre-interdite-dans-la-magistrature-estime-edouard-philippe_8279816.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-12T17:45:52+00:00",
-   "extrait": "Dans le cadre de la journée évènement franceinfo consacrée aux services publics, Édouard Philippe, candidat Horizons à la présidentielle, a détaillé son programme sur cet enjeu majeur du scrutin…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "b242c6b87119",
-   "titre": "EN DIRECT, Italie-France : battus, les Bleus joueront leur qualification pour les quarts de finale de la Ligue des nations face à la Turquie",
-   "lien": "https://www.lemonde.fr/sport/live/2026/11/12/en-direct-italie-france-suivez-le-match-de-ligue-des-nations-de-football_6809143_3242.html",
-   "source": "Le Monde",
-   "date": "2026-11-12T17:45:01+00:00",
-   "extrait": "Les Bleus se sont inclinés, jeudi à Milan, pour la première fois depuis l’arrivée de Zinédine Zidane sur le banc de la sélection (1-3). Après un beau début de match, ils ont progressivement perdu le…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "5f255586c14c",
-   "titre": "Jean-Luc Mélenchon a été interdit d’entrée en Israël en raison de la « position extrêmement hostile » de LFI",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/12/israel-interdit-a-jean-luc-melenchon-l-entree-sur-son-territoire-jugeant-lfi-extremement-hostile-a-son-egard_6809141_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-12T17:39:26+00:00",
-   "extrait": "L’Etat hébreu interdira l’accès à son territoire à toute personne « agissant contre ses intérêts et incitant à la haine contre ses citoyens », a prévenu la diplomatie israélienne.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
   }
  ]
 }
