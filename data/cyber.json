@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-13T05:05:40+00:00",
+ "maj": "2026-11-13T06:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "9e0cc84d062d",
+   "titre": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
+   "lien": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
+   "source": "The Hacker News",
+   "date": "2026-11-13T05:43:28+00:00",
+   "extrait": "N-able on Thursday said it's taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell. \"We are restricting certain N-central…",
+   "tags": [
+    "Faille",
+    "Fuite de données"
+   ]
+  },
   {
    "id": "3b8d7732462b",
    "titre": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
@@ -3421,19 +3433,6 @@
    "tags": [
     "Faille",
     "Fuite de données"
-   ]
-  },
-  {
-   "id": "3ce297811edf",
-   "titre": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
-   "lien": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
-   "source": "The Hacker News",
-   "date": "2026-11-03T11:00:45+00:00",
-   "extrait": "A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations. \"Active since at least February 2025, the group…",
-   "tags": [
-    "Faille",
-    "Fuite de données",
-    "Malware"
    ]
   }
  ]
