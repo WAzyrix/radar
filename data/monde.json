@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-13T09:05:41+00:00",
+ "maj": "2026-11-13T10:05:42+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,21 +22,24 @@
  "erreurs": [],
  "articles": [
   {
-   "id": "98faf174d861",
-   "titre": "Une panne mondiale touche la messagerie Outlook de Microsoft, \"aucun signe d'action malveillante ou de cyberattaque\" n'a été détecté à ce stade",
-   "lien": "https://www.franceinfo.fr/internet/microsoft/une-panne-mondiale-touche-la-messagerie-outlook-de-microsoft-les-mesures-pour-la-resoudre-ne-fonctionnent-pas-comme-prevu_8280422.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-13T09:00:59+00:00",
-   "extrait": "Le géant américain du logiciel a affirmé jeudi travailler \"sans relâche\" pour régler la situation. Mais les mesures prises pour résoudre cette panne mondiale ne fonctionnent \"pas comme prévu\"…",
-   "tags": [],
-   "zone": "france"
+   "id": "dfc52888b082",
+   "titre": "Douma, mensonge d'État : enquête sur une attaque chimique en Syrie",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/reporters/20261113-douma-mensonge-d-%C3%A9tat-enqu%C3%AAte-sur-une-attaque-chimique-en-syrie",
+   "source": "France 24",
+   "date": "2026-11-13T10:03:58+00:00",
+   "extrait": "Le 7 avril 2018, la ville syrienne de Douma, dans la banlieue de Damas, est frappée par une attaque chimique. Les soupçons se portent alors sur le régime syrien mais les preuves disparaissent. Huit…",
+   "tags": [
+    "Conflits",
+    "Justice"
+   ],
+   "zone": "monde"
   },
   {
    "id": "16e7e033457b",
-   "titre": "Panne mondiale de Microsoft : \"Des résultats positifs en matière de stabilité du service\" constatés par le géant américain",
+   "titre": "Panne mondiale de Microsoft : \"Une stabilisation précoce et des améliorations de capacité\" constatées par le géant américain",
    "lien": "https://www.franceinfo.fr/internet/microsoft/direct-panne-mondiale-de-microsoft-des-resultats-positifs-en-matiere-de-stabilite-du-service-constates-par-le-geant-americain_8280665.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-11-13T09:00:26+00:00",
+   "date": "2026-11-13T10:00:35+00:00",
    "extrait": "Le géant américain fait face à une importante panne qui touche depuis jeudi soir la messagerie Outlook et des produits comme Teams ou l'assistant IA Copilot.",
    "tags": [
     "Tech"
@@ -44,14 +47,223 @@
    "zone": "france"
   },
   {
+   "id": "02d5db4b27b5",
+   "titre": "Fill in the blank in the quiz: NASA will pay astronauts $___ to live on the moon",
+   "lien": "https://www.npr.org/2026/11/13/g-s1-153174/tesla-nvidia-huang-arch-nasa-gas-trump-news-quiz",
+   "source": "NPR",
+   "date": "2026-11-13T10:00:00+00:00",
+   "extrait": "Plus: Have you been following news about cars and Pete Hegseth this week?",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "bde46c6768ed",
+   "titre": "These swing voters have low expectations for divided government",
+   "lien": "https://www.npr.org/2026/11/13/nx-s1-6035826/north-carolina-swing-voters-congress-trump",
+   "source": "NPR",
+   "date": "2026-11-13T10:00:00+00:00",
+   "extrait": "Key voters in North Carolina are pessimistic the blue wave flipping control of Congress will solve their economic woes. Many say President Trump will be the chief obstacle.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "c1fe22670c24",
+   "titre": "The cost of college is confusing. Some schools are trying to change that",
+   "lien": "https://www.npr.org/2026/11/13/nx-s1-6023392/real-college-costs-confusing",
+   "source": "NPR",
+   "date": "2026-11-13T10:00:00+00:00",
+   "extrait": "Many Americans have soured on higher education because of how frustratingly hard it is to figure out what they will pay to attend.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "920e18d85a6a",
+   "titre": "Fed up with the healthcare industry, this red state capped insulin prices for patients",
+   "lien": "https://www.npr.org/2026/11/13/nx-s1-6032717/diabetes-insurance-insulin-price",
+   "source": "NPR",
+   "date": "2026-11-13T10:00:00+00:00",
+   "extrait": "Republicans and Democrats in North Dakota worked together to limit what people with diabetes have to pay for insulin, joining a growing bipartisan push across the country to protect patients.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "95935896633c",
+   "titre": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+   "lien": "https://www.npr.org/2026/11/13/nx-s1-6029408/google-ai-search-schools",
+   "source": "NPR",
+   "date": "2026-11-13T10:00:00+00:00",
+   "extrait": "The forthcoming move has left some parents and educators frustrated and wondering about the company's motivations.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "e1efe6f1af4b",
+   "titre": "What we know about the global Microsoft outage",
+   "lien": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-13T09:59:20+00:00",
+   "extrait": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "1f7f110ca22e",
+   "titre": "Rosalía and Milo J take top awards as Daddy Yankee is paid tribute at Latin Grammys",
+   "lien": "https://www.npr.org/2026/11/13/nx-s1-6032776/latin-grammys-2026",
+   "source": "NPR",
+   "date": "2026-11-13T09:57:22+00:00",
+   "extrait": "The night was filled with music and surprises. Rosalía opened the show with medley of tracks and elaborate dancing, and Milo J appeared with a colorful Uruguayan theatrical ensemble.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "1db3ae956a30",
+   "titre": "Latin Grammy Awards : l'Espagnole Rosalia et l'Argentin Milo J grands gagnants de la cérémonie",
+   "lien": "https://www.franceinfo.fr/culture/musique/pop/latin-grammy-awards-l-espagnole-rosalia-et-l-argentin-milo-j-grands-gagnants-de-la-ceremonie_8280656.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-13T09:44:53+00:00",
+   "extrait": "La chanteuse native de Catalogne a remporté quatre récompenses, dont la plus importante, celle d'album de l'année. Milo J a également gagné quatre trophées.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "180806347ba9",
+   "titre": "Attentat raciste de Trappes : le Rassemblement national annonce déposer une plainte en diffamation « très prochainement » contre Marine Tondelier",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/13/attentat-raciste-de-trappes-le-rassemblement-national-annonce-deposer-une-plainte-en-diffamation-tres-prochainement-contre-marine-tondelier_6809304_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-13T09:44:33+00:00",
+   "extrait": "Après que les enquêteurs ont retrouvé des autocollants « Vive la France, RN, fier d’être français » chez Kevin Tessier, auteur de l’attentat, la patronne des Ecologistes avait déclaré : « Qu’est-ce…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "d4c8cb171b96",
+   "titre": "Morning news brief",
+   "lien": "https://www.npr.org/2026/11/13/nx-s1-6035581/morning-news-brief",
+   "source": "NPR",
+   "date": "2026-11-13T09:44:21+00:00",
+   "extrait": "What's next for Nvidia after CEO's resignation, Trump's reliance on former Nvidia CEO in flux ahead of China trip, Trump's envoys hope to get Europe involved in Russia-Ukraine peace talks.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "29e1b119a146",
+   "titre": "Manifestations du 14 novembre : parcours, revendications, sécurité... Ce qu'il faut savoir",
+   "lien": "https://www.france24.com/fr/france/20261113-manifestations-du-14-novembre-parcours-revendications-s%C3%A9curit%C3%A9-ce-qu-il-faut-savoir",
+   "source": "France 24",
+   "date": "2026-11-13T09:43:27+00:00",
+   "extrait": "Les organisations de jeunesse et la coordination des gilets jaunes ont appelé à manifester samedi dans toute la France pour l'acte V du mouvement contre la \"vie chère\". À Paris, le cortège partira…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "b9ee0fba0c7f",
+   "titre": "Crise sociale : la réunion entre les syndicats de fonctionnaires et le Premier ministre a débuté",
+   "lien": "https://www.franceinfo.fr/economie/pouvoir-achat/direct-crise-sociale-les-syndicats-de-fonctionnaires-recu-vendredi-matin-par-le-premier-ministre-pour-reclamer-de-meilleurs-salaires_8280482.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-13T09:36:11+00:00",
+   "extrait": "Les syndicats, reçus à Matignon vendredi matin, attendent des annonces sur leur rémunération, quelques jours après un coup de pouce au smic qui ne les concerne pas et avant une grève annoncée dans…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "05e447f331a1",
+   "titre": "Les fausses alertes à la bombe sont \"concertées\" et relèvent possiblement d'une \"ingérence étrangère\", affirme Laurent Nuñez",
+   "lien": "https://www.franceinfo.fr/politique/ingerence/les-fausses-alertes-a-la-bombe-sont-concertees-et-relevent-possiblement-d-une-ingerence-etrangere-affirme-laurent-nunez_8280764.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-13T09:32:08+00:00",
+   "extrait": "Des écoles en Italie, en Irlande et au Royaume-Uni ont fait l'objet de fausses alertes à la bombe mercredi. En France, trois établissements scolaires ont reçu le même type de menaces jeudi.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "b9ba70ff02ee",
-   "titre": "L'inflation en France a atteint 3,4% sur un an en octobre",
+   "titre": "L'inflation en France a atteint 3,4% sur un an en octobre, à son plus haut niveau depuis janvier 2024",
    "lien": "https://www.franceinfo.fr/economie/inflation/l-inflation-en-france-a-atteint-3-4-sur-un-an-en-octobre_8280635.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-11-13T08:54:13+00:00",
-   "extrait": "Ce chiffre est conforme à l'estimation provisoire publiée fin octobre et au plus haut depuis janvier 2024, en raison d'une accélération des prix de l'énergie.",
+   "date": "2026-11-13T09:27:05+00:00",
+   "extrait": "Cette nouvelle envolée des prix, conforme à l'estimation provisoire publiée fin octobre, est due à la forte augmentation des tarifs de l'énergie.",
    "tags": [
     "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "98faf174d861",
+   "titre": "Une panne mondiale touche la messagerie Outlook de Microsoft, \"aucun signe d'action malveillante ou de cyberattaque\" n'a été détecté à ce stade",
+   "lien": "https://www.franceinfo.fr/internet/microsoft/une-panne-mondiale-touche-la-messagerie-outlook-de-microsoft-les-mesures-pour-la-resoudre-ne-fonctionnent-pas-comme-prevu_8280422.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-13T09:24:07+00:00",
+   "extrait": "Le géant américain du logiciel a affirmé jeudi travailler \"sans relâche\" pour régler la situation. Mais les mesures prises pour résoudre cette panne mondiale ne fonctionnent \"pas comme prévu\"…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "09c42eea5fa6",
+   "titre": "Un fabricant allemand de drones, fournisseur de l'Ukraine, visé par une cyberattaque fin octobre",
+   "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/un-fabricant-allemand-de-drones-fournisseur-de-l-ukraine-vise-par-une-cyberattaque-fin-octobre_8280734.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-13T09:18:51+00:00",
+   "extrait": "\"Les entreprises qui sont en première ligne dans le soutien de l'Ukraine sont prises pour cible précisément parce que notre travail revêt une importance cruciale pour la sécurité de nos clients\"…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "a25ff6a31461",
+   "titre": "Que demandent les syndicats de fonctionnaires, reçus à Matignon vendredi ?",
+   "lien": "https://www.franceinfo.fr/economie/transports/mobilisation-du-17-novembre/que-demandent-les-syndicats-de-fonctionnaires-recus-a-matignon-vendredi_8280539.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-13T09:18:09+00:00",
+   "extrait": "Après celles du privé mardi, les organisations syndicales de la fonction publique sont reçues vendredi matin par Sébastien Lecornu. Elles souhaitent principalement la revalorisation du point…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "d5441ad70367",
+   "titre": "En crise, le RC Lens évince Yannick Cahuzac, deux mois après avoir déjà changé d’entraîneur",
+   "lien": "https://www.lemonde.fr/sport/article/2026/11/13/en-crise-le-rc-lens-evince-yannick-cahuzac-deux-mois-apres-avoir-deja-change-d-entraineur_6809299_3242.html",
+   "source": "Le Monde",
+   "date": "2026-11-13T09:07:15+00:00",
+   "extrait": "Le Racing Club de Lens a annoncé, jeudi, se séparer de son entraîneur, à la suite de deux mois de déboires sportifs et de son humiliation face à Côme (1-9) la semaine dernière. Le même jour, Crystal…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "e6dc56c9c742",
+   "titre": "En Cisjordanie occupée, la routine des attaques, des violences et des spoliations",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/13/en-cisjordanie-occupee-la-routine-des-attaques-des-violences-et-des-spoliations_6809298_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-13T09:00:14+00:00",
+   "extrait": "Alors que les élections législatives israéliennes du 27 octobre n’ont pas dégagé de majorité claire, la situation continue de se dégrader dans le territoire palestinien, où les colons et l’armée…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "d5cd6b050c2d",
+   "titre": "Gadi Eisenkot, possible futur premier ministre d’Israël et « fils d’immigrés » nés à Casablanca et Marrakech, suscite l’intérêt au Maroc",
+   "lien": "https://www.lemonde.fr/afrique/article/2026/11/13/gadi-eisenkot-possible-futur-premier-ministre-d-israel-et-fils-d-immigres-nes-a-casablanca-et-marrakech-suscite-l-interet-au-maroc_6809296_3212.html",
+   "source": "Le Monde",
+   "date": "2026-11-13T09:00:06+00:00",
+   "extrait": "Mandaté pour former un nouvel exécutif, le principal opposant à Benyamin Nétanyahou pourrait devenir le premier chef de gouvernement israélien d’origine marocaine.",
+   "tags": [
+    "Politique",
+    "Conflits"
    ],
    "zone": "france"
   },
@@ -76,6 +288,18 @@
    "extrait": "Le tribunal de commerce de Toulouse a prononcé jeudi 12 novembre la liquidation judiciaire de l'usine de pâte à papier Fibre Excellence à Saint-Gaudens en Haute-Garonne. Invité sur ICI Occitanie, le…",
    "tags": [
     "Politique",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "915efa3f2cd7",
+   "titre": "Dans les fauteuils rouges de \"Complément d'enquête\" : Prisca Thevenot, directrice de campagne de Gabriel Attal",
+   "lien": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-dans-les-fauteuils-rouges-de-complement-d-enquete-prisca-thevenot-directrice-de-campagne-de-gabriel-attal_8280116.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-13T08:42:09+00:00",
+   "extrait": "Bien qu'omniprésent dans les médias, Gabriel Attal n'a pas souhaité se faire interviewer dans les fauteuils rouges de \"Complément d'enquête\". Le candidat centriste à qui l'émission consacrait un…",
+   "tags": [
     "Justice"
    ],
    "zone": "france"
@@ -125,6 +349,31 @@
    "extrait": "La congrégation de Bétharram assure que le comité de suivi évoqué par l'Institut Louis Joinet répondait uniquement \"à une initiative\" de l'association. Elle estime que la mission confiée à l'ONG…",
    "tags": [],
    "zone": "france"
+  },
+  {
+   "id": "0945e6cebd21",
+   "titre": "Avoir un chien divise par deux le risque de maladies comme Alzheimer, selon des chercheurs japonais",
+   "lien": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/avoir-un-chien-divise-par-deux-le-risque-de-maladies-comme-alzheimer-selon-des-chercheurs-japonais_8259698.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-13T08:21:36+00:00",
+   "extrait": "Pour faire des économies dans les dépenses de santé, la solution est-elle de donner un chiot à tout le monde ? Des scientifiques japonais ont scruté pendant plus de sept ans un échantillon de la…",
+   "tags": [
+    "Économie",
+    "Santé"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "487771498d60",
+   "titre": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
+   "lien": "https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-13T08:20:28+00:00",
+   "extrait": "Claims the entire Australian team knew of the 2018 sandpaper cheating plot are dividing the cricket world.",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "monde"
   },
   {
    "id": "7dd57e93dcfd",
@@ -260,6 +509,18 @@
    "zone": "monde"
   },
   {
+   "id": "bdf9d3831b97",
+   "titre": "Watch: How Microsoft services went down around the world",
+   "lien": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-13T07:18:17+00:00",
+   "extrait": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "2d1bc6bb9d9f",
    "titre": "Adolescente éborgnée à Mulhouse : le procureur de la République annonce l'ouverture d'une information judiciaire",
    "lien": "https://france3-regions.franceinfo.fr/grand-est/haut-rhin/mulhouse/adolescente-eborgnee-a-mulhouse-le-procureur-de-la-republique-annonce-l-ouverture-d-une-information-judiciaire-3448782.html#xtor=RSS-3-[lestitres]",
@@ -304,6 +565,16 @@
    "zone": "france"
   },
   {
+   "id": "0abcd0e4029c",
+   "titre": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+   "lien": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-13T07:01:43+00:00",
+   "extrait": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
    "id": "e188a9ef2cdd",
    "titre": "Audiences de la radio : les stations d’information accusent le coup",
    "lien": "https://www.lemonde.fr/economie/article/2026/11/13/audiences-de-la-radio-les-stations-d-information-accusent-le-coup_6809290_3234.html",
@@ -322,19 +593,6 @@
    "extrait": "Malgré la poursuite des manifestations des lycéens et des étudiants, le président de la République, Emmanuel Macron, ne se sent pas sommé de répondre aux revendications, analyse Isabelle Boucobza…",
    "tags": [
     "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "b9ee0fba0c7f",
-   "titre": "Crise sociale : les syndicats de fonctionnaires reçus vendredi matin par le Premier ministre pour réclamer de meilleurs salaires",
-   "lien": "https://www.franceinfo.fr/economie/pouvoir-achat/direct-crise-sociale-les-syndicats-de-fonctionnaires-recu-vendredi-matin-par-le-premier-ministre-pour-reclamer-de-meilleurs-salaires_8280482.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-13T06:48:12+00:00",
-   "extrait": "Les syndicats sont reçus à Matignon vendredi matin, quelques jours après un coup de pouce au smic qui ne les concerne pas et avant une grève annoncée dans la fonction publique le 17 novembre.",
-   "tags": [
-    "Politique",
-    "Économie"
    ],
    "zone": "france"
   },
@@ -433,6 +691,16 @@
    "source": "Le Monde",
    "date": "2026-11-13T06:00:10+00:00",
    "extrait": "En mai, le Vatican a demandé pardon aux villageois de Catacaos, dans le nord du Pérou, pour la dépossession de leurs terres au nom de l’Eglise et du Sodalicio – une organisation apostolique laïque…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "d524f5c8ceaa",
+   "titre": "La voix singulière de Jean-Paul Sartre se fait entendre entre les lignes du « Cours de philosophie de terminale » de 1942-1943",
+   "lien": "https://www.lemonde.fr/livres/article/2026/11/13/la-voix-singuliere-de-jean-paul-sartre-se-fait-entendre-entre-les-lignes-du-cours-de-philosophie-de-terminale-de-1942-1943_6809286_3260.html",
+   "source": "Le Monde",
+   "date": "2026-11-13T06:00:07+00:00",
+   "extrait": "Ces cours inédits du professeur de philo au lycée Condorcet, à Paris, témoignent de l’enseignement de son époque comme de la singularité de la pensée de celui qui, dans le même temps, mettait la…",
    "tags": [],
    "zone": "france"
   },
@@ -719,6 +987,16 @@
    "extrait": "At least eight people were killed​ after a building collapsed Wednesday in Flatbush, Brooklyn.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "afc611336791",
+   "titre": "Will the Eurovision Song Contest succeed in Asia?",
+   "lien": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-13T02:24:11+00:00",
+   "extrait": "The world’s biggest and longest-running song contest is coming to Asia, with eleven countries competing in Bangkok, Thailand on Saturday.",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "4c51967d78ad",
@@ -1174,12 +1452,14 @@
   },
   {
    "id": "b79540d7107b",
-   "titre": "Une panne mondiale de la messagerie Outlook perturbe l’accès aux e-mails, Microsoft peine à résoudre la situation",
+   "titre": "Panne mondiale d’Outlook : Microsoft écarte l’hypothèse d’une attaque de sa messagerie et constate de premiers « résultats positifs »",
    "lien": "https://www.lemonde.fr/pixels/article/2026/11/13/une-panne-mondiale-d-outlook-empeche-des-dizaines-de-milliers-d-utilisateurs-d-acceder-a-leurs-e-mails_6809171_4408996.html",
    "source": "Le Monde",
    "date": "2026-11-12T23:36:49+00:00",
-   "extrait": "« Aucun signe d’action malveillante ou de cyberattaque » n’a été identifié à ce stade, assure le géant de l’informatique. Les mesures prises pour résoudre le problème ne fonctionnent « pas comme…",
-   "tags": [],
+   "extrait": "La perturbation, qui est toujours en cours dans des dizaines de pays, affecte également Teams et Copilot. L’entreprise ne s’avance pas encore sur un délai de rétablissement complet, et justifie la…",
+   "tags": [
+    "Conflits"
+   ],
    "zone": "france"
   },
   {
@@ -3137,293 +3417,6 @@
    "extrait": "At least eight people have died after a building collapse in Brooklyn, New York City Mayor Zohran Mamdani confirmed. Children are among the injured, officials said. CBS News' Jarred Hill reports.",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "be836344490f",
-   "titre": "États-Unis : un prestigieux paquebot coulé pour devenir un immense récif artificiel",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-%C3%A9tats-unis-un-prestigieux-paquebot-coul%C3%A9-pour-devenir-un-immense-r%C3%A9cif-artificiel",
-   "source": "France 24",
-   "date": "2026-11-12T15:31:19+00:00",
-   "extrait": "Un prestigieux paquebot américain, le SS United States, plus long que le Titanic et ayant accompli plus de 800 voyages transatlantiques dans les années 1950 et 1960, a été coulé mercredi 11 novembre…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "bbfcbbe62531",
-   "titre": "How men can guard against prostate cancer",
-   "lien": "https://www.cbsnews.com/video/how-men-can-guard-against-prostate-cancer/",
-   "source": "CBS News",
-   "date": "2026-11-12T15:30:29+00:00",
-   "extrait": "Men should start screening for prostate cancer earlier, according to new guidance from the American Cancer Society. Dr. Céline Gounder explains how guidelines are changing.",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "2378eb391a33",
-   "titre": "Scandale Ueno Bank au Paraguay : 93 % des clients ont récupéré leurs fonds",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-scandale-ueno-bank-au-paraguay-93-des-clients-ont-r%C3%A9cup%C3%A9r%C3%A9-leurs-fonds",
-   "source": "France 24",
-   "date": "2026-11-12T15:28:12+00:00",
-   "extrait": "La Banque centrale du Paraguay a annoncé que 93 % des clients de Ueno Bank bénéficiant d'une garantie de l'État ont déjà récupéré au moins une partie de leurs économies, une semaine après…",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "a4ccb33b3d80",
-   "titre": "Israeli strike on Gaza hospital kills 6, health authorities say",
-   "lien": "https://www.cbsnews.com/news/israel-strike-gaza-hospital-kills-several/",
-   "source": "CBS News",
-   "date": "2026-11-12T15:26:36+00:00",
-   "extrait": "An Israeli airstrike targeting the Nasser Hospital in southern Gaza killed six people and wounded at least a dozen more, Gaza's Hamas-controlled Health Ministry said.",
-   "tags": [
-    "Conflits",
-    "Santé"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "3bf6dc30ef51",
-   "titre": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
-   "lien": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
-   "source": "NPR",
-   "date": "2026-11-12T15:26:34+00:00",
-   "extrait": "Jared Kushner and Steve Witkoff went to the Kremlin to brief Russian President Vladimir Putin and are scheduled to fly later to Ireland for talks with Ukrainian President Volodymyr Zelenskyy.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "c6bf5958e9fb",
-   "titre": "États-Unis : le patron de Nvidia Jensen Huang démissionne suite aux scandales",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-%C3%A9tats-unis-le-patron-de-nvidia-jensen-huang-d%C3%A9missionne-suite-aux-scandales",
-   "source": "France 24",
-   "date": "2026-11-12T15:25:02+00:00",
-   "extrait": "Le patron de Nvidia, Jensen Huang, a démissionné jeudi 12 novembre de son poste de directeur général, mettant fin à 33 années passées à la tête du groupe, après des révélations sur deux relations…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "d83759d9edfd",
-   "titre": "SS United States is sunk off the Florida coast to become largest artificial reef",
-   "lien": "https://www.cbsnews.com/video/ss-united-states-is-sunk-off-the-florida-coast-to-become-largest-artificial-reef/",
-   "source": "CBS News",
-   "date": "2026-11-12T15:23:36+00:00",
-   "extrait": "The SS United States sank to the bottom of the ocean to become the world's largest artificial reef. Skyler Henry has more.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "3791dca5ad75",
-   "titre": "Guerre en Ukraine : les émissaires américains affirment \"des libérations de prisonniers\"",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-guerre-en-ukraine-les-%C3%A9missaires-am%C3%A9ricains-affirment-des-lib%C3%A9rations-de-prisonniers",
-   "source": "France 24",
-   "date": "2026-11-12T15:21:17+00:00",
-   "extrait": "Lors d'une entrevue au Kremlin le jeudi 12 novembre, les émissaires américains Jared Kushner et Steve Witkoff ont exhorté le président russe à intégrer les pays européens aux pourparlers destinés à…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "b34ae41b8f47",
-   "titre": "Mississippi goes blue after highly contested Senate battle",
-   "lien": "https://www.cbsnews.com/video/mississippi-goes-blue-after-highly-contested-senate-battle/",
-   "source": "CBS News",
-   "date": "2026-11-12T15:19:22+00:00",
-   "extrait": "Democrat Scott Colom is projected to win Mississippi after a lengthy Senate battle. Mark Strassmann reports.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "d08f5826855b",
-   "titre": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
-   "lien": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-12T15:18:20+00:00",
-   "extrait": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "cb8ea8715809",
-   "titre": "Narchomicide en France : perpétuité requise contre quatre accusés",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-france-perp%C3%A9tuit%C3%A9-requise-contre-quatre-accus%C3%A9s-dont-deux-barons-de-la-drogue",
-   "source": "France 24",
-   "date": "2026-11-12T15:17:47+00:00",
-   "extrait": "Dénonçant la \"barbarie poussée à l'extrême\" d'un triple narchomicide dont l'une des victimes est le frère d'Amine Kessaci, figure de la lutte anti-narcotrafic, l'accusation a requis mercredi 11…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "04da9cdc0523",
-   "titre": "Death toll in NYC building collapse rises as rescuers race to find survivors",
-   "lien": "https://www.cbsnews.com/video/death-toll-in-nyc-building-collapse-rises-as-rescuers-race-to-find-survivors/",
-   "source": "CBS News",
-   "date": "2026-11-12T15:16:42+00:00",
-   "extrait": "At least eight people died and over a dozen were injured after a residential building collapsed in Brooklyn, New York, officials say. Lilia Luciano has the latest.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "836a75c74283",
-   "titre": "Shooting in Washington, D.C., at least 5 people shot, officials say",
-   "lien": "https://www.cbsnews.com/video/shooting-in-washington-dc-at-least-5-people-shot-officials-say/",
-   "source": "CBS News",
-   "date": "2026-11-12T15:15:47+00:00",
-   "extrait": "A suspect is apparently barricaded after allegedly carrying out a shooting in Washington, D.C., in the Logan Circle neighborhood. CBS News' Nicole Sganga reports.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "d1c89b78ca0a",
-   "titre": "Présidentielle 2027 : le \"Made in France\", un enjeu devenu majeur dans la campagne",
-   "lien": "https://www.france24.com/fr/france/20261112-france-presidentielle-2027-le-made-in-france-un-enjeu-devenu-majeur-dans-la-campagne",
-   "source": "France 24",
-   "date": "2026-11-12T15:15:33+00:00",
-   "extrait": "Le salon du \"Made in France\", qui se tient du 12 au 15 novembre à Paris, verra défiler de nombreux candidats à l’élection présidentielle française. Ceux-ci ont conscience qu’il s’agit d’un levier…",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "327c38db0d49",
-   "titre": "France : des appels au meurtre de livreurs étrangers, un système d'entraide se met en place",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-france-des-appels-au-meurtre-de-livreurs-%C3%A9trangers-un-syst%C3%A8me-d-entraide-se-met-en-place",
-   "source": "France 24",
-   "date": "2026-11-12T15:14:18+00:00",
-   "extrait": "Alors que des appels à agresser et à tuer des livreurs étrangers ont été diffusés sur les réseaux sociaux par des extrémistes, la peur s'est installée chez ces travailleurs précaires, dont beaucoup…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "09bbb8f35d51",
-   "titre": "Midterms 2026 : exploit des démocrates dans le Mississippi avec l'élection de Scott Colom",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-midterms-2026-exploit-des-d%C3%A9mocrates-dans-le-mississippi-avec-l-%C3%A9lection-de-scott-colom",
-   "source": "France 24",
-   "date": "2026-11-12T15:11:14+00:00",
-   "extrait": "Le démocrate Scott Colom est crédité d'une victoire historique dans le Mississippi face à la sénatrice ​républicaine sortante Cindy Hyde-Smith lors des élections de mi-mandat au Congrès américain ce…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "ca951f3181a6",
-   "titre": "Pentagon reacts after Hegseth's party was reprimanded at Arlington over laughing near sacred tomb",
-   "lien": "https://www.cbsnews.com/video/pentagon-reacts-after-hegseths-party-was-reprimanded-at-arlington-over-laughing-near-famous-tomb/",
-   "source": "CBS News",
-   "date": "2026-11-12T15:10:54+00:00",
-   "extrait": "The Pentagon responded after video emerged of Secretary of Defense Pete Hegseth's party being reprimanded at the Tomb of the Unknown Soldier at Arlington National Cemetery. CBS News' Olivia Rinaldi…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "a020bde73133",
-   "titre": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
-   "lien": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-12T15:10:32+00:00",
-   "extrait": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "f52679ec704a",
-   "titre": "New York : effondrement meurtrier d'un immeuble à Brooklyn",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-new-york-effondrement-meurtrier-d-un-immeuble-%C3%A0-brooklyn",
-   "source": "France 24",
-   "date": "2026-11-12T15:09:13+00:00",
-   "extrait": "Le nombre de victimes de l'effondrement d'un immeuble survenu la veille à New York s'est considérablement alourdi jeudi matin avec huit morts et 19 blessés, dont quatre dans un état critique, selon…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "dd3d08bfbfec",
-   "titre": "Un immeuble s'effondre à New York, au moins huit morts et 19 blessés",
-   "lien": "https://www.franceinfo.fr/monde/usa/un-immeuble-s-effondre-a-new-york-au-moins-deux-morts-et-17-blesses-selon-un-bilan-provisoire_8278736.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-12T15:08:40+00:00",
-   "extrait": "Parmi les personnes blessées figurent sept enfants, dont quatre grièvement touchés. Les services de secours sont toujours à pied d'œuvre.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "13194e17ef29",
-   "titre": "Cisjordanie : des camps de déplacés inondés, l'aide humanitaire insuffisante",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-cisjordanie-des-camps-de-d%C3%A9plac%C3%A9s-inond%C3%A9s-l-aide-humanitaire-insuffisante",
-   "source": "France 24",
-   "date": "2026-11-12T15:08:13+00:00",
-   "extrait": "À Gaza, alors que les frappes et les tirs israéliens restent encore fréquents, des intempéries puissantes viennent aggravées la situations des déplacés palestiniens. Les pluies diluviennes qui…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "baf9eb2a4fc9",
-   "titre": "Bessent relocated to military base over threats, Trump says U.S. won the Iran war",
-   "lien": "https://www.cbsnews.com/video/bessent-relocated-to-military-base-over-threats-trump-says-us-won-the-iran-war/",
-   "source": "CBS News",
-   "date": "2026-11-12T15:04:48+00:00",
-   "extrait": "President Trump said Wednesday that the U.S. has won the war with Iran. This comes as Treasury Secretary Scott Bessent faces apparent threats from Tehran. CBS News' Courtney Kealy reports.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "8e9bbbd3e13c",
-   "titre": "Sommet en Irlande : l'Europe doit avoir une \"vision claire et unie\" d'après Macron",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-sommet-en-irlande-l-europe-doit-avoir-une-vision-claire-et-unie-d-apr%C3%A8s-macron",
-   "source": "France 24",
-   "date": "2026-11-12T15:01:48+00:00",
-   "extrait": "L'Europe doit avoir \"une vision claire et unie de ce qu'elle veut pour l'Ukraine et pour elle-même\" avant de se choisir un éventuel émissaire pour des pourparlers avec la Russie, a déclaré jeudi 12…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "892b4cdf4640",
-   "titre": "Les cinq raisons pour lesquelles les IA ne sont pas (encore) un risque pour l’humanité",
-   "lien": "https://www.lemonde.fr/pixels/article/2026/11/12/les-cinq-raisons-pour-lesquelles-les-ia-ne-sont-pas-encore-un-risque-pour-l-humanite_6809114_4408996.html",
-   "source": "Le Monde",
-   "date": "2026-11-12T15:00:09+00:00",
-   "extrait": "Avant que ne s’accomplissent les scénarios les plus pessimistes, les intelligences artificielles devront apprendre à récolter de l’argent, à se répliquer, à se débrider et à s’améliorer, estiment…",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "2ecdc298e35c",
-   "titre": "Italie : nouvelles alertes à la bombes, près de 1 800 écoles concernées",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-italie-nouvelles-alertes-%C3%A0-la-bombes-pr%C3%A8s-de-1-800-%C3%A9coles-concern%C3%A9es",
-   "source": "France 24",
-   "date": "2026-11-12T14:58:04+00:00",
-   "extrait": "Plusieurs écoles ont été évacuées jeudi 12 novembre en Italie pour la deuxième journée consécutive après de fausses alertes à la bombe reçues par courriel. Le gouvernement italien a estimé qu'\"en…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
   }
  ]
 }

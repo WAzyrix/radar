@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-13T09:05:41+00:00",
+ "maj": "2026-11-13T10:05:42+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,6 +24,18 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "8762a201a24f",
+   "titre": "Microsoft confirms Windows activation failures after November updates",
+   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
+   "source": "BleepingComputer",
+   "date": "2026-11-13T09:36:18+00:00",
+   "extrait": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]",
+   "tags": [
+    "Faille",
+    "Windows"
+   ]
+  },
+  {
    "id": "3ff055feac94",
    "titre": "Police arrest 354 suspects in dark web cybercrime crackdown",
    "lien": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
@@ -38,7 +50,7 @@
    "lien": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
    "source": "The Hacker News",
    "date": "2026-11-13T08:05:49+00:00",
-   "extrait": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously reported local privilege…",
+   "extrait": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local…",
    "tags": [
     "Faille",
     "Fuite de données",
@@ -3419,17 +3431,6 @@
    "extrait": "European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to…",
    "tags": [
     "Malware"
-   ]
-  },
-  {
-   "id": "8ede56d402c1",
-   "titre": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
-   "lien": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
-   "source": "BleepingComputer",
-   "date": "2026-11-03T12:05:52+00:00",
-   "extrait": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
-   "tags": [
-    "Faille"
    ]
   }
  ]
