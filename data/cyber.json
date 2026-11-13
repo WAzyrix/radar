@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-13T14:05:41+00:00",
+ "maj": "2026-11-13T15:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -137,6 +137,164 @@
    "tags": [
     "Faille",
     "Fuite de données"
+   ]
+  },
+  {
+   "id": "eb340a4070a6",
+   "titre": "Multiples vulnérabilités dans Progress Telerik (13 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1533/",
+   "source": "CERT-FR",
+   "date": "2026-11-13T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Progress Telerik. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "2db239d4db10",
+   "titre": "Multiples vulnérabilités dans les produits Check Point (13 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1529/",
+   "source": "CERT-FR",
+   "date": "2026-11-13T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Check Point. Elles permettent à un attaquant de provoquer une élévation de privilèges et un contournement de la politique de sécurité.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "c608b30e6b04",
+   "titre": "Multiples vulnérabilités dans Apple HomeView Software (13 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1526/",
+   "source": "CERT-FR",
+   "date": "2026-11-13T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Apple HomeView Software. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "c81d52c6a0e1",
+   "titre": "Vulnérabilité dans les produits Axis (13 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1534/",
+   "source": "CERT-FR",
+   "date": "2026-11-13T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans les produits Axis. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "6773b0ba0f6f",
+   "titre": "Multiples vulnérabilités dans Node.js (13 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1531/",
+   "source": "CERT-FR",
+   "date": "2026-11-13T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Node.js. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "d5e7a961af71",
+   "titre": "Multiples vulnérabilités dans les produits Citrix (13 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1528/",
+   "source": "CERT-FR",
+   "date": "2026-11-13T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Citrix. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "ec0e4f3b6875",
+   "titre": "Multiples vulnérabilités dans le noyau Linux de Debian (13 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1538/",
+   "source": "CERT-FR",
+   "date": "2026-11-13T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la…",
+   "tags": [
+    "Faille",
+    "Linux"
+   ]
+  },
+  {
+   "id": "f007521ac257",
+   "titre": "Vulnérabilité dans Opera Neon (13 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1532/",
+   "source": "CERT-FR",
+   "date": "2026-11-13T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans Opera Neon. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "911d0e96a128",
+   "titre": "Multiples vulnérabilités dans VMware Tanzu Greenplum (13 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1527/",
+   "source": "CERT-FR",
+   "date": "2026-11-13T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans VMware Tanzu Greenplum. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "c505036a9c09",
+   "titre": "Multiples vulnérabilités dans le noyau Linux de Red Hat (13 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1536/",
+   "source": "CERT-FR",
+   "date": "2026-11-13T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une…",
+   "tags": [
+    "Faille",
+    "Linux"
+   ]
+  },
+  {
+   "id": "daaf8ff3b554",
+   "titre": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (13 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1537/",
+   "source": "CERT-FR",
+   "date": "2026-11-13T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à…",
+   "tags": [
+    "Faille",
+    "Linux"
+   ]
+  },
+  {
+   "id": "e0778a7288fe",
+   "titre": "Multiples vulnérabilités dans le noyau Linux de SUSE (13 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1535/",
+   "source": "CERT-FR",
+   "date": "2026-11-13T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une…",
+   "tags": [
+    "Faille",
+    "Linux"
+   ]
+  },
+  {
+   "id": "30814c95fb02",
+   "titre": "Multiples vulnérabilités dans les produits IBM (13 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1539/",
+   "source": "CERT-FR",
+   "date": "2026-11-13T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "2b2441eb4f35",
+   "titre": "Multiples vulnérabilités dans PostgreSQL (13 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1530/",
+   "source": "CERT-FR",
+   "date": "2026-11-13T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans PostgreSQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à…",
+   "tags": [
+    "Faille"
    ]
   },
   {
@@ -3271,164 +3429,6 @@
    "date": "2026-11-04T00:00:00+00:00",
    "extrait": "Une vulnérabilité a été découverte dans Mozilla Firefox. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
    "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "e1a46e7ff831",
-   "titre": "Multiples vulnérabilités dans les produits Citrix (04 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1449/",
-   "source": "CERT-FR",
-   "date": "2026-11-04T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Citrix. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "6886851a21fc",
-   "titre": "Multiples vulnérabilités dans NetApp StorageGRID (04 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1453/",
-   "source": "CERT-FR",
-   "date": "2026-11-04T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans NetApp StorageGRID. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "60a16bf6f203",
-   "titre": "Multiples vulnérabilités dans les produits Elastic (04 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1461/",
-   "source": "CERT-FR",
-   "date": "2026-11-04T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Elastic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "955f81b5cf5e",
-   "titre": "Multiples vulnérabilités dans SolarWinds Dameware (04 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1459/",
-   "source": "CERT-FR",
-   "date": "2026-11-04T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans SolarWinds Dameware. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "8e91b349c146",
-   "titre": "Multiples vulnérabilités dans Ruby on Rails (04 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1452/",
-   "source": "CERT-FR",
-   "date": "2026-11-04T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Ruby on Rails. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "b0a8ea5b6986",
-   "titre": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
-   "lien": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
-   "source": "BleepingComputer",
-   "date": "2026-11-03T22:18:50+00:00",
-   "extrait": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]",
-   "tags": [
-    "Fuite de données",
-    "Malware"
-   ]
-  },
-  {
-   "id": "27b11b637919",
-   "titre": "WorkOS says attacker used ARTEX AI to breach internal sales app",
-   "lien": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
-   "source": "BleepingComputer",
-   "date": "2026-11-03T21:28:44+00:00",
-   "extrait": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]",
-   "tags": [
-    "Fuite de données",
-    "IA"
-   ]
-  },
-  {
-   "id": "317e8557e095",
-   "titre": "Binance says fake job interview led to $6.3 billion crypto heist",
-   "lien": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
-   "source": "BleepingComputer",
-   "date": "2026-11-03T20:05:50+00:00",
-   "extrait": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet…",
-   "tags": [
-    "Fuite de données",
-    "Malware"
-   ]
-  },
-  {
-   "id": "77eef035ebfc",
-   "titre": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
-   "lien": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
-   "source": "BleepingComputer",
-   "date": "2026-11-03T18:51:04+00:00",
-   "extrait": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]",
-   "tags": [
-    "IA"
-   ]
-  },
-  {
-   "id": "9ca07b46843b",
-   "titre": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
-   "lien": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
-   "source": "The Hacker News",
-   "date": "2026-11-03T18:46:38+00:00",
-   "extrait": "Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication…",
-   "tags": []
-  },
-  {
-   "id": "8afc2fab5966",
-   "titre": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
-   "lien": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
-   "source": "The Hacker News",
-   "date": "2026-11-03T18:16:19+00:00",
-   "extrait": "Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure. The…",
-   "tags": [
-    "Fuite de données",
-    "IA"
-   ]
-  },
-  {
-   "id": "19a35a6714f9",
-   "titre": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
-   "lien": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
-   "source": "The Hacker News",
-   "date": "2026-11-03T16:55:58+00:00",
-   "extrait": "Binance on Tuesday said the record-setting theft of $6.43 billion in assets from the world's largest cryptocurrency exchange was the culmination of a \"sophisticated, multi-stage campaign\" that…",
-   "tags": [
-    "Fuite de données",
-    "Malware",
-    "IA",
-    "Outil"
-   ]
-  },
-  {
-   "id": "397a262080d2",
-   "titre": "Test du télémètre laser de poche HOTO - précis à 2 mm",
-   "lien": "https://korben.info/test-du-telemetre-laser-de-poche-hoto-precis-a-2-mm.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-11-03T16:11:37+00:00",
-   "extrait": "Le télémètre laser de poche HOTO, marque de l'écosystème Xiaomi, mesure de 5 centimètres à 30 mètres avec une précision de 2 millimètres. Il pèse 36 grammes, se recharge en USB-C, affiche la…",
-   "tags": []
-  },
-  {
-   "id": "bc96c130a163",
-   "titre": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
-   "lien": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
-   "source": "The Hacker News",
-   "date": "2026-11-03T15:59:19+00:00",
-   "extrait": "Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a…",
-   "tags": [
-    "CVE",
     "Faille"
    ]
   }
