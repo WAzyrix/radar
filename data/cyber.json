@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-13T12:05:40+00:00",
+ "maj": "2026-11-13T13:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "293c69c9ee5b",
+   "titre": "Microsoft says November security updates cause printing issues",
+   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
+   "source": "BleepingComputer",
+   "date": "2026-11-13T12:27:40+00:00",
+   "extrait": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
+   "tags": [
+    "Windows"
+   ]
+  },
   {
    "id": "fe3ab0485c82",
    "titre": "When an AI Agent Goes Wrong, Can You Stop It?",
@@ -3419,19 +3430,6 @@
    "tags": [
     "CVE",
     "Faille"
-   ]
-  },
-  {
-   "id": "310fe7a6e4c3",
-   "titre": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
-   "lien": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
-   "source": "The Hacker News",
-   "date": "2026-11-03T15:41:53+00:00",
-   "extrait": "Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services. The tactic is…",
-   "tags": [
-    "Fuite de données",
-    "Malware",
-    "IA"
    ]
   }
  ]
