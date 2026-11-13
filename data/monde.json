@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-12T23:05:40+00:00",
+ "maj": "2026-11-13T00:05:49+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,157 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "8c6b08af2965",
+   "titre": "Donald Trump menace de doubler les droits de douane imposés au Mexique après l’arrivée d’une caravane de migrants",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/13/donald-trump-menace-de-doubler-les-droits-de-douane-imposes-au-mexique-apres-l-arrivee-d-une-caravane-de-migrants_6809192_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-13T00:01:12+00:00",
+   "extrait": "Partie du Honduras, la caravane a franchi sans difficulté la frontière mexicaine dimanche et traverse actuellement l’Etat du Chiapas, dans le sud du pays. Elle espère rejoindre les Etats-Unis, où le…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "b5c80b7ef273",
+   "titre": "Mississippi reacts after Scott Colom wins Senate race",
+   "lien": "https://www.cbsnews.com/video/mississippi-reacts-after-scott-colom-wins-senate-race/",
+   "source": "CBS News",
+   "date": "2026-11-12T23:49:40+00:00",
+   "extrait": "CBS news projects that Scott Colom has won the Mississippi Senate race after a razor tight battle with Cindy Hyde-Smith. CBS News' Mark Strassmann reports.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "2a0bea102b90",
+   "titre": "Trump calls for former Apple leader Tim Cook to replace Jensen Huang as Nvidia CEO",
+   "lien": "https://www.cbsnews.com/video/trump-calls-for-tim-cook-to-replace-jensen-huang-as-nvidia-ceo/",
+   "source": "CBS News",
+   "date": "2026-11-12T23:41:03+00:00",
+   "extrait": "Reactions are coming in from the White House and beyond after Nvidia co-founder Jensen Huang resigned as CEO of the company on Thursday following an affair with a suspected Chinese spy. President…",
+   "tags": [
+    "Politique",
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "ad7c03a9df78",
+   "titre": "What happens next as Huang steps down as Nvidia CEO following affair scandal",
+   "lien": "https://www.cbsnews.com/video/what-happens-next-as-huang-steps-down-as-nvidia-ceo-following-affair-scandal/",
+   "source": "CBS News",
+   "date": "2026-11-12T23:37:37+00:00",
+   "extrait": "Jensen Huang resigned from his position as Nvidia CEO on Thursday following an affair with an alleged Chinese spy. Huang had co-founded the company in 1993. CBS News' Major Garrett shares his…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "b79540d7107b",
+   "titre": "Une panne mondiale d’Outlook perturbe l’accès aux e-mails",
+   "lien": "https://www.lemonde.fr/pixels/article/2026/11/13/une-panne-mondiale-d-outlook-empeche-des-dizaines-de-milliers-d-utilisateurs-d-acceder-a-leurs-e-mails_6809171_4408996.html",
+   "source": "Le Monde",
+   "date": "2026-11-12T23:36:49+00:00",
+   "extrait": "Microsoft affirme travailler « sans relâche » pour régler la panne qui influence également certaines fonctions des assistants d’intelligence artificielle, dont Copilot, son propre assistant IA, mais…",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "963b7e75e1f8",
+   "titre": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
+   "lien": "https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson",
+   "source": "NPR",
+   "date": "2026-11-12T23:36:19+00:00",
+   "extrait": "Holscher, a state senator, overcame a more well-known Republican who had Trump's endorsement in the state that has gone to the GOP in most other statewide races.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "8c0e1d56114c",
+   "titre": "Ex-Oklahoma death row inmate pleads guilty to lesser charge",
+   "lien": "https://www.cbsnews.com/news/richard-glossip-ex-oklahoma-death-row-inmate-pleads-guilty-to-accessory/",
+   "source": "CBS News",
+   "date": "2026-11-12T23:34:05+00:00",
+   "extrait": "During his time on death row, courts set nine different execution dates for Richard Glossip, and he came so close to being put to death that he ate three separate last meals.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "ea7faee11632",
+   "titre": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+   "lien": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-12T23:34:05+00:00",
+   "extrait": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "b2a3985b13b8",
+   "titre": "Critics say Lutnick failed to cut off diversion of Nvidia chips to China",
+   "lien": "https://www.cbsnews.com/news/lutnick-nvidia-ai-chips-china/",
+   "source": "CBS News",
+   "date": "2026-11-12T23:33:00+00:00",
+   "extrait": "Commerce Secretary Howard Lutnick is under fire by critics asking whether his ties to Chinese companies friendship with ex-Nvidia CEO Jensen Huang contributed to a lack of oversight over Nvidia AI…",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "01c6343c1aae",
+   "titre": "What to know after Hegseth awards medal to soldier who reprimanded group at Arlington",
+   "lien": "https://www.cbsnews.com/video/what-to-know-after-hegseth-awards-medal-to-soldier-who-reprimanded-group-at-arlington/",
+   "source": "CBS News",
+   "date": "2026-11-12T23:30:00+00:00",
+   "extrait": "Shanelle Kaul breaks down the timeline of events after a service member reprimanded Defense Secretary Pete Hegseth's group for making noise at the Tomb of the Unknown Soldier on Veterans Day…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "11f8839dbef3",
+   "titre": "White House warns of \"blatant criminality\" in Democratic probes",
+   "lien": "https://www.cbsnews.com/news/white-house-counsel-will-scharf-house-oversight-committee-robert-garcia-investigations/",
+   "source": "CBS News",
+   "date": "2026-11-12T23:09:18+00:00",
+   "extrait": "White House counsel Will Scharf warned that congressional subpoenas could lead to investigations from the executive branch.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "2cacd92868af",
+   "titre": "USPS adds permanent postage surcharge, citing higher fuel costs",
+   "lien": "https://www.cbsnews.com/news/usps-permanent-postage-fuel-surcharge-2027/",
+   "source": "CBS News",
+   "date": "2026-11-12T23:07:31+00:00",
+   "extrait": "Still swimming in red ink, the USPS said it will raise some postage prices in 2027 to offset elevated fuel costs.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "33208f48bc37",
+   "titre": "What Jensen Huang's resignation means for Nvidia, global AI race",
+   "lien": "https://www.cbsnews.com/video/what-jensen-huangs-resignation-means-for-nvidia-global-ai-race/",
+   "source": "CBS News",
+   "date": "2026-11-12T23:04:25+00:00",
+   "extrait": "Ben Buchanan, who served as special adviser on AI in the Biden administration, joins \"The Takeout\" to discuss the ramifications of Jensen Huang's resignation from Nvidia.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
   {
    "id": "5db4994a726d",
    "titre": "Guerre en Ukraine : depuis Dublin, Volodymyr Zelensky affirme que l'Europe sera à la table des \"prochaines\" négociations",
@@ -44,6 +195,18 @@
    "tags": [
     "Politique",
     "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "7ab223a7c3db",
+   "titre": "Crues : la Haute-Corse rétrogradée en vigilance jaune",
+   "lien": "https://www.lemonde.fr/planete/article/2026/11/13/crues-la-haute-corse-retrogradee-en-vigilance-jaune_6809126_3245.html",
+   "source": "Le Monde",
+   "date": "2026-11-12T23:00:05+00:00",
+   "extrait": "Le département avait été placé par Météo-France en vigilance orange jeudi après-midi en raison de la dépression Charles qui a donné lieu en Corse à des précipitations ayant « un caractère orageux…",
+   "tags": [
+    "Climat"
    ],
    "zone": "france"
   },
@@ -116,6 +279,16 @@
    "zone": "usa"
   },
   {
+   "id": "31b7f85dd822",
+   "titre": "The Jensen Huang Scandal & How to Spot a Honey Trap | Straight up with Kelly and Vlad",
+   "lien": "https://www.cbsnews.com/video/jensen-huang-scandal-how-to-spot-honey-trap-straight-up-kelly-vlad/",
+   "source": "CBS News",
+   "date": "2026-11-12T22:38:00+00:00",
+   "extrait": "A billionaire, affairs, and an alleged honey trap at the hands of the Chinese government. This week, Vlad and Kelly are going inside the world of honey traps, Romeos, and sexpionage. With former…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
    "id": "c84ec90bd9cb",
    "titre": "Nvidia CEO Jensen Huang resigns in wake of affair, spy scandal",
    "lien": "https://www.cbsnews.com/news/nvidia-ceo-jensen-huang-resigns/",
@@ -174,7 +347,7 @@
   },
   {
    "id": "c5368ade5fed",
-   "titre": "Regular prostate cancer screening recommended in new guidelines",
+   "titre": "What men should know about new prostate cancer screening guidelines",
    "lien": "https://www.cbsnews.com/news/prostate-cancer-screening-guidelines/",
    "source": "CBS News",
    "date": "2026-11-12T22:13:00+00:00",
@@ -3252,185 +3425,6 @@
    "extrait": "Novartis a annoncé que des tumeurs étaient apparues chez neuf jeunes patients qui bénéficiaient de son traitement contre une maladie mortelle, l’amyotrophie spinale. « La balance bénéfice-risque du…",
    "tags": [
     "Santé"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "d0b8e55a4ecd",
-   "titre": "Italie : des milliers d'écoles visées par des alertes à la bombe",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-italie-des-milliers-d-%C3%A9coles-vis%C3%A9es-par-des-alertes-%C3%A0-la-bombe",
-   "source": "France 24",
-   "date": "2026-11-12T10:19:43+00:00",
-   "extrait": "Des milliers d'écoles italiennes ont reçu, mercredi 12 novembre, par mail de fausses alertes à la bombe, ayant conduit à l'évacuation de certaines d'entre elles, sans qu'aucun \"danger concret\" n'ait…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "c5c729af8abf",
-   "titre": "Ukraine : le système satellitaire militaire américain Starshield de nouveau limité, selon Zelensky",
-   "lien": "https://www.france24.com/fr/europe/20261112-ukraine-syst%C3%A8me-satellitaire-militaire-am%C3%A9ricain-starshield-de-nouveau-limit%C3%A9-selon-zelensky",
-   "source": "France 24",
-   "date": "2026-11-12T10:07:04+00:00",
-   "extrait": "Le président ukrainien a dénoncé jeudi des ralentissements systématiques du service de SpaceX utilisé par ses troupes. Selon lui, ces dysfonctionnements durent depuis plusieurs jours.",
-   "tags": [
-    "Politique",
-    "Conflits",
-    "Tech"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "e6a4d3097534",
-   "titre": "\"On n'a rien trouvé, dans aucune école\", assure Giorgia Meloni après les milliers d'alertes à la bombe ayant visé des écoles italiennes",
-   "lien": "https://www.franceinfo.fr/monde/italie/on-n-a-rien-trouve-dans-aucune-ecole-assure-giorgia-meloni-apres-les-milliers-d-alertes-a-la-bombe-ayant-vise-des-ecoles-italiennes_8278382.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-12T10:03:43+00:00",
-   "extrait": "La cheffe du gouvernement italien a estimé mercredi que ces messages visaient avant tout à \"faire peur\", à provoquer \"le soupçon\" et \"le chaos\".",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "ded9a0c83a7d",
-   "titre": "Au Canada, « une usine fantôme de Stellantis est ballottée au rythme de la guerre commerciale et du réarmement mondial »",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/12/au-canada-une-usine-fantome-de-stellantis-est-ballottee-au-rythme-des-grands-bouleversements-economiques-de-la-guerre-commerciale-au-rearmement-mondial_6809084_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-12T10:00:08+00:00",
-   "extrait": "Alors que le constructeur européen a annoncé, lundi 9 novembre, la vente du grand site industriel de Brampton, dans l’Ontario, à l’industriel de défense canadien Roshel, les questions soulevées par…",
-   "tags": [
-    "Économie",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c353f7193e1a",
-   "titre": "Dubious buys raise alarm over local control of opioid cash",
-   "lien": "https://www.cbsnews.com/news/opioid-settlement-funds-questionable-local-spending/",
-   "source": "CBS News",
-   "date": "2026-11-12T10:00:06+00:00",
-   "extrait": "Much of the questionable opioid settlement spending in 2025 occurred at the county and city level, where decision-makers often have no background in addiction policy.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "8dd2945531cf",
-   "titre": "At least 23 states considered laws governing ICE and schools this year",
-   "lien": "https://www.npr.org/2026/11/12/nx-s1-5718547/ice-schools-state-laws-federal-immigration",
-   "source": "NPR",
-   "date": "2026-11-12T10:00:00+00:00",
-   "extrait": "When ICE agents show up at a school, educators rely on a patchwork of policies to know what to do. This year, many state legislatures tried to update those policies.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "dd2b8bea7e8d",
-   "titre": "Kennedy Center plans Ticketmaster switch, raising conflict of interest concerns",
-   "lien": "https://www.npr.org/2026/11/12/nx-s1-6031461/kennedy-center-ticketmaster-conflict-of-interest",
-   "source": "NPR",
-   "date": "2026-11-12T10:00:00+00:00",
-   "extrait": "The Kennedy Center's former president Richard Grenell was a paid board member of Ticketmaster's parent company at the same time the two parties were negotiating.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "4ef25a39ade5",
-   "titre": "A blue wave helped offset for now a falling tally of Black members in the U.S. House",
-   "lien": "https://www.npr.org/2026/11/12/nx-s1-6029640/black-voter-turnout-congress-redistricting",
-   "source": "NPR",
-   "date": "2026-11-12T10:00:00+00:00",
-   "extrait": "A Supreme Court ruling that further weakened the Voting Rights Act paved the way for a record drop in Black representation in Congress. But a midterm blue wave helped hold off such a decline for now.",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "81f15f1ca642",
-   "titre": "Senators don't always share bill text online before votes. They should, advocates say",
-   "lien": "https://www.npr.org/2026/11/12/nx-s1-6037381/senate-legislation-public-review",
-   "source": "NPR",
-   "date": "2026-11-12T10:00:00+00:00",
-   "extrait": "The text of what lawmakers are considering isn't always made available for public review before it is voted on. A group of open governance advocates is calling on Senate leadership for a change.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "cbbfd191690b",
-   "titre": "Trump proposed a 'secret weapon' to police colleges. It will soon become reality",
-   "lien": "https://www.npr.org/2026/11/12/nx-s1-6027967/accreditation-trump-higher-education",
-   "source": "NPR",
-   "date": "2026-11-12T10:00:00+00:00",
-   "extrait": "In a 2023 campaign speech, Trump pledged to reclaim universities from what he called the radical left. His Education Department just finalized a rule to help him do it.",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "984d23b5f616",
-   "titre": "How Scott Colom defied the odds to go from DA to Mississippi's Democratic U.S. Senator",
-   "lien": "https://www.npr.org/2026/11/12/nx-s1-6037438/scott-colom-defied-the-odds-mississippi-democratic-senator",
-   "source": "NPR",
-   "date": "2026-11-12T10:00:00+00:00",
-   "extrait": "In a state that hasn't had a Democrat in office since 1980 and hasn't sent a Black Senator to Washington since the 1870s, Colom's win represents a massive upset in state politics.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "feb62c088442",
-   "titre": "Corset, porte-jarretelles et blagues volées : la nouvelle arnaque des fausses humoristes IA",
-   "lien": "https://www.franceinfo.fr/replay-radio/l-il-de-constance/corset-porte-jarretelles-et-blagues-volees-la-nouvelle-arnaque-des-fausses-humoristes-ia_8258078.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-12T09:50:04+00:00",
-   "extrait": "Sur Instagram et TikTok, des humoristes générées par intelligence artificielle récitent mot pour mot les sketchs de vraies comédiennes. Ce pillage vise presque uniquement des femmes, et les blagues…",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "d34458f3e9d7",
-   "titre": "L'actrice Nicole Kidman recevra un César d'honneur lors de la 52e cérémonie",
-   "lien": "https://www.franceinfo.fr/culture/cinema/l-actrice-nicole-kidman-recevra-un-cesar-d-honneur-lors-de-la-52e-ceremonie_8279006.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-12T09:41:09+00:00",
-   "extrait": "L'Académie des César l'a annoncé dans un communiqué jeudi : l'actrice australo-américaine Nicole Kidman recevra un César d'honneur sur la scène de l'Olympia à Paris en février 2027.",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "11744b698a75",
-   "titre": "COP31 : le Royaume-Uni se dote d’une émissaire « pour la sécurité climatique », une première mondiale",
-   "lien": "https://www.lemonde.fr/planete/article/2026/11/12/cop31-le-royaume-uni-se-dote-d-un-emissaire-pour-la-securite-climatique-une-premiere-mondiale_6809081_3244.html",
-   "source": "Le Monde",
-   "date": "2026-11-12T09:39:41+00:00",
-   "extrait": "Annoncée par Andy Burnham à Antalya, la nomination de Madeleine Alessandri, ancienne présidente du Comité mixte du renseignement, doit intégrer les risques climatiques à la politique de sécurité…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "6d71caa3ba0f",
-   "titre": "Affaire Nvidia : la Chine accuse les Etats-Unis de \"fabriquer\" des \"récits d'espionnage\" pour imposer un \"blocus technologique\"",
-   "lien": "https://www.franceinfo.fr/internet/intelligence-artificielle/mise-en-cause-dans-le-scandale-touchant-le-patron-de-nvidia-la-chine-accuse-les-etats-unis-de-fabriquer-des-recits-d-espionnage-pour-imposer-un-blocus-technologique_8278889.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-12T09:38:33+00:00",
-   "extrait": "Le patron du géant américain des puces d'intelligence artificielle est ébranlé par une liaison extraconjugale qu'il a entretenue avec une Chinoise soupçonnée d'espionnage.",
-   "tags": [
-    "Tech"
    ],
    "zone": "france"
   }
