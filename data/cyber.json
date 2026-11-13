@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-13T16:05:39+00:00",
+ "maj": "2026-11-13T17:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "b297d876237e",
+   "titre": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
+   "lien": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
+   "source": "BleepingComputer",
+   "date": "2026-11-13T16:21:43+00:00",
+   "extrait": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
+   "tags": [
+    "Fuite de données",
+    "Malware"
+   ]
+  },
   {
    "id": "fb5ac890be2a",
    "titre": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
@@ -3413,17 +3425,6 @@
    "source": "CERT-FR",
    "date": "2026-11-04T00:00:00+00:00",
    "extrait": "Une vulnérabilité a été découverte dans MongoDB. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "21e4a8fd6045",
-   "titre": "Multiples vulnérabilités dans les produits Mattermost (04 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1458/",
-   "source": "CERT-FR",
-   "date": "2026-11-04T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
    "tags": [
     "Faille"
    ]

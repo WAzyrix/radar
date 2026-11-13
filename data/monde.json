@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-13T16:05:39+00:00",
+ "maj": "2026-11-13T17:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -19,19 +19,274 @@
   "Tech",
   "Sport"
  ],
- "erreurs": [],
+ "erreurs": [
+  "France 24"
+ ],
  "articles": [
+  {
+   "id": "614cfdcfac1a",
+   "titre": "Convergence de différents mots d'ordre, important dispositif policier… A quoi s'attendre pour la journée de mobilisation du samedi 14 novembre ?",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/convergence-de-differents-mots-d-ordre-important-dispositif-policier-a-quoi-s-attendre-pour-la-journee-de-mobilisation-du-samedi-14-novembre_8280806.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-13T17:00:34+00:00",
+   "extrait": "La coordination des gilets jaunes et des organisations de jeunesse appellent à défiler samedi \"contre la vie chère\". D'autres manifestations – pour le climat, contre les violences policières ou les…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "eec4d0bd7d3e",
+   "titre": "Boy found alive after 6 days lost in wilderness: \"Grounded for life\"",
+   "lien": "https://www.cbsnews.com/news/teen-found-alive-6-days-lost-australia-wilderness/",
+   "source": "CBS News",
+   "date": "2026-11-13T16:54:30+00:00",
+   "extrait": "Video shot from the rescue helicopter showed the boy was shirtless and sunburned. He was wearing shorts and boots and was using towels as blankets.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "658dc5acebdd",
+   "titre": "This week on \"Sunday Morning\" (Nov. 15)",
+   "lien": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-15-2026/",
+   "source": "CBS News",
+   "date": "2026-11-13T16:51:04+00:00",
+   "extrait": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "377dd7e3f41c",
+   "titre": "L'académie de Poitiers va déposer deux plaintes pour \"des intimidations\" et \"une tentative d'incendie\" survenues au lycée Victor-Hugo",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/l-academie-de-poitiers-va-deposer-deux-plaintes-pour-des-intimidations-et-une-tentative-d-incendie-survenues-au-lycee-victor-hugo_8281406.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-13T16:50:25+00:00",
+   "extrait": "Selon les informations d'ICI Poitou, la cheffe de l'établissement est visée par des appels à la démission sur les réseaux sociaux après l'évacuation par la police d'un blocus mardi, pendant une…",
+   "tags": [
+    "Climat",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "386063043105",
+   "titre": "Alex Murdaugh wants murder indictments tossed, saying agent lied",
+   "lien": "https://www.cbsnews.com/news/alex-murdaugh-wants-murder-indictments-dismissed/",
+   "source": "CBS News",
+   "date": "2026-11-13T16:50:14+00:00",
+   "extrait": "Alex Murdaugh's attorneys are going back to court, this time trying to get his original murder indictments dismissed.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "819a90dffb22",
+   "titre": "\"J'en ai appris beaucoup\" : Teddy Riner a effectué vendredi son premier déplacement de campagne dans un hôpital de Seine-Saint-Denis",
+   "lien": "https://www.franceinfo.fr/elections/teddy-riner-va-effectuer-son-premier-deplacement-de-campagne-samedi-au-salon-made-in-france-a-paris_8280578.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-13T16:48:08+00:00",
+   "extrait": "Le quintuple champion olympique de judo a annoncé lundi sa candidature surprise à l'élection présidentielle. Il assure n'être \"ni de droite ni de gauche\".",
+   "tags": [
+    "Politique",
+    "Santé",
+    "Sport"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "de5a087afd29",
+   "titre": "Israël : Gadi Eisenkot dénonce une « campagne raciste » de Benyamin Nétanyahou contre la minorité arabe",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/13/israel-gadi-eisenkot-denonce-une-campagne-raciste-de-benyamin-netanyahou-contre-la-minorite-arabe_6809358_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-13T16:43:03+00:00",
+   "extrait": "Les partis arabes israéliens, qui comptent 19 députés depuis les dernières élections législatives, sont au cœur des négociations pour former le futur gouvernement. La prise de position de M…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "ba8a6d436ad8",
+   "titre": "Breaking down key points stalling progress in Russia-Ukraine peace talks",
+   "lien": "https://www.cbsnews.com/video/key-points-stalling-progress-in-russia-ukraine-peace-talks/",
+   "source": "CBS News",
+   "date": "2026-11-13T16:43:00+00:00",
+   "extrait": "U.S. special envoys Steve Witkoff and Jared Kushner held separate talks with Russian President Vladimir Putin and Ukrainian President Volodymyr Zelenskyy. CBS News' Aidan Stretch has more.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "0787c3f68b7e",
+   "titre": "Microsoft seeing \"continued recovery\" amid major worldwide outage",
+   "lien": "https://www.cbsnews.com/news/microsoft-battling-major-outage/",
+   "source": "CBS News",
+   "date": "2026-11-13T16:39:29+00:00",
+   "extrait": "A Microsoft outage involving services like Outlook and Teams has dragged on for hours and impacted many users, companies and government services",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "712c78adba73",
+   "titre": "News reports called her a missing hiker. Her community suspected foul play.",
+   "lien": "https://www.cbsnews.com/video/news-reports-called-her-a-missing-hiker-her-community-suspected-foul-play/",
+   "source": "CBS News",
+   "date": "2026-11-13T16:32:00+00:00",
+   "extrait": "When experienced hiker Susan Lane disappeared with her dogs from a tight-knit Oregon mountain community, her friends and neighbors refused to believe she had simply gotten lost. Peter Van Sant…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "ec482e04cadb",
+   "titre": "« 12 12 12 », sur Apple TV : un casse spectaculaire au pied du sapin",
+   "lien": "https://www.lemonde.fr/culture/article/2026/11/13/12-12-12-sur-apple-tv-un-casse-spectaculaire-au-pied-du-sapin_6809356_3246.html",
+   "source": "Le Monde",
+   "date": "2026-11-13T16:30:10+00:00",
+   "extrait": "Cette variation sur le thème du braquage sophistiqué trouve son originalité dans un scénario à l’étonnante structure, et sa force dramatique dans l’affrontement entre Jamie Dornan et Anthony Mackie.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "f95d90aa169e",
+   "titre": "\"Ebenezer\" stars Johnny Depp, Sam Claflin, Andrea Riseborough talk redemption",
+   "lien": "https://www.cbsnews.com/video/ebenezer-stars-johnny-depp-sam-claflin-andrea-riseborough-talk-redemption/",
+   "source": "CBS News",
+   "date": "2026-11-13T16:29:14+00:00",
+   "extrait": "Actors Johnny Depp, Sam Claflin and Andrea Riseborough share their thoughts on \"Ebenezer,\" their new dark fantasy film adaptation of Charles Dickens' classic story, \"A Christmas Carol.\"",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "b440bc09d852",
+   "titre": "China warns against new U.S. export controls on computer chips",
+   "lien": "https://www.cbsnews.com/news/china-us-export-controls-chips-nvidia-huang-scandal/",
+   "source": "CBS News",
+   "date": "2026-11-13T16:23:15+00:00",
+   "extrait": "China is warning the U.S. against putting new export controls on semiconductors in the wake of the scandal surrounding​ AI chip giant Nvidia and its now-former CEO Jensen Huang.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "e2e3455d02d2",
+   "titre": "Missing Australian boy found alive after 6 days in the wilderness",
+   "lien": "https://www.cbsnews.com/video/missing-australian-boy-found-alive-after-6-days-in-the-wilderness/",
+   "source": "CBS News",
+   "date": "2026-11-13T16:21:27+00:00",
+   "extrait": "A 17-year-old boy with autism was found alive by a helicopter crew after he spent six days lost in the Australian bush.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "bbd2221cffbb",
+   "titre": "Lutnick faces scrutiny as Nvidia scandal fallout grows",
+   "lien": "https://www.cbsnews.com/video/lutnick-faces-scrutiny-as-nvidia-scandal-fallout-grows/",
+   "source": "CBS News",
+   "date": "2026-11-13T16:20:29+00:00",
+   "extrait": "Commerce Secretary Howard Lutnick faces new scrutiny over the Commerce Department's oversight of Nvidia's chip exports after Jensen Huang resigned as CEO. CBS News' Olivia Gazis reports, and Gerrit…",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "7d27a1bab190",
+   "titre": "Does Europe regret its bet on U.S. defense?",
+   "lien": "https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense",
+   "source": "NPR",
+   "date": "2026-11-13T16:17:43+00:00",
+   "extrait": "Europe bet big on American defense technology and they're now paying the price. Years-long backlogs are underway due to production delays and the U.S. own military needs.",
+   "tags": [
+    "Conflits",
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "4d31e56b5bf4",
+   "titre": "Exclusive discounts from CBS Mornings Deals",
+   "lien": "https://www.cbsnews.com/video/cbs-mornings-deals-111326/",
+   "source": "CBS News",
+   "date": "2026-11-13T16:14:43+00:00",
+   "extrait": "On this edition of CBS Deals, we show you items that could help improve your everyday lifestyle. Visit cbsdeals.com to take advantage of these exclusive deals today. CBS earns commissions on…",
+   "tags": [],
+   "zone": "usa"
+  },
   {
    "id": "f83a676d74f0",
    "titre": "U.N. watchdog agency pushes for access to key Iran nuclear site",
    "lien": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/",
    "source": "CBS News",
-   "date": "2026-11-13T16:01:38+00:00",
+   "date": "2026-11-13T16:11:03+00:00",
    "extrait": "As Trump signals he may let the Iran war fester, the U.N. nuclear agency is \"increasingly concerned\" about access to a key uranium facility, according to a leaked report.",
    "tags": [
     "Politique",
     "Conflits"
    ],
+   "zone": "usa"
+  },
+  {
+   "id": "3cc3f374a9f3",
+   "titre": "Dans le Gard, un homme condamné à 18 ans de réclusion criminelle pour avoir drogué, violé et filmé six femmes",
+   "lien": "https://www.franceinfo.fr/faits-divers/l-homme-juge-pour-avoir-drogue-viole-et-filme-six-femmes-dans-le-gard-condamne-a-18-ans-de-reclusion-criminelle_8281277.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-13T16:08:53+00:00",
+   "extrait": "Cette condamnation est assortie d'une période de sûreté des deux tiers, d'un suivi socio-judiciaire et d'une interdiction d'exercer une profession en contact avec des mineurs.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "09a484905f04",
+   "titre": "Salaires des fonctionnaires : les mesures d’urgence du gouvernement jugées « insuffisantes » par les syndicats",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/13/salaires-des-fonctionnaires-les-mesures-d-urgence-du-gouvernement-jugees-insuffisantes-par-les-syndicats_6809348_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-13T16:07:02+00:00",
+   "extrait": "A l’issue d’une réunion à Matignon, vendredi 13 novembre, les syndicats ont dénoncé des annonces « en complet décalage avec l’urgence salariale et la colère sociale ». Dans leur viseur, notamment…",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "eed002a36440",
+   "titre": "Dermatologist explains \"bloom skin,\" K-beauty trend focused on healthy, radiant skin",
+   "lien": "https://www.cbsnews.com/video/dermatologist-explains-bloom-skin-k-beauty-trend-focused-on-healthy-radiant-skin/",
+   "source": "CBS News",
+   "date": "2026-11-13T16:06:23+00:00",
+   "extrait": "\"Bloom skin\" is a new Korean beauty trend that focuses on skin barrier health. Dermatologist Dr. Rachel Nazarian explains more.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "2291e3759eb7",
+   "titre": "En Géorgie, les principaux partis d’opposition bientôt interdits avant les élections législatives de 2028",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/13/en-georgie-les-principaux-partis-d-opposition-bientot-interdits-avant-les-legislatives-de-2028_6809347_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-13T16:00:19+00:00",
+   "extrait": "Rêve géorgien, le parti au pouvoir proche de la Russie, continue son œuvre de musellement et de destruction de toute forme d’opposition. L’intégration du pays à l’Union européenne, dont le processus…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "5015a0ca3cb1",
+   "titre": "U2's Bono remembers teaming up with Dolly Parton for \"Torn,\" her final recording",
+   "lien": "https://www.cbsnews.com/video/u2s-bono-remembers-teaming-up-with-dolly-parton-for-torn-her-final-recording/",
+   "source": "CBS News",
+   "date": "2026-11-13T16:00:00+00:00",
+   "extrait": "There's new music from beloved country star Dolly Parton, who died in August. Parton collaborated with U2 on \"Torn,\" her final recording before her death. Anthony Mason spoke with the band about the…",
+   "tags": [],
    "zone": "usa"
   },
   {
@@ -81,16 +336,6 @@
    "zone": "usa"
   },
   {
-   "id": "0787c3f68b7e",
-   "titre": "Microsoft seeing \"continued recovery\" amid major worldwide outage",
-   "lien": "https://www.cbsnews.com/news/microsoft-battling-major-outage/",
-   "source": "CBS News",
-   "date": "2026-11-13T15:48:09+00:00",
-   "extrait": "A Microsoft outage involving services like Outlook and Teams has dragged on for hours and impacted many users, companies and government services",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "ec3f387da489",
    "titre": "Le patron de Mistral AI, Arthur Mensch, appelle l'Europe à \"agir maintenant\" pour rester dans la course en matière d'intelligence artificielle",
    "lien": "https://www.franceinfo.fr/internet/intelligence-artificielle/le-patron-de-mistral-ai-arthur-mensch-appelle-l-europe-a-agir-maintenant-pour-rester-dans-la-course-en-matiere-d-intelligence-artificielle_8281193.html#xtor=RSS-3-[lestitres]",
@@ -119,7 +364,7 @@
    "titre": "Billy Evans calls his portrayal in Elizabeth Holmes documentary \"crazy\"",
    "lien": "https://www.cbsnews.com/news/billy-evans-elizabeth-holmes-documentary-portrayal/",
    "source": "CBS News",
-   "date": "2026-11-13T15:33:13+00:00",
+   "date": "2026-11-13T15:33:00+00:00",
    "extrait": "Billy Evans, the partner of Elizabeth Holmes, opened up about his portrayal in a hit documentary on \"CBS Sunday Morning.\"",
    "tags": [],
    "zone": "usa"
@@ -190,18 +435,6 @@
    "extrait": "Severe weather brought hail, rain, snow and more to the Northeast U.S. Rob Marciano has more.",
    "tags": [
     "Climat"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "b440bc09d852",
-   "titre": "China warns against new U.S. export controls on computer chips",
-   "lien": "https://www.cbsnews.com/news/china-us-export-controls-chips-nvidia-huang-scandal/",
-   "source": "CBS News",
-   "date": "2026-11-13T15:19:38+00:00",
-   "extrait": "China is warning the U.S. against putting new export controls on semiconductors in the wake of the scandal surrounding​ AI chip giant Nvidia and its now-former CEO Jensen Huang.",
-   "tags": [
-    "Tech"
    ],
    "zone": "usa"
   },
@@ -303,6 +536,16 @@
    "tags": [
     "Conflits"
    ],
+   "zone": "france"
+  },
+  {
+   "id": "e6e0d5057bdf",
+   "titre": "Du Moyen-Orient à l’Asie, la grande course au stockage du pétrole",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/13/du-moyen-orient-en-asie-la-grande-course-au-stockage-du-petrole_6809338_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-13T15:00:06+00:00",
+   "extrait": "La crise du détroit d’Ormuz pousse les producteurs du Golfe et les importateurs asiatiques à créer de nouvelles capacités de réserve pour mieux surmonter de futurs chocs d’approvisionnement.",
+   "tags": [],
    "zone": "france"
   },
   {
@@ -509,7 +752,7 @@
    "titre": "Billy Evans says he loves Elizabeth Holmes documentary despite being portrayed as a villain",
    "lien": "https://www.cbsnews.com/video/billy-evans-says-he-loves-elizabeth-holmes-documentary-despite-being-portrayed-as-a-villian/",
    "source": "CBS News",
-   "date": "2026-11-13T14:26:23+00:00",
+   "date": "2026-11-13T14:26:00+00:00",
    "extrait": "Billy Evans, partner of disgraced Theranos founder Elizabeth Holmes, shared his surprising perspective on \"You Can See Everything\" with Matt Gutman in an interview airing on \"CBS Sunday Morning.\"",
    "tags": [],
    "zone": "usa"
@@ -687,18 +930,6 @@
    "extrait": "L’équipe de France de rugby, amoindrie par les blessures, affronte les doubles champions du monde en titre, vendredi 13 novembre, au Stade de France, dans le choc de la cinquième journée du…",
    "tags": [
     "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "614cfdcfac1a",
-   "titre": "Convergence de différents mots d'ordre, important dispositif policier… A quoi s'attendre pour la journée de mobilisation du samedi 14 novembre ?",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/convergence-de-differents-mots-d-ordre-important-dispositif-policier-a-quoi-s-attendre-pour-la-journee-de-mobilisation-du-samedi-14-novembre_8280806.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-13T13:55:06+00:00",
-   "extrait": "La coordination des gilets jaunes et des organisations de jeunesse appellent à défiler samedi \"contre la vie chère\". D'autres manifestations – pour le climat, contre les violences policières ou les…",
-   "tags": [
-    "Climat"
    ],
    "zone": "france"
   },
@@ -1049,6 +1280,18 @@
    "zone": "france"
   },
   {
+   "id": "a1c572184d99",
+   "titre": "Jensen Huang is out. An AI expert explains what his exit could mean for the AI boom",
+   "lien": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-jensen-huang-exit-scandal-colette-kress-ai-future",
+   "source": "NPR",
+   "date": "2026-11-13T11:47:00+00:00",
+   "extrait": "AI expert Gary Marcus breaks down what's at stake for Nvidia and the mess its new CEO has inherited.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "98faf174d861",
    "titre": "Une panne mondiale touche la messagerie Outlook de Microsoft, \"aucun signe d'action malveillante ou de cyberattaque\" n'a été détecté à ce stade",
    "lien": "https://www.franceinfo.fr/internet/microsoft/une-panne-mondiale-touche-la-messagerie-outlook-de-microsoft-les-mesures-pour-la-resoudre-ne-fonctionnent-pas-comme-prevu_8280422.html#xtor=RSS-3-[lestitres]",
@@ -1373,20 +1616,6 @@
    "date": "2026-11-13T10:30:08+00:00",
    "extrait": "Autrice de plusieurs ouvrages, Pascale Weeks fut une pionnière du blog culinaire en France, avec « C’est moi qui l’ai fait », lancé il y a vingt-deux ans pour partager recettes, découvertes et…",
    "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "819a90dffb22",
-   "titre": "Teddy Riner a effectué vendredi son premier déplacement de campagne dans un hôpital de Seine-Saint-Denis",
-   "lien": "https://www.franceinfo.fr/elections/teddy-riner-va-effectuer-son-premier-deplacement-de-campagne-samedi-au-salon-made-in-france-a-paris_8280578.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-13T10:29:48+00:00",
-   "extrait": "Le quintuple champion olympique de judo a annoncé lundi sa candidature surprise à l'élection présidentielle. Il assure n'être \"ni de droite ni de gauche\".",
-   "tags": [
-    "Politique",
-    "Santé",
-    "Sport"
-   ],
    "zone": "france"
   },
   {
@@ -3158,231 +3387,6 @@
    "extrait": "Officials still have not said what caused the building collapse at 1321 Flatbush Ave.​ that left eight people dead, including two children.",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "6bfbffd60088",
-   "titre": "What's a Honey Trap? The spy tactic that helped topple Jensen Huang",
-   "lien": "https://www.npr.org/2026/11/12/nx-s1-6039266/jensen-huang-china-honey-trap-nvidia-spies-sex-alice-huang",
-   "source": "NPR",
-   "date": "2026-11-12T22:45:40+00:00",
-   "extrait": "Jensen Huang, CEO of Nvidia, the leading AI chipmaker, resigned after admitting an extramarital affair with a woman the U.S. says is a Chinese spy. This espionage tactic is known as a honey trap.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "31b7f85dd822",
-   "titre": "The Jensen Huang Scandal & How to Spot a Honey Trap | Straight up with Kelly and Vlad",
-   "lien": "https://www.cbsnews.com/video/jensen-huang-scandal-how-to-spot-honey-trap-straight-up-kelly-vlad/",
-   "source": "CBS News",
-   "date": "2026-11-12T22:38:00+00:00",
-   "extrait": "A billionaire, affairs, and an alleged honey trap at the hands of the Chinese government. This week, Vlad and Kelly are going inside the world of honey traps, Romeos, and sexpionage. With former…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "c84ec90bd9cb",
-   "titre": "Nvidia CEO Jensen Huang resigns in wake of affair, spy scandal",
-   "lien": "https://www.cbsnews.com/news/nvidia-ceo-jensen-huang-resigns/",
-   "source": "CBS News",
-   "date": "2026-11-12T22:28:15+00:00",
-   "extrait": "Nvidia CEO Jensen Huang has resigned effective immediately, the company's board of directors announced Thursday.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "f83782bd4832",
-   "titre": "La Haute-Corse n'est plus concernée par une vigilance orange aux crues depuis jeudi soir",
-   "lien": "https://www.franceinfo.fr/environnement/meteo/le-departement-de-la-haute-corse-place-en-vigilance-orange-aux-crues_8279591.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-12T22:26:59+00:00",
-   "extrait": "L'eau était très fortement montée sur le fleuve Tavignano jeudi après-midi, d'environ neuf mètres en seulement trois heures.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "2f0b3619e004",
-   "titre": "Une quarantaine de pays européens inscrivent leurs \"principes-clés\" de sécurité dans une \"charte\"",
-   "lien": "https://www.franceinfo.fr/monde/europe/une-quarantaine-de-pays-europeens-inscrivent-leurs-principes-cles-de-securite-dans-une-charte_8280113.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-12T22:24:59+00:00",
-   "extrait": "Cette déclaration, qui a été adoptée jeudi par 39 Etats, dont la France, l'Allemagne et l'Ukraine, acte \"la nécessité d'un sursaut au fond de cette Europe large\", a estimé Emmanuel Macron.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "9d98ae44fe1f",
-   "titre": "U.S. soldier accused of spying linked to Russia arrested in the U.K.",
-   "lien": "https://www.cbsnews.com/news/american-soldier-spying-russia-arrest-uk/",
-   "source": "CBS News",
-   "date": "2026-11-12T22:16:06+00:00",
-   "extrait": "A U.S. official told CBS News the suspect is a senior officer based at Imjin Barracks, home to the headquarters for NATO's Allied Rapid Reaction Corps.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "e83276857684",
-   "titre": "France-Italie : le résumé de la première défaite des Bleus sous Zinédine Zidane, surpris par les Azzurri en Ligue des nations",
-   "lien": "https://www.lemonde.fr/football/article/2026/11/12/france-italie-le-resume-de-la-premiere-defaite-des-bleus-sous-zinedine-zidane-surpris-par-les-azzurri-en-ligue-des-nations_6809168_1616938.html",
-   "source": "Le Monde",
-   "date": "2026-11-12T22:15:13+00:00",
-   "extrait": "Face à l’Italie, les Bleus se sont inclinés pour la première fois (1-3) depuis l’arrivée de Zinédine Zidane sur le banc, jeudi à Milan. Ils devront au moins accrocher le nul face à la Turquie…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "c5368ade5fed",
-   "titre": "What men should know about new prostate cancer screening guidelines",
-   "lien": "https://www.cbsnews.com/news/prostate-cancer-screening-guidelines/",
-   "source": "CBS News",
-   "date": "2026-11-12T22:13:00+00:00",
-   "extrait": "The American Cancer Society is recommending routine prostate cancer screening for more middle-aged men, in a major change to its guidelines.",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "14b5f014fd62",
-   "titre": "Nvidia sheds almost $500 billion in value as Jensen Huang resigns",
-   "lien": "https://www.cbsnews.com/news/nvidia-stock-nvda-ceo-jensen-huang/",
-   "source": "CBS News",
-   "date": "2026-11-12T22:03:31+00:00",
-   "extrait": "Shares of the chipmaker extended their losses after Nvidia said its longtime CEO is stepping down amid revelations of a relationship with a suspected Chinese spy.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "a9ed6e7eeefe",
-   "titre": "11/12: The Takeout with Major Garrett",
-   "lien": "https://www.cbsnews.com/video/111226-the-takeout-with-major-garrett/",
-   "source": "CBS News",
-   "date": "2026-11-12T22:00:00+00:00",
-   "extrait": "Jensen Huang steps down as Nvidia CEO; Mississippi reacts after Scott Colom wins his Senate race.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "2acc1d7334a1",
-   "titre": "Dépression Charles dans le Sud-Est : la vigilance orange aux crues en Haute-Corse a été levée",
-   "lien": "https://www.franceinfo.fr/environnement/meteo/direct-intemperies-dans-le-sud-de-la-france-la-haute-corse-placee-en-vigilance-orange-aux-crues-un-homme-sauve-des-eaux-a-nice_8279720.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-12T21:53:11+00:00",
-   "extrait": "De fortes intempéries se sont par ailleurs abattues sur les Alpes-Maritimes, en vigilance jaune pour pluie-inondation, orages, crues et vagues-submersion.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "92e0e410f532",
-   "titre": "L'équipe de France battue par l'Italie en Ligue des nations, la première défaite de l'ère Zinédine Zidane",
-   "lien": "https://www.franceinfo.fr/sports/foot/ligue-des-nations/l-equipe-de-france-battue-par-l-italie-en-ligue-des-nations-la-premiere-defaite-de-l-ere-zinedine-zidane_8280092.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-12T21:53:04+00:00",
-   "extrait": "Les Bleus ont eu les occasions mais ont manqué de précision, jeudi à Milan, et devront attendre la dernière journée de la phase de groupes pour assurer leur place en quarts de finale de la Ligue des…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "752474bd5554",
-   "titre": "\"C'est plus jeter de l'huile sur le feu qu'éteindre l'incendie\", juge le syndicat national des lycées et collèges, alors que des enseignants sont accusés de \"complicité\" sur les violences",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/c-est-plus-jeter-de-l-huile-sur-le-feu-qu-eteindre-l-incendie-juge-le-syndicat-national-des-lycees-et-colleges-alors-que-des-enseignants-sont-accuses-de-complicite-sur-les-violences_8280095.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-12T21:49:30+00:00",
-   "extrait": "Invité jeudi sur franceinfo, le président du Snalc Jean-Rémi Girard rejette les soupçons de \"complicité passive\" et de \"laisser-faire\" dont les enseignants font l'objet. Le Premier ministre estime…",
-   "tags": [
-    "Politique",
-    "Climat",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "3ee25c59a429",
-   "titre": "Mauritanie : ces images satellite ne montrent pas des bateaux de migrants",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261112-mauritanie-ces-images-satellite-ne-montrent-pas-des-bateaux-de-migrants",
-   "source": "France 24",
-   "date": "2026-11-12T21:45:19+00:00",
-   "extrait": "Images satellites de bateaux à l'appui, des publications sur les réseaux sociaux assurent que de très nombreuses embarcations de migrants s'apprêtent à quitter le port de Nouadhibou en Mauritanie…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "2bffb4f9cdc5",
-   "titre": "Who will succeed Jensen Huang at Nvidia? Analysts weigh in.",
-   "lien": "https://www.cbsnews.com/news/jensen-huang-next-nvidia-ceo-candidates/",
-   "source": "CBS News",
-   "date": "2026-11-12T21:44:33+00:00",
-   "extrait": "Analysts say the board will be on the hunt for someone who has the technological know-how to lead the world's leading chip manufacturer.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "b870a2daf119",
-   "titre": "Ligue des nations : la France renversée par l'Italie, la qualification en danger",
-   "lien": "https://www.france24.com/fr/sports/20261112-ligue-nations-france-renversee-italie-qualification",
-   "source": "France 24",
-   "date": "2026-11-12T21:40:31+00:00",
-   "extrait": "L'équipe de France a été battue jeudi par l'Italie lors de la cinquième journée de la Ligue des nations. Une première défaite de Zinedine Zidane comme sélectionneur qui rebat les cartes : les Bleus…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "750e82105534",
-   "titre": "\"Rappelez à l'ordre vos forces de l'ordre\" : les journalistes demandent à Laurent Nuñez le respect du droit d'informer en manifestation",
-   "lien": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/rappelez-a-l-ordre-vos-forces-de-l-ordre-les-journalistes-demandent-a-laurent-nunez-le-respect-du-droit-d-informer-en-manifestation_8280080.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-12T21:40:17+00:00",
-   "extrait": "Les syndicats et des directions de médias dénoncent depuis plusieurs jours des violences policières à l'encontre de journalistes. Plusieurs plaintes ont été déposées.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "a843e42ce0e9",
-   "titre": "Search for British woman missing from Tui cruise in Atlantic called off",
-   "lien": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-12T21:27:21+00:00",
-   "extrait": "The 72-year-old is believed to have gone overboard from the Tui ship on Monday as it headed towards the Caribbean.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "34941a435860",
-   "titre": "La Norvège va interdire aux athlètes russes de participer à des compétitions sur son territoire",
-   "lien": "https://www.franceinfo.fr/monde/norvege/la-norvege-va-interdire-aux-athletes-russes-de-participer-a-des-competitions-sur-son-territoire_8280068.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-12T21:16:43+00:00",
-   "extrait": "Le sport de haut niveau russe entretient des liens étroits avec les autorités et ne peut donc pas être \"considéré indépendamment\" de la guerre en Ukraine, justifie le gouvernement norvégien.",
-   "tags": [
-    "Politique",
-    "Conflits",
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "66fad4eb828d",
-   "titre": "Agriculture : un « plan de relance » tiraillé entre souveraineté alimentaire et urgence climatique",
-   "lien": "https://www.lemonde.fr/planete/article/2026/11/12/agriculture-un-plan-de-relance-tiraille-entre-souverainete-alimentaire-et-urgence-climatique_6809161_3244.html",
-   "source": "Le Monde",
-   "date": "2026-11-12T21:10:52+00:00",
-   "extrait": "Annie Genevard, ministre de l’agriculture, accompagnée du premier ministre, Sébastien Lecornu, a présenté, jeudi, un plan censé porter la « reconquête » de la souveraineté alimentaire française sur…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
   }
  ]
 }
