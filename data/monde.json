@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-13T03:05:41+00:00",
+ "maj": "2026-11-13T04:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,42 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "4beae20b0b03",
+   "titre": "Van Hollen will challenge Schumer for Senate majority leader",
+   "lien": "https://www.cbsnews.com/news/chris-van-hollen-challenge-chuck-schumer-senate-majority-leader-democrat/",
+   "source": "CBS News",
+   "date": "2026-11-13T03:58:38+00:00",
+   "extrait": "Democratic Sen. Chris Van Hollen of Maryland announced Thursday that he will challenge Sen. Chuck Schumer for Senate majority leader.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "ea7faee11632",
+   "titre": "Ousted Nvidia CEO Jensen Huang summoned to testify before Congress",
+   "lien": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-13T03:57:01+00:00",
+   "extrait": "US lawmakers want to question him over whether one of his alleged relationships was with a Chinese spy.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "6c48175ae0bc",
+   "titre": "Chris Van Hollen says he will challenge Chuck Schumer for Senate majority leader",
+   "lien": "https://www.npr.org/2026/11/12/nx-s1-6039357/chris-van-hollen-chuck-schumer-senate-majority-leader",
+   "source": "NPR",
+   "date": "2026-11-13T03:52:25+00:00",
+   "extrait": "Van Hollen, a progressive from Maryland, said voters sent a clear message in the midterm elections — that they want \"change from the status quo.\"",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
   {
    "id": "3d4d47834df2",
    "titre": "Australian footballers will not be charged after hotel incident, police say",
@@ -46,27 +82,13 @@
    "zone": "usa"
   },
   {
-   "id": "4beae20b0b03",
-   "titre": "Van Hollen will challenge Schumer for Senate majority leader",
-   "lien": "https://www.cbsnews.com/news/chris-van-hollen-challenge-chuck-schumer-senate-majority-leader-democrat/",
-   "source": "CBS News",
-   "date": "2026-11-13T02:51:51+00:00",
-   "extrait": "Democratic Sen. Chris Van Hollen of Maryland announced Thursday that he will challenge Sen. Chuck Schumer for Senate majority leader.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "ea7faee11632",
-   "titre": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-   "lien": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+   "id": "3bbd4cd1ecda",
+   "titre": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+   "lien": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-11-13T02:39:00+00:00",
-   "extrait": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
-   "tags": [
-    "Tech"
-   ],
+   "date": "2026-11-13T02:48:29+00:00",
+   "extrait": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
+   "tags": [],
    "zone": "monde"
   },
   {
@@ -570,6 +592,16 @@
    "zone": "usa"
   },
   {
+   "id": "df764ef9e288",
+   "titre": "11/12: CBS Evening News",
+   "lien": "https://www.cbsnews.com/video/111226-cbs-evening-news/",
+   "source": "CBS News",
+   "date": "2026-11-12T23:30:00+00:00",
+   "extrait": "Suspected D.C. shooter identified as a doctor; Hailstorm could hit East Coast cities.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
    "id": "11f8839dbef3",
    "titre": "White House warns of \"blatant criminality\" in Democratic probes",
    "lien": "https://www.cbsnews.com/news/white-house-counsel-will-scharf-house-oversight-committee-robert-garcia-investigations/",
@@ -640,6 +672,16 @@
     "Climat"
    ],
    "zone": "france"
+  },
+  {
+   "id": "ef5092fe5676",
+   "titre": "Une panne mondiale affecte la messagerie Outlook de Microsoft",
+   "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261112-une-panne-mondiale-affecte-la-messagerie-outlook-de-microsoft",
+   "source": "France 24",
+   "date": "2026-11-12T22:57:31+00:00",
+   "extrait": "Une panne de la messagerie Outlook de Microsoft a été signalée jeudi dans 74 pays et territoires. Des dizaines de milliers d'utilisateurs sont concernés.",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "77c871299b2b",
@@ -3397,52 +3439,6 @@
     "Politique"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "d49f0ec0dfc4",
-   "titre": "Christophe Gleizes: mobiliser contre l'oubli",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20261112-christophe-gleizes-mobiliser-contre-l-oubli",
-   "source": "France 24",
-   "date": "2026-11-12T12:15:33+00:00",
-   "extrait": "Christophe Gleizes est incarcéré depuis 500 jours en Algérie. L'occasion de sensibiliser l'opinion au sort du journaliste, condamné à sept ans de prison pour apologie du terrorisme après un…",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "9139385413bb",
-   "titre": "Le ministre de la Défense américain réprimandé par un garde lors de la cérémonie de commémoration du 11-Novembre",
-   "lien": "https://www.franceinfo.fr/monde/usa/tous-les-visiteurs-doivent-maintenir-une-atmosphere-de-silence-le-ministre-de-la-defense-americain-reprimande-par-un-garde-lors-de-la-ceremonie-de-commemoration-du-11-novembre_8279003.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-12T12:13:05+00:00",
-   "extrait": "Pete Hegseth et son entourage discutaient et riaient près de la tombe du Soldat inconnu au cimetière national d'Arlington, en pleine journée des anciens combattants, mercredi.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "f99ca92fee5d",
-   "titre": "RD Congo : ouverture du procès de l'opposant politique Prince Epenge",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-rd-congo-ouverture-du-proc%C3%A8s-de-l-opposant-politique-prince-epenge",
-   "source": "France 24",
-   "date": "2026-11-12T12:09:58+00:00",
-   "extrait": "En République démocratique du Congo (RDC), le procès du porte-parole de Lamuka, la coalition d'opposition de Martin Fayulu, s'est ouvert mercredi 11 novembre. Prince Epenge est poursuivi pour…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "5081e341a50a",
-   "titre": "États-Unis : au moins deux morts suite à l'effondrement d'un immeuble",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-%C3%A9tats-unis-au-moins-deux-morts-suite-%C3%A0-l-effondrement-d-un-immeuble",
-   "source": "France 24",
-   "date": "2026-11-12T12:06:45+00:00",
-   "extrait": "L'effondrement d'un immeuble de trois étages a fait au moins deux morts et 17 blessés mercredi 11 novembre à New York près d'un chantier, ont annoncé les autorités de la ville. L'immeuble est tombé…",
-   "tags": [],
-   "zone": "monde"
   }
  ]
 }
