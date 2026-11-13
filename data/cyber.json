@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-13T08:05:44+00:00",
+ "maj": "2026-11-13T09:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,28 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "3ff055feac94",
+   "titre": "Police arrest 354 suspects in dark web cybercrime crackdown",
+   "lien": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
+   "source": "BleepingComputer",
+   "date": "2026-11-13T08:34:20+00:00",
+   "extrait": "Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces. [...]",
+   "tags": []
+  },
+  {
+   "id": "c0eea237828e",
+   "titre": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
+   "lien": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
+   "source": "The Hacker News",
+   "date": "2026-11-13T08:05:49+00:00",
+   "extrait": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously reported local privilege…",
+   "tags": [
+    "Faille",
+    "Fuite de données",
+    "Malware"
+   ]
+  },
   {
    "id": "9e0cc84d062d",
    "titre": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
@@ -3408,31 +3430,6 @@
    "extrait": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
    "tags": [
     "Faille"
-   ]
-  },
-  {
-   "id": "77f64f32faf5",
-   "titre": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
-   "lien": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
-   "source": "The Hacker News",
-   "date": "2026-11-03T11:23:53+00:00",
-   "extrait": "Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest…",
-   "tags": [
-    "CVE",
-    "Faille",
-    "Linux"
-   ]
-  },
-  {
-   "id": "20c9c9965d29",
-   "titre": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
-   "lien": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
-   "source": "The Hacker News",
-   "date": "2026-11-03T11:18:20+00:00",
-   "extrait": "Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk…",
-   "tags": [
-    "Faille",
-    "Fuite de données"
    ]
   }
  ]
