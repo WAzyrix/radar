@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-13T15:05:39+00:00",
+ "maj": "2026-11-13T16:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,46 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "fb5ac890be2a",
+   "titre": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
+   "lien": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
+   "source": "The Hacker News",
+   "date": "2026-11-13T15:27:05+00:00",
+   "extrait": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out. One of them, Mior, can…",
+   "tags": []
+  },
+  {
+   "id": "db3fd3a5adb8",
+   "titre": "How one AI agent exposed five critical enterprise security gaps",
+   "lien": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
+   "source": "BleepingComputer",
+   "date": "2026-11-13T15:01:11+00:00",
+   "extrait": "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security…",
+   "tags": [
+    "IA"
+   ]
+  },
+  {
+   "id": "c6e1d6a77271",
+   "titre": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
+   "lien": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
+   "source": "The Hacker News",
+   "date": "2026-11-13T14:28:58+00:00",
+   "extrait": "The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of…",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "79815295aaa3",
+   "titre": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
+   "lien": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
+   "source": "The Hacker News",
+   "date": "2026-11-13T13:54:20+00:00",
+   "extrait": "Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday. The…",
+   "tags": []
+  },
   {
    "id": "293c69c9ee5b",
    "titre": "Microsoft says November security updates cause printing issues",
@@ -3384,50 +3424,6 @@
    "source": "CERT-FR",
    "date": "2026-11-04T00:00:00+00:00",
    "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "282e29c343fc",
-   "titre": "Vulnérabilité dans Laravel (04 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1457/",
-   "source": "CERT-FR",
-   "date": "2026-11-04T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans Laravel. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "8857f9c18f3d",
-   "titre": "Multiples vulnérabilités dans les produits HPE Aruba Networking (04 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1451/",
-   "source": "CERT-FR",
-   "date": "2026-11-04T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "ee0754369e78",
-   "titre": "Multiples vulnérabilités dans Google Chrome (04 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1450/",
-   "source": "CERT-FR",
-   "date": "2026-11-04T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "49a91d3e8913",
-   "titre": "Vulnérabilité dans Mozilla Firefox (04 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1455/",
-   "source": "CERT-FR",
-   "date": "2026-11-04T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans Mozilla Firefox. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
    "tags": [
     "Faille"
    ]
