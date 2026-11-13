@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-13T04:05:41+00:00",
+ "maj": "2026-11-13T05:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,80 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "42be5ca9f809",
+   "titre": "Trump says \"we don't need a deal with Iran\"",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/",
+   "source": "CBS News",
+   "date": "2026-11-13T04:52:48+00:00",
+   "extrait": "President Trump says the war with Iran has been won and \"we don't need a deal,\" as Tehran sticks to its demands and continues attacking ships.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "542761604581",
+   "titre": "Une hausse du smic à 1 700 euros entraînerait-elle la destruction de 230 000 emplois, comme l'affirme le gouvernement ?",
+   "lien": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-une-hausse-du-smic-a-1-700-euros-entrainerait-elle-la-destruction-de-230-000-emplois-comme-l-affirme-le-gouvernement_8274335.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-13T04:52:34+00:00",
+   "extrait": "\"Une augmentation du smic plus importante aurait, de manière structurelle et structurée, engendré une destruction importante d'emplois\", a soutenu le Premier ministre Sébastien Lecornu pour…",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "3fb9eeee9f4c",
+   "titre": "\"On crée de la proximité\" : comment La France insoumise s'inspire de la campagne présidentielle de Lula sur les réseaux sociaux",
+   "lien": "https://www.franceinfo.fr/elections/presidentielle/on-cree-de-la-proximite-comment-la-france-insoumise-s-inspire-de-la-campagne-presidentielle-de-lula-sur-les-reseaux-sociaux_8279390.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-13T04:51:22+00:00",
+   "extrait": "En vue de 2027, les proches de Jean-Luc Mélenchon reprennent plusieurs principes d'André Janones, le stratège numérique du président du Brésil, en lançant une chaîne WhatsApp ou en tentant…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "6f1ec8ca68ee",
+   "titre": "Amnesty affirme que l'ONU n'a pas empêché un massacre au Soudan du Sud",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261113-amnesty-affirme-que-l-onu-n-a-pas-emp%C3%AAch%C3%A9-un-massacre-au-soudan-du-sud",
+   "source": "France 24",
+   "date": "2026-11-13T04:44:37+00:00",
+   "extrait": "Un rapport publié par Amnesty International indique que les autorités sud-soudanaises ainsi que la Minuss, la mission de l'ONU au Soudan du Sud, étaient au courant qu'un massacre allait survenir le…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "edc5a68ef353",
+   "titre": "Présidentielle 2027 : l’offensive illibérale de Marine Le Pen",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/13/presidentielle-2027-l-offensive-illiberale-de-marine-le-pen_6809272_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-13T04:29:18+00:00",
+   "extrait": "Associations, syndicats, magistrats, journalistes : les dirigeants du Rassemblement national multiplient les attaques publiques contre les corps intermédiaires, les institutions et les organisations…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "4528ca0ab7c7",
+   "titre": "Procès de l’interpellation violente de Michel Zecler par des policiers : « Depuis l’agression, il a perdu cette lumière, cette faculté à aller de l’avant »",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/13/proces-de-l-interpellation-violente-de-michel-zecler-par-des-policiers-depuis-l-agression-il-a-perdu-cette-lumiere-cette-faculte-a-aller-de-l-avant_6809266_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-13T04:00:28+00:00",
+   "extrait": "Au troisième jour d’audience du procès de trois policiers jugés pour avoir passé à tabac le producteur de musique, à Paris, en 2020, les proches de ce dernier ont décrit les conséquences et le…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "4beae20b0b03",
    "titre": "Van Hollen will challenge Schumer for Senate majority leader",
    "lien": "https://www.cbsnews.com/news/chris-van-hollen-challenge-chuck-schumer-senate-majority-leader-democrat/",
@@ -35,11 +109,11 @@
   },
   {
    "id": "ea7faee11632",
-   "titre": "Ousted Nvidia CEO Jensen Huang summoned to testify before Congress",
+   "titre": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
    "lien": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-13T03:57:01+00:00",
-   "extrait": "US lawmakers want to question him over whether one of his alleged relationships was with a Chinese spy.",
+   "extrait": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
    "tags": [
     "Politique"
    ],
@@ -56,6 +130,19 @@
     "Politique"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "6c845750ffab",
+   "titre": "En direct : les Européens seront présents aux prochaines négociations sur l'Ukraine",
+   "lien": "https://www.france24.com/fr/europe/20261113-en-direct-ukraine-russie-europeens-presents-prochaines-negociations-zelensky-poutine",
+   "source": "France 24",
+   "date": "2026-11-13T03:32:16+00:00",
+   "extrait": "Le président ukrainien, Volodymyr Zelensky, et l'émissaire américain, Jared Kushner, ont déclaré jeudi que l'Europe participerait au prochain cycle de négociations avec la Russie, tandis que…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
   },
   {
    "id": "3d4d47834df2",
@@ -90,6 +177,18 @@
    "extrait": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
    "tags": [],
    "zone": "monde"
+  },
+  {
+   "id": "28e200d08386",
+   "titre": "Au Brésil, le « beau gosse de la Paulista » redonne à la gauche son pouvoir de séduction",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/13/au-bresil-le-beau-gosse-de-la-paulista-redonne-a-la-gauche-son-pouvoir-de-seduction_6809261_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-13T02:30:01+00:00",
+   "extrait": "Dans l’entre-deux-tours de la présidentielle, dont Lula est sorti vainqueur, les militants ont fait preuve d’une grande créativité pour parvenir à cet exploit. L’irruption de la sensualité dans la…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
   },
   {
    "id": "c65207896aea",
@@ -277,7 +376,7 @@
    "titre": "EN DIRECT, guerre en Ukraine : la présence des Européens dans les prochaines négociations de paix annoncée par Volodymyr Zelensky et les émissaires américains",
    "lien": "https://www.lemonde.fr/international/live/2026/11/13/en-direct-guerre-en-ukraine-la-presence-des-europeens-dans-les-prochaines-negociations-de-paix-annoncee-par-volodymyr-zelensky-et-les-emissaires-americains_6808609_3210.html",
    "source": "Le Monde",
-   "date": "2026-11-13T01:06:43+00:00",
+   "date": "2026-11-13T01:06:41+00:00",
    "extrait": "Jared Kushner et Steve Witkoff, les émissaires des Etats-Unis pour les négociations sur le conflit entre la Russie et l’Ukraine, ont rencontré le président ukrainien, jeudi soir à Dublin, après…",
    "tags": [
     "Politique",
@@ -539,10 +638,8 @@
    "lien": "https://www.lemonde.fr/pixels/article/2026/11/13/une-panne-mondiale-d-outlook-empeche-des-dizaines-de-milliers-d-utilisateurs-d-acceder-a-leurs-e-mails_6809171_4408996.html",
    "source": "Le Monde",
    "date": "2026-11-12T23:36:49+00:00",
-   "extrait": "Microsoft affirme travailler « sans relâche » pour régler la panne qui influence également certaines fonctions des assistants d’intelligence artificielle, dont Copilot, son propre assistant IA, mais…",
-   "tags": [
-    "Tech"
-   ],
+   "extrait": "Après environ huit heures de blocage, le géant Microsoft a annoncé, dans la nuit de jeudi à vendredi, que les mesures prises pour résoudre le problème ne fonctionnaient « pas comme prévu », et qu’il…",
+   "tags": [],
    "zone": "france"
   },
   {
@@ -1179,19 +1276,6 @@
    "zone": "usa"
   },
   {
-   "id": "42be5ca9f809",
-   "titre": "Trump says \"we don't need a deal with Iran\"",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/",
-   "source": "CBS News",
-   "date": "2026-11-12T19:26:29+00:00",
-   "extrait": "President Trump says the war with Iran has been won and \"we don't need a deal,\" as Tehran sticks to its demands and continues attacking ships.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "c6c606c86ed1",
    "titre": "Pourquoi les Français les plus aisés ont-ils payé moins d'impôt sur le revenu en 2025 que l'année précédente ?",
    "lien": "https://www.franceinfo.fr/economie/impots/pourquoi-les-francais-les-plus-aises-ont-ils-paye-moins-d-impot-sur-le-revenu-en-2025-que-l-annee-precedente_8279105.html#xtor=RSS-3-[lestitres]",
@@ -1273,7 +1357,7 @@
   },
   {
    "id": "343e10c76cfc",
-   "titre": "Mississippi : les démocrates remportent un siège au Sénat",
+   "titre": "Mississippi : Scott Colom, premier sénateur noir élu depuis 150 ans",
    "lien": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261112-mississippi-les-d%C3%A9mocrates-remportent-un-si%C3%A8ge-au-s%C3%A9nat",
    "source": "France 24",
    "date": "2026-11-12T19:11:55+00:00",
@@ -1448,6 +1532,18 @@
    "date": "2026-11-12T18:31:22+00:00",
    "extrait": "Le rassemblement, organisé par le collectif identitaire Les Normaux, devait avoir lieu à proximité d'une autre manifestation déclarée contre la vie chère, \"augmentant le risque de confrontations\"…",
    "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "773c27be3727",
+   "titre": "En Moldavie, la mémoire retrouvée de la grande famine planifiée par l’URSS en 1946-1947",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/12/en-moldavie-la-memoire-retrouvee-de-la-grande-famine-planifiee-par-l-urss-en-1946-1947_6809151_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-12T18:30:05+00:00",
+   "extrait": "Entre 120 000 et 200 000 personnes sont mortes de faim dans la Moldavie soviétique, au lendemain de la seconde guerre mondiale. Un projet de loi vise à faire reconnaître cette tragédie, longtemps…",
+   "tags": [
+    "Conflits"
+   ],
    "zone": "france"
   },
   {
@@ -1677,7 +1773,7 @@
   },
   {
    "id": "e7c287f9e5dc",
-   "titre": "Candidature de Teddy Riner, primaire de la droite et du centre",
+   "titre": "Candidature de Teddy Riner : qui a le plus à craindre aux présidentielles ?",
    "lien": "https://www.france24.com/fr/%C3%A9missions/politique/20261112-candidature-de-teddy-riner-primaire-de-la-droite-et-du-centre",
    "source": "France 24",
    "date": "2026-11-12T17:48:15+00:00",
@@ -3353,92 +3449,6 @@
     "Politique"
    ],
    "zone": "france"
-  },
-  {
-   "id": "f3bd3dd370d0",
-   "titre": "Watch: The latest in the Jensen Huang Nvidia scandal",
-   "lien": "https://www.bbc.co.uk/news/videos/cqz0k70990zpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-12T12:42:44+00:00",
-   "extrait": "The BBC's China correspondent Laura Bicker explains the timeline of events and what's next for Nvidia as its board considers whether to oust the CEO.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "6f7a47f5dc24",
-   "titre": "L'application de rencontre Happn et le ministère de la Justice lancent un partenariat pour faire face aux violences sexistes et sexuelles en ligne",
-   "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/l-application-de-rencontre-happn-et-le-ministere-de-la-justice-lancent-un-partenariat-pour-faire-face-aux-violences-sexistes-et-sexuelles-en-ligne_8279300.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-12T12:42:16+00:00",
-   "extrait": "Les utilisateurs de l'application de rencontre Happn, plébiscitée par les jeunes, verront bientôt \"dans le fil de profils et la messagerie\" un accès vers \"Je suis victime\". Il s'agit d'une…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "b2e32a53041f",
-   "titre": "Plus de 100 000 billets SNCF vendus en trente minutes pour les vacances d'hiver et de printemps, un record",
-   "lien": "https://www.franceinfo.fr/economie/transports/sncf/plus-de-100-000-billets-sncf-vendus-en-30-minutes-pour-les-vacances-d-hiver-et-de-printemps-un-record-historique_8279282.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-12T12:30:44+00:00",
-   "extrait": "Depuis jeudi matin, la SNCF met en vente ses billets de TGV de janvier jusqu'au début de l'été. Pour cette ouverture, il y a eu un record historique de réservations.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "5f9d0bf0eb28",
-   "titre": "En 2025, les flux migratoires ont augmenté en Europe du Sud, mais reculé en Amérique du Nord",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/12/en-2025-les-flux-migratoires-ont-augmente-en-europe-du-sud-mais-recule-en-amerique-du-nord_6809102_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-12T12:30:02+00:00",
-   "extrait": "Le rapport annuel de l’OCDE, publié jeudi, relève des tendances divergentes selon les pays. La forte progression de l’immigration légale au Portugal, en Italie et en Espagne, contraste avec des…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "1b41499117b3",
-   "titre": "New York : au moins huit personnes tuées dans l’effondrement d’un immeuble à Brooklyn",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/12/a-new-york-au-moins-cinq-morts-dans-l-effondrement-d-un-immeuble-a-brooklyn_6809041_3211.html",
-   "source": "Le Monde",
-   "date": "2026-11-12T12:29:07+00:00",
-   "extrait": "Les pompiers ont extrait jeudi matin les corps de six nouvelles victimes, deux décès ayant été annoncés dès mercredi.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "44922249b524",
-   "titre": "Ecrits antisémites : Jordan Bardella porte plainte pour faux et usage de faux",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/12/ecrits-antisemites-jordan-bardella-porte-plainte-pour-faux-et-usage-de-faux_6809101_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-12T12:23:02+00:00",
-   "extrait": "Le président du Rassemblement national avait déjà déposé une plainte pour diffamation contre le site d’investigation « Mediapart ».",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "fcbf9d76c7b4",
-   "titre": "Democrat Scott Colom wins Mississippi Senate race in upset",
-   "lien": "https://www.cbsnews.com/news/mississippi-2026-senate-scott-colom-cindy-hyde-smith/",
-   "source": "CBS News",
-   "date": "2026-11-12T12:20:00+00:00",
-   "extrait": "Democrat Scott Colom defeated GOP Sen. Cindy Hyde-Smith in the Mississippi Senate race, delivering Democrats an eighth flipped Senate seat after the dramatic race had been up in the air for days.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "4a32187e9aeb",
-   "titre": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
-   "lien": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
-   "source": "NPR",
-   "date": "2026-11-12T12:15:48+00:00",
-   "extrait": "After more than a week of counting ballots, Scott Colom has narrowly won the Mississippi Senate seat. And, the White House has sent a letter warning Democrats who plan to investigate the…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
   }
  ]
 }
