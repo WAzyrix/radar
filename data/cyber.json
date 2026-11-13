@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-13T10:05:42+00:00",
+ "maj": "2026-11-13T11:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "e49e186a5eab",
+   "titre": "Check Point warns of zero-day flaw exploited for root access",
+   "lien": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+   "source": "BleepingComputer",
+   "date": "2026-11-13T10:44:22+00:00",
+   "extrait": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since…",
+   "tags": [
+    "Faille",
+    "Fuite de données"
+   ]
+  },
   {
    "id": "8762a201a24f",
    "titre": "Microsoft confirms Windows activation failures after November updates",
@@ -3420,17 +3432,6 @@
    "tags": [
     "Ransomware",
     "IA"
-   ]
-  },
-  {
-   "id": "06b26e44f1d6",
-   "titre": "Police seizes over 100 servers in investment scam crackdown",
-   "lien": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
-   "source": "BleepingComputer",
-   "date": "2026-11-03T13:33:49+00:00",
-   "extrait": "European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to…",
-   "tags": [
-    "Malware"
    ]
   }
  ]
