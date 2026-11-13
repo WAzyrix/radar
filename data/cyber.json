@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-13T11:05:41+00:00",
+ "maj": "2026-11-13T12:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,53 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "fe3ab0485c82",
+   "titre": "When an AI Agent Goes Wrong, Can You Stop It?",
+   "lien": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
+   "source": "The Hacker News",
+   "date": "2026-11-13T11:52:31+00:00",
+   "extrait": "Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can…",
+   "tags": [
+    "IA",
+    "Outil"
+   ]
+  },
+  {
+   "id": "d030547d1ad3",
+   "titre": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
+   "lien": "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html",
+   "source": "The Hacker News",
+   "date": "2026-11-13T11:10:40+00:00",
+   "extrait": "A newly identified spying group used hacked equipment inside Asian mobile operators to intercept the calls and texts of selected people, mostly in Taiwan. Enea, a telecom and cybersecurity software…",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "b414733ddc81",
+   "titre": "Agent-desktop pilote vos applis sans regarder l'écran",
+   "lien": "https://korben.info/agent-desktop.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-13T10:57:03+00:00",
+   "extrait": "agent-desktop, de Vercel Labs, fait piloter vos applications de bureau par un agent IA en lisant l'arbre d'accessibilité plutôt que des captures d'écran. Essai sur Mac, avec TextEdit et une appli…",
+   "tags": [
+    "IA"
+   ]
+  },
+  {
+   "id": "5df4bf07aed5",
+   "titre": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
+   "lien": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
+   "source": "The Hacker News",
+   "date": "2026-11-13T10:55:03+00:00",
+   "extrait": "An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch…",
+   "tags": [
+    "Ransomware",
+    "Malware",
+    "Outil"
+   ]
+  },
   {
    "id": "e49e186a5eab",
    "titre": "Check Point warns of zero-day flaw exploited for root access",
@@ -3384,53 +3431,6 @@
    "tags": [
     "Fuite de données",
     "Malware",
-    "IA"
-   ]
-  },
-  {
-   "id": "63d055e30b47",
-   "titre": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
-   "lien": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
-   "source": "The Hacker News",
-   "date": "2026-11-03T15:16:32+00:00",
-   "extrait": "An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a backdoor and collected…",
-   "tags": [
-    "Malware",
-    "Outil",
-    "Linux"
-   ]
-  },
-  {
-   "id": "36b3d0baf9aa",
-   "titre": "Barracuda warns of critical flaws allowing root access to devices",
-   "lien": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
-   "source": "BleepingComputer",
-   "date": "2026-11-03T15:06:16+00:00",
-   "extrait": "Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "f6282e8c323a",
-   "titre": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
-   "lien": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
-   "source": "BleepingComputer",
-   "date": "2026-11-03T15:00:10+00:00",
-   "extrait": "Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC…",
-   "tags": [
-    "IA"
-   ]
-  },
-  {
-   "id": "c136875d05ca",
-   "titre": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
-   "lien": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
-   "source": "BleepingComputer",
-   "date": "2026-11-03T14:00:00+00:00",
-   "extrait": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]",
-   "tags": [
-    "Ransomware",
     "IA"
    ]
   }
