@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-14T21:05:38+00:00",
+ "maj": "2026-11-14T22:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,97 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "f83a676d74f0",
+   "titre": "Netanyahu says it's time to remove Iran threat \"once and for all\"",
+   "lien": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/",
+   "source": "CBS News",
+   "date": "2026-11-14T22:05:05+00:00",
+   "extrait": "Fires had broken out on a total of three oil tankers that struck mines in the Strait of Hormuz overnight and into the morning, Iran's military said Saturday.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "d41dea7d57fb",
+   "titre": "SpaceX parvient à rattraper l’étage supérieur de sa mégafusée Starship, une première",
+   "lien": "https://www.lemonde.fr/sciences/article/2026/11/14/spacex-parvient-a-rattraper-l-etage-superieur-de-sa-megafusee-starship-une-premiere_6810676_1650684.html",
+   "source": "Le Monde",
+   "date": "2026-11-14T21:55:17+00:00",
+   "extrait": "Cette récupération constitue une avancée considérable dans le développement de la plus grande et la plus puissante fusée jamais construite, conçue pour réaliser des voyages vers la Lune et Mars et…",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "d1a673f3cc9d",
+   "titre": "Passengers rescued after tanker hit river cruise in New Orleans",
+   "lien": "https://www.cbsnews.com/news/tanker-cruise-collision-mississippi-river-new-orleans/",
+   "source": "CBS News",
+   "date": "2026-11-14T21:52:26+00:00",
+   "extrait": "A tanker struck a river cruise ship on the Mississippi River near the Port of New Orleans Friday, partially submerging the passenger boat.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "8e5022d867cd",
+   "titre": "Acte V du mouvement social : des revendications variées, une affluence en baisse",
+   "lien": "https://www.france24.com/fr/france/20261114-acte-v-du-mouvement-social-des-revendications-vari%C3%A9es-une-affluence-en-baisse",
+   "source": "France 24",
+   "date": "2026-11-14T21:43:20+00:00",
+   "extrait": "Lors de l'acte V du mouvement social qui ébranle la France, quelque 106 000 à 200 000 personnes ont défilé samedi dans toute la France, selon les chiffres du ministère de l'Intérieur et…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "5f3128295c2d",
+   "titre": "SpaceX successfully catches Starship and makes history",
+   "lien": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
+   "source": "NPR",
+   "date": "2026-11-14T21:42:41+00:00",
+   "extrait": "The company's spacecraft returned to its Texas launchpad in dramatic fashion — by carefully lowering itself until two metal arms attached to the launch tower could secure it.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "fd1142ebeff7",
+   "titre": "Au Portugal, des milliers de manifestants défilent pour dénoncer la crise du logement",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/14/au-portugal-des-milliers-de-manifestants-defilent-pour-denoncer-la-crise-du-logement_6810643_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-14T21:17:50+00:00",
+   "extrait": "Le Portugal est le pays de l’Union européenne où les prix du logement ont le plus augmenté par rapport aux revenus des ménages entre 2015 et 2025. L’indicateur mesurant cette évolution a bondi de…",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "658dc5acebdd",
+   "titre": "This week on \"Sunday Morning\" (Nov. 15)",
+   "lien": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-15-2026/",
+   "source": "CBS News",
+   "date": "2026-11-14T21:14:52+00:00",
+   "extrait": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "c727c43b46cb",
+   "titre": "Israël : Eisenkot accuse Netanyahu d'entraver la formation d'un gouvernement",
+   "lien": "https://www.france24.com/fr/moyen-orient/20261114-isra%C3%ABl-eisenkot-accuse-netanyahu-d-entraver-la-formation-d-un-gouvernement",
+   "source": "France 24",
+   "date": "2026-11-14T21:14:10+00:00",
+   "extrait": "Alors que Benjamin Netanyahu plaide pour un gouvernement d'union nationale, son rival Gadi Eisenkot, chargé de former le prochain gouvernement israélien, a dénoncé samedi les \"ruses\" du Premier…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "713a48e07b7f",
    "titre": "Second catch attempt as SpaceX Starship rocket heads back to Earth",
    "lien": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
@@ -32,6 +123,26 @@
     "Tech"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "bb598ed34f30",
+   "titre": "Éliminatoires de la CAN 2027 : l'Algérie s'impose de peu contre le Togo et conforte sa première place",
+   "lien": "https://www.france24.com/fr/sports/20261114-%C3%A9liminatoires-de-la-can-2027-l-alg%C3%A9rie-cale-contre-le-togo-mais-reste-en-t%C3%AAte-de-son-groupe",
+   "source": "France 24",
+   "date": "2026-11-14T20:58:10+00:00",
+   "extrait": "L'Algérie a dû s'employer pour faire céder une solide équipe du Togo (1-0), samedi 14 novembre lors de la troisième journée des éliminatoires de la CAN 2027. Longtemps en échec dans le dernier…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "003c740f08a6",
+   "titre": "Michel Destot, ancien maire PS de Grenoble et député de l’Isère, est mort",
+   "lien": "https://www.lemonde.fr/disparitions/article/2026/11/14/michel-destot-ancien-maire-ps-de-grenoble-et-depute-de-l-isere-est-mort_6810610_3382.html",
+   "source": "Le Monde",
+   "date": "2026-11-14T20:53:06+00:00",
+   "extrait": "Elu maire en 1995, il a accompli trois mandats, tout en étant député de la troisième circonscription du département de 1988 à 2017 et conseiller général de l’Isère de 1985 à 1995. François Hollande…",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "5ed7b251f36f",
@@ -128,7 +239,7 @@
    "lien": "https://www.lemonde.fr/pixels/article/2026/11/14/cyberattaque-maileva-filiale-du-groupe-la-poste-annonce-un-vol-de-donnees-touchant-22-millions-de-personnes_6810545_4408996.html",
    "source": "Le Monde",
    "date": "2026-11-14T20:05:18+00:00",
-   "extrait": "Le groupe a indiqué avoir déposé plainte après cette cyberattaque qui s’est produite mi-septembre. Une enquête judiciaire est en cours.",
+   "extrait": "Le groupe a annoncé avoir déposé plainte après cette cyberattaque qui s’est produite mi-septembre. Une enquête judiciaire est en cours.",
    "tags": [
     "Justice"
    ],
@@ -285,7 +396,7 @@
   },
   {
    "id": "33a64f2c7fa8",
-   "titre": "En Israël, Gadi Eisenkot dénonce les ruses de Benyamin Nétanyahou, qui plaide pour la formation d’un gouvernement d’union",
+   "titre": "En Israël, Gadi Eisenkot dénonce les « ruses » de Benyamin Nétanyahou, qui plaide pour la formation d’un gouvernement d’union",
    "lien": "https://www.lemonde.fr/international/article/2026/11/14/en-israel-gadi-eisenkot-denonce-les-ruses-de-benyamin-netanyahou-qui-plaide-pour-la-formation-d-un-gouvernement-d-union_6810511_3210.html",
    "source": "Le Monde",
    "date": "2026-11-14T19:33:52+00:00",
@@ -331,18 +442,6 @@
    "extrait": "Le préfet a condamné \"avec la plus grande fermeté les agressions commises aujourd'hui à l'encontre de journalistes\", rappelant que \"la liberté de la presse et le droit d'informer sont des piliers…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "f83a676d74f0",
-   "titre": "Netanyahu says it's time to remove Iran threat \"once and for all\"",
-   "lien": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/",
-   "source": "CBS News",
-   "date": "2026-11-14T19:22:38+00:00",
-   "extrait": "Fires had broken out on a total of three oil tankers that struck mines in the Strait of Hormuz overnight and into the morning, Iran's military said Saturday.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
   },
   {
    "id": "d6d5bc2831d2",
@@ -406,16 +505,6 @@
    "source": "CBS News",
    "date": "2026-11-14T18:52:41+00:00",
    "extrait": "Hundreds of flights are canceled or delayed after a national ground stop ended. CBS News' Kris Van Cleave, Anna Schecter, Lana Zak, Shawna Mizelle and Taurean Small report.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "658dc5acebdd",
-   "titre": "This week on \"Sunday Morning\" (Nov. 15)",
-   "lien": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-15-2026/",
-   "source": "CBS News",
-   "date": "2026-11-14T18:39:50+00:00",
-   "extrait": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
    "tags": [],
    "zone": "usa"
   },
@@ -2409,16 +2498,6 @@
    "zone": "france"
   },
   {
-   "id": "d1a673f3cc9d",
-   "titre": "Passengers rescued after tanker hit river cruise in New Orleans",
-   "lien": "https://www.cbsnews.com/news/tanker-cruise-collision-mississippi-river-new-orleans/",
-   "source": "CBS News",
-   "date": "2026-11-14T04:03:00+00:00",
-   "extrait": "A tanker struck a river cruise ship on the Mississippi River near the Port of New Orleans Friday, partially submerging the passenger boat.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "d1294ee76548",
    "titre": "A Baltimore, la formule gagnante pour faire chuter la criminalité",
    "lien": "https://www.lemonde.fr/m-le-mag/article/2026/11/14/a-baltimore-la-formule-gagnante-pour-faire-chuter-la-criminalite-apres-les-evenements-entourant-la-mort-de-freddie-gray-il-a-fallu-passer-d-une-culture-de-la-force-a-une-culture-de-la-protection_6809587_4500055.html",
@@ -3284,82 +3363,6 @@
    "source": "Le Monde",
    "date": "2026-11-13T20:47:11+00:00",
    "extrait": "Un plan de revalorisation de la prime ISSP, qui n’avait pas évolué depuis 2019, a été présenté par le ministre de l’intérieur aux organisations représentatives, vendredi, « compte tenu des risques…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "78408418fbfa",
-   "titre": "Tanker hits river cruise ship in New Orleans | Special Report",
-   "lien": "https://www.cbsnews.com/video/tanker-hits-river-cruise-boat-in-new-orleans/",
-   "source": "CBS News",
-   "date": "2026-11-13T20:46:00+00:00",
-   "extrait": "Rescues are underway after a tanker collided with a river cruise with over 100 people on board in New Orleans. Tony Dokoupil anchors a CBS News special report.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "949b175b5af2",
-   "titre": "Democrat Eileen Laubacher defeats Lauren Boebert in House race",
-   "lien": "https://www.cbsnews.com/colorado/news/election-lauren-boebert-eileen-laubacher-colorado-congressional-district-4/",
-   "source": "CBS News",
-   "date": "2026-11-13T20:39:32+00:00",
-   "extrait": "Colorado Democrat Eileen Laubacher has defeated incumbent Republican Congresswoman Lauren Boebert to represent the 4th Congressional District, CBS News projects.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "425c48221cbd",
-   "titre": "Democrats have flipped 45 House seats. Here's the breakdown.",
-   "lien": "https://www.cbsnews.com/news/house-districts-flipped-2026-midterm-elections/",
-   "source": "CBS News",
-   "date": "2026-11-13T20:37:00+00:00",
-   "extrait": "Democrats won control of the House by flipping more than 40 Republican-held seats, picking up perennial swing districts and seats that were once considered deep red.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "ce6da7f434a0",
-   "titre": "\"Chine, dans les secrets des nouveaux maîtres-espions\" : retrouvez le documentaire de franceinfo après le scandale Nvidia",
-   "lien": "https://www.franceinfo.fr/internet/nvidia/direct-chine-dans-les-secrets-des-nouveaux-maitres-espions-suivez-le-documentaire-de-franceinfo-apres-le-scandale-nvidia_8281100.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-13T20:31:08+00:00",
-   "extrait": "Franceinfo s'intéresse aux nouvelles méthodes d'espionnage chinois, après les dernières révélations sur Jensen Huang, le patron de Nvidia, et sa relation extraconjugale avec Alice Huang, soupçonnée…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "5d40009d02fe",
-   "titre": "Affaire Nvidia, guerre en Ukraine, tractations en Israël et sort de Christophe Gleizes",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20261113-affaire-nvidia-guerre-en-ukraine-tractations-en-isra%C3%ABl-et-sort-de-christophe-gleizes",
-   "source": "France 24",
-   "date": "2026-11-13T20:26:36+00:00",
-   "extrait": "Au sommaire de l'émission cette semaine: la démission du PDG de Nvidia Jensen Huang, après la révélation d'une relation extra-conjuguale avec une femme soupçonnée d'être une espionne chinoise; la…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "982e33dd83b3",
-   "titre": "Inflation isn't going away. Here's what that means for interest rates.",
-   "lien": "https://www.cbsnews.com/news/interest-rates-federal-reserve-inflation/",
-   "source": "CBS News",
-   "date": "2026-11-13T20:19:31+00:00",
-   "extrait": "As inflation seeps deeper into the U.S. economy, the Federal Reserve may have to step up the pace of rate hikes, according to Wall Street analysts.",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "e56eda27776a",
-   "titre": "Laurent Nuñez promet aux policiers une revalorisation de leur prime de risque, les syndicats insatisfaits",
-   "lien": "https://www.franceinfo.fr/faits-divers/police/laurent-nunez-promet-aux-policiers-une-revalorisation-de-leur-prime-de-risque-les-syndicats-mecontents_8281625.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-13T20:18:21+00:00",
-   "extrait": "Cette proposition faite par le ministre de l'Intérieur lors d'une réunion vendredi place Beauvau est jugée \"insuffisante\", voire \"inadmissible\", par les syndicats.",
    "tags": [
     "Politique"
    ],
