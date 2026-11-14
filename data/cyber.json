@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-14T15:05:40+00:00",
+ "maj": "2026-11-14T16:05:47+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,15 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "e253199b5be0",
+   "titre": "US disrupts North Korean campaign behind $400 million crypto theft",
+   "lien": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
+   "source": "BleepingComputer",
+   "date": "2026-11-14T15:15:49+00:00",
+   "extrait": "The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]",
+   "tags": []
+  },
   {
    "id": "b58e8e6c37ed",
    "titre": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
@@ -3416,15 +3425,6 @@
     "Faille",
     "Fuite de données"
    ]
-  },
-  {
-   "id": "a45ef699f795",
-   "titre": "Astra a retouché les poids de Qwen pour qu'il puisse aller jusqu'au bout de sa réflexion",
-   "lien": "https://korben.info/gpt-6-astra-poids-qwen.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-11-04T04:44:37+00:00",
-   "extrait": "GPT-6 Astra a modifié 0,016 % des poids de Qwen3.5-0.8B et fait passer MATH-500 de 7,9 % à 48,1 %. Sauf que la retouche répare surtout des boucles de réflexion : réflexion coupée, son réglage par…",
-   "tags": []
   }
  ]
 }
