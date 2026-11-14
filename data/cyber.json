@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-14T17:05:39+00:00",
+ "maj": "2026-11-14T18:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "403e4bdfaeb6",
+   "titre": "Cursor confirms security breach led to malicious Claude Code extension",
+   "lien": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+   "source": "BleepingComputer",
+   "date": "2026-11-14T17:27:25+00:00",
+   "extrait": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider…",
+   "tags": [
+    "Fuite de données",
+    "IA"
+   ]
+  },
   {
    "id": "e253199b5be0",
    "titre": "US disrupts North Korean campaign behind $400 million crypto theft",
@@ -3411,19 +3423,6 @@
     "CVE",
     "Faille",
     "Mobile"
-   ]
-  },
-  {
-   "id": "349817163ae5",
-   "titre": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
-   "lien": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
-   "source": "The Hacker News",
-   "date": "2026-11-04T05:43:11+00:00",
-   "extrait": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active…",
-   "tags": [
-    "CVE",
-    "Faille",
-    "Fuite de données"
    ]
   }
  ]
