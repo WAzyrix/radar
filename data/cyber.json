@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-14T12:05:41+00:00",
+ "maj": "2026-11-14T13:05:46+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "b58e8e6c37ed",
+   "titre": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+   "lien": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+   "source": "The Hacker News",
+   "date": "2026-11-14T12:38:35+00:00",
+   "extrait": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known…",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
+  },
   {
    "id": "a57e4f1f358b",
    "titre": "Stela - Le retour du Hackintosh ?",
@@ -3413,18 +3425,6 @@
    "date": "2026-11-04T04:44:37+00:00",
    "extrait": "GPT-6 Astra a modifié 0,016 % des poids de Qwen3.5-0.8B et fait passer MATH-500 de 7,9 % à 48,1 %. Sauf que la retouche répare surtout des boucles de réflexion : réflexion coupée, son réglage par…",
    "tags": []
-  },
-  {
-   "id": "04c313d4b4ca",
-   "titre": "DiscImageStudio - Un dessin gravé dans les données du disque",
-   "lien": "https://korben.info/discimagestudio-graver-image-cd-dvd-blu-ray.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-11-04T04:25:15+00:00",
-   "extrait": "DiscImageStudio convertit une image en données qui, une fois gravées sur un CD, un DVD ou un BD-R, font apparaître ce dessin à la surface du disque. Héritier de CDImage, il calibre les disques par…",
-   "tags": [
-    "Linux",
-    "Windows"
-   ]
   }
  ]
 }
