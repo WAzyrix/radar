@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-14T02:05:40+00:00",
+ "maj": "2026-11-14T03:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,11 +22,92 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "c95807c7e9d6",
+   "titre": "FAA lifts nationwide ground stop that halted thousands of flights",
+   "lien": "https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/",
+   "source": "CBS News",
+   "date": "2026-11-14T02:59:00+00:00",
+   "extrait": "The FAA on Friday issued a rare nationwide ground stop. Sources told CBS News an update to the network connecting the air traffic control system caused a reboot, crash and outage.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "bec3cf5634fd",
+   "titre": "Porté par un Antoine Dupont omniprésent, le XV de France, héroïque, se défait de l’Afrique du Sud",
+   "lien": "https://www.lemonde.fr/sport/article/2026/11/14/porte-par-un-antoine-dupont-omnipresent-le-xv-de-france-heroique-se-defait-de-l-afrique-du-sud_6809521_3242.html",
+   "source": "Le Monde",
+   "date": "2026-11-14T02:58:42+00:00",
+   "extrait": "Les joueurs de Fabien Galthié se sont imposés sur le fil (21-19), vendredi au Stade de France, face aux doubles champions du monde en titre, dans le choc de la cinquième journée du Championnat des…",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "7483c7d96a71",
+   "titre": "Après plusieurs heures de suspension des vols, les États-Unis rouvrent leur espace aérien",
+   "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261114-etats-unis-suspension-des-vols-reouverture-espace-aerien-faa",
+   "source": "France 24",
+   "date": "2026-11-14T02:42:17+00:00",
+   "extrait": "Des milliers de vols ont été annulés vendredi après-midi aux États-Unis après la fermeture de l'espace aérien au niveau national. Les vols ont de nouveau été autorisés dans la soirée, mais la…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "3979d549913f",
+   "titre": "Suspension des vols aux Etats-Unis : l’agence de l’aviation civile annonce une reprise du trafic aérien après une vaste « panne des télécommunications »",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/14/suspension-des-vols-aux-etats-unis-l-agence-de-l-aviation-civile-annonce-une-reprise-du-trafic-aerien-apres-une-vaste-panne-des-telecommunications_6809389_3211.html",
+   "source": "Le Monde",
+   "date": "2026-11-14T02:31:51+00:00",
+   "extrait": "Un dysfonctionnement affectant les centres régionaux de contrôle aérien a conduit les autorités à suspendre les vols dans tout le pays, vendredi, pendant plusieurs heures. Le secrétaire aux…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "aa9dc080d64a",
+   "titre": "How \"Banana Man\" took a small Indiana town by storm",
+   "lien": "https://www.cbsnews.com/news/banana-man-linton-indiana-superhero/",
+   "source": "CBS News",
+   "date": "2026-11-14T02:29:27+00:00",
+   "extrait": "Banana Man began popping up around Linton, Indiana, a few months ago. Videos that also began circulating on social media appeared to show a boy biking all over town in a banana suit.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "0bdad14d51ce",
+   "titre": "Nationwide ground stop lifted, Duffy calls for congressional funding to upgrade ATC system",
+   "lien": "https://www.cbsnews.com/video/nationwide-ground-stop-lifted-duffy-calls-for-congressional-funding-to-upgrade-atc-system/",
+   "source": "CBS News",
+   "date": "2026-11-14T02:16:30+00:00",
+   "extrait": "The FAA on Friday night lifted a nationwide ground stop issued hours earlier over what DHS Secretary Markwayne Mullin called a telecommunications outage. Mullin and Transportation Secretary Sean…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "d314cb8a5005",
+   "titre": "Donald Trump, Xi Jinping et Vladimir Poutine vont se rencontrer jeudi en Chine",
+   "lien": "https://www.france24.com/fr/asie-pacifique/20261114-donald-trump-xi-jinping-vladimir-poutine-vont-se-rencontrer-jeudi-chine",
+   "source": "France 24",
+   "date": "2026-11-14T02:15:28+00:00",
+   "extrait": "Les présidents américain, chinois et russe vont se rencontrer jeudi à Shenzhen, en Chine, en marge du sommet de l'Apec. Les sujets du nucléaire et de l'Iran devraient être abordés, mais probablement…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "2b13a2fac03d",
    "titre": "SpaceX launches first-of-its-kind Starship test flight",
    "lien": "https://www.cbsnews.com/news/spacex-launches-starship-flight-rocket/",
    "source": "CBS News",
-   "date": "2026-11-14T02:04:18+00:00",
+   "date": "2026-11-14T02:10:25+00:00",
    "extrait": "The SpaceX Super Heavy-Starship was designed from the ground up to be fully reusable in a bid to lower launch costs.",
    "tags": [
     "Tech"
@@ -56,16 +137,6 @@
    "zone": "usa"
   },
   {
-   "id": "c95807c7e9d6",
-   "titre": "FAA lifts nationwide ground stop",
-   "lien": "https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/",
-   "source": "CBS News",
-   "date": "2026-11-14T01:58:13+00:00",
-   "extrait": "The FAA on Friday issued a rare nationwide ground stop. Sources told CBS News an update to the network connecting the air traffic control system caused a reboot, crash and outage.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "89f67db6df1b",
    "titre": "Man whose wife, son were injured in building collapse wants answers",
    "lien": "https://www.cbsnews.com/news/brooklyn-building-collapse-residents-want-answers/",
@@ -84,6 +155,19 @@
    "extrait": "A boy became a local legend in Linton, Indiana, for regularly riding his bike in a banana costume, earning him the nickname \"Banana Man.\" Steve Hartman has the story.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "744ab0234487",
+   "titre": "La Maison Blanche annonce une rencontre trilatérale entre Donald Trump, Vladimir Poutine et Xi Jinping, jeudi en Chine",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/14/la-maison-blanche-annonce-une-rencontre-trilaterale-entre-donald-trump-vladimir-poutine-et-xi-jinping-jeudi-en-chine_6809488_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-14T01:49:53+00:00",
+   "extrait": "Washington a précisé que les discussions des trois présidents, en marge du sommet de l’APEC à Shenzhen, porteraient sur le désarmement nucléaire. Selon un responsable américain s’exprimant sous…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
   },
   {
    "id": "4327005d843a",
@@ -287,10 +371,10 @@
   },
   {
    "id": "932177f0c365",
-   "titre": "Update to network connecting air traffic control system led to outage before ground stop, sources ay",
+   "titre": "Update to network connecting ATC system led to outage before ground stop, sources say",
    "lien": "https://www.cbsnews.com/video/update-to-network-connecting-air-traffic-control-system-led-to-outage-before-ground-stop-sources-ay/",
    "source": "CBS News",
-   "date": "2026-11-13T23:51:25+00:00",
+   "date": "2026-11-13T23:51:00+00:00",
    "extrait": "An update to the private communications network that connects America's air traffic control system caused the system to reboot, leading to a crash and a communications outage, multiple sources told…",
    "tags": [],
    "zone": "usa"
@@ -538,6 +622,16 @@
    "zone": "france"
   },
   {
+   "id": "36d863f7157a",
+   "titre": "What we know about the FAA nationwide ground stop",
+   "lien": "https://www.npr.org/2026/11/13/nx-s1-6040388/what-we-know-about-the-faa-nationwide-ground-stop",
+   "source": "NPR",
+   "date": "2026-11-13T22:27:38+00:00",
+   "extrait": "The Federal Aviation Administration took an extraordinary step Friday afternoon by issuing a nationwide ground stop. No planes are taking off at any airport and millions of passengers are stranded.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
    "id": "190337eb6423",
    "titre": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election",
    "lien": "https://www.npr.org/2026/11/13/nx-s1-6040409/trump-mail-in-voting",
@@ -756,7 +850,7 @@
   },
   {
    "id": "a20a765200c5",
-   "titre": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+   "titre": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
    "lien": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-13T21:14:22+00:00",
@@ -994,7 +1088,7 @@
   },
   {
    "id": "524d27379ce0",
-   "titre": "La Madrague, maison mythique de Brigitte Bardot à Saint-Tropez, ouvrira ses portes au public dès l’été prochain",
+   "titre": "La Madrague, maison mythique de Brigitte Bardot à Saint-Tropez, ouvrira ses portes au public dès l’été 2027",
    "lien": "https://www.lemonde.fr/culture/article/2026/11/13/la-madrague-maison-mythique-de-brigitte-bardot-a-saint-tropez-ouvrira-ses-portes-au-public-des-l-ete-prochain_6809382_3246.html",
    "source": "Le Monde",
    "date": "2026-11-13T19:48:59+00:00",
@@ -3286,93 +3380,6 @@
    "extrait": "Des services Microsoft tels que Outlook, Teams et Copilot ​sont touchés vendredi par l'une des pires pannes de services connue par le groupe ces dernières années, affectant l'Asie-Pacifique…",
    "tags": [],
    "zone": "monde"
-  },
-  {
-   "id": "43c848dcd1e6",
-   "titre": "Pascale Weeks, autrice culinaire : « Une recette doit être pensée et partagée pour que les gens puissent la réussir »",
-   "lien": "https://www.lemonde.fr/le-monde-passe-a-table/article/2026/11/13/pascale-weeks-autrice-culinaire-une-recette-doit-etre-pensee-et-partagee-pour-que-les-gens-puissent-la-reussir_6809311_6082232.html",
-   "source": "Le Monde",
-   "date": "2026-11-13T10:30:08+00:00",
-   "extrait": "Autrice de plusieurs ouvrages, Pascale Weeks fut une pionnière du blog culinaire en France, avec « C’est moi qui l’ai fait », lancé il y a vingt-deux ans pour partager recettes, découvertes et…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "31020733d00b",
-   "titre": "Colombie : les dessous d’une communication présidentielle controversée",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261113-derri%C3%A8re-l-image-en-colombie-la-communication-controvers%C3%A9e-du-pr%C3%A9sident-d-extr%C3%AAme-droite",
-   "source": "France 24",
-   "date": "2026-11-13T10:28:55+00:00",
-   "extrait": "Discours au milieu de sacs mortuaires, vidéos mettant en scène des transferts de détenus et des bombardements… La communication du président colombien d’extrême droite Abelardo de la Espriella - en…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "59143f34f02f",
-   "titre": "Hegseth awards medal to soldier who chastised him",
-   "lien": "https://www.npr.org/2026/11/13/nx-s1-6039845/hegseth-awards-medal-to-soldier-who-chastised-him",
-   "source": "NPR",
-   "date": "2026-11-13T10:27:08+00:00",
-   "extrait": "Pete Hegseth was yelled at by a sentinel for poor decorum at Arlington National Cemetery. Now the Secretary of Defense has given him a medal.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "f6b9f9170c62",
-   "titre": "Crise bancaire au Paraguay : les épargnants partiellement remboursés",
-   "lien": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/paraguay-les-epargnants-partiellement-rembourses_8280779.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-13T10:22:45+00:00",
-   "extrait": "\"Nous avons versé des paiements à un total de 1 620 000 personnes. Combien ont récupéré 100% ? Nous allons le déterminer lors de la prochaine étape qui débutera la semaine prochaine\", a expliqué…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "c0cc9c331896",
-   "titre": "Présidentielle : Bruno Retailleau, candidat des Républicains, n'a \"pas de prêt bancaire\" et accuse le gouvernement",
-   "lien": "https://www.franceinfo.fr/elections/le-candidat-des-republicains-a-la-presidentielle-bruno-retailleau-n-a-pas-de-pret-bancaire-et-accuse-le-gouvernement_8280719.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-13T10:22:37+00:00",
-   "extrait": "En juillet dernier, l'exécutif avait entrepris de chercher avec les banques françaises une solution pour fournir des prêts aux candidats. Mais plusieurs groupes bancaires ont opposé des refus…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "05e447f331a1",
-   "titre": "Les fausses alertes à la bombe sont \"concertées\" et relèvent possiblement d'une \"ingérence étrangère\", affirme Laurent Nuñez",
-   "lien": "https://www.franceinfo.fr/politique/ingerence/les-fausses-alertes-a-la-bombe-sont-concertees-et-relevent-possiblement-d-une-ingerence-etrangere-affirme-laurent-nunez_8280764.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-13T10:09:17+00:00",
-   "extrait": "Des écoles en Italie, en Irlande et au Royaume-Uni ont fait l'objet de fausses alertes à la bombe mercredi. En France, trois établissements scolaires ont reçu le même type de menaces jeudi.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "dfc52888b082",
-   "titre": "Douma, mensonge d'État : enquête sur une attaque chimique en Syrie",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/reporters/20261113-douma-mensonge-d-%C3%A9tat-enqu%C3%AAte-sur-une-attaque-chimique-en-syrie",
-   "source": "France 24",
-   "date": "2026-11-13T10:03:58+00:00",
-   "extrait": "Le 7 avril 2018, la ville syrienne de Douma, dans la banlieue de Damas, est frappée par une attaque chimique. Les soupçons se portent alors sur le régime syrien mais les preuves disparaissent. Huit…",
-   "tags": [
-    "Conflits",
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "8cb9d55d5b81",
-   "titre": "Rivers in the sky are raining down on the Pacific Northwest. What are they?",
-   "lien": "https://www.npr.org/2026/11/13/nx-s1-6032777/rivers-in-the-sky-are-raining-down-on-the-pacific-northwest-what-are-they",
-   "source": "NPR",
-   "date": "2026-11-13T10:01:00+00:00",
-   "extrait": "Atmospheric rivers are large bands of water vapor in the sky. They are dumping trillions of gallons of water on Washington and Oregon, just as high tides and winds batter shorelines.",
-   "tags": [],
-   "zone": "usa"
   }
  ]
 }
