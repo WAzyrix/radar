@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-14T18:05:40+00:00",
+ "maj": "2026-11-14T18:31:33+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,38 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "359fb450257d",
+   "titre": "Italy fines Meta €805m over accessing users' photos",
+   "lien": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-14T18:28:06+00:00",
+   "extrait": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "54730623dbff",
+   "titre": "Des milliers de Portugais manifestent contre la crise du logement",
+   "lien": "https://www.franceinfo.fr/economie/pouvoir-achat/logement/des-milliers-de-portugais-manifestent-contre-la-crise-du-logement_8282765.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-14T18:23:08+00:00",
+   "extrait": "Cette mobilisation a été lancée à la suite de l'adoption par le Parlement portugais d'un projet de réforme visant notamment à simplifier et accélérer les expulsions de locataires.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "03eb88a9ba92",
+   "titre": "Philippines wins first Eurovision Song Contest Asia",
+   "lien": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-14T18:17:58+00:00",
+   "extrait": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
+   "tags": [],
+   "zone": "monde"
+  },
   {
    "id": "95238972c93d",
    "titre": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
@@ -54,16 +86,6 @@
    "zone": "france"
   },
   {
-   "id": "03eb88a9ba92",
-   "titre": "Philippines wins first Eurovision Song Contest Asia",
-   "lien": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-14T17:56:59+00:00",
-   "extrait": "Front-runner Carmelle wins with 211 points for her women's empowerment anthem Sobra-Sobra.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
    "id": "dedb05752123",
    "titre": "Port of New Orleans sues tanker that hit riverboat cruise for $1 million",
    "lien": "https://www.cbsnews.com/news/port-of-new-orleans-sues-tanker-riverboat-crash/",
@@ -82,6 +104,16 @@
    "source": "franceinfo",
    "date": "2026-11-14T17:47:21+00:00",
    "extrait": "Son positionnement, \"ni de droite ni de gauche\", a conduit une partie de ses concurrents et des commentateurs à le présenter comme un héritier du chef de l'Etat.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "ed98de41c56b",
+   "titre": "La chanteuse Carmelle offre la victoire aux Philippines pour la première édition du concours Eurovision d'Asie",
+   "lien": "https://www.franceinfo.fr/culture/musique/la-chanteuse-carmelle-offre-la-victoire-aux-philippines-pour-la-premiere-edition-du-concours-eurovision-d-asie_8282693.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-14T17:44:43+00:00",
+   "extrait": "Contrairement à l'édition européenne organisée par des diffuseurs publics, le concours asiatique est géré par des chaînes de télévision privées et les spectateurs ne pouvaient pas voter pour leur…",
    "tags": [],
    "zone": "france"
   },
@@ -298,18 +330,6 @@
    "extrait": "Des manifestations se sont tenues samedi dans toute la France, avec des revendications multiples, contre la vie chère, contre la proposition de loi sur la présomption d’usage légitime des armes par…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "359fb450257d",
-   "titre": "Italy fines Meta €805m over accessing users' photos",
-   "lien": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-14T16:29:48+00:00",
-   "extrait": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "monde"
   },
   {
    "id": "c93b8ecbc212",
@@ -638,7 +658,7 @@
    "lien": "https://www.lemonde.fr/international/article/2026/11/14/suspension-des-vols-aux-etats-unis-des-annulations-et-des-retards-de-vols-persistent-samedi_6810445_3210.html",
    "source": "Le Monde",
    "date": "2026-11-14T15:31:00+00:00",
-   "extrait": "Vendredi, les autorités américaines de l’aviation ont interdit tout décollage des avions à partir des aéroports américains de 15 h 54 (à New York) jusqu’à 20 h 15. « Les opérations retournent…",
+   "extrait": "Les autorités américaines de l’aviation avaient interdit tout décollage des avions à partir des aéroports américains de 15 h 54 (à New York) jusqu’à 20 h 15. « Les opérations retournent…",
    "tags": [
     "Politique"
    ],
@@ -1962,6 +1982,18 @@
    "extrait": "Selon le « New York Times », le président américain aurait été mis au courant, dès le mois de mai, des risques liés à la relation entre Jensen Huang, patron du géant des semi-conducteurs, et une…",
    "tags": [
     "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "bd411d720528",
+   "titre": "« Je suis retournée au travail du sexe pour payer les factures » : dans les campagnes, une prostitution de la « débrouille » se banalise",
+   "lien": "https://www.lemonde.fr/m-perso/article/2026/11/14/je-suis-retournee-au-travail-du-sexe-pour-payer-les-factures-dans-les-campagnes-la-prostitution-de-la-debrouille-gagne-du-terrain_6809693_4497916.html",
+   "source": "Le Monde",
+   "date": "2026-11-14T05:00:42+00:00",
+   "extrait": "Si on l’imagine urbaine, la prostitution existe aussi dans les espaces ruraux, démunis en services publics et marqués par un difficile accès à l’emploi. Du Centre-Bretagne au Tarn, des femmes ont…",
+   "tags": [
+    "Économie"
    ],
    "zone": "france"
   },
@@ -3342,45 +3374,6 @@
     "Politique"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "ba349626b649",
-   "titre": "Tout comprendre au smic, le salaire minimum que le gouvernement va revaloriser",
-   "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/11/13/tout-comprendre-au-smic-le-salaire-minimum-que-le-gouvernement-va-revaloriser_6809379_4355770.html",
-   "source": "Le Monde",
-   "date": "2026-11-13T18:30:05+00:00",
-   "extrait": "L’exécutif a annoncé, lundi 9 novembre, une augmentation du smic à partir du 1ᵉʳ décembre. Près de 12 % des salariés du privé sont concernés, et les variations de leur rémunération ne sont pas sans…",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "4ebc223c6f90",
-   "titre": "Marine Le Pen se dit prête à rencontrer le président ukrainien Volodymyr Zelensky à Bruxelles",
-   "lien": "https://www.franceinfo.fr/politique/marine-le-pen/si-je-peux-le-rencontrer-a-bruxelles-je-le-dirai-a-l-ambassadeur-d-ukraine-marine-le-pen-se-dit-prete-a-echanger-avec-volodymyr-zelensky_8281529.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-13T18:29:43+00:00",
-   "extrait": "Par le passé, la candidate du Rassemblement national à la présidentielle avait déclaré que, si elle était élue, elle \"maintiendrait durant six mois\" l'aide financière à l'Ukraine, envahie depuis…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "9115dc7392a6",
-   "titre": "L'Agence internationale de l'énergie prévoit que l'offre mondiale de pétrole va dépasser la demande en fin d'année",
-   "lien": "https://www.franceinfo.fr/environnement/energie/energies-fossiles/l-agence-internationale-de-l-energie-prevoit-que-l-offre-mondiale-de-petrole-va-depasser-la-demande-en-fin-d-annee_8281379.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-13T18:27:01+00:00",
-   "extrait": "C'est une première depuis le début de la guerre en Iran. Dans son rapport mensuel, l'Agence internationale de l'énergie note jeudi que le marché du pétrole montre des signes de rééquilibrage.",
-   "tags": [
-    "Économie",
-    "Conflits"
-   ],
-   "zone": "france"
   }
  ]
 }
