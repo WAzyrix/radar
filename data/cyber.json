@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-14T01:05:39+00:00",
+ "maj": "2026-11-14T02:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "a57e4f1f358b",
+   "titre": "Stela - Le retour du Hackintosh ?",
+   "lien": "https://korben.info/stela-macos-pc-x86-hackintosh.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-14T01:03:37+00:00",
+   "extrait": "Stela démarre macOS 27 pour Apple Silicon, sans le modifier, sur un PC x86 équipé d'une carte NVIDIA, en lui faisant croire qu'il tourne sur un Mac mini M2. Ce qu'il faut comme matériel, comment…",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
   {
    "id": "ee274201614e",
    "titre": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
@@ -3413,17 +3424,6 @@
    "tags": [
     "Linux",
     "Windows"
-   ]
-  },
-  {
-   "id": "b13cbe60c504",
-   "titre": "Multiples vulnérabilités dans les produits Symfony (04 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1460/",
-   "source": "CERT-FR",
-   "date": "2026-11-04T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Symfony. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la…",
-   "tags": [
-    "Faille"
    ]
   }
  ]
