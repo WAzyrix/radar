@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-14T04:05:40+00:00",
+ "maj": "2026-11-14T05:05:45+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,11 +22,24 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "f83a676d74f0",
+   "titre": "U.N. watchdog agency pushes for access to key Iran nuclear site",
+   "lien": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/",
+   "source": "CBS News",
+   "date": "2026-11-14T04:44:21+00:00",
+   "extrait": "As Trump signals he may let the Iran war fester, the U.N. nuclear agency is \"increasingly concerned\" about access to a key uranium facility, according to a leaked report.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "d1a673f3cc9d",
    "titre": "Passengers rescued after tanker hit river cruise in New Orleans",
    "lien": "https://www.cbsnews.com/news/tanker-cruise-collision-mississippi-river-new-orleans/",
    "source": "CBS News",
-   "date": "2026-11-14T04:03:41+00:00",
+   "date": "2026-11-14T04:03:00+00:00",
    "extrait": "A tanker struck a river cruise ship on the Mississippi River near the Port of New Orleans Friday, partially submerging the passenger boat.",
    "tags": [],
    "zone": "usa"
@@ -36,10 +49,22 @@
    "titre": "FAA lifts nationwide ground stop that disrupted thousands of flights",
    "lien": "https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/",
    "source": "CBS News",
-   "date": "2026-11-14T04:03:40+00:00",
+   "date": "2026-11-14T04:03:00+00:00",
    "extrait": "The rare nationwide ground stop lasted about five hours Friday. Sources told CBS News an update to the network connecting the air traffic control system caused a reboot, crash and outage.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "dfe6172e84b6",
+   "titre": "Au procès de l’interpellation violente de Michel Zecler par des policiers, les neuf témoins oubliés : « On se dit que si on n’intervient pas, Michel va mourir »",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/14/au-proces-de-l-interpellation-violente-de-michel-zecler-par-des-policiers-les-neuf-temoins-oublies-on-se-dit-que-si-on-n-intervient-pas-michel-va-mourir_6809554_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-14T04:00:06+00:00",
+   "extrait": "Cinq jeunes hommes présents au sous-sol du studio du producteur de musique passé à tabac par trois policiers, à Paris, en 2020, se sont constitués partie civile. Ils ont témoigné à la barre du…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
   },
   {
    "id": "bec3cf5634fd",
@@ -1117,19 +1142,6 @@
    "extrait": "Dès 1992, l’ancienne actrice avait fait don de La Madrague à sa fondation. « Pour le moment, les modalités d’accueil des visiteurs ne sont pas arrêtées avec précision », a fait savoir cette dernière.",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "f83a676d74f0",
-   "titre": "U.N. watchdog agency pushes for access to key Iran nuclear site",
-   "lien": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/",
-   "source": "CBS News",
-   "date": "2026-11-13T19:48:00+00:00",
-   "extrait": "As Trump signals he may let the Iran war fester, the U.N. nuclear agency is \"increasingly concerned\" about access to a key uranium facility, according to a leaked report.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
   },
   {
    "id": "fd83019f12ba",
@@ -3370,18 +3382,6 @@
     "Politique"
    ],
    "zone": "france"
-  },
-  {
-   "id": "f39b5b0717b2",
-   "titre": "Derrière l’image : en Colombie, la communication controversée du président d’extrême droite",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/les-observateurs/20261113-derri%C3%A8re-image-colombie-communication-controversee-president-extreme-droite-abelardo-de-la-espriella",
-   "source": "France 24",
-   "date": "2026-11-13T10:40:39+00:00",
-   "extrait": "Discours au milieu de sacs mortuaires, vidéos mettant en scène des transferts de détenus et des bombardements… La communication du président colombien d’extrême droite Abelardo de la Espriella - en…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
   }
  ]
 }
