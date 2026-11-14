@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-13T23:05:41+00:00",
+ "maj": "2026-11-14T00:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,12 +22,100 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "90ede25c95fa",
+   "titre": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+   "lien": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-14T00:03:52+00:00",
+   "extrait": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+   "tags": [
+    "Politique",
+    "Conflits",
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "713a48e07b7f",
+   "titre": "Setback for SpaceX Starship rocket's double-catch test",
+   "lien": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-14T00:01:01+00:00",
+   "extrait": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "59414b3916df",
    "titre": "Naresh Bhatt Convicted: The Road to Justice for Mamta's Family | Case by Case | \"48 Hours\" Podcast",
    "lien": "https://www.cbsnews.com/video/111326-48-hours-case-by-case-episode-30/",
    "source": "CBS News",
    "date": "2026-11-14T00:00:00+00:00",
    "extrait": "A Virginia jury has found Naresh Bhatt guilty of murdering his wife, Mamta Kafle Bhatt, whose body has never been found. Just days before the verdict, Bhatt stunned the courtroom when he admitted to…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "6ac46a049b62",
+   "titre": "All accounted for after tanker hits river cruise ship in New Orleans, 32 hospitalized",
+   "lien": "https://www.cbsnews.com/video/all-accounted-for-after-tanker-hits-river-cruise-ship-in-new-orleans-32-hospitalized/",
+   "source": "CBS News",
+   "date": "2026-11-13T23:53:42+00:00",
+   "extrait": "All are accounted for and 32 people have been hospitalized after a tanker hit a river cruise ship in New Orleans. CBS News' Skyler Henry reports.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "c95807c7e9d6",
+   "titre": "FAA issues nationwide ground stop, stranding thousands",
+   "lien": "https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/",
+   "source": "CBS News",
+   "date": "2026-11-13T23:52:00+00:00",
+   "extrait": "The FAA on Friday issued a rare nationwide ground stop. Sources told CBS News an update to the network connecting the air traffic control system caused a reboot, crash and outage.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "932177f0c365",
+   "titre": "Update to network connecting air traffic control system led to outage before ground stop, sources ay",
+   "lien": "https://www.cbsnews.com/video/update-to-network-connecting-air-traffic-control-system-led-to-outage-before-ground-stop-sources-ay/",
+   "source": "CBS News",
+   "date": "2026-11-13T23:51:25+00:00",
+   "extrait": "An update to the private communications network that connects America's air traffic control system caused the system to reboot, leading to a crash and a communications outage, multiple sources told…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "d1a673f3cc9d",
+   "titre": "Passengers rescued after tanker hit river cruise in New Orleans",
+   "lien": "https://www.cbsnews.com/news/tanker-cruise-collision-mississippi-river-new-orleans/",
+   "source": "CBS News",
+   "date": "2026-11-13T23:35:45+00:00",
+   "extrait": "A tanker struck a river cruise ship on the Mississippi River near the Port of New Orleans Friday, partially submerging the passenger boat.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "2b13a2fac03d",
+   "titre": "SpaceX launches first-of-its-kind Starship test flight",
+   "lien": "https://www.cbsnews.com/news/spacex-launches-starship-flight-rocket/",
+   "source": "CBS News",
+   "date": "2026-11-13T23:20:45+00:00",
+   "extrait": "The SpaceX Super Heavy-Starship was designed from the ground up to be fully reusable in a bid to lower launch costs.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "e4b92c159b38",
+   "titre": "Some international flights allowed to depart U.S. amid FAA ground stop",
+   "lien": "https://www.cbsnews.com/video/some-international-flights-allowed-to-depart-us-amid-faa-ground-stop/",
+   "source": "CBS News",
+   "date": "2026-11-13T23:14:47+00:00",
+   "extrait": "Some flights headed to other countries are being permitted to depart from the U.S. amid Friday's nationwide ground stop. Major Garrett anchored ongoing coverage.",
    "tags": [],
    "zone": "usa"
   },
@@ -44,15 +132,23 @@
    "zone": "monde"
   },
   {
-   "id": "2b13a2fac03d",
-   "titre": "SpaceX launches first-iof-its-kind Starship test flight",
-   "lien": "https://www.cbsnews.com/news/spacex-launches-starship-flight-rocket/",
+   "id": "138d754db3d6",
+   "titre": "La cagnotte pour Sonia, héroïne du 13-Novembre, a atteint plus de 500 000 euros au moment de sa clôture",
+   "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attaques-du-13-novembre-a-paris/la-cagnotte-pour-sonia-heroine-du-13-novembre-a-atteint-plus-de-500-000-euros-au-moment-de-sa-cloture_8281238.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-13T23:02:02+00:00",
+   "extrait": "En novembre 2015, ses informations avaient permis aux enquêteurs de localiser la cachette, à Saint-Denis, d'Abdelhamid Abaaoud. Cette femme vit depuis sous une nouvelle identité.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "6c4824fa6943",
+   "titre": "Commercial pilot explains what crews are going through amid nationwide ground stop",
+   "lien": "https://www.cbsnews.com/video/commercial-airline-pilot-explains-what-crews-are-going-through-amid-faa-ground-stop/",
    "source": "CBS News",
-   "date": "2026-11-13T23:03:54+00:00",
-   "extrait": "The SpaceX Super Heavy-Starship was designed from the ground up to be fully reusable in a bid to lower launch costs.",
-   "tags": [
-    "Tech"
-   ],
+   "date": "2026-11-13T23:01:31+00:00",
+   "extrait": "Captain Laura Einsetler joins \"The Takeout\" to break down what she imagines flight crews are going through amid Friday's nationwide FAA ground stop. Following Ensetler's comments, CBS News's Lana…",
+   "tags": [],
    "zone": "usa"
   },
   {
@@ -76,16 +172,6 @@
     "Politique"
    ],
    "zone": "france"
-  },
-  {
-   "id": "d1a673f3cc9d",
-   "titre": "Passengers rescued after tanker hit river cruise boat in New Orleans",
-   "lien": "https://www.cbsnews.com/news/tanker-cruise-collision-mississippi-river-new-orleans/",
-   "source": "CBS News",
-   "date": "2026-11-13T22:59:26+00:00",
-   "extrait": "A tanker struck a river cruise ship on the Mississippi River near the Port of New Orleans Friday, partially submerging the passenger boat.",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "5f352160968a",
@@ -122,12 +208,24 @@
    "zone": "france"
   },
   {
+   "id": "96103edccf3d",
+   "titre": "France - Afrique du Sud : le résumé de la victoire sur le fil des Bleus face aux Springboks",
+   "lien": "https://www.lemonde.fr/sport/article/2026/11/13/france-afrique-du-sud-le-resume-de-la-victoire-sur-le-fil-des-bleus-face-aux-springboks_6809393_3242.html",
+   "source": "Le Monde",
+   "date": "2026-11-13T22:52:51+00:00",
+   "extrait": "Le XV de France a remporté, vendredi au Stade de France, le choc de ce Championnat des nations face à l’Afrique du Sud (21-19). Les Bleus prennent une option pour la finale de cette nouvelle…",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "19ba98332c5b",
    "titre": "L’armée américaine intervient pour une « suspicion d’activité de drone non autorisée » au-dessus d’une base militaire britannique",
    "lien": "https://www.lemonde.fr/international/article/2026/11/13/l-armee-americaine-intervient-pour-une-suspicion-d-activite-de-drone-non-autorisee-au-dessus-d-une-base-militaire-britannique_6809392_3210.html",
    "source": "Le Monde",
    "date": "2026-11-13T22:51:25+00:00",
-   "extrait": "« Aucun membre du personnel, aucun avion ni aucune infrastructure n’ont été touchés », a fait savoir un porte-parole de l’armée de l’air américaine, une fois l’incident résolu. La base concernée est…",
+   "extrait": "« Aucun membre du personnel, aucun avion ni aucune infrastructure n’ont été touchés », a fait savoir un porte-parole de l’armée de l’air américaine, une fois l’incident résolu. La base concernée se…",
    "tags": [
     "Conflits"
    ],
@@ -176,6 +274,28 @@
    "zone": "monde"
   },
   {
+   "id": "9fcd846bc3c8",
+   "titre": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
+   "lien": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
+   "source": "NPR",
+   "date": "2026-11-13T22:36:46+00:00",
+   "extrait": "Department of Homeland Security Secretary Markwayne Mullin spoke to at the White House on Friday afternoon after the FAA issues a total ground stop. NPR was there for the briefing.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "0e47d73c65e4",
+   "titre": "Stuck on the tarmac without information: Travelers share their ground stop experiences",
+   "lien": "https://www.npr.org/2026/11/13/nx-s1-6040397/stuck-on-the-tarmac-without-information-travelers-share-their-ground-stop-experiences",
+   "source": "NPR",
+   "date": "2026-11-13T22:36:45+00:00",
+   "extrait": "Passengers stuck on airplanes on tarmacs across the country during the FAA ground stop on Friday share their stories.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
    "id": "fd658d9b41a4",
    "titre": "JOJ de Dakar, clap de fin : succès et satisfaction pour une première en Afrique",
    "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261113-joj-de-dakar-clap-de-fin-succ%C3%A8s-et-satisfaction-pour-une-premi%C3%A8re-en-afrique",
@@ -208,16 +328,6 @@
    "extrait": "\"Le nombre de blessés et la cause de la collision n'ont pas encore été confirmés\", ont rapporté vendredi les responsables de ce port américain, dans un communiqué cité par des médias.",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "c95807c7e9d6",
-   "titre": "FAA issues nationwide ground stop, stranding thousands",
-   "lien": "https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/",
-   "source": "CBS News",
-   "date": "2026-11-13T22:23:00+00:00",
-   "extrait": "The Federal Aviation Administration on Friday issued a rare nationwide ground stop on all departing flights. Officials said it appeared to be a telecommunication outage.",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "190337eb6423",
@@ -313,7 +423,7 @@
    "titre": "Democrat Eileen Laubacher defeats Lauren Boebert in House race",
    "lien": "https://www.cbsnews.com/news/election-lauren-boebert-eileen-laubacher-colorado-congressional-district-4/",
    "source": "CBS News",
-   "date": "2026-11-13T21:56:37+00:00",
+   "date": "2026-11-13T21:56:00+00:00",
    "extrait": "Colorado Democrat Eileen Laubacher has defeated incumbent Republican Congresswoman Lauren Boebert to represent the 4th Congressional District, CBS News projects.",
    "tags": [],
    "zone": "usa"
@@ -348,6 +458,18 @@
    "date": "2026-11-13T21:52:38+00:00",
    "extrait": "L’autorité américaine de régulation de l’aviation précise que cette suspension a été imposée « en raison de circonstances exceptionnelles et pour des raisons de sécurité ».",
    "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "7209fecd05eb",
+   "titre": "Le Burkina Faso annonce lancer des mandats d’arrêt contre des journalistes et des activistes en exil pour des faits de « terrorisme »",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/13/le-burkina-faso-annonce-lancer-des-mandats-d-arret-contre-des-journalistes-et-des-activistes-en-exil-pour-des-faits-de-terrorisme_6809388_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-13T21:51:13+00:00",
+   "extrait": "Les autorités de la junte d’Afrique de l’Ouest ciblent une vingtaine de personnes, et demandent leur extradition. Un chroniqueur burkinabé de RFI et des anciens ministres de l’ex-président Blaise…",
+   "tags": [
+    "Politique"
+   ],
    "zone": "france"
   },
   {
@@ -405,6 +527,16 @@
    "zone": "usa"
   },
   {
+   "id": "0db8dc11d577",
+   "titre": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+   "lien": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-13T21:15:24+00:00",
+   "extrait": "All passengers have been accounted for after a cargo ship collided with a docked cruise ship.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
    "id": "a20a765200c5",
    "titre": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
    "lien": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
@@ -425,6 +557,19 @@
    "extrait": "Democrats say they have a mandate to deliver change, but as the party gets ready to retake the majority in both the House and Senate, there are divides over who should lead it.",
    "tags": [
     "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "024193fce330",
+   "titre": "The government says it will close a beloved D.C. park Sunday. Will a judge step in?",
+   "lien": "https://www.npr.org/2026/11/13/nx-s1-6039273/east-po-hearing-nov-13",
+   "source": "NPR",
+   "date": "2026-11-13T21:06:05+00:00",
+   "extrait": "Federal judge Ana Reyes grilled the government on Friday about its plans for East Potomac Park, and indicated she could order it to remain open despite President Trump's renovation wishes.",
+   "tags": [
+    "Politique",
+    "Justice"
    ],
    "zone": "usa"
   },
@@ -614,18 +759,6 @@
    "extrait": "Après plusieurs semaines de tensions et de violences dans les établissements scolaires, plus de 2 000 chefs d’établissement se sont rassemblés, partout en France vendredi, pour dénoncer la…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "713a48e07b7f",
-   "titre": "SpaceX to attempt double catch of huge Starship rocket",
-   "lien": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-13T20:12:02+00:00",
-   "extrait": "Elon Musk’s company will try to grab both parts of the rocket for the first time.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "monde"
   },
   {
    "id": "9db77797674f",
@@ -1314,7 +1447,7 @@
   },
   {
    "id": "65ca03a69db9",
-   "titre": "Rugby en direct : les Bleus remportent leur combat contre les Springboks",
+   "titre": "Rugby : les Bleus remportent leur combat contre les Springboks",
    "lien": "https://www.france24.com/fr/sports/20261113-rugby-en-direct-match-xv-de-france-et-les-redoutables-springboks-championnat-nations",
    "source": "France 24",
    "date": "2026-11-13T16:56:31+00:00",
@@ -1482,7 +1615,7 @@
    "titre": "\"Ebenezer\" stars Johnny Depp, Sam Claflin, Andrea Riseborough talk redemption",
    "lien": "https://www.cbsnews.com/video/ebenezer-stars-johnny-depp-sam-claflin-andrea-riseborough-talk-redemption/",
    "source": "CBS News",
-   "date": "2026-11-13T16:29:14+00:00",
+   "date": "2026-11-13T16:29:00+00:00",
    "extrait": "Actors Johnny Depp, Sam Claflin and Andrea Riseborough share their thoughts on \"Ebenezer,\" their new dark fantasy film adaptation of Charles Dickens' classic story, \"A Christmas Carol.\"",
    "tags": [],
    "zone": "usa"
@@ -3244,146 +3377,6 @@
    "extrait": "Les organisations de jeunesse et la coordination des gilets jaunes ont appelé à manifester samedi dans toute la France pour l'acte V du mouvement contre la \"vie chère\". À Paris, le cortège partira…",
    "tags": [],
    "zone": "monde"
-  },
-  {
-   "id": "f356b992e9f7",
-   "titre": "La SNCF et l’Etat scellent un accord pour moderniser le rail français, le doute subsiste sur son financement",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/13/la-sncf-et-l-etat-scellent-un-accord-pour-moderniser-le-rail-francais-le-doute-subsiste-sur-son-financement_6809303_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-13T09:39:22+00:00",
-   "extrait": "Dans le « contrat de performance » signé dans la nuit du jeudi 12 au vendredi 13 novembre, l’Etat promet de verser 1 milliard d’euros supplémentaires chaque année pour moderniser les infrastructures…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "e1d4ab2e10fa",
-   "titre": "Julien Jeanneney, constitutionnaliste : « Là où juges, presse et opposition tiennent bon, l’érosion démocratique peut être freinée »",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/13/julien-jeanneney-constitutionnaliste-la-ou-juges-presse-et-opposition-tiennent-bon-l-erosion-democratique-peut-etre-freinee_6809302_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-13T09:30:00+00:00",
-   "extrait": "Partout depuis une quinzaine d’années, des démocraties libérales se vident de leur substance. Contre ce phénomène qui s’étend, comme en témoigne la vigueur des attaques contre l’Etat de droit dans…",
-   "tags": [
-    "Conflits",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "b9ba70ff02ee",
-   "titre": "L'inflation en France a atteint 3,4% sur un an en octobre, à son plus haut niveau depuis janvier 2024",
-   "lien": "https://www.franceinfo.fr/economie/inflation/l-inflation-en-france-a-atteint-3-4-sur-un-an-en-octobre_8280635.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-13T09:27:05+00:00",
-   "extrait": "Cette nouvelle envolée des prix, conforme à l'estimation provisoire publiée fin octobre, est due à la forte augmentation des tarifs de l'énergie.",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "09c42eea5fa6",
-   "titre": "Un fabricant allemand de drones, fournisseur de l'Ukraine, visé par une cyberattaque fin octobre",
-   "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/un-fabricant-allemand-de-drones-fournisseur-de-l-ukraine-vise-par-une-cyberattaque-fin-octobre_8280734.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-13T09:18:51+00:00",
-   "extrait": "\"Les entreprises qui sont en première ligne dans le soutien de l'Ukraine sont prises pour cible précisément parce que notre travail revêt une importance cruciale pour la sécurité de nos clients\"…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "a25ff6a31461",
-   "titre": "Que demandent les syndicats de fonctionnaires, reçus à Matignon vendredi ?",
-   "lien": "https://www.franceinfo.fr/economie/transports/mobilisation-du-17-novembre/que-demandent-les-syndicats-de-fonctionnaires-recus-a-matignon-vendredi_8280539.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-13T09:18:09+00:00",
-   "extrait": "Après celles du privé mardi, les organisations syndicales de la fonction publique sont reçues vendredi matin par Sébastien Lecornu. Elles souhaitent principalement la revalorisation du point…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "d5441ad70367",
-   "titre": "En crise, le RC Lens évince Yannick Cahuzac, deux mois après avoir déjà changé d’entraîneur",
-   "lien": "https://www.lemonde.fr/sport/article/2026/11/13/en-crise-le-rc-lens-evince-yannick-cahuzac-deux-mois-apres-avoir-deja-change-d-entraineur_6809299_3242.html",
-   "source": "Le Monde",
-   "date": "2026-11-13T09:07:15+00:00",
-   "extrait": "Le Racing Club de Lens a annoncé, jeudi, se séparer de son entraîneur, à la suite de deux mois de déboires sportifs et de son humiliation face à Côme (1-9) la semaine dernière. Le même jour, Crystal…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "e6dc56c9c742",
-   "titre": "En Cisjordanie occupée, la routine des attaques, des violences et des spoliations",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/13/en-cisjordanie-occupee-la-routine-des-attaques-des-violences-et-des-spoliations_6809298_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-13T09:00:14+00:00",
-   "extrait": "Alors que les élections législatives israéliennes du 27 octobre n’ont pas dégagé de majorité claire, la situation continue de se dégrader dans le territoire palestinien, où les colons et l’armée…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "3ea51f685cfc",
-   "titre": "Sommet de la francophonie : « C’est en Asie que l’histoire francophone s’est affirmée sur la scène internationale »",
-   "lien": "https://www.lemonde.fr/idees/article/2026/11/13/sommet-de-la-francophonie-c-est-en-asie-que-l-histoire-francophone-s-est-affirmee-sur-la-scene-internationale_6809297_3232.html",
-   "source": "Le Monde",
-   "date": "2026-11-13T09:00:10+00:00",
-   "extrait": "Le sommet, qui devrait se tenir les 15 et 16 novembre à Phnom Penh, doit permettre de réaffirmer la pertinence de la francophonie comme outil stratégique majeur, estime, dans une tribune au « Monde…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "d5cd6b050c2d",
-   "titre": "Gadi Eisenkot, possible futur premier ministre d’Israël et « fils d’immigrés » nés à Casablanca et Marrakech, suscite l’intérêt au Maroc",
-   "lien": "https://www.lemonde.fr/afrique/article/2026/11/13/gadi-eisenkot-possible-futur-premier-ministre-d-israel-et-fils-d-immigres-nes-a-casablanca-et-marrakech-suscite-l-interet-au-maroc_6809296_3212.html",
-   "source": "Le Monde",
-   "date": "2026-11-13T09:00:06+00:00",
-   "extrait": "Mandaté pour former un nouvel exécutif, le principal opposant à Benyamin Nétanyahou pourrait devenir le premier chef de gouvernement israélien d’origine marocaine.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "7515509986f6",
-   "titre": "Nvidia : l’ancien PDG de Nvidia Jensen Huang et le secrétaire au commerce Howard Lutnick invités à témoigner au Sénat américain",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/13/nvidia-l-ancien-pdg-de-nvidia-et-le-secretaire-au-commerce-invites-a-temoigner-au-senat-americain_6809295_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-13T08:49:27+00:00",
-   "extrait": "La démission de Jensen Huang, après des révélations sur sa liaison avec une femme d’affaires soupçonnée d’espionnage pour la Chine, place le contrôle des exportations de puces avancées au cœur des…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "5d5f96e0a18d",
-   "titre": "Liquidation judiciaire de Fibre Excellence : \"Il y a une touche intéressante pour une reprise\", affirme le ministre de l'Industrie",
-   "lien": "https://www.franceinfo.fr/economie/entreprises/il-y-a-une-touche-interessante-pour-une-reprise-affirme-le-ministre-de-l-industrie-apres-la-liquidation-judiciaire-de-fibre-excellence_8280674.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-13T08:43:22+00:00",
-   "extrait": "Le tribunal de commerce de Toulouse a prononcé jeudi 12 novembre la liquidation judiciaire de l'usine de pâte à papier Fibre Excellence à Saint-Gaudens en Haute-Garonne. Invité sur ICI Occitanie, le…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "915efa3f2cd7",
-   "titre": "Dans les fauteuils rouges de \"Complément d'enquête\" : Prisca Thevenot, directrice de campagne de Gabriel Attal",
-   "lien": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-dans-les-fauteuils-rouges-de-complement-d-enquete-prisca-thevenot-directrice-de-campagne-de-gabriel-attal_8280116.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-13T08:42:09+00:00",
-   "extrait": "Bien qu'omniprésent dans les médias, Gabriel Attal n'a pas souhaité se faire interviewer dans les fauteuils rouges de \"Complément d'enquête\". Le candidat centriste à qui l'émission consacrait un…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
   }
  ]
 }
