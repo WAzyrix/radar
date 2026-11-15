@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-15T12:05:43+00:00",
+ "maj": "2026-11-15T13:05:43+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,37 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "e91750681148",
+   "titre": "Métaux précieux et données clients mises en vente",
+   "lien": "https://www.zataz.com/metaux-precieux-et-donnees-clients-mises-en-vente/",
+   "source": "Zataz",
+   "date": "2026-11-15T12:42:32+00:00",
+   "extrait": "Un vendeur affirme détenir quatre bases clients et 30 000 documents d’une entreprise française de métaux précieux.",
+   "tags": []
+  },
+  {
+   "id": "ea45d2c58733",
+   "titre": "Le pirate qui « audite » la France",
+   "lien": "https://www.zataz.com/le-pirate-qui-audite-la-france/",
+   "source": "Zataz",
+   "date": "2026-11-15T12:37:12+00:00",
+   "extrait": "La FFTT confirme un vol de données. ZATAZ retrace les annonces de Chimera et les fichiers attribués à 33 autres fédération sportives.",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "da73ba950f4f",
+   "titre": "Opsysweb, une fuite présumée de 4,3 millions de commandes",
+   "lien": "https://www.zataz.com/opsysweb-une-fuite-presumee-de-43-millions-de-commandes/",
+   "source": "Zataz",
+   "date": "2026-11-15T12:19:51+00:00",
+   "extrait": "Sur un forum pirate, un internaute revendique une fuite de 4,3 millions de commandes de verres attribuées à Opsysweb.",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
   {
    "id": "9dbfccbe18e8",
    "titre": "Cyberattaque Maileva, 22 millions de personnes touchées",
@@ -3386,41 +3417,6 @@
    "extrait": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The…",
    "tags": [
     "Faille"
-   ]
-  },
-  {
-   "id": "de8bbdd0e39a",
-   "titre": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
-   "lien": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
-   "source": "The Hacker News",
-   "date": "2026-11-04T11:46:27+00:00",
-   "extrait": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "ecf2013fdfbb",
-   "titre": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
-   "lien": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
-   "source": "The Hacker News",
-   "date": "2026-11-04T11:34:20+00:00",
-   "extrait": "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a…",
-   "tags": [
-    "IA"
-   ]
-  },
-  {
-   "id": "8384c224e801",
-   "titre": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
-   "lien": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
-   "source": "The Hacker News",
-   "date": "2026-11-04T11:24:31+00:00",
-   "extrait": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input…",
-   "tags": [
-    "Fuite de données",
-    "Malware",
-    "Windows"
    ]
   }
  ]
