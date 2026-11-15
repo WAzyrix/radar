@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-14T23:05:41+00:00",
+ "maj": "2026-11-15T00:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,25 +22,115 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "8e41bf9fe90d",
+   "titre": "3 killed when SUV crashes into North Hollywood food stand",
+   "lien": "https://www.cbsnews.com/news/north-hollywood-food-stand-crash-metro-bus-stop-lankershim-chandler-boulevard/",
+   "source": "CBS News",
+   "date": "2026-11-14T23:53:25+00:00",
+   "extrait": "At least three people were killed and two others were severely injured when an SUV crashed into a food stand near a Metro bus stop in North Hollywood.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "8c08f29cbefb",
+   "titre": "Travelers stranded, flights canceled after ground stop. Here's what we know",
+   "lien": "https://www.cbsnews.com/news/faa-ground-stop-canceled-flights-travelers-what-we-know/",
+   "source": "CBS News",
+   "date": "2026-11-14T23:49:31+00:00",
+   "extrait": "Officials attributed the ground stop to aging system infrastructure and legacy technology.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "cf11b147d059",
+   "titre": "Ukraine : Volodymyr Zelensky évoque l’hypothèse américaine d’une adhésion de son pays à l’OTAN contre la cession du Donbass",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/15/ukraine-volodymyr-zelensky-evoque-l-hypothese-americaine-d-une-adhesion-de-son-pays-a-l-otan-contre-la-cession-du-donbass_6810710_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-14T23:49:29+00:00",
+   "extrait": "Les envoyés de Donald Trump ont proposé à Kiev une adhésion à l’OTAN en échange de territoires dans le Donbass, ce que l’Ukraine ne prend pas au sérieux, tandis que Vladimir Poutine campe sur ses…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "658dc5acebdd",
    "titre": "This week on \"Sunday Morning\" (Nov. 15)",
    "lien": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-15-2026/",
    "source": "CBS News",
-   "date": "2026-11-14T23:02:42+00:00",
+   "date": "2026-11-14T23:46:37+00:00",
    "extrait": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "693c44d86777",
+   "titre": "5th Canadian soldier dies weeks after fire on military base",
+   "lien": "https://www.cbsnews.com/news/5th-canadian-soldier-dies-wainwright-base-fire/",
+   "source": "CBS News",
+   "date": "2026-11-14T23:44:46+00:00",
+   "extrait": "Pvt. William Douglas Dal Bianco died Friday at a hospital in Ontario, where he had been receiving treatment since the Oct. 17 fire at Canadian Forces Base Wainwright in Alberta, the military said.",
+   "tags": [
+    "Conflits",
+    "Santé"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "986ccff411df",
+   "titre": "Manifestations du 14 novembre : à Paris comme à Lyon, des cortèges hétéroclites mais déterminés",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/15/manifestations-du-14-novembre-a-paris-comme-a-lyon-des-corteges-heteroclites-mais-determines_6810709_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-14T23:39:08+00:00",
+   "extrait": "Les cortèges qui ont défilé, samedi, à l’appel de nombreuses organisations ont surtout été dominés par le rejet du projet de loi qualifié de « permis de tuer », qui prévoit d’instaurer la…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "fb9303c76708",
+   "titre": "How telecoms upgrade work sparked US flight chaos",
+   "lien": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-14T23:11:27+00:00",
+   "extrait": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
   },
   {
    "id": "8ea8a7107b6e",
    "titre": "SpaceX pulls off first Starship recovery from orbit in spectacular fashion",
    "lien": "https://www.cbsnews.com/news/spacex-catch-starship-rocket/",
    "source": "CBS News",
-   "date": "2026-11-14T22:59:17+00:00",
+   "date": "2026-11-14T23:06:59+00:00",
    "extrait": "It was the first recovery of a Starship from orbit, a major milestone for a rocket SpaceX founder Elon Musk says will dramatically lower launch costs.",
    "tags": [
     "Tech"
    ],
+   "zone": "usa"
+  },
+  {
+   "id": "d1a673f3cc9d",
+   "titre": "Passengers rescued after tanker hit river cruise in New Orleans",
+   "lien": "https://www.cbsnews.com/news/tanker-cruise-collision-mississippi-river-new-orleans/",
+   "source": "CBS News",
+   "date": "2026-11-14T23:05:04+00:00",
+   "extrait": "A tanker struck a river cruise ship on the Mississippi River near the Port of New Orleans Friday, partially submerging the passenger boat.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "435fe2bf8371",
+   "titre": "Maintenance gone awry caused nation-wide ground stop, says Transportation Secretary",
+   "lien": "https://www.npr.org/2026/11/14/nx-s1-6040942/maintenance-gone-awry-caused-nation-wide-ground-stop-says-transportation-secretary",
+   "source": "NPR",
+   "date": "2026-11-14T22:48:38+00:00",
+   "extrait": "Transportation Secretary Sean Duffy points blame toward contractor in explaining Friday's nation-wide aviation ground stop.",
+   "tags": [],
    "zone": "usa"
   },
   {
@@ -77,18 +167,6 @@
    "extrait": "The U.S. has lost its status as a country where measles is eliminated, according to researchers with direct knowledge of the deliberations at the Pan American Health Organization.",
    "tags": [
     "Santé"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "8c08f29cbefb",
-   "titre": "Travelers stranded, flights canceled after ground stop. Here's what we know",
-   "lien": "https://www.cbsnews.com/news/faa-ground-stop-canceled-flights-travelers-what-we-know/",
-   "source": "CBS News",
-   "date": "2026-11-14T22:14:25+00:00",
-   "extrait": "Officials attributed the ground stop to aging system infrastructure and legacy technology.",
-   "tags": [
-    "Tech"
    ],
    "zone": "usa"
   },
@@ -143,22 +221,12 @@
    "titre": "SpaceX parvient à rattraper l’étage supérieur de sa mégafusée Starship, une première",
    "lien": "https://www.lemonde.fr/sciences/article/2026/11/14/spacex-parvient-a-rattraper-l-etage-superieur-de-sa-megafusee-starship-une-premiere_6810676_1650684.html",
    "source": "Le Monde",
-   "date": "2026-11-14T21:55:17+00:00",
+   "date": "2026-11-14T21:55:14+00:00",
    "extrait": "Cette récupération constitue une avancée considérable dans le développement de la plus grande et la plus puissante fusée jamais construite, conçue pour réaliser des voyages vers la Lune et Mars et…",
    "tags": [
     "Tech"
    ],
    "zone": "france"
-  },
-  {
-   "id": "d1a673f3cc9d",
-   "titre": "Passengers rescued after tanker hit river cruise in New Orleans",
-   "lien": "https://www.cbsnews.com/news/tanker-cruise-collision-mississippi-river-new-orleans/",
-   "source": "CBS News",
-   "date": "2026-11-14T21:52:26+00:00",
-   "extrait": "A tanker struck a river cruise ship on the Mississippi River near the Port of New Orleans Friday, partially submerging the passenger boat.",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "8e5022d867cd",
@@ -326,18 +394,6 @@
     "Justice"
    ],
    "zone": "france"
-  },
-  {
-   "id": "fb9303c76708",
-   "titre": "How telecoms upgrade work sparked US flight chaos",
-   "lien": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-14T20:03:48+00:00",
-   "extrait": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
   },
   {
    "id": "afc73184b93c",
@@ -2555,6 +2611,16 @@
    "zone": "france"
   },
   {
+   "id": "70638da81be2",
+   "titre": "Charlyne, travailleuse du sexe en milieu rural : « Les rares fois où les clients sont venus chez moi, j’ai caché mon nom sur la boîte aux lettres »",
+   "lien": "https://www.lemonde.fr/m-perso/article/2026/11/14/charlyne-travailleuse-du-sexe-en-milieu-rural-les-rares-fois-ou-les-clients-sont-venus-chez-moi-j-ai-cache-mon-nom-sur-la-boite-aux-lettres_6809621_4497916.html",
+   "source": "Le Monde",
+   "date": "2026-11-14T04:30:07+00:00",
+   "extrait": "Avant de devenir escort, Charlyne, 42 ans, était maroquinière dans un village en Occitanie. Mobilité, isolement, réseaux d’entraide : elle raconte ce qu’implique être une travailleuse du sexe en…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "5103631997a7",
    "titre": "EN DIRECT, guerre en Ukraine : pas de discussions prévues concernant l’Ukraine lors de la rencontre trilatérale entre Trump, Poutine et Xi annoncée par la Maison Blanche",
    "lien": "https://www.lemonde.fr/international/live/2026/11/14/en-direct-guerre-en-ukraine-des-discussions-sur-l-ukraine-ne-sont-pas-prevues-lors-de-la-rencontre-trilaterale-entre-trump-poutine-et-xi-annoncee-par-la-maison-blanche_6808609_3210.html",
@@ -3300,74 +3366,6 @@
    "extrait": "Un dysfonctionnement affectant les centres régionaux de contrôle aérien a conduit les autorités à suspendre les vols dans tout le pays, pendant plusieurs heures, provoquant d’importantes…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "7209fecd05eb",
-   "titre": "Le Burkina Faso annonce lancer des mandats d’arrêt contre des journalistes et des activistes en exil pour des faits de « terrorisme »",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/13/le-burkina-faso-annonce-lancer-des-mandats-d-arret-contre-des-journalistes-et-des-activistes-en-exil-pour-des-faits-de-terrorisme_6809388_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-13T21:51:13+00:00",
-   "extrait": "Les autorités de la junte d’Afrique de l’Ouest ciblent une vingtaine de personnes, et demandent leur extradition. Un chroniqueur burkinabé de RFI et des anciens ministres de l’ex-président Blaise…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "2cefd2cfda28",
-   "titre": "\"Rasez cette maison\" : comment les internautes ont guidé un raid anti-gang de Bukele en Haïti",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261113-rasez-cette-maison-comment-les-internautes-ont-guid%C3%A9-un-raid-anti-gang-de-bukele-en-ha%C3%AFti",
-   "source": "France 24",
-   "date": "2026-11-13T21:48:03+00:00",
-   "extrait": "Le président salvadorien Nayib Bukele a annoncé la destruction du quartier général des \"400 Mawozo\", l’un des principaux gangs haïtiens. L'opération militaire semble avoir été déclenchée à la suite…",
-   "tags": [
-    "Politique",
-    "Justice",
-    "Tech"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "6cf59bb86d68",
-   "titre": "What we know after tanker slams into river cruise ship in New Orleans",
-   "lien": "https://www.cbsnews.com/video/rescue-underway-after-tanker-slams-into-river-cruise-ship-docked-in-mississippi/",
-   "source": "CBS News",
-   "date": "2026-11-13T21:37:32+00:00",
-   "extrait": "A rescue effort is underway after a tanker collided with a river cruise ship that was docked on the Mississippi River in New Orleans on Friday. CBS News' Kris Van Cleave and Skyler Henry report.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "2018a1ea58a5",
-   "titre": "États-Unis : l'agence de l'aviation civile ordonne l'arrêt de tous les vols à cause d'un problème de communication",
-   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261113-%C3%A9tats-unis-tous-les-vols-arr%C3%AAt%C3%A9s-dans-les-a%C3%A9roports-du-pays-en-raison-d-un-probl%C3%A8me-de-communication",
-   "source": "France 24",
-   "date": "2026-11-13T21:35:04+00:00",
-   "extrait": "",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "0fee1b575c7e",
-   "titre": "Never bought Nvidia stock? Its slide could still hit your 401(k).",
-   "lien": "https://www.cbsnews.com/news/nvidia-stock-slide-401k-index-funds/",
-   "source": "CBS News",
-   "date": "2026-11-13T21:32:01+00:00",
-   "extrait": "Millions of Americans are exposed to Nvidia shares through their retirement plans. That's not as bad as it sounds (really!).",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "b1c0300955a8",
-   "titre": "With his challenge to Schumer, Van Hollen forces a debate over Democrats' mandate",
-   "lien": "https://www.npr.org/2026/11/13/nx-s1-6040044/dem-senate-leader-fight",
-   "source": "NPR",
-   "date": "2026-11-13T21:06:09+00:00",
-   "extrait": "Democrats say they have a mandate to deliver change, but as the party gets ready to retake the majority in both the House and Senate, there are divides over who should lead it.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
   }
  ]
 }
