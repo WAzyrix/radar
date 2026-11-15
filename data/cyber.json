@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-15T19:08:20+00:00",
+ "maj": "2026-11-15T20:05:43+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,15 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "7804a2d85202",
+   "titre": "Stripe va masquer ses clés API secrètes le 20 novembre",
+   "lien": "https://www.zataz.com/stripe-va-masquer-ses-cles-api-secretes-le-20-novembre/",
+   "source": "Zataz",
+   "date": "2026-11-15T19:44:34+00:00",
+   "extrait": "Stripe masquera ses anciennes clés API secrètes le 20 novembre 2026. ZATAZ analyse les risques et les conséquences.",
+   "tags": []
+  },
   {
    "id": "4201db3ac682",
    "titre": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
@@ -50,7 +59,7 @@
   },
   {
    "id": "e81cc58be3f9",
-   "titre": "Aréas Assurances visé par une vente de données",
+   "titre": "Aréas Assurances visée par une vente de données",
    "lien": "https://www.zataz.com/areas-assurances-vise-par-une-vente-de-donnees/",
    "source": "Zataz",
    "date": "2026-11-15T14:58:23+00:00",
@@ -3402,19 +3411,6 @@
    "extrait": "SonicWall warned customers of two security flaws affecting end-of-life Global Management System (GMS) systems that will not be patched. [...]",
    "tags": [
     "Faille"
-   ]
-  },
-  {
-   "id": "5e99d13bfbb2",
-   "titre": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
-   "lien": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
-   "source": "The Hacker News",
-   "date": "2026-11-04T14:27:52+00:00",
-   "extrait": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply…",
-   "tags": [
-    "Faille",
-    "Fuite de données",
-    "Mobile"
    ]
   }
  ]
