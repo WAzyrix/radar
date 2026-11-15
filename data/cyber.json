@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-15T14:05:39+00:00",
+ "maj": "2026-11-15T15:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,33 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "e81cc58be3f9",
+   "titre": "Aréas Assurances visé par une vente de données",
+   "lien": "https://www.zataz.com/areas-assurances-vise-par-une-vente-de-donnees/",
+   "source": "Zataz",
+   "date": "2026-11-15T14:58:23+00:00",
+   "extrait": "Un pirate informatique affirme détenir les données de plus de 21 000 assurés d’Aréas Assurances, dont leurs numéros de Sécurité sociale.",
+   "tags": []
+  },
+  {
+   "id": "4677e4c73e75",
+   "titre": "Techfive cité dans une annonce de vente de données",
+   "lien": "https://www.zataz.com/techfive-cite-dans-une-annonce-de-vente-de-donnees/",
+   "source": "Zataz",
+   "date": "2026-11-15T14:54:01+00:00",
+   "extrait": "Un pirate informatique annonce la vente de 400 entreprises retrouvées chez chez un professionnel de l'encaissement et du paiement.",
+   "tags": []
+  },
+  {
+   "id": "6e0300bc4001",
+   "titre": "Entre Bièvre et Rhône visée par une revendication cyber",
+   "lien": "https://www.zataz.com/entre-bievre-et-rhone-visee-par-une-revendication-cyber/",
+   "source": "Zataz",
+   "date": "2026-11-15T14:45:47+00:00",
+   "extrait": "Entre Bièvre et Rhône, en Isère, fait l’objet d’une revendication cyber portant sur des données d’usagers.",
+   "tags": []
+  },
   {
    "id": "e91750681148",
    "titre": "Métaux précieux et données clients mises en vente",
@@ -3383,40 +3410,6 @@
    "extrait": "A federal grand jury indicted two Canadians suspected of hacking multiple US universities and using the compromised systems to mine for cryptocurrency. [...]",
    "tags": [
     "Fuite de données"
-   ]
-  },
-  {
-   "id": "c4fc26c8d066",
-   "titre": "Botnet XCPE - La backdoor restera en place dans les box Android TV",
-   "lien": "https://korben.info/botnet-xcpe-videostrong-box-android-tv.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-11-04T12:44:28+00:00",
-   "extrait": "Google et ses partenaires ont coupé les serveurs du botnet XCPE et banni Videostrong, qui avait piégé le firmware de plus de 1,3 million d'appareils Android. Mais l'implant reste dans les box déjà…",
-   "tags": [
-    "Malware",
-    "Mobile"
-   ]
-  },
-  {
-   "id": "62ad9c2a6bdd",
-   "titre": "CISA flags WordPress RCE flaw as actively exploited in attacks",
-   "lien": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
-   "source": "BleepingComputer",
-   "date": "2026-11-04T12:11:05+00:00",
-   "extrait": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "d013e25bf406",
-   "titre": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
-   "lien": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
-   "source": "The Hacker News",
-   "date": "2026-11-04T12:07:04+00:00",
-   "extrait": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The…",
-   "tags": [
-    "Faille"
    ]
   }
  ]
