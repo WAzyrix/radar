@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-15T09:05:39+00:00",
+ "maj": "2026-11-15T10:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "960f41318ea9",
+   "titre": "Stolen Fireworks AI Key Led to Cursor Data Breach and Trojanized Claude Code Extension",
+   "lien": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+   "source": "The Hacker News",
+   "date": "2026-11-15T08:22:04+00:00",
+   "extrait": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting…",
+   "tags": [
+    "Fuite de données",
+    "IA"
+   ]
+  },
   {
    "id": "e6f51ba2eb00",
    "titre": "Vectors - Aiguilleur du ciel ze game !",
@@ -3410,17 +3422,6 @@
    "extrait": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure. Also known as Fluffy Wolf, the threat actor has a history of…",
    "tags": [
     "Fuite de données"
-   ]
-  },
-  {
-   "id": "787e60888ba1",
-   "titre": "Google coupe la recherche aux écoles qui refusent son IA",
-   "lien": "https://korben.info/google-coupe-la-recherche-aux-ecoles-qui-refusent-son-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-11-04T08:05:09+00:00",
-   "extrait": "Google désactivera par défaut Gemini, Gemini Notebook et Search sur les comptes d'élèves américains, de la maternelle au lycée, avec une bascule début 2027. Un responsable a confirmé qu'une école…",
-   "tags": [
-    "IA"
    ]
   }
  ]
