@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-15T07:05:40+00:00",
+ "maj": "2026-11-15T07:14:49+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "e6f51ba2eb00",
+   "titre": "Vectors - Aiguilleur du ciel ze game !",
+   "lien": "https://korben.info/vectors-jeu-controle-aerien-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-15T06:54:41+00:00",
+   "extrait": "Vectors est un jeu de contrôle aérien gratuit qui tourne dans le navigateur, sans compte. Joli mais un peu austère et tout en anglais : voici les gestes du premier service, les deux pièges de la fin…",
+   "tags": [
+    "Outil"
+   ]
+  },
   {
    "id": "403e4bdfaeb6",
    "titre": "Cursor confirms security breach led to malicious Claude Code extension",
@@ -3410,19 +3421,6 @@
    "extrait": "Google désactivera par défaut Gemini, Gemini Notebook et Search sur les comptes d'élèves américains, de la maternelle au lycée, avec une bascule début 2027. Un responsable a confirmé qu'une école…",
    "tags": [
     "IA"
-   ]
-  },
-  {
-   "id": "32c90d2f0958",
-   "titre": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
-   "lien": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
-   "source": "The Hacker News",
-   "date": "2026-11-04T07:46:15+00:00",
-   "extrait": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin. The flaw, CVE-2026-58868, affects Android 14…",
-   "tags": [
-    "CVE",
-    "Faille",
-    "Mobile"
    ]
   }
  ]
