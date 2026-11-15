@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-15T03:05:40+00:00",
+ "maj": "2026-11-15T04:05:43+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,53 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "08aeab16a330",
+   "titre": "Oregon community suspects foul play when beloved shopkeeper disappears",
+   "lien": "https://www.cbsnews.com/news/susan-phoenix-lane-fournier-mount-hood-oregon-murder-48-hours/",
+   "source": "CBS News",
+   "date": "2026-11-15T04:02:24+00:00",
+   "extrait": "When Susan \"Phoenix\" Lane and her two dogs went missing from Welches, Oregon, in the foothills of Mount Hood, her friends and family suspected foul play almost immediately.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "498540ccd508",
+   "titre": "Un commandant de la branche militaire du Hamas tué dans une frappe dans le sud de la bande de Gaza",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/15/un-commandant-de-la-branche-militaire-du-hamas-tue-dans-une-frappe-dans-le-sud-de-la-bande-de-gaza_6810874_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-15T03:57:46+00:00",
+   "extrait": "Israël a dit avoir frappé un responsable des brigades Ezzedine Al-Qassam sans le nommer, mais la branche militaire du mouvement islamiste palestinien a confirmé la mort Samir Abu Younis.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "76222d4d3122",
+   "titre": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+   "lien": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-15T03:21:04+00:00",
+   "extrait": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "6f0bb5e13501",
+   "titre": "How Trump administration responded to FAA ground stop",
+   "lien": "https://www.cbsnews.com/news/faa-ground-stop-trump-admin-response/",
+   "source": "CBS News",
+   "date": "2026-11-15T03:16:17+00:00",
+   "extrait": "President Trump was informed within 30 minutes after the Federal Aviation Administration imposed a nationwide ground stop Friday afternoon, according to U.S. officials.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "bd2feb23617f",
    "titre": "Federal judge blocks Trump from closing historic D.C. golf course, for now",
    "lien": "https://www.cbsnews.com/news/judge-blocks-east-potomac-park-dc-closing/",
@@ -33,6 +80,16 @@
     "Justice"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "9f25a7bec450",
+   "titre": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+   "lien": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-15T02:49:45+00:00",
+   "extrait": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "658dc5acebdd",
@@ -187,7 +244,7 @@
    "titre": "Ukraine : Volodymyr Zelensky évoque l’hypothèse américaine d’une adhésion de son pays à l’OTAN contre la cession du Donbass",
    "lien": "https://www.lemonde.fr/international/article/2026/11/15/ukraine-volodymyr-zelensky-evoque-l-hypothese-americaine-d-une-adhesion-de-son-pays-a-l-otan-contre-la-cession-du-donbass_6810710_3210.html",
    "source": "Le Monde",
-   "date": "2026-11-14T23:49:29+00:00",
+   "date": "2026-11-14T23:49:27+00:00",
    "extrait": "Les envoyés de Donald Trump ont proposé à Kiev une adhésion à l’OTAN en échange de territoires dans le Donbass, ce que l’Ukraine ne prend pas au sérieux, tandis que Vladimir Poutine campe sur ses…",
    "tags": [
     "Politique",
@@ -1336,11 +1393,11 @@
   },
   {
    "id": "a96c5da9e82d",
-   "titre": "Suspension des vols aux Etats-Unis : plus de 17 000 vols annulés vendredi et samedi alors que des perturbations persistent",
+   "titre": "Suspension des vols aux Etats-Unis : plus de 18 400 vols annulés vendredi et samedi alors que des perturbations persistent",
    "lien": "https://www.lemonde.fr/international/article/2026/11/14/suspension-des-vols-aux-etats-unis-des-annulations-et-des-retards-de-vols-persistent-samedi_6810445_3210.html",
    "source": "Le Monde",
    "date": "2026-11-14T15:31:00+00:00",
-   "extrait": "Après l’annulation de 12 000 vols vendredi, ce sont plus de 5 000 qui ont connu le même sort samedi. Les autorités, qui imputent la panne à des travaux sur des infrastructures vétustes, s’attendent…",
+   "extrait": "Après l’annulation de 12 000 vols vendredi, ce sont plus de 6 400 trajets qui ont connu le même sort samedi. Les autorités, qui imputent la panne à des travaux sur des infrastructures vétustes…",
    "tags": [],
    "zone": "france"
   },
@@ -3318,63 +3375,6 @@
     "Sport"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "5b05570849a2",
-   "titre": "Mullin says FAA ground stop caused by telecommunications outage",
-   "lien": "https://www.cbsnews.com/video/homeland-security-secretary-markwayne-mullin-says-faa-ground-stop-caused-by-telecommunications-outage/",
-   "source": "CBS News",
-   "date": "2026-11-13T22:29:13+00:00",
-   "extrait": "Homeland Security Secretary Markwayne Mullin briefed reporters on the ongoing FAA ground stop on Friday, saying it was caused by a telecommunications outage with no indication of an attack. Major…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "36d863f7157a",
-   "titre": "What we know about the FAA nationwide ground stop",
-   "lien": "https://www.npr.org/2026/11/13/nx-s1-6040388/what-we-know-about-the-faa-nationwide-ground-stop",
-   "source": "NPR",
-   "date": "2026-11-13T22:27:38+00:00",
-   "extrait": "The Federal Aviation Administration took an extraordinary step Friday afternoon by issuing a nationwide ground stop. No planes are taking off at any airport and millions of passengers are stranded.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "190337eb6423",
-   "titre": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election",
-   "lien": "https://www.npr.org/2026/11/13/nx-s1-6040409/trump-mail-in-voting",
-   "source": "NPR",
-   "date": "2026-11-13T22:18:55+00:00",
-   "extrait": "Some Republican state officials are reviving a bid for mail-in voting restrictions for the 2028 election by appealing a court order blocking the Postal Service from carrying out a revised ballot rule.",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "34f0a67caaab",
-   "titre": "L'armée américaine rapporte qu'elle a répondu à une activité de drone détectée au-dessus d'une base britannique",
-   "lien": "https://www.franceinfo.fr/internet/drones/l-armee-americaine-rapporte-qu-elle-a-repondu-a-une-activite-de-drone-detectee-au-dessus-d-une-base-britannique_8281700.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-13T22:12:52+00:00",
-   "extrait": "\"Aucun membre du personnel, aucun avion ni aucune infrastructure n'ont été touchés\", a assuré vendredi un porte-parole de l'armée de l'air américaine.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c33e783284b6",
-   "titre": "New congressman faces sexual harassment allegation",
-   "lien": "https://www.cbsnews.com/news/democrats-investigating-sexual-harassment-allegation-brian-poindexter/",
-   "source": "CBS News",
-   "date": "2026-11-13T22:08:00+00:00",
-   "extrait": "House Democrats are investigating an allegation of sexual harassment against Brian Poindexter, who defeated embattled GOP Rep. Max Miller.",
-   "tags": [],
-   "zone": "usa"
   }
  ]
 }
