@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-15T08:05:40+00:00",
+ "maj": "2026-11-15T09:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,89 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "37c207964e10",
+   "titre": "U.S. reportedly floated trading Ukrainian land for NATO membership",
+   "lien": "https://www.cbsnews.com/news/ukraine-russia-war-nato-us-donbas/",
+   "source": "CBS News",
+   "date": "2026-11-15T08:51:47+00:00",
+   "extrait": "The Ukrainian president said he would put the question of the potential exchange its people, if certain guarantees are put in place.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "01f973d8cce1",
+   "titre": "Les revalorisations annoncées pour les plus bas salaires coûteront plus d'un milliard d'euros aux finances publiques, déclare le ministre David Amiel",
+   "lien": "https://www.franceinfo.fr/economie/pouvoir-achat/il-y-aura-bien-une-hausse-des-points-pour-les-plus-bas-salaires-de-la-fonction-publique-confirme-le-ministre-david-amiel_8283254.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-15T08:49:24+00:00",
+   "extrait": "David Amiel confirme, dans le \"8h30 franceinfo\" dimanche, une augmentation \"pour les plus bas salaires de la fonction publique\" représentant \"350 euros brut par an\".",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "43745e263d2c",
+   "titre": "Après un rude combat, Ciryl Gane conserve son titre des poids lourds de l'UFC",
+   "lien": "https://www.franceinfo.fr/sports/mma/apres-un-rude-combat-ciryl-gane-conserve-son-titre-des-poids-lourds-de-l-ufc_8283269.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-15T08:32:42+00:00",
+   "extrait": "Dans le mythique Madison Square Garden de New York, le Français a dû attendre la fin des cinq rounds samedi pour obtenir la victoire contre l'Américain Josh Hokit, et réussir son premier combat à…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "db148b9eb79c",
+   "titre": "Le gouvernement interdit la vente de mortiers d'artifice jusqu'au 27 novembre",
+   "lien": "https://www.franceinfo.fr/faits-divers/le-gouvernement-interdit-la-vente-de-mortiers-d-artifice-jusqu-au-27-novembre_8283236.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-15T08:29:01+00:00",
+   "extrait": "L'exécutif invoque la prévention des \"risques de troubles graves à l'ordre public lors des blocages en cours devant des lycées et des universités, ainsi qu'à l'occasion des manifestations\".",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "392837efc272",
+   "titre": "\"GTA VI devrait décrire une Amérique en déclin tentant d'exister dans un monde qui a changé\"",
+   "lien": "https://www.france24.com/fr/culture/20261115-gta-vi-jamais-autant-dire-societe-americaine-vicissitudes-jeux-video",
+   "source": "France 24",
+   "date": "2026-11-15T08:19:11+00:00",
+   "extrait": "Alors que la franchise \"Grand Theft Auto\" s'apprête à accueillir un nouvel épisode le 19 novembre, le chercheur Olivier Mauco, président de l'Observatoire européen des jeux vidéo et auteur de \"GTA…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "96e3b3873fda",
+   "titre": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+   "lien": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-15T08:17:41+00:00",
+   "extrait": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "f5a7e212b032",
+   "titre": "Au Masters de Turin, Arthur Fils devra confirmer son nouveau statut après une année en dents de scie",
+   "lien": "https://www.franceinfo.fr/sports/tennis/arthur-fils/au-masters-de-turin-arthur-fils-devra-confirmer-son-nouveau-statut-apres-une-annee-en-dents-de-scie_8274734.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-15T08:11:43+00:00",
+   "extrait": "Qualifié pour le Masters de fin d'année, regroupant les huit meilleurs joueurs de la saison, Arthur Fils devra malgré tout prouver qu'il a bien sa place parmi l'élite du tennis mondial.",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "f83a676d74f0",
    "titre": "Bahrain says it intercepted Iranian strikes, Tehran targets U.S. assets",
    "lien": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/",
@@ -32,6 +115,16 @@
     "Conflits"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "723865599dda",
+   "titre": "Une septuagénaire portée disparue à Candillargues après les intempéries dans l'Hérault",
+   "lien": "https://www.franceinfo.fr/faits-divers/une-septuagenaire-disparue-a-candillargues-apres-les-intemperies-dans-l-herault_8283239.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-15T07:59:32+00:00",
+   "extrait": "Les sapeurs-pompiers ont effectué une centaine d'interventions en raison des fortes pluies qui ont secoué l'est du département.",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "c621e9c9e3dd",
@@ -48,10 +141,10 @@
   },
   {
    "id": "1a6e706a7c59",
-   "titre": "Somment de la francophonie : Emmanuel Macron appelle à l’« unité » et au « consensus » face aux tensions entre la RDC et le Rwanda",
+   "titre": "Sommet de la francophonie : Emmanuel Macron appelle à l’« unité » et au « consensus » face aux tensions entre la RDC et le Rwanda",
    "lien": "https://www.lemonde.fr/international/article/2026/11/15/somment-de-la-francophonie-emmanuel-macron-appelle-a-l-unite-et-au-consensus-face-aux-tensions-entre-la-rdc-et-le-rwanda_6810995_3210.html",
    "source": "Le Monde",
-   "date": "2026-11-15T07:45:51+00:00",
+   "date": "2026-11-15T07:45:48+00:00",
    "extrait": "Après huit ans et deux mandats de Louise Mushikiwabo, Kinshasa, qui accuse Kigali de soutenir le groupe armé rebelle du M23 dans ses provinces de l’Est, s’oppose à la reconduction de la Rwandaise à…",
    "tags": [
     "Politique"
@@ -65,6 +158,18 @@
    "source": "franceinfo",
    "date": "2026-11-15T07:24:37+00:00",
    "extrait": "Selon les présidences américaine et russe, les dirigeants de la Chine, de la Russie et des Etats-Unis se retrouveront à Shenzhen. Au-delà du symbole, les experts ne s'attendent pas à des annonces…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "9b17091eb30e",
+   "titre": "Des câbles en cuivre vétustes à l'origine des perturbations de milliers de vols aux Etats-Unis, selon l'administration Trump",
+   "lien": "https://www.franceinfo.fr/monde/usa/des-cables-en-cuivre-vetustes-a-l-origine-des-perturbations-de-milliers-de-vols-aux-etats-unis-selon-l-administration-trump_8283218.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-15T07:14:19+00:00",
+   "extrait": "Le remplacement de câbles vétustes a \"provoqué des problèmes dans la communication avec les avions\" et aussi sur des radars, a détaillé samedi le ministre des Transports américain.",
    "tags": [
     "Politique"
    ],
@@ -171,12 +276,36 @@
    "zone": "france"
   },
   {
+   "id": "f01ff2f6296f",
+   "titre": "« Les élections au Brésil, aux Etats-Unis et en Israël ont vu la défaite des partis qui ont misé sur la provocation sur les réseaux sociaux »",
+   "lien": "https://www.lemonde.fr/idees/article/2026/11/15/les-elections-au-bresil-aux-etats-unis-et-en-israel-ont-vu-la-defaite-des-partis-qui-ont-mise-sur-la-provocation-sur-les-reseaux-sociaux_6810983_3232.html",
+   "source": "Le Monde",
+   "date": "2026-11-15T05:15:06+00:00",
+   "extrait": "Si les récentes campagnes électorales ont vu la multiplication d’attaques en ligne et de contenus générés par IA, les résultats électoraux ont démontré que tout l’activisme du monde sur les réseaux…",
+   "tags": [
+    "Politique",
+    "Conflits",
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "c726ee8e5649",
    "titre": "\"Aya, pour l'exemple\" : un essai hybride passionnant sur Aya Nakamura, et les cultures qui lui ont ouvert la voie en France",
    "lien": "https://www.franceinfo.fr/culture/livres/aya-pour-l-exemple-un-essai-hybride-passionnant-sur-aya-nakamura-et-les-cultures-qui-lui-ont-ouvert-la-voie-en-france_8274251.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-11-15T05:05:02+00:00",
    "extrait": "La critique culturelle Christelle Bakima-Poundza livre un \"portrait d'une France aux rêves illimités\".",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "2a9eea45bb28",
+   "titre": "« La cueillette est désastreuse » : les champignons, affaiblis par la sécheresse, sont de plus en plus rares",
+   "lien": "https://www.lemonde.fr/planete/article/2026/11/15/la-cueillette-est-desastreuse-les-champignons-affaiblis-par-la-secheresse-sont-de-plus-en-plus-rares_6810979_3244.html",
+   "source": "Le Monde",
+   "date": "2026-11-15T05:00:21+00:00",
+   "extrait": "Dans la forêt domaniale de Hez-Froidmont, dans l’Oise, des mycologues amateurs s’inquiètent d’une raréfaction des champignons. Le déclin affecte ceux dont la partie sous terre est profonde, comme…",
    "tags": [],
    "zone": "france"
   },
@@ -198,18 +327,6 @@
    "date": "2026-11-15T05:00:10+00:00",
    "extrait": "Près de 2 700 jeunes généralistes, les premiers pour lesquels l’internat de médecine générale passe de trois à quatre ans, ont commencé leur stage, le 2 novembre, pour la grande majorité dans des…",
    "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "f5a7e212b032",
-   "titre": "Au Masters de Turin, Arthur Fils devra confirmer son nouveau statut après une année en dents de scie",
-   "lien": "https://www.franceinfo.fr/sports/tennis/arthur-fils/au-masters-de-turin-arthur-fils-devra-confirmer-son-nouveau-statut-apres-une-annee-en-dents-de-scie_8274734.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-15T05:00:01+00:00",
-   "extrait": "Qualifié pour le Masters de fin d'année, regroupant les huit meilleurs joueurs de la saison, Arthur Fils devra malgré tout prouver qu'il a bien sa place parmi l'élite du tennis mondial.",
-   "tags": [
-    "Sport"
-   ],
    "zone": "france"
   },
   {
@@ -260,8 +377,8 @@
    "titre": "Un commandant de la branche militaire du Hamas tué dans une frappe dans le sud de la bande de Gaza",
    "lien": "https://www.lemonde.fr/international/article/2026/11/15/un-commandant-de-la-branche-militaire-du-hamas-tue-dans-une-frappe-dans-le-sud-de-la-bande-de-gaza_6810874_3210.html",
    "source": "Le Monde",
-   "date": "2026-11-15T03:57:46+00:00",
-   "extrait": "Israël a dit avoir frappé un responsable des brigades Ezzedine Al-Qassam sans le nommer, mais la branche militaire du mouvement islamiste palestinien a confirmé la mort Samir Abu Younis.",
+   "date": "2026-11-15T03:57:43+00:00",
+   "extrait": "Israël a dit avoir frappé un responsable des brigades Ezzedine Al-Qassam sans le nommer, mais la branche militaire du mouvement islamiste palestinien a confirmé la mort Samir Abou Younis.",
    "tags": [
     "Conflits"
    ],
@@ -273,7 +390,7 @@
    "lien": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-15T03:21:04+00:00",
-   "extrait": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
+   "extrait": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
    "tags": [
     "Politique",
     "Justice"
@@ -552,6 +669,16 @@
     "Politique",
     "Conflits"
    ],
+   "zone": "monde"
+  },
+  {
+   "id": "cba5f678d19e",
+   "titre": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+   "lien": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-14T22:27:06+00:00",
+   "extrait": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
+   "tags": [],
    "zone": "monde"
   },
   {
@@ -3255,127 +3382,6 @@
    "extrait": "L'espace aérien a rouvert aux États-Unis vendredi soir après plusieurs heures d'une suspension de tous les décollages, une mesure rarissime qui a provoqué l'annulation de 6.000 vols desservant le…",
    "tags": [],
    "zone": "monde"
-  },
-  {
-   "id": "f1480b538684",
-   "titre": "Democrats strategize on how to deliver on midterm mandate",
-   "lien": "https://www.cbsnews.com/news/democrats-post-election-voters-economy-trump-factor/",
-   "source": "CBS News",
-   "date": "2026-11-14T00:43:00+00:00",
-   "extrait": "Democrats gathered in Denver this week for a conference on what comes next as they prepare to take control of Congress.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "6b43daae4325",
-   "titre": "Un navire-citerne percute un bateau de croisière à La Nouvelle-Orléans, aucun blessé grave",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/14/un-navire-citerne-percute-un-bateau-de-croisiere-a-la-nouvelle-orleans-aucun-blesse-grave_6809455_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-14T00:35:34+00:00",
-   "extrait": "Douze personnes ont été sorties de l’eau, et 32 personnes ont été transportées à l’hôpital. La collision a eu lieu alors que le bateau de la compagnie American Cruise Lines était amarré à quai, sur…",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c3aadca6bd48",
-   "titre": "Après la Finlande et la Norvège, la Suède veut empêcher les athlètes russes de concourir sur son sol",
-   "lien": "https://www.lemonde.fr/sport/article/2026/11/14/apres-la-finlande-et-la-norvege-la-suede-veut-a-son-tour-empecher-les-athletes-russes-de-concourir-sur-son-sol_6809422_3242.html",
-   "source": "Le Monde",
-   "date": "2026-11-14T00:21:48+00:00",
-   "extrait": "Stockholm souhaite présenter prochainement une « solution consistant à refuser l’entrée de son territoire aux athlètes russes », a annoncé le ministre des affaires sociales et de la santé publique…",
-   "tags": [
-    "Politique",
-    "Santé"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "cd08f34bc892",
-   "titre": "Stranded passenger in Las Vegas on nationwide ground stop: \"Nobody has answers\"",
-   "lien": "https://www.cbsnews.com/video/stranded-passenger-in-las-vegas-on-nationwide-ground-stop/",
-   "source": "CBS News",
-   "date": "2026-11-14T00:14:31+00:00",
-   "extrait": "Clara Pablo was trying to get home from Las Vegas to New York on Friday when the FAA issued a nationwide ground stop. She joined CBS News' to share her experience. Then, CBS Atlanta's Nakell…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "ddaf3e08f4b6",
-   "titre": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
-   "lien": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-14T00:03:56+00:00",
-   "extrait": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "90ede25c95fa",
-   "titre": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
-   "lien": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-14T00:03:52+00:00",
-   "extrait": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
-   "tags": [
-    "Politique",
-    "Conflits",
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "9eca676189c1",
-   "titre": "Travelers facing uncertainty amid nationwide ground stop",
-   "lien": "https://www.cbsnews.com/video/travelers-facing-uncertainty-amid-nationwide-ground-stop/",
-   "source": "CBS News",
-   "date": "2026-11-14T00:03:17+00:00",
-   "extrait": "The FAA issued a nationwide ground stop Friday, snarling travel plans for people across the country. CBS News' Carter Evans and Caitlin Huey-Burns have more.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "59414b3916df",
-   "titre": "Naresh Bhatt Convicted: The Road to Justice for Mamta's Family | Case by Case | \"48 Hours\" Podcast",
-   "lien": "https://www.cbsnews.com/video/111326-48-hours-case-by-case-episode-30/",
-   "source": "CBS News",
-   "date": "2026-11-14T00:00:00+00:00",
-   "extrait": "A Virginia jury has found Naresh Bhatt guilty of murdering his wife, Mamta Kafle Bhatt, whose body has never been found. Just days before the verdict, Bhatt stunned the courtroom when he admitted to…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "6ac46a049b62",
-   "titre": "All accounted for after tanker hits river cruise ship in New Orleans, 32 hospitalized",
-   "lien": "https://www.cbsnews.com/video/all-accounted-for-after-tanker-hits-river-cruise-ship-in-new-orleans-32-hospitalized/",
-   "source": "CBS News",
-   "date": "2026-11-13T23:53:42+00:00",
-   "extrait": "All are accounted for and 32 people have been hospitalized after a tanker hit a river cruise ship in New Orleans. CBS News' Skyler Henry reports.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "932177f0c365",
-   "titre": "Update to network connecting ATC system led to outage before ground stop, sources say",
-   "lien": "https://www.cbsnews.com/video/update-to-network-connecting-air-traffic-control-system-led-to-outage-before-ground-stop-sources-ay/",
-   "source": "CBS News",
-   "date": "2026-11-13T23:51:00+00:00",
-   "extrait": "An update to the private communications network that connects America's air traffic control system caused the system to reboot, leading to a crash and a communications outage, multiple sources told…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "c4b1e56bbcdf",
-   "titre": "11/13: CBS Evening News",
-   "lien": "https://www.cbsnews.com/video/111326-cbs-evening-news/",
-   "source": "CBS News",
-   "date": "2026-11-13T23:30:00+00:00",
-   "extrait": "Latest on FAA's national ground stop; No fatalities in New Orleans ship collision.",
-   "tags": [],
-   "zone": "usa"
   }
  ]
 }
