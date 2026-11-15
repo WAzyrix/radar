@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-15T18:05:39+00:00",
+ "maj": "2026-11-15T19:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,20 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "4201db3ac682",
+   "titre": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+   "lien": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+   "source": "BleepingComputer",
+   "date": "2026-11-15T18:29:53+00:00",
+   "extrait": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise…",
+   "tags": [
+    "Fuite de données",
+    "IA",
+    "Outil",
+    "Windows"
+   ]
+  },
   {
    "id": "bbb8a6727085",
    "titre": "TSMC employee data breach linked to cloud provider",
@@ -3402,15 +3416,6 @@
     "Fuite de données",
     "Mobile"
    ]
-  },
-  {
-   "id": "232bc399c6f4",
-   "titre": "TikTok, une passerelle vers les casinos illégaux ?",
-   "lien": "https://www.zataz.com/tiktok-une-passerelle-vers-les-casinos-illegaux/",
-   "source": "Zataz",
-   "date": "2026-11-04T13:58:13+00:00",
-   "extrait": "Sur TikTok, des jeux vidéo peuvent mener à des casinos illégaux. Analyse des redirections, risques et sanctions.",
-   "tags": []
   }
  ]
 }

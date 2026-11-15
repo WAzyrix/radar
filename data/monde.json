@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-15T18:05:39+00:00",
+ "maj": "2026-11-15T19:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,17 +22,168 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "5aecf37c117c",
+   "titre": "Full transcript of \"Face the Nation with Margaret Brennan,\" Nov. 15, 2026",
+   "lien": "https://www.cbsnews.com/news/face-the-nation-full-transcript-11-15-2026/",
+   "source": "CBS News",
+   "date": "2026-11-15T19:00:22+00:00",
+   "extrait": "On this \"Face the Nation with Margaret Brennan\" broadcast, Transportation Secretary Sean Duffy and Sen. Bill Cassidy join Margaret Brennan.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "d3c1e3b5301c",
+   "titre": "Tirs en rafale aux Abymes : un mort et plusieurs blessés, dont un grièvement atteint",
+   "lien": "https://la1ere.franceinfo.fr/guadeloupe/tirs-en-rafale-aux-abymes-un-mort-et-trois-blesses-dont-un-grievement-atteint-1758009.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-15T18:58:48+00:00",
+   "extrait": "Scène de crime aux Abymes, la nuit dernière : une personne a été tuée et plusieurs autres sont blessées, après des tirs en rafale sur la foule.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "ff89d7675f06",
+   "titre": "UPS plane, passenger jet collide on Miami airport taxiway",
+   "lien": "https://www.cbsnews.com/news/ups-plane-copa-airlines-jet-collide-miami-international-airport/",
+   "source": "CBS News",
+   "date": "2026-11-15T18:53:18+00:00",
+   "extrait": "A UPS cargo plane and a Copa Airlines jet carrying 172 people collided while taxiing at Miami International Airport, leaving two passengers with minor injuries.",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "9bb8204d131d",
+   "titre": "U.S. loses measles elimination status as cases surge nationwide",
+   "lien": "https://www.cbsnews.com/news/measles-elimination-status-united-states/",
+   "source": "CBS News",
+   "date": "2026-11-15T18:53:00+00:00",
+   "extrait": "The United States has lost its official measles elimination status for the first time in 26 years. Here's what to know.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "9de77a1ff081",
+   "titre": "En Cisjordanie, un pigiste de l’Agence France-Presse arrêté par les forces israéliennes",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/15/en-cisjordanie-un-pigiste-de-l-agence-france-presse-arrete-par-les-forces-israeliennes_6811047_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-15T18:52:58+00:00",
+   "extrait": "Un porte-parole de l’armée israélienne a confirmé l’arrestation du journaliste en précisant qu’il était « suspecté de liens avec le Hamas », sans fournir de preuves ni d’éléments pour étayer cette…",
+   "tags": [
+    "Conflits",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "c6010a0883c5",
+   "titre": "Au Yémen, le camp gouvernemental masse des renforts autour d'Aden, menacée par les Houthis",
+   "lien": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-le-camp-gouvernemental-masse-des-renforts-autour-d-aden-menacee-par-les-houthis_8283851.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-15T18:47:11+00:00",
+   "extrait": "Le gouvernement internationalement reconnu s'est replié à Aden après la prise, en 2014 par les Houthis, de la capitale Sanaa et de grands pans du nord du pays, les plus peuplés.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "62e2fca30523",
+   "titre": "France-Turquie : Mbappé enfin titulaire sous Zidane... Suivez le dernier match de phase de poules de Ligue des nations",
+   "lien": "https://www.franceinfo.fr/sports/foot/ligue-des-nations/direct-france-turquie-les-bleus-visent-la-qualification-pour-les-quarts-de-finale-suivez-le-dernier-match-de-phase-de-poules-de-ligue-des-nations_8282633.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-15T18:39:48+00:00",
+   "extrait": "Trois jours après le revers de San Siro, l'équipe de France retrouve les terrains face à la Turquie, dimanche soir à Bordeaux, avec un ticket pour les quarts de finale de la Ligue des nations dans…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "546f48fffe7f",
+   "titre": "Pérou : Léon XIV arrive à Cusco, à 3 400 m d'altitude, un mois après son opération",
+   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261115-p%C3%A9rou-l%C3%A9on-xiv-arrive-%C3%A0-cusco-%C3%A0-3-400-m-d-altitude-un-mois-apr%C3%A8s-son-op%C3%A9ration",
+   "source": "France 24",
+   "date": "2026-11-15T18:21:14+00:00",
+   "extrait": "Un mois après son opération pour un cancer du poumon, Léon XIV est arrivé dimanche à Cusco, dans les hautes Andes péruviennes, pour une étape particulièrement exigeante de sa tournée en Amérique du…",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "b99fe95944a0",
+   "titre": "Suspension des vols aux Etats-Unis : retour à la normale du trafic aérien espéré lundi ; Donald Trump qualifie la gestion de l’aviation par Joe Biden de « désastre »",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/15/suspension-des-vols-aux-etats-unis-retour-a-la-normale-du-trafic-aerien-espere-lundi-donald-trump-qualifie-la-gestion-de-l-aviation-par-joe-biden-de-desastre_6811046_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-15T18:20:29+00:00",
+   "extrait": "Encore plus de 1 500 vols ont été supprimés dimanche matin aux Etats-Unis, après que plus de 18 000 l’avaient déjà été vendredi et samedi. « Nous allons sans doute voir les choses revenir…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "e199d2b605c9",
+   "titre": "Transcript: Transportation Secretary Sean Duffy on \"Face the Nation with Margaret Brennan,\" Nov. 15, 2026",
+   "lien": "https://www.cbsnews.com/news/sean-duffy-transportation-secretary-face-the-nation-transcript-11-15-2026/",
+   "source": "CBS News",
+   "date": "2026-11-15T18:17:52+00:00",
+   "extrait": "The following is the transcript of the interview with Transportation Secretary Sean Duffy that aired on \"Face the Nation with Margaret Brennan\" on Nov. 15, 2026.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "8b293b066ca9",
+   "titre": "Présidentielle 2027 : Edouard Philippe veut bâtir quatre millions de logements supplémentaires en 10 ans",
+   "lien": "https://www.franceinfo.fr/politique/edouard-philippe/presidentielle-2027-edouard-philippe-veut-batir-quatre-millions-de-logements-supplementaires-en-10-ans_8283821.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-15T18:08:54+00:00",
+   "extrait": "\"Le pire ennemi du pouvoir d'achat des Français aujourd'hui, c'est le logement\", selon le candidat à la présidentielle.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "fb27abd9122c",
+   "titre": "Face the Nation: Moolenaar, Cassidy",
+   "lien": "https://www.cbsnews.com/video/face-the-nation-moolenaar-cassidy/",
+   "source": "CBS News",
+   "date": "2026-11-15T18:08:43+00:00",
+   "extrait": "Missed the second half of the show? Rep. John Moolenaar and Sen. Bill Cassidy join.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
    "id": "a29c233ccd9a",
    "titre": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
    "lien": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-11-15T17:57:09+00:00",
-   "extrait": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian missiles.",
+   "date": "2026-11-15T18:08:20+00:00",
+   "extrait": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
    "tags": [
     "Politique",
     "Conflits",
     "Tech"
    ],
+   "zone": "monde"
+  },
+  {
+   "id": "6174a1356d4a",
+   "titre": "Des militants d'extrême droite ont été agressés dans un bar à Marseille",
+   "lien": "https://www.franceinfo.fr/marseille/des-militants-d-extreme-droite-ont-ete-agresses-dans-un-bar-a-marseille_8283776.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-15T18:02:53+00:00",
+   "extrait": "Le maire RN du secteur a dénoncé les agissements d'une \"milice d'extrême gauche\".",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "d027916b737a",
+   "titre": "Éliminatoires de la CAN 2027 : qui peut se qualifier, qui est en danger ? Le point sur la 4e journée",
+   "lien": "https://www.france24.com/fr/sports/20261115-%C3%A9liminatoires-de-la-can-2027-qui-peut-se-qualifier-qui-est-en-danger-le-point-par-groupe",
+   "source": "France 24",
+   "date": "2026-11-15T18:00:30+00:00",
+   "extrait": "La quatrième journée des éliminatoires de la CAN 2027 se disputera les 16 et 17 novembre et pourrait déjà sceller les premières qualifications pour la compétition. Découvrez groupe par groupe les…",
+   "tags": [],
    "zone": "monde"
   },
   {
@@ -94,7 +245,7 @@
    "titre": "Transcript: Rep. Jim Himes on \"Face the Nation with Margaret Brennan,\" Nov. 15, 2026",
    "lien": "https://www.cbsnews.com/news/jim-himes-connecticut-democrat-face-the-nation-transcript-11-15-2026/",
    "source": "CBS News",
-   "date": "2026-11-15T17:40:58+00:00",
+   "date": "2026-11-15T17:40:00+00:00",
    "extrait": "The following is the transcript of the interview with Rep. Jim Himes, Democrat of Connecticut, that aired on \"Face the Nation with Margaret Brennan\" on Nov. 15, 2026.",
    "tags": [],
    "zone": "usa"
@@ -112,14 +263,17 @@
    "zone": "usa"
   },
   {
-   "id": "6174a1356d4a",
-   "titre": "Des militants d'extrême droite ont été agressés dans un bar à Marseille",
-   "lien": "https://www.franceinfo.fr/marseille/des-militants-d-extreme-droite-ont-ete-agresses-dans-un-bar-a-marseille_8283776.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-15T17:38:28+00:00",
-   "extrait": "Le maire RN du secteur a dénoncé les agissements d'une \"milice d'extrême gauche\".",
-   "tags": [],
-   "zone": "france"
+   "id": "13f4a954c75f",
+   "titre": "En Israël, la formation d'un gouvernement piétine",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261115-en-isra%C3%ABl-la-formation-d-un-gouvernement-pi%C3%A9tine",
+   "source": "France 24",
+   "date": "2026-11-15T17:31:25+00:00",
+   "extrait": "Les tractations s'intensifient en Israël pour tenter de former un nouveau gouvernement. Les équipes de négociation du Likoud et de Yashar se réunissent pour discuter des conditions d'un éventuel…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
   },
   {
    "id": "80dade9f7fc4",
@@ -130,16 +284,6 @@
    "extrait": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
    "tags": [],
    "zone": "monde"
-  },
-  {
-   "id": "4191d90caf7a",
-   "titre": "Transcript: Rep. John Moolenaar on \"Face the Nation with Margaret Brennan,\" Nov. 15, 2026",
-   "lien": "https://www.cbsnews.com/news/john-moolenaar-michigan-republican-face-the-nation-transcript-11-15-2026/",
-   "source": "CBS News",
-   "date": "2026-11-15T17:20:26+00:00",
-   "extrait": "The following is the transcript of the interview with Rep. John Moolenaar, Republican of Michigan, that aired on \"Face the Nation with Margaret Brennan\" on Nov. 15, 2026.",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "719f58a5523e",
@@ -155,14 +299,34 @@
    "zone": "france"
   },
   {
+   "id": "4191d90caf7a",
+   "titre": "Transcript: Rep. John Moolenaar on \"Face the Nation with Margaret Brennan,\" Nov. 15, 2026",
+   "lien": "https://www.cbsnews.com/news/john-moolenaar-michigan-republican-face-the-nation-transcript-11-15-2026/",
+   "source": "CBS News",
+   "date": "2026-11-15T17:20:00+00:00",
+   "extrait": "The following is the transcript of the interview with Rep. John Moolenaar, Republican of Michigan, that aired on \"Face the Nation with Margaret Brennan\" on Nov. 15, 2026.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
    "id": "1615156006cf",
    "titre": "Transcript: Sen. Bill Cassidy on \"Face the Nation with Margaret Brennan,\" Nov. 15, 2026",
    "lien": "https://www.cbsnews.com/news/bill-cassidy-louisiana-republican-face-the-nation-transcript-11-15-2026/",
    "source": "CBS News",
-   "date": "2026-11-15T17:16:48+00:00",
+   "date": "2026-11-15T17:16:00+00:00",
    "extrait": "The following is the transcript of the interview with Sen. Bill Cassidy, Republican of Louisiana, that aired on \"Face the Nation with Margaret Brennan\" on Nov. 15, 2026.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "759fd0622a7f",
+   "titre": "MMA : Ciryl Gane conserve sa ceinture de champion des poids lourds de l'UFC",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261115-mma-ciryl-gane-conserve-sa-ceinture-de-champion-des-poids-lourds-de-l-ufc",
+   "source": "France 24",
+   "date": "2026-11-15T17:13:55+00:00",
+   "extrait": "Ciryl Gane a conservé son titre de champion incontesté des poids lourds de l'UFC après un combat très disputé face à l'Américain Josh Hokit au Madison Square Garden. Bousculé lors des premiers…",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "aad82c68b537",
@@ -216,13 +380,23 @@
   },
   {
    "id": "708302fc02cb",
-   "titre": "Ligue des nations : suivez en direct le match de la qualification pour la France contre la Turquie",
+   "titre": "France - Turquie en direct : suivez le match décisif de la qualification pour les Bleus",
    "lien": "https://www.france24.com/fr/sports/20261115-ligue-des-nations-suivez-en-direct-le-match-de-la-qualification-pour-la-france-contre-la-turquie",
    "source": "France 24",
    "date": "2026-11-15T17:00:25+00:00",
    "extrait": "L'équipe de France affronte la Turquie ce dimanche à Bordeaux pour décrocher sa qualification en quarts de finale de Ligue des nations. Après leur défaite contre l'Italie jeudi à Milan, les Bleus…",
    "tags": [],
    "zone": "monde"
+  },
+  {
+   "id": "c763e73932f4",
+   "titre": "Au Cambodge, qui organise le sommet de l’Organisation internationale de la francophonie, le long déclin de la langue française",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/15/au-cambodge-qui-organise-le-sommet-de-l-organisation-internationale-de-la-francophonie-le-long-declin-de-la-langue-francaise_6811037_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-15T17:00:07+00:00",
+   "extrait": "Phnom Penh accueille jusqu’au 16 novembre le XXᵉ sommet de l’Organisation internationale de la francophonie. Mais dans l’ancien protectorat, la langue de Sihanouk recule face à l’anglais et au…",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "26a619257741",
@@ -318,6 +492,18 @@
    "zone": "usa"
   },
   {
+   "id": "ac627fb8c183",
+   "titre": "Elections législatives : le chantier sans cesse repoussé du redécoupage électoral",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/15/elections-legislatives-le-chantier-sans-cesse-repousse-du-redecoupage-electoral_6811034_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-15T16:09:00+00:00",
+   "extrait": "Si des élections législatives sont organisées en 2027 après la présidentielle, elles reposeront sur une carte électorale qui n’a plus été retouchée depuis 2009. Alors que les autorités politiques…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "ef52bb66c60c",
    "titre": "Alice Ekman, sinologue : « Malgré ses difficultés, la Chine veut accélérer la restructuration de la gouvernance mondiale et marginaliser les pays occidentaux »",
    "lien": "https://www.lemonde.fr/idees/article/2026/11/15/alice-ekman-sinologue-malgre-ses-difficultes-la-chine-veut-accelerer-la-restructuration-de-la-gouvernance-mondiale-et-marginaliser-les-pays-occidentaux_6811033_3232.html",
@@ -337,6 +523,16 @@
    "tags": [
     "Climat"
    ],
+   "zone": "france"
+  },
+  {
+   "id": "ccc4c59124c1",
+   "titre": "Au cœur du plus vibrant foyer culturel de Pologne, Cracovie, ville à l’honneur du festival parisien Un week-end à l’Est",
+   "lien": "https://www.lemonde.fr/livres/article/2026/11/15/au-c-ur-du-plus-vibrant-foyer-culturel-de-pologne-cracovie-ville-a-l-honneur-du-festival-parisien-un-week-end-a-l-est_6811031_3260.html",
+   "source": "Le Monde",
+   "date": "2026-11-15T16:00:15+00:00",
+   "extrait": "L’énergie de la grande cité polonaise animera le festival Un week-end à l’Est, à Paris, du 16 au 28 novembre. Rencontre, sur place, avec quelques-uns de ses écrivains et artistes les plus en vue.",
+   "tags": [],
    "zone": "france"
   },
   {
@@ -430,6 +626,19 @@
    "date": "2026-11-15T15:30:15+00:00",
    "extrait": "We leave you this Sunday morning in the company of sea lions who call the waters off La Jolla, Calif., their home. Videographer: Carl Mrozek.",
    "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "04a74e965075",
+   "titre": "11/15: Face The Nation",
+   "lien": "https://www.cbsnews.com/video/111526-face-the-nation/",
+   "source": "CBS News",
+   "date": "2026-11-15T15:30:00+00:00",
+   "extrait": "This week on \"Face the Nation with Margaret Brennan,\" as the effects of Friday's nationwide ground stop are still being felt, Transportation Secretary Sean Duffy joins. Plus, as the U.S. loses its…",
+   "tags": [
+    "Politique",
+    "Santé"
+   ],
    "zone": "usa"
   },
   {
@@ -616,16 +825,6 @@
    "zone": "monde"
   },
   {
-   "id": "e199d2b605c9",
-   "titre": "Transcript: Transportation Secretary Sean Duffy on \"Face the Nation with Margaret Brennan,\" Nov. 15, 2026",
-   "lien": "https://www.cbsnews.com/news/sean-duffy-transportation-secretary-face-the-nation-transcript-11-15-2026/",
-   "source": "CBS News",
-   "date": "2026-11-15T14:54:26+00:00",
-   "extrait": "The following is the transcript of the interview with Transportation Secretary Sean Duffy that aired on \"Face the Nation with Margaret Brennan\" on Nov. 15, 2026.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "4b0ac58da4cf",
    "titre": "Macy's Thanksgiving Day Parade turns 100",
    "lien": "https://www.cbsnews.com/video/macys-thanksgiving-day-parade-turns-100/",
@@ -656,6 +855,16 @@
     "Tech"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "883ce7f404de",
+   "titre": "Face à la Turquie, Kylian Mbappé à la recherche du temps perdu avec Zinédine Zidane",
+   "lien": "https://www.franceinfo.fr/sports/foot/ligue-des-nations/face-a-la-turquie-kylian-mbappe-a-la-recherche-du-temps-perdu-avec-zinedine-zidane_8282852.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-15T14:45:44+00:00",
+   "extrait": "Absent lors des quatre derniers matchs, le capitaine de l’équipe de France n’a joué que 59 minutes sous les ordres du nouveau sélectionneur.",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "43cd477b9c86",
@@ -1014,6 +1223,18 @@
    "zone": "france"
   },
   {
+   "id": "7f792e0d7409",
+   "titre": "Laws limiting coal miners' exposure to toxic dust are in danger of being rolled back",
+   "lien": "https://www.npr.org/2026/11/15/nx-s1-6039311/laws-limiting-coal-miners-exposure-to-toxic-dust-are-in-danger-of-being-rolled-back",
+   "source": "NPR",
+   "date": "2026-11-15T13:11:30+00:00",
+   "extrait": "Coal miners who are exposed to silica dust are at a higher risk of black lung disease. Despite decades of advocacy, new efforts to regulate the toxic dust are under threat.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "6cdb0b5c099a",
    "titre": "Dans les Deux-Sèvres, le collectif Bassines Non Merci appelle à un nouveau rassemblement pour rejoindre le site de Sainte-Soline le 29 novembre",
    "lien": "https://www.franceinfo.fr/environnement/transition-ecologique-de-l-agriculture/megabassine/megabassine-de-sainte-soline/dans-les-deux-sevres-le-collectif-bassines-non-merci-appelle-a-un-nouveau-rassemblement-pour-rejoindre-le-site-de-sainte-soline-le-29-novembre_8283479.html#xtor=RSS-3-[lestitres]",
@@ -1170,24 +1391,22 @@
    "zone": "monde"
   },
   {
-   "id": "ff89d7675f06",
-   "titre": "UPS plane, passenger jet collide on Miami airport taxiway",
-   "lien": "https://www.cbsnews.com/news/ups-plane-copa-airlines-jet-collide-miami-international-airport/",
-   "source": "CBS News",
-   "date": "2026-11-15T12:24:57+00:00",
-   "extrait": "A UPS cargo plane and a Copa Airlines jet carrying 172 people collided while taxiing at Miami International Airport, leaving two passengers with minor injuries.",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "86e9b690f1e5",
    "titre": "\"Ça ne rattrapera pas un bon samedi\" : les commerçants lyonnais peu convaincus par les ouvertures dominicales supplémentaires",
    "lien": "https://www.franceinfo.fr/economie/commerce/ca-ne-rattrapera-pas-un-bon-samedi-les-commercants-lyonnais-peu-convaincus-par-les-ouvertures-dominicales-supplementaires_8283347.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-11-15T12:06:49+00:00",
    "extrait": "Après les dégradations du 17 octobre et les manifestations organisées tous les samedis, le préfet du Rhône autorise les commerces lyonnais à ouvrir trois dimanches supplémentaires. Mais les…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "1c624925105e",
+   "titre": "France - Turquie : 30 ans après, le retour de Zinedine Zidane devant 42 000 personnes à Bordeaux",
+   "lien": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/france-turquie-30-ans-apres-le-retour-de-zinedine-zidane-devant-42-000-personnes-a-bordeaux-3449967.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-15T12:04:04+00:00",
+   "extrait": "Zinedine Zidane, ancien joueur emblématique des Girondins de Bordeaux, revient en tant qu'entraîneur de l'équipe de France pour la rencontre France - Turquie en Ligue des Nations. Le match a lieu ce…",
    "tags": [],
    "zone": "france"
   },
@@ -2031,18 +2250,8 @@
    "zone": "france"
   },
   {
-   "id": "883ce7f404de",
-   "titre": "Face à la Turquie, Kylian Mbappé à la recherche du temps perdu avec Zinédine Zidane",
-   "lien": "https://www.franceinfo.fr/sports/foot/ligue-des-nations/face-a-la-turquie-kylian-mbappe-a-la-recherche-du-temps-perdu-avec-zinedine-zidane_8282852.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-15T04:30:01+00:00",
-   "extrait": "Absent lors des quatre derniers matchs, le capitaine de l’équipe de France n’a joué que 59 minutes sous les ordres du nouveau sélectionneur.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
    "id": "375d28637ad7",
-   "titre": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
+   "titre": "Trump blasts judge for halting his Washington golf project and says he will appeal",
    "lien": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
    "source": "NPR",
    "date": "2026-11-15T04:28:45+00:00",
@@ -2977,16 +3186,6 @@
    "zone": "usa"
   },
   {
-   "id": "9bb8204d131d",
-   "titre": "U.S. loses measles elimination status as cases surge nationwide",
-   "lien": "https://www.cbsnews.com/news/measles-elimination-status-united-states/",
-   "source": "CBS News",
-   "date": "2026-11-14T16:42:15+00:00",
-   "extrait": "The United States has lost its official measles elimination status for the first time in 26 years. Here's what to know.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "19573d1610e5",
    "titre": "Le Pays de Galles signe un exploit en rugby, en battant la Nouvelle-Zélande pour la première fois depuis 1953",
    "lien": "https://www.lemonde.fr/sport/article/2026/11/14/le-pays-de-galles-signe-un-exploit-en-rugby-en-battant-la-nouvelle-zelande-pour-la-premiere-fois-depuis-1953_6810451_3242.html",
@@ -3168,204 +3367,6 @@
    "source": "Le Monde",
    "date": "2026-11-14T16:00:21+00:00",
    "extrait": "Le site aux 18 millions de « fanfictions », des déclinaisons littéraires d’œuvres existantes rédigées par des fans, est inaccessible depuis le 29 octobre. En cause, un « incident de sécurité » qui…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "925a1aa3da21",
-   "titre": "Lunettes connectées : « Où est donc l’Europe, qui aime tant se présenter comme la championne mondiale de la protection de la vie privée ? »",
-   "lien": "https://www.lemonde.fr/idees/article/2026/11/14/lunettes-connectees-ou-est-donc-l-europe-qui-aime-tant-se-presenter-comme-la-championne-mondiale-de-la-protection-de-la-vie-privee_6810448_3232.html",
-   "source": "Le Monde",
-   "date": "2026-11-14T16:00:18+00:00",
-   "extrait": "Les usages prétendument récréatifs des lunettes munies de caméras et de microphones ne justifient pas de faire peser sur l’ensemble de la population le risque d’une surveillance diffuse, dénonce un…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "594ee122e05b",
-   "titre": "L’université de Nottingham, symbole extrême de la crise de l’enseignement supérieur britannique, supprime des centaines de postes et ferme des filières",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/14/l-universite-de-nottingham-symbole-extreme-de-la-crise-de-l-enseignement-superieur-britannique-supprime-des-centaines-de-postes-et-ferme-des-filieres_6810447_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-14T16:00:15+00:00",
-   "extrait": "L’établissement a engagé un plan de coupes drastiques qui laisse étudiants et enseignants dans l’incertitude. D’autres universités à travers le pays envisagent des réductions d’effectifs alors que…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "7c03a3f8fb1a",
-   "titre": "Mikhaïl Epstein, philosophe : « Le bolchevisme voulait hâter la fin heureuse de l’histoire, le poutinisme en précipite la fin catastrophique »",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/14/mikhail-epstein-philosophe-le-bolchevisme-voulait-hater-la-fin-heureuse-de-l-histoire-le-poutinisme-en-precipite-la-fin-catastrophique_6810446_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-14T16:00:10+00:00",
-   "extrait": "Dans un entretien au « Monde », le philosophe et philologue russo-américain analyse les ressorts culturels et psychologiques de la guerre de la Russie contre l’Ukraine. Du rapport contradictoire…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "884248eef06d",
-   "titre": "Facebook écope d'une amende de 805 millions d'euros en Italie pour avoir accédé à des photos sans le consentement \"spécifique\" des utilisateurs",
-   "lien": "https://www.franceinfo.fr/internet/reseaux-sociaux/facebook/facebook-ecope-d-une-amende-de-805-millions-d-euros-en-italie-pour-avoir-accede-a-des-photos-sans-un-consentement-specifique-des-utilisateurs_8282567.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-14T15:55:17+00:00",
-   "extrait": "Cette nouvelle sanction figure parmi les plus importantes jamais prononcées par une autorité italienne contre un géant technologique.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "92720765a427",
-   "titre": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-   "lien": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-14T15:53:55+00:00",
-   "extrait": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "b942b0e4016f",
-   "titre": "De communiste à conseiller de Macron, le parcours de l'économiste Philippe Aghion",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/avec-judith/20261114-de-communiste-%C3%A0-conseiller-de-macron-le-parcours-de-l-%C3%A9conomiste-philippe-aghion",
-   "source": "France 24",
-   "date": "2026-11-14T15:50:57+00:00",
-   "extrait": "Comme chaque semaine, Judith Grimaldi reçoit un invité dans son podcast \"Avec Judith\". Cette fois-ci, c'est Philippe Aghion, économiste français, prix Nobel d'économie 2025.",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "44d604d45e13",
-   "titre": "How Nvidia scandal, Anthropic IPO may impact your 401(k)",
-   "lien": "https://www.cbsnews.com/video/how-nvidia-scandal-anthropic-ipo-may-impact-your-401k/",
-   "source": "CBS News",
-   "date": "2026-11-14T15:44:15+00:00",
-   "extrait": "Nvidia's stock tumbled following a scandal involving former CEO Jensen Huang. Meanwhile, Anthropic prepares for its IPO. Kelly O'Grady explains what you should know.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "20d2028057a5",
-   "titre": "\"La voix des citoyens ne doit pas être ignorée\" : à Antalya, des milliers de manifestants dénoncent une COP sourde aux populations",
-   "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/la-voix-des-citoyens-ne-doit-pas-etre-ignoree-a-antalya-des-milliers-de-manifestants-denoncent-une-cop-sourde-aux-populations_8282576.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-14T15:43:04+00:00",
-   "extrait": "Plus de 7 000 personnes venues de toute la Turquie et de différents pays ont marché sous la pluie dans le centre ville d'Antalya, selon une estimation de la police.",
-   "tags": [
-    "Économie",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "f913251039d6",
-   "titre": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-   "lien": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-14T15:42:54+00:00",
-   "extrait": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "f7f53c4c925e",
-   "titre": "Nvidia scandal exposes potential holes in U.S. national security",
-   "lien": "https://www.cbsnews.com/video/nvidia-scandal-exposes-potential-holes-in-us-national-security/",
-   "source": "CBS News",
-   "date": "2026-11-14T15:41:03+00:00",
-   "extrait": "Jensen Huang is out as Nvidia's CEO after an extramarital affair with a suspected Chinese spy. Now members of President Trump's Cabinet are playing the blame game over restricted microchip exports…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "eef13c287ef0",
-   "titre": "Pluie et inondations : les départements du Gard, de l’Hérault et des Bouches-du-Rhône placés en vigilance orange à partir de samedi soir",
-   "lien": "https://www.lemonde.fr/planete/article/2026/11/14/pluie-et-inondations-les-departements-du-gard-de-l-herault-et-des-bouches-du-rhone-places-en-vigilance-orange-a-partir-de-samedi-soir_6810050_3245.html",
-   "source": "Le Monde",
-   "date": "2026-11-14T15:38:48+00:00",
-   "extrait": "L’agence météorologique met en garde contre des « risques de ruissellements » et de possibles « phénomènes tourbillonnaires (type trombe marine) », alors que les trois départements ont déjà été…",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "39d40bd77c01",
-   "titre": "Eye Opener: National ground stop lifted",
-   "lien": "https://www.cbsnews.com/video/eye-opener-national-ground-stop-lifted/",
-   "source": "CBS News",
-   "date": "2026-11-14T15:34:54+00:00",
-   "extrait": "A national ground stop caused a series of travel delays. Hundreds of \"Rocky\" fans gather to dress like Rocky Balboa for a Guinness World Record. All that and all that matters in today's Eye Opener.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "dcd7b59d3f4f",
-   "titre": "L'Hérault rejoint le Gard et les Bouches-du-Rhône, placés en vigilance orange \"pluie-inondation\" à partir de 20 heures",
-   "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/le-gard-et-les-bouches-du-rhone-places-en-vigilance-orange-pluie-inondation-des-20-heures-samedi_8282258.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-14T15:33:26+00:00",
-   "extrait": "De fortes précipitations sont attendues dès samedi après-midi dans les deux départements du littoral méditerranéen, alerte Météo-France.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "cae6741756cc",
-   "titre": "Burkina Faso : mandats d'arrêt contre des journalistes et activistes en exil pour faits de \"terrorisme\"",
-   "lien": "https://www.france24.com/fr/afrique/20261114-burkina-faso-mandats-arr%C3%AAt-contre-journalistes-activistes-exil-pour-faits-terrorisme",
-   "source": "France 24",
-   "date": "2026-11-14T15:31:03+00:00",
-   "extrait": "Les autorités du Burkina Faso ont annoncé avoir lancé des mandats d’arrêt contre une vingtaine de personnes en exil et demandé leur extradition. Des journalistes et un ancien pilier du régime de…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "032497b00bce",
-   "titre": "Air travel chaos after national ground stop lifted",
-   "lien": "https://www.cbsnews.com/video/air-travel-chaos-after-national-ground-stop-lifted/",
-   "source": "CBS News",
-   "date": "2026-11-14T15:31:00+00:00",
-   "extrait": "Thousands of travelers are still dealing with flight delays and cancellations after the FAA lifted a national ground stop order. The ground stop highlighted a worsening air traffic network crisis…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "a96c5da9e82d",
-   "titre": "Suspension des vols aux Etats-Unis : plus de 18 400 vols annulés vendredi et samedi alors que des perturbations persistent",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/14/suspension-des-vols-aux-etats-unis-des-annulations-et-des-retards-de-vols-persistent-samedi_6810445_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-14T15:31:00+00:00",
-   "extrait": "Après l’annulation de 12 000 vols vendredi, ce sont plus de 6 400 trajets qui ont connu le même sort samedi. Les autorités, qui imputent la panne à des travaux sur des infrastructures vétustes…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "dcaa4e913eb8",
-   "titre": "Avant le Masters à Turin, Alexander Zverev est-il un numéro un mondial au rabais ?",
-   "lien": "https://www.franceinfo.fr/sports/tennis/atp/avant-le-masters-a-turin-alexander-zverev-est-il-un-numero-un-mondial-au-rabais_8281652.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-14T15:27:52+00:00",
-   "extrait": "L'Allemand aborde, dimanche, le rendez-vous des meilleurs joueurs de la saison avec l'étiquette de leader du classement ATP, non sans un certain lot d'interrogations.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "cd5cf874ea05",
-   "titre": "Le maire de Dreux, Abdel-Kader Guerza, est mort à l'âge de 69 ans",
-   "lien": "https://france3-regions.franceinfo.fr/centre-val-de-loire/eure-et-loir/dreux/disparition-le-maire-de-dreux-abdel-kader-guerza-est-mort-apres-10-jours-d-hospitalisation-3449679.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-14T15:27:11+00:00",
-   "extrait": "Le maire de Dreux (Eure-et-Loir), Abdel-Kader Guerza (69 ans) est décédé ce samedi 14 novembre 2026, annonce la mairie dans un communiqué. Il avait été hospitalisé à Dreux le 3 novembre dernier, des…",
    "tags": [],
    "zone": "france"
   }
