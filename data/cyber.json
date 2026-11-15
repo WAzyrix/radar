@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-15T11:05:42+00:00",
+ "maj": "2026-11-15T12:05:43+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,28 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "9dbfccbe18e8",
+   "titre": "Cyberattaque Maileva, 22 millions de personnes touchées",
+   "lien": "https://www.zataz.com/cyberattaque-maileva-22-millions-de-personnes-touchees/",
+   "source": "Zataz",
+   "date": "2026-11-15T11:47:49+00:00",
+   "extrait": "Cyberattaque Maileva, 22 millions de personnes touchées par le vol de données. Des relances de paiement ont été exposées.",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "04c1c102f5a7",
+   "titre": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
+   "lien": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
+   "source": "The Hacker News",
+   "date": "2026-11-15T11:27:31+00:00",
+   "extrait": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection…",
+   "tags": [
+    "Mobile"
+   ]
+  },
   {
    "id": "88be0dfa72ce",
    "titre": "OpenAI lance Daybreak, des agents IA qui piratent vos applis pour les sécuriser",
@@ -3399,30 +3421,6 @@
     "Fuite de données",
     "Malware",
     "Windows"
-   ]
-  },
-  {
-   "id": "955f969e9dae",
-   "titre": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
-   "lien": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
-   "source": "BleepingComputer",
-   "date": "2026-11-04T09:39:54+00:00",
-   "extrait": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
-   "tags": [
-    "Faille",
-    "Fuite de données",
-    "Mobile"
-   ]
-  },
-  {
-   "id": "d67b77ba30de",
-   "titre": "Revolut vire Claude Code pour une IA chinoise et divise ses coûts par dix",
-   "lien": "https://korben.info/revolut-vire-claude-code-pour-une-ia-chinoise-et-divise-ses-couts-par-dix.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-11-04T09:39:50+00:00",
-   "extrait": "Revolut affirme avoir réduit d'environ 90 % sa facture d'IA de codage en un an, en remplaçant Claude Code par GLM, un modèle ouvert du chinois Z.ai auto-hébergé sur 56 cartes Nvidia B200. Le coût…",
-   "tags": [
-    "IA"
    ]
   }
  ]
