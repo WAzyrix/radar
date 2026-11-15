@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-15T15:05:41+00:00",
+ "maj": "2026-11-15T16:05:43+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,14 +22,246 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "0d302b333110",
+   "titre": "Incendie en Gironde : au Porge, où « personne n’est resté à la rue », des relogements temporaires et des inquiètudes sur la reconstruction",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/15/incendie-en-gironde-au-porge-ou-personne-n-est-reste-a-la-rue-des-relogements-temporaires-et-des-inquietudes-sur-la-reconstruction_6811032_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-15T16:00:18+00:00",
+   "extrait": "Dans le Médoc, les quelque 250 foyers touchés par les feux de juillet ont pu retrouver un toit, notamment dans les meublés touristiques, d’où ils devront repartir avant l’été. De nombreux…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "76222d4d3122",
+   "titre": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+   "lien": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-15T15:57:03+00:00",
+   "extrait": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "4958881af675",
+   "titre": "Ground stop proves \"we have to get off old network,\" Transportation Secretary Sean Duffy says",
+   "lien": "https://www.cbsnews.com/video/ground-stop-proves-we-have-to-get-off-old-network-transportation-secretary-sean-duffy-says/",
+   "source": "CBS News",
+   "date": "2026-11-15T15:52:10+00:00",
+   "extrait": "As airways are still recovering from Friday's nationwide ground stop that led to a weekend of chaos, Transportation Secretary Sean Duffy told \"Face the Nation with Margaret Brennan\" that \"we've got…",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "80d28bd4d140",
+   "titre": "Au Niger, la détention de Moussa Kaka inquiète les défenseurs des droits humains",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261115-au-niger-la-d%C3%A9tention-de-moussa-kaka-inqui%C3%A8te-les-d%C3%A9fenseurs-des-droits-humains",
+   "source": "France 24",
+   "date": "2026-11-15T15:49:32+00:00",
+   "extrait": "Ancien correspondant de RFI au Niger, Moussa Kaka a été arrêté en août par les autorités militaires, qui n'ont officiellement annoncé sa détention qu'en octobre. Depuis plus de deux mois, plusieurs…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "bd27b6319073",
+   "titre": "Ground stop proves \"we have to get off old network,\" Duffy says",
+   "lien": "https://www.cbsnews.com/news/ground-stop-faa-telecom-network-sean-duffy-face-the-nation/",
+   "source": "CBS News",
+   "date": "2026-11-15T15:49:19+00:00",
+   "extrait": "Transportation Secretary Sean Duffy said that \"we have to get off old network, old telecom\" after a telecommunication outage led to a nationwide ground stop on Friday.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "874205b3f7ed",
+   "titre": "Une soirée en boîte de nuit pour favoriser les rencontres entre personnes handicapées : « On a échangé nos numéros, on va essayer de se revoir »",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/15/une-soiree-en-boite-de-nuit-pour-favoriser-les-rencontres-entre-personnes-handicapees-on-a-echange-nos-numeros-on-va-essayer-de-se-revoir_6811028_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-15T15:48:54+00:00",
+   "extrait": "Près de Montpellier, plus de 270 personnes ont participé à une fête organisée par l’établissement d’accueil médicalisé Le Hameau des Horizons. Le fruit d’une réflexion des résidents et du personnel…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "5bdfac60ad74",
+   "titre": "Open: This is \"Face the Nation with Margaret Brennan,\" Nov. 15, 2026",
+   "lien": "https://www.cbsnews.com/video/open-this-is-face-the-nation-with-margaret-brennan-nov-15-2026/",
+   "source": "CBS News",
+   "date": "2026-11-15T15:42:19+00:00",
+   "extrait": "This week on \"Face the Nation with Margaret Brennan,\" as the effects of Friday's nationwide ground stop are still being felt, Transportation Secretary Sean Duffy joins. Plus, as the U.S. loses its…",
+   "tags": [
+    "Politique",
+    "Santé"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "c1f66248f47f",
+   "titre": "Grièvement brûlée par son conjoint, une femme est morte près de Bordeaux",
+   "lien": "https://www.franceinfo.fr/societe/feminicides/grievement-brulee-par-son-conjoint-une-femme-est-morte-pres-de-bordeaux_8283656.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-15T15:41:35+00:00",
+   "extrait": "L'homme est mort dans l'incendie du domicile à Saint-Denis-de-Pile et la victime avait d'abord été \"évacuée en urgence\" au centre hospitalier de Bordeaux, avant de succomber à ses blessures.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "658dc5acebdd",
    "titre": "This week on \"Sunday Morning\" (Nov. 15)",
    "lien": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-15-2026/",
    "source": "CBS News",
-   "date": "2026-11-15T15:03:08+00:00",
+   "date": "2026-11-15T15:32:44+00:00",
    "extrait": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "adb2a4bdd05e",
+   "titre": "Après l’agression de journalistes de BFM-TV lors de la manifestation du 14 novembre à Lyon, une enquête ouverte pour violences en réunion",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/15/apres-l-agression-de-journalistes-de-bfm-tv-a-lyon-une-enquete-a-ete-ouverte-pour-violences-en-reunion_6811026_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-15T15:30:19+00:00",
+   "extrait": "Dimanche, l’une des journalistes de l’équipe visée a dit avoir « réellement craint pour [leurs] vies ». « Mon caméraman a été violemment projeté au sol, puis roué de coups. Certains sont allés…",
+   "tags": [
+    "Conflits",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "2de54d1cdadb",
+   "titre": "Nature: Sea lions in La Jolla, Calif.",
+   "lien": "https://www.cbsnews.com/video/nature-sea-lions-in-la-jolla-calif/",
+   "source": "CBS News",
+   "date": "2026-11-15T15:30:15+00:00",
+   "extrait": "We leave you this Sunday morning in the company of sea lions who call the waters off La Jolla, Calif., their home. Videographer: Carl Mrozek.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "41841c0e5d7c",
+   "titre": "Photos of the week",
+   "lien": "https://www.cbsnews.com/video/photos-of-the-week-111526/",
+   "source": "CBS News",
+   "date": "2026-11-15T15:27:04+00:00",
+   "extrait": "\"Sunday Morning\" looks at some of the most evocative images captured the week of Nov. 8-14, 2026.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "b71e56a44ca9",
+   "titre": "The Reader: A new review source for book lovers",
+   "lien": "https://www.cbsnews.com/news/the-reader-a-new-review-source-for-book-lovers/",
+   "source": "CBS News",
+   "date": "2026-11-15T15:26:10+00:00",
+   "extrait": "With most newspapers and wire services closing the book on sections devoted to book reviews, Washington Monthly introduces its new online resource, offering reviews, essays, and recommendations by…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "fd85efc70b89",
+   "titre": "The Reader: A new review source for book lovers",
+   "lien": "https://www.cbsnews.com/video/the-reader-a-new-review-source-for-book-lovers/",
+   "source": "CBS News",
+   "date": "2026-11-15T15:25:16+00:00",
+   "extrait": "Most newspapers and wire services have closed the book on sections devoted to book reviews. But Washington Monthly's new online resource, The Reader (co-founded by bestselling author Jonathan…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "c5d6e7170e2e",
+   "titre": "Billy Evans tells his side of \"You Can See Everything,\" Elizabeth Holmes' portrayal",
+   "lien": "https://www.cbsnews.com/news/billy-evans-on-you-can-see-everything-elizabeth-holmes/",
+   "source": "CBS News",
+   "date": "2026-11-15T15:24:55+00:00",
+   "extrait": "In his first TV interview, Billy Evans, partner of disgraced Theranos co-founder Elizabeth Holmes, talks about his characterization in the documentary \"You Can See Everything,\" as well as threats he…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "599a2be770ad",
+   "titre": "Min Jin Lee on \"American Hagwon\" and writing \"social novels\"",
+   "lien": "https://www.cbsnews.com/news/min-jin-lee-on-american-hagwon-and-writing-social-novels/",
+   "source": "CBS News",
+   "date": "2026-11-15T15:21:50+00:00",
+   "extrait": "The Korean-American novelist and bestselling author of \"Pachinko\" talks about her latest book, \"American Hagwon,\" part of her series chronicling the migration of Koreans around the world.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "06f1485ac749",
+   "titre": "Author Min Jin Lee on \"American Hagwon\"",
+   "lien": "https://www.cbsnews.com/video/author-min-jin-lee-on-american-hagwon/",
+   "source": "CBS News",
+   "date": "2026-11-15T15:19:19+00:00",
+   "extrait": "Korean-American novelist Min Jin Lee, bestselling author of \"Pachinko,\" talks with correspondent Jo Ling Kent about her latest book, \"American Hagwon,\" part of her series chronicling the migration…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "8675e017f178",
+   "titre": "Présidentielle 2027 : \"Cette primaire, je n'y participerai pas\", répète Edouard Philippe après l'appel de Gérard Larcher",
+   "lien": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-l-entourage-d-emmanuel-macron-etrille-les-candidats-qui-veulent-baisser-l-aide-financiere-a-l-ukraine-dont-marine-le-pen_8283293.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-15T15:16:05+00:00",
+   "extrait": "Le président du Sénat a proposé aux candidats de la droite et du centre de \"se retrouver dans les meilleurs délais\" pour évoquer \"la méthode de départage\" permettant d'aboutir à une candidature…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "8acb619bac80",
+   "titre": "U2 on 50 years and their duet with Dolly Parton",
+   "lien": "https://www.cbsnews.com/news/u2-carnaval-de-luz-dolly-parton/",
+   "source": "CBS News",
+   "date": "2026-11-15T15:12:14+00:00",
+   "extrait": "The Irish quartet celebrates its 50th birthday with \"Carnaval de Luz,\" their first album of new music in nearly nine years. Bono, The Edge, Adam Clayton and Larry Mullen Jr. talk about their song…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "3ade5724cc97",
+   "titre": "Le ministre de l'Education nationale se rend à Nantes lundi pour la réouverture du lycée Nelson-Mandela, en partie incendié le 1er octobre",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-ministre-de-l-education-nationale-se-rend-a-nantes-lundi-pour-la-reouverture-du-lycee-nelson-mandela-en-partie-incendie-le-1er-octobre_8283644.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-15T15:11:34+00:00",
+   "extrait": "L'établissement avait été en partie endommagé lors d'un blocage pendant le mouvement lycéen dont le sinistre est devenu l'un des premiers symboles des débordements survenus en marge de la…",
+   "tags": [
+    "Politique",
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "259ac4854113",
+   "titre": "U2 on 50 years and their duet with Dolly Parton",
+   "lien": "https://www.cbsnews.com/video/u2-on-50-years-and-their-duet-with-dolly-parton/",
+   "source": "CBS News",
+   "date": "2026-11-15T15:10:06+00:00",
+   "extrait": "The Irish quartet U2 is celebrating its 50th birthday with \"Carnaval de Luz,\" their first album of new music in nearly nine years. Bandmembers Bono, The Edge, Adam Clayton and Larry Mullen Jr. talk…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "55e7ed1a355f",
+   "titre": "La France et le Cambodge scellent leur \"partenariat renouvelé\" avec 29 accords",
+   "lien": "https://www.franceinfo.fr/monde/asie/la-france-et-le-cambodge-scellent-leur-partenariat-renouvele-avec-29-accords_8283617.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-15T15:06:22+00:00",
+   "extrait": "Les domaines de la santé, de la culture, du patrimoine, de la défense, mais aussi de l'énergie et de l'agroalimentaire sont concernés.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "france"
   },
   {
    "id": "e8c3c5b26765",
@@ -64,28 +296,6 @@
    "zone": "usa"
   },
   {
-   "id": "c5d6e7170e2e",
-   "titre": "Billy Evans tells his side of \"You Can See Everything,\" Elizabeth Holmes' portrayal",
-   "lien": "https://www.cbsnews.com/news/billy-evans-on-you-can-see-everything-elizabeth-holmes/",
-   "source": "CBS News",
-   "date": "2026-11-15T14:59:28+00:00",
-   "extrait": "In his first TV interview, Billy Evans, partner of disgraced Theranos co-founder Elizabeth Holmes, talks about his characterization in the documentary \"You Can See Everything,\" as well as threats he…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "8675e017f178",
-   "titre": "Présidentielle 2027 : \"Cette primaire, je n'y participerai pas\", répète Edouard Philippe après l'appel de Gérard Larcher",
-   "lien": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-l-entourage-d-emmanuel-macron-etrille-les-candidats-qui-veulent-baisser-l-aide-financiere-a-l-ukraine-dont-marine-le-pen_8283293.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-15T14:57:41+00:00",
-   "extrait": "Le président du Sénat a proposé aux candidats de la droite et du centre de \"se retrouver dans les meilleurs délais\" pour évoquer \"la méthode de départage\" permettant d'aboutir à une candidature…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "fb9303c76708",
    "titre": "How telecoms upgrade work sparked US flight chaos",
    "lien": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
@@ -106,6 +316,18 @@
    "extrait": "L'un des deux navires, \"un superpétrolier transportant plus de 2 millions de barils de pétrole brut\", a coulé.",
    "tags": [],
    "zone": "france"
+  },
+  {
+   "id": "c6f717fdbe76",
+   "titre": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+   "lien": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-15T14:56:21+00:00",
+   "extrait": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "monde"
   },
   {
    "id": "e199d2b605c9",
@@ -258,18 +480,6 @@
    "zone": "france"
   },
   {
-   "id": "55e7ed1a355f",
-   "titre": "La France et le Cambodge scellent leur \"partenariat renouvelé\" avec 29 accords",
-   "lien": "https://www.franceinfo.fr/monde/asie/la-france-et-le-cambodge-scellent-leur-partenariat-renouvele-avec-29-accords_8283617.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-15T14:29:53+00:00",
-   "extrait": "Les domaines de la santé, de la culture, du patrimoine, de la défense, mais aussi de l'énergie et de l'agroalimentaire sont concernés.",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "76c996a96aa2",
    "titre": "The sinking of the SS United States",
    "lien": "https://www.cbsnews.com/video/the-sinking-of-the-ss-united-states/",
@@ -403,6 +613,20 @@
    "zone": "monde"
   },
   {
+   "id": "8c7f0ba7a187",
+   "titre": "EN DIRECT, guerre en Ukraine : trois ‌navires commerciaux attaqués par des drones en mer ​Noire, « une violation du droit international », dénonce la Roumanie",
+   "lien": "https://www.lemonde.fr/international/live/2026/11/15/en-direct-guerre-en-ukraine-les-restrictions-d-acces-a-starshield-persistent-et-empechent-kiev-de-se-proteger-des-attaques-russes-dit-volodymyr-zelensky_6810982_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-15T13:48:24+00:00",
+   "extrait": "Il n’y a ⁠pas ‌eu de victimes et les ​équipages ont réussi à maîtriser les incendies dans ces navires, près du ‌canal de Sulina, l’un des bras du Danube, selon le gouvernement roumain. L’armée…",
+   "tags": [
+    "Politique",
+    "Conflits",
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "c7e011fee4e7",
    "titre": "Iran targets US military base in Bahrain with drone attack",
    "lien": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
@@ -501,6 +725,16 @@
    "source": "franceinfo",
    "date": "2026-11-15T13:08:10+00:00",
    "extrait": "Le rassemblement doit se dérouler au départ d'Azay-le-Brûlé, dans les Deux-Sèvres, pour rejoindre le site de Sainte-Soline à vélo ou en tracteur.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "6cfcbfa75695",
+   "titre": "\"Fragonard, 100 ans de collections et de savoir-faire\" à la Monnaie de Paris : objets d'art, costumes et tableaux du XVIIIe siècle à travers un parcours olfactif",
+   "lien": "https://www.franceinfo.fr/culture/mode/fragonard-100-ans-de-collections-et-de-savoir-faire-a-la-monnaie-de-paris-objets-d-art-costumes-et-tableaux-du-xviiie-siecle-a-travers-un-parcours-olfactif_8235469.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-15T13:07:29+00:00",
+   "extrait": "Pour la première fois à Paris, la maison Fragonard dévoile ses collections patrimoniales : peintures, flacons de parfum, bijoux, objets précieux et costumes composent un parcours foisonnant au cœur…",
    "tags": [],
    "zone": "france"
   },
@@ -1224,6 +1458,16 @@
    "zone": "france"
   },
   {
+   "id": "7662680b983b",
+   "titre": "Camille Chamois, philosophe : « Notre œil est raciste alors même que notre tête ne le sait pas »",
+   "lien": "https://www.lemonde.fr/livres/article/2026/11/15/camille-chamois-philosophe-notre-il-est-raciste-alors-meme-que-notre-tete-ne-le-sait-pas_6810996_3260.html",
+   "source": "Le Monde",
+   "date": "2026-11-15T08:00:04+00:00",
+   "extrait": "Le nouveau livre du philosophe offre une réflexion originale sur la manière dont se façonnent nos perceptions, sans que nous en ayons toujours conscience.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "c621e9c9e3dd",
    "titre": "Pour le président, la position de Marine Le Pen sur l'Ukraine \"est antipatriotique et irréaliste\", déclare l'entourage d'Emmanuel Macron",
    "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/le-president-veut-maintenir-l-ukraine-en-situation-de-donner-des-coups-alors-que-les-americains-s-occupent-de-l-enfoncer-affirme-l-entourage-d-emmanuel-macron_8283194.html#xtor=RSS-3-[lestitres]",
@@ -1547,19 +1791,6 @@
     "Conflits"
    ],
    "zone": "france"
-  },
-  {
-   "id": "76222d4d3122",
-   "titre": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-   "lien": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-15T03:21:04+00:00",
-   "extrait": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "monde"
   },
   {
    "id": "6f0bb5e13501",
@@ -3138,236 +3369,6 @@
    "extrait": "À Kandy, au Sri Lanka, ce jardin botanique réputé pour être l'un des plus beaux d'Asie abrite de nombreuses espèces tropicales protégées. Chaque année, il attire des centaines de milliers de…",
    "tags": [],
    "zone": "monde"
-  },
-  {
-   "id": "24a27860794e",
-   "titre": "Alaska elects first Democratic governor since 1998",
-   "lien": "https://www.cbsnews.com/news/alaska-governor-jkt-jonathan-kreiss-tomkins-election/",
-   "source": "CBS News",
-   "date": "2026-11-14T13:42:46+00:00",
-   "extrait": "Jonathan Kreiss-Tomkins, also known as JKT, campaigned on issues including affordability and funding of public schools",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "039c7818322a",
-   "titre": "Inondations à Gaza : l’UE exhorte Israël à garantir un accès humanitaire « immédiat » et « sans entrave »",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/14/gaza-l-union-europeenne-exhorte-israel-a-garantir-un-acces-immediat-et-sans-entrave-a-l-enclave-apres-des-inondations-importantes_6810313_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-14T13:42:04+00:00",
-   "extrait": "Depuis la fin de semaine dernière, des intempéries ont entraîné l’inondation de dizaines de milliers de tentes de personnes déplacées, et ont provoqué la mort d’au moins cinq personnes, selon les…",
-   "tags": [
-    "Conflits",
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "4da3dcbd5505",
-   "titre": "L'affaire Nvidia s'invite dans les discussions sur la sécurité de l'IA entre la Chine et les États-Unis",
-   "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261114-affaire-nvidia-invite-dans-discussions-s%C3%A9curit%C3%A9-ia-entre-chine-%C3%A9tats-unis",
-   "source": "France 24",
-   "date": "2026-11-14T13:18:56+00:00",
-   "extrait": "Le président américain Donald Trump et son homologue chinois Xi Jinping tenteront la semaine prochaine de dépasser l'affaire Nvidia pour trouver un terrain d'entente sur la sécurité en matière d'IA…",
-   "tags": [
-    "Politique",
-    "Tech"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "6722fc2091ca",
-   "titre": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
-   "lien": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
-   "source": "NPR",
-   "date": "2026-11-14T13:08:05+00:00",
-   "extrait": "This is the second time Alaskans voted down an effort to repeal the state's unique election system, which voters first approved in 2020. A repeal effort in 2024 also failed narrowly.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "116847493c40",
-   "titre": "Arnaud Viviant, chroniqueur du « Masque et la Plume », quitte l’émission en accusant France Inter de lui avoir « interdit de conseiller » le livre de Rima Hassan",
-   "lien": "https://www.lemonde.fr/actualite-medias/article/2026/11/14/arnaud-viviant-chroniqueur-du-masque-et-la-plume-annonce-quitter-l-emission-de-france-inter_6810280_3236.html",
-   "source": "Le Monde",
-   "date": "2026-11-14T13:04:14+00:00",
-   "extrait": "Le critique annonce son départ de l’émission, « la mort dans l’âme, après vingt-six ans ». « Pas de promotion pour les livres écrits par des élus en fonction », a réagi la radio, en condamnant les…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "266867ab2b7b",
-   "titre": "Man in his 70s diagnosed with heart defect usually found in infancy",
-   "lien": "https://www.cbsnews.com/news/heart-defect-cor-triatriatum-diagnosis/",
-   "source": "CBS News",
-   "date": "2026-11-14T13:00:15+00:00",
-   "extrait": "Carlos Perez's doctors didn't know why his heart was having trouble. Then a scan showed something they had never seen before.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "396dc7e69ce8",
-   "titre": "From the archives: An artistic labor of love",
-   "lien": "https://www.cbsnews.com/video/from-the-archives-mary-whyte-an-artistic-labor-of-love/",
-   "source": "CBS News",
-   "date": "2026-11-14T13:00:07+00:00",
-   "extrait": "Artist Mary Whyte is creating a record of those whose labors reflect a changing world. Correspondent Martha Teichner talked with Whyte about her watercolor portraits of men and women - a movie…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "69f5ccf037ec",
-   "titre": "En Guinée, les autorités s’attaquent à l’orpaillage illégal : « C’était devenu le Far West »",
-   "lien": "https://www.lemonde.fr/afrique/article/2026/11/14/en-guinee-les-autorites-s-attaquent-a-l-orpaillage-illegal-c-etait-devenu-le-far-west_6810250_3212.html",
-   "source": "Le Monde",
-   "date": "2026-11-14T13:00:02+00:00",
-   "extrait": "Le pouvoir de Mamadi Doumbouya a intensifié sa lutte contre les orpailleurs clandestins dans la région de Siguiri, l’une des plus grandes réserves d’or d’Afrique de l’Ouest. Depuis début novembre…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "7b1a85e40fdc",
-   "titre": "Perspective: A new kind of White House press secretary",
-   "lien": "https://www.npr.org/2026/11/14/nx-s1-6028743/perspective-a-new-kind-of-white-house-press-secretary",
-   "source": "NPR",
-   "date": "2026-11-14T13:00:00+00:00",
-   "extrait": "With the White House press secretary job still left unfilled, maybe an AI assistant might be the answer?",
-   "tags": [
-    "Politique",
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "0ad16a77b5c8",
-   "titre": "Équipe de France : premier couac pour Zidane !",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/caf%C3%A9-des-sports/20261114-%C3%A9quipe-france-premier-couac-pour-zidane",
-   "source": "France 24",
-   "date": "2026-11-14T12:59:13+00:00",
-   "extrait": "La France s'est inclinée face à l'Italie (3-1) en Ligue des nations, jeudi soir. C'est la première défaite de Zinedine Zidane à la tête des Bleus. Un équilibre est-il à retrouver ? L’absence de…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "1c0523da1de7",
-   "titre": "\"Je ne pensais quand même pas avoir un père nazi\" : Edith Pagot, née dans un Lebensborn",
-   "lien": "https://www.france24.com/fr/france/20261114-lebensborn-pouponniere-nazie-allemagne-enfants-seconde-guerre-mondiale-edith",
-   "source": "France 24",
-   "date": "2026-11-14T12:57:53+00:00",
-   "extrait": "Il y a 80 ans, en 1946, deux convois d'enfants, dont certains nés dans un Lebensborn, une pouponnière nazie, étaient accueillis à Commercy, dans la Meuse, en provenance d'Allemagne. Parmi eux se…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "c0bd079055e2",
-   "titre": "En Guinée, après l’expulsion des orpailleurs de Siguiri : \"Cette ville ne peut pas tenir sans eux\"",
-   "lien": "https://www.france24.com/fr/afrique/20261114-en-guin%C3%A9e-apr%C3%A8s-l-expulsion-des-orpailleurs-de-siguiri-cette-ville-ne-peut-pas-tenir-sans-eux",
-   "source": "France 24",
-   "date": "2026-11-14T12:57:25+00:00",
-   "extrait": "La décision, début novembre, des autorités guinéennes d’interdire l'orpaillage \"anarchique\" dans la région de Siguiri, a provoqué le départ de dizaines de milliers d’orpailleurs, en grande partie…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "ec31011032c9",
-   "titre": "\"Mon appli me dit que je suis à Lima\" : en Ukraine, le brouillage GPS pour détourner les missiles russes s'invite dans le quotidien des habitants",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-mon-appli-me-dit-que-je-suis-a-lima-en-ukraine-le-brouillage-gps-pour-detourner-les-missiles-russes-s-invite-dans-le-quotidien-des-habitants_8282297.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-14T12:55:35+00:00",
-   "extrait": "L’armée ukrainienne a mis au point un système de brouillage GPS pour détourner les missiles et les drones russes. Mais les faux signaux émis perturbent aussi les applications mobiles des habitants.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "97f2e78b897a",
-   "titre": "Prix littéraires : l’hégémonie de Gallimard fait grincer des dents dans l’édition",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/14/prix-litteraires-l-hegemonie-de-gallimard-fait-grincer-des-dents-dans-l-edition_6810249_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-14T12:54:18+00:00",
-   "extrait": "Le Goncourt, le Renaudot, le Femina et le Médicis ont couronné, en 2026, des auteurs de Madrigall, la maison mère de Gallimard, ce qui irrite les éditeurs concurrents, qui critiquent la composition…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "0a7817fcbc00",
-   "titre": "Les cinq BD et romans graphiques à croquer sans modération en novembre",
-   "lien": "https://www.franceinfo.fr/culture/bd/les-cinq-bd-et-romans-graphiques-a-croquer-sans-moderation-en-novembre_8277608.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-14T12:50:09+00:00",
-   "extrait": "\"Pour seul cortège\" d'Alfred à \"Foucault disparaît\" de Paul Auer et Benoît Schupp, en passant par \"Dead Man Walking\" signé Helen Prejean et \"Murder Ballad\" de Nicolas Pegon ou encore \"L'Ami…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "8cdb9b37d6d7",
-   "titre": "Au Cambodge, la pétanque séduit des milliers d'amateurs",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261114-au-cambodge-la-p%C3%A9tanque-s%C3%A9duit-des-milliers-d-amateurs",
-   "source": "France 24",
-   "date": "2026-11-14T12:47:38+00:00",
-   "extrait": "Introduite au Cambodge pendant la période coloniale, la pétanque s'est peu à peu enracinée dans le pays. Aujourd'hui, elle rassemble des milliers d'amateurs et continue de gagner du terrain, des…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "23f21e2d85c8",
-   "titre": "Abdel-Kader Guerz, maire de Dreux, est mort à 69 ans des suites d’un AVC",
-   "lien": "https://www.lemonde.fr/disparitions/article/2026/11/14/le-maire-de-dreux-abdel-kader-guerza-est-mort-a-69-ans_6810248_3382.html",
-   "source": "Le Monde",
-   "date": "2026-11-14T12:40:02+00:00",
-   "extrait": "L’édile, élu en mars 2026, avait été victime d’un accident vasculaire cérébral au début de novembre et était hospitalisé depuis, selon « L’Echo républicain ». Des membres de son équipe ont convergé…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "44d7b2d8e9d6",
-   "titre": "Au Pérou, Léon XIV retrouve Chiclayo, son ancien diocèse",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261114-au-p%C3%A9rou-l%C3%A9on-xiv-retrouve-chiclayo-son-ancien-dioc%C3%A8se",
-   "source": "France 24",
-   "date": "2026-11-14T12:38:52+00:00",
-   "extrait": "Le pape Léon XIV est de retour à Chiclayo, au Pérou, où il a longtemps exercé comme évêque. Une messe géante est organisée dans ce fief auquel le souverain pontife reste particulièrement attaché…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "90ccfbed90f7",
-   "titre": "En Ile-de-France, les usagers de la ligne J confrontés à des incidents en série : « Quand il y a des suppressions de trains, je ne vois pas mes enfants »",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/14/en-ile-de-france-les-usagers-de-la-ligne-j-confrontes-a-des-incidents-en-serie-quand-il-y-a-des-suppressions-de-trains-je-ne-vois-pas-mes-enfants_6810247_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-14T12:26:59+00:00",
-   "extrait": "« Crise des essieux », caténaires arrachées… Les accidents se sont succédé en 2026 sur cette ligne du Transilien qui part de la gare Saint-Lazare, à Paris, pour parcourir 174 kilomètres jusqu’aux…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "e0c74b890202",
-   "titre": "\"On a beaucoup manqué d'eau\" : frappés par la sécheresse, les producteurs de pommes espèrent maintenir leurs prix malgré des fruits plus petits",
-   "lien": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/reportage-on-a-beaucoup-manque-d-eau-frappes-par-la-secheresse-les-producteurs-de-pommes-esperent-maintenir-leurs-prix-malgre-des-fruits-plus-petits_8281583.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-14T12:21:34+00:00",
-   "extrait": "Sur les étals, la plupart des pommes sont plus petites que d'habitude. Une conséquence directe de la sécheresse et de l'été caniculaire.",
-   "tags": [
-    "Économie",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "fe42686e6b2a",
-   "titre": "Interdictions de manifestations, couvre-feux, parcours hors des centres-villes… Comment les préfets multiplient les mesures administratives en amont des mobilisations",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/interdictions-de-manifestations-couvre-feux-parcours-hors-des-centres-villes-comment-les-prefets-multiplient-les-mesures-administratives-en-amont-des-mobilisations_8274263.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-14T12:03:26+00:00",
-   "extrait": "Depuis le 1er octobre, 219 arrêtés concernant le mouvement lycéen ou les manifestations contre la vie chère ont été pris par la préfecture de police de Paris, d'après le décompte de franceinfo.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
   }
  ]
 }

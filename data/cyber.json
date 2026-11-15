@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-15T15:05:41+00:00",
+ "maj": "2026-11-15T16:05:43+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "bbb8a6727085",
+   "titre": "TSMC employee data breach linked to cloud provider",
+   "lien": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
+   "source": "BleepingComputer",
+   "date": "2026-11-15T15:23:48+00:00",
+   "extrait": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for…",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
   {
    "id": "e81cc58be3f9",
    "titre": "Aréas Assurances visé par une vente de données",
@@ -3400,17 +3411,6 @@
    "date": "2026-11-04T13:58:13+00:00",
    "extrait": "Sur TikTok, des jeux vidéo peuvent mener à des casinos illégaux. Analyse des redirections, risques et sanctions.",
    "tags": []
-  },
-  {
-   "id": "1aedc3ffafe5",
-   "titre": "US charges two Canadians accused of hacking US universities",
-   "lien": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/",
-   "source": "BleepingComputer",
-   "date": "2026-11-04T13:13:20+00:00",
-   "extrait": "A federal grand jury indicted two Canadians suspected of hacking multiple US universities and using the compromised systems to mine for cryptocurrency. [...]",
-   "tags": [
-    "Fuite de données"
-   ]
   }
  ]
 }
