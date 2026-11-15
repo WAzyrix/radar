@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-15T06:05:39+00:00",
+ "maj": "2026-11-15T07:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,52 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "e4c792dd4b0f",
+   "titre": "\"48 Hours\" show schedule",
+   "lien": "https://www.cbsnews.com/48-hours/episode-schedule/",
+   "source": "CBS News",
+   "date": "2026-11-15T07:05:04+00:00",
+   "extrait": "\"48 Hours\" uncovers the narrative behind true crime cases with unmatched reporting and suspense.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "08aeab16a330",
+   "titre": "Oregon community suspects foul play when beloved shopkeeper disappears",
+   "lien": "https://www.cbsnews.com/news/susan-phoenix-lane-fournier-mount-hood-oregon-murder-48-hours/",
+   "source": "CBS News",
+   "date": "2026-11-15T07:05:03+00:00",
+   "extrait": "When Susan \"Phoenix\" Lane and her two dogs went missing from Welches, Oregon, in the foothills of Mount Hood, her friends and family suspected foul play almost immediately.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "c621e9c9e3dd",
+   "titre": "Le président veut \"maintenir l'Ukraine en situation de donner des coups\", alors que \"les Américains s'occupent de l'enfoncer\", affirme l'entourage d'Emmanuel Macron",
+   "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/le-president-veut-maintenir-l-ukraine-en-situation-de-donner-des-coups-alors-que-les-americains-s-occupent-de-l-enfoncer-affirme-l-entourage-d-emmanuel-macron_8283194.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-15T06:37:50+00:00",
+   "extrait": "Les Américains \"se prétendent être des médiateurs\", mais ils ne travaillent pas en ce sens, observe l'entourage d'Emmanuel Macron auprès de France Inter.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "27306daacafe",
+   "titre": "Volodymyr Zelensky affirme que Washington a proposé des concessions territoriales en échange d'une adhésion de l'Ukraine à l'Otan",
+   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymy-zelensky-affirme-que-les-etats-unis-ont-propose-des-concessions-territoriales-en-echange-d-une-adhesion-de-kiev-a-l-otan_8282333.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-15T06:19:04+00:00",
+   "extrait": "Jared Kushner, gendre de Donald Trump et émissaire de Washington sur la guerre en Ukraine, a simplement affirmé sur X que \"plusieurs nouvelles idées ont émergé\" après deux jours de pourparlers entre…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "b6b371caf176",
    "titre": "L'Ukraine et la Russie bataillent dans l'espace pour se doter de constellations satellitaires souveraines",
    "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-et-la-russie-bataillent-dans-l-espace-pour-se-doter-de-constellations-satellitaires-souveraines_8279132.html#xtor=RSS-3-[lestitres]",
@@ -35,11 +81,33 @@
    "zone": "france"
   },
   {
+   "id": "2f801063ebcf",
+   "titre": "\"Ce n'est pas un simple jeu vidéo\" : comment les fans se préparent à la sortie de \"GTA VI\" après treize ans d'attente",
+   "lien": "https://www.franceinfo.fr/culture/jeux-video/gta-vi/temoignages-ce-n-est-pas-un-simple-jeu-video-comment-les-fans-se-preparent-a-la-sortie-de-gta-vi-apres-treize-ans-d-attente_8265593.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-15T05:49:52+00:00",
+   "extrait": "La franchise culte \"Grand Theft Auto\" a marqué de nombreux joueurs depuis sa création en 1997 par l'éditeur américain Rockstar Games. Pour profiter au mieux du nouvel opus, disponible jeudi…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "0240e1a86965",
+   "titre": "Finales ATP : entre les blessures des uns et les progrès des autres, l’élite du tennis se renouvelle",
+   "lien": "https://www.lemonde.fr/sport/article/2026/11/15/finales-atp-entre-les-blessures-des-uns-et-les-progres-des-autres-l-elite-du-tennis-se-renouvelle_6810989_3242.html",
+   "source": "Le Monde",
+   "date": "2026-11-15T05:30:21+00:00",
+   "extrait": "Quatre des huit joueurs engagés disputent pour la première fois le traditionnel tournoi de fin de saison, qui démarre le 15 novembre à Turin. Leur qualification tient autant à leurs performances…",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "20dc7ba1186c",
    "titre": "L’Arabie saoudite, un royaume pris en étau entre deux guerres, débordé par l’escalade des rivalités régionales",
    "lien": "https://www.lemonde.fr/international/article/2026/11/15/l-arabie-saoudite-un-royaume-pris-en-etau-entre-deux-guerres-deborde-par-l-escalade-des-rivalites-regionales_6810988_3210.html",
    "source": "Le Monde",
-   "date": "2026-11-15T05:30:12+00:00",
+   "date": "2026-11-15T05:30:01+00:00",
    "extrait": "Cible des représailles iraniennes et rattrapée par la guerre au Yémen, l’Arabie saoudite voit sa sécurité et ses appétits économiques mis à mal. Face à une protection américaine devenue incertaine…",
    "tags": [
     "Conflits"
@@ -57,12 +125,54 @@
    "zone": "france"
   },
   {
+   "id": "c726ee8e5649",
+   "titre": "\"Aya, pour l'exemple\" : un essai hybride passionnant sur Aya Nakamura, et les cultures qui lui ont ouvert la voie en France",
+   "lien": "https://www.franceinfo.fr/culture/livres/aya-pour-l-exemple-un-essai-hybride-passionnant-sur-aya-nakamura-et-les-cultures-qui-lui-ont-ouvert-la-voie-en-france_8274251.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-15T05:05:02+00:00",
+   "extrait": "La critique culturelle Christelle Bakima-Poundza livre un \"portrait d'une France aux rêves illimités\".",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "e351d16e9054",
    "titre": "Déserts médicaux : sur le terrain, avec la première promotion de « docteurs juniors » en médecine générale",
    "lien": "https://www.lemonde.fr/societe/article/2026/11/15/deserts-medicaux-sur-le-terrain-avec-la-premiere-promotion-de-docteurs-juniors-en-medecine-generale_6810976_3224.html",
    "source": "Le Monde",
    "date": "2026-11-15T05:00:10+00:00",
    "extrait": "Près de 2 700 jeunes généralistes, les premiers pour lesquels l’internat de médecine générale passe de trois à quatre ans, ont commencé leur stage, le 2 novembre, pour la grande majorité dans des…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "f5a7e212b032",
+   "titre": "Au Masters de Turin, Arthur Fils devra confirmer son nouveau statut après une année en dents de scie",
+   "lien": "https://www.franceinfo.fr/sports/tennis/arthur-fils/au-masters-de-turin-arthur-fils-devra-confirmer-son-nouveau-statut-apres-une-annee-en-dents-de-scie_8274734.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-15T05:00:01+00:00",
+   "extrait": "Qualifié pour le Masters de fin d'année, regroupant les huit meilleurs joueurs de la saison, Arthur Fils devra malgré tout prouver qu'il a bien sa place parmi l'élite du tennis mondial.",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "1af4811290be",
+   "titre": "Avec le chansigne, la musique s’écoute aussi en langue des signes",
+   "lien": "https://www.lemonde.fr/m-perso/article/2026/11/15/avec-le-chansigne-la-musique-s-ecoute-aussi-en-langue-des-signes_6810940_4497916.html",
+   "source": "Le Monde",
+   "date": "2026-11-15T04:30:10+00:00",
+   "extrait": "Au Nancy Jazz Pulsations, le collectif 10 Doigts en cavale a chansigné le concert de Miki pour des spectateurs sourds et malentendants. Une pratique en plein essor mais encore fragile. Derrière les…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "883ce7f404de",
+   "titre": "Face à la Turquie, Kylian Mbappé à la recherche du temps perdu avec Zinédine Zidane",
+   "lien": "https://www.franceinfo.fr/sports/foot/ligue-des-nations/face-a-la-turquie-kylian-mbappe-a-la-recherche-du-temps-perdu-avec-zinedine-zidane_8282852.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-15T04:30:01+00:00",
+   "extrait": "Absent lors des quatre derniers matchs, le capitaine de l’équipe de France n’a joué que 59 minutes sous les ordres du nouveau sélectionneur.",
    "tags": [],
    "zone": "france"
   },
@@ -84,30 +194,10 @@
    "titre": "Présidentielle 2027 : Teddy Riner découvre le combat politique, entre popularité et agacement",
    "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/15/presidentielle-2027-teddy-riner-decouvre-le-combat-politique-entre-popularite-et-agacement_6810907_6205049.html",
    "source": "Le Monde",
-   "date": "2026-11-15T04:15:02+00:00",
+   "date": "2026-11-15T04:15:01+00:00",
    "extrait": "Le judoka a passé son samedi après-midi au salon du Made in France alors que sa campagne connaît déjà des premières turbulences. Au milieu d’une forêt de micros et caméras, le tout récent candidat a…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "e4c792dd4b0f",
-   "titre": "\"48 Hours\" show schedule",
-   "lien": "https://www.cbsnews.com/48-hours/episode-schedule/",
-   "source": "CBS News",
-   "date": "2026-11-15T04:12:27+00:00",
-   "extrait": "\"48 Hours\" uncovers the narrative behind true crime cases with unmatched reporting and suspense.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "08aeab16a330",
-   "titre": "Oregon community suspects foul play when beloved shopkeeper disappears",
-   "lien": "https://www.cbsnews.com/news/susan-phoenix-lane-fournier-mount-hood-oregon-murder-48-hours/",
-   "source": "CBS News",
-   "date": "2026-11-15T04:02:24+00:00",
-   "extrait": "When Susan \"Phoenix\" Lane and her two dogs went missing from Welches, Oregon, in the foothills of Mount Hood, her friends and family suspected foul play almost immediately.",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "498540ccd508",
@@ -190,6 +280,16 @@
     "Sport"
    ],
    "zone": "france"
+  },
+  {
+   "id": "284cc2a60742",
+   "titre": "Murder at Mount Hood",
+   "lien": "https://www.cbsnews.com/video/111426-48-hours-murder-at-mount-hood/",
+   "source": "CBS News",
+   "date": "2026-11-15T02:00:00+00:00",
+   "extrait": "When a beloved Oregon woman goes missing, her community in the mountains bands together to help solve the case. \"48 Hours\" correspondent Peter Van Sant reports.",
+   "tags": [],
+   "zone": "usa"
   },
   {
    "id": "f49be85f4dbf",
@@ -1547,6 +1647,18 @@
    "zone": "france"
   },
   {
+   "id": "1a7572a6017c",
+   "titre": "Des câbles en cuivre vétustes à l'origine de l'interruption du trafic aérien aux États-Unis",
+   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261114-des-c%C3%A2bles-en-cuivre-v%C3%A9tustes-%C3%A0-l-origine-de-l-interruption-du-trafic-a%C3%A9rien-aux-%C3%A9tats-unis",
+   "source": "France 24",
+   "date": "2026-11-14T15:07:29+00:00",
+   "extrait": "La suspension exceptionnelle du trafic aérien aux États-Unis a été causée par une opération \"de routine\" de remplacement de vieux câbles en cuivre par la fibre optique, selon le ministre des…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "1aeee7186061",
    "titre": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky affirme que les Etats-Unis ont évoqué des concessions territoriales en échange d’une adhésion à l’OTAN",
    "lien": "https://www.lemonde.fr/international/live/2026/11/14/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-que-les-etats-unis-ont-evoque-des-concessions-territoriales-en-echange-d-une-adhesion-a-l-otan_6808609_3210.html",
@@ -2031,19 +2143,6 @@
    "date": "2026-11-14T11:33:09+00:00",
    "extrait": "En Europe, les anguilles ont diminué de quelque 90 % depuis les années 1980, et même de plus de 99 % par rapport aux années 1960.",
    "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "27306daacafe",
-   "titre": "Guerre en Ukraine : les Etats-Unis ont proposé des concessions territoriales en échange d'une adhésion de Kiev à l'Otan, selon Volodymyr Zelensky",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymy-zelensky-affirme-que-les-etats-unis-ont-propose-des-concessions-territoriales-en-echange-d-une-adhesion-de-kiev-a-l-otan_8282333.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-14T11:14:15+00:00",
-   "extrait": "Le président ukrainien a également annoncé vendredi que son pays était en pourparlers pour obtenir \"des garanties de sécurité spécifiques de la part de l'Otan et de l'UE\".",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
    "zone": "france"
   },
   {
@@ -3275,106 +3374,6 @@
    "extrait": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
    "tags": [],
    "zone": "monde"
-  },
-  {
-   "id": "a88b3eef0044",
-   "titre": "Rugby : les Bleus signent un succès majeur face aux Springboks",
-   "lien": "https://www.france24.com/fr/sports/20261113-rugby-les-bleus-signent-un-succ%C3%A8s-majeur-face-aux-springboks",
-   "source": "France 24",
-   "date": "2026-11-13T23:03:59+00:00",
-   "extrait": "Le XV de France a remporté une victoire majuscule, la plus marquante depuis le Mondial 2023, en battant les doubles champions du monde sud-africains vendredi au Stade de France (21-19). Malgré de…",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "138d754db3d6",
-   "titre": "La cagnotte pour Sonia, héroïne du 13-Novembre, a atteint plus de 500 000 euros au moment de sa clôture",
-   "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attaques-du-13-novembre-a-paris/la-cagnotte-pour-sonia-heroine-du-13-novembre-a-atteint-plus-de-500-000-euros-au-moment-de-sa-cloture_8281238.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-13T23:02:02+00:00",
-   "extrait": "En novembre 2015, ses informations avaient permis aux enquêteurs de localiser la cachette, à Saint-Denis, d'Abdelhamid Abaaoud. Cette femme vit depuis sous une nouvelle identité.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "6c4824fa6943",
-   "titre": "Commercial pilot explains what crews are going through amid nationwide ground stop",
-   "lien": "https://www.cbsnews.com/video/commercial-airline-pilot-explains-what-crews-are-going-through-amid-faa-ground-stop/",
-   "source": "CBS News",
-   "date": "2026-11-13T23:01:31+00:00",
-   "extrait": "Captain Laura Einsetler joins \"The Takeout\" to break down what she imagines flight crews are going through amid Friday's nationwide FAA ground stop. Following Ensetler's comments, CBS News's Lana…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "93e2a4b9f246",
-   "titre": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-   "lien": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-13T23:00:31+00:00",
-   "extrait": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "7fffefda9823",
-   "titre": "Aux Etats-Unis, l'administration fédérale de l'aviation ordonne l'arrêt de tous les vols à cause d'un \"problème de communication\"",
-   "lien": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-l-administration-federale-de-l-aviation-ordonne-l-arret-de-tous-les-vols-a-cause-d-un-probleme-de-communication_8281691.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-13T23:00:03+00:00",
-   "extrait": "Le ministre américain des Transports, Sean Duffy, a expliqué vendredi que des techniciens \"enquêtent\" actuellement \"sur le problème\".",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "5f352160968a",
-   "titre": "What we know about nationwide FAA ground stop, Mullin says no indication of attack | Special Report",
-   "lien": "https://www.cbsnews.com/video/what-we-know-about-nationwide-faa-ground-stop-mullin-says-no-indication-of-attack-special-report/",
-   "source": "CBS News",
-   "date": "2026-11-13T22:57:11+00:00",
-   "extrait": "A telecommunication outage prompted the FAA to issue a nationwide ground stop Friday, DHS Secretary Markwayne Mullin said. Tony Dokoupil anchors a CBS News special report.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "1d08d37b0060",
-   "titre": "Panne mondiale chez Microsoft : l'Europe sous dépendance ?",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/la-question-qui-f%C3%A2che/20261113-panne-mondiale-chez-microsoft-l-europe-sous-d%C3%A9pendance",
-   "source": "France 24",
-   "date": "2026-11-13T22:56:50+00:00",
-   "extrait": "La panne de Microsoft illustre une nouvelle fois la vulnérabilité européenne. Comment mettre fin à la dépendance? On en parle avec Martin Hullin de la Fondation Bertelsmann.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "5ca52e59842f",
-   "titre": "Le gouvernement veut systématiser les sanctions disciplinaires contre les élèves impliqués dans les blocages de lycées",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-gouvernement-veut-systematiser-les-sanctions-disciplinaires-contre-les-eleves-impliques-dans-les-blocages-de-lycees_8281724.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-13T22:54:13+00:00",
-   "extrait": "Les ministres de l'Intérieur et de l'Education nationale souhaitent, dans les cas les plus graves, interdire l'accès à l'établissement, le temps de la procédure.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "96103edccf3d",
-   "titre": "France - Afrique du Sud : le résumé de la victoire sur le fil des Bleus face aux Springboks",
-   "lien": "https://www.lemonde.fr/sport/article/2026/11/13/france-afrique-du-sud-le-resume-de-la-victoire-sur-le-fil-des-bleus-face-aux-springboks_6809393_3242.html",
-   "source": "Le Monde",
-   "date": "2026-11-13T22:52:51+00:00",
-   "extrait": "Le XV de France a remporté, vendredi au Stade de France, le choc de ce Championnat des nations face à l’Afrique du Sud (21-19). Les Bleus prennent une option pour la finale de cette nouvelle…",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "france"
   }
  ]
 }
