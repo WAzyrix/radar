@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-15T10:05:39+00:00",
+ "maj": "2026-11-15T11:05:42+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,8 +24,20 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "88be0dfa72ce",
+   "titre": "OpenAI lance Daybreak, des agents IA qui piratent vos applis pour les sécuriser",
+   "lien": "https://korben.info/openai-lance-daybreak-des-agents-ia-qui-piratent-vos-applis-pour-les-securiser.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-15T09:26:21+00:00",
+   "extrait": "Lors de l'événement Cyber at the Frontier, OpenAI a présenté Daybreak Red Team, des agents IA qui testent l'intrusion sur vos applis web, et Daybreak Defense Factory, qui propose des correctifs en…",
+   "tags": [
+    "Faille",
+    "IA"
+   ]
+  },
+  {
    "id": "960f41318ea9",
-   "titre": "Stolen Fireworks AI Key Led to Cursor Data Breach and Trojanized Claude Code Extension",
+   "titre": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
    "lien": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
    "source": "The Hacker News",
    "date": "2026-11-15T08:22:04+00:00",
@@ -3411,17 +3423,6 @@
    "extrait": "Revolut affirme avoir réduit d'environ 90 % sa facture d'IA de codage en un an, en remplaçant Claude Code par GLM, un modèle ouvert du chinois Z.ai auto-hébergé sur 56 cartes Nvidia B200. Le coût…",
    "tags": [
     "IA"
-   ]
-  },
-  {
-   "id": "40a5a2749a72",
-   "titre": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
-   "lien": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
-   "source": "The Hacker News",
-   "date": "2026-11-04T08:17:11+00:00",
-   "extrait": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure. Also known as Fluffy Wolf, the threat actor has a history of…",
-   "tags": [
-    "Fuite de données"
    ]
   }
  ]
