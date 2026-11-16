@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-16T10:05:38+00:00",
+ "maj": "2026-11-16T11:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,30 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "b9812e4ced01",
+   "titre": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
+   "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/",
+   "source": "BleepingComputer",
+   "date": "2026-11-16T11:00:00+00:00",
+   "extrait": "Anthropic recently rolled out Claude Mythos 5.2 to selected partners and Fable 5.2 to regular users, with improvements to coding and reasoning. But we also noticed some interesting cybersecurity…",
+   "tags": [
+    "Faille",
+    "IA"
+   ]
+  },
+  {
+   "id": "f0b3319bef62",
+   "titre": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
+   "lien": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
+   "source": "The Hacker News",
+   "date": "2026-11-16T09:32:57+00:00",
+   "extrait": "A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the readings used to detect high GPU…",
+   "tags": [
+    "Malware",
+    "Linux"
+   ]
+  },
   {
    "id": "7d4f6584a3c9",
    "titre": "New NoisyTCP vulnerability lets attackers crash Linux servers",
@@ -3390,30 +3414,6 @@
    "tags": [
     "CVE",
     "Faille"
-   ]
-  },
-  {
-   "id": "9c8bdd95a7d5",
-   "titre": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
-   "lien": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
-   "source": "BleepingComputer",
-   "date": "2026-11-04T16:58:46+00:00",
-   "extrait": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials…",
-   "tags": [
-    "Fuite de données",
-    "Malware"
-   ]
-  },
-  {
-   "id": "78de6ffe4e2d",
-   "titre": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
-   "lien": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
-   "source": "The Hacker News",
-   "date": "2026-11-04T16:06:43+00:00",
-   "extrait": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements…",
-   "tags": [
-    "Jailbreak",
-    "IA"
    ]
   }
  ]
