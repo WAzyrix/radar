@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-16T20:05:50+00:00",
+ "maj": "2026-11-16T21:26:25+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "f7229d91014f",
+   "titre": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+   "lien": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
+   "source": "BleepingComputer",
+   "date": "2026-11-16T20:59:44+00:00",
+   "extrait": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed…",
+   "tags": [
+    "Fuite de données",
+    "IA"
+   ]
+  },
   {
    "id": "f66e964ba9d3",
    "titre": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
@@ -3386,17 +3398,6 @@
     "Fuite de données",
     "Malware",
     "Linux"
-   ]
-  },
-  {
-   "id": "6b1d9cd5a096",
-   "titre": "DigiCert data breach exposes customer information, identity documents",
-   "lien": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
-   "source": "BleepingComputer",
-   "date": "2026-11-05T16:12:46+00:00",
-   "extrait": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity…",
-   "tags": [
-    "Fuite de données"
    ]
   }
  ]

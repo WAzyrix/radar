@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-16T20:05:50+00:00",
+ "maj": "2026-11-16T21:26:25+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,31 +22,207 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "8956cf8b412c",
+   "titre": "Iran rules out nuclear site inspections until war ends",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
+   "source": "CBS News",
+   "date": "2026-11-16T21:14:17+00:00",
+   "extrait": "Iran says it will not let U.N. inspectors return to assess damaged nuclear sites until the war with the U.S. is \"permanently ended.\"",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "2f6fa16debcf",
+   "titre": "U.S. loses measles elimination status as cases surge",
+   "lien": "https://www.cbsnews.com/video/us-loses-measles-elimination-status-as-cases-surge/",
+   "source": "CBS News",
+   "date": "2026-11-16T21:13:34+00:00",
+   "extrait": "The U.S. has officially lost its measles elimination status after two years of rising cases. Dr. Peter Chin-Hong, infectious disease internist as UCSF, joins CBS News to discuss.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "31bb4a9fd038",
+   "titre": "Marine Le Pen réitère auprès de l'ambassadeur ukrainien que la France ne pourrait \"plus aider financièrement\" Kiev si elle est élue",
+   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/marine-le-pen-reitere-aupres-de-l-ambassadeur-ukrainien-que-la-france-ne-pourrait-plus-aider-financierement-kiev-si-elle-est-elue_8285462.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-16T21:09:09+00:00",
+   "extrait": "La candidate du RN à la présidentielle a cependant assuré qu'elle \"tiendrait les engagements pris jusqu'à présent par la France\".",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "5d3b25d05c72",
+   "titre": "Nvidia board not interested in bringing Jensen Huang back to company, source says",
+   "lien": "https://www.cbsnews.com/video/nvidia-board-not-interested-in-bringing-jensen-huang-back-to-company-source-says/",
+   "source": "CBS News",
+   "date": "2026-11-16T21:02:21+00:00",
+   "extrait": "Nvidia board members are not interested in bringing Jensen Huang back to the company as CEO or in any other capacity at the chipmaker, according to a source directly familiar with their thinking…",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "7f29ac7daca9",
+   "titre": "\"C'est pire que d'habitude\", \"Ça va être un bazar\"… La fermeture de l'A13 pour neuf mois provoque déjà des bouchons en Île-de-France et inquiète les communes",
+   "lien": "https://www.franceinfo.fr/economie/transports/c-est-pire-que-d-habitude-ca-va-etre-un-bazar-la-fermeture-de-l-a13-pour-neuf-mois-provoque-deja-des-bouchons-en-ile-de-france-et-inquiete-les-communes_8285477.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-16T21:00:41+00:00",
+   "extrait": "Trouver un autre chemin pour aller travailler, c’est le casse-tête qui commence pour les habitués de l’A13, fermée depuis lundi 16 novembre matin à la sortie de Paris, en direction de la Normandie…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "58d368dd2bd9",
    "titre": "Major U.S. banks report widespread service outages",
    "lien": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/",
    "source": "CBS News",
-   "date": "2026-11-16T20:03:48+00:00",
+   "date": "2026-11-16T20:58:19+00:00",
    "extrait": "Customers at Bank of America, JPMorgan Chase and other major financial institutions are reporting difficulty accessing their accounts.",
    "tags": [],
    "zone": "usa"
   },
   {
+   "id": "fd6bc50eac5a",
+   "titre": "Le projet de cinq pays européens d’ouvrir un centre de retour au Rwanda traduit la bascule de la politique européenne en matière d’immigration",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/16/le-projet-de-cinq-pays-europeens-d-ouvrir-un-centre-de-retour-au-rwanda-traduit-la-bascule-de-la-politique-europeenne-en-matiere-d-immigration_6812426_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-16T20:52:34+00:00",
+   "extrait": "L’Allemagne, l’Autriche, le Danemark, la Grèce et les Pays-Bas ont annoncé, lundi 16 novembre, la création d’une plateforme au Rwanda, où pourront être renvoyés les demandeurs d’asile déboutés.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "6fd61cdbd4f1",
+   "titre": "Trump says he doesn't take any responsibility for nationwide ground stop",
+   "lien": "https://www.cbsnews.com/video/trump-says-he-doesnt-take-any-responsibility-for-nationwide-ground-stop/",
+   "source": "CBS News",
+   "date": "2026-11-16T20:50:22+00:00",
+   "extrait": "President Trump said Monday that he doesn't take any responsibility for Friday's nationwide ground stop that lasted for hours. CBS News' Olivia Rinaldi, Jared Ochacher and Taurean Small report while…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "66ca8ef414bc",
+   "titre": "Le pape Léon XIV conclut sa tournée en Amérique du Sud",
+   "lien": "https://www.lemonde.fr/international/video/2026/11/16/le-pape-leon-xiv-conclut-sa-tournee-en-amerique-du-sud_6812425_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-16T20:49:24+00:00",
+   "extrait": "À 71 ans, le premier pape américain, qui possède également la nationalité péruvienne, a parcouru l’Uruguay, l’Argentine et le Pérou, un itinéraire éprouvant, un mois à peine après une opération pour…",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "d32b117e7de9",
+   "titre": "Painting honors 250th anniversary of \"First Salute\"",
+   "lien": "https://www.cbsnews.com/video/painting-honors-250th-anniversary-of-first-salute/",
+   "source": "CBS News",
+   "date": "2026-11-16T20:40:14+00:00",
+   "extrait": "250 years ago Monday, the fort on the tiny Caribbean island of Sint Eustatius fired a cannon salute in response to the salute of an American ship, the Andrew Doria. This marked what's called \"The…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "16f498a805ca",
+   "titre": "Tennessee names new corrections chief after botched executions",
+   "lien": "https://www.cbsnews.com/news/josh-smith-tennessee-corrections-chief-executions/",
+   "source": "CBS News",
+   "date": "2026-11-16T20:39:33+00:00",
+   "extrait": "Josh Smith has been appointed to lead the Department of Corrections in Tennessee following the botched execution of Christa Pike last month.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "78b88fd57bff",
+   "titre": "Top federal prosecutor in Houston accused of breaking ethics rules",
+   "lien": "https://www.cbsnews.com/news/watchdog-group-ethics-complaint-top-federal-prosecutor-houston/",
+   "source": "CBS News",
+   "date": "2026-11-16T20:36:00+00:00",
+   "extrait": "A nonprofit watchdog group filed an ethics complaint on Monday against the top federal prosecutor in Houston, alleging he has violated professional conduct rules by threatening to prosecute…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
    "id": "00146cd8bad4",
-   "titre": "Forensic expert says his analysis raises doubts about how Epstein died",
+   "titre": "Forensic expert says his analysis of autopsy photos suggest Epstein was killed",
    "lien": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-11-16T20:03:30+00:00",
+   "date": "2026-11-16T20:33:57+00:00",
    "extrait": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
    "tags": [],
    "zone": "monde"
+  },
+  {
+   "id": "aacfb8210ed9",
+   "titre": "Highlights from Billy Evans' first TV interview",
+   "lien": "https://www.cbsnews.com/news/billy-evans-elizabeth-holmes-life-first-interview-highlights/",
+   "source": "CBS News",
+   "date": "2026-11-16T20:33:00+00:00",
+   "extrait": "Billy Evans discusses the documentary's portrayal of Elizabeth Holmes, why he walked away from a potential big payday, and the challenges of raising their two children while she's behind bars.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "5b7d7d91f0c6",
+   "titre": "\"La conversation n'a pas été facile\" : de premiers pourparlers se sont tenus entre l'Ukraine, l'Europe et les Etats-Unis, annonce Volodymyr Zelensky",
+   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-conversation-n-a-pas-ete-facile-de-premiers-pourparlers-se-sont-tenus-entre-l-ukraine-l-europe-et-les-etats-unis-annonce-volodymyr-zelensky_8285417.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-16T20:23:42+00:00",
+   "extrait": "Des négociateurs d'Allemagne, de France, d'Italie, de Pologne et du Royaume-Uni ont participé à ces discussions en ligne.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "2276c1e1158b",
+   "titre": "Au procès des parents de l’inconnue de l’A10, un réquisitoire sobre, subtil et pédagogue",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/16/au-proces-des-parents-de-l-inconnue-de-l-a10-un-requisitoire-sobre-subtil-et-pedagogue_6812394_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-16T20:19:08+00:00",
+   "extrait": "Les deux représentants de l’accusation ont requis vingt ans de réclusion criminelle contre Halima El Bakhti et quatorze ans contre Ahmed Touloub.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "8eef990e1ef6",
+   "titre": "High court rejects challenge to Maryland gun ban in sensitive places",
+   "lien": "https://www.cbsnews.com/news/supreme-court-maryland-gun-laws-sensitive-places/",
+   "source": "CBS News",
+   "date": "2026-11-16T20:10:03+00:00",
+   "extrait": "The Supreme Court left in place a lower court decision that upheld the measure banning guns in sensitive places.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "fd8d3516ce38",
+   "titre": "Mobilisation du 17 novembre : des trains et des ports seront perturbés en raison d’un appel à la grève",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/16/mobilisation-du-17-novembre-des-trains-et-des-ports-seront-perturbes-en-raison-d-un-appel-a-la-greve_6812393_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-16T20:08:58+00:00",
+   "extrait": "Certaines lignes des réseaux TER en Auvergne-Rhône-Alpes, Bourgogne-Franche-Comté, Bretagne, Centre-Val de Loire, Hauts-de-France, Nouvelle-Aquitaine, Occitanie et Pays de la Loire seront concernées…",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "e28a56bd61ad",
    "titre": "These are the last midterm races to be decided",
    "lien": "https://www.cbsnews.com/news/2026-midterm-election-house-senate-projections-toss-up/",
    "source": "CBS News",
-   "date": "2026-11-16T20:00:58+00:00",
+   "date": "2026-11-16T20:00:00+00:00",
    "extrait": "Democrats won sizable House and Senate majorities in the 2026 midterm elections, but the exact margins are unclear because some races haven't been projected yet. Here's where the results stand.",
    "tags": [
     "Politique"
@@ -62,6 +238,26 @@
    "extrait": "Le groupe automobile français a annoncé un plan de départs volontaires concernant 1 000 personnes ainsi que 2 000 créations de postes d’ici à deux à trois ans. Une dizaine de sites seront concernés…",
    "tags": [],
    "zone": "france"
+  },
+  {
+   "id": "fac91c926575",
+   "titre": "Maileva : nouvelle cyberattaque contre une société française",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261116-maileva-nouvelle-cyberattaque-contre-une-soci%C3%A9t%C3%A9-fran%C3%A7aise",
+   "source": "France 24",
+   "date": "2026-11-16T19:57:51+00:00",
+   "extrait": "C'est le plus récent piratage informatique d'une société française : Maileva, filiale de La Poste, s'est vu dérober les coordonnées de 22 millions de clients (nom, prénom et adresse postale). Elle…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "3a3431a6a26e",
+   "titre": "Several major U.S. banks reporting widespread service outages",
+   "lien": "https://www.cbsnews.com/video/several-major-us-banks-reporting-widespread-service-outages/",
+   "source": "CBS News",
+   "date": "2026-11-16T19:57:38+00:00",
+   "extrait": "Customers at Bank of America, JPMorgan Chase and other major banks are reporting widespread service outages. CBS News' Jo Ling Kent reports.",
+   "tags": [],
+   "zone": "usa"
   },
   {
    "id": "9623fabc2b7a",
@@ -96,23 +292,11 @@
    "zone": "france"
   },
   {
-   "id": "8956cf8b412c",
-   "titre": "Iran rules out nuclear site inspections until war ends",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
-   "source": "CBS News",
-   "date": "2026-11-16T19:48:29+00:00",
-   "extrait": "Iran says it will not let U.N. inspectors return to assess damaged nuclear sites until the war with the U.S. is \"permanently ended.\"",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "ffdcd57134cb",
    "titre": "Narcobanditisme : pourquoi Amine Oualane et Karim Harrat sont condamnés à la réclusion criminelle à perpétuité",
    "lien": "https://www.lemonde.fr/societe/article/2026/11/16/narcobanditisme-pourquoi-amine-oualane-et-karim-harrat-sont-condamnes-a-la-reclusion-criminelle-a-perpetuite_6812326_3224.html",
    "source": "Le Monde",
-   "date": "2026-11-16T19:34:20+00:00",
+   "date": "2026-11-16T19:34:19+00:00",
    "extrait": "Les deux hommes sont reconnus coupables d’avoir organisé l’assassinat de trois concurrents, dont le frère du militant Amine Kessaci, qui voit dans le verdict « un message à la narcocratie ».",
    "tags": [],
    "zone": "france"
@@ -150,6 +334,18 @@
     "Politique"
    ],
    "zone": "france"
+  },
+  {
+   "id": "5f6743c78354",
+   "titre": "L’Ukraine au pied du mur ?",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261116-l-ukraine-au-pied-du-mur",
+   "source": "France 24",
+   "date": "2026-11-16T19:19:41+00:00",
+   "extrait": "Kiev fait face à un moment décisif. Tandis que l’aide financière à l’Ukraine est remise en question dans la campagne présidentielle en France mais aussi au sein de l’Europe, les Etats-Unis proposent…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
   },
   {
    "id": "349134aed1b0",
@@ -211,16 +407,6 @@
     "Conflits"
    ],
    "zone": "france"
-  },
-  {
-   "id": "16f498a805ca",
-   "titre": "Tennessee names new corrections chief after botched executions",
-   "lien": "https://www.cbsnews.com/news/josh-smith-tennessee-corrections-chief-executions/",
-   "source": "CBS News",
-   "date": "2026-11-16T19:00:59+00:00",
-   "extrait": "Josh Smith has been appointed to lead the Department of Corrections in Tennessee following the botched execution of Christa Pike last month.",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "f2f6aaeccad2",
@@ -288,6 +474,18 @@
    "zone": "usa"
   },
   {
+   "id": "a32a96225458",
+   "titre": "Emmanuel Macron assure avoir fait de son mieux malgré des \"erreurs\"",
+   "lien": "https://www.france24.com/fr/france/20261116-macron-assure-avoir-fait-de-son-mieux-malgr%C3%A9-des-erreurs",
+   "source": "France 24",
+   "date": "2026-11-16T18:35:29+00:00",
+   "extrait": "Emmanuel Macron a posté, lundi, un message sur X en forme de bilan pour les 10 ans de l'annonce de sa première candidature à l'Élysée. \"J'ai fait de mon mieux\", a-t-il assuré, tout en concédant…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "644a7208a9f1",
    "titre": "Nvidia : les Etats-Unis cherchent à bloquer l’accès de la Chine aux puces américaines par le biais de pays tiers",
    "lien": "https://www.lemonde.fr/international/article/2026/11/16/nvidia-les-etats-unis-cherchent-a-bloquer-l-acces-de-la-chine-aux-puces-americaines-par-le-biais-de-pays-tiers_6812260_3210.html",
@@ -322,13 +520,25 @@
    "zone": "usa"
   },
   {
+   "id": "eae7fc4cbd99",
+   "titre": "COP31: les lobbys pèsent sur les négociations",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261116-cop31-les-lobbys-p%C3%A8sent-sur-les-n%C3%A9gociations",
+   "source": "France 24",
+   "date": "2026-11-16T18:14:05+00:00",
+   "extrait": "Les négociations à Antalya entrent dans la dernière ligne droite. Le collectif \"Kick Big Polluters Out\" a dénombré plus d'une centaine de groupes d'influences liés aux énergies fossiles accrédités…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
    "id": "32ad86504bca",
-   "titre": "EN DIRECT, présidentielle 2027 | Pouvoir d’achat : suivez le débat télévisé entre Gabriel Attal, Raphaël Glucksmann, Marine Le Pen, Jean-Luc Mélenchon et Bruno Retailleau",
+   "titre": "EN DIRECT, débat de la présidentielle 2027 sur LCI : baisse de la CSG, de la TVA, blocage des marges, taxation des méga héritages… les cinq candidats confrontent leurs mesures sur le pouvoir d’achat et la précarité",
    "lien": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/11/16/en-direct-presidentielle-2027-suivez-dans-notre-live-le-debat-entre-gabriel-attal-raphael-glucksmann-marine-le-pen-jean-luc-melenchon-et-bruno-retailleau-sur-la-vie-chere_6811633_6205049.html",
    "source": "Le Monde",
    "date": "2026-11-16T18:05:33+00:00",
-   "extrait": "Après avoir donné des éclairages sur la vie chère, le pouvoir d’achat et la précarité avec nos journalistes et l’économiste Mathieu Plane, lundi après-midi, nous suivons en direct le débat entre…",
-   "tags": [],
+   "extrait": "Gabriel Attal, Raphaël Glucksmann, Marine Le Pen, Jean-Luc Mélenchon et Bruno Retailleau débattent depuis 20 h 20 sur TF1 puis LCI. « Financement magique », « foire aux taxes », « cadeaux fiscaux…",
+   "tags": [
+    "Économie"
+   ],
    "zone": "france"
   },
   {
@@ -1643,18 +1853,6 @@
    "date": "2026-11-16T14:51:00+00:00",
    "extrait": "English singer-songwriter Raye is up for 11 awards at the 2027 Grammys, followed by Spanish singer Rosalía​ with nine nominations.",
    "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "8eef990e1ef6",
-   "titre": "High court rejects challenge to Maryland gun ban in sensitive places",
-   "lien": "https://www.cbsnews.com/news/supreme-court-maryland-gun-laws-sensitive-places/",
-   "source": "CBS News",
-   "date": "2026-11-16T14:49:41+00:00",
-   "extrait": "The Supreme Court left in place a lower court decision that upheld the measure banning guns in sensitive places.",
-   "tags": [
-    "Justice"
-   ],
    "zone": "usa"
   },
   {
@@ -3211,211 +3409,6 @@
    "extrait": "Pour son dernier match de groupe en Ligue des nations, l'équipe de France devra éviter la défaite contre la Turquie à Bordeaux pour s'assurer une place en quarts de finale. De retour de blessure…",
    "tags": [],
    "zone": "monde"
-  },
-  {
-   "id": "bb602d10d872",
-   "titre": "4 NFL officials work 2 games each due to ground stop, a rarity",
-   "lien": "https://www.cbsnews.com/news/4-nfl-officials-2-games-each-rarity-faa-ground-stop/",
-   "source": "CBS News",
-   "date": "2026-11-16T08:11:00+00:00",
-   "extrait": "Four NFL officials worked two games Sunday — a rarity stemming from Friday's nationwide ground stop ordered by the FAA that threw airlines' schedules into complete disarray.",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "750e69ddf89f",
-   "titre": "EN DIRECT, présidentielle 2027 : témoignages, analyses graphiques... Suivez notre journée consacrée à la vie chère",
-   "lien": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/11/16/en-direct-presidentielle-2027-decouvrez-les-enseignements-de-la-nouvelle-enquete-fractures-francaises-une-grande-etude-sur-l-etat-d-esprit-des-francais-a-cinq-mois-de-l-election_6811633_6205049.html",
-   "source": "Le Monde",
-   "date": "2026-11-16T08:00:05+00:00",
-   "extrait": "Après la quatorzième édition de notre enquête quantitative annuelle « Fractures françaises », suivez notre live consacré à la vie chère, au pouvoir d’achat et à la précarité. Nous vous proposerons…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "0a8d239c2f8a",
-   "titre": "Faux sites de précommande, téléchargements piégés… Attention aux arnaques avant la sortie du jeu GTA VI",
-   "lien": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-faux-sites-de-precommande-telechargements-pieges-attention-aux-arnaques-avant-la-sortie-du-jeu-gta-6_8263358.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-16T07:53:16+00:00",
-   "extrait": "À quelques jours de la sortie très attendue de GTA VI, prévue jeudi 19 novembre, les escrocs profitent de l'impatience des joueurs. De faux sites de vente et de prétendues versions gratuites du jeu…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "eaa123f00064",
-   "titre": "Un courrier sur la fertilité est envoyé à partir de lundi à tous les Français de 29 ans pour les informer sur la santé reproductive",
-   "lien": "https://www.franceinfo.fr/sante/le-courrier-sur-la-fertilite-est-envoye-a-tous-les-francais-de-29-ans-pour-les-informer-sur-la-sante-reproductive_8284199.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-16T07:51:56+00:00",
-   "extrait": "Ce courrier aborde notamment le sujet de la contraception pour ceux qui ne veulent pas d’enfant mais aussi les consultations spécialisées de fertilité pour les couples.",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "873c591e7b1c",
-   "titre": "\"Prendre les médias pour cible, c'est vouloir bâillonner le débat public\", dénonce le directeur général de la chaîne LCI",
-   "lien": "https://www.franceinfo.fr/economie/medias/prendre-les-medias-pour-cible-c-est-vouloir-baillonner-le-debat-public-denonce-le-directeur-general-de-la-chaine-lci_8284409.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-16T07:47:19+00:00",
-   "extrait": "Guillaume Debré s'est exprimé lundi sur France Inter, après les agressions de journalistes en marge de manifestations. Il demande une protection supplémentaire et apporte son soutien aux…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "5648cbb83a1f",
-   "titre": "La situation autour du budget 2027 \"devient intenable\", préviennent des présidents de départements avant leur rendez-vous avec le Premier ministre",
-   "lien": "https://www.franceinfo.fr/economie/budget/la-situation-autour-du-budget-2027-devient-intenable-previennent-des-presidents-de-departements-avant-leur-rendez-vous-avec-le-premier-ministre_8284391.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-16T07:38:02+00:00",
-   "extrait": "\"C'est au moins la troisième année consécutive\" que le gouvernement demande un effort budgétaire aux départements, déplore notamment auprès de France Culture le président LR de Saône-et-Loire.",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "5bb90f51a820",
-   "titre": "Des résultats prometteurs pour une thérapie qui permet de freiner les symptômes du syndrome de Rett",
-   "lien": "https://www.franceinfo.fr/sante/info-radio-france-des-resultats-prometteurs-pour-une-therapie-qui-permet-de-freiner-les-symptomes-du-syndrome-de-rett_8284385.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-16T07:36:17+00:00",
-   "extrait": "Cette maladie génétique rare affectent généralement les jeunes filles et provoque un handicap mental ainsi que des atteintes motrices. La perspective de ce nouveau traitement ouvre la voie à une…",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "1355b6d618d3",
-   "titre": "La Chine confirme un sommet trilatéral entre Xi Jinping, Donald Trump et Vladimir Poutine jeudi pour discuter \"de la paix mondiale\"",
-   "lien": "https://www.franceinfo.fr/monde/chine/la-chine-confirme-un-sommet-trilateral-entre-xi-jinping-donald-trump-et-vladimir-poutine-jeudi-sans-en-preciser-l-ordre-du-jour_8284367.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-16T07:33:26+00:00",
-   "extrait": "La guerre en Ukraine ne devrait pas être au menu des discussions alors que le président américain aimerait aborder la réduction des arsenaux d'armes nucléaires dans le monde.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "0471bd7e65c6",
-   "titre": "US basketball player arrested with 34kg of cannabis at Nigerian airport",
-   "lien": "https://www.bbc.co.uk/news/articles/cj93rggenq4xo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-16T07:24:45+00:00",
-   "extrait": "The anti-drugs agency says the American attempted to leave the airport, abandoning his luggage with the drugs.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "b37d67579924",
-   "titre": "\"Je suis content de retourner en cours\" : à Nantes, le lycée Nelson Mandela rouvre ses portes, six semaines après l'incendie qui a touché l'établissement",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/je-suis-content-de-retourner-en-cours-a-nantes-le-lycee-nelson-mandela-rouvre-ses-portes-six-semaines-apres-l-incendie-qui-a-touche-l-etablissement_8284331.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-16T07:20:19+00:00",
-   "extrait": "Un mois et demi après l'incendie qui a ravagé une partie de l'établissement, les 1 700 élèves du lycée retrouvent leurs salles de classe lundi. Franceinfo a rencontré un élève de première qui est…",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "124f7cad32d3",
-   "titre": "Ligue des nations : la France bat la Turquie et se qualifie pour les quarts",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261116-ligue-des-nations-france-bat-turquie-se-qualifie-quarts",
-   "source": "France 24",
-   "date": "2026-11-16T07:13:35+00:00",
-   "extrait": "L’équipe de France n’a pas brillé mais a battu la Turquie (2-1) pour la dernière journée de Ligue des nations. Grâce à cette victoire difficile, les Bleus terminent en tête du groupe A1 et sont…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "92c201e415a2",
-   "titre": "\"Quelque chose s'est fissuré entre la France et une partie croissante des Français de confession juive\", dénonce l'American Jewish Committee",
-   "lien": "https://www.franceinfo.fr/societe/antisemitisme/quelque-chose-s-est-fissure-entre-la-france-et-une-partie-croissante-des-francais-de-confession-juive-denonce-l-american-jewish-committee_8284355.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-16T07:09:53+00:00",
-   "extrait": "Anne-Sophie Sebban-Bécache, vice-présidente de l'antenne Europe de l'American Jewish Committee était l'invitée de France Inter. Elle ressent le \"sentiment d'une forme d'impunité face à…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "28288f78ef15",
-   "titre": "À la Fifa, l'improbable remontada de Gianni Infantino",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261116-fifa-l-improbable-remontada-de-gianni-infantino",
-   "source": "France 24",
-   "date": "2026-11-16T07:05:34+00:00",
-   "extrait": "À la une de la presse, ce lundi 16 novembre, la mobilisation, en masse, hier, à Prague, en République tchèque, pour défendre l’indépendance des médias publics. La rencontre annoncée de Xi Jinping…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "a2540b5b678e",
-   "titre": "Francophonie : l'élection du secrétaire général reportée, Macron salue un \"compromis\"",
-   "lien": "https://www.france24.com/fr/france/20261116-francophonie-oif-vote-%C3%A9lection-secr%C3%A9taire-g%C3%A9n%C3%A9ral-louise-mushikiwabo-rwanda-rd-congo-juliana-lumumba-dacian-ciolos-coumba-ba",
-   "source": "France 24",
-   "date": "2026-11-16T07:01:33+00:00",
-   "extrait": "L'élection du secrétaire général de l'Organisation internationale de la Francophonie a été reportée d'un an lundi à Phnom Penh, au Cambodge. Après deux mandats de Louise Mushikiwabo, la République…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "821c54c5ee8e",
-   "titre": "Au Mexique, le plus puissant baron de la drogue, Miguel Angel Félix Gallardo, est mort après 37 ans d'emprisonnement",
-   "lien": "https://www.franceinfo.fr/societe/drogue/le-plus-puissant-baron-mexicain-de-la-drogue-miguel-angel-felix-gallardo-est-mort-apres-37-ans-d-emprisonnement_8284346.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-16T06:54:04+00:00",
-   "extrait": "A la fin des années 1970, il avait notamment été l'un des fondateurs du cartel de Guadalajara, considéré comme la première grande organisation criminelle du pays et qui a établi les bases du mode…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "1f66a3bcb7d5",
-   "titre": "A Prague, 400 000 manifestants dénoncent une réforme de l’audiovisuel public tchèque",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/16/a-prague-400-000-manifestants-denoncent-une-reforme-de-l-audiovisuel-public-tcheque_6811567_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-16T06:52:30+00:00",
-   "extrait": "Par crainte que l’indépendance des médias publics soit remise en cause par une loi supprimant son financement par la redevance, une foule immense s’est rassemblée dimanche lors de la plus grande…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "acc0ae9c8b84",
-   "titre": "🔴 En direct : 600 drones ukrainiens lancés sur Moscou, le pont de Crimée touché par une frappe",
-   "lien": "https://www.france24.com/fr/europe/20261116-ukraine-en-direct-russie-600-drones-lanc%C3%A9s-sur-moscou-maire-capitale",
-   "source": "France 24",
-   "date": "2026-11-16T06:50:10+00:00",
-   "extrait": "",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "9742b1316176",
-   "titre": "\"C'est la reconnaissance de cette culture fromagère\" : le comté 24 mois du Fort des Rousses dans le Jura élu meilleur fromage du monde",
-   "lien": "https://www.franceinfo.fr/culture/cuisine-et-gastronomie/c-est-la-reconnaissance-de-cette-culture-fromagere-le-comte-24-mois-du-fort-des-rousses-dans-le-jura-elu-meilleur-fromage-du-monde_8284337.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-16T06:47:57+00:00",
-   "extrait": "Parmi plus de 5 000 fromages, un comté 24 mois du Jura s'est distingué lors du World Cheese Awards, ce qui récompense l'ensemble de la filière fromagère qui \"existe depuis des siècles et même des…",
-   "tags": [],
-   "zone": "france"
   }
  ]
 }
