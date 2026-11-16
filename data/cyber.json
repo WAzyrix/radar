@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-16T19:05:40+00:00",
+ "maj": "2026-11-16T20:05:50+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "f66e964ba9d3",
+   "titre": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
+   "lien": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
+   "source": "BleepingComputer",
+   "date": "2026-11-16T19:57:13+00:00",
+   "extrait": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
+   "tags": [
+    "Fuite de données",
+    "IA"
+   ]
+  },
   {
    "id": "296630e154f7",
    "titre": "WhiteArmor recrute des complices pour infiltrer les entreprises",
@@ -3386,15 +3398,6 @@
    "tags": [
     "Fuite de données"
    ]
-  },
-  {
-   "id": "dad53d7e3ed5",
-   "titre": "Closing the Identity Gap at the Service Desk",
-   "lien": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
-   "source": "BleepingComputer",
-   "date": "2026-11-05T15:00:10+00:00",
-   "extrait": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional…",
-   "tags": []
   }
  ]
 }
