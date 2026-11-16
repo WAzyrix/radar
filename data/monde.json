@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-16T22:05:41+00:00",
+ "maj": "2026-11-16T22:33:04+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,95 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "58d368dd2bd9",
+   "titre": "Major U.S. banks report widespread service outages",
+   "lien": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/",
+   "source": "CBS News",
+   "date": "2026-11-16T22:27:40+00:00",
+   "extrait": "Customers at Bank of America, JPMorgan Chase and other major financial institutions are reporting difficulty accessing their accounts.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "8217f30dada4",
+   "titre": "United Airlines says it's experiencing a \"widespread system outage\"",
+   "lien": "https://www.cbsnews.com/news/united-airlines-system-outage-departing-flights/",
+   "source": "CBS News",
+   "date": "2026-11-16T22:25:35+00:00",
+   "extrait": "It wasn't immediately clear what parts of the airline's systems were affected, but United apologized to customers for the inconvenience on social media.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "f68728ab51d0",
+   "titre": "EN DIRECT, débat de la présidentielle 2027 : les cinq candidats s’affrontent sur les retraites ; Marine Le Pen cible la Ligue des droits de l’homme, « un ramassis de gauchistes »",
+   "lien": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/11/16/en-direct-debat-de-la-presidentielle-2027-les-cinq-candidats-s-affrontent-sur-les-retraites-marine-le-pen-cible-la-ligue-des-droits-de-l-homme-un-ramassis-de-gauchistes_6811633_6205049.html",
+   "source": "Le Monde",
+   "date": "2026-11-16T22:21:54+00:00",
+   "extrait": "Gabriel Attal, Raphaël Glucksmann, Marine Le Pen, Jean-Luc Mélenchon et Bruno Retailleau débattent depuis 20 h 20 sur TF1 puis LCI. « Financement magique », « foire aux taxes », « cadeaux fiscaux…",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "349134aed1b0",
+   "titre": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+   "lien": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-16T22:21:27+00:00",
+   "extrait": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+   "tags": [
+    "Politique",
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "61fadd90d377",
+   "titre": "Ex-staffers claim lack of enforcement, \"chaos\" under Lutnick",
+   "lien": "https://www.cbsnews.com/news/howard-lutnick-commerce-department-chips-chaos-former-employees/",
+   "source": "CBS News",
+   "date": "2026-11-16T22:21:21+00:00",
+   "extrait": "Some former Commerce Department officials are describing Howard Lutnick's tenure as secretary as being marked by \"chaos,\" \"micromanaging,\" and what they allege are failures to act on evidence of…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "52b5114f8cf6",
+   "titre": "Cinq pays dévoilent leur projet de \"hub de retour\" au Rwanda, pour des personnes migrantes expulsées de l'Union européenne",
+   "lien": "https://www.franceinfo.fr/monde/europe/migrants/cinq-pays-devoilent-leur-projet-de-hub-de-retour-au-rwanda-pour-des-personnes-migrantes-expulsees-de-l-union-europeenne_8285039.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-16T22:06:32+00:00",
+   "extrait": "L'initiative, dénoncée par les défenseurs des droits humains, a été présentée lors d'une conférence de presse en Autriche.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "2f3e3028b5a9",
+   "titre": "California sues OpenAI over hacking risks",
+   "lien": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
+   "source": "NPR",
+   "date": "2026-11-16T22:06:22+00:00",
+   "extrait": "The state's attorney general started investigating OpenAI after the Hugging Face attack and now says this attack was \"entirely foreseeable\" due to OpenAI's poor security practices.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "287ae338fdaa",
+   "titre": "L’Assemblée nationale adopte un texte pour débloquer l’épargne salariale, à la veille d’une nouvelle mobilisation pour le pouvoir d’achat",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/16/l-assemblee-nationale-adopte-un-texte-pour-debloquer-l-epargne-salariale-a-la-veille-d-une-nouvelle-mobilisation-pour-le-pouvoir-d-achat_6812558_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-16T22:05:22+00:00",
+   "extrait": "Les députés de gauche ont dénoncé un dispositif qui ne crée pas de pouvoir d’achat supplémentaire et ne concerne qu’une partie des salariés, le jugeant « inégalitaire » et « inefficace ».",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "c8b62db92250",
    "titre": "Crise sociale : \"le gouvernement se met le doigt dans l'œil\" s'il anticipe une mobilisation moindre mardi, selon la CGT",
    "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mouvement-lyceen-le-lycee-nelson-mandela-rouvre-ses-portes-a-nantes-six-semaines-apres-l-incendie-dont-il-a-ete-victime_8284130.html#xtor=RSS-3-[lestitres]",
@@ -32,16 +121,6 @@
     "Politique"
    ],
    "zone": "france"
-  },
-  {
-   "id": "58d368dd2bd9",
-   "titre": "Major U.S. banks report widespread service outages",
-   "lien": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/",
-   "source": "CBS News",
-   "date": "2026-11-16T21:52:42+00:00",
-   "extrait": "Customers at Bank of America, JPMorgan Chase and other major financial institutions are reporting difficulty accessing their accounts.",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "3113dd7895bf",
@@ -92,16 +171,6 @@
    "zone": "monde"
   },
   {
-   "id": "61fadd90d377",
-   "titre": "Ex-staffers claim lack of enforcement, \"chaos\" under Lutnick",
-   "lien": "https://www.cbsnews.com/news/howard-lutnick-commerce-department-chips-chaos-former-employees/",
-   "source": "CBS News",
-   "date": "2026-11-16T21:27:00+00:00",
-   "extrait": "Some former Commerce Department officials are describing Howard Lutnick's tenure as secretary as being marked by \"chaos,\" \"micromanaging,\" and what they allege are failures to act on evidence of…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "9646fcfcf7b5",
    "titre": "Un troisième porte-avions américain, le « Theodore-Roosevelt », est arrivé au Moyen-Orient",
    "lien": "https://www.lemonde.fr/international/article/2026/11/16/un-troisieme-porte-avions-americain-le-theodore-roosevelt-est-arrive-au-moyen-orient_6812491_3210.html",
@@ -134,6 +203,18 @@
     "Santé"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "d8555ecb749b",
+   "titre": "Statue de la Vierge vandalisée à Porto-Vecchio : des peines de prison ferme requises",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/16/en-corse-une-peine-de-prison-ferme-requise-pour-la-degradation-de-la-statue-de-la-vierge-a-porto-vecchio_6812458_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-16T21:12:50+00:00",
+   "extrait": "Deux jeunes travailleurs saisonniers, l’un ayant simulé des actes sexuels sur le monument et l’autre ayant filmé et publié la vidéo sur les réseaux sociaux, comparaissaient ce lundi en…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
   },
   {
    "id": "31bb4a9fd038",
@@ -444,19 +525,6 @@
    "extrait": "Kiev fait face à un moment décisif. Tandis que l’aide financière à l’Ukraine est remise en question dans la campagne présidentielle en France mais aussi au sein de l’Europe, les Etats-Unis proposent…",
    "tags": [
     "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "349134aed1b0",
-   "titre": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-   "lien": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-16T19:16:52+00:00",
-   "extrait": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-   "tags": [
-    "Politique",
-    "Tech"
    ],
    "zone": "monde"
   },
@@ -1353,16 +1421,6 @@
     "Politique",
     "Économie"
    ],
-   "zone": "france"
-  },
-  {
-   "id": "52b5114f8cf6",
-   "titre": "Cinq pays dévoilent leur projet de \"hub de retour\" au Rwanda, pour des personnes migrantes expulsées de l'Union européenne",
-   "lien": "https://www.franceinfo.fr/monde/europe/migrants/cinq-pays-devoilent-leur-projet-de-hub-de-retour-au-rwanda-pour-des-personnes-migrantes-expulsees-de-l-union-europeenne_8285039.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-16T16:08:24+00:00",
-   "extrait": "L'initiative, dénoncée par les défenseurs des droits humains, a été présentée lors d'une conférence de presse à Vienne (Autriche).",
-   "tags": [],
    "zone": "france"
   },
   {
@@ -3343,64 +3401,6 @@
     "Politique",
     "Climat"
    ],
-   "zone": "france"
-  },
-  {
-   "id": "e767a90a84e9",
-   "titre": "Le XV de France héroïque, la reine Andreeva, les Bleus qualifiés : les infos sport du week-end",
-   "lien": "https://www.france24.com/fr/sports/20261116-xv-france-rugby-andreeva-tennis-football-bleus-qualification-zidane",
-   "source": "France 24",
-   "date": "2026-11-16T09:13:18+00:00",
-   "extrait": "L'équipe de France s'est qualifiée dimanche pour les ⁠quarts de finale ​de la Ligue des nations à la suite de sa victoire contre la Turquie (2-1), malgré une prestation mitigée. Le XV de France a…",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "7fa3286b37be",
-   "titre": "\"Je me suis longtemps caché derrière la provocation et la grivoiserie\" : Gérard Depardieu \"adresse ses excuses\" après avoir renoncé à son procès en appel pour agressions sexuelles",
-   "lien": "https://www.franceinfo.fr/culture/cinema/depardieu/je-me-suis-longtemps-cache-derriere-la-provocation-et-la-grivoiserie-gerard-depardieu-adresse-ses-excuses-apres-avoir-renonce-a-son-proces-en-appel-pour-agressions-sexuelles_8284445.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-16T09:01:13+00:00",
-   "extrait": "L'acteur devait être jugé en appel à partir de lundi pour deux agressions sexuelles commises lors du tournage du film \"Les Volets verts\".",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "f83a676d74f0",
-   "titre": "Bahrain says it intercepted Iranian strikes, Tehran targets U.S. assets",
-   "lien": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/",
-   "source": "CBS News",
-   "date": "2026-11-16T09:00:31+00:00",
-   "extrait": "The attacks come after the U.S. carried out minor strikes on Iran's Qeshm island in recent weeks.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "3f559fd5b458",
-   "titre": "La Grèce multiplie les mesures pour attirer les grosses fortunes et les hedge funds",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/16/la-grece-multiplie-les-mesures-pour-attirer-les-grosses-fortunes-et-les-hedge-funds_6811670_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-16T09:00:21+00:00",
-   "extrait": "Un nouveau régime fiscal taxe désormais les bonus et les plus-values ​​réalisés par les gestionnaires des fonds spéculatifs à 5 %, contre 15 % précédemment. Un taux plus intéressant que dans les…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "379365a6783f",
-   "titre": "L’œuf mayonnaise fait son huitième championnat, entre tradition et haute voltige",
-   "lien": "https://www.lemonde.fr/m-perso/article/2026/11/16/l-uf-mayonnaise-fait-son-huitieme-championnat-entre-tradition-et-haute-voltige_6811668_4497916.html",
-   "source": "Le Monde",
-   "date": "2026-11-16T09:00:12+00:00",
-   "extrait": "« La France buissonnière ». Début novembre, au Mans, huit chefs ont rivalisé d’inventivité autour de ce classique des bistrots, lors d’une sélection régionale pour le championnat du monde, qui aura…",
-   "tags": [],
    "zone": "france"
   }
  ]
