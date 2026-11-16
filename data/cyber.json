@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-16T08:05:42+00:00",
+ "maj": "2026-11-16T09:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "a60b8a453d05",
+   "titre": "Microsoft pushes Windows emergency updates to fix activation failures",
+   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/",
+   "source": "BleepingComputer",
+   "date": "2026-11-16T08:26:52+00:00",
+   "extrait": "Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates. [...]",
+   "tags": [
+    "Windows"
+   ]
+  },
   {
    "id": "f159cf23a7b2",
    "titre": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
@@ -3402,17 +3413,6 @@
    "extrait": "mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly…",
    "tags": [
     "Fuite de données"
-   ]
-  },
-  {
-   "id": "d6dd46466a93",
-   "titre": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
-   "lien": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
-   "source": "BleepingComputer",
-   "date": "2026-11-04T15:00:10+00:00",
-   "extrait": "A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation…",
-   "tags": [
-    "Malware"
    ]
   }
  ]
