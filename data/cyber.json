@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-16T11:05:39+00:00",
+ "maj": "2026-11-16T12:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,15 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "7a50b6f63907",
+   "titre": "Australian retail giant Coles investigates cybersecurity incident",
+   "lien": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
+   "source": "BleepingComputer",
+   "date": "2026-11-16T11:18:09+00:00",
+   "extrait": "Coles Group Limited, Australia's second-largest retailer, is investigating what it described as a \"cyber security incident\" that has not impacted the company's stores. [...]",
+   "tags": []
+  },
   {
    "id": "b9812e4ced01",
    "titre": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
@@ -3402,18 +3411,6 @@
    "tags": [
     "Faille",
     "Linux"
-   ]
-  },
-  {
-   "id": "1b9b96d402ef",
-   "titre": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
-   "lien": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
-   "source": "The Hacker News",
-   "date": "2026-11-04T17:00:38+00:00",
-   "extrait": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS…",
-   "tags": [
-    "CVE",
-    "Faille"
    ]
   }
  ]

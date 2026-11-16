@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-16T11:05:39+00:00",
+ "maj": "2026-11-16T12:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,325 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "8d5a143784b6",
+   "titre": "Five EU countries expected to announce migrant deportation centre in Rwanda",
+   "lien": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-16T11:55:57+00:00",
+   "extrait": "Germany, Denmark, Austria, Greece and the Netherlands are expected to announce a \"return hub\" for failed asylum seekers.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "dd353d2809b6",
+   "titre": "Agressions sexuelles : Depardieu se désiste de son procès en appel",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-agressions-sexuelles-depardieu-se-d%C3%A9siste-de-son-proc%C3%A8s-en-appel",
+   "source": "France 24",
+   "date": "2026-11-16T11:53:06+00:00",
+   "extrait": "\"J'assume cette condamnation\" : Gérard Depardieu a renoncé lundi à son procès en appel pour agressions sexuelles sur deux femmes lors du tournage du film \"Les Volets verts\", présentant des \"excuses…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "4163a4597260",
+   "titre": "Thanksgiving travel likely to dip a bit due to prices, AAA says",
+   "lien": "https://www.cbsnews.com/news/thanksgiving-travel-likely-dip-prices/",
+   "source": "CBS News",
+   "date": "2026-11-16T11:48:36+00:00",
+   "extrait": "Pricey plane tickets and expensive gasoline are expected to keep some Americans from traveling this Thanksgiving, but not enough to make much difference in airport security lines and highway…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "7af9782f0210",
+   "titre": "\"Des étincelles tombaient du ciel comme de la pluie\" : autour d'Antalya, la ville turque hôte de la COP31, la population éprouvée par les incendies à répétition",
+   "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/reportage-des-etincelles-tombaient-du-ciel-comme-de-la-pluie-la-cop31-a-l-epreuve-des-incendies-a-repetition-dans-la-region-d-antalya_8276642.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-16T11:47:40+00:00",
+   "extrait": "La zone côtière turque est de plus en plus confrontée à des feux de forêt dévastateurs, favorisés par le réchauffement climatique. Les pompiers locaux se tournent vers la COP pour répondre à…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "98f139fb7abc",
+   "titre": "Drug lord who orchestrated murder of U.S. agent dies at 80",
+   "lien": "https://www.cbsnews.com/news/miguel-angel-felix-gallardo-dies-drug-lord-behind-us-agent-murder-age-80/",
+   "source": "CBS News",
+   "date": "2026-11-16T11:46:48+00:00",
+   "extrait": "Miguel Angel Felix Gallardo, the architect of modern Mexican drug trafficking, was known as \"the boss of bosses.\"",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "349134aed1b0",
+   "titre": "Jensen Huang allies campaign to reinstate the former Nvidia boss",
+   "lien": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-16T11:45:40+00:00",
+   "extrait": "Tech leaders, including Elon Musk, are among those backing a campaign to \"Bring Jensen Back\".",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "8901c38213f2",
+   "titre": "La vente et la consommation de cocaïne atteignent des sommets en France, selon une étude de l’OFDT",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/16/la-vente-et-la-consommation-de-cocaine-atteignent-des-sommets-en-france-selon-une-etude-de-l-ofdt_6811703_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-16T11:44:51+00:00",
+   "extrait": "En 2025, la livraison à domicile reste prisée des clients, selon l’OFDT et devient même un « mode exclusif » d’approvisionnement.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "7e60495cd782",
+   "titre": "Estonie : le pays ferme sa frontière avec la Russie après une tentative d'attaque",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-estonie-le-pays-ferme-sa-fronti%C3%A8re-avec-la-russie-apr%C3%A8s-une-tentative-d-attaque",
+   "source": "France 24",
+   "date": "2026-11-16T11:38:44+00:00",
+   "extrait": "L'Estonie fermera tous ses postes frontières avec la Russie à compter du 1ᵉʳ décembre, a déclaré dimanche 15 novembre le ministre estonien des Affaires étrangères, à la suite d'une tentative…",
+   "tags": [
+    "Politique",
+    "Conflits",
+    "Climat"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "fb5a8472e978",
+   "titre": "Ebola en RDC : l'épidémie a fait plus de 5400 mort en six mois",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-ebola-en-rdc-l-%C3%A9pid%C3%A9mie-a-fait-plus-de-5400-mort-en-six-mois",
+   "source": "France 24",
+   "date": "2026-11-16T11:36:09+00:00",
+   "extrait": "🇨🇩 En République démocratique du Congo, l’épidémie d’Ebola a fait 5 471 morts sur 11 197 cas recensés en six mois, selon le dernier bilan des autorités sanitaires. Déclarée le 15 mai, cette 17e…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "65bb7eb6abc3",
+   "titre": "Frappes ukrainiennes en Russie : le pont de Crimée touché",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-frappes-ukrainiennes-en-russie-le-pont-de-crim%C3%A9e-touch%C3%A9",
+   "source": "France 24",
+   "date": "2026-11-16T11:35:48+00:00",
+   "extrait": "La Russie a affirmé, lundi 16 novembre, avoir détruit 1 336 drones ukrainiens dans la nuit du 15 novembre, un nombre remarquablement élevé, et a indiqué que le pont stratégique qui relie le…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "8956cf8b412c",
+   "titre": "Iran rules out inspections of damaged nuclear sites until war ends",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
+   "source": "CBS News",
+   "date": "2026-11-16T11:35:01+00:00",
+   "extrait": "Iran says it will not let U.N. inspectors return to assess damaged nuclear sites until the war with the U.S. is \"permanently ended.\"",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "afd5c4ad097a",
+   "titre": "Moscou fustige la décision de l'Estonie de fermer sa frontière avec la Russie",
+   "lien": "https://www.franceinfo.fr/monde/russie/moscou-fustige-la-decision-de-l-estonie-de-fermer-sa-frontiere-avec-la-russie_8284766.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-16T11:33:41+00:00",
+   "extrait": "Tallinn a annoncé cette mesure, dimanche, après une tentative d'incendie d'une usine de drones orchestrée, selon l'Etat balte, par le renseignement militaire russe (GRU).",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "075d521cbd52",
+   "titre": "France : le lycée Neslon Mandela rouvre ses portes à Nantes",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-france-le-lyc%C3%A9e-neslon-mandela-rouvre-ses-portes-%C3%A0-nantes",
+   "source": "France 24",
+   "date": "2026-11-16T11:33:00+00:00",
+   "extrait": "Le lycée Nelson-Mandela de Nantes, en partie incendié début octobre en marge de la mobilisation lycéenne, a rouvert ses portes lundi 16 novembre au matin pour une reprise partielle des cours, tandis…",
+   "tags": [
+    "Politique",
+    "Climat"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "8c08f29cbefb",
+   "titre": "Airline schedules returning to normal after ground stop, FAA says",
+   "lien": "https://www.cbsnews.com/news/faa-ground-stop-canceled-flights-travelers-what-we-know/",
+   "source": "CBS News",
+   "date": "2026-11-16T11:32:00+00:00",
+   "extrait": "Officials attributed the ground stop to aging system infrastructure and legacy technology.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "446982e9e9fa",
+   "titre": "Le projet de loi sur le logement examiné à l'Assemblée \"va uniquement dans le sens des bailleurs\", dénonce la Fondation pour le logement des défavorisés",
+   "lien": "https://www.franceinfo.fr/economie/immobilier/immobilier-indigne/le-projet-de-loi-sur-le-logement-examine-a-l-assemblee-va-uniquement-dans-le-sens-des-bailleurs-denonce-la-fondation-pour-le-logement-des-defavorises_8284769.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-16T11:29:37+00:00",
+   "extrait": "Le directeur de la Fondation, Manuel Domergue, estime que le projet de loi qui doit permettre la remise sur le marché locatif des passoires énergétiques sous conditions de travaux est un \"sursis…",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "4c55d6070cf2",
+   "titre": "Ukraine : le prince Harry aux côtés des soldats blessées et des soignants à Lviv",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-ukraine-le-prince-harry-aux-c%C3%B4t%C3%A9s-des-soldats-bless%C3%A9es-et-des-soignants-%C3%A0-lviv",
+   "source": "France 24",
+   "date": "2026-11-16T11:29:01+00:00",
+   "extrait": "Le prince Harry a effectué une visite surprise en Ukraine, samedi 14 et dimanche 15 novembre, pour rencontrer des militaires blessés et leurs soignants, auxquels il a envoyé un message d'espoir…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "8523ced81cf6",
+   "titre": "Yémen : les rebelles Houthis aux portes d'Aden, capitale provisoire du pays",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-y%C3%A9men-les-rebelles-houthis-aux-portes-d-aden-capitale-provisoire-du-pays",
+   "source": "France 24",
+   "date": "2026-11-16T11:26:54+00:00",
+   "extrait": "Les Houthis pro-iraniens du Yémen se trouvaient à 60 km de la ville d'Aden dimanche 15 novembre, siège du gouvernement, vers laquelle ils avancent dans le sud du pays. Quatre sources militaires au…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "b702201da85d",
+   "titre": "Législatives en Israël : Netanyahu \"ne peut par rester une minute de plus\" d'après Eisenkot",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-l%C3%A9gislatives-en-isra%C3%ABl-netanyahu-ne-peut-par-rester-une-minute-de-plus-d-apr%C3%A8s-eisenkot",
+   "source": "France 24",
+   "date": "2026-11-16T11:24:26+00:00",
+   "extrait": "Gadi Eisenkot, le rival de Benjamin Netanyahu, a affirmé dimanche 15 novembre que ce dernier \"ne pouvait pas rester à la tête du gouvernement une minute de plus\". Une déclaration qui fait suite à un…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "371b0757f145",
+   "titre": "Fewer foreign students studying at U.S. universities, study shows",
+   "lien": "https://www.cbsnews.com/news/us-universities-fewer-foreign-students-trump-administration-policies/",
+   "source": "CBS News",
+   "date": "2026-11-16T11:21:39+00:00",
+   "extrait": "Fewer international students are studying at U.S. universities as the Trump administration cracks down on immigration and reshapes higher education, a study shows.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "a1cb0f91391b",
+   "titre": "\"Une jolie robe rouge poudrée\" : Seraffine, une vache auvergnate est l'égérie du Salon international de l'agriculture 2027",
+   "lien": "https://www.franceinfo.fr/societe/salon-de-l-agriculture/une-jolie-robe-rouge-poudree-seraffine-une-vache-auvergnate-est-l-egerie-du-salon-international-de-l-agriculture-2027_8284754.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-16T11:18:57+00:00",
+   "extrait": "C’est \"l'une des plus originales de la race\", précise les organisateurs. Seraffine revient après une absence historique en 2025 où aucun bovin n'était présent en raison de la crise sanitaire liée à…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "74842ec0af0c",
+   "titre": "GTA VI : Miami se métamorphose en « Vice City »",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-gta-vi-miami-se-m%C3%A9tamorphose-en-vice-city",
+   "source": "France 24",
+   "date": "2026-11-16T11:18:26+00:00",
+   "extrait": "À moins d'une semaine du lancement de Grand Theft Auto VI, l'attente se fait ressentir à Miami, ville qui a servi de modèle à la \"Vice City\" du jeu. Avec un budget estimé entre 1 et 1,5 milliard de…",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "537f2d5c5abd",
+   "titre": "Liberté pédagogique, part variable de la rémunération… Les conditions de travail des professeurs en Estonie peuvent-elles être un modèle ?",
+   "lien": "https://www.franceinfo.fr/societe/education/reportage-liberte-pedagogique-part-variable-de-la-remuneration-les-conditions-de-travail-des-professeurs-en-estonie-peut-il-etre-un-modele_8284379.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-16T11:14:37+00:00",
+   "extrait": "Alors que les enseignants français réclament de meilleures conditions de travail et une revalorisation de leurs salaires, l'Estonie mise sur l'autonomie des professeurs et la rémunération au mérite.",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "cf2ead571b3b",
+   "titre": "Jeux vidéo : sortie de GTA VI, treize ans que les fans l'attendent",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-jeux-vid%C3%A9o-sortie-de-gta-vi-treize-ans-que-les-fans-l-attende",
+   "source": "France 24",
+   "date": "2026-11-16T11:14:29+00:00",
+   "extrait": "Le très attendu \"Grand Theft Auto VI\", nouvel opus de la série à succès de Rockstar, sort officiellement ce jeudi 19 novembre. Une saga dont les chiffres affolent les compteurs de l'industrie du jeu…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "6823bbfd90af",
+   "titre": "Glenn Close et Ridley Scott récompensés d'un Oscar d'honneur pour l'ensemble de leur carrière",
+   "lien": "https://www.franceinfo.fr/culture/cinema/oscars/oscars-glenn-close-et-ridley-scott-decrochent-la-prestigieuse-statuette-pour-l-ensemble-de-leur-carriere_8284700.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-16T11:13:09+00:00",
+   "extrait": "Tous deux nommés à plusieurs reprises, la comédienne américaine et le réalisateur britannique n'avaient jamais emporté d'Oscar.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "9623fabc2b7a",
+   "titre": "Grèves dans la fonction publique, mouvement lycéen, manifestations… A quoi s'attendre pour la mobilisation du 17 novembre ?",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/greves-dans-la-fonction-publique-mouvement-lyceen-manifestations-a-quoi-s-attendre-pour-la-mobilisation-du-17-novembre_8284415.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-16T11:11:21+00:00",
+   "extrait": "Les syndicats appellent les agents de la fonction publique, de l'Education nationale ou encore des transports à faire grève mardi. Des dizaines de manifestations sont annoncées, auxquelles doivent…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "7162fe110878",
+   "titre": "Yemeni forces retreat to defend port city from Houthis",
+   "lien": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-16T11:09:38+00:00",
+   "extrait": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "0f8474c94744",
+   "titre": "L'attaquant Romelu Lukaku, meilleur buteur de l'histoire de la sélection belge, annonce la fin de sa carrière internationale",
+   "lien": "https://www.franceinfo.fr/sports/foot/l-attaquant-romelu-lukaku-meilleur-buteur-de-l-histoire-de-la-selection-belge-annonce-la-fin-de-sa-carriere-internationale_8284667.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-16T11:08:10+00:00",
+   "extrait": "Le joueur de 33 ans a partagé la nouvelle, lundi, sur ses réseaux sociaux.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "c8b62db92250",
+   "titre": "Crise sociale : \"La République, ce n'est pas l'impunité\", selon Edouard Geffray, en visite au lycée Nelson-Mandela de Nantes",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mouvement-lyceen-le-lycee-nelson-mandela-rouvre-ses-portes-a-nantes-six-semaines-apres-l-incendie-dont-il-a-ete-victime_8284130.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-16T11:07:18+00:00",
+   "extrait": "Le ministre de l'Education nationale s'est rendu lundi sur place, alors que le gouvernement durcit le ton face aux blocages des établissements scolaires notamment à Paris.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "1c2108f4df8e",
    "titre": "Federal officials received years of warnings before FAA ground stop",
    "lien": "https://www.cbsnews.com/news/faa-ground-stop-warnings-records/",
@@ -31,16 +350,6 @@
    "tags": [
     "Tech"
    ],
-   "zone": "usa"
-  },
-  {
-   "id": "06addd91e758",
-   "titre": "Biden library nears site decision as fundraising lags",
-   "lien": "https://www.cbsnews.com/news/biden-library-fundraising-site/",
-   "source": "CBS News",
-   "date": "2026-11-16T11:00:05+00:00",
-   "extrait": "After a quiet 2025, Biden's presidential library foundation landed two $5 million gifts, but some allies are said to be frustrated donors haven't come calling.",
-   "tags": [],
    "zone": "usa"
   },
   {
@@ -56,15 +365,25 @@
    "zone": "france"
   },
   {
-   "id": "8956cf8b412c",
-   "titre": "Iran rules out inspections of damaged nuclear sites until war ends",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
-   "source": "CBS News",
+   "id": "0c4fec76642a",
+   "titre": "L’entraînement des IA s’avère toujours plus consommateur d’énergie",
+   "lien": "https://www.lemonde.fr/sciences/article/2026/11/16/l-entrainement-des-ia-s-avere-toujours-plus-consommateur-d-energie_6811689_1650684.html",
+   "source": "Le Monde",
    "date": "2026-11-16T11:00:03+00:00",
-   "extrait": "The remarks came days after an international nuclear watchdog urged Tehran to take steps toward resuming inspections.",
+   "extrait": "Des chercheurs français ont calculé que l’optimisation des outils d’intelligence artificielle permet d’améliorer leurs performances, et non de réduire les émissions de CO₂.",
    "tags": [
-    "Conflits"
+    "Tech"
    ],
+   "zone": "france"
+  },
+  {
+   "id": "06addd91e758",
+   "titre": "Biden library nears site decision as fundraising lags",
+   "lien": "https://www.cbsnews.com/news/biden-library-fundraising-site/",
+   "source": "CBS News",
+   "date": "2026-11-16T11:00:00+00:00",
+   "extrait": "After a quiet 2025, Biden's presidential library foundation landed two $5 million gifts, but some allies are said to be frustrated donors haven't come calling.",
+   "tags": [],
    "zone": "usa"
   },
   {
@@ -82,24 +401,12 @@
    "titre": "Suspension des vols aux Etats-Unis : environ 240 vols annulés, et quelque 530, retardés, lundi",
    "lien": "https://www.lemonde.fr/international/article/2026/11/16/suspension-des-vols-aux-etats-unis-environ-240-vols-annules-et-quelque-530-retardes-lundi_6811688_3210.html",
    "source": "Le Monde",
-   "date": "2026-11-16T10:49:04+00:00",
-   "extrait": "« Nous allons voir les choses revenir (...) sans doute complètement à la normale lundi », a estimé le ministre des transports américain, Sean Duffy, dimanche, après une panne inédite du contrôle…",
+   "date": "2026-11-16T10:49:03+00:00",
+   "extrait": "« Nous allons voir les choses revenir (…) sans doute complètement à la normale lundi », a estimé le ministre des transports américain, Sean Duffy, dimanche, après une panne inédite du contrôle aérien.",
    "tags": [
     "Politique"
    ],
    "zone": "france"
-  },
-  {
-   "id": "8c08f29cbefb",
-   "titre": "Airline schedules returning to normal after ground stop, FAA says",
-   "lien": "https://www.cbsnews.com/news/faa-ground-stop-canceled-flights-travelers-what-we-know/",
-   "source": "CBS News",
-   "date": "2026-11-16T10:45:52+00:00",
-   "extrait": "Officials attributed the ground stop to aging system infrastructure and legacy technology.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
   },
   {
    "id": "76ea3a20100a",
@@ -181,28 +488,6 @@
    "zone": "monde"
   },
   {
-   "id": "c8b62db92250",
-   "titre": "Crise sociale : \"La République ce n'est pas l'impunité\", selon Edouard Geffray, en visite au lycée Nelson-Mandela de Nantes",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mouvement-lyceen-le-lycee-nelson-mandela-rouvre-ses-portes-a-nantes-six-semaines-apres-l-incendie-dont-il-a-ete-victime_8284130.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-16T10:29:52+00:00",
-   "extrait": "Le ministre de l'Education nationale s'est rendu lundi sur place, alors que le gouvernement durcit le ton face aux blocages des établissements scolaires notamment à Paris.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "4163a4597260",
-   "titre": "Thanksgiving travel likely to dip a bit due to prices, AAA says",
-   "lien": "https://www.cbsnews.com/news/thanksgiving-travel-likely-dip-prices/",
-   "source": "CBS News",
-   "date": "2026-11-16T10:25:30+00:00",
-   "extrait": "Pricey plane tickets and expensive gasoline are expected to keep some Americans from traveling this Thanksgiving, but not enough to make much difference in airport security lines and highway…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "51814bd9dffc",
    "titre": "Sexualité en Égypte : la révolution silencieuse sur les réseaux sociaux",
    "lien": "https://www.france24.com/fr/%C3%A9missions/focus/20261116-sexualit%C3%A9-en-%C3%A9gypte-la-r%C3%A9volution-silencieuse-sur-les-r%C3%A9seaux-sociaux",
@@ -246,6 +531,18 @@
    "date": "2026-11-16T10:09:46+00:00",
    "extrait": "Antonio Guterres souhaite un accord international qui impose des règles claires sur l'usage des armes létales autonomes dans les conflits futurs.",
    "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "e1d4c2ba3a69",
+   "titre": "François Vitrani : « Est-ce qu’Emmanuel Macron va liquider la Maison de l’Amérique latine ? »",
+   "lien": "https://www.lemonde.fr/culture/article/2026/11/16/francois-vitrani-est-ce-qu-emmanuel-macron-va-liquider-la-maison-de-l-amerique-latine_6811685_3246.html",
+   "source": "Le Monde",
+   "date": "2026-11-16T10:00:09+00:00",
+   "extrait": "Le directeur général de cette institution diplomatique et artistique parisienne, qui risque d’être expulsée de son adresse historique après 80 ans d’existence, souligne, dans un entretien au « Monde…",
+   "tags": [
+    "Politique"
+   ],
    "zone": "france"
   },
   {
@@ -596,11 +893,11 @@
   },
   {
    "id": "750e69ddf89f",
-   "titre": "EN DIRECT, présidentielle 2027 : « Toutes les catégories de revenus ont tendance à se situer au milieu de l’échelle sociale »",
+   "titre": "EN DIRECT, présidentielle 2027 : témoignages, analyses graphiques... Suivez notre journée consacrée à la vie chère",
    "lien": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/11/16/en-direct-presidentielle-2027-decouvrez-les-enseignements-de-la-nouvelle-enquete-fractures-francaises-une-grande-etude-sur-l-etat-d-esprit-des-francais-a-cinq-mois-de-l-election_6811633_6205049.html",
    "source": "Le Monde",
    "date": "2026-11-16T08:00:05+00:00",
-   "extrait": "Notre journaliste politique Julie Carriat a répondu à vos questions après la publication par « Le Monde » de la quatorzième édition de cette enquête quantitative annuelle, pour laquelle 3 000…",
+   "extrait": "Après la quatorzième édition de notre enquête quantitative annuelle « Fractures françaises », suivez notre live consacré à la vie chère, au pouvoir d’achat et à la précarité. Nous vous proposerons…",
    "tags": [
     "Politique",
     "Justice"
@@ -690,16 +987,6 @@
    "zone": "monde"
   },
   {
-   "id": "7162fe110878",
-   "titre": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway",
-   "lien": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-16T07:23:23+00:00",
-   "extrait": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
    "id": "b37d67579924",
    "titre": "\"Je suis content de retourner en cours\" : à Nantes, le lycée Nelson Mandela rouvre ses portes, six semaines après l'incendie qui a touché l'établissement",
    "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/je-suis-content-de-retourner-en-cours-a-nantes-le-lycee-nelson-mandela-rouvre-ses-portes-six-semaines-apres-l-incendie-qui-a-touche-l-etablissement_8284331.html#xtor=RSS-3-[lestitres]",
@@ -776,6 +1063,18 @@
    "zone": "france"
   },
   {
+   "id": "acc0ae9c8b84",
+   "titre": "🔴 En direct : 600 drones ukrainiens lancés sur Moscou, le pont de Crimée touché par une frappe",
+   "lien": "https://www.france24.com/fr/europe/20261116-ukraine-en-direct-russie-600-drones-lanc%C3%A9s-sur-moscou-maire-capitale",
+   "source": "France 24",
+   "date": "2026-11-16T06:50:10+00:00",
+   "extrait": "",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "9742b1316176",
    "titre": "\"C'est la reconnaissance de cette culture fromagère\" : le comté 24 mois du Fort des Rousses dans le Jura élu meilleur fromage du monde",
    "lien": "https://www.franceinfo.fr/culture/cuisine-et-gastronomie/c-est-la-reconnaissance-de-cette-culture-fromagere-le-comte-24-mois-du-fort-des-rousses-dans-le-jura-elu-meilleur-fromage-du-monde_8284337.html#xtor=RSS-3-[lestitres]",
@@ -784,18 +1083,6 @@
    "extrait": "Parmi plus de 5 000 fromages, un comté 24 mois du Jura s'est distingué lors du World Cheese Awards, ce qui récompense l'ensemble de la filière fromagère qui \"existe depuis des siècles et même des…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "acc0ae9c8b84",
-   "titre": "Ukraine en direct : 600 drones lancés sur Moscou, le pont de Crimée touché par une frappe",
-   "lien": "https://www.france24.com/fr/europe/20261116-ukraine-en-direct-russie-600-drones-lanc%C3%A9s-sur-moscou-maire-capitale",
-   "source": "France 24",
-   "date": "2026-11-16T06:38:01+00:00",
-   "extrait": "Environ 600 drones ont été lancés en direction de la région de Moscou dans la nuit et lundi matin, a déclaré le maire de la capitale, qui a précisé que la plupart avaient été interceptés. Par…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
   },
   {
    "id": "8787fde98157",
@@ -968,18 +1255,6 @@
    "zone": "france"
   },
   {
-   "id": "7af9782f0210",
-   "titre": "\"Des étincelles tombaient du ciel comme de la pluie\" : la COP31 à l'épreuve des incendies à répétition dans la région d'Antalya",
-   "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/reportage-des-etincelles-tombaient-du-ciel-comme-de-la-pluie-la-cop31-a-l-epreuve-des-incendies-a-repetition-dans-la-region-d-antalya_8276642.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-16T04:44:46+00:00",
-   "extrait": "La zone côtière turque est de plus en plus confrontée à des feux de forêt dévastateurs, favorisés par le réchauffement climatique. Les pompiers locaux se tournent vers la COP pour répondre à…",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "0e13a4e3ba83",
    "titre": "Watch: New York teen reunites with cat missing after building collapse",
    "lien": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo?at_medium=RSS&at_campaign=rss",
@@ -1076,6 +1351,19 @@
    "zone": "monde"
   },
   {
+   "id": "019332dc3923",
+   "titre": "Faire la guerre avec l’IA ? Pour l’Ukraine, un cas de conscience moral et politique",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/16/faire-la-guerre-avec-l-ia-pour-l-ukraine-un-cas-de-conscience-moral-et-politique_6811239_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-16T04:00:14+00:00",
+   "extrait": "Alors que la 7ᵉ Conférence d’examen de la Convention sur certaines armes classiques doit commencer lundi à Genève, des soldats et des spécialistes de l’IA ukrainiens s’interrogent sur les…",
+   "tags": [
+    "Conflits",
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "382d85083d26",
    "titre": "Pourquoi la Silicon Valley veut-elle fabriquer des bébés génétiquement modifiés ?",
    "lien": "https://www.lemonde.fr/podcasts/article/2026/11/16/pourquoi-la-silicon-valley-veut-elle-fabriquer-des-bebes-genetiquement-modifies_6811237_5463015.html",
@@ -1085,6 +1373,18 @@
    "tags": [
     "Économie",
     "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "f675585f2de3",
+   "titre": "« Fractures françaises » : consensus autoritaire et xénophobe, penchant libéral et climatoscepticisme au cœur des convictions des électeurs d’extrême droite",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-consensus-autoritaire-et-xenophobe-penchant-liberal-et-climatoscepticisme-au-c-ur-des-convictions-des-electeurs-d-extreme-droite_6811238_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-16T04:00:04+00:00",
+   "extrait": "Gilles Finchelstein, directeur général de la Fondation Jean Jaurès, détaille les convictions des sympathisants de l’extrême droite, qui sont les plus critiques à l’égard de la démocratie, à partir…",
+   "tags": [
+    "Justice"
    ],
    "zone": "france"
   },
@@ -1368,7 +1668,7 @@
   },
   {
    "id": "11f33a4cdfe8",
-   "titre": "Libyan town rebuilt after devastating floods becomes showcase for strongman's rule",
+   "titre": "Town rebuilt after devastating floods becomes showcase for Libyan strongman's rule",
    "lien": "https://www.bbc.co.uk/news/articles/cr0qjz77j4k1o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-16T00:11:12+00:00",
@@ -1575,6 +1875,16 @@
    "extrait": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
    "tags": [],
    "zone": "monde"
+  },
+  {
+   "id": "eecdc5cfe0a2",
+   "titre": "\"Je n'étais pas content\" et \"on peut être un peu perplexe\" : l'analyse lucide de Zinédine Zidane après la timide victoire de la France contre la Turquie",
+   "lien": "https://www.franceinfo.fr/sports/foot/ligue-des-nations/je-n-etais-pas-content-et-on-peut-etre-un-peu-perplexe-l-analyse-lucide-de-zinedine-zidane-apres-la-timide-victoire-de-la-france-contre-la-turquie_8283977.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-15T22:54:41+00:00",
+   "extrait": "Les Bleus se sont qualifiés pour les quarts de finale de la Ligue des nations sans convaincre, dimanche, face à la Turquie.",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "ab091973024f",
@@ -3098,307 +3408,6 @@
    "date": "2026-11-15T13:30:56+00:00",
    "extrait": "Retour sur les temps forts de l'actualité de la semaine écoulée et sur ses images les plus marquantes : un naufrage de pirogue meurtrier au large de la côte nord-ouest du Sénégal, les grèves…",
    "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "e3a77e3aece6",
-   "titre": "Ronaldinho effectue son grand retour sur les terrains de foot… avec le Ravenna FC, en troisième division italienne",
-   "lien": "https://www.lemonde.fr/sport/article/2026/11/15/ronaldinho-ballon-d-or-2005-effectue-son-grand-retour-sur-le-terrain-en-troisieme-division-italienne_6811022_3242.html",
-   "source": "Le Monde",
-   "date": "2026-11-15T13:30:08+00:00",
-   "extrait": "Agé de 46 ans, le Brésilien, champion du monde 2002 et considéré comme un esthète du football, doit sortir d’une retraite de plus de dix ans, dimanche.",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "264b16371dc8",
-   "titre": "Les chimpanzés aussi apprennent de leurs aînés pour produire des signaux sonores",
-   "lien": "https://www.lemonde.fr/sciences/article/2026/11/15/les-chimpanzes-aussi-apprennent-de-leurs-aines-pour-produire-des-signaux-sonores_6811020_1650684.html",
-   "source": "Le Monde",
-   "date": "2026-11-15T13:29:29+00:00",
-   "extrait": "Une étude internationale révèle que les capacités de communication de ces primates ne sont pas uniquement innées. Certaines de leurs vocalisations sont associées à des contextes précis et peuvent…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "5f01585af82c",
-   "titre": "Manifestations du 14 novembre : un total de 404 personnes interpellées dans toute la France, dont plusieurs dizaines de mineurs",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/manifestation-du-14-novembre-a-paris-108-personnes-placees-en-garde-a-vue-dont-38-mineurs_8283458.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-15T13:28:31+00:00",
-   "extrait": "Dans la capitale, la mobilisation de samedi s'est déroulée \"globalement dans le calme\", affirme dimanche la préfecture de police.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "747e9ac1f655",
-   "titre": "Guerre en Ukraine : Emmanuel Macron s’en prend « à ceux qui veulent rationner les moyens » de Kiev ; Marine Le Pen le renvoie à « sa propre turpitude »",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/15/guerre-en-ukraine-emmanuel-macron-s-en-prend-a-ceux-qui-veulent-rationner-les-moyens-de-kiev-marine-le-pen-le-renvoie-a-sa-propre-turpitude_6811019_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-15T13:22:32+00:00",
-   "extrait": "Le chef de l’Etat ne cite pas Marine Le Pen, mais la candidate du RN a déjà annoncé que, si elle était élue, elle couperait l’aide financière à l’Ukraine après une période de six mois.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c1e3e3da038a",
-   "titre": "40 affirmations-chocs des candidats à la présidentielle de 2027 et de leurs soutiens fact-checkées",
-   "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/11/15/presidentielle-2027-40-declarations-des-candidats-et-de-leurs-soutiens-passees-au-crible_6811018_4355770.html",
-   "source": "Le Monde",
-   "date": "2026-11-15T13:19:59+00:00",
-   "extrait": "Les Décodeurs du « Monde » confrontent, dans cette base de données évolutive, les arguments des politiques aux données indépendantes disponibles.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "7f792e0d7409",
-   "titre": "Laws limiting coal miners' exposure to toxic dust are in danger of being rolled back",
-   "lien": "https://www.npr.org/2026/11/15/nx-s1-6039311/laws-limiting-coal-miners-exposure-to-toxic-dust-are-in-danger-of-being-rolled-back",
-   "source": "NPR",
-   "date": "2026-11-15T13:11:30+00:00",
-   "extrait": "Coal miners who are exposed to silica dust are at a higher risk of black lung disease. Despite decades of advocacy, new efforts to regulate the toxic dust are under threat.",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "6cdb0b5c099a",
-   "titre": "Dans les Deux-Sèvres, le collectif Bassines Non Merci appelle à un nouveau rassemblement pour rejoindre le site de Sainte-Soline le 29 novembre",
-   "lien": "https://www.franceinfo.fr/environnement/transition-ecologique-de-l-agriculture/megabassine/megabassine-de-sainte-soline/dans-les-deux-sevres-le-collectif-bassines-non-merci-appelle-a-un-nouveau-rassemblement-pour-rejoindre-le-site-de-sainte-soline-le-29-novembre_8283479.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-15T13:08:10+00:00",
-   "extrait": "Le rassemblement doit se dérouler au départ d'Azay-le-Brûlé, dans les Deux-Sèvres, pour rejoindre le site de Sainte-Soline à vélo ou en tracteur.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "6cfcbfa75695",
-   "titre": "\"Fragonard, 100 ans de collections et de savoir-faire\" à la Monnaie de Paris : objets d'art, costumes et tableaux du XVIIIe siècle à travers un parcours olfactif",
-   "lien": "https://www.franceinfo.fr/culture/mode/fragonard-100-ans-de-collections-et-de-savoir-faire-a-la-monnaie-de-paris-objets-d-art-costumes-et-tableaux-du-xviiie-siecle-a-travers-un-parcours-olfactif_8235469.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-15T13:07:29+00:00",
-   "extrait": "Pour la première fois à Paris, la maison Fragonard dévoile ses collections patrimoniales : peintures, flacons de parfum, bijoux, objets précieux et costumes composent un parcours foisonnant au cœur…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "bb53f9af9ae3",
-   "titre": "Une usine pétrochimique frappée par des drones ukrainiens dans le centre de la Russie",
-   "lien": "https://www.france24.com/fr/europe/20261115-usine-p%C3%A9trochimique-frapp%C3%A9e-par-drones-ukrainiens-dans-centre-russie",
-   "source": "France 24",
-   "date": "2026-11-15T13:02:51+00:00",
-   "extrait": "La zone industrielle de Nijnekamsk, dans le centre de la Russie, a été touchée par des frappes ukrainiennes dimanche, selon les autorités locales. Un incendie s'est déclaré dans une usine…",
-   "tags": [
-    "Conflits",
-    "Climat"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "067992f53ba4",
-   "titre": "Au Pérou, le pape alerte sur l'exode rural dans les Andes",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261115-au-p%C3%A9rou-le-pape-alerte-sur-l-exode-rural-dans-les-andes",
-   "source": "France 24",
-   "date": "2026-11-15T13:02:06+00:00",
-   "extrait": "Lors de son étape au Pérou, le pape a évoqué l'exode rural dans les Andes, qu'il décrit comme une \"souffrance\" pour les habitants. Une visite à forte dimension personnelle dans un pays dont il a…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "6a9ac02b44b7",
-   "titre": "Pourquoi la maladie de Parkinson est en forte augmentation en France et touche particulièrement certains départements",
-   "lien": "https://www.franceinfo.fr/sante/pourquoi-la-maladie-de-parkinson-est-en-forte-augmentation-en-france-et-touche-particulierement-certains-departements_8279975.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-15T13:01:53+00:00",
-   "extrait": "Cette maladie neurodégénérative touche près de 300 000 personnes en France. Elle augmente fortement en raison principalement du vieillissement de la population mais aussi de la présence des métaux…",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "e7499c3de452",
-   "titre": "Guerre en Ukraine : des drones évacuent les soldats blessés du front",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261115-guerre-en-ukraine-des-drones-%C3%A9vacuent-les-soldats-bless%C3%A9s-du-front",
-   "source": "France 24",
-   "date": "2026-11-15T12:59:41+00:00",
-   "extrait": "Sur le front ukrainien, les drones ne servent plus seulement à mener des frappes. Ils sont aussi utilisés pour évacuer des soldats blessés, dans des zones où les secours sont devenus…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "70d78d862f2f",
-   "titre": "Trois personnes placées en garde à vue après la découverte du corps d'une femme dans un garage en Seine-Saint-Denis",
-   "lien": "https://www.franceinfo.fr/faits-divers/trois-personnes-placees-en-garde-a-vue-apres-la-decouverte-du-corps-d-une-femme-dans-un-garage-en-seine-saint-denis_8283485.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-15T12:59:19+00:00",
-   "extrait": "Le corps d'une femme \"qui était portée disparue depuis plusieurs jours\" se trouvait dans un véhicule, a annoncé dimanche le parquet de Bobigny.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "474a6d76d43b",
-   "titre": "Les Philippines remportent la première édition de l'Eurovision en Asie",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261115-les-philippines-remportent-la-premi%C3%A8re-%C3%A9dition-de-l-eurovision-en-asie",
-   "source": "France 24",
-   "date": "2026-11-15T12:57:22+00:00",
-   "extrait": "Les Philippines ont remporté à Bangkok la première édition asiatique du Concours Eurovision de la chanson. La chanteuse Carmelle s'est imposée face à dix autres candidats avec un titre consacré à…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "53d2aadf6850",
-   "titre": "« GTA Online » : à quelques jours de la sortie de « GTA VI », les joueurs du mode en ligne se préparent à « la dernière danse »",
-   "lien": "https://www.lemonde.fr/pixels/article/2026/11/15/a-quelques-jours-de-la-sortie-de-gta-vi-les-joueurs-de-gta-online-entre-nostalgie-et-excitation-chaque-moment-passe-en-jeu-est-peut-etre-le-dernier_6811016_4408996.html",
-   "source": "Le Monde",
-   "date": "2026-11-15T12:54:55+00:00",
-   "extrait": "« Grand Theft Auto V » s’est imposé comme l’un des jeux les plus vendus de l’histoire grâce à son mode multijoueur en ligne, dont la popularité ne va pas immédiatement s’évanouir : la fonctionnalité…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "b53cd323aecc",
-   "titre": "L'Iran revendique une attaque contre un site militaire américain à Bahreïn",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261115-l-iran-revendique-une-attaque-contre-un-site-militaire-am%C3%A9ricain-%C3%A0-bahre%C3%AFn",
-   "source": "France 24",
-   "date": "2026-11-15T12:46:56+00:00",
-   "extrait": "L'Iran affirme avoir ciblé à Bahreïn une installation militaire américaine, notamment des radars. Comment Téhéran justifie-t-il cette opération et dans quelle stratégie s'inscrit-elle ? Les…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "a7473aca22ed",
-   "titre": "Les Bleus en mission pour rejoindre les quarts de finale de la Ligue des Nations",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261115-les-bleus-en-mission-pour-rejoindre-les-quarts-de-finale-de-la-ligue-des-nations",
-   "source": "France 24",
-   "date": "2026-11-15T12:44:15+00:00",
-   "extrait": "Les informations sportives du jour avec les chroniqueurs de France 24 et tous les résumés en images.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "b8a8941cbb16",
-   "titre": "\"On voyait que l'eau était en train de monter\" : des automobilistes racontent leur nuit piégés par les intempéries dans l'Hérault",
-   "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/herault-apres-les-violents-orages-des-automobilistes-temoignent-de-leur-nuit-pieges-par-les-eaux_8283527.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-15T12:36:55+00:00",
-   "extrait": "Après de violents orages dans la nuit du samedi 14 novembre, le département de l'Hérault s'est retrouvé sous les eaux. Au sud de Montpellier, des dizaines d'automobilistes ont été piégés par les…",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "37c207964e10",
-   "titre": "U.S. reportedly floated trading Ukrainian land for NATO membership",
-   "lien": "https://www.cbsnews.com/news/ukraine-russia-war-nato-us-donbas/",
-   "source": "CBS News",
-   "date": "2026-11-15T12:33:32+00:00",
-   "extrait": "The Ukrainian president said he would put the question of a potential exchange to the people if certain guarantees were in place.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "dbdde1362893",
-   "titre": "La reprise des exportations dans le Golfe fait reculer les prix du carburant",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261115-la-reprise-des-exportations-dans-le-golfe-fait-reculer-les-prix-du-carburant",
-   "source": "France 24",
-   "date": "2026-11-15T12:28:14+00:00",
-   "extrait": "Après avoir fortement augmenté depuis le début de la guerre en Iran et le blocage du détroit d'Ormuz, les prix du carburant reculent depuis plusieurs semaines, portés par la reprise des exportations…",
-   "tags": [
-    "Économie",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "86e9b690f1e5",
-   "titre": "\"Ça ne rattrapera pas un bon samedi\" : les commerçants lyonnais peu convaincus par les ouvertures dominicales supplémentaires",
-   "lien": "https://www.franceinfo.fr/economie/commerce/ca-ne-rattrapera-pas-un-bon-samedi-les-commercants-lyonnais-peu-convaincus-par-les-ouvertures-dominicales-supplementaires_8283347.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-15T12:06:49+00:00",
-   "extrait": "Après les dégradations du 17 octobre et les manifestations organisées tous les samedis, le préfet du Rhône autorise les commerces lyonnais à ouvrir trois dimanches supplémentaires. Mais les…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "1c624925105e",
-   "titre": "France - Turquie : 30 ans après, le retour de Zinedine Zidane devant 42 000 personnes à Bordeaux",
-   "lien": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/france-turquie-30-ans-apres-le-retour-de-zinedine-zidane-devant-42-000-personnes-a-bordeaux-3449967.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-15T12:04:04+00:00",
-   "extrait": "Zinedine Zidane, ancien joueur emblématique des Girondins de Bordeaux, revient en tant qu'entraîneur de l'équipe de France pour la rencontre France - Turquie en Ligue des Nations. Le match a lieu ce…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "d867efa26b68",
-   "titre": "Wu-Tang Clan et Phil Collins au Rock and Roll Hall of Fame, Oasis a séché la cérémonie à Los Angeles",
-   "lien": "https://www.franceinfo.fr/culture/musique/wu-tang-clan-et-phil-collins-au-rock-and-roll-hall-of-fame-oasis-a-seche-la-ceremonie-a-los-angeles_8283500.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-15T11:50:34+00:00",
-   "extrait": "Les frères Gallagher réconciliés, qui ont récemment annoncé une nouvelle tournée mondiale d'Oasis pour 2027, avaient décliné l'invitation",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "e44866bee391",
-   "titre": "New Delhi suffoque sous un nouveau pic de pollution",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261115-new-delhi-suffoque-sous-un-nouveau-pic-de-pollution",
-   "source": "France 24",
-   "date": "2026-11-15T11:33:00+00:00",
-   "extrait": "Un épais brouillard de pollution continue de recouvrir New Delhi, où la qualité de l'air reste critique depuis plusieurs jours. Dans plusieurs quartiers, les indices ont dépassé 400 dimanche selon…",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "85e50c782fd2",
-   "titre": "Un feu se déclare dans une entreprise de peintures en Loire-Atlantique, les riverains invités à rester chez eux",
-   "lien": "https://www.franceinfo.fr/faits-divers/incendie/un-feu-se-declare-dans-une-entreprise-de-peintures-en-loire-atlantique-les-riverains-invites-a-rester-chez-eux_8283464.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-15T11:13:04+00:00",
-   "extrait": "L'incendie n'a pas fait de victime. La préfecture demande aux riverains de fermer portes et fenêtres et de limiter leurs déplacements",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "0be1f7da41ff",
-   "titre": "De retour dans les Andes péruviennes, le pape Léon XIV s'inquiète de l'exode rural",
-   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261115-perou-retour-andes-pape-l%C3%A9on-xiv-inquiet-exode-rural-pauvret%C3%A9",
-   "source": "France 24",
-   "date": "2026-11-15T11:06:47+00:00",
-   "extrait": "En visite dans la région de Cajamarca, où le taux de pauvreté est le plus élevé du Pérou, le pape Léon XIV s'est inquiété samedi de la \"souffrance\" des populations rurales contraintes à l'exode…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "cedd4c64ea04",
-   "titre": "Three men sentenced to death in Jordan over fatal church mass shooting",
-   "lien": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-15T11:06:32+00:00",
-   "extrait": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
-   "tags": [
-    "Conflits"
-   ],
    "zone": "monde"
   }
  ]
