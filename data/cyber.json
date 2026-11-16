@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-16T21:26:25+00:00",
+ "maj": "2026-11-16T22:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "6cd4bc50c4fa",
+   "titre": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
+   "lien": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
+   "source": "BleepingComputer",
+   "date": "2026-11-16T21:31:44+00:00",
+   "extrait": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
+   "tags": [
+    "Faille",
+    "IA"
+   ]
+  },
   {
    "id": "f7229d91014f",
    "titre": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
@@ -3386,19 +3398,6 @@
    "date": "2026-11-05T16:36:51+00:00",
    "extrait": "Cyberattaque EFS : trois sites touchés, du plasma menacé. ZATAZ revient sur les précédents et les risques industriels.",
    "tags": []
-  },
-  {
-   "id": "5263a8e99f87",
-   "titre": "Hackers backdoor Linux servers using trojanized CWP web server",
-   "lien": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
-   "source": "BleepingComputer",
-   "date": "2026-11-05T16:24:26+00:00",
-   "extrait": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
-   "tags": [
-    "Fuite de données",
-    "Malware",
-    "Linux"
-   ]
   }
  ]
 }
