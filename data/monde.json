@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-16T03:05:40+00:00",
+ "maj": "2026-11-16T04:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,51 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "111652aa24a0",
+   "titre": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+   "lien": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-16T03:21:56+00:00",
+   "extrait": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "84f64b2db0fd",
+   "titre": "Coup dur pour Amazon avec la perte de 40 satellites due à l’échec de la fusée Vulcan",
+   "lien": "https://www.lemonde.fr/sciences/article/2026/11/16/coup-dur-pour-amazon-avec-la-perte-de-40-satellites-due-a-l-echec-de-la-fusee-vulcan_6811204_1650684.html",
+   "source": "Le Monde",
+   "date": "2026-11-16T03:11:01+00:00",
+   "extrait": "Le lanceur a subi une anomalie ⁠environ dix minutes après le décollage, perdant les satellites qu’il transportait. Il s’agissait du premier de plusieurs dizaines de vols achetés au groupe United…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "60504510472a",
+   "titre": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+   "lien": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-16T03:09:49+00:00",
+   "extrait": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
+   "tags": [
+    "Conflits",
+    "Santé"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "7162fe110878",
+   "titre": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+   "lien": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-16T03:08:31+00:00",
+   "extrait": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+   "tags": [],
+   "zone": "monde"
+  },
   {
    "id": "ce3be4bd55d1",
    "titre": "Les Tchèques manifestent massivement contre la réforme du financement des médias publics",
@@ -97,19 +142,6 @@
    "extrait": "Miguel Parra Hernandez was hit by Immigration and Customs Enforcement agent Mario Alberto Morales in Houston on Oct. 10.",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "60504510472a",
-   "titre": "Australian MP who lost both legs in alleged car attack discharged from hospital",
-   "lien": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-16T01:53:19+00:00",
-   "extrait": "The MP was allegedly run down by a car outside her electorate office four weeks ago.",
-   "tags": [
-    "Conflits",
-    "Santé"
-   ],
-   "zone": "monde"
   },
   {
    "id": "1fa112143a76",
@@ -335,18 +367,6 @@
    "zone": "usa"
   },
   {
-   "id": "973df3bfc18c",
-   "titre": "U.S. families demand answers on Iran war deaths",
-   "lien": "https://www.cbsnews.com/news/military-families-want-answers-on-iran-war-deaths-60-minutes/",
-   "source": "CBS News",
-   "date": "2026-11-16T00:00:17+00:00",
-   "extrait": "This week, the families will finally be briefed on the results of the U.S. Army investigation into the strike.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "e9124b4c978d",
    "titre": "60 Minutes Transcript: Families of U.S. soldiers killed in Iran war",
    "lien": "https://www.cbsnews.com/news/cost-of-war-iran-60-minutes-transcript/",
@@ -355,18 +375,6 @@
    "extrait": "The families of U.S. soldiers killed in an Iranian drone strike in Kuwait want answers from the Pentagon. A 60 Minutes investigation examines U.S. military failures surrounding the March attack.",
    "tags": [
     "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "5fac6f461e8d",
-   "titre": "Kratom, an opioid, can lead to addiction and death. Yet, in most states, it's legal.",
-   "lien": "https://www.cbsnews.com/video/kratom-60-minutes-video-2026-11-15/",
-   "source": "CBS News",
-   "date": "2026-11-16T00:00:13+00:00",
-   "extrait": "Kratom products, sold at gas stations, have found allies in Washington. But health experts warn it is an addictive opioid, fueling increasing outrage that it remains legal in most states.",
-   "tags": [
-    "Santé"
    ],
    "zone": "usa"
   },
@@ -381,11 +389,35 @@
    "zone": "usa"
   },
   {
+   "id": "973df3bfc18c",
+   "titre": "U.S. families demand answers on Iran war deaths",
+   "lien": "https://www.cbsnews.com/news/military-families-want-answers-on-iran-war-deaths-60-minutes/",
+   "source": "CBS News",
+   "date": "2026-11-16T00:00:00+00:00",
+   "extrait": "This week, the families will finally be briefed on the results of the U.S. Army investigation into the strike.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "5fac6f461e8d",
+   "titre": "Kratom, an opioid, can lead to addiction and death. Yet, in most states, it's legal.",
+   "lien": "https://www.cbsnews.com/video/kratom-60-minutes-video-2026-11-15/",
+   "source": "CBS News",
+   "date": "2026-11-16T00:00:00+00:00",
+   "extrait": "Kratom products, sold at gas stations, have found allies in Washington. But health experts warn it is an addictive opioid, fueling increasing outrage that it remains legal in most states.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "6c9c646ef2c2",
    "titre": "Coming up on 60 Minutes: \"The Angola Prison Rodeo\"",
    "lien": "https://www.cbsnews.com/video/visting-angola-rodeo-60-minutes-video-2026-11-15/",
    "source": "CBS News",
-   "date": "2026-11-16T00:00:09+00:00",
+   "date": "2026-11-16T00:00:00+00:00",
    "extrait": "Next Sunday, 60 Minutes heads to a rodeo at the Louisiana State Penitentiary. The cowboys are prison inmates who've earned a chance to ride bulls and horses, something that gives them a sense of…",
    "tags": [],
    "zone": "usa"
@@ -395,7 +427,7 @@
    "titre": "John Malkovich: The 60 Minutes Interview",
    "lien": "https://www.cbsnews.com/video/john-malkovich-60-minutes-video-2026-11-15/",
    "source": "CBS News",
-   "date": "2026-11-16T00:00:05+00:00",
+   "date": "2026-11-16T00:00:00+00:00",
    "extrait": "John Malkovich says he couldn't teach the John Malkovich method—because there's no such thing—\"and I certainly wouldn't recommend studying it.\"",
    "tags": [],
    "zone": "usa"
@@ -407,6 +439,18 @@
    "source": "CBS News",
    "date": "2026-11-16T00:00:00+00:00",
    "extrait": "The families of U.S. soldiers killed in an Iranian drone strike in Kuwait want answers from the Pentagon. A 60 Minutes investigation examines U.S. military failures surrounding the March attack.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "83ed5164be86",
+   "titre": "11/15/2026: The Cost of War; Kratom; John Malkovich",
+   "lien": "https://www.cbsnews.com/video/60minutes-2026-11-15/",
+   "source": "CBS News",
+   "date": "2026-11-16T00:00:00+00:00",
+   "extrait": "First, hear from families of U.S. soldiers killed in Iran war. Then, Kratom: Addictive, or herbal supplement? And John Malkovich: The 60 Minutes Interview.",
    "tags": [
     "Conflits"
    ],
@@ -425,16 +469,16 @@
    "zone": "usa"
   },
   {
-   "id": "111652aa24a0",
-   "titre": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
-   "lien": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-15T23:52:10+00:00",
-   "extrait": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+   "id": "a88da11c281b",
+   "titre": "11/15: CBS Weekend News",
+   "lien": "https://www.cbsnews.com/video/111526-cbs-weekend-news/",
+   "source": "CBS News",
+   "date": "2026-11-15T23:30:00+00:00",
+   "extrait": "Travelers face more chaos as airlines scramble; Trump officials ask for $50 billion to overhaul air traffic control.",
    "tags": [
-    "Justice"
+    "Politique"
    ],
-   "zone": "monde"
+   "zone": "usa"
   },
   {
    "id": "9e29decc6c40",
@@ -551,6 +595,18 @@
    "extrait": "Les Bleus ont signé leur quatrième succès dans la compétition (2-1), dimanche soir à Bordeaux, et terminent premiers de leur groupe.",
    "tags": [],
    "zone": "france"
+  },
+  {
+   "id": "17e4ee8ba1e7",
+   "titre": "Canada bars Russia from Junior World Championships",
+   "lien": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-15T22:01:16+00:00",
+   "extrait": "Canada says it will not allow Russian athletes to compete in the Junior Ice Hockey World Championships because of the war in Ukraine.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
   },
   {
    "id": "5b9aec90bcd5",
@@ -1214,7 +1270,7 @@
   },
   {
    "id": "c763e73932f4",
-   "titre": "Au Cambodge, qui organise le sommet de l’Organisation internationale de la francophonie, le long déclin de la langue française",
+   "titre": "Au Cambodge, pays hôte du sommet de la francophonie, le lent déclin de la langue française",
    "lien": "https://www.lemonde.fr/international/article/2026/11/15/au-cambodge-qui-organise-le-sommet-de-l-organisation-internationale-de-la-francophonie-le-long-declin-de-la-langue-francaise_6811037_3210.html",
    "source": "Le Monde",
    "date": "2026-11-15T17:00:07+00:00",
@@ -3334,64 +3390,6 @@
     "Tech"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "ee629b7251e3",
-   "titre": "U.S. facilitating direct engagement between Europe and Russia",
-   "lien": "https://www.cbsnews.com/news/us-europe-russia-engagement-ukraine-war/",
-   "source": "CBS News",
-   "date": "2026-11-14T22:07:08+00:00",
-   "extrait": "President Trump's senior envoy and son-in-law, Jared Kushner, said they are also preparing for the next round of trilateral talks.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "d41dea7d57fb",
-   "titre": "SpaceX parvient à rattraper l’étage supérieur de sa mégafusée Starship, une première",
-   "lien": "https://www.lemonde.fr/sciences/article/2026/11/14/spacex-parvient-a-rattraper-l-etage-superieur-de-sa-megafusee-starship-une-premiere_6810676_1650684.html",
-   "source": "Le Monde",
-   "date": "2026-11-14T21:55:14+00:00",
-   "extrait": "Cette récupération constitue une avancée considérable dans le développement de la plus grande et la plus puissante fusée jamais construite, conçue pour réaliser des voyages vers la Lune et Mars et…",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "8e5022d867cd",
-   "titre": "Acte V du mouvement social : des revendications variées, une affluence en baisse",
-   "lien": "https://www.france24.com/fr/france/20261114-acte-v-du-mouvement-social-des-revendications-vari%C3%A9es-une-affluence-en-baisse",
-   "source": "France 24",
-   "date": "2026-11-14T21:43:20+00:00",
-   "extrait": "Lors de l'acte V du mouvement social qui ébranle la France, quelque 106 000 à 200 000 personnes ont défilé samedi dans toute la France, selon les chiffres du ministère de l'Intérieur et…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "5f3128295c2d",
-   "titre": "SpaceX successfully catches Starship and makes history",
-   "lien": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
-   "source": "NPR",
-   "date": "2026-11-14T21:42:41+00:00",
-   "extrait": "The company's spacecraft returned to its Texas launchpad in dramatic fashion — by carefully lowering itself until two metal arms attached to the launch tower could secure it.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "fd1142ebeff7",
-   "titre": "Au Portugal, des milliers de manifestants défilent pour dénoncer la crise du logement",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/14/au-portugal-des-milliers-de-manifestants-defilent-pour-denoncer-la-crise-du-logement_6810643_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-14T21:17:50+00:00",
-   "extrait": "Le Portugal est le pays de l’Union européenne où les prix du logement ont le plus augmenté par rapport aux revenus des ménages entre 2015 et 2025. L’indicateur mesurant cette évolution a bondi de…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
   }
  ]
 }
