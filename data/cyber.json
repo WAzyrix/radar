@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-16T13:05:42+00:00",
+ "maj": "2026-11-16T14:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,6 +24,18 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "2e40619c86da",
+   "titre": "Google warns that fully-automated AI attacks are coming soon",
+   "lien": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
+   "source": "BleepingComputer",
+   "date": "2026-11-16T14:00:00+00:00",
+   "extrait": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
+   "tags": [
+    "Faille",
+    "IA"
+   ]
+  },
+  {
    "id": "a1dd8f56b81d",
    "titre": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
    "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
@@ -32,6 +44,28 @@
    "extrait": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months. [...]",
    "tags": [
     "Windows"
+   ]
+  },
+  {
+   "id": "119c79e2a817",
+   "titre": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
+   "lien": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
+   "source": "The Hacker News",
+   "date": "2026-11-16T12:34:21+00:00",
+   "extrait": "Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier this week. No…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "8c37ef3c2776",
+   "titre": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
+   "lien": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
+   "source": "The Hacker News",
+   "date": "2026-11-16T12:33:18+00:00",
+   "extrait": "Cybersecurity researchers have disclosed details of a new variant of CoffeeLoader, a malware designed to deliver additional payloads to infected machines. \"On launch, the NSIS-based installer…",
+   "tags": [
+    "Malware"
    ]
   },
   {
@@ -3378,38 +3412,6 @@
    "tags": [
     "Faille",
     "Fuite de données"
-   ]
-  },
-  {
-   "id": "1413af0079f4",
-   "titre": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
-   "lien": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
-   "source": "BleepingComputer",
-   "date": "2026-11-04T19:05:19+00:00",
-   "extrait": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
-   "tags": [
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "801b944f5621",
-   "titre": "Cyberattack disrupts blood storage refrigeration systems in France",
-   "lien": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
-   "source": "BleepingComputer",
-   "date": "2026-11-04T18:02:56+00:00",
-   "extrait": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored…",
-   "tags": []
-  },
-  {
-   "id": "3260cc514267",
-   "titre": "CTF Social Engineering : trois jours pour piéger l’humain",
-   "lien": "https://www.zataz.com/ctf-social-engineering-trois-jours-pour-pieger-lhumain/",
-   "source": "Zataz",
-   "date": "2026-11-04T17:35:25+00:00",
-   "extrait": "Hackfest Québec 2026 : deuxième place au CTF de Social Engineering, 43 appels et trois outils de renseignement.",
-   "tags": [
-    "Fuite de données",
-    "Outil"
    ]
   }
  ]
