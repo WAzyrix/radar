@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-16T15:05:42+00:00",
+ "maj": "2026-11-16T16:05:46+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -19,19 +19,471 @@
   "Tech",
   "Sport"
  ],
- "erreurs": [],
+ "erreurs": [
+  "franceinfo"
+ ],
  "articles": [
   {
+   "id": "8956cf8b412c",
+   "titre": "Iran rules out nuclear site inspections until war ends",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
+   "source": "CBS News",
+   "date": "2026-11-16T16:04:57+00:00",
+   "extrait": "Iran says it will not let U.N. inspectors return to assess damaged nuclear sites until the war with the U.S. is \"permanently ended.\"",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "7a92881acaaf",
+   "titre": "Trump says he \"would not mind\" if Nvidia reinstated Jensen Huang",
+   "lien": "https://www.cbsnews.com/news/trump-nvidia-jensen-huang/",
+   "source": "CBS News",
+   "date": "2026-11-16T16:04:21+00:00",
+   "extrait": "President Trump said Jensen Huang \"learned a big lesson.\" Huang, the former CEO of Nvidia, resigned last week amid allegations of two affairs.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "8d5a143784b6",
+   "titre": "Five EU countries announce migrant deportation centre in Rwanda",
+   "lien": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-16T16:03:24+00:00",
+   "extrait": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "fb9eceeb96f9",
+   "titre": "Witness describes surviving tanker collision in New Orleans: \"It's gonna kill us\"",
+   "lien": "https://www.cbsnews.com/video/witness-describes-surviving-tanker-collision-in-new-orleans-its-gonna-kill-us/",
+   "source": "CBS News",
+   "date": "2026-11-16T15:59:50+00:00",
+   "extrait": "More than 30 people ended up in the Mississippi River after a tanker collided with a cruise ship in New Orleans. CBS News' Jason Allen reports.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "43a45e052a5e",
+   "titre": "New James Bond is announced after rampant speculation",
+   "lien": "https://www.cbsnews.com/news/james-bond-007-robert-pattinson/",
+   "source": "CBS News",
+   "date": "2026-11-16T15:59:12+00:00",
+   "extrait": "After rampant online speculation about who would take over the iconic spy character from Daniel Craig, the franchise announced who the new 007 will be.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "602560355699",
+   "titre": "Yémen : le siège du gouvernement menacé par les rebelles Houthis ?",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-y%C3%A9men-le-si%C3%A8ge-du-gouvernement-menac%C3%A9-par-les-rebelles-houthis",
+   "source": "France 24",
+   "date": "2026-11-16T15:58:48+00:00",
+   "extrait": "Les Houthis sont désormais stationnés dimanche 15 novembre dans le camp d'al-Kharaz, à al-Madharibah, à 60 km de cette importante ville côtière où le gouvernement, internationalement reconnu, s'est…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "b138e6ef89e7",
+   "titre": "Diesel prices dip below $6 a gallon for first time since September",
+   "lien": "https://www.cbsnews.com/news/diesel-prices-fall-below-6-gallon/",
+   "source": "CBS News",
+   "date": "2026-11-16T15:58:25+00:00",
+   "extrait": "Diesel around the U.S. now averages $5.99 a gallon, down from a record high of $6.53 in September, according to AAA.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "e5788b5832c7",
+   "titre": "Supreme Court rejects case on Trump's bid to cut grants related to DEI",
+   "lien": "https://www.cbsnews.com/news/supreme-court-trump-dei-research-grants/",
+   "source": "CBS News",
+   "date": "2026-11-16T15:55:31+00:00",
+   "extrait": "Two federal agencies had moved to cancel grants to researchers at the University of California that they said did not align with President Trump's policies on DEI.",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "ddc71024ad0d",
+   "titre": "France : Depardieu condamné pour agressions sexuelles, les victimes soulagées mais perplexes",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-france-depardieu-condamn%C3%A9-pour-agressions-sexuelles-les-victimes-soulag%C3%A9es-mais-perplexes",
+   "source": "France 24",
+   "date": "2026-11-16T15:55:12+00:00",
+   "extrait": "Gérard Depardieu a renoncé, lundi 16 novembre, à son procès en appel pour agressions sexuelles lors du tournage du film \"Les Volets verts\", présentant des \"excuses profondes et sincères\" aux…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "5ab2f9de45ae",
-   "titre": "Watch Live: Lindsay Clancy to be retried on first-degree murder charges",
+   "titre": "Lindsay Clancy to be retried on first-degree murder charges in March",
    "lien": "https://www.cbsnews.com/news/lindsay-clancy-hearing/",
    "source": "CBS News",
-   "date": "2026-11-16T15:04:56+00:00",
-   "extrait": "Prosecutors plan to retry Lindsay Clancy on first-degree murder charges again, after her first Massachusetts murder trial ended in a mistrial.",
+   "date": "2026-11-16T15:55:00+00:00",
+   "extrait": "Prosecutors plan to retry Lindsay Clancy on first-degree murder charges, after her first Massachusetts murder trial ended in a mistrial.",
    "tags": [
     "Justice"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "f672c9fe234d",
+   "titre": "Présidence de la Fifa : le Français Philippe Diallo candidat contre Infantino",
+   "lien": "https://www.france24.com/fr/sports/20261116-presidence-fifa-philippe-diallo-candidat-contre-infantino",
+   "source": "France 24",
+   "date": "2026-11-16T15:54:36+00:00",
+   "extrait": "Le président de la Fédération française de football (FFF), Philippe Diallo, est soutenu par l'UEFA pour briguer la présidence de la Fifa le 18 mars prochain. L'instance européenne est en conflit…",
+   "tags": [
+    "Politique",
+    "Sport"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "30b210965c19",
+   "titre": "Philippe Diallo candidat à la présidence de la FIFA face à Gianni Infantino",
+   "lien": "https://www.lemonde.fr/sport/article/2026/11/16/philippe-diallo-candidat-a-la-presidence-de-la-fifa-face-a-gianni-infantino_6812163_3242.html",
+   "source": "Le Monde",
+   "date": "2026-11-16T15:54:25+00:00",
+   "extrait": "Le président de la Fédération française de football a été désigné, lundi, par le comité exécutif de l’UEFA pour s’opposer au puissant patron du football mondial lors de l’élection de mars 2027.",
+   "tags": [
+    "Politique",
+    "Sport"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "b12c3fee8f48",
+   "titre": "Renault va embaucher 1 650 ouvriers en France, mais prévoit jusqu’à 1 000 départs volontaires de cols blancs",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/16/renault-va-embaucher-1-650-ouvriers-en-france-mais-prevoit-jusqu-a-1-000-departs-volontaires-de-cols-blancs_6812162_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-16T15:52:49+00:00",
+   "extrait": "Porté par l’essor de ses ventes de voitures électriques, le constructeur entend titulariser une partie de ses intérimaires, tout en réduisant les effectifs des fonctions indirectes de production.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "b638fcffaad9",
+   "titre": "Best CD rates of November 2026: Up to 5.00% APY",
+   "lien": "https://www.cbsnews.com/moneywatch/banking/cd-rates/",
+   "source": "CBS News",
+   "date": "2026-11-16T15:49:33+00:00",
+   "extrait": "Want to open a CD account this month? These are the best interest rates to know right now.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "8c391b3cbd30",
+   "titre": "Guerre hybride : l'Estonie verrouille sa frontière, une réponse efficace à la menace russe ?",
+   "lien": "https://www.france24.com/fr/europe/20261116-guerre-hybride-l-estonie-verrouille-sa-fronti%C3%A8re-une-r%C3%A9ponse-efficace-%C3%A0-la-menace-russe",
+   "source": "France 24",
+   "date": "2026-11-16T15:48:18+00:00",
+   "extrait": "L’Estonie a annoncé, dimanche, la fermeture de sa frontière avec la Russie après avoir accusé cette dernière d’avoir orchestré une tentative de sabotage d’une usine de drones. Mais à l’heure…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "119ba4e8febe",
+   "titre": "Riposte ukrainienne : l'unique laison entre la Russie et la péninsule interrompue",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-riposte-ukrainienne-l-unique-laison-entre-la-russie-et-la-p%C3%A9ninsule-interrompue",
+   "source": "France 24",
+   "date": "2026-11-16T15:47:32+00:00",
+   "extrait": "L'Ukraine, qui a frappé le pont reliant la Russie à la Crimée et pris pour cible des raffineries de pétrole, a mené, lundi 16 novembre, sa plus grande attaque nocturne de drones contre la Russie…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "d3051b387646",
+   "titre": "Commerce Department moves to curb remote access to AI chips",
+   "lien": "https://www.cbsnews.com/news/nvidia-jensen-huang-commerce-department-limit-remote-access-ai-chips/",
+   "source": "CBS News",
+   "date": "2026-11-16T15:43:21+00:00",
+   "extrait": "U.S. announces a temporary rule to limit foreign countries' access to advanced chips via data centers in other countries.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "59ac2f03f31f",
+   "titre": "Trump takes questions on FAA ground stop, Jensen Huang before heading to Asia for Xi meeting",
+   "lien": "https://www.cbsnews.com/video/trump-takes-questions-on-faa-ground-stop-jensen-huang-before-heading-to-china-for-xi-meeting/",
+   "source": "CBS News",
+   "date": "2026-11-16T15:43:06+00:00",
+   "extrait": "President Trump took questions before heading to Asia, where he will meet with Chinese President Xi Jinping. Mr. Trump was asked about the nationwide ground stop at U.S. airports and the scandal…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "fc667d3c51c9",
+   "titre": "Neighbors find sweet way to cheer up boy with leukemia",
+   "lien": "https://www.cbsnews.com/video/neighbors-find-sweet-way-to-cheer-up-boy-with-leukemia/",
+   "source": "CBS News",
+   "date": "2026-11-16T15:42:54+00:00",
+   "extrait": "On this installment of Beg-Knows America, David Begnaud meets a young New Hampshire boy with leukemia whose neighbors found a way to cheer him up between doctor visits.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "768c19f74926",
+   "titre": "Amérique du Sud : le pape Léon XIV met fin à sa tournée de 12 jours",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-am%C3%A9rique-du-sud-le-pape-l%C3%A9on-xiv-met-fin-%C3%A0-sa-tourn%C3%A9e-de-12-jours",
+   "source": "France 24",
+   "date": "2026-11-16T15:40:39+00:00",
+   "extrait": "Le pape Léon XIV achève, lundi 16 novembre, une tournée de douze jours en Amérique du Sud, un retour aux sources qui a levé les doutes sur sa convalescence après une opération d'un cancer. À 71 ans…",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "ee70573602cd",
+   "titre": "Ligue des nations : les Bleus qualifiés pour les quarts malgré une prestation mitigée",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-ligue-des-nations-les-bleus-qualifi%C3%A9s-pour-les-quarts-malgr%C3%A9-une-prestation-mitig%C3%A9e",
+   "source": "France 24",
+   "date": "2026-11-16T15:38:11+00:00",
+   "extrait": "L'équipe de France s'est qualifiée dimanche 15 novembre pour les ⁠quarts de finale ​de la Ligue des nations à la suite de sa victoire contre la Turquie (2-1), au stade Atlantique de Bordeaux, malgré…",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "8822240bdef8",
+   "titre": "Trump heads to Asia for Putin, Xi summit; possible Kim meeting",
+   "lien": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
+   "source": "CBS News",
+   "date": "2026-11-16T15:35:08+00:00",
+   "extrait": "President Trump is setting off on a multi-day swing in Asia, where he's scheduled to meet with Russian President Vladimir Putin and China's President Xi Jinping for a highly anticipated summit.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "2accc64296aa",
+   "titre": "Un \"vortex polaire\" inédit en Europe : la précocité de ces vents violents inquiète",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-un-vortex-polaire-in%C3%A9dit-en-europe-la-pr%C3%A9cocit%C3%A9-de-ces-vents-violents-inqui%C3%A8te",
+   "source": "France 24",
+   "date": "2026-11-16T15:34:57+00:00",
+   "extrait": "Effet direct du dérèglement climatique : après les canicules de l'été passé, l'hémisphère nord, et notamment l'Europe, pourraient connaître un hiver extrêmement rigoureux. En cause : la…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "d0a383a26f9d",
+   "titre": "Drawing China close, is Kim Jong Un bracing to confront the U.S.?",
+   "lien": "https://www.cbsnews.com/news/north-korea-china-russia-kim-jong-un-nuclear-weapons-us-confrontation/",
+   "source": "CBS News",
+   "date": "2026-11-16T15:32:54+00:00",
+   "extrait": "As North Korea and China draw closer together, is Kim Jong Un ramping up for a confrontation with the U.S.?",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "cb65d38b18ad",
+   "titre": "Immigration aux Canaries : des arrivées en nombre sur l'île d'El Hierro",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-immigration-aux-canaries-des-arriv%C3%A9es-en-nombre-sur-l-%C3%AEle-d-el-hierro",
+   "source": "France 24",
+   "date": "2026-11-16T15:32:32+00:00",
+   "extrait": "Au cours des dix premiers jours du mois de novembre, près de 6 000 clandestins sont arrivés aux Canaries, pour l’essentiel sur l’île d’El Hierro, qui compte 12 000 habitants. Un afflux qui…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "349134aed1b0",
+   "titre": "Trump says he wouldn't mind seeing Huang return to Nvidia",
+   "lien": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-16T15:31:20+00:00",
+   "extrait": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+   "tags": [
+    "Politique",
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "8f77a820c116",
+   "titre": "République tchèque : mobilisation massive pour défendre les médias publics",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-r%C3%A9publique-tch%C3%A8que-mobilisation-massive-pour-d%C3%A9fendre-les-m%C3%A9dias-publics",
+   "source": "France 24",
+   "date": "2026-11-16T15:30:27+00:00",
+   "extrait": "Des centaines de milliers de Tchèques ont manifesté à Prague dimanche contre le projet du gouvernement nationaliste d'Andrej Babis de réformer le financement des médias publics, une initiative…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "afea15f864cb",
+   "titre": "Robert Pattinson va incarner James Bond, devenant le septième acteur à interpréter le célèbre espion britannique au cinéma",
+   "lien": "https://www.lemonde.fr/culture/article/2026/11/16/robert-pattinson-va-incarner-james-bond-devenant-le-septieme-acteur-a-interpreter-le-celebre-espion-britannique-au-cinema_6812095_3246.html",
+   "source": "Le Monde",
+   "date": "2026-11-16T15:28:45+00:00",
+   "extrait": "La désignation de l’acteur britannique intervient pendant la plus longue pause de l’histoire de l’emblématique espion au cinéma, et met fin à des années de spéculations sur celui qui reprendrait le…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "af1f4b03bec6",
+   "titre": "Woman buys Ford Bronco to drive home after ground stop",
+   "lien": "https://www.cbsnews.com/video/woman-buys-ford-bronco-to-drive-home-after-ground-stop/",
+   "source": "CBS News",
+   "date": "2026-11-16T15:26:19+00:00",
+   "extrait": "One woman who was stranded in North Carolina during the nationwide ground stop ended up buying a Ford Bronco to drive herself and two employees 27 hours home to North Dakota. Kris Van Cleave reports.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "97ff4877a308",
+   "titre": "Guerre en Ukraine : l'armée française joue-t-elle un rôle actif dans le pays ?",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-guerre-en-ukraine-l-arm%C3%A9e-fran%C3%A7aise-joue-t-elle-un-r%C3%B4le-actif-dans-le-pays",
+   "source": "France 24",
+   "date": "2026-11-16T15:26:07+00:00",
+   "extrait": "De petits contingents de soldats français opèrent depuis plusieurs mois en Ukraine pour former des militaires ukrainiens et participer à l'entretien des matériels, mais leur mission exclut toute…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "a751dba5fcfb",
+   "titre": "Lindsay Clancy will be retried on first-degree murder charges in 2027",
+   "lien": "https://www.cbsnews.com/video/lindsay-clancy-will-be-retried-on-first-degree-murder-charges/",
+   "source": "CBS News",
+   "date": "2026-11-16T15:26:04+00:00",
+   "extrait": "Prosecutors are planning to retry Lindsay Clancy on first-degree murder charges. CBS News' Shanelle Kaul reports.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "24b8410b1a47",
+   "titre": "Musk, Nvidia workers call for Huang return at Nvidia in petition",
+   "lien": "https://www.cbsnews.com/news/jensen-huang-nvidia-ceo-reinstatement-petition/",
+   "source": "CBS News",
+   "date": "2026-11-16T15:23:52+00:00",
+   "extrait": "An online petition to bring back Jensen Huang, who resigned last week as CEO, has drawn more than 170,000 signatures, including almost 9,000 current Nvidia employees.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "7cae0613b3c9",
+   "titre": "Épilogue du procès Kessaci en France : émotions et tensions en salle d'audience",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-%C3%A9pilogue-du-proc%C3%A8s-kessaci-en-france-%C3%A9motions-et-tensions-en-salle-d-audience",
+   "source": "France 24",
+   "date": "2026-11-16T15:23:19+00:00",
+   "extrait": "Avant que les magistrats ne se retirent, le lundi 16 novembre au matin, pour délibérer, les deux figures du narcotrafic, Amine Oualane et Karim Harrat, ont une nouvelle fois nié toute implication…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "71fbf9daaa7b",
+   "titre": "Triple narchomicide en France : retour sur le procès mené par la famille Kessaci",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-triple-narchomicide-en-france-retour-sur-le-proc%C3%A8s-men%C3%A9-par-la-famille-kessaci",
+   "source": "France 24",
+   "date": "2026-11-16T15:20:28+00:00",
+   "extrait": "Après un mois de débats sous haute tension au procès d'un triple narchomicide sanglant commis près de Marseille, la cour d’assises rend, lundi 16 novembre, son verdict, très attendu par Amine…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "a94bde5666da",
+   "titre": "3 checking account questions to ask yourself right now",
+   "lien": "https://www.cbsnews.com/news/checking-account-questions-to-ask-now/",
+   "source": "CBS News",
+   "date": "2026-11-16T15:19:02+00:00",
+   "extrait": "Don't assume you current checking account is working well without first asking yourself these three questions.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "c25a4660995c",
+   "titre": "COP31 : un projet d'accord pour accélérer la sortie des énergies fossiles sur la table",
+   "lien": "https://www.france24.com/fr/plan%C3%A8te/20261116-cop31-un-projet-d-accord-pour-acc%C3%A9l%C3%A9rer-la-sortie-des-%C3%A9nergies-fossiles-sur-la-table",
+   "source": "France 24",
+   "date": "2026-11-16T15:18:28+00:00",
+   "extrait": "Un premier projet de décision proposant d'accélérer la sortie des énergies fossiles a émergé, lundi, à la COP31, mais la route reste encore longue avant un potentiel consensus sur un accord.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "f0604314ecd3",
+   "titre": "Women in U.K. are getting automatic pardons for past abortion convictions",
+   "lien": "https://www.cbsnews.com/news/women-uk-automatic-pardons-past-abortion-convictions/",
+   "source": "CBS News",
+   "date": "2026-11-16T15:14:35+00:00",
+   "extrait": "Women who have received a caution from police will also be pardoned, and women arrested or investigated for ending their own pregnancy will have those details removed from their criminal records.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "5a534ad28904",
+   "titre": "The 5 best checking accounts of November 2026",
+   "lien": "https://www.cbsnews.com/moneywatch/banking/checking-accounts/",
+   "source": "CBS News",
+   "date": "2026-11-16T15:14:11+00:00",
+   "extrait": "The best checking accounts offer bonuses, competitive rates, and low fees. Review the best options available today.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "015ee5165773",
+   "titre": "Trump says he may meet with North Korea's Kim Jong Un in China",
+   "lien": "https://www.cbsnews.com/news/trump-says-may-meet-kim-jong-un-china/",
+   "source": "CBS News",
+   "date": "2026-11-16T15:11:50+00:00",
+   "extrait": "President Trump said he may meet with North Korean leader Kim Jong Un on his China trip this week.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "f49fc9881d77",
+   "titre": "En Espagne, le mystère s’épaissit autour de la mort du fondateur de Mango",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/16/en-espagne-le-mystere-s-epaissit-autour-de-la-mort-du-fondateur-de-mango_6812062_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-16T15:07:14+00:00",
+   "extrait": "En dépit de plusieurs simulations de chute dans le ravin où Isak Andic est décédé en décembre 2024, la police se dit incapable de déterminer si quelqu’un a pu le pousser, en l’occurrence son fils…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "fae47e32592d",
+   "titre": "CAN 2027 : le Sénégal se fait peur au Soudan, le Cameroun 1er qualifié sur le terrain",
+   "lien": "https://www.france24.com/fr/sports/20261116-can-2027-senegal-soudan-cameroun-1er-qualifie",
+   "source": "France 24",
+   "date": "2026-11-16T15:04:04+00:00",
+   "extrait": "Le Sénégal et le Cameroun ont remporté leur match de la quatrième journée des éliminatoires de la CAN 2027 qui les opposait respectivement au Soudan et à la Namibie. Les Lions de la Teranga, qui se…",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "330afb4c4972",
@@ -47,28 +499,40 @@
    "zone": "france"
   },
   {
-   "id": "015ee5165773",
-   "titre": "Trump says he \"may\" meet with North Korea's Kim Jong Un in China",
-   "lien": "https://www.cbsnews.com/news/trump-says-may-meet-kim-jong-un-china/",
-   "source": "CBS News",
-   "date": "2026-11-16T15:01:49+00:00",
-   "extrait": "President Trump said he \"may\" meet with North Korean leader Kim Jong Un on his China trip this week.",
+   "id": "48127eea911c",
+   "titre": "Le procès de Pierre Ménès pour agressions et harcèlements sexuels s’est ouvert à Nanterre",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/16/le-proces-de-pierre-menes-pour-agressions-et-harcelements-sexuels-s-est-ouvert-a-nanterre_6812030_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-16T15:03:19+00:00",
+   "extrait": "L’ancien chroniqueur star de Canal+ est jugé à partir de lundi 16 novembre pour agressions et harcèlement sexuels sur trois femmes.",
    "tags": [
-    "Politique"
+    "Justice"
    ],
-   "zone": "usa"
+   "zone": "france"
   },
   {
    "id": "5d976d8770f1",
-   "titre": "Avant la sortie de GTA VI, les internautes en ébullition : « J’ai du mal à trouver le sommeil »",
+   "titre": "Avant la sortie de « GTA VI », les internautes en ébullition : « J’ai du mal à trouver le sommeil »",
    "lien": "https://www.lemonde.fr/pixels/article/2026/11/16/avant-la-sortie-de-gta-vi-les-internautes-en-ebullition-j-ai-du-mal-a-trouver-le-sommeil_6812029_4408996.html",
    "source": "Le Monde",
-   "date": "2026-11-16T15:00:59+00:00",
+   "date": "2026-11-16T15:00:58+00:00",
    "extrait": "Sur les réseaux sociaux, les fans de « Grand Theft Auto » débordent d’enthousiasme à trois jours de sa sortie, jeudi 19 novembre, partageant par millions sketchs, vidéos IA et témoignages.",
    "tags": [
     "Tech"
    ],
    "zone": "france"
+  },
+  {
+   "id": "717c962de6d5",
+   "titre": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+   "lien": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-16T14:58:12+00:00",
+   "extrait": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
   },
   {
    "id": "98f139fb7abc",
@@ -81,23 +545,11 @@
    "zone": "usa"
   },
   {
-   "id": "8822240bdef8",
-   "titre": "Trump heads to Asia for Putin, Xi summit; possible Kim meeting",
-   "lien": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
-   "source": "CBS News",
-   "date": "2026-11-16T14:57:45+00:00",
-   "extrait": "President Trump is setting off on a multi-day swing in Asia, where he's scheduled to meet with Russian President Vladimir Putin and China's President Xi Jinping for a highly anticipated summit.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "4330b523a250",
    "titre": "Travelers are still stranded after historic FAA ground stop",
    "lien": "https://www.cbsnews.com/video/travelers-are-still-stranded-after-historic-faa-ground-stop/",
    "source": "CBS News",
-   "date": "2026-11-16T14:53:07+00:00",
+   "date": "2026-11-16T14:53:00+00:00",
    "extrait": "Some flight cancellations and delays persist as Americans grapple with a ground stop that blanketed U.S. airports Friday. CBS News' Kris Van Cleave reports.",
    "tags": [],
    "zone": "usa"
@@ -117,7 +569,7 @@
    "titre": "Raye leads the 2027 Grammy nominations. See the list.",
    "lien": "https://www.cbsnews.com/news/grammy-awards-2027-nominations-list/",
    "source": "CBS News",
-   "date": "2026-11-16T14:51:20+00:00",
+   "date": "2026-11-16T14:51:00+00:00",
    "extrait": "English singer-songwriter Raye is up for 11 awards at the 2027 Grammys, followed by Spanish singer Rosalía​ with nine nominations.",
    "tags": [],
    "zone": "usa"
@@ -200,18 +652,6 @@
    "date": "2026-11-16T14:39:52+00:00",
    "extrait": "Elizabeth Holmes' partner Billy Evans sat down with Matt Gutman on \"CBS Sunday Morning\" to discuss the viral documentary \"You Can See Everything,\" and explain why he'd do it all over again.",
    "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "8956cf8b412c",
-   "titre": "Iran rules out nuclear site inspections until war ends",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
-   "source": "CBS News",
-   "date": "2026-11-16T14:34:22+00:00",
-   "extrait": "Iran says it will not let U.N. inspectors return to assess damaged nuclear sites until the war with the U.S. is \"permanently ended.\"",
-   "tags": [
-    "Conflits"
-   ],
    "zone": "usa"
   },
   {
@@ -372,16 +812,6 @@
    "tags": [
     "Politique"
    ],
-   "zone": "usa"
-  },
-  {
-   "id": "24b8410b1a47",
-   "titre": "Musk, Nvidia workers call for Huang return at Nvidia in petition",
-   "lien": "https://www.cbsnews.com/news/jensen-huang-nvidia-ceo-reinstatement-petition/",
-   "source": "CBS News",
-   "date": "2026-11-16T14:11:49+00:00",
-   "extrait": "An online petition to bring back Jensen Huang, who resigned last week as CEO, has drawn more than 170,000 signatures, including almost 9,000 current Nvidia employees.",
-   "tags": [],
    "zone": "usa"
   },
   {
@@ -696,13 +1126,14 @@
   },
   {
    "id": "45c474bacb90",
-   "titre": "EN DIRECT, présidentielle 2027 : « En France, seul le smic est indexé sur l’inflation. C’est donc le seul salaire qui garantit le pouvoir d’achat. »",
+   "titre": "EN DIRECT, présidentielle 2027 : le taux de pauvreté n’a jamais été aussi haut depuis trente ans... suivez notre live consacré à la vie chère, avec des témoignages, des analyses et des graphiques",
    "lien": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/11/16/en-direct-presidentielle-2027-pouvoir-d-achat-posez-vos-questions-a-l-economiste-mathieu-plane_6811633_6205049.html",
    "source": "Le Monde",
    "date": "2026-11-16T12:59:22+00:00",
-   "extrait": "Les Français ont-ils perdu du pouvoir d’achat ces dernières années ? Quelles classes sociales ont été le plus touchées ? Quelles sont les causes de ce décrochage ? Mathieu Plane, économiste et…",
+   "extrait": "Après la quatorzième édition de notre enquête quantitative annuelle « Fractures françaises », suivez notre live consacré à la vie chère, au pouvoir d’achat et à la précarité. Nous vous proposerons…",
    "tags": [
-    "Économie"
+    "Politique",
+    "Justice"
    ],
    "zone": "france"
   },
@@ -729,16 +1160,6 @@
     "Justice"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "8d5a143784b6",
-   "titre": "Five EU countries expected to announce migrant deportation centre in Rwanda",
-   "lien": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-16T12:54:44+00:00",
-   "extrait": "Germany, Denmark, Austria, Greece and the Netherlands are expected to announce a \"return hub\" for failed asylum seekers.",
-   "tags": [],
-   "zone": "monde"
   },
   {
    "id": "77c46c974653",
@@ -780,18 +1201,6 @@
    "date": "2026-11-16T12:27:15+00:00",
    "extrait": "Riad Bouchaker was sentenced after the attempted murder of three children in November 2023.",
    "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "349134aed1b0",
-   "titre": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
-   "lien": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-16T12:20:49+00:00",
-   "extrait": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-   "tags": [
-    "Tech"
-   ],
    "zone": "monde"
   },
   {
@@ -956,7 +1365,7 @@
    "lien": "https://www.npr.org/2026/11/16/nx-s1-6041687/chris-van-hollen-chuck-schumer-senate-leader",
    "source": "NPR",
    "date": "2026-11-16T11:39:14+00:00",
-   "extrait": "Sen. Chris Van Hollen told NPR's Morning Edition why he believes he can defeat Chuck Schumer and what he would change about Senate Democratic leadership.",
+   "extrait": "Sen. Chris Van Hollen told NPR's Morning Edition why he believes he can defeat Sen. Chuck Schumer and what he would change about Senate Democratic leadership.",
    "tags": [
     "Politique"
    ],
@@ -1492,6 +1901,16 @@
    "source": "NPR",
    "date": "2026-11-16T09:45:55+00:00",
    "extrait": "Childcare costs have surged, putting a major financial burden on U.S. families. Advocates say the subject once on the fringes of political debate became a major issue during the midterms.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "0b5b4e06cd88",
+   "titre": "New Mexico wanted free childcare for all. There's just one drawback",
+   "lien": "https://www.npr.org/2026/11/16/nx-s1-5819524/new-mexico-wanted-free-childcare-for-all-theres-just-one-drawback",
+   "source": "NPR",
+   "date": "2026-11-16T09:45:49+00:00",
+   "extrait": "About a year ago, New Mexico became the first state to offer free childcare to every eligible family, regardless of income. One catch: The state doesn't have the capacity to meet the demand.",
    "tags": [],
    "zone": "usa"
   },
@@ -3008,422 +3427,6 @@
     "Justice"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "0831b451bfff",
-   "titre": "Au Yémen, le camp gouvernemental redéploie des renforts autour d’Aden, menacée par les houthistes",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/15/au-yemen-le-camp-gouvernemental-redeploie-des-renforts-autour-d-aden-menacee-par-les-houthistes_6811027_3211.html",
-   "source": "Le Monde",
-   "date": "2026-11-15T20:16:11+00:00",
-   "extrait": "Le redéploiement des troupes gouvernementales de la région de Bab Al-Mandab vers la capitale provisoire va permettre aux houthistes de consolider leur contrôle du détroit stratégique de Bab…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "479b1f449dda",
-   "titre": "Mortiers d'artifice : malgré le décret du gouvernement, des vendeurs continuent de les proposer",
-   "lien": "https://www.franceinfo.fr/societe/mortiers-d-artifice-malgre-le-decret-du-gouvernement-des-vendeurs-continuent-de-les-proposer_8283896.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-15T20:08:26+00:00",
-   "extrait": "Les mortiers d'artifice sont de plus en plus utilisés à des fins dangereuses, notamment lors de manifestations ou aux abords d'établissements scolaires. Face à la multiplication des incidents, le…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "1615156006cf",
-   "titre": "Transcript: Sen. Bill Cassidy on \"Face the Nation with Margaret Brennan,\" Nov. 15, 2026",
-   "lien": "https://www.cbsnews.com/news/bill-cassidy-louisiana-republican-face-the-nation-transcript-11-15-2026/",
-   "source": "CBS News",
-   "date": "2026-11-15T20:07:02+00:00",
-   "extrait": "The following is the transcript of the interview with Sen. Bill Cassidy, Republican of Louisiana, that aired on \"Face the Nation with Margaret Brennan\" on Nov. 15, 2026.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "35c70eaa4618",
-   "titre": "Cassidy slams RFK Jr. for \"series of failures\" as HHS secretary",
-   "lien": "https://www.cbsnews.com/news/rfjk-series-of-failures-hhs-bill-cassidy-face-the-nation/",
-   "source": "CBS News",
-   "date": "2026-11-15T20:04:57+00:00",
-   "extrait": "GOP Sen. Bill Cassidy of Louisiana railed against Robert F. Kennedy Jr. for what he called a \"series of failures\" at the helm of the Department of Health and Human Services.",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "c5a57506df52",
-   "titre": "Vulcan rocket fails in major setback for United Launch Alliance",
-   "lien": "https://www.cbsnews.com/news/vulcan-rocket-40-amazon-leo-internet-satellites-launch-mishap/",
-   "source": "CBS News",
-   "date": "2026-11-15T20:04:05+00:00",
-   "extrait": "The loss of its new Vulcan rocket was the first outright failure for United Launch Alliance, a major setback in the commercial launch industry.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "4191d90caf7a",
-   "titre": "Transcript: Rep. John Moolenaar on \"Face the Nation with Margaret Brennan,\" Nov. 15, 2026",
-   "lien": "https://www.cbsnews.com/news/john-moolenaar-michigan-republican-face-the-nation-transcript-11-15-2026/",
-   "source": "CBS News",
-   "date": "2026-11-15T20:03:16+00:00",
-   "extrait": "The following is the transcript of the interview with Rep. John Moolenaar, Republican of Michigan, that aired on \"Face the Nation with Margaret Brennan\" on Nov. 15, 2026.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "30e62d2d9f1e",
-   "titre": "La CFDT rejoint la mobilisation du 17 novembre parce que \"nos revendications n'ont pas abouti\", explique le syndicat",
-   "lien": "https://www.franceinfo.fr/economie/transports/mobilisation-du-17-novembre/la-cfdt-rejoint-la-mobilisation-du-17-novembre-parce-que-nos-revendications-n-ont-pas-abouti-explique-le-syndicat_8283890.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-15T19:44:28+00:00",
-   "extrait": "Lors de la réunion avec l'intersyndicale de la fonction publique vendredi, le Premier ministre a annoncé l'ouverture d'une discussion d'un mois pour revaloriser les bas salaires, des mesures \"qui ne…",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "159e679b107f",
-   "titre": "Sen. Bill Cassidy saying RFK Jr. is \"covering a series of failures\"",
-   "lien": "https://www.cbsnews.com/video/sen-bill-cassidy-saying-rfk-jr-is-covering-a-series-of-failures/",
-   "source": "CBS News",
-   "date": "2026-11-15T19:40:52+00:00",
-   "extrait": "Sen. Bill Cassidy, who is on the Senate health committee, told \"Face the Nation with Margaret Brennan\" that Robert F. Kennedy Jr. is \"covering for a series of failures\" after the health secretary…",
-   "tags": [
-    "Politique",
-    "Santé"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "f8f443dc7784",
-   "titre": "Rep. Moolenaar says it's \"outrageous\" to not see Jensen Huang affair as national security risk",
-   "lien": "https://www.cbsnews.com/video/rep-moolenaar-says-its-outrageous-to-not-see-jensen-huang-affair-as-national-security-risk/",
-   "source": "CBS News",
-   "date": "2026-11-15T19:40:39+00:00",
-   "extrait": "Rep. John Moolenaar, who chairs the select committee on the Chinese Communist Party, told \"Face the Nation with Margaret Brennan\" that Jensen Huang's affair with an alleged Chinese spy compromised…",
-   "tags": [
-    "Conflits",
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "79469e8ad41a",
-   "titre": "Présidentielle 2027 : la pauvreté requiert des \"solutions structurelles\", affirme le président des Restos du cœur",
-   "lien": "https://www.franceinfo.fr/societe/pauvrete/presidentielle-2027-la-pauvrete-requiert-des-solutions-structurelles-selon-les-restos-du-coeur_8283881.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-15T19:40:21+00:00",
-   "extrait": "Cinq candidats à la présidentielle débattront lundi des enjeux de solidarité, de pouvoir d'achat et de lutte contre la pauvreté, à la veille du lancement de la 42e campagne de l'association fondée…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c5b5a5064e9c",
-   "titre": "Yémen : les Houthis à 60 km d'Aden, le gouvernement place des renforts autour de la ville",
-   "lien": "https://www.france24.com/fr/moyen-orient/20261115-y%C3%A9men-les-houthis-%C3%A0-60-km-d-aden-le-gouvernement-place-des-renforts-autour-de-la-ville",
-   "source": "France 24",
-   "date": "2026-11-15T19:35:25+00:00",
-   "extrait": "Après une avancée dans le gouvernorat de Lahj dans le sud du Yémen, les Houthis ne se trouvent plus qu'à 60 km environ d'Aden, siège du gouvernement. De son côté, l'armée yéménite a annoncé déployer…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "a29c233ccd9a",
-   "titre": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-   "lien": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-15T19:32:39+00:00",
-   "extrait": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
-   "tags": [
-    "Politique",
-    "Conflits",
-    "Tech"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "a33be86e8ae7",
-   "titre": "Une jeune fille de 12 ans interpellée à Paris lors de la mobilisation du 14 novembre et remise à son éducateur de l'Aide sociale à l'enfance par la police",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/une-jeune-fille-de-12-ans-interpellee-a-paris-lors-de-la-mobilisation-du-14-novembre-et-remise-a-son-educateur-de-l-aide-sociale-a-l-enfance-par-la-police_8283875.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-15T19:32:34+00:00",
-   "extrait": "Selon le parquet de Paris, la jeune fille se \"maintenait\" avec 300 autres personnes place de la Nation \"après réitération des sommations appelant à la dispersion\", cette dernière sera \"reconvoquée à…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "a41fa94318ec",
-   "titre": "Ronaldinho makes comeback in Ravenna win",
-   "lien": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-15T19:31:48+00:00",
-   "extrait": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "fc4feffb479c",
-   "titre": "Un homme a été mis en examen et écroué dans les Yvelines, après la séquestration d'un couple forcé à virer 900 000 euros en bitcoins",
-   "lien": "https://www.franceinfo.fr/economie/bitcoin/un-homme-a-ete-mis-en-examen-et-ecroue-dans-les-yvelines-apres-un-crypto-rapt-a-900-000-euros_8283848.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-15T19:26:01+00:00",
-   "extrait": "Début mars, un homme et une femme d'une cinquantaine d'années avaient été séquestrés à leur domicile au Chesnay (Yvelines) et forcés à virer la somme à leurs agresseurs.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "ff89d7675f06",
-   "titre": "UPS plane, passenger jet collide on Miami airport taxiway",
-   "lien": "https://www.cbsnews.com/news/ups-plane-copa-airlines-jet-collide-miami-international-airport/",
-   "source": "CBS News",
-   "date": "2026-11-15T19:18:23+00:00",
-   "extrait": "A UPS cargo plane and a Copa Airlines jet carrying 172 people collided while taxiing at Miami International Airport, leaving two passengers with minor injuries.",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "84f371ee1c72",
-   "titre": "Un policier municipal placé en garde à vue à Paris \"pour menace de mort en raison de la race, l’ethnie, la nation la religion\"",
-   "lien": "https://www.franceinfo.fr/faits-divers/police/un-policier-municipal-place-en-garde-a-vue-pour-menace-de-mort-en-raison-de-la-race-l-ethnie-la-nation-la-religion-selon-le-parquet-de-paris_8283857.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-15T19:17:44+00:00",
-   "extrait": "Le suspect a été interpellé dans la capitale par la BRI dans un \"état alcoolisé\" selon le parquet de Parquet, sans précisions supplémentaires concernant les menaces ou les cibles de l'individu.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "bb78ab25bf7b",
-   "titre": "Megaspeed says Alice Huang left company in 2025, denies wrongdoing",
-   "lien": "https://www.cbsnews.com/news/nvidia-alice-huang-jensen-ai-china-singapore-megaspeed/",
-   "source": "CBS News",
-   "date": "2026-11-15T19:10:50+00:00",
-   "extrait": "The company denies wrongdoing after accusations that it smuggled Nvidia's AI chips into China.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "c756fab76eb6",
-   "titre": "EN DIRECT, guerre en Ukraine : l’Estonie ferme ses frontières avec la Russie, Kiev invite les gouvernements européens à faire preuve de la même fermeté",
-   "lien": "https://www.lemonde.fr/international/live/2026/11/15/en-direct-guerre-en-ukraine-l-estonie-ferme-ses-frontieres-avec-la-russie-kiev-invite-les-gouvernements-europeens-a-faire-preuve-de-la-meme-fermete_6810982_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-15T19:05:08+00:00",
-   "extrait": "Le ministre des affaires étrangères estonien, Margus Tsahkna, a annoncé dimanche la fermeture de tous les postes-frontières avec la Russie à compter du 1er décembre. Il a déclaré détenir des «…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "5aecf37c117c",
-   "titre": "Full transcript of \"Face the Nation with Margaret Brennan,\" Nov. 15, 2026",
-   "lien": "https://www.cbsnews.com/news/face-the-nation-full-transcript-11-15-2026/",
-   "source": "CBS News",
-   "date": "2026-11-15T19:00:22+00:00",
-   "extrait": "On this \"Face the Nation with Margaret Brennan\" broadcast, Transportation Secretary Sean Duffy and Sen. Bill Cassidy join Margaret Brennan.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "d3c1e3b5301c",
-   "titre": "Tirs en rafale aux Abymes : un mort et plusieurs blessés, dont un grièvement atteint",
-   "lien": "https://la1ere.franceinfo.fr/guadeloupe/tirs-en-rafale-aux-abymes-un-mort-et-trois-blesses-dont-un-grievement-atteint-1758009.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-15T18:58:48+00:00",
-   "extrait": "Scène de crime aux Abymes, la nuit dernière : une personne a été tuée et plusieurs autres sont blessées, après des tirs en rafale sur la foule.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "9bb8204d131d",
-   "titre": "U.S. loses measles elimination status as cases surge nationwide",
-   "lien": "https://www.cbsnews.com/news/measles-elimination-status-united-states/",
-   "source": "CBS News",
-   "date": "2026-11-15T18:53:00+00:00",
-   "extrait": "The United States has lost its official measles elimination status for the first time in 26 years. Here's what to know.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "9de77a1ff081",
-   "titre": "En Cisjordanie, un pigiste de l’Agence France-Presse arrêté par les forces israéliennes",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/15/en-cisjordanie-un-pigiste-de-l-agence-france-presse-arrete-par-les-forces-israeliennes_6811047_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-15T18:52:58+00:00",
-   "extrait": "Un porte-parole de l’armée israélienne a confirmé l’arrestation du journaliste en précisant qu’il était « suspecté de liens avec le Hamas », sans fournir de preuves ni d’éléments pour étayer cette…",
-   "tags": [
-    "Conflits",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c6010a0883c5",
-   "titre": "Au Yémen, le camp gouvernemental masse des renforts autour d'Aden, menacée par les houthis",
-   "lien": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-le-camp-gouvernemental-masse-des-renforts-autour-d-aden-menacee-par-les-houthis_8283851.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-15T18:47:11+00:00",
-   "extrait": "Le gouvernement reconnu par la communauté internationale s'est replié à Aden après la prise, en 2014 par les houthis, de la capitale Sanaa et de grands pans du nord du pays, les plus peuplés.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "1a19a30f8424",
-   "titre": "Pope Leo rides in helicopter cockpit during Peru trip",
-   "lien": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-15T18:38:11+00:00",
-   "extrait": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "546f48fffe7f",
-   "titre": "Au Pérou, Léon XIV appelle à écouter le \"cri de la terre et le cri des pauvres\" en Amazonie",
-   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261115-p%C3%A9rou-l%C3%A9on-xiv-arrive-%C3%A0-cusco-%C3%A0-3-400-m-d-altitude-un-mois-apr%C3%A8s-son-op%C3%A9ration",
-   "source": "France 24",
-   "date": "2026-11-15T18:21:14+00:00",
-   "extrait": "Un mois après son opération pour un cancer du poumon, Léon XIV s'est rendu dimanche dans les hautes Andes péruviennes, pour une étape particulièrement exigeante de sa tournée en Amérique du Sud…",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "b99fe95944a0",
-   "titre": "Suspension des vols aux Etats-Unis : retour à la normale du trafic aérien espéré lundi ; Donald Trump qualifie la gestion de l’aviation par Joe Biden de « désastre »",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/15/suspension-des-vols-aux-etats-unis-retour-a-la-normale-du-trafic-aerien-espere-lundi-donald-trump-qualifie-la-gestion-de-l-aviation-par-joe-biden-de-desastre_6811046_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-15T18:20:27+00:00",
-   "extrait": "Encore plus de 1 500 vols ont été supprimés dimanche matin aux Etats-Unis, après que plus de 18 000 l’avaient déjà été vendredi et samedi. « Nous allons sans doute voir les choses revenir…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "e199d2b605c9",
-   "titre": "Transcript: Transportation Secretary Sean Duffy on \"Face the Nation with Margaret Brennan,\" Nov. 15, 2026",
-   "lien": "https://www.cbsnews.com/news/sean-duffy-transportation-secretary-face-the-nation-transcript-11-15-2026/",
-   "source": "CBS News",
-   "date": "2026-11-15T18:17:52+00:00",
-   "extrait": "The following is the transcript of the interview with Transportation Secretary Sean Duffy that aired on \"Face the Nation with Margaret Brennan\" on Nov. 15, 2026.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "8b293b066ca9",
-   "titre": "Présidentielle 2027 : Edouard Philippe veut bâtir quatre millions de logements supplémentaires en 10 ans",
-   "lien": "https://www.franceinfo.fr/politique/edouard-philippe/presidentielle-2027-edouard-philippe-veut-batir-quatre-millions-de-logements-supplementaires-en-10-ans_8283821.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-15T18:08:54+00:00",
-   "extrait": "\"Le pire ennemi du pouvoir d'achat des Français aujourd'hui, c'est le logement\", selon le candidat à la présidentielle.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "fb27abd9122c",
-   "titre": "Face the Nation: Moolenaar, Cassidy",
-   "lien": "https://www.cbsnews.com/video/face-the-nation-moolenaar-cassidy/",
-   "source": "CBS News",
-   "date": "2026-11-15T18:08:43+00:00",
-   "extrait": "Missed the second half of the show? Rep. John Moolenaar and Sen. Bill Cassidy join.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "6174a1356d4a",
-   "titre": "Des militants d'extrême droite ont été agressés dans un bar à Marseille",
-   "lien": "https://www.franceinfo.fr/marseille/des-militants-d-extreme-droite-ont-ete-agresses-dans-un-bar-a-marseille_8283776.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-15T18:02:53+00:00",
-   "extrait": "Le maire RN du secteur a dénoncé les agissements d'une \"milice d'extrême gauche\".",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "d027916b737a",
-   "titre": "Éliminatoires de la CAN 2027 : qui peut se qualifier, qui est en danger ? Le point sur la 4e journée",
-   "lien": "https://www.france24.com/fr/sports/20261115-%C3%A9liminatoires-de-la-can-2027-qui-peut-se-qualifier-qui-est-en-danger-le-point-par-groupe",
-   "source": "France 24",
-   "date": "2026-11-15T18:00:30+00:00",
-   "extrait": "La quatrième journée des éliminatoires de la CAN 2027 se disputera les 16 et 17 novembre et pourrait déjà sceller les premières qualifications pour la compétition. Découvrez groupe par groupe les…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "ee0632ddd8d9",
-   "titre": "« L’organisme, en état d’alerte, se prépare à s’opposer » : ce que la colère produit dans le corps",
-   "lien": "https://www.lemonde.fr/intimites/article/2026/11/15/l-organisme-en-etat-d-alerte-se-prepare-a-s-opposer-ce-que-la-colere-produit-dans-le-corps_6811044_6190330.html",
-   "source": "Le Monde",
-   "date": "2026-11-15T18:00:06+00:00",
-   "extrait": "« Nos émotions : la colère ». Réponse de notre système nerveux face à une menace, une injustice, une frustration, la colère est une émotion complexe, car profondément subjective. Variant de la…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "4491eefa829d",
-   "titre": "Ce qu’il faut retenir de l’actualité du week-end des 14 et 15 novembre",
-   "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/11/15/ce-qu-il-faut-retenir-de-l-actualite-du-week-end-des-14-et-15-novembre_6811043_4355770.html",
-   "source": "Le Monde",
-   "date": "2026-11-15T17:56:38+00:00",
-   "extrait": "Vous n’avez pas suivi l’actualité ces derniers jours ? Voici ce qu’il s’est passé pendant ces dernières quarante-huit heures.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "34451db8538c",
-   "titre": "L'Estonie va fermer sa frontière avec la Russie à partir du 1er décembre, après une nouvelle tentative de sabotage",
-   "lien": "https://www.franceinfo.fr/monde/russie/l-estonie-va-fermer-sa-frontiere-avec-la-russie-a-partir-du-1er-decembre-apres-une-nouvelle-tentative-de-sabotage_8283728.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-15T17:56:35+00:00",
-   "extrait": "L'Estonie dit avoir déjoué de justesse une nouvelle tentative d'incendie d'une usine de drones orchestrée, selon elle, par le renseignement militaire russe.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "7b6bb08fe085",
-   "titre": "Les Tchèques manifestent en masse contre la réforme du financement des médias publics",
-   "lien": "https://www.franceinfo.fr/monde/europe/les-tcheques-manifestent-en-masse-contre-la-reforme-du-financement-des-medias-publics_8283761.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-15T17:54:41+00:00",
-   "extrait": "Selon les critiques, cette réforme risque d'accroître la dépendance des médias publics à l'égard du pouvoir politique.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "dac7430e15cf",
-   "titre": "Au Cambodge, Emmanuel Macron appelle à l'\"unité\" de l'Organisation internationale de la francophonie, secouée par une rivalité entre la RDC et le Rwanda",
-   "lien": "https://www.franceinfo.fr/culture/patrimoine/francophonie/au-cambodge-emmanuel-macron-appelle-a-l-unite-de-l-organisation-internationale-de-la-francophonie-secouee-par-une-rivalite-entre-la-rdc-et-le-rwanda_8283593.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-15T17:48:41+00:00",
-   "extrait": "Les deux pays africains s'affrontent autour du nom du prochain secrétaire général de l'institution qui œuvre notamment pour la promotion de la langue française, reléguant des enjeux politiques au…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
   }
  ]
 }

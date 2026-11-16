@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-16T15:05:42+00:00",
+ "maj": "2026-11-16T16:05:46+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,44 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "5e6b9e8dfb11",
+   "titre": "Deepfakes : une fraude présumée à 129 millions de dollars",
+   "lien": "https://www.zataz.com/deepfakes-une-fraude-presumee-a-129-millions-de-dollars/",
+   "source": "Zataz",
+   "date": "2026-11-16T15:57:48+00:00",
+   "extrait": "Trois hommes sont accusés d'une fraude à 129 millions de dollars utilisant des deepfakes et l'ingénierie sociale.",
+   "tags": []
+  },
+  {
+   "id": "34b95b414a0d",
+   "titre": "Télémaintenance : 288 entreprises visées par une attaque",
+   "lien": "https://www.zataz.com/telemaintenance-288-entreprises-visees-par-une-attaque/",
+   "source": "Zataz",
+   "date": "2026-11-16T15:46:36+00:00",
+   "extrait": "Une extension ScreenConnect exploitée pour perturber 288 machines de télémaintenance dans 48 organisations.",
+   "tags": []
+  },
+  {
+   "id": "d29e040f4044",
+   "titre": "Fandango says hackers stole payment card details from checkout pages",
+   "lien": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
+   "source": "BleepingComputer",
+   "date": "2026-11-16T15:44:21+00:00",
+   "extrait": "Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages. [...]",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "08472fc199a1",
+   "titre": "Je s’appelle GRU : Ingérence russe soupçonnée d’agir dans les manifestations en France",
+   "lien": "https://www.zataz.com/je-sappelle-gru-ingerence-russe-soupconnee-dagir-dans-les-manifestations-en-france/",
+   "source": "Zataz",
+   "date": "2026-11-16T15:32:06+00:00",
+   "extrait": "Le GRU russe soupçonné d'ingérence dans les manifestations françaises. InformNapalm dévoile ses accusations.",
+   "tags": []
+  },
   {
    "id": "1cea14202697",
    "titre": "7 Tips For Complying with CJIS Password and MFA Requirements",
@@ -3362,54 +3400,6 @@
    "date": "2026-11-05T07:33:13+00:00",
    "extrait": "Deux frères ont greffé une vraie coop sur le premier Wing Commander sous DOS à coups de dumps mémoire et de code détourné. Le projet a dormi six ans, et il se joue maintenant dans le navigateur avec…",
    "tags": []
-  },
-  {
-   "id": "a665869d02d2",
-   "titre": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
-   "lien": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
-   "source": "The Hacker News",
-   "date": "2026-11-05T07:06:33+00:00",
-   "extrait": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "7c721745a9e0",
-   "titre": "HatchZip - Décompresser une archive énorme sur un disque plein",
-   "lien": "https://korben.info/hatchzip.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-11-05T06:24:56+00:00",
-   "extrait": "HatchZip extrait une archive ZIP, 7z, RAR ou tar en la coupant par la fin au fur et à mesure : un jeu de 180 Go qui en fait 200 ne demande plus 380 Go de disque. Gratuit et open source, il vérifie…",
-   "tags": [
-    "Outil"
-   ]
-  },
-  {
-   "id": "2a5b7d5a686a",
-   "titre": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
-   "lien": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
-   "source": "The Hacker News",
-   "date": "2026-11-05T05:17:04+00:00",
-   "extrait": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities…",
-   "tags": [
-    "CVE",
-    "Faille",
-    "Fuite de données",
-    "Malware"
-   ]
-  },
-  {
-   "id": "1ab6fb49689b",
-   "titre": "Multiples vulnérabilités dans Microsoft Edge (05 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1466/",
-   "source": "CERT-FR",
-   "date": "2026-11-05T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non…",
-   "tags": [
-    "Faille",
-    "Windows"
-   ]
   }
  ]
 }
