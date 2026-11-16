@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-16T16:05:46+00:00",
+ "maj": "2026-11-16T17:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,6 +24,36 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "bbd8832f6138",
+   "titre": "Expedia : un pirate revendique un vol massif de données",
+   "lien": "https://www.zataz.com/expedia-un-pirate-revendique-un-vol-massif-de-donnees/",
+   "source": "Zataz",
+   "date": "2026-11-16T16:57:49+00:00",
+   "extrait": "Expedia confirme une intrusion via un prestataire. Un pirate revendique un vol massif de données de voyageurs.",
+   "tags": []
+  },
+  {
+   "id": "c55d641da89b",
+   "titre": "Quantum Systems : une cyberattaque inquiète l’armée allemande",
+   "lien": "https://www.zataz.com/quantum-systems-une-cyberattaque-inquiete-larmee-allemande/",
+   "source": "Zataz",
+   "date": "2026-11-16T16:48:18+00:00",
+   "extrait": "Quantum Systems confirme une cyberattaque. Une possible compromission des mises à jour de drones inquiète l'Allemagne.",
+   "tags": []
+  },
+  {
+   "id": "18b00fe2b40c",
+   "titre": "Microsoft says months-old bug caused global Microsoft 365 outage",
+   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
+   "source": "BleepingComputer",
+   "date": "2026-11-16T16:43:24+00:00",
+   "extrait": "Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than 80% of its networking gateway servers…",
+   "tags": [
+    "Faille",
+    "Windows"
+   ]
+  },
+  {
    "id": "5e6b9e8dfb11",
    "titre": "Deepfakes : une fraude présumée à 129 millions de dollars",
    "lien": "https://www.zataz.com/deepfakes-une-fraude-presumee-a-129-millions-de-dollars/",
@@ -31,6 +61,17 @@
    "date": "2026-11-16T15:57:48+00:00",
    "extrait": "Trois hommes sont accusés d'une fraude à 129 millions de dollars utilisant des deepfakes et l'ingénierie sociale.",
    "tags": []
+  },
+  {
+   "id": "2a133b01ea83",
+   "titre": "Les lunettes connectées d'Apple arriveraient en 2027",
+   "lien": "https://korben.info/les-lunettes-connectees-dapple-arriveraient-en-2027.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-16T15:49:40+00:00",
+   "extrait": "Selon Mark Gurman de Bloomberg, Apple viserait une présentation de ses premières lunettes connectées (code N50) à la WWDC de juin 2027, avec des livraisons avant fin 2027. Sans affichage dans les…",
+   "tags": [
+    "Mobile"
+   ]
   },
   {
    "id": "34b95b414a0d",
@@ -3361,45 +3402,6 @@
    "tags": [
     "Mobile"
    ]
-  },
-  {
-   "id": "4f9bb7c1ff8e",
-   "titre": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
-   "lien": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
-   "source": "The Hacker News",
-   "date": "2026-11-05T08:42:03+00:00",
-   "extrait": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking…",
-   "tags": [
-    "IA",
-    "Outil"
-   ]
-  },
-  {
-   "id": "d7f4bfc72d13",
-   "titre": "J'ai testé CottageCore, le jeu cosy d'une vieille connaissance",
-   "lien": "https://korben.info/cottagecore-village-david.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-11-05T08:27:13+00:00",
-   "extrait": "David Catuhe, le créateur de Babylon.js, sort CottageCore, un jeu de construction de village tout doux. J'y ai joué en bêta : c'est très chill, joli et ultra personnalisable, avec quelques accrocs à…",
-   "tags": []
-  },
-  {
-   "id": "eaceb2f31821",
-   "titre": "Pourquoi utiliser un VPN avec Starlink #sponso",
-   "lien": "https://korben.info/pourquoi-utiliser-un-vpn-avec-starlink.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-11-05T08:05:01+00:00",
-   "extrait": "Starlink fournit environ 150 Mbps, mais reste un FAI américain qui voit votre navigation, utilise du CGNAT (IP partagée, CAPTCHAs, blocages) et ne gère pas le VPN sur son routeur. Selon l'article…",
-   "tags": []
-  },
-  {
-   "id": "46b293118f5a",
-   "titre": "Wing Commander - Volez en coop dans votre navigateur",
-   "lien": "https://korben.info/wing-commander-coop-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-11-05T07:33:13+00:00",
-   "extrait": "Deux frères ont greffé une vraie coop sur le premier Wing Commander sous DOS à coups de dumps mémoire et de code détourné. Le projet a dormi six ans, et il se joue maintenant dans le navigateur avec…",
-   "tags": []
   }
  ]
 }
