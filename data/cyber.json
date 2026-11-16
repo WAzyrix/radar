@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-16T12:05:40+00:00",
+ "maj": "2026-11-16T13:05:42+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "a1dd8f56b81d",
+   "titre": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
+   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
+   "source": "BleepingComputer",
+   "date": "2026-11-16T12:53:18+00:00",
+   "extrait": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months. [...]",
+   "tags": [
+    "Windows"
+   ]
+  },
   {
    "id": "7a50b6f63907",
    "titre": "Australian retail giant Coles investigates cybersecurity incident",
@@ -195,7 +206,7 @@
   },
   {
    "id": "9dbfccbe18e8",
-   "titre": "Cyberattaque Maileva, 22 millions de personnes touchées",
+   "titre": "Cyberattaque Maileva, 22 millions de personnes touchées ?",
    "lien": "https://www.zataz.com/cyberattaque-maileva-22-millions-de-personnes-touchees/",
    "source": "Zataz",
    "date": "2026-11-15T11:47:49+00:00",
@@ -3399,18 +3410,6 @@
    "tags": [
     "Fuite de données",
     "Outil"
-   ]
-  },
-  {
-   "id": "3632eace057e",
-   "titre": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
-   "lien": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
-   "source": "The Hacker News",
-   "date": "2026-11-04T17:00:46+00:00",
-   "extrait": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root…",
-   "tags": [
-    "Faille",
-    "Linux"
    ]
   }
  ]
