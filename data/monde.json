@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-16T00:06:38+00:00",
+ "maj": "2026-11-16T01:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,95 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "64178a3da0a5",
+   "titre": "Clothing factories shut in Bangladesh as workers strike over pay",
+   "lien": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-16T01:05:44+00:00",
+   "extrait": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "c5d6e7170e2e",
+   "titre": "Billy Evans tells his side of \"You Can See Everything,\" Elizabeth Holmes' portrayal",
+   "lien": "https://www.cbsnews.com/news/billy-evans-on-you-can-see-everything-elizabeth-holmes/",
+   "source": "CBS News",
+   "date": "2026-11-16T00:35:21+00:00",
+   "extrait": "In his first TV interview, Billy Evans, partner of disgraced Theranos co-founder Elizabeth Holmes, talks about his characterization in the documentary \"You Can See Everything,\" as well as threats he…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "658dc5acebdd",
+   "titre": "This week on \"Sunday Morning\" (Nov. 15)",
+   "lien": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-15-2026/",
+   "source": "CBS News",
+   "date": "2026-11-16T00:32:59+00:00",
+   "extrait": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "04f0cdf3d969",
+   "titre": "Extended interview: Billy Evans on Elizabeth Holmes and \"You Can See Everything\"",
+   "lien": "https://www.cbsnews.com/video/extended-interview-billy-evans/",
+   "source": "CBS News",
+   "date": "2026-11-16T00:31:05+00:00",
+   "extrait": "In his first TV interview, Billy Evans talks with correspondent Matt Gutman about the portrayal of himself and his partner, disgraced Theranos co-founder Elizabeth Holmes, in the acclaimed Nathan…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "e1441c9e70fc",
+   "titre": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky annonce la préparation d’une réunion de la coalition des volontaires, « qui pourrait s’avérer historique »",
+   "lien": "https://www.lemonde.fr/international/live/2026/11/16/en-direct-guerre-en-ukraine-volodymyr-zelensky-annonce-la-preparation-d-une-reunion-de-la-coalition-des-volontaires-qui-pourrait-s-averer-historique_6810982_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-16T00:20:00+00:00",
+   "extrait": "L’objectif présenté par le président ukrainien est de définir la position européenne dans de futurs pourparlers avec Moscou. Par ailleurs, l’Estonie a annoncé la fermeture de ses frontières avec la…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "1e5d8f925bad",
+   "titre": "Russia's mega-rich are already imagining a future after Putin",
+   "lien": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-16T00:13:14+00:00",
+   "extrait": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "f324cb621cf2",
+   "titre": "Elon Musk et plus de 157 000 signataires réclament le retour de Jensen Huang à la tête de Nvidia",
+   "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261116-elon-musk-uber-spacex-epic-games-157000-signataires-reclament-retour-jensen-huang-tete-nvidia-intelligence-artificielle-lettre-ouverte-enquete-independante",
+   "source": "France 24",
+   "date": "2026-11-16T00:11:15+00:00",
+   "extrait": "Plusieurs patrons de la Silicon Valley, dont Elon Musk et Tim Sweeney, font partie des 157 000 signataires d'une lettre ouverte qui demande le retour de Jensen Huang à la tête de Nvidia, \"pendant…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "23d87a07a04c",
+   "titre": "Au Cap-Vert, José Maria Neves réélu président dès le premier tour",
+   "lien": "https://www.lemonde.fr/afrique/article/2026/11/16/au-cap-vert-jose-maria-neves-reelu-president-des-le-premier-tour_6811072_3212.html",
+   "source": "Le Monde",
+   "date": "2026-11-16T00:03:59+00:00",
+   "extrait": "Le président sortant, favori pour un deuxième mandat de suite, l’a emporté dès le premier tour, dimanche, avec plus de 63 % des voix dans cet archipel lusophone réputé pour sa stabilité démocratique.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
   {
    "id": "3e8f4b649f19",
    "titre": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
@@ -277,7 +366,7 @@
   },
   {
    "id": "917b9a52c807",
-   "titre": "Sydney Sweeney has great jeans. Who made them? (Psst: Workers)",
+   "titre": "Who makes Sydney Sweeney's American Eagle jeans — and under what conditions?",
    "lien": "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry",
    "source": "NPR",
    "date": "2026-11-15T22:07:55+00:00",
@@ -988,16 +1077,6 @@
    "zone": "france"
   },
   {
-   "id": "658dc5acebdd",
-   "titre": "This week on \"Sunday Morning\" (Nov. 15)",
-   "lien": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-15-2026/",
-   "source": "CBS News",
-   "date": "2026-11-15T16:38:14+00:00",
-   "extrait": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "ad5040283a2b",
    "titre": "Une centaine de personnes réunies pour une marche blanche en hommage à Pengo Bossio Wangi, tué dans l'attentat raciste de Trappes",
    "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/une-centaine-de-personnes-reunies-pour-une-marche-blanche-en-hommage-a-pengo-bossio-wangi-tue-dans-l-attaque-raciste-de-trappes_8283689.html#xtor=RSS-3-[lestitres]",
@@ -1020,18 +1099,6 @@
     "Conflits"
    ],
    "zone": "france"
-  },
-  {
-   "id": "64178a3da0a5",
-   "titre": "Clothing factories shut in Bangladesh as workers strike over pay",
-   "lien": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-15T16:15:20+00:00",
-   "extrait": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
   },
   {
    "id": "6fb3eeaf8ab3",
@@ -1233,16 +1300,6 @@
    "source": "CBS News",
    "date": "2026-11-15T15:25:16+00:00",
    "extrait": "Most newspapers and wire services have closed the book on sections devoted to book reviews. But Washington Monthly's new online resource, The Reader (co-founded by bestselling author Jonathan…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "c5d6e7170e2e",
-   "titre": "Billy Evans tells his side of \"You Can See Everything,\" Elizabeth Holmes' portrayal",
-   "lien": "https://www.cbsnews.com/news/billy-evans-on-you-can-see-everything-elizabeth-holmes/",
-   "source": "CBS News",
-   "date": "2026-11-15T15:24:55+00:00",
-   "extrait": "In his first TV interview, Billy Evans, partner of disgraced Theranos co-founder Elizabeth Holmes, talks about his characterization in the documentary \"You Can See Everything,\" as well as threats he…",
    "tags": [],
    "zone": "usa"
   },
@@ -3329,66 +3386,6 @@
    "source": "CBS News",
    "date": "2026-11-14T19:52:49+00:00",
    "extrait": "Travel industry analyst Harvey Harteveldt shares his perspective following a nationwide FAA ground stop.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "2a65ccd846c8",
-   "titre": "Manifestations du 14 novembre : la mobilisation est restée \"globalement maîtrisée\", malgré 219 interpellations et 10 policiers légèrement blessés, selon le ministère de l'Intérieur",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-14-novembre-suivez-la-journee-de-mobilisation-a-l-appel-de-gilets-jaunes-et-d-organisations-de-jeunesse_8281187.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-14T19:48:22+00:00",
-   "extrait": "A Paris, la manifestation s'est déroulée \"sans incident\", selon la préfecture de police.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "64e3eaa9d8e2",
-   "titre": "Présidentielle 2027 : Gérard Larcher veut réunir les candidats de droite et du centre pour arrêter \"une méthode de départage\" vers une candidature unique",
-   "lien": "https://www.franceinfo.fr/elections/presidentielle-2027-raphael-glucksmann-et-teddy-riner-attendus-au-salon-du-made-in-france_8282213.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-14T19:48:01+00:00",
-   "extrait": "Le président du Sénat veut ainsi rassembler à la même table Bruno Retailleau, David Lisnard, Gabriel Attal et Edouard Philippe.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "bc8e0d058df9",
-   "titre": "Volodymyr Zelensky affirme que Washington a proposé des concessions territoriales en échange d'une adhésion de l'Ukraine à l'Otan",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-affirme-que-washington-a-propose-des-concessions-territoriales-en-echange-d-une-adhesion-de-l-ukraine-a-l-otan_8282804.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-14T19:47:09+00:00",
-   "extrait": "Le dirigeant a rencontré des dirigeants européens et les émissaires de Donald Trump dans la foulée de deux jours de pourparlers entre l'Ukraine et la Russie à Abou Dhabi.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "11df40d0468a",
-   "titre": "Yvelines : que sait-on de l'agression au cutter d'un enseignant à l'université de Versailles-Saint-Quentin ?",
-   "lien": "https://www.franceinfo.fr/faits-divers/yvelines-que-sait-on-de-l-agression-au-cutter-d-un-enseignant-a-l-universite-de-versailles-saint-quentin_8282831.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-14T19:46:22+00:00",
-   "extrait": "Un enseignant de 41 ans, vice-président de l'université de Versailles-Saint-Quentin, a été agressé au cutter dans son bureau vendredi 13 novembre. Blessé légèrement, il a été hospitalisé. Son…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "ef2f8892015b",
-   "titre": "How to get a refund after the massive FAA ground stop",
-   "lien": "https://www.cbsnews.com/video/how-to-get-a-refund-amid-air-travel-chaos/",
-   "source": "CBS News",
-   "date": "2026-11-14T19:42:53+00:00",
-   "extrait": "Frustrated travelers are still dealing with delays and cancellations after a nationwide ground stop. Points Path CEO Julian Kheel shares his advice for passengers looking to protect their money when…",
    "tags": [],
    "zone": "usa"
   }
