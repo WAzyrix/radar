@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-16T22:33:04+00:00",
+ "maj": "2026-11-16T23:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "60f99194645f",
+   "titre": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+   "lien": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+   "source": "BleepingComputer",
+   "date": "2026-11-16T22:54:00+00:00",
+   "extrait": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to…",
+   "tags": [
+    "Fuite de données",
+    "IA"
+   ]
+  },
   {
    "id": "6cd4bc50c4fa",
    "titre": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
@@ -3389,15 +3401,6 @@
     "Malware",
     "IA"
    ]
-  },
-  {
-   "id": "0e040b8f64fe",
-   "titre": "Cyberattaque contre les frigos de l’EFS : le plasma visé",
-   "lien": "https://www.zataz.com/cyberattaque-contre-les-frigos-de-lefs-le-plasma-vise/",
-   "source": "Zataz",
-   "date": "2026-11-05T16:36:51+00:00",
-   "extrait": "Cyberattaque EFS : trois sites touchés, du plasma menacé. ZATAZ revient sur les précédents et les risques industriels.",
-   "tags": []
   }
  ]
 }
