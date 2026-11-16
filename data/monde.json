@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-15T23:05:39+00:00",
+ "maj": "2026-11-16T00:06:38+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,12 +22,178 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "3e8f4b649f19",
+   "titre": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+   "lien": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-16T00:03:29+00:00",
+   "extrait": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "83707e093489",
+   "titre": "60 Minutes Transcript: John Malkovich on his career",
+   "lien": "https://www.cbsnews.com/news/john-malkovich-60-minutes-transcript/",
+   "source": "CBS News",
+   "date": "2026-11-16T00:00:22+00:00",
+   "extrait": "John Malkovich says he couldn't teach the John Malkovich method—because there's no such thing—\"and I certainly wouldn't recommend studying it.\"",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "51de249b6549",
+   "titre": "Parents whose sons died from kratom use warn about the substance",
+   "lien": "https://www.cbsnews.com/news/parents-whose-sons-died-from-kratom-use-warn-about-substance-60-minutes/",
+   "source": "CBS News",
+   "date": "2026-11-16T00:00:20+00:00",
+   "extrait": "Kratom is derived from a tree in Southeast Asia. Advocates say it can help with opioid addiction, while health experts say it can lead to death.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "510ddc33d227",
+   "titre": "60 Minutes Transcript: Kratom faces scrutiny over health concerns",
+   "lien": "https://www.cbsnews.com/news/kratom-60-minutes-transcript/",
+   "source": "CBS News",
+   "date": "2026-11-16T00:00:19+00:00",
+   "extrait": "Kratom products, sold at gas stations, have found allies in Washington. But health experts warn it is an addictive opioid, fueling increasing outrage that it remains legal in most states.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "973df3bfc18c",
+   "titre": "U.S. families demand answers on Iran war deaths",
+   "lien": "https://www.cbsnews.com/news/military-families-want-answers-on-iran-war-deaths-60-minutes/",
+   "source": "CBS News",
+   "date": "2026-11-16T00:00:17+00:00",
+   "extrait": "This week, the families will finally be briefed on the results of the U.S. Army investigation into the strike.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "e9124b4c978d",
+   "titre": "60 Minutes Transcript: Families of U.S. soldiers killed in Iran war",
+   "lien": "https://www.cbsnews.com/news/cost-of-war-iran-60-minutes-transcript/",
+   "source": "CBS News",
+   "date": "2026-11-16T00:00:15+00:00",
+   "extrait": "The families of U.S. soldiers killed in an Iranian drone strike in Kuwait want answers from the Pentagon. A 60 Minutes investigation examines U.S. military failures surrounding the March attack.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "5fac6f461e8d",
+   "titre": "Kratom, an opioid, can lead to addiction and death. Yet, in most states, it's legal.",
+   "lien": "https://www.cbsnews.com/video/kratom-60-minutes-video-2026-11-15/",
+   "source": "CBS News",
+   "date": "2026-11-16T00:00:13+00:00",
+   "extrait": "Kratom products, sold at gas stations, have found allies in Washington. But health experts warn it is an addictive opioid, fueling increasing outrage that it remains legal in most states.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "b60ea31a81c4",
+   "titre": "4 takeaways from actor John Malkovich's 60 Minutes interview",
+   "lien": "https://www.cbsnews.com/news/john-malkovich-acting-movies-versus-plays-60-minutes/",
+   "source": "CBS News",
+   "date": "2026-11-16T00:00:12+00:00",
+   "extrait": "Here are some of the takeaways from our interview with actor John Malkovich following the release of his latest movie, \"Wild Horse Nine.\"",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "6c9c646ef2c2",
+   "titre": "Coming up on 60 Minutes: \"The Angola Prison Rodeo\"",
+   "lien": "https://www.cbsnews.com/video/visting-angola-rodeo-60-minutes-video-2026-11-15/",
+   "source": "CBS News",
+   "date": "2026-11-16T00:00:09+00:00",
+   "extrait": "Next Sunday, 60 Minutes heads to a rodeo at the Louisiana State Penitentiary. The cowboys are prison inmates who've earned a chance to ride bulls and horses, something that gives them a sense of…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "6182ab5bb652",
+   "titre": "John Malkovich: The 60 Minutes Interview",
+   "lien": "https://www.cbsnews.com/video/john-malkovich-60-minutes-video-2026-11-15/",
+   "source": "CBS News",
+   "date": "2026-11-16T00:00:05+00:00",
+   "extrait": "John Malkovich says he couldn't teach the John Malkovich method—because there's no such thing—\"and I certainly wouldn't recommend studying it.\"",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "0b32e9f3eb14",
+   "titre": "Gold Star families demand answers for Iran war deaths: \"They killed those soldiers\"",
+   "lien": "https://www.cbsnews.com/video/gold-star-families-demand-answers-for-iran-war-deaths-they-killed-those-soldiers/",
+   "source": "CBS News",
+   "date": "2026-11-16T00:00:00+00:00",
+   "extrait": "The families of U.S. soldiers killed in an Iranian drone strike in Kuwait want answers from the Pentagon. A 60 Minutes investigation examines U.S. military failures surrounding the March attack.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "f83a676d74f0",
+   "titre": "Bahrain says it intercepted Iranian strikes, Tehran targets U.S. assets",
+   "lien": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/",
+   "source": "CBS News",
+   "date": "2026-11-15T23:56:37+00:00",
+   "extrait": "The attacks come after the U.S. carried out minor strikes on Iran's Qeshm island in recent weeks.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "111652aa24a0",
+   "titre": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+   "lien": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-15T23:52:10+00:00",
+   "extrait": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "9e29decc6c40",
+   "titre": "Plus de 157 000 signataires, dont Elon Musk, demandent le retour de Jensen Huang à la tête de Nvidia",
+   "lien": "https://www.lemonde.fr/pixels/article/2026/11/16/plus-de-157-000-signataires-dont-elon-musk-demandent-le-retour-de-jensen-huang-a-la-tete-de-nvidia_6811065_4408996.html",
+   "source": "Le Monde",
+   "date": "2026-11-15T23:22:46+00:00",
+   "extrait": "Une lettre, dont 7 500 signataires se déclarent salariés de l’entreprise, réclame la réintégration de l’ancien patron du géant américain des semi-conducteurs, au moins le temps de se défendre face…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "4a254ee89be7",
    "titre": "Alpinisme : l'expédition du Jannu Est, \"un tournant\" pour Benjamin Védrines",
    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261115-alpinisme-l-exp%C3%A9dition-du-jannu-est-un-tournant-pour-benjamin-v%C3%A9drines",
    "source": "France 24",
    "date": "2026-11-15T22:58:04+00:00",
    "extrait": "Après huit mois loin de la scène médiatique, l'alpiniste Benjamin Védrines fait son retour en cette fin 2026. Au côtés d'un autre alpinistre français Nicolas Jean, il vient de remporter le Piolet…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "ade629466c1b",
+   "titre": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+   "lien": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-15T22:57:27+00:00",
+   "extrait": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
    "tags": [],
    "zone": "monde"
   },
@@ -216,7 +382,7 @@
    "titre": "A Paris, les rassemblements interdits de lundi à vendredi autour de certains lycées et universités",
    "lien": "https://www.lemonde.fr/societe/article/2026/11/15/a-paris-les-rassemblements-interdits-de-lundi-a-vendredi-autour-de-certains-lycees-et-universites_6811050_3224.html",
    "source": "Le Monde",
-   "date": "2026-11-15T20:45:31+00:00",
+   "date": "2026-11-15T20:45:27+00:00",
    "extrait": "Le préfet de police estime que les blocages sont « le plus souvent » le fait d’une minorité d’élèves, mais « entravent pour tous les autres le droit fondamental à recevoir des enseignements » et…",
    "tags": [
     "Justice"
@@ -396,16 +562,6 @@
    "extrait": "Début mars, un homme et une femme d'une cinquantaine d'années avaient été séquestrés à leur domicile au Chesnay (Yvelines) et forcés à virer 900 000 euros en bitcoins à leurs agresseurs.",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "3e8f4b649f19",
-   "titre": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-   "lien": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-15T19:20:53+00:00",
-   "extrait": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
-   "tags": [],
-   "zone": "monde"
   },
   {
    "id": "ff89d7675f06",
@@ -677,18 +833,6 @@
    "date": "2026-11-15T17:40:00+00:00",
    "extrait": "The following is the transcript of the interview with Rep. Jim Himes, Democrat of Connecticut, that aired on \"Face the Nation with Margaret Brennan\" on Nov. 15, 2026.",
    "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "f83a676d74f0",
-   "titre": "Bahrain says it intercepted Iranian strikes, Tehran targets U.S. assets",
-   "lien": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/",
-   "source": "CBS News",
-   "date": "2026-11-15T17:38:57+00:00",
-   "extrait": "The attacks come after the U.S. carried out minor strikes on Iran's Qeshm island in recent weeks.",
-   "tags": [
-    "Conflits"
-   ],
    "zone": "usa"
   },
   {
@@ -3247,154 +3391,6 @@
    "extrait": "Frustrated travelers are still dealing with delays and cancellations after a nationwide ground stop. Points Path CEO Julian Kheel shares his advice for passengers looking to protect their money when…",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "cfa3d5dfac7a",
-   "titre": "Pilot, former air traffic controller react to national ground stop",
-   "lien": "https://www.cbsnews.com/video/pilot-former-air-traffic-controller/",
-   "source": "CBS News",
-   "date": "2026-11-14T19:40:00+00:00",
-   "extrait": "Travelers are still facing delays and cancellations after a national FAA ground stop was lifted. Commercial airline pilot Captain Laura Einsetler and former air traffic controller Todd Yeary share…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "33a64f2c7fa8",
-   "titre": "En Israël, Gadi Eisenkot dénonce les « ruses » de Benyamin Nétanyahou, qui plaide pour la formation d’un gouvernement d’union",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/14/en-israel-gadi-eisenkot-denonce-les-ruses-de-benyamin-netanyahou-qui-plaide-pour-la-formation-d-un-gouvernement-d-union_6810511_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-14T19:33:52+00:00",
-   "extrait": "Aux yeux du premier ministre israélien sortant, seul un gouvernement d’union nationale avec Gadi Eisenkot permettra de « garantir la sécurité d’Israël » face à l’Iran, dont il promet d’éliminer la…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "db1f0a9addf8",
-   "titre": "EN DIRECT, guerre en Ukraine : Emmanuel Macron dénonce « ceux qui veulent rationner » l’aide à Kiev et « l’obliger à une paix injuste »",
-   "lien": "https://www.lemonde.fr/international/live/2026/11/14/en-direct-guerre-en-ukraine-emmanuel-macron-denonce-ceux-qui-veulent-rationner-l-aide-a-kiev-et-l-obliger-a-une-paix-injuste_6808609_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-14T19:33:34+00:00",
-   "extrait": "La candidate du Rassemblement national, Marine Le Pen, entend, si elle est élue, cesser l’aide financière à l’Ukraine. Une position fustigée par le gouvernement et les candidats d’un arc allant de…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "f08130867f4b",
-   "titre": "Emmanuel Macron affirme que \"ceux qui veulent rationner\" l'aide à l'Ukraine veulent \"l'obliger à une paix injuste\"",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/emmanuel-macron-affirme-que-ceux-qui-veulent-rationner-l-aide-a-l-ukraine-veulent-l-obliger-a-une-paix-injuste_8282819.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-14T19:31:20+00:00",
-   "extrait": "Marine Le Pen entend, si elle est élue, cesser l'aide financière à l'Ukraine, envahie depuis 2022 par la Russie, après une période de six mois.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "141d38e4fada",
-   "titre": "Manifestations du 14 novembre : une équipe de BFMTV agressée en marge de la mobilisation à Lyon",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-14-novembre-une-equipe-de-bfmtv-agressee-en-marge-de-la-mobilisation-a-lyon_8282714.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-14T19:22:47+00:00",
-   "extrait": "Le préfet a condamné \"avec la plus grande fermeté les agressions commises aujourd'hui à l'encontre de journalistes\", rappelant que \"la liberté de la presse et le droit d'informer sont des piliers…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "d6d5bc2831d2",
-   "titre": "A Antalya, en marge de la COP, des milliers de manifestants en colère contre les atteintes à l’environnement : « Nous ne croyons plus en ceux qui nous dirigent »",
-   "lien": "https://www.lemonde.fr/planete/article/2026/11/14/a-antalya-en-marge-de-la-cop-des-milliers-de-manifestants-en-colere-contre-les-atteintes-a-l-environnement-nous-ne-croyons-plus-en-ceux-qui-nous-dirigent_6810478_3244.html",
-   "source": "Le Monde",
-   "date": "2026-11-14T19:18:06+00:00",
-   "extrait": "Près de 10 000 personnes ont défilé, samedi, sous une pluie fine, dans le calme et une ambiance bon enfant, derrière une large banderole écrite en turc : « Contre la COP31, nous défendons la vie ! ».",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "0db8dc11d577",
-   "titre": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
-   "lien": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-14T19:14:33+00:00",
-   "extrait": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "c7adac91d88e",
-   "titre": "'We can't let them down' -- After midterm wins, Democrats turn to charting path ahead",
-   "lien": "https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference",
-   "source": "NPR",
-   "date": "2026-11-14T19:13:54+00:00",
-   "extrait": "Democrats from across the country descended on Denver for a two-day conference to chart the course of their party after sweeping victories in the midterm elections.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "67b0238ec194",
-   "titre": "Après les élections, Benyamin Nétanyahou réaffirme que seul un gouvernement d'union nationale peut \"garantir la sécurité d'Israël\"",
-   "lien": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/apres-les-elections-benyamin-netanyahou-reaffirme-que-seul-un-gouvernement-d-union-nationale-peut-garantir-la-securite-d-israel_8282762.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-14T19:05:38+00:00",
-   "extrait": "Le gouvernement d'union nationale prôné par le Premier ministre israélien sortant rassemblerait les principaux partis juifs sionistes, de la droite au centre, et exclurait les formations arabes…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "6a287b6f6ad0",
-   "titre": "Duffy blames national ground stop, travel chaos on aging infrastructure",
-   "lien": "https://www.cbsnews.com/video/travel-chaos-lingers-after-national-ground-stop/",
-   "source": "CBS News",
-   "date": "2026-11-14T18:52:41+00:00",
-   "extrait": "Hundreds of flights are canceled or delayed after a national ground stop ended. CBS News' Kris Van Cleave, Anna Schecter, Lana Zak, Shawna Mizelle and Taurean Small report.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "a52cfe54a29f",
-   "titre": "Italy fines Meta $880 million over accessing users' photos",
-   "lien": "https://www.cbsnews.com/news/italy-fines-meta-880-million-users-photos/",
-   "source": "CBS News",
-   "date": "2026-11-14T18:33:08+00:00",
-   "extrait": "The country's data protection authority said Meta accessed users' photos without their \"specific\" consent.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "359fb450257d",
-   "titre": "Italy fines Meta €805m over accessing users' photos",
-   "lien": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-14T18:28:06+00:00",
-   "extrait": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "54730623dbff",
-   "titre": "Des milliers de Portugais manifestent contre la crise du logement",
-   "lien": "https://www.franceinfo.fr/economie/pouvoir-achat/logement/des-milliers-de-portugais-manifestent-contre-la-crise-du-logement_8282765.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-14T18:23:08+00:00",
-   "extrait": "Cette mobilisation a été lancée à la suite de l'adoption par le Parlement portugais d'un projet de réforme visant notamment à simplifier et accélérer les expulsions de locataires.",
-   "tags": [],
-   "zone": "france"
   }
  ]
 }
