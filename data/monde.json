@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-16T06:05:40+00:00",
+ "maj": "2026-11-16T07:05:42+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,12 +22,91 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "a2540b5b678e",
+   "titre": "La Francophonie se dirige vers un vote à haut risque pour l'élection de son secrétaire général",
+   "lien": "https://www.france24.com/fr/france/20261116-francophonie-oif-vote-%C3%A9lection-secr%C3%A9taire-g%C3%A9n%C3%A9ral-louise-mushikiwabo-rwanda-rd-congo-juliana-lumumba-dacian-ciolos-coumba-ba",
+   "source": "France 24",
+   "date": "2026-11-16T07:01:33+00:00",
+   "extrait": "L'élection du secrétaire général de l'Organisation internationale de la Francophonie doit se dérouler lundi à Phnom Penh, au Cambodge. Après deux mandats de Louise Mushikiwabo, la République…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "821c54c5ee8e",
+   "titre": "Le plus puissant baron mexicain de la drogue, Miguel Ángel Félix Gallardo, est mort après 37 ans d'emprisonnement",
+   "lien": "https://www.franceinfo.fr/societe/drogue/le-plus-puissant-baron-mexicain-de-la-drogue-miguel-angel-felix-gallardo-est-mort-apres-37-ans-d-emprisonnement_8284346.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-16T06:54:04+00:00",
+   "extrait": "Il avait été à l'origine de la fondation du cartel de Guadalajara, premier modèle de la criminalité organisée au Mexique.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "9742b1316176",
+   "titre": "\"C'est la reconnaissance de cette culture fromagère\" : le comté 24 mois du Fort des Rousses dans le Jura élu meilleur fromage du monde",
+   "lien": "https://www.franceinfo.fr/culture/cuisine-et-gastronomie/c-est-la-reconnaissance-de-cette-culture-fromagere-le-comte-24-mois-du-fort-des-rousses-dans-le-jura-elu-meilleur-fromage-du-monde_8284337.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-16T06:47:57+00:00",
+   "extrait": "Parmi plus de 5 000 fromages, un comté 24 mois du Jura s'est distingué lors du World Cheese Awards, ce qui récompense l'ensemble de la filière fromagère qui \"existe depuis des siècles et même des…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "acc0ae9c8b84",
+   "titre": "Ukraine en direct : 600 drones lancés sur Moscou, le pont de Crimée touché par une frappe",
+   "lien": "https://www.france24.com/fr/europe/20261116-ukraine-en-direct-russie-600-drones-lanc%C3%A9s-sur-moscou-maire-capitale",
+   "source": "France 24",
+   "date": "2026-11-16T06:38:01+00:00",
+   "extrait": "Environ 600 drones ont été lancés en direction de la région de Moscou dans la nuit et lundi matin, a déclaré le maire de la capitale, qui a précisé que la plupart avaient été interceptés. Par…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "c358e0193be3",
+   "titre": "\"L'ascenseur social est un peu en panne\" : trouver un stage de seconde ou de 3e, est encore compliqué pour les adolescents les moins favorisés",
+   "lien": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-l-ascenseur-social-est-un-peu-en-panne-trouver-un-stage-de-seconde-ou-de-3e-est-encore-complique-pour-les-adolescents-les-moins-favorises_8263367.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-16T06:27:32+00:00",
+   "extrait": "Une étude du ministère de l'Éducation nationale dévoilée fin octobre souligne l'inégalité des chances persistante entre lycéens et collégiens issus de milieux sociaux différents même si certaines…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "5fff14d37e7e",
+   "titre": "Les rassemblements et cortèges sont interdits autour de plusieurs lycées et universités à Paris et en région parisienne",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-rassemblements-et-corteges-sont-interdits-autour-de-plusieurs-lycees-et-universites-a-paris-et-en-region-parisienne_8284295.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-16T06:10:54+00:00",
+   "extrait": "L'arrêté de la préfecture de police de Paris, publié dimanche, précise que cette interdiction s'applique dans un \"rayon de 100 mètres\" autour des établissements. Une mesure justifiée pour éviter…",
+   "tags": [
+    "Climat",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "eaa123f00064",
+   "titre": "Le courrier sur la fertilité est envoyé à partir de lundi à tous les Français de 29 ans pour les informer sur la santé reproductive",
+   "lien": "https://www.franceinfo.fr/sante/le-courrier-sur-la-fertilite-est-envoye-a-tous-les-francais-de-29-ans-pour-les-informer-sur-la-sante-reproductive_8284199.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-16T05:52:32+00:00",
+   "extrait": "Ce courrier aborde notamment le sujet de la contraception pour ceux qui ne veulent pas d’enfant mais aussi les consultations spécialisées de fertilité pour les couples.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "d9453fcada6f",
    "titre": "EN DIRECT, guerre en Ukraine : près de 200 drones neutralisés à l’approche de Moscou, selon le maire de la capitale russe",
    "lien": "https://www.lemonde.fr/international/live/2026/11/16/en-direct-guerre-en-ukraine-pres-de-200-drones-neutralises-a-l-approche-de-moscou-selon-le-maire-de-la-capitale-russe_6810982_3210.html",
    "source": "Le Monde",
    "date": "2026-11-16T05:52:17+00:00",
-   "extrait": "Environ 600 drones ont été lancés vers la région de Moscou entre dimanche soir, 17 heures, et lundi matin, 5 heures, d’après Sergueï Sobianine. Aucune information n’a été publiée dans l’immédiat sur…",
+   "extrait": "Environ 600 drones ont été lancés en direction de la capitale entre dimanche soir, 17 heures, et lundi matin, 5 heures, d’après Sergueï Sobianine. Aucune information n’a été publiée dans l’immédiat…",
    "tags": [
     "Conflits"
    ],
@@ -35,11 +114,11 @@
   },
   {
    "id": "c8b62db92250",
-   "titre": "Mouvement lycéen : Le lycée Nelson Mandela rouvre ses portes à Nantes six semaines après l'incendie dont il a été victime",
+   "titre": "Crise sociale : le lycée Nelson-Mandela rouvre ses portes à Nantes, six semaines après l'incendie qui a touché l'établissement",
    "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mouvement-lyceen-le-lycee-nelson-mandela-rouvre-ses-portes-a-nantes-six-semaines-apres-l-incendie-dont-il-a-ete-victime_8284130.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-11-16T05:51:04+00:00",
-   "extrait": "Le ministre de l'Education nationale se rendra pour la réouverture alors que le gouvernement durcit le ton face aux blocages des établissements scolaires notamment à Paris.",
+   "extrait": "Le ministre de l'Education nationale doit se rendre lundi sur place, alors que le gouvernement durcit le ton face aux blocages des établissements scolaires notamment à Paris.",
    "tags": [
     "Politique",
     "Climat"
@@ -92,6 +171,26 @@
    "zone": "france"
   },
   {
+   "id": "821736791e8f",
+   "titre": "La vente aux enchères des Hospices de Beaunes récolte près de 14 millions d’euros malgré de maigres vendanges",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/16/la-vente-aux-encheres-des-hospices-de-beaunes-recolte-pres-de-14-millions-d-euros-malgre-de-maigres-vendanges_6811402_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-16T04:56:55+00:00",
+   "extrait": "Loin du record de 29 millions d’euros de 2022, le montant total obtenu dimanche lors de cette vente caritative reste satisfaisant au regard de la baisse des récoltes.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "e3f602b3a22d",
+   "titre": "Nos albums coups de cœur : Dominique A, Angèle, Fontaines D.C., Pet Shop Boys…",
+   "lien": "https://www.lemonde.fr/musiques/article/2026/11/16/nos-albums-coups-de-c-ur-dominique-a-angele-fontaines-d-c-pet-shop-boys_6811369_1654986.html",
+   "source": "Le Monde",
+   "date": "2026-11-16T04:45:12+00:00",
+   "extrait": "Le lundi, le service Culture du « Monde » propose aux lecteurs de La Matinale ses choix en matière de musique. Aujourd’hui, une sélection de disques parus en octobre pour ne pas voir passer l’hiver.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "7af9782f0210",
    "titre": "\"Des étincelles tombaient du ciel comme de la pluie\" : la COP31 à l'épreuve des incendies à répétition dans la région d'Antalya",
    "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/reportage-des-etincelles-tombaient-du-ciel-comme-de-la-pluie-la-cop31-a-l-epreuve-des-incendies-a-repetition-dans-la-region-d-antalya_8276642.html#xtor=RSS-3-[lestitres]",
@@ -130,7 +229,7 @@
    "titre": "COP31 : quels pays doivent régler la facture de la lutte contre la catastrophe climatique ?",
    "lien": "https://www.lemonde.fr/planete/article/2026/11/16/cop31-quels-pays-doivent-regler-la-facture-de-la-lutte-contre-la-catastrophe-climatique_6811341_3244.html",
    "source": "Le Monde",
-   "date": "2026-11-16T04:30:15+00:00",
+   "date": "2026-11-16T04:30:11+00:00",
    "extrait": "La France a fait de l’élargissement du cercle des Etats tenus d’aider financièrement les pays en développement « une priorité » de la COP31, qui se poursuit en Turquie.",
    "tags": [],
    "zone": "france"
@@ -140,8 +239,8 @@
    "titre": "Le maïs, indispensable au modèle agricole français, menacé par le dérèglement climatique",
    "lien": "https://www.lemonde.fr/economie/article/2026/11/16/le-mais-indispensable-au-modele-agricole-francais-menace-par-le-dereglement-climatique_6811339_3234.html",
    "source": "Le Monde",
-   "date": "2026-11-16T04:30:06+00:00",
-   "extrait": "La sécheresse et les canicules ont fait chuter la récolte de maïs grain de 50 %, et celle de maïs pour le fourrage de plus de 30 % cette année. Des résultats qui posent la question de l’avenir de…",
+   "date": "2026-11-16T04:30:00+00:00",
+   "extrait": "La sécheresse et les canicules ont fait chuter la récolte de maïs grain de 50 % et celle de maïs pour le fourrage de plus de 30 % cette année. Des résultats qui posent la question de l’avenir de…",
    "tags": [
     "Climat"
    ],
@@ -199,6 +298,19 @@
    "zone": "monde"
   },
   {
+   "id": "382d85083d26",
+   "titre": "Pourquoi la Silicon Valley veut-elle fabriquer des bébés génétiquement modifiés ?",
+   "lien": "https://www.lemonde.fr/podcasts/article/2026/11/16/pourquoi-la-silicon-valley-veut-elle-fabriquer-des-bebes-genetiquement-modifies_6811237_5463015.html",
+   "source": "Le Monde",
+   "date": "2026-11-16T04:00:07+00:00",
+   "extrait": "Dans cet épisode, Alexandre Piquard, journaliste au service Economie du « Monde », chargé du suivi des géants de la tech et de l’intelligence artificielle, décrit la pente eugéniste induite par de…",
+   "tags": [
+    "Économie",
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "111652aa24a0",
    "titre": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
    "lien": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
@@ -216,7 +328,7 @@
    "lien": "https://www.lemonde.fr/sciences/article/2026/11/16/coup-dur-pour-amazon-avec-la-perte-de-40-satellites-due-a-l-echec-de-la-fusee-vulcan_6811204_1650684.html",
    "source": "Le Monde",
    "date": "2026-11-16T03:11:01+00:00",
-   "extrait": "Le lanceur a subi une anomalie ⁠environ dix minutes après le décollage, perdant les satellites qu’il transportait. Il s’agissait du premier de plusieurs dizaines de vols achetés au groupe United…",
+   "extrait": "Le lanceur a subi une anomalie ⁠environ dix minutes après le décollage, perdant les satellites qu’il transportait. Il s’agissait du premier vol parmi les dizaines qui ont été achetés au groupe…",
    "tags": [],
    "zone": "france"
   },
@@ -651,7 +763,7 @@
    "lien": "https://www.lemonde.fr/pixels/article/2026/11/16/plus-de-157-000-signataires-dont-elon-musk-demandent-le-retour-de-jensen-huang-a-la-tete-de-nvidia_6811065_4408996.html",
    "source": "Le Monde",
    "date": "2026-11-15T23:22:46+00:00",
-   "extrait": "Une lettre, dont 7 500 signataires se déclarent salariés de l’entreprise, réclame la réintégration de l’ancien patron du géant américain des semi-conducteurs, au moins le temps de se défendre face…",
+   "extrait": "Une lettre, dont 7 500 signataires se déclarent salariés de l’entreprise, réclame la réintégration de l’ancien patron de la multinationale américaine des semi-conducteurs, au moins le temps qu’il se…",
    "tags": [],
    "zone": "france"
   },
@@ -677,11 +789,11 @@
   },
   {
    "id": "ab091973024f",
-   "titre": "Le baron de la drogue mexicain Miguel Ángel Félix Gallardo est mort",
+   "titre": "Après 37 ans de prison, le baron de la drogue mexicain Miguel Angel Félix Gallardo est mort",
    "lien": "https://www.france24.com/fr/am%C3%A9riques/20261115-baron-de-drogue-mexicain-miguel-angel-felix-gallardo-mort-narcotrafic-hopital-prison-guadalajara",
    "source": "France 24",
    "date": "2026-11-15T22:42:26+00:00",
-   "extrait": "Considéré comme l'un des plus puissants chefs du narcotrafic, Miguel Ángel Félix Gallardo est décédé dimanche dans un hôpital, où il avait été transféré en urgence, rapportent les autorités. Depuis…",
+   "extrait": "Considéré comme l'un des plus puissants chefs du narcotrafic, Miguel Angel Félix Gallardo est mort dimanche dans un hôpital où il avait été transféré en urgence. Capturé en 1989, il purgeait deux…",
    "tags": [
     "Santé"
    ],
@@ -798,6 +910,16 @@
    "zone": "monde"
   },
   {
+   "id": "708302fc02cb",
+   "titre": "Ligue des nations : la France se qualifie en quarts dans la douleur contre la Turquie",
+   "lien": "https://www.france24.com/fr/sports/20261115-ligue-des-nations-suivez-en-direct-le-match-de-la-qualification-pour-la-france-contre-la-turquie",
+   "source": "France 24",
+   "date": "2026-11-15T21:44:28+00:00",
+   "extrait": "L'équipe de France s'est défaite dans la douleur de la Turquie (2-1) pour assurer sa qualification en quarts de finale de Ligue des nations, dimanche 15 novembre à Bordeaux. En parallèle, la large…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
    "id": "1bfa84aa8356",
    "titre": "Benyamin Nétanyahou ne peut pas rester « une minute de plus » à la tête du gouvernement israélien, estime Gadi Eisenkot",
    "lien": "https://www.lemonde.fr/international/article/2026/11/15/benyamin-netanyahou-ne-peut-pas-rester-une-minute-de-plus-a-la-tete-du-gouvernement-israelien-estime-gadi-eisenkot_6811061_3210.html",
@@ -873,7 +995,7 @@
    "lien": "https://www.lemonde.fr/societe/article/2026/11/15/a-paris-les-rassemblements-interdits-de-lundi-a-vendredi-autour-de-certains-lycees-et-universites_6811050_3224.html",
    "source": "Le Monde",
    "date": "2026-11-15T20:45:27+00:00",
-   "extrait": "Le préfet de police estime que les blocages sont « le plus souvent » le fait d’une minorité d’élèves, mais « entravent pour tous les autres le droit fondamental à recevoir des enseignements » et…",
+   "extrait": "Le préfet de police estime que les blocages sont « le plus souvent » le fait d’une minorité d’élèves, mais qu’ils « entravent pour tous les autres le droit fondamental à recevoir des enseignements »…",
    "tags": [
     "Justice"
    ],
@@ -1021,11 +1143,11 @@
   },
   {
    "id": "79469e8ad41a",
-   "titre": "Présidentielle 2027 : la pauvreté requiert des \"solutions structurelles\", selon les Restos du Coeur",
+   "titre": "Présidentielle 2027 : la pauvreté requiert des \"solutions structurelles\", affirme le président des Restos du cœur",
    "lien": "https://www.franceinfo.fr/societe/pauvrete/presidentielle-2027-la-pauvrete-requiert-des-solutions-structurelles-selon-les-restos-du-coeur_8283881.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-11-15T19:40:21+00:00",
-   "extrait": "\"La réponse que Les Restos du coeur apportent à la précarité en France est essentielle, mais elle atteint ses limites\", affirme leur président, Jean-Michel Richard.",
+   "extrait": "Cinq candidats à la présidentielle débattront lundi des enjeux de solidarité, de pouvoir d'achat et de lutte contre la pauvreté, à la veille du lancement de la 42e campagne de l'association fondée…",
    "tags": [
     "Politique"
    ],
@@ -1082,11 +1204,11 @@
   },
   {
    "id": "fc4feffb479c",
-   "titre": "Un homme a été mis en examen et écroué dans les Yvelines, après un crypto-rapt à 900 000 euros",
+   "titre": "Un homme a été mis en examen et écroué dans les Yvelines, après la séquestration d'un couple forcé à virer 900 000 euros en bitcoins",
    "lien": "https://www.franceinfo.fr/economie/bitcoin/un-homme-a-ete-mis-en-examen-et-ecroue-dans-les-yvelines-apres-un-crypto-rapt-a-900-000-euros_8283848.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-11-15T19:26:01+00:00",
-   "extrait": "Début mars, un homme et une femme d'une cinquantaine d'années avaient été séquestrés à leur domicile au Chesnay (Yvelines) et forcés à virer 900 000 euros en bitcoins à leurs agresseurs.",
+   "extrait": "Début mars, un homme et une femme d'une cinquantaine d'années avaient été séquestrés à leur domicile au Chesnay (Yvelines) et forcés à virer la somme à leurs agresseurs.",
    "tags": [],
    "zone": "france"
   },
@@ -1184,11 +1306,11 @@
   },
   {
    "id": "c6010a0883c5",
-   "titre": "Au Yémen, le camp gouvernemental masse des renforts autour d'Aden, menacée par les Houthis",
+   "titre": "Au Yémen, le camp gouvernemental masse des renforts autour d'Aden, menacée par les houthis",
    "lien": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-le-camp-gouvernemental-masse-des-renforts-autour-d-aden-menacee-par-les-houthis_8283851.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-11-15T18:47:11+00:00",
-   "extrait": "Le gouvernement internationalement reconnu s'est replié à Aden après la prise, en 2014 par les Houthis, de la capitale Sanaa et de grands pans du nord du pays, les plus peuplés.",
+   "extrait": "Le gouvernement reconnu par la communauté internationale s'est replié à Aden après la prise, en 2014 par les houthis, de la capitale Sanaa et de grands pans du nord du pays, les plus peuplés.",
    "tags": [
     "Politique"
    ],
@@ -1447,16 +1569,6 @@
     "Justice"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "708302fc02cb",
-   "titre": "Ligue des nations : revivez la victoire et la qualification des Bleus face à la Turquie",
-   "lien": "https://www.france24.com/fr/sports/20261115-ligue-des-nations-suivez-en-direct-le-match-de-la-qualification-pour-la-france-contre-la-turquie",
-   "source": "France 24",
-   "date": "2026-11-15T17:00:25+00:00",
-   "extrait": "L'équipe de France a dominé la Turquie (2-1) au terme d'un match âpre et disputé, dimanche 15 novembre en Ligue des nations. Grâce à un but contre son camp de Topcu et la première réalisation de…",
-   "tags": [],
-   "zone": "monde"
   },
   {
    "id": "c763e73932f4",
@@ -3284,123 +3396,6 @@
    "extrait": "En 2016, l’animatrice de télévision révélait que le photographe David Hamilton l’avait violée alors qu’elle avait 13 ans. Cette année, elle a porté plainte pour viol contre Patrick Bruel et publie «…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "375d28637ad7",
-   "titre": "Trump blasts judge for halting his Washington golf project and says he will appeal",
-   "lien": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
-   "source": "NPR",
-   "date": "2026-11-15T04:28:45+00:00",
-   "extrait": "A federal judge on Saturday ordered a two-week delay to any work at a historic Washington public golf course not far from the White House.",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "cd2ce5d66fde",
-   "titre": "Présidentielle 2027 : Teddy Riner découvre le combat politique, entre popularité et agacement",
-   "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/15/presidentielle-2027-teddy-riner-decouvre-le-combat-politique-entre-popularite-et-agacement_6810907_6205049.html",
-   "source": "Le Monde",
-   "date": "2026-11-15T04:15:01+00:00",
-   "extrait": "Le judoka a passé son samedi après-midi au salon du Made in France alors que sa campagne connaît déjà des premières turbulences. Au milieu d’une forêt de micros et caméras, le tout récent candidat a…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "498540ccd508",
-   "titre": "Un commandant de la branche militaire du Hamas tué dans une frappe dans le sud de la bande de Gaza",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/15/un-commandant-de-la-branche-militaire-du-hamas-tue-dans-une-frappe-dans-le-sud-de-la-bande-de-gaza_6810874_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-15T03:57:43+00:00",
-   "extrait": "Israël a dit avoir frappé un responsable des brigades Ezzedine Al-Qassam sans le nommer, mais la branche militaire du mouvement islamiste palestinien a confirmé la mort Samir Abou Younis.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "6f0bb5e13501",
-   "titre": "How Trump administration responded to FAA ground stop",
-   "lien": "https://www.cbsnews.com/news/faa-ground-stop-trump-admin-response/",
-   "source": "CBS News",
-   "date": "2026-11-15T03:16:00+00:00",
-   "extrait": "President Trump was informed within 30 minutes after the Federal Aviation Administration imposed a nationwide ground stop Friday afternoon, according to U.S. officials.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "1a9e3e727474",
-   "titre": "E-sport : les Chinois de Bilibili Gaming sacrés champions du monde de « League of Legends »",
-   "lien": "https://www.lemonde.fr/pixels/article/2026/11/15/e-sport-les-chinois-de-bilibili-gaming-sacres-champions-du-monde-de-league-of-legends_6810841_4408996.html",
-   "source": "Le Monde",
-   "date": "2026-11-15T02:34:18+00:00",
-   "extrait": "Considérés comme des outsiders, les joueurs de BLG ont décroché leur premier titre mondial en battant en finale l’équipe sud-coréenne Gen. G (3-1), après avoir sorti les triples tenants du titre T1.",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "284cc2a60742",
-   "titre": "Murder at Mount Hood",
-   "lien": "https://www.cbsnews.com/video/111426-48-hours-murder-at-mount-hood/",
-   "source": "CBS News",
-   "date": "2026-11-15T02:00:00+00:00",
-   "extrait": "When a beloved Oregon woman goes missing, her community in the mountains bands together to help solve the case. \"48 Hours\" correspondent Peter Van Sant reports.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "f49be85f4dbf",
-   "titre": "Au Cap-Vert, modèle de stabilité démocratique, le président sortant José Maria Neves vise un second mandat",
-   "lien": "https://www.lemonde.fr/afrique/article/2026/11/15/au-cap-vert-modele-de-stabilite-democratique-le-president-sortant-jose-maria-neves-vise-un-second-mandat_6810808_3212.html",
-   "source": "Le Monde",
-   "date": "2026-11-15T01:53:33+00:00",
-   "extrait": "Parmi les six candidats en lice pour le premier tour, dimanche, le chef de l’Etat part favori face à sa principale rivale, l’ancienne ministre de la justice Joana Rosa Amado, première femme…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "7a2ecbb75427",
-   "titre": "Evacuation lifted after bomb threat near industrial plant in Illinois",
-   "lien": "https://www.cbsnews.com/news/peoria-illinois-bomb-threat-evacuation/",
-   "source": "CBS News",
-   "date": "2026-11-15T01:28:38+00:00",
-   "extrait": "Police said the device had been rendered safe and residents were allowed to return to their homes.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "c7059d6ea2fa",
-   "titre": "Watch: Massive waves, flooding batter Northern California",
-   "lien": "https://www.cbsnews.com/video/videos-show-waves-flooding-batter-northern-california/",
-   "source": "CBS News",
-   "date": "2026-11-15T01:23:22+00:00",
-   "extrait": "High surf and coastal flooding battered Northern California from Thursday through Saturday, sending massive waves crashing onto shorelines in San Francisco, Pacifica and Santa Cruz.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "bdef44745e9a",
-   "titre": "FAA ground stop disrupts college football",
-   "lien": "https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays",
-   "source": "NPR",
-   "date": "2026-11-15T01:13:59+00:00",
-   "extrait": "Some college football games were delayed a few hours on Saturday or postponed to Sunday. And in Oklahoma at least, there will be perks for fans to make up for the inconvenience, including cheap beers.",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "usa"
   }
  ]
 }
