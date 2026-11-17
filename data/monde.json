@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-17T19:05:41+00:00",
+ "maj": "2026-11-17T20:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,14 +22,186 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "16fa8ba61cdc",
+   "titre": "L'association Unicef France \"suspend la mission d'ambassadeur\" de Teddy Riner en raison de sa candidature à la présidentielle",
+   "lien": "https://www.franceinfo.fr/sports/judo/teddy-riner/unicef-france-suspend-la-mission-d-ambassadeur-de-teddy-riner-en-raison-de-sa-candidature-a-la-presidentielle_8287055.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T19:56:47+00:00",
+   "extrait": "L'association justifie cette décision en évoquant ses \"principes d'indépendance et de neutralité politique\".",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "8956cf8b412c",
+   "titre": "U.S. launches strikes on Iran's Qeshm Island in Strait of Hormuz",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
+   "source": "CBS News",
+   "date": "2026-11-17T19:56:08+00:00",
+   "extrait": "The strikes came after Iran launched attacks against U.S. radar systems in Bahrain three times in less than a week.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "998b47e30509",
+   "titre": "FEMA, FCC conduct test of emergency alert system; Apple users report service issues",
+   "lien": "https://www.cbsnews.com/video/fema-fcc-conduct-test-of-emergency-alert-system-apple-users-report-service-issues/",
+   "source": "CBS News",
+   "date": "2026-11-17T19:55:00+00:00",
+   "extrait": "FEMA and the FCC on Tuesday conducted a test of the emergency alert system. The test comes amid a rash of recent technical problems for companies across the country and the federal government…",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "def42acd0aab",
+   "titre": "Uber driver had organs removed after Hopkins attack, complaint says",
+   "lien": "https://www.cbsnews.com/news/hopkins-uber-driver-attack-man-charged-attempted-murder-carjacking/",
+   "source": "CBS News",
+   "date": "2026-11-17T19:54:12+00:00",
+   "extrait": "Mohamed Yusuf also suffered broken ribs, a broken leg, spinal injuries and collapsed lungs, the complaint says. Samit Apurva Patel, 25, is charged with attempted second-degree murder and…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "4ac02bdf1f2c",
+   "titre": "L’évocation de la vie privée de la militante Anne-Cécile Mailfert en direct sur Franceinfo vire au débat politique ; la chaîne présente des excuses et plaide la transparence",
+   "lien": "https://www.lemonde.fr/actualite-medias/article/2026/11/17/l-evocation-de-la-vie-privee-de-la-militante-anne-cecile-mailfert-en-direct-sur-franceinfo-vire-au-debat-politique-la-chaine-presente-des-excuses-et-plaide-la-transparence_6813039_3236.html",
+   "source": "Le Monde",
+   "date": "2026-11-17T19:53:35+00:00",
+   "extrait": "Lundi, à la fin d’un débat consacré à Gérard Depardieu et à la question des violences sexuelles, une journaliste a invoqué la charte déontologique de la chaîne publique pour rappeler qu’Anne-Cécile…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "0c7c33d40dbd",
+   "titre": "NSA's classified internal network goes down, sources say",
+   "lien": "https://www.cbsnews.com/news/nsa-network-down-classified-fort-meade/",
+   "source": "CBS News",
+   "date": "2026-11-17T19:40:25+00:00",
+   "extrait": "Two U.S. officials tell CBS News that so far there is no evidence of a cyberattack.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "f283b74baad8",
+   "titre": "American soldier accused of spying in U.S. custody after U.K. arrest",
+   "lien": "https://www.cbsnews.com/news/american-soldier-spying-suspect-russia-united-kingdom-us-custody/",
+   "source": "CBS News",
+   "date": "2026-11-17T19:40:06+00:00",
+   "extrait": "Federal Bureau of Investigation director Kash Patel said that the soldier was \"a potential threat to national security.\"",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "162ee82915bd",
+   "titre": "Cruz announces deal on stalled airline safety bill",
+   "lien": "https://www.cbsnews.com/news/airline-safety-bill-deal-ted-cruz/",
+   "source": "CBS News",
+   "date": "2026-11-17T19:34:54+00:00",
+   "extrait": "The measure would require all planes in busy airspace to be broadcasting their location, according to GOP Sen. Ted Cruz.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "31c7e24129a2",
+   "titre": "Russian military plane crashes killing all 19 on board",
+   "lien": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-17T19:33:55+00:00",
+   "extrait": "Russia's defence ministry says a technical malfunction was the likely cause of the crash in the Kemerovo region.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "60f1f35b4d3f",
+   "titre": "Fed's Lisa Cook rebuffs White House hearing without changes",
+   "lien": "https://www.cbsnews.com/news/lisa-cook-federal-reserve-white-house-hearing/",
+   "source": "CBS News",
+   "date": "2026-11-17T19:30:00+00:00",
+   "extrait": "A lawyer for Federal Reserve Governor Lisa Cook said she has \"no legal obligation\" to appear at a White House hearing about mortgage fraud allegations.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "e8fe1337d21a",
+   "titre": "\"Fractures françaises\" : jusqu'où ?",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261117-fractures-fran%C3%A7aises-jusqu-o%C3%B9",
+   "source": "France 24",
+   "date": "2026-11-17T19:20:47+00:00",
+   "extrait": "La mobilisation se poursuit en France : les fonctionnaires ont battu le pavé dans plusieurs villes du pays pour réclamer une hausse des salaires face à l’inflation. Des lycéens et des étudiants…",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "c8a2414e47f1",
+   "titre": "\"Je serais honoré de reprendre mes fonctions de PDG\" : l'ex-patron de Nvidia, Jensen Huang, se dit ouvert à un retour à la tête de l'entreprise, cinq jours après sa démission",
+   "lien": "https://www.franceinfo.fr/internet/nvidia/je-serais-honore-de-reprendre-mes-fonctions-de-pdg-l-ex-patron-de-nvidia-jensen-huang-se-dit-ouvert-a-un-retour-a-la-tete-de-l-entreprise-cinq-jours-apres-sa-demission_8286938.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T19:19:33+00:00",
+   "extrait": "Le patron du géant américain des puces a annoncé jeudi sa démission après l'éclatement d'un scandale d'adultère et de contrebande de puces IA vers la Chine.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "fdafad9e7f10",
+   "titre": "Guerre en Ukraine : la France n'est \"évidemment pas cobelligérante\" et n'a \"pas l'intention de l'être\", assure le ministre Jean-Noël Barrot",
+   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-la-russie-estime-que-la-presence-de-soldats-francais-sur-le-terrain-equivaut-a-une-participation-directe-au-conflit_8286344.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T19:14:31+00:00",
+   "extrait": "Plusieurs dizaines de militaires français se trouvent en Ukraine pour de possibles actions de maintenance et de formation, selon les informations de RFI et du \"Monde\", confirmées par France…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "bf78226b8592",
    "titre": "\"C'est grâce à ce jour que ça continue aujourd'hui\" : un mois après le 17 octobre, le cortège parisien se souvient d'une journée de mobilisation imparfaite mais \"déterminante\"",
    "lien": "https://www.franceinfo.fr/societe/manifestations/reportage-c-est-grace-a-ce-jour-que-ca-continue-aujourd-hui-un-mois-apres-le-17-octobre-le-cortege-parisien-se-souvient-d-une-journee-de-mobilisation-imparfaite-mais-determinante_8286404.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-11-17T19:01:24+00:00",
+   "date": "2026-11-17T19:07:58+00:00",
    "extrait": "Les Français étaient de nouveau appelés à manifester mardi, notamment à l'appel de l'intersyndicale de la fonction publique. L'occasion de s'interroger, alors que les cortèges ne font plus le plein…",
    "tags": [],
    "zone": "france"
+  },
+  {
+   "id": "bccf47d9248f",
+   "titre": "Jensen Huang says he's willing to return as Nvidia CEO",
+   "lien": "https://www.cbsnews.com/video/jensen-huang-says-hes-willing-to-return-as-nvidia-ceo/",
+   "source": "CBS News",
+   "date": "2026-11-17T19:07:15+00:00",
+   "extrait": "Jensen Huang said in a new statement that he's willing to return as Nvidia CEO if asked by the board after he resigned last week following his affair with a suspected Chinese spy. Huang also agreed…",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "b7530801ab0b",
+   "titre": "Mamdani disbands NYPD unit accused of excessive force, keeping campaign promise",
+   "lien": "https://www.cbsnews.com/video/mamdani-keeps-campaign-promise-disbands-nypd-unit-accused-of-excessive-force/",
+   "source": "CBS News",
+   "date": "2026-11-17T19:03:28+00:00",
+   "extrait": "New York City Mayor Zohran Mamdani has announced the disbandment of the NYPD's Strategic Response Unit, which has been accused of using excessive force against protesters. CBS News' Anna Schecter…",
+   "tags": [],
+   "zone": "usa"
   },
   {
    "id": "2cf43664a579",
@@ -42,18 +214,6 @@
     "Politique"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "8956cf8b412c",
-   "titre": "Iran claims another attack targeting U.S. radar site in Bahrain",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
-   "source": "CBS News",
-   "date": "2026-11-17T18:52:08+00:00",
-   "extrait": "Iran has claimed to hit U.S. radar systems in Bahrain three times in less than a week, but authorities said the first two attacks were intercepted.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
   },
   {
    "id": "6c1a38965d98",
@@ -76,6 +236,19 @@
     "Politique"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "5ff2e6a51229",
+   "titre": "Royaume-Uni : une réforme « radicale » pour remettre dans l’emploi « une génération perdue »",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/17/royaume-uni-une-reforme-radicale-pour-remettre-dans-l-emploi-une-generation-perdue_6813035_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-17T18:48:40+00:00",
+   "extrait": "Un rapport a été publié, mardi, qui propose des mesures pour les près d’un million de jeunes Britanniques âgés de 16 à 24 ans qui ne sont ni en emploi, ni en études, ni en formation. Le gouvernement…",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "france"
   },
   {
    "id": "a749c379e77e",
@@ -113,19 +286,6 @@
     "Tech"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "fdafad9e7f10",
-   "titre": "Guerre en Ukraine : la France n'est \"évidemment pas cobelligérante\" et n'a \"pas l'intention de l'être\", assure le ministre Jean-Noël Barrot",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-la-russie-estime-que-la-presence-de-soldats-francais-sur-le-terrain-equivaut-a-une-participation-directe-au-conflit_8286344.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T18:35:06+00:00",
-   "extrait": "Plusieurs dizaines de militaires français se trouvent en Ukraine pour de possibles actions de maintenance et de formation, selon les informations de RFI et du \"Monde\", confirmées par France…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
   },
   {
    "id": "2ab58983706a",
@@ -166,16 +326,6 @@
    "zone": "france"
   },
   {
-   "id": "0c7c33d40dbd",
-   "titre": "NSA's classified internal network goes down, sources say",
-   "lien": "https://www.cbsnews.com/news/nsa-network-down-classified-fort-meade/",
-   "source": "CBS News",
-   "date": "2026-11-17T18:30:00+00:00",
-   "extrait": "Two U.S. officials tell CBS News that so far there is no evidence of a cyberattack.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "eba27738fbf9",
    "titre": "Classified NSA network goes down, sources say",
    "lien": "https://www.cbsnews.com/video/classified-nsa-network-goes-down-sources-say/",
@@ -184,6 +334,16 @@
    "extrait": "The National Security Agency's internal network for sharing and storing classified information went offline Tuesday, according to multiple U.s. officials familiar with the situation. CBS News'…",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "060d2b1a6424",
+   "titre": "Après des attentats meurtriers, la Jordanie multiplie les interdictions d’utilisation des réseaux sociaux",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/17/apres-des-attentats-meurtriers-la-jordanie-multiplie-les-interdictions-d-utilisation-des-reseaux-sociaux_6813030_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-17T18:28:44+00:00",
+   "extrait": "Le royaume a décidé de prohiber le réseau Telegram. Il avait déjà mis au ban la plateforme TikTok et interdit l’utilisation de la messagerie WhatsApp pour passer des appels.",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "4b6f10c89569",
@@ -262,18 +422,6 @@
    "zone": "france"
   },
   {
-   "id": "c8a2414e47f1",
-   "titre": "\"Je serais honoré de reprendre mes fonctions de PDG\" : l'ex-patron de Nvidia, Jensen Huang, se dit ouvert à un retour à la tête de l'entreprise, cinq jours après sa démission",
-   "lien": "https://www.franceinfo.fr/internet/nvidia/je-serais-honore-de-reprendre-mes-fonctions-de-pdg-l-ex-patron-de-nvidia-jensen-huang-se-dit-ouvert-a-un-retour-a-la-tete-de-l-entreprise-cinq-jours-apres-sa-demission_8286938.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T18:04:13+00:00",
-   "extrait": "Le patron du géant américain des puces a annoncé jeudi sa démission après l'éclatement d'un scandale d'adultère et de contrebande de puces IA vers la Chine.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "b423cbcf7c62",
    "titre": "A Paris, la mairie anticipe des fermetures d’écoles dans le cadre d’une « sectorisation bioclimatique »",
    "lien": "https://www.lemonde.fr/politique/article/2026/11/17/a-paris-la-mairie-anticipe-des-fermetures-d-ecoles-dans-le-cadre-d-une-sectorisation-bioclimatique_6813027_823448.html",
@@ -281,6 +429,18 @@
    "date": "2026-11-17T18:02:40+00:00",
    "extrait": "Cinq écoles du 14ᵉ arrondissement pourraient être fermées à cause de la baisse démographique et des finances exsangues de la Ville de Paris face aux besoins de rénovation du bâti. Une méthode…",
    "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "b7f91a5c5b54",
+   "titre": "« Jupiter » : la vertigineuse solitude du président face à l’arme nucléaire, incarné à l’écran par Denis Ménochet",
+   "lien": "https://www.lemonde.fr/culture/article/2026/11/17/jupiter-la-vertigineuse-solitude-du-president-face-a-l-arme-nucleaire-incarne-a-l-ecran-par-denis-menochet_6813026_3246.html",
+   "source": "Le Monde",
+   "date": "2026-11-17T18:00:09+00:00",
+   "extrait": "Le réalisateur Alexandre Smia fait monter la pression dans un huis clos au sein duquel le chef de l’Etat français doit décider d’utiliser ou non la bombe atomique contre la Russie.",
+   "tags": [
+    "Politique"
+   ],
    "zone": "france"
   },
   {
@@ -768,7 +928,7 @@
   },
   {
    "id": "a430884a6026",
-   "titre": "EN DIRECT, manifestations du 17 novembre : entre 146 000, selon le gouvernement, et 500 000 personnes, selon la CGT, ont défilé en France contre la vie chère",
+   "titre": "Manifestations du 17 novembre : entre 146 000, selon le gouvernement, et 500 000 personnes, selon la CGT, ont défilé en France ; revivez la journée de mobilisation",
    "lien": "https://www.lemonde.fr/politique/live/2026/11/17/en-direct-manifestations-du-17-novembre-a-paris-une-manifestation-calme-a-17-heures-ayant-rassemble-28-000-personnes-selon-la-prefecture-de-police_6812905_823448.html",
    "source": "Le Monde",
    "date": "2026-11-17T16:28:59+00:00",
@@ -3306,163 +3466,6 @@
     "Politique"
    ],
    "zone": "france"
-  },
-  {
-   "id": "44a6ce76ddaf",
-   "titre": "Infractions routières : les recettes des amendes redémarrent après des années de stagnation",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/17/infractions-routieres-les-recettes-des-amendes-redemarrent-apres-des-annees-de-stagnation_6812890_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-17T04:30:05+00:00",
-   "extrait": "Le gouvernement vient de revoir à la hausse son estimation des recettes liées aux infractions routières. Elles devraient frôler 2,3 milliards d’euros en 2026, puis poursuivre leur progression grâce…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "77911b803687",
-   "titre": "PFAS : comment le lobby des fluoropolymères manœuvre pour sauver ses polluants éternels d’une interdiction européenne",
-   "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/11/17/polluants-eternels-comment-le-lobby-des-fluoropolymeres-man-uvre-pour-sauver-ses-pfas-d-une-interdiction-europeenne_6812892_4355770.html",
-   "source": "Le Monde",
-   "date": "2026-11-17T04:30:03+00:00",
-   "extrait": "Dans un rapport publié mardi 17 novembre, Corporate Europe Observatory s’inquiète des reculs de la Commission européenne sur le projet de restriction universelle des PFAS, les polluants éternels…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "58e804345c15",
-   "titre": "Antibiotiques : les prescriptions et la consommation diminuent, notamment chez les enfants, mais les risques de l’antibiorésistance demeurent",
-   "lien": "https://www.lemonde.fr/sante/article/2026/11/17/antibiotiques-les-prescriptions-et-la-consommation-diminuent-notamment-chez-les-enfants-mais-les-risques-de-l-antibioresistance-demeurent_6812891_1651302.html",
-   "source": "Le Monde",
-   "date": "2026-11-17T04:30:03+00:00",
-   "extrait": "Santé publique France souligne une « baisse notable » en secteur de ville en 2025, par rapport à 2024, selon des données publiées mardi 17 novembre. Une tendance nécessitant de prendre le « temps de…",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "0eae46e00d63",
-   "titre": "Le Japon accuse deux avions présumés russes d'avoir violé son espace aérien",
-   "lien": "https://www.france24.com/fr/asie-pacifique/20261117-japon-accuse-russie-deux-avions-viole-espace-aerien",
-   "source": "France 24",
-   "date": "2026-11-17T04:26:34+00:00",
-   "extrait": "Le Japon a émis mardi de vives protestations envers Moscou, affirmant que deux avions présumés russes avaient violé son espace aérien. En réponse, Tokyo a fait décoller des avions de chasse. La…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "fd29fd625e29",
-   "titre": "En Cisjordanie occupée, une Palestinienne tuée par un colon israélien",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/17/cisjordanie-une-femme-palestinienne-tuee-par-un-colon-apres-une-embuscade-d-assaillants-palestiniens_6812889_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-17T04:20:25+00:00",
-   "extrait": "Par ailleurs, cinq Palestiniens ont été blessés lundi après avoir été renversés par un colon israélien dans le sud de la Cisjordanie.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "6d5e68123b62",
-   "titre": "Au procès de l’explosion de la rue de Trévise, la douleur et la colère de la famille de Simon Cartannaz, « qui est allé au bout de la devise des sapeurs-pompiers “sauver ou périr” »",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/17/au-proces-de-l-explosion-de-la-rue-de-trevise-la-douleur-et-la-colere-de-la-famille-de-simon-cartannaz-qui-est-alle-au-bout-de-la-devise-des-sapeurs-pompiers-sauver-ou-perir_6812887_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-17T04:00:13+00:00",
-   "extrait": "Les parents, sœurs, beaux-frères et l’épouse de l’un des deux pompiers morts le 12 janvier 2019 ont raconté leur vie d’après le 12 janvier 2019. Ils se sont aussi élevés contre la négligence des…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "3ade16fee55e",
-   "titre": "Les séries de la semaine : « La Comtesse de Monte-Cristo », « Beforeigners », « The Greatest » et « Les Anneaux de pouvoir »",
-   "lien": "https://www.lemonde.fr/culture/article/2026/11/17/les-series-de-la-semaine-la-comtesse-de-monte-cristo-beforeigners-the-greatest-et-les-anneaux-de-pouvoir_6812821_3246.html",
-   "source": "Le Monde",
-   "date": "2026-11-17T03:30:03+00:00",
-   "extrait": "Chaque mardi, La Matinale du « Monde » propose une sélection de séries à découvrir sur petit écran. Aujourd’hui, notamment, une superproduction française avec Audrey Fleurot en tête d’affiche.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "8e41bf9fe90d",
-   "titre": "3 killed when minivan crashes into Los Angeles food stand",
-   "lien": "https://www.cbsnews.com/news/north-hollywood-food-stand-crash-metro-bus-stop-lankershim-chandler-boulevard/",
-   "source": "CBS News",
-   "date": "2026-11-17T03:21:58+00:00",
-   "extrait": "At least three people were killed, and two others were severely injured when a minivan crashed into a food stand near a Metro bus stop in North Hollywood.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "03661a7d7904",
-   "titre": "Vance says he will decide 'sometime next year' about 2028 US presidential run",
-   "lien": "https://www.bbc.co.uk/news/articles/cwkgr9m41engo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-17T03:07:23+00:00",
-   "extrait": "The US vice-president tells Fox News that when he makes a decision to run or otherwise, he will \"be all in on whatever that decision is\".",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "fbfed203e4e2",
-   "titre": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
-   "lien": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-17T02:38:08+00:00",
-   "extrait": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "349134aed1b0",
-   "titre": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-   "lien": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-17T02:37:53+00:00",
-   "extrait": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
-   "tags": [
-    "Politique",
-    "Tech"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "bd988becd4d5",
-   "titre": "Can We Still Trust American Air Travel?",
-   "lien": "https://www.cbsnews.com/video/can-we-still-trust-american-air-travel/",
-   "source": "CBS News",
-   "date": "2026-11-17T02:11:03+00:00",
-   "extrait": "The FAA grounded every departing flight in the U.S. on Friday, only the second nationwide ground stop since 9/11. CBS News senior transportation correspondent Kris Van Cleave on why anyone would…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "905f12ba6fec",
-   "titre": "Kyiv under attack from Russian ballistic missiles after Ukraine's overnight attack on Russia",
-   "lien": "https://www.cbsnews.com/video/kyiv-under-attack-from-russian-ballistic-missiles-after-ukraine-launched-attack-in-russia/",
-   "source": "CBS News",
-   "date": "2026-11-17T02:10:41+00:00",
-   "extrait": "Even as Jared Kushner says progress is being made to end the war between Russia and Ukraine, the two nations continue to launch attacks against each other. CBS News international reporter Aidan…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "0d2da0a6763a",
-   "titre": "Democrat Mary Peltola leads ongoing Alaska Senate race",
-   "lien": "https://www.cbsnews.com/video/democrat-mary-peltola-leads-alaska-senate-race-still-remains-uncalled/",
-   "source": "CBS News",
-   "date": "2026-11-17T02:07:04+00:00",
-   "extrait": "Nearly two weeks after the midterms, the only Senate race that hasn't been called is in Alaska. CBS News' Anthony Salvanto has the latest.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
   }
  ]
 }

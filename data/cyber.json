@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-17T19:05:41+00:00",
+ "maj": "2026-11-17T20:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,6 +24,15 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "6b76a35deee9",
+   "titre": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+   "lien": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+   "source": "BleepingComputer",
+   "date": "2026-11-17T19:24:07+00:00",
+   "extrait": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
+   "tags": []
+  },
+  {
    "id": "a2076d4177b9",
    "titre": "Researchers hijack Hugging Face account for popular Kokoro AI model",
    "lien": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
@@ -40,7 +49,7 @@
    "lien": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
    "source": "BleepingComputer",
    "date": "2026-11-17T18:04:15+00:00",
-   "extrait": "[...]",
+   "extrait": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and…",
    "tags": []
   },
   {
@@ -53,6 +62,29 @@
    "tags": [
     "Outil",
     "Linux"
+   ]
+  },
+  {
+   "id": "7a7b2eaa4aa9",
+   "titre": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+   "lien": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+   "source": "The Hacker News",
+   "date": "2026-11-17T15:17:36+00:00",
+   "extrait": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports…",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
+  },
+  {
+   "id": "033b7c10af0d",
+   "titre": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
+   "lien": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
+   "source": "The Hacker News",
+   "date": "2026-11-17T15:17:28+00:00",
+   "extrait": "Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram. \"Trigram is a…",
+   "tags": [
+    "IA"
    ]
   },
   {
@@ -3365,40 +3397,6 @@
     "Faille",
     "Fuite de données",
     "Linux"
-   ]
-  },
-  {
-   "id": "3647bbef0072",
-   "titre": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
-   "lien": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
-   "source": "BleepingComputer",
-   "date": "2026-11-06T15:00:10+00:00",
-   "extrait": "IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]",
-   "tags": []
-  },
-  {
-   "id": "17e04fbcf2b3",
-   "titre": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
-   "lien": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
-   "source": "The Hacker News",
-   "date": "2026-11-06T14:58:32+00:00",
-   "extrait": "OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in…",
-   "tags": [
-    "Faille",
-    "IA",
-    "Linux"
-   ]
-  },
-  {
-   "id": "f8e9629a67be",
-   "titre": "Chainalysis says breach exposed credentials for all customers",
-   "lien": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
-   "source": "BleepingComputer",
-   "date": "2026-11-06T14:17:07+00:00",
-   "extrait": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]",
-   "tags": [
-    "Fuite de données",
-    "Outil"
    ]
   }
  ]
