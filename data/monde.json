@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-17T08:05:40+00:00",
+ "maj": "2026-11-17T08:31:50+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,11 +22,46 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "329f3dbf84f9",
+   "titre": "Le pont de Crimée ciblé pour la deuxième nuit consécutive par l'Ukraine, des frappes russes sur deux ponts de Kiev",
+   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/deux-ponts-de-kiev-sont-fermes-a-la-circulation-apres-des-attaques-russes-alors-que-de-son-cote-l-ukraine-cible-la-crimee_8286059.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T08:16:07+00:00",
+   "extrait": "Le gouvernement russe a annoncé la tenue d'une commission gouvernementale, afin de \"gérer les conséquences\" de cette attaque.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "58d368dd2bd9",
+   "titre": "Widespread service outages at major U.S. banks appear to be over",
+   "lien": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/",
+   "source": "CBS News",
+   "date": "2026-11-17T08:12:00+00:00",
+   "extrait": "Customers at JPMorgan Chase, Bank of America and other major financial institutions reported difficulty accessing their accounts.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "5d6346d0b9f4",
+   "titre": "Les journalistes qui suivent l’Elysée demandent le « respect » de leur métier au prochain président",
+   "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/17/les-journalistes-qui-suivent-l-elysee-demandent-le-respect-de-leur-metier-au-prochain-president_6812927_6205049.html",
+   "source": "Le Monde",
+   "date": "2026-11-17T08:10:12+00:00",
+   "extrait": "« Comment les journalistes politiques vont-ils pouvoir travailler à partir de mai 2027 ? Auront-ils toujours accès à l’Elysée ? », questionne l’Association de la presse présidentielle dans un livre…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "4b88ce23b69e",
    "titre": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
    "lien": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-11-17T08:02:27+00:00",
+   "date": "2026-11-17T08:06:32+00:00",
    "extrait": "The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through Kyiv are closed.",
    "tags": [
     "Conflits"
@@ -50,7 +85,7 @@
    "titre": "Budget 2027 : le Sénat et le gouvernement à la recherche d’un compromis sur la mise à contribution des retraités",
    "lien": "https://www.lemonde.fr/politique/article/2026/11/17/budget-2027-le-senat-et-le-gouvernement-a-la-recherche-d-un-compromis-sur-la-mise-a-contribution-des-retraites_6812925_823448.html",
    "source": "Le Monde",
-   "date": "2026-11-17T07:48:05+00:00",
+   "date": "2026-11-17T07:48:03+00:00",
    "extrait": "Lundi, les élus du Palais du Luxembourg ont supprimé l’article du PLFSS qui freine la revalorisation des pensions. Pour compenser les économies perdues du fait de ce vote, la droite et le centre…",
    "tags": [
     "Politique",
@@ -59,14 +94,15 @@
    "zone": "france"
   },
   {
-   "id": "329f3dbf84f9",
-   "titre": "Deux ponts de Kiev sont fermés à la circulation après des attaques russes, l'Ukraine cible la Crimée",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/deux-ponts-de-kiev-sont-fermes-a-la-circulation-apres-des-attaques-russes-alors-que-de-son-cote-l-ukraine-cible-la-crimee_8286059.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T07:41:21+00:00",
-   "extrait": "Les autorités russes affirment avoir intercepté plus d'un millier de drones ukrainiens, un record depuis le mois de septembre.",
+   "id": "c49a504fa298",
+   "titre": "Procès de l’attaque d’un bar à Brest : « Vous dites vouloir casser des gauchos. C’est qui, les gauchos ? »",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/17/proces-de-l-attaque-d-un-bar-a-brest-vous-dites-vouloir-casser-des-gauchos-c-est-qui-les-gauchos_6812923_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-17T07:39:27+00:00",
+   "extrait": "Suspectés d’appartenir à l’ultradroite, douze hommes étaient jugés pour l’attaque des clients d’un bar réputé de gauche, en septembre 2025. Habitués des tribunes du Stade brestois, les prévenus…",
    "tags": [
-    "Conflits"
+    "Conflits",
+    "Justice"
    ],
    "zone": "france"
   },
@@ -84,26 +120,15 @@
   },
   {
    "id": "52e8ede06ca5",
-   "titre": "Apple jugé en juin 2027 à Paris pour avoir organisé l'obsolescence programmée de ses iPhone",
+   "titre": "Soupçonnée d'avoir organisé l'obsolescence programmée de ses iPhone, l'entreprise Apple sera jugée en juin 2027 à Paris",
    "lien": "https://www.franceinfo.fr/internet/apple-juge-en-juin-2027-a-paris-pour-avoir-organise-l-obsolescence-programmee-de-ses-iphone_8286095.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-11-17T07:25:54+00:00",
-   "extrait": "La marque de la Silicon Valley dément \"ces allégations infondées\", des associations saluent une \"première\" dans la lutte contre l'obsolescence.",
+   "extrait": "\"Nous contestons fermement ces allégations infondées\", a réagi le géant américain, sollicité par l'AFP.",
    "tags": [
-    "Justice",
     "Tech"
    ],
    "zone": "france"
-  },
-  {
-   "id": "58d368dd2bd9",
-   "titre": "Widespread service outages at major U.S. banks appear to be over",
-   "lien": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/",
-   "source": "CBS News",
-   "date": "2026-11-17T07:21:43+00:00",
-   "extrait": "Customers at JPMorgan Chase, Bank of America and other major financial institutions reported difficulty accessing their accounts.",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "160b719609a7",
@@ -116,6 +141,18 @@
     "Conflits"
    ],
    "zone": "france"
+  },
+  {
+   "id": "364ad6b402bc",
+   "titre": "Défense, terres rares... Emmanuel Macron annonce un \"partenariat stratégique\" avec la Malaisie",
+   "lien": "https://www.france24.com/fr/asie-pacifique/20261117-d%C3%A9fense-terres-rares-emmanuel-macron-annonce-un-partenariat-strat%C3%A9gique-avec-la-malaisie",
+   "source": "France 24",
+   "date": "2026-11-17T06:59:30+00:00",
+   "extrait": "La France ⁠et la Malaisie ont ​élevé mardi leurs relations bilatérales au rang de \"partenariat stratégique\", annonçant à l'occasion d'une ​visite d'Emmanuel Macron à Kuala Lumpur une série d'accords…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
   },
   {
    "id": "18dcb4b91415",
@@ -145,7 +182,7 @@
    "lien": "https://www.lemonde.fr/economie/article/2026/11/17/l-essor-de-l-ia-ralentit-les-recrutements-des-metiers-les-plus-automatisables-au-dela-des-postes-juniors_6812918_3234.html",
    "source": "Le Monde",
    "date": "2026-11-17T06:30:09+00:00",
-   "extrait": "Une étude de Coface et de l’Observatoire des emplois menacés et émergents montre que le déploiement de l’intelligence artificielle dans les entreprises ne se traduit pas encore par des licenciements…",
+   "extrait": "Le Coface et l’Observatoire des emplois menacés et émergents montre que le déploiement de l’intelligence artificielle dans les entreprises ne se traduit pas encore par des licenciements dans les…",
    "tags": [
     "Économie",
     "Tech"
@@ -408,7 +445,7 @@
   },
   {
    "id": "fa8ccd4f2f54",
-   "titre": "Gaz lacrymogènes : pourquoi des élus et des médecins, inquiets de leurs effets sur la santé des femmes, en demandent l’interdiction",
+   "titre": "Inquiets des effets des gaz lacrymogènes sur la santé des femmes, des élus et des médecins, demandent leur interdiction",
    "lien": "https://www.lemonde.fr/planete/article/2026/11/17/gaz-lacrymogenes-pourquoi-des-elus-et-des-medecins-inquiets-de-leurs-effets-sur-la-sante-des-femmes-demandent-leur-interdiction_6812897_3244.html",
    "source": "Le Monde",
    "date": "2026-11-17T04:42:21+00:00",
@@ -483,7 +520,7 @@
    "lien": "https://www.france24.com/fr/asie-pacifique/20261117-japon-accuse-russie-deux-avions-viole-espace-aerien",
    "source": "France 24",
    "date": "2026-11-17T04:26:34+00:00",
-   "extrait": "Le Japon a émis mardi de vives protestations envers Moscou, affirmant que deux avions présumés russes ont violé son espace aérien. En réponse, Tokyo a fait décoller des avions de chasse. La Corée du…",
+   "extrait": "Le Japon a émis mardi de vives protestations envers Moscou, affirmant que deux avions présumés russes avaient violé son espace aérien. En réponse, Tokyo a fait décoller des avions de chasse. La…",
    "tags": [],
    "zone": "monde"
   },
@@ -782,11 +819,11 @@
   },
   {
    "id": "8acebd78c017",
-   "titre": "Ukraine en direct : deux ponts de Kiev touchés par des frappes russes",
+   "titre": "Ukraine en direct : deux ponts majeurs de Kiev touchés par des frappes russes",
    "lien": "https://www.france24.com/fr/europe/20261117-en-direct-ukraine-deux-ponts-kiev-touches-frappes-russes-zelensky-poutine",
    "source": "France 24",
    "date": "2026-11-17T00:22:05+00:00",
-   "extrait": "Des frappes russes ont touché deux ponts importants de Kiev lundi soir, a déclaré le maire de la capitale ukrainienne, Vitali Klitschko, ajoutant que des \"systèmes d'infrastructures critiques\"…",
+   "extrait": "Des frappes russes ont touché deux importants ponts de Kiev lundi soir, a déclaré le maire de la capitale ukrainienne, Vitali Klitschko, ajoutant que des \"systèmes d'infrastructures critiques\"…",
    "tags": [
     "Conflits"
    ],
@@ -910,8 +947,8 @@
    "titre": "Au procès de l’interpellation violente de Michel Zecler par des policiers : « Les vidéos parlent d’elles-mêmes, c’est impardonnable, ce n’est même pas de l’amateurisme »",
    "lien": "https://www.lemonde.fr/societe/article/2026/11/17/au-proces-de-l-interpellation-violente-de-michel-zecler-par-des-policiers-les-videos-parlent-d-elles-memes-c-est-impardonnable-ce-n-est-meme-pas-de-l-amateurisme_6812689_3224.html",
    "source": "Le Monde",
-   "date": "2026-11-16T23:36:09+00:00",
-   "extrait": "Trois agents sont jugés pour avoir roué de coups le producteur de musique, à Paris, en 2020, et « faux en écriture publique ». Sept fonctionnaires de police, appelés en renfort par les accusés ont…",
+   "date": "2026-11-16T23:36:06+00:00",
+   "extrait": "Trois agents sont jugés pour avoir roué de coups le producteur de musique, à Paris, en 2020, et pour « faux en écriture publique ». Sept fonctionnaires de police, appelés en renfort par les accusés…",
    "tags": [
     "Justice"
    ],
@@ -3366,40 +3403,6 @@
    "date": "2026-11-16T13:49:59+00:00",
    "extrait": "Ingénieur de formation, entrepreneur, il avait dirigé la cité iséroise de 1995 à 2014. Il s’est éteint le 14 novembre, à l’âge de 80 ans.",
    "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "eba0b9374bb0",
-   "titre": "Eye Opener: FAA reeling after ground stop",
-   "lien": "https://www.cbsnews.com/video/eye-opener-faa-reeling-after-ground-stop/",
-   "source": "CBS News",
-   "date": "2026-11-16T13:44:19+00:00",
-   "extrait": "The FAA is still reeling after Friday's nationwide ground stop. All that and all that matters in today's Eye Opener.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "73ca64627397",
-   "titre": "Guerre en Ukraine : la France présente dans le pays depuis au moins l'été 2026",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-guerre-en-ukraine-la-france-pr%C3%A9sente-dans-le-pays-depuis-au-moins-l-%C3%A9t%C3%A9-2026",
-   "source": "France 24",
-   "date": "2026-11-16T13:44:14+00:00",
-   "extrait": "Des soldats français opèrent depuis plusieurs mois en Ukraine, selon les informations publiées par RFI ce lundi 16 novembre. Il ne s’agit pas de combattre, mais d’apporter un soutien aux forces de…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "a3ae23eaeef1",
-   "titre": "Des militaires français opèrent désormais en Ukraine",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/16/des-militaires-francais-operent-desormais-en-ukraine_6811865_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-16T13:42:53+00:00",
-   "extrait": "De petits contingents de militaires français assurent des rotations en Ukraine pour de la formation et de la réparation de matériel de guerre, a confirmé au « Monde » une source proche du dossier, à…",
-   "tags": [
-    "Conflits"
-   ],
    "zone": "france"
   }
  ]
