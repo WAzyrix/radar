@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-17T20:05:40+00:00",
+ "maj": "2026-11-17T21:05:43+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,29 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "1dff6dd6c93a",
+   "titre": "Japan takes Fugaku supercomputer offlline after cyberattack",
+   "lien": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+   "source": "BleepingComputer",
+   "date": "2026-11-17T20:51:21+00:00",
+   "extrait": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "6b530aaeb2ca",
+   "titre": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
+   "lien": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+   "source": "The Hacker News",
+   "date": "2026-11-17T19:34:20+00:00",
+   "extrait": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company. Widgets are small interactive…",
+   "tags": [
+    "Faille",
+    "Mobile"
+   ]
+  },
   {
    "id": "6b76a35deee9",
    "titre": "Apple reports outages affecting iCloud Mail, AppleCare and more",
@@ -3374,29 +3397,6 @@
    "extrait": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update that installs…",
    "tags": [
     "Faille"
-   ]
-  },
-  {
-   "id": "af6d1b8b9d25",
-   "titre": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
-   "lien": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
-   "source": "BleepingComputer",
-   "date": "2026-11-06T15:25:31+00:00",
-   "extrait": "​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]",
-   "tags": []
-  },
-  {
-   "id": "a40dff3d749a",
-   "titre": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
-   "lien": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
-   "source": "The Hacker News",
-   "date": "2026-11-06T15:21:49+00:00",
-   "extrait": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The…",
-   "tags": [
-    "CVE",
-    "Faille",
-    "Fuite de données",
-    "Linux"
    ]
   }
  ]
