@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-17T04:05:42+00:00",
+ "maj": "2026-11-17T05:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -32,6 +32,20 @@
    "extrait": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing…",
    "tags": [
     "Faille",
+    "Malware",
+    "Mobile"
+   ]
+  },
+  {
+   "id": "50204565d4ff",
+   "titre": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+   "lien": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+   "source": "BleepingComputer",
+   "date": "2026-11-17T02:12:17+00:00",
+   "extrait": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing…",
+   "tags": [
+    "Faille",
+    "Fuite de données",
     "Malware",
     "Mobile"
    ]
@@ -3385,18 +3399,6 @@
    "source": "BleepingComputer",
    "date": "2026-11-05T17:45:29+00:00",
    "extrait": "A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication…",
-   "tags": [
-    "Faille",
-    "Linux"
-   ]
-  },
-  {
-   "id": "3fe484f436f5",
-   "titre": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
-   "lien": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
-   "source": "The Hacker News",
-   "date": "2026-11-05T16:42:46+00:00",
-   "extrait": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the…",
    "tags": [
     "Faille",
     "Linux"
