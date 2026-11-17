@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-17T06:05:47+00:00",
+ "maj": "2026-11-17T07:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,26 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "e5f38235f326",
+   "titre": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
+   "lien": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
+   "source": "The Hacker News",
+   "date": "2026-11-17T06:29:27+00:00",
+   "extrait": "ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is…",
+   "tags": []
+  },
+  {
+   "id": "53f800bdf7a6",
+   "titre": "Rassemblement National : une seconde fuite de données ?",
+   "lien": "https://www.zataz.com/rassemblement-national-une-seconde-fuite-de-donnees/",
+   "source": "Zataz",
+   "date": "2026-11-17T06:29:20+00:00",
+   "extrait": "Un pirate revendique 500 782 nouvelles données du RN à vendre. Il affiche aussi un accés informatique interne.",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
   {
    "id": "1ef65dbe395d",
    "titre": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
@@ -3381,26 +3401,6 @@
     "Malware",
     "IA",
     "Windows"
-   ]
-  },
-  {
-   "id": "58f4053a1bb9",
-   "titre": "Nearly 1.5 million exposed secrets targeted in new revocation program",
-   "lien": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
-   "source": "BleepingComputer",
-   "date": "2026-11-05T20:15:08+00:00",
-   "extrait": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]",
-   "tags": []
-  },
-  {
-   "id": "7e637a2f9fd7",
-   "titre": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
-   "lien": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
-   "source": "BleepingComputer",
-   "date": "2026-11-05T19:24:26+00:00",
-   "extrait": "OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]",
-   "tags": [
-    "IA"
    ]
   }
  ]
