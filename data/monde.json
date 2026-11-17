@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-17T01:05:42+00:00",
+ "maj": "2026-11-17T02:05:42+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,49 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "349134aed1b0",
+   "titre": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+   "lien": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-17T01:49:26+00:00",
+   "extrait": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+   "tags": [
+    "Politique",
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "ceb243c34ec9",
+   "titre": "Raye and Rosalía lead 2027 Grammy nominations",
+   "lien": "https://www.cbsnews.com/video/raye-and-rosala-lead-2027-grammy-nominations/",
+   "source": "CBS News",
+   "date": "2026-11-17T01:24:55+00:00",
+   "extrait": "The Grammy nominations were announced on Monday, and Raye led the charge with 11 nods. She's up for record and song of the year for \"Where Is My Husband\" and album of the year for \"This Music May…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "58d368dd2bd9",
+   "titre": "Major U.S. banks report widespread service outages",
+   "lien": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/",
+   "source": "CBS News",
+   "date": "2026-11-17T01:09:38+00:00",
+   "extrait": "Customers at JPMorgan Chase U.S. Bank and other major financial institutions reported difficulty accessing their accounts.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "8217f30dada4",
+   "titre": "United Airlines says it resolved a system outage",
+   "lien": "https://www.cbsnews.com/news/united-airlines-system-outage-departing-flights/",
+   "source": "CBS News",
+   "date": "2026-11-17T01:06:00+00:00",
+   "extrait": "A memo from the union representing United Airlines pilots indicated the issue was with the airline's weight and balance calculation system.",
+   "tags": [],
+   "zone": "usa"
+  },
   {
    "id": "1566f584f47b",
    "titre": "Boy with autism works to help other kids like himself, landing him Time's \"Kid of the Year\"",
@@ -88,22 +131,22 @@
    "zone": "usa"
   },
   {
-   "id": "8217f30dada4",
-   "titre": "United Airlines says it resolved a system outage",
-   "lien": "https://www.cbsnews.com/news/united-airlines-system-outage-departing-flights/",
-   "source": "CBS News",
-   "date": "2026-11-17T00:53:03+00:00",
-   "extrait": "A memo from the union representing United Airlines pilots indicated the issue was with the airline's weight and balance calculation system.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "9bb8204d131d",
    "titre": "U.S. loses measles elimination status as cases surge nationwide",
    "lien": "https://www.cbsnews.com/news/measles-elimination-status-united-states/",
    "source": "CBS News",
    "date": "2026-11-17T00:53:00+00:00",
    "extrait": "The United States has lost its official measles elimination status for the first time in 26 years. Here's what to know.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "310285736a27",
+   "titre": "Pacific Coast sees monster waves, a dread for some, but a delight for the surfers",
+   "lien": "https://www.cbsnews.com/video/pacific-coast-sees-monster-waves-dread-some-delight-surfers/",
+   "source": "CBS News",
+   "date": "2026-11-17T00:51:00+00:00",
+   "extrait": "Some of the biggest waves in years continued to hit the Pacific Coast shoreline on Monday. Carter Evans takes a look at the monster waves.",
    "tags": [],
    "zone": "usa"
   },
@@ -142,16 +185,6 @@
    "tags": [
     "Politique"
    ],
-   "zone": "usa"
-  },
-  {
-   "id": "58d368dd2bd9",
-   "titre": "Major U.S. banks report widespread service outages",
-   "lien": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/",
-   "source": "CBS News",
-   "date": "2026-11-17T00:43:03+00:00",
-   "extrait": "Customers at Bank of America, JPMorgan Chase and other major financial institutions reported difficulty accessing their accounts.",
-   "tags": [],
    "zone": "usa"
   },
   {
@@ -494,19 +527,6 @@
    "extrait": "Les 53 Etats membres de l’Organisation internationale de la francophonie ont reporté d’un an, lundi au Cambodge, la désignation de leur secrétaire général, faute de consensus. Une première, sur fond…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "349134aed1b0",
-   "titre": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-   "lien": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-16T22:21:27+00:00",
-   "extrait": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
-   "tags": [
-    "Politique",
-    "Tech"
-   ],
-   "zone": "monde"
   },
   {
    "id": "61fadd90d377",
@@ -859,8 +879,8 @@
    "titre": "Renault va supprimer plus d’un millier de postes en France pour être plus compétitif face à la concurrence chinoise",
    "lien": "https://www.lemonde.fr/economie/article/2026/11/16/renault-va-supprimer-plus-d-un-millier-de-postes-en-france-pour-etre-plus-competitif-face-a-la-concurrence-chinoise_6812360_3234.html",
    "source": "Le Monde",
-   "date": "2026-11-16T19:59:33+00:00",
-   "extrait": "Le groupe automobile français a annoncé un plan de départs volontaires concernant 1 000 personnes ainsi que 2 000 créations de postes d’ici à deux à trois ans. Une dizaine de sites seront concernés…",
+   "date": "2026-11-16T19:59:32+00:00",
+   "extrait": "Le groupe automobile français a annoncé un plan de départs volontaires concernant 1 000 personnes ainsi que 2 000 créations de postes d’ici deux à trois ans. Une dizaine de sites seront concernés…",
    "tags": [],
    "zone": "france"
   },
@@ -999,7 +1019,7 @@
    "titre": "Philippe Diallo, inattendu challenger de Gianni Infantino à la présidence de la FIFA",
    "lien": "https://www.lemonde.fr/sport/article/2026/11/16/philippe-diallo-inattendu-challenger-de-gianni-infantino-a-la-presidence-de-la-fifa_6812297_3242.html",
    "source": "Le Monde",
-   "date": "2026-11-16T19:02:55+00:00",
+   "date": "2026-11-16T19:02:51+00:00",
    "extrait": "L’UEFA a annoncé, lundi, son soutien unanime à la candidature surprise du président de la Fédération française de football, qui brigue la présidence de la Fédération internationale face à son patron…",
    "tags": [
     "Politique",
@@ -3383,28 +3403,6 @@
    "date": "2026-11-16T11:08:10+00:00",
    "extrait": "Le joueur de 33 ans a partagé la nouvelle, lundi, sur ses réseaux sociaux.",
    "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "a8ab36907d5b",
-   "titre": "Assise sur un tabouret après une commotion cérébrale, cette star de la K-pop affole ses millions de fans",
-   "lien": "https://www.franceinfo.fr/replay-radio/l-il-de-constance/assise-sur-un-tabouret-apres-une-commotion-cerebrale-cette-star-de-la-k-pop-affole-ses-millions-de-fans_8263346.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-16T11:02:40+00:00",
-   "extrait": "Assise en lunettes noires pendant que les autres dansent, puis de retour sur scène le lendemain avec ce qui ressemble à un moniteur cardiaque : Megan, membre du girl group Katseye, inquiète ses…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "0c4fec76642a",
-   "titre": "L’entraînement des IA s’avère toujours plus consommateur d’énergie",
-   "lien": "https://www.lemonde.fr/sciences/article/2026/11/16/l-entrainement-des-ia-s-avere-toujours-plus-consommateur-d-energie_6811689_1650684.html",
-   "source": "Le Monde",
-   "date": "2026-11-16T11:00:03+00:00",
-   "extrait": "Des chercheurs français ont calculé que l’optimisation des outils d’intelligence artificielle permet d’améliorer leurs performances, et non de réduire les émissions de CO₂.",
-   "tags": [
-    "Tech"
-   ],
    "zone": "france"
   }
  ]
