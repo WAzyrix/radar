@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-17T15:05:49+00:00",
+ "maj": "2026-11-17T16:05:43+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -19,10 +19,385 @@
   "Tech",
   "Sport"
  ],
- "erreurs": [
-  "France 24"
- ],
+ "erreurs": [],
  "articles": [
+  {
+   "id": "8956cf8b412c",
+   "titre": "Iran claims another attack targeting U.S. radar site in Bahrain",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
+   "source": "CBS News",
+   "date": "2026-11-17T16:04:59+00:00",
+   "extrait": "Iran has claimed to hit U.S. radar systems in Bahrain three times in less than a week, but authorities said the first two attacks were intercepted.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "a84379c2f7dc",
+   "titre": "Pope Leo calls for \"less controversy, less war, less division\"",
+   "lien": "https://www.cbsnews.com/news/pope-leo-less-war-less-us-division-married-priests-debate/",
+   "source": "CBS News",
+   "date": "2026-11-17T16:02:10+00:00",
+   "extrait": "The Catholic Church's first U.S.-born leader, returning from a major Latin America tour, spoke about American unity, his health, and the prospect of married priests.",
+   "tags": [
+    "Conflits",
+    "Santé"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "e7860d6c3dc1",
+   "titre": "Scientist fired after 6-year-old girl dies in gene-editing trial",
+   "lien": "https://www.cbsnews.com/news/girl-dies-gene-editing-trial-scientist-fired-china-state-media/",
+   "source": "CBS News",
+   "date": "2026-11-17T16:01:58+00:00",
+   "extrait": "The girl died last year after receiving experimental gene therapy to correct a non-life-threatening condition, an investigation found.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "4b6f10c89569",
+   "titre": "UK sanctions firms over Israeli West Bank settlements",
+   "lien": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-17T15:59:47+00:00",
+   "extrait": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "6c1a38965d98",
+   "titre": "Nvidia forms export control panel amid concerns over China sales",
+   "lien": "https://www.cbsnews.com/news/nvidia-export-control-committee-china-chips/",
+   "source": "CBS News",
+   "date": "2026-11-17T15:56:05+00:00",
+   "extrait": "Chipmaker creates new committee amid growing concerns that it has allowed restricted products to reach China.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "6b23b430e49d",
+   "titre": "Hawley, Durbin introduce Roblox safety bill ahead of hearing",
+   "lien": "https://www.cbsnews.com/news/roblox-bill-josh-hawley-dick-durbin/",
+   "source": "CBS News",
+   "date": "2026-11-17T15:55:38+00:00",
+   "extrait": "The legislation would allow families of individuals harmed by tech products to take their claims to court even if they agreed to the company's terms of service for private arbitration.",
+   "tags": [
+    "Justice",
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "15789c235bd8",
+   "titre": "La Somme et le Pas-de-Calais placés en vigilance orange pluie-inondation à partir de 23 heures",
+   "lien": "https://www.franceinfo.fr/environnement/meteo/la-somme-et-le-pas-de-calais-places-en-vigilance-orange-pluie-inondation-a-partir-de-23-heures_8286704.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T15:55:22+00:00",
+   "extrait": "Météo-France évoque un \"épisode de fortes averses, ayant un caractère stationnaire, justifiant d'une vigilance particulière en raison des cumuls attendus\".",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "02ba7c2d802a",
+   "titre": "La justice suspend l'interdiction de rassemblements autour de certains lycées et universités en région parisienne",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/direct-greve-et-manifestations-du-17-novembre-suivez-la-journee-de-mobilisation_8285927.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T15:52:43+00:00",
+   "extrait": "Un recours avait été déposé lundi contre cette interdiction, après un arrêté de la préfecture de police de Paris dimanche.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "5e1b9cf33bfe",
+   "titre": "Parents, gamers ask lawmakers to pass Roblox safety legislation",
+   "lien": "https://www.cbsnews.com/video/parents-gamers-ask-lawmakers-to-pass-roblox-safety-legislation/",
+   "source": "CBS News",
+   "date": "2026-11-17T15:51:39+00:00",
+   "extrait": "Some parents claim online predators have been able to groom and abuse children through the gaming platform Roblox. Lawmakers will hear from users who say they experienced abuse in a hearing. CBS…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "dc15b4420af4",
+   "titre": "Le directeur de la prison d’Aix-Luynes en garde à vue pour détention d’images pédocriminelles",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/17/le-directeur-de-la-prison-d-aix-luynes-en-garde-a-vue-pour-detention-d-images-pedocriminelles_6812999_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-17T15:50:41+00:00",
+   "extrait": "Le ministère de la justice a suspendu le fonctionnaire « à titre conservatoire » et annonce une procédure de révocation « si les faits sont avérés ».",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "5251a9c29a6d",
+   "titre": "Rwanda : cinq pays européens veulent y regrouper les migrants expulsés",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261117-rwanda-cinq-pays-europ%C3%A9ens-veulent-y-regrouper-les-migrants-expuls%C3%A9s",
+   "source": "France 24",
+   "date": "2026-11-17T15:48:41+00:00",
+   "extrait": "Cinq pays de l'UE, dont l'Allemagne et le Danemark, ont dévoilé lundi un projet inédit visant à transférer au Rwanda des migrants n'ayant plus le droit de séjourner en Europe.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "6da44fad5813",
+   "titre": "Jeux vidéos : GTA VI s'apprête enfin à sortir après 13 ans d'attente",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261117-jeux-vid%C3%A9os-gta-vi-s-appr%C3%AAte-enfin-%C3%A0-sortir-apr%C3%A8s-13-ans-d-attente",
+   "source": "France 24",
+   "date": "2026-11-17T15:46:38+00:00",
+   "extrait": "Les ⁠jours de congés ont ​été posés et des millions de copies du jeu vidéo pré-commandés ou pré-téléchargés. Un joueur a même demandé à son épouse de ne pas l'interrompre pour profiter pleinement…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "7fa6a63b2707",
+   "titre": "Mozambique : le procès du principal opposant pour \"terrorisme\" ouvert",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261117-mozambique-le-proc%C3%A8s-du-principal-opposant-pour-terrorisme-ouvert",
+   "source": "France 24",
+   "date": "2026-11-17T15:45:45+00:00",
+   "extrait": "Le procès pour \"terrorisme\" du principal opposant mozambicain Venancio Mondlane s'est ouvert mardi à Maputo devant la plus haute juridiction du pays pour ses appels à contester dans la rue les…",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "1fc541486538",
+   "titre": "How the attack on Crimean Bridge unfolded",
+   "lien": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-17T15:38:10+00:00",
+   "extrait": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "43de0c327b0e",
+   "titre": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+   "lien": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-17T15:36:11+00:00",
+   "extrait": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+   "tags": [
+    "Conflits",
+    "Santé"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "a749c379e77e",
+   "titre": "Pourquoi la Russie accuse la France de \"participer directement\" à la guerre en Ukraine",
+   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/pourquoi-la-russie-accuse-la-france-de-participer-directement-a-la-guerre-en-ukraine_8286422.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T15:33:34+00:00",
+   "extrait": "Radio France internationale a révélé l'existence d'un détachement de l'armée française sur le sol ukrainien. Le gouvernement français assure que ces militaires ne participent pas aux combats.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "14f5cd5d9bd3",
+   "titre": "Réforme des retraites de Marine Le Pen : départ à 60 ou 62 ans, capitalisation et conditions durcies",
+   "lien": "https://www.france24.com/fr/france/20261117-france-presidentielle-2027-reforme-des-retraites-marine-le-pen-depart-a-60-ou-62-ans-capitalisation-conditions-durcies",
+   "source": "France 24",
+   "date": "2026-11-17T15:31:35+00:00",
+   "extrait": "La candidate du Rassemblement national à l’élection présidentielle de 2027, Marine Le Pen, a présenté mardi son projet de réforme du système de retraites, avec la promesse d'un retour aux 62 ans…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "7228b1af95e1",
+   "titre": "Ex-Nvidia CEO Jensen Huang agrees to testify to Congress amid affair probe",
+   "lien": "https://www.cbsnews.com/news/house-republicans-nvidia-jensen-huang-testimony/",
+   "source": "CBS News",
+   "date": "2026-11-17T15:29:41+00:00",
+   "extrait": "The former Nvidia chief will appear for closed-door testimony on Dec. 1 after Republicans threatened to subpoena him.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "4a0425c081ab",
+   "titre": "En Europe, les fumeurs ont davantage de difficulté à arrêter que dans le reste du monde, selon l'Organisation mondiale de la santé",
+   "lien": "https://www.franceinfo.fr/sante/en-europe-les-fumeurs-ont-davantage-de-difficulte-a-arreter-que-dans-le-reste-du-monde-selon-l-organisation-mondiale-de-la-sante_8286614.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T15:23:56+00:00",
+   "extrait": "Selon l'OMS, le continent \"devrait continuer à afficher la prévalence du tabagisme chez les adultes la plus élevée au monde\".",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "3ffac116e692",
+   "titre": "Le directeur de la prison d'Aix-Luynes placé en garde à vue pour détention d'images pédopornographiques",
+   "lien": "https://www.franceinfo.fr/societe/prisons/le-directeur-de-la-prison-d-aix-luynes-place-en-garde-a-vue-pour-detention-d-images-pedopornographiques_8286707.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T15:23:29+00:00",
+   "extrait": "Le ministère de la Justice rajoute qu'une \"suspension immédiate à titre conservatoire\" a été prise à l'encontre de cet homme, nommé directeur du centre pénitentiaire d'Aix-Luynes à l'été 2025.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "2a7ee5714269",
+   "titre": "Le chanteur Aldebert sort un best of et prépare une tournée pour les dix-huit ans du premier volet de ses \"Enfantillages\"",
+   "lien": "https://www.franceinfo.fr/culture/musique/chanson-francaise/le-chanteur-aldebert-sort-un-best-of-et-prepare-une-tournee-pour-les-dix-huit-ans-du-premier-volet-de-ses-enfantillages_8286410.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T15:22:34+00:00",
+   "extrait": "L'artiste dévoué à la chanson pour la jeunesse promet une tournée \"comme une grande cour de récré\", remplie d'énergie, de surprises, mais aussi de cascades.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "3d7ce83baa5d",
+   "titre": "Congress fights over air traffic control funds; midair collision families push for safety measures",
+   "lien": "https://www.cbsnews.com/video/congress-fights-over-air-traffic-control-funds-midair-collision-families-push-for-safety-measures/",
+   "source": "CBS News",
+   "date": "2026-11-17T15:21:47+00:00",
+   "extrait": "Lawmakers are meeting over last week's nationwide FAA ground stop and Transportation Secretary Sean Duffy's push for more funding. Plus, the families of victims in the 2025 midair collision over the…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "7c7237f4d5c2",
+   "titre": "Airlines race to recover from tech troubles before holiday season",
+   "lien": "https://www.cbsnews.com/video/airlines-race-to-recover-from-tech-troubles-before-holiday-season/",
+   "source": "CBS News",
+   "date": "2026-11-17T15:20:56+00:00",
+   "extrait": "A slate of tech problems impacted U.S. tech companies and banks and delayed flights just days after a national ground stop. CBS News' Kris Van Cleave reports.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "cf04afb48f4d",
+   "titre": "Donald Trump dit \"prendre très au sérieux\" une possible menace d'attaque iranienne à Washington",
+   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261117-donald-trump-dit-prendre-tr%C3%A8s-au-s%C3%A9rieux-une-possible-menace-d-attaque-iranienne-%C3%A0-washington",
+   "source": "France 24",
+   "date": "2026-11-17T15:20:35+00:00",
+   "extrait": "En déplacement à Manille, le président des États-Unis a déclaré \"prendre très au sérieux\" une information de la chaîne de télévision CNN, selon laquelle Téhéran projetait un attentat à la \"bombe…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "6926f194e5d2",
+   "titre": "Mozambique opposition leader goes on trial for terrorism over deadly election protests",
+   "lien": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-17T15:19:19+00:00",
+   "extrait": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "2cf43664a579",
+   "titre": "Carney eyes 'other options' for embattled Canadian auto sector on China trip",
+   "lien": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-17T15:17:49+00:00",
+   "extrait": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "d1ec412aa9cc",
+   "titre": "Christina Ricci on the final season of \"Yellowjackets\"",
+   "lien": "https://www.cbsnews.com/video/christina-ricci-on-the-final-season-of-yellowjackets/",
+   "source": "CBS News",
+   "date": "2026-11-17T15:14:17+00:00",
+   "extrait": "Christina Ricci joins \"CBS Mornings\" to talk about the fourth and final season of the hit series \"Yellowjackets,\" which premieres Nov. 20 on Paramount+.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "3653397eeac4",
+   "titre": "L'armée israélienne a utilisé la technologie de reconnaissance faciale d'Amazon pour surveiller les Palestiniens, selon \"The Guardian\"",
+   "lien": "https://www.franceinfo.fr/monde/proche-orient/guerre/l-armee-israelienne-a-utilise-la-technologie-de-reconnaissance-faciale-d-amazon-pour-surveiller-les-palestiniens-selon-le-guardian_8286383.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T15:11:35+00:00",
+   "extrait": "Une unité militaire de l'Etat hébreu a fourni au cloud d'Amazon plusieurs millions de photos, notamment de Palestiniens, pour les analyser à l'aide d'un outil d'intelligence artificielle, début 2024.",
+   "tags": [
+    "Conflits",
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "00f9b1ac80c6",
+   "titre": "Lucky Luke, 80 ans et bien vivant sous la plume de Jul",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20261117-lucky-luke-80-ans-et-bien-vivant-sous-la-plume-de-jul",
+   "source": "France 24",
+   "date": "2026-11-17T15:11:21+00:00",
+   "extrait": "Depuis 80 ans, le cowboy solitaire enchante petits et grands. Figure emblématique du Far West inventée par Morris, ensuite rejoint par Goscinny, Lucky Luke nous embarque dans une nouvelle intrigue…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "c932bdee7206",
+   "titre": "Exclusive discounts from CBS Mornings Deals",
+   "lien": "https://www.cbsnews.com/video/cbs-mornings-deals-111726/",
+   "source": "CBS News",
+   "date": "2026-11-17T15:06:55+00:00",
+   "extrait": "On this edition of CBS Deals, we show you items that could help improve your everyday lifestyle. Visit cbsdeals.com to take advantage of these exclusive deals today. CBS earns commissions on…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "87cc0eca9dae",
+   "titre": "Arthur Fils se défait de Rafael Jodar au Masters de Turin, première victoire française depuis 2011 dans cette compétition",
+   "lien": "https://www.franceinfo.fr/sports/tennis/arthur-fils/arthur-fils-se-defait-de-rafael-jodar-au-masters-de-turin-premiere-victoire-francaise-depuis-2011-dans-cette-competition_8286668.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T15:06:39+00:00",
+   "extrait": "Le Français a battu, mardi, l'Espagnol en trois manches lors des Finales ATP. Il conserve ainsi des chances de se qualifier en demi-finales.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "7acc1efe7987",
+   "titre": "Le Français Philippe Diallo, l'inattendu challenger de Gianni Infantino à la tête de la Fifa",
+   "lien": "https://www.france24.com/fr/sports/20261117-phillippe-diallo-fifa-candidature-fff-infantino-portrait",
+   "source": "France 24",
+   "date": "2026-11-17T15:06:10+00:00",
+   "extrait": "Avec le soutien des associations membres de l'UEFA, le président de la Fédération française de football, Philippe Diallo, a créé la surprise en se portant candidat à la présidence de la Fifa pour…",
+   "tags": [
+    "Politique",
+    "Sport"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "44651b57f400",
+   "titre": "CAN 2027: l'Égypte cale et retarde sa qualification, le Nigeria et le Gabon se mettent en difficulté",
+   "lien": "https://www.france24.com/fr/sports/20261117-can-2027-l-%C3%A9gypte-cale-et-retarde-sa-qualification-le-nigeria-et-le-gabon-se-mettent-en-difficult%C3%A9",
+   "source": "France 24",
+   "date": "2026-11-17T15:03:18+00:00",
+   "extrait": "L'Égypte avait une belle opportunité de se qualifier pour la CAN 2027 au Malawi ce mardi. Mais Mohamed Salah et ses coéquipiers ne sont pas parvenus à faire mieux qu'un match nul (0-0). Le Gabon et…",
+   "tags": [],
+   "zone": "monde"
+  },
   {
    "id": "fdafad9e7f10",
    "titre": "Guerre en Ukraine : il est \"absurde\" d'affirmer que des soldats français sur le territoire ukrainien participent directement au conflit, déclare la ministre déléguée aux Armées",
@@ -117,31 +492,6 @@
    "zone": "usa"
   },
   {
-   "id": "4a0425c081ab",
-   "titre": "En Europe, les fumeurs ont davantage de difficulté à arrêter que dans le reste du monde, selon l'Organisation mondiale de la santé",
-   "lien": "https://www.franceinfo.fr/sante/en-europe-les-fumeurs-ont-davantage-de-difficulte-a-arreter-que-dans-le-reste-du-monde-selon-l-organisation-mondiale-de-la-sante_8286614.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T14:39:26+00:00",
-   "extrait": "Selon l'OMS, l'Europe \"devrait continuer à afficher la prévalence du tabagisme chez les adultes la plus élevée au monde\".",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "6b23b430e49d",
-   "titre": "Hawley, Durbin introduce Roblox safety bill ahead of hearing",
-   "lien": "https://www.cbsnews.com/news/roblox-bill-josh-hawley-dick-durbin/",
-   "source": "CBS News",
-   "date": "2026-11-17T14:35:57+00:00",
-   "extrait": "The legislation would allow families of individuals harmed by tech products to take their claims to court even if they agreed to the company's terms of service for private arbitration.",
-   "tags": [
-    "Justice",
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "c5eee84f0e6b",
    "titre": "Outlook : après la panne géante, Microsoft avance de premières explications",
    "lien": "https://www.lemonde.fr/pixels/article/2026/11/17/outlook-apres-la-panne-geante-microsoft-avance-de-premieres-explications_6812983_4408996.html",
@@ -172,18 +522,6 @@
    "extrait": "Olivia Munn and Inside Edition correspondent Alison Hall join \"CBS Mornings\" to discuss their fight for better breast cancer legislation.",
    "tags": [
     "Santé"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "8956cf8b412c",
-   "titre": "Iran claims another attack targeting U.S. radar site in Bahrain",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
-   "source": "CBS News",
-   "date": "2026-11-17T14:33:05+00:00",
-   "extrait": "Iran has claimed to hit U.S. radar systems in Bahrain three times in less than a week, but authorities said the first two attacks were intercepted.",
-   "tags": [
-    "Conflits"
    ],
    "zone": "usa"
   },
@@ -279,7 +617,7 @@
    "titre": "Biden lashes out at Trump in new memoir",
    "lien": "https://www.cbsnews.com/video/biden-lashes-out-at-trump-in-new-memoir/",
    "source": "CBS News",
-   "date": "2026-11-17T14:14:46+00:00",
+   "date": "2026-11-17T14:14:00+00:00",
    "extrait": "Presidential historian Doug Brinkley joins CBS News with more on former President Biden's new memoir, \"Promise Me, America.\"",
    "tags": [
     "Politique"
@@ -317,19 +655,6 @@
    "extrait": "Dr. Michael Freeman, a forensics expert who analyzed Jeffrey Epstein's death, tells the CBS News Investigative Unit that his death may have been a homicide.",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "3653397eeac4",
-   "titre": "L'armée israélienne a utilisé la technologie de reconnaissance faciale d'Amazon pour surveiller les Palestiniens, selon le \"Guardian\"",
-   "lien": "https://www.franceinfo.fr/monde/proche-orient/guerre/l-armee-israelienne-a-utilise-la-technologie-de-reconnaissance-faciale-d-amazon-pour-surveiller-les-palestiniens-selon-le-guardian_8286383.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T14:04:31+00:00",
-   "extrait": "Une unité militaire de l'Etat hébreu a fourni au cloud d'Amazon plusieurs millions de photos, notamment de Palestiniens, pour les analyser à l'aide d'un outil d'intelligence artificielle, début 2024.",
-   "tags": [
-    "Conflits",
-    "Tech"
-   ],
-   "zone": "france"
   },
   {
    "id": "3c63b3358aa4",
@@ -476,14 +801,14 @@
    "zone": "usa"
   },
   {
-   "id": "6c1a38965d98",
-   "titre": "Nvidia forms export control panel amid concerns over China sales",
-   "lien": "https://www.cbsnews.com/news/nvidia-export-control-committee-china-chips/",
-   "source": "CBS News",
-   "date": "2026-11-17T13:35:55+00:00",
-   "extrait": "Chipmaker creates new committee amid growing concerns that it has allowed restricted products to reach China.",
+   "id": "a183e0a6dd8c",
+   "titre": "Rwanda : Kigali signe un accord pour accueillir des migrants expulsés d'Europe",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261117-rwanda-kigali-signe-un-accord-pour-accueillir-des-migrants-expuls%C3%A9s-d-europe",
+   "source": "France 24",
+   "date": "2026-11-17T13:36:32+00:00",
+   "extrait": "🇷🇼 Le Rwanda pourrait devenir une destination pour les migrants expulsés d’Europe. Cinq pays européens, dont l’Allemagne et les Pays-Bas, soutiennent la création d’un centre d’accueil sur son sol…",
    "tags": [],
-   "zone": "usa"
+   "zone": "monde"
   },
   {
    "id": "fbc0bf2f9167",
@@ -520,18 +845,6 @@
    "zone": "usa"
   },
   {
-   "id": "02ba7c2d802a",
-   "titre": "Manifestations du 17 novembre : à Paris, le cortège s'élance de la place de la Nation",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/direct-greve-et-manifestations-du-17-novembre-suivez-la-journee-de-mobilisation_8285927.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T13:33:39+00:00",
-   "extrait": "L'intersyndicale appelle les agents de la fonction publique à une nouvelle journée d'action pour réclamer une hausse des salaires face à l'inflation.",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "65d5cdd25d8d",
    "titre": "Banking outage rattles U.S.",
    "lien": "https://www.cbsnews.com/video/banking-outage-rattles-us/",
@@ -558,7 +871,7 @@
    "titre": "« Complice du “système Infantino”, Arsène Wenger a néanmoins été vu comme un recours crédible pour présider la FIFA »",
    "lien": "https://www.lemonde.fr/sport/article/2026/11/17/complice-du-systeme-infantino-arsene-wenger-a-neanmoins-ete-vu-comme-un-recours-credible-pour-presider-la-fifa_6812974_3242.html",
    "source": "Le Monde",
-   "date": "2026-11-17T13:30:10+00:00",
+   "date": "2026-11-17T13:30:05+00:00",
    "extrait": "Un temps pressenti pour être le candidat désigné de l’UEFA, l’ex-entraîneur d’Arsenal a finalement renoncé. L’hypothèse Wenger reposait sur une image d’intégrité et de respectabilité, qui a résisté…",
    "tags": [
     "Justice"
@@ -567,11 +880,11 @@
   },
   {
    "id": "5127e093ce76",
-   "titre": "EN DIRECT, guerre en Ukraine : la Russie dénonce une « participation directe » de la France au conflit",
+   "titre": "EN DIRECT, guerre en Ukraine | Volodymyr Zelensky appelle ses alliés à livrer des missiles Patriot sans délai à l’Ukraine",
    "lien": "https://www.lemonde.fr/international/live/2026/11/17/en-direct-guerre-en-ukraine-la-russie-denonce-une-participation-directe-de-la-france-au-conflit_6810982_3210.html",
    "source": "Le Monde",
    "date": "2026-11-17T13:29:44+00:00",
-   "extrait": "Le ministre des affaires étrangères russe a annoncé avoir adressé une mise en garde à Paris concernant la présence de soldats français en Ukraine. De petits contingents de militaires français…",
+   "extrait": "Le président ukrainien a appelé mardi ses alliés, dont les Etats-Unis, à livrer sans délai ces missiles indispensables à sa défense antiaérienne, dans un message vidéo diffusé lors d’une réunion des…",
    "tags": [
     "Politique",
     "Conflits"
@@ -631,19 +944,6 @@
    "zone": "france"
   },
   {
-   "id": "43de0c327b0e",
-   "titre": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-   "lien": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-17T13:02:17+00:00",
-   "extrait": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-   "tags": [
-    "Conflits",
-    "Santé"
-   ],
-   "zone": "monde"
-  },
-  {
    "id": "4b88ce23b69e",
    "titre": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
    "lien": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
@@ -654,6 +954,16 @@
     "Conflits"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "7a1d33c6db2d",
+   "titre": "Plans d’épargne-retraite : ce qui a changé en 2026",
+   "lien": "https://www.lemonde.fr/argent/article/2026/11/17/plans-d-epargne-retraite-ce-qui-a-change-en-2026_6812971_1657007.html",
+   "source": "Le Monde",
+   "date": "2026-11-17T13:00:03+00:00",
+   "extrait": "Davantage souscrit pour les avantages fiscaux à l’entrée que pour le complément de revenu qu’il génère à la sortie, le PER a fait l’objet de trois ajustements dans le cadre des lois budgétaires de…",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "c8f2a7d38b08",
@@ -714,11 +1024,11 @@
   },
   {
    "id": "b373c98cc4e8",
-   "titre": "EN DIRECT, manifestations du 17 novembre : blocages de lycées levés à Toulouse, témoignages dans le cortège parisien… Suivez nos correspondants sur le terrain",
+   "titre": "EN DIRECT, manifestations du 17 novembre : 200 lycéens bloqués à Marseille, le cortège parisien arrive à place d’Italie… Suivez la mobilisation en France grâce à nos correspondants",
    "lien": "https://www.lemonde.fr/politique/live/2026/11/17/en-direct-greve-du-17-novembre-suivez-la-mobilisation-a-marseille-lyon-ou-nantes-avec-nos-envoyes-speciaux-avant-le-cortege-parisien-qui-doit-s-elancer-a-14-heures_6812905_823448.html",
    "source": "Le Monde",
    "date": "2026-11-17T12:46:53+00:00",
-   "extrait": "L’ensemble des organisations syndicales de la fonction publique appelle à se mobiliser mardi pour exiger des augmentations immédiates de traitements. Nos correspondants sont sur le terrain à Paris…",
+   "extrait": "L’ensemble des organisations syndicales de la fonction publique appellent à se mobiliser mardi pour exiger des augmentations immédiates de traitements. Nos correspondants sont sur le terrain à…",
    "tags": [],
    "zone": "france"
   },
@@ -733,19 +1043,6 @@
     "Conflits"
    ],
    "zone": "france"
-  },
-  {
-   "id": "6926f194e5d2",
-   "titre": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
-   "lien": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-17T12:35:57+00:00",
-   "extrait": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "monde"
   },
   {
    "id": "3067a3d6c776",
@@ -906,6 +1203,18 @@
    "zone": "monde"
   },
   {
+   "id": "e1dec821ea20",
+   "titre": "En Serbie, la nouvelle majorité issue de la fronde étudiante prête serment au Parlement",
+   "lien": "https://www.france24.com/fr/europe/20261117-serbie-la-majorit%C3%A9-issue-du-mouvement-%C3%A9tudiant-a-pr%C3%AAt%C3%A9-serment-au-parlement",
+   "source": "France 24",
+   "date": "2026-11-17T11:37:35+00:00",
+   "extrait": "Les 140 élus issus du mouvement étudiant en Serbie ont prêté serment mardi lors de la séance inaugurale du Parlement, où ils ont obtenu la majorité lors des élections historiques du 25 octobre. Les…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "1f8a69164811",
    "titre": "Présidentielle 2027 : Marine Le Pen présente sa réforme des retraites, un système basé sur la progressivité et une part de capitalisation",
    "lien": "https://www.lemonde.fr/politique/article/2026/11/17/presidentielle-2027-marine-le-pen-presente-sa-reforme-des-retraites-et-promet-que-des-centaines-de-milliers-de-travailleurs-partiront-plus-tot-qu-avec-la-reforme-borne_6812963_823448.html",
@@ -1017,6 +1326,16 @@
    "zone": "france"
   },
   {
+   "id": "78c485d6f2be",
+   "titre": "Le dispositif \"MascuRadar\" lancé par la ville de Paris \"est une très bonne initiative\", estime l'association Osez le féminisme",
+   "lien": "https://www.franceinfo.fr/societe/le-dispositif-mascuradar-lance-par-la-ville-de-paris-est-une-tres-bonne-initiative-estime-l-association-osez-le-feminisme_8286401.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T11:05:53+00:00",
+   "extrait": "Cet outil, sous forme de cartes a été créé pour déconstruire les discours masculinistes dans la société. Céline Piques, porte-parole d'Osez le féminisme, parle sur franceinfo \"d'une augmentation du…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "900ad9b68f50",
    "titre": "U.S. gave Singapore scant help with Alice Huang probe, source says",
    "lien": "https://www.cbsnews.com/news/jensen-huang-nvidia-alice-huang-singapore-investigation-china-chips/",
@@ -1060,6 +1379,18 @@
     "Tech"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "8acebd78c017",
+   "titre": "🔴 En direct : une partie du pont de Crimée détruite après des frappes ukrainiennes, le trafic routier interrompu",
+   "lien": "https://www.france24.com/fr/europe/20261117-en-direct-ukraine-deux-ponts-kiev-touches-frappes-russes-zelensky-poutine",
+   "source": "France 24",
+   "date": "2026-11-17T10:53:28+00:00",
+   "extrait": "",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
   },
   {
    "id": "701b8c757ec1",
@@ -1662,11 +1993,11 @@
   },
   {
    "id": "18dcb4b91415",
-   "titre": "En direct : nouvelle journée de mobilisation dans la fonction publique",
+   "titre": "En direct : nouvelle journée de mobilisation en France, manifestation en cours à Paris",
    "lien": "https://www.france24.com/fr/france/20261117-en-direct-nouvelle-journ%C3%A9e-mobilisation-gr%C3%A8ve-fonction-publique-gilets-jaunes-pouvoir-achat-%C3%A9tudiants-lyc%C3%A9ens",
    "source": "France 24",
    "date": "2026-11-17T06:57:54+00:00",
-   "extrait": "Les syndicats appellent les agents de la fonction publique à une nouvelle journée d'action mardi pour protester contre la vie chère. Des dizaines de manifestations sont prévues à travers le pays…",
+   "extrait": "Alors que les syndicats appellent les agents de la fonction publique à une nouvelle journée d'action mardi pour protester contre la vie chère, le cortège parisien s'est élancer en début d'après-midi…",
    "tags": [],
    "zone": "monde"
   },
@@ -1701,7 +2032,7 @@
    "lien": "https://www.france24.com/fr/france/20261117-dans-les-lyc%C3%A9es-mobilis%C3%A9s-le-personnel-%C3%A9ducatif-%C3%A9prouv%C3%A9-apr%C3%A8s-deux-mois-de-mobilisation",
    "source": "France 24",
    "date": "2026-11-17T06:29:49+00:00",
-   "extrait": "Alors que 25 lycées étaient toujours perturbés lundi en Île-de-France, selon la région, France 24 a échangé avec des personnels éducatifs de trois établissements. Enseignants et membres de la vie…",
+   "extrait": "Alors que les syndicats d'enseignants participent à une nouvelle journée de mobilisation, France 24 a échangé avec des personnels éducatifs de trois établissements. Enseignants et membres de la vie…",
    "tags": [],
    "zone": "monde"
   },
@@ -2508,18 +2839,6 @@
    "zone": "usa"
   },
   {
-   "id": "8acebd78c017",
-   "titre": "Ukraine en direct : une partie du pont de Crimée détruite après des attaques ukrainiennes",
-   "lien": "https://www.france24.com/fr/europe/20261117-en-direct-ukraine-deux-ponts-kiev-touches-frappes-russes-zelensky-poutine",
-   "source": "France 24",
-   "date": "2026-11-17T00:22:05+00:00",
-   "extrait": "Une partie de la section routière du pont de Crimée, qui relie la péninsule ukrainienne annexée au territoire russe, s'est effondrée mardi après de nouvelles frappes de drones et de missiles…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
    "id": "98c72e7a1590",
    "titre": "Deux ans de prison requis contre Pierre Ménès, jugé pour agressions sexuelles et harcèlement moral",
    "lien": "https://www.lemonde.fr/societe/article/2026/11/17/deux-ans-de-prison-requis-contre-pierre-menes-juge-pour-agressions-sexuelles-et-harcelement-moral_6812755_3224.html",
@@ -3121,326 +3440,6 @@
    "extrait": "President Trump said Monday that he doesn't take any responsibility for Friday's nationwide ground stop that lasted for hours. CBS News' Olivia Rinaldi, Jared Ochacher and Taurean Small report while…",
    "tags": [
     "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "66ca8ef414bc",
-   "titre": "Le pape Léon XIV conclut sa tournée en Amérique du Sud",
-   "lien": "https://www.lemonde.fr/international/video/2026/11/16/le-pape-leon-xiv-conclut-sa-tournee-en-amerique-du-sud_6812425_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-16T20:49:24+00:00",
-   "extrait": "À 71 ans, le premier pape américain, qui possède également la nationalité péruvienne, a parcouru l’Uruguay, l’Argentine et le Pérou, un itinéraire éprouvant, un mois à peine après une opération pour…",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "d32b117e7de9",
-   "titre": "Painting honors 250th anniversary of \"First Salute\"",
-   "lien": "https://www.cbsnews.com/video/painting-honors-250th-anniversary-of-first-salute/",
-   "source": "CBS News",
-   "date": "2026-11-16T20:40:14+00:00",
-   "extrait": "250 years ago Monday, the fort on the tiny Caribbean island of Sint Eustatius fired a cannon salute in response to the salute of an American ship, the Andrew Doria. This marked what's called \"The…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "16f498a805ca",
-   "titre": "Tennessee names new corrections chief after botched executions",
-   "lien": "https://www.cbsnews.com/news/josh-smith-tennessee-corrections-chief-executions/",
-   "source": "CBS News",
-   "date": "2026-11-16T20:39:33+00:00",
-   "extrait": "Josh Smith has been appointed to lead the Department of Corrections in Tennessee following the botched execution of Christa Pike last month.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "00146cd8bad4",
-   "titre": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
-   "lien": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-16T20:33:57+00:00",
-   "extrait": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "aacfb8210ed9",
-   "titre": "Highlights from Billy Evans' first TV interview",
-   "lien": "https://www.cbsnews.com/news/billy-evans-elizabeth-holmes-life-first-interview-highlights/",
-   "source": "CBS News",
-   "date": "2026-11-16T20:33:00+00:00",
-   "extrait": "Billy Evans discusses the documentary's portrayal of Elizabeth Holmes, why he walked away from a potential big payday, and the challenges of raising their two children while she's behind bars.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "5b7d7d91f0c6",
-   "titre": "\"La conversation n'a pas été facile\" : de premiers pourparlers se sont tenus entre l'Ukraine, l'Europe et les Etats-Unis, annonce Volodymyr Zelensky",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-conversation-n-a-pas-ete-facile-de-premiers-pourparlers-se-sont-tenus-entre-l-ukraine-l-europe-et-les-etats-unis-annonce-volodymyr-zelensky_8285417.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-16T20:23:42+00:00",
-   "extrait": "Des négociateurs d'Allemagne, de France, d'Italie, de Pologne et du Royaume-Uni ont participé à ces discussions en ligne.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "2276c1e1158b",
-   "titre": "Au procès des parents de la « petite inconnue de l’A10 », un réquisitoire sobre, subtil et pédagogue",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/16/au-proces-des-parents-de-l-inconnue-de-l-a10-un-requisitoire-sobre-subtil-et-pedagogue_6812394_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-16T20:19:08+00:00",
-   "extrait": "Les deux représentants de l’accusation ont requis vingt ans de réclusion criminelle contre Halima El Bakhti et quatorze ans contre Ahmed Touloub.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "07ae6de15efb",
-   "titre": "Guerre en Ukraine : plusieurs dizaines de militaires français déployés secrètement dans le pays",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-plusieurs-dizaines-de-militaires-francais-deployes-secretement-dans-le-pays_8285432.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-16T20:11:46+00:00",
-   "extrait": "Plusieurs dizaines de militaires français seraient déployés secrètement en Ukraine dans le cadre d'une mission confidentielle baptisée \"Volia\". Officiellement, Paris communique sur la mission…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "8eef990e1ef6",
-   "titre": "High court rejects challenge to Maryland gun ban in sensitive places",
-   "lien": "https://www.cbsnews.com/news/supreme-court-maryland-gun-laws-sensitive-places/",
-   "source": "CBS News",
-   "date": "2026-11-16T20:10:03+00:00",
-   "extrait": "The Supreme Court left in place a lower court decision that upheld the measure banning guns in sensitive places.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "fd8d3516ce38",
-   "titre": "Mobilisation du 17 novembre : des trains et des ports seront perturbés en raison d’un appel à la grève",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/16/mobilisation-du-17-novembre-des-trains-et-des-ports-seront-perturbes-en-raison-d-un-appel-a-la-greve_6812393_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-16T20:08:58+00:00",
-   "extrait": "Certaines lignes des réseaux TER en Auvergne-Rhône-Alpes, Bourgogne-Franche-Comté, Bretagne, Centre-Val de Loire, Hauts-de-France, Nouvelle-Aquitaine, Occitanie et Pays de la Loire seront concernées…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "e28a56bd61ad",
-   "titre": "These are the last midterm races to be decided",
-   "lien": "https://www.cbsnews.com/news/2026-midterm-election-house-senate-projections-toss-up/",
-   "source": "CBS News",
-   "date": "2026-11-16T20:00:00+00:00",
-   "extrait": "Democrats won sizable House and Senate majorities in the 2026 midterm elections, but the exact margins are unclear because some races haven't been projected yet. Here's where the results stand.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "587b91be7190",
-   "titre": "Renault va supprimer plus d’un millier de postes en France pour être plus compétitif face à la concurrence chinoise",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/16/renault-va-supprimer-plus-d-un-millier-de-postes-en-france-pour-etre-plus-competitif-face-a-la-concurrence-chinoise_6812360_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-16T19:59:32+00:00",
-   "extrait": "Le groupe automobile français a annoncé un plan de départs volontaires concernant 1 000 personnes ainsi que 2 000 créations de postes d’ici deux à trois ans. Une dizaine de sites seront concernés…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "fac91c926575",
-   "titre": "Maileva : nouvelle cyberattaque contre une société française",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261116-maileva-nouvelle-cyberattaque-contre-une-soci%C3%A9t%C3%A9-fran%C3%A7aise",
-   "source": "France 24",
-   "date": "2026-11-16T19:57:51+00:00",
-   "extrait": "C'est le plus récent piratage informatique d'une société française : Maileva, filiale de La Poste, s'est vu dérober les coordonnées de 22 millions de clients (nom, prénom et adresse postale). Elle…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "3a3431a6a26e",
-   "titre": "Several major U.S. banks reporting widespread service outages",
-   "lien": "https://www.cbsnews.com/video/several-major-us-banks-reporting-widespread-service-outages/",
-   "source": "CBS News",
-   "date": "2026-11-16T19:57:38+00:00",
-   "extrait": "Customers at Bank of America, JPMorgan Chase and other major banks are reporting widespread service outages. CBS News' Jo Ling Kent reports.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "9623fabc2b7a",
-   "titre": "Grève dans la fonction publique, perturbations dans les transports, manifestations… A quoi s'attendre pour la mobilisation du 17 novembre ?",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/greves-dans-la-fonction-publique-mouvement-lyceen-manifestations-a-quoi-s-attendre-pour-la-mobilisation-du-17-novembre_8284415.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-16T19:54:31+00:00",
-   "extrait": "Les syndicats appellent les agents de la fonction publique, de l'Education nationale ou encore des transports à faire grève mardi. Des dizaines de manifestations sont annoncées, auxquelles doivent…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "d32b3c7cbef9",
-   "titre": "\"J'ai fait de mon mieux\" : à six mois de la fin de son mandat, Emmanuel Macron reconnaît \"des erreurs\" au cours de ses dix ans au pouvoir",
-   "lien": "https://www.franceinfo.fr/elections/j-ai-fait-de-mon-mieux-a-six-mois-de-la-fin-de-son-mandat-emmanuel-macron-reconnait-des-erreurs-au-cours-de-ses-dix-ans-au-pouvoir_8285318.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-16T19:53:52+00:00",
-   "extrait": "Le président de la République s'est exprimé lundi sur X à l'occasion des dix ans de l'annonce de sa première candidature à la présidentielle.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "e8bd2f6b13ca",
-   "titre": "Comment l’Allemagne a renoncé à sa politique d’accueil : du « nous y arriverons » d’Angela Merkel au projet d’expulser des réfugiés vers le Rwanda",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/16/comment-l-allemagne-a-renonce-a-sa-politique-d-accueil-du-nous-y-arriverons-d-angela-merkel-au-projet-d-expulser-des-refugies-vers-le-rwanda_6812359_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-16T19:53:33+00:00",
-   "extrait": "Le pays, qui a accueilli près d’un million de Syriens depuis 2015, participe à une initiative, pour créer un « centre de retour » au Rwanda, où renvoyer les demandeurs d’asile déboutés.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "ffdcd57134cb",
-   "titre": "Narcobanditisme : pourquoi Amine Oualane et Karim Harrat sont condamnés à la réclusion criminelle à perpétuité",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/16/narcobanditisme-pourquoi-amine-oualane-et-karim-harrat-sont-condamnes-a-la-reclusion-criminelle-a-perpetuite_6812326_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-16T19:34:19+00:00",
-   "extrait": "Les deux hommes sont reconnus coupables d’avoir organisé l’assassinat de trois concurrents, dont le frère du militant Amine Kessaci, qui voit dans le verdict « un message à la narcocratie ».",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "789464eb263f",
-   "titre": "Lindsay Clancy to face retrial next year for deaths of her three children",
-   "lien": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-16T19:30:30+00:00",
-   "extrait": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "5f54ff9c4eff",
-   "titre": "Robert Pattinson named the next James Bond",
-   "lien": "https://www.cbsnews.com/video/robert-pattinson-named-the-next-james-bond-1/",
-   "source": "CBS News",
-   "date": "2026-11-16T19:29:45+00:00",
-   "extrait": "Robert Pattinson will take over for Daniel Craig as 007 in the next James Bond film, the franchise announced Monday. Pop-culture commentator Mark O'Connell joined CBS News to discuss.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "5ad8b8b982f3",
-   "titre": "Le gouvernement britannique gracie les femmes condamnées pour avoir avorté, après l'entrée en vigueur d'une loi dépénalisant l'IVG hors délai",
-   "lien": "https://www.franceinfo.fr/societe/ivg/le-gouvernement-britannique-gracie-les-femmes-condamnees-pour-avoir-avorte-apres-l-entree-en-vigueur-d-une-loi-depenalisant-l-ivg-hors-delai_8285327.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-16T19:29:40+00:00",
-   "extrait": "Jusqu'à récemment, les femmes pouvaient être jugées et emprisonnées si elles mettaient fin à leur grossesse après 24 semaines ou sans approbation médicale.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "5f6743c78354",
-   "titre": "L’Ukraine au pied du mur ?",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261116-l-ukraine-au-pied-du-mur",
-   "source": "France 24",
-   "date": "2026-11-16T19:19:41+00:00",
-   "extrait": "Kiev fait face à un moment décisif. Tandis que l’aide financière à l’Ukraine est remise en question dans la campagne présidentielle en France mais aussi au sein de l’Europe, les Etats-Unis proposent…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "ab4ebe73f5e9",
-   "titre": "Mobilisation de la jeunesse : 20 % des établissements du supérieur et 25 lycées franciliens perturbés lundi",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/16/mobilisation-de-la-jeunesse-20-des-etablissements-du-superieur-et-25-lycees-franciliens-perturbes-lundi_6812298_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-16T19:06:05+00:00",
-   "extrait": "A la veille d’une nouvelle journée de mobilisation nationale, le gouvernement durcit le ton face à la contestation, en interdisant notamment la vente de mortiers d’artifice et les rassemblements…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "16eb68db3a91",
-   "titre": "Adolescent mortellement fauché dans le Puy-de-Dôme : deux hommes mis en examen",
-   "lien": "https://www.franceinfo.fr/faits-divers/adolescent-mortellement-fauche-dans-le-puy-de-dome-deux-hommes-mis-en-examen_8285369.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-16T19:03:14+00:00",
-   "extrait": "Deux hommes de 22 et 19 ans, soupçonnés d'être impliqués dans l'homicide routier vendredi à Gerzat (Puy-de-Dôme), ont été mis en examen, indique le parquet de Clermont-Ferrand dans un communiqué ce…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "2d94637f42e0",
-   "titre": "Philippe Diallo, inattendu challengeur de Gianni Infantino à la présidence de la FIFA",
-   "lien": "https://www.lemonde.fr/sport/article/2026/11/16/philippe-diallo-inattendu-challenger-de-gianni-infantino-a-la-presidence-de-la-fifa_6812297_3242.html",
-   "source": "Le Monde",
-   "date": "2026-11-16T19:02:51+00:00",
-   "extrait": "L’UEFA a annoncé, lundi, son soutien unanime à la candidature surprise du président de la Fédération française de football, qui brigue la présidence de la Fédération internationale face à son patron…",
-   "tags": [
-    "Politique",
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "ce9f05e036c4",
-   "titre": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky affirme que la Corée du Nord livre à la Russie chaque mois « des dizaines de missiles balistiques » et demande aux Européens plus de missiles pour Kiev",
-   "lien": "https://www.lemonde.fr/international/live/2026/11/16/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-que-la-coree-du-nord-livre-a-la-russie-chaque-mois-des-dizaines-de-missiles-balistiques-et-demande-aux-europeens-plus-de-missiles-pour-kiev_6810982_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-16T19:02:37+00:00",
-   "extrait": "Le président ukrainien a aussi appelé, lundi, les Européens à reprendre les discussions sur les moyens de neutraliser les lanceurs balistiques russes.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "f2f6aaeccad2",
-   "titre": "Alerte sur l’« aggravation historique » de l’état de la plupart des récifs coralliens, herbiers et mangroves des territoires d’outre-mer",
-   "lien": "https://www.lemonde.fr/planete/article/2026/11/16/alerte-sur-l-aggravation-historique-de-l-etat-de-la-plupart-des-recifs-coralliens-herbiers-et-mangroves-des-territoires-d-outre-mer_6812295_3244.html",
-   "source": "Le Monde",
-   "date": "2026-11-16T19:00:10+00:00",
-   "extrait": "L’Initiative française pour les récifs coralliens a publié, lundi 16 novembre, un bilan des écosystèmes marins français d’outre-mer.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "9ac5f2613ea7",
-   "titre": "Epstein's death may not have been suicide, new analysis suggests",
-   "lien": "https://www.cbsnews.com/news/jeffrey-epstein-death-suicide-forensics-expert-analysis/",
-   "source": "CBS News",
-   "date": "2026-11-16T18:59:00+00:00",
-   "extrait": "Forensics expert Dr. Michael Freeman says multiple images and overlooked details about Jeffrey Epstein's death contradict the conclusion that he died by suicide.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "45edaf233812",
-   "titre": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
-   "lien": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
-   "source": "NPR",
-   "date": "2026-11-16T18:49:26+00:00",
-   "extrait": "The new rule closes a loophole that existed that allowed Chinese companies to still access advanced AI chips remotely, despite U.S. restrictions on their physical sale to China.",
-   "tags": [
-    "Tech"
    ],
    "zone": "usa"
   }

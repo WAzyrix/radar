@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-17T15:05:49+00:00",
+ "maj": "2026-11-17T16:05:43+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "148f7e8fc320",
+   "titre": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
+   "lien": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
+   "source": "BleepingComputer",
+   "date": "2026-11-17T15:01:11+00:00",
+   "extrait": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them. [...]",
+   "tags": [
+    "Malware",
+    "Windows"
+   ]
+  },
   {
    "id": "6085ef54790f",
    "titre": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
@@ -3392,15 +3404,6 @@
    "tags": [
     "Faille"
    ]
-  },
-  {
-   "id": "6625b8a777d1",
-   "titre": "The Flood is Coming And The Pipes Were Already Full",
-   "lien": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
-   "source": "The Hacker News",
-   "date": "2026-11-06T11:30:00+00:00",
-   "extrait": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the…",
-   "tags": []
   }
  ]
 }
