@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-17T02:05:42+00:00",
+ "maj": "2026-11-17T03:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,19 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "05b6417e274f",
+   "titre": "Optimizely supply chain attack infects major brands' sites with malware",
+   "lien": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-infects-major-brands-sites-with-malware/",
+   "source": "BleepingComputer",
+   "date": "2026-11-17T02:12:17+00:00",
+   "extrait": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing…",
+   "tags": [
+    "Faille",
+    "Malware",
+    "Mobile"
+   ]
+  },
   {
    "id": "60f99194645f",
    "titre": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
@@ -3387,19 +3400,6 @@
    "tags": [
     "Faille",
     "Linux"
-   ]
-  },
-  {
-   "id": "306be99284dc",
-   "titre": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
-   "lien": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
-   "source": "The Hacker News",
-   "date": "2026-11-05T16:42:32+00:00",
-   "extrait": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the…",
-   "tags": [
-    "Faille",
-    "Malware",
-    "IA"
    ]
   }
  ]
