@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-17T21:05:43+00:00",
+ "maj": "2026-11-17T21:22:14+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,50 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "42dc75519c60",
+   "titre": "Professional misconduct complaints against DOJ officials are rising",
+   "lien": "https://www.cbsnews.com/news/professional-misconduct-complaints-justice-department-officials/",
+   "source": "CBS News",
+   "date": "2026-11-17T21:19:34+00:00",
+   "extrait": "The number of professional misconduct complaints filed against Justice Department officials has increased by more than 50% over a two-year period, according to the department's inspector general.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "5a115d85dd5d",
+   "titre": "Jon Tower",
+   "lien": "https://www.cbsnews.com/news/jon-tower/",
+   "source": "CBS News",
+   "date": "2026-11-17T21:11:58+00:00",
+   "extrait": "\"CBS Mornings\" executive producer",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "e4b3d155f584",
+   "titre": "iCloud, App Store... Des \"pannes\" perturbent l'accès à plusieurs services d'Apple",
+   "lien": "https://www.franceinfo.fr/internet/icloud-appstore-des-pannes-perturbent-l-acces-a-plusieurs-services-d-apple_8287028.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T21:08:16+00:00",
+   "extrait": "Des \"problèmes\" touchent notamment le service de stockage en ligne iCloud depuis mardi en fin d'après-midi. \"Ce service peut être lent ou indisponible\", rapporte l'entreprise, qui ne précise pas la…",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "31c7e24129a2",
+   "titre": "Russian military plane crashes killing all 19 on board",
+   "lien": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-17T21:06:11+00:00",
+   "extrait": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "64916d6055ce",
    "titre": "US loses measles elimination status after 26 years amid record case numbers",
    "lien": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
@@ -36,7 +80,7 @@
    "titre": "Apple says internal update caused outage as services recover",
    "lien": "https://www.cbsnews.com/news/apple-outage-icloud-apple-pay-services/",
    "source": "CBS News",
-   "date": "2026-11-17T21:00:57+00:00",
+   "date": "2026-11-17T21:00:00+00:00",
    "extrait": "The company's system status shows that some Apple services, including iCloud sign-in, are still experiencing issues.",
    "tags": [
     "Tech"
@@ -52,6 +96,16 @@
    "extrait": "Pluie de qualifications à la CAN 2027 dans les matches de la soirée de ce mardi 17 novembre. Le Mali est allé gagner au Rwanda (2-0) pour décrocher son billet. Le Burkina Faso a fait de même avec…",
    "tags": [],
    "zone": "monde"
+  },
+  {
+   "id": "ece9c20156ad",
+   "titre": "Un projet de loi sur l’antisémitisme, soutenu par Giorgia Meloni et critiqué par l’opposition, a été adopté en Italie",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/17/un-projet-de-loi-sur-l-antisemitisme-soutenu-par-giorgia-meloni-et-critique-par-l-opposition-a-ete-adopte-en-italie_6813047_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-17T20:56:18+00:00",
+   "extrait": "Ce projet de loi intègre dans la législation italienne la définition de l’antisémitisme par l’International Holocaust Remembrance Alliance, et fait craindre à l’opposition une restriction de la…",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "c52edca17fe7",
@@ -113,6 +167,16 @@
    "zone": "monde"
   },
   {
+   "id": "55f532f3c116",
+   "titre": "Un rapport parlementaire sur la prostitution des mineurs appelle à \"renverser la charge de la preuve\" pour mieux lutter contre ce phénomène qui \"ne cesse d'augmenter\"",
+   "lien": "https://www.franceinfo.fr/societe/prostitution/un-rapport-parlementaire-sur-la-prostitution-des-mineurs-appelle-a-renverser-la-charge-de-la-preuve-pour-mieux-lutter-contre-ce-phenomene-qui-ne-cesse-d-augmenter_8287169.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T20:35:15+00:00",
+   "extrait": "Le texte de la Délégation aux droits des enfants suggère de modifier la loi afin que les clients aient à établir qu'ils ne connaissaient pas l'âge de la personne prostituée.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "f4f71f9172e3",
    "titre": "Duffy says feds don't have clarity on root cause of Friday's nationwide ground stop",
    "lien": "https://www.cbsnews.com/video/duffy-says-feds-dont-know-root-cause-of-fridays-nationwide-ground-stop/",
@@ -154,18 +218,6 @@
    "extrait": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
    "tags": [
     "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "31c7e24129a2",
-   "titre": "Russian military plane crashes killing all 19 on board",
-   "lien": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-17T20:25:27+00:00",
-   "extrait": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
-   "tags": [
-    "Conflits"
    ],
    "zone": "monde"
   },
@@ -260,6 +312,16 @@
    "source": "Le Monde",
    "date": "2026-11-17T19:53:35+00:00",
    "extrait": "Lundi, à la fin d’un débat consacré à Gérard Depardieu et à la question des violences sexuelles, une journaliste a invoqué la charte déontologique de la chaîne publique pour rappeler qu’Anne-Cécile…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "2b0326028939",
+   "titre": "Un avion de transport militaire s'est écrasé en Sibérie faisant 19 morts",
+   "lien": "https://www.franceinfo.fr/monde/russie/un-avion-de-transport-militaire-s-est-ecrase-en-siberie-faisant-19-morts_8287073.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T19:51:33+00:00",
+   "extrait": "L'appareil, qui effectuait \"un vol régulier\", s'est crashé dans \"une zone inhabitée\" dans la région de Kemerovo, selon le ministère de la Défense russe.",
    "tags": [],
    "zone": "france"
   },
@@ -3389,77 +3451,6 @@
    "date": "2026-11-17T05:20:01+00:00",
    "extrait": "Clean Cities, une coalition regroupant plus de 150 organisations non gouvernementales, publie mardi un classement inédit des 40 grandes métropoles et capitales européennes en matière de qualité de…",
    "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "95bd2fa432c1",
-   "titre": "\"Le sexisme ordinaire est à tous les étages\" : les femmes encore très minoritaires dans les métiers du numérique",
-   "lien": "https://www.franceinfo.fr/economie/emploi/carriere/vie-professionnelle/emploi-des-femmes/temoignages-le-sexisme-ordinaire-est-a-tous-les-etages-les-femmes-encore-tres-minoritaires-dans-les-metiers-du-numerique_8271524.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T05:06:53+00:00",
-   "extrait": "A l'occasion de l'événement \"Demain mon job\", organisé mardi à la Maison de la radio et de la musique, franceinfo se penche sur cette disparité femmes-hommes persistante dans les professions liées…",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "bf9587f03124",
-   "titre": "Procès de l'assassinat du frère d'Amine Kessaci : deux figures du narcobanditisme marseillais condamnées à la perpétuité",
-   "lien": "https://www.franceinfo.fr/faits-divers/justice-proces/proces-de-l-assassinat-du-frere-d-amine-kessaci-deux-figures-du-narcobanditisme-marseillais-condamnees-a-la-perpetuite_8285081.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T05:03:07+00:00",
-   "extrait": "Brahim Chabane, demi-frère du militant engagé contre le narcotrafic Amine Kessaci, est l'une des victimes d'un triple homicide à Marseille en décembre 2020.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "b673ce55a3af",
-   "titre": "\"On respire encore un air toxique\" : l'ONG Clean Cities publie un classement de la qualité de l’air dans 40 villes européennes, les françaises à la traîne",
-   "lien": "https://www.franceinfo.fr/environnement/pollution/on-respire-encore-un-air-toxique-l-ong-clean-cities-publie-un-classement-de-la-qualite-de-l-air-dans-40-villes-europeennes-les-francaises-a-la-traine_8285525.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T05:00:21+00:00",
-   "extrait": "La pollution de l'air constitue le premier risque environnemental pour la santé en France, celle-ci cause chaque année plus de 700 morts à Marseille, plus de 800 à Lyon ou encore plus de 4 000 dans…",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "91e477a68096",
-   "titre": "Selon France Travail, près de 4 employeurs sur 10 utilisent ou testent l’IA, 70 % d’entre eux attendent que leurs salariés fassent de même",
-   "lien": "https://www.franceinfo.fr/economie/emploi/selon-france-travail-pres-de-4-employeurs-sur-10-utilisent-ou-testent-l-ia-70-d-entre-eux-attendent-que-leurs-salaries-fassent-de-meme_8285537.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T05:00:21+00:00",
-   "extrait": "Seulement 6% des employeurs anticipent que l'intelligence artificielle pourra concurrencer l'humain dans les cinq prochaines années, pour 35% d'entre eux l'IA est avant tout un outil qui permet de…",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "011f7b30ac73",
-   "titre": "\"Bienvenue aux Services secrets de sa Majesté, M. Bond\" : le nouveau visage de 007 adoubé par la famille royale britannique",
-   "lien": "https://www.franceinfo.fr/culture/cinema/bienvenue-au-service-secret-de-sa-majeste-m-bond-le-nouveau-visage-de-007-adoube-par-la-famille-royale-britannique_8285393.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T05:00:19+00:00",
-   "extrait": "Les premières réactions au choix de Robert Pattinson sont globalement enthousiastes, notamment du côté de ses compatriotes.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "94b9a4320051",
-   "titre": "La présidence de la Fifa ou la quête sans fin d'un adversaire à Gianni Infantino",
-   "lien": "https://www.franceinfo.fr/sports/foot/la-presidence-de-la-fifa-ou-la-quete-sans-fin-d-un-adversaire-a-gianni-infantino_8285057.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T05:00:18+00:00",
-   "extrait": "Les candidats à la présidence de l'instance du football mondial, dont le président de la Fédération française de football Philippe Diallo porté par l'UEFA, ont jusqu'à ce mercredi pour déposer leur…",
-   "tags": [
-    "Politique",
-    "Sport"
-   ],
    "zone": "france"
   }
  ]
