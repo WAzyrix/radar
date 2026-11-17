@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-17T08:31:50+00:00",
+ "maj": "2026-11-17T09:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,15 +22,86 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "02ba7c2d802a",
+   "titre": "Manifestations du 17 novembre : \"Franchement, le compte n'y est pas !\", pour la patronne de la CGT avant une nouvelle journée de mobilisation",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/direct-greve-et-manifestations-du-17-novembre-suivez-la-journee-de-mobilisation_8285927.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T08:57:38+00:00",
+   "extrait": "L'intersyndicale appelle les agents de la fonction publique à une nouvelle journée d'action pour réclamer une hausse des salaires face à l'inflation",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "6926f194e5d2",
+   "titre": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
+   "lien": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-17T08:53:09+00:00",
+   "extrait": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "8956cf8b412c",
+   "titre": "Iran claims another attack on U.S. assets in Bahrain",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
+   "source": "CBS News",
+   "date": "2026-11-17T08:52:15+00:00",
+   "extrait": "The reported attack is the third time since Friday that Iran has targeted the gulf nation, after a period of calm.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "329f3dbf84f9",
    "titre": "Le pont de Crimée ciblé pour la deuxième nuit consécutive par l'Ukraine, des frappes russes sur deux ponts de Kiev",
    "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/deux-ponts-de-kiev-sont-fermes-a-la-circulation-apres-des-attaques-russes-alors-que-de-son-cote-l-ukraine-cible-la-crimee_8286059.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-11-17T08:16:07+00:00",
+   "date": "2026-11-17T08:50:16+00:00",
    "extrait": "Le gouvernement russe a annoncé la tenue d'une commission gouvernementale, afin de \"gérer les conséquences\" de cette attaque.",
    "tags": [
     "Politique",
     "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "8c67ea909ed4",
+   "titre": "\"Ce n'est pas un dîner, c'est une présentation de programme\", explique Manuel Bompard alors que Jean-Luc Mélenchon rencontre des grands patrons",
+   "lien": "https://www.franceinfo.fr/politique/la-france-insoumise/ce-n-est-pas-un-diner-c-est-une-presentation-de-programme-explique-manuel-bompard-alors-que-jean-luc-melenchon-rencontre-des-grands-patrons_8286200.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T08:45:36+00:00",
+   "extrait": "Le chef de file de LFI et candidat à la présidentielle rencontre mardi soir des grands patrons afin d'expliquer le programme du parti : \"mettre davantage à contribution les grandes entreprises et…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "31513d177676",
+   "titre": "\"Je me réveille à 2 heures du matin pour prendre ma douche\" : en Roumanie, une ville privée d'eau depuis des mois",
+   "lien": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/je-me-reveille-a-2-heures-du-matin-pour-prendre-ma-douche-en-roumanie-une-ville-privee-d-eau-depuis-des-mois_8265059.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T08:31:42+00:00",
+   "extrait": "À Târgu Neamț, dans le nord-est de la Roumanie, les habitants subissent depuis l'été une grave pénurie d'eau. Entre sécheresse et canalisations défaillantes, certains doivent attendre le milieu de…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "0ff5184e5ad6",
+   "titre": "\"Ma vie reste en suspens\", témoigne l’ex-compagnon de Maylis Daubon, condamnée pour avoir empoisonné ses filles",
+   "lien": "https://www.franceinfo.fr/faits-divers/justice-proces/ma-vie-reste-en-suspens-temoigne-l-ex-compagnon-de-maylis-daubon-la-mere-condamnee-pour-avoir-empoisonne-ses-filles_8286152.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T08:15:38+00:00",
+   "extrait": "Maylis Daubon, 53 ans, a été condamnée en première instance à 30 ans de réclusion criminelle par la cour d'assises des Landes. Le procès en appel de cette femme s'ouvre mardi devant la cour d'appel…",
+   "tags": [
+    "Justice"
    ],
    "zone": "france"
   },
@@ -49,8 +120,8 @@
    "titre": "Les journalistes qui suivent l’Elysée demandent le « respect » de leur métier au prochain président",
    "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/17/les-journalistes-qui-suivent-l-elysee-demandent-le-respect-de-leur-metier-au-prochain-president_6812927_6205049.html",
    "source": "Le Monde",
-   "date": "2026-11-17T08:10:12+00:00",
-   "extrait": "« Comment les journalistes politiques vont-ils pouvoir travailler à partir de mai 2027 ? Auront-ils toujours accès à l’Elysée ? », questionne l’Association de la presse présidentielle dans un livre…",
+   "date": "2026-11-17T08:10:10+00:00",
+   "extrait": "« Comment les journalistes politiques vont-ils pouvoir travailler à partir de mai 2027 ? Auront-ils toujours accès à l’Elysée ? », questionne l’Association de la presse présidentielle.",
    "tags": [
     "Politique"
    ],
@@ -67,6 +138,19 @@
     "Conflits"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "2437825625d3",
+   "titre": "Marine Le Pen \"a toujours été alignée sur les positions du Kremlin\", estime Benjamin Haddad, ministre chargé de l'Europe",
+   "lien": "https://www.franceinfo.fr/politique/marine-le-pen-a-toujours-ete-alignee-sur-les-positions-du-kremlin-estime-benjamin-haddad-ministre-charge-de-l-europe_8286116.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T07:57:00+00:00",
+   "extrait": "Benjamin Haddad, ministre chargé de l'Europe, était l'invité des \"4 Vérités\", mardi 17 novembre. Il est revenu sur le projet de Marine Le Pen d'arrêter de soutenir financièrement l'Ukraine si elle…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
   },
   {
    "id": "d5ec472673c8",
@@ -94,29 +178,29 @@
    "zone": "france"
   },
   {
+   "id": "cfacadb87baf",
+   "titre": "Japan sends up jets after alleged Russian incursion of its airspace",
+   "lien": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-17T07:44:17+00:00",
+   "extrait": "Taiwan and South Korea also responded to Russian military aircraft detected near their airspaces.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "c49a504fa298",
    "titre": "Procès de l’attaque d’un bar à Brest : « Vous dites vouloir casser des gauchos. C’est qui, les gauchos ? »",
    "lien": "https://www.lemonde.fr/societe/article/2026/11/17/proces-de-l-attaque-d-un-bar-a-brest-vous-dites-vouloir-casser-des-gauchos-c-est-qui-les-gauchos_6812923_3224.html",
    "source": "Le Monde",
-   "date": "2026-11-17T07:39:27+00:00",
+   "date": "2026-11-17T07:39:25+00:00",
    "extrait": "Suspectés d’appartenir à l’ultradroite, douze hommes étaient jugés pour l’attaque des clients d’un bar réputé de gauche, en septembre 2025. Habitués des tribunes du Stade brestois, les prévenus…",
    "tags": [
     "Conflits",
     "Justice"
    ],
    "zone": "france"
-  },
-  {
-   "id": "8956cf8b412c",
-   "titre": "Iran rules out nuclear site inspections until war ends",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
-   "source": "CBS News",
-   "date": "2026-11-17T07:33:31+00:00",
-   "extrait": "Iran says it will not let U.N. inspectors return to assess damaged nuclear sites until the war with the U.S. is \"permanently ended.\"",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
   },
   {
    "id": "52e8ede06ca5",
@@ -144,11 +228,11 @@
   },
   {
    "id": "364ad6b402bc",
-   "titre": "Défense, terres rares... Emmanuel Macron annonce un \"partenariat stratégique\" avec la Malaisie",
+   "titre": "Terres rares, défense... En Malaisie, Emmanuel Macron scelle un \"partenariat stratégique\"",
    "lien": "https://www.france24.com/fr/asie-pacifique/20261117-d%C3%A9fense-terres-rares-emmanuel-macron-annonce-un-partenariat-strat%C3%A9gique-avec-la-malaisie",
    "source": "France 24",
    "date": "2026-11-17T06:59:30+00:00",
-   "extrait": "La France ⁠et la Malaisie ont ​élevé mardi leurs relations bilatérales au rang de \"partenariat stratégique\", annonçant à l'occasion d'une ​visite d'Emmanuel Macron à Kuala Lumpur une série d'accords…",
+   "extrait": "En visite en Malaisie, Emmanuel Macron s'est félicité mardi en compagnie du Premier ministre malaisien Anwar Ibrahim du partenariat entre leurs deux pays sur les terres rares. Les deux hommes ont…",
    "tags": [
     "Politique"
    ],
@@ -156,7 +240,7 @@
   },
   {
    "id": "18dcb4b91415",
-   "titre": "En direct : nouvelle journée de mobilisation et de grève dans la fonction publique",
+   "titre": "En direct : nouvelle journée de mobilisation dans la fonction publique",
    "lien": "https://www.france24.com/fr/france/20261117-en-direct-nouvelle-journ%C3%A9e-mobilisation-gr%C3%A8ve-fonction-publique-gilets-jaunes-pouvoir-achat-%C3%A9tudiants-lyc%C3%A9ens",
    "source": "France 24",
    "date": "2026-11-17T06:57:54+00:00",
@@ -210,6 +294,30 @@
    "zone": "monde"
   },
   {
+   "id": "9b9203d2c2c2",
+   "titre": "\"On se bat pour que tous les agents puissent vivre dignement de leur travail\", explique la CFDT avant la mobilisation du 17 novembre",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/on-se-bat-pour-que-tous-les-agents-puissent-vivre-dignement-de-leur-travail-explique-la-cfdt-avant-la-mobilisation-du-17-novembre_8286053.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T06:14:51+00:00",
+   "extrait": "Vendredi 13 novembre, la CFDT a annoncé se joindre à l'appel à la grève et à la mobilisation des travailleurs de la fonction publique mardi pour réclamer des hausses générales de salaires, après…",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "92b7731d5aa3",
+   "titre": "\"On n'a pas encore de téléphone mais on est content de se retrouver\" : un mois après l'incendie de la mairie de Limoges, la vie communale se réorganise",
+   "lien": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/on-n-a-pas-encore-de-telephone-mais-on-est-content-de-se-retrouver-un-mois-apres-l-incendie-de-la-mairie-de-limoges-la-vie-communale-se-reorganise_8265095.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T06:14:04+00:00",
+   "extrait": "Un mois après les violences du 17 octobre, retour à Limoges, qui a vu sa mairie incendiée. Comment fonctionnent les services dans la deuxième ville de Nouvelle-Aquitaine ? Dans quel état d'esprit…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "8e56b09a1b28",
    "titre": "Le Sénat rejette la désindexation des retraites sur l'inflation prévue dans le budget de la Sécurité sociale",
    "lien": "https://www.franceinfo.fr/economie/budget/le-senat-rejette-la-desindexation-des-retraites-sur-l-inflation-prevue-dans-le-budget-de-la-securite-sociale_8286014.html#xtor=RSS-3-[lestitres]",
@@ -219,6 +327,28 @@
    "tags": [
     "Politique",
     "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "24941d81cc34",
+   "titre": "\"On espère une interdiction à l'échelle nationale\" : la Chine peine à maîtriser l'explosion de l'usage des sacs plastiques jetables",
+   "lien": "https://www.franceinfo.fr/monde/chine/on-espere-une-interdiction-a-l-echelle-nationale-la-chine-peine-a-maitriser-l-explosion-de-l-usage-des-sacs-plastiques-jetables_8285426.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T06:03:09+00:00",
+   "extrait": "La Chine, qui reste le premier émetteur mondial de gaz à effet de serre, est en train d’inverser la tendance en matière d'émissions de CO2. Par contre, le bilan est beaucoup plus critique concernant…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "80c42e3eab72",
+   "titre": "\"Des millions de petits leaders\" : en Serbie, après la surprise de la victoire de la liste des étudiants, la question du gouvernement collégial",
+   "lien": "https://www.franceinfo.fr/monde/europe/des-millions-de-petits-leaders-en-serbie-apres-la-surprise-de-la-victoire-de-la-liste-des-etudiants-la-question-du-gouvernement-collegial_8281205.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T06:02:49+00:00",
+   "extrait": "La Liste étudiante a créé la surprise aux élections législatives anticipées du 25 octobre. Elle est maintenant attendue au tournant par les Serbes, face à l'immense défi des changements à venir.",
+   "tags": [
+    "Politique"
    ],
    "zone": "france"
   },
@@ -260,18 +390,6 @@
    "zone": "france"
   },
   {
-   "id": "02ba7c2d802a",
-   "titre": "Grève et manifestations du 17 novembre : suivez la journée de mobilisation",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/direct-greve-et-manifestations-du-17-novembre-suivez-la-journee-de-mobilisation_8285927.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T05:50:02+00:00",
-   "extrait": "L'intersyndicale appelle les agents de la fonction publique à une nouvelle journée d'action pour réclamer une hausse des salaires face à l'inflation",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "0f9e930b361e",
    "titre": "EN DIRECT, guerre en Ukraine : les ponts Sud et Nord de la ville de Kiev fermés après avoir été touchés par des frappes russes",
    "lien": "https://www.lemonde.fr/international/live/2026/11/17/en-direct-guerre-en-ukraine-seoul-deploie-des-avions-apres-une-intrusion-russe-dans-sa-zone-de-defense-aerienne-taiwan-et-tokyo-egalement-en-alerte_6810982_3210.html",
@@ -303,6 +421,18 @@
    "date": "2026-11-17T05:35:04+00:00",
    "extrait": "La candidate Marine Le Pen, le patron du RN Jordan Bardella et le député Jean-Philippe Tanguy présentent mardi matin l'un des projets phares de leur programme : leur réforme des retraites, en vue de…",
    "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "fcc8499dba4c",
+   "titre": "Génocide des Tutsi : devant la cour d’assises de Paris, le procès du Rwandais Madjaliwa Safari et des tueries aux « barrières »",
+   "lien": "https://www.lemonde.fr/afrique/article/2026/11/17/genocide-des-tutsi-devant-la-cour-d-assises-de-paris-le-proces-du-rwandais-madjaliwa-safari-et-des-tueries-aux-barrieres_6812910_3212.html",
+   "source": "Le Monde",
+   "date": "2026-11-17T05:30:14+00:00",
+   "extrait": "Arrêté à Tours en 2023, le commerçant de 61 ans est poursuivi pour les faits imprescriptibles de « génocide » et « crimes contre l’humanité ». D’après plusieurs témoins, il aurait ordonné des…",
+   "tags": [
+    "Justice"
+   ],
    "zone": "france"
   },
   {
@@ -384,6 +514,19 @@
    "date": "2026-11-17T05:00:19+00:00",
    "extrait": "Les premières réactions au choix de Robert Pattinson sont globalement enthousiastes, notamment du côté de ses compatriotes.",
    "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "94b9a4320051",
+   "titre": "La présidence de la Fifa ou la quête sans fin d'un adversaire à Gianni Infantino",
+   "lien": "https://www.franceinfo.fr/sports/foot/la-presidence-de-la-fifa-ou-la-quete-sans-fin-d-un-adversaire-a-gianni-infantino_8285057.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T05:00:18+00:00",
+   "extrait": "Les candidats à la présidence de l'instance du football mondial, dont le président de la Fédération française de football Philippe Diallo porté par l'UEFA, ont jusqu'à ce mercredi pour déposer leur…",
+   "tags": [
+    "Politique",
+    "Sport"
+   ],
    "zone": "france"
   },
   {
@@ -511,6 +654,28 @@
    "extrait": "Le gouvernement vient de revoir à la hausse son estimation des recettes liées aux infractions routières. Elles devraient frôler 2,3 milliards d’euros en 2026, puis poursuivre leur progression grâce…",
    "tags": [
     "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "77911b803687",
+   "titre": "PFAS : comment le lobby des fluoropolymères manœuvre pour sauver ses polluants éternels d’une interdiction européenne",
+   "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/11/17/polluants-eternels-comment-le-lobby-des-fluoropolymeres-man-uvre-pour-sauver-ses-pfas-d-une-interdiction-europeenne_6812892_4355770.html",
+   "source": "Le Monde",
+   "date": "2026-11-17T04:30:03+00:00",
+   "extrait": "Dans un rapport publié mardi 17 novembre, Corporate Europe Observatory s’inquiète des reculs de la Commission européenne sur le projet de restriction universelle des PFAS, les polluants éternels…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "58e804345c15",
+   "titre": "Antibiotiques : les prescriptions et la consommation diminuent, notamment chez les enfants, mais les risques de l’antibiorésistance demeurent",
+   "lien": "https://www.lemonde.fr/sante/article/2026/11/17/antibiotiques-les-prescriptions-et-la-consommation-diminuent-notamment-chez-les-enfants-mais-les-risques-de-l-antibioresistance-demeurent_6812891_1651302.html",
+   "source": "Le Monde",
+   "date": "2026-11-17T04:30:03+00:00",
+   "extrait": "Santé publique France souligne une « baisse notable » en secteur de ville en 2025, par rapport à 2024, selon des données publiées mardi 17 novembre. Une tendance nécessitant de prendre le « temps de…",
+   "tags": [
+    "Santé"
    ],
    "zone": "france"
   },
@@ -1510,7 +1675,7 @@
   },
   {
    "id": "2276c1e1158b",
-   "titre": "Au procès des parents de l’« inconnue de l’A10 », un réquisitoire sobre, subtil et pédagogue",
+   "titre": "Au procès des parents de la « petite inconnue de l’A10 », un réquisitoire sobre, subtil et pédagogue",
    "lien": "https://www.lemonde.fr/societe/article/2026/11/16/au-proces-des-parents-de-l-inconnue-de-l-a10-un-requisitoire-sobre-subtil-et-pedagogue_6812394_3224.html",
    "source": "Le Monde",
    "date": "2026-11-16T20:19:08+00:00",
@@ -3245,165 +3410,6 @@
    "extrait": "Want to grow your $10,000 now? Here's how much interest you'd earn by depositing it into a 1-year CD account.",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "05d3eb8bba58",
-   "titre": "Estonia to close Russia border crossings after attempted drone factory arson attack",
-   "lien": "https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-16T14:22:36+00:00",
-   "extrait": "The Estonian government says Russia was behind the attempted sabotage, which the Kremlin denies.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "890ab1d0c857",
-   "titre": "Présidentielle 2027 : posez vos questions à Gabriel Attal, invité de \"L'Heure de vérité\"",
-   "lien": "https://www.franceinfo.fr/politique/gabriel-attal/appel-a-temoignages-presidentielle-2027-posez-vos-questions-a-gabriel-attal-invite-de-l-heure-de-verite_8284901.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-16T14:20:46+00:00",
-   "extrait": "L'ancien Premier ministre, candidat Renaissance à la présidentielle de 2027, est l'invité de Caroline Roux, jeudi soir sur France 2.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "70c99986ea86",
-   "titre": "Iran claims attacks against U.S. assets in Bahrain as another aircraft carrier enters Middle East",
-   "lien": "https://www.cbsnews.com/video/iran-claims-attacks-against-us-assets-in-bahrain-as-another-aircraft-carrier-enters-middle-east/",
-   "source": "CBS News",
-   "date": "2026-11-16T14:20:43+00:00",
-   "extrait": "Iran is claiming a set of attacks targeting U.S. assets in Bahrain as questions linger about the future of the war engulfing the Middle East. CBS News' Holly Williams reports.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "27f86f83db45",
-   "titre": "Nathalie Roret, ex-directrice de l’Ecole nationale de la magistrature, nommée Défenseure des enfants",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/16/nathalie-roret-ex-directrice-de-l-ecole-nationale-de-la-magistrature-nommee-defenseure-des-enfants_6811963_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-16T14:18:22+00:00",
-   "extrait": "Avocate pénaliste de formation, elle succède à Eric Delemar après plusieurs mois de vacance du poste, dénoncée par de nombreuses associations de protection de l’enfance.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "27cd211b776d",
-   "titre": "Trump headed to China to meet with Xi Jinping, Nvidia's Jensen Huang is not joining after scandals",
-   "lien": "https://www.cbsnews.com/video/trump-headed-to-china-to-meet-with-xi-jinping-nvidias-jensen-huang-is-not-joining-after-scandals/",
-   "source": "CBS News",
-   "date": "2026-11-16T14:13:06+00:00",
-   "extrait": "President Trump will meet with Xi Jinping in China. Notably absent will be Jensen Huang, the former CEO of Nvidia. CBS News' Niall Ferguson joins with more insight.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "6e1d514048d0",
-   "titre": "Dad charged for twins' viral party speaks out, says older teens were trespassing and crashing",
-   "lien": "https://www.cbsnews.com/video/dad-charged-for-twins-viral-party-speaks-out-says-older-teens-were-trespassing-and-crashing/",
-   "source": "CBS News",
-   "date": "2026-11-16T14:10:30+00:00",
-   "extrait": "Aubrey Vaughn, one of the parents facing charges for throwing his 13-year-old twins a party that grew out of control, spoke with Lilia Luciano about the incident as police bodycam footage shows the…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "b5ab65c43724",
-   "titre": "Should you renew a maturing CD account this November?",
-   "lien": "https://www.cbsnews.com/news/should-you-renew-maturing-cd-account-this-november/",
-   "source": "CBS News",
-   "date": "2026-11-16T14:08:20+00:00",
-   "extrait": "Have a CD account with a November maturity date looming? Here's what you should (and shouldn't) do next.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "7cc6667d6918",
-   "titre": "Trump set to meet with Xi Jinping and Vladimir Putin in China amid Nvidia scandal",
-   "lien": "https://www.cbsnews.com/video/trump-to-meet-xi-jinping-vladimir-putin-in-china-amid-nvidia-scandal/",
-   "source": "CBS News",
-   "date": "2026-11-16T14:08:08+00:00",
-   "extrait": "President Trump is set to meet with Russia's Vladimir Putin and China's Xi Jinping in China this week amid the fallout from the Nvidia scandal that rocked the tech world. Ed O'Keefe reports.",
-   "tags": [
-    "Politique",
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "51dacc66c4b2",
-   "titre": "Nightmare travel breakdown: What we know about the FAA ground stop",
-   "lien": "https://www.cbsnews.com/video/nightmare-travel-breakdown-what-we-know-about-the-faa-ground-stop/",
-   "source": "CBS News",
-   "date": "2026-11-16T14:05:43+00:00",
-   "extrait": "Travelers are still reeling from a nationwide ground stop that brought U.S. airports to a halt on Friday. Bruce Landsberg, a former NTSB vice chairman, joins with more insight, and Olivia Rinaldi…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "fbe1daf50c37",
-   "titre": "FAA battles backlash after nationwide ground stop",
-   "lien": "https://www.cbsnews.com/video/faa-battles-backlash-after-nationwide-ground-stop/",
-   "source": "CBS News",
-   "date": "2026-11-16T14:01:45+00:00",
-   "extrait": "The FAA is still troubleshooting after Friday's nationwide ground stop that canceled nearly 18,000 flights and delayed around 28,000 more. Kris Van Cleave reports.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "58ee6eb6ed12",
-   "titre": "Sarvam, symbole des ambitions indiennes dans la course mondiale à l’IA",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/16/sarvam-symbole-des-ambitions-indiennes-dans-la-course-mondiale-a-l-ia_6811900_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-16T14:00:03+00:00",
-   "extrait": "New Delhi mise sur cette start-up née il y a trois ans pour développer un modèle indien d’intelligence artificielle et ne plus dépendre des technologies étrangères, notamment américaines.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "5e2075e54063",
-   "titre": "Read full episode transcripts of \"Face the Nation with Margaret Brennan\" from 2026",
-   "lien": "https://www.cbsnews.com/face-the-nation/transcripts/",
-   "source": "CBS News",
-   "date": "2026-11-16T13:59:20+00:00",
-   "extrait": "Browse all of our full episode transcripts from 2026 of \"Face the Nation with Margaret Brennan.\"",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "776e96d65fec",
-   "titre": "L'Iran refuse tout accès à ses installations nucléaires avant la fin du conflit",
-   "lien": "https://www.france24.com/fr/asie-pacifique/20261116-iran-refuse-tout-acc%C3%A8s-installations-nucl%C3%A9aires-avant-fin-guerre",
-   "source": "France 24",
-   "date": "2026-11-16T13:54:34+00:00",
-   "extrait": "Les inspecteurs de l'AIEA ne pourront pas accéder aux installations nucléaires iraniennes tant que la guerre ne sera pas terminée, a affirmé un haut diplomate après que l'agence onusienne a exhorté…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "bae2d7d8da03",
-   "titre": "La mort de l’ancien maire de Grenoble Michel Destot, profil atypique au sein de la famille social-démocrate",
-   "lien": "https://www.lemonde.fr/disparitions/article/2026/11/16/la-mort-de-l-ancien-maire-de-grenoble-michel-destot-profil-atypique-au-sein-de-la-famille-social-democrate_6811898_3382.html",
-   "source": "Le Monde",
-   "date": "2026-11-16T13:49:59+00:00",
-   "extrait": "Ingénieur de formation, entrepreneur, il avait dirigé la cité iséroise de 1995 à 2014. Il s’est éteint le 14 novembre, à l’âge de 80 ans.",
-   "tags": [],
-   "zone": "france"
   }
  ]
 }
