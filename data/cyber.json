@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-17T22:05:41+00:00",
+ "maj": "2026-11-17T23:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "126567e065a7",
+   "titre": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+   "lien": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+   "source": "BleepingComputer",
+   "date": "2026-11-17T23:04:21+00:00",
+   "extrait": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications…",
+   "tags": [
+    "Faille"
+   ]
+  },
   {
    "id": "ddec81ba80b1",
    "titre": "Cloud keys leaked in Docker Hub images are stolen within seconds",
@@ -3383,18 +3394,6 @@
    "tags": [
     "Malware",
     "Outil"
-   ]
-  },
-  {
-   "id": "c4daeac5c98c",
-   "titre": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
-   "lien": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
-   "source": "BleepingComputer",
-   "date": "2026-11-06T17:04:23+00:00",
-   "extrait": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]",
-   "tags": [
-    "Faille",
-    "Fuite de données"
    ]
   }
  ]

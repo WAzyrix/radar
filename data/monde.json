@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-17T22:05:41+00:00",
+ "maj": "2026-11-17T23:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,37 +22,166 @@
  "erreurs": [],
  "articles": [
   {
-   "id": "c4da92541f77",
-   "titre": "Anthropic's IPO set for blastoff this week in key test for AI boom",
-   "lien": "https://www.cbsnews.com/news/anthropic-ipo-ai-boom-nasdaq-debut/",
-   "source": "CBS News",
-   "date": "2026-11-17T22:04:24+00:00",
-   "extrait": "Anthropic's stock is poised to start trading on Nasdaq Thursday in one of the largest IPOs of all time. The AI world is watching.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "0d227bcaafe4",
-   "titre": "Apple says internal update caused outage as services recover",
-   "lien": "https://www.cbsnews.com/news/apple-outage-icloud-apple-pay-services/",
-   "source": "CBS News",
-   "date": "2026-11-17T21:57:32+00:00",
-   "extrait": "The company's system status shows that some Apple services, including iCloud sign-in, are still experiencing issues.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "c2ffe56cf31d",
    "titre": "Nvidia sees strong growth in first earnings report without Huang",
    "lien": "https://www.cbsnews.com/news/nvidia-earnings-jensen-huang-colette-kress/",
    "source": "CBS News",
-   "date": "2026-11-17T21:55:02+00:00",
+   "date": "2026-11-17T23:01:01+00:00",
    "extrait": "Nvidia's latest earnings are the first time the chipmaker has reported financial results without founder and former CEO Jensen Huang at the helm.",
    "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "0d227bcaafe4",
+   "titre": "Apple restores services after internal update caused outages",
+   "lien": "https://www.cbsnews.com/news/apple-outage-icloud-apple-pay-services/",
+   "source": "CBS News",
+   "date": "2026-11-17T22:59:27+00:00",
+   "extrait": "The company's system status shows that all Apple services, including iCloud sign-in, have been restored after experiencing issues earlier Tuesday.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "fdafad9e7f10",
+   "titre": "Guerre en Ukraine : la France n'est \"évidemment pas cobelligérante\" et n'a \"pas l'intention de l'être\", assure le ministre Jean-Noël Barrot",
+   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-la-russie-estime-que-la-presence-de-soldats-francais-sur-le-terrain-equivaut-a-une-participation-directe-au-conflit_8286344.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T22:58:08+00:00",
+   "extrait": "Plusieurs dizaines de militaires français se trouvent en Ukraine pour de possibles actions de maintenance et de formation, selon les informations de RFI et du \"Monde\", confirmées par France…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "02ba7c2d802a",
+   "titre": "Mobilisation du 17 novembre : la CGT a recensé plus de 500 000 manifestants en France et le ministère de l'Intérieur 146 000",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/direct-greve-et-manifestations-du-17-novembre-suivez-la-journee-de-mobilisation_8285927.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T22:57:32+00:00",
+   "extrait": "Selon la CGT, la manifestation à Paris, mardi, a mobilisé 175 000 personnes. Le rassemblement a réuni 28 000 participants, d'après la préfecture de police de Paris.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "cf638a84dbbc",
+   "titre": "Man with ax destroys $60M U.S. military plane, prosecutors say",
+   "lien": "https://www.cbsnews.com/news/us-military-plane-irish-airport/",
+   "source": "CBS News",
+   "date": "2026-11-17T22:54:00+00:00",
+   "extrait": "Daithi O'Corrain, 48, is charged in the U.S. with destruction of U.S. government property in connection with the April incident at Shannon Airport.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "107a19612f43",
+   "titre": "Jensen Huang says he \"would be honored\" to return as Nvidia CEO",
+   "lien": "https://www.cbsnews.com/news/jensen-huang-nvidia-ceo-return-statement/",
+   "source": "CBS News",
+   "date": "2026-11-17T22:48:35+00:00",
+   "extrait": "Huang addressed a petition, signed by 190,000 people, including thousands of Nvidia employees, calling for his reinstatement.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "c07f218d12a7",
+   "titre": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+   "lien": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-17T22:46:30+00:00",
+   "extrait": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+   "tags": [
+    "Conflits",
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "4a3fdbb8a2e2",
+   "titre": "Man convicted in Iran-backed plot to kill Trump is sentenced",
+   "lien": "https://www.cbsnews.com/news/asif-merchant-sentencing-prison-iran-backed-plot-to-murder-trump/",
+   "source": "CBS News",
+   "date": "2026-11-17T22:46:04+00:00",
+   "extrait": "A man who was convicted of attempted terrorism and murder-for-hire plots, with potential targets including President Trump and former President Joe Biden, was sentenced to 27 1/2 years in federal…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "cabe00b875a3",
+   "titre": "Retired air traffic controller says he believes router issues caused national ground stop",
+   "lien": "https://www.cbsnews.com/video/retired-air-traffic-controller-says-belives-routers-cause-faa-meltdown/",
+   "source": "CBS News",
+   "date": "2026-11-17T22:40:41+00:00",
+   "extrait": "Transportation Secretary Sean Duffy said he did not drop the ball after the longest national shutdown of air travel since 9/11. The message comes after the Federal Aviation Administration said it is…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "c8a2414e47f1",
+   "titre": "\"Je serais honoré de reprendre mes fonctions de PDG\" : l'ex-patron de Nvidia, Jensen Huang, se dit ouvert à un retour à la tête de l'entreprise, cinq jours après sa démission",
+   "lien": "https://www.franceinfo.fr/internet/nvidia/je-serais-honore-de-reprendre-mes-fonctions-de-pdg-l-ex-patron-de-nvidia-jensen-huang-se-dit-ouvert-a-un-retour-a-la-tete-de-l-entreprise-cinq-jours-apres-sa-demission_8286938.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T22:30:40+00:00",
+   "extrait": "Le patron du géant américain des puces a annoncé jeudi sa démission après l'éclatement d'un scandale d'adultère et de contrebande de puces IA vers la Chine.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "5e63b490aac6",
+   "titre": "Des systèmes internes de la NSA, l'agence américaine de renseignement, \"affectés\" durant une opération de maintenance",
+   "lien": "https://www.franceinfo.fr/monde/usa/des-systemes-internes-de-la-nsa-l-agence-americaine-de-renseignement-affectes-durant-une-operation-de-maintenance_8287238.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T22:23:53+00:00",
+   "extrait": "La chaîne américaine CNN avait rapporté plus tôt mardi dans la journée que NSA Net, le réseau de communication interne utilisé par ses employés pour échanger des informations classifiées, était hors…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "8956cf8b412c",
+   "titre": "U.S. launches strikes on Iran's Qeshm Island in Strait of Hormuz",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
+   "source": "CBS News",
+   "date": "2026-11-17T22:23:33+00:00",
+   "extrait": "The strikes came after Iran launched attacks against U.S. radar systems in Bahrain three times in less than a week.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "b0c0d01f13e0",
+   "titre": "Matan Kahana, un fidèle de Gadi Eisenkot élu président du Parlement en Israël, coup dur pour Benyamin Nétanyahou",
+   "lien": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/matan-kahana-un-fidele-de-gadi-eisenkot-elu-president-du-parlement-en-israel-coup-dur-pour-benyamin-netanyahou_8287226.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T22:13:29+00:00",
+   "extrait": "Cet ancien membre des forces spéciales israéliennes, âgé de 54 ans, a été élu avec 66 voix sur les 120 que compte la Knesset.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "c4da92541f77",
+   "titre": "Anthropic's IPO set for blastoff this week in key test for AI boom",
+   "lien": "https://www.cbsnews.com/news/anthropic-ipo-ai-boom-nasdaq-debut/",
+   "source": "CBS News",
+   "date": "2026-11-17T22:10:49+00:00",
+   "extrait": "Anthropic's stock is poised to start trading on Nasdaq Thursday in one of the largest IPOs of all time. The AI world is watching.",
+   "tags": [
+    "Tech"
+   ],
    "zone": "usa"
   },
   {
@@ -73,7 +202,7 @@
    "lien": "https://www.lemonde.fr/societe/article/2026/11/17/proces-des-parents-de-la-petite-inconnue-de-l-a10-la-mere-condamnee-a-vingt-ans-de-reclusion-le-pere-a-quinze-ans_6813049_3224.html",
    "source": "Le Monde",
    "date": "2026-11-17T21:40:44+00:00",
-   "extrait": "Cette décision marque l’aboutissement, trente-neuf ans après les faits, d’un des plus anciens « cold cases » français, objet de plusieurs livres et documentaires.",
+   "extrait": "Les deux accusés sont incarcérés immédiatement avec cette décision, qui marque l’aboutissement, trente-neuf ans après les faits, d’un des plus anciens « cold cases » français, objet de plusieurs…",
    "tags": [
     "Justice"
    ],
@@ -111,18 +240,6 @@
    "date": "2026-11-17T21:29:38+00:00",
    "extrait": "\"CBS Mornings\" executive producer",
    "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "8956cf8b412c",
-   "titre": "U.S. launches strikes on Iran's Qeshm Island in Strait of Hormuz",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
-   "source": "CBS News",
-   "date": "2026-11-17T21:29:04+00:00",
-   "extrait": "The strikes came after Iran launched attacks against U.S. radar systems in Bahrain three times in less than a week.",
-   "tags": [
-    "Conflits"
-   ],
    "zone": "usa"
   },
   {
@@ -207,7 +324,7 @@
   },
   {
    "id": "31c7e24129a2",
-   "titre": "Russian military plane crashes killing all 19 on board",
+   "titre": "Russian military plane crashes, killing all 19 on board",
    "lien": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-17T21:06:11+00:00",
@@ -294,19 +411,6 @@
    "zone": "france"
   },
   {
-   "id": "c07f218d12a7",
-   "titre": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-   "lien": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-17T20:44:54+00:00",
-   "extrait": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-   "tags": [
-    "Conflits",
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
    "id": "55f532f3c116",
    "titre": "Un rapport parlementaire sur la prostitution des mineurs appelle à \"renverser la charge de la preuve\" pour mieux lutter contre ce phénomène qui \"ne cesse d'augmenter\"",
    "lien": "https://www.franceinfo.fr/societe/prostitution/un-rapport-parlementaire-sur-la-prostitution-des-mineurs-appelle-a-renverser-la-charge-de-la-preuve-pour-mieux-lutter-contre-ce-phenomene-qui-ne-cesse-d-augmenter_8287169.html#xtor=RSS-3-[lestitres]",
@@ -373,6 +477,18 @@
     "Économie"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "aa100448c336",
+   "titre": "Cancer du pancréas : la Commission européenne donne son feu vert à un nouveau traitement",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/17/cancer-du-pancreas-la-commission-europeenne-donne-son-feu-vert-a-un-nouveau-traitement_6813042_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-17T20:21:40+00:00",
+   "extrait": "L’essai clinique mené par Revolution Medicines, la biotech américaine à l’origine du daraxonrasib, montre un doublement de la survie médiane chez les patients l’ayant reçu.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "france"
   },
   {
    "id": "a1e588c301e7",
@@ -506,31 +622,6 @@
     "Économie"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "c8a2414e47f1",
-   "titre": "\"Je serais honoré de reprendre mes fonctions de PDG\" : l'ex-patron de Nvidia, Jensen Huang, se dit ouvert à un retour à la tête de l'entreprise, cinq jours après sa démission",
-   "lien": "https://www.franceinfo.fr/internet/nvidia/je-serais-honore-de-reprendre-mes-fonctions-de-pdg-l-ex-patron-de-nvidia-jensen-huang-se-dit-ouvert-a-un-retour-a-la-tete-de-l-entreprise-cinq-jours-apres-sa-demission_8286938.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T19:19:33+00:00",
-   "extrait": "Le patron du géant américain des puces a annoncé jeudi sa démission après l'éclatement d'un scandale d'adultère et de contrebande de puces IA vers la Chine.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "fdafad9e7f10",
-   "titre": "Guerre en Ukraine : la France n'est \"évidemment pas cobelligérante\" et n'a \"pas l'intention de l'être\", assure le ministre Jean-Noël Barrot",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-la-russie-estime-que-la-presence-de-soldats-francais-sur-le-terrain-equivaut-a-une-participation-directe-au-conflit_8286344.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T19:14:31+00:00",
-   "extrait": "Plusieurs dizaines de militaires français se trouvent en Ukraine pour de possibles actions de maintenance et de formation, selon les informations de RFI et du \"Monde\", confirmées par France…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
   },
   {
    "id": "bf78226b8592",
@@ -925,27 +1016,13 @@
   },
   {
    "id": "5b565cfaa495",
-   "titre": "Huang says he'd be \"honored\" to return to Nvidia as he agrees to testify to Congress",
+   "titre": "Nvidia board says it does not intend to reinstate Jensen Huang as CEO",
    "lien": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
    "source": "NPR",
    "date": "2026-11-17T17:36:31+00:00",
-   "extrait": "The former Nvidia CEO's comments come as some in Silicon Valley have tried to argue that Huang was pushed out of the company too quickly amid a swirl of national security scandals.",
-   "tags": [
-    "Politique"
-   ],
+   "extrait": "The former Nvidia CEO said he would be \"honored\" to return if the board allowed. But the board says it has no intention of reinstating him.",
+   "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "02ba7c2d802a",
-   "titre": "Mobilisation du 17 novembre : la CGT a recensé plus de 500 000 manifestants en France et le ministère de l'Intérieur 146 000",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/direct-greve-et-manifestations-du-17-novembre-suivez-la-journee-de-mobilisation_8285927.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T17:33:29+00:00",
-   "extrait": "Selon la CGT, la manifestation à Paris, mardi, a mobilisé 175 000 personnes. Le rassemblement a réuni 28 000 participants, d'après la préfecture de police de Paris.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
   },
   {
    "id": "0ed8818a1cc0",
@@ -1109,16 +1186,6 @@
    "extrait": "Quel goût vous ramène instantanément en enfance ? Avec “Rue du Goût Perdu”, ces souvenirs d'enfance deviennent le point de départ d'un projet autour de la gastronomie et de la transmission.",
    "tags": [],
    "zone": "monde"
-  },
-  {
-   "id": "107a19612f43",
-   "titre": "Jensen Huang says he \"would be honored\" to return as Nvidia CEO",
-   "lien": "https://www.cbsnews.com/news/jensen-huang-nvidia-ceo-return-statement/",
-   "source": "CBS News",
-   "date": "2026-11-17T16:59:55+00:00",
-   "extrait": "Huang addressed a petition, signed by 190,000 people, including thousands of Nvidia employees, calling for his reinstatement.",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "421ceced829a",
@@ -3382,78 +3449,6 @@
     "Climat"
    ],
    "zone": "france"
-  },
-  {
-   "id": "8e56b09a1b28",
-   "titre": "Le Sénat rejette la désindexation des retraites sur l'inflation prévue dans le budget de la Sécurité sociale",
-   "lien": "https://www.franceinfo.fr/economie/budget/le-senat-rejette-la-desindexation-des-retraites-sur-l-inflation-prevue-dans-le-budget-de-la-securite-sociale_8286014.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T06:04:35+00:00",
-   "extrait": "Les sénateurs ont adopté des amendements supprimant entièrement cette mesure susceptible de rapporter environ 4 milliards d'euros. La majorité de droite et du centre a toutefois promis d'accepter…",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "24941d81cc34",
-   "titre": "\"On espère une interdiction à l'échelle nationale\" : la Chine peine à maîtriser l'explosion de l'usage des sacs plastiques jetables",
-   "lien": "https://www.franceinfo.fr/monde/chine/on-espere-une-interdiction-a-l-echelle-nationale-la-chine-peine-a-maitriser-l-explosion-de-l-usage-des-sacs-plastiques-jetables_8285426.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T06:03:09+00:00",
-   "extrait": "La Chine, qui reste le premier émetteur mondial de gaz à effet de serre, est en train d’inverser la tendance en matière d'émissions de CO2. Par contre, le bilan est beaucoup plus critique concernant…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "80c42e3eab72",
-   "titre": "\"Des millions de petits leaders\" : en Serbie, après la surprise de la victoire de la liste des étudiants, la question du gouvernement collégial",
-   "lien": "https://www.franceinfo.fr/monde/europe/des-millions-de-petits-leaders-en-serbie-apres-la-surprise-de-la-victoire-de-la-liste-des-etudiants-la-question-du-gouvernement-collegial_8281205.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T06:02:49+00:00",
-   "extrait": "La Liste étudiante a créé la surprise aux élections législatives anticipées du 25 octobre. Elle est maintenant attendue au tournant par les Serbes, face à l'immense défi des changements à venir.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "dc0ab4d6d69d",
-   "titre": "Un possible sommet entre Donald Trump et Kim Jong-un en Chine",
-   "lien": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/un-possible-sommet-entre-donald-trump-et-kim-jong-un-en-chine_8265071.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T06:02:42+00:00",
-   "extrait": "Les rumeurs vont bon train sur une quatrième rencontre possible entre les présidents américain et nord-coréen, relayées par Donald Trump lui-même. Elle pourrait avoir lieu rapidement en marge du…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "e70c6c1d17cb",
-   "titre": "« Inside Deutsche Bank » : malgré les scandales et la guerre en Ukraine, la banque a tenté de préserver son activité avec les Russes",
-   "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/11/17/inside-deutsche-bank-malgre-les-scandales-et-la-guerre-en-ukraine-la-banque-a-tente-de-preserver-son-activite-avec-les-russes_6812915_4355770.html",
-   "source": "Le Monde",
-   "date": "2026-11-17T06:00:15+00:00",
-   "extrait": "Pour l’établissement bancaire, la Russie représente un marché historique et fructueux alimenté par une clientèle de sociétés publiques aux pratiques douteuses et par des oligarques au profil…",
-   "tags": [
-    "Économie",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "b1602a2dbd67",
-   "titre": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-   "lien": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-17T05:59:01+00:00",
-   "extrait": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
   }
  ]
 }
