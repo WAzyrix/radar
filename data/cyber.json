@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-17T13:05:40+00:00",
+ "maj": "2026-11-17T14:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -204,6 +204,106 @@
     "Fuite de données",
     "Malware",
     "Mobile"
+   ]
+  },
+  {
+   "id": "ff27d1bc4d8d",
+   "titre": "Multiples vulnérabilités dans Typo3 (17 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1553/",
+   "source": "CERT-FR",
+   "date": "2026-11-17T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Typo3. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "cbabf9def069",
+   "titre": "Vulnérabilité dans Juniper Networks Junos OS Evolved (17 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1551/",
+   "source": "CERT-FR",
+   "date": "2026-11-17T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans Juniper Networks Junos OS Evolved. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "2526279d7ab9",
+   "titre": "Multiples vulnérabilités dans Mitel MiCollab (17 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1547/",
+   "source": "CERT-FR",
+   "date": "2026-11-17T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Mitel MiCollab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "d6b7664b8942",
+   "titre": "Multiples vulnérabilités dans Tenable Identity Exposure (17 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1550/",
+   "source": "CERT-FR",
+   "date": "2026-11-17T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Tenable Identity Exposure. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "682364e58027",
+   "titre": "Vulnérabilité dans Axis OS (17 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1549/",
+   "source": "CERT-FR",
+   "date": "2026-11-17T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans Axis OS. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "24276bc349e1",
+   "titre": "Multiples vulnérabilités dans Microsoft SharePoint (17 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1555/",
+   "source": "CERT-FR",
+   "date": "2026-11-17T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Microsoft SharePoint. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.",
+   "tags": [
+    "Faille",
+    "Windows"
+   ]
+  },
+  {
+   "id": "c6314557a390",
+   "titre": "Multiples vulnérabilités dans OpenSSL (17 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1554/",
+   "source": "CERT-FR",
+   "date": "2026-11-17T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans OpenSSL. Elles permettent à un attaquant de provoquer un déni de service à distance.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "2f3a12e8cddb",
+   "titre": "Vulnérabilité dans GLPI (17 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1548/",
+   "source": "CERT-FR",
+   "date": "2026-11-17T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans GLPI. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "691d3a31b013",
+   "titre": "Multiples vulnérabilités dans GitLab (17 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1552/",
+   "source": "CERT-FR",
+   "date": "2026-11-17T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des…",
+   "tags": [
+    "Faille"
    ]
   },
   {
@@ -3301,106 +3401,6 @@
    "date": "2026-11-06T11:30:00+00:00",
    "extrait": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the…",
    "tags": []
-  },
-  {
-   "id": "0b2d6f426478",
-   "titre": "War.app - Le jeu de conquête où personne n'attend son tour",
-   "lien": "https://korben.info/war-app-warzone-risk-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-11-06T09:58:12+00:00",
-   "extrait": "Warzone s'appelle War.app depuis avril, après un accord avec Activision. Le jeu ne change pas : une carte du monde, des ordres donnés par tous en même temps, pas de dés par défaut, et c'est gratuit…",
-   "tags": []
-  },
-  {
-   "id": "3dc5acb5ec70",
-   "titre": "Comment activer XeSS et sa génération de frames en x4 dans vos jeux Linux",
-   "lien": "https://korben.info/xess-xmx-linux-proton.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-11-06T09:44:47+00:00",
-   "extrait": "Le projet communautaire xess-xmx-linux fait tourner la vraie XeSS d'Intel sur les unités XMX des Arc dans les jeux Proton, frame generation 3x et 4x comprise. Matériel concerné, installation…",
-   "tags": [
-    "Linux"
-   ]
-  },
-  {
-   "id": "3a8f9a3bb5fd",
-   "titre": "MetaMask says recent attack didn't affect wallet infrastructure",
-   "lien": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
-   "source": "BleepingComputer",
-   "date": "2026-11-06T09:22:28+00:00",
-   "extrait": "Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]",
-   "tags": []
-  },
-  {
-   "id": "6facdf5f94df",
-   "titre": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
-   "lien": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
-   "source": "The Hacker News",
-   "date": "2026-11-06T08:04:49+00:00",
-   "extrait": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens…",
-   "tags": [
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "ed60ea7fa412",
-   "titre": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
-   "lien": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
-   "source": "The Hacker News",
-   "date": "2026-11-06T05:58:54+00:00",
-   "extrait": "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week. The backdoored…",
-   "tags": [
-    "Fuite de données",
-    "Malware",
-    "Linux"
-   ]
-  },
-  {
-   "id": "a382c3d13c65",
-   "titre": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
-   "lien": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
-   "source": "The Hacker News",
-   "date": "2026-11-06T05:39:10+00:00",
-   "extrait": "Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required. The company released…",
-   "tags": [
-    "CVE",
-    "Faille"
-   ]
-  },
-  {
-   "id": "97d7db0e7e4a",
-   "titre": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
-   "lien": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
-   "source": "BleepingComputer",
-   "date": "2026-11-06T00:56:44+00:00",
-   "extrait": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards…",
-   "tags": [
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "558c564e4462",
-   "titre": "Multiples vulnérabilités dans le noyau Linux de SUSE (06 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1470/",
-   "source": "CERT-FR",
-   "date": "2026-11-06T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une…",
-   "tags": [
-    "Faille",
-    "Linux"
-   ]
-  },
-  {
-   "id": "2175c1bcff38",
-   "titre": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (06 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1469/",
-   "source": "CERT-FR",
-   "date": "2026-11-06T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à…",
-   "tags": [
-    "Faille",
-    "Linux"
-   ]
   }
  ]
 }
