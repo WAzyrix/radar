@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-17T17:05:43+00:00",
+ "maj": "2026-11-17T18:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,15 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "6b32b3a76586",
+   "titre": "Tor releases emergency update amid ongoing DDoS attack",
+   "lien": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
+   "source": "BleepingComputer",
+   "date": "2026-11-17T18:04:15+00:00",
+   "extrait": "[...]",
+   "tags": []
+  },
   {
    "id": "3241c5d0e909",
    "titre": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
@@ -3390,20 +3399,6 @@
    "extrait": "D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]",
    "tags": [
     "Faille"
-   ]
-  },
-  {
-   "id": "649e0d8b078e",
-   "titre": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
-   "lien": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
-   "source": "The Hacker News",
-   "date": "2026-11-06T12:06:43+00:00",
-   "extrait": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The fixed build…",
-   "tags": [
-    "CVE",
-    "Faille",
-    "Fuite de données",
-    "Windows"
    ]
   }
  ]
