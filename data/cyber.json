@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-17T11:05:39+00:00",
+ "maj": "2026-11-17T12:05:47+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,41 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "5e43b1695ab6",
+   "titre": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
+   "lien": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
+   "source": "The Hacker News",
+   "date": "2026-11-17T11:20:18+00:00",
+   "extrait": "Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft…",
+   "tags": [
+    "Malware",
+    "Outil",
+    "Windows"
+   ]
+  },
+  {
+   "id": "1dc4676c8263",
+   "titre": "Microsoft testing Remote Lock for lost or stolen Windows devices",
+   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
+   "source": "BleepingComputer",
+   "date": "2026-11-17T11:19:51+00:00",
+   "extrait": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
+   "tags": [
+    "Windows"
+   ]
+  },
+  {
+   "id": "cb74b2746cc6",
+   "titre": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
+   "lien": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
+   "source": "The Hacker News",
+   "date": "2026-11-17T11:07:31+00:00",
+   "extrait": "Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents. The changes…",
+   "tags": [
+    "IA"
+   ]
+  },
   {
    "id": "aa8cc5fe6d3d",
    "titre": "Faux coursiers bancaires : trois équipes interpellées",
@@ -3361,40 +3396,6 @@
    "source": "CERT-FR",
    "date": "2026-11-06T00:00:00+00:00",
    "extrait": "Une vulnérabilité a été découverte dans les produits Mitel. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "0d44818266ae",
-   "titre": "Multiples vulnérabilités dans le noyau Linux de Red Hat (06 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1471/",
-   "source": "CERT-FR",
-   "date": "2026-11-06T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une…",
-   "tags": [
-    "Faille",
-    "Linux"
-   ]
-  },
-  {
-   "id": "2721bf645f20",
-   "titre": "Multiples vulnérabilités dans les produits Foxit (06 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1478/",
-   "source": "CERT-FR",
-   "date": "2026-11-06T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Foxit. Elles permettent à un attaquant de provoquer une falsification de requêtes côté serveur (SSRF) et une injection de code…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "cbf7339c4f96",
-   "titre": "Multiples vulnérabilités dans les produits IBM (06 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1472/",
-   "source": "CERT-FR",
-   "date": "2026-11-06T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de…",
    "tags": [
     "Faille"
    ]
