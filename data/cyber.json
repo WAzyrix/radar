@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-17T07:05:39+00:00",
+ "maj": "2026-11-17T08:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,40 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "8093d6fa14bc",
+   "titre": "Cyberattaque : 765 000 euros d’or dérobés à des clients",
+   "lien": "https://www.zataz.com/cyberattaque-765-000-euros-dor-derobes-a-des-clients/",
+   "source": "Zataz",
+   "date": "2026-11-17T07:47:16+00:00",
+   "extrait": "Cyberattaque et vol de données clients : de faux policiers dérobent au moins 765 000 euros d'or en France.",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "d51a92f2bc9a",
+   "titre": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
+   "lien": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
+   "source": "BleepingComputer",
+   "date": "2026-11-17T07:25:44+00:00",
+   "extrait": "A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]",
+   "tags": [
+    "Ransomware"
+   ]
+  },
+  {
+   "id": "50868e3a64c2",
+   "titre": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
+   "lien": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
+   "source": "The Hacker News",
+   "date": "2026-11-17T07:12:13+00:00",
+   "extrait": "An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers' websites load from the service, Optimizely said early today. Visitors to…",
+   "tags": [
+    "Faille",
+    "Mobile"
+   ]
+  },
   {
    "id": "e5f38235f326",
    "titre": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
@@ -3365,42 +3399,6 @@
    "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à…",
    "tags": [
     "Faille"
-   ]
-  },
-  {
-   "id": "dcd0d1d2d30c",
-   "titre": "Vulnérabilité dans Alpine (06 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1480/",
-   "source": "CERT-FR",
-   "date": "2026-11-06T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans Alpine. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "05b97f8020c0",
-   "titre": "Multiples vulnérabilités dans Mattermost Server (06 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1479/",
-   "source": "CERT-FR",
-   "date": "2026-11-06T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "886e9406677f",
-   "titre": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
-   "lien": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
-   "source": "BleepingComputer",
-   "date": "2026-11-05T21:30:30+00:00",
-   "extrait": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google…",
-   "tags": [
-    "Fuite de données",
-    "Malware",
-    "IA",
-    "Windows"
    ]
   }
  ]
