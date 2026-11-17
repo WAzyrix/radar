@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-17T12:05:47+00:00",
+ "maj": "2026-11-17T13:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,30 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "6085ef54790f",
+   "titre": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+   "lien": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+   "source": "The Hacker News",
+   "date": "2026-11-17T12:25:06+00:00",
+   "extrait": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In…",
+   "tags": [
+    "Fuite de données",
+    "Outil"
+   ]
+  },
+  {
+   "id": "b69860df4218",
+   "titre": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
+   "lien": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
+   "source": "The Hacker News",
+   "date": "2026-11-17T12:14:36+00:00",
+   "extrait": "A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped \"Don't Allow\" on the microphone prompt. The first security updates with the fix came…",
+   "tags": [
+    "Faille",
+    "Mobile"
+   ]
+  },
   {
    "id": "5e43b1695ab6",
    "titre": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
@@ -3376,28 +3400,6 @@
    "tags": [
     "Faille",
     "Linux"
-   ]
-  },
-  {
-   "id": "ae72c64da24b",
-   "titre": "Vulnérabilité dans les produits VMware (06 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1474/",
-   "source": "CERT-FR",
-   "date": "2026-11-06T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans les produits VMware. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "4d3a1e4f9e3d",
-   "titre": "Vulnérabilité dans les produits Mitel (06 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1477/",
-   "source": "CERT-FR",
-   "date": "2026-11-06T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans les produits Mitel. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-   "tags": [
-    "Faille"
    ]
   }
  ]
