@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-17T18:05:40+00:00",
+ "maj": "2026-11-17T19:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "a2076d4177b9",
+   "titre": "Researchers hijack Hugging Face account for popular Kokoro AI model",
+   "lien": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
+   "source": "BleepingComputer",
+   "date": "2026-11-17T18:21:24+00:00",
+   "extrait": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web…",
+   "tags": [
+    "IA"
+   ]
+  },
   {
    "id": "6b32b3a76586",
    "titre": "Tor releases emergency update amid ongoing DDoS attack",
@@ -3388,17 +3399,6 @@
    "tags": [
     "Fuite de données",
     "Outil"
-   ]
-  },
-  {
-   "id": "d0b8b49f25ce",
-   "titre": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
-   "lien": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
-   "source": "BleepingComputer",
-   "date": "2026-11-06T12:37:22+00:00",
-   "extrait": "D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]",
-   "tags": [
-    "Faille"
    ]
   }
  ]

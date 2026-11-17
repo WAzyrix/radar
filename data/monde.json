@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-17T18:05:40+00:00",
+ "maj": "2026-11-17T19:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,23 +22,288 @@
  "erreurs": [],
  "articles": [
   {
-   "id": "0c7c33d40dbd",
-   "titre": "NSA's classified internal network goes down, sources say",
-   "lien": "https://www.cbsnews.com/news/nsa-network-down-classified-fort-meade/",
-   "source": "CBS News",
-   "date": "2026-11-17T17:48:31+00:00",
-   "extrait": "Two U.S. officials tell CBS News that as of Tuesday at noon, there is no evidence of a cyberattack.",
+   "id": "bf78226b8592",
+   "titre": "\"C'est grâce à ce jour que ça continue aujourd'hui\" : un mois après le 17 octobre, le cortège parisien se souvient d'une journée de mobilisation imparfaite mais \"déterminante\"",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/reportage-c-est-grace-a-ce-jour-que-ca-continue-aujourd-hui-un-mois-apres-le-17-octobre-le-cortege-parisien-se-souvient-d-une-journee-de-mobilisation-imparfaite-mais-determinante_8286404.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T19:01:24+00:00",
+   "extrait": "Les Français étaient de nouveau appelés à manifester mardi, notamment à l'appel de l'intersyndicale de la fonction publique. L'occasion de s'interroger, alors que les cortèges ne font plus le plein…",
    "tags": [],
-   "zone": "usa"
+   "zone": "france"
+  },
+  {
+   "id": "2cf43664a579",
+   "titre": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
+   "lien": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-17T18:58:57+00:00",
+   "extrait": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
   },
   {
    "id": "8956cf8b412c",
    "titre": "Iran claims another attack targeting U.S. radar site in Bahrain",
    "lien": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
    "source": "CBS News",
-   "date": "2026-11-17T17:46:35+00:00",
+   "date": "2026-11-17T18:52:08+00:00",
    "extrait": "Iran has claimed to hit U.S. radar systems in Bahrain three times in less than a week, but authorities said the first two attacks were intercepted.",
    "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "6c1a38965d98",
+   "titre": "Nvidia forms export control panel amid concerns over China sales",
+   "lien": "https://www.cbsnews.com/news/nvidia-export-control-committee-china-chips/",
+   "source": "CBS News",
+   "date": "2026-11-17T18:52:04+00:00",
+   "extrait": "Chipmaker creates new committee amid growing concerns that it has allowed restricted products to reach China.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "0792824481cb",
+   "titre": "Francophonie : face à l'impasse, l'élection du secrétaire général repoussée d'un an",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261117-francophonie-face-%C3%A0-l-impasse-l-%C3%A9lection-du-secr%C3%A9taire-g%C3%A9n%C3%A9ral-repouss%C3%A9e-d-un-an",
+   "source": "France 24",
+   "date": "2026-11-17T18:51:17+00:00",
+   "extrait": "L'élection du secrétaire général de l'Organisation internationale de la Francophonie (OIF), au coeur d'un bras de fer entre République démocratique du Congo et Rwanda, a été reportée d'un an lundi…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "a749c379e77e",
+   "titre": "Pourquoi la Russie accuse la France de \"participer directement\" à la guerre en Ukraine",
+   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/pourquoi-la-russie-accuse-la-france-de-participer-directement-a-la-guerre-en-ukraine_8286422.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T18:47:07+00:00",
+   "extrait": "Radio France internationale a révélé l'existence d'un détachement de l'armée française sur le sol ukrainien. Le gouvernement français assure que ces militaires ne participent pas aux combats.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "a28936889cee",
+   "titre": "Nicolas Thierry récompensé par le prix Earthshot pour son combat contre les PFAS en France",
+   "lien": "https://www.lemonde.fr/planete/article/2026/11/17/nicolas-thierry-recompense-par-le-prix-earthshot-pour-son-combat-contre-les-pfas-en-france_6813033_3244.html",
+   "source": "Le Monde",
+   "date": "2026-11-17T18:45:25+00:00",
+   "extrait": "Fils et petit-fils de viticulteurs, l’élu de Gironde a fait de la lutte contre la pollution chimique le fil conducteur de son engagement. Sa campagne contre les PFAS a abouti en 2025 à une loi…",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "78290633f8a8",
+   "titre": "Anthropic files for IPO as it competes for AI dominance",
+   "lien": "https://www.cbsnews.com/news/anthropic-ipo-plans-ai-safety/",
+   "source": "CBS News",
+   "date": "2026-11-17T18:41:01+00:00",
+   "extrait": "Anthropic, which developed the Claude chatbot, is barreling ahead with its public offering despite mounting concerns about AI going rogue.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "fdafad9e7f10",
+   "titre": "Guerre en Ukraine : la France n'est \"évidemment pas cobelligérante\" et n'a \"pas l'intention de l'être\", assure le ministre Jean-Noël Barrot",
+   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-la-russie-estime-que-la-presence-de-soldats-francais-sur-le-terrain-equivaut-a-une-participation-directe-au-conflit_8286344.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T18:35:06+00:00",
+   "extrait": "Plusieurs dizaines de militaires français se trouvent en Ukraine pour de possibles actions de maintenance et de formation, selon les informations de RFI et du \"Monde\", confirmées par France…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "2ab58983706a",
+   "titre": "Iran launches third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
+   "lien": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
+   "source": "NPR",
+   "date": "2026-11-17T18:34:31+00:00",
+   "extrait": "Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, its third attack in recent days on American military targets in the Gulf island kingdom after a roughly two-month lull in fighting.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "3b1513b1d4d3",
+   "titre": "En Israël, la police et le renseignement intérieur accusés d’avoir servi le clan Nétanyahou pour contester les résultats des législatives",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/17/en-israel-la-police-et-le-renseignement-interieur-accuses-d-avoir-servi-le-clan-netanyahou-pour-contester-les-resultats-des-legislatives_6813031_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-17T18:30:04+00:00",
+   "extrait": "Trois semaines après les législatives, aucun élément concret ne vient étayer les accusations de « fraude massive » portées par le premier ministre, Benyamin Nétanyahou, et relayées par la police et…",
+   "tags": [
+    "Politique",
+    "Conflits",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "1fd139b8009f",
+   "titre": "« Les Empêchés » fait le récit intime et politique d’un couple face à la maladie de Charcot",
+   "lien": "https://www.lemonde.fr/idees/article/2026/11/17/les-empeches-fait-le-recit-intime-et-politique-d-un-couple-face-au-handicap_6813032_3232.html",
+   "source": "Le Monde",
+   "date": "2026-11-17T18:30:02+00:00",
+   "extrait": "Lamia El Aaraje, première adjointe à la Mairie de Paris, et son mari, Julien Parelon, racontent l’irruption de la maladie dans leurs vies, et les nombreux obstacles médicaux, matériels ou…",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "0c7c33d40dbd",
+   "titre": "NSA's classified internal network goes down, sources say",
+   "lien": "https://www.cbsnews.com/news/nsa-network-down-classified-fort-meade/",
+   "source": "CBS News",
+   "date": "2026-11-17T18:30:00+00:00",
+   "extrait": "Two U.S. officials tell CBS News that so far there is no evidence of a cyberattack.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "eba27738fbf9",
+   "titre": "Classified NSA network goes down, sources say",
+   "lien": "https://www.cbsnews.com/video/classified-nsa-network-goes-down-sources-say/",
+   "source": "CBS News",
+   "date": "2026-11-17T18:29:36+00:00",
+   "extrait": "The National Security Agency's internal network for sharing and storing classified information went offline Tuesday, according to multiple U.s. officials familiar with the situation. CBS News'…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "4b6f10c89569",
+   "titre": "UK sanctions firms over Israeli West Bank settlements",
+   "lien": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-17T18:27:27+00:00",
+   "extrait": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "b562d24825e5",
+   "titre": "Refus d'\"alliance avec les extrêmes\", participation à deux euros... les premières modalités de la primaire de la droite et du centre dévoilées",
+   "lien": "https://www.franceinfo.fr/elections/refus-d-alliance-avec-les-extremes-participation-a-deux-euros-les-premieres-modalites-de-la-primaire-de-la-droite-et-du-centre-devoilees_8286980.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T18:25:46+00:00",
+   "extrait": "L'entourage de Gabriel Attal affirme que les premières modalités de la primaire de la droite et du centre ont été acceptées par les trois principaux candidats.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "0b24e9807bc5",
+   "titre": "CAN 2027: l'Algérie s'écroule au Togo, la Tunisie ne gagne toujours pas",
+   "lien": "https://www.france24.com/fr/sports/20261117-can-2027-l-alg%C3%A9rie-s-%C3%A9croule-au-togo-la-tunisie-ne-gagne-toujours-pas",
+   "source": "France 24",
+   "date": "2026-11-17T18:24:54+00:00",
+   "extrait": "L'Algérie avait besoin d'une victoire pour espérer une qualification dès la 4e journée de ces éliminatoires de la CAN 2027. À la place, les Fennecs se sont complètement écroulés au Togo (3-0). La…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "b83c0d1555a4",
+   "titre": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+   "lien": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-17T18:24:21+00:00",
+   "extrait": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "bd0facb5c4ea",
+   "titre": "Les Etats-Unis perdent leur statut de pays ayant éliminé la rougeole, à l'instar du Mexique et de la Bolivie",
+   "lien": "https://www.franceinfo.fr/sante/les-etats-unis-perdent-leur-statut-de-pays-ayant-elimine-la-rougeole-a-l-instar-du-mexique-et-de-la-bolivie_8286896.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T18:16:11+00:00",
+   "extrait": "Le gouvernement de Donald Trump est accusé d'avoir largement contribué à cette crise sanitaire, du fait de ses coupes dans les budgets de santé et de ses discours antivaccins.",
+   "tags": [
+    "Politique",
+    "Économie",
+    "Santé"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "c51774379bdc",
+   "titre": "CAN 2027 : la RD Congo retarde sa qualification, la Côte d'Ivoire ralentie en Gambie",
+   "lien": "https://www.france24.com/fr/sports/20261117-can-2027-la-rdc-retarde-sa-qualification-la-c%C3%B4te-d-ivoire-ralentie-en-gambie",
+   "source": "France 24",
+   "date": "2026-11-17T18:08:16+00:00",
+   "extrait": "La Côte d'Ivoire et la RD Congo avaient besoin d'une victoire ce mardi 17 novembre, respectivement contre la Gambie et la Sierra Leone, pour valider leur billet pour la CAN 2027. Le travail n'a pas…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "b7060801d6b5",
+   "titre": "Pluie et inondations : le Pas-de-Calais et la Somme placés en vigilance orange mardi à partir de 23 heures",
+   "lien": "https://www.lemonde.fr/planete/article/2026/11/17/pluie-et-inondations-le-pas-de-calais-et-la-somme-places-en-vigilance-orange-mardi-a-partir-de-23-heures_6813028_3244.html",
+   "source": "Le Monde",
+   "date": "2026-11-17T18:07:52+00:00",
+   "extrait": "Plusieurs liaisons ferroviaires sont interrompues dans les Hauts-de-France depuis mardi matin et jusqu’à mercredi midi en raison de vents violents.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "c8a2414e47f1",
+   "titre": "\"Je serais honoré de reprendre mes fonctions de PDG\" : l'ex-patron de Nvidia, Jensen Huang, se dit ouvert à un retour à la tête de l'entreprise, cinq jours après sa démission",
+   "lien": "https://www.franceinfo.fr/internet/nvidia/je-serais-honore-de-reprendre-mes-fonctions-de-pdg-l-ex-patron-de-nvidia-jensen-huang-se-dit-ouvert-a-un-retour-a-la-tete-de-l-entreprise-cinq-jours-apres-sa-demission_8286938.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T18:04:13+00:00",
+   "extrait": "Le patron du géant américain des puces a annoncé jeudi sa démission après l'éclatement d'un scandale d'adultère et de contrebande de puces IA vers la Chine.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "b423cbcf7c62",
+   "titre": "A Paris, la mairie anticipe des fermetures d’écoles dans le cadre d’une « sectorisation bioclimatique »",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/17/a-paris-la-mairie-anticipe-des-fermetures-d-ecoles-dans-le-cadre-d-une-sectorisation-bioclimatique_6813027_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-17T18:02:40+00:00",
+   "extrait": "Cinq écoles du 14ᵉ arrondissement pourraient être fermées à cause de la baisse démographique et des finances exsangues de la Ville de Paris face aux besoins de rénovation du bâti. Une méthode…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "77d27145615d",
+   "titre": "Comment les Ukrainiens ont réussi à détruire une partie du « pont de Poutine » reliant la Russie à la Crimée",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/17/comment-les-ukrainiens-ont-reussi-a-detruire-une-partie-du-pont-de-poutine-reliant-la-russie-a-la-crimee_6813025_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-17T18:00:02+00:00",
+   "extrait": "Des drones et des missiles ont ciblé, le 17 novembre, l’une des deux arches de cette mégastructure de 19 kilomètres, qui s’est effondrée dans les eaux du détroit de Kertch. Vital pour la péninsule…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "77be9160de22",
+   "titre": "Ukraine and Russia trade strikes ahead of Trump's summit with Putin, Xi",
+   "lien": "https://www.cbsnews.com/video/ukraine-and-russia-trade-strikes-ahead-of-trump-summit-with-putin-xi/",
+   "source": "CBS News",
+   "date": "2026-11-17T17:59:00+00:00",
+   "extrait": "Ukraine targeted a bridge linking Russia to Crimea, a region Russia annexed in 2014. CBS News' Aidan Stretch has more.",
+   "tags": [
+    "Politique",
     "Conflits"
    ],
    "zone": "usa"
@@ -56,14 +321,26 @@
    "zone": "france"
   },
   {
-   "id": "b83c0d1555a4",
-   "titre": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
-   "lien": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-17T17:42:26+00:00",
-   "extrait": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+   "id": "7b5faabea9cc",
+   "titre": "En Belgique, une œuvre représentant un cochon au volant d’une fourgonnette de police fait polémique",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/17/en-belgique-une-uvre-representant-un-cochon-au-volant-d-une-fourgonnette-de-police-fait-polemique_6813022_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-17T17:45:07+00:00",
+   "extrait": "Alors qu’à Bruxelles les étudiants manifestent à nouveau le mardi 17 novembre, une pièce exposée au musée municipal de Gand représentant un porc aux manettes d’un véhicule de patrouille déclenche…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "a5cd89cbacbc",
+   "titre": "Jensen Huang, ex-patron de Nvidia, sera entendu au Congrès, le 1ᵉʳ décembre, sur sa liaison avec une Chinoise soupçonnée d’espionnage",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/17/jensen-huang-ex-patron-de-nvidia-sera-entendu-au-congres-le-1-decembre-sur-sa-liaison-avec-une-chinoise-soupconnee-d-espionnage_6813021_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-17T17:42:16+00:00",
+   "extrait": "Le cofondateur de la multinationale américaine des semi-conducteurs a aussi déclaré, sur X, se tenir prêt à revenir à la tête de l’entreprise si son conseil d’administration le décidait. Il a…",
    "tags": [],
-   "zone": "monde"
+   "zone": "france"
   },
   {
    "id": "8c272fc971ac",
@@ -76,16 +353,6 @@
     "Conflits"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "4b6f10c89569",
-   "titre": "UK sanctions firms over Israeli West Bank settlements",
-   "lien": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-17T17:41:49+00:00",
-   "extrait": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
-   "tags": [],
-   "zone": "monde"
   },
   {
    "id": "0e7349bdcdea",
@@ -123,19 +390,6 @@
     "Politique"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "fdafad9e7f10",
-   "titre": "Guerre en Ukraine : il est \"absurde\" d'affirmer que des soldats français sur le territoire ukrainien participent directement au conflit, déclare la ministre déléguée aux Armées",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-la-russie-estime-que-la-presence-de-soldats-francais-sur-le-terrain-equivaut-a-une-participation-directe-au-conflit_8286344.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T17:34:27+00:00",
-   "extrait": "Plusieurs dizaines de militaires français se trouvent en Ukraine pour de possibles actions de maintenance et de formation, selon les informations de RFI et du \"Monde\", confirmées par France…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
   },
   {
    "id": "02ba7c2d802a",
@@ -181,20 +435,6 @@
    "tags": [
     "Politique",
     "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "bd0facb5c4ea",
-   "titre": "Les Etats-Unis perdent leur statut de pays ayant éliminé la rougeole, à l'instar du Mexique et de la Bolivie",
-   "lien": "https://www.franceinfo.fr/sante/les-etats-unis-perdent-leur-statut-de-pays-ayant-elimine-la-rougeole-a-l-instar-du-mexique-et-de-la-bolivie_8286896.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T17:21:05+00:00",
-   "extrait": "L'administration Trump est accusée d'avoir largement contribué à cette crise sanitaire, du fait de ses coupes dans les budgets de santé et de ses discours vaccinosceptiques.",
-   "tags": [
-    "Politique",
-    "Économie",
-    "Santé"
    ],
    "zone": "france"
   },
@@ -383,7 +623,7 @@
   },
   {
    "id": "99f43d42d5ff",
-   "titre": "La droite et le centre attaquent le projet de réforme des retraites de Marine Le Pen",
+   "titre": "De Jean-Luc Mélenchon à Bruno Retailleau, les adversaires politiques de Marine Le Pen attaquent son projet de réforme des retraites",
    "lien": "https://www.lemonde.fr/politique/article/2026/11/17/la-droite-et-le-centre-attaquent-le-projet-de-reforme-des-retraites-de-marine-le-pen_6813010_823448.html",
    "source": "Le Monde",
    "date": "2026-11-17T16:58:45+00:00",
@@ -663,16 +903,6 @@
    "zone": "france"
   },
   {
-   "id": "6c1a38965d98",
-   "titre": "Nvidia forms export control panel amid concerns over China sales",
-   "lien": "https://www.cbsnews.com/news/nvidia-export-control-committee-china-chips/",
-   "source": "CBS News",
-   "date": "2026-11-17T15:56:05+00:00",
-   "extrait": "Chipmaker creates new committee amid growing concerns that it has allowed restricted products to reach China.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "6b23b430e49d",
    "titre": "Hawley, Durbin introduce Roblox safety bill ahead of hearing",
    "lien": "https://www.cbsnews.com/news/roblox-bill-josh-hawley-dick-durbin/",
@@ -788,19 +1018,6 @@
    "zone": "monde"
   },
   {
-   "id": "a749c379e77e",
-   "titre": "Pourquoi la Russie accuse la France de \"participer directement\" à la guerre en Ukraine",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/pourquoi-la-russie-accuse-la-france-de-participer-directement-a-la-guerre-en-ukraine_8286422.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T15:33:34+00:00",
-   "extrait": "Radio France internationale a révélé l'existence d'un détachement de l'armée française sur le sol ukrainien. Le gouvernement français assure que ces militaires ne participent pas aux combats.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "14f5cd5d9bd3",
    "titre": "Réforme des retraites de Marine Le Pen : départ à 60 ou 62 ans, capitalisation et conditions durcies",
    "lien": "https://www.france24.com/fr/france/20261117-france-presidentielle-2027-reforme-des-retraites-marine-le-pen-depart-a-60-ou-62-ans-capitalisation-conditions-durcies",
@@ -814,10 +1031,10 @@
   },
   {
    "id": "7228b1af95e1",
-   "titre": "Ex-Nvidia CEO Jensen Huang agrees to testify to Congress amid affair probe",
+   "titre": "Ex-Nvidia CEO agrees to testify to Congress amid affair probe",
    "lien": "https://www.cbsnews.com/news/house-republicans-nvidia-jensen-huang-testimony/",
    "source": "CBS News",
-   "date": "2026-11-17T15:29:41+00:00",
+   "date": "2026-11-17T15:29:00+00:00",
    "extrait": "The former Nvidia chief will appear for closed-door testimony on Dec. 1 after Republicans threatened to subpoena him.",
    "tags": [
     "Politique"
@@ -907,16 +1124,6 @@
    "zone": "monde"
   },
   {
-   "id": "2cf43664a579",
-   "titre": "Carney eyes 'other options' for embattled Canadian auto sector on China trip",
-   "lien": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-17T15:17:49+00:00",
-   "extrait": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
    "id": "d1ec412aa9cc",
    "titre": "Christina Ricci on the final season of \"Yellowjackets\"",
    "lien": "https://www.cbsnews.com/video/christina-ricci-on-the-final-season-of-yellowjackets/",
@@ -984,7 +1191,7 @@
   },
   {
    "id": "44651b57f400",
-   "titre": "CAN 2027: l'Égypte cale et retarde sa qualification, le Nigeria et le Gabon se mettent en difficulté",
+   "titre": "CAN 2027: l'Égypte cale, le Sénégal qualifié sans jouer, le Nigeria et le Gabon en difficulté",
    "lien": "https://www.france24.com/fr/sports/20261117-can-2027-l-%C3%A9gypte-cale-et-retarde-sa-qualification-le-nigeria-et-le-gabon-se-mettent-en-difficult%C3%A9",
    "source": "France 24",
    "date": "2026-11-17T15:03:18+00:00",
@@ -1068,7 +1275,7 @@
    "titre": "Widespread service outages at major U.S. banks appear to be over",
    "lien": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/",
    "source": "CBS News",
-   "date": "2026-11-17T14:44:16+00:00",
+   "date": "2026-11-17T14:44:00+00:00",
    "extrait": "Customers at JPMorgan Chase, Bank of America and other major financial institutions reported difficulty accessing their accounts.",
    "tags": [],
    "zone": "usa"
@@ -3256,209 +3463,6 @@
     "Politique"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "8bcaf0de8722",
-   "titre": "Explaining the FAA's modernization efforts amid Friday's nationwide ground stop",
-   "lien": "https://www.cbsnews.com/video/explaining-faa-modernization-efforts-duffy-says-caused-ground-stop/",
-   "source": "CBS News",
-   "date": "2026-11-17T02:06:34+00:00",
-   "extrait": "Transportation Secretary Sean Duffy said this weekend that 70% of FAA telecommunication network's copper wires have been replaced with fiber-optic cables, but the process only began last year when…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "fe940bb87274",
-   "titre": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
-   "lien": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-17T01:26:01+00:00",
-   "extrait": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "ceb243c34ec9",
-   "titre": "Raye and Rosalía lead 2027 Grammy nominations",
-   "lien": "https://www.cbsnews.com/video/raye-and-rosala-lead-2027-grammy-nominations/",
-   "source": "CBS News",
-   "date": "2026-11-17T01:24:55+00:00",
-   "extrait": "The Grammy nominations were announced on Monday, and Raye led the charge with 11 nods. She's up for record and song of the year for \"Where Is My Husband\" and album of the year for \"This Music May…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "8217f30dada4",
-   "titre": "United Airlines says it resolved a system outage",
-   "lien": "https://www.cbsnews.com/news/united-airlines-system-outage-departing-flights/",
-   "source": "CBS News",
-   "date": "2026-11-17T01:06:00+00:00",
-   "extrait": "A memo from the union representing United Airlines pilots indicated the issue was with the airline's weight and balance calculation system.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "1566f584f47b",
-   "titre": "Boy with autism works to help other kids like himself, landing him Time's \"Kid of the Year\"",
-   "lien": "https://www.cbsnews.com/video/boy-autism-helps-others-times-kid-of-the-year/",
-   "source": "CBS News",
-   "date": "2026-11-17T01:01:52+00:00",
-   "extrait": "Nine-year-old Ledger Mann took the initiative to create comfort bags for police to use when searching for lost kids who may have autism or sensory challenges, like himself. Time magazine recognized…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "238b245bceda",
-   "titre": "Bodycam video shows police breaking up massive Virginia house party",
-   "lien": "https://www.cbsnews.com/video/bodycam-video-shows-police-breaking-up-massive-virginia-house-party/",
-   "source": "CBS News",
-   "date": "2026-11-17T00:58:20+00:00",
-   "extrait": "A husband and wife in Virginia are facing charges over a wild house party for their teenagers that police say involved underage drinking and fireworks. The couple said it was crashed by hundreds of…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "78b88fd57bff",
-   "titre": "Top federal prosecutor in Houston accused of breaking ethics rules",
-   "lien": "https://www.cbsnews.com/news/watchdog-group-ethics-complaint-top-federal-prosecutor-houston/",
-   "source": "CBS News",
-   "date": "2026-11-17T00:56:42+00:00",
-   "extrait": "A nonprofit watchdog group filed an ethics complaint on Monday against the top federal prosecutor in Houston, alleging he has violated professional conduct rules by threatening to prosecute…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "43a45e052a5e",
-   "titre": "New James Bond is announced after rampant speculation",
-   "lien": "https://www.cbsnews.com/news/james-bond-007-robert-pattinson/",
-   "source": "CBS News",
-   "date": "2026-11-17T00:54:00+00:00",
-   "extrait": "After rampant online speculation about who would take over the iconic spy character from Daniel Craig, the franchise announced who the new 007 will be.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "37a2f02152a0",
-   "titre": "Robert Pattinson lands coveted James Bond role",
-   "lien": "https://www.cbsnews.com/video/robert-pattinson-lands-coveted-james-bond-role/",
-   "source": "CBS News",
-   "date": "2026-11-17T00:53:23+00:00",
-   "extrait": "Going back more than 60 years, only six actors have played James Bond, the British secret agent code-named 007. After years of speculation, Amazon MGM Studios cast 40-year-old Robert Pattinson as…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "310285736a27",
-   "titre": "Pacific Coast sees monster waves, a dread for some, but a delight for the surfers",
-   "lien": "https://www.cbsnews.com/video/pacific-coast-sees-monster-waves-dread-some-delight-surfers/",
-   "source": "CBS News",
-   "date": "2026-11-17T00:51:00+00:00",
-   "extrait": "Some of the biggest waves in years continued to hit the Pacific Coast shoreline on Monday. Carter Evans takes a look at the monster waves.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "8dded8dff23e",
-   "titre": "Doctor says U.S. losing measles elimination status is a \"huge public health failure\"",
-   "lien": "https://www.cbsnews.com/video/doctor-says-us-losing-measles-elimination-status-huge-public-health-failure/",
-   "source": "CBS News",
-   "date": "2026-11-17T00:48:52+00:00",
-   "extrait": "The United States is expected to officially lose its status as a country that has eliminated measles after reporting the highest case total in more than 30 years. CBS News chief medical…",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "70e80098adc5",
-   "titre": "2 self-driving Waymos involved in 4-car collision in Phoenix",
-   "lien": "https://www.cbsnews.com/video/2-self-driving-waymos-involved-4-car-collision-phoenix/",
-   "source": "CBS News",
-   "date": "2026-11-17T00:45:00+00:00",
-   "extrait": "Police in Phoenix, Arizona, are investigating a four-vehicle crash that included two driverless Waymo vehicles. Three people were rushed to the hospital, including one who is fighting for their…",
-   "tags": [
-    "Justice",
-    "Santé"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "fbdbee634524",
-   "titre": "Trump traveling to China amid Nvidia scandal fallout",
-   "lien": "https://www.cbsnews.com/video/trump-traveling-china-amid-nvidia-scandal-fallout/",
-   "source": "CBS News",
-   "date": "2026-11-17T00:43:18+00:00",
-   "extrait": "President Trump was on his way to Asia for a historic three-way meeting with the leaders of Russia and China. The meeting comes amid the fallout from the Nvidia scandal, but the president tried to…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "bd1e8fde7221",
-   "titre": "United Airlines resolved system outage that delayed many departures",
-   "lien": "https://www.cbsnews.com/video/united-airlines-resolved-system-outage-delayed-many-departures/",
-   "source": "CBS News",
-   "date": "2026-11-17T00:41:21+00:00",
-   "extrait": "A glitch at United Airlines delayed a full return to normal for an industry still recovering from a nationwide tech-related ground stop on Friday evening. Kris Van Cleave reports.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "cec9adc67581",
-   "titre": "Latest details on U.S. bank issues, delays",
-   "lien": "https://www.cbsnews.com/video/latest-details-us-bank-issues-delays/",
-   "source": "CBS News",
-   "date": "2026-11-17T00:39:04+00:00",
-   "extrait": "The U.S. was roiled by another round of tech failures on Monday, this time affecting flights and banks nationwide. Jo Ling Kent has more.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "98c72e7a1590",
-   "titre": "Deux ans de prison requis contre Pierre Ménès, jugé pour agressions sexuelles et harcèlement moral",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/17/deux-ans-de-prison-requis-contre-pierre-menes-juge-pour-agressions-sexuelles-et-harcelement-moral_6812755_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-17T00:19:49+00:00",
-   "extrait": "L’ancien journaliste a reconnu un « langage très fleuri », des propos « pas très élégants » et une « ambiance potache », mais a nié toute violence sexuelle et affirmé que « c’était une autre époque ».",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "f2b90b31d6aa",
-   "titre": "Some cannabis companies trying to convert growing facilities to data centers",
-   "lien": "https://www.cbsnews.com/video/some-cannabis-companies-trying-convert-growing-facilities-data-centers/",
-   "source": "CBS News",
-   "date": "2026-11-17T00:16:01+00:00",
-   "extrait": "Some struggling cannabis companies that own large industrial buildings are selling those buildings to AI companies to become data centers. Forbes senior writer Will Yakowicz joins CBS News to…",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "cb9580ec81db",
-   "titre": "EN DIRECT, guerre en Ukraine : des frappes russes ont touché deux importants ponts de Kiev, annonce le maire, Vitali Klitschko",
-   "lien": "https://www.lemonde.fr/international/live/2026/11/17/en-direct-guerre-en-ukraine-des-frappes-russes-ont-touche-deux-ponts-importants-de-kiev-annonce-le-maire-vitali-klitschko_6810982_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-17T00:13:59+00:00",
-   "extrait": "« A la suite de l’attaque ennemie, des systèmes d’infrastructures critiques ont été endommagés », a fait savoir, lundi soir, le maire de la capitale ukrainienne, faisant état de frappes russes ayant…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
   }
  ]
 }
