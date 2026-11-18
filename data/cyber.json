@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-18T15:05:40+00:00",
+ "maj": "2026-11-18T16:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,12 +24,33 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "8a105e0775f8",
+   "titre": "SkillEvaluator - Vos skills IA ont peut-être un YAML pété ?",
+   "lien": "https://korben.info/skillevaluator-nvidia-skills-agents.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-18T15:10:16+00:00",
+   "extrait": "SkillEvaluator, l'outil open source de NVIDIA, évalue les skills d'agents IA en trois étages. Testé sur mes douze skills : un YAML cassé noté A, et des skills que l'agent oublie souvent de charger.",
+   "tags": [
+    "IA",
+    "Outil"
+   ]
+  },
+  {
    "id": "8e8debc4b233",
    "titre": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
    "lien": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
    "source": "BleepingComputer",
    "date": "2026-11-18T15:00:10+00:00",
    "extrait": "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world…",
+   "tags": []
+  },
+  {
+   "id": "c93de95a6d5f",
+   "titre": "Nextcloud Office - La suite libre qui se passe du cloud",
+   "lien": "https://korben.info/nextcloud-office-desktop.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-18T14:50:03+00:00",
+   "extrait": "Nextcloud Office, la distribution signée d'Euro-Office, est prête à télécharger en appli de bureau gratuite sous AGPL v3 : édition hors ligne, signature numérique, dépôts APT et DNF, mais rien pour…",
    "tags": []
   },
   {
@@ -3372,29 +3393,6 @@
    "extrait": "AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant. Anecdotes examines three essential skills for the…",
    "tags": [
     "IA"
-   ]
-  },
-  {
-   "id": "47fb58a628fd",
-   "titre": "FBI agent stole $2.5 million in crypto from hackers under investigation",
-   "lien": "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/",
-   "source": "BleepingComputer",
-   "date": "2026-11-09T14:34:03+00:00",
-   "extrait": "A former FBI agent has pleaded guilty to stealing nearly $2.5 million from the wallets of fraud victims and nation-state hackers under investigation. [...]",
-   "tags": [
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "7bdf0c6dc5dc",
-   "titre": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
-   "lien": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
-   "source": "The Hacker News",
-   "date": "2026-11-09T14:31:29+00:00",
-   "extrait": "The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously…",
-   "tags": [
-    "Fuite de données",
-    "Malware"
    ]
   }
  ]
