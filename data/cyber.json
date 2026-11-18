@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-18T05:05:41+00:00",
+ "maj": "2026-11-18T06:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "223101d57350",
+   "titre": "Java4Shell (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak on Java 17+ AVX-512 VBMI Servers",
+   "lien": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
+   "source": "The Hacker News",
+   "date": "2026-11-18T04:27:41+00:00",
+   "extrait": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm…",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
+  },
   {
    "id": "126567e065a7",
    "titre": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
@@ -3382,18 +3394,6 @@
     "Faille",
     "IA",
     "Linux"
-   ]
-  },
-  {
-   "id": "a97be9095b72",
-   "titre": "Fake security tools on GitHub push backdoors and infostealers",
-   "lien": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
-   "source": "BleepingComputer",
-   "date": "2026-11-06T18:46:52+00:00",
-   "extrait": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
-   "tags": [
-    "Malware",
-    "Outil"
    ]
   }
  ]
