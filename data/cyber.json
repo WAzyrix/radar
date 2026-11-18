@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-18T20:05:42+00:00",
+ "maj": "2026-11-18T20:55:15+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "ede0adf4c578",
+   "titre": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
+   "lien": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
+   "source": "BleepingComputer",
+   "date": "2026-11-18T20:49:32+00:00",
+   "extrait": "Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than…",
+   "tags": [
+    "Malware",
+    "IA"
+   ]
+  },
   {
    "id": "9f639cd35360",
    "titre": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
@@ -3383,18 +3395,6 @@
    "date": "2026-11-09T18:32:42+00:00",
    "extrait": "France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food…",
    "tags": [
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "bd73ebc7b854",
-   "titre": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
-   "lien": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
-   "source": "The Hacker News",
-   "date": "2026-11-09T17:51:21+00:00",
-   "extrait": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today. The attacker…",
-   "tags": [
-    "Faille",
     "Fuite de données"
    ]
   }
