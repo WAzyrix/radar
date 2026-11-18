@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-18T22:05:41+00:00",
+ "maj": "2026-11-18T23:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,11 +22,138 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "38236b7145c0",
+   "titre": "What to know about Hakeem Jeffries as he easily wins Democratic nomination for House speaker",
+   "lien": "https://www.cbsnews.com/video/hakeem-jeffries-easily-wins-democratic-nomination-for-house-speaker/",
+   "source": "CBS News",
+   "date": "2026-11-18T22:55:31+00:00",
+   "extrait": "Democratic Leader Hakeem Jeffries on Wednesday easily won his party's nomination to be the next speaker of the House. He would be the first Black House speaker in U.S. history. CBS News' Nikole…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "7ab40838ae16",
+   "titre": "Iran ramps up attacks on Gulf countries after U.S. strikes",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
+   "source": "CBS News",
+   "date": "2026-11-18T22:53:58+00:00",
+   "extrait": "America's Persian Gulf allies and oil tankers are under fire as Iran appears to lash out following U.S. strikes on a key island in the Strait of Hormuz.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "cde09778f361",
+   "titre": "Anthropic to go public Thursday in what could be one of the largest IPOs in history",
+   "lien": "https://www.cbsnews.com/video/anthropic-to-go-public-thursday-in-what-could-be-one-of-the-largest-ipos-in-history/",
+   "source": "CBS News",
+   "date": "2026-11-18T22:52:31+00:00",
+   "extrait": "AI giant and Claude chatbot maker Anthropic is scheduled to go public on Thursday in what could be one of the largest initial public offerings in history. CBS News' Kelly O'Grady has the story.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "70abe257caa0",
+   "titre": "Florida pastor convicted in plot to kill Haitian president",
+   "lien": "https://www.cbsnews.com/news/haitian-president-jovenel-moise-assassination-conviction/",
+   "source": "CBS News",
+   "date": "2026-11-18T22:49:39+00:00",
+   "extrait": "A Florida pastor with dual Haitian-American citizenship has been convicted of U.S. charges related to the 2021 assassination of Haitian President Jovenel Moïse.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "018e3f2464e1",
+   "titre": "Thune: \"Open question\" whether Senate GOP can pass massive defense bill",
+   "lien": "https://www.cbsnews.com/news/thune-senate-gop-defense-bill-reconciliation/",
+   "source": "CBS News",
+   "date": "2026-11-18T22:38:00+00:00",
+   "extrait": "Senate Majority Leader John Thune said Wednesday it's still an \"open question\" whether Republicans have the votes to approve a massive new defense package sought by the Trump administration.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "e07f3bce8b5b",
+   "titre": "Hardcore GTA fans ditch work so they have time to play",
+   "lien": "https://www.cbsnews.com/news/gta-6-fans-take-pto-launch/",
+   "source": "CBS News",
+   "date": "2026-11-18T22:37:00+00:00",
+   "extrait": "Some employees locked in their time off months ago, so they're free to start playing Grand Theft Auto 6 as soon as it launches on Nov. 19.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "c3261a1d086e",
+   "titre": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+   "lien": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-18T22:34:56+00:00",
+   "extrait": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "129f5049b8ef",
+   "titre": "NSA network outage linked to software vulnerability",
+   "lien": "https://www.cbsnews.com/news/national-security-agency-network-outage-software-vulnerability/",
+   "source": "CBS News",
+   "date": "2026-11-18T22:28:00+00:00",
+   "extrait": "The director of national intelligence and multiple sources said the National Security Agency's network outage stemmed from the patching of vulnerabilities in the programming language, PHP.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "b78cabbfc531",
+   "titre": "Mayotte frappée par une panne d'électricité généralisée après de fortes pluies",
+   "lien": "https://la1ere.franceinfo.fr/mayotte/vigilance-jaune-panne-generale-sur-le-territoire-1759059.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T22:21:19+00:00",
+   "extrait": "Suite à de fortes pluies et orages qui touchent l'île ce mercredi après-midi, une coupure générale d'électricité s'est déclarée aux alentours de 16h, à cause de la foudre.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "bfe66c40b388",
+   "titre": "Pour relancer les trains de nuit, l'Etat va louer des locomotives neuves et rénover les vieux Corail de la SNCF",
+   "lien": "https://www.franceinfo.fr/economie/transports/pour-relancer-les-trains-de-nuit-l-etat-va-louer-des-locomotives-neuves-et-renover-les-vieux-corail-de-la-sncf_8289017.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T22:17:15+00:00",
+   "extrait": "Le gouvernement a passé un accord avec Alpha Trains pour 27 locomotives et a demandé à une \"refonte complète\" de 180 voitures Corail qui datent des années 1980.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "85c18396d7cf",
+   "titre": "How Did Political Corruption Get So Bad?",
+   "lien": "https://www.cbsnews.com/video/how-did-political-corruption-get-so-bad/",
+   "source": "CBS News",
+   "date": "2026-11-18T22:03:36+00:00",
+   "extrait": "Nine in ten voters called government corruption a major factor in the midterms. But much of what they're angry about isn't illegal. Former federal prosecutor Leo Wise explains how four decades of…",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "845734dc495c",
    "titre": "Cornyn blocks Trump's nominee to federal district court in Texas",
    "lien": "https://www.cbsnews.com/news/john-cornyn-trump-elliot-gaiser-justice-department-federal-judge/",
    "source": "CBS News",
-   "date": "2026-11-18T21:50:15+00:00",
+   "date": "2026-11-18T21:50:00+00:00",
    "extrait": "President Trump nominated T. Elliot Gaiser, who heads the Justice Department's Office of Legal Counsel, to serve on the U.S. district court in the Dallas area.",
    "tags": [
     "Politique",
@@ -42,18 +169,6 @@
    "date": "2026-11-18T21:46:00+00:00",
    "extrait": "Democratic Leader Hakeem Jeffries easily won his party's nomination for the next speaker of the House on Wednesday.",
    "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "7ab40838ae16",
-   "titre": "Iran ramps up attacks on Gulf countries after U.S. strikes",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
-   "source": "CBS News",
-   "date": "2026-11-18T21:42:30+00:00",
-   "extrait": "America's Persian Gulf allies and oil tankers are under fire as Iran appears to lash out following U.S. strikes on a key island in the Strait of Hormuz.",
-   "tags": [
-    "Conflits"
-   ],
    "zone": "usa"
   },
   {
@@ -85,7 +200,7 @@
    "titre": "Anthropic's IPO set for blastoff this week in key test for AI boom",
    "lien": "https://www.cbsnews.com/news/anthropic-ipo-ai-boom-nasdaq-debut/",
    "source": "CBS News",
-   "date": "2026-11-18T21:32:05+00:00",
+   "date": "2026-11-18T21:32:00+00:00",
    "extrait": "Anthropic's stock is poised to start trading on Nasdaq Thursday in one of the largest IPOs of all time. The AI world is watching.",
    "tags": [
     "Tech"
@@ -193,7 +308,7 @@
    "titre": "What to know about Trump's meeting with Xi in China",
    "lien": "https://www.cbsnews.com/news/trump-xi-meet-china-chips-ai/",
    "source": "CBS News",
-   "date": "2026-11-18T20:23:41+00:00",
+   "date": "2026-11-18T20:23:00+00:00",
    "extrait": "President Trump is holding a high-stakes meeting with Chinese President Xi Jinping on Thursday against the backdrop of a widening scandal.",
    "tags": [
     "Politique"
@@ -205,29 +320,17 @@
    "titre": "Boxing world champion Jorge Linares detained by ICE in Texas",
    "lien": "https://www.cbsnews.com/news/boxing-world-champion-jorge-linares-detained-ice/",
    "source": "CBS News",
-   "date": "2026-11-18T20:20:37+00:00",
+   "date": "2026-11-18T20:20:00+00:00",
    "extrait": "Jorge Linares, a Venezuelan professional boxer, was detained by ICE in Texas, according to federal officials and his attorneys.",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "c3261a1d086e",
-   "titre": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-   "lien": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-18T20:14:57+00:00",
-   "extrait": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
   },
   {
    "id": "696ac49e9754",
    "titre": "Guerre en Ukraine : la Commission européenne met sur la table un nouvel emprunt européen pour financer l’aide à Kiev",
    "lien": "https://www.lemonde.fr/international/article/2026/11/18/guerre-en-ukraine-la-commission-europeenne-met-sur-la-table-un-nouvel-emprunt-europeen-pour-financer-l-aide-a-kiev_6813206_3210.html",
    "source": "Le Monde",
-   "date": "2026-11-18T20:12:23+00:00",
+   "date": "2026-11-18T20:12:20+00:00",
    "extrait": "Après avoir fait à l’Ukraine un prêt de 90 milliards d’euros pour 2026 et 2027, l’exécutif communautaire prévoit de lui consacrer une nouvelle enveloppe de 45 milliards d’euros l’an prochain.",
    "tags": [
     "Conflits"
@@ -890,7 +993,7 @@
   },
   {
    "id": "cc62060feb8f",
-   "titre": "Affaire Philippe Caubère : le parquet demande le renvoi du comédien en cour criminelle pour viols agravés et proxénétisme, ainsi que celui de son ex-avocate, Marie Dosé",
+   "titre": "Affaire Philippe Caubère : le parquet demande le renvoi du comédien en cour criminelle pour viols aggravés et proxénétisme, ainsi que celui de son ex-avocate, Marie Dosé",
    "lien": "https://www.lemonde.fr/societe/article/2026/11/18/affaire-philippe-caubere-le-ministere-public-demande-le-renvoi-en-cour-criminelle-du-comedien-et-de-l-avocate-marie-dose_6813169_3224.html",
    "source": "Le Monde",
    "date": "2026-11-18T16:40:59+00:00",
@@ -1423,10 +1526,10 @@
   },
   {
    "id": "4ad5981da307",
-   "titre": "Father of NYC Marathon runner who died calls her death \"unfathomable\"",
+   "titre": "Father of marathoner who died calls her death \"unfathomable\"",
    "lien": "https://www.cbsnews.com/news/rachel-apa-father-nyc-marathon-death/",
    "source": "CBS News",
-   "date": "2026-11-18T15:16:01+00:00",
+   "date": "2026-11-18T15:16:00+00:00",
    "extrait": "Steve Apa, the father of the NYC Marathoner who died, said he didn't know how severe her condition was until it was too late.",
    "tags": [],
    "zone": "usa"
@@ -3313,107 +3416,6 @@
    "extrait": "Le géant américain des puces électroniques pulvérise les prévisions avec 65 milliards de dollars de bénéfices en trois mois. Des résultats spectaculaires qui contrastent avec la crise provoquée par…",
    "tags": [
     "Climat"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "8c77dd930e52",
-   "titre": "British hacker who stole $11m through text message scheme jailed for six years in US",
-   "lien": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-18T09:28:35+00:00",
-   "extrait": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "1cff134a9815",
-   "titre": "Ghana's new $60m presidential jet sparks public outrage",
-   "lien": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-18T09:27:51+00:00",
-   "extrait": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "c4ac426bb950",
-   "titre": "Xi Jinping accueille Donald Trump à son arrivée en Chine avant un sommet tripartite inédit avec Vladimir Poutine pour évoquer les crises internationales",
-   "lien": "https://www.franceinfo.fr/monde/xi-jinping-recoit-vladimir-poutine-avant-un-sommet-inedit-avec-donald-trump-pour-evoquer-les-crises-internationales_8287652.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T09:26:47+00:00",
-   "extrait": "Le président américain est arrivé en Chine mercredi, alors que les chefs d'Etat russe et chinois se sont entretenus quelques heures plus tôt.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "641478f44e3b",
-   "titre": "Bruxelles menace Temu d'une nouvelle amende pour non-respect des règles européennes",
-   "lien": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/bruxelles-menace-temu-d-une-nouvelle-amende-pour-non-respect-des-regles-europeennes_8287730.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T09:20:07+00:00",
-   "extrait": "Pointé du doigt à plusieurs reprises pour avoir mis en vente des produits dangereux ou défectueux, le géant chinois du commerce en ligne risque une nouvelle sanction. La Commission européenne…",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "93dea285e3fa",
-   "titre": "Avec l'augmentation du smic, \"on peut craindre 250 000 suppressions d'emplois\", affirme Patrick Martin, président du Medef",
-   "lien": "https://www.franceinfo.fr/politique/avec-l-augmentation-du-smic-on-peut-craindre-250-000-suppressions-d-emplois-affirme-patrick-martin-president-du-medef_8287838.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T09:19:30+00:00",
-   "extrait": "Patrick Martin, président du Medef, était l'invité des \"4 Vérités\", mercredi 18 novembre. Il est revenu sur l'augmentation du smic de 1,6% qui va entrer en vigueur le 1er décembre. Selon lui, cette…",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "0a0aebdbe7f4",
-   "titre": "\"Martyre de l'A10\" : le maire de Suèvres espère que le corps d'Inass va rester dans le cimetière de sa commune pour \"la laisser en paix\"",
-   "lien": "https://www.franceinfo.fr/faits-divers/martyre-de-l-a10/martyre-de-l-a10-le-maire-de-suevres-espere-que-le-corps-d-inass-va-rester-dans-le-cimetiere-de-sa-commune-pour-la-laisser-en-paix_8287952.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T09:05:06+00:00",
-   "extrait": "Les frères et sœurs d'Inass souhaitent \"offrir un autre lieu de repos\" à la jeune fille, \"en correspondance avec ses liens familiaux\". Le maire, Frédéric Dejente rappelle que la tombe \"est là depuis…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "3894b7b2a110",
-   "titre": "Les démocrates s'imposent en Alaska et obtiennent leur plus large majorité au Sénat depuis seize ans",
-   "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/les-democrates-s-imposent-en-alaska-et-obtiennent-leur-plus-large-majorite-au-senat-depuis-seize-ans_8287943.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T09:01:30+00:00",
-   "extrait": "La victoire de Mary Peltola renforce la vague bleue démocrate aux Etats-Unis lors des élections de mi-mandat, et parachève le camouflet infligé au président Donald Trump.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "114c02629bb4",
-   "titre": "\"Tout le monde est à sec\" : face à la création de 5 000 places dans les universités, les enseignants-chercheurs dénoncent le manque de moyens",
-   "lien": "https://www.franceinfo.fr/societe/education/parcoursup/tout-le-monde-est-a-sec-face-a-la-creation-de-5-000-places-dans-les-universites-les-enseignants-chercheurs-denoncent-le-manque-de-moyens_8284652.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T08:53:26+00:00",
-   "extrait": "Des professeurs d'université s'inquiètent notamment du recours croissant à des enseignants vacataires, au détriment des postes d'enseignants-chercheurs.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "8459a48b5751",
-   "titre": "🔴 Donald Trump est arrivé en Chine pour un sommet historique avec Xi Jinping et Vladimir Poutine",
-   "lien": "https://www.france24.com/fr/asie-pacifique/20261118-sommet-de-l-apec-xi-jinping-re%C3%A7oit-vladimir-poutine-avant-un-sommet-in%C3%A9dit-avec-donald-trump",
-   "source": "France 24",
-   "date": "2026-11-18T08:49:30+00:00",
-   "extrait": "",
-   "tags": [
-    "Politique"
    ],
    "zone": "monde"
   }
