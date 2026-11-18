@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-18T02:05:41+00:00",
+ "maj": "2026-11-18T03:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,103 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "7228b1af95e1",
+   "titre": "Ex-Nvidia CEO agrees to testify to Congress amid affair probe",
+   "lien": "https://www.cbsnews.com/news/house-republicans-nvidia-jensen-huang-testimony/",
+   "source": "CBS News",
+   "date": "2026-11-18T02:44:50+00:00",
+   "extrait": "The former Nvidia chief will appear for public and closed-door hearings after Republicans threatened to subpoena him.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "bbc8f107799b",
+   "titre": "Rubio says there's \"zero evidence\" recent tech outages are related",
+   "lien": "https://www.cbsnews.com/news/marco-rubio-tech-outages-not-connected/",
+   "source": "CBS News",
+   "date": "2026-11-18T02:43:00+00:00",
+   "extrait": "Secretary of State Marco Rubio acknowledged that people are fearful and uncertain, saying he wanted to be clear that the United States is not under systemic attack.",
+   "tags": [
+    "Conflits",
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "8c08f29cbefb",
+   "titre": "Airline schedules returning to normal after ground stop, FAA says",
+   "lien": "https://www.cbsnews.com/news/faa-ground-stop-canceled-flights-travelers-what-we-know/",
+   "source": "CBS News",
+   "date": "2026-11-18T02:35:35+00:00",
+   "extrait": "Officials attributed the ground stop to aging system infrastructure and legacy technology.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "be5818927558",
+   "titre": "Seize pêcheurs équatoriens poursuivent les Etats-Unis en justice pour le bombardement de leur embarcation",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/18/seize-pecheurs-equatoriens-poursuivent-les-etats-unis-en-justice-pour-le-bombardement-de-leur-embarcation_6813058_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-18T02:31:51+00:00",
+   "extrait": "L’administration Trump nie toute responsabilité dans les crimes dénoncés et défend sa campagne de bombardements en Amérique latine contre des embarcations présumées chargées de drogues. Ces…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "5b8c4619ba37",
+   "titre": "Loi « relance du logement » : l’Assemblée nationale valide le lancement du programme ANRU 3 pour la période 2026-2040",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/18/loi-relance-du-logement-l-assemblee-nationale-valide-le-lancement-du-programme-anru-3-pour-la-periode-2026-2040_6813057_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-18T02:16:55+00:00",
+   "extrait": "Certains députés ont néanmoins jugé insuffisant le financement de 5 milliards d’euros prévu pour démarrer ce nouveau programme de financement de projets de rénovation urbaine, qui vise notamment 150…",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "bdb11a9424f7",
+   "titre": "White House drops Heidi Overton's nomination for FDA commissioner",
+   "lien": "https://www.cbsnews.com/news/white-house-drops-heidi-overton-fda-commissioner/",
+   "source": "CBS News",
+   "date": "2026-11-18T02:13:00+00:00",
+   "extrait": "The White House has dropped the nomination of Dr. Heidi Overton, President Trump's pick for FDA commissioner, CBS News has confirmed.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "9c26f4a95628",
+   "titre": "8-year-old detained by ICE in San Diego released from custody",
+   "lien": "https://www.cbsnews.com/news/8-year-old-detained-ice-released-custody/",
+   "source": "CBS News",
+   "date": "2026-11-18T02:10:00+00:00",
+   "extrait": "The Department of Homeland Security previously confirmed that ICE agents placed the child in federal care after he attended a check-in appointment with a man the agency said claimed to be the boy's…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "ed05b495ebb0",
+   "titre": "En Haïti, une manifestation en soutien aux soldats salvadoriens qui luttent contre les gangs",
+   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261118-haiti-manifestation-soutien-soldats-salvador-nayib-bukele-gangs",
+   "source": "France 24",
+   "date": "2026-11-18T02:06:46+00:00",
+   "extrait": "Aux cris de \"Merci Bukele\", des milliers d'Haïtiens ont manifesté mardi à Port-au-Prince pour soutenir les forces armées salvadoriennes déployées dans le pays contre les gangs. Le gouvernement…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "6996c40a5da8",
    "titre": "EPA and City of LA sued over Lineage warehouse fire testing data",
    "lien": "https://www.cbsnews.com/losangeles/news/boyle-heights-lawsuit-epa-la-lineage-warehouse-fire/",
@@ -30,18 +127,6 @@
    "extrait": "Five months after a fire at a food storage warehouse rocked Boyle Heights and East Los Angeles, residents say they still feel the effects on their health and are demanding transparency.",
    "tags": [
     "Santé"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "bdb11a9424f7",
-   "titre": "White House drops Heidi Overton's nomination for FDA commissioner",
-   "lien": "https://www.cbsnews.com/news/white-house-drops-heidi-overton-fda-commissioner/",
-   "source": "CBS News",
-   "date": "2026-11-18T01:53:12+00:00",
-   "extrait": "The White House has dropped the nomination of Dr. Heidi Overton, President Trump's pick for FDA commissioner, CBS News has confirmed.",
-   "tags": [
-    "Politique"
    ],
    "zone": "usa"
   },
@@ -56,6 +141,18 @@
     "Politique"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "2fd8b38b87cc",
+   "titre": "En direct : des pays du Golfe en alerte après les frappes américaines sur une île iranienne",
+   "lien": "https://www.france24.com/fr/moyen-orient/20261118-en-direct-moyen-orient-iran-pays-du-golfe-koweit-bahrein-frappes-americaines-ile-qeshm",
+   "source": "France 24",
+   "date": "2026-11-18T01:47:38+00:00",
+   "extrait": "Le Koweït a annoncé mercredi contrer des attaques de drones après les frappes des États-Unis qui ont dit avoir visé un site de missiles sur l'île iranienne de Qeshm, dans le cadre du conflit au…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
   },
   {
    "id": "040d9b49d28e",
@@ -208,7 +305,7 @@
    "titre": "Outages hit NSA and Apple in latest round of tech turmoil",
    "lien": "https://www.cbsnews.com/video/outages-hit-nsa-and-apple-latest-tech-turmoil/",
    "source": "CBS News",
-   "date": "2026-11-18T00:37:19+00:00",
+   "date": "2026-11-18T00:37:00+00:00",
    "extrait": "The National Security Agency and Apple both faced technology disruptions Tuesday, adding to issues that hit Microsoft, the FAA, major banks and more over the past week. The incidents have raised…",
    "tags": [
     "Tech"
@@ -420,6 +517,18 @@
    "extrait": "President Trump is set to meet this week with Russian President Vladimir Putin and Chinese President Xi Jinping. Historian Catherine Grace Katz, author of \"The Daughters of Yalta,\" joins CBS News to…",
    "tags": [
     "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "9762bec68f25",
+   "titre": "11/17: CBS Evening News",
+   "lien": "https://www.cbsnews.com/video/111726-cbs-evening-news/",
+   "source": "CBS News",
+   "date": "2026-11-17T23:30:00+00:00",
+   "extrait": "At least eight major technology outages hit the U.S. in the last week; the FAA paused the installation of new routers after the ground stop.",
+   "tags": [
+    "Tech"
    ],
    "zone": "usa"
   },
@@ -2093,18 +2202,6 @@
    "zone": "monde"
   },
   {
-   "id": "7228b1af95e1",
-   "titre": "Ex-Nvidia CEO agrees to testify to Congress amid affair probe",
-   "lien": "https://www.cbsnews.com/news/house-republicans-nvidia-jensen-huang-testimony/",
-   "source": "CBS News",
-   "date": "2026-11-17T15:29:00+00:00",
-   "extrait": "The former Nvidia chief will appear for closed-door testimony on Dec. 1 after Republicans threatened to subpoena him.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "4a0425c081ab",
    "titre": "En Europe, les fumeurs ont davantage de difficulté à arrêter que dans le reste du monde, selon l'Organisation mondiale de la santé",
    "lien": "https://www.franceinfo.fr/sante/en-europe-les-fumeurs-ont-davantage-de-difficulte-a-arreter-que-dans-le-reste-du-monde-selon-l-organisation-mondiale-de-la-sante_8286614.html#xtor=RSS-3-[lestitres]",
@@ -3341,99 +3438,6 @@
    "extrait": "Les instances du Palais-Bourbon ont voté pour qu'un débat se tienne sur la liberté d'expression, mais il ne portera pas seulement sur la chaîne d'information en continu du groupe Bolloré…",
    "tags": [
     "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "b48834d73795",
-   "titre": "Philippe Diallo, un candidat « peu connu » pour diriger la FIFA qui devra « fissurer le bloc » autour de Gianni Infantino, selon la presse internationale",
-   "lien": "https://www.lemonde.fr/sport/article/2026/11/17/avec-la-candidature-de-philippe-diallo-a-la-tete-de-la-fifa-la-presse-internationale-decouvre-un-candidat-peu-connu-qui-devra-fissurer-le-bloc-autour-de-gianni-infantino_6812953_3242.html",
-   "source": "Le Monde",
-   "date": "2026-11-17T10:27:27+00:00",
-   "extrait": "Les chances de l’emporter du président de la Fédération française de football face au puissant président sortant paraissent maigres pour de nombreux titres étrangers, notamment en raison du déficit…",
-   "tags": [
-    "Politique",
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "6a0d9b616404",
-   "titre": "Jean-Luc Mélenchon va dîner mardi soir avec des grands patrons français dont Bernard Arnault et Patrick Pouyanné",
-   "lien": "https://www.franceinfo.fr/elections/presidentielle/candidats/jean-luc-melenchon-candidat-a-la-presidentielle-va-diner-avec-des-grands-patrons-francais-dont-bernard-arnault-et-patrick-pouyanne_8286248.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T10:23:56+00:00",
-   "extrait": "Le leader de La France insoumise répond à l'invitation d'une association patronale qui avait reçu Marine Le Pen au printemps.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "ae82e7a9fa8f",
-   "titre": "Manuel Bompard dénonce les \"méthodes trumpistes\" et les \"accusations fallacieuses\" du gouvernement face à la mobilisation lycéenne",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/manuel-bompard-denonce-les-methodes-trumpistes-et-les-accusations-fallacieuses-du-gouvernement-face-a-la-mobilisation-lyceenne_8286122.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T10:14:25+00:00",
-   "extrait": "Des accusations visant la communauté éducative et la France insoumise, selon Manuel Bompard, coordinateur de LFI. Invité du 8h30 franceinfo, il répond notamment aux accusations de \"complicités\"…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "3f9248e36666",
-   "titre": "Will President Trump meet Kim Jong Un?",
-   "lien": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-17T10:13:27+00:00",
-   "extrait": "President Trump says he would be keen to meet the North Korea leader in China.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "48f7d15545b6",
-   "titre": "Fernando Alonso fera son retour sur le Dakar en 2027 chez Aston Martin",
-   "lien": "https://www.franceinfo.fr/dakar/fernando-alonso-fera-son-retour-sur-le-dakar-en-2027-chez-aston-martin_8224909.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T10:03:48+00:00",
-   "extrait": "L'actuel pilote de Formule 1 a décidé de revenir au rallye-raid, sept ans après sa première participation. Le Français Sébastien Loeb sera aussi aligné sur le Dakar chez Aston Martin, tout comme le…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "124abbbd5aa4",
-   "titre": "Ce que l'on sait du \"hub de retour\" européen prévu au Rwanda pour expulser des étrangers déboutés du droit d'asile",
-   "lien": "https://www.franceinfo.fr/monde/europe/union-europeenne/ce-que-l-on-sait-du-hub-de-retour-europeen-prevu-au-rwanda-pour-expulser-des-etrangers-deboutes-du-droit-d-asile_8286134.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T10:02:13+00:00",
-   "extrait": "Cinq pays de l'Union européenne ont annoncé l'ouverture de ce centre pour 2027. Les personnes migrantes expulsées de l'UE, d'abord des hommes célibataires, recevraient notamment un permis de séjour…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "7d6f63a85407",
-   "titre": "This teen had no place to go, so a hospital became his home",
-   "lien": "https://www.cbsnews.com/news/hospital-boarding-st-louis-teen-home/",
-   "source": "CBS News",
-   "date": "2026-11-17T10:00:10+00:00",
-   "extrait": "A young survivor of gun violence lived on the third floor of a St. Louis children's hospital, moving through the halls in a wheelchair, on and off for over three years. He said it became his home…",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "02959749c806",
-   "titre": "La Commission européenne confirme le décrochage de la France dans ses prévisions économiques d’automne",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/17/la-commission-europeenne-confirme-le-decrochage-de-la-france-dans-ses-previsions-economiques-d-automne_6812945_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-17T10:00:04+00:00",
-   "extrait": "En 2026, la croissance de l’Union européenne a mieux résisté que ne l’attendaient les experts de la Commission, sauf dans l’Hexagone, qui fait pâle figure. Quant à l’inflation, elle va continuer à…",
-   "tags": [
-    "Économie"
    ],
    "zone": "france"
   }
