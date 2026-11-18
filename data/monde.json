@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-18T03:05:39+00:00",
+ "maj": "2026-11-18T04:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,66 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "8822240bdef8",
+   "titre": "Trump in Philippines ahead of Putin, Xi summit; possible Kim meeting",
+   "lien": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
+   "source": "CBS News",
+   "date": "2026-11-18T04:01:30+00:00",
+   "extrait": "The president arrived in Manila for the start of a multi-day swing in Asia, where he's scheduled to meet with Russia's Vladimir Putin and China's Xi Jinping in a highly anticipated summit.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "f74dff648936",
+   "titre": "Mary Peltola wins Alaska Senate race, flipping seat for Dems",
+   "lien": "https://www.cbsnews.com/news/alaska-2026-senate-sullivan-peltola/",
+   "source": "CBS News",
+   "date": "2026-11-18T03:47:12+00:00",
+   "extrait": "Peltola, 53, became the first Democrat to represent Alaska in the House in 50 years in 2022.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "fe767c871657",
+   "titre": "Sénat américain : en prenant l'Alaska, les démocrates étendent leur majorité à 56 sièges contre 44",
+   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261118-etats-unis-midterms-senat-americain-alaska-peltola-victoire-democrates-etendent-leur-majorite-56-sieges",
+   "source": "France 24",
+   "date": "2026-11-18T03:44:27+00:00",
+   "extrait": "La démocrate Mary Peltola a remporté, au bout du suspense, la course pour le poste de sénateur de l'Alaska, selon des résultats officiels publiés mardi. Les démocrates disposeront à partir de…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "bdb11a9424f7",
+   "titre": "White House drops its nomination for FDA commissioner",
+   "lien": "https://www.cbsnews.com/news/white-house-drops-heidi-overton-fda-commissioner/",
+   "source": "CBS News",
+   "date": "2026-11-18T03:30:49+00:00",
+   "extrait": "The White House has dropped the nomination of Dr. Heidi Overton, President Trump's pick for FDA commissioner, CBS News has confirmed.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "e4b774a1e4bd",
+   "titre": "Mary Peltola flips Alaska's Senate seat into Democrats' column",
+   "lien": "https://www.npr.org/2026/11/17/g-s1-151567/alaska-senate-results-peltola-sullivan",
+   "source": "NPR",
+   "date": "2026-11-18T03:27:23+00:00",
+   "extrait": "Former Democratic Rep. Mary Peltola has narrowly won Alaska's U.S. Senate race, toppling the Republican incumbent, according to a race call by The Associated Press.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
   {
    "id": "7228b1af95e1",
    "titre": "Ex-Nvidia CEO agrees to testify to Congress amid affair probe",
@@ -82,18 +142,6 @@
     "Justice"
    ],
    "zone": "france"
-  },
-  {
-   "id": "bdb11a9424f7",
-   "titre": "White House drops Heidi Overton's nomination for FDA commissioner",
-   "lien": "https://www.cbsnews.com/news/white-house-drops-heidi-overton-fda-commissioner/",
-   "source": "CBS News",
-   "date": "2026-11-18T02:13:00+00:00",
-   "extrait": "The White House has dropped the nomination of Dr. Heidi Overton, President Trump's pick for FDA commissioner, CBS News has confirmed.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
   },
   {
    "id": "9c26f4a95628",
@@ -263,7 +311,7 @@
    "titre": "Nvidia shares strong results in first earnings report after Huang's resignation",
    "lien": "https://www.cbsnews.com/video/nvidia-shares-strong-results-in-first-earnings-report-after-huangs-resignation/",
    "source": "CBS News",
-   "date": "2026-11-18T00:47:47+00:00",
+   "date": "2026-11-18T00:47:00+00:00",
    "extrait": "AI giant Nvidia shared strong results in its first quarterly earnings report following the resignation of former CEO Jensen Huang over an affair with a suspected Chinese spy. CBS News' Kelly O'Grady…",
    "tags": [
     "Tech"
@@ -275,7 +323,7 @@
    "titre": "Duffy asks for $50 billion for FAA after ground stop",
    "lien": "https://www.cbsnews.com/video/transportation-secretary-sean-duffy-asks-for-50-billion-for-faa-after-ground-stop/",
    "source": "CBS News",
-   "date": "2026-11-18T00:46:59+00:00",
+   "date": "2026-11-18T00:46:00+00:00",
    "extrait": "Transportation Secretary Sean Duffy renewed his call for $50 billion in funding for FAA upgrades during an appearance on Capitol Hill Tuesday. CBS News' Kris Van Cleave has more.",
    "tags": [],
    "zone": "usa"
@@ -689,12 +737,14 @@
   },
   {
    "id": "bc9687678846",
-   "titre": "Thomas Markle charged over child sex abuse material in Philippines",
+   "titre": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
    "lien": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-17T22:44:15+00:00",
    "extrait": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
-   "tags": [],
+   "tags": [
+    "Justice"
+   ],
    "zone": "monde"
   },
   {
@@ -1891,18 +1941,6 @@
    "extrait": "Measles cases have more than doubled in the U.S. since 2025. Infectious disease researcher Dr. William Schaffner shares his thoughts.",
    "tags": [
     "Santé"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "8822240bdef8",
-   "titre": "Trump in Asia for Putin, Xi summit; possible Kim meeting",
-   "lien": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
-   "source": "CBS News",
-   "date": "2026-11-17T16:32:07+00:00",
-   "extrait": "The president arrived in Manila for the start of a multi-day swing in Asia, where he's scheduled to meet with Russia's Vladimir Putin and China's Xi Jinping in a highly anticipated summit.",
-   "tags": [
-    "Politique"
    ],
    "zone": "usa"
   },
@@ -3402,44 +3440,6 @@
     "Tech"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "6652d2623a7f",
-   "titre": "Russie : Poutine reçoit un responsable nord-coréen à Moscou",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261117-russie-poutine-re%C3%A7oit-un-responsable-nord-cor%C3%A9en-%C3%A0-moscou",
-   "source": "France 24",
-   "date": "2026-11-17T10:36:12+00:00",
-   "extrait": "Le président russe Vladimir Poutine a rencontré un haut responsable nord-coréen, a annoncé lundi le Kremlin, alors que le président ukrainien Volodymyr Zelensky a assuré que Moscou recevait \"des…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "9f4b2bdce592",
-   "titre": "\"Beaucoup de nuages s'accumulent à l'horizon\" avec l'inflation et l'élection présidentielle de 2027, alerte l'association des Restos du cœur",
-   "lien": "https://www.franceinfo.fr/societe/pauvrete/beaucoup-de-nuages-s-accumulent-a-l-horizon-avec-l-inflation-et-l-election-presidentielle-de-2027-alerte-l-association-des-restos-du-c-ur_8286329.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T10:32:50+00:00",
-   "extrait": "Yves Mérillon, le porte-parole des Restos du cœur estime que les dépenses de denrées et de logistique ont quasiment doublé en cinq ans. \"Il est évident qu'on ne pourra pas continuer comme ça\"…",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "e3d0d7df9361",
-   "titre": "La pétition contre CNews définitivement classée, mais l'Assemblée nationale va débattre du pluralisme dans les médias",
-   "lien": "https://www.franceinfo.fr/economie/medias/info-franceinfo-l-assemblee-nationale-va-debattre-du-pluralisme-dans-les-medias-meme-si-la-petition-contre-cnews-ne-sera-pas-examinee-dans-l-hemicycle_8286251.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T10:28:07+00:00",
-   "extrait": "Les instances du Palais-Bourbon ont voté pour qu'un débat se tienne sur la liberté d'expression, mais il ne portera pas seulement sur la chaîne d'information en continu du groupe Bolloré…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
   }
  ]
 }
