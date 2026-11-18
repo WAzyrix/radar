@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-18T19:05:45+00:00",
+ "maj": "2026-11-18T20:05:42+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,52 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "9f639cd35360",
+   "titre": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
+   "lien": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
+   "source": "BleepingComputer",
+   "date": "2026-11-18T19:39:33+00:00",
+   "extrait": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "fb8b318a049e",
+   "titre": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
+   "lien": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+   "source": "The Hacker News",
+   "date": "2026-11-18T18:31:17+00:00",
+   "extrait": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in. The decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been…",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
+  },
+  {
+   "id": "11aa6bef2bfb",
+   "titre": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+   "lien": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
+   "source": "The Hacker News",
+   "date": "2026-11-18T18:15:39+00:00",
+   "extrait": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts. Each flaw needs a…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "9c40ff9a7698",
+   "titre": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
+   "lien": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
+   "source": "The Hacker News",
+   "date": "2026-11-18T17:10:45+00:00",
+   "extrait": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF) The…",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
+  },
   {
    "id": "4d21e756021a",
    "titre": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
@@ -3349,51 +3395,6 @@
    "extrait": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today. The attacker…",
    "tags": [
     "Faille",
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "073e03d22dae",
-   "titre": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
-   "lien": "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/",
-   "source": "BleepingComputer",
-   "date": "2026-11-09T17:50:32+00:00",
-   "extrait": "A data-wiping malware attack has forced Russian cloud services provider Beget to rebuild its cloud infrastructure from scratch, the company said. [...]",
-   "tags": [
-    "Malware"
-   ]
-  },
-  {
-   "id": "7cd796fba406",
-   "titre": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
-   "lien": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
-   "source": "The Hacker News",
-   "date": "2026-11-09T17:36:28+00:00",
-   "extrait": "Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2…",
-   "tags": [
-    "Jailbreak",
-    "Fuite de données",
-    "Malware",
-    "Outil"
-   ]
-  },
-  {
-   "id": "83c125a28e2a",
-   "titre": "Cyberattaque des frigos : la piste iranienne se précise",
-   "lien": "https://www.zataz.com/cyberattaque-des-frigos-la-piste-iranienne-se-precise/",
-   "source": "Zataz",
-   "date": "2026-11-09T16:28:21+00:00",
-   "extrait": "Cyberattaque de 700 sites frigorifiques : Paris vise une unité iranienne après vingt départs de feu.",
-   "tags": []
-  },
-  {
-   "id": "094609239735",
-   "titre": "Binance denies data breach after alleged ShinyHunters claims",
-   "lien": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
-   "source": "BleepingComputer",
-   "date": "2026-11-09T16:12:39+00:00",
-   "extrait": "Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a newly emerged underground cybercrime forum. [...]",
-   "tags": [
     "Fuite de données"
    ]
   }
