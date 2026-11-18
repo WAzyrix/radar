@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-18T11:05:40+00:00",
+ "maj": "2026-11-18T12:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,15 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "57cf485fa921",
+   "titre": "Dizigom illegal streaming service with 21M monthly visits shuts down",
+   "lien": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
+   "source": "BleepingComputer",
+   "date": "2026-11-18T11:50:25+00:00",
+   "extrait": "The Alliance for Creativity and Entertainment (ACE) has announced the shutdown of Dizigom, one of Turkey's largest piracy sites, after a settlement agreement with the site's operators. [...]",
+   "tags": []
+  },
   {
    "id": "4c23a9ef7f53",
    "titre": "Osaka exposée à une fuite massive",
@@ -3378,17 +3387,6 @@
    "source": "CERT-FR",
    "date": "2026-11-09T00:00:00+00:00",
    "extrait": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "8ac3db3ae81b",
-   "titre": "Vulnérabilité dans Moodle (09 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1481/",
-   "source": "CERT-FR",
-   "date": "2026-11-09T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans Moodle. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
    "tags": [
     "Faille"
    ]
