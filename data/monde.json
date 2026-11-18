@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-18T09:05:40+00:00",
+ "maj": "2026-11-18T10:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,28 +22,152 @@
  "erreurs": [],
  "articles": [
   {
-   "id": "3894b7b2a110",
-   "titre": "Les démocrates s'imposent en Alaska et obtiennent leur plus large majorité au Sénat depuis seize ans",
-   "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/les-democrates-s-imposent-en-alaska-et-obtiennent-leur-plus-large-majorite-au-senat-depuis-seize-ans_8287943.html#xtor=RSS-3-[lestitres]",
+   "id": "8822240bdef8",
+   "titre": "Trump arrives in China ahead of summit with Putin and Xi",
+   "lien": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
+   "source": "CBS News",
+   "date": "2026-11-18T10:03:08+00:00",
+   "extrait": "President Trump is in China, where he may meet with Vladimir Putin before a trilateral summit with Putin and China's Xi Jinping, and a possible meeting with Kim Jong Un.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "1127ac3978a5",
+   "titre": "Special education teachers shared their stories. You told NPR you felt seen",
+   "lien": "https://www.npr.org/2026/11/18/nx-s1-6031176/special-education-teachers-audience-response",
+   "source": "NPR",
+   "date": "2026-11-18T10:00:00+00:00",
+   "extrait": "NPR is following along as about a dozen special education teachers navigate this school year and share their joys and challenges. Listeners say they're not alone.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "cf29155825fb",
+   "titre": "Morning news brief",
+   "lien": "https://www.npr.org/2026/11/18/nx-s1-6042284/morning-news-brief",
+   "source": "NPR",
+   "date": "2026-11-18T09:44:52+00:00",
+   "extrait": "President Trump is in China for a meeting with its leader and Russia's Putin, Nvidia holds first earning call since CEO's resignation, concerns grow after ongoing tech outages nationwide.",
+   "tags": [
+    "Politique",
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "c8bddc70e372",
+   "titre": "Une balle reçue par courrier, des menaces de mort... Le député LFI Sébastien Delogu porte plainte contre X",
+   "lien": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/une-balle-recue-par-courrier-des-menaces-de-mort-le-depute-lfi-sebastien-delogu-porte-plainte-contre-x-3451554.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-11-18T09:01:30+00:00",
-   "extrait": "Mary Peltola, représentante des peuples autochtones, a remporté la victoire dans un état traditionnellement républicain.",
+   "date": "2026-11-18T09:39:53+00:00",
+   "extrait": "Le député insoumis a déclaré mardi 17 novembre avoir déposé une plainte notamment pour menaces de mort, actes d’intimidation ou encore appels et messages malveillants.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "e989e5838db4",
+   "titre": "\"Même à la police, je n'ai pas tout dit\" : une ancienne compagne de Philippe Caubère accuse le comédien de l'avoir fait violer par d'autres hommes, selon Mediapart",
+   "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/meme-a-la-police-je-n-ai-pas-tout-dit-une-ancienne-compagne-de-philippe-caubere-accuse-le-comedien-de-l-avoir-fait-violer-par-d-autres-hommes-selon-mediapart_8287790.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T09:35:24+00:00",
+   "extrait": "Le site d'investigation a recueilli le témoignage de Maïté Fontaine, qui a entretenu une relation avec le metteur en scène de théâtre, de 33 ans son aîné, entre 2007 et 2008.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "4359465af792",
+   "titre": "Nvidia : des profits historiques en pleine tempête",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261118-nvidia-des-profits-historiques-en-pleine-temp%C3%AAte",
+   "source": "France 24",
+   "date": "2026-11-18T09:30:20+00:00",
+   "extrait": "Le géant américain des puces électroniques pulvérise les prévisions avec 65 milliards de dollars de bénéfices en trois mois. Des résultats spectaculaires qui contrastent avec la crise provoquée par…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "1cff134a9815",
+   "titre": "Ghana's new $60m presidential jet sparks public outrage",
+   "lien": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-18T09:27:51+00:00",
+   "extrait": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "c4ac426bb950",
+   "titre": "Xi Jinping accueille Donald Trump à son arrivée en Chine avant un sommet tripartite inédit avec Vladimir Poutine pour évoquer les crises internationales",
+   "lien": "https://www.franceinfo.fr/monde/xi-jinping-recoit-vladimir-poutine-avant-un-sommet-inedit-avec-donald-trump-pour-evoquer-les-crises-internationales_8287652.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T09:26:47+00:00",
+   "extrait": "Le président américain est arrivé en Chine mercredi, alors que les chefs d'Etat russe et chinois se sont entretenus quelques heures plus tôt.",
    "tags": [
     "Politique"
    ],
    "zone": "france"
   },
   {
-   "id": "8822240bdef8",
-   "titre": "Trump in China for Putin, Xi summit; possible meeting with Kim Jong Un",
-   "lien": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
-   "source": "CBS News",
-   "date": "2026-11-18T08:58:00+00:00",
-   "extrait": "The president arrived in China after a stop in the Philippines. He's slated have a summit in China with Vladimir Putin and Xi Jinping, and may meet with Kim Jong Un.",
+   "id": "641478f44e3b",
+   "titre": "Bruxelles menace Temu d'une nouvelle amende pour non-respect des règles européennes",
+   "lien": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/bruxelles-menace-temu-d-une-nouvelle-amende-pour-non-respect-des-regles-europeennes_8287730.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T09:20:07+00:00",
+   "extrait": "Pointé du doigt à plusieurs reprises pour avoir mis en vente des produits dangereux ou défectueux, le géant chinois du commerce en ligne risque une nouvelle sanction. La Commission européenne…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "93dea285e3fa",
+   "titre": "Avec l'augmentation du smic, \"on peut craindre 250 000 suppressions d'emplois\", affirme Patrick Martin, président du Medef",
+   "lien": "https://www.franceinfo.fr/politique/avec-l-augmentation-du-smic-on-peut-craindre-250-000-suppressions-d-emplois-affirme-patrick-martin-president-du-medef_8287838.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T09:19:30+00:00",
+   "extrait": "Patrick Martin, président du Medef, était l'invité des \"4 Vérités\", mercredi 18 novembre. Il est revenu sur l'augmentation du smic de 1,6% qui va entrer en vigueur le 1er décembre. Selon lui, cette…",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "0a0aebdbe7f4",
+   "titre": "\"Martyre de l'A10\" : le maire de Suèvres espère que le corps d'Inass va rester dans le cimetière de sa commune pour \"la laisser en paix\"",
+   "lien": "https://www.franceinfo.fr/faits-divers/martyre-de-l-a10/martyre-de-l-a10-le-maire-de-suevres-espere-que-le-corps-d-inass-va-rester-dans-le-cimetiere-de-sa-commune-pour-la-laisser-en-paix_8287952.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T09:05:06+00:00",
+   "extrait": "Les frères et sœurs d'Inass souhaitent \"offrir un autre lieu de repos\" à la jeune fille, \"en correspondance avec ses liens familiaux\". Le maire, Frédéric Dejente rappelle que la tombe \"est là depuis…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "3894b7b2a110",
+   "titre": "Les démocrates s'imposent en Alaska et obtiennent leur plus large majorité au Sénat depuis seize ans",
+   "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/les-democrates-s-imposent-en-alaska-et-obtiennent-leur-plus-large-majorite-au-senat-depuis-seize-ans_8287943.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T09:01:30+00:00",
+   "extrait": "La victoire de Mary Peltola renforce la vague bleue démocrate aux Etats-Unis lors des élections de mi-mandat, et parachève le camouflet infligé au président Donald Trump.",
    "tags": [
     "Politique"
    ],
-   "zone": "usa"
+   "zone": "france"
+  },
+  {
+   "id": "114c02629bb4",
+   "titre": "\"Tout le monde est à sec\" : face à la création de 5 000 places dans les universités, les enseignants-chercheurs dénoncent le manque de moyens",
+   "lien": "https://www.franceinfo.fr/societe/education/parcoursup/tout-le-monde-est-a-sec-face-a-la-creation-de-5-000-places-dans-les-universites-les-enseignants-chercheurs-denoncent-le-manque-de-moyens_8284652.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T08:53:26+00:00",
+   "extrait": "Des professeurs d'université s'inquiètent notamment du recours croissant à des enseignants vacataires, au détriment des postes d'enseignants-chercheurs.",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "fc69323983f3",
@@ -69,6 +193,16 @@
    "zone": "france"
   },
   {
+   "id": "5acc302f4367",
+   "titre": "De fausses réunions Zoom pour voler des millions : le FBI dévoile une vaste arnaque attribuée à la Corée du Nord",
+   "lien": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/de-fausses-reunions-zoom-pour-voler-des-millions-le-fbi-devoile-une-vaste-arnaque-attribuee-a-la-coree-du-nord_8266715.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T08:41:20+00:00",
+   "extrait": "Le FBI affirme avoir démantelé une infrastructure utilisée par des pirates nord-coréens pour dérober des cryptomonnaies. Leur méthode : attirer leurs victimes dans de fausses réunions Zoom ou Teams…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "5699c4587124",
    "titre": "\"Il est déjà au coin du ring, il pourrait en tomber\" : comment Edouard Philippe a perdu son statut d'ultra-favori de la droite et du centre pour la présidentielle",
    "lien": "https://www.franceinfo.fr/elections/il-est-deja-au-coin-du-ring-il-pourrait-en-tomber-comment-edouard-philippe-a-perdu-son-statut-d-ultra-favori-de-la-droite-et-du-centre-pour-la-presidentielle_8286176.html#xtor=RSS-3-[lestitres]",
@@ -89,6 +223,18 @@
    "extrait": "Le département a été placé en vigilance orange \"pluie-inondation\", tout comme la Somme.",
    "tags": [
     "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "772b6f6f9216",
+   "titre": "La réforme des retraites de Marine Le Pen décryptée : un départ à 60 ans mais à quelles conditions et à quel prix ?",
+   "lien": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/la-reforme-des-retraites-de-marine-le-pen-decryptee-un-depart-a-60-ans-mais-a-quelles-conditions-et-a-quel-prix_8266760.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T08:34:00+00:00",
+   "extrait": "La candidate du Rassemblement national a détaillé mardi sa réforme des retraites. Elle prévoit d'abaisser l'âge légal de départ, en fonction du moment d'entrée dans la vie active et propose…",
+   "tags": [
+    "Économie"
    ],
    "zone": "france"
   },
@@ -150,7 +296,7 @@
   },
   {
    "id": "c5e1aec74593",
-   "titre": "La directrice générale d’Engie fait savoir à Jean-Luc Mélenchon son opposition à la renationalisation du fournisseur d'énergie",
+   "titre": "La directrice générale d'Engie fait savoir à Jean-Luc Mélenchon son opposition à la renationalisation du fournisseur d'énergie",
    "lien": "https://www.franceinfo.fr/elections/la-directrice-generale-d-engie-fait-savoir-a-jean-luc-melenchon-son-opposition-a-la-renationalisation-du-fournisseur-d-energie_8287907.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-11-18T08:16:03+00:00",
@@ -159,14 +305,24 @@
    "zone": "france"
   },
   {
-   "id": "1cff134a9815",
-   "titre": "Ghana's new $60m presidential jet sparks public outrage",
-   "lien": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-18T08:08:20+00:00",
-   "extrait": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
+   "id": "06cb76ac9f9f",
+   "titre": "Présidentielle 2027 : à Villeurbanne, Raphaël Glucksmann ancre sa campagne à gauche face à l’extrême droite",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-a-villeurbanne-raphael-glucksmann-ancre-sa-campagne-a-gauche-face-a-l-extreme-droite_6813091_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-18T08:12:24+00:00",
+   "extrait": "Dans la continuité du débat de lundi sur TF1 puis LCI, le candidat a défendu l’idée de justice sociale pour « redevenir une société de travailleurs et non de rentiers ».",
    "tags": [],
-   "zone": "monde"
+   "zone": "france"
+  },
+  {
+   "id": "e9606b3fedaf",
+   "titre": "Rebecca Amsellem, économiste : « Pour les femmes, les écarts de revenus sont des écarts de liberté »",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/18/rebecca-amsellem-economiste-pour-les-femmes-les-ecarts-de-revenus-sont-des-ecarts-de-liberte_6813089_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-18T08:00:12+00:00",
+   "extrait": "Dans un entretien au « Monde », la fondatrice de la newsletter féministe « Les Glorieuses » revient sur les inégalités salariales de genre. Ainsi, chaque année depuis 2016, elle calcule à partir de…",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "2567a8ea2bff",
@@ -205,6 +361,18 @@
    "zone": "monde"
   },
   {
+   "id": "a590c49f7f52",
+   "titre": "Vers un SpaceX européen ? Un groupe finlandais veut devenir un nouvel acteur majeur du lancement de satellites",
+   "lien": "https://www.franceinfo.fr/replay-radio/le-brief-eco/l-europe-va-t-elle-avoir-son-propre-spacex_8266757.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T07:43:21+00:00",
+   "extrait": "Deux groupes européens sont à la manœuvre pour tenter de construire ce nouvel empire spatial, qui équivaudrait au groupe américain de lanceurs de fusées fondé par le milliardaire Elon Musk.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "32e35e40e563",
    "titre": "\"Jean-Luc Mélenchon et Marine Le Pen sont les courroies de transmission de la propagande du Kremlin\", estime le député Pieyre-Alexandre Anglade",
    "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/jean-luc-melenchon-et-marine-le-pen-sont-les-courroies-de-transmission-de-la-propagande-du-kremlin-estime-le-depute-pieyre-alexandre-anglade_8287835.html#xtor=RSS-3-[lestitres]",
@@ -220,7 +388,7 @@
    "lien": "https://www.lemonde.fr/societe/article/2026/11/18/resultats-des-evaluations-nationales-2026-le-francais-en-recul-les-mathematiques-resistent_6813088_3224.html",
    "source": "Le Monde",
    "date": "2026-11-18T07:41:00+00:00",
-   "extrait": "En français, les performances diminuent du CE1 au CM2, ainsi qu’en 5e, en 4e et 2de, selon les résultats des tests passés en septembre. Le ministère de l’éducation mise sur les nouveaux programmes…",
+   "extrait": "En français, les performances diminuent du CE1 au CM2, ainsi qu’en 5e, en 4e et en 2de, selon les résultats des tests passés en septembre. Le ministère de l’éducation mise sur les nouveaux…",
    "tags": [],
    "zone": "france"
   },
@@ -393,6 +561,18 @@
    "zone": "france"
   },
   {
+   "id": "cf6cb66a445a",
+   "titre": "\"Ni avenir ni humanité\" : le Premier ministre espagnol, Pedro Sanchez, s'oppose au projet européen de centre pour migrants au Rwanda",
+   "lien": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/ni-avenir-ni-humanite-le-premier-ministre-espagnol-pedro-sanchez-s-oppose-au-projet-europeen-de-centre-pour-migrants-au-rwanda_8266730.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T06:32:00+00:00",
+   "extrait": "Le projet a été présenté par l’Allemagne, l’Autriche, le Danemark, la Grèce et les Pays-Bas pour durcir la lutte contre l'immigration illégale.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "bb9537ec090b",
    "titre": "Coluche, Emmanuel Macron, Teddy Riner… Ce que ces candidatures \"hors système\", plus ou moins réussies, disent de l'élection présidentielle",
    "lien": "https://www.franceinfo.fr/elections/coluche-emmanuel-macron-teddy-riner-ce-que-ces-candidatures-hors-systeme-plus-ou-moins-reussies-disent-de-l-election-presidentielle_8286806.html#xtor=RSS-3-[lestitres]",
@@ -455,18 +635,6 @@
    "extrait": "Alors que les risques liés à l’augmentation des températures vont s’accentuer, le secteur touristique reste insuffisamment préparé, souligne le rapport Destination Climate RiskScan, qui analyse 2…",
    "tags": [
     "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c4ac426bb950",
-   "titre": "Xi Jinping reçoit Vladimir Poutine avant un sommet inédit avec Donald Trump pour évoquer les crises internationales",
-   "lien": "https://www.franceinfo.fr/monde/xi-jinping-recoit-vladimir-poutine-avant-un-sommet-inedit-avec-donald-trump-pour-evoquer-les-crises-internationales_8287652.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T05:43:15+00:00",
-   "extrait": "Le président russe est arrivé en Chine pour participer à une rencontre tripartite avec Donald Trump que certains décrivent comparent à la conférence de Yalta.",
-   "tags": [
-    "Politique"
    ],
    "zone": "france"
   },
@@ -1906,6 +2074,18 @@
    "zone": "france"
   },
   {
+   "id": "8004e409b20e",
+   "titre": "\"Il y a une grosse fatigue physique\" : les CRS, à bout, se mobilisent",
+   "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/il-y-a-une-grosse-fatigue-physique-les-crs-a-bout-se-mobilisent_8287067.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T19:52:39+00:00",
+   "extrait": "À force d’encadrer les manifestations, les CRS se disent à bout. Plus de 1 000 d’entre eux étaient indisponibles ce mardi 17 novembre selon le syndicat Alliance Police Nationale après avoir demandé…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "2b0326028939",
    "titre": "Un avion de transport militaire s'est écrasé en Sibérie faisant 19 morts",
    "lien": "https://www.franceinfo.fr/monde/russie/un-avion-de-transport-militaire-s-est-ecrase-en-siberie-faisant-19-morts_8287073.html#xtor=RSS-3-[lestitres]",
@@ -2234,11 +2414,11 @@
   },
   {
    "id": "c51774379bdc",
-   "titre": "CAN 2027 : la RD Congo retarde sa qualification, la Côte d'Ivoire ralentie en Gambie",
+   "titre": "CAN 2027: la Sierra Leone retarde la qualification de la RD Congo, la Côte d'Ivoire freinée par la Gambie",
    "lien": "https://www.france24.com/fr/sports/20261117-can-2027-la-rdc-retarde-sa-qualification-la-c%C3%B4te-d-ivoire-ralentie-en-gambie",
    "source": "France 24",
-   "date": "2026-11-17T18:08:16+00:00",
-   "extrait": "La Côte d'Ivoire et la RD Congo avaient besoin d'une victoire ce mardi 17 novembre, respectivement contre la Gambie et la Sierra Leone, pour valider leur billet pour la CAN 2027. Le travail n'a pas…",
+   "date": "2026-11-17T18:11:37+00:00",
+   "extrait": "",
    "tags": [],
    "zone": "monde"
   },
@@ -3264,183 +3444,6 @@
    "date": "2026-11-17T14:26:06+00:00",
    "extrait": "Pet insurance can help cover costly veterinary bills for senior pets, but there are some trade-offs to consider.",
    "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "d317c689742e",
-   "titre": "Cybersecurity expert breaks down recent outages",
-   "lien": "https://www.cbsnews.com/video/cybersecurity-expert-breaks-down-recent-outages/",
-   "source": "CBS News",
-   "date": "2026-11-17T14:25:49+00:00",
-   "extrait": "Chris Krebs, the former director of the Cybersecurity and Infrastructure Security Agency, joins \"CBS Mornings\" to break down the recent travel and banking outages.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "672946f2456e",
-   "titre": "How new US chip restrictions on South East Asia will hit China",
-   "lien": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-17T14:25:45+00:00",
-   "extrait": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "fb64703b0873",
-   "titre": "Les 403 plus grands data centers américains émettent plus de gaz à effet de serre que certains pays européens, selon des chercheurs de Harvard",
-   "lien": "https://www.franceinfo.fr/environnement/crise-climatique/les-403-plus-grands-data-centers-americains-emettent-plus-de-gaz-a-effet-de-serre-que-certains-pays-europeens-selon-des-chercheurs-de-harvard_8286323.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T14:22:45+00:00",
-   "extrait": "Avec le développement de l'intelligence artificielle, ces infrastructures très gourmandes en eau et en électricité se multiplient aux Etats-Unis. Une étude scientifique a évalué leur impact sur le…",
-   "tags": [
-    "Climat",
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "b8d681ab4297",
-   "titre": "Dans l'ombre de la sortie de GTA VI, des salariés de Rockstar Games se prononcent sur la reconnaissance d'un syndicat",
-   "lien": "https://www.franceinfo.fr/culture/jeux-video/dans-l-ombre-de-la-sortie-de-gta-vi-des-salaries-de-rockstar-games-se-prononcent-sur-la-reconnaissance-d-un-syndicat_8284856.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T14:21:56+00:00",
-   "extrait": "Plus de 1 600 salariés britanniques du studio sont appelés à voter pour trancher le sort du Rockstar Game Workers Union. En cas de vote favorable, il deviendrait le plus gros syndicat de l'industrie…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "90440b36342e",
-   "titre": "Why you should invest in gold for 2027",
-   "lien": "https://www.cbsnews.com/news/why-invest-in-gold-2027/",
-   "source": "CBS News",
-   "date": "2026-11-17T14:21:44+00:00",
-   "extrait": "A gold investment heading into the new year makes a lot of sense. Here's what investors should consider now.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "4f98cc5f07f1",
-   "titre": "Pétition pour interdire CNews : un débat élargi à tous les médias finalement organisé et déjà controversé",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/17/petition-pour-interdire-cnews-un-debat-elargi-a-tous-les-medias-finalement-organise-et-deja-controverse_6812980_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-17T14:20:00+00:00",
-   "extrait": "L’Assemblée nationale a acté, mardi 17 novembre, qu’elle discutera en Hémicycle du pluralisme et de la liberté d’expression dans les médias, mais pas de la suppression de la chaîne du groupe…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "62e1abb524f2",
-   "titre": "Robert Pattinson announced as new James Bond",
-   "lien": "https://www.cbsnews.com/video/robert-pattinson-announced-as-new-james-bond/",
-   "source": "CBS News",
-   "date": "2026-11-17T14:15:50+00:00",
-   "extrait": "Robert Pattinson was announced as the latest actor to play James Bond on Monday. Nischelle Turner reports.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "8928f7661833",
-   "titre": "Biden lashes out at Trump in new memoir",
-   "lien": "https://www.cbsnews.com/video/biden-lashes-out-at-trump-in-new-memoir/",
-   "source": "CBS News",
-   "date": "2026-11-17T14:14:00+00:00",
-   "extrait": "Presidential historian Doug Brinkley joins CBS News with more on former President Biden's new memoir, \"Promise Me, America.\"",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "114c02629bb4",
-   "titre": "\"Tout le monde est à sec\" : face à la création de 5 000 places dans les universités, les enseignants-chercheurs dénoncent le manque de moyens",
-   "lien": "https://www.franceinfo.fr/societe/education/parcoursup/tout-le-monde-est-a-sec-face-a-la-creation-de-5-000-places-dans-les-universites-les-enseignants-chercheurs-denoncent-le-manque-de-moyens_8284652.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T14:13:08+00:00",
-   "extrait": "Des professeurs d'université s'inquiètent notamment du recours croissant à des enseignants vacataires, au détriment des postes d'enseignants-chercheurs.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "5ecfcfb65eef",
-   "titre": "Roblox hearings on sexual abuse to begin",
-   "lien": "https://www.cbsnews.com/video/roblox-hearings-on-sexual-abuse-to-begin/",
-   "source": "CBS News",
-   "date": "2026-11-17T14:11:22+00:00",
-   "extrait": "Sexual abuse survivors are set to testify before a Senate committee over the safety of children's gaming platforms like Roblox. Jo Ling Kent reports.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "c63feef9cef9",
-   "titre": "Jeffrey Epstein's death may not have been suicide, forensic expert says",
-   "lien": "https://www.cbsnews.com/video/jeffrey-epsteins-death-may-not-have-been-suicide-forensic-expert-says/",
-   "source": "CBS News",
-   "date": "2026-11-17T14:06:01+00:00",
-   "extrait": "Dr. Michael Freeman, a forensics expert who analyzed Jeffrey Epstein's death, tells the CBS News Investigative Unit that his death may have been a homicide.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "2d111d71af1f",
-   "titre": "La série \"Slow Horses\", renouvelée pour une neuvième et une dixième saison, deviendra ainsi la plus longue série de la plateforme Apple TV",
-   "lien": "https://www.franceinfo.fr/culture/series/la-serie-slow-horses-renouvelee-pour-une-neuvieme-et-une-dixieme-saison-deviendra-ainsi-la-plus-longue-serie-de-la-plateforme-apple-tv_8286338.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T14:03:06+00:00",
-   "extrait": "L'annonce est intervenue le même jour que la non-sélection de l'un de ses acteurs principaux, Jack Lowden, pour le rôle de James Bond.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "f55276f6ba6d",
-   "titre": "Missing plane with 3 on board found crashed in Grand Canyon",
-   "lien": "https://www.cbsnews.com/news/missing-plane-found-crashed-grand-canyon/",
-   "source": "CBS News",
-   "date": "2026-11-17T14:02:37+00:00",
-   "extrait": "A small plane was found in the Grand Canyon's remote North Rim after crashing with three people on board Sunday night. No one survived.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "0eea6236c8ef",
-   "titre": "\"Hunger Games : lever de soleil sur la moisson\" : un nouveau préquel coloré au casting rafraîchissant",
-   "lien": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/hunger-games-lever-de-soleil-sur-la-moisson-un-nouveau-prequel-colore-au-casting-rafraichissant_8285240.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T14:00:01+00:00",
-   "extrait": "Ce volet, tiré du roman éponyme de Suzanne Collins paru en 2025, raconte la jeunesse d'Haymitch Abernathy, mentor de l'héroïne des premiers épisodes de la saga.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "e6316b2be353",
-   "titre": "Lindsay Clancy judge sets date for retrial",
-   "lien": "https://www.cbsnews.com/video/lindsay-clancy-judge-sets-date-for-retrial/",
-   "source": "CBS News",
-   "date": "2026-11-17T13:58:35+00:00",
-   "extrait": "The judge in the Lindsay Clancy case set her retrial date for March 29, 2027, after her first trial ended with a hung jury. Caroline Polisi has more.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "890bb170fcac",
-   "titre": "Trump's Asia tour kicks off in the Philippines with Modi, Takaichi and Albanese meetings",
-   "lien": "https://www.cbsnews.com/video/trumps-tour-of-asia-kicks-off-in-the-philippines/",
-   "source": "CBS News",
-   "date": "2026-11-17T13:53:00+00:00",
-   "extrait": "President Trump met with Japanese, Indian and Australian leaders in the Philippines and planned a Thai trade deal ahead of a summit with China's Xi Jinping and Russia's Vladimir Putin. Politico…",
-   "tags": [
-    "Politique"
-   ],
    "zone": "usa"
   }
  ]
