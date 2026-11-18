@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-17T23:05:41+00:00",
+ "maj": "2026-11-18T00:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,14 +22,192 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "425c48221cbd",
+   "titre": "Democrats have flipped 46 House seats. Here's the breakdown.",
+   "lien": "https://www.cbsnews.com/news/house-districts-flipped-2026-midterm-elections/",
+   "source": "CBS News",
+   "date": "2026-11-18T00:03:54+00:00",
+   "extrait": "Democrats won control of the House by flipping more than 40 Republican-held seats, picking up perennial swing districts and seats that were once considered deep red.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "8956cf8b412c",
+   "titre": "U.S. launches strikes on Iran's Qeshm Island in Strait of Hormuz",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
+   "source": "CBS News",
+   "date": "2026-11-17T23:59:06+00:00",
+   "extrait": "The strikes came after Iran launched attacks against U.S. radar systems in Bahrain three times in less than a week.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "fcaf1825aec5",
+   "titre": "Rep.-elect Sam Forstag says cutting health care costs is his top priority",
+   "lien": "https://www.cbsnews.com/video/rep-elect-sam-forstag-says-his-number-1-priority-is-cutting-health-care-costs/",
+   "source": "CBS News",
+   "date": "2026-11-17T23:52:17+00:00",
+   "extrait": "Earlier this month, Sam Forstag became the first Democrat elected to the House from Montana since 1994. Forstag joined \"The Takeout\" to discuss his priorities for the next Congress.",
+   "tags": [
+    "Politique",
+    "Santé"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "641da71743b2",
+   "titre": "Le conseil d'administration de Nvidia ferme la porte à un retour de son ex-patron Jensen Huang",
+   "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261117-conseil-administration-nvidia-semi-conducteurs-ferme-porte-retour-ex-patron-jensen-huang-harvey-jones-resultats-ia",
+   "source": "France 24",
+   "date": "2026-11-17T23:51:46+00:00",
+   "extrait": "\"Le conseil d'administration de Nvidia a accepté à l'unanimité sa démission et n'envisage pas de réinstaller Jensen au poste de directeur général\", a assuré mardi son président Harvey Jones, qui a…",
+   "tags": [
+    "Politique",
+    "Santé",
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "cb5fc77a5afc",
+   "titre": "Nvidia sees strong earnings report despite Jensen Huang scandal and resignation",
+   "lien": "https://www.cbsnews.com/video/nvidia-sees-strong-earnings-report-despite-jensen-huang-scandal-and-resignation/",
+   "source": "CBS News",
+   "date": "2026-11-17T23:43:51+00:00",
+   "extrait": "Nvidia on Tuesday night held its first earnings call since Jensen Huang's resignation. CBS News' Kelly O'Grady reports and Heath Terry, head of AI research at Citi, joins with his thoughts.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "3d503941344b",
+   "titre": "Paris Hilton returns to Capitol to push for House vote on deepfake bill",
+   "lien": "https://www.cbsnews.com/news/paris-hilton-alexandria-ocasio-cortez-defiance-act-deepfake-bill/",
+   "source": "CBS News",
+   "date": "2026-11-17T23:31:59+00:00",
+   "extrait": "The Senate passed the bipartisan legislation, titled the DEFIANCE Act, in January. It has stalled in the House.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "9d076973c517",
+   "titre": "How Trump's summit with Putin and Xi might be like the Yalta Conference",
+   "lien": "https://www.cbsnews.com/video/previewing-trumps-summit-with-putin-xi/",
+   "source": "CBS News",
+   "date": "2026-11-17T23:30:01+00:00",
+   "extrait": "President Trump is set to meet this week with Russian President Vladimir Putin and Chinese President Xi Jinping. Historian Catherine Grace Katz, author of \"The Daughters of Yalta,\" joins CBS News to…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "3777cd22ed02",
+   "titre": "Trump FDA nominee Heidi Overton struggling to win GOP support",
+   "lien": "https://www.cbsnews.com/news/trump-fda-nominee-heidi-overton-confirmation-struggle/",
+   "source": "CBS News",
+   "date": "2026-11-17T23:28:00+00:00",
+   "extrait": "Heidi Overton, Trump's pick to be FDA commissioner, is having trouble finding enough Republican support to advance her nomination, which could be pulled if she falls short.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "4a3fdbb8a2e2",
+   "titre": "Man convicted in Iran-backed plot to kill Trump is sentenced",
+   "lien": "https://www.cbsnews.com/news/asif-merchant-sentencing-prison-iran-backed-plot-to-murder-trump/",
+   "source": "CBS News",
+   "date": "2026-11-17T23:21:28+00:00",
+   "extrait": "A man who was convicted of attempted terrorism and murder-for-hire plots, with potential targets including President Trump and former President Joe Biden, was sentenced to 27 1/2 years in federal…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "657824d74394",
+   "titre": "Student accused of taking photos of planes for China to be detained",
+   "lien": "https://www.cbsnews.com/news/student-accused-photos-planes-chinese-communist-party-detained/",
+   "source": "CBS News",
+   "date": "2026-11-17T23:18:00+00:00",
+   "extrait": "A student accused of working with a Chinese Communist Party representative to take photos of airplanes in Chicago — and lying about it to U.S. investigators — will be detained pending trial, a judge…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "558e576b2708",
+   "titre": "Duff asks lawmakers for $50 billion in emergency funding for FAA upgrades",
+   "lien": "https://www.cbsnews.com/video/duff-asks-lawmakers-for-50-billion-in-emergency-funding-for-atc-upgrades/",
+   "source": "CBS News",
+   "date": "2026-11-17T23:16:54+00:00",
+   "extrait": "Transportation Secretary Sean Duffy was on Capitol Hill Tuesday, seeking $50 billion in emergency funds for FAA upgrades following last week's nationwide ground stop. CBS News' Nikole Killion has…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
    "id": "c2ffe56cf31d",
    "titre": "Nvidia sees strong growth in first earnings report without Huang",
    "lien": "https://www.cbsnews.com/news/nvidia-earnings-jensen-huang-colette-kress/",
    "source": "CBS News",
-   "date": "2026-11-17T23:01:01+00:00",
+   "date": "2026-11-17T23:11:07+00:00",
    "extrait": "Nvidia's latest earnings are the first time the chipmaker has reported financial results without founder and former CEO Jensen Huang at the helm.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "2c2cc33c6acf",
+   "titre": "Une primaire de la droite et du centre prend forme avec les équipes d'Attal, Retailleau et Lisnard",
+   "lien": "https://www.france24.com/fr/france/20261117-equipes-attal-retailleau-lisnard-avancent-sur-une-primaire-droite-centre-sans-edouard-philippe-presidentielle-2027-election-candidats-lr-nouvelle-energie-renaissance",
+   "source": "France 24",
+   "date": "2026-11-17T23:04:52+00:00",
+   "extrait": "Réunis mardi, les représentants des candidats à la présidentielle Gabriel Attal (Renaissance), Bruno Retailleau (LR) et David Lisnard (Nouvelle Energie) se sont mis d'accord sur le principe d'une…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "6b88be65972d",
+   "titre": "Former CDC director on U.S. losing measles-elimination status",
+   "lien": "https://www.cbsnews.com/video/former-cdc-director-on-us-losing-measles-elimination-status/",
+   "source": "CBS News",
+   "date": "2026-11-17T23:04:19+00:00",
+   "extrait": "The U.S. has recorded more than 5,400 cases of measles so far in 2026, more than double last year's total. Now, the Pan American Health Organization has revoked the United States'…",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "1eb6c4f0c38d",
+   "titre": "Nvidia reports bumper results as firm says it's not reinstating Huang",
+   "lien": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-17T23:03:39+00:00",
+   "extrait": "Nvidia reported strong quarterly earnings on Tuesday amid the dramatic exit of ex-CEO Jensen Huang.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "3e19db2c7da4",
+   "titre": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+   "lien": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-17T23:02:12+00:00",
+   "extrait": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+   "tags": [
+    "Politique",
+    "Tech"
+   ],
+   "zone": "monde"
   },
   {
    "id": "0d227bcaafe4",
@@ -57,6 +235,18 @@
    "zone": "france"
   },
   {
+   "id": "18336eb0e8c2",
+   "titre": "What to make of all the recent tech outages",
+   "lien": "https://www.cbsnews.com/video/what-to-make-of-all-the-recent-tech-outages/",
+   "source": "CBS News",
+   "date": "2026-11-17T22:57:49+00:00",
+   "extrait": "The federal government and several American companies have seen numerous technical disruptions over the last week. CBS News' Major Garrett shares his thoughts on the outages, Nicole Sganga reports…",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "02ba7c2d802a",
    "titre": "Mobilisation du 17 novembre : la CGT a recensé plus de 500 000 manifestants en France et le ministère de l'Intérieur 146 000",
    "lien": "https://www.franceinfo.fr/societe/manifestations/direct-greve-et-manifestations-du-17-novembre-suivez-la-journee-de-mobilisation_8285927.html#xtor=RSS-3-[lestitres]",
@@ -79,6 +269,18 @@
     "Conflits"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "db28a3c358dc",
+   "titre": "Au procès de l’explosion de la rue de Trévise, le « combat acharné » des associations de victimes face à la « maltraitance institutionnelle »",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/17/au-proces-de-l-explosion-de-la-rue-de-trevise-le-combat-acharne-des-associations-de-victimes-face-a-la-maltraitance-institutionnelle_6813052_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-17T22:51:39+00:00",
+   "extrait": "Linda Zaourar, présidente de l’association des Victimes et rescapés de l’explosion de la rue de Trévise, et Dominique Paris, de Trévise Ensemble, ont exposé à la barre, mardi 17 novembre, leur lutte…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
   },
   {
    "id": "107a19612f43",
@@ -104,16 +306,14 @@
    "zone": "monde"
   },
   {
-   "id": "4a3fdbb8a2e2",
-   "titre": "Man convicted in Iran-backed plot to kill Trump is sentenced",
-   "lien": "https://www.cbsnews.com/news/asif-merchant-sentencing-prison-iran-backed-plot-to-murder-trump/",
-   "source": "CBS News",
-   "date": "2026-11-17T22:46:04+00:00",
-   "extrait": "A man who was convicted of attempted terrorism and murder-for-hire plots, with potential targets including President Trump and former President Joe Biden, was sentenced to 27 1/2 years in federal…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
+   "id": "bc9687678846",
+   "titre": "Thomas Markle charged over child sex abuse material in Philippines",
+   "lien": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-17T22:44:15+00:00",
+   "extrait": "Markle is being held in prison in the US on a separate charge and has previously denied all of the allegations.",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "cabe00b875a3",
@@ -148,18 +348,6 @@
    "zone": "france"
   },
   {
-   "id": "8956cf8b412c",
-   "titre": "U.S. launches strikes on Iran's Qeshm Island in Strait of Hormuz",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
-   "source": "CBS News",
-   "date": "2026-11-17T22:23:33+00:00",
-   "extrait": "The strikes came after Iran launched attacks against U.S. radar systems in Bahrain three times in less than a week.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "b0c0d01f13e0",
    "titre": "Matan Kahana, un fidèle de Gadi Eisenkot élu président du Parlement en Israël, coup dur pour Benyamin Nétanyahou",
    "lien": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/matan-kahana-un-fidele-de-gadi-eisenkot-elu-president-du-parlement-en-israel-coup-dur-pour-benyamin-netanyahou_8287226.html#xtor=RSS-3-[lestitres]",
@@ -173,16 +361,39 @@
    "zone": "france"
   },
   {
+   "id": "fc89232e58c1",
+   "titre": "Scandale Nvidia : comment les réseaux pro-Pékin utilisent l'IA pour manipuler l'affaire Jensen Huang",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261117-scandale-nvidia-comment-les-r%C3%A9seaux-pro-p%C3%A9kin-utilisent-l-ia-pour-manipuler-l-affaire-jensen-huang",
+   "source": "France 24",
+   "date": "2026-11-17T22:10:02+00:00",
+   "extrait": "Depuis la démission fracassante du fondateur de Nvidia sur fond d'affaire d'espionnage au profit de la Chine, la machine à désinformation tourne à plein régime sur les réseaux sociaux. Et la plupart…",
+   "tags": [
+    "Politique",
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "c4da92541f77",
    "titre": "Anthropic's IPO set for blastoff this week in key test for AI boom",
    "lien": "https://www.cbsnews.com/news/anthropic-ipo-ai-boom-nasdaq-debut/",
    "source": "CBS News",
-   "date": "2026-11-17T22:10:49+00:00",
+   "date": "2026-11-17T22:10:00+00:00",
    "extrait": "Anthropic's stock is poised to start trading on Nasdaq Thursday in one of the largest IPOs of all time. The AI world is watching.",
    "tags": [
     "Tech"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "6b84428ba0f0",
+   "titre": "CAN 2027 : en attendant le verdict du TAS, le Maroc bat le Niger et rejoint le Sénégal parmi les qualifiés",
+   "lien": "https://www.france24.com/fr/sports/20261117-can-2027-en-attendant-la-verdict-du-tas-le-maroc-rejoint-le-s%C3%A9n%C3%A9gal-parmi-les-qualifi%C3%A9s",
+   "source": "France 24",
+   "date": "2026-11-17T22:00:18+00:00",
+   "extrait": "Le Maroc n'a pas été brillant face au Niger mais la victoire (1-0) à domicile, mardi, a suffi. Assurés de participer à la CAN 2027, les Lions de l'Atlas rejoignent le Sénégal parmi les qualifiés…",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "20abf82d5396",
@@ -3233,220 +3444,6 @@
    "extrait": "Maylis Daubon, 53 ans, a été condamnée en première instance à 30 ans de réclusion criminelle par la cour d'assises des Landes. Le procès en appel de cette femme s'ouvre mardi devant la cour d'appel…",
    "tags": [
     "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "36968b4e58fe",
-   "titre": "Nigerians among 12 suspects arrested in $4.5m Canada luxury car theft syndicate",
-   "lien": "https://www.bbc.co.uk/news/articles/cm5y1wr1535ko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-17T08:11:20+00:00",
-   "extrait": "Canadian authorities say they have recovered 96 luxury vehicles destined for West Africa.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "5d6346d0b9f4",
-   "titre": "Les journalistes qui suivent l’Elysée demandent le « respect » de leur métier au prochain président",
-   "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/17/les-journalistes-qui-suivent-l-elysee-demandent-le-respect-de-leur-metier-au-prochain-president_6812927_6205049.html",
-   "source": "Le Monde",
-   "date": "2026-11-17T08:10:10+00:00",
-   "extrait": "« Comment les journalistes politiques vont-ils pouvoir travailler à partir de mai 2027 ? Auront-ils toujours accès à l’Elysée ? », questionne l’Association de la presse présidentielle.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "d5ec472673c8",
-   "titre": "Les fonctionnaires ont-ils vraiment perdu 15% de pouvoir d’achat depuis 2017, comme l'affirme Clémentine Autain ?",
-   "lien": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-les-fonctionnaires-ont-ils-vraiment-perdu-15-de-pouvoir-d-achat-depuis-2017-comme-l-affirme-clementine-autain_8265086.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T07:52:36+00:00",
-   "extrait": "Alors que les agents de la fonction publique sont appelés à se mobiliser mardi, pour réclamer des hausses de salaires, la députée Clémentine Autain affirme qu'ils ont perdu 15% de pouvoir d'achat…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "e8b73c1d1e5f",
-   "titre": "Budget 2027 : le Sénat et le gouvernement à la recherche d’un compromis sur la mise à contribution des retraités",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/17/budget-2027-le-senat-et-le-gouvernement-a-la-recherche-d-un-compromis-sur-la-mise-a-contribution-des-retraites_6812925_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-17T07:48:03+00:00",
-   "extrait": "Lundi, les élus du Palais du Luxembourg ont supprimé l’article du PLFSS qui freine la revalorisation des pensions. Pour compenser les économies perdues du fait de ce vote, la droite et le centre…",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "d2cfcd507d1c",
-   "titre": "La Russie frappe deux ponts majeurs à Kiev, l'Ukraine cible à nouveau la Crimée",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261117-la-russie-frappe-deux-ponts-majeurs-%C3%A0-kiev-l-ukraine-cible-%C3%A0-nouveau-la-crim%C3%A9e",
-   "source": "France 24",
-   "date": "2026-11-17T07:45:14+00:00",
-   "extrait": "La Russie a frappé deux ponts majeurs à Kiev, et l'Ukraine a visé le pont de Crimée pour la deuxième nuit d'affilée, des attaques hautement symboliques deux jours avant une rencontre en Chine entre…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "cfacadb87baf",
-   "titre": "Japan sends up jets after alleged Russian incursion of its airspace",
-   "lien": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-17T07:44:17+00:00",
-   "extrait": "Taiwan and South Korea also responded to Russian military aircraft detected near their airspaces.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "c49a504fa298",
-   "titre": "Procès de l’attaque d’un bar à Brest : « Vous dites vouloir casser des gauchos. C’est qui, les gauchos ? »",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/17/proces-de-l-attaque-d-un-bar-a-brest-vous-dites-vouloir-casser-des-gauchos-c-est-qui-les-gauchos_6812923_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-17T07:39:25+00:00",
-   "extrait": "Suspectés d’appartenir à l’ultradroite, douze hommes étaient jugés pour l’attaque des clients d’un bar réputé de gauche, en septembre 2025. Habitués des tribunes du Stade brestois, les prévenus…",
-   "tags": [
-    "Conflits",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "52e8ede06ca5",
-   "titre": "Soupçonnée d'avoir organisé l'obsolescence programmée de ses iPhone, l'entreprise Apple sera jugée en juin 2027 à Paris",
-   "lien": "https://www.franceinfo.fr/internet/apple-juge-en-juin-2027-a-paris-pour-avoir-organise-l-obsolescence-programmee-de-ses-iphone_8286095.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T07:25:54+00:00",
-   "extrait": "\"Nous contestons fermement ces allégations infondées\", a réagi le géant américain, sollicité par l'AFP.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "160b719609a7",
-   "titre": "En Russie, des habitants vivent au quotidien la peur des attaques de drones ukrainiens",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-en-russie-les-habitants-vivent-au-quotidien-la-peur-des-attaques-de-drones-ukrainiens_8285939.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T07:04:55+00:00",
-   "extrait": "À une heure de Moscou, les incursions de drones ukrainiens et les tirs de la défense antiaérienne russe rythment le quotidien des habitants. Entre nuits perturbées, et angoisse pour leurs enfants…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "a65ee405d333",
-   "titre": "Body of Melbourne Cup horse found dumped in Sydney skip",
-   "lien": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-17T07:01:00+00:00",
-   "extrait": "The remains of a top Australian racehorse that died of colic on Monday were found at a public rubbish tip.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "364ad6b402bc",
-   "titre": "Terres rares, défense... En Malaisie, Emmanuel Macron scelle un \"partenariat stratégique\"",
-   "lien": "https://www.france24.com/fr/asie-pacifique/20261117-d%C3%A9fense-terres-rares-emmanuel-macron-annonce-un-partenariat-strat%C3%A9gique-avec-la-malaisie",
-   "source": "France 24",
-   "date": "2026-11-17T06:59:30+00:00",
-   "extrait": "En visite en Malaisie, Emmanuel Macron s'est félicité mardi en compagnie du Premier ministre malaisien Anwar Ibrahim du partenariat entre leurs deux pays sur les terres rares. Les deux hommes ont…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "2b8fc9abc26f",
-   "titre": "\"Centres de retour\" au Rwanda: \"Une honte pour l'Europe\"",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261117-centres-de-retour-au-rwanda-une-honte-pour-l-europe",
-   "source": "France 24",
-   "date": "2026-11-17T06:55:25+00:00",
-   "extrait": "A la une de la presse, ce mardi 17 novembre, les réactions au projet de cinq pays de l’UE d’ouvrir au Rwanda le premier centre pour les migrants expulsés d’Europe. La décision controversée, la…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "334aba6f880b",
-   "titre": "L’utilisation de l’IA a fait disparaître 100 000 offres d’emploi en 2026, et cela ne concerne pas forcément que les débutants, selon une étude",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/17/l-essor-de-l-ia-ralentit-les-recrutements-des-metiers-les-plus-automatisables-au-dela-des-postes-juniors_6812918_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-17T06:30:09+00:00",
-   "extrait": "Le Coface et l’Observatoire des emplois menacés et émergents montre que le déploiement de l’intelligence artificielle dans les entreprises ne se traduit pas encore par des licenciements dans les…",
-   "tags": [
-    "Économie",
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "a85a0623040f",
-   "titre": "Dans les lycées, le personnel éducatif éprouvé après deux mois de mobilisation",
-   "lien": "https://www.france24.com/fr/france/20261117-dans-les-lyc%C3%A9es-mobilis%C3%A9s-le-personnel-%C3%A9ducatif-%C3%A9prouv%C3%A9-apr%C3%A8s-deux-mois-de-mobilisation",
-   "source": "France 24",
-   "date": "2026-11-17T06:29:49+00:00",
-   "extrait": "Alors que les syndicats d'enseignants participent à une nouvelle journée de mobilisation, France 24 a échangé avec des personnels éducatifs de trois établissements. Enseignants et membres de la vie…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "bd36765121f5",
-   "titre": "Inside the Chinese 'AI wonderland' where Xi will host Trump",
-   "lien": "https://www.bbc.co.uk/news/videos/ckjwjl6ywgn9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-17T06:23:51+00:00",
-   "extrait": "The meeting will take place as Trump attends the Asia-Pacific Economic Co-operation (Apec) summit in the southern city of Shenzhen.",
-   "tags": [
-    "Politique",
-    "Tech"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "bfb7e733d96c",
-   "titre": "Éliminatoires de la CAN 2027 : le Sénégal bat le Soudan et se rapproche de la qualification",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261117-%C3%A9liminatoires-can-2027-s%C3%A9n%C3%A9gal-bat-soudan-se-rapproche-qualification",
-   "source": "France 24",
-   "date": "2026-11-17T06:23:16+00:00",
-   "extrait": "Le Sénégal s’est imposé au Soudan (4-2) pour la quatrième journée des éliminatoires de la CAN 2027. Il est le premier pays du groupe J et pourrait être qualifié dès mardi.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "9b9203d2c2c2",
-   "titre": "\"On se bat pour que tous les agents puissent vivre dignement de leur travail\", explique la CFDT avant la mobilisation du 17 novembre",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/on-se-bat-pour-que-tous-les-agents-puissent-vivre-dignement-de-leur-travail-explique-la-cfdt-avant-la-mobilisation-du-17-novembre_8286053.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T06:14:51+00:00",
-   "extrait": "Vendredi 13 novembre, la CFDT a annoncé se joindre à l'appel à la grève et à la mobilisation des travailleurs de la fonction publique mardi pour réclamer des hausses générales de salaires, après…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "92b7731d5aa3",
-   "titre": "Locaux provisoires, système D, bonbons pour le moral : un mois après l'incendie de la mairie de Limoges, la vie communale se réorganise",
-   "lien": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/on-n-a-pas-encore-de-telephone-mais-on-est-content-de-se-retrouver-un-mois-apres-l-incendie-de-la-mairie-de-limoges-la-vie-communale-se-reorganise_8265095.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T06:14:04+00:00",
-   "extrait": "Un mois après les violences du 17 octobre, retour à Limoges, qui a vu sa mairie incendiée. Comment fonctionnent les services dans la deuxième ville de Nouvelle-Aquitaine ? Dans quel état d'esprit…",
-   "tags": [
-    "Climat"
    ],
    "zone": "france"
   }
