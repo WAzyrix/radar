@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-18T08:05:41+00:00",
+ "maj": "2026-11-18T09:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,37 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "c1af327f6be6",
+   "titre": "Optimizely piraté, des géants du web exposés",
+   "lien": "https://www.zataz.com/optimizely-pirate-des-geants-du-web-exposes/",
+   "source": "Zataz",
+   "date": "2026-11-18T09:04:32+00:00",
+   "extrait": "Optimizely victime d'une cyberattaque : 178 organisations touchées, données bancaires et appareils iOS menacés.",
+   "tags": [
+    "Mobile"
+   ]
+  },
+  {
+   "id": "822f4d366eda",
+   "titre": "Mots de passe en clair : la CNIL inflige 5 millions d’euros",
+   "lien": "https://www.zataz.com/mots-de-passe-en-clair-la-cnil-inflige-5-millions-deuros/",
+   "source": "Zataz",
+   "date": "2026-11-18T08:45:15+00:00",
+   "extrait": "La CNIL sanctionne une société de 5 millions d’euros pour des mots de passe en clair et une conservation excessive des données.",
+   "tags": []
+  },
+  {
+   "id": "0ad69605a849",
+   "titre": "British Scattered Spider hacker sentenced to 6 years in prison",
+   "lien": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
+   "source": "BleepingComputer",
+   "date": "2026-11-18T08:24:18+00:00",
+   "extrait": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen…",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
   {
    "id": "1df53018af16",
    "titre": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
@@ -3357,40 +3388,6 @@
    "extrait": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
    "tags": [
     "Fuite de données"
-   ]
-  },
-  {
-   "id": "5a765cf499c2",
-   "titre": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
-   "lien": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
-   "source": "BleepingComputer",
-   "date": "2026-11-07T14:10:19+00:00",
-   "extrait": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these…",
-   "tags": [
-    "Malware"
-   ]
-  },
-  {
-   "id": "804a43c3361e",
-   "titre": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
-   "lien": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
-   "source": "The Hacker News",
-   "date": "2026-11-07T06:44:17+00:00",
-   "extrait": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask…",
-   "tags": [
-    "IA",
-    "Outil"
-   ]
-  },
-  {
-   "id": "ca1a9396bb65",
-   "titre": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
-   "lien": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
-   "source": "BleepingComputer",
-   "date": "2026-11-07T00:00:55+00:00",
-   "extrait": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
-   "tags": [
-    "Faille"
    ]
   }
  ]
