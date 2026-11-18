@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-18T13:05:40+00:00",
+ "maj": "2026-11-18T14:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "74d12e442320",
+   "titre": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
+   "lien": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
+   "source": "The Hacker News",
+   "date": "2026-11-18T12:28:30+00:00",
+   "extrait": "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universität Berlin say. That…",
+   "tags": [
+    "Windows"
+   ]
+  },
   {
    "id": "c9f8dc26d8d0",
    "titre": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
@@ -240,6 +251,139 @@
    "extrait": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked…",
    "tags": [
     "Fuite de données"
+   ]
+  },
+  {
+   "id": "bb57f204eba7",
+   "titre": "Multiples vulnérabilités dans Oracle Java SE (18 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1562/",
+   "source": "CERT-FR",
+   "date": "2026-11-18T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "5273edc1cd65",
+   "titre": "Multiples vulnérabilités dans les produits Tenable (18 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1556/",
+   "source": "CERT-FR",
+   "date": "2026-11-18T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "f5d482898bee",
+   "titre": "Multiples vulnérabilités dans Oracle Weblogic (18 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1565/",
+   "source": "CERT-FR",
+   "date": "2026-11-18T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Oracle Weblogic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "2be55ad96908",
+   "titre": "Multiples vulnérabilités dans Oracle MySQL (18 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1563/",
+   "source": "CERT-FR",
+   "date": "2026-11-18T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "681408b24b9e",
+   "titre": "Multiples vulnérabilités dans Google Chrome (18 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1559/",
+   "source": "CERT-FR",
+   "date": "2026-11-18T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "d6ac5cfa302f",
+   "titre": "Multiples vulnérabilités dans Oracle PeopleSoft (18 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1564/",
+   "source": "CERT-FR",
+   "date": "2026-11-18T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "b52d21e2880a",
+   "titre": "Vulnérabilité dans FreeBSD (18 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1558/",
+   "source": "CERT-FR",
+   "date": "2026-11-18T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans FreeBSD. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un déni de service.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "5040a338294a",
+   "titre": "Multiples vulnérabilités dans Oracle Database Server (18 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1561/",
+   "source": "CERT-FR",
+   "date": "2026-11-18T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "e12247e2b4ea",
+   "titre": "Multiples vulnérabilités dans Mozilla Firefox (18 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1560/",
+   "source": "CERT-FR",
+   "date": "2026-11-18T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Elles permettent à un attaquant de provoquer une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "b3c84b2ba18e",
+   "titre": "Multiples vulnérabilités dans Oracle Virtualization (18 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1566/",
+   "source": "CERT-FR",
+   "date": "2026-11-18T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "222e2922945c",
+   "titre": "Multiples vulnérabilités dans Netgate pfSense (18 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1557/",
+   "source": "CERT-FR",
+   "date": "2026-11-18T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Netgate pfSense. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "1164ea4e3313",
+   "titre": "Vulnérabilité dans Oracle Java SE (18 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-016/",
+   "source": "CERT-FR",
+   "date": "2026-11-18T00:00:00+00:00",
+   "extrait": "Le 17 novembre 2026, Oracle a publié un avis de sécurité concernant la vulnérabilité CVE-2026-114938, surnommée *java4shell*, qui affecte le décodeur Base64 de OpenJDK sur les processeurs x86-64…",
+   "tags": [
+    "CVE",
+    "Faille"
    ]
   },
   {
@@ -3252,148 +3396,6 @@
     "Fuite de données",
     "Outil"
    ]
-  },
-  {
-   "id": "ab56c88bece7",
-   "titre": "NomadNet - Votre site et vos fichiers sur Reticulum",
-   "lien": "https://korben.info/reticulum-nomadnet-site-fichiers.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-11-09T13:18:03+00:00",
-   "extrait": "Installer NomadNet, activer un nœud, écrire sa page index.mu et proposer des fichiers sur Reticulum, tuto testé sur deux machines Ubuntu 24.04. Avec ce qu'il faut savoir avant d'allumer le nœud : il…",
-   "tags": [
-    "Outil",
-    "Linux"
-   ]
-  },
-  {
-   "id": "748ff78dd5ad",
-   "titre": "Chicago95 - Votre Xubuntu déguisé en Windows 95",
-   "lien": "https://korben.info/chicago95-xfce-windows-95.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-11-09T13:16:31+00:00",
-   "extrait": "Le thème Chicago95 habille XFCE en Windows 95, des fenêtres à l'invite MS-DOS. Le tuto, testé sur une Xubuntu 26.04, signale ce qui coince : greffon du tableau de bord, fond d'écran, polices bitmap…",
-   "tags": [
-    "Outil",
-    "Windows"
-   ]
-  },
-  {
-   "id": "53877e7ba1bf",
-   "titre": "Ukraine dismantles crypto scam network that stole €4.3 million",
-   "lien": "https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/",
-   "source": "BleepingComputer",
-   "date": "2026-11-09T12:16:13+00:00",
-   "extrait": "Ukrainian law enforcement arrested four suspects in a case involving the theft of more than €4.3 million using a network of cryptocurrency investment scam call centers. [...]",
-   "tags": [
-    "Malware"
-   ]
-  },
-  {
-   "id": "2adbdddcfc7e",
-   "titre": "iKnow - Ce que votre Mac sait de votre famille",
-   "lien": "https://korben.info/graphe-connaissances-apple-iknow.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-11-09T12:12:35+00:00",
-   "extrait": "Deux chercheurs d'Eighth Rank décrivent le graphe de vos proches que macOS remplit en local, avec deux classificateurs qui notent qui est de la famille. Ce qui est recoupé, ce qui ne l'est pas, et…",
-   "tags": []
-  },
-  {
-   "id": "07aa0c8de75e",
-   "titre": "Nvidia : l’espionnage par la séduction et le social engineering",
-   "lien": "https://www.zataz.com/nvidia-lespionnage-par-la-seduction-et-le-social-engineering/",
-   "source": "Zataz",
-   "date": "2026-11-09T11:46:46+00:00",
-   "extrait": "Nvidia, espionnage chinois et social engineering : comprendre les manipulations humaines et apprendre à les contrer.",
-   "tags": []
-  },
-  {
-   "id": "c5154d08fadf",
-   "titre": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
-   "lien": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
-   "source": "The Hacker News",
-   "date": "2026-11-09T11:27:53+00:00",
-   "extrait": "The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner with a connected…",
-   "tags": [
-    "Jailbreak",
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "a02fb0af2916",
-   "titre": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
-   "lien": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
-   "source": "The Hacker News",
-   "date": "2026-11-09T10:56:25+00:00",
-   "extrait": "Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker. Keplr uses a company called Web3Auth to run that Google and Apple sign-in. The…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "62af4291e17c",
-   "titre": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
-   "lien": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
-   "source": "The Hacker News",
-   "date": "2026-11-09T10:01:21+00:00",
-   "extrait": "Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said yesterday. It has several security…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "e8082cc54dfb",
-   "titre": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
-   "lien": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
-   "source": "The Hacker News",
-   "date": "2026-11-09T09:01:50+00:00",
-   "extrait": "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week. The agents also found a Taipei fire…",
-   "tags": [
-    "Fuite de données",
-    "IA"
-   ]
-  },
-  {
-   "id": "a2c922a06d73",
-   "titre": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
-   "lien": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
-   "source": "The Hacker News",
-   "date": "2026-11-09T07:05:48+00:00",
-   "extrait": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty. According to reports from Bloomberg and CNBC…",
-   "tags": [
-    "IA"
-   ]
-  },
-  {
-   "id": "df6a1e5a88d8",
-   "titre": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
-   "lien": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
-   "source": "The Hacker News",
-   "date": "2026-11-09T06:15:10+00:00",
-   "extrait": "U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "3d5dfb277e1d",
-   "titre": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
-   "lien": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
-   "source": "The Hacker News",
-   "date": "2026-11-09T06:05:24+00:00",
-   "extrait": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following…",
-   "tags": [
-    "CVE",
-    "Faille"
-   ]
-  },
-  {
-   "id": "7ad68b589b78",
-   "titre": "Un pirate revendique le vol de millions de données d’automobilistes français",
-   "lien": "https://www.zataz.com/sgs-un-pirate-revendique-259-millions-de-lignes-volees/",
-   "source": "Zataz",
-   "date": "2026-11-09T00:30:00+00:00",
-   "extrait": "Un pirate revendique une base SGS concernant 22 millions d'automobilistes : des données voitures et clients volées ?",
-   "tags": []
   }
  ]
 }
