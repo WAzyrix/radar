@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-18T10:05:41+00:00",
+ "maj": "2026-11-18T11:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,16 +22,415 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "d2dd1e13d0e6",
+   "titre": "House Democrats expected to choose Jeffries as speaker",
+   "lien": "https://www.cbsnews.com/news/house-democrats-hakeem-jeffries-speaker-nomination-progressives/",
+   "source": "CBS News",
+   "date": "2026-11-18T11:00:11+00:00",
+   "extrait": "Democrats are expected to officially elect Hakeem Jeffries as speaker in a floor vote in January.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "1a305ede3094",
+   "titre": "Mystery firm spending millions to attend Trump crypto gala",
+   "lien": "https://www.cbsnews.com/news/trump-crypto-gala-fastx-meme-coin/",
+   "source": "CBS News",
+   "date": "2026-11-18T11:00:10+00:00",
+   "extrait": "The firm FastX, which has ties to Singapore, claims to have amassed more than $2 million in $TRUMP coin in the past two months and aims to secure a spot at the president's gala dinner.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "cc65b3599b80",
+   "titre": "Greetings from a Berlin square, where an artist's statue watches over children at play",
+   "lien": "https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue",
+   "source": "NPR",
+   "date": "2026-11-18T11:00:00+00:00",
+   "extrait": "Children frolic around the ever-watchful and calm Käthe Kollwitz cast in bronze, in a square named after the German artist, whose work often depicted children in the wake of World War I.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "c03ba45f3923",
+   "titre": "Grand Theft Auto VI is a grounded love story, a gonzo crime thriller and a gaming triumph",
+   "lien": "https://www.npr.org/2026/11/18/nx-s1-6040326/grand-theft-auto-6-review-vice-city-masterpiece",
+   "source": "NPR",
+   "date": "2026-11-18T11:00:00+00:00",
+   "extrait": "An inspired synthesis of violent satire and contemplative storytelling, Grand Theft Auto VI is more mature and ambitious than any prior game in the record-breaking franchise.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "83acb88c817a",
+   "titre": "Des dizaines de policiers manifestent devant le ministère de l'Intérieur lors d'une action surprise",
+   "lien": "https://www.franceinfo.fr/societe/manifestation-des-policiers/des-dizaines-de-policiers-manifestent-devant-le-ministere-de-l-interieur-lors-d-une-action-surprise_8288123.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T10:56:12+00:00",
+   "extrait": "À l'appel du syndicat Alliance, des dizaines de policiers sont arrivées place Beauvau à Paris, là où se trouve le ministère de l'Intérieur. Ils réclament de meilleures conditions de travail.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "7ab40838ae16",
+   "titre": "Iran ramps back up attacks on Gulf countries after U.S. strikes",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
+   "source": "CBS News",
+   "date": "2026-11-18T10:53:18+00:00",
+   "extrait": "America's Persian Gulf allies and oil tankers are under fire as Iran appears to lash out following U.S. strikes on a key island in the Strait of Hormuz.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "1cfd0df5679a",
+   "titre": "Six qualifiés, quatre éliminés, la déception de Salah : le point sur les éliminatoires de la CAN 2027",
+   "lien": "https://www.france24.com/fr/sports/20261118-qualifies-elimines-coupe-afrique-2027-qualifications-mohamed-salah",
+   "source": "France 24",
+   "date": "2026-11-18T10:50:54+00:00",
+   "extrait": "La quatrième journée de qualifications pour la Coupe d'Afrique des Nations 2027 a livré son verdict. Six pays ont déjà validé leur billet pour la prochaine compétition coorganisée par le Kenya…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
    "id": "8822240bdef8",
    "titre": "Trump arrives in China ahead of summit with Putin and Xi",
    "lien": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
    "source": "CBS News",
-   "date": "2026-11-18T10:03:08+00:00",
+   "date": "2026-11-18T10:50:26+00:00",
    "extrait": "President Trump is in China, where he may meet with Vladimir Putin before a trilateral summit with Putin and China's Xi Jinping, and a possible meeting with Kim Jong Un.",
    "tags": [
     "Politique"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "fa0c1d10c62d",
+   "titre": "Les avocats de la France insoumise annoncent saisir le Conseil d'État dans l'affaire des ingérences étrangères aux élections municipales à Toulouse",
+   "lien": "https://www.franceinfo.fr/societe/justice/les-avocats-de-la-france-insoumise-annoncent-saisir-le-conseil-d-etat-dans-l-affaire-des-ingerences-etrangeres-aux-elections-municipales-a-toulouse_8288102.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T10:47:24+00:00",
+   "extrait": "Leur recours électoral porté devant le tribunal administratif de Toulouse a été rejeté à la mi-octobre. Ils dénoncent des ingérences numériques attribuées à des organisations proches du gouvernement…",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "20845fbf9099",
+   "titre": "A Toulouse, un homme tué par balles, deuxième narchomicide en trois jours",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/18/a-toulouse-un-homme-tue-par-balles-deuxieme-narchomicide-en-trois-jours_6813113_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-18T10:46:57+00:00",
+   "extrait": "Ce nouvel homicide survenu à Toulouse, où la violence provenant du trafic de drogue a considérablement augmenté en 2026, est lié « à une guerre de territoire entre des groupes qui tiennent des…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "9e710a4311b4",
+   "titre": "France : les parents d'Inass Touloub condamnés pour actes de torture",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261118-les-parents-d-inass-touloub-condamn%C3%A9s-en-france-l-aboutissement-d-un-des-plus-anciens-cold-case",
+   "source": "France 24",
+   "date": "2026-11-18T10:44:55+00:00",
+   "extrait": "La mère d'Inass Touloub, fillette de quatre ans retrouvée morte au bord de l'A10 à l'été 1987, a été condamnée mardi 17 novembre à 20 ans de réclusion criminelle, tandis que le père écope d'une…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "06997619e36f",
+   "titre": "\"Ils envoient leurs hommes à la mort\" : des militaires ukrainiens décrivent l'impréparation des soldats russes envoyés au front",
+   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-ils-envoient-leurs-hommes-a-la-mort-des-militaires-ukrainiens-decrivent-l-impreparation-des-soldats-russes-envoyes-au-front_8287886.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T10:41:54+00:00",
+   "extrait": "Avec plus de 400 000 morts, les pertes de l'armée russe seraient trois fois supérieures à celles de l'armée ukrainienne. Non loin du front, dans la ville d'Izium, des militaires ukrainiens décrivent…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "f3083bb5fbe8",
+   "titre": "Mobilisations en France : la police au bord de l'épuisement professionnel",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261118-mobilisations-en-france-la-police-au-bord-de-l-%C3%A9puisement-professionnel",
+   "source": "France 24",
+   "date": "2026-11-18T10:41:43+00:00",
+   "extrait": "Au lendemain de la mobilisation du 17 novembre, on relève que les cortèges étaient plutôt calmes : 146 000 personnes ont manifesté selon le ministère de l'Intérieur, plus de 500 000 pour la CGT. À…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "166ec7f05bc0",
+   "titre": "Le sélectionneur sud-africain Rassie Erasmus suspendu six matchs après avoir critiqué l'arbitrage lors du Championnat des nations de rugby",
+   "lien": "https://www.franceinfo.fr/sports/rugby/coupe-d-automne-des-nations/le-selectionneur-sud-africain-rassie-erasmus-suspendu-six-matchs-apres-avoir-critique-l-arbitrage-lors-du-championnat-des-nations-de-rugby_8288051.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T10:41:26+00:00",
+   "extrait": "La fédération internationale a prononcé sa sanction mardi, au lendemain de propos très critiques du Sud-Africain.",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "a8e7b8345227",
+   "titre": "Turquie : les directeurs d'une chaîne d'opposition arrêtés par les autorités turques",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261118-turquie-les-directeurs-d-une-cha%C3%AEne-d-opposition-arr%C3%AAt%C3%A9s-par-les-autorit%C3%A9s-turques",
+   "source": "France 24",
+   "date": "2026-11-18T10:39:29+00:00",
+   "extrait": "La police turque a fait une descente tôt mardi 17 novembre à Istanbul au siège de la chaîne d'opposition Sözcü TV et de son groupe, procédant à des arrestations et installant un administrateur nommé…",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "64038770cbbc",
+   "titre": "Guerre en Ukraine : l'épreuve de l'exil que rencontrent les déplacés de guerre",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261118-guerre-en-ukraine-l-%C3%A9preuve-de-l-exil-que-rencontrent-les-d%C3%A9plac%C3%A9s-de-guerre",
+   "source": "France 24",
+   "date": "2026-11-18T10:37:13+00:00",
+   "extrait": "Après plus de quatre ans et demi de guerre en Ukraine, menée par la Russie, les habitants tentent de survivre face aux frappes constantes et à l'incertitude de l'avenir. Face à l'escalade des…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "ceb922900f27",
+   "titre": "Guerre en Ukraine : un haut dirigeant du Pentagone critique les frappes en Russie",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261118-guerre-en-ukraine-un-haut-dirigeant-du-pentagone-critique-les-frappes-en-russie",
+   "source": "France 24",
+   "date": "2026-11-18T10:34:29+00:00",
+   "extrait": "Le secrétaire adjoint américain à la Défense Elbridge Colby a critiqué mardi 17 novembre devant les alliés de Kiev, réunis au siège de l'Otan à Bruxelles, les frappes en profondeur de l'Ukraine…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "45c19e2f8827",
+   "titre": "Trump lands in China with key meetings with Xi and Putin on the agenda",
+   "lien": "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin",
+   "source": "NPR",
+   "date": "2026-11-18T10:32:03+00:00",
+   "extrait": "Xi paid Trump a special honor by greeting him on the tarmac after Air Force One arrived in Shenzhen, reciprocating a gesture made by the U.S. president during Xi's visit to Washington in September.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "f8cd616b70c1",
+   "titre": "\"On est juste là et on subit\" : dans les établissements bloqués, la crainte de \"décrochage\" de certains étudiants",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-on-est-juste-la-et-on-subit-dans-les-etablissements-bloques-la-crainte-de-decrochage-de-certains-etudiants_8287778.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T10:30:40+00:00",
+   "extrait": "Dans certaines universités, les cours ne sont plus organisés normalement depuis presque deux mois. Une situation qui commence à inquiéter certains élèves et professeurs.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "11acbc2fbd31",
+   "titre": "Des pannes informatiques en série aux États-Unis : \"aucune preuve\" de malveillance selon Rubio",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261118-des-pannes-informatiques-en-s%C3%A9rie-aux-%C3%A9tats-unis-aucune-preuve-de-malveillance-selon-rubio",
+   "source": "France 24",
+   "date": "2026-11-18T10:30:25+00:00",
+   "extrait": "Il n'y a \"aucune preuve\" que les pannes à répétition qui frappent les États-Unis depuis plusieurs jours, de Microsoft au contrôle aérien, aient un lien entre elles ou aient été provoquées par de la…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "0d548c2bb605",
+   "titre": "Sommet Xi-Trump-Poutine : ceci n’est pas un Yalta",
+   "lien": "https://www.lemonde.fr/idees/article/2026/11/18/sommet-xi-trump-poutine-ceci-n-est-pas-un-yalta_6813109_3232.html",
+   "source": "Le Monde",
+   "date": "2026-11-18T10:30:02+00:00",
+   "extrait": "2026 n’est pas 1945 : la rencontre entre les présidents Xi Jinping, Vladimir Poutine et Donald Trump à Shenzhen, en Chine, ne débouchera sur aucun redécoupage du monde, les trois protagonistes…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "901221c7821d",
+   "titre": "Dans le nord-ouest de la Chine, un petit félin tient tête à un chantier d’éoliennes géantes",
+   "lien": "https://www.lemonde.fr/planete/article/2026/11/18/dans-le-nord-ouest-de-la-chine-un-petit-felin-tient-tete-a-un-chantier-d-eoliennes-geantes_6813110_3244.html",
+   "source": "Le Monde",
+   "date": "2026-11-18T10:30:02+00:00",
+   "extrait": "Une population de manuls, inscrits sur la liste nationale des animaux sauvages protégés, est menacée par un projet éolien près de la ville de Zhangye. Après l’intervention d’ONG, le département de…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "2f77c8f7488e",
+   "titre": "\"GTA VI\" en tête des nominations aux Game Awards, qui récompensent les meilleurs jeux vidéo de l'année, avant même sa sortie jeudi",
+   "lien": "https://www.franceinfo.fr/culture/jeux-video/jeux-video-gta-vi-en-tete-des-nominations-aux-game-awards-avant-meme-sa-sortie-jeudi_8287916.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T10:26:19+00:00",
+   "extrait": "S'il fait la course en tête cette année, \"GTA VI\" est toutefois loin du record établi en 2025 par la production française \"Clair Obscur: Expedition 33\" et ses douze nominations.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "da6fc3a9b15c",
+   "titre": "Sommet de l'APEC : le scandale Nvidia dégrade les relations sino-américaines",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261118-sommet-de-l-apec-le-scandale-nvidia-d%C3%A9grade-les-relations-sino-am%C3%A9ricaines",
+   "source": "France 24",
+   "date": "2026-11-18T10:24:34+00:00",
+   "extrait": "Le président chinois Xi ​Jinping a appelé, mercredi 18 novembre, à soutenir ce qu'il a décrit comme ​un \"commerce libre et ouvert\", dans un discours prononcé en ouverture du sommet de l'APEC. Ces…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "55134f7fb917",
+   "titre": "Democrats win Alaska Senate race two weeks after midterms counting began",
+   "lien": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-18T10:23:57+00:00",
+   "extrait": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "8004e409b20e",
+   "titre": "\"Il faut savoir dire stop\" : les absences pour consultation médicale se multiplient chez les CRS, éprouvés et en colère face à la mobilisation sociale",
+   "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/il-y-a-une-grosse-fatigue-physique-les-crs-a-bout-se-mobilisent_8287067.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T10:22:03+00:00",
+   "extrait": "Pour certains de ces policiers, ces consultations sont une alternative face à l'absence de droit de grève. Selon le syndicat Alliance Police nationale, plus de 1 000 d'entre eux étaient…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "2fa39bcbd9e3",
+   "titre": "Sommet de l'APEC : les chefs d'État Trump, Poutine et Jinping réunis en Chine",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261118-sommet-de-l-apec-les-chefs-d-%C3%A9tat-trump-poutine-et-jinping-r%C3%A9unis-en-chine",
+   "source": "France 24",
+   "date": "2026-11-18T10:19:39+00:00",
+   "extrait": "Donald Trump est arrivé mercredi 18 novembre à Shenzhen, dans le sud-est de la Chine, où il doit participer le lendemain à un sommet tripartite inédit avec les présidents chinois Xi Jinping et russe…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "c4c0ea798c49",
+   "titre": "JOJ Dakar 2026 : Dior Diagne, costumière dans l’ombre de la cérémonie d’ouverture",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261118-joj-dakar-2026-dior-diagne-costumi%C3%A8re-dans-l-ombre-de-la-c%C3%A9r%C3%A9monie-d-ouverture",
+   "source": "France 24",
+   "date": "2026-11-18T10:16:41+00:00",
+   "extrait": "Derrière le spectacle des JOJ Dakar 2026, il y avait aussi des métiers et des talents que le public n’a pas toujours vus. Dior Diagne, costumière, raconte les coulisses de son travail et les défis…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "9761b5e9f0ac",
+   "titre": "Le SP95-E10 est repassé sous la barre des 2 euros le litre en moyenne, à son plus bas depuis août",
+   "lien": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/infographie-le-sp95-e10-est-repasse-sous-la-barre-des-2-euros-le-litre-en-moyenne_8287964.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T10:14:40+00:00",
+   "extrait": "Le prix du litre de sans-plomb E10 à la pompe avait atteint un record le 20 septembre, selon nos données, en atteignant les 2,17 euros le litre en moyenne.",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "7722ba088ec0",
+   "titre": "Face à la précarité, près de \"3 millions de personnes n'ont pas accès au 100% santé\", alerte une association d'opticiens",
+   "lien": "https://www.franceinfo.fr/sante/face-a-la-precarite-pres-de-3-millions-de-personnes-n-ont-pas-acces-au-100-sante-alerte-une-association-d-opticiens_8288027.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T10:11:28+00:00",
+   "extrait": "Le dispositif permet à certaines personnes d'avoir des lunettes de qualité intégralement remboursées. Mais l'association Vision Solidarité remarque ceux qui n'ont pas les bonnes couvertures sociales…",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "49f02a581db0",
+   "titre": "Attaque américaine sur l'île de Qeshm, réplique iranienne sur les pays du Golfe… On fait le point sur le regain de tensions entre l'Iran et les Etats-Unis",
+   "lien": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/attaque-americaine-sur-l-ile-de-qeshm-replique-iranienne-sur-les-pays-du-golfe-on-fait-le-point-sur-le-regain-de-tensions-entre-l-iran-et-les-etats-unis_8287895.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T10:10:17+00:00",
+   "extrait": "Ces nouvelles tensions au Moyen-Orient interviennent alors que Donald Trump est attendu en Chine pour un sommet inédit avec ses homologues chinois et russe.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "12d59026ba97",
+   "titre": "Éliminatoires de la CAN 2027 : qualification pour le Sénégal et cinq autres nations",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261118-%C3%A9liminatoires-can-2027-qualification-s%C3%A9n%C3%A9gal-cinq-autres-nations",
+   "source": "France 24",
+   "date": "2026-11-18T10:08:03+00:00",
+   "extrait": "Les premiers qualifiés pour la CAN 2027 sont connus. Le Sénégal, le Cameroun et le Maroc en font notamment partie.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "fc69323983f3",
+   "titre": "Un accident de tramway blesse 16 personnes dans le Val-de-Marne après une collision entre deux rames",
+   "lien": "https://www.franceinfo.fr/economie/transports/un-accident-de-tramway-blesse-16-personnes-dans-le-val-de-marne-apres-une-collision-entre-deux-rames_8287820.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T10:06:52+00:00",
+   "extrait": "Des investigations sont en cours pour déterminer les causes de cet accident.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "79f2b63a4a4b",
+   "titre": "\"C'est vrai que c'est devenu un peu banal\" : entre crédit à la consommation et paiement fractionné, le surendettement explose chez les moins de 30 ans",
+   "lien": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignage-des-qu-il-y-a-un-nouveau-telephone-tout-le-monde-fait-un-credit-comment-le-surendettement-explose-chez-les-moins-de-30-ans_8266763.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T10:06:50+00:00",
+   "extrait": "De nouvelles règles sur les crédits à la consommation entrent en vigueur vendredi pour tenter d'enrayer ce surendettement des jeunes. Une jeune femme raconte comment elle est tombée dans cette…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "8ddb226ee5fa",
+   "titre": "How the East Potomac golf course became a D.C. landmark — and what could happen to it",
+   "lien": "https://www.npr.org/2026/11/18/nx-s1-6042889/how-the-east-potomac-golf-course-became-a-d-c-landmark-and-what-could-happen-to-it",
+   "source": "NPR",
+   "date": "2026-11-18T10:02:00+00:00",
+   "extrait": "A federal judge is keeping East Potomac Park open for now, but hasn't ordered the government to keep the municipal golf course operational.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "1dfaa8486240",
+   "titre": "« Inside Deutsche Bank » : comment le géant bancaire a découvert qu’il avait servi d’intermédiaire à un gigantesque réseau de blanchiment",
+   "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/11/18/inside-deutsche-bank-comment-le-geant-bancaire-a-decouvert-qu-il-avait-servi-d-intermediaire-a-un-gigantesque-reseau-de-blanchiment_6813105_4355770.html",
+   "source": "Le Monde",
+   "date": "2026-11-18T10:00:47+00:00",
+   "extrait": "En 2020, un analyste de la banque allemande met au jour un mécanisme de blanchiment. Le système, qui a brassé plus de 1,7 milliard d’euros et est lié à l’oligarque russe Oleg Deripaska, a exfiltré…",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "1127ac3978a5",
@@ -42,6 +441,90 @@
    "extrait": "NPR is following along as about a dozen special education teachers navigate this school year and share their joys and challenges. Listeners say they're not alone.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "a1aa556e52bb",
+   "titre": "OpenAI announces new AI safety program; researchers worry it won't be enough",
+   "lien": "https://www.npr.org/2026/11/18/nx-s1-6044223/openai-embedded-evaluators-program-critics",
+   "source": "NPR",
+   "date": "2026-11-18T10:00:00+00:00",
+   "extrait": "OpenAI CEO Sam Altman said he would grant \"employee level\" access to outside researchers to evaluate AI safety. The pilot program appears much more restrictive.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "9c8259feddcb",
+   "titre": "Iran-backed militias tortured him, but Iraqi environmentalist refuses to quit",
+   "lien": "https://www.npr.org/2026/11/18/nx-s1-6043167/iraq-environmentalist-marshes-iran-backed-militia-kidnapped",
+   "source": "NPR",
+   "date": "2026-11-18T10:00:00+00:00",
+   "extrait": "Iran-backed militias kidnapped and tortured him, but Iraqi environmentalist is still on a mission to save marshes, and a way of life stretching back to the dawn of history.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "689560bf09be",
+   "titre": "Project Gryffindor: Meta's plan to get more school kids using Instagram",
+   "lien": "https://www.npr.org/2026/11/18/nx-s1-6037808/meta-instagram-schools-teens-safety",
+   "source": "NPR",
+   "date": "2026-11-18T10:00:00+00:00",
+   "extrait": "Meta said it launched its \"school partnership program\" to keep teens safe, but internal documents tell a different story.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "ca4722352b54",
+   "titre": "China and the U.S. are still the biggest polluters, but only China is doing better",
+   "lien": "https://www.npr.org/2026/11/18/nx-s1-6044646/china-and-the-u-s-emissions-cop31-antalya",
+   "source": "NPR",
+   "date": "2026-11-18T10:00:00+00:00",
+   "extrait": "The two largest emitters of greenhouse gases are China and the United States. Now, the countries' stories are diverging: many Chinese provinces are reducing coal use, while the U.S. is falling…",
+   "tags": [
+    "Climat",
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "608103b00fae",
+   "titre": "She retired early to care for family. New work rules for food aid disrupted that",
+   "lien": "https://www.npr.org/2026/11/18/nx-s1-5954231/snap-work-rules-retirees",
+   "source": "NPR",
+   "date": "2026-11-18T10:00:00+00:00",
+   "extrait": "The Trump administration's sweeping changes to SNAP food aid mean older adults up to age 65 must work or volunteer to get the benefit.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "accc4e5ea104",
+   "titre": "La prévision de croissance de 1% en France pour 2027 \"est à risque\", reconnaît le ministre de l'Economie",
+   "lien": "https://www.franceinfo.fr/economie/budget/la-prevision-de-croissance-de-1-en-france-pour-2027-est-a-risque-reconnait-le-ministre-de-l-economie-roland-lescure_8288000.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T09:50:37+00:00",
+   "extrait": "Le gouvernement risque d'être contraint d'envisager de nouvelles mesures d'économies pour boucler le budget pour l'année 2027.",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "6dea9be7a3fb",
+   "titre": "Le BHV Marais reste fermé après son placement en redressement judiciaire mais espère \"rouvrir pour les fêtes\" de fin d'année",
+   "lien": "https://www.franceinfo.fr/economie/le-bhv-marais-reste-ferme-apres-son-placement-en-redressement-judiciaire-mais-espere-rouvrir-pour-les-fetes-de-fin-d-annee_8288003.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T09:48:01+00:00",
+   "extrait": "Dans un message adressé aux salariés, la direction du BHV Marais indique désormais que des dispositifs de sécurité incendie doivent être mis en conformité. L'objectif est d'être de retour \"dès que…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
   },
   {
    "id": "cf29155825fb",
@@ -75,6 +558,18 @@
    "extrait": "Le site d'investigation a recueilli le témoignage de Maïté Fontaine, qui a entretenu une relation avec le metteur en scène de théâtre, de 33 ans son aîné, entre 2007 et 2008.",
    "tags": [
     "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "995cdd3ff4eb",
+   "titre": "\"Nous devons nous rassembler derrière une personne\" pour la présidentielle et \"éviter la catastrophe\", plaide Jean-François Copé",
+   "lien": "https://www.franceinfo.fr/elections/nous-devons-nous-rassembler-derriere-une-personne-pour-la-presidentielle-et-eviter-la-catastrophe-plaide-jean-francois-cope_8287979.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T09:32:32+00:00",
+   "extrait": "L'ancien ministre et actuel maire Les Républicains de Meaux veut travailler à réunir les candidats de la droite et du centre pour l'élection présidentielle de 2027 mais reconnaît n'avoir aucune…",
+   "tags": [
+    "Politique"
    ],
    "zone": "france"
   },
@@ -170,16 +665,6 @@
    "zone": "france"
   },
   {
-   "id": "fc69323983f3",
-   "titre": "Un accident de tramway blesse 16 personnes dans le Val-de-Marne après une collision entre deux rames",
-   "lien": "https://www.franceinfo.fr/economie/transports/un-accident-de-tramway-blesse-16-personnes-dans-le-val-de-marne-apres-une-collision-entre-deux-rames_8287820.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T08:47:05+00:00",
-   "extrait": "Des investigations sont en cours pour déterminer les causes de cet accident.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
    "id": "264f18e7c2cb",
    "titre": "Jean-Luc Mélenchon et l’Ukraine : ce que disent les votes de LFI au Parlement européen",
    "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/11/18/jean-luc-melenchon-et-l-ukraine-ce-que-disent-les-votes-de-la-france-insoumise-au-parlement-europeen_6813096_4355770.html",
@@ -239,18 +724,6 @@
    "zone": "france"
   },
   {
-   "id": "7ab40838ae16",
-   "titre": "Iran ramps up retaliation on Gulf countries after U.S. strikes",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
-   "source": "CBS News",
-   "date": "2026-11-18T08:32:54+00:00",
-   "extrait": "Iran appears to be ramping up retaliatory attacks against U.S. allies in the Gulf, as Bahrain and Kuwait claimed that they intercepted strikes.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "67cbe0ece4a6",
    "titre": "Des dizaines de sites grand public, dont ceux d'Ikea, d'HSBC ou de CNN, attaqués pour récupérer les données financières d'utilisateurs",
    "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-dizaines-de-sites-grand-public-dont-ceux-d-ikea-d-hsbc-ou-de-cnn-attaques-pour-recuperer-les-donnees-financieres-d-utilisateurs_8287787.html#xtor=RSS-3-[lestitres]",
@@ -259,6 +732,18 @@
    "extrait": "Le butin des pirates se monte à seulement 7 000 dollars selon la plateforme de surveillance Report URI.",
    "tags": [
     "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "61ae75e9c205",
+   "titre": "Laurent Jacobelli, porte-parole de la campagne de Marine Le Pen, juge que le débat sur la primaire de la droite et du centre est une \"espèce de télé-réalité interminable\"",
+   "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/laurent-jacobelli-porte-parole-de-la-campagne-de-marine-le-pen-juge-que-la-primaire-de-la-droite-et-du-centre-est-une-espece-de-tele-realite-interminable_8284508.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T08:30:23+00:00",
+   "extrait": "Laurent Jacobelli, porte-parole de la campagne de Marine Le Pen, député RN, était l'invité politique de franceinfo, mercredi 18 novembre. Il a été interrogé sur l'organisation d'une primaire du bloc…",
+   "tags": [
+    "Justice"
    ],
    "zone": "france"
   },
@@ -393,16 +878,6 @@
    "zone": "france"
   },
   {
-   "id": "f8cd616b70c1",
-   "titre": "\"On est juste là et on subit\" : dans les établissements bloqués, la crainte de \"décrochage\" de certains étudiants",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-on-est-juste-la-et-on-subit-dans-les-etablissements-bloques-la-crainte-de-decrochage-de-certains-etudiants_8287778.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T07:37:15+00:00",
-   "extrait": "Dans certaines universités, les cours ne sont plus organisés normalement depuis presque deux mois. Une situation qui commence à inquiéter certains élèves et professeurs.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
    "id": "f533cbbdeaca",
    "titre": "Le monde de la mode dénonce l'offensive \"cachée\" de Shein qui finance des bourses d'étudiants dans des écoles françaises de mode",
    "lien": "https://www.franceinfo.fr/economie/entreprises/shein/le-monde-de-la-mode-denonce-l-offensive-cachee-de-shein-qui-finance-des-bourses-d-etudiants-dans-des-ecoles-francaises-de-mode_8287823.html#xtor=RSS-3-[lestitres]",
@@ -483,12 +958,12 @@
    "zone": "usa"
   },
   {
-   "id": "55134f7fb917",
-   "titre": "Democrats win Alaska Senate race two weeks after midterms counting began",
-   "lien": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-18T07:00:25+00:00",
-   "extrait": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
+   "id": "50e32132090b",
+   "titre": "\"Je vais prendre quatre jours de congés\" : le jeu vidéo \"GTA VI\" sort après 13 ans d'attente",
+   "lien": "https://www.france24.com/fr/culture/20261118-le-taylor-swift-du-jeu-vid%C3%A9o-gta-vi-sort-apr%C3%A8s-13-ans-d-attente",
+   "source": "France 24",
+   "date": "2026-11-18T07:03:37+00:00",
+   "extrait": "Le phénomène \"GTA VI\" déferle jeudi à minuit sur l'industrie du divertissement. Le jeu vidéo le plus cher jamais développé et dont la sortie a été repoussée deux fois est bien parti pour battre des…",
    "tags": [
     "Politique"
    ],
@@ -506,11 +981,11 @@
   },
   {
    "id": "199be8dc9e1a",
-   "titre": "A la Deutsche Bank, \"l'argent n'a pas d'odeur\"",
+   "titre": "À la Deutsche Bank, \"l'argent n'a pas d'odeur\"",
    "lien": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261118-a-la-deutsche-bank-l-argent-n-a-pas-d-odeur",
    "source": "France 24",
    "date": "2026-11-18T06:57:59+00:00",
-   "extrait": "A la une de la presse, ce mercredi 18 novembre, la fuite de 15 millions de documents internes de la Deutsche Bank, accusée d’avoir fermé les yeux sur les activités frauduleuses, voire criminelles de…",
+   "extrait": "À la Une de la presse ce mercredi 18 novembre : la fuite de 15 millions de documents internes de la Deutsche Bank, accusée d'avoir fermé les yeux sur les activités frauduleuses, voire criminelles de…",
    "tags": [
     "Conflits"
    ],
@@ -605,16 +1080,6 @@
    "zone": "france"
   },
   {
-   "id": "79f2b63a4a4b",
-   "titre": "\"Dès qu'il y a un nouveau téléphone, tout le monde fait un crédit\" : comment le surendettement explose chez les moins de 30 ans",
-   "lien": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignage-des-qu-il-y-a-un-nouveau-telephone-tout-le-monde-fait-un-credit-comment-le-surendettement-explose-chez-les-moins-de-30-ans_8266763.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T06:01:03+00:00",
-   "extrait": "De nouvelles règles sur les crédits à la consommation entrent en vigueur vendredi pour tenter d'enrayer ce surendettement des jeunes. Une jeune femme raconte comment elle est tombée dans cette…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
    "id": "8076ea1e07f3",
    "titre": "« Inside Deutsche Bank » : les contorsions du géant bancaire pour financer les marchands d’armes",
    "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/11/18/inside-deutsche-bank-les-contorsions-du-geant-bancaire-pour-financer-les-marchands-d-armes_6813080_4355770.html",
@@ -677,6 +1142,16 @@
    "zone": "france"
   },
   {
+   "id": "bffa9643cd4c",
+   "titre": "Can a US-backed mineral highway bring peace and prosperity to DR Congo?",
+   "lien": "https://www.bbc.co.uk/news/articles/cx053jrv9rz9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-18T05:11:42+00:00",
+   "extrait": "The Lobito Corridor is at the centre of a US-backed effort to secure access to Africa's critical minerals.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
    "id": "995d5e1e646a",
    "titre": "L'industrie agroalimentaire a envoyé 260 lobbyistes à la COP31, le secteur des engrais particulièrement mobilisé",
    "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/l-industrie-agroalimentaire-a-envoye-260-lobbyistes-a-la-cop31-le-secteur-des-engrais-particulierement-mobilise_8284517.html#xtor=RSS-3-[lestitres]",
@@ -693,6 +1168,16 @@
    "source": "Le Monde",
    "date": "2026-11-18T05:00:10+00:00",
    "extrait": "« Les idées claires pour 2027 ». Dans quel état se trouve actuellement le système ? Quels seraient les leviers pour le réformer ? Voici les chiffres et notions à avoir en tête pour se situer dans…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "a25ae4ef80ee",
+   "titre": "\"La Respiration laïque\" : la philosophe Catherine Kintzler défend une laïcité qui laisse de l'air",
+   "lien": "https://www.franceinfo.fr/culture/livres/la-respiration-laique-la-philosophe-catherine-kintzler-defend-une-laicite-qui-laisse-de-l-air_8285072.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T05:00:02+00:00",
+   "extrait": "Dans cet essai rigoureux, l'autrice retourne vers les origines de la laïcité pour en éclairer les soubassements, au moment où le mot sert d'étendard ou d'épouvantail à deux camps opposés.",
    "tags": [],
    "zone": "france"
   },
@@ -827,7 +1312,7 @@
    "lien": "https://www.lemonde.fr/societe/article/2026/11/18/au-proces-de-l-interpellation-violente-de-michel-zecler-mea-culpa-et-fausses-justifications-des-policiers_6813061_3224.html",
    "source": "Le Monde",
    "date": "2026-11-18T04:00:08+00:00",
-   "extrait": "Trois fonctionnaires sont jugés par la cour criminelle de Paris pour avoir passé à tabac le producteur, dans son studio de musique, en novembre 2020. Mardi, ils ont enfin été entendus sur les…",
+   "extrait": "Trois fonctionnaires sont jugés par la cour criminelle de Paris pour avoir passé à tabac le producteur dans son studio de musique, en novembre 2020. Mardi, ils ont enfin été entendus sur les…",
    "tags": [
     "Justice"
    ],
@@ -1593,6 +2078,18 @@
    "zone": "usa"
   },
   {
+   "id": "a824c7cd0add",
+   "titre": "Les Chinois font décoller leur premier avion de ligne 100% électrique : que peut-on attendre en France ?",
+   "lien": "https://www.franceinfo.fr/economie/aeronautique/les-chinois-font-decoller-leur-premier-avion-de-ligne-100-electrique-que-peut-on-attendre-en-france_8287124.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-17T22:35:38+00:00",
+   "extrait": "Après les voitures, les avions électriques. La Chine vient de faire voler un appareil conçu pour transporter 19 passagers. Son constructeur annonce une autonomie de 400 kilomètres. À Toulouse, un…",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "c8a2414e47f1",
    "titre": "\"Je serais honoré de reprendre mes fonctions de PDG\" : l'ex-patron de Nvidia, Jensen Huang, se dit ouvert à un retour à la tête de l'entreprise, cinq jours après sa démission",
    "lien": "https://www.franceinfo.fr/internet/nvidia/je-serais-honore-de-reprendre-mes-fonctions-de-pdg-l-ex-patron-de-nvidia-jensen-huang-se-dit-ouvert-a-un-retour-a-la-tete-de-l-entreprise-cinq-jours-apres-sa-demission_8286938.html#xtor=RSS-3-[lestitres]",
@@ -2071,18 +2568,6 @@
    "date": "2026-11-17T19:53:35+00:00",
    "extrait": "Lundi, à la fin d’un débat consacré à Gérard Depardieu et à la question des violences sexuelles, une journaliste a invoqué la charte déontologique de la chaîne publique pour rappeler qu’Anne-Cécile…",
    "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "8004e409b20e",
-   "titre": "\"Il y a une grosse fatigue physique\" : les CRS, à bout, se mobilisent",
-   "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/il-y-a-une-grosse-fatigue-physique-les-crs-a-bout-se-mobilisent_8287067.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T19:52:39+00:00",
-   "extrait": "À force d’encadrer les manifestations, les CRS se disent à bout. Plus de 1 000 d’entre eux étaient indisponibles ce mardi 17 novembre selon le syndicat Alliance Police Nationale après avoir demandé…",
-   "tags": [
-    "Justice"
-   ],
    "zone": "france"
   },
   {
@@ -2969,482 +3454,6 @@
     "Économie"
    ],
    "zone": "france"
-  },
-  {
-   "id": "08cabb6d9a8d",
-   "titre": "Pont de Crimée : Zelensky évoque une opération \"sans précédent\" en réponse aux frappes russes",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261117-pont-de-crim%C3%A9e-zelensky-%C3%A9voque-une-op%C3%A9ration-sans-pr%C3%A9c%C3%A9dent-en-r%C3%A9ponse-aux-frappes-russes",
-   "source": "France 24",
-   "date": "2026-11-17T16:04:30+00:00",
-   "extrait": "L'Ukraine a sévèrement endommagé le pont de Crimée dans la nuit, une attaque hautement symbolique avant une rencontre en Chine entre les chefs d'Etat russe, américain et chinois, tandis que Moscou a…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "403803e2eb69",
-   "titre": "Une enfant de deux ans décède aux urgences à Orléans, sa mère et son beau-père placés en garde à vue",
-   "lien": "https://www.franceinfo.fr/faits-divers/une-enfant-de-deux-ans-decede-aux-urgences-a-orleans-sa-mere-et-son-beau-pere-places-en-garde-a-vue_8286779.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T16:03:03+00:00",
-   "extrait": "Le corps de l'enfant portait des marques suspectes, pouvant laisser penser à des maltraitances.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "a84379c2f7dc",
-   "titre": "Pope Leo calls for \"less controversy, less war, less division\"",
-   "lien": "https://www.cbsnews.com/news/pope-leo-less-war-less-us-division-married-priests-debate/",
-   "source": "CBS News",
-   "date": "2026-11-17T16:02:10+00:00",
-   "extrait": "The Catholic Church's first U.S.-born leader, returning from a major Latin America tour, spoke about American unity, his health, and the prospect of married priests.",
-   "tags": [
-    "Conflits",
-    "Santé"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "e7860d6c3dc1",
-   "titre": "Scientist fired after 6-year-old girl dies in gene-editing trial",
-   "lien": "https://www.cbsnews.com/news/girl-dies-gene-editing-trial-scientist-fired-china-state-media/",
-   "source": "CBS News",
-   "date": "2026-11-17T16:01:58+00:00",
-   "extrait": "The girl died last year after receiving experimental gene therapy to correct a non-life-threatening condition, an investigation found.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "7fe0a2c50752",
-   "titre": "« Hunger Games. Lever de soleil sur la moisson » retrouve l’ADN de ses débuts",
-   "lien": "https://www.lemonde.fr/culture/article/2026/11/17/hunger-games-lever-de-soleil-sur-la-moisson-retrouve-l-adn-de-ses-debuts_6813001_3246.html",
-   "source": "Le Monde",
-   "date": "2026-11-17T16:00:05+00:00",
-   "extrait": "Ce nouveau volet, qui reprend la narration du tout premier chapitre de la saga, présente des scènes d’action réussies, déjoue avec malice quelques attentes mais n’évite pas, hélas, les effets…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "6b23b430e49d",
-   "titre": "Hawley, Durbin introduce Roblox safety bill ahead of hearing",
-   "lien": "https://www.cbsnews.com/news/roblox-bill-josh-hawley-dick-durbin/",
-   "source": "CBS News",
-   "date": "2026-11-17T15:55:38+00:00",
-   "extrait": "The legislation would allow families of individuals harmed by tech products to take their claims to court even if they agreed to the company's terms of service for private arbitration.",
-   "tags": [
-    "Justice",
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "15789c235bd8",
-   "titre": "La Somme et le Pas-de-Calais placés en vigilance orange pluie-inondation à partir de 23 heures",
-   "lien": "https://www.franceinfo.fr/environnement/meteo/la-somme-et-le-pas-de-calais-places-en-vigilance-orange-pluie-inondation-a-partir-de-23-heures_8286704.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T15:55:22+00:00",
-   "extrait": "Météo-France évoque un \"épisode de fortes averses, ayant un caractère stationnaire, justifiant d'une vigilance particulière en raison des cumuls attendus\".",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "dae7348847ca",
-   "titre": "BBC reports from Kyiv bridge hit by Russian attack",
-   "lien": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-17T15:54:15+00:00",
-   "extrait": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "5e1b9cf33bfe",
-   "titre": "Parents, gamers ask lawmakers to pass Roblox safety legislation",
-   "lien": "https://www.cbsnews.com/video/parents-gamers-ask-lawmakers-to-pass-roblox-safety-legislation/",
-   "source": "CBS News",
-   "date": "2026-11-17T15:51:39+00:00",
-   "extrait": "Some parents claim online predators have been able to groom and abuse children through the gaming platform Roblox. Lawmakers will hear from users who say they experienced abuse in a hearing. CBS…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "dc15b4420af4",
-   "titre": "Le directeur de la prison d’Aix-Luynes en garde à vue pour détention d’images pédocriminelles",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/17/le-directeur-de-la-prison-d-aix-luynes-en-garde-a-vue-pour-detention-d-images-pedocriminelles_6812999_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-17T15:50:41+00:00",
-   "extrait": "Le ministère de la justice a suspendu le fonctionnaire « à titre conservatoire » et annonce une procédure de révocation « si les faits sont avérés ».",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "5251a9c29a6d",
-   "titre": "Rwanda : cinq pays européens veulent y regrouper les migrants expulsés",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261117-rwanda-cinq-pays-europ%C3%A9ens-veulent-y-regrouper-les-migrants-expuls%C3%A9s",
-   "source": "France 24",
-   "date": "2026-11-17T15:48:41+00:00",
-   "extrait": "Cinq pays de l'UE, dont l'Allemagne et le Danemark, ont dévoilé lundi un projet inédit visant à transférer au Rwanda des migrants n'ayant plus le droit de séjourner en Europe.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "6da44fad5813",
-   "titre": "Jeux vidéos : GTA VI s'apprête enfin à sortir après 13 ans d'attente",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261117-jeux-vid%C3%A9os-gta-vi-s-appr%C3%AAte-enfin-%C3%A0-sortir-apr%C3%A8s-13-ans-d-attente",
-   "source": "France 24",
-   "date": "2026-11-17T15:46:38+00:00",
-   "extrait": "Les ⁠jours de congés ont ​été posés et des millions de copies du jeu vidéo pré-commandés ou pré-téléchargés. Un joueur a même demandé à son épouse de ne pas l'interrompre pour profiter pleinement…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "7fa6a63b2707",
-   "titre": "Mozambique : le procès du principal opposant pour \"terrorisme\" ouvert",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261117-mozambique-le-proc%C3%A8s-du-principal-opposant-pour-terrorisme-ouvert",
-   "source": "France 24",
-   "date": "2026-11-17T15:45:45+00:00",
-   "extrait": "Le procès pour \"terrorisme\" du principal opposant mozambicain Venancio Mondlane s'est ouvert mardi à Maputo devant la plus haute juridiction du pays pour ses appels à contester dans la rue les…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "1fc541486538",
-   "titre": "How the attack on Crimean Bridge unfolded",
-   "lien": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-17T15:38:10+00:00",
-   "extrait": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "14f5cd5d9bd3",
-   "titre": "Réforme des retraites de Marine Le Pen : départ à 60 ou 62 ans, capitalisation et conditions durcies",
-   "lien": "https://www.france24.com/fr/france/20261117-france-presidentielle-2027-reforme-des-retraites-marine-le-pen-depart-a-60-ou-62-ans-capitalisation-conditions-durcies",
-   "source": "France 24",
-   "date": "2026-11-17T15:31:35+00:00",
-   "extrait": "La candidate du Rassemblement national à l’élection présidentielle de 2027, Marine Le Pen, a présenté mardi son projet de réforme du système de retraites, avec la promesse d'un retour aux 62 ans…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "4a0425c081ab",
-   "titre": "En Europe, les fumeurs ont davantage de difficulté à arrêter que dans le reste du monde, selon l'Organisation mondiale de la santé",
-   "lien": "https://www.franceinfo.fr/sante/en-europe-les-fumeurs-ont-davantage-de-difficulte-a-arreter-que-dans-le-reste-du-monde-selon-l-organisation-mondiale-de-la-sante_8286614.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T15:23:56+00:00",
-   "extrait": "Selon l'OMS, le continent \"devrait continuer à afficher la prévalence du tabagisme chez les adultes la plus élevée au monde\".",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "3ffac116e692",
-   "titre": "Le directeur de la prison d'Aix-Luynes placé en garde à vue pour détention d'images pédopornographiques",
-   "lien": "https://www.franceinfo.fr/societe/prisons/le-directeur-de-la-prison-d-aix-luynes-place-en-garde-a-vue-pour-detention-d-images-pedopornographiques_8286707.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T15:23:29+00:00",
-   "extrait": "Le ministère de la Justice rajoute qu'une \"suspension immédiate à titre conservatoire\" a été prise à l'encontre de cet homme, nommé directeur du centre pénitentiaire d'Aix-Luynes à l'été 2025.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "2a7ee5714269",
-   "titre": "Le chanteur Aldebert sort un best of et prépare une tournée pour les dix-huit ans du premier volet de ses \"Enfantillages\"",
-   "lien": "https://www.franceinfo.fr/culture/musique/chanson-francaise/le-chanteur-aldebert-sort-un-best-of-et-prepare-une-tournee-pour-les-dix-huit-ans-du-premier-volet-de-ses-enfantillages_8286410.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T15:22:34+00:00",
-   "extrait": "L'artiste dévoué à la chanson pour la jeunesse promet une tournée \"comme une grande cour de récré\", remplie d'énergie, de surprises, mais aussi de cascades.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "3d7ce83baa5d",
-   "titre": "Congress fights over air traffic control funds; midair collision families push for safety measures",
-   "lien": "https://www.cbsnews.com/video/congress-fights-over-air-traffic-control-funds-midair-collision-families-push-for-safety-measures/",
-   "source": "CBS News",
-   "date": "2026-11-17T15:21:47+00:00",
-   "extrait": "Lawmakers are meeting over last week's nationwide FAA ground stop and Transportation Secretary Sean Duffy's push for more funding. Plus, the families of victims in the 2025 midair collision over the…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "7c7237f4d5c2",
-   "titre": "Airlines race to recover from tech troubles before holiday season",
-   "lien": "https://www.cbsnews.com/video/airlines-race-to-recover-from-tech-troubles-before-holiday-season/",
-   "source": "CBS News",
-   "date": "2026-11-17T15:20:56+00:00",
-   "extrait": "A slate of tech problems impacted U.S. tech companies and banks and delayed flights just days after a national ground stop. CBS News' Kris Van Cleave reports.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "cf04afb48f4d",
-   "titre": "Donald Trump dit \"prendre très au sérieux\" une possible menace d'attaque iranienne à Washington",
-   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261117-donald-trump-dit-prendre-tr%C3%A8s-au-s%C3%A9rieux-une-possible-menace-d-attaque-iranienne-%C3%A0-washington",
-   "source": "France 24",
-   "date": "2026-11-17T15:20:35+00:00",
-   "extrait": "En déplacement à Manille, le président des États-Unis a déclaré \"prendre très au sérieux\" une information de la chaîne de télévision CNN, selon laquelle Téhéran projetait un attentat à la \"bombe…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "6926f194e5d2",
-   "titre": "Mozambique opposition leader goes on trial for terrorism over deadly election protests",
-   "lien": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-17T15:19:19+00:00",
-   "extrait": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "d1ec412aa9cc",
-   "titre": "Christina Ricci on the final season of \"Yellowjackets\"",
-   "lien": "https://www.cbsnews.com/video/christina-ricci-on-the-final-season-of-yellowjackets/",
-   "source": "CBS News",
-   "date": "2026-11-17T15:14:17+00:00",
-   "extrait": "Christina Ricci joins \"CBS Mornings\" to talk about the fourth and final season of the hit series \"Yellowjackets,\" which premieres Nov. 20 on Paramount+.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "3653397eeac4",
-   "titre": "L'armée israélienne a utilisé la technologie de reconnaissance faciale d'Amazon pour surveiller les Palestiniens, selon \"The Guardian\"",
-   "lien": "https://www.franceinfo.fr/monde/proche-orient/guerre/l-armee-israelienne-a-utilise-la-technologie-de-reconnaissance-faciale-d-amazon-pour-surveiller-les-palestiniens-selon-le-guardian_8286383.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T15:11:35+00:00",
-   "extrait": "Une unité militaire de l'Etat hébreu a fourni au cloud d'Amazon plusieurs millions de photos, notamment de Palestiniens, pour les analyser à l'aide d'un outil d'intelligence artificielle, début 2024.",
-   "tags": [
-    "Conflits",
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "00f9b1ac80c6",
-   "titre": "Lucky Luke, 80 ans et bien vivant sous la plume de Jul",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20261117-lucky-luke-80-ans-et-bien-vivant-sous-la-plume-de-jul",
-   "source": "France 24",
-   "date": "2026-11-17T15:11:21+00:00",
-   "extrait": "Depuis 80 ans, le cowboy solitaire enchante petits et grands. Figure emblématique du Far West inventée par Morris, ensuite rejoint par Goscinny, Lucky Luke nous embarque dans une nouvelle intrigue…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "c932bdee7206",
-   "titre": "Exclusive discounts from CBS Mornings Deals",
-   "lien": "https://www.cbsnews.com/video/cbs-mornings-deals-111726/",
-   "source": "CBS News",
-   "date": "2026-11-17T15:06:55+00:00",
-   "extrait": "On this edition of CBS Deals, we show you items that could help improve your everyday lifestyle. Visit cbsdeals.com to take advantage of these exclusive deals today. CBS earns commissions on…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "87cc0eca9dae",
-   "titre": "Arthur Fils se défait de Rafael Jodar au Masters de Turin, première victoire française depuis 2011 dans cette compétition",
-   "lien": "https://www.franceinfo.fr/sports/tennis/arthur-fils/arthur-fils-se-defait-de-rafael-jodar-au-masters-de-turin-premiere-victoire-francaise-depuis-2011-dans-cette-competition_8286668.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T15:06:39+00:00",
-   "extrait": "Le Français a battu, mardi, l'Espagnol en trois manches lors des Finales ATP. Il conserve ainsi des chances de se qualifier en demi-finales.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "7acc1efe7987",
-   "titre": "Le Français Philippe Diallo, l'inattendu challenger de Gianni Infantino à la tête de la Fifa",
-   "lien": "https://www.france24.com/fr/sports/20261117-phillippe-diallo-fifa-candidature-fff-infantino-portrait",
-   "source": "France 24",
-   "date": "2026-11-17T15:06:10+00:00",
-   "extrait": "Avec le soutien des associations membres de l'UEFA, le président de la Fédération française de football, Philippe Diallo, a créé la surprise en se portant candidat à la présidence de la Fifa pour…",
-   "tags": [
-    "Politique",
-    "Sport"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "44651b57f400",
-   "titre": "CAN 2027: l'Égypte cale, le Sénégal qualifié sans jouer, le Nigeria et le Gabon en difficulté",
-   "lien": "https://www.france24.com/fr/sports/20261117-can-2027-l-%C3%A9gypte-cale-et-retarde-sa-qualification-le-nigeria-et-le-gabon-se-mettent-en-difficult%C3%A9",
-   "source": "France 24",
-   "date": "2026-11-17T15:03:18+00:00",
-   "extrait": "L'Égypte avait une belle opportunité de se qualifier pour la CAN 2027 au Malawi ce mardi. Mais Mohamed Salah et ses coéquipiers ne sont pas parvenus à faire mieux qu'un match nul (0-0). Le Gabon et…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "90695f99a989",
-   "titre": "Donald Trump prend \"très au sérieux\" une possible menace d'attaque iranienne contre la ville de Washington, l'Iran dénonce des informations \"fabriquées\"",
-   "lien": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-prend-tres-au-serieux-une-possible-menace-d-attaque-iranienne-contre-la-ville-de-washington-l-iran-denonce-des-informations-fabriquees_8286563.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T15:00:34+00:00",
-   "extrait": "Selon CNN, les services de renseignement disposeraient d'informations selon lesquelles Téhéran préparerait une attaque par \"bombe sale\" contre la capitale américaine.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "129bc59ec4d8",
-   "titre": "Protection de l'enfance : le département du Nord attaqué en justice pour \"défaillance\" par le Syndicat de la magistrature et plusieurs associations",
-   "lien": "https://www.franceinfo.fr/monde/europe/migrants/protection-de-l-enfance-le-departement-du-nord-attaque-en-justice-pour-defaillance-par-le-syndicat-de-la-magistrature-et-plusieurs-associations_8286659.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T15:00:30+00:00",
-   "extrait": "Le Syndicat de la magistrature et plusieurs associations attaquent le département du Nord pour défaillance dans la protection de l’enfance. Ils dénoncent les conditions d'accueil des mineurs isolés…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "3c034abbc268",
-   "titre": "« Inside Deutsche Bank » : les documents secrets qui lient Donald Trump à l’argent sale azerbaïdjanais",
-   "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/11/17/inside-deutsche-bank-les-documents-secrets-qui-lient-donald-trump-a-l-argent-sale-azerbaidjanais_6812989_4355770.html",
-   "source": "Le Monde",
-   "date": "2026-11-17T15:00:03+00:00",
-   "extrait": "Pour la première fois, les révélations d’une enquête internationale permettent d’établir un lien formel et direct entre le président américain et l’argent sale azerbaïdjanais.",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "af576b8eca84",
-   "titre": "\"Des dérives qui ont introduit le poison de la division\" : les raisons de la candidature de Philippe Diallo face à Gianni Infantino pour la présidence de la Fifa",
-   "lien": "https://www.franceinfo.fr/sports/foot/des-derives-qui-ont-introduit-le-poison-de-la-division-les-raisons-de-la-candidature-de-philippe-diallo-face-a-gianni-infantino-pour-la-presidence-de-la-fifa_8286545.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T14:56:27+00:00",
-   "extrait": "Face à la presse, mardi, le patron de la Fédération française de football a défendu une vision \"solidaire\", représentative du sport \"que les gens aiment\", s'estimant être \"une alternative crédible\"…",
-   "tags": [
-    "Politique",
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "b4f94fb13a17",
-   "titre": "Kelly Rowland makes exciting announcement",
-   "lien": "https://www.cbsnews.com/video/kelly-rowland-makes-exciting-announcement/",
-   "source": "CBS News",
-   "date": "2026-11-17T14:53:20+00:00",
-   "extrait": "Kelly Rowland joins \"CBS Mornings\" to announce her latest venture: writing fiction. Rowland announces her debut novel, \"Let's Get Started,\" co-written with Tracey Livesay, which will be released in…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "37428062eea0",
-   "titre": "JPMorganChase initiative aims to help Americans achieve homeownership",
-   "lien": "https://www.cbsnews.com/video/jpmorganchase-initiative-aims-to-help-americans-achieve-homeownership/",
-   "source": "CBS News",
-   "date": "2026-11-17T14:46:00+00:00",
-   "extrait": "The median price of a home rose more than $90,000 in the last 10 years, and the average 30-year fixed mortgage rate is more than 7%. Sean Grzebin, CEO of Chase Home Lending, shares how the company…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "58d368dd2bd9",
-   "titre": "Widespread service outages at major U.S. banks appear to be over",
-   "lien": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/",
-   "source": "CBS News",
-   "date": "2026-11-17T14:44:00+00:00",
-   "extrait": "Customers at JPMorgan Chase, Bank of America and other major financial institutions reported difficulty accessing their accounts.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "3c63b3358aa4",
-   "titre": "Marine Le Pen critiquée par ses rivaux à la présidentielle lors d'un débat pour sa volonté de couper les subventions à des \"associations politisées\"",
-   "lien": "https://www.franceinfo.fr/elections/marine-le-pen-critiquee-en-plein-debat-de-la-presidentielle-pour-sa-volonte-de-couper-les-subventions-des-associations-politisees_8285558.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T14:38:48+00:00",
-   "extrait": "Sur LCI, un front allant de Jean-Luc Mélenchon à Gabriel Attal, en passant par Raphaël Glucksmann, s'est dressé face à la candidate du Rassemblement national.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "c5eee84f0e6b",
-   "titre": "Outlook : après la panne géante, Microsoft avance de premières explications",
-   "lien": "https://www.lemonde.fr/pixels/article/2026/11/17/outlook-apres-la-panne-geante-microsoft-avance-de-premieres-explications_6812983_4408996.html",
-   "source": "Le Monde",
-   "date": "2026-11-17T14:34:54+00:00",
-   "extrait": "L’incident survenu jeudi et vendredi, d’une durée inhabituelle, a été causé par une fragilité logicielle qui s’est manifestée à la suite d’une conjonction malheureuse de dysfonctionnements.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "8c24f7d35cba",
-   "titre": "Trump addresses Asian, Pacific leaders at ASEAN dinner",
-   "lien": "https://www.cbsnews.com/video/trump-addresses-asian-leaders-at-asean-dinner/",
-   "source": "CBS News",
-   "date": "2026-11-17T14:34:45+00:00",
-   "extrait": "President Trump addressed world leaders at the ASEAN Summit in the Philippines on the first leg of his trip to Asia.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "9eda1082851a",
-   "titre": "Olivia Munn and Alison Hall discuss fighting for breast cancer awareness on Capitol Hill",
-   "lien": "https://www.cbsnews.com/video/olivia-munn-and-alison-hall-discuss-fighting-for-breast-cancer-awareness-on-capitol-hill/",
-   "source": "CBS News",
-   "date": "2026-11-17T14:34:04+00:00",
-   "extrait": "Olivia Munn and Inside Edition correspondent Alison Hall join \"CBS Mornings\" to discuss their fight for better breast cancer legislation.",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "800d4f427b43",
-   "titre": "Un homme de 29 ans tué en Guadeloupe après des tirs en rafale aux Abymes",
-   "lien": "https://www.franceinfo.fr/france/guadeloupe/un-homme-de-29-ans-tue-en-guadeloupe-apres-des-tirs-en-rafale-aux-abymes_8286632.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T14:31:45+00:00",
-   "extrait": "Six autres personnes ont été blessées après ces tirs dans cette commune des Abymes, ville la plus peuplée de l'île. Une enquête a été ouverte.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "603438bc744f",
-   "titre": "Should you get pet insurance for an older dog or cat?",
-   "lien": "https://www.cbsnews.com/news/should-you-get-pet-insurance-for-older-dog-or-cat/",
-   "source": "CBS News",
-   "date": "2026-11-17T14:26:06+00:00",
-   "extrait": "Pet insurance can help cover costly veterinary bills for senior pets, but there are some trade-offs to consider.",
-   "tags": [],
-   "zone": "usa"
   }
  ]
 }
