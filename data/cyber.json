@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-18T14:05:40+00:00",
+ "maj": "2026-11-18T15:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,28 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "8e8debc4b233",
+   "titre": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
+   "lien": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
+   "source": "BleepingComputer",
+   "date": "2026-11-18T15:00:10+00:00",
+   "extrait": "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world…",
+   "tags": []
+  },
+  {
+   "id": "55016e2da81b",
+   "titre": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
+   "lien": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
+   "source": "The Hacker News",
+   "date": "2026-11-18T14:11:28+00:00",
+   "extrait": "The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target government organizations in the Philippines…",
+   "tags": [
+    "Fuite de données",
+    "Malware",
+    "Outil"
+   ]
+  },
   {
    "id": "74d12e442320",
    "titre": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
@@ -3373,28 +3395,6 @@
    "tags": [
     "Fuite de données",
     "Malware"
-   ]
-  },
-  {
-   "id": "7ef80ee6e03a",
-   "titre": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
-   "lien": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/",
-   "source": "BleepingComputer",
-   "date": "2026-11-09T13:28:56+00:00",
-   "extrait": "The US Department of the Treasury has cut off the MEXC Global crypto exchange from the US financial system over sanctions evasion and links with cybercrime gangs. [...]",
-   "tags": []
-  },
-  {
-   "id": "2c42fb617031",
-   "titre": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
-   "lien": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
-   "source": "The Hacker News",
-   "date": "2026-11-09T13:28:25+00:00",
-   "extrait": "A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep…",
-   "tags": [
-    "Faille",
-    "Fuite de données",
-    "Outil"
    ]
   }
  ]
