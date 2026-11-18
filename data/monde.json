@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-18T07:05:40+00:00",
+ "maj": "2026-11-18T07:58:16+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,16 +22,132 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "fd3d6e18ec05",
+   "titre": "Le premier procès d'ampleur du masculinisme s'ouvre à Paris, sept hommes jugés",
+   "lien": "https://www.france24.com/fr/france/20261118-premier-proc%C3%A8s-ampleur-masculinisme-s-ouvre-paris-sept-hommes-jug%C3%A9s",
+   "source": "France 24",
+   "date": "2026-11-18T07:51:25+00:00",
+   "extrait": "Sept hommes faisant partie de la mouvance masculiniste comparaissent mercredi et jeudi devant le tribunal judiciaire de Paris pour des publications en ligne relayant des propos misogynes, racistes…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "bc9687678846",
+   "titre": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+   "lien": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-18T07:48:18+00:00",
+   "extrait": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "32e35e40e563",
+   "titre": "\"Jean-Luc Mélenchon et Marine Le Pen sont les courroies de transmission de la propagande du Kremlin\", estime le député Pieyre-Alexandre Anglade",
+   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/jean-luc-melenchon-et-marine-le-pen-sont-les-courroies-de-transmission-de-la-propagande-du-kremlin-estime-le-depute-pieyre-alexandre-anglade_8287835.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T07:42:36+00:00",
+   "extrait": "Le député Ensemble pour la République des Français établis hors de France affirme que les deux personnalités politiques \"ont pris l'habitude de reprendre le narratif de la Russie pour essayer…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "6158dd742e51",
+   "titre": "Une minitornade crée des dégâts importants dans un village du Pas-de-Calais",
+   "lien": "https://www.franceinfo.fr/environnement/meteo/alertes-meteo-et-vigilances/video-une-mini-tornade-cree-des-degats-importants-dans-un-village-du-pas-de-calais_8287706.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T07:31:06+00:00",
+   "extrait": "Le département a été placé en vigilance orange \"pluie-inondation\", tout comme la Somme.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "f533cbbdeaca",
+   "titre": "Le monde de la mode dénonce l'offensive \"cachée\" de Shein qui finance des bourses d'étudiants dans des écoles françaises de mode",
+   "lien": "https://www.franceinfo.fr/economie/entreprises/shein/le-monde-de-la-mode-denonce-l-offensive-cachee-de-shein-qui-finance-des-bourses-d-etudiants-dans-des-ecoles-francaises-de-mode_8287823.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T07:30:30+00:00",
+   "extrait": "50 élèves d'une dizaine d'écoles de mode en France bénéficient d'une bourse d'études à hauteur de 9 000 euros par an. La Fédération française du prêt-à-porter féminin y voit une tentative de…",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "ff5ca1939136",
+   "titre": "Est-il possible d'arrêter de subventionner des associations parce qu'elles sont \"politisées\", comme le souhaite Marine Le Pen ?",
+   "lien": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-est-il-possible-d-arreter-de-subventionner-des-associations-parce-qu-elles-sont-politisees-comme-le-souhaite-marine-le-pen_8266754.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T07:22:06+00:00",
+   "extrait": "La candidate du RN à la présidentielle annonce que, si elle remporte l'élection de 2027, elle cessera de financer certaines associations qu'elle juge trop politiques.",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "8c795958bf6d",
+   "titre": "Nicole Belloubet, ancienne ministre de la justice : « Les juges deviennent à titre individuel la cible de critiques violentes »",
+   "lien": "https://www.lemonde.fr/idees/article/2026/11/18/nicole-belloubet-les-juges-deviennent-a-titre-individuel-la-cible-de-critiques-violentes_6813086_3232.html",
+   "source": "Le Monde",
+   "date": "2026-11-18T07:09:15+00:00",
+   "extrait": "L’ancienne ministre de la justice revient, dans une tribune au « Monde », sur les cas Nicolas Guillou, juge à la Cour pénale internationale, Youssef Badr, magistrat, et Richard Ferrand, président du…",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "80a12205fdc1",
+   "titre": "Une baisse en français, un niveau stable en mathématiques… Quelles sont les conclusions des évaluations nationales pour les élèves ?",
+   "lien": "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/college/une-baisse-en-francais-un-niveau-stable-en-mathematiques-quelles-sont-les-conclusions-des-evaluations-nationales-pour-les-eleves_8286749.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T07:08:36+00:00",
+   "extrait": "En classe de quatrième, les scores moyens en français ont chuté de sept points depuis 2023.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "9932f265eb69",
+   "titre": "Voyager 1 sets distance record of 1 \"light day\" from Earth",
+   "lien": "https://www.cbsnews.com/news/voyager-1-probe-light-day-earth-father-than-anything/",
+   "source": "CBS News",
+   "date": "2026-11-18T07:06:00+00:00",
+   "extrait": "Voyager 1 and its sister ship Voyager 2 are still beaming back data from interstellar space as they near their 50th anniversary next year.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
    "id": "8822240bdef8",
    "titre": "Trump in Asia for Putin, Xi summit; possible meeting with Kim Jong Un",
    "lien": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
    "source": "CBS News",
-   "date": "2026-11-18T07:05:22+00:00",
-   "extrait": "The president is en route to China after starting a multiday Asia swing in the Philippines. He's scheduled have a summit in China with Vladimir Putin and Xi Jinping, and may meet with Kim Jong Un.",
+   "date": "2026-11-18T07:05:00+00:00",
+   "extrait": "The president is en route to China after a stop in the Philippines. He's slated have a summit in China with Vladimir Putin and Xi Jinping, and may meet with Kim Jong Un.",
    "tags": [
     "Politique"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "55134f7fb917",
+   "titre": "Democrats win Alaska Senate race two weeks after midterms counting began",
+   "lien": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-18T07:00:25+00:00",
+   "extrait": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
   },
   {
    "id": "b19bff785deb",
@@ -44,24 +160,46 @@
    "zone": "france"
   },
   {
+   "id": "199be8dc9e1a",
+   "titre": "A la Deutsche Bank, \"l'argent n'a pas d'odeur\"",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261118-a-la-deutsche-bank-l-argent-n-a-pas-d-odeur",
+   "source": "France 24",
+   "date": "2026-11-18T06:57:59+00:00",
+   "extrait": "A la une de la presse, ce mercredi 18 novembre, la fuite de 15 millions de documents internes de la Deutsche Bank, accusée d’avoir fermé les yeux sur les activités frauduleuses, voire criminelles de…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "511c2313bd1d",
-   "titre": "Bahreïn et Koweït ciblés par des attaques de drones iraniens",
+   "titre": "L’Iran attaque des cibles à Bahreïn et au Koweït après un bombardement américain sur l’île de Qechm",
    "lien": "https://www.lemonde.fr/international/article/2026/11/18/bahrein-et-koweit-cibles-par-des-attaques-de-drones-iraniens_6813084_3210.html",
    "source": "Le Monde",
-   "date": "2026-11-18T06:57:48+00:00",
-   "extrait": "Ces attaques interviennent après les frappes des Etats-Unis, qui ont dit avoir visé un site de missiles sur l’île iranienne de Qechm, dans le cadre du conflit au Moyen-Orient entre Téhéran et…",
+   "date": "2026-11-18T06:57:46+00:00",
+   "extrait": "Ces attaques avec des « drones de combat et des drones kamikazes », selon Téhéran, ont eu lieu après les frappes de l’armée américaine, qui ont dit avoir visé un site de missiles sur l’île iranienne…",
    "tags": [
     "Conflits"
    ],
    "zone": "france"
   },
   {
+   "id": "4757e99498b9",
+   "titre": "Présidentielle 2027 : la droite et le centre posent la première pierre d’une primaire incertaine, avec ou sans Edouard Philippe",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-sans-attendre-edouard-philippe-ses-adversaires-posent-la-premiere-pierre-d-une-primaire-de-la-droite-et-du-centre-incertaine_6813083_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-18T06:51:21+00:00",
+   "extrait": "Mardi soir, les équipes de Gabriel Attal, Bruno Retailleau et David Lisnard ont tenu une première réunion en vue d’une éventuelle primaire de la droite et du centre. L’idée d’un départage en janvier…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "cd87c04ac07e",
-   "titre": "Marco Rubio, chef de la diplomatie américaine tente de rassurer ses compatriotes après une série de pannes informatiques",
+   "titre": "Marco Rubio, chef de la diplomatie américaine, assure qu'aucun acte de malveillance n'est à l'origine des récentes pannes informatiques dans le pays",
    "lien": "https://www.franceinfo.fr/internet/marco-rubio-chef-de-la-diplomatie-americaine-tente-de-rassurer-ses-compatriotes-apres-une-serie-de-pannes-informatiques_8287763.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-11-18T06:36:54+00:00",
-   "extrait": "Alors que Donald Trump est accusé de traiter \"légèrement\", les conséquences de la panne de la messagerie Outlook, son ministre a voulu montrer qu'il prenait cette question au sérieux.",
+   "extrait": "Le secrétaire d'Etat a convoqué la presse à Manille, aux Philippines, notamment pour tenter de répondre aux accusations de légèreté formulées contre l'administration Trump après une succession…",
    "tags": [
     "Politique"
    ],
@@ -100,18 +238,6 @@
    "zone": "france"
   },
   {
-   "id": "6158dd742e51",
-   "titre": "Une minitornade crée des dégâts importants dans un village du Pas-de-Calais",
-   "lien": "https://www.franceinfo.fr/environnement/meteo/alertes-meteo-et-vigilances/video-une-mini-tornade-cree-des-degats-importants-dans-un-village-du-pas-de-calais_8287706.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T06:04:08+00:00",
-   "extrait": "Le département a été placé en vigilance orange \"pluie-inondation\", tout comme la Somme.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "8076ea1e07f3",
    "titre": "« Inside Deutsche Bank » : les contorsions du géant bancaire pour financer les marchands d’armes",
    "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/11/18/inside-deutsche-bank-les-contorsions-du-geant-bancaire-pour-financer-les-marchands-d-armes_6813080_4355770.html",
@@ -125,10 +251,10 @@
   },
   {
    "id": "ea3241a86646",
-   "titre": "Comment le changement climatique met sous pression le tourisme mondial",
+   "titre": "La crise climatique redessine déjà la carte du tourisme, les régions les plus visitées sont insuffisamment préparées, selon une étude",
    "lien": "https://www.lemonde.fr/economie/article/2026/11/18/comment-le-changement-climatique-met-sous-pression-le-tourisme-mondial_6813079_3234.html",
    "source": "Le Monde",
-   "date": "2026-11-18T05:55:11+00:00",
+   "date": "2026-11-18T05:55:09+00:00",
    "extrait": "Alors que les risques liés à l’augmentation des températures vont s’accentuer, le secteur touristique reste insuffisamment préparé, souligne le rapport Destination Climate RiskScan, qui analyse 2…",
    "tags": [
     "Climat"
@@ -141,7 +267,7 @@
    "lien": "https://www.franceinfo.fr/monde/xi-jinping-recoit-vladimir-poutine-avant-un-sommet-inedit-avec-donald-trump-pour-evoquer-les-crises-internationales_8287652.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-11-18T05:43:15+00:00",
-   "extrait": "Le président russe est arrivé en Chine pour participer au sommet inédit avec Donald Trump considéré déjà par certains comme un nouveau Yalta",
+   "extrait": "Le président russe est arrivé en Chine pour participer à une rencontre tripartite avec Donald Trump que certains décrivent comparent à la conférence de Yalta.",
    "tags": [
     "Politique"
    ],
@@ -149,10 +275,10 @@
   },
   {
    "id": "58b56fbb3a61",
-   "titre": "Procès des parents de « la petite inconnue de l’A10 » : Halima El Bakhti condamnée à vingt ans de réclusion, Ahmed Touloub à quinze ans de réclusion",
+   "titre": "Au procès des parents de la « petite inconnue de l’A10 » : Halima El Bakhti condamnée à vingt ans de réclusion, Ahmed Touloub à quinze ans de réclusion",
    "lien": "https://www.lemonde.fr/societe/article/2026/11/18/proces-des-parents-de-la-petite-inconnue-de-l-a10-halima-el-bakhti-condamnee-a-vingt-ans-de-reclusion-ahmed-touloub-a-quinze-ans-de-reclusion_6813076_3224.html",
    "source": "Le Monde",
-   "date": "2026-11-18T05:38:41+00:00",
+   "date": "2026-11-18T05:38:40+00:00",
    "extrait": "Les deux accusés ont été incarcérés immédiatement après le verdict, mardi. Les avocats du père d’Inass, Frank Berton et Yasmina Belmokhtar, ont annoncé qu’ils feraient appel de la décision.",
    "tags": [
     "Justice"
@@ -194,6 +320,19 @@
    "extrait": "\"Le nombre de lobbyistes de l'agro-industrie est choquant et explique pourquoi l'agriculture n'apparaît encore dans aucun document officiel\", s'inquiète une observatrice.",
    "tags": [],
    "zone": "france"
+  },
+  {
+   "id": "4fa1398afe3d",
+   "titre": "Rubio says US not 'under systemic attack' after series of tech outages",
+   "lien": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-18T04:57:06+00:00",
+   "extrait": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
+   "tags": [
+    "Conflits",
+    "Tech"
+   ],
+   "zone": "monde"
   },
   {
    "id": "33483ed87f63",
@@ -281,7 +420,7 @@
    "lien": "https://www.lemonde.fr/politique/article/2026/11/18/le-rn-compte-financer-son-avantageuse-reforme-des-retraites-et-un-debut-de-capitalisation-au-detriment-des-precaires-et-de-la-politique-du-logement_6813066_823448.html",
    "source": "Le Monde",
    "date": "2026-11-18T04:41:47+00:00",
-   "extrait": "Marine Le Pen promet que l’avancée de l’âge de départ ne coûtera pas un euro en jouant sur d’autres paramètres, rendant plus difficile l’acquisition de trimestres et le départ à la retraite. Elle…",
+   "extrait": "Marine Le Pen promet que l’avancée de l’âge de départ ne coûtera pas 1 euro en jouant sur d’autres paramètres, rendant plus difficile l’acquisition de trimestres et le départ à la retraite. Elle…",
    "tags": [],
    "zone": "france"
   },
@@ -312,7 +451,7 @@
    "titre": "Quand les animaux-esprits des Premières Nations amérindiennes se posent au Musée du quai Branly, à Paris",
    "lien": "https://www.lemonde.fr/culture/article/2026/11/18/quand-les-animaux-esprits-des-premieres-nations-amerindiennes-se-posent-au-musee-du-quai-branly-a-paris_6813062_3246.html",
    "source": "Le Monde",
-   "date": "2026-11-18T04:00:14+00:00",
+   "date": "2026-11-18T04:00:08+00:00",
    "extrait": "Une vaste exposition historique, anthropologique et artistique retrace la violence coloniale qui a frappé les populations du Nord-Ouest américain, ainsi que la splendeur de leurs créations…",
    "tags": [
     "Conflits"
@@ -324,7 +463,7 @@
    "titre": "Au procès de l’interpellation violente de Michel Zecler, mea culpa et fausses justifications des policiers",
    "lien": "https://www.lemonde.fr/societe/article/2026/11/18/au-proces-de-l-interpellation-violente-de-michel-zecler-mea-culpa-et-fausses-justifications-des-policiers_6813061_3224.html",
    "source": "Le Monde",
-   "date": "2026-11-18T04:00:10+00:00",
+   "date": "2026-11-18T04:00:08+00:00",
    "extrait": "Trois fonctionnaires sont jugés par la cour criminelle de Paris pour avoir passé à tabac le producteur, dans son studio de musique, en novembre 2020. Mardi, ils ont enfin été entendus sur les…",
    "tags": [
     "Justice"
@@ -839,11 +978,9 @@
    "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261117-conseil-administration-nvidia-semi-conducteurs-ferme-porte-retour-ex-patron-jensen-huang-harvey-jones-resultats-ia",
    "source": "France 24",
    "date": "2026-11-17T23:51:46+00:00",
-   "extrait": "\"Le conseil d'administration de Nvidia a accepté à l'unanimité sa démission et n'envisage pas de réinstaller Jensen au poste de directeur général\", a assuré mardi son président Harvey Jones, qui a…",
+   "extrait": "\"Le conseil d'administration de Nvidia n'envisage pas de réinstaller Jensen [Huang] au poste de directeur général\", a assuré mardi son président, qui a dit vouloir trouver un remplaçant \"aussi vite…",
    "tags": [
-    "Politique",
-    "Santé",
-    "Tech"
+    "Politique"
    ],
    "zone": "monde"
   },
@@ -1029,10 +1166,10 @@
   },
   {
    "id": "db28a3c358dc",
-   "titre": "Au procès de l’explosion de la rue de Trévise, le « combat acharné » des associations de victimes face à la « maltraitance institutionnelle »",
+   "titre": "Explosion de la rue de Trévise : au procès, le « combat acharné » des associations de victimes face à la « maltraitance institutionnelle »",
    "lien": "https://www.lemonde.fr/societe/article/2026/11/17/au-proces-de-l-explosion-de-la-rue-de-trevise-le-combat-acharne-des-associations-de-victimes-face-a-la-maltraitance-institutionnelle_6813052_3224.html",
    "source": "Le Monde",
-   "date": "2026-11-17T22:51:39+00:00",
+   "date": "2026-11-17T22:51:35+00:00",
    "extrait": "Linda Zaourar, présidente de l’association des Victimes et rescapés de l’explosion de la rue de Trévise, et Dominique Paris, de Trévise Ensemble, ont exposé à la barre, mardi 17 novembre, leur lutte…",
    "tags": [
     "Justice"
@@ -1058,18 +1195,6 @@
    "extrait": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
    "tags": [
     "Conflits",
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "bc9687678846",
-   "titre": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
-   "lien": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-17T22:44:15+00:00",
-   "extrait": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
-   "tags": [
     "Justice"
    ],
    "zone": "monde"
@@ -1385,6 +1510,18 @@
    "zone": "monde"
   },
   {
+   "id": "ea22b2987f9f",
+   "titre": "Mobilisation sociale : à Grenoble, Paris et Lyon, la justice administrative inflige un camouflet au ministère de l’intérieur sur les Micas",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/17/mobilisation-sociale-a-grenoble-paris-et-lyon-la-justice-administrative-inflige-un-camouflet-au-ministere-de-l-interieur-sur-les-micas_6813046_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-17T20:50:13+00:00",
+   "extrait": "Plusieurs personnes visées par des mesures individuelles de contrôle administratif et de surveillance leur interdisant de participer aux rassemblements prévus le 31 octobre avaient assigné l’Etat…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "5bc4d73707fe",
    "titre": "Produits défrisants accusés de causer des cancers : L’Oréal conclut un accord avec quatre plaignantes aux Etats-Unis",
    "lien": "https://www.lemonde.fr/sante/article/2026/11/17/produits-defrisants-accuses-de-causer-des-cancers-l-oreal-conclut-un-accord-avec-quatre-plaignantes-aux-etats-unis_6813045_1651302.html",
@@ -1408,10 +1545,10 @@
   },
   {
    "id": "85edaf37bb5c",
-   "titre": "Logement : l’Assemblée vote un amendement du RN supprimant toutes les interdictions de location liées au DPE",
+   "titre": "DPE : l’Assemblée vote un amendement du RN supprimant les interdictions de location liées au diagnostic de performance énergétique",
    "lien": "https://www.lemonde.fr/politique/article/2026/11/17/logement-l-assemblee-vote-un-amendement-du-rn-supprimant-toutes-les-interdictions-de-location-liees-au-dpe_6813044_823448.html",
    "source": "Le Monde",
-   "date": "2026-11-17T20:46:06+00:00",
+   "date": "2026-11-17T20:46:05+00:00",
    "extrait": "Les députés sont allés plus loin que le texte initial, qui prévoyait déjà un assouplissement de la réglementation sur les passoires énergétiques, en supprimant toutes les interdictions de louer…",
    "tags": [
     "Politique"
@@ -3313,145 +3450,6 @@
    "extrait": "Davantage souscrit pour les avantages fiscaux à l’entrée que pour le complément de revenu qu’il génère à la sortie, le PER a fait l’objet de trois ajustements dans le cadre des lois budgétaires de…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "c8f2a7d38b08",
-   "titre": "L’appel d’élus du Conseil national de la vie lycéenne : « A quoi sert notre mandat si nos travaux ne débouchent sur aucune discussion suivie d’effets ? »",
-   "lien": "https://www.lemonde.fr/idees/article/2026/11/17/l-appel-d-elus-du-conseil-national-de-la-vie-lyceenne-a-quoi-sert-notre-mandat-si-nos-travaux-ne-debouchent-sur-aucune-discussion-suivie-d-effets_6812970_3232.html",
-   "source": "Le Monde",
-   "date": "2026-11-17T13:00:01+00:00",
-   "extrait": "Cinq élus de l’instance nationale représentant les lycéens témoignent, dans une tribune au « Monde », du peu de considération qu’ils reçoivent de la part du ministère de l’éducation nationale…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "329f3dbf84f9",
-   "titre": "De nouvelles frappes ukrainiennes endommagent le pont de Crimée, Volodymyr Zelensky salue une \"opération sans précédent\"",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/deux-ponts-de-kiev-sont-fermes-a-la-circulation-apres-des-attaques-russes-alors-que-de-son-cote-l-ukraine-cible-la-crimee_8286059.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T12:57:25+00:00",
-   "extrait": "L'armée russe, de son côté, a frappé les ponts Sud et Nord de Kiev, deux structures stratégiques pour la capitale ukrainienne.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "55b1310739b2",
-   "titre": "Opérations en Russie, liens avec Jeffrey Epstein et Donald Trump… Les pratiques de la Deutsche Bank révélées par une enquête internationale",
-   "lien": "https://www.franceinfo.fr/monde/europe/allemagne/operations-en-russie-liens-avec-jeffrey-epstein-et-donald-trump-les-pratiques-de-la-deutsche-bank-revelees-par-une-enquete-internationale_8286254.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T12:52:19+00:00",
-   "extrait": "Un consortium de médias a enquêté sur les pratiques de la grande banque allemande, à partir de millions de documents fournis par deux lanceurs d'alerte. L'entreprise se défend et assure être \"une…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c46ae2e734e1",
-   "titre": "Six mois après le début de l'épidémie d'Ebola en RDC, \"la situation est dramatique et les enfants restent les plus vulnérables\", selon l'Unicef",
-   "lien": "https://www.franceinfo.fr/sante/maladie/ebola/six-mois-apres-le-debut-de-l-epidemie-d-ebola-en-rdc-la-situation-est-dramatique-et-les-enfants-restent-les-plus-vulnerables-selon-l-unicef_8286533.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T12:48:36+00:00",
-   "extrait": "Les enfants représentent à eux seuls plus d'un quart des cas d'Ebola, et un tiers des décès en RDC. \"On travaille donc sur une détection précoce du virus pour réduire le taux de mortalité\", souligne…",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "09e2dd3e7bda",
-   "titre": "La rémunération moyenne des patrons du CAC 40 était de 7,5 millions d’euros en 2025, une hausse de 16 %",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/17/la-remuneration-moyenne-des-patrons-du-cac-40-etait-de-7-5-millions-d-euros-en-2025-une-hausse-de-16_6812969_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-17T12:48:01+00:00",
-   "extrait": "Selon Proxinvest, sur la période 2014-2025, la rémunération moyenne des salariés a augmenté de 36,1 %, tandis que celle des dirigeants a grimpé de 75,5 %.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "b373c98cc4e8",
-   "titre": "EN DIRECT, manifestations du 17 novembre : 200 lycéens bloqués à Marseille, le cortège parisien arrive à place d’Italie… Suivez la mobilisation en France grâce à nos correspondants",
-   "lien": "https://www.lemonde.fr/politique/live/2026/11/17/en-direct-greve-du-17-novembre-suivez-la-mobilisation-a-marseille-lyon-ou-nantes-avec-nos-envoyes-speciaux-avant-le-cortege-parisien-qui-doit-s-elancer-a-14-heures_6812905_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-17T12:46:53+00:00",
-   "extrait": "L’ensemble des organisations syndicales de la fonction publique appellent à se mobiliser mardi pour exiger des augmentations immédiates de traitements. Nos correspondants sont sur le terrain à…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "d4b130033af3",
-   "titre": "Le Royaume-Uni sanctionne huit entreprises israéliennes impliquées dans la construction de colonies en Cisjordanie occupée",
-   "lien": "https://www.franceinfo.fr/monde/palestine/le-royaume-uni-sanctionne-huit-entreprises-israeliennes-impliquees-dans-la-construction-de-colonies-en-cisjordanie-occupee_8286503.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T12:43:48+00:00",
-   "extrait": "L'organisation Tzav-9, accusée de bloquer l'entrée d'aide humanitaire dans la bande de Gaza, est également visée.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "3067a3d6c776",
-   "titre": "Maylis Daubon, la mère accusée d'avoir empoisonné ses filles, continue de clamer son \"innocence\" lors de son procès en appel",
-   "lien": "https://www.franceinfo.fr/faits-divers/justice-proces/maylis-daubon-la-mere-accusee-d-avoir-empoisonne-ses-filles-continue-de-clamer-son-innocence-lors-de-son-proces-en-appel_8286500.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-17T12:26:43+00:00",
-   "extrait": "La femme a été condamnée à 30 ans de réclusion criminelle, en première instance pour l'empoisonnement, avec des médicaments, de ses deux filles, dont l'une est morte. Elle clamait déjà son…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "d2eca8386eec",
-   "titre": "Dead racehorse found in dumpster days after prestigious race",
-   "lien": "https://www.cbsnews.com/news/dead-racehorse-so-you-are-found-dumpster-melbourne-cup/",
-   "source": "CBS News",
-   "date": "2026-11-17T12:21:53+00:00",
-   "extrait": "The dead body of So You Are was found in a waste facility less than two weeks after competing in the most prestigious event in Australian horse racing.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "3642c1ffb440",
-   "titre": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
-   "lien": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
-   "source": "NPR",
-   "date": "2026-11-17T12:20:57+00:00",
-   "extrait": "Trump says he plans to discuss Ukraine during his Asia trip, which contradicts what the White House previously announced. And, Silicon Valley leaders are pushing for Jensen Huang's return to Nvidia.",
-   "tags": [
-    "Politique",
-    "Conflits",
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "e40914e48815",
-   "titre": "Guerre en Ukraine : où en sont les pourparlers de paix ?",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261117-guerre-en-ukraine-o%C3%B9-en-sont-les-pourparlers-de-paix",
-   "source": "France 24",
-   "date": "2026-11-17T12:02:31+00:00",
-   "extrait": "Les efforts diplomatiques s'intensifient pour tenter de mettre fin à la guerre en Ukraine. De nouvelles discussions se tiennent entre Kiev et Washington, tandis que les combats se poursuivent sur le…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "cda2cdc8ea49",
-   "titre": "Don't Let the Holidays Break the Bank | Money Moves with Jill Schlesinger",
-   "lien": "https://www.cbsnews.com/video/dont-let-the-holidays-break-the-bank-money-moves-with-jill-schlesinger/",
-   "source": "CBS News",
-   "date": "2026-11-17T12:00:17+00:00",
-   "extrait": "'Tis the season to spend… but how much is too much? Jill and Mark break down how to avoid holiday overspending, why experiences make better gifts and how to keep the holidays from putting you in…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "usa"
   }
  ]
 }

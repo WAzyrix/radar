@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-18T07:05:40+00:00",
+ "maj": "2026-11-18T07:58:16+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,6 +24,18 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "1df53018af16",
+   "titre": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
+   "lien": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
+   "source": "The Hacker News",
+   "date": "2026-11-18T06:45:26+00:00",
+   "extrait": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and…",
+   "tags": [
+    "Malware",
+    "Windows"
+   ]
+  },
+  {
    "id": "ee9a23761ba0",
    "titre": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
    "lien": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
@@ -36,7 +48,7 @@
   },
   {
    "id": "223101d57350",
-   "titre": "Java4Shell (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak on Java 17+ AVX-512 VBMI Servers",
+   "titre": "Critical Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
    "lien": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
    "source": "The Hacker News",
    "date": "2026-11-18T04:27:41+00:00",
@@ -3379,19 +3391,6 @@
    "extrait": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
    "tags": [
     "Faille"
-   ]
-  },
-  {
-   "id": "b99b441690fc",
-   "titre": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
-   "lien": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
-   "source": "BleepingComputer",
-   "date": "2026-11-06T22:27:25+00:00",
-   "extrait": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing…",
-   "tags": [
-    "Fuite de données",
-    "IA",
-    "Outil"
    ]
   }
  ]
