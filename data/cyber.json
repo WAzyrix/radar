@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-18T06:05:41+00:00",
+ "maj": "2026-11-18T07:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "ee9a23761ba0",
+   "titre": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
+   "lien": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
+   "source": "The Hacker News",
+   "date": "2026-11-18T05:58:04+00:00",
+   "extrait": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked…",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
   {
    "id": "223101d57350",
    "titre": "Java4Shell (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak on Java 17+ AVX-512 VBMI Servers",
@@ -3381,19 +3392,6 @@
     "Fuite de données",
     "IA",
     "Outil"
-   ]
-  },
-  {
-   "id": "ba147c5fc5c9",
-   "titre": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
-   "lien": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
-   "source": "BleepingComputer",
-   "date": "2026-11-06T20:24:19+00:00",
-   "extrait": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct…",
-   "tags": [
-    "Faille",
-    "IA",
-    "Linux"
    ]
   }
  ]
