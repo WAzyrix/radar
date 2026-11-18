@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-18T21:05:39+00:00",
+ "maj": "2026-11-18T22:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,11 +22,34 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "845734dc495c",
+   "titre": "Cornyn blocks Trump's nominee to federal district court in Texas",
+   "lien": "https://www.cbsnews.com/news/john-cornyn-trump-elliot-gaiser-justice-department-federal-judge/",
+   "source": "CBS News",
+   "date": "2026-11-18T21:50:15+00:00",
+   "extrait": "President Trump nominated T. Elliot Gaiser, who heads the Justice Department's Office of Legal Counsel, to serve on the U.S. district court in the Dallas area.",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "d2dd1e13d0e6",
+   "titre": "Jeffries wins Democratic nomination for House speaker",
+   "lien": "https://www.cbsnews.com/news/house-democrats-hakeem-jeffries-speaker-nomination-progressives/",
+   "source": "CBS News",
+   "date": "2026-11-18T21:46:00+00:00",
+   "extrait": "Democratic Leader Hakeem Jeffries easily won his party's nomination for the next speaker of the House on Wednesday.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
    "id": "7ab40838ae16",
    "titre": "Iran ramps up attacks on Gulf countries after U.S. strikes",
    "lien": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
    "source": "CBS News",
-   "date": "2026-11-18T20:43:41+00:00",
+   "date": "2026-11-18T21:42:30+00:00",
    "extrait": "America's Persian Gulf allies and oil tankers are under fire as Iran appears to lash out following U.S. strikes on a key island in the Strait of Hormuz.",
    "tags": [
     "Conflits"
@@ -38,11 +61,87 @@
    "titre": "L'écologiste Marine Tondelier se dit \"prête à travailler à une coalition autour de la candidature de Jean-Luc Mélenchon\" pour la présidentielle 2027",
    "lien": "https://www.franceinfo.fr/elections/presidentielle-2027-je-suis-prete-a-travailler-a-une-coalition-autour-de-jean-luc-melenchon-declare-l-ecologiste-marine-tondelier-au-20-heures-de-france-2_8288519.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-11-18T20:43:19+00:00",
+   "date": "2026-11-18T21:36:41+00:00",
    "extrait": "La secrétaire nationale des Ecologistes et candidate à l'élection présidentielle était l'invitée du \"20 Heures\" de France 2 mercredi.",
    "tags": [
     "Politique"
    ],
+   "zone": "france"
+  },
+  {
+   "id": "da8a1eff81e6",
+   "titre": "Présomption de légitime défense pour les forces de l'ordre : \"Ce que j'ai vécu fait que cette loi me fait extrêmement peur\", témoigne le producteur Michel Zecler",
+   "lien": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/presomption-de-legitime-defense-pour-les-forces-de-l-ordre-ce-que-j-ai-vecu-fait-que-cette-loi-me-fait-extremement-peur-temoigne-le-producteur-michel-zecler-qui-se-dit-horrifie_8288912.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T21:36:14+00:00",
+   "extrait": "La loi sur la présomption de légitime défense pour les forces de l'ordre doit être étudiée par le Sénat à partir de ce jeudi, après avoir été adoptée à l'Assemblée nationale en juillet dernier.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "c4da92541f77",
+   "titre": "Anthropic's IPO set for blastoff this week in key test for AI boom",
+   "lien": "https://www.cbsnews.com/news/anthropic-ipo-ai-boom-nasdaq-debut/",
+   "source": "CBS News",
+   "date": "2026-11-18T21:32:05+00:00",
+   "extrait": "Anthropic's stock is poised to start trading on Nasdaq Thursday in one of the largest IPOs of all time. The AI world is watching.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "569c3a2d01b0",
+   "titre": "\"C'est une bonne nouvelle qui renforce la possibilité d'une victoire populaire\", réagit Manuel Bompard après la main tendue de Marine Tondelier à La France insoumise",
+   "lien": "https://www.franceinfo.fr/elections/c-est-une-bonne-nouvelle-qui-renforce-la-possibilite-d-une-victoire-populaire-reagit-manuel-bompard-apres-la-main-tendue-de-marine-tondelier-a-la-france-insoumise_8288990.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T21:30:14+00:00",
+   "extrait": "La secrétaire nationale des Ecologistes s'est dit \"prête à travailler à une coalition autour de la candidature de Jean-Luc Mélenchon\" pour la présidentielle 2027.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "0a93dcd40ea6",
+   "titre": "Sénégal: le Pastef officialise le départ de ses rangs du président Bassirou Diomaye Faye",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261118-s%C3%A9n%C3%A9gal-le-pastef-officialise-le-d%C3%A9part-de-ses-rangs-du-pr%C3%A9sident-bassirou-diomaye-faye",
+   "source": "France 24",
+   "date": "2026-11-18T21:27:11+00:00",
+   "extrait": "Au Sénégal, le Pastef, le parti majoritaire dirigé par le président de l'Assemblée nationale Ousmane Sonko, a officialisé le départ du président Bassirou Diomaye Faye. Dernier épisode de ce divorce…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "c5de14a7d16b",
+   "titre": "Une assistante de direction d'un lycée de Rosny-Sous-Bois porte plainte après la découverte d'un tag la menaçant au sein de l'établissement",
+   "lien": "https://www.franceinfo.fr/societe/antisemitisme/seine-saint-denis-une-assistante-de-direction-d-un-lycee-de-rosny-sous-bois-porte-plainte-apres-la-decouverte-d-un-tag-la-menacant-au-sein-de-l-etablissement_8288978.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T21:17:08+00:00",
+   "extrait": "L’inscription gravée sur une porte des toilettes du lycée de Seine-Saint-Denis mentionne son prénom, son nom et les termes \"la sioniste\", \"brûlez-la\" ainsi qu’une étoile de David.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "77109af97eba",
+   "titre": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+   "lien": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-18T21:13:06+00:00",
+   "extrait": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "d9ce7b53af14",
+   "titre": "Un garagiste mis en examen et écroué pour féminicide en Seine-Saint-Denis",
+   "lien": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/un-garagiste-mis-en-examen-et-ecroue-pour-feminicide-en-seine-saint-denis_8288963.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T21:10:37+00:00",
+   "extrait": "Le corps sans vie d'une femme avait été découvert samedi dans une camionnette. Au cours son audition, l'homme âgé de 51 ans \"a reconnu être à l'origine du décès de la victime\", selon le parquet.",
+   "tags": [],
    "zone": "france"
   },
   {
@@ -209,16 +308,6 @@
    "source": "CBS News",
    "date": "2026-11-18T19:16:47+00:00",
    "extrait": "Forensics expert Dr. Michael Freeman says multiple images and overlooked details about Jeffrey Epstein's death contradict the conclusion that he died by suicide.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "d2dd1e13d0e6",
-   "titre": "Jeffries wins Democratic nomination for House speaker",
-   "lien": "https://www.cbsnews.com/news/house-democrats-hakeem-jeffries-speaker-nomination-progressives/",
-   "source": "CBS News",
-   "date": "2026-11-18T19:15:36+00:00",
-   "extrait": "Democratic Leader Hakeem Jeffries easily won his party's nomination for the next speaker of the House on Wednesday.",
    "tags": [],
    "zone": "usa"
   },
@@ -518,16 +607,6 @@
    "zone": "monde"
   },
   {
-   "id": "77109af97eba",
-   "titre": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-   "lien": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-18T17:34:23+00:00",
-   "extrait": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
    "id": "fb00c1819f90",
    "titre": "EN DIRECT, guerre en Ukraine : des ONG dénoncent les positions russe et américaine au sujet des armes autonomes, qui fonctionnent sans intervention humaine",
    "lien": "https://www.lemonde.fr/international/live/2026/11/18/en-direct-guerre-en-ukraine-des-ong-denoncent-les-positions-russes-et-americaines-au-sujet-des-armes-autonomes-qui-fonctionnent-sans-intervention-humaine_6810982_3210.html",
@@ -597,18 +676,6 @@
     "Conflits"
    ],
    "zone": "france"
-  },
-  {
-   "id": "c4da92541f77",
-   "titre": "Anthropic's IPO set for blastoff this week in key test for AI boom",
-   "lien": "https://www.cbsnews.com/news/anthropic-ipo-ai-boom-nasdaq-debut/",
-   "source": "CBS News",
-   "date": "2026-11-18T17:29:33+00:00",
-   "extrait": "Anthropic's stock is poised to start trading on Nasdaq Thursday in one of the largest IPOs of all time. The AI world is watching.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
   },
   {
    "id": "6448a916cad5",
@@ -683,6 +750,19 @@
    "date": "2026-11-18T17:09:31+00:00",
    "extrait": "C'est une rencontre qui, sur le papier, a de quoi étonner : 13 des plus grands patrons français, dont la plus grosse fortune du pays, Bernard Arnault, ont dîné mardi soir avec Jean-Luc Mélenchon…",
    "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "6be705115475",
+   "titre": "\"Les taxes, ils les boufferont\" : Mélenchon et le controversé dîner avec des grands patrons",
+   "lien": "https://www.france24.com/fr/france/20261118-les-taxes-ils-les-boufferont-m%C3%A9lenchon-et-le-controvers%C3%A9-d%C3%AEner-avec-des-grands-patrons",
+   "source": "France 24",
+   "date": "2026-11-18T17:09:31+00:00",
+   "extrait": "Le candidat de la France insoumise à l'élection présidentielle française de 2027, Jean-Luc Mélenchon, a dîné, mardi, avec les 13 plus grands patrons français. Un événement qui étonne pour le leader…",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
    "zone": "monde"
   },
   {
@@ -3332,89 +3412,6 @@
    "source": "France 24",
    "date": "2026-11-18T08:49:30+00:00",
    "extrait": "",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "264f18e7c2cb",
-   "titre": "Jean-Luc Mélenchon et l’Ukraine : ce que disent les votes de LFI au Parlement européen",
-   "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/11/18/jean-luc-melenchon-et-l-ukraine-ce-que-disent-les-votes-de-la-france-insoumise-au-parlement-europeen_6813096_4355770.html",
-   "source": "Le Monde",
-   "date": "2026-11-18T08:45:01+00:00",
-   "extrait": "Accusé d’ambiguïté sur la guerre en Ukraine, le candidat de La France insoumise à l’élection présidentielle assure que les « insoumis » défendent Kiev sans varier dans leurs votes au Parlement…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "5acc302f4367",
-   "titre": "De fausses réunions Zoom pour voler des millions : le FBI dévoile une vaste arnaque attribuée à la Corée du Nord",
-   "lien": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/de-fausses-reunions-zoom-pour-voler-des-millions-le-fbi-devoile-une-vaste-arnaque-attribuee-a-la-coree-du-nord_8266715.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T08:41:20+00:00",
-   "extrait": "Le FBI affirme avoir démantelé une infrastructure utilisée par des pirates nord-coréens pour dérober des cryptomonnaies. Leur méthode : attirer leurs victimes dans de fausses réunions Zoom ou Teams…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "5699c4587124",
-   "titre": "\"Il est déjà au coin du ring, il pourrait en tomber\" : comment Edouard Philippe a perdu son statut d'ultra-favori de la droite et du centre pour la présidentielle",
-   "lien": "https://www.franceinfo.fr/elections/il-est-deja-au-coin-du-ring-il-pourrait-en-tomber-comment-edouard-philippe-a-perdu-son-statut-d-ultra-favori-de-la-droite-et-du-centre-pour-la-presidentielle_8286176.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T08:38:40+00:00",
-   "extrait": "L'ancien Premier ministre n'en finit pas de dégringoler dans les sondages, qui ne lui prédisent désormais plus une accession au second tour. Ses soutiens s'inquiètent d'une campagne \"convenue\" et…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "59cf2424aa6d",
-   "titre": "La directrice générale du fournisseur d'énergie Engie s'attend à une \"volatilité\" des prix du gaz \"dans les mois qui viennent\"",
-   "lien": "https://www.franceinfo.fr/environnement/energie/la-directrice-generale-du-fournisseur-d-energie-engie-s-attend-a-une-volatilite-des-prix-du-gaz-dans-les-mois-qui-viennent_8287928.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T08:37:39+00:00",
-   "extrait": "Catherine MacGregor n'a en revanche \"pas d'inquiétude\" sur l'approvisionnement et pense que, \"a priori, il y aura du gaz cet hiver\". La directrice d'Engie rappelle aussi que le gaz est…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "6158dd742e51",
-   "titre": "Une minitornade crée des dégâts importants dans un village du Pas-de-Calais",
-   "lien": "https://www.franceinfo.fr/environnement/meteo/alertes-meteo-et-vigilances/video-une-mini-tornade-cree-des-degats-importants-dans-un-village-du-pas-de-calais_8287706.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T08:34:55+00:00",
-   "extrait": "Le département a été placé en vigilance orange \"pluie-inondation\", tout comme la Somme.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "772b6f6f9216",
-   "titre": "La réforme des retraites de Marine Le Pen décryptée : un départ à 60 ans mais à quelles conditions et à quel prix ?",
-   "lien": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/la-reforme-des-retraites-de-marine-le-pen-decryptee-un-depart-a-60-ans-mais-a-quelles-conditions-et-a-quel-prix_8266760.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T08:34:00+00:00",
-   "extrait": "La candidate du Rassemblement national a détaillé mardi sa réforme des retraites. Elle prévoit d'abaisser l'âge légal de départ, en fonction du moment d'entrée dans la vie active et propose…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "6f0341433f3c",
-   "titre": "BBC correspondents discuss historic Trump, Xi and Putin meeting",
-   "lien": "https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-18T08:33:32+00:00",
-   "extrait": "The BBC’s Laura Bicker, Steve Rosenberg and Nada Tawfik explain everything you need to know ahead of the unprecedented trilateral meeting.",
    "tags": [
     "Politique"
    ],
