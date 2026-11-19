@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-19T06:05:40+00:00",
+ "maj": "2026-11-19T07:05:42+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,19 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "32675c136bd6",
+   "titre": "Ubuntu - Les futurs correctifs seront écrits par une IA",
+   "lien": "https://korben.info/canonical-surge-agents-correctifs-ubuntu.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-19T05:56:20+00:00",
+   "extrait": "Canonical lance Surge, des agents IA qui écrivent des correctifs de sécurité pour les paquets Ubuntu, que son équipe qualifie ensuite pour tout le monde. L'archive Edge permet de les recevoir avant…",
+   "tags": [
+    "Faille",
+    "IA",
+    "Linux"
+   ]
+  },
   {
    "id": "d1202d3392a4",
    "titre": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
@@ -3383,17 +3396,6 @@
    "source": "Zataz",
    "date": "2026-11-09T21:50:33+00:00",
    "extrait": "La CNIL sanctionne dix collectivités pour des failles de cybersécurité. Amendes, RGPD, accès sensibles et NIS2.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "8d206c962ee8",
-   "titre": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
-   "lien": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
-   "source": "BleepingComputer",
-   "date": "2026-11-09T21:26:25+00:00",
-   "extrait": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day…",
    "tags": [
     "Faille"
    ]
