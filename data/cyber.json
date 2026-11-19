@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-19T09:05:41+00:00",
+ "maj": "2026-11-19T10:05:47+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,6 +24,27 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "7aba46b2e297",
+   "titre": "NVIDIA investigating Gentlemen ransomware breach claims",
+   "lien": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
+   "source": "BleepingComputer",
+   "date": "2026-11-19T09:23:21+00:00",
+   "extrait": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]",
+   "tags": [
+    "Ransomware",
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "89f59245898e",
+   "titre": "Unreal Tournament 2004 est de retour !",
+   "lien": "https://korben.info/unreal-tournament-2004-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-19T08:47:16+00:00",
+   "extrait": "Unreal Tournament 2004 se lance maintenant dans un onglet sur ut2004.dev, sans rien installer : 2 Go stockés une fois, une dizaine de cartes et du multi en WebRTC. Les navigateurs qu'il faut, et où…",
+   "tags": []
+  },
+  {
    "id": "ef3cecb6fd50",
    "titre": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
    "lien": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
@@ -33,6 +54,15 @@
    "tags": [
     "Faille"
    ]
+  },
+  {
+   "id": "abeb94bdad93",
+   "titre": "Dreamcart - Vos cartouches N64 sur la Dreamcast",
+   "lien": "https://korben.info/dreamcast-cartouches-n64.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-19T08:29:34+00:00",
+   "extrait": "Throaty Mumbo branche de vraies cartouches N64 sur le port manette d'une Dreamcast et les fait tourner grâce à un recompilateur, sauvegardes comprises. Les jeux qui passent, et ce qu'il faut réunir…",
+   "tags": []
   },
   {
    "id": "3d3c58459056",
@@ -3363,40 +3393,6 @@
    "date": "2026-11-10T00:00:00+00:00",
    "extrait": "De multiples vulnérabilités ont été découvertes dans OpenSSL. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des…",
    "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "59855afa9233",
-   "titre": "Vulnérabilité dans Schneider Electric EcoStruxure (10 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1494/",
-   "source": "CERT-FR",
-   "date": "2026-11-10T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans Schneider Electric EcoStruxure. Elle permet à un attaquant de provoquer une exécution de code arbitraire.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "82e205b75586",
-   "titre": "Multiples vulnérabilités dans le greffon OpenID Connect OpenID Provider (OIDC OP) pour Shibboleth (10 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1491/",
-   "source": "CERT-FR",
-   "date": "2026-11-10T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans le greffon OpenID Connect OpenID Provider (OIDC OP) pour Shibboleth. Elles permettent à un attaquant de provoquer un contournement de la…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "40bb33a1ac50",
-   "titre": "Multiples vulnérabilités dans Google Chrome (10 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1488/",
-   "source": "CERT-FR",
-   "date": "2026-11-10T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Google indique que la…",
-   "tags": [
-    "CVE",
     "Faille"
    ]
   }
