@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-19T10:05:47+00:00",
+ "maj": "2026-11-19T11:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,40 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "1fc34cf6486a",
+   "titre": "Microsoft confirms app installation, launch issues after hotpatch",
+   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
+   "source": "BleepingComputer",
+   "date": "2026-11-19T10:35:05+00:00",
+   "extrait": "Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch. [...]",
+   "tags": [
+    "Windows"
+   ]
+  },
+  {
+   "id": "2c3e7217f0f0",
+   "titre": "Quelqu'un vit peut-être votre vie en ce moment. Comment ne plus perdre votre identité ? #sponso",
+   "lien": "https://korben.info/comment-ne-plus-perdre-votre-identite.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-19T10:21:33+00:00",
+   "extrait": "L'article, en partenariat avec Surfshark, détaille six formes de vol d'identité : financier, fiscal, médical, judiciaire, biométrique (voix clonée avec 30 secondes d'audio) et synthétique. Il…",
+   "tags": [
+    "Fuite de données",
+    "Malware"
+   ]
+  },
+  {
+   "id": "67401cc888fc",
+   "titre": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
+   "lien": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
+   "source": "The Hacker News",
+   "date": "2026-11-19T09:31:26+00:00",
+   "extrait": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management…",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
   {
    "id": "7aba46b2e297",
    "titre": "NVIDIA investigating Gentlemen ransomware breach claims",
@@ -73,6 +107,18 @@
    "extrait": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in…",
    "tags": [
     "Faille"
+   ]
+  },
+  {
+   "id": "7b2c191d7530",
+   "titre": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
+   "lien": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
+   "source": "The Hacker News",
+   "date": "2026-11-19T08:00:00+00:00",
+   "extrait": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt…",
+   "tags": [
+    "Faille",
+    "Ransomware"
    ]
   },
   {
@@ -3348,50 +3394,6 @@
    "source": "CERT-FR",
    "date": "2026-11-10T00:00:00+00:00",
    "extrait": "De multiples vulnérabilités ont été découvertes dans Synology DSM. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "a85348e69bc2",
-   "titre": "Multiples vulnérabilités dans Siemens SIMATIC (10 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1495/",
-   "source": "CERT-FR",
-   "date": "2026-11-10T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Siemens SIMATIC. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "a1fabc476d74",
-   "titre": "Multiples vulnérabilités dans les produits Apple (10 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1487/",
-   "source": "CERT-FR",
-   "date": "2026-11-10T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "7e78fe246f56",
-   "titre": "Multiples vulnérabilités dans Mozilla Firefox (10 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1490/",
-   "source": "CERT-FR",
-   "date": "2026-11-10T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Elles permettent à un attaquant de provoquer une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "ca43af01938e",
-   "titre": "Multiples vulnérabilités dans OpenSSL (10 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1496/",
-   "source": "CERT-FR",
-   "date": "2026-11-10T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans OpenSSL. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des…",
    "tags": [
     "Faille"
    ]
