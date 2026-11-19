@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-19T04:05:40+00:00",
+ "maj": "2026-11-19T05:05:42+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,16 +22,184 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "39c5546cbe78",
+   "titre": "Win a trip to go behind the news with NPR",
+   "lien": "https://www.npr.org/2026/11/19/g-s1-153851/npr-newsroom-giveaway",
+   "source": "NPR",
+   "date": "2026-11-19T05:01:00+00:00",
+   "extrait": "Enter for a chance to go behind the scenes at HQ, meet our journalists face-to-face and experience public media like never before.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "35d72835e401",
+   "titre": "« GTA VI », le sixième épisode du jeu vidéo phénomène, une matière sensible pour le monde politique",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/19/gta-vi-le-sixieme-episode-du-jeu-video-phenomene-une-matiere-sensible-pour-le-monde-politique_6813235_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-19T05:00:40+00:00",
+   "extrait": "A gauche comme à droite, partis et candidats ont multiplié les clins d’œil à la sortie du jeu vidéo. Oubliant parfois les rapports contrariés de leur famille politique avec la saga.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "96272655b00e",
-   "titre": "Trump and Xi speak at APEC summit ahead of rare joint meeting with Putin",
+   "titre": "Trump predicts \"wonderful things\" in talks with Putin, ahead of Xi meeting",
    "lien": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/",
    "source": "CBS News",
-   "date": "2026-11-19T03:58:15+00:00",
+   "date": "2026-11-19T04:56:46+00:00",
    "extrait": "President Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are expected to hold a rare face-to-face meeting in China.",
    "tags": [
     "Politique"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "b7d063b8807d",
+   "titre": "Intelligence artificielle : comment Anthropic a détrôné OpenAI",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/19/intelligence-artificielle-comment-anthropic-a-detrone-openai_6813227_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-19T04:45:10+00:00",
+   "extrait": "L’entrée en Bourse de la start-up californienne qui a créé le modèle Claude, attendue jeudi 19 novembre, doit couronner le succès d’une entreprise parvenue à s’imposer en dépassant son grand rival…",
+   "tags": [
+    "Économie",
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "5f8bc95c6410",
+   "titre": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+   "lien": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-19T04:42:52+00:00",
+   "extrait": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "f3d848d6309e",
+   "titre": "Rencontre Donald Trump, Vladimir Poutine, Xi Jinping : suivez l'entretien inédit entre les trois présidents en Chine",
+   "lien": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/direct-rencontre-donald-trump-vladimir-poutine-xi-jinping-suivez-l-entretien-inedit-entre-les-trois-presidents-en-chine_8288564.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T04:41:03+00:00",
+   "extrait": "Les présidents américain, russe et chinois se réunissent pour un sommet tripartite consacré aux crises internationales.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "8944b9bf2f7d",
+   "titre": "Crimean Bridge attacked again, Russian official says",
+   "lien": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-19T04:37:17+00:00",
+   "extrait": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "08a7543c640e",
+   "titre": "Qui est Fire Point, l'entreprise ukrainienne dont les drones et missiles ont joué un rôle dans l'attaque contre le pont de Crimée ?",
+   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/qui-est-fire-point-l-entreprise-ukrainienne-dont-les-drones-et-missiles-ont-joue-un-role-dans-l-attaque-contre-le-pont-de-crimee_8287982.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T04:34:31+00:00",
+   "extrait": "Cette opération complexe, minutieusement préparée pendant des semaines, a nécessité l'emploi d'une douzaine d'armes différentes. La firme, fer de lance de l'industrie ukrainienne de la défense, a…",
+   "tags": [
+    "Économie",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "6693d4a090b6",
+   "titre": "Microsoft, des aéroports, la banque JPMorgan, Apple… Comment les Etats-Unis ont été touchés par des pannes informatiques en série",
+   "lien": "https://www.franceinfo.fr/internet/panne-informatique-mondiale/microsoft-des-aeroports-la-banque-jpmorgan-apple-comment-les-etats-unis-ont-ete-touches-par-des-pannes-informatiques-en-serie_8287973.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T04:33:38+00:00",
+   "extrait": "Depuis une semaine, des pannes informatiques d'ampleur se répètent outre-Atlantique, avec des répercussions pour des millions d'utilisateurs dans le monde entier. Bien que le gouvernement américain…",
+   "tags": [
+    "Politique",
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "1a48e75c7544",
+   "titre": "L'électrification mondiale, un objectif phare mais encore incertain de la COP31",
+   "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/l-electrification-mondiale-un-objectif-phare-mais-encore-incertain-de-la-cop31_8286284.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T04:32:56+00:00",
+   "extrait": "Plusieurs dizaines de pays se sont engagés, comme souhaité par la Turquie, à porter à 35% la part de l'électricité dans la consommation finale et mondiale d'énergie d'ici à 2035.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "352d6aae2fbf",
+   "titre": "Guerre en Ukraine : la présence de soldats français en Ukraine fait-elle de Paris un « cobelligérant » contre qui la Russie pourrait riposter ?",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/19/guerre-en-ukraine-la-presence-de-soldats-francais-en-ukraine-fait-elle-de-paris-un-cobelligerant-contre-qui-la-russie-pourrait-riposter_6813225_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-19T04:30:19+00:00",
+   "extrait": "Le gouvernement a reconnu avoir déployé des militaires sur le territoire ukrainien dans le cadre de missions de formation et de maintenance, ravivant le débat sur les risques de voir Moscou prendre…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "b1434085b5a3",
+   "titre": "Au procès de l’explosion de la rue de Trévise, le patron du syndic de copropriété « ne voit pas la faute »",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/19/au-proces-de-l-explosion-de-la-rue-de-trevise-le-patron-du-syndic-de-copropriete-ne-voit-pas-la-faute_6813224_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-19T04:30:05+00:00",
+   "extrait": "Le tribunal a interrogé mercredi le dirigeant de la société Cipa, poursuivie en tant que personne morale pour ne pas avoir eu recours à une procédure d’urgence afin de réparer une fuite sur un…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "af60fefb17b2",
+   "titre": "À la COP31, les ministres tentent de débloquer les négociations pour adopter un texte final",
+   "lien": "https://www.france24.com/fr/plan%C3%A8te/20261119-cop31-ministres-tentent-debloquer-climat-negociations-adopter-texte-final-environnement-onu-turquie-antalya",
+   "source": "France 24",
+   "date": "2026-11-19T04:29:10+00:00",
+   "extrait": "Face aux divergences et aux blocages, les ministres se sont réunis mercredi soir pour une session de discussions informelles à la COP31 à Antalya, en Turquie. Un nouveau projet de déclaration finale…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "afe673f257fa",
+   "titre": "Interdire le commerce avec les colonies israéliennes : des députés veulent placer la France face à ses engagements",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/19/interdire-le-commerce-avec-les-colonies-israeliennes-des-deputes-veulent-placer-la-france-face-a-ses-engagements_6813220_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-19T04:00:10+00:00",
+   "extrait": "Une proposition de loi du Parti socialiste, examinée jeudi 19 novembre à l’Assemblée, veut interdire le commerce avec les colonies israéliennes, y compris les services financiers, alors que deux…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "39c964edfce3",
+   "titre": "Procès de l’interpellation violente de Michel Zecler par des policiers : dans sa plaidoirie, l’avocat du producteur remet la question du racisme au centre des débats",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/19/proces-de-l-interpellation-violente-de-michel-zecler-par-des-policiers-dans-sa-plaidoirie-l-avocat-du-producteur-remet-la-question-du-racisme-au-centre-des-debats_6813219_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-19T04:00:07+00:00",
+   "extrait": "Si le caractère illégitime de la brutalité dont ont fait preuve les trois agents fait peu de doutes, Mᵉ Serge Money a exhorté la cour à reconnaître comme circonstance aggravante l’existence de biais…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
   },
   {
    "id": "e07f3bce8b5b",
@@ -115,6 +283,19 @@
    "zone": "monde"
   },
   {
+   "id": "f45293e0b02f",
+   "titre": "Assassinat du président haïtien Jovenel Moïse : un pasteur américano-haïtien reconnu coupable d’implication",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/19/assassinat-du-president-haitien-jovenel-moise-un-pasteur-americano-haitien-reconnu-coupable-aux-etats-unis-d-implication_6813218_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-19T02:57:00+00:00",
+   "extrait": "Christian Sanon, qui ambitionnait de prendre la tête d’Haïti, a notamment été reconnu coupable, mercredi par un tribunal fédéral de Miami, du projet d’assassinat de Jovenel Moïse.",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "ddc060ef65b0",
    "titre": "How Democrats won in Alaska and Kansas during the 2026 midterms",
    "lien": "https://www.cbsnews.com/video/how-democrats-won-in-alaska-and-kansas-during-the-2026-midterms/",
@@ -135,6 +316,16 @@
    "extrait": "Tony Dokoupil takes a look at China's advanced humanoid robots. Last year, China installed more industrial robots than the rest of the world combined.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "ae1516323b67",
+   "titre": "En Guyane, l’orpaillage illégal atteint un record dans le parc amazonien",
+   "lien": "https://www.lemonde.fr/planete/article/2026/11/19/en-guyane-l-orpaillage-illegal-atteint-un-niveau-jamais-vu-dans-le-parc-amazonien_6813217_3244.html",
+   "source": "Le Monde",
+   "date": "2026-11-19T02:35:19+00:00",
+   "extrait": "La hausse des cours de l’or et l’inaction du Suriname voisin dopent l’exploitation dans ce parc national où 239 sites aurifères illégaux ont été dénombrés au mois d’août.",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "62236f691cdf",
@@ -268,18 +459,6 @@
    "zone": "usa"
   },
   {
-   "id": "8944b9bf2f7d",
-   "titre": "Crimean Bridge attacked again, Russian official says",
-   "lien": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-19T01:05:03+00:00",
-   "extrait": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
    "id": "fcc8d7cc51fd",
    "titre": "South Florida hit with over 15 inches of rain",
    "lien": "https://www.cbsnews.com/video/south-florida-hit-with-over-15-inches-of-rain/",
@@ -394,11 +573,11 @@
   },
   {
    "id": "56e19c387209",
-   "titre": "Sommet de Shenzen en direct : une rencontre historique entre Trump, Poutine et Xi",
+   "titre": "Sommet de Shenzen en direct : début d'une rencontre Trump-Poutine avant une réunion trilatérale",
    "lien": "https://www.france24.com/fr/asie-pacifique/20261119-sommet-apec-en-direct-rencontres-diplomatiques-attendues-shenzhen-trump-poutine-xi-jinping",
    "source": "France 24",
    "date": "2026-11-19T00:00:34+00:00",
-   "extrait": "Les trois chefs d'État les plus puissants au monde s'affichent ensemble, jeudi, à Shenzen, en Chine, où s'est ouvert le sommet de la Coopération économique Asie-Pacifique (Apec). En marge de cet…",
+   "extrait": "Donald Trump, Vladimir Poutine et Xi Jinping, les trois chefs d'État les plus puissants au monde, s'affichent ensemble, jeudi, à Shenzen, en Chine, où s'est ouvert le sommet de la Coopération…",
    "tags": [
     "Politique"
    ],
@@ -468,12 +647,24 @@
    "titre": "How Anthropic's IPO could affect your 401(k) and the AI industry",
    "lien": "https://www.cbsnews.com/video/how-anthropics-ipo-could-affect-your-401k-ai-industry/",
    "source": "CBS News",
-   "date": "2026-11-18T23:50:09+00:00",
+   "date": "2026-11-18T23:50:00+00:00",
    "extrait": "Claude maker Anthropic is set to go public on Thursday. CBS News' Kelly O'Grady explains what this could mean for the AI boom and for your retirement savings.",
    "tags": [
     "Tech"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "b1e2bbc0d067",
+   "titre": "Présidentielle 2027 : Marine Tondelier tente de forcer la main des Ecologistes en se disant prête à rallier Jean-Luc Mélenchon",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/19/presidentielle-2027-marine-tondelier-tente-de-forcer-la-main-des-ecologistes-en-se-disant-prete-a-rallier-jean-luc-melenchon_6813213_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-18T23:49:22+00:00",
+   "extrait": "Sur France 2, la secrétaire nationale des Ecologistes a ouvert la voie à son retrait de la présidentielle, alors que le parti ne s’est pas encore prononcé sur une candidature propre, une alliance…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
   },
   {
    "id": "c43cc976464f",
@@ -872,6 +1063,18 @@
    "extrait": "Democratic Leader Hakeem Jeffries easily won his party's nomination for the next speaker of the House on Wednesday.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "38aa02133dfc",
+   "titre": "Huit lycéens blessés à Saint-Cloud après des tirs de mortiers d'artifice dans leur établissement",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/huit-lyceens-a-saint-cloud-dans-les-hauts-de-seine-pris-en-charge-par-les-pompiers-apres-des-tirs-de-mortiers-d-artifice-dans-leur-lycee_8288516.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T21:38:54+00:00",
+   "extrait": "Deux des lycéens ont été conduits à l'hôpital par les pompiers, sans que l'on connaisse la gravité de leurs blessures.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "france"
   },
   {
    "id": "29df35b680f4",
@@ -1342,6 +1545,18 @@
    "source": "Le Monde",
    "date": "2026-11-18T18:00:06+00:00",
    "extrait": "Dans un podcast, mardi 17 novembre, la cheffe du gouvernement danois a évoqué cette théorie complotiste, se livrant à une surenchère supplémentaire dans le domaine de l’immigration. Ses propos ont…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "1d15e193dfed",
+   "titre": "Rencontre en Chine : XI, TRUMP, POUTINE, à chacun ses intérêts",
+   "lien": "https://www.franceinfo.fr/monde/chine/rencontre-en-chine-xi-trump-poutine-a-chacun-ses-interets_8288681.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-18T18:00:03+00:00",
+   "extrait": "3 chefs d’Etat, 3 agendas différents. Xi Jinping, Donald Trump et Vladimir Poutine, une rencontre historique à Shenzhen en Chine à l’occasion du sommet de l’Apec. Chacun y a un objectif et un…",
    "tags": [
     "Politique"
    ],
@@ -2118,18 +2333,6 @@
    "extrait": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
    "tags": [],
    "zone": "monde"
-  },
-  {
-   "id": "38aa02133dfc",
-   "titre": "Huit lycéens à Saint-Cloud, dans les Hauts-de-Seine, pris en charge par les pompiers après des tirs de mortiers d'artifice dans leur lycée",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/huit-lyceens-a-saint-cloud-dans-les-hauts-de-seine-pris-en-charge-par-les-pompiers-apres-des-tirs-de-mortiers-d-artifice-dans-leur-lycee_8288516.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T15:39:27+00:00",
-   "extrait": "Deux des lycéens ont été conduits à l'hôpital par les pompiers, sans que l'on connaisse la gravité de leurs blessures.",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "france"
   },
   {
    "id": "7aa807d469c9",
@@ -3236,198 +3439,6 @@
     "Tech"
    ],
    "zone": "france"
-  },
-  {
-   "id": "18ca8db38552",
-   "titre": "Women don't have to suffer in silence from fibroids, expert says",
-   "lien": "https://www.cbsnews.com/news/fibroids-women-healthful/",
-   "source": "CBS News",
-   "date": "2026-11-18T12:00:04+00:00",
-   "extrait": "Uterine fibroids affect 70% to 80% of women, yet the condition gets little public attention. Here's what to know about symptoms and treatment options.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "d40bd3c3dfa3",
-   "titre": "\"Si des failles sont constituées, on l'énoncera clairement\" : 106 saisines reçues par le Défenseur des droits depuis les mobilisations sociales en septembre",
-   "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/si-des-failles-sont-constituees-on-l-enoncera-clairement-106-saisines-recues-par-le-defenseur-des-droits-depuis-les-mobilisations-sociales-en-septembre_8288195.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T12:00:01+00:00",
-   "extrait": "François-Noël Buffet affirme qu'un avis \"sans faiblesse\" sera rendu sur chacune de ces saisines. Le Défenseur des droits veut aussi \"faire évoluer les choses\" sur le maintien de l'ordre.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "a7999e6bb5d3",
-   "titre": "Fibroids: The Silent Condition Affecting Up to 80% of Women",
-   "lien": "https://www.cbsnews.com/video/111826-fibroids-the-silent-condition-affecting-up-to-80-of-women-healthful/",
-   "source": "CBS News",
-   "date": "2026-11-18T12:00:00+00:00",
-   "extrait": "Many women are silently suffering from fibroids. The uterine condition impacts 70 to 80% of women but is under-discussed, under-researched and underfunded. On this episode of Healthful, Norah…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "564ac981c530",
-   "titre": "Tchad : une tournée \"sécuritaire\" du Président pour lutter contre les armes illégales",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261118-tchad-une-tourn%C3%A9e-s%C3%A9curitaire-du-pr%C3%A9sident-pour-lutter-contre-les-armes-ill%C3%A9gales",
-   "source": "France 24",
-   "date": "2026-11-18T11:57:04+00:00",
-   "extrait": "Le Président tchadien a conclu une tournée \"sécuritaire\" dans six provinces de son pays. L’objectif : endiguer les conflits entre communautés. Mahamat Idriss Déby Itno a rencontré les habitants, les…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "e28a56bd61ad",
-   "titre": "These are the last midterm races to be decided",
-   "lien": "https://www.cbsnews.com/news/2026-midterm-election-house-senate-projections-toss-up/",
-   "source": "CBS News",
-   "date": "2026-11-18T11:54:24+00:00",
-   "extrait": "Democrats won sizable House and Senate majorities in the 2026 midterm elections, but the exact margins are unclear because some races haven't been projected yet. Here's where the results stand.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "11094ef8248c",
-   "titre": "Madagascar : retour du crâne du roi Toera gardé en France depuis plus d'un siècle",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261118-madagascar-retour-du-cr%C3%A2ne-du-roi-toera-gard%C3%A9-en-france-depuis-plus-d-un-si%C3%A8cle",
-   "source": "France 24",
-   "date": "2026-11-18T11:52:11+00:00",
-   "extrait": "En 1897, le roi, Toera du royaume sakalava du Menabe est tué par les troupes coloniales françaises, qui emportent son crâne. Il sera conservé pendant plus d'un siècle dans un musée à Paris, avant…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "a3ab47be5fd3",
-   "titre": "Priorité donnée à l'école, rétablissement des comptes publics… Edouard Philippe développe plusieurs mesures de son programme présidentiel",
-   "lien": "https://www.franceinfo.fr/politique/edouard-philippe/priorite-donnee-a-l-ecole-retablissement-des-comptes-publics-edouard-philippe-met-en-lumiere-plusieurs-mesures-de-son-programme-presidentiel_8287970.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T11:51:52+00:00",
-   "extrait": "Le candidat Horizons à la présidentielle a présenté mercredi, lors d'une conférence de presse, son projet \"à date\".",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "f0970f169691",
-   "titre": "Haïti : la méthode Bukele à l'épreuve",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261118-ha%C3%AFti-la-m%C3%A9thode-bukele-%C3%A0-l-%C3%A9preuve",
-   "source": "France 24",
-   "date": "2026-11-18T11:49:27+00:00",
-   "extrait": "Près d'un mois après l'envoi par le président salvadorien Nayib Bukele de plus de 2 000 soldats en Haïti, des milliers d'Haïtiens ont défilé dans les rues de Port-au-Prince pour soutenir la présence…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "f41b1c9078e5",
-   "titre": "Mozambique : le procès du principal opposant Venancio Mondlane débute",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261118-mozambique-le-proc%C3%A8s-du-principal-opposant-venancio-mondlane-d%C3%A9bute",
-   "source": "France 24",
-   "date": "2026-11-18T11:46:46+00:00",
-   "extrait": "Le procès pour \"terrorisme\" du principal opposant mozambicain Venancio Mondlane s'est ouvert mardi 17 novembre à Maputo devant la plus haute juridiction du pays pour ses appels à contester dans la…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "78e8f24ff88b",
-   "titre": "Présidentielle 2027 : Edouard Philippe présente une partie de son programme pour « rétablir l’ordre et remettre la France sur le chemin du progrès »",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-edouard-philippe-presente-une-partie-de-son-programme-pour-retablir-l-ordre-et-remettre-la-france-sur-le-chemin-du-progres_6813122_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-18T11:46:08+00:00",
-   "extrait": "« Nous devons oser des réformes radicales, en rupture avec ce qui a été fait ces dernières années », a dit le candidat Horizons en détaillant des mesures sur l’école, la justice et la réforme des…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "339d9b7d7959",
-   "titre": "Comment une mobilisation scientifique a permis à un dinosaure normand d’échapper à une vente aux enchères",
-   "lien": "https://www.lemonde.fr/sciences/article/2026/11/18/comment-une-mobilisation-scientifique-a-permis-a-un-dinosaure-normand-d-echapper-a-une-vente-aux-encheres_6813121_1650684.html",
-   "source": "Le Monde",
-   "date": "2026-11-18T11:45:20+00:00",
-   "extrait": "Unique représentant connu de son espèce, le « Dubreuillosaurus valesdunensis », découvert en Normandie en 1994, a été menacé de vente aux enchères à la mort de son propriétaire. Refusant qu’il soit…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "f5f69466ef0a",
-   "titre": "\"Vous allez voir qu'il est de gauche !\" : un mois après la primaire, Raphaël Glucksmann veut donner des gages à son camp",
-   "lien": "https://www.franceinfo.fr/elections/presidentielle/vous-allez-voir-qu-il-est-de-gauche-un-mois-apres-la-primaire-raphael-glucksmann-veut-donner-des-gages-a-son-camp_8288081.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T11:44:49+00:00",
-   "extrait": "En déplacement dans la banlieue lyonnaise, le candidat PS-Place publique à la présidentielle tente de relancer sa campagne après un mois de \"faux plat\".",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "8480cf77be17",
-   "titre": "Who to watch in Spain's election race",
-   "lien": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-18T11:44:25+00:00",
-   "extrait": "Spain votes on 29 November, with the conservatives leading most polls after eight years of Socialist-led rule.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "f47f269f79f7",
-   "titre": "L'Union européenne propose un nouveau prêt de 45 milliards d'euros à l'Ukraine pour 2027",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-union-europeenne-propose-un-nouveau-pret-de-45-milliards-d-euros-a-l-ukraine-pour-2027_8288159.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T11:44:03+00:00",
-   "extrait": "Kiev ne devra rembourser \"qu'une fois que la Russie aura payé pour les destructions qu'elle a causées en Ukraine\", a déclaré mercredi la présidente de la Commission européenne, Ursula von der Leyen.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "8f718a317269",
-   "titre": "Donald Trump, Xi Jinping et Vladimir Poutine en Chine avec des objectifs différents",
-   "lien": "https://www.france24.com/fr/asie-pacifique/20261118-donald-trump-xi-jinping-et-vladimir-poutine-en-chine-avec-des-objectifs-diff%C3%A9rents",
-   "source": "France 24",
-   "date": "2026-11-18T11:43:37+00:00",
-   "extrait": "Donald Trump, Xi Jinping et Vladimir Poutine sont arrivés mercredi à Shenzhen, en Chine, pour assister au sommet de la Coopération économique pour l’Asie-Pacifique qui débutera jeudi. Mais les trois…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "05f160e127db",
-   "titre": "Malawi : à court de carburant, les stations-services rationnent l'essence",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261118-malawi-%C3%A0-court-de-carburant-les-stations-services-rationnent-l-essence",
-   "source": "France 24",
-   "date": "2026-11-18T11:42:29+00:00",
-   "extrait": "Après des années de pénuries chroniques, le Malawi affiche aujourd'hui les prix de l’essence les plus élevés du continent africain. Dans la capitale, les automobilistes passent des journées et des…",
-   "tags": [
-    "Économie",
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "c15c5b46330f",
-   "titre": "CAN 2027 : les Lions de la Teranga seront au rendez-vous",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261118-can-2027-les-lions-de-la-teranga-seront-au-rendez-vous",
-   "source": "France 24",
-   "date": "2026-11-18T11:39:59+00:00",
-   "extrait": "Le Maroc et le Sénégal, finalistes de la dernière CAN, ainsi que quatre autres nations, ont validé mardi 17 novembre leur qualification pour la prochaine Coupe d'Afrique des nations co-organisée par…",
-   "tags": [],
-   "zone": "monde"
   }
  ]
 }

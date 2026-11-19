@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-19T04:05:40+00:00",
+ "maj": "2026-11-19T05:05:42+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "d1202d3392a4",
+   "titre": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
+   "lien": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
+   "source": "The Hacker News",
+   "date": "2026-11-19T04:33:46+00:00",
+   "extrait": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws. The release is scheduled for November 19, 2026…",
+   "tags": [
+    "Faille"
+   ]
+  },
   {
    "id": "b326b8531a92",
    "titre": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
@@ -3385,17 +3396,6 @@
    "extrait": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day…",
    "tags": [
     "Faille"
-   ]
-  },
-  {
-   "id": "b9b072a1ed15",
-   "titre": "York University breach exposed personal information dating to 2007",
-   "lien": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
-   "source": "BleepingComputer",
-   "date": "2026-11-09T21:22:31+00:00",
-   "extrait": "York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]",
-   "tags": [
-    "Fuite de données"
    ]
   }
  ]
