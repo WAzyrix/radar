@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-19T21:05:43+00:00",
+ "maj": "2026-11-19T22:05:38+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -23,25 +23,268 @@
  "articles": [
   {
    "id": "d3163a54fe14",
-   "titre": "\"J’assume de demander des efforts.\", reconnaît Gabriel Attal dans \"L'Heure de vérité\"",
+   "titre": "\"J’assume de demander des efforts\", reconnaît Gabriel Attal dans \"L'Heure de vérité\"",
    "lien": "https://www.franceinfo.fr/replay-magazine/france-2/l-heure-de-verite/direct-presidentielle-2027-gabriel-attal-est-l-invite-de-l-heure-de-verite-a-partir-de-20h40_8288690.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-11-19T20:58:25+00:00",
+   "date": "2026-11-19T21:55:41+00:00",
    "extrait": "Le candidat de Renaissance à la présidentielle est l'invité de l'émission politique de France 2.",
    "tags": [],
    "zone": "france"
+  },
+  {
+   "id": "0eab96dbf4b2",
+   "titre": "Consumers stock doomsday pantries as tech outages cause jitters",
+   "lien": "https://www.cbsnews.com/news/doomsday-prepping-scenarios-walmart-costco-technology-outages/",
+   "source": "CBS News",
+   "date": "2026-11-19T21:54:18+00:00",
+   "extrait": "Companies such as Costco and Walmart are seeing a surge in sales for generators, canned goods and other disaster-preparedness staples.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "17cd7a3df7da",
+   "titre": "Fiona the hippo has died, Cincinnati Zoo says",
+   "lien": "https://www.cbsnews.com/news/fiona-the-hippo-dies-cincinnati-zoo/",
+   "source": "CBS News",
+   "date": "2026-11-19T21:41:00+00:00",
+   "extrait": "Fiona the hippo, who survived being born prematurely and rose to global fame, has died, the Cincinnati Zoo & Botanical Garden announced Thursday.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "9f3e704dcc08",
+   "titre": "Pas d'exploit pour Arthur Fils, battu par le n°1 mondial Alexander Zverev et éliminé du Masters de Turin",
+   "lien": "https://www.franceinfo.fr/sports/tennis/masters/pas-d-exploit-pour-arthur-fils-battu-par-le-n-1-mondial-alexander-zverev-et-elimine-du-masters-de-turin_8290640.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T21:40:28+00:00",
+   "extrait": "Le Français n'a pas démérité, jeudi soir, mais n'a pas trouvé les solutions pour faire plier le joueur allemand, intraitable.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "ec373bda05ba",
+   "titre": "Face au développement de l'intelligence artificielle, Meta \"réévalue\" son objectif de zéro émission nette à l'horizon 2030",
+   "lien": "https://www.franceinfo.fr/environnement/face-au-developpement-de-l-intelligence-artificielle-meta-reevalue-son-objectif-de-zero-emission-nette-a-l-horizon-2030_8290646.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T21:38:43+00:00",
+   "extrait": "Les émissions nettes rapportées par le géant américain pour 2025 se sont envolées de 45% par rapport à l'année précédente, selon les données communiquées dans leur rapport.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "779c3aaa135e",
+   "titre": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+   "lien": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-19T21:38:42+00:00",
+   "extrait": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+   "tags": [
+    "Économie",
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "bff4f2b8ca89",
+   "titre": "Fiona the hippo dies, Cincinnati Zoo says",
+   "lien": "https://www.cbsnews.com/video/fiona-the-hippo-who-became-viral-sensation-after-her-premature-birth-has-died/",
+   "source": "CBS News",
+   "date": "2026-11-19T21:36:27+00:00",
+   "extrait": "Fiona the hippo, who became a viral sensation after her premature birth almost a decade ago, has died, the Cincinnati Zoo says.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "b59d131d32a5",
+   "titre": "La Guadeloupe placée en « état d’alerte sécheresse » en fin de saison des pluies",
+   "lien": "https://www.lemonde.fr/planete/article/2026/11/19/la-guadeloupe-placee-en-etat-d-alerte-secheresse-en-fin-de-saison-des-pluies_6813383_3244.html",
+   "source": "Le Monde",
+   "date": "2026-11-19T21:32:31+00:00",
+   "extrait": "Le département français a connu un trimestre de juillet, août et septembre parmi les plus secs et chauds depuis 1991, selon Météo-France. La préfecture appelle l’ensemble des citoyens au « civisme »…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "22eec6a09a23",
+   "titre": "L'ex-anesthésiste Frédéric Péchier dépose une troisième demande de remise en liberté, examinée le 3 décembre prochain",
+   "lien": "https://www.franceinfo.fr/faits-divers/l-ex-anesthesiste-frederic-pechier-depose-une-troisieme-demande-de-remise-en-liberte-examinee-le-3-decembre-prochain_8290733.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T21:26:50+00:00",
+   "extrait": "Frédéric Péchier condamné fin 2025 à la réclusion criminelle à perpétuité pour 30 empoisonnements, dont 12 mortels a fait appel du verdict.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "3efda0ba48d3",
+   "titre": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+   "lien": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-19T21:26:10+00:00",
+   "extrait": "\"She fought until she couldn’t anymore,\" the Cincinnati Zoo said in a statement. Fiona became ill a few days after the incident.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "db9da463bbf2",
+   "titre": "Stocks plunge as investors take cover amid growing uncertainty",
+   "lien": "https://www.cbsnews.com/news/dow-tumbles-wall-street-ai-fears/",
+   "source": "CBS News",
+   "date": "2026-11-19T21:25:11+00:00",
+   "extrait": "The Dow tumbled 1,100 points, while other stock markets also swooned, as Wall Street frets over AI growth and other market risks.",
+   "tags": [
+    "Économie",
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "42a972871329",
+   "titre": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+   "lien": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-19T21:21:43+00:00",
+   "extrait": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "52000d74bc14",
+   "titre": "South Florida severe weather and flooding live updates",
+   "lien": "https://www.cbsnews.com/live-updates/south-florida-flooding-live-updates-heavy-rain-broward-miami-dade/",
+   "source": "CBS News",
+   "date": "2026-11-19T21:20:35+00:00",
+   "extrait": "After more than 15 inches of rain flooded parts of South Florida, a flood watch has been extended into Friday morning as schools announce reopening plans.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "usa"
   },
   {
    "id": "5f45813136ea",
    "titre": "Anthropic shares jump in Nasdaq trading debut after record IPO",
    "lien": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/",
    "source": "CBS News",
-   "date": "2026-11-19T20:56:07+00:00",
+   "date": "2026-11-19T21:18:04+00:00",
    "extrait": "Anthropic raised a record $81.3 billion, catapulting it past SpaceX, which raised $75 billion​ when it went public in June.",
    "tags": [
     "Tech"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "3cd08863fe0c",
+   "titre": "Professeure d'économie convoquée après un devoir sur le mouvement lycéen : \"Notre collègue n'a fait que son travail\", selon le Snes-FSU",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/professeure-d-economie-convoquee-apres-un-devoir-sur-le-mouvement-lyceen-notre-collegue-n-a-fait-que-son-travail-selon-le-snes-fsu_8290724.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T21:17:37+00:00",
+   "extrait": "Plusieurs familles ont saisi la proviseure du lycée Louise-Michel de Grenoble au sujet d'un devoir en sciences économiques et sociales sur le mouvement lycéen.",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "f102eb64b9ab",
+   "titre": "Présidentielle 2027 : le président du Sénat, Gérard Larcher, a demandé à Sébastien Lecornu d’avancer la date de l’élection",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/19/presidentielle-2027-le-president-du-senat-gerard-larcher-a-demande-a-sebastien-lecornu-d-avancer-la-date-de-l-election_6813382_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-19T21:17:24+00:00",
+   "extrait": "Les dates entérinées le 1ᵉʳ juillet par l’exécutif prévoient un premier tour le 18 avril et un second tour le 2 mai, au lendemain des défilés du 1ᵉʳ-Mai. Cela fait craindre à M. Larcher, comme à…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "f33affa51d51",
+   "titre": "Procès du canal \"Femmeblancherie\" : de la prison ferme requise contre des masculinistes",
+   "lien": "https://www.france24.com/fr/france/20261119-proc%C3%A8s-canal-femmeblancherie-prison-ferme-requise-contre-masculinistes",
+   "source": "France 24",
+   "date": "2026-11-19T21:15:19+00:00",
+   "extrait": "Jusqu'à deux ans de prison ferme ont été requis, jeudi à Paris, contre le fondateur du groupe Telegram \"femmeblancherie\" et six autres hommes, jugés pour des propos haineux visant notamment les…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "16658dde505f",
+   "titre": "Un quart des enfants du monde vivent dans une zone de conflit, alerte l'ONG Save The Children",
+   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-quart-des-enfants-du-monde-vivent-dans-une-zone-de-conflit-alerte-l-ong-save-the-children_8290703.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T21:13:02+00:00",
+   "extrait": "Il s'agit d'un chiffre \"record\", depuis le début des statistiques dans les années 1990, a souligné Gudrun Ostby, professeure-chercheuse à l'Institut de recherche sur la paix d'Oslo (PRIO).",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "a219ae020d27",
+   "titre": "Photos, videos show devastating South Florida flooding",
+   "lien": "https://www.cbsnews.com/news/photos-videos-devastating-south-florida-flooding-schools-closed-evacuations/",
+   "source": "CBS News",
+   "date": "2026-11-19T21:12:00+00:00",
+   "extrait": "Significant flooding devastated some South Florida communities this week.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "f5232f4291b7",
+   "titre": "Un préfet soupçonné d'avoir renseigné le Rassemblement national sur des affaires en cours",
+   "lien": "https://www.franceinfo.fr/faits-divers/un-prefet-soupconne-d-avoir-renseigne-le-rassemblement-national-sur-des-affaires-en-cours_8290550.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T21:09:38+00:00",
+   "extrait": "Le parquet de Paris a ouvert une information judiciaire pour violation du secret professionnel et violation du secret de l'enquête. Les soupçons s'orientent vers Hugues Moutouh, préfet du Loiret et…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "4cf416a3db11",
+   "titre": "COP31 sur le climat : les énergies fossiles retirées du projet de décision finale",
+   "lien": "https://www.france24.com/fr/plan%C3%A8te/20261119-cop31-climat-%C3%A9nergies-fossiles-retir%C3%A9es-projet-d%C3%A9cision-finale",
+   "source": "France 24",
+   "date": "2026-11-19T21:06:06+00:00",
+   "extrait": "Les énergies fossiles ne figurent plus dans le nouveau projet de décision finale de la COP31 sur le climat publié jeudi à Antalya (Turquie), un recul dénoncé avec force par les ONG à la veille de la…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "32db1864f68e",
+   "titre": "Xi, Trump, Poutine : un Yalta 2.0 ?",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261119-xi-trump-poutine-un-yalta-2-0",
+   "source": "France 24",
+   "date": "2026-11-19T21:00:32+00:00",
+   "extrait": "C’est peut-être l'image de l’année : Xi Jinping, Donald Trump et Vladimir Poutine réunis à Shenzhen en Chine. C’est la première fois que les présidents de ces trois puissances se rencontraient. Ils…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "216de5563653",
+   "titre": "Corée du Sud : un examen crucial en plein scandale de triche à l’IA",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261119-cor%C3%A9e-du-sud-un-examen-crucial-en-plein-scandale-de-triche-%C3%A0-l-ia",
+   "source": "France 24",
+   "date": "2026-11-19T20:55:42+00:00",
+   "extrait": "Les ​élèves sud-coréens ont passé jeudi 19 novembre le Suneung, le rigoureux examen national d'entrée à l'université, dans une ambiance tendue après un scandale de triche ​lié à l'intelligence…",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "monde"
   },
   {
    "id": "450708e368f7",
@@ -78,18 +321,6 @@
    "zone": "france"
   },
   {
-   "id": "f5232f4291b7",
-   "titre": "Un préfet soupçonné d'avoir renseigné le Rassemblement national sur des affaires en cours",
-   "lien": "https://www.franceinfo.fr/faits-divers/un-prefet-soupconne-d-avoir-renseigne-le-rassemblement-national-sur-des-affaires-en-cours_8290550.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T20:31:40+00:00",
-   "extrait": "Le parquet de Paris a ouvert une information judiciaire pour violation du secret professionnel et violation du secret de l'enquête. Les soupçons s'orientent vers Hugues Moutouh, préfet du Loiret et…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "7ab40838ae16",
    "titre": "Iran may be working on biological weapons, Trump says",
    "lien": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
@@ -99,18 +330,6 @@
    "tags": [
     "Politique",
     "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "52000d74bc14",
-   "titre": "South Florida severe weather and flooding live updates",
-   "lien": "https://www.cbsnews.com/live-updates/south-florida-flooding-live-updates-heavy-rain-broward-miami-dade/",
-   "source": "CBS News",
-   "date": "2026-11-19T20:26:17+00:00",
-   "extrait": "After more than 15 inches of rain flooded parts of South Florida, a flood watch has been extended into Friday morning as schools announce reopening plans.",
-   "tags": [
-    "Climat"
    ],
    "zone": "usa"
   },
@@ -342,30 +561,6 @@
     "Économie"
    ],
    "zone": "france"
-  },
-  {
-   "id": "42a972871329",
-   "titre": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-   "lien": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-19T19:16:21+00:00",
-   "extrait": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "a219ae020d27",
-   "titre": "Photos, videos show devastating South Florida flooding",
-   "lien": "https://www.cbsnews.com/news/photos-videos-devastating-south-florida-flooding-schools-closed-evacuations/",
-   "source": "CBS News",
-   "date": "2026-11-19T19:12:16+00:00",
-   "extrait": "Significant flooding devastated some South Florida communities this week.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "usa"
   },
   {
    "id": "7bcebc0cad5c",
@@ -1507,6 +1702,18 @@
    "zone": "usa"
   },
   {
+   "id": "1a2001795452",
+   "titre": "🔴Anthropic entre en Bourse : la plus grande levée de fonds de l’Histoire commence",
+   "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261119-anthropic-entr%C3%A9e-bourse-historique-propuls%C3%A9e-par-tr%C3%A8s-forte-demande",
+   "source": "France 24",
+   "date": "2026-11-19T14:32:11+00:00",
+   "extrait": "",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "970fe5c39545",
    "titre": "\"La gravité nécessite l'emprisonnement\" : des peines de quatre ans à six ans de prison ferme requises contre les trois policiers accusés d'avoir roué de coups Michel Zecler",
    "lien": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/des-peines-de-quatre-ans-a-six-ans-de-prison-ferme-requises-contre-les-trois-policiers-accuses-d-avoir-roue-de-coups-michel-zecler_8288789.html#xtor=RSS-3-[lestitres]",
@@ -1530,19 +1737,6 @@
     "Justice"
    ],
    "zone": "france"
-  },
-  {
-   "id": "1a2001795452",
-   "titre": "Anthropic : une entrée en Bourse historique, au-delà des 2 000 milliards de dollars de valorisation",
-   "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261119-anthropic-entr%C3%A9e-bourse-historique-propuls%C3%A9e-par-tr%C3%A8s-forte-demande",
-   "source": "France 24",
-   "date": "2026-11-19T14:30:51+00:00",
-   "extrait": "L'action Anthropic s'est envolée, jeudi, lors de l'entrée en Bourse de la start-up américaine, dont la valorisation a dépassé 2 000 milliards de dollars. Un nouveau record, devançant celui établi…",
-   "tags": [
-    "Économie",
-    "Tech"
-   ],
-   "zone": "monde"
   },
   {
    "id": "404ab685be04",
@@ -3274,192 +3468,6 @@
    "tags": [
     "Politique",
     "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "3a140a06095e",
-   "titre": "Perturbateurs endocriniens : une « menace globale et croissante », selon les Nations unies et l’Organisation mondiale de la santé",
-   "lien": "https://www.lemonde.fr/planete/article/2026/11/19/perturbateurs-endocriniens-une-menace-globale-et-croissante-selon-les-nations-unies-et-l-organisation-mondiale-de-la-sante_6813243_3244.html",
-   "source": "Le Monde",
-   "date": "2026-11-19T06:30:02+00:00",
-   "extrait": "Le coût des dégâts sanitaires provoqués par les substances chimiques de cette catégorie est d’au moins 1 100 milliards de dollars par an à l’échelle mondiale, estiment les experts des deux…",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "807d60ecec26",
-   "titre": "Bassirou Diomaye Faye radié du Pastef, un autre signe de la \"séparation définitive\" avec Sonko",
-   "lien": "https://www.france24.com/fr/afrique/20261119-bassirou-diomaye-faye-radi%C3%A9-du-pastef-un-autre-signe-de-la-s%C3%A9paration-d%C3%A9finitive-avec-sonko",
-   "source": "France 24",
-   "date": "2026-11-19T06:24:22+00:00",
-   "extrait": "Au Sénégal, le Pastef, parti majoritaire dirigé par Ousmane Sonko, a officialisé, mardi, le départ du président Bassirou Diomaye Faye. En conflit ouvert avec son ancien mentor, le chef de l'État…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "c9a846dbda15",
-   "titre": "Le niveau de risque pour la grippe aviaire relevé à \"élevé\" sur l'ensemble du territoire hexagonal",
-   "lien": "https://www.franceinfo.fr/sante/maladie/grippe-aviaire/le-niveau-de-risque-pour-la-grippe-aviaire-releve-a-eleve-sur-l-ensemble-du-territoire-metropolitain_8289491.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T06:15:05+00:00",
-   "extrait": "Cela constitue le plus haut des trois niveaux prévus par la réglementation. Il prévoit notamment des mesures de surveillance et de prévention supplémentaires, alors que le risque augmente dans…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "b682302bb276",
-   "titre": "« Inside Deutsche Bank » : derrière la façade verte, les coulisses du « greenwashing » de la banque allemande",
-   "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/11/19/inside-deutsche-bank-derriere-la-facade-verte-les-coulisses-du-greenwashing-de-la-banque-allemande_6813239_4355770.html",
-   "source": "Le Monde",
-   "date": "2026-11-19T05:58:05+00:00",
-   "extrait": "Après l’accord de Paris en 2015, la banque a multiplié les annonces pour réduire son empreinte sur le climat. La fuite de données « Inside Deutsche Bank » montre que le groupe a contourné ou ignoré…",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "8e3b6fa429e5",
-   "titre": "EN DIRECT, guerre en Ukraine : le sommet inédit entre Xi Jinping, Donald Trump et Vladimir Poutine débute",
-   "lien": "https://www.lemonde.fr/international/live/2026/11/19/en-direct-guerre-en-ukraine-peu-avant-leur-rencontre-tripartite-en-chine-donald-trump-s-entretient-separement-avec-vladimir-poutine-et-xi-jinping_6810982_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-19T05:52:41+00:00",
-   "extrait": "En amont, les présidents américain et russe ont discuté pendant environ quarante minutes à Shenzhen, sans que l’on sache quels ont été les thèmes abordés. Donald Trump s’est également entretenu avec…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "4cb294298234",
-   "titre": "La déléguée à la protection des enfants à l'école appelle à améliorer la \"culture\" du signalement à la suite du scandale dans le périscolaire",
-   "lien": "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/la-deleguee-a-la-protection-des-enfants-a-l-ecole-appelle-a-ameliorer-la-culture-du-signalement-a-la-suite-du-scandale-dans-le-periscolaire_8289422.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T05:44:30+00:00",
-   "extrait": "Cristelle Gillard rend un rapport jeudi avec ses premières observations sur près de 200 dossiers étudiés. Avec ce rapport, elle veut \"contribuer à l’amélioration de la chaîne de protection des…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "4805582ff0b6",
-   "titre": "À Shenzhen, une rencontre Xi -Trump dans le sillage du scandale Huang et Nvidia",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261119-une-rencontre-xi-trump-dans-le-sillage-du-scandale-huang-et-nvidia",
-   "source": "France 24",
-   "date": "2026-11-19T05:36:20+00:00",
-   "extrait": "Donald Trump a minimisé la question de l'espionnage, relative au scandale entourant l'ancien patron de Nvidia, dans un entretien donné en marge du sommet de Shenzhen. Mais la question de l'IA est…",
-   "tags": [
-    "Politique",
-    "Tech"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "2b58773e4f11",
-   "titre": "Indivision : le concubin violent écarté du logement peut réclamer une indemnité d’occupation à sa victime",
-   "lien": "https://www.lemonde.fr/argent/article/2026/11/19/indivision-le-concubin-violent-ecarte-du-logement-peut-reclamer-une-indemnite-d-occupation-a-sa-victime_6813237_1657007.html",
-   "source": "Le Monde",
-   "date": "2026-11-19T05:35:06+00:00",
-   "extrait": "La protection qu’offre le droit de la famille à une femme victime de violences conjugales se heurte au droit des biens, au profit de l’homme coupable.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "e4938e257848",
-   "titre": "\"Dès que le terrain va bouger, la conduite va casser\" : la France doit changer les vieilles canalisations d'eau fragilisées par le réchauffement climatique",
-   "lien": "https://www.franceinfo.fr/environnement/crise-climatique/des-que-le-terrain-va-bouger-la-conduite-va-casser-la-france-doit-changer-les-vieilles-canalisations-d-eau-fragilisees-par-le-rechauffement-climatique_8288849.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T05:25:53+00:00",
-   "extrait": "Avec les intempéries qui succèdent aux sécheresses, les sols argileux bougent. Cela fragilise les grandes canalisations enterrées qui conduisent l'eau jusqu'aux robinets des grandes villes…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "1397b80be9f2",
-   "titre": "Les femmes travaillent \"gratuitement\" à partir de jeudi à 10h51 jusqu'à la fin de l'année, selon Les Glorieuses",
-   "lien": "https://www.franceinfo.fr/economie/disparites-salariales/les-femmes-travaillent-gratuitement-a-partir-de-jeudi-a-10h51-jusqu-a-la-fin-de-l-annee-selon-les-glorieuses_8289371.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T05:22:52+00:00",
-   "extrait": "Même si cette date arrive douze jours plus tard en dix ans, les inégalités salariales entre femmes et hommes sont toujours présentes. La lettre d'information des Glorieuses précise aussi qu'il…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "0176d2f87a67",
-   "titre": "\"Mon objectif, c'est de ne pas le perdre et surtout d'être en mesure de l'attaquer sur ordre\" : comment la marine française s'entraîne à prendre des sous-marins en chasse dans la Baltique",
-   "lien": "https://www.franceinfo.fr/societe/armee-securite-defense/reportage-mon-objectif-c-est-de-ne-pas-le-perdre-et-surtout-d-etre-en-mesure-de-l-attaquer-sur-ordre-comment-la-marine-francaise-s-entraine-a-prendre-des-sous-marins-en-chasse-dans-la-baltique_8288747.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T05:20:09+00:00",
-   "extrait": "Dans la mer Baltique, huit pays alliés de l'Otan ont participé à un exercice organisé par la Suède pour traquer les menaces sous-marines. La France y a engagé un Atlantique 2, un avion chasseur de…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "a7178539b47a",
-   "titre": "\"Ça a toujours été sélectionné avec beaucoup de soins\" : en quoi la bande-son de la saga \"GTA\" est-elle novatrice ?",
-   "lien": "https://www.franceinfo.fr/culture/jeux-video/gta-vi/ca-a-toujours-ete-selectionne-avec-beaucoup-de-soins-en-quoi-la-bande-son-de-la-saga-gta-est-elle-novatrice_8288672.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T05:19:17+00:00",
-   "extrait": "La saga a marqué les esprits par son utilisation de la musique, omniprésente. D'énormes tubes sont disséminés tout au long des aventures, au point d'en devenir indissociables. Ce nouvel opus, sorti…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "39c5546cbe78",
-   "titre": "Win a trip to go behind the news with NPR",
-   "lien": "https://www.npr.org/2026/11/19/g-s1-153851/npr-newsroom-giveaway",
-   "source": "NPR",
-   "date": "2026-11-19T05:01:00+00:00",
-   "extrait": "Enter for a chance to go behind the scenes at HQ, meet our journalists face-to-face and experience public media like never before.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "35d72835e401",
-   "titre": "« GTA VI », le sixième épisode du jeu vidéo phénomène, une matière sensible pour le monde politique",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/19/gta-vi-le-sixieme-episode-du-jeu-video-phenomene-une-matiere-sensible-pour-le-monde-politique_6813235_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-19T05:00:40+00:00",
-   "extrait": "A gauche comme à droite, partis et candidats ont multiplié les clins d’œil à la sortie du jeu vidéo. Oubliant parfois les rapports contrariés de leur famille politique avec la saga.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "ce6a3707e475",
-   "titre": "Violences à l’école et dans le périscolaire : un rapport appelle à un accompagnement sur le long terme des élèves victimes",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/19/violences-a-l-ecole-et-dans-le-periscolaire-un-rapport-appelle-a-un-accompagnement-sur-le-long-terme-des-eleves-victimes_6813234_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-19T05:00:37+00:00",
-   "extrait": "Après six mois d’exercice, la déléguée à la protection des enfants à l’école rend un rapport issu des premières saisines qu’elle a traitées. Elle prône le développement d’une culture du signalement…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "7e0b579add3f",
-   "titre": "A Salindres dans le Gard, le TFA mesuré pour la première fois dans le sang de salariés de l'usine Solvay qui produisait des PFAS",
-   "lien": "https://france3-regions.franceinfo.fr/occitanie/gard/nimes/info-france-3-a-salindres-le-tfa-mesure-pour-la-premiere-fois-dans-le-sang-de-salaries-de-l-usine-solvay-qui-produisait-des-pfas-3451992.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T05:00:36+00:00",
-   "extrait": "Une étude inédite et indépendante a dosé le TFA dans le sang des salariés de Solvay, à Salindres (Gard). Comparés aux rares données scientifiques disponibles, les niveaux de ce polluant éternel…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "dac3169e013f",
-   "titre": "La crise dans le détroit d’Ormuz favorise une « étroite convergence entre sécurité énergétique et objectifs climatiques », selon le directeur de l’AIE, Fatih Birol",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/19/la-crise-du-detroit-d-ormuz-favorise-une-etroite-convergence-entre-securite-energetique-et-objectifs-climatiques-selon-le-directeur-de-l-aie-fatih-birol_6813236_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-19T05:00:28+00:00",
-   "extrait": "L’Agence internationale de l’énergie devait publier son rapport annuel, jeudi 19 novembre. Le directeur exécutif de l’organisation souligne, dans un entretien au « Monde », comment la guerre au…",
-   "tags": [
-    "Conflits"
    ],
    "zone": "france"
   }

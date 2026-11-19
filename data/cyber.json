@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-19T21:05:43+00:00",
+ "maj": "2026-11-19T22:05:38+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "3797ecb529a5",
+   "titre": "ASUS warns of critical hard-coded key flaw in Control Center Express",
+   "lien": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
+   "source": "BleepingComputer",
+   "date": "2026-11-19T21:15:59+00:00",
+   "extrait": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages…",
+   "tags": [
+    "Faille"
+   ]
+  },
   {
    "id": "53e4a59238e8",
    "titre": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
@@ -3364,18 +3375,6 @@
    "extrait": "Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]",
    "tags": [
     "Fuite de données"
-   ]
-  },
-  {
-   "id": "9814f0299437",
-   "titre": "Microsoft releases Windows 10 KB5131096 extended security update",
-   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
-   "source": "BleepingComputer",
-   "date": "2026-11-10T20:04:36+00:00",
-   "extrait": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
-   "tags": [
-    "Faille",
-    "Windows"
    ]
   }
  ]
