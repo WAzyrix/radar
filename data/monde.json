@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-19T13:05:40+00:00",
+ "maj": "2026-11-19T14:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,14 +22,85 @@
  "erreurs": [],
  "articles": [
   {
-   "id": "f1298a579216",
-   "titre": "La Commission européenne annonce avoir été la cible d'une cyberattaque assistée par l'intelligence artificielle en octobre",
-   "lien": "https://www.franceinfo.fr/monde/europe/union-europeenne/la-commission-europeenne-annonce-avoir-ete-la-cible-d-une-cyberattaque-assistee-par-l-intelligence-artificielle-en-octobre_8289959.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T12:59:55+00:00",
-   "extrait": "Un porte-parole de la Commission a précisé jeudi qu'à ce stade, la Commission n'avait pas la preuve de vol de données personnelles.",
+   "id": "96272655b00e",
+   "titre": "Trump, Xi and Putin sit down for rare 3-way meeting in China",
+   "lien": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/",
+   "source": "CBS News",
+   "date": "2026-11-19T14:03:08+00:00",
+   "extrait": "Russia says Putin, Trump and China's Xi agreed during a rare meeting to boost gas and oil production, and \"reaffirmed that there can be no winners in a nuclear war.\"",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "5f45813136ea",
+   "titre": "Anthropic set to start trading after completing largest-ever IPO",
+   "lien": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/",
+   "source": "CBS News",
+   "date": "2026-11-19T13:55:19+00:00",
+   "extrait": "Anthropic raised a record $81.3 billion, catapulting it past SpaceX, which raised $75 billion​ when it went public in June.",
    "tags": [
     "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "b9901f5e4206",
+   "titre": "Obama gives pep talk to freshman House Democrats in surprise visit",
+   "lien": "https://www.cbsnews.com/news/obama-pep-talk-freshman-house-democrats/",
+   "source": "CBS News",
+   "date": "2026-11-19T13:52:55+00:00",
+   "extrait": "Former President Barack Obama was the surprise guest at a hastily called meeting of Democrats who just won House seats.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "f3d848d6309e",
+   "titre": "Rencontre entre Trump, Poutine et Xi : le président russe affirme avoir eu une discussion \"ouverte\" et \"très utile\" avec ses homologues",
+   "lien": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/direct-rencontre-donald-trump-vladimir-poutine-xi-jinping-suivez-l-entretien-inedit-entre-les-trois-presidents-en-chine_8288564.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T13:51:20+00:00",
+   "extrait": "Les chefs d'Etat américain, russe et chinois se sont réunis jeudi pour un sommet tripartite pour \"préserver la paix mondiale\".",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "c90f8f236e97",
+   "titre": "PFAS : nouvelle étape franchie pour la restriction universelle des « polluants éternels » à l’échelle européenne",
+   "lien": "https://www.lemonde.fr/planete/article/2026/11/19/pfas-l-agence-europeenne-des-produits-chimiques-favorable-a-des-restrictions-des-polluants-eternels-dans-l-union-europeenne_6813311_3244.html",
+   "source": "Le Monde",
+   "date": "2026-11-19T13:44:48+00:00",
+   "extrait": "Les PFAS, ces molécules omniprésentes dans les objets du quotidien (emballages, cosmétiques, ustensiles de cuisine) s’accumulent à travers l’environnement et dans le corps humain, avec des effets…",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "db9c452d86c7",
+   "titre": "\"Un réalisme qui défie l'entendement\" : la presse extatique après la sortie de GTA VI",
+   "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261119-un-r%C3%A9alisme-qui-d%C3%A9fie-l-entendement-la-presse-extatique-apr%C3%A8s-la-sortie-de-gta-vi-jeux-vid%C3%A9o-test",
+   "source": "France 24",
+   "date": "2026-11-19T13:42:50+00:00",
+   "extrait": "Unanimement salué par la critique, Grand Theft Auto VI, sorti jeudi sur toute la planète, impressionne par ses graphismes spectaculaires, la richesse inégalée de son monde ouvert et une narration…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "c57501547294",
+   "titre": "Xi Jinping, Vladimir Poutine et Donald Trump adoptent une \"déclaration de paix\" après un sommet inédit",
+   "lien": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/xi-jinping-vladimir-poutine-et-donald-trump-adoptent-une-declaration-de-paix-apres-un-sommet-inedit_8290064.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T13:42:44+00:00",
+   "extrait": "Les trois dirigeants, réunis à Shenzhen (Chine) jeudi, \"se sont engagés à préserver la stabilité stratégique et la sécurité internationale\", est-il écrit dans leur déclaration.",
+   "tags": [
+    "Politique"
    ],
    "zone": "france"
   },
@@ -38,13 +109,205 @@
    "titre": "Trump says Iran may be working on biological weapons",
    "lien": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
    "source": "CBS News",
-   "date": "2026-11-19T12:59:00+00:00",
+   "date": "2026-11-19T13:39:34+00:00",
    "extrait": "President Trump told Fox News there are indications Iran may be working on biological or chemical weapons as the war drags on toward its ninth month.",
    "tags": [
     "Politique",
     "Conflits"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "10d437c20cb5",
+   "titre": "Trump sits down with Xi Jinping and Vladimir Putin for historic meeting",
+   "lien": "https://www.cbsnews.com/video/trump-sits-down-with-xi-jinping-and-vladimir-putin-for-historic-meeting/",
+   "source": "CBS News",
+   "date": "2026-11-19T13:39:00+00:00",
+   "extrait": "President Trump met with Chinese President Xi Jinping and Russian President Vladimir Putin Thursday in a historic face-to-face summit. Tony Dokoupil and Nancy Cordes report.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "f1298a579216",
+   "titre": "La Commission européenne annonce avoir été la cible d'une cyberattaque assistée par l'intelligence artificielle en octobre",
+   "lien": "https://www.franceinfo.fr/monde/europe/union-europeenne/la-commission-europeenne-annonce-avoir-ete-la-cible-d-une-cyberattaque-assistee-par-l-intelligence-artificielle-en-octobre_8289959.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T13:38:26+00:00",
+   "extrait": "Un porte-parole a précisé jeudi qu'à ce stade, la Commission européenne n'avait pas la preuve de vol de données personnelles.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "918245b35173",
+   "titre": "\"On a envie de boire des vins plus souples\" : après le déclin, le retour en grâce du Beaujolais nouveau ?",
+   "lien": "https://www.franceinfo.fr/economie/on-a-envie-de-boire-des-vins-plus-souples-apres-le-declin-le-retour-en-grace-du-beaujolais-nouveau_8289986.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T13:37:46+00:00",
+   "extrait": "Le Beaujolais nouveau a perdu de son engouement depuis son âge d'or des années 1990. Mais ce vin semble retrouver une place auprès des consommateurs, qui seraient séduits par des vins plus légers et…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "f96143e95034",
+   "titre": "Eye Opener: Trump attends historic meeting with Xi, Putin",
+   "lien": "https://www.cbsnews.com/video/eye-opener-trump-attends-historic-meeting-with-xi-putin/",
+   "source": "CBS News",
+   "date": "2026-11-19T13:35:04+00:00",
+   "extrait": "President Trump, Xi Jinping and Vladimir Putin met in China on Wednesday. All that and all that matters in today's Eye Opener.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "52000d74bc14",
+   "titre": "South Florida severe weather and flooding live updates",
+   "lien": "https://www.cbsnews.com/live-updates/south-florida-flooding-live-updates-heavy-rain-broward-miami-dade/",
+   "source": "CBS News",
+   "date": "2026-11-19T13:34:02+00:00",
+   "extrait": "After more than 15 inches of rain flooded parts of South Florida, schools remain closed and roads underwater Thursday as another round of heavy rain threatens to worsen conditions.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "bc9d03c1a3ce",
+   "titre": "\"J'ai l'impression d'avoir vu ça dans un film\" : comment la saga GTA s'inspire du cinéma, et réciproquement",
+   "lien": "https://www.franceinfo.fr/culture/jeux-video/j-ai-l-impression-d-avoir-vu-ca-dans-un-film-comment-la-saga-gta-s-inspire-du-cinema-et-reciproquement_8289821.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T13:32:38+00:00",
+   "extrait": "Le sixième épisode du jeu vidéo évènement \"GTA\" est disponible depuis ce jeudi. Depuis le troisième opus, sorti en 2001, la saga \"Grand Theft Auto\" puise notamment son inspiration dans certains…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "b16facea9bde",
+   "titre": "Venezuela signs military deal with US less than a year after Maduro's removal",
+   "lien": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-19T13:31:23+00:00",
+   "extrait": "The US Secretary of Defence says Venezuela has 'gone from our most aggressive regional threat to a compliant security partner'.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "694579fc4cbf",
+   "titre": "Un bassin de rétention d'eau déborde dans le Pas-de-Calais, une école avec 17 élèves évacués puis mis \"en sécurité\"",
+   "lien": "https://france3-regions.franceinfo.fr/hauts-de-france/pas-calais/touquet/un-bassin-de-retention-d-eau-deborde-une-ecole-avec-17-eleves-evacues-puis-mis-en-securite-3452310.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T13:31:08+00:00",
+   "extrait": "Jeudi 19 novembre vers 10h, les pompiers ont été appelés pour une inondation conséquente à Bréxent-Énocq (Pas-de-Calais). Un bassin de rétention d'eau a débordé. Le plan Orsec a été déclenché par la…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "9660fc3b70c8",
+   "titre": "Sénégal : le surf fait de plus en plus d’adeptes chez les jeunes",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261119-s%C3%A9n%C3%A9gal-le-surf-fait-de-plus-en-plus-d-adeptes-chez-les-jeunes",
+   "source": "France 24",
+   "date": "2026-11-19T13:20:18+00:00",
+   "extrait": "🇸🇳 Au Sénégal, le surf attire de plus en plus de jeunes, mais le coût du matériel reste un frein à sa démocratisation. À Ngor, près de Dakar, un jeune surfeur professionnel a créé une école pour…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "970fe5c39545",
+   "titre": "\"La gravité nécessite l'emprisonnement\" : des peines de quatre ans à six ans de prison ferme requises contre les trois policiers accusés d'avoir roué de coups Michel Zecler",
+   "lien": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/des-peines-de-quatre-ans-a-six-ans-de-prison-ferme-requises-contre-les-trois-policiers-accuses-d-avoir-roue-de-coups-michel-zecler_8288789.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T13:18:19+00:00",
+   "extrait": "L'avocate générale a aussi demandé à la cour de retenir la circonstance aggravante de racisme, à l'encontre des trois accusés, jugés depuis dix jours pour violences aggravées et faux en écriture…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "5cbf1748a625",
+   "titre": "Does your credit card already provide travel insurance? Here's how to tell",
+   "lien": "https://www.cbsnews.com/news/does-your-credit-card-provide-travel-insurance/",
+   "source": "CBS News",
+   "date": "2026-11-19T13:14:14+00:00",
+   "extrait": "Your credit card may offer valuable travel protections, but knowing what's covered, and what's not, is key.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "e1ed08c113e1",
+   "titre": "Are CDs worth it? When they beat savings and money market accounts",
+   "lien": "https://www.cbsnews.com/news/cd-account-worth-opening-again/",
+   "source": "CBS News",
+   "date": "2026-11-19T13:12:32+00:00",
+   "extrait": "A CD could be worth it when compared to savings and money market accounts now. Here's why.",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "8944b9bf2f7d",
+   "titre": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+   "lien": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-19T13:07:35+00:00",
+   "extrait": "The Russian president said the Crimean Bridge was civilian infrastructure, which Kyiv disputes.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "2d27a52ac9cb",
+   "titre": "Ce qu'il faut retenir du sommet inédit entre Donald Trump, Xi Jinping et Vladimir Poutine",
+   "lien": "https://www.france24.com/fr/asie-pacifique/20261119-ce-qu-il-faut-retenir-du-sommet-in%C3%A9dit-entre-donald-trump-xi-jinping-et-vladimir-poutine",
+   "source": "France 24",
+   "date": "2026-11-19T13:05:26+00:00",
+   "extrait": "Le président américain Donald Trump et ses ⁠homologues chinois et russe ​Xi Jinping et Vladimir Poutine se sont retrouvés jeudi en marge d'un sommet de l'Asie-Pacifique (Apec) pour une réunion…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "0a98eeb83d36",
+   "titre": "Françoise Lebrun, actrice emblématique de « La Maman et la Putain », de Mai 68 au mouvement des lycéens de 2026",
+   "lien": "https://www.lemonde.fr/culture/article/2026/11/19/francoise-lebrun-actrice-emblematique-de-la-maman-et-la-putain-de-mai-68-au-mouvement-des-lyceens-de-2026_6813304_3246.html",
+   "source": "Le Monde",
+   "date": "2026-11-19T13:00:16+00:00",
+   "extrait": "La comédienne de 82 ans, à l’affiche de la série « Paolo », présente des films emblématiques de sa carrière au festival Entrevues de Belfort, qui se tient jusqu’au 22 novembre.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "ed29c01c4ea5",
+   "titre": "Présidentielle 2027 : une campagne « course à l’échalote » pour tenter de répondre aux colères françaises",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/19/presidentielle-2027-une-campagne-course-a-l-echalote-pour-tenter-de-repondre-aux-coleres-francaises_6813302_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-19T13:00:02+00:00",
+   "extrait": "Alors qu’une majorité de l’opinion se dit défiante à l’égard de l’Etat et revendique le divorce avec les élites, les candidats de la droite et du centre s’essayent à un registre plus populiste…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "5171e29e1360",
+   "titre": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
+   "lien": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-19T12:56:30+00:00",
+   "extrait": "The Mrima Hill site is estimated to hold deposits of critical minerals worth more than $60bn (£45bn).",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "37977ddefe42",
@@ -123,7 +386,7 @@
    "titre": "« L’IA redessine les règles du jeu à une vitesse que nous n’avions jamais connue » : des responsables de la cybersécurité de l’Etat sonnent l’alarme",
    "lien": "https://www.lemonde.fr/pixels/article/2026/11/19/l-ia-redessine-les-regles-du-jeu-a-une-vitesse-que-nous-n-avions-jamais-connue-des-responsables-de-la-cybersecurite-de-l-etat-sonnent-l-alarme_6813298_4408996.html",
    "source": "Le Monde",
-   "date": "2026-11-19T12:30:18+00:00",
+   "date": "2026-11-19T12:30:07+00:00",
    "extrait": "A Rennes, les plus hauts responsables français ont diffusé un message inédit sur les dangers de l’intelligence artificielle, alors que Sébastien Lecornu a convoqué jeudi une réunion…",
    "tags": [
     "Tech"
@@ -174,19 +437,6 @@
    "extrait": "Despite growing concern over a possible AI bubble, Anthropic had a record-breaking initial public offering. And, Hakeem Jeffries could become the first Black Speaker of the House.",
    "tags": [
     "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "52000d74bc14",
-   "titre": "South Florida severe weather and flooding live updates",
-   "lien": "https://www.cbsnews.com/live-updates/south-florida-flooding-live-updates-heavy-rain-broward-miami-dade/",
-   "source": "CBS News",
-   "date": "2026-11-19T12:20:36+00:00",
-   "extrait": "Heavy rain has triggered widespread flooding across South Florida on Tuesday night and Wednesday, closing Broward and Miami-Dade schools, stranding drivers and disrupting airport and hospital…",
-   "tags": [
-    "Climat",
-    "Santé"
    ],
    "zone": "usa"
   },
@@ -270,33 +520,8 @@
    "zone": "france"
   },
   {
-   "id": "b9901f5e4206",
-   "titre": "Obama gives pep talk to freshman House Democrats in surprise visit",
-   "lien": "https://www.cbsnews.com/news/obama-pep-talk-freshman-house-democrats/",
-   "source": "CBS News",
-   "date": "2026-11-19T11:50:10+00:00",
-   "extrait": "The former president was the surprise guest at a hastily called meeting of Democrats who just won House seats.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "96272655b00e",
-   "titre": "Trump, Xi and Putin sit down for rare three-way meeting in China",
-   "lien": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/",
-   "source": "CBS News",
-   "date": "2026-11-19T11:47:49+00:00",
-   "extrait": "Russia says Putin, Trump and China's Xi agreed during a rare meeting to boost gas and oil production, and \"reaffirmed that there can be no winners in a nuclear war.\"",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "d8dafd1b83c9",
-   "titre": "La Birmanie a commis un génocide à l’encontre de la minorité rohingya, statue la Cour internationale de justice",
+   "titre": "Rohingya : la Birmanie a commis un génocide à l’encontre de cette minorité majoritairement musulmane, statue la CIJ",
    "lien": "https://www.lemonde.fr/international/article/2026/11/19/la-birmanie-a-commis-un-genocide-a-l-encontre-de-la-minorite-rohingya-statue-la-cour-internationale-de-justice_6813288_3210.html",
    "source": "Le Monde",
    "date": "2026-11-19T11:42:12+00:00",
@@ -315,18 +540,6 @@
    "zone": "france"
   },
   {
-   "id": "970fe5c39545",
-   "titre": "Des peines de quatre ans à six ans de prison ferme requises contre les trois policiers accusés d'avoir roué de coups Michel Zecler",
-   "lien": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/des-peines-de-quatre-ans-a-six-ans-de-prison-ferme-requises-contre-les-trois-policiers-accuses-d-avoir-roue-de-coups-michel-zecler_8288789.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T11:39:13+00:00",
-   "extrait": "Les trois hommes sont jugés depuis dix jours pour violences aggravées et faux en écriture publique. Le verdict est attendu vendredi.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "4c810ddb051e",
    "titre": "Deux enseignants et onze élèves blessés ou choqués dans des lycées d'Île-de-France en marge des mobilisations lycéennes",
    "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/deux-enseignants-et-onze-eleves-blesses-ou-choques-dans-des-lycees-d-ile-de-france-en-marge-des-mobilisations-lyceennes_8289917.html#xtor=RSS-3-[lestitres]",
@@ -337,24 +550,12 @@
    "zone": "france"
   },
   {
-   "id": "f3d848d6309e",
-   "titre": "Rencontre entre Trump, Poutine et Xi : les trois dirigeants ont adopté \"une déclaration de paix\" à l'issue d'un sommet inédit, rapportent le Kremlin et les médias chinois",
-   "lien": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/direct-rencontre-donald-trump-vladimir-poutine-xi-jinping-suivez-l-entretien-inedit-entre-les-trois-presidents-en-chine_8288564.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T11:37:20+00:00",
-   "extrait": "Les chefs d'Etat américain, russe et chinois se sont réunis pour un sommet tripartite pour \"préserver la paix mondiale\".",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "1e42f963390c",
    "titre": "Ce qu’il faut retenir des déclarations de Donald Trump, Xi Jinping et Vladimir Poutine lors de leur rencontre historique à Shenzhen",
    "lien": "https://www.lemonde.fr/international/article/2026/11/19/ce-qu-il-faut-retenir-des-declarations-de-donald-trump-xi-jinping-et-vladimir-poutine-lors-de-leur-rencontre-historique-a-shenzhen_6813287_3210.html",
    "source": "Le Monde",
    "date": "2026-11-19T11:34:17+00:00",
-   "extrait": "Les trois dirigeants ont évoqué de nombreux sujets, parmi lesquels la paix mondiale, la guerre en Ukraine, les armes nucléaires, mais aussi l’intelligence artificielle.",
+   "extrait": "Les trois dirigeants ont évoqué différents sujets, parmi lesquels la paix mondiale, la guerre en Ukraine, les armes nucléaires, mais aussi l’intelligence artificielle.",
    "tags": [
     "Politique",
     "Conflits",
@@ -727,6 +928,16 @@
    "zone": "usa"
   },
   {
+   "id": "bac292c3782b",
+   "titre": "Muslims will outnumber Christians worldwide by 2035, report says",
+   "lien": "https://www.npr.org/2026/11/19/nx-s1-6043018/muslims-will-outnumber-christians-worldwide-by-2070-report-says",
+   "source": "NPR",
+   "date": "2026-11-19T10:00:00+00:00",
+   "extrait": "By 2070, the Democratic Republic of the Congo will surpass the United States as the country with the largest total number of Christians.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
    "id": "0dfae8ae7682",
    "titre": "La mairie de Toulouse saisit la justice pour des propos de policiers municipaux \"susceptibles de présenter un caractère raciste, sexiste et homophobe\"",
    "lien": "https://www.franceinfo.fr/societe/justice/la-justice-saisie-pour-des-propos-discriminatoires-de-policiers-municipaux-a-toulouse_8289725.html#xtor=RSS-3-[lestitres]",
@@ -764,11 +975,11 @@
   },
   {
    "id": "0c67588cd35c",
-   "titre": "EN DIRECT, guerre en Ukraine : les émissaires américains se rendent à Berlin pour la réunion de la coalition des volontaires",
+   "titre": "EN DIRECT, guerre en Ukraine : Vladimir Poutine dit avoir invité « des Européens » à Moscou avant leur éventuelle participation aux pourparlers sur l’Ukraine",
    "lien": "https://www.lemonde.fr/international/live/2026/11/19/en-direct-guerre-en-ukraine-etats-unis-chine-et-russie-dans-une-position-unique-pour-reduire-les-arsenaux-nucleaires-affirme-donald-tump_6810982_3210.html",
    "source": "Le Monde",
    "date": "2026-11-19T09:54:07+00:00",
-   "extrait": "Steve Witkoff et Jared Kushner participeront, jeudi, à Berlin, à la réunion de la coalition des volontaires. Ils assisteront également à la conférence de presse qui suivra, en compagnie du…",
+   "extrait": "Une réunion de la coalition des volontaires rassemble, jeudi après-midi, à Berlin, les alliés de l’Ukraine. Les émissaires américains Steve Witkoff et Jared Kushner y participent aux côtés du…",
    "tags": [
     "Politique",
     "Conflits"
@@ -838,7 +1049,7 @@
    "lien": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
    "source": "NPR",
    "date": "2026-11-19T09:44:40+00:00",
-   "extrait": "President Trump, Xi and Putin have met in Shenzhen for a historic trilateral meeting, with Ukraine, Iran and nuclear disarmament on the agenda.",
+   "extrait": "President Trump, China's Xi Jinping and Russia's Vladimir Putin have gathered in Shenzhen, China, for a historic trilateral meeting, with Ukraine, Iran and nuclear disarmament on the agenda.",
    "tags": [
     "Politique",
     "Conflits"
@@ -873,7 +1084,7 @@
    "lien": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-19T09:21:54+00:00",
-   "extrait": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods",
+   "extrait": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods.",
    "tags": [],
    "zone": "monde"
   },
@@ -993,6 +1204,16 @@
    "zone": "france"
   },
   {
+   "id": "4b882ec8dd2e",
+   "titre": "« Dès le début, je crois qu’il y a eu un petit malentendu entre ma cheffe et moi » : Lila, 28 ans, agent artistique",
+   "lien": "https://www.lemonde.fr/campus/article/2026/11/19/des-le-debut-je-crois-qu-il-y-a-eu-un-petit-malentendu-entre-ma-cheffe-et-moi-lila-28-ans-agent-artistique_6813258_4401467.html",
+   "source": "Le Monde",
+   "date": "2026-11-19T09:00:02+00:00",
+   "extrait": "« Mon boss et moi ». Chaque semaine, un jeune actif raconte sa relation, parfois complexe, avec son supérieur hiérarchique et le monde du travail. A 28 ans, Lila raconte l’histoire de son premier…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "81bab43baf6b",
    "titre": "La kényane Peres Jepchirchir, championne du monde du marathon, suspendue trois ans pour dopage à l'EPO",
    "lien": "https://www.franceinfo.fr/sports/athletisme/la-kenyane-peres-jepchirchir-championne-du-monde-du-marathon-suspendue-trois-ans-pour-dopage-a-l-epo_8289608.html#xtor=RSS-3-[lestitres]",
@@ -1001,6 +1222,20 @@
    "extrait": "La championne olympique à Tokyo en 2021, et récente vainqueure du marathon de Sydney cet été, a reconnu les faits, jeudi, a annoncé l'Unité d'intégrité de l'athlétisme (AIU).",
    "tags": [
     "Sport"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "18aca6e60933",
+   "titre": "Un sommet inédit en Chine entre Xi Jinping, Donald Trump et Vladimir Poutine",
+   "lien": "https://www.franceinfo.fr/monde/un-sommet-inedit-en-chine-entre-xi-jinping-donald-trump-et-vladimir-poutine_8289632.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T08:56:13+00:00",
+   "extrait": "Donald Trump, Vladimir Poutine et Xi Jinping se rencontrent en Chine pour une réunion tripartite jeudi 19 novembre. La guerre en Ukraine sera l'un des sujets de ce sommet qui doit aussi parler des…",
+   "tags": [
+    "Politique",
+    "Conflits",
+    "Tech"
    ],
    "zone": "france"
   },
@@ -1157,6 +1392,18 @@
    "zone": "france"
   },
   {
+   "id": "a5fdf11603ca",
+   "titre": "Rencontre entre Trump, Poutine et Xi en Chine : \"On voit bien que ces trois dirigeants ne s'occupent pas des Européens\", analyse Michel Barnier",
+   "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/rencontre-entre-trump-poutine-et-xi-en-chine-on-voit-bien-que-ces-trois-dirigeants-ne-s-occupent-pas-des-europeens-analyse-michel-barnier_8259650.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T07:37:04+00:00",
+   "extrait": "Michel Barnier, ancien Premier ministre, député LR de Paris, était l'invité politique de franceinfo, jeudi 19 novembre. Il a réagi à la rencontre tripartite historique entre Donald Trump, Vladimir…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "ffb2cf38e2c6",
    "titre": "Sommet de Shenzhen : quels enjeux derrière la rencontre entre Trump, Xi et Poutine ?",
    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261119-sommet-de-shenzhen-quels-enjeux-derri%C3%A8re-la-rencontre-entre-trump-xi-et-poutine",
@@ -1179,18 +1426,6 @@
     "Politique"
    ],
    "zone": "france"
-  },
-  {
-   "id": "8944b9bf2f7d",
-   "titre": "Crimean Bridge attacked again, Russia says",
-   "lien": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-19T07:32:06+00:00",
-   "extrait": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
   },
   {
    "id": "a5edb83db66c",
@@ -1292,7 +1527,7 @@
   },
   {
    "id": "c9779ac5811a",
-   "titre": "EN DIRECT, sortie de « GTA VI » : un réalisme qui change les équilibres habituels de la série",
+   "titre": "EN DIRECT, sortie de « GTA VI » : la subversion et la critique de l’Amérique en question",
    "lien": "https://www.lemonde.fr/pixels/live/2026/11/19/en-direct-sortie-de-gta-vi-les-premieres-impressions-et-reactions_6813247_4408996.html",
    "source": "Le Monde",
    "date": "2026-11-19T07:00:05+00:00",
@@ -1585,7 +1820,7 @@
   },
   {
    "id": "b7d063b8807d",
-   "titre": "Introduction en Bourse d’Anthropic : comment la start-up et son modèle Claude ont détrôné OpenAI",
+   "titre": "Anthropic : comment la start-up californienne, qui entre en Bourse aujourd’hui, a détrôné OpenAI",
    "lien": "https://www.lemonde.fr/economie/article/2026/11/19/intelligence-artificielle-comment-anthropic-a-detrone-openai_6813227_3234.html",
    "source": "Le Monde",
    "date": "2026-11-19T04:45:08+00:00",
@@ -3239,240 +3474,6 @@
    "extrait": "BBC Verify analyses footage showing the final moments before part of the bridge fell and videos showing the scale of destruction.",
    "tags": [],
    "zone": "monde"
-  },
-  {
-   "id": "fdee30405002",
-   "titre": "\"Nous allons devoir faire avec eux\" : Mélenchon et le dîner avec les grands patrons",
-   "lien": "https://www.france24.com/fr/info-en-continu/20261118-nous-allons-devoir-faire-avec-eux-m%C3%A9lenchon-et-le-d%C3%AEner-avec-les-grands-patrons",
-   "source": "France 24",
-   "date": "2026-11-18T17:09:31+00:00",
-   "extrait": "C'est une rencontre qui, sur le papier, a de quoi étonner : 13 des plus grands patrons français, dont la plus grosse fortune du pays, Bernard Arnault, ont dîné mardi soir avec Jean-Luc Mélenchon…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "6be705115475",
-   "titre": "\"Les taxes, ils les boufferont\" : Mélenchon et le controversé dîner avec des grands patrons",
-   "lien": "https://www.france24.com/fr/france/20261118-les-taxes-ils-les-boufferont-m%C3%A9lenchon-et-le-controvers%C3%A9-d%C3%AEner-avec-des-grands-patrons",
-   "source": "France 24",
-   "date": "2026-11-18T17:09:31+00:00",
-   "extrait": "Le candidat de la France insoumise à l'élection présidentielle française de 2027, Jean-Luc Mélenchon, a dîné, mardi, avec les 13 plus grands patrons français. Un événement qui étonne pour le leader…",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "6264c7feabcb",
-   "titre": "Jon Tower",
-   "lien": "https://www.cbsnews.com/team/jon-tower/",
-   "source": "CBS News",
-   "date": "2026-11-18T17:08:28+00:00",
-   "extrait": "\"CBS Mornings\" executive producer",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "13b47752161b",
-   "titre": "Madagascar :Un rituel historique pour les reliques du roi Toera, restituées par la France",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261118-madagascar-un-rituel-historique-pour-les-reliques-du-roi-toera-restitu%C3%A9es-par-la-france",
-   "source": "France 24",
-   "date": "2026-11-18T17:07:49+00:00",
-   "extrait": "128 ans après l'assassinat du roi Toera par les troupes coloniales françaises, ses reliques prennent part, pour la première fois, au grand rituel funéraire sakalava. Restituées par la France l'an…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "10546fbececb",
-   "titre": "Impôts : la déclaration papier, un marqueur social pour les ménages pauvres et les personnes âgées",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/18/impots-la-declaration-papier-un-marqueur-social-pour-les-menages-pauvres-et-les-personnes-agees_6813176_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-18T17:00:49+00:00",
-   "extrait": "En quinze ans, la France s’est convertie à la déclaration en ligne, tandis que 300 centres des impôts fermaient, souligne l’Insee. Mais les ménages à faibles ressources et les personnes âgées…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c73c048e2de0",
-   "titre": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-   "lien": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-18T17:00:40+00:00",
-   "extrait": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "24837384f5f0",
-   "titre": "Vladimir Poutine savoure son retour au cœur de la diplomatie mondiale, aux côtés de Donald Trump et Xi Jinping à Shenzhen",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/18/vladimir-poutine-savoure-son-retour-au-c-ur-de-la-diplomatie-mondiale-aux-cotes-de-donald-trump-et-xi-jinping-a-shenzhen_6813174_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-18T17:00:08+00:00",
-   "extrait": "Le président russe doit rencontrer ses homologues chinois et américain, jeudi, en marge du sommet de la Coopération économique pour l’Asie-Pacifique. Alors que le chef du Kremlin est visé par un…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "40b5659e8a61",
-   "titre": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-   "lien": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-18T17:00:04+00:00",
-   "extrait": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "320fd6093786",
-   "titre": "Top Dem sends letters to people close to Trump ahead of probes",
-   "lien": "https://www.cbsnews.com/news/robert-garcia-letters-trump-house-oversight-and-government-reform-committee-investigations/",
-   "source": "CBS News",
-   "date": "2026-11-18T16:59:32+00:00",
-   "extrait": "Rep. Robert Garcia, who is expected to chair the House Oversight Committee in the next Congress, sent letters to 12 people close to President Trump ahead of expected investigations into his second…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "9ce04c2abd88",
-   "titre": "Watch: Markwayne Mullin delivers opening remarks at House hearing on worldwide threats",
-   "lien": "https://www.cbsnews.com/video/full-speech-markwayne-mullin-delivers-opening-remarks-at-house-hearing-on-worldwide-threats/",
-   "source": "CBS News",
-   "date": "2026-11-18T16:58:06+00:00",
-   "extrait": "Homeland Security Secretary Markwayne Mullin testified during a House Homeland Security Committee hearing on worldwide threats.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "4242c79378b2",
-   "titre": "GTA VI : le jeu vidéo sort enfin, et les fans sont prêts à tout",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261118-gta-vi-le-jeu-vid%C3%A9o-sort-enfin-et-les-fans-sont-pr%C3%AAts-%C3%A0-tout",
-   "source": "France 24",
-   "date": "2026-11-18T16:53:29+00:00",
-   "extrait": "Treize années après son prédécesseur, \"GTA VI\" a commencé à déferler sur les consoles des joueurs du monde entier, impatients d'essayer le jeu vidéo le plus cher jamais développé et déjà le mieux…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "8551f7dd506e",
-   "titre": "France : le comté du Fort des Rousses élu meilleure fromage du monde",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261118-france-le-comt%C3%A9-du-fort-des-rousses-%C3%A9lu-meilleure-fromage-du-monde",
-   "source": "France 24",
-   "date": "2026-11-18T16:42:17+00:00",
-   "extrait": "Le meilleur fromage du monde a été désigné hier parmi les 5 000 produits en lice, une la quarantaine de pays en compétition. La médaille d'or a été décernée à un fromage français : le comté du fort…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "d3c0cdef17c9",
-   "titre": "\"Avoir un produit pas trop cher, pour que les gens reviennent\" : dans l'Hérault, une boulangerie s'efforce de maintenir sa baguette au prix symbolique d'un euro",
-   "lien": "https://www.franceinfo.fr/economie/commerce/le-prix-est-stable-depuis-longtemps-comment-une-boulangerie-heraultaise-parvient-a-maintenir-sa-baguette-au-prix-symbolique-d-un-euro_8288498.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T16:41:12+00:00",
-   "extrait": "Combien coûte votre baguette de pain ? La moyenne en France se situe aux alentours de 1,10 euro. La baguette est devenue en quelque sorte un baromètre de l'inflation. On l'achète tous les jours, et…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "cc62060feb8f",
-   "titre": "Affaire Philippe Caubère : le parquet demande le renvoi du comédien en cour criminelle pour viols aggravés et proxénétisme, ainsi que celui de son ex-avocate, Marie Dosé",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/18/affaire-philippe-caubere-le-ministere-public-demande-le-renvoi-en-cour-criminelle-du-comedien-et-de-l-avocate-marie-dose_6813169_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-18T16:40:59+00:00",
-   "extrait": "Trois plaignantes, mineures au moment de leur rencontre avec lui, accusent l’artiste de viols, d’agressions sexuelles, ou encore de proxénétisme. La pénaliste est pour sa part soupçonnée d’avoir…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "54f0671d7750",
-   "titre": "La Seine-Maritime rejoint le Pas-de-Calais et la Somme en vigilance orange pluie-inondation à partir de jeudi matin",
-   "lien": "https://www.franceinfo.fr/environnement/meteo/la-seine-maritime-rejoint-le-pas-de-calais-et-la-somme-en-vigilance-orange-pluie-inondation-a-partir-de-jeudi-matin_8288480.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T16:40:22+00:00",
-   "extrait": "Météo-France avait placé le Pas-de-Calais et la Somme en alerte orange à partir de 23 heures mardi.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "cf44a0b695fb",
-   "titre": "Un homme de 18 ans retrouvé mort en Seine-et-Marne après avoir indiqué où se situe le corps d'une jeune femme",
-   "lien": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/un-homme-de-18-ans-retrouve-mort-en-seine-et-marne-apres-avoir-indique-ou-se-situe-le-corps-d-une-jeune-femme_8288669.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T16:39:31+00:00",
-   "extrait": "Cette jeune femme, âgée de 18 ans, a été retrouvée morte dans la commune de Neufmoutiers-en-Brie dans la nuit de mardi à mercredi.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "2a3301a991c4",
-   "titre": "Un procès requis à l'encontre du comédien Philippe Caubère pour viols et agressions sexuelles aggravés, proxénétisme et corruption de mineure",
-   "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/un-proces-requis-a-l-encontre-du-comedien-philippe-caubere-pour-viols-et-agressions-sexuelles-aggraves-proxenetisme-et-corruption-de-mineure_8288639.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T16:35:12+00:00",
-   "extrait": "L'une de ses victimes, Agathe Pujol, avait raconté que le comédien l'avait \"faite violer\" pendant des années, en postant des annonces sur des sites internet pour des rencontres tarifées.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "619216f90b01",
-   "titre": "JOJ Dakar 2026 : Beenouch, une figure de la scène électro dakaroise",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261118-joj-dakar-2026-beenouch-une-figure-de-la-sc%C3%A8ne-%C3%A9lectro-dakaroise",
-   "source": "France 24",
-   "date": "2026-11-18T16:35:04+00:00",
-   "extrait": "Aux JOJ Dakar 2026, Beenouch était derrière les platines pour la cérémonie d’ouverture. De cette expérience à son parcours de DJ, elle raconte sa carrière dans l’univers musical dakarois. Un…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "d395796c5e56",
-   "titre": "Vif échange à l’Assemblée entre Laurent Nuñez et le député LFI Pierre-Yves Cadalen : « La chienlit que vous organisez, les Français ne vous la pardonneront jamais »",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/18/vif-echange-a-l-assemblee-entre-laurent-nunez-et-le-depute-lfi-pierre-yves-cadalen-la-chienlit-que-vous-organisez-les-francais-ne-vous-la-pardonneront-jamais_6813168_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-18T16:33:50+00:00",
-   "extrait": "Le terme « chienlit » avait été utilisé par Charles de Gaulle pour qualifier les mouvements étudiants de Mai 68. « Vous passez votre temps à inventer un ennemi venu de l’intérieur pour masquer votre…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "73539e88a702",
-   "titre": "Julio Iglesias facing court investigation over alleged sexual offences",
-   "lien": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-18T16:33:16+00:00",
-   "extrait": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "d08385859cba",
-   "titre": "« The Good Daughter », sur HBO Max : polar et traumas dans le Sud américain",
-   "lien": "https://www.lemonde.fr/culture/article/2026/11/18/the-good-daughter-sur-hbo-max-polar-et-traumas-dans-le-sud-americain_6813167_3246.html",
-   "source": "Le Monde",
-   "date": "2026-11-18T16:30:07+00:00",
-   "extrait": "Rose Byrne et Meghann Fahy interprètent deux avocates appelées à défendre une jeune fille accusée de meurtre dans une petite ville de Géorgie.",
-   "tags": [],
-   "zone": "france"
   }
  ]
 }
