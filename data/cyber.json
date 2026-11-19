@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-19T07:05:42+00:00",
+ "maj": "2026-11-19T07:58:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "e8db2e9669ed",
+   "titre": "nginx2root - Votre nginx est-il vraiment exposé ?",
+   "lien": "https://korben.info/nginx2root-faille-http2.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-19T06:57:06+00:00",
+   "extrait": "nginx 1.31.9 et 1.30.7 corrigent cinq failles d'exécution de code à distance, et un PoC est déjà public. Mais c'est HTTP/2 activé, plus que le numéro de version, qui ouvre la porte : voici comment…",
+   "tags": [
+    "Faille"
+   ]
+  },
   {
    "id": "32675c136bd6",
    "titre": "Ubuntu - Les futurs correctifs seront écrits par une IA",
@@ -3387,17 +3398,6 @@
    "extrait": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
    "tags": [
     "Fuite de données"
-   ]
-  },
-  {
-   "id": "19df3c9cef04",
-   "titre": "Cybersécurité : la CNIL sanctionne dix collectivités",
-   "lien": "https://www.zataz.com/cybersecurite-la-cnil-sanctionne-dix-collectivites/",
-   "source": "Zataz",
-   "date": "2026-11-09T21:50:33+00:00",
-   "extrait": "La CNIL sanctionne dix collectivités pour des failles de cybersécurité. Amendes, RGPD, accès sensibles et NIS2.",
-   "tags": [
-    "Faille"
    ]
   }
  ]
