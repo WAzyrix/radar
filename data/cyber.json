@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-18T23:05:41+00:00",
+ "maj": "2026-11-19T00:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "b326b8531a92",
+   "titre": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
+   "lien": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
+   "source": "BleepingComputer",
+   "date": "2026-11-18T23:08:33+00:00",
+   "extrait": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28…",
+   "tags": [
+    "Ransomware"
+   ]
+  },
   {
    "id": "ede0adf4c578",
    "titre": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
@@ -3383,17 +3394,6 @@
    "source": "BleepingComputer",
    "date": "2026-11-09T21:22:31+00:00",
    "extrait": "York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]",
-   "tags": [
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "e89c57c6d564",
-   "titre": "France blames Iranian hackers for supermarket attacks that sparked fires",
-   "lien": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
-   "source": "BleepingComputer",
-   "date": "2026-11-09T18:32:42+00:00",
-   "extrait": "France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food…",
    "tags": [
     "Fuite de données"
    ]
