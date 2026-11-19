@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-19T12:05:46+00:00",
+ "maj": "2026-11-19T13:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "193208e89084",
+   "titre": "Everything Is a Web Application, Including Your Firewall",
+   "lien": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
+   "source": "The Hacker News",
+   "date": "2026-11-19T11:52:23+00:00",
+   "extrait": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and…",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
+  },
   {
    "id": "937f390d6b18",
    "titre": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
@@ -3383,17 +3395,6 @@
    "source": "CERT-FR",
    "date": "2026-11-10T00:00:00+00:00",
    "extrait": "Une vulnérabilité a été découverte dans Atlassian Confluence Data Center. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "4d53ab11a08a",
-   "titre": "Multiples vulnérabilités dans Roundcube (10 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1489/",
-   "source": "CERT-FR",
-   "date": "2026-11-10T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Roundcube. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une falsification de requêtes côté…",
    "tags": [
     "Faille"
    ]
