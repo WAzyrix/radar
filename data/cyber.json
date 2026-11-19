@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-19T14:05:41+00:00",
+ "maj": "2026-11-19T15:05:46+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,29 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "7cc3b724b66a",
+   "titre": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
+   "lien": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
+   "source": "BleepingComputer",
+   "date": "2026-11-19T14:57:24+00:00",
+   "extrait": "Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained…",
+   "tags": [
+    "Faille",
+    "Linux"
+   ]
+  },
+  {
+   "id": "20ded91461ea",
+   "titre": "Arnaque au LEGO Formule 1 sur TikTok",
+   "lien": "https://www.zataz.com/arnaque-au-lego-formule-1-sur-tiktok/",
+   "source": "Zataz",
+   "date": "2026-11-19T14:36:30+00:00",
+   "extrait": "Une publicité TikTok promet un LEGO Formule 1 pour 2,85 €. Découvrez le piège et réagissez si votre carte est exposée.",
+   "tags": [
+    "Malware"
+   ]
+  },
   {
    "id": "e4dbb4a47c13",
    "titre": "Élise Lucet, appât d’une arnaque crypto sur Google Ads",
@@ -3377,26 +3400,6 @@
    "tags": [
     "CVE",
     "Faille"
-   ]
-  },
-  {
-   "id": "51ffc9a689bb",
-   "titre": "Nylon - Le VPN WireGuard qui trouve seul son chemin",
-   "lien": "https://korben.info/nylon-vpn-mesh-wireguard.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-11-10T06:21:51+00:00",
-   "extrait": "Nylon relie vos machines en WireGuard sans serveur de coordination : chaque nœud relaie pour les autres et le trafic suit la route de plus faible latence. À condition d'avoir un bout joignable par…",
-   "tags": []
-  },
-  {
-   "id": "071f266d6e16",
-   "titre": "DockEcho - Un Dock sur chacun de vos écrans Mac",
-   "lien": "https://korben.info/dockecho-dock-macos-chaque-ecran.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-11-10T05:44:55+00:00",
-   "extrait": "DockEcho pose une copie synchronisée du Dock de macOS sur chaque écran externe, avec vos réglages. Open source, sous licence MIT, à compiler soi-même.",
-   "tags": [
-    "Outil"
    ]
   }
  ]
