@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-19T20:05:40+00:00",
+ "maj": "2026-11-19T20:59:44+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,17 +22,144 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "5f45813136ea",
+   "titre": "Anthropic shares jump in Nasdaq trading debut after record IPO",
+   "lien": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/",
+   "source": "CBS News",
+   "date": "2026-11-19T20:56:07+00:00",
+   "extrait": "Anthropic raised a record $81.3 billion, catapulting it past SpaceX, which raised $75 billion​ when it went public in June.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "450708e368f7",
+   "titre": "Dow falls 1,000 points during busy day on Wall Street",
+   "lien": "https://www.cbsnews.com/video/dow-falls-1000-points-during-busy-day-on-wall-street/",
+   "source": "CBS News",
+   "date": "2026-11-19T20:44:38+00:00",
+   "extrait": "The Dow on Thursday fell more than 1,000 points during a very busy day for tech stocks amid Anthropic's IPO. CBS News' Jo King Kent has more.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "a826e2bee96d",
+   "titre": "Iowa residents asked to evacuate Friday ahead of Army detonation",
+   "lien": "https://www.cbsnews.com/news/army-lead-azide-detonation-iowa-toxic-dust-plume/",
+   "source": "CBS News",
+   "date": "2026-11-19T20:44:22+00:00",
+   "extrait": "The Army plans to detonate 68 barrels of degraded lead azide in Middletown, Iowa, at noon Friday. Forecasts show a dust plume moving north and staying west of the Chicago area, but sampling will…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "bb5b77aed881",
+   "titre": "Le président du Sénat Gérard Larcher demande à changer les dates de l'élection présidentielle",
+   "lien": "https://www.franceinfo.fr/elections/le-president-du-senat-gerard-larcher-demande-a-changer-les-dates-de-l-election-presidentielle_8290685.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T20:33:56+00:00",
+   "extrait": "Les dates entérinées le 1er juillet par l'exécutif prévoient un premier tour le 18 avril, et un second tour le 2 mai.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "f5232f4291b7",
+   "titre": "Un préfet soupçonné d'avoir renseigné le Rassemblement national sur des affaires en cours",
+   "lien": "https://www.franceinfo.fr/faits-divers/un-prefet-soupconne-d-avoir-renseigne-le-rassemblement-national-sur-des-affaires-en-cours_8290550.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T20:31:40+00:00",
+   "extrait": "Le parquet de Paris a ouvert une information judiciaire pour violation du secret professionnel et violation du secret de l'enquête. Les soupçons s'orientent vers Hugues Moutouh, préfet du Loiret et…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "7ab40838ae16",
    "titre": "Iran may be working on biological weapons, Trump says",
    "lien": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
    "source": "CBS News",
-   "date": "2026-11-19T20:03:19+00:00",
+   "date": "2026-11-19T20:31:02+00:00",
    "extrait": "President Trump told Fox News there are indications Iran may be working on biological or chemical weapons as the war drags on toward its ninth month.",
    "tags": [
     "Politique",
     "Conflits"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "52000d74bc14",
+   "titre": "South Florida severe weather and flooding live updates",
+   "lien": "https://www.cbsnews.com/live-updates/south-florida-flooding-live-updates-heavy-rain-broward-miami-dade/",
+   "source": "CBS News",
+   "date": "2026-11-19T20:26:17+00:00",
+   "extrait": "After more than 15 inches of rain flooded parts of South Florida, a flood watch has been extended into Friday morning as schools announce reopening plans.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "c0abf4458d94",
+   "titre": "\"GTA VI\" : prouesses techniques, budget, ventes... le jeu vidéo de tous les records",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20261119-gta-vi-prouesses-techniques-budget-ventes-le-jeu-vid%C3%A9o-de-tous-les-records",
+   "source": "France 24",
+   "date": "2026-11-19T20:26:06+00:00",
+   "extrait": "Treize ans d'attente, un budget estimé à plus d'un milliard de dollars et des ventes déjà vertigineuses… \"GTA VI\" affole tous les compteurs. Mais ce nouvel épisode du célèbre jeu vidéo est-il à la…",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "7d4c84ebe563",
+   "titre": "En Seine-Maritime, le conducteur suspecté d'avoir mortellement percuté une cycliste de 17 ans, fin octobre, remis en liberté",
+   "lien": "https://www.franceinfo.fr/faits-divers/en-seine-maritime-le-conducteur-suspecte-d-avoir-mortellement-percute-une-cycliste-de-17-ans-fin-octobre-remis-en-liberte_8290670.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T20:18:19+00:00",
+   "extrait": "Le conducteur, retrouvé et arrêté le 30 octobre, conteste être l'auteur de l'accident. Début novembre, il avait expliqué que les dégâts constatés sur son véhicule avaient été causés par un poteau…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "d3163a54fe14",
+   "titre": "\"Je n'ai pas convaincu les Français que j'étais en capacité d'apporter un réel changement\", déclare Gabriel Attal dans \"L'Heure de vérité\"",
+   "lien": "https://www.franceinfo.fr/replay-magazine/france-2/l-heure-de-verite/direct-presidentielle-2027-gabriel-attal-est-l-invite-de-l-heure-de-verite-a-partir-de-20h40_8288690.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T20:11:04+00:00",
+   "extrait": "Le candidat de Renaissance à la présidentielle est l'invité de l'émission politique de France 2.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "11685b3b01c1",
+   "titre": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+   "lien": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-19T20:07:02+00:00",
+   "extrait": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+   "tags": [
+    "Conflits",
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "67a35bf31abd",
+   "titre": "Rohingya : un arrêt historique de la Cour de justice internationale reconnaît la Birmanie coupable de génocide",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/19/rohingya-un-arret-historique-de-la-cour-de-justice-internationale-reconnait-la-birmanie-coupable-de-genocide_6813377_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-19T20:06:18+00:00",
+   "extrait": "L’organe judiciaire de l’ONU a considéré que le pays a violé six fois la convention sur le génocide de 1948. C’est la première fois de l’histoire qu’un Etat est condamné pour le « crime des crimes…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
   },
   {
    "id": "77207d8a47b4",
@@ -73,16 +200,6 @@
    "extrait": "Some employees locked in their time off months ago, so they're free to start playing Grand Theft Auto 6 as soon as it launches on Nov. 19.",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "d3163a54fe14",
-   "titre": "\"Je n'ai pas convaincu les Français que j'étais en capacité d'apporter un réel changement\", déclare Gabriel Attal dans \"L'Heure de vérité\"",
-   "lien": "https://www.franceinfo.fr/replay-magazine/france-2/l-heure-de-verite/direct-presidentielle-2027-gabriel-attal-est-l-invite-de-l-heure-de-verite-a-partir-de-20h40_8288690.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T19:52:50+00:00",
-   "extrait": "Le candidat de Renaissance à la présidentielle est l'invité de l'émission politique de France 2.",
-   "tags": [],
-   "zone": "france"
   },
   {
    "id": "288d2f43170c",
@@ -148,18 +265,6 @@
    "zone": "france"
   },
   {
-   "id": "5f45813136ea",
-   "titre": "Anthropic shares jump in Nasdaq trading debut after record IPO",
-   "lien": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/",
-   "source": "CBS News",
-   "date": "2026-11-19T19:30:11+00:00",
-   "extrait": "Anthropic raised a record $81.3 billion, catapulting it past SpaceX, which raised $75 billion​ when it went public in June.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "82e106561f95",
    "titre": "Présidentielle 2027 : les créateurs de contenu auront des obligations de pluralisme dans leur traitement de l’élection",
    "lien": "https://www.lemonde.fr/economie/article/2026/11/19/presidentielle-2027-les-createurs-de-contenu-auront-des-obligations-de-pluralisme-dans-leur-traitement-de-l-election_6813376_3234.html",
@@ -215,18 +320,6 @@
     "Tech"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "52000d74bc14",
-   "titre": "South Florida severe weather and flooding live updates",
-   "lien": "https://www.cbsnews.com/live-updates/south-florida-flooding-live-updates-heavy-rain-broward-miami-dade/",
-   "source": "CBS News",
-   "date": "2026-11-19T19:23:29+00:00",
-   "extrait": "After more than 15 inches of rain flooded parts of South Florida, schools remain closed and roads underwater Thursday as another round of heavy rain threatens to worsen conditions.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "usa"
   },
   {
    "id": "7ff01bc5505b",
@@ -331,18 +424,6 @@
    "zone": "france"
   },
   {
-   "id": "f5232f4291b7",
-   "titre": "Un préfet soupçonné d'avoir renseigné le Rassemblement national sur des affaires en cours",
-   "lien": "https://www.franceinfo.fr/faits-divers/un-prefet-soupconne-d-avoir-renseigne-le-rassemblement-national-sur-des-affaires-en-cours_8290550.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T18:46:06+00:00",
-   "extrait": "Le parquet de Paris a ouvert une information judiciaire pour violation du secret professionnel et violation du secret de l'enquête. Les soupçons s'orientent vers Hugues Moutouh, préfet du Loiret et…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "3e324333e44d",
    "titre": "Le Parlement prolonge pour deux ans l’encadrement des loyers, malgré l’obstacle de l’alliance RN-UDR à l’Assemblée",
    "lien": "https://www.lemonde.fr/politique/article/2026/11/19/le-parlement-prolonge-pour-deux-ans-l-encadrement-des-loyers-malgre-l-obstacle-de-l-alliance-rn-udr_6813356_823449.html",
@@ -370,7 +451,7 @@
    "titre": "EN DIRECT, guerre en Ukraine : les Européens réaffirment leur soutien à Kiev et évoquent leur participation à de futures négociations avec les Russes et les Américains",
    "lien": "https://www.lemonde.fr/international/live/2026/11/19/en-direct-guerre-en-ukraine-les-europeens-reaffirment-leur-soutien-a-kiev-et-evoquent-leur-participation-a-de-futures-negociations-avec-les-russes-et-les-americains_6810982_3210.html",
    "source": "Le Monde",
-   "date": "2026-11-19T18:40:13+00:00",
+   "date": "2026-11-19T18:40:11+00:00",
    "extrait": "A l’issue d’une ‌réunion ‌des membres de la coalition des volontaires, Emmanuel Macron a avancé l’idée de « rouvrir la question de l’adhésion à l’OTAN ». L’émissaire américain a déclaré que les…",
    "tags": [
     "Politique",
@@ -437,6 +518,18 @@
    "source": "France 24",
    "date": "2026-11-19T18:14:26+00:00",
    "extrait": "L'accusation a requis jeudi entre quatre et six ans de prison ferme contre les trois policiers ayant passé à tabac le producteur de musique noir Michel Zecler en 2020, et demandé que soit retenue la…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "84f9c47d88a1",
+   "titre": "Au procès Zecler, prison ferme requise contre les policiers, qui se défendent de tout racisme",
+   "lien": "https://www.france24.com/fr/france/20261119-au-proc%C3%A8s-zecler-prison-ferme-requise-contre-les-policiers-qui-se-d%C3%A9fendent-de-tout-racisme",
+   "source": "France 24",
+   "date": "2026-11-19T18:14:26+00:00",
+   "extrait": "L'accusation a requis jeudi entre quatre et six ans de prison ferme contre les trois policiers ayant passé à tabac le producteur de musique noir Michel Zecler en 2020. La défense reconnait des…",
    "tags": [
     "Justice"
    ],
@@ -669,16 +762,6 @@
    "zone": "france"
   },
   {
-   "id": "a826e2bee96d",
-   "titre": "Iowa residents asked to evacuate Friday ahead of Army detonation",
-   "lien": "https://www.cbsnews.com/news/army-lead-azide-detonation-iowa-toxic-dust-plume/",
-   "source": "CBS News",
-   "date": "2026-11-19T17:06:53+00:00",
-   "extrait": "The Army plans to detonate 68 barrels of degraded lead azide in Middletown, Iowa, at noon Friday. Forecasts show a dust plume moving north and staying west of the Chicago area, but sampling will…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "c3261a1d086e",
    "titre": "Israeli military completes ground operation in Gaza beyond Yellow Line",
    "lien": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
@@ -735,19 +818,6 @@
     "Climat"
    ],
    "zone": "france"
-  },
-  {
-   "id": "11685b3b01c1",
-   "titre": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-   "lien": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-19T16:55:57+00:00",
-   "extrait": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
-   "tags": [
-    "Conflits",
-    "Justice"
-   ],
-   "zone": "monde"
   },
   {
    "id": "6860a529e05a",
@@ -1454,7 +1524,7 @@
    "lien": "https://www.lemonde.fr/societe/article/2026/11/19/une-enquete-ouverte-sur-des-fuites-en-provenance-du-ministere-de-l-interieur-vers-le-rn_6813316_3224.html",
    "source": "Le Monde",
    "date": "2026-11-19T14:31:38+00:00",
-   "extrait": "Une information judiciaire a été ouverte pour « violation du secret professionnel », « violation du secret de l’enquête » et « recel » de ces délits. La justice soupçonne des fuites d’éléments liés…",
+   "extrait": "Selon les informations du « Monde », une information judiciaire a été ouverte pour « violation du secret professionnel », « violation du secret de l’enquête » et « recel » de ces délits. La justice…",
    "tags": [
     "Politique",
     "Justice"
@@ -2152,6 +2222,18 @@
    "date": "2026-11-19T11:20:42+00:00",
    "extrait": "As Democrats prepare to take control of the House, incoming majority leader Katherine Clark discusses the party's ambitious agenda and divisions within its ranks.",
    "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "79caf38409df",
+   "titre": "Top House Democrat questions what Trump accomplished in Xi-Putin summit",
+   "lien": "https://www.npr.org/2026/11/19/nx-s1-6046487/gregory-meeks-trump-xi-putin-summit",
+   "source": "NPR",
+   "date": "2026-11-19T11:20:37+00:00",
+   "extrait": "Rep. Gregory Meeks raises concerns about U.S. alliances after Trump's summit with Xi and Putin. He also discusses Chinese espionage amid the Nvidia scandal.",
+   "tags": [
+    "Politique"
+   ],
    "zone": "usa"
   },
   {
@@ -3378,92 +3460,6 @@
    "extrait": "L’Agence internationale de l’énergie devait publier son rapport annuel, jeudi 19 novembre. Le directeur exécutif de l’organisation souligne, dans un entretien au « Monde », comment la guerre au…",
    "tags": [
     "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "3a42e9135665",
-   "titre": "Aux Etats-Unis, Wall Street met fin à l’euphorie généralisée sur l’IA et cherche à trier les gagnants et les perdants de cette révolution",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/19/aux-etats-unis-wall-street-met-fin-a-l-euphorie-generalisee-sur-l-ia-et-cherche-a-trier-les-gagnants-et-les-perdants-de-cette-revolution_6813232_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-19T05:00:17+00:00",
-   "extrait": "La dégringolade en Bourse de Nvidia illustre les reculs de l’ensemble du secteur après six mois de croissance à deux chiffres, les investisseurs s’interrogeant désormais sur le modèle économique et…",
-   "tags": [
-    "Économie",
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "0db18fe58dfe",
-   "titre": "Najat Vallaud-Belkacem : « L’attentat de Trappes se répétera si la haine raciste ne suscite plus l’indignation quand elle se couvre de sang »",
-   "lien": "https://www.lemonde.fr/idees/article/2026/11/19/najat-vallaud-belkacem-l-attentat-de-trappes-se-repetera-si-la-haine-raciste-ne-suscite-plus-l-indignation-quand-elle-se-couvre-de-sang_6813233_3232.html",
-   "source": "Le Monde",
-   "date": "2026-11-19T05:00:17+00:00",
-   "extrait": "La présidente de France terre d’asile déplore, dans une tribune au « Monde », que l’attaque terroriste d’extrême droite n’ait donné lieu à aucune introspection des politiques ni des médias, et…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "dc4479a9307a",
-   "titre": "Un demi-milliard de dollars dépensé pour les midterms 2026 : Elon Musk avoue se sentir « un peu idiot » après la victoire écrasante des démocrates",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/19/un-demi-milliard-de-dollars-depense-pour-les-midterms-2026-elon-musk-avoue-se-sentir-un-peu-idiot-apres-la-victoire-ecrasante-des-democrates_6813228_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-19T04:52:01+00:00",
-   "extrait": "Le multimilliardaire a notamment déboursé plus de 220 millions de dollars en faveur du sénateur sortant du Texas, Ken Paxton, finalement battu. Il a expliqué que son engagement avait pour objectif «…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "b7d063b8807d",
-   "titre": "Anthropic : comment la start-up californienne, qui entre en Bourse aujourd’hui, a détrôné OpenAI",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/19/intelligence-artificielle-comment-anthropic-a-detrone-openai_6813227_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-19T04:45:08+00:00",
-   "extrait": "L’entrée en Bourse de la start-up californienne, attendue jeudi 19 novembre, doit couronner le succès d’une entreprise parvenue à s’imposer en dépassant son grand rival OpenAI, précurseur du marché…",
-   "tags": [
-    "Économie",
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "5f8bc95c6410",
-   "titre": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
-   "lien": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-19T04:42:52+00:00",
-   "extrait": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "08a7543c640e",
-   "titre": "Qui est Fire Point, l'entreprise ukrainienne dont les drones et missiles ont joué un rôle dans l'attaque contre le pont de Crimée ?",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/qui-est-fire-point-l-entreprise-ukrainienne-dont-les-drones-et-missiles-ont-joue-un-role-dans-l-attaque-contre-le-pont-de-crimee_8287982.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T04:34:31+00:00",
-   "extrait": "Cette opération complexe, minutieusement préparée pendant des semaines, a nécessité l'emploi d'une douzaine d'armes différentes. La firme, fer de lance de l'industrie ukrainienne de la défense, a…",
-   "tags": [
-    "Économie",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "6693d4a090b6",
-   "titre": "Microsoft, des aéroports, la banque JPMorgan, Apple… Comment les Etats-Unis ont été touchés par des pannes informatiques en série",
-   "lien": "https://www.franceinfo.fr/internet/panne-informatique-mondiale/microsoft-des-aeroports-la-banque-jpmorgan-apple-comment-les-etats-unis-ont-ete-touches-par-des-pannes-informatiques-en-serie_8287973.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T04:33:38+00:00",
-   "extrait": "Depuis une semaine, des pannes informatiques d'ampleur se répètent outre-Atlantique, avec des répercussions pour des millions d'utilisateurs dans le monde entier. Bien que le gouvernement américain…",
-   "tags": [
-    "Politique",
-    "Tech"
    ],
    "zone": "france"
   }
