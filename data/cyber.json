@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-19T16:05:40+00:00",
+ "maj": "2026-11-19T17:05:42+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,44 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "837d4e08164f",
+   "titre": "Un SMS blaster aurait perturbé 10 000 mobiles",
+   "lien": "https://www.zataz.com/un-sms-blaster-aurait-perturbe-10-000-mobiles/",
+   "source": "Zataz",
+   "date": "2026-11-19T16:43:51+00:00",
+   "extrait": "À Tokyo, un suspect est arrêté après une opération de SMS blaster ayant perturbé plus de 10 000 téléphones.",
+   "tags": []
+  },
+  {
+   "id": "dba6ef721cb3",
+   "titre": "Un SMS blaster découvert dans une voiture",
+   "lien": "https://www.zataz.com/un-sms-blaster-decouvert-dans-une-voiture/",
+   "source": "Zataz",
+   "date": "2026-11-19T16:33:54+00:00",
+   "extrait": "Un SMS blaster découvert dans une voiture est associé à neuf victimes et à des SMS frauduleux se faisant passer pour la police.",
+   "tags": []
+  },
+  {
+   "id": "c5e7bc1c4238",
+   "titre": "PHP security updates fix 18 flaws, including critical RCE bugs",
+   "lien": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
+   "source": "BleepingComputer",
+   "date": "2026-11-19T16:28:23+00:00",
+   "extrait": "The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "cb9bb31c4ca7",
+   "titre": "Luxor : des récompenses Bitcoin détournées",
+   "lien": "https://www.zataz.com/luxor-des-recompenses-bitcoin-detournees/",
+   "source": "Zataz",
+   "date": "2026-11-19T16:19:45+00:00",
+   "extrait": "Luxor confirme le détournement de puissance de calcul Bitcoin après une compromission de sa plateforme Commander.",
+   "tags": []
+  },
   {
    "id": "2d64500f05e7",
    "titre": "Infoblox : des configurations réseau dérobées",
@@ -3337,52 +3375,6 @@
    "tags": [
     "Faille",
     "Windows"
-   ]
-  },
-  {
-   "id": "33bc3cf0f92e",
-   "titre": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
-   "lien": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
-   "source": "BleepingComputer",
-   "date": "2026-11-10T18:33:26+00:00",
-   "extrait": "Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
-   "tags": [
-    "Faille",
-    "Windows"
-   ]
-  },
-  {
-   "id": "9398616ade4d",
-   "titre": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
-   "lien": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
-   "source": "The Hacker News",
-   "date": "2026-11-10T18:12:21+00:00",
-   "extrait": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild. The authentication bypass flaw, which does…",
-   "tags": [
-    "Faille",
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "3ac35ff64736",
-   "titre": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
-   "lien": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
-   "source": "The Hacker News",
-   "date": "2026-11-10T17:43:23+00:00",
-   "extrait": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military…",
-   "tags": [
-    "Malware"
-   ]
-  },
-  {
-   "id": "82b5e1a648c0",
-   "titre": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
-   "lien": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
-   "source": "BleepingComputer",
-   "date": "2026-11-10T16:17:16+00:00",
-   "extrait": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts…",
-   "tags": [
-    "Faille"
    ]
   }
  ]
