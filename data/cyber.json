@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-19T08:05:39+00:00",
+ "maj": "2026-11-19T09:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,28 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "ef3cecb6fd50",
+   "titre": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
+   "lien": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
+   "source": "The Hacker News",
+   "date": "2026-11-19T08:42:11+00:00",
+   "extrait": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "3d3c58459056",
+   "titre": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
+   "lien": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
+   "source": "The Hacker News",
+   "date": "2026-11-19T08:14:00+00:00",
+   "extrait": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in…",
+   "tags": [
+    "Faille"
+   ]
+  },
   {
    "id": "e8db2e9669ed",
    "titre": "nginx2root - Votre nginx est-il vraiment exposé ?",
@@ -3376,28 +3398,6 @@
    "tags": [
     "CVE",
     "Faille"
-   ]
-  },
-  {
-   "id": "48d9ef3d98d6",
-   "titre": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
-   "lien": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
-   "source": "BleepingComputer",
-   "date": "2026-11-09T23:52:12+00:00",
-   "extrait": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee…",
-   "tags": [
-    "Ransomware"
-   ]
-  },
-  {
-   "id": "fb65eccd7583",
-   "titre": "SEGA newsletter data breach exposes 2.2 million email addresses",
-   "lien": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
-   "source": "BleepingComputer",
-   "date": "2026-11-09T22:09:33+00:00",
-   "extrait": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
-   "tags": [
-    "Fuite de données"
    ]
   }
  ]
