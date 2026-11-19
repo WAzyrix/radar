@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-19T02:05:39+00:00",
+ "maj": "2026-11-19T03:05:44+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,16 +22,111 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "d412c50db1b7",
+   "titre": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+   "lien": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-19T02:59:06+00:00",
+   "extrait": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "96272655b00e",
-   "titre": "Xi speaks at APEC summit ahead of rare meeting with Trump and Putin",
+   "titre": "Trump and Xi speak at APEC summit ahead of rare meeting with Putin",
    "lien": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/",
    "source": "CBS News",
-   "date": "2026-11-19T02:04:29+00:00",
-   "extrait": "Chinese President Xi Jinping and President Trump are expected to speak at a summit in China, ahead of a face-to-face meeting between Mr. Trump, Xi and Russian President Vladimir Putin.",
+   "date": "2026-11-19T02:53:03+00:00",
+   "extrait": "President Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are expected to hold a rare face-to-face meeting in China.",
    "tags": [
     "Politique"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "ddc060ef65b0",
+   "titre": "How Democrats won in Alaska and Kansas during the 2026 midterms",
+   "lien": "https://www.cbsnews.com/video/how-democrats-won-in-alaska-and-kansas-during-the-2026-midterms/",
+   "source": "CBS News",
+   "date": "2026-11-19T02:49:49+00:00",
+   "extrait": "The new Democratic-led Congress is taking shape following the blue wave in the midterm elections. CBS News' Anthony Salvanto takes a look at how they pulled off some of their victories.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "9623a6948b76",
+   "titre": "Musk says he's \"not MAGA,\" feels \"foolish\" about midterm spending",
+   "lien": "https://www.cbsnews.com/news/elon-musk-not-maga-midterm-spending-trump/",
+   "source": "CBS News",
+   "date": "2026-11-19T02:42:33+00:00",
+   "extrait": "After opening his wallet to assist GOP candidates in the 2026 midterms, billionaire Elon Musk said Wednesday he feels \"pretty foolish\" about spending hundreds of millions of dollars in the race.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "a7ea7e64cb37",
+   "titre": "Inside the world of China's humanoid robots",
+   "lien": "https://www.cbsnews.com/video/inside-the-world-of-chinas-humanoid-robots/",
+   "source": "CBS News",
+   "date": "2026-11-19T02:36:49+00:00",
+   "extrait": "Tony Dokoupil takes a look at China's advanced humanoid robots. Last year, China installed more industrial robots than the rest of the world combined.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "62236f691cdf",
+   "titre": "Trump summit with Xi and Putin comes at time of uncertainty",
+   "lien": "https://www.cbsnews.com/video/trump-summit-with-xi-and-putin-comes-at-time-of-uncertainty/",
+   "source": "CBS News",
+   "date": "2026-11-19T02:32:44+00:00",
+   "extrait": "President Trump's meeting with China's Xi Jinping and Russia's Vladimir Putin comes as the U.S. and China are battling for dominancy in the AI chip race. It also comes as Mr. Trump works to broker a…",
+   "tags": [
+    "Politique",
+    "Conflits",
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "7ab40838ae16",
+   "titre": "Iran ramps up attacks on Gulf countries after U.S. strikes",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
+   "source": "CBS News",
+   "date": "2026-11-19T02:27:33+00:00",
+   "extrait": "America's Persian Gulf allies and oil tankers are under fire as Iran appears to lash out following U.S. strikes on a key island in the Strait of Hormuz.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "f5cbe20bb4a2",
+   "titre": "Shenzhen : une rencontre tripartite \"pas comparable avec Yalta\", selon Pascal Boniface",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261119-shenzhen-une-rencontre-tripartite-pas-comparable-avec-yalta-selon-pascal-boniface",
+   "source": "France 24",
+   "date": "2026-11-19T02:27:24+00:00",
+   "extrait": "Pour la première fois, Xi Jinping, Vladimir Poutine et Donald Trump seront ensemble. La comparaison avec Yalta est évidente : \"c'est le fait que ce sont les trois grands leaders qui se partagent le…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "c6d87bb33ae7",
+   "titre": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+   "lien": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-19T02:20:15+00:00",
+   "extrait": "Anthropic started just five years ago and is now one of the biggest names in artificial intelligence.",
+   "tags": [
+    "Économie",
+    "Tech"
+   ],
+   "zone": "monde"
   },
   {
    "id": "819c89dc948d",
@@ -180,18 +275,6 @@
    "extrait": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
    "tags": [],
    "zone": "monde"
-  },
-  {
-   "id": "7ab40838ae16",
-   "titre": "Iran ramps up attacks on Gulf countries after U.S. strikes",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
-   "source": "CBS News",
-   "date": "2026-11-19T00:46:41+00:00",
-   "extrait": "America's Persian Gulf allies and oil tankers are under fire as Iran appears to lash out following U.S. strikes on a key island in the Strait of Hormuz.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
   },
   {
    "id": "1e0689dfba5b",
@@ -376,18 +459,6 @@
     "Tech"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "c6d87bb33ae7",
-   "titre": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
-   "lien": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-18T23:44:27+00:00",
-   "extrait": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "monde"
   },
   {
    "id": "b7ed276b63ab",
@@ -708,6 +779,16 @@
    "zone": "usa"
   },
   {
+   "id": "ebcc70dfdbd7",
+   "titre": "Democratic Black women take over almost all state agencies in Georgia soon",
+   "lien": "https://www.npr.org/2026/11/18/nx-s1-6043103/democratic-black-women-take-over-almost-all-state-agencies-in-georgia-soon",
+   "source": "NPR",
+   "date": "2026-11-18T21:51:33+00:00",
+   "extrait": "In January, most of Georgia's state agencies will be headed by Black women who were all elected in the 2026 midterms.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
    "id": "845734dc495c",
    "titre": "Cornyn blocks Trump's nominee to federal district court in Texas",
    "lien": "https://www.cbsnews.com/news/john-cornyn-trump-elliot-gaiser-justice-department-federal-judge/",
@@ -855,7 +936,7 @@
    "titre": "Les grands patrons entre séduction et effroi : le récit d’un dîner mémorable avec Jean-Luc Mélenchon",
    "lien": "https://www.lemonde.fr/economie/article/2026/11/18/les-grands-patrons-entre-seduction-et-effroi-le-recit-d-un-diner-memorable-avec-jean-luc-melenchon_6813208_3234.html",
    "source": "Le Monde",
-   "date": "2026-11-18T20:24:02+00:00",
+   "date": "2026-11-18T20:24:01+00:00",
    "extrait": "Le leader de La France insoumise a débattu deux heures durant, mardi 17 novembre, avec une douzaine de ténors du CAC 40. L’occasion de mettre en avant son projet d’économie collectiviste et son…",
    "tags": [
     "Économie"
@@ -3343,86 +3424,6 @@
    "extrait": "Il faut à présent vingt-quatre heures aux ondes radio pour atteindre la mythique sonde interplanétaire de la NASA. Objet humain le plus lointain de notre planète, la sonde devrait mettre trente…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "de9f69c5a97c",
-   "titre": "Plus de 140 000 euros réclamés, la SNCF très remontée… Ce que l'on sait de la condamnation d'un homme pour l'agression d'un contrôleur à Aix-en-Provence",
-   "lien": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/plus-de-140-000-euros-reclames-la-sncf-tres-remontee-ce-que-l-on-sait-de-la-condamnation-d-un-homme-pour-l-agression-d-un-controleur-a-aix-en-provence-3451233.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T11:23:23+00:00",
-   "extrait": "Le voyageur originaire d’Istres a été condamné en 2021 pour l’agression physique d’un agent. Depuis, il nie certains faits reprochés et assure devoir vendre sa maison pour payer ses dettes. Agacée…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "46636320fe4b",
-   "titre": "Bancroft sandpaper claims heap pressure on Cummins",
-   "lien": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-18T11:12:46+00:00",
-   "extrait": "Cameron Bancroft claims the whole Australia team knew about the 2018 sandpaper plot in explosive revelations that will heap pressure on current captain Pat Cummins.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "1486f1e3f298",
-   "titre": "L'Irak condamne six autres Français à la perpétuité pour appartenance à l'organisation jihadiste EI",
-   "lien": "https://www.france24.com/fr/moyen-orient/20261118-irak-condamne-six-autres-fran%C3%A7ais-%C3%A0-la-perp%C3%A9tuit%C3%A9-pour-appartenance-organisation-terroriste-etat-islamique",
-   "source": "France 24",
-   "date": "2026-11-18T11:10:44+00:00",
-   "extrait": "Six nouveaux Français ont été condamnés mercredi à la prison à perpétuité par un tribunal irakien pour appartenance au ​groupe ‌État islamique, dans le cadre du procès de 47 islamistes radicaux…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "21e603057b3c",
-   "titre": "La Commission européenne propose un nouveau prêt de 45 milliards d'euros à l'Ukraine",
-   "lien": "https://www.france24.com/fr/europe/20261118-commission-europ%C3%A9enne-propose-nouveau-pr%C3%AAt-45-milliards-euros-ukraine",
-   "source": "France 24",
-   "date": "2026-11-18T11:07:51+00:00",
-   "extrait": "La Commission européenne va proposer aux États membres de l'UE d'accorder un nouveau prêt de 45 milliards d'euros à Kiev, a annoncé mercredi Ursula von der Leyen. \"Nous pensons que c'est la…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "e9505e5bbb60",
-   "titre": "La France dans le monde : des moyens réduits pour la diplomatie ?",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/aux-avant-postes/20261118-la-france-dans-le-monde-des-moyens-r%C3%A9duits-pour-la-diplomatie",
-   "source": "France 24",
-   "date": "2026-11-18T11:01:49+00:00",
-   "extrait": "De l'argent pour les armes, pas pour la diplomatie. La France nourrit de grandes ambitions internationales mais elle ne s'en donne pas les moyens. Pire, elle supprime des postes et diminue le budget…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "2b1a645def73",
-   "titre": "Au Bangladesh, la perspective d’un retour au pays de l’ancienne première ministre Sheikh Hasina attise les tensions politiques",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/18/au-bangladesh-la-perspective-d-un-retour-au-pays-de-l-ancienne-premiere-ministre-sheikh-hasina-attise-les-tensions-politiques_6813116_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-18T11:00:08+00:00",
-   "extrait": "L’ex-première ministre chassée par la rue en 2024 continue de peser sur la politique Bangladaise depuis son exil en Inde. La « dame de fer », condamnée à mort par contumace, promet de rentrer d’ici…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "1a305ede3094",
-   "titre": "Mystery firm spending millions to attend Trump crypto gala",
-   "lien": "https://www.cbsnews.com/news/trump-crypto-gala-fastx-meme-coin/",
-   "source": "CBS News",
-   "date": "2026-11-18T11:00:00+00:00",
-   "extrait": "The firm FastX, which has ties to Singapore, claims to have amassed more than $2 million in $TRUMP coin in the past two months and aims to secure a spot at the president's gala dinner.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
   }
  ]
 }
