@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-19T15:05:46+00:00",
+ "maj": "2026-11-19T16:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,11 +22,67 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "8f6ccb0f9a3a",
+   "titre": "En Franche-Comté, l’absinthe reprend racine",
+   "lien": "https://www.lemonde.fr/m-styles/article/2026/11/19/en-franche-comte-l-absinthe-reprend-racine_6813340_4497319.html",
+   "source": "Le Monde",
+   "date": "2026-11-19T16:00:10+00:00",
+   "extrait": "A Pontarlier, capitale historique de sa production, la légendaire eau-de-vie de plantes, interdite pendant près d’un siècle, connaît une seconde vie grâce à une nouvelle génération de distillateurs…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "c3efff8749ae",
+   "titre": "Trois ans après le meurtre de Thomas à Crépol, ses parents s'expriment pour la première fois dans une lettre, \"une part de nous reste en pause\"",
+   "lien": "https://www.franceinfo.fr/faits-divers/meurtre-de-thomas-a-crepol/trois-ans-apres-le-meurtre-de-thomas-a-crepol-ses-parents-s-expriment-pour-la-premiere-fois-dans-une-lettre-une-part-de-nous-reste-en-pause_8290277.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T15:56:25+00:00",
+   "extrait": "Dans cette affaire, des juges d’instruction ont ordonné un procès devant une cour d’assises des mineurs pour onze accusés, retenant notamment la circonstance aggravante de racisme envers \"la race…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "5ed9c278a75a",
+   "titre": "La Manche et le Calvados placés à leur tour en vigilance orange pluie-inondation à partir de jeudi soir, huit départements en alerte au total",
+   "lien": "https://www.franceinfo.fr/environnement/meteo/la-manche-et-le-calvados-places-a-leur-tour-en-vigilance-orange-pluie-inondation-a-partir-de-jeudi-soir-huit-departements-en-alerte-au-total_8290205.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T15:55:36+00:00",
+   "extrait": "Les deux départements normands seront en alerte dès 22 heures, en raison des fortes précipitations attendues.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "03155278eabe",
+   "titre": "The midterms were the largest win for either party in 50 years",
+   "lien": "https://www.npr.org/2026/11/19/nx-s1-6045916/democrats-midterm-house-majority",
+   "source": "NPR",
+   "date": "2026-11-19T15:55:05+00:00",
+   "extrait": "Some 56% of people cast votes for Democrats in House races, compared to 42% who voted Republican. That 14-point spread is the widest win for either party in 50 years, since after Watergate.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "2cddf338ba79",
+   "titre": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
+   "lien": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-19T15:52:26+00:00",
+   "extrait": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
    "id": "7ab40838ae16",
    "titre": "Trump says Iran may be working on biological weapons",
    "lien": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
    "source": "CBS News",
-   "date": "2026-11-19T15:05:37+00:00",
+   "date": "2026-11-19T15:51:36+00:00",
    "extrait": "President Trump told Fox News there are indications Iran may be working on biological or chemical weapons as the war drags on toward its ninth month.",
    "tags": [
     "Politique",
@@ -35,11 +91,294 @@
    "zone": "usa"
   },
   {
+   "id": "6860a529e05a",
+   "titre": "Les principaux créateurs de contenus devront désormais respecter le pluralisme dans leur traitement de l'élection présidentielle",
+   "lien": "https://www.franceinfo.fr/internet/les-principaux-createurs-de-contenus-devront-desormais-respecter-le-pluralisme-dans-leur-traitement-de-l-election-presidentielle_8290187.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T15:51:19+00:00",
+   "extrait": "Ce type de règles s'imposait jusqu'à présent aux télévisions et aux radios. \"Il y a un phénomène nouveau, il est là et il est massif\", a déclaré le président de l'Arcom, Martin Ajdari, jeudi.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "26a8b1dbde5a",
+   "titre": "A Shenzhen, Xi Jinping et « l’ami » Vladimir Poutine ont endormi Donald Trump sous les fastes",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/19/a-shenzhen-xi-jinping-et-l-ami-vladimir-ont-endormi-donald-trump-sous-les-fastes_6813336_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-19T15:50:36+00:00",
+   "extrait": "Les chefs d’Etat des trois grandes puissances ont profité du sommet en Chine pour entretenir une fausse proximité, qui ne dit rien de leurs désaccords sur des sujets comme l’intelligence…",
+   "tags": [
+    "Politique",
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "7b46cdae0a45",
+   "titre": "Cyberattaques : \"On est sur un niveau de menace particulièrement grave et inédit\", déclare Sébastien Lecornu après une réunion interministérielle sur la cybersécurité",
+   "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/direct-sebastien-lecornu-preside-une-reunion-interministerielle-relative-a-la-cybersecurite-avant-une-conference-de-presse_8290133.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T15:48:04+00:00",
+   "extrait": "Les attaques informatiques se sont multipliées ces derniers mois, à la fois contre des entreprises et des organismes publics.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "c57501547294",
+   "titre": "Xi Jinping, Vladimir Poutine et Donald Trump adoptent une \"déclaration de paix\" après un sommet inédit",
+   "lien": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/xi-jinping-vladimir-poutine-et-donald-trump-adoptent-une-declaration-de-paix-apres-un-sommet-inedit_8290064.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T15:46:17+00:00",
+   "extrait": "Les trois dirigeants, réunis à Shenzhen (Chine) jeudi, \"se sont engagés à préserver la stabilité stratégique et la sécurité internationale\", est-il écrit dans leur déclaration.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "5f45813136ea",
+   "titre": "Anthropic set to start trading after completing largest-ever IPO",
+   "lien": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/",
+   "source": "CBS News",
+   "date": "2026-11-19T15:43:15+00:00",
+   "extrait": "Anthropic raised a record $81.3 billion, catapulting it past SpaceX, which raised $75 billion​ when it went public in June.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "12b687629d5f",
+   "titre": "Face aux risques de cancer des mineurs, la CGT Mines publie un nouveau recueil actualisé pour améliorer leur suivi médical",
+   "lien": "https://www.franceinfo.fr/sante/face-aux-risques-de-cancer-des-mineurs-la-cgt-mines-publie-un-nouveau-recueil-actualise-pour-ameliorer-leur-suivi-medical_8290235.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T15:39:54+00:00",
+   "extrait": "Les dernières mines ont fermé il y a plus de 20 ans en France, ce recueil s'inscrit dans un contexte où l'on parle de réouverture de mines dans le pays.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "e819eb388b88",
+   "titre": "Incendies de Couchey, Plombières, Marsannay... Soupçonné de 20 feux de forêt cet été, un homme vient d'être interpellé en Côte-d'Or",
+   "lien": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/soupconne-de-20-incendies-en-foret-cet-ete-un-homme-vient-d-etre-interpelle-en-cote-d-or-3452613.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T15:38:17+00:00",
+   "extrait": "Le parquet de Dijon informe ce jeudi 19 novembre que le suspect de 20 incendies en milieu naturel a été arrêté et placé en détention provisoire.",
+   "tags": [
+    "Climat",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "3d821cb1997f",
+   "titre": "Des tirs de mortiers devant la cité scolaire d'Amiens, neuf élèves légèrement blessés et un enseignant en état de choc",
+   "lien": "https://france3-regions.franceinfo.fr/hauts-de-france/somme/amiens/de-nouveaux-tirs-de-mortiers-devant-la-cite-scolaire-sud-d-amiens-neuf-eleves-legerement-blesses-et-un-enseignant-en-etat-de-choc-3452493.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T15:37:29+00:00",
+   "extrait": "Des mortiers d'artifice ont été tirés devant la cité scolaire d'Amiens, dans la matinée de ce jeudi 19 novembre 2026, blessant légèrement 9 élèves. Un enseignant, en état de choc, a également été…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "c4da92541f77",
+   "titre": "Anthropic's IPO set for blastoff in key test for AI boom",
+   "lien": "https://www.cbsnews.com/news/anthropic-ipo-ai-boom-nasdaq-debut/",
+   "source": "CBS News",
+   "date": "2026-11-19T15:33:00+00:00",
+   "extrait": "Anthropic's stock is poised to start trading on Nasdaq Thursday in one of the largest IPOs of all time. The AI world is watching.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "608d92673f40",
+   "titre": "Présidentielle 2027 : \"Je ne vais pas changer de programme\", déclare Marine Tondelier après sa main tendue à La France insoumise",
+   "lien": "https://www.franceinfo.fr/elections/direct-presidentielle-je-le-regrette-reagit-le-socialiste-olivier-faure-au-rapprochement-initie-par-l-ecologiste-marine-tondelier-vers-jean-luc-melenchon_8289440.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T15:32:00+00:00",
+   "extrait": "La secrétaire nationale des Ecologistes réfléchit à une coalition avec Jean-Luc Mélenchon, ce qui l'amènerait à renoncer à sa candidature à l'élection présidentielle.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "e07f3bce8b5b",
+   "titre": "Hardcore GTA fans ditch work so they have time to play",
+   "lien": "https://www.cbsnews.com/news/gta-6-fans-take-pto-launch/",
+   "source": "CBS News",
+   "date": "2026-11-19T15:31:23+00:00",
+   "extrait": "Some employees locked in their time off months ago, so they're free to start playing Grand Theft Auto 6 as soon as it launches on Nov. 19.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "ae76c538af3e",
+   "titre": "Chris Pratt and Jude Hill on their new movie, \"Way of the Warrior Kid\"",
+   "lien": "https://www.cbsnews.com/video/chris-pratt-and-jude-hill-on-their-new-movie-way-of-the-warrior-kid/",
+   "source": "CBS News",
+   "date": "2026-11-19T15:24:51+00:00",
+   "extrait": "Chris Pratt and Jude Hill sat down with \"CBS Mornings\" to discuss their new film, \"Way of the Warrior Kid,\" which premieres Nov. 25.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "116411d1d3c7",
+   "titre": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+   "lien": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-19T15:23:34+00:00",
+   "extrait": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "662d6c89b349",
+   "titre": "Exclusive discounts from CBS Mornings Deals",
+   "lien": "https://www.cbsnews.com/video/cbs-mornings-deals-111926/",
+   "source": "CBS News",
+   "date": "2026-11-19T15:16:23+00:00",
+   "extrait": "On this edition of CBS Deals, we show you items that could help improve your everyday lifestyle. Visit cbsdeals.com to take advantage of these exclusive deals today. CBS earns commissions on…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "2a9c0e116783",
+   "titre": "COP31 : l’avenir du GIEC, qui traverse l’une des plus graves crises de son histoire, suscite de fortes tensions",
+   "lien": "https://www.lemonde.fr/planete/article/2026/11/19/cop31-l-avenir-du-giec-qui-traverse-l-une-des-plus-graves-crises-de-son-histoire-suscite-de-fortes-tensions_6813332_3244.html",
+   "source": "Le Monde",
+   "date": "2026-11-19T15:15:09+00:00",
+   "extrait": "Quelques pays s’opposent à la publication des prochains rapports d’évaluation de l’institution avant la COP33, où doit être réalisé le deuxième « bilan mondial » des efforts climatiques, dans un…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "f8fd961af62a",
+   "titre": "Présidentielle 2027 : l’Arcom annonce que les principaux créateurs de contenus en ligne devront respecter les mêmes règles de pluralisme que les télévisons et radios",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/19/presidentielle-les-principaux-createurs-de-contenus-sur-youtube-et-les-reseaux-sociaux-comme-hugodecrypte-ou-guillaume-pley-devront-desormais-respecter-le-pluralisme-annonce-l-arcom_6813329_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-19T15:13:08+00:00",
+   "extrait": "« Il y a un phénomène nouveau, il est là et il est massif », a affirmé le président de l’Arcom, Martin Ajdari, alors que les médias d’HugoDécrypte ou de Guillaume Pley devraient être concernés.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "ccc1e0813e53",
+   "titre": "Le directeur de la prison d'Aix-Luynes mis en examen et écroué pour détention, offre et mise à disposition d'images pédopornographiques",
+   "lien": "https://www.franceinfo.fr/societe/pedocriminalite/le-directeur-de-la-prison-d-aix-luynes-mis-en-examen-et-ecroue-pour-detention-offre-et-mise-a-disposition-d-images-pedocriminelles_8290181.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T15:12:51+00:00",
+   "extrait": "Le directeur de la prison a été identifié après avoir téléchargé \"un fichier cible violent à partir du début de l'année 2026\" selon le parquet de Nîmes.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "8c4c668b597d",
+   "titre": "Un composant fabriqué uniquement à Bordeaux pourrait freiner la production des missiles Patriot américains",
+   "lien": "https://www.franceinfo.fr/monde/usa/un-composant-fabrique-uniquement-a-bordeaux-pourrait-freiner-la-production-des-missiles-patriot-americains_8290079.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T15:11:45+00:00",
+   "extrait": "L'Ukraine réclame davantage de missiles antimissiles Patriot pour se défendre contre les frappes russes, mais un composant indispensable à leur fabrication pourrait venir à manquer. Selon le \"Wall…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "089bee655be9",
+   "titre": "Uma Thurman and Michael C. Hall talk this season of \"Dexter: Resurrection\"",
+   "lien": "https://www.cbsnews.com/video/uma-thurman-and-michael-c-hall-talk-this-season-of-dexter-resurrection/",
+   "source": "CBS News",
+   "date": "2026-11-19T15:11:14+00:00",
+   "extrait": "Michael C. Hall and Uma Thurman sit down with \"CBS Mornings\" to discuss \"Dexter: Resurrection.\"",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "4a72f251dff0",
+   "titre": "Sommet de Shenzhen : Vladimir Poutine, le grand humilié ?",
+   "lien": "https://www.france24.com/fr/asie-pacifique/20261119-sommet-shenzhen-vladimir-poutine-grand-humili%C3%A9-xi-jinping-trump-apec",
+   "source": "France 24",
+   "date": "2026-11-19T15:09:16+00:00",
+   "extrait": "La réunion inédite en Chine entre Xi Jinping, Donald Trump et Vladimir Poutine a été accompagnée d'un protocole qui semble avoir tourné au désavantage du président russe. Une manière pour le…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "a219ae020d27",
+   "titre": "Photos, videos show devastating South Florida flooding",
+   "lien": "https://www.cbsnews.com/news/photos-videos-devastating-south-florida-flooding-schools-closed-evacuations/",
+   "source": "CBS News",
+   "date": "2026-11-19T15:06:25+00:00",
+   "extrait": "Significant flooding devastated some South Florida communities this week.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "8bea18ff7c04",
+   "titre": "Plus de 350 écrivains dans le monde exhortent l'Iran à épargner un poète menacé de peine de mort",
+   "lien": "https://www.franceinfo.fr/culture/livres/plus-de-350-ecrivains-dans-le-monde-exhortent-l-iran-a-epargner-un-poete-menace-de-peine-de-mort_8290106.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T15:06:11+00:00",
+   "extrait": "Peyman Farahavar, 37 ans, risque une exécution imminente.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "e51ff6a043c3",
+   "titre": "Le chorégraphe Bruno Vandelli mis en examen pour viol aggravé, agressions sexuelles et corruption de mineur",
+   "lien": "https://www.lemonde.fr/culture/article/2026/11/19/le-choregraphe-bruno-vandelli-mis-en-examen-pour-viol-aggrave-agressions-sexuelles-et-corruption-de-mineur_6813328_3246.html",
+   "source": "Le Monde",
+   "date": "2026-11-19T15:03:47+00:00",
+   "extrait": "Popularisé en 2002 par l’émission « Popstars », le Cannois est visé par deux plaintes d’anciens élèves de son école de danse. Il a été placé sous contrôle judiciaire.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "feb43388e86b",
+   "titre": "Rohingya : comment la lointaine Gambie s’est retrouvée en première ligne du combat pour la défense de cette minorité de Birmanie",
+   "lien": "https://www.lemonde.fr/afrique/article/2026/11/19/comment-la-lointaine-gambie-s-est-retrouvee-en-premiere-ligne-du-combat-pour-la-defense-des-rohingya-de-birmanie_6663552_3213.html",
+   "source": "Le Monde",
+   "date": "2026-11-19T15:03:46+00:00",
+   "extrait": "Le petit pays d’Afrique de l’Ouest a été à l’origine, en 2019, de la procédure pour « génocide » visant la Birmanie. Un précédent qui a permis à l’Afrique du Sud de demander un procès contre Israël.",
+   "tags": [
+    "Conflits",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "f4c8d4ec1a8e",
+   "titre": "Briana Scurry previews the NWSL Championship",
+   "lien": "https://www.cbsnews.com/video/briana-scurry-previews-the-nwsl-championship/",
+   "source": "CBS News",
+   "date": "2026-11-19T15:03:14+00:00",
+   "extrait": "Soccer Hall of Famer Briana Scurry joins Norah O'Donnell in Washington, D.C., to preview the NWSL Championship game between the Washington Spirit and Kansas City Current.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
    "id": "b9901f5e4206",
    "titre": "Obama gives pep talk to freshman House Democrats in surprise visit",
    "lien": "https://www.cbsnews.com/news/obama-pep-talk-freshman-house-democrats/",
    "source": "CBS News",
-   "date": "2026-11-19T15:02:05+00:00",
+   "date": "2026-11-19T15:02:00+00:00",
    "extrait": "Former President Barack Obama was the surprise guest at a hastily called meeting of Democrats who just won House seats.",
    "tags": [
     "Politique"
@@ -47,16 +386,29 @@
    "zone": "usa"
   },
   {
-   "id": "5f45813136ea",
-   "titre": "Anthropic set to start trading after completing largest-ever IPO",
-   "lien": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/",
-   "source": "CBS News",
-   "date": "2026-11-19T15:00:43+00:00",
-   "extrait": "Anthropic raised a record $81.3 billion, catapulting it past SpaceX, which raised $75 billion​ when it went public in June.",
+   "id": "1dd71efb0357",
+   "titre": "En Italie, les jeunes dans le viseur des politiques sécuritaires et oubliés des politiques économiques",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/19/en-italie-les-jeunes-dans-le-viseur-des-politiques-securitaires-et-oublies-des-politiques-economiques_6813323_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-19T15:00:00+00:00",
+   "extrait": "Dans un pays où un quart de la population a plus de 65 ans et à l’approche d’élections législatives prévues en 2027, la présidente du conseil se montre plus soucieuse de répondre au désir d’ordre…",
    "tags": [
-    "Tech"
+    "Politique"
    ],
-   "zone": "usa"
+   "zone": "france"
+  },
+  {
+   "id": "f41fd6f27c29",
+   "titre": "« Inside Deutsche Bank » : comment l’argent du clan Al-Assad a circulé en Europe, malgré les enquêtes judiciaires",
+   "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/11/19/inside-deutsche-bank-comment-l-argent-du-clan-al-assad-a-circule-en-europe-malgre-les-enquetes-judiciaires_6813322_4355770.html",
+   "source": "Le Monde",
+   "date": "2026-11-19T15:00:00+00:00",
+   "extrait": "Près de 80 millions d’euros de flux financiers liés à Rifaat Al-Assad, oncle du dictateur syrien déchu et criminel de guerre, ont transité par la banque allemande. L’enquête « Inside Deutsche Bank »…",
+   "tags": [
+    "Conflits",
+    "Justice"
+   ],
+   "zone": "france"
   },
   {
    "id": "dd4011a143fb",
@@ -137,18 +489,6 @@
    "zone": "monde"
   },
   {
-   "id": "7b46cdae0a45",
-   "titre": "Cyberattaques : Sébastien Lecornu préside une réunion interministérielle \"relative à la cybersécurité\", avant une conférence de presse",
-   "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/direct-sebastien-lecornu-preside-une-reunion-interministerielle-relative-a-la-cybersecurite-avant-une-conference-de-presse_8290133.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T14:46:18+00:00",
-   "extrait": "Les attaques informatiques se sont multipliées ces derniers mois, à la fois contre des entreprises et des organismes publics.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "1465ad6d92ff",
    "titre": "Taylor Swift makes CMA Awards return, Ella Langley's \"Choosin' Texas\" wins big",
    "lien": "https://www.cbsnews.com/video/taylor-swift-makes-cma-awards-return-ella-langleys-choosin-texas-wins-big-1/",
@@ -176,22 +516,10 @@
    "titre": "Taylor Swift makes CMA Awards return, Ella Langley's \"Choosin' Texas\" wins big",
    "lien": "https://www.cbsnews.com/video/taylor-swift-makes-cma-awards-return-ella-langleys-choosin-texas-wins-big/",
    "source": "CBS News",
-   "date": "2026-11-19T14:43:20+00:00",
+   "date": "2026-11-19T14:43:00+00:00",
    "extrait": "Taylor Swift made her Country Music Awards return with a nostalgic performance of \"Our Song,\" while Ella Langley's \"Choosin' Texas\" won big. Cassie DiLaura reports.",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "c57501547294",
-   "titre": "Xi Jinping, Vladimir Poutine et Donald Trump adoptent une \"déclaration de paix\" après un sommet inédit",
-   "lien": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/xi-jinping-vladimir-poutine-et-donald-trump-adoptent-une-declaration-de-paix-apres-un-sommet-inedit_8290064.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T14:41:41+00:00",
-   "extrait": "Les trois dirigeants, réunis à Shenzhen (Chine) jeudi, \"se sont engagés à préserver la stabilité stratégique et la sécurité internationale\", est-il écrit dans leur déclaration.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
   },
   {
    "id": "e0a19173bab6",
@@ -249,7 +577,7 @@
    "lien": "https://www.lemonde.fr/societe/article/2026/11/19/une-enquete-ouverte-sur-des-fuites-en-provenance-du-ministere-de-l-interieur-vers-le-rn_6813316_3224.html",
    "source": "Le Monde",
    "date": "2026-11-19T14:31:38+00:00",
-   "extrait": "Selon nos informations, des perquisitions ont été menées par l’inspection générale de la police nationale au siège du Rassemblement national et au ministère de l’intérieur, à la suite de soupçons de…",
+   "extrait": "Une information judiciaire a été ouverte pour « violation du secret professionnel », « violation du secret de l’enquête » et « recel » de ces délits. La justice soupçonne des fuites d’éléments liés…",
    "tags": [
     "Politique",
     "Justice"
@@ -262,7 +590,7 @@
    "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261119-anthropic-entr%C3%A9e-bourse-historique-propuls%C3%A9e-par-tr%C3%A8s-forte-demande",
    "source": "France 24",
    "date": "2026-11-19T14:30:51+00:00",
-   "extrait": "La start-up américaine Anthropic est entrée jeudi en Bourse à New York en levant au moins 81 milliards de dollars, dépassant ainsi le record de SpaceX en juin, après avoir relevé son offre mercredi…",
+   "extrait": "La Bourse de New York ⁠a ouvert en nette ​hausse jeudi, jour de l'entrée en Bourse d'Anthropic qui permettra à la start-up américaine de lever au moins 81 milliards ​de dollars. Un nouveau record…",
    "tags": [
     "Économie",
     "Tech"
@@ -341,18 +669,6 @@
    "zone": "usa"
   },
   {
-   "id": "608d92673f40",
-   "titre": "Présidentielle 2027 : \"Je ne vais pas changer de programme\", déclare Marie Tondelier après sa main tendue à la France insoumise",
-   "lien": "https://www.franceinfo.fr/elections/direct-presidentielle-je-le-regrette-reagit-le-socialiste-olivier-faure-au-rapprochement-initie-par-l-ecologiste-marine-tondelier-vers-jean-luc-melenchon_8289440.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T14:14:34+00:00",
-   "extrait": "La secrétaire nationale des Ecologistes réfléchit à une coalition avec Jean-Luc Mélenchon, ce qui l'amènerait à renoncer à sa candidature à l'élection présidentielle.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "e270e900bd1b",
    "titre": "Nos premières impressions après avoir joué à « GTA VI » : un jeu aussi riche que sensible, aussi beau qu’intime",
    "lien": "https://www.lemonde.fr/pixels/article/2026/11/19/gta-vi-nos-premieres-impressions-un-jeu-aussi-riche-que-sensible-aussi-beau-qu-intime_6813313_4408996.html",
@@ -364,11 +680,11 @@
   },
   {
    "id": "254da20dce08",
-   "titre": "EN DIRECT, guerre en Ukraine : Vladimir Poutine prévient que « toute forme de coopération militaire » entre Kiev et l’Europe dans un éventuel accord de paix « pose évidemment un problème »",
+   "titre": "EN DIRECT, guerre en Ukraine : Vladimir Poutine prévient que « toute forme de coopération militaire » entre Kiev et l’Europe lors d’un éventuel accord de paix « pose évidemment un problème »",
    "lien": "https://www.lemonde.fr/international/live/2026/11/19/en-direct-guerre-en-ukraine-vladimir-poutine-previent-que-toute-forme-de-cooperation-militaire-entre-kiev-et-l-europe-dans-un-eventuel-accord-de-paix-pose-evidemment-un-probleme_6810982_3210.html",
    "source": "Le Monde",
    "date": "2026-11-19T14:14:11+00:00",
-   "extrait": "Alors qu’une réunion de la coalition des volontaires rassemble, jeudi après-midi, à Berlin, les alliés de l’Ukraine, le président russe a également dit avoir invité « des Européens » à Moscou pour…",
+   "extrait": "Alors qu’une réunion de la coalition des volontaires rassemble, jeudi après-midi à Berlin, les alliés de l’Ukraine, le président russe a également dit avoir invité « des Européens » à Moscou pour…",
    "tags": [
     "Politique",
     "Conflits"
@@ -537,7 +853,7 @@
    "lien": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-19T13:31:23+00:00",
-   "extrait": "The US Secretary of Defence says Venezuela has 'gone from our most aggressive regional threat to a compliant security partner'.",
+   "extrait": "The US Secretary of Defence says Venezuela has \"gone from our most aggressive regional threat to a compliant security partner\".",
    "tags": [
     "Conflits"
    ],
@@ -580,7 +896,7 @@
    "titre": "Are CDs worth it? When they beat savings and money market accounts",
    "lien": "https://www.cbsnews.com/news/cd-account-worth-opening-again/",
    "source": "CBS News",
-   "date": "2026-11-19T13:12:32+00:00",
+   "date": "2026-11-19T13:12:00+00:00",
    "extrait": "A CD could be worth it when compared to savings and money market accounts now. Here's why.",
    "tags": [
     "Économie"
@@ -593,9 +909,8 @@
    "lien": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-19T13:07:35+00:00",
-   "extrait": "The Russian president said the Crimean Bridge was civilian infrastructure, which Kyiv disputes.",
+   "extrait": "The bridge - a symbol of Russia's occupation of the Crimean Peninsula - suffered major damaged following a combined attack by Ukraine earlier this week.",
    "tags": [
-    "Politique",
     "Conflits"
    ],
    "zone": "monde"
@@ -644,6 +959,16 @@
    "zone": "france"
   },
   {
+   "id": "60298692bdff",
+   "titre": "Une « carte Vitale » pour manger moins cher, bio et local, une expérience menée depuis deux ans dans le Vaucluse",
+   "lien": "https://www.lemonde.fr/m-le-mag/article/2026/11/19/dans-le-vaucluse-une-carte-vitale-pour-manger-moins-cher-bio-et-local-ce-droit-a-l-alimentation-est-un-vecteur-de-justice-sociale-environnementale-et-democratique_6813303_4500055.html",
+   "source": "Le Monde",
+   "date": "2026-11-19T13:00:02+00:00",
+   "extrait": "Des habitants de Cadenet expérimentent depuis deux ans la sécurité sociale de l’alimentation pour lutter contre la précarité alimentaire et favoriser un modèle agricole plus durable. La mesure est…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "5171e29e1360",
    "titre": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
    "lien": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o?at_medium=RSS&at_campaign=rss",
@@ -677,18 +1002,6 @@
     "Politique"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "c4da92541f77",
-   "titre": "Anthropic's IPO set for blastoff in key test for AI boom",
-   "lien": "https://www.cbsnews.com/news/anthropic-ipo-ai-boom-nasdaq-debut/",
-   "source": "CBS News",
-   "date": "2026-11-19T12:48:02+00:00",
-   "extrait": "Anthropic's stock is poised to start trading on Nasdaq Thursday in one of the largest IPOs of all time. The AI world is watching.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
   },
   {
    "id": "a1f8fdcd670b",
@@ -764,11 +1077,11 @@
   },
   {
    "id": "c84927df27bb",
-   "titre": "Yahoo for the loo! An ode to the commode! Dotty for the potty! It's World Toilet Day!",
+   "titre": "World Toilet Day is a funny idea with a serious goal: A world awash in toilets",
    "lien": "https://www.npr.org/2026/11/19/g-s1-154159/world-toilet-day-gender-equality-menstruation",
    "source": "NPR",
    "date": "2026-11-19T12:26:31+00:00",
-   "extrait": "November 19 marks the 25th anniversary of World Toilet Day. The theme this year: \"Sanitation and Gender Equality: Safe Toilets, Equal Futures.\"",
+   "extrait": "Yahoo for the loo! November 19 marks the 25th anniversary of World Toilet Day. The theme this year: \"Sanitation and Gender Equality: Safe Toilets, Equal Futures.\"",
    "tags": [],
    "zone": "usa"
   },
@@ -808,7 +1121,7 @@
   },
   {
    "id": "8060728a6bbd",
-   "titre": "Le fondateur d'Anthropic \"est persuadé d'avoir le sort du monde sur ses épaules\"",
+   "titre": "Le fondateur d'Anthropic, géant de l'IA qui entre en bourse, \"est persuadé d'avoir le sort du monde sur ses épaules\", selon un spécialiste du secteur",
    "lien": "https://www.franceinfo.fr/internet/intelligence-artificielle/entretien-le-fondateur-d-anthropic-est-persuade-d-avoir-le-sort-du-monde-sur-ses-epaules_8289752.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-11-19T12:09:29+00:00",
@@ -1281,7 +1594,7 @@
   },
   {
    "id": "fe44b1178bdb",
-   "titre": "AI giant Anthropic raises more than $100 billion in record-setting IPO",
+   "titre": "Investors scramble for a piece of AI giant Anthropic in blockbuster IPO",
    "lien": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
    "source": "NPR",
    "date": "2026-11-19T10:00:00+00:00",
@@ -1544,16 +1857,6 @@
     "Politique"
    ],
    "zone": "france"
-  },
-  {
-   "id": "2cddf338ba79",
-   "titre": "Dozens missing after boat carrying 100 migrants sinks off Senegal's coast",
-   "lien": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-19T09:02:52+00:00",
-   "extrait": "Some local media report that at least four bodies have been recovered.",
-   "tags": [],
-   "zone": "monde"
   },
   {
    "id": "c0daff293ebe",
@@ -2371,16 +2674,6 @@
    "zone": "france"
   },
   {
-   "id": "e07f3bce8b5b",
-   "titre": "Hardcore GTA fans ditch work so they have time to play",
-   "lien": "https://www.cbsnews.com/news/gta-6-fans-take-pto-launch/",
-   "source": "CBS News",
-   "date": "2026-11-19T03:51:40+00:00",
-   "extrait": "Some employees locked in their time off months ago, so they're free to start playing Grand Theft Auto 6 as soon as it launches on Nov. 19.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "cdab6322e227",
    "titre": "Rencontre trilatérale à Shenzhen : les intérêts de Xi, Trump et Poutine",
    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261119-rencontre-trilat%C3%A9rale-%C3%A0-shenzhen-les-int%C3%A9r%C3%AAts-de-xi-trump-et-poutine",
@@ -3194,294 +3487,6 @@
    "tags": [
     "Politique"
    ],
-   "zone": "france"
-  },
-  {
-   "id": "da8a1eff81e6",
-   "titre": "Présomption de légitime défense pour les forces de l'ordre : \"Ce que j'ai vécu fait que cette loi me fait extrêmement peur\", témoigne le producteur Michel Zecler",
-   "lien": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/presomption-de-legitime-defense-pour-les-forces-de-l-ordre-ce-que-j-ai-vecu-fait-que-cette-loi-me-fait-extremement-peur-temoigne-le-producteur-michel-zecler-qui-se-dit-horrifie_8288912.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T21:36:14+00:00",
-   "extrait": "La loi sur la présomption de légitime défense pour les forces de l'ordre doit être étudiée par le Sénat à partir de ce jeudi, après avoir été adoptée à l'Assemblée nationale en juillet dernier.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "569c3a2d01b0",
-   "titre": "\"C'est une bonne nouvelle qui renforce la possibilité d'une victoire populaire\", réagit Manuel Bompard après la main tendue de Marine Tondelier à La France insoumise",
-   "lien": "https://www.franceinfo.fr/elections/c-est-une-bonne-nouvelle-qui-renforce-la-possibilite-d-une-victoire-populaire-reagit-manuel-bompard-apres-la-main-tendue-de-marine-tondelier-a-la-france-insoumise_8288990.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T21:30:14+00:00",
-   "extrait": "La secrétaire nationale des Ecologistes s'est dit \"prête à travailler à une coalition autour de la candidature de Jean-Luc Mélenchon\" pour la présidentielle 2027.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "0a4eeca95ef8",
-   "titre": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
-   "lien": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-18T21:28:08+00:00",
-   "extrait": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "0a93dcd40ea6",
-   "titre": "Sénégal : le Pastef officialise le départ de ses rangs du président Bassirou Diomaye Faye",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261118-s%C3%A9n%C3%A9gal-le-pastef-officialise-le-d%C3%A9part-de-ses-rangs-du-pr%C3%A9sident-bassirou-diomaye-faye",
-   "source": "France 24",
-   "date": "2026-11-18T21:27:11+00:00",
-   "extrait": "Au Sénégal, le Pastef, le parti majoritaire dirigé par le président de l'Assemblée nationale Ousmane Sonko, a officialisé le départ du président Bassirou Diomaye Faye. Dernier épisode de ce divorce…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "c5de14a7d16b",
-   "titre": "Une assistante de direction d'un lycée de Rosny-Sous-Bois porte plainte après la découverte d'un tag la menaçant au sein de l'établissement",
-   "lien": "https://www.franceinfo.fr/societe/antisemitisme/seine-saint-denis-une-assistante-de-direction-d-un-lycee-de-rosny-sous-bois-porte-plainte-apres-la-decouverte-d-un-tag-la-menacant-au-sein-de-l-etablissement_8288978.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T21:17:08+00:00",
-   "extrait": "L’inscription gravée sur une porte des toilettes du lycée de Seine-Saint-Denis mentionne son prénom, son nom et les termes \"la sioniste\", \"brûlez-la\" ainsi qu’une étoile de David.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "77109af97eba",
-   "titre": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-   "lien": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-18T21:13:06+00:00",
-   "extrait": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "d9ce7b53af14",
-   "titre": "Un garagiste mis en examen et écroué pour féminicide en Seine-Saint-Denis",
-   "lien": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/un-garagiste-mis-en-examen-et-ecroue-pour-feminicide-en-seine-saint-denis_8288963.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T21:10:37+00:00",
-   "extrait": "Le corps sans vie d'une femme avait été découvert samedi dans une camionnette. Au cours son audition, l'homme âgé de 51 ans \"a reconnu être à l'origine du décès de la victime\", selon le parquet.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "21e6910f47b5",
-   "titre": "Alleged Russian agent accused of spying on U.S. defense firm",
-   "lien": "https://www.cbsnews.com/news/russia-agent-charges-spying-silicon-valley/",
-   "source": "CBS News",
-   "date": "2026-11-18T20:35:00+00:00",
-   "extrait": "A Russian man was indicted for allegedly surveilling and collecting information about employees of a Silicon Valley defense company.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "bf7a4488f0ce",
-   "titre": "Budget, préventes, musique… Cinq chiffres vertigineux autour de \"GTA VI\", qui est sorti à minuit après treize ans d'attente",
-   "lien": "https://www.franceinfo.fr/culture/jeux-video/gta-vi/budget-preventes-musique-cinq-chiffres-vertigineux-autour-de-gta-vi-qui-sort-apres-treize-ans-d-attente_8267372.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T20:32:27+00:00",
-   "extrait": "Le nouvel épisode de la franchise \"Grand Theft Auto\" sort jeudi. L'éditeur américain Rockstar Games espère reproduire le succès du précédent opus, un des jeux vidéo les plus vendus de l'histoire.",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "4c17c952d020",
-   "titre": "Best debt relief companies, plus advice borrowers need to know now",
-   "lien": "https://www.cbsnews.com/news/best-debt-relief-companies-plus-advice-borrowers-need-to-know-now/",
-   "source": "CBS News",
-   "date": "2026-11-18T20:30:25+00:00",
-   "extrait": "These debt relief companies could help you cut your debt, but there are some things to know before signing up.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "9d18dd79aace",
-   "titre": "Les grands patrons entre séduction et effroi : le récit d’un dîner mémorable avec Jean-Luc Mélenchon",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/18/les-grands-patrons-entre-seduction-et-effroi-le-recit-d-un-diner-memorable-avec-jean-luc-melenchon_6813208_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-18T20:24:01+00:00",
-   "extrait": "Le leader de La France insoumise a débattu deux heures durant, mardi 17 novembre, avec une douzaine de ténors du CAC 40. L’occasion de mettre en avant son projet d’économie collectiviste et son…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "053d8198f11c",
-   "titre": "Boxing world champion detained by ICE in Texas",
-   "lien": "https://www.cbsnews.com/news/boxing-world-champion-jorge-linares-detained-ice/",
-   "source": "CBS News",
-   "date": "2026-11-18T20:20:00+00:00",
-   "extrait": "Jorge Linares, a Venezuelan professional boxer, was detained by ICE in Texas, according to federal officials and his attorneys.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "4545189a5b2f",
-   "titre": "H.R. McMaster says Putin, Xi see U.S. as \"weak, decadent and divided\"",
-   "lien": "https://www.cbsnews.com/video/h-r-mcmaster-says-putin-xi-see-u-s-as-weak-decadent-and-divided/",
-   "source": "CBS News",
-   "date": "2026-11-18T20:15:00+00:00",
-   "extrait": "President Trump arrived in China ahead of his meeting with Russian President Vladimir Putin and Chinese President Xi Jinping. Retired Lt. Gen. H.R. McMaster, a former adviser to President Trump…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "696ac49e9754",
-   "titre": "Guerre en Ukraine : la Commission européenne met sur la table un nouvel emprunt européen pour financer l’aide à Kiev",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/18/guerre-en-ukraine-la-commission-europeenne-met-sur-la-table-un-nouvel-emprunt-europeen-pour-financer-l-aide-a-kiev_6813206_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-18T20:12:20+00:00",
-   "extrait": "Après avoir fait à l’Ukraine un prêt de 90 milliards d’euros pour 2026 et 2027, l’exécutif communautaire prévoit de lui consacrer une nouvelle enveloppe de 45 milliards d’euros en 2027.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "bd5806ebe2b8",
-   "titre": "William and Kate meet PM Modi as they wrap up India tour",
-   "lien": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-18T20:07:08+00:00",
-   "extrait": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "fbc2f6f8b2ff",
-   "titre": "« Aucune activité malveillante » derrière les pannes en série aux Etats-Unis, assurent trois hauts responsables américains",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/18/aucune-activite-malveillante-derriere-les-pannes-en-serie-aux-etats-unis-assurent-trois-hauts-responsables-americains_6813204_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-18T19:45:09+00:00",
-   "extrait": "Des dysfonctionnements ont touché en quelques jours des produits de Microsoft, des services bancaires et le trafic aérien aux Etats-Unis, ou encore le réseau de communication interne de la NSA.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "6f943b035000",
-   "titre": "\"Désamorcer cette bombe à retardement\" : le bouclier réglementaire de l'UE contre les PFAS présente \"de nombreuses failles\", alerte un rapport",
-   "lien": "https://www.franceinfo.fr/environnement/pollution/pfas/desamorcer-la-bombe-a-retardement-des-pfas-le-bouclier-reglementaire-de-l-ue-contre-les-polluants-eternels-presente-de-nombreuses-failles-alerte-un-rapport_8288825.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T19:36:37+00:00",
-   "extrait": "La Cour des comptes européenne juge que \"les procédures de réglementation des substances chimiques dans l'Union ne sont pas bien adaptées\" aux \"polluants éternels\".",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "7a848b2f1cea",
-   "titre": "Trump ou Xi : qui dominera l'IA ?",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261118-trump-ou-xi-qui-dominera-l-ia",
-   "source": "France 24",
-   "date": "2026-11-18T19:29:41+00:00",
-   "extrait": "Donald Trump est arrivé à Shenzhen, où il a été accueilli à l’aéroport par Xi Jinping, à l’occasion du sommet de l’Apec, auquel participe également Vladimir Poutine. Un lieu symbolique, vitrine…",
-   "tags": [
-    "Politique",
-    "Tech"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "ef148b60f718",
-   "titre": "Trump ou Xi : qui dominera l'IA ?",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261118-trump-ou-xi-qui-dominera-l-ia",
-   "source": "France 24",
-   "date": "2026-11-18T19:28:46+00:00",
-   "extrait": "Donald Trump est arrivé à Shenzhen, où il a été accueilli à l’aéroport par Xi Jinping, à l’occasion du sommet de l’Apec, auquel participe également Vladimir Poutine. Un lieu symbolique, vitrine…",
-   "tags": [
-    "Politique",
-    "Tech"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "cdb9c10b7997",
-   "titre": "Présidentielle 2027 : Edouard Philippe met en musique une partie de son programme pour s’extirper du débat sur la primaire et de l’étau RN-LFI",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-edouard-philippe-met-en-musique-une-partie-de-son-programme-pour-s-extirper-du-debat-sur-la-primaire-et-de-l-etau-rn-lfi_6813202_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-18T19:21:15+00:00",
-   "extrait": "L’ancien premier ministre, à la peine dans les sondages, rêve toujours d’imposer son agenda. Sans dévoiler de nouvelles mesures, il a mis en scène la première partie de son projet tout en refusant à…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "9932f265eb69",
-   "titre": "Voyager 1 sets distance record of 1 \"light day\" from Earth",
-   "lien": "https://www.cbsnews.com/news/voyager-1-probe-light-day-earth-father-than-anything/",
-   "source": "CBS News",
-   "date": "2026-11-18T19:19:35+00:00",
-   "extrait": "Voyager 1 and its sister ship Voyager 2 are still beaming back data from interstellar space as they near their 50th anniversary next year.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "9ac5f2613ea7",
-   "titre": "Epstein's death may not have been suicide, new analysis suggests",
-   "lien": "https://www.cbsnews.com/news/jeffrey-epstein-death-suicide-forensics-expert-analysis/",
-   "source": "CBS News",
-   "date": "2026-11-18T19:16:47+00:00",
-   "extrait": "Forensics expert Dr. Michael Freeman says multiple images and overlooked details about Jeffrey Epstein's death contradict the conclusion that he died by suicide.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "ead6a8f313b6",
-   "titre": "Trump expected to press Xi on Americans detained in China",
-   "lien": "https://www.cbsnews.com/news/trump-xi-detained-americans/",
-   "source": "CBS News",
-   "date": "2026-11-18T19:08:52+00:00",
-   "extrait": "President Trump is expected to again press Chinese President Xi Jinping to release two Americans wrongfully detained in China when the leaders meet, their families say.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "661d28491a0a",
-   "titre": "Les conséquences économiques des JO 2024 sont \"très limitées\", selon un rapport de la Cour des comptes",
-   "lien": "https://www.franceinfo.fr/sports/les-consequences-economiques-des-jo-2024-sont-tres-limitees-selon-un-rapport-de-la-cour-des-comptes-agence-radio-france_8288882.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T19:06:10+00:00",
-   "extrait": "L'impact économique des Jeux olympiques et paralympiques de Paris 2024 est \"très limité\" et le bilan de leur héritage est \"mitigé\", selon un nouveau rapport de la Cour des comptes publié ce mercredi…",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "63669bf31f10",
-   "titre": "Largest U.S. data centers use as much power as some countries",
-   "lien": "https://www.cbsnews.com/news/hyperscale-data-centers-electricity-harvard-study/",
-   "source": "CBS News",
-   "date": "2026-11-18T19:05:01+00:00",
-   "extrait": "Hyperscale data centers used almost 2% of all U.S. electricity between 2024 and 2025, a Harvard study shows.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "f5e8ee0611f3",
-   "titre": "Un policier condamné en appel à huit ans de prison pour le meurtre d'Olivio Gomes en 2020",
-   "lien": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/un-policier-condamne-en-appel-a-huit-ans-de-prison-pour-le-meurtre-d-olivio-gomes-en-2020_8288852.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T19:02:16+00:00",
-   "extrait": "Gilles Guilbert, qui avait écopé de dix ans de prison en première instance, a répété en appel avoir agi en légitime défense, sans convaincre le jury populaire qui a estimé que l'usage d'une arme…",
-   "tags": [],
    "zone": "france"
   }
  ]

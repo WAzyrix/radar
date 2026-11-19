@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-19T15:05:46+00:00",
+ "maj": "2026-11-19T16:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,6 +24,72 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "2d64500f05e7",
+   "titre": "Infoblox : des configurations réseau dérobées",
+   "lien": "https://www.zataz.com/infoblox-des-configurations-reseau-derobees/",
+   "source": "Zataz",
+   "date": "2026-11-19T16:03:36+00:00",
+   "extrait": "Infoblox confirme une fuite via un prestataire compromis, exposant des configurations réseau et des données de salariés.",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "6cc8d0af0547",
+   "titre": "Scattered Spider : six ans de prison pour un pirate",
+   "lien": "https://www.zataz.com/scattered-spider-six-ans-de-prison-pour-un-pirate/",
+   "source": "Zataz",
+   "date": "2026-11-19T15:52:51+00:00",
+   "extrait": "Scattered Spider : six ans de prison pour un pirate impliqué dans des attaques par SMS et des vols de cryptomonnaies.",
+   "tags": []
+  },
+  {
+   "id": "b497415f2ca3",
+   "titre": "Bitget : 1 052 bitcoins déplacés après le piratage",
+   "lien": "https://www.zataz.com/bitget-1-052-bitcoins-deplaces-apres-le-piratage/",
+   "source": "Zataz",
+   "date": "2026-11-19T15:42:35+00:00",
+   "extrait": "Après le piratage de Bitget, plus de 78 millions $ ont été déplacés, dont une large part vers CoinJoin.",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "f92f66411a81",
+   "titre": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+   "lien": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+   "source": "The Hacker News",
+   "date": "2026-11-19T15:18:07+00:00",
+   "extrait": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including…",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
+  },
+  {
+   "id": "7008c485fa38",
+   "titre": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+   "lien": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
+   "source": "The Hacker News",
+   "date": "2026-11-19T15:11:06+00:00",
+   "extrait": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "75044bab3e73",
+   "titre": "Five warning signs of ransomware breach before encryption or data theft",
+   "lien": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
+   "source": "BleepingComputer",
+   "date": "2026-11-19T15:00:10+00:00",
+   "extrait": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help…",
+   "tags": [
+    "Ransomware",
+    "Fuite de données"
+   ]
+  },
+  {
    "id": "7cc3b724b66a",
    "titre": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
    "lien": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
@@ -45,6 +111,26 @@
    "tags": [
     "Malware"
    ]
+  },
+  {
+   "id": "6e1cc48f217d",
+   "titre": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
+   "lien": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
+   "source": "The Hacker News",
+   "date": "2026-11-19T14:33:06+00:00",
+   "extrait": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site. That can lead to a…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "aeb5f60225bd",
+   "titre": "Test des devolo BE9300 et BE6500, le mesh WiFi 7 que j'installe chez tous mes potes",
+   "lien": "https://korben.info/test-des-devolo-be9300-et-be6500-le-mesh-wifi-7-que-jinstalle-chez-tous-mes-potes.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-19T14:26:40+00:00",
+   "extrait": "Korben teste le pack de trois devolo WiFi 7 Mesh BE9300 (environ 700 euros), tri-bande avec 9,3 Gbit/s annoncés, un port 2,5 Gbit/s et trois ports Gigabit. Le BE6500, à 150 euros la borne, 6,5…",
+   "tags": []
   },
   {
    "id": "e4dbb4a47c13",
@@ -220,6 +306,149 @@
    "source": "The Hacker News",
    "date": "2026-11-19T04:33:46+00:00",
    "extrait": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws. The release is scheduled for November 19, 2026…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "8ce4471b5c20",
+   "titre": "Multiples vulnérabilités dans les produits Mitel (19 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1569/",
+   "source": "CERT-FR",
+   "date": "2026-11-19T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Mitel. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "1ddcfb722bfe",
+   "titre": "Multiples vulnérabilités dans Wireshark (19 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1575/",
+   "source": "CERT-FR",
+   "date": "2026-11-19T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Wireshark. Elles permettent à un attaquant de provoquer un déni de service à distance.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "470e56e8aa20",
+   "titre": "Vulnérabilité dans VMware Tanzu (19 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1568/",
+   "source": "CERT-FR",
+   "date": "2026-11-19T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans VMware Tanzu. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "6ddd361398ab",
+   "titre": "Multiples vulnérabilités dans Progress WS_FTP Server (19 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1570/",
+   "source": "CERT-FR",
+   "date": "2026-11-19T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Progress WS_FTP Server. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "b6dcf22e70d6",
+   "titre": "Multiples vulnérabilités dans les produits Cisco (19 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1573/",
+   "source": "CERT-FR",
+   "date": "2026-11-19T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "c64b4697d094",
+   "titre": "Multiples vulnérabilités dans PHP (19 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1580/",
+   "source": "CERT-FR",
+   "date": "2026-11-19T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans PHP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "d11fc3737eb8",
+   "titre": "Multiples vulnérabilités dans Drupal (19 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1579/",
+   "source": "CERT-FR",
+   "date": "2026-11-19T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Drupal. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "9bdf970ef233",
+   "titre": "Multiples vulnérabilités dans WordPress (19 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1574/",
+   "source": "CERT-FR",
+   "date": "2026-11-19T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans WordPress. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "b289bc4f5feb",
+   "titre": "Multiples vulnérabilités dans les produits Splunk (19 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1576/",
+   "source": "CERT-FR",
+   "date": "2026-11-19T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "4ac5c76a0407",
+   "titre": "Multiples vulnérabilités dans ClamAV (19 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1572/",
+   "source": "CERT-FR",
+   "date": "2026-11-19T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans ClamAV. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "c7bb54963a28",
+   "titre": "Vulnérabilité dans les produits Elastic (19 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1578/",
+   "source": "CERT-FR",
+   "date": "2026-11-19T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans les produits Elastic. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "15164d306c62",
+   "titre": "Multiples vulnérabilités dans Laravel (19 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1571/",
+   "source": "CERT-FR",
+   "date": "2026-11-19T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Laravel. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une injection de code indirecte à distance…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "bf0e648adb55",
+   "titre": "Multiples vulnérabilités dans les produits NetApp (19 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1577/",
+   "source": "CERT-FR",
+   "date": "2026-11-19T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et…",
    "tags": [
     "Faille"
    ]
@@ -3153,252 +3382,6 @@
    "date": "2026-11-10T16:17:16+00:00",
    "extrait": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts…",
    "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "0eb55bf1598e",
-   "titre": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
-   "lien": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
-   "source": "The Hacker News",
-   "date": "2026-11-10T16:00:55+00:00",
-   "extrait": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant. The activity, observed by Huntress in…",
-   "tags": [
-    "CVE",
-    "Faille",
-    "Malware"
-   ]
-  },
-  {
-   "id": "89d6f6254d42",
-   "titre": "Binance warns of iOS flaw that could leak crypto wallet secrets",
-   "lien": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
-   "source": "BleepingComputer",
-   "date": "2026-11-10T15:59:19+00:00",
-   "extrait": "Binance is warning about a vulnerability in Apple's iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by other apps, including cryptocurrency seed phrases…",
-   "tags": [
-    "Faille",
-    "Fuite de données",
-    "Mobile"
-   ]
-  },
-  {
-   "id": "7e413807cc2f",
-   "titre": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
-   "lien": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
-   "source": "The Hacker News",
-   "date": "2026-11-10T15:58:44+00:00",
-   "extrait": "The threat actor known as Blind Eagle has resurfaced with a new campaign targeting organizations in Latin America through judicial and administrative-themed phishing lures to deliver a remote access…",
-   "tags": [
-    "Malware"
-   ]
-  },
-  {
-   "id": "7646e96e2e7b",
-   "titre": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
-   "lien": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
-   "source": "The Hacker News",
-   "date": "2026-11-10T15:33:59+00:00",
-   "extrait": "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month uncovered further malicious activity, affecting account and billing information…",
-   "tags": [
-    "Fuite de données",
-    "IA"
-   ]
-  },
-  {
-   "id": "74f31cae8a39",
-   "titre": "Ransomware recovery is now a client retention metric",
-   "lien": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
-   "source": "BleepingComputer",
-   "date": "2026-11-10T15:01:11+00:00",
-   "extrait": "Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected…",
-   "tags": [
-    "Ransomware",
-    "Outil"
-   ]
-  },
-  {
-   "id": "4271579ddeba",
-   "titre": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
-   "lien": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
-   "source": "The Hacker News",
-   "date": "2026-11-10T12:15:31+00:00",
-   "extrait": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to…",
-   "tags": [
-    "Outil",
-    "Mobile"
-   ]
-  },
-  {
-   "id": "9af5f29020c4",
-   "titre": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
-   "lien": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
-   "source": "BleepingComputer",
-   "date": "2026-11-10T12:07:03+00:00",
-   "extrait": "SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "3badf33b9e63",
-   "titre": "Beyond the Alert: The Case for Rich Network Data",
-   "lien": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
-   "source": "The Hacker News",
-   "date": "2026-11-10T11:38:13+00:00",
-   "extrait": "At some point your security will fail. This isn’t pessimism. It’s not because your team and tools aren’t sophisticated enough. It’s the reason we have detections in the first place. And, it’s why…",
-   "tags": [
-    "Outil"
-   ]
-  },
-  {
-   "id": "ba7507c6f20e",
-   "titre": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
-   "lien": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
-   "source": "The Hacker News",
-   "date": "2026-11-10T10:16:51+00:00",
-   "extrait": "An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that…",
-   "tags": [
-    "Faille",
-    "Mobile"
-   ]
-  },
-  {
-   "id": "0e899e1e6c12",
-   "titre": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
-   "lien": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
-   "source": "BleepingComputer",
-   "date": "2026-11-10T10:10:20+00:00",
-   "extrait": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root…",
-   "tags": [
-    "Faille",
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "7d35c70e6708",
-   "titre": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
-   "lien": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
-   "source": "The Hacker News",
-   "date": "2026-11-10T10:07:29+00:00",
-   "extrait": "The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' Microsoft…",
-   "tags": [
-    "Fuite de données",
-    "Malware",
-    "Outil",
-    "Windows"
-   ]
-  },
-  {
-   "id": "8791ad63d4b7",
-   "titre": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
-   "lien": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
-   "source": "BleepingComputer",
-   "date": "2026-11-10T10:04:32+00:00",
-   "extrait": "The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations. [...]",
-   "tags": [
-    "Fuite de données",
-    "Malware",
-    "Windows"
-   ]
-  },
-  {
-   "id": "ce0b470d4dea",
-   "titre": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
-   "lien": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
-   "source": "The Hacker News",
-   "date": "2026-11-10T10:02:40+00:00",
-   "extrait": "Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score. Three are in the SAP…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "e56a3763b149",
-   "titre": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
-   "lien": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
-   "source": "The Hacker News",
-   "date": "2026-11-10T09:08:20+00:00",
-   "extrait": "An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran's Islamic Revolutionary Guard Corps (IRGC), the French government said…",
-   "tags": []
-  },
-  {
-   "id": "7e1f9b33c691",
-   "titre": "Google patches eighth Chrome zero-day exploited in attacks this year",
-   "lien": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
-   "source": "BleepingComputer",
-   "date": "2026-11-10T08:51:25+00:00",
-   "extrait": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "0e6f77f0820c",
-   "titre": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
-   "lien": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
-   "source": "The Hacker News",
-   "date": "2026-11-10T08:16:14+00:00",
-   "extrait": "Anthropic on Monday released Claude Fable 5.2 and Claude Mythos 5.2 models, which it said exhibit improvements in coding, reasoning, and vision. During pre-release training, the large language…",
-   "tags": [
-    "IA"
-   ]
-  },
-  {
-   "id": "7d2482c88528",
-   "titre": "Fireworks AI discloses new breach after cloud provider hack",
-   "lien": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
-   "source": "BleepingComputer",
-   "date": "2026-11-10T07:49:58+00:00",
-   "extrait": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]",
-   "tags": [
-    "Fuite de données",
-    "IA"
-   ]
-  },
-  {
-   "id": "9844bc61915e",
-   "titre": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
-   "lien": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
-   "source": "The Hacker News",
-   "date": "2026-11-10T06:52:54+00:00",
-   "extrait": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE…",
-   "tags": [
-    "CVE",
-    "Faille"
-   ]
-  },
-  {
-   "id": "79fe4fc65cdf",
-   "titre": "Platypus - L'ornithorynque qui vous fait cligner des yeux",
-   "lien": "https://korben.info/platypus-cligner-des-yeux-ecran.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-11-10T06:49:52+00:00",
-   "extrait": "Platypus Companion fait passer quelques secondes un ornithorynque en bas de l'écran, sur Mac et Windows, pour vous rappeler de cligner des yeux, de vous étirer ou de faire une pause. Version…",
-   "tags": [
-    "Windows"
-   ]
-  },
-  {
-   "id": "329980cc6fad",
-   "titre": "N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits",
-   "lien": "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html",
-   "source": "The Hacker News",
-   "date": "2026-11-10T06:44:36+00:00",
-   "extrait": "N-able said it has taken N-central Hosted Environments offline and is urging on-premises customers to shut down their servers until further notice following the public disclosure of over 30…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "b579a343e6b6",
-   "titre": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
-   "lien": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
-   "source": "The Hacker News",
-   "date": "2026-11-10T06:31:42+00:00",
-   "extrait": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added four security flaws impacting GPUStack, SignalWire FreeSwitch, OpenBSD OpenSSH, and IBM Aspera Faspex to its Known…",
-   "tags": [
-    "CVE",
     "Faille"
    ]
   }
