@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-19T22:05:38+00:00",
+ "maj": "2026-11-19T23:05:45+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "df29d71aedcb",
+   "titre": "Hackers steal data of 1.6 million SBC Medical Group customers",
+   "lien": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
+   "source": "BleepingComputer",
+   "date": "2026-11-19T22:25:42+00:00",
+   "extrait": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including…",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
   {
    "id": "3797ecb529a5",
    "titre": "ASUS warns of critical hard-coded key flaw in Control Center Express",
@@ -3364,17 +3375,6 @@
    "tags": [
     "Fuite de données",
     "IA"
-   ]
-  },
-  {
-   "id": "230bcad0faf3",
-   "titre": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
-   "lien": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
-   "source": "BleepingComputer",
-   "date": "2026-11-10T20:54:55+00:00",
-   "extrait": "Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]",
-   "tags": [
-    "Fuite de données"
    ]
   }
  ]
