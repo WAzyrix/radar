@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-19T00:05:41+00:00",
+ "maj": "2026-11-19T01:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,97 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "3b74b51da677",
+   "titre": "Tim Ryan, Rep. Dan Crenshaw on whether Americans should be worried about widespread tech outages",
+   "lien": "https://www.cbsnews.com/video/politicians-discuss-whether-americans-should-be-worried-amid-widespread-tech-outages/",
+   "source": "CBS News",
+   "date": "2026-11-19T00:49:21+00:00",
+   "extrait": "Former Democratic Congressman Tim Ryan of Ohio and Republican Rep. Dan Crenshaw of Texas join \"The Takeout\" to discuss the recent wave of tech outages and more.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "43a2d9476efa",
+   "titre": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+   "lien": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-19T00:49:19+00:00",
+   "extrait": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "7ab40838ae16",
+   "titre": "Iran ramps up attacks on Gulf countries after U.S. strikes",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
+   "source": "CBS News",
+   "date": "2026-11-19T00:46:41+00:00",
+   "extrait": "America's Persian Gulf allies and oil tankers are under fire as Iran appears to lash out following U.S. strikes on a key island in the Strait of Hormuz.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "1e0689dfba5b",
+   "titre": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
+   "lien": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-19T00:38:52+00:00",
+   "extrait": "India will remain predominantly Hindu, though its Muslim population is projected to grow faster, according to a new survey.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "b0e3085011e7",
+   "titre": "Intelligence artificielle : avec une action mise en vente à 83 dollars, Anthropic valorisée 1 500 milliards de dollars à la veille de son entrée en Bourse",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/19/intelligence-artificielle-avec-une-action-mise-en-vente-a-83-dollars-anthropic-valorisee-1-500-milliards-de-dollars-a-la-veille-de-son-entree-en-bourse_6813215_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-19T00:20:25+00:00",
+   "extrait": "Face à l’importance de la demande, le leader de l’intelligence artificielle a réévalué à la hausse le prix de son introduction en Bourse, mercredi soir. La firme doit financer ses engagements à long…",
+   "tags": [
+    "Économie",
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "9797c6dbf7be",
+   "titre": "Le tableau de Van Gogh « Châtaigniers en fleurs » vendu 190,4 millions de dollars, un record pour le peintre",
+   "lien": "https://www.lemonde.fr/culture/article/2026/11/19/le-tableau-de-van-gogh-chataigniers-en-fleurs-vendu-190-4-millions-de-dollars-un-record-pour-le-peintre_6813214_3246.html",
+   "source": "Le Monde",
+   "date": "2026-11-19T00:09:23+00:00",
+   "extrait": "La maison de vente aux enchères Sotheby’s avait annoncé, mardi, qu’un accord avait été trouvé avec une famille qui contestait la mise en vente de l’œuvre, mettant en avant les conditions de son…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "d0f0eeb83fb5",
+   "titre": "Mystery firm spending millions to attend Trump crypto gala",
+   "lien": "https://www.cbsnews.com/video/mystery-firm-spending-millions-to-attend-trump-crypto-gala/",
+   "source": "CBS News",
+   "date": "2026-11-19T00:00:43+00:00",
+   "extrait": "A mysterious digital finance firm claims to have amassed more than $2 million in $TRUMP coin over the past two months in a competition to attend President Trump's upcoming cryptocurrency gala…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "56e19c387209",
+   "titre": "Sommet de Shenzen en direct : une rencontre historique entre Trump, Poutine et Xi",
+   "lien": "https://www.france24.com/fr/asie-pacifique/20261119-sommet-apec-en-direct-rencontres-diplomatiques-attendues-shenzhen-trump-poutine-xi-jinping",
+   "source": "France 24",
+   "date": "2026-11-19T00:00:34+00:00",
+   "extrait": "Les trois chefs d'État les plus puissants au monde s'afficheront ensemble, jeudi, à Shenzen, en Chine, alors que se tient le sommet de la Coopération économique Asie-Pacifique. En marge de cet…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "e07f3bce8b5b",
    "titre": "Hardcore GTA fans ditch work so they have time to play",
    "lien": "https://www.cbsnews.com/news/gta-6-fans-take-pto-launch/",
@@ -30,6 +121,19 @@
    "extrait": "Some employees locked in their time off months ago, so they're free to start playing Grand Theft Auto 6 as soon as it launches on Nov. 19.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "0a0fdbae5229",
+   "titre": "Apec : une réunion bilatérale entre Donald Trump et Xi Jinping, avant la rencontre tripartite",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261118-apec-une-r%C3%A9union-bilat%C3%A9rale-entre-donald-trump-et-xi-jinping-avant-la-rencontre-tripartite",
+   "source": "France 24",
+   "date": "2026-11-18T23:56:49+00:00",
+   "extrait": "Xi Jinping est venu accueillir en personne Donald Trump à son arrivée sur le sol chinois. \"Mais ces démonstrations d'affection ne cachent pas les points de tensions entre Washington et Pékin\" qui…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
   },
   {
    "id": "8b069159513b",
@@ -54,6 +158,16 @@
     "Tech"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "0636c4912057",
+   "titre": "\"Châtaigniers en fleurs\" de Van Gogh vendu 190,4 millions de dollars, un record pour le peintre",
+   "lien": "https://www.france24.com/fr/culture/20261118-ch%C3%A2taigniers-en-fleurs-de-van-gogh-vendu-190-4-millions-de-dollars-un-record-pour-le-peintre",
+   "source": "France 24",
+   "date": "2026-11-18T23:53:28+00:00",
+   "extrait": "Adjugé à 190,4 millions de dollars, le tableau \"Châtaigniers en fleurs\" est devenu mercredi l'œuvre de Vincent van Gogh la plus chère vendue aux enchères. Sotheby's à New York avait annoncé, la…",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "70abe257caa0",
@@ -92,6 +206,16 @@
    "zone": "usa"
   },
   {
+   "id": "87fd25ae87d1",
+   "titre": "Why has Waymo pulled all its driverless cars from US freeways?",
+   "lien": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-18T23:47:46+00:00",
+   "extrait": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
    "id": "c4da92541f77",
    "titre": "Anthropic's IPO set for blastoff in key test for AI boom",
    "lien": "https://www.cbsnews.com/news/anthropic-ipo-ai-boom-nasdaq-debut/",
@@ -105,7 +229,7 @@
   },
   {
    "id": "c6d87bb33ae7",
-   "titre": "Claude-maker Anthropic poised for $1.4tn stock market debut",
+   "titre": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
    "lien": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-18T23:44:27+00:00",
@@ -129,18 +253,6 @@
    "zone": "monde"
   },
   {
-   "id": "7ab40838ae16",
-   "titre": "Iran ramps up attacks on Gulf countries after U.S. strikes",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
-   "source": "CBS News",
-   "date": "2026-11-18T23:29:56+00:00",
-   "extrait": "America's Persian Gulf allies and oil tankers are under fire as Iran appears to lash out following U.S. strikes on a key island in the Strait of Hormuz.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "278d192fddba",
    "titre": "Trump in China for talks with Xi and Putin: What to expect",
    "lien": "https://www.cbsnews.com/video/what-to-expect-as-trump-in-china-for-talks-with-xi-putin/",
@@ -154,14 +266,14 @@
   },
   {
    "id": "1431aa957fde",
-   "titre": "Russian man accused of spying on US tech defence company that assists Ukraine",
+   "titre": "Russian arrested for spying on US defence company Palantir over Ukraine support",
    "lien": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-18T23:28:03+00:00",
-   "extrait": "The suspect followed employees and and was found with fake US ID documents and two Russian passports, US prosecutors say.",
+   "extrait": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
    "tags": [
     "Conflits",
-    "Tech"
+    "Justice"
    ],
    "zone": "monde"
   },
@@ -170,12 +282,24 @@
    "titre": "Mayotte frappée par une panne d’électricité généralisée à la suite d’un épisode de fortes pluies",
    "lien": "https://www.lemonde.fr/outre-mer/article/2026/11/19/mayotte-frappee-par-une-panne-d-electricite-generalisee-a-la-suite-d-un-episode-de-fortes-pluies_6813212_1840826.html",
    "source": "Le Monde",
-   "date": "2026-11-18T23:19:28+00:00",
+   "date": "2026-11-18T23:19:26+00:00",
    "extrait": "L’opérateur Electricité de Mayotte assure que 98 % des foyers sont réalimentés, et que ses équipes « poursuivent les manœuvres de rétablissement ».",
    "tags": [
     "Conflits"
    ],
    "zone": "france"
+  },
+  {
+   "id": "f988333cca23",
+   "titre": "\"Femmeblancherie\" : le procès de la haine des femmes",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261118-femmeblancherie-le-proc%C3%A8s-de-la-haine-des-femmes",
+   "source": "France 24",
+   "date": "2026-11-18T23:18:12+00:00",
+   "extrait": "Ce mercredi s’est ouvert le procès de sept membres du canal Telegram « Femmeblancherie » au tribunal judiciaire de Paris. Appels aux féminicides et aux viols, fichages racistes et homophobes…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
   },
   {
    "id": "9b7965fa86ed",
@@ -254,6 +378,18 @@
    "extrait": "Deux ex-épouses d'Adrien Guihal, haut cadre de l'EI qui avait revendiqué en 2016 les attentats de Nice et de Magnanville, ont notamment été condamnées par la cour d'assises spéciale de Paris.",
    "tags": [],
    "zone": "france"
+  },
+  {
+   "id": "59fd6ec5adc6",
+   "titre": "Présidentielle : Marine Tondelier \"prête à travailler à une coalition\" autour de Jean-Luc Mélenchon",
+   "lien": "https://www.france24.com/fr/france/20261118-presidentielle-2027-election-marine-tondelier-ecologistes-prete-travailler-coalition-autour-jean-luc-melenchon-la-france-insoumise-soutien",
+   "source": "France 24",
+   "date": "2026-11-18T22:39:24+00:00",
+   "extrait": "Qualifiant la dynamique de campagne de Jean-Luc Mélenchon d'\"indéniable\", la candidate des Écologistes à la présidentielle, Marine Tondelier, a dit, mercredi sur France 2, être \"prête\" à \"travailler…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
   },
   {
    "id": "018e3f2464e1",
@@ -349,6 +485,18 @@
     "Justice"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "3d48cee88b9d",
+   "titre": "Pont de Crimée attaqué : vrais dégâts, fausses vidéos",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261118-pont-de-crim%C3%A9e-attaqu%C3%A9-vrais-d%C3%A9g%C3%A2ts-fausses-vid%C3%A9os",
+   "source": "France 24",
+   "date": "2026-11-18T22:03:19+00:00",
+   "extrait": "L’Ukraine a, par deux nuits consécutives de frappes, partiellement détruit le pont de Crimée, cet axe stratégique pour la Russie, qui relie au territoire russe la péninsule annexée par Moscou en…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
   },
   {
    "id": "845734dc495c",
@@ -545,7 +693,7 @@
    "lien": "https://www.lemonde.fr/international/article/2026/11/18/guerre-en-ukraine-la-commission-europeenne-met-sur-la-table-un-nouvel-emprunt-europeen-pour-financer-l-aide-a-kiev_6813206_3210.html",
    "source": "Le Monde",
    "date": "2026-11-18T20:12:20+00:00",
-   "extrait": "Après avoir fait à l’Ukraine un prêt de 90 milliards d’euros pour 2026 et 2027, l’exécutif communautaire prévoit de lui consacrer une nouvelle enveloppe de 45 milliards d’euros l’an prochain.",
+   "extrait": "Après avoir fait à l’Ukraine un prêt de 90 milliards d’euros pour 2026 et 2027, l’exécutif communautaire prévoit de lui consacrer une nouvelle enveloppe de 45 milliards d’euros en 2027.",
    "tags": [
     "Conflits"
    ],
@@ -1131,7 +1279,7 @@
    "titre": "Vladimir Poutine savoure son retour au cœur de la diplomatie mondiale, aux côtés de Donald Trump et Xi Jinping à Shenzhen",
    "lien": "https://www.lemonde.fr/international/article/2026/11/18/vladimir-poutine-savoure-son-retour-au-c-ur-de-la-diplomatie-mondiale-aux-cotes-de-donald-trump-et-xi-jinping-a-shenzhen_6813174_3210.html",
    "source": "Le Monde",
-   "date": "2026-11-18T17:00:19+00:00",
+   "date": "2026-11-18T17:00:08+00:00",
    "extrait": "Le président russe doit rencontrer ses homologues chinois et américain, jeudi, en marge du sommet de la Coopération économique pour l’Asie-Pacifique. Alors que le chef du Kremlin est visé par un…",
    "tags": [
     "Politique",
@@ -1578,6 +1726,16 @@
    "zone": "monde"
   },
   {
+   "id": "f3d9079d4297",
+   "titre": "États-Unis : le démocrate Hakeem Jeffries désigné futur speaker de la Chambre, une première pour un Afro-Américain",
+   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261118-apr%C3%A8s-les-midterms-hakeem-jeffries-choisi-par-les-d%C3%A9mocrates-pour-devenir-speaker-de-la-chambre",
+   "source": "France 24",
+   "date": "2026-11-18T15:43:42+00:00",
+   "extrait": "",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
    "id": "86d92e570d5d",
    "titre": "Shenzhen, la Silicon Valley chinoise",
    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261118-shenzhen-la-silicon-valley-chinoise",
@@ -1632,18 +1790,6 @@
     "Santé"
    ],
    "zone": "france"
-  },
-  {
-   "id": "f3d9079d4297",
-   "titre": "Après les midterms, Hakeem Jeffries désigné par les démocrates pour devenir Speaker de la Chambre",
-   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261118-apr%C3%A8s-les-midterms-hakeem-jeffries-choisi-par-les-d%C3%A9mocrates-pour-devenir-speaker-de-la-chambre",
-   "source": "France 24",
-   "date": "2026-11-18T15:38:40+00:00",
-   "extrait": "Le démocrate ​Hakeem Jeffries a été désigné, mercredi, par les membres de son parti comme \"speaker\" à la Chambre des représentants. Un évènement symbolique : il va devenir le premier président…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
   },
   {
    "id": "7aa807d469c9",
@@ -3276,151 +3422,6 @@
    "tags": [
     "Politique"
    ],
-   "zone": "france"
-  },
-  {
-   "id": "901221c7821d",
-   "titre": "Dans le nord-ouest de la Chine, un petit félin tient tête à un chantier d’éoliennes géantes",
-   "lien": "https://www.lemonde.fr/planete/article/2026/11/18/dans-le-nord-ouest-de-la-chine-un-petit-felin-tient-tete-a-un-chantier-d-eoliennes-geantes_6813110_3244.html",
-   "source": "Le Monde",
-   "date": "2026-11-18T10:30:02+00:00",
-   "extrait": "Une population de manuls, inscrits sur la liste nationale des animaux sauvages protégés, est menacée par un projet éolien près de la ville de Zhangye. Après l’intervention d’ONG, le département de…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "2f77c8f7488e",
-   "titre": "\"GTA VI\" en tête des nominations aux Game Awards, qui récompensent les meilleurs jeux vidéo de l'année, avant même sa sortie jeudi",
-   "lien": "https://www.franceinfo.fr/culture/jeux-video/jeux-video-gta-vi-en-tete-des-nominations-aux-game-awards-avant-meme-sa-sortie-jeudi_8287916.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T10:26:19+00:00",
-   "extrait": "S'il fait la course en tête cette année, \"GTA VI\" est toutefois loin du record établi en 2025 par la production française \"Clair Obscur: Expedition 33\" et ses douze nominations.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "da6fc3a9b15c",
-   "titre": "Sommet de l'APEC : le scandale Nvidia dégrade les relations sino-américaines",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261118-sommet-de-l-apec-le-scandale-nvidia-d%C3%A9grade-les-relations-sino-am%C3%A9ricaines",
-   "source": "France 24",
-   "date": "2026-11-18T10:24:34+00:00",
-   "extrait": "Le président chinois Xi ​Jinping a appelé, mercredi 18 novembre, à soutenir ce qu'il a décrit comme ​un \"commerce libre et ouvert\", dans un discours prononcé en ouverture du sommet de l'APEC. Ces…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "55134f7fb917",
-   "titre": "Democrats win Alaska Senate race two weeks after midterms counting began",
-   "lien": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-18T10:23:57+00:00",
-   "extrait": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "8004e409b20e",
-   "titre": "\"Il faut savoir dire stop\" : les absences pour consultation médicale se multiplient chez les CRS, éprouvés et en colère face à la mobilisation sociale",
-   "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/il-y-a-une-grosse-fatigue-physique-les-crs-a-bout-se-mobilisent_8287067.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T10:22:03+00:00",
-   "extrait": "Pour certains de ces policiers, ces consultations sont une alternative face à l'absence de droit de grève. Selon le syndicat Alliance Police nationale, plus de 1 000 d'entre eux étaient…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "2fa39bcbd9e3",
-   "titre": "Sommet de l'APEC : les chefs d'État Trump, Poutine et Jinping réunis en Chine",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261118-sommet-de-l-apec-les-chefs-d-%C3%A9tat-trump-poutine-et-jinping-r%C3%A9unis-en-chine",
-   "source": "France 24",
-   "date": "2026-11-18T10:19:39+00:00",
-   "extrait": "Donald Trump est arrivé mercredi 18 novembre à Shenzhen, dans le sud-est de la Chine, où il doit participer le lendemain à un sommet tripartite inédit avec les présidents chinois Xi Jinping et russe…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "c4c0ea798c49",
-   "titre": "JOJ Dakar 2026 : Dior Diagne, costumière dans l’ombre de la cérémonie d’ouverture",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261118-joj-dakar-2026-dior-diagne-costumi%C3%A8re-dans-l-ombre-de-la-c%C3%A9r%C3%A9monie-d-ouverture",
-   "source": "France 24",
-   "date": "2026-11-18T10:16:41+00:00",
-   "extrait": "Derrière le spectacle des JOJ Dakar 2026, il y avait aussi des métiers et des talents que le public n’a pas toujours vus. Dior Diagne, costumière, raconte les coulisses de son travail et les défis…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "9761b5e9f0ac",
-   "titre": "Le SP95-E10 est repassé sous la barre des 2 euros le litre en moyenne, à son plus bas depuis août",
-   "lien": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/infographie-le-sp95-e10-est-repasse-sous-la-barre-des-2-euros-le-litre-en-moyenne_8287964.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T10:14:40+00:00",
-   "extrait": "Le prix du litre de sans-plomb E10 à la pompe avait atteint un record le 20 septembre, selon nos données, en atteignant les 2,17 euros le litre en moyenne.",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "2611e4ea0088",
-   "titre": "Réforme des retraites : de LFI à LR en passant par le Medef, le projet de Marine Le Pen critiqué de tous bords",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/18/de-lfi-a-lr-en-passant-par-le-medef-le-projet-de-reforme-des-retraites-de-marine-le-pen-critique-de-tous-bords_6813010_823449.html",
-   "source": "Le Monde",
-   "date": "2026-11-18T10:12:34+00:00",
-   "extrait": "Des modalités de financement « contestables » selon le Medef, « une maltraitance sociale très violente » selon Jean-Luc Mélenchon (LFI)… Le projet de réforme des retraites présenté par Marine Le…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "7722ba088ec0",
-   "titre": "Face à la précarité, près de \"3 millions de personnes n'ont pas accès au 100% santé\", alerte une association d'opticiens",
-   "lien": "https://www.franceinfo.fr/sante/face-a-la-precarite-pres-de-3-millions-de-personnes-n-ont-pas-acces-au-100-sante-alerte-une-association-d-opticiens_8288027.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T10:11:28+00:00",
-   "extrait": "Le dispositif permet à certaines personnes d'avoir des lunettes de qualité intégralement remboursées. Mais l'association Vision Solidarité remarque ceux qui n'ont pas les bonnes couvertures sociales…",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "49f02a581db0",
-   "titre": "Attaque américaine sur l'île de Qeshm, réplique iranienne sur les pays du Golfe… On fait le point sur le regain de tensions entre l'Iran et les Etats-Unis",
-   "lien": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/attaque-americaine-sur-l-ile-de-qeshm-replique-iranienne-sur-les-pays-du-golfe-on-fait-le-point-sur-le-regain-de-tensions-entre-l-iran-et-les-etats-unis_8287895.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T10:10:17+00:00",
-   "extrait": "Ces nouvelles tensions au Moyen-Orient interviennent alors que Donald Trump est attendu en Chine pour un sommet inédit avec ses homologues chinois et russe.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "12d59026ba97",
-   "titre": "Éliminatoires de la CAN 2027 : qualification pour le Sénégal et cinq autres nations",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261118-%C3%A9liminatoires-can-2027-qualification-s%C3%A9n%C3%A9gal-cinq-autres-nations",
-   "source": "France 24",
-   "date": "2026-11-18T10:08:03+00:00",
-   "extrait": "Les premiers qualifiés pour la CAN 2027 sont connus. Le Sénégal, le Cameroun et le Maroc en font notamment partie.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "fc69323983f3",
-   "titre": "Un accident de tramway blesse 16 personnes dans le Val-de-Marne après une collision entre deux rames",
-   "lien": "https://www.franceinfo.fr/economie/transports/un-accident-de-tramway-blesse-16-personnes-dans-le-val-de-marne-apres-une-collision-entre-deux-rames_8287820.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-18T10:06:52+00:00",
-   "extrait": "Des investigations sont en cours pour déterminer les causes de cet accident.",
-   "tags": [],
    "zone": "france"
   }
  ]
