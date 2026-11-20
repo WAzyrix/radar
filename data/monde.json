@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-20T20:45:36+00:00",
+ "maj": "2026-11-20T21:05:48+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,63 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "e111fad6083e",
+   "titre": "House Ethics aims to speed up sexual misconduct investigations",
+   "lien": "https://www.cbsnews.com/news/house-ethics-committee-sexual-misconduct-investigations-changes/",
+   "source": "CBS News",
+   "date": "2026-11-20T21:03:23+00:00",
+   "extrait": "The pace of the committee's investigations has come under scrutiny after several members were accused of sexual misconduct this year.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "79dce0ba02cf",
+   "titre": "\"GTA VI, le jeu vidéo qui rend la planète folle\" : regardez le documentaire de franceinfo consacré à la sortie mondiale la plus attendue des gamers",
+   "lien": "https://www.franceinfo.fr/culture/jeux-video/gta-vi/direct-gta-vi-le-jeu-video-qui-rend-la-planete-folle-regardez-le-documentaire-de-franceinfo-consacre-a-la-sortie-mondiale-la-plus-attendue-des-gamers_8291969.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T21:02:16+00:00",
+   "extrait": "Le nouvel opus de \"Grand Theft Auto\" est devenu un événement planétaire. Mais pour quelles raisons ? Quelle est la recette du succès de la franchise ?",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "52000d74bc14",
+   "titre": "South Florida severe weather and flooding live updates",
+   "lien": "https://www.cbsnews.com/live-updates/south-florida-flooding-live-updates-heavy-rain-broward-miami-dade/",
+   "source": "CBS News",
+   "date": "2026-11-20T20:59:31+00:00",
+   "extrait": "Historic flooding across South Florida has left neighborhoods underwater, roads impassable and Broward schools closed as residents begin cleanup efforts and officials assess the damage.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "473258081e1e",
+   "titre": "Stocks enter correction territory, driven by a deepening tech rout",
+   "lien": "https://www.cbsnews.com/news/stocks-enter-correction-territory-ai-fears/",
+   "source": "CBS News",
+   "date": "2026-11-20T20:57:54+00:00",
+   "extrait": "The tech-heavy Nasdaq tumbled more than 1,200 points, putting it on track for its second-worst day of the year.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "36fb31620a7c",
+   "titre": "Trump threatens ban on US firms building AI data centres overseas",
+   "lien": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-20T20:54:12+00:00",
+   "extrait": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+   "tags": [
+    "Politique",
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "3fa870bbafc9",
    "titre": "The deadliest drug threat the U.S. has ever faced",
    "lien": "https://www.cbsnews.com/video/the-deadliest-drug-threat-the-u-s-has-ever-faced/",
@@ -40,19 +97,6 @@
    "extrait": "Anthropic says Claude Science can drive breakthroughs in drug discovery. It could also open lucrative commercial opportunities, experts say.",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "36fb31620a7c",
-   "titre": "Trump threatens ban on US firms building AI data centres overseas",
-   "lien": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-20T20:35:26+00:00",
-   "extrait": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-   "tags": [
-    "Politique",
-    "Tech"
-   ],
-   "zone": "monde"
   },
   {
    "id": "af1e23ddc112",
@@ -222,18 +266,6 @@
    "extrait": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
    "tags": [],
    "zone": "monde"
-  },
-  {
-   "id": "52000d74bc14",
-   "titre": "South Florida severe weather and flooding live updates",
-   "lien": "https://www.cbsnews.com/live-updates/south-florida-flooding-live-updates-heavy-rain-broward-miami-dade/",
-   "source": "CBS News",
-   "date": "2026-11-20T19:43:14+00:00",
-   "extrait": "Historic flooding across South Florida has left neighborhoods underwater, roads impassable and Broward schools closed as residents begin cleanup efforts and officials assess the damage.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "usa"
   },
   {
    "id": "62cc43d451fe",
@@ -652,16 +684,6 @@
    "extrait": "New York City Mayor Zohran Mamdani unveiled his strategy to shut down Rikers Island and replace it with four smaller jails across the city.",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "79dce0ba02cf",
-   "titre": "\"GTA VI, le jeu vidéo qui rend la planète folle\" : regardez le documentaire de franceinfo consacré à la sortie mondiale la plus attendue des gamers",
-   "lien": "https://www.franceinfo.fr/culture/jeux-video/gta-vi/direct-gta-vi-le-jeu-video-qui-rend-la-planete-folle-regardez-le-documentaire-de-franceinfo-consacre-a-la-sortie-mondiale-la-plus-attendue-des-gamers_8291969.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-20T17:30:02+00:00",
-   "extrait": "Le nouvel opus de \"Grand Theft Auto\" est devenu un événement planétaire. Mais pour quelles raisons ? Quelle est la recette du succès de la franchise ?",
-   "tags": [],
-   "zone": "france"
   },
   {
    "id": "b4048cca48c2",
@@ -3434,28 +3456,6 @@
    "tags": [
     "Politique"
    ],
-   "zone": "france"
-  },
-  {
-   "id": "7c0ffdc4f17c",
-   "titre": "Nigeria moves to end jail terms for attempted suicide",
-   "lien": "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-20T06:32:17+00:00",
-   "extrait": "Nigeria's proposed reform follows years of calls from psychiatrists and a parallel Senate bill.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "b7124aa533c2",
-   "titre": "DJ Snake se produira au château de Chambord pour son unique date en France en 2027",
-   "lien": "https://www.franceinfo.fr/culture/musique/dj-snake-se-produira-au-chateau-de-chambord-pour-son-unique-date-en-france-en-2027_8291696.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-20T06:18:59+00:00",
-   "extrait": "Dans sa chronique Culture, le journaliste Youssef Bouchikhi revient sur l'annonce de DJ Snake qui va faire un concert au château de Chambord. L'édifice est menacé par le réchauffement climatique…",
-   "tags": [],
    "zone": "france"
   }
  ]
