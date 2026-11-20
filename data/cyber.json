@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-20T08:05:39+00:00",
+ "maj": "2026-11-20T09:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,27 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "1e4a73ccd547",
+   "titre": "Farcall - Un PC de 1981 qui s'ouvre dans votre terminal",
+   "lien": "https://korben.info/farcall-emulateur-dos-ssh.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-20T08:10:36+00:00",
+   "extrait": "Farcall émule le premier IBM PC et son 8088, écrit en Rust par un développeur qui voulait comprendre la machine. Son serveur SSH public sert FreeDOS, Zork ou NetHack dans le terminal. Ce que…",
+   "tags": []
+  },
+  {
+   "id": "f6c6f1898a5b",
+   "titre": "Faire tourner une RTX 5060 sous Windows 7, à vos risques et périls",
+   "lien": "https://korben.info/directx-12-windows-7-wddm2win7.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-20T07:55:56+00:00",
+   "extrait": "WDDM2Win7 porte WDDM 2 sur Windows 7 : RTX 5060, RX 9060 XT et DirectX 12 apparaissent sur les captures. Mais ce sont des pilotes non vérifiables sur un OS sans correctifs, donc machine de bidouille…",
+   "tags": [
+    "Faille",
+    "Windows"
+   ]
+  },
   {
    "id": "ba74506a96ac",
    "titre": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
@@ -3349,31 +3370,6 @@
    "extrait": "Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates. [...]",
    "tags": [
     "Windows"
-   ]
-  },
-  {
-   "id": "44096b209ce3",
-   "titre": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
-   "lien": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
-   "source": "The Hacker News",
-   "date": "2026-11-11T08:17:53+00:00",
-   "extrait": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws. These cover…",
-   "tags": [
-    "Faille",
-    "Outil",
-    "Windows"
-   ]
-  },
-  {
-   "id": "358cd686d516",
-   "titre": "Synctrain - Vos fichiers Syncthing à la demande sur iPhone",
-   "lien": "https://korben.info/synctrain-syncthing-iphone-ipad-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-11-11T08:00:00+00:00",
-   "extrait": "Synctrain est un client Syncthing gratuit et open source pour iPhone, iPad et Mac qui ne garde que les fichiers choisis et streame le reste depuis vos machines.",
-   "tags": [
-    "Outil",
-    "Mobile"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-20T08:05:39+00:00",
+ "maj": "2026-11-20T09:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -19,8 +19,175 @@
   "Tech",
   "Sport"
  ],
- "erreurs": [],
+ "erreurs": [
+  "France 24"
+ ],
  "articles": [
+  {
+   "id": "315473718512",
+   "titre": "Au moins 6 milliards d'euros d'économies supplémentaires sont nécessaires pour boucler le budget 2027, reconnaît le ministre des Comptes publics",
+   "lien": "https://www.franceinfo.fr/economie/budget/au-moins-6-milliards-d-euros-d-economies-supplementaires-sont-necessaires-pour-boucler-le-budget-2027-reconnait-le-ministre-des-comptes-publics_8291879.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T09:02:18+00:00",
+   "extrait": "Le projet de loi de finances commence à être débattu au Sénat après son rejet à l'Assemblée nationale.",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "f451b9b779d9",
+   "titre": "Three Kyiv bridges hit during major Russian missile attack",
+   "lien": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-20T09:01:06+00:00",
+   "extrait": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "9bd532b7138a",
+   "titre": "Un bébé de 14 mois retrouvé en pleurs dans une crèche fermée de l'Oise",
+   "lien": "https://www.franceinfo.fr/faits-divers/un-bebe-de-14-mois-retrouve-en-pleurs-dans-une-creche-fermee-de-l-oise_8291906.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T08:59:34+00:00",
+   "extrait": "Le bébé a été découvert dans un lit du dortoir par les policiers, après une alerte de ses parents. Les personnels de la crèche ont été entendus librement par les enquêteurs.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "7ab40838ae16",
+   "titre": "Iran may be working on biological weapons, Trump says",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
+   "source": "CBS News",
+   "date": "2026-11-20T08:51:51+00:00",
+   "extrait": "President Trump told Fox News there are indications Iran may be working on biological or chemical weapons as the war drags on toward its ninth month.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "89614d936d10",
+   "titre": "Meet Anthropic's 7 co-founders, now worth about $20 billion each",
+   "lien": "https://www.cbsnews.com/news/anthropic-ipo-founders-net-worth/",
+   "source": "CBS News",
+   "date": "2026-11-20T08:43:27+00:00",
+   "extrait": "Dario Amodei and the company's other six co-founders instantly joined the ranks of America's richest citizens with the AI giant's initial public offering.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "f23eef03ac38",
+   "titre": "Le maire de Fontenay-sous-Bois exprime son émotion \"très vive\", après l'incendie qui a fait un mort dans le Val-de-Marne",
+   "lien": "https://www.franceinfo.fr/faits-divers/incendie/le-maire-de-fontenay-sous-bois-exprime-son-emotion-tres-vive-apres-l-incendie-qui-a-fait-un-mort-dans-le-val-de-marne_8291894.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T08:42:06+00:00",
+   "extrait": "Jean-Philippe Gautrais salue également le \"travail remarquable\" des secours présents sur place. Le maire rappelle l'implication des services municipaux \"pour accompagner les habitants et trouver des…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "aec97d6dad47",
+   "titre": "Une militante accréditée par la France se voit retirer son badge pour la COP31 sur le climat après un échange filmé avec la ministre Monique Barbut",
+   "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/une-militante-accreditee-par-la-france-se-voit-retirer-son-badge-pour-la-cop31-sur-le-climat-apres-un-echange-filme-avec-la-ministre-monique-barbut_8291873.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T08:33:27+00:00",
+   "extrait": "La femme a interpellé la ministre sur des aides financières bloquées par la France et a filmé la scène. Elle affirme ne pas avoir été \"dans l'affrontement\". De son côté, le cabinet de la ministre…",
+   "tags": [
+    "Politique",
+    "Climat",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "f02fb438753d",
+   "titre": "En Espagne, à dix jours des élections législatives, Pedro Sanchez admet des « erreurs »",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/20/en-espagne-a-dix-jours-des-elections-legislatives-pedro-sanchez-admet-des-erreurs_6813603_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-20T08:33:05+00:00",
+   "extrait": "Attaqué sur son bilan par son rival conservateur, Alberto Nuñez Feijoo, lors d’un débat télévisé, jeudi 19 novembre, le premier ministre socialiste a cherché à remobiliser l’électorat de gauche. A…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "db4c3422fa3a",
+   "titre": "Préfet soupçonné d'avoir renseigné le RN : \"Si les faits sont avérés, ils sont évidemment très graves\", déclare Laurent Nuñez, qui a convoqué Hugues Moutouh",
+   "lien": "https://www.franceinfo.fr/societe/justice/direct-si-les-faits-sont-averes-ils-sont-evidemment-tres-graves-laurent-nunez-convoque-le-prefet-hugues-moutouh-soupconne-d-avoir-transmis-des-informations-sensibles-au-rassemblement-national_8291756.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T08:24:35+00:00",
+   "extrait": "La justice a perquisitionné le siège du Rassemblement national début novembre à la suite d'une information judiciaire ouverte au mois de juillet.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "b1efe4cee498",
+   "titre": "\"On a encore une journée compliquée devant nous\", prévient le préfet du Pas-de-Calais sur les inondations toujours en cours",
+   "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/on-a-encore-une-journee-compliquee-devant-nous-previent-le-prefet-du-pas-de-calais-sur-les-inondations-toujours-en-cours_8291771.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T08:21:43+00:00",
+   "extrait": "François-Xavier Lauch évoque 450 personnes évacuées au total et un peu plus d'une trentaine de communes sont désormais touchées par ces crues. Il appelle à ne prendre aucun risque pour \"éviter le…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "62d50ddd8974",
+   "titre": "Encadrement des loyers : \"Le statu quo, c'est la prolongation de l'expérimentation\" et non pas l'ouverture à d'autres villes, indique Vincent Jeanbrun, ministre du Logement",
+   "lien": "https://www.franceinfo.fr/politique/encadrement-des-loyers-le-statu-quo-c-est-la-prolongation-de-l-experimentation-et-non-pas-l-ouverture-a-d-autres-villes-indique-vincent-jeanbrun-ministre-du-logement_8291831.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T08:20:55+00:00",
+   "extrait": "Vincent Jeanbrun, ministre de la Ville et du Logement, était l'invité des \"4 Vérités\", vendredi 20 novembre. La prolongation pour deux ans de l'encadrement des loyers a été votée la veille. Ce…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "01501462c2cf",
+   "titre": "La Fnaim \"n'est pas étonnée\" du prolongement de l'encadrement des loyers mais estime que \"cette mesure est largement contestable\"",
+   "lien": "https://www.franceinfo.fr/economie/immobilier/encadrement-des-loyers/la-fnaim-n-est-pas-etonnee-du-prolongement-de-l-encadrement-des-loyers-mais-estime-que-cette-mesure-est-largement-contestable_8291867.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T08:19:09+00:00",
+   "extrait": "Le Parlement a prolongé jeudi, l'encadrement des loyers pour deux ans supplémentaires. Cette mesure qui plafonne les loyers pour 1,2 million de locataires arrivait à échéance le 24 novembre.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "05e0c3b3dca7",
+   "titre": "« La Birmanie doit ramener les Rohingya chez eux », exhorte le président de l’Assemblée générale de l’ONU, après la décision historique de la CIJ sur le génocide de 2017",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/20/le-chef-de-l-assemblee-generale-de-l-onu-appelle-la-birmanie-a-ramener-les-rohingya-chez-eux_6813602_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-20T08:11:49+00:00",
+   "extrait": "La Cour internationale de justice a statué, jeudi, que les autorités birmanes avaient commis un génocide contre la minorité musulmane. Elle a aussi ordonné que les réfugiés puissent être rapatriés…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "40d68a7bc767",
+   "titre": "\"Des rumeurs et des accusations sans fondement\", réagit Jean-Philippe Tanguy dans l'affaire du préfet soupçonné d'avoir renseigné le RN sur des affaires en cours",
+   "lien": "https://www.franceinfo.fr/politique/front-national/des-rumeurs-et-des-accusations-sans-fondement-reagit-jean-philippe-tanguy-dans-l-affaire-du-prefet-soupconne-d-avoir-renseigne-le-rn-sur-des-affaires-en-cours_8291828.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T08:04:55+00:00",
+   "extrait": "Le député RN de la Somme s'exprime sur France Inter après les accusations visant Huges Moutouh d'avoir transmis des informations sensibles au Rassemblement national.",
+   "tags": [],
+   "zone": "france"
+  },
   {
    "id": "bf159955e23d",
    "titre": "Julien Odoul appelle à \"préserver\" le secret de l'instruction dans l'affaire du préfet soupçonné d'avoir renseigné le RN sur des affaires en cours",
@@ -32,25 +199,32 @@
    "zone": "france"
   },
   {
-   "id": "7ab40838ae16",
-   "titre": "Iran may be working on biological weapons, Trump says",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
-   "source": "CBS News",
-   "date": "2026-11-20T07:52:00+00:00",
-   "extrait": "President Trump told Fox News there are indications Iran may be working on biological or chemical weapons as the war drags on toward its ninth month.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
+   "id": "b13090310ac3",
+   "titre": "Le procureur de Brest saisit à nouveau un trombinoscope dans un lycée, le proviseur parle d'un \"malaise\" au sein de l'établissement",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-procureur-de-brest-saisit-a-nouveau-un-trombinoscope-dans-un-lycee-le-proviseur-parle-d-un-malaise-au-sein-de-l-etablissement_8291819.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T07:36:00+00:00",
+   "extrait": "Comme au début du mois de novembre, le trombinoscope du lycée Diwan de Carhaix a été saisi. Les noms, prénoms et photos de près de 4 500 élèves ont déjà été récupérés dans trois établissements…",
+   "tags": [],
+   "zone": "france"
   },
   {
-   "id": "db4c3422fa3a",
-   "titre": "Préfet soupçonné d'avoir transmis des informations au RN : \"Si les faits sont avérés, ils sont évidemment très graves, déclare Laurent Nuñez, qui a convoqué Hugues Moutouh",
-   "lien": "https://www.franceinfo.fr/societe/justice/direct-si-les-faits-sont-averes-ils-sont-evidemment-tres-graves-laurent-nunez-convoque-le-prefet-hugues-moutouh-soupconne-d-avoir-transmis-des-informations-sensibles-au-rassemblement-national_8291756.html#xtor=RSS-3-[lestitres]",
+   "id": "a700c0a1683c",
+   "titre": "\"Ça me scandalise\" : les réactions des créateurs de contenus aux annonces de l'Arcom qui impose le pluralisme politique",
+   "lien": "https://www.franceinfo.fr/elections/ca-me-scandalise-les-reactions-des-createurs-de-contenus-aux-annonces-de-l-arcom-qui-impose-le-pluralisme-politique_8291759.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-11-20T07:45:08+00:00",
-   "extrait": "La justice a perquisitionné le siège du Rassemblement national début novembre à la suite d'une information judiciaire ouverte au mois de juillet.",
+   "date": "2026-11-20T07:30:25+00:00",
+   "extrait": "Les gros créateurs de contenus sur YouTube et les réseaux sociaux devront respecter pour la première fois le pluralisme dans leur traitement de la présidentielle, comme les télévisions et les…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "c06c343babbb",
+   "titre": "Des vols annulés en Corse et aucune traversée maritime au départ de Bastia et de L'Île-Rousse en raison des rafales de vent",
+   "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/des-vols-annules-en-corse-et-aucune-traversee-maritime-au-depart-de-bastia-et-de-l-ile-rousse-en-raison-des-rafales-de-vent_8291816.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T07:27:43+00:00",
+   "extrait": "Localement, ces rafales peuvent atteindre jusqu'à 170 km/h en Haute-Corse. En conséquence, il y a des perturbations sur les transports maritimes et aériens.",
    "tags": [],
    "zone": "france"
   },
@@ -59,7 +233,7 @@
    "titre": "Les découverts bancaires de moins de 200 euros désormais considérés comme des crédits à la consommation",
    "lien": "https://www.lemonde.fr/argent/article/2026/11/20/les-decouverts-bancaires-de-moins-de-200-euros-desormais-consideres-comme-des-credits-a-la-consommation_6813600_1657007.html",
    "source": "Le Monde",
-   "date": "2026-11-20T07:26:00+00:00",
+   "date": "2026-11-20T07:25:58+00:00",
    "extrait": "A partir du 20 novembre, les banques doivent procéder à un examen de la solvabilité de leur client avant de lui accorder une autorisation de découvert.",
    "tags": [],
    "zone": "france"
@@ -133,18 +307,6 @@
    "zone": "france"
   },
   {
-   "id": "b1efe4cee498",
-   "titre": "\"On a encore une journée compliquée devant nous\", prévient le préfet du Pas-de-Calais sur les inondations toujours en cours",
-   "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/on-a-encore-une-journee-compliquee-devant-nous-previent-le-prefet-du-pas-de-calais-sur-les-inondations-toujours-en-cours_8291771.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-20T06:46:44+00:00",
-   "extrait": "François-Xavier Lauch évoque 450 personnes évacuées au total et un peu plus d'une trentaine de communes sont désormais touchées par ces crues. Il appelle à ne prendre aucun risque pour \"éviter le…",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "28b5b5a3597e",
    "titre": "Dominique de Villepin, un homme de droite populaire à gauche mais en quête d'électeurs",
    "lien": "https://www.france24.com/fr/france/20261120-france-presidentielle-2027-dominique-de-villepin-homme-droite-populaire-gauche-sans-electeurs",
@@ -167,6 +329,18 @@
    "tags": [
     "Politique",
     "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "7c0ffdc4f17c",
+   "titre": "Nigeria moves to end jail terms for attempted suicide",
+   "lien": "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-20T06:32:17+00:00",
+   "extrait": "Nigeria's proposed reform follows years of calls from psychiatrists and a parallel Senate bill.",
+   "tags": [
+    "Politique"
    ],
    "zone": "monde"
   },
@@ -305,6 +479,16 @@
    "zone": "france"
   },
   {
+   "id": "b13748608b54",
+   "titre": "Marion Barbeau, danseuse et actrice : « Le plaisir est un vrai guide, un moteur pour se tester dans des choses difficiles à réaliser »",
+   "lien": "https://www.lemonde.fr/culture/article/2026/11/20/pour-marion-barbeau-danseuse-et-actrice-le-plaisir-est-un-vrai-guide-un-moteur-pour-se-tester-dans-des-choses-difficiles-a-realiser_6813587_3246.html",
+   "source": "Le Monde",
+   "date": "2026-11-20T05:00:18+00:00",
+   "extrait": "Révélée au cinéma dans « En corps », de Cédric Klapisch, l’ancienne première danseuse de l’Opéra national de Paris est à l’affiche d’« Ulysse Marion » à la Grande Halle de La Villette à Paris.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "f37dd5aab8da",
    "titre": "Deux mois après l’exécution ratée de Christa Pike, la longue mise à mort d’un détenu de 70 ans au Texas",
    "lien": "https://www.lemonde.fr/international/article/2026/11/20/deux-mois-apres-l-execution-ratee-de-christa-pike-la-longue-mise-a-mort-de-reinaldo-dennes-au-texas_6813583_3210.html",
@@ -400,7 +584,7 @@
   },
   {
    "id": "32a990d00e97",
-   "titre": "Guerre en Ukraine : à Berlin, les alliés de Kiev répondent aux provocations de Donald Trump et Vladimir Poutine, réunis à Shenzhen",
+   "titre": "Guerre en Ukraine : à Berlin, les alliés de Kiev répondent aux provocations de Donald Trump et de Vladimir Poutine, réunis à Shenzhen",
    "lien": "https://www.lemonde.fr/international/article/2026/11/20/guerre-en-ukraine-a-berlin-la-reunion-des-allies-de-kiev-miroir-inverse-de-la-rencontre-de-shenzhen-entre-xi-trump-et-poutine_6813557_3210.html",
    "source": "Le Monde",
    "date": "2026-11-20T04:30:03+00:00",
@@ -427,7 +611,7 @@
    "lien": "https://www.lemonde.fr/societe/article/2026/11/20/mouvement-lyceen-l-impossible-debat-sur-le-maintien-de-l-ordre-a-la-francaise_6813554_3224.html",
    "source": "Le Monde",
    "date": "2026-11-20T04:26:27+00:00",
-   "extrait": "Les pratiques policières violentes filmées lors des mobilisations des lycéens posent la question de la pertinence de la doctrine de « contact », en vigueur depuis le milieu des années 2010.",
+   "extrait": "Les pratiques policières violentes filmées lors des manifestations et actions lycéennes posent la question de la pertinence de la doctrine de « contact », en vigueur depuis le milieu des années 2010.",
    "tags": [],
    "zone": "france"
   },
@@ -440,6 +624,16 @@
    "extrait": "The U.S. Army has delayed plans to detonate unstable explosives at a munition plant in Iowa, amid concerns about the risks of a plume of dust containing toxic lead particles that could spread across…",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "fc32d2b63f5e",
+   "titre": "Au Brésil, l’apparition d’une ethnie autochtone non contactée suscite l’inquiétude pour sa survie",
+   "lien": "https://www.lemonde.fr/planete/article/2026/11/20/au-bresil-l-apparition-d-une-ethnie-autochtone-non-contactee-suscite-l-inquietude-pour-sa-survie_6813552_3244.html",
+   "source": "Le Monde",
+   "date": "2026-11-20T04:15:05+00:00",
+   "extrait": "Des Awa-Guaja sont brièvement sortis de leur isolement, lundi 16 novembre, pour la première fois depuis au moins cinquante ans. Les chercheurs craignent qu’ils soient victimes de la sécheresse ou…",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "5eb4b83dd826",
@@ -478,7 +672,7 @@
   },
   {
    "id": "1779739cd9bb",
-   "titre": "Des médicaments, de l'alcool et la drogue retrouvés dans le corps de Christophe M., manifestant mort à Paris le 17 octobre",
+   "titre": "Des médicaments, de l'alcool et de la drogue retrouvés dans le corps de Christophe M., manifestant mort à Paris le 17 octobre",
    "lien": "https://www.franceinfo.fr/enquetes-franceinfo/info-cellule-investigation-de-radio-france-medicaments-alcool-et-drogue-retrouves-dans-le-corps-de-christophe-m-manifestant-mort-a-paris-le-17-octobre_8288645.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-11-20T04:00:02+00:00",
@@ -975,7 +1169,7 @@
    "lien": "https://www.lemonde.fr/economie/article/2026/11/20/intelligence-artificielle-l-action-anthropic-finit-sa-premiere-journee-en-hausse-de-17-et-valorise-l-entreprise-a-1-280-milliards-de-dollars_6813415_3234.html",
    "source": "Le Monde",
    "date": "2026-11-19T23:30:54+00:00",
-   "extrait": "L’introduction en Bourse spectaculaire du leader de l’Intelligence artificielle n’a pas empêché Wall Street de finir en forte baisse jeudi, sur fond de mouvement anti-IA et d’interrogations sur le…",
+   "extrait": "L’introduction en Bourse spectaculaire du leader de l’intelligence artificielle n’a pas empêché Wall Street de finir en forte baisse jeudi, sur fond de mouvement anti-IA et d’interrogations sur le…",
    "tags": [
     "Économie",
     "Tech"
@@ -1034,7 +1228,7 @@
    "titre": "Le procès de l’explosion de la rue de Trévise met au jour un fonctionnement informel et peu rigoureux des services de la Mairie de Paris",
    "lien": "https://www.lemonde.fr/societe/article/2026/11/20/le-proces-de-l-explosion-de-la-rue-de-trevise-met-au-jour-un-fonctionnement-informel-et-peu-rigoureux-des-services-de-la-mairie-de-paris_6813387_3224.html",
    "source": "Le Monde",
-   "date": "2026-11-19T23:10:11+00:00",
+   "date": "2026-11-19T23:10:07+00:00",
    "extrait": "Les auditions des responsables des services de la voirie et de la propreté et de l’eau ont révélé des lacunes de traçabilité dans l’administration et une absence de culture de l’écrit pour rendre…",
    "tags": [
     "Justice"
@@ -2346,18 +2540,6 @@
    "zone": "monde"
   },
   {
-   "id": "89614d936d10",
-   "titre": "Meet Anthropic's 7 co-founders, now worth about $20 billion each",
-   "lien": "https://www.cbsnews.com/news/anthropic-ipo-founders-net-worth/",
-   "source": "CBS News",
-   "date": "2026-11-19T16:21:00+00:00",
-   "extrait": "Dario Amodei and the company's other six co-founders instantly joined the ranks of America's richest citizens with the AI giant's initial public offering.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "17d3afd72d1b",
    "titre": "Iran expands attacks against Gulf states and tankers",
    "lien": "https://www.cbsnews.com/video/iran-expands-attacks-against-gulf-states-tankers/",
@@ -3287,187 +3469,6 @@
    "extrait": "Sur le site spécialisé Metacritic, qui agrège les évaluations, le dernier opus de la franchise \"Grand Theft Auto\", attendu par les fans pendant treize ans, décroche la note mirobolante de 99/100, du…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "0a98eeb83d36",
-   "titre": "Françoise Lebrun, actrice emblématique de « La Maman et la Putain », de Mai 68 au mouvement des lycéens de 2026",
-   "lien": "https://www.lemonde.fr/culture/article/2026/11/19/francoise-lebrun-actrice-emblematique-de-la-maman-et-la-putain-de-mai-68-au-mouvement-des-lyceens-de-2026_6813304_3246.html",
-   "source": "Le Monde",
-   "date": "2026-11-19T13:00:16+00:00",
-   "extrait": "La comédienne de 82 ans, à l’affiche de la série « Paolo », présente des films emblématiques de sa carrière au festival Entrevues de Belfort, qui se tient jusqu’au 22 novembre.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "ed29c01c4ea5",
-   "titre": "Présidentielle 2027 : une campagne « course à l’échalote » pour tenter de répondre aux colères françaises",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/19/presidentielle-2027-une-campagne-course-a-l-echalote-pour-tenter-de-repondre-aux-coleres-francaises_6813302_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-19T13:00:02+00:00",
-   "extrait": "Alors qu’une majorité de l’opinion se dit défiante à l’égard de l’Etat et revendique le divorce avec les élites, les candidats de la droite et du centre s’essayent à un registre plus populiste…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "60298692bdff",
-   "titre": "Une « carte Vitale » pour manger moins cher, bio et local, une expérience menée depuis deux ans dans le Vaucluse",
-   "lien": "https://www.lemonde.fr/m-le-mag/article/2026/11/19/dans-le-vaucluse-une-carte-vitale-pour-manger-moins-cher-bio-et-local-ce-droit-a-l-alimentation-est-un-vecteur-de-justice-sociale-environnementale-et-democratique_6813303_4500055.html",
-   "source": "Le Monde",
-   "date": "2026-11-19T13:00:02+00:00",
-   "extrait": "Des habitants de Cadenet expérimentent depuis deux ans la sécurité sociale de l’alimentation pour lutter contre la précarité alimentaire et favoriser un modèle agricole plus durable. La mesure est…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "5171e29e1360",
-   "titre": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
-   "lien": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-19T12:56:30+00:00",
-   "extrait": "The Mrima Hill site is estimated to hold deposits of critical minerals worth more than $60bn (£45bn).",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "37977ddefe42",
-   "titre": "Le soutien stratégique d’Emmanuel Macron à la candidature de Philippe Diallo pour la présidence de la FIFA",
-   "lien": "https://www.lemonde.fr/sport/article/2026/11/19/le-soutien-strategique-d-emmanuel-macron-a-la-candidature-de-philippe-diallo-pour-la-presidence-de-la-fifa_6813300_3242.html",
-   "source": "Le Monde",
-   "date": "2026-11-19T12:51:09+00:00",
-   "extrait": "Le président de la Fédération française de football, qui s’est officiellement lancé mardi dans la bataille contre Gianni Infatino, s’est félicité de pouvoir compter sur l’appui du chef de l’Etat…",
-   "tags": [
-    "Politique",
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "979b33662f74",
-   "titre": "Pour Sepp Blatter, Gianni Infantino \"n'est plus éligible\" à la tête de la Fifa",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/en-t%C3%AAte-%C3%A0-t%C3%AAte/20261119-entretien-fifa-sepp-blatter-gianni-infantino-plus-%C3%A9ligible-t%C3%AAte-fifa-achat-vote",
-   "source": "France 24",
-   "date": "2026-11-19T12:48:14+00:00",
-   "extrait": "Dans un entretien accordé à France 24, Joseph Blatter, ancien président de la Fifa, s’est exprimé sur la prochaine élection à la présidence de la fédération prévue en mars prochain, expliquant que…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "a1f8fdcd670b",
-   "titre": "France Assureurs estime à \"plus de 200 millions d'euros\" le coût des dégâts engendrés par les violences urbaines et les pillages des 17 et 18 octobre",
-   "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/france-assureurs-estime-a-plus-de-200-millions-d-euros-le-cout-des-degats-engendres-par-les-violences-urbaines-et-les-pillages-des-17-et-18-octobre_8290007.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T12:40:01+00:00",
-   "extrait": "Ce montant \"est particulièrement élevé au regard de la brièveté des événements\", a déclaré jeudi la présidente de la fédération, Florence Lustman.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "70a2cd6c95e2",
-   "titre": "Myanmar committed genocide against Rohingya, U.N. top court rules",
-   "lien": "https://www.cbsnews.com/news/myanmar-genocide-rohingyas-un-top-court/",
-   "source": "CBS News",
-   "date": "2026-11-19T12:35:04+00:00",
-   "extrait": "The U.N.'s top court ruled in a landmark judgment that Myanmar committed genocide against the Rohingya minority in a brutal 2017 military operation.",
-   "tags": [
-    "Conflits",
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "2cd2edd3a34b",
-   "titre": "Trump meets with Xi Jinping and Vladimir Putin in historic sit-down | Special Report",
-   "lien": "https://www.cbsnews.com/video/trump-meets-with-xi-jinping-and-vladimir-putin-in-historic-sit-down-special-report/",
-   "source": "CBS News",
-   "date": "2026-11-19T12:32:20+00:00",
-   "extrait": "President Trump sat down with China's Xi Jinping and Russia's Vladimir Putin for a historic summit between the three leaders. Tony Dokoupil anchors this CBS News Special Report.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "5f79e3924efb",
-   "titre": "« L’IA redessine les règles du jeu à une vitesse que nous n’avions jamais connue » : des responsables de la cybersécurité de l’Etat sonnent l’alarme",
-   "lien": "https://www.lemonde.fr/pixels/article/2026/11/19/l-ia-redessine-les-regles-du-jeu-a-une-vitesse-que-nous-n-avions-jamais-connue-des-responsables-de-la-cybersecurite-de-l-etat-sonnent-l-alarme_6813298_4408996.html",
-   "source": "Le Monde",
-   "date": "2026-11-19T12:30:07+00:00",
-   "extrait": "A Rennes, les plus hauts responsables français ont diffusé un message inédit sur les dangers de l’intelligence artificielle, alors que Sébastien Lecornu a convoqué jeudi une réunion…",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "99d60a2cdf29",
-   "titre": "Bertrand Meheut, le dirigeant « analytique et stratégique » qui avait redressé Canal+, est mort",
-   "lien": "https://www.lemonde.fr/disparitions/article/2026/11/19/bertrand-meheut-le-dirigeant-analytique-et-strategique-qui-avait-redresse-canal_6813297_3382.html",
-   "source": "Le Monde",
-   "date": "2026-11-19T12:30:07+00:00",
-   "extrait": "Nommé en 2003 président du groupe audiovisuel alors en pleine perdition, d’abord accueilli avec méfiance, il avait reconquis les abonnés et finalement emporté l’adhésion de nombreux collaborateurs…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "aeff9386d011",
-   "titre": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
-   "lien": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
-   "source": "NPR",
-   "date": "2026-11-19T12:29:41+00:00",
-   "extrait": "The International Court of Justice found that Myanmar security forces \"acted with genocidal intent\" against the Rohingya during military operations in the northern Rakhine state in 2017.",
-   "tags": [
-    "Conflits",
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "c84927df27bb",
-   "titre": "World Toilet Day is a funny idea with a serious goal: A world awash in toilets",
-   "lien": "https://www.npr.org/2026/11/19/g-s1-154159/world-toilet-day-gender-equality-menstruation",
-   "source": "NPR",
-   "date": "2026-11-19T12:26:31+00:00",
-   "extrait": "Yahoo for the loo! November 19 marks the 25th anniversary of World Toilet Day. The theme this year: \"Sanitation and Gender Equality: Safe Toilets, Equal Futures.\"",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "53b632b4ea42",
-   "titre": "Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker",
-   "lien": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic",
-   "source": "NPR",
-   "date": "2026-11-19T12:26:01+00:00",
-   "extrait": "Despite growing concern over a possible AI bubble, Anthropic had a record-breaking initial public offering. And, Hakeem Jeffries could become the first Black Speaker of the House.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "a277da6d32d4",
-   "titre": "La Birmanie a commis un génocide à l'encontre des Rohingyas, statue la Cour internationale de justice dans un arrêt historique",
-   "lien": "https://www.franceinfo.fr/monde/asie/rohingyas/la-birmanie-a-commis-un-genocide-a-l-encontre-des-rohingyas-statue-la-cour-internationale-de-justice-dans-un-arret-historique_8289806.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T12:15:35+00:00",
-   "extrait": "La plus haute juridiction de l'ONU, a établi que les soldats birmans ont tué des \"milliers de civils rohingyas\", avec \"l'intention de détruire une partie substantielle\" de cette population.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "8c4f1a247197",
-   "titre": "Xi-Poutine-Trump : une rencontre inédite, mais peu de détails sur son contenu",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261119-xi-poutine-trump-une-rencontre-in%C3%A9dite-mais-peu-de-d%C3%A9tails-sur-son-contenu",
-   "source": "France 24",
-   "date": "2026-11-19T12:11:45+00:00",
-   "extrait": "Un sommet tripartite inédit entre présidents chinois, russe et américain, réunissant Xi Jinping, Vladimir Poutine et Donald Trump, s'est achevé jeudi à Shenzhen, dans le sud de la Chine, après une…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
   }
  ]
 }
