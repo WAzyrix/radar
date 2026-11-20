@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-20T09:05:41+00:00",
+ "maj": "2026-11-20T10:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -19,13 +19,139 @@
   "Tech",
   "Sport"
  ],
- "erreurs": [
-  "France 24"
- ],
+ "erreurs": [],
  "articles": [
   {
+   "id": "76f0e9dc73b4",
+   "titre": "Une usine d'armement basée dans le Cher doit augmenter sa production de 60 000 à 150 000 obus fabriqués par an",
+   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-usine-d-armement-basee-dans-le-cher-doit-augmenter-sa-production-de-60-000-a-150-000-obus-fabriques-par-an_8291966.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T09:41:48+00:00",
+   "extrait": "C'est une demande émanent de la Direction générale de l'armement. Ces armements, fabriqués près de Bourges, sont notamment envoyés en Ukraine, afin d'y être déployés pour la guerre avec la Russie.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "9e44a9dafe4d",
+   "titre": "Six personnes sont mortes à Kiev après des frappes russes sur l'Ukraine",
+   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/trois-personnes-sont-mortes-a-kiev-apres-des-frappes-russes-sur-l-ukraine_8291687.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T09:40:58+00:00",
+   "extrait": "Des ponts de la capitale ukrainienne ont été à nouveau endommagés lors de ces bombardements.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "bc647d5ba779",
+   "titre": "\"Ce serait bien que le ministre s'occupe du financement public de l'école\" : en Italie, la jeunesse se mobilise à son tour",
+   "lien": "https://www.franceinfo.fr/monde/italie/reportage-ce-serait-bien-que-le-ministre-s-occupe-du-financement-public-de-l-ecole-en-italie-la-jeunesse-se-mobilise-a-son-tour_8291825.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T09:37:50+00:00",
+   "extrait": "Vendredi, en Italie, les étudiants, les lycéens et le principal syndicat appellent à une mobilisation nationale. À Rome, les jeunes et leurs professeurs que franceinfo a rencontrés expriment leur…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "e52529c7049c",
+   "titre": "Perquisition, enquête ouverte, préfet mis en cause… Ce que l'on sait des soupçons de fuites d'informations dont aurait bénéficié le Rassemblement national",
+   "lien": "https://www.franceinfo.fr/politique/front-national/perquisition-enquete-ouverte-prefet-mis-en-cause-ce-que-l-on-sait-des-soupcons-de-fuites-d-informations-dont-aurait-beneficie-le-rassemblement-national_8291804.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T09:32:08+00:00",
+   "extrait": "Le parti d'extrême droite est soupçonné d'avoir bénéficié de fuites sur des affaires en cours, avec des informations normalement couvertes par le secret de l'enquête. La participation d'un préfet…",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "f451b9b779d9",
+   "titre": "Three Kyiv bridges hit during major Russian missile attack",
+   "lien": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-20T09:31:24+00:00",
+   "extrait": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "2b4bd7eef416",
+   "titre": "IA et droit d’auteur : la proposition de loi visant à protéger la création reste enlisée à l’Assemblée",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/20/ia-et-droit-d-auteur-la-proposition-de-loi-visant-a-proteger-la-creation-reste-enlisee-a-l-assemblee_6813614_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-20T09:30:03+00:00",
+   "extrait": "Faute de temps, la proposition de loi de Laure Darcos n’a pas pu être examinée. Elle pourrait être à nouveau présentée aux députés le 4 février 2027 dans la niche du groupe GDR (communistes et…",
+   "tags": [
+    "Politique",
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "71abcab21243",
+   "titre": "La députée RN Laure Lavalette se défend d'être antisémite, se dédouane d'écrits vieux de \"30 ans\"",
+   "lien": "https://www.france24.com/fr/france/20261120-accusations-antis%C3%A9mitisme-d%C3%A9put%C3%A9e-rn-laure-lavalette-invoque-faits-vieux-de-30-ans",
+   "source": "France 24",
+   "date": "2026-11-20T09:26:06+00:00",
+   "extrait": "Selon une enquête publiée mercredi par le média Les Jours, la députée du Rassemblement national du Var Laure Lavalette aurait présidé, lors de ses années d'études, un syndicat étudiant dont la revue…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "c06c343babbb",
+   "titre": "Des vols annulés en Corse et aucune traversée maritime au départ de Bastia et de L'Île-Rousse en raison des rafales de vent",
+   "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/des-vols-annules-en-corse-et-aucune-traversee-maritime-au-depart-de-bastia-et-de-l-ile-rousse-en-raison-des-rafales-de-vent_8291816.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T09:20:49+00:00",
+   "extrait": "Localement, ces rafales peuvent atteindre jusqu'à 170 km/h en Haute-Corse. En conséquence, il y a des perturbations sur les transports maritimes et aériens.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "dba71183af3b",
+   "titre": "Un rassemblement prévu devant le siège d'Airbnb à Paris pour contester l'entrée en vigueur de nouvelles règles sur le ménage",
+   "lien": "https://www.franceinfo.fr/internet/airbnb/un-rassemblement-prevu-devant-le-siege-d-airbnb-a-paris-pour-contester-l-entree-en-vigueur-de-nouvelles-regles-sur-le-menage_8291921.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T09:18:31+00:00",
+   "extrait": "La nouvelle politique de la plateforme entre en vigueur vendredi et interdit certaines demandes faites par les hôtes aux voyageurs, comme faire la vaisselle, sortir les poubelles ou encore imposer…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "6edc9b97feb8",
+   "titre": "The U.K. and EU hold a rare summit to strengthen ties",
+   "lien": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
+   "source": "NPR",
+   "date": "2026-11-20T09:14:41+00:00",
+   "extrait": "A decade after the people of Britain voted to leave the European Union, top EU officials are meeting with Prime Minister Andy Burnham on Friday, looking to mend more fences.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "b013cbced8c2",
+   "titre": "Sommet trilatéral : \"Beaucoup de bruit pour rien\"",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261120-sommet-trilat%C3%A9ral-beaucoup-de-bruit-pour-rien",
+   "source": "France 24",
+   "date": "2026-11-20T09:12:04+00:00",
+   "extrait": "À la une de la presse : un sommet entre Donald Trump, Xi Jinping et Vladimir Poutine pour l'image, le phénomène mondial \"GTA VI\" et des révélations sur des fuites en provenance du ministère de…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "315473718512",
-   "titre": "Au moins 6 milliards d'euros d'économies supplémentaires sont nécessaires pour boucler le budget 2027, reconnaît le ministre des Comptes publics",
+   "titre": "Au moins 6 milliards d'euros d'économies supplémentaires sont nécessaires pour boucler le budget 2027, affirme le ministre des Comptes publics",
    "lien": "https://www.franceinfo.fr/economie/budget/au-moins-6-milliards-d-euros-d-economies-supplementaires-sont-necessaires-pour-boucler-le-budget-2027-reconnait-le-ministre-des-comptes-publics_8291879.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-11-20T09:02:18+00:00",
@@ -37,16 +163,36 @@
    "zone": "france"
   },
   {
-   "id": "f451b9b779d9",
-   "titre": "Three Kyiv bridges hit during major Russian missile attack",
-   "lien": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-20T09:01:06+00:00",
-   "extrait": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
+   "id": "46132200ae03",
+   "titre": "Les patineurs artistiques, premiers sportifs russes affectés par le durcissement de la politique d’accès au territoire finlandais",
+   "lien": "https://www.lemonde.fr/sport/article/2026/11/20/les-patineurs-artistiques-premiers-sportifs-russes-affectes-par-le-durcissement-de-la-politique-d-acces-au-territoire-finlandais_6813609_3242.html",
+   "source": "Le Monde",
+   "date": "2026-11-20T09:00:27+00:00",
+   "extrait": "A l’image d’autres pays occidentaux, la Finlande a mis en place des restrictions de visas à l’encontre des compétiteurs russes, dont les sept qualifiés – depuis remplacés – pour le Trophée…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "cffd03dd57c8",
+   "titre": "VIDEO - Pourquoi GTA VI est un pari plus risqué qu’il n’y paraît",
+   "lien": "https://www.lemonde.fr/jeux-video/video/2026/11/20/pourquoi-gta-vi-est-un-pari-plus-risque-qu-il-n-y-parait_6813608_1616924.html",
+   "source": "Le Monde",
+   "date": "2026-11-20T09:00:11+00:00",
+   "extrait": "Depuis la sortie de « GTA V », il y a treize ans, la franchise « Grand Theft Auto » rapporte en moyenne 2 millions de dollars par jour à son éditeur, Rockstar Games. Un revenu anormalement stable et…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "1932156879d0",
+   "titre": "Les COP climat, rendez-vous incontournable des militantes de la société civile : « Il faut être là où les décisions se prennent, être vues et entendues »",
+   "lien": "https://www.lemonde.fr/planete/article/2026/11/20/les-cop-climat-rendez-vous-incontournable-des-militantes-de-la-societe-civile-il-faut-etre-la-ou-les-decisions-se-prennent-etre-vues-et-entendues_6813607_3244.html",
+   "source": "Le Monde",
+   "date": "2026-11-20T09:00:10+00:00",
+   "extrait": "Des militantes engagées pour l’émancipation des femmes et la cause climatique sont récompensées chaque année lors des COP. Pour elles, ces sommets sont l’occasion de faire entendre leurs voix et…",
    "tags": [
-    "Conflits"
+    "Climat"
    ],
-   "zone": "monde"
+   "zone": "france"
   },
   {
    "id": "9bd532b7138a",
@@ -72,6 +218,31 @@
    "zone": "usa"
   },
   {
+   "id": "ab772afc8a42",
+   "titre": "Fuites en provenance du ministère de l’intérieur vers le RN : des faits « extrêmement graves » s’ils sont avérés, juge Laurent Nuñez",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/20/fuites-en-provenance-du-ministere-de-l-interieur-vers-le-rn-des-faits-extremement-graves-s-ils-sont-averes-juge-laurent-nunez_6813604_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-20T08:46:19+00:00",
+   "extrait": "La justice soupçonne des fuites d’éléments liés à des enquêtes en cours concernant le Rassemblement national. Des perquisitions ont été menées au siège du parti et au ministère de l’intérieur. Le…",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "0a13b274e85b",
+   "titre": "Vladimir Poutine a-t-il été snobé par Xi Jinping ?",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261120-vladimir-poutine-a-t-il-%C3%A9t%C3%A9-snob%C3%A9-par-xi-jinping",
+   "source": "France 24",
+   "date": "2026-11-20T08:44:15+00:00",
+   "extrait": "Alors que se tenait à Shenzhen le sommet de l'APEC, le président chinois Xi Jinping est accusé par des internautes d'avoir volontairement ignoré la main tendue par son homologue russe Vladimir…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "89614d936d10",
    "titre": "Meet Anthropic's 7 co-founders, now worth about $20 billion each",
    "lien": "https://www.cbsnews.com/news/anthropic-ipo-founders-net-worth/",
@@ -94,6 +265,19 @@
     "Climat"
    ],
    "zone": "france"
+  },
+  {
+   "id": "066e00c13522",
+   "titre": "En Irak, l'armée entre dans un bastion du groupe pro-iranien Kataeb Hezbollah",
+   "lien": "https://www.france24.com/fr/moyen-orient/20261120-irak-arm%C3%A9e-s-appr%C3%AAte-%C3%A0-entrer-dans-bastion-groupe-pro-iranien-kataeb-hezbollah",
+   "source": "France 24",
+   "date": "2026-11-20T08:39:59+00:00",
+   "extrait": "Les forces armées irakiennes ont commencé vendredi à se déployer dans un bastion du groupe Kataeb Hezbollah, selon les médias d'État, alors que le Premier ministre Ali al-Zaïdi intensifie ses…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
   },
   {
    "id": "aec97d6dad47",
@@ -167,6 +351,19 @@
    "zone": "france"
   },
   {
+   "id": "4266461420c0",
+   "titre": "Rififi à la Fifa : Infantino, Tashima et Diallo candidats à la présidence",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261120-rififi-%C3%A0-la-fifa-infantino-tashima-et-diallo-candidats-%C3%A0-la-pr%C3%A9sidence",
+   "source": "France 24",
+   "date": "2026-11-20T08:15:16+00:00",
+   "extrait": "Trois candidats ont officiellement déposé leur candidature à la présidence de la Fifa. Gianni Infantino, en poste depuis 11 ans, briguera un quatrième mandat consécutif. Soutenu par l'UEFA, le…",
+   "tags": [
+    "Politique",
+    "Sport"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "05e0c3b3dca7",
    "titre": "« La Birmanie doit ramener les Rohingya chez eux », exhorte le président de l’Assemblée générale de l’ONU, après la décision historique de la CIJ sur le génocide de 2017",
    "lien": "https://www.lemonde.fr/international/article/2026/11/20/le-chef-de-l-assemblee-generale-de-l-onu-appelle-la-birmanie-a-ramener-les-rohingya-chez-eux_6813602_3210.html",
@@ -177,6 +374,16 @@
     "Politique"
    ],
    "zone": "france"
+  },
+  {
+   "id": "0d0d209eda55",
+   "titre": "Compromis à la francophonie, Bassirou Faye radié du Pastef, CAN 2027 : l'hebdo Afrique",
+   "lien": "https://www.france24.com/fr/afrique/20261120-compromis-%C3%A0-la-francophonie-bassirou-faye-radi%C3%A9-du-pastef-can-2027-l-hebdo-afrique",
+   "source": "France 24",
+   "date": "2026-11-20T08:09:41+00:00",
+   "extrait": "",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "40d68a7bc767",
@@ -215,16 +422,6 @@
    "source": "franceinfo",
    "date": "2026-11-20T07:30:25+00:00",
    "extrait": "Les gros créateurs de contenus sur YouTube et les réseaux sociaux devront respecter pour la première fois le pluralisme dans leur traitement de la présidentielle, comme les télévisions et les…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "c06c343babbb",
-   "titre": "Des vols annulés en Corse et aucune traversée maritime au départ de Bastia et de L'Île-Rousse en raison des rafales de vent",
-   "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/des-vols-annules-en-corse-et-aucune-traversee-maritime-au-depart-de-bastia-et-de-l-ile-rousse-en-raison-des-rafales-de-vent_8291816.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-20T07:27:43+00:00",
-   "extrait": "Localement, ces rafales peuvent atteindre jusqu'à 170 km/h en Haute-Corse. En conséquence, il y a des perturbations sur les transports maritimes et aériens.",
    "tags": [],
    "zone": "france"
   },
@@ -295,6 +492,16 @@
    "zone": "usa"
   },
   {
+   "id": "4662ec0e4d1f",
+   "titre": "\"Plus de restrictions\" avec la réforme du crédit à la consommation, \"c'est la bonne direction\", estime une association de lutte contre le surendettement",
+   "lien": "https://www.franceinfo.fr/economie/plus-de-restrictions-avec-la-reforme-du-credit-a-la-consommation-c-est-la-bonne-direction-estime-une-association-de-lutte-contre-le-surendettement_8291786.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T06:56:06+00:00",
+   "extrait": "Dès le vendredi 20 novembre, avant d'octroyer un découvert bancaire, la banque devra évaluer la solvabilité du client et s'assurer qu'il sera en mesure de rembourser ultérieurement.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "1399b709d3af",
    "titre": "Le président Nayib Bukele candidat pour un troisième mandat au Salvador",
    "lien": "https://www.franceinfo.fr/monde/le-president-nayib-bukele-candidat-pour-un-troisieme-mandat-au-salvador_8291765.html#xtor=RSS-3-[lestitres]",
@@ -321,11 +528,11 @@
   },
   {
    "id": "8d0e8a2a2e1c",
-   "titre": "En direct : trois morts et deux ponts endommagés à Kiev suite à des frappes russes",
+   "titre": "En direct : huit Ukrainiens tués par des drones russes au lendemain de menaces de Poutine",
    "lien": "https://www.france24.com/fr/europe/20261120-en-direct-trois-morts-et-deux-ponts-endommag%C3%A9s-%C3%A0-kiev-suite-%C3%A0-des-frappes-russes",
    "source": "France 24",
    "date": "2026-11-20T06:34:21+00:00",
-   "extrait": "Plusieurs frappes de missiles balistiques et de drones sur l'Ukraine vendredi matin ont fait au moins trois morts à Kiev et endommagé deux ponts de la capitale, selon les autorités locales. Des…",
+   "extrait": "Plusieurs frappes de missiles balistiques et de drones russes sur l'Ukraine vendredi matin ont fait au moins huit morts et 28 blessés. Deux ponts ont été endommagés à Kiev, selon les autorités…",
    "tags": [
     "Politique",
     "Conflits"
@@ -377,18 +584,6 @@
    "zone": "france"
   },
   {
-   "id": "9e44a9dafe4d",
-   "titre": "Trois personnes sont mortes à Kiev après des frappes russes sur l'Ukraine",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/trois-personnes-sont-mortes-a-kiev-apres-des-frappes-russes-sur-l-ukraine_8291687.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-20T06:11:38+00:00",
-   "extrait": "Des ponts de la capitale ukrainienne ont été à nouveau endommagés lors de ces bombardements.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "6cb556c4e6d8",
    "titre": "\"Une première mondiale\" : le président du groupe Urgo annonce la création en laboratoire d'une peau artificielle vivante",
    "lien": "https://www.franceinfo.fr/sante/une-premiere-mondiale-le-president-du-groupe-urgo-annonce-la-creation-en-laboratoire-d-une-peau-artificielle-vivante_8291699.html#xtor=RSS-3-[lestitres]",
@@ -433,6 +628,16 @@
    "zone": "france"
   },
   {
+   "id": "0207129d2398",
+   "titre": "Dépression, burn-out, suicide... Le mal-être des vétérinaires, au cœur des crises agricoles",
+   "lien": "https://www.franceinfo.fr/environnement/biodiversite/animaux/depression-burn-out-suicide-le-mal-etre-des-veterinaires-au-c-ur-des-crises-agricoles_8290637.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T05:18:55+00:00",
+   "extrait": "C'est l'une des professions les plus touchées par la dépression, le burn-out et même le suicide. Les vétérinaires sont reçus ce vendredi matin par le délégué interministériel de la prévention du…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "182d5d199d9d",
    "titre": "Alimentation, tabagisme, sédentarité ou stress... La Haute Autorité de Santé souligne l'importance du mode de vie face aux risques cardiovasculaires",
    "lien": "https://www.franceinfo.fr/sante/alimentation-tabagisme-sedentarite-ou-stress-la-haute-autorite-de-sante-souligne-l-importance-du-mode-de-vie-face-aux-risques-cardiovasculaires_8290709.html#xtor=RSS-3-[lestitres]",
@@ -441,6 +646,31 @@
    "extrait": "Les maladies cardiovasculaires sont la deuxième cause de mortalité en France, après le cancer. Pour mieux prévenir les accidents cardiaques, la Haute Autorité de Santé recommande aux médecins de…",
    "tags": [
     "Santé"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "57c9519b98f0",
+   "titre": "À Gaza, les habitants subissent une crise de liquidité et doivent réparer leurs billets de banque",
+   "lien": "https://www.franceinfo.fr/monde/palestine/gaza/a-gaza-les-habitants-subissent-une-crise-de-liquidite-et-doivent-reparer-leurs-billets-de-banque_8290664.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T05:05:19+00:00",
+   "extrait": "Depuis le départ de l'armée israélienne d'une partie de la bande de Gaza, des Palestiniens déplacés ont pu rentrer chez eux. L'enclave reste en proie aux inondations, aux bombardements, mais fait…",
+   "tags": [
+    "Conflits",
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "63c3e8f0ecff",
+   "titre": "\"Combattez pour notre avenir, pas pour leurs guerres\" : les jeunes Britanniques se mobilisent à leur tour pour de meilleures conditions d'études",
+   "lien": "https://www.franceinfo.fr/monde/royaume-uni/combattez-pour-notre-avenir-pas-pour-leurs-guerres-les-jeunes-britanniques-se-mobilisent-a-leur-tour-pour-de-meilleures-conditions-d-etudes_8290598.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T05:04:51+00:00",
+   "extrait": "Dans un rassemblement prévu vendredi à Londres, les jeunes Britanniques dénoncent à leur tour le manque de moyens pour l'éducation. Cette mobilisation à l'internationale, inspirée des mouvements…",
+   "tags": [
+    "Conflits"
    ],
    "zone": "france"
   },
@@ -626,6 +856,18 @@
    "zone": "usa"
   },
   {
+   "id": "42bda938a86f",
+   "titre": "Jean-Luc Mélenchon suscite l’engouement chez les 18-24 ans, inquiets des crises sociale et climatique : « Il n’y a pas d’autre candidat pour lequel cela vaille la peine de voter »",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/20/jean-luc-melenchon-suscite-l-engouement-chez-les-18-24-ans-inquiets-des-crises-sociale-et-climatique-il-n-y-a-pas-d-autre-candidat-pour-lequel-cela-vaille-la-peine-de-voter_6813553_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-20T04:15:11+00:00",
+   "extrait": "Entre aspiration à la radicalité et désir de changement, les jeunes de 18 à 24 ans sont nombreux à afficher leur soutien au programme de La France insoumise et à déclarer vouloir voter pour son…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "fc32d2b63f5e",
    "titre": "Au Brésil, l’apparition d’une ethnie autochtone non contactée suscite l’inquiétude pour sa survie",
    "lien": "https://www.lemonde.fr/planete/article/2026/11/20/au-bresil-l-apparition-d-une-ethnie-autochtone-non-contactee-suscite-l-inquietude-pour-sa-survie_6813552_3244.html",
@@ -690,6 +932,16 @@
    "tags": [
     "Politique"
    ],
+   "zone": "usa"
+  },
+  {
+   "id": "6948339c5a05",
+   "titre": "Texas execution took over an hour as staff struggled to find vein",
+   "lien": "https://www.cbsnews.com/news/texas-execution-delayed-over-an-hour-november-2026/",
+   "source": "CBS News",
+   "date": "2026-11-20T03:42:00+00:00",
+   "extrait": "Texas execution takes over an hour amid complications.",
+   "tags": [],
    "zone": "usa"
   },
   {
@@ -797,6 +1049,16 @@
    "extrait": "More than 30 years after killing her two young sons, Susan Smith was denied parole for a second time on Thursday. CBS News' Shanelle Kaul has more.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "bdb9550d2206",
+   "titre": "US army warns detonation of unstable explosives will create toxic plume",
+   "lien": "https://www.bbc.co.uk/news/articles/cmlye2334wlyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-20T01:27:27+00:00",
+   "extrait": "The Army has delayed the controlled explosion of unstable lead azide in eastern Iowa to Monday after concerns from residents and lawmakers.",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "7b4ccf1e8f4f",
@@ -1515,6 +1777,18 @@
    "zone": "monde"
   },
   {
+   "id": "298b937f0f9c",
+   "titre": "Présidentielle 2027 : primaire de la droite et du centre, Marine Tondelier tend la main à LFI",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/politique/20261119-pr%C3%A9sidentielle-2027-primaire-de-la-droite-et-du-centre-marine-tondelier-tend-la-main-%C3%A0-lfi",
+   "source": "France 24",
+   "date": "2026-11-19T21:59:10+00:00",
+   "extrait": "La primaire de la droite et du centre aura-t-elle lieu et qui y participera ? Une première réunion s'est tenue avec les équipes de Gabriel Attal, Bruno Retailleau et David Lisnard, mais sans Édouard…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "a1545a3b8823",
    "titre": "Dans la Somme, il est tombé l'équivalent \"d'un mois et demi de pluie\" en trois jours, selon le directeur de Météo Climat Pro",
    "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/dans-la-somme-il-est-tombe-l-equivalent-d-un-mois-et-demi-de-pluie-en-trois-jours-selon-le-directeur-de-meteo-climat-pro_8290751.html#xtor=RSS-3-[lestitres]",
@@ -1681,7 +1955,7 @@
    "lien": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261119-xi-trump-poutine-un-yalta-2-0",
    "source": "France 24",
    "date": "2026-11-19T21:00:32+00:00",
-   "extrait": "C’est peut-être l'image de l’année : Xi Jinping, Donald Trump et Vladimir Poutine réunis à Shenzhen en Chine. C’est la première fois que les présidents de ces trois puissances se rencontraient. Ils…",
+   "extrait": "C’est peut-être l'image de l’année : Xi Jinping, Donald Trump et Vladimir Poutine réunis à Shenzhen, en Chine. C’est la première fois que les présidents de ces trois puissances se rencontraient. Ils…",
    "tags": [
     "Politique",
     "Conflits"
@@ -1920,7 +2194,7 @@
   },
   {
    "id": "d19dd2174706",
-   "titre": "Anthropic fait son entréé en bourse",
+   "titre": "Anthropic fait son entrée en bourse",
    "lien": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261119-anthropic-fait-son-entr%C3%A9%C3%A9-en-bourse",
    "source": "France 24",
    "date": "2026-11-19T19:23:52+00:00",
@@ -2024,11 +2298,11 @@
   },
   {
    "id": "5dbc2f043087",
-   "titre": "COP31: l'avenir de l'agriculture en question",
+   "titre": "COP31 : l'avenir de l'agriculture en question",
    "lien": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261119-cop31-l-avenir-de-l-agriculture-en-question",
    "source": "France 24",
    "date": "2026-11-19T18:43:38+00:00",
-   "extrait": "Le réchauffement climatique est l'un des principaux facteurs d'aggravation de l'insécurité alimentaire dans le monde. L'agriculture mondiale est victime de ce phénomène mais l'aggrave aussi…",
+   "extrait": "Le réchauffement climatique est l'un des principaux facteurs d'aggravation de l'insécurité alimentaire dans le monde. Si l'agriculture mondiale est victime de ce phénomène, elle l'aggrave aussi…",
    "tags": [],
    "zone": "monde"
   },
@@ -2302,11 +2576,11 @@
   },
   {
    "id": "96272655b00e",
-   "titre": "Trump, Xi and Putin sit down for a rare 3-way meeting in China",
+   "titre": "Trump meeting with Putin and Xi in China appears to achieve little",
    "lien": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/",
    "source": "CBS News",
    "date": "2026-11-19T17:18:00+00:00",
-   "extrait": "Russia says Putin, Trump and China's Xi agreed during a rare meeting to boost gas and oil production, and \"reaffirmed that there can be no winners in a nuclear war.\"",
+   "extrait": "The U.S., Chinese and Russian presidents said they agreed during a rare meeting to boost oil production and \"reaffirmed that there can be no winners in a nuclear war.\"",
    "tags": [
     "Politique",
     "Conflits"
@@ -3195,278 +3469,6 @@
    "source": "Le Monde",
    "date": "2026-11-19T14:14:18+00:00",
    "extrait": "« Grand Theft Auto VI » offre au moins une centaine d’heures de contenu, et si elles ne permettent pas de se faire un avis définitif, les dix premières heures laissent entrapercevoir un univers de…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "254da20dce08",
-   "titre": "EN DIRECT, guerre en Ukraine : Emmanuel Macron s’attend à des « semaines critiques » et veut « rouvrir la question de l’adhésion à l’OTAN »",
-   "lien": "https://www.lemonde.fr/international/live/2026/11/19/en-direct-guerre-en-ukraine-vladimir-poutine-previent-que-toute-forme-de-cooperation-militaire-entre-kiev-et-l-europe-dans-un-eventuel-accord-de-paix-pose-evidemment-un-probleme_6810982_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-19T14:14:11+00:00",
-   "extrait": "Le président de la République participait à une ‌réunion ‌des Etats membres de la coalition des volontaires, à ​Berlin, en présence notamment de Volodymyr Zelensky et du chancelier allemand…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "854282516eb8",
-   "titre": "Details emerge on South Carolina \"stand your ground\" murder case",
-   "lien": "https://www.cbsnews.com/video/details-emerge-on-south-carolina-stand-your-ground-murder-case/",
-   "source": "CBS News",
-   "date": "2026-11-19T14:13:35+00:00",
-   "extrait": "New details are emerging in a South Carolina shooting case where two men are claiming self-defense under the state's \"stand your ground\" law. Tom Hanson reports.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "cdd0ff7b3108",
-   "titre": "Jad Zahab : la France n'est \"plus une nation libre car nous sommes endettés\"",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/mardi-politique/20261119-jad-zahab-la-france-n-est-plus-une-nation-libre-car-nous-sommes-endett%C3%A9s",
-   "source": "France 24",
-   "date": "2026-11-19T14:10:48+00:00",
-   "extrait": "Jad Zahab, porte-parole de Gabriel Attal, estime que \"Gabriel Attal a le programme le plus radical\". Concernant la crise du pouvoir d'achat, sujet qui selon lui sera au coeur de la campagne, il…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "de1eb57181d9",
-   "titre": "Sommet des alliés de l'Ukraine : quels sont les enjeux ?",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261119-sommet-des-alli%C3%A9s-de-l-ukraine-quels-sont-les-enjeux",
-   "source": "France 24",
-   "date": "2026-11-19T14:09:01+00:00",
-   "extrait": "L'Allemagne accueille jeudi une trentaine d'alliés de l'Ukraine, à l'heure où l'Europe veut consolider sa place à la table de négociations de paix mais aussi trouver des fonds pour l'effort de…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "7c43fffcb147",
-   "titre": "Chine, Etats-Unis et Russie adoptent une \"déclaration de paix\" après un sommet inédit",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261119-chine-etats-unis-et-russie-adoptent-une-d%C3%A9claration-de-paix-apr%C3%A8s-un-sommet-in%C3%A9dit",
-   "source": "France 24",
-   "date": "2026-11-19T14:08:29+00:00",
-   "extrait": "Les présidents chinois, américain et russe se sont mis d'accord sur une \"déclaration de paix\" à l'issue de leur sommet inédit jeudi, dans laquelle ils s'engagent en faveur de la \"stabilité…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "256c6494eaf1",
-   "titre": "Les demandes d'acomptes sur salaire en hausse en France, sollicitées par de plus en plus de salariés pour \"boucler le mois\"",
-   "lien": "https://www.franceinfo.fr/economie/crise/les-demandes-d-acomptes-sur-salaire-en-hausse-en-france-sollicitees-par-de-plus-en-plus-de-salaries-pour-boucler-le-mois_8290121.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T14:03:56+00:00",
-   "extrait": "L'acompte sur salaire permet de toucher une partie de son salaire avant la date habituelle de paie, pour un travail déjà effectué.",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "78afdf6f6fb1",
-   "titre": "Côte d’Ivoire: Du bureau aux champs, de nombreux citadins font le pari de la terre",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261119-c%C3%B4te-d-ivoire-du-bureau-aux-champs-de-nombreux-citadins-font-le-pari-de-la-terre",
-   "source": "France 24",
-   "date": "2026-11-19T14:02:15+00:00",
-   "extrait": "🇨🇮 En Côte d’Ivoire, de plus en plus de citadins troquent leurs costumes contre les bottes pour investir dans l’agriculture. Une nouvelle tendance qui permet de diversifier ses revenus, mais qui…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "dae9f4925d6c",
-   "titre": "VIDEO : la Haute-Corse en vigilance orange \"crues\", forte montée des eaux du Tavignano à Corte",
-   "lien": "https://france3-regions.franceinfo.fr/corse/haute-corse/corte/video-la-haute-corse-en-vigilance-orange-crues-forte-montee-des-eaux-du-tavignano-a-corte-3452169.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T13:55:05+00:00",
-   "extrait": "Ce jeudi 19 novembre, le Tavignano et ses affluents sont en crue, à la suite des fortes pluies qui ont touché la région de Corte. La Haute-Corse est placée en alerte orange pour ce paramètre par les…",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "f3d848d6309e",
-   "titre": "Rencontre entre Trump, Poutine et Xi : le président russe affirme avoir eu une discussion \"ouverte\" et \"très utile\" avec ses homologues",
-   "lien": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/direct-rencontre-donald-trump-vladimir-poutine-xi-jinping-suivez-l-entretien-inedit-entre-les-trois-presidents-en-chine_8288564.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T13:51:20+00:00",
-   "extrait": "Les chefs d'Etat américain, russe et chinois se sont réunis jeudi pour un sommet tripartite pour \"préserver la paix mondiale\".",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c90f8f236e97",
-   "titre": "PFAS : nouvelle étape franchie pour la restriction universelle des « polluants éternels » à l’échelle européenne",
-   "lien": "https://www.lemonde.fr/planete/article/2026/11/19/pfas-l-agence-europeenne-des-produits-chimiques-favorable-a-des-restrictions-des-polluants-eternels-dans-l-union-europeenne_6813311_3244.html",
-   "source": "Le Monde",
-   "date": "2026-11-19T13:44:48+00:00",
-   "extrait": "Les PFAS, ces molécules omniprésentes dans les objets du quotidien (emballages, cosmétiques, ustensiles de cuisine) s’accumulent à travers l’environnement et dans le corps humain, avec des effets…",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "db9c452d86c7",
-   "titre": "\"Un réalisme qui défie l'entendement\" : la presse extatique après la sortie de GTA VI",
-   "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261119-un-r%C3%A9alisme-qui-d%C3%A9fie-l-entendement-la-presse-extatique-apr%C3%A8s-la-sortie-de-gta-vi-jeux-vid%C3%A9o-test",
-   "source": "France 24",
-   "date": "2026-11-19T13:42:50+00:00",
-   "extrait": "Unanimement salué par la critique, Grand Theft Auto VI, sorti jeudi sur toute la planète, impressionne par ses graphismes spectaculaires, la richesse inégalée de son monde ouvert et une narration…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "10d437c20cb5",
-   "titre": "Trump sits down with Xi Jinping and Vladimir Putin for historic meeting",
-   "lien": "https://www.cbsnews.com/video/trump-sits-down-with-xi-jinping-and-vladimir-putin-for-historic-meeting/",
-   "source": "CBS News",
-   "date": "2026-11-19T13:39:00+00:00",
-   "extrait": "President Trump met with Chinese President Xi Jinping and Russian President Vladimir Putin Thursday in a historic face-to-face summit. Tony Dokoupil and Nancy Cordes report.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "f1298a579216",
-   "titre": "La Commission européenne annonce avoir été la cible d'une cyberattaque assistée par l'intelligence artificielle en octobre",
-   "lien": "https://www.franceinfo.fr/monde/europe/union-europeenne/la-commission-europeenne-annonce-avoir-ete-la-cible-d-une-cyberattaque-assistee-par-l-intelligence-artificielle-en-octobre_8289959.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T13:38:26+00:00",
-   "extrait": "Un porte-parole a précisé jeudi qu'à ce stade, la Commission européenne n'avait pas la preuve de vol de données personnelles.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "918245b35173",
-   "titre": "\"On a envie de boire des vins plus souples\" : après le déclin, le retour en grâce du Beaujolais nouveau ?",
-   "lien": "https://www.franceinfo.fr/economie/on-a-envie-de-boire-des-vins-plus-souples-apres-le-declin-le-retour-en-grace-du-beaujolais-nouveau_8289986.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T13:37:46+00:00",
-   "extrait": "Le Beaujolais nouveau a perdu de son engouement depuis son âge d'or des années 1990. Mais ce vin semble retrouver une place auprès des consommateurs, qui seraient séduits par des vins plus légers et…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "f96143e95034",
-   "titre": "Eye Opener: Trump attends historic meeting with Xi, Putin",
-   "lien": "https://www.cbsnews.com/video/eye-opener-trump-attends-historic-meeting-with-xi-putin/",
-   "source": "CBS News",
-   "date": "2026-11-19T13:35:04+00:00",
-   "extrait": "President Trump, Xi Jinping and Vladimir Putin met in China on Wednesday. All that and all that matters in today's Eye Opener.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "bc9d03c1a3ce",
-   "titre": "\"J'ai l'impression d'avoir vu ça dans un film\" : comment la saga GTA s'inspire du cinéma, et réciproquement",
-   "lien": "https://www.franceinfo.fr/culture/jeux-video/j-ai-l-impression-d-avoir-vu-ca-dans-un-film-comment-la-saga-gta-s-inspire-du-cinema-et-reciproquement_8289821.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T13:32:38+00:00",
-   "extrait": "Le sixième épisode du jeu vidéo évènement \"GTA\" est disponible depuis ce jeudi. Depuis le troisième opus, sorti en 2001, la saga \"Grand Theft Auto\" puise notamment son inspiration dans certains…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "b16facea9bde",
-   "titre": "Venezuela signs military deal with US less than a year after Maduro's removal",
-   "lien": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-19T13:31:23+00:00",
-   "extrait": "The US Secretary of Defence says Venezuela has \"gone from our most aggressive regional threat to a compliant security partner\".",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "694579fc4cbf",
-   "titre": "Un bassin de rétention d'eau déborde dans le Pas-de-Calais, une école avec 17 élèves évacués puis mis \"en sécurité\"",
-   "lien": "https://france3-regions.franceinfo.fr/hauts-de-france/pas-calais/touquet/un-bassin-de-retention-d-eau-deborde-une-ecole-avec-17-eleves-evacues-puis-mis-en-securite-3452310.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T13:31:08+00:00",
-   "extrait": "Jeudi 19 novembre vers 10h, les pompiers ont été appelés pour une inondation conséquente à Bréxent-Énocq (Pas-de-Calais). Un bassin de rétention d'eau a débordé. Le plan Orsec a été déclenché par la…",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "9660fc3b70c8",
-   "titre": "Sénégal : le surf fait de plus en plus d’adeptes chez les jeunes",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261119-s%C3%A9n%C3%A9gal-le-surf-fait-de-plus-en-plus-d-adeptes-chez-les-jeunes",
-   "source": "France 24",
-   "date": "2026-11-19T13:20:18+00:00",
-   "extrait": "🇸🇳 Au Sénégal, le surf attire de plus en plus de jeunes, mais le coût du matériel reste un frein à sa démocratisation. À Ngor, près de Dakar, un jeune surfeur professionnel a créé une école pour…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "5cbf1748a625",
-   "titre": "Does your credit card already provide travel insurance? Here's how to tell",
-   "lien": "https://www.cbsnews.com/news/does-your-credit-card-provide-travel-insurance/",
-   "source": "CBS News",
-   "date": "2026-11-19T13:14:14+00:00",
-   "extrait": "Your credit card may offer valuable travel protections, but knowing what's covered, and what's not, is key.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "e1ed08c113e1",
-   "titre": "Are CDs worth it? When they beat savings and money market accounts",
-   "lien": "https://www.cbsnews.com/news/cd-account-worth-opening-again/",
-   "source": "CBS News",
-   "date": "2026-11-19T13:12:00+00:00",
-   "extrait": "A CD could be worth it when compared to savings and money market accounts now. Here's why.",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "8944b9bf2f7d",
-   "titre": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
-   "lien": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-19T13:07:35+00:00",
-   "extrait": "The bridge - a symbol of Russia's occupation of the Crimean Peninsula - suffered major damaged following a combined attack by Ukraine earlier this week.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "2d27a52ac9cb",
-   "titre": "Ce qu'il faut retenir du sommet inédit entre Donald Trump, Xi Jinping et Vladimir Poutine",
-   "lien": "https://www.france24.com/fr/asie-pacifique/20261119-ce-qu-il-faut-retenir-du-sommet-in%C3%A9dit-entre-donald-trump-xi-jinping-et-vladimir-poutine",
-   "source": "France 24",
-   "date": "2026-11-19T13:05:26+00:00",
-   "extrait": "Le président américain Donald Trump et ses ⁠homologues chinois et russe ​Xi Jinping et Vladimir Poutine se sont retrouvés jeudi en marge d'un sommet de l'Asie-Pacifique (Apec) pour une réunion…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "bad10e1a15d2",
-   "titre": "\"Je n'ai jamais joué à un jeu aussi marquant\" : le jeu vidéo \"GTA VI\" reçoit les éloges de la presse spécialisée du monde entier",
-   "lien": "https://www.franceinfo.fr/culture/jeux-video/gta-vi/je-n-ai-jamais-joue-a-un-jeu-aussi-marquant-le-jeu-video-gta-vi-recoit-les-eloges-de-la-presse-specialisee-du-monde-entier_8289947.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T13:04:22+00:00",
-   "extrait": "Sur le site spécialisé Metacritic, qui agrège les évaluations, le dernier opus de la franchise \"Grand Theft Auto\", attendu par les fans pendant treize ans, décroche la note mirobolante de 99/100, du…",
    "tags": [],
    "zone": "france"
   }
