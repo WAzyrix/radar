@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-20T13:05:40+00:00",
+ "maj": "2026-11-20T14:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,26 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "c9d9ffeefd95",
+   "titre": "NoName revendique un accès aux caméras d’une salle de jeux",
+   "lien": "https://www.zataz.com/noname-revendique-un-acces-aux-cameras-dune-salle-de-jeux/",
+   "source": "Zataz",
+   "date": "2026-11-20T13:39:14+00:00",
+   "extrait": "NoName revendique un accès aux caméras d’une salle de jeux allemande et utilise la vidéosurveillance à des fins de propagande.",
+   "tags": []
+  },
+  {
+   "id": "d9a325150570",
+   "titre": "N-able says recent security breach led to major service outage",
+   "lien": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
+   "source": "BleepingComputer",
+   "date": "2026-11-20T13:18:36+00:00",
+   "extrait": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
   {
    "id": "ab075b0f8cec",
    "titre": "Accès piratés à vendre comme des pains au chocolat",
@@ -3345,27 +3365,6 @@
    "tags": [
     "Fuite de données",
     "Malware"
-   ]
-  },
-  {
-   "id": "a4a34375ee4e",
-   "titre": "eMudhra revokes 8 more CA certificates after private key mishap",
-   "lien": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
-   "source": "BleepingComputer",
-   "date": "2026-11-11T21:27:40+00:00",
-   "extrait": "Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys…",
-   "tags": []
-  },
-  {
-   "id": "4555dea14647",
-   "titre": "Notion says Fireworks breach exposed customer AI chat transcripts",
-   "lien": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
-   "source": "BleepingComputer",
-   "date": "2026-11-11T20:54:20+00:00",
-   "extrait": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
-   "tags": [
-    "Fuite de données",
-    "IA"
    ]
   }
  ]
