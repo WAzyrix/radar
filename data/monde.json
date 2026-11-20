@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-20T07:05:39+00:00",
+ "maj": "2026-11-20T07:48:15+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,62 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "541841f17586",
+   "titre": "Les découverts bancaires de moins de 200 euros désormais considérés comme des crédits à la consommation",
+   "lien": "https://www.lemonde.fr/argent/article/2026/11/20/les-decouverts-bancaires-de-moins-de-200-euros-desormais-consideres-comme-des-credits-a-la-consommation_6813600_1657007.html",
+   "source": "Le Monde",
+   "date": "2026-11-20T07:26:00+00:00",
+   "extrait": "A partir du 20 novembre, les banques doivent procéder à un examen de la solvabilité de leur client avant de lui accorder une autorisation de découvert.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "a2dd80283ac4",
+   "titre": "Le Royaume-Uni et l'UE comptent s'entendre sur un rapprochement lors d'un sommet à Bruxelles",
+   "lien": "https://www.france24.com/fr/europe/20261120-royaume-uni-et-union-europenne-comptent-s-entendre-sur-rapprochement-sommet-bruxelles",
+   "source": "France 24",
+   "date": "2026-11-20T07:20:13+00:00",
+   "extrait": "Le Premier ministre britannique Andy Burnham et les dirigeants de l'Union européenne s'apprêtent à s'accorder vendredi, lors d'un sommet à Bruxelles, sur un rapprochement grâce à des accords sur la…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "a219ae020d27",
+   "titre": "Photos, videos show devastating South Florida flooding",
+   "lien": "https://www.cbsnews.com/news/photos-videos-devastating-south-florida-flooding-schools-closed-evacuations/",
+   "source": "CBS News",
+   "date": "2026-11-20T07:18:00+00:00",
+   "extrait": "Significant flooding devastated some South Florida communities this week.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "e3a5c10bd424",
+   "titre": "UK and EU to agree youth mobility scheme, BBC understands",
+   "lien": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-20T07:14:46+00:00",
+   "extrait": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "6d5bdf7d5161",
+   "titre": "« GTA VI » signe-t-il la mort du disque ?",
+   "lien": "https://www.lemonde.fr/flux-video-immersif/video/2026/11/20/gta-vi-signe-t-il-la-mort-du-disque_6813597_6717263.html",
+   "source": "Le Monde",
+   "date": "2026-11-20T07:00:09+00:00",
+   "extrait": "« L’Heure du Monde ». Le dernier « Grand Theft Auto » sort treize ans après son prédécesseur. Entre-temps, le marché du jeu vidéo a évolué et l’importance du disque s’est effondrée.",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "france"
+  },
   {
    "id": "17cd7a3df7da",
    "titre": "Beloved hippo Fiona dies days after swallowing hat",
@@ -296,16 +352,6 @@
     "Climat"
    ],
    "zone": "france"
-  },
-  {
-   "id": "e3a5c10bd424",
-   "titre": "UK and EU to agree youth mobility scheme, BBC understands",
-   "lien": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-20T04:35:51+00:00",
-   "extrait": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
-   "tags": [],
-   "zone": "monde"
   },
   {
    "id": "32a990d00e97",
@@ -662,6 +708,18 @@
    "zone": "usa"
   },
   {
+   "id": "23ae662a219d",
+   "titre": "Une vague de manifestations de la jeunesse à travers l'Europe à partir de vendredi",
+   "lien": "https://www.france24.com/fr/europe/20261120-contre-la-guerre-pour-la-jeunesse-vague-de-manifestations-%C3%A0-travers-l-europe-%C3%A0-partir-de-vendredi",
+   "source": "France 24",
+   "date": "2026-11-20T00:56:25+00:00",
+   "extrait": "A travers l'Europe, des jeunes d'une vingtaine de pays s'apprêtent à descendre dans la rue vendredi et ce week-end pour une grève internationale sous le mot d'ordre \"Battez-vous pour notre avenir…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "bf5c721b3ae8",
    "titre": "Possible break-in in Madison Beer and Justin Herbert's neighborhood, other LA homes targeted",
    "lien": "https://www.cbsnews.com/video/possible-break-in-in-madison-beer-and-justin-herberts-neighborhood-other-la-homes-targeted/",
@@ -883,11 +941,11 @@
   },
   {
    "id": "5bd0a548ad8f",
-   "titre": "Intelligence artificielle : l’action Anthropic finit sa première journée en hausse de 17 % et valorise l’entreprise à 1 280 milliards de dollars",
+   "titre": "IA : l’action Anthropic finit sa première journée en hausse de 17 % et valorise l’entreprise à 1 280 milliards de dollars",
    "lien": "https://www.lemonde.fr/economie/article/2026/11/20/intelligence-artificielle-l-action-anthropic-finit-sa-premiere-journee-en-hausse-de-17-et-valorise-l-entreprise-a-1-280-milliards-de-dollars_6813415_3234.html",
    "source": "Le Monde",
-   "date": "2026-11-19T23:30:58+00:00",
-   "extrait": "L’introduction en Bourse spectaculaire du leader de l’IA n’a pas empêché Wall Street de finir en forte baisse jeudi, sur fond de mouvement anti-IA et d’interrogations sur le modèle économique de ces…",
+   "date": "2026-11-19T23:30:54+00:00",
+   "extrait": "L’introduction en Bourse spectaculaire du leader de l’Intelligence artificielle n’a pas empêché Wall Street de finir en forte baisse jeudi, sur fond de mouvement anti-IA et d’interrogations sur le…",
    "tags": [
     "Économie",
     "Tech"
@@ -1128,6 +1186,18 @@
    "zone": "usa"
   },
   {
+   "id": "52a15364d595",
+   "titre": "Inondations : plusieurs centaines d'évacuations dans le Pas-de-Calais",
+   "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/inondations-plusieurs-centaines-d-evacuations-dans-le-pas-de-calais_8290622.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-19T22:27:52+00:00",
+   "extrait": "La préfecture du Pas-de-Calais recense des dégâts liés aux inondations dans au moins 25 communes du département. Les secours ont dû mettre 16 élèves à l’abri à l’étage d’une école avant de les…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "16658dde505f",
    "titre": "Un quart des enfants du monde vivent dans une zone de conflit, alerte l'ONG Save The Children",
    "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-quart-des-enfants-du-monde-vivent-dans-une-zone-de-conflit-alerte-l-ong-save-the-children_8290703.html#xtor=RSS-3-[lestitres]",
@@ -1356,18 +1426,6 @@
     "Justice"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "a219ae020d27",
-   "titre": "Photos, videos show devastating South Florida flooding",
-   "lien": "https://www.cbsnews.com/news/photos-videos-devastating-south-florida-flooding-schools-closed-evacuations/",
-   "source": "CBS News",
-   "date": "2026-11-19T21:12:00+00:00",
-   "extrait": "Significant flooding devastated some South Florida communities this week.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "usa"
   },
   {
    "id": "f5232f4291b7",
@@ -3413,62 +3471,6 @@
    "source": "Le Monde",
    "date": "2026-11-19T12:00:03+00:00",
    "extrait": "Très populaire sur les réseaux sociaux, le jeune cuisinier parisien a bâti un petit empire culinaire, avec lequel il ambitionne de changer en profondeur le modèle de la restauration.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "4b3bf5c69112",
-   "titre": "🔴 La Birmanie a commis un génocide à l'encontre des Rohingya, statue la Cour internationale de justice",
-   "lien": "https://www.france24.com/fr/asie-pacifique/20261119-la-cij-juge-les-forces-birmanes-coupables-d-avoir-tu%C3%A9-des-milliers-de-civils-rohingyas",
-   "source": "France 24",
-   "date": "2026-11-19T11:53:27+00:00",
-   "extrait": "",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "3c3051617daf",
-   "titre": "Procès de l’interpellation violente de Michel Zecler : jusqu’à six ans de prison ferme requis contre les trois policiers, assortis d’une interdiction définitive d’exercer",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/19/proces-de-l-interpellation-violente-de-michel-zecler-jusqu-a-cinq-ans-de-prison-ferme-requis-contre-les-trois-policiers-assortis-d-une-interdiction-definitive-d-exercer_6813291_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-19T11:53:24+00:00",
-   "extrait": "Le 21 novembre 2020, Michel Zecler avait été interpellé par une patrouille policière devant son studio de musique parisien puis avait été roué de coups. Les policiers sont aussi accusés d’avoir…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "12e503a816ec",
-   "titre": "Florida pastor found guilty over role in assassination of Haitian president",
-   "lien": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-19T11:44:57+00:00",
-   "extrait": "Christian Emmanuel Sanon is convicted of involvement in the plot that resulted in the killing of Jovenel Moïse.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "7b377fcea79d",
-   "titre": "'Frustrated' - Democrats remain a divided party despite winning big in midterms",
-   "lien": "https://www.bbc.co.uk/news/articles/c6174edpp5e8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-19T11:43:06+00:00",
-   "extrait": "After winning power in Congress, a Democratic conference in Denver was animated with talk on the best way forward.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "d8dafd1b83c9",
-   "titre": "Rohingya : la Birmanie a commis un génocide à l’encontre de cette minorité majoritairement musulmane, statue la CIJ",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/19/la-birmanie-a-commis-un-genocide-a-l-encontre-de-la-minorite-rohingya-statue-la-cour-internationale-de-justice_6813288_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-19T11:42:12+00:00",
-   "extrait": "Les violences avaient contraint des centaines de milliers de personnes à fuir leur foyer. Des témoignages ont fait état de viols collectifs, d’exécutions de masse et, de manière plus générale, d’une…",
    "tags": [],
    "zone": "france"
   }

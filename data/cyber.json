@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-20T07:05:39+00:00",
+ "maj": "2026-11-20T07:48:15+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "ba74506a96ac",
+   "titre": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
+   "lien": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
+   "source": "The Hacker News",
+   "date": "2026-11-20T07:11:39+00:00",
+   "extrait": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS…",
+   "tags": [
+    "Malware"
+   ]
+  },
   {
    "id": "dc6901c8a6d8",
    "titre": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
@@ -380,7 +391,7 @@
   },
   {
    "id": "ef3cecb6fd50",
-   "titre": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
+   "titre": "Ruby Ships Fixes for 7 Flaws, Including Critical Ruby2Shell, Said to Hit Default Rails Apps Pre-Auth",
    "lien": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
    "source": "The Hacker News",
    "date": "2026-11-19T08:42:11+00:00",
@@ -3363,18 +3374,6 @@
    "tags": [
     "Outil",
     "Mobile"
-   ]
-  },
-  {
-   "id": "890bd5d68a0a",
-   "titre": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
-   "lien": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
-   "source": "The Hacker News",
-   "date": "2026-11-11T07:49:04+00:00",
-   "extrait": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said…",
-   "tags": [
-    "Fuite de données",
-    "IA"
    ]
   }
  ]
