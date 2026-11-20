@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-20T11:05:39+00:00",
+ "maj": "2026-11-20T12:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,6 +24,17 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "4b9b928c39f1",
+   "titre": "Hell’s r00ts 2.0 : les vieux hackers n’ont pas dit leur dernier mot",
+   "lien": "https://www.zataz.com/hells-r00ts-2-0-les-vieux-hackers-nont-pas-dit-leur-dernier-mot/",
+   "source": "Zataz",
+   "date": "2026-11-20T12:05:59+00:00",
+   "extrait": "Avec Hell’s r00ts 2.0, Antoine Champagne ressuscite les pionniers du hacking dans un thriller cyber passionnant.",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
    "id": "6a744f24eada",
    "titre": "F5 releases emergency patches for critical BIG-IP RCE flaws",
    "lien": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
@@ -32,6 +43,18 @@
    "extrait": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
    "tags": [
     "Faille"
+   ]
+  },
+  {
+   "id": "b6dced9e8be0",
+   "titre": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
+   "lien": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
+   "source": "The Hacker News",
+   "date": "2026-11-20T10:38:22+00:00",
+   "extrait": "SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by…",
+   "tags": [
+    "Faille",
+    "IA"
    ]
   },
   {
@@ -45,6 +68,19 @@
     "Faille",
     "IA",
     "Mobile"
+   ]
+  },
+  {
+   "id": "c9ddefa65f50",
+   "titre": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
+   "lien": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
+   "source": "The Hacker News",
+   "date": "2026-11-20T10:32:50+00:00",
+   "extrait": "Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept…",
+   "tags": [
+    "CVE",
+    "Faille",
+    "Fuite de données"
    ]
   },
   {
@@ -3337,40 +3373,6 @@
     "Jailbreak",
     "Outil",
     "Linux"
-   ]
-  },
-  {
-   "id": "7fc0ff6aee2a",
-   "titre": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
-   "lien": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
-   "source": "The Hacker News",
-   "date": "2026-11-11T14:01:00+00:00",
-   "extrait": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026. Cynet's CyOps and Research…",
-   "tags": [
-    "Faille",
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "693679885746",
-   "titre": "N-able releases security hotfixes for zero-day vulnerabilities",
-   "lien": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
-   "source": "BleepingComputer",
-   "date": "2026-11-11T12:32:27+00:00",
-   "extrait": "N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "14caa111eec6",
-   "titre": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
-   "lien": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
-   "source": "The Hacker News",
-   "date": "2026-11-11T12:19:40+00:00",
-   "extrait": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the…",
-   "tags": [
-    "IA"
    ]
   }
  ]
