@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-20T14:05:40+00:00",
+ "maj": "2026-11-20T15:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,24 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "19cca4f1450a",
+   "titre": "Still tracking company passwords in spreadsheets? You’re flying blind.",
+   "lien": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
+   "source": "BleepingComputer",
+   "date": "2026-11-20T15:00:10+00:00",
+   "extrait": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how…",
+   "tags": []
+  },
+  {
+   "id": "bba5164d8e6a",
+   "titre": "Panne à la NSA, données du DoJ en vente selon un pirate",
+   "lien": "https://www.zataz.com/panne-a-la-nsa-donnees-du-doj-en-vente-selon-un-pirate/",
+   "source": "Zataz",
+   "date": "2026-11-20T14:16:03+00:00",
+   "extrait": "La NSA confirme une panne de NSANet. ZATAZ repère une vente de données attribuées à la Justice américaine.",
+   "tags": []
+  },
   {
    "id": "c9d9ffeefd95",
    "titre": "NoName revendique un accès aux caméras d’une salle de jeux",
@@ -256,6 +274,209 @@
    "tags": [
     "Faille",
     "Fuite de données"
+   ]
+  },
+  {
+   "id": "4750bf0bdbb8",
+   "titre": "Multiples vulnérabilités dans les produits VMware (20 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1598/",
+   "source": "CERT-FR",
+   "date": "2026-11-20T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "af7bab821b93",
+   "titre": "Multiples vulnérabilités dans Siemens Industrial Edge (20 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1590/",
+   "source": "CERT-FR",
+   "date": "2026-11-20T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Siemens Industrial Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "3c0a19488796",
+   "titre": "Multiples vulnérabilités dans les produits IBM (20 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1597/",
+   "source": "CERT-FR",
+   "date": "2026-11-20T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "c504a905936b",
+   "titre": "Multiples vulnérabilités dans le noyau Linux de Red Hat (20 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1592/",
+   "source": "CERT-FR",
+   "date": "2026-11-20T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une…",
+   "tags": [
+    "Faille",
+    "Linux"
+   ]
+  },
+  {
+   "id": "96435ada9d31",
+   "titre": "Multiples vulnérabilités dans le noyau Linux de SUSE (20 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1593/",
+   "source": "CERT-FR",
+   "date": "2026-11-20T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la…",
+   "tags": [
+    "Faille",
+    "Linux"
+   ]
+  },
+  {
+   "id": "7fc1ef9960a7",
+   "titre": "Multiples vulnérabilités dans les produits Mattermost (20 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1588/",
+   "source": "CERT-FR",
+   "date": "2026-11-20T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "0eaca1313f1f",
+   "titre": "Multiples vulnérabilités dans Apache Tomcat (20 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1587/",
+   "source": "CERT-FR",
+   "date": "2026-11-20T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "a472fbbfcd26",
+   "titre": "Vulnérabilité dans GitLab (20 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1591/",
+   "source": "CERT-FR",
+   "date": "2026-11-20T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans GitLab. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "710d5d8c8692",
+   "titre": "Multiples vulnérabilités dans le noyau Linux de Debian (20 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1594/",
+   "source": "CERT-FR",
+   "date": "2026-11-20T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données…",
+   "tags": [
+    "Faille",
+    "Linux"
+   ]
+  },
+  {
+   "id": "3fea43a85e2c",
+   "titre": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (20 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1596/",
+   "source": "CERT-FR",
+   "date": "2026-11-20T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à…",
+   "tags": [
+    "Faille",
+    "Linux"
+   ]
+  },
+  {
+   "id": "5b1ee5db38c8",
+   "titre": "Vulnérabilité dans Metabase (20 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1585/",
+   "source": "CERT-FR",
+   "date": "2026-11-20T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans Metabase. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "ce0f204eed68",
+   "titre": "Multiples vulnérabilités dans Moodle (20 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1581/",
+   "source": "CERT-FR",
+   "date": "2026-11-20T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "ce90111d6f79",
+   "titre": "Multiples vulnérabilités dans Tenable Security Center (20 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1583/",
+   "source": "CERT-FR",
+   "date": "2026-11-20T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "b389d7640e0d",
+   "titre": "Vulnérabilité dans KeyCloak (20 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1586/",
+   "source": "CERT-FR",
+   "date": "2026-11-20T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans KeyCloak. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "3aca047f6328",
+   "titre": "Vulnérabilité dans les produits Palo Alto Networks (20 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1584/",
+   "source": "CERT-FR",
+   "date": "2026-11-20T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans les produits Palo Alto Networks. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "baa2fde59d47",
+   "titre": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (20 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1595/",
+   "source": "CERT-FR",
+   "date": "2026-11-20T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des…",
+   "tags": [
+    "Faille",
+    "Linux"
+   ]
+  },
+  {
+   "id": "ab8bdacb4a1c",
+   "titre": "Multiples vulnérabilités dans les produits Moxa (20 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1589/",
+   "source": "CERT-FR",
+   "date": "2026-11-20T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Moxa. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "773441edca2c",
+   "titre": "Multiples vulnérabilités dans les produits Citrix (20 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1582/",
+   "source": "CERT-FR",
+   "date": "2026-11-20T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Citrix. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
+   "tags": [
+    "Faille"
    ]
   },
   {
@@ -3141,230 +3362,6 @@
    "extrait": "De multiples vulnérabilités ont été découvertes dans Citrix XenServer. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité…",
    "tags": [
     "Faille"
-   ]
-  },
-  {
-   "id": "6e9da3e635a4",
-   "titre": "Multiples vulnérabilités dans les processeurs Intel (12 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1509/",
-   "source": "CERT-FR",
-   "date": "2026-11-12T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les processeurs Intel. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "b400151a05f6",
-   "titre": "Multiples vulnérabilités dans HPE Aruba Networking Private 5G Core (12 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1503/",
-   "source": "CERT-FR",
-   "date": "2026-11-12T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans HPE Aruba Networking Private 5G Core. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "2f6279ff580a",
-   "titre": "Vulnérabilité dans GitLab (12 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1520/",
-   "source": "CERT-FR",
-   "date": "2026-11-12T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans GitLab. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "6d6ee2794987",
-   "titre": "Multiples vulnérabilités dans MongoDB Core Server (12 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1522/",
-   "source": "CERT-FR",
-   "date": "2026-11-12T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans MongoDB Core Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "8133fd2104ea",
-   "titre": "Multiples vulnérabilités dans Traefik (12 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1517/",
-   "source": "CERT-FR",
-   "date": "2026-11-12T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Traefik. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "79ce8ad00d80",
-   "titre": "Multiples vulnérabilités dans les produits Microsoft (12 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1515/",
-   "source": "CERT-FR",
-   "date": "2026-11-12T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation…",
-   "tags": [
-    "Faille",
-    "Windows"
-   ]
-  },
-  {
-   "id": "08cacb439299",
-   "titre": "Multiples vulnérabilités dans Xen (12 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1508/",
-   "source": "CERT-FR",
-   "date": "2026-11-12T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Xen. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "057f12c407f3",
-   "titre": "Multiples vulnérabilités dans Google Pixel (12 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1525/",
-   "source": "CERT-FR",
-   "date": "2026-11-12T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Google Pixel. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "3fa380987053",
-   "titre": "Multiples vulnérabilités dans Microsoft Office (12 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1511/",
-   "source": "CERT-FR",
-   "date": "2026-11-12T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Microsoft Office. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de…",
-   "tags": [
-    "Faille",
-    "Windows"
-   ]
-  },
-  {
-   "id": "99d5eb33589a",
-   "titre": "Multiples vulnérabilités dans Laravel (12 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1504/",
-   "source": "CERT-FR",
-   "date": "2026-11-12T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Laravel. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "0feecc18f2f9",
-   "titre": "Multiples vulnérabilités dans Apache HTTP Server (12 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1500/",
-   "source": "CERT-FR",
-   "date": "2026-11-12T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Apache HTTP Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "a4e081d4e2d1",
-   "titre": "Multiples vulnérabilités dans Google Chrome (12 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1498/",
-   "source": "CERT-FR",
-   "date": "2026-11-12T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "1d649dc4f712",
-   "titre": "Multiples vulnérabilités dans Microsoft Edge (12 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1510/",
-   "source": "CERT-FR",
-   "date": "2026-11-12T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-   "tags": [
-    "Faille",
-    "Windows"
-   ]
-  },
-  {
-   "id": "d21efec4d35b",
-   "titre": "Multiples vulnérabilités dans les produits Check Point (12 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1501/",
-   "source": "CERT-FR",
-   "date": "2026-11-12T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Check Point. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "dfc84b923413",
-   "titre": "Multiples vulnérabilités dans Mitel MiVoice MX-ONE (12 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1516/",
-   "source": "CERT-FR",
-   "date": "2026-11-12T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Mitel MiVoice MX-ONE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "a7e8e8dc1cac",
-   "titre": "Vulnérabilité dans les produits Kaspersky (12 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1524/",
-   "source": "CERT-FR",
-   "date": "2026-11-12T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans les produits Kaspersky. Elle permet à un attaquant de provoquer un déni de service à distance.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "a3711a5515c5",
-   "titre": "Multiples vulnérabilités dans les produits Ivanti (12 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1506/",
-   "source": "CERT-FR",
-   "date": "2026-11-12T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "064d5ba1aaf6",
-   "titre": "Multiples vulnérabilités dans les produits Axis (12 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1523/",
-   "source": "CERT-FR",
-   "date": "2026-11-12T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Axis. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "7f241c94ac84",
-   "titre": "Baker Tilly notifies clients of data breach at third-party provider",
-   "lien": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
-   "source": "BleepingComputer",
-   "date": "2026-11-11T23:01:31+00:00",
-   "extrait": "The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]",
-   "tags": [
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "ccdd6c7f3ffe",
-   "titre": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
-   "lien": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
-   "source": "BleepingComputer",
-   "date": "2026-11-11T22:56:21+00:00",
-   "extrait": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer…",
-   "tags": [
-    "Fuite de données",
-    "Malware"
    ]
   }
  ]
