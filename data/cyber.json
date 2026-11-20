@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-20T06:05:39+00:00",
+ "maj": "2026-11-20T07:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,19 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "dc6901c8a6d8",
+   "titre": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+   "lien": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
+   "source": "The Hacker News",
+   "date": "2026-11-20T06:33:31+00:00",
+   "extrait": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in…",
+   "tags": [
+    "CVE",
+    "Faille",
+    "Fuite de données"
+   ]
+  },
   {
    "id": "fa700a4eb8ce",
    "titre": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
@@ -3362,19 +3375,6 @@
    "tags": [
     "Fuite de données",
     "IA"
-   ]
-  },
-  {
-   "id": "e23f07d99f92",
-   "titre": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
-   "lien": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
-   "source": "The Hacker News",
-   "date": "2026-11-11T07:21:05+00:00",
-   "extrait": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown. When a chosen trigger appears, the…",
-   "tags": [
-    "Malware",
-    "IA",
-    "Windows"
    ]
   }
  ]
