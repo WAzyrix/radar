@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-20T05:05:40+00:00",
+ "maj": "2026-11-20T06:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "fa700a4eb8ce",
+   "titre": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
+   "lien": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
+   "source": "The Hacker News",
+   "date": "2026-11-20T05:30:01+00:00",
+   "extrait": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited…",
+   "tags": [
+    "Faille",
+    "Windows"
+   ]
+  },
   {
    "id": "c5e24a06d395",
    "titre": "VMware patches vCenter zero-day exploited in attacks since September",
@@ -3363,18 +3375,6 @@
     "Malware",
     "IA",
     "Windows"
-   ]
-  },
-  {
-   "id": "cd6455aacef5",
-   "titre": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
-   "lien": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
-   "source": "The Hacker News",
-   "date": "2026-11-11T06:04:02+00:00",
-   "extrait": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited…",
-   "tags": [
-    "CVE",
-    "Faille"
    ]
   }
  ]
