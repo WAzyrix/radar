@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-20T10:05:39+00:00",
+ "maj": "2026-11-20T11:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,43 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "6a744f24eada",
+   "titre": "F5 releases emergency patches for critical BIG-IP RCE flaws",
+   "lien": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
+   "source": "BleepingComputer",
+   "date": "2026-11-20T10:57:43+00:00",
+   "extrait": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "8cd61d70f489",
+   "titre": "Signal bloque les captures pour tenir Gemini et Siri à distance",
+   "lien": "https://korben.info/signal-bloque-captures-ecran-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-20T10:36:02+00:00",
+   "extrait": "Signal bloque les captures d'écran sur iOS 27 et active sa protection sur Android quand un assistant IA lit l'écran. Ce n'est pas une faille, la parade a des trous, et Signal réclame aux éditeurs…",
+   "tags": [
+    "Faille",
+    "IA",
+    "Mobile"
+   ]
+  },
+  {
+   "id": "dc6901c8a6d8",
+   "titre": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+   "lien": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
+   "source": "The Hacker News",
+   "date": "2026-11-20T09:38:15+00:00",
+   "extrait": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in…",
+   "tags": [
+    "CVE",
+    "Faille",
+    "Fuite de données"
+   ]
+  },
   {
    "id": "09d3f14eaae7",
    "titre": "Windows 11 KB5132057 update released with 28 changes and fixes",
@@ -84,19 +121,6 @@
    "extrait": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS…",
    "tags": [
     "Malware"
-   ]
-  },
-  {
-   "id": "dc6901c8a6d8",
-   "titre": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
-   "lien": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
-   "source": "The Hacker News",
-   "date": "2026-11-20T06:33:31+00:00",
-   "extrait": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in…",
-   "tags": [
-    "CVE",
-    "Faille",
-    "Fuite de données"
    ]
   },
   {
@@ -3348,26 +3372,6 @@
    "tags": [
     "IA"
    ]
-  },
-  {
-   "id": "de18400249b3",
-   "titre": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
-   "lien": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
-   "source": "The Hacker News",
-   "date": "2026-11-11T12:01:59+00:00",
-   "extrait": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability that’s separate from any human’s. That was true for…",
-   "tags": [
-    "IA"
-   ]
-  },
-  {
-   "id": "b80a24c89312",
-   "titre": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
-   "lien": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
-   "source": "The Hacker News",
-   "date": "2026-11-11T12:00:53+00:00",
-   "extrait": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys. Each…",
-   "tags": []
   }
  ]
 }

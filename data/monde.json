@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-20T10:05:39+00:00",
+ "maj": "2026-11-20T11:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -19,8 +19,228 @@
   "Tech",
   "Sport"
  ],
- "erreurs": [],
+ "erreurs": [
+  "France 24"
+ ],
  "articles": [
+  {
+   "id": "8646c55a47f8",
+   "titre": "L'ultime survivant français du camp de concentration nazi du Struthof est mort à 100 ans",
+   "lien": "https://france3-regions.franceinfo.fr/grand-est/marne/l-ultime-survivant-francais-du-camp-du-struthof-est-mort-a-100-ans-3452865.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T11:02:02+00:00",
+   "extrait": "Déporté à moins de 17 ans au camp du Struthof (Bas-Rhin), Roger Boulanger est mort ce jeudi 19 novembre, à Reims (Marne). Dernier survivant de ce camp de concentration nazi, le seul sur le…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "f4d3589aa2f4",
+   "titre": "Senate passes bipartisan energy bill amid environmental concerns",
+   "lien": "https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill",
+   "source": "NPR",
+   "date": "2026-11-20T11:00:28+00:00",
+   "extrait": "As Americans struggle with rising energy costs and increased demand driven by AI, the Senate passed a bipartisan bill that will speed up the approval process for data centers and power plants.",
+   "tags": [
+    "Politique",
+    "Justice",
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "d409ed1430ec",
+   "titre": "Can Democrats force an end to the Iran war when they take Congress?",
+   "lien": "https://www.cbsnews.com/news/iran-war-democrats-congress-trump/",
+   "source": "CBS News",
+   "date": "2026-11-20T11:00:00+00:00",
+   "extrait": "With Democrats set to take decisive House and Senate majorities, some members want to pressure the Trump administration to end the Iran war. The exact plan is not clear.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "d9b81e69b4b7",
+   "titre": "\"C'est à peine imaginable\" : les habitants abasourdis après le passage d'une tornade dans un village de l'Aube",
+   "lien": "https://france3-regions.franceinfo.fr/grand-est/aube/c-est-a-peine-imaginable-les-habitants-abasourdis-apres-le-passage-d-une-tornade-dans-un-village-de-l-aube-3452946.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T10:59:57+00:00",
+   "extrait": "Une tornade a touché le village de Bourguignons, dans l'Aube, jeudi 19 novembre 2026. Les dégâts sont très importants sur certaines maisons. Les habitants nous racontent.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "dd608b3f93a2",
+   "titre": "Inondations dans le Pas-de-Calais : Trente-cinq communes déjà inondées, un village isolé, le pire est-il à venir ?",
+   "lien": "https://france3-regions.franceinfo.fr/hauts-de-france/pas-calais/touquet/inondations-dans-le-pas-de-calais-trente-cinq-communes-deja-inondees-un-village-isole-le-pire-est-il-a-venir-3452817.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T10:58:16+00:00",
+   "extrait": "Les fortes précipitations se sont poursuivies dans la nuit de jeudi à vendredi 20 novembre 2026. Au petit matin, le département se réveille décontenancé de ces nouvelles inondations, mais aussi…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "a3244f8dcec4",
+   "titre": "Présidentielle 2027 : \"Je suis candidat\", déclare Dominique de Villepin lors d'une conférence de presse",
+   "lien": "https://www.franceinfo.fr/elections/direct-presidentielle-dominique-de-villepin-en-route-vers-une-candidature-a-la-presidentielle-suivez-la-prise-de-parole-de-l-ancien-premier-ministre_8291558.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T10:46:53+00:00",
+   "extrait": "Le président du mouvement La France humaniste, qui peut s'adresser aussi bien à un électorat de gauche qu'au peuple de droite va tenter de se frayer un chemin parmi les nombreuses candidatures à…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "f3676222e9d2",
+   "titre": "En Italie, des drones aperçus jeudi soir près de l’aéroport de Gênes, qui a dû fermer pendant deux heures",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/20/des-drones-apercus-jeudi-soir-pres-de-l-aeroport-de-genes-qui-a-du-fermer-pendant-deux-heures_6813625_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-20T10:45:07+00:00",
+   "extrait": "Les passagers d’un avion à destination de Rome ont dû être débarqués avant la réouverture de la piste, peu après 22 heures. Le modèle des drones et leur provenance restent à déterminer.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "a720c6e22a77",
+   "titre": "Pluie-inondation : dans le Pas-de-Calais, toujours placé en vigilance orange, des routes et maisons sous les eaux",
+   "lien": "https://www.lemonde.fr/planete/article/2026/11/20/pluie-inondation-dans-le-pas-de-calais-toujours-place-en-vigilance-orange-des-routes-et-maisons-sous-les-eaux_6813624_3244.html",
+   "source": "Le Monde",
+   "date": "2026-11-20T10:43:03+00:00",
+   "extrait": "Il est tombé jusqu’à plus de 100 millimètres sur le sud-ouest du Pas-de-Calais en 72 heures, selon Météo France, qui prévoit la fin des pluies significatives en début d’après-midi, vendredi.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "36f7f1d8e652",
+   "titre": "\"J'ai été sonné par la violence de ces écrits\" : le chanteur lyrique Anas Séguin dénonce les \"propos racistes\" à son encontre publiés dans \"Le Point\"",
+   "lien": "https://www.franceinfo.fr/culture/musique/opera/j-ai-ete-sonne-par-la-violence-de-ces-ecrits-le-chanteur-lyrique-anas-seguin-denonce-les-propos-racistes-a-son-encontre-publies-dans-le-point_8291891.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T10:40:37+00:00",
+   "extrait": "La chronique concernait son interprétation de \"Don Giovanni\" à l'opéra de Versailles. L’hebdomadaire et le journaliste Olivier Bellamy ont modifié le texte et se sont excusés après de vives…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "b736e436c071",
+   "titre": "Les trois policiers accusés d'avoir roué de coups Michel Zecler lui renouvellent leurs excuses \"du fond du cœur\" dans leurs derniers mots",
+   "lien": "https://www.franceinfo.fr/faits-divers/justice-proces/les-trois-policiers-accuses-d-avoir-roue-de-coups-michel-zecler-lui-renouvellent-leurs-excuses-du-fond-du-c-ur-dans-leurs-derniers-mots_8291942.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T10:38:34+00:00",
+   "extrait": "Les trois hommes ont pris la parole face à une salle comble, avant que la cour ne se retire pour délibérer. L'un d'eux a tenu à s'excuser aussi \"pour la justice\" et \"pour l'image\" qu'il a \"donnée de…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "10cb9c4e74ea",
+   "titre": "Dominique de Villepin annonce sa candidature à l’élection présidentielle de 2027",
+   "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/20/dominique-de-villepin-annonce-sa-candidature-a-l-election-presidentielle-de-2027_6813622_6205049.html",
+   "source": "Le Monde",
+   "date": "2026-11-20T10:37:29+00:00",
+   "extrait": "L’ancien premier ministre de Jacques Chirac a officialisé, vendredi, sa candidature en se présentant comme une alternative au macronisme, à LFI et au RN. Il a notamment dénoncé « une situation de…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "6decd795550a",
+   "titre": "\"Vu à quel niveau sont les autres, on n'est pas si loin\" : Dominique de Villepin se lance dans la course présidentielle malgré les embûches",
+   "lien": "https://www.franceinfo.fr/elections/vu-a-quel-niveau-sont-les-autres-on-n-est-pas-si-loin-dominique-de-villepin-se-lance-dans-la-course-presidentielle-malgre-les-embuches_8288267.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T10:35:09+00:00",
+   "extrait": "L'ancien Premier ministre de Jacques Chirac prépare son retour en politique depuis de longs mois, se posant en recours face aux extrêmes, malgré un espace déjà saturé de candidats et des intentions…",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "447cb9c791e3",
+   "titre": "Les truffes d'hiver peu nombreuses à cause de la météo, lors du lancement de la saison dans le Vaucluse",
+   "lien": "https://www.franceinfo.fr/economie/les-truffes-d-hiver-peu-nombreuses-a-cause-de-la-meteo-lors-du-lancement-de-la-saison-dans-le-vaucluse_8292020.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T10:26:35+00:00",
+   "extrait": "Le début du mois de novembre est marqué par une douceur mais aussi un excès de pluie, ce qui décale la maturité des truffes et sont donc peu nombreuses.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "f451b9b779d9",
+   "titre": "Three Kyiv bridges hit during major Russian missile attack",
+   "lien": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-20T10:20:08+00:00",
+   "extrait": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "bab13e5c4ffc",
+   "titre": "Fiona, hippopotame d'un zoo américain, meurt après avoir avalé un bonnet et émeut les internautes du monde entier",
+   "lien": "https://www.franceinfo.fr/environnement/biodiversite/animaux/fiona-hippopotame-d-un-zoo-americain-meurt-apres-avoir-avale-un-bonnet-et-emeut-les-internautes-du-monde-entier_8291984.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T10:09:50+00:00",
+   "extrait": "L'animal était très populaire sur les réseaux sociaux depuis sa naissance prématurée, alors que sa mère l'avait rejeté.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "fc94d710c0e8",
+   "titre": "Guerre en Ukraine : Kiev mise sur l’isolement stratégique de la Crimée occupée",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/20/l-ukraine-mise-sur-l-isolement-strategique-de-la-crimee-occupee_6813616_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-20T10:00:08+00:00",
+   "extrait": "Une série de frappes ukrainiennes sur le pont de Crimée, symbole de l’occupation russe, a lourdement endommagé l’ouvrage cher au cœur de Vladimir Poutine, réduisant l’accès de la Russie à la…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "87145c7924ab",
+   "titre": "How exactly did Trump get so rich on crypto? We explain",
+   "lien": "https://www.npr.org/2026/11/20/nx-s1-6038969/trump-crypto-profits-corruption-meme-coin-world-liberty-explainer",
+   "source": "NPR",
+   "date": "2026-11-20T10:00:00+00:00",
+   "extrait": "President Trump has made billions of dollars in his second term — most of it in cryptocurrencies. Democrats are vowing to probe his businesses as they gear up to take over Congress next year.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "27ac58e8151b",
+   "titre": "New York City unveils a bold plan to move its jails off Rikers Island",
+   "lien": "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model",
+   "source": "NPR",
+   "date": "2026-11-20T10:00:00+00:00",
+   "extrait": "New York City officials are moving forward with plans to close Rikers, the city's main jail complex, after years of discussion. The jail has been plagued by assaults and inmate deaths.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "f7ff875e3494",
+   "titre": "Critics are calling what brand-new release a masterpiece? The quiz knows",
+   "lien": "https://www.npr.org/2026/11/20/g-s1-154337/florida-starship-bond-schumer-ai-flu-alaska-news-quiz",
+   "source": "NPR",
+   "date": "2026-11-20T10:00:00+00:00",
+   "extrait": "Plus: Are you up to date on your James Bond news? If so, you'll get at least one question right.",
+   "tags": [],
+   "zone": "usa"
+  },
   {
    "id": "76f0e9dc73b4",
    "titre": "Une usine d'armement basée dans le Cher doit augmenter sa production de 60 000 à 150 000 obus fabriqués par an",
@@ -43,6 +263,16 @@
    "tags": [
     "Conflits"
    ],
+   "zone": "france"
+  },
+  {
+   "id": "5394fbc8c32f",
+   "titre": "Le risque de propagation de la grippe aviaire atteint son maximum, les éleveurs doivent une nouvelle fois confiner leurs animaux",
+   "lien": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/le-risque-de-propagation-de-la-grippe-aviaire-atteint-son-maximum-les-eleveurs-doivent-une-nouvelle-fois-confiner-leurs-animaux_8289869.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T09:38:26+00:00",
+   "extrait": "Le niveau de risque lié à la grippe aviaire passe en France de \"modéré\" à \"élevé\" à partir de vendredi. C'est l'échelon le plus haut, qui entraîne notamment le confinement des volailles.",
+   "tags": [],
    "zone": "france"
   },
   {
@@ -69,18 +299,6 @@
     "Justice"
    ],
    "zone": "france"
-  },
-  {
-   "id": "f451b9b779d9",
-   "titre": "Three Kyiv bridges hit during major Russian missile attack",
-   "lien": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-20T09:31:24+00:00",
-   "extrait": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
   },
   {
    "id": "2b4bd7eef416",
@@ -191,6 +409,19 @@
    "extrait": "Des militantes engagées pour l’émancipation des femmes et la cause climatique sont récompensées chaque année lors des COP. Pour elles, ces sommets sont l’occasion de faire entendre leurs voix et…",
    "tags": [
     "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "ab7c27d7b583",
+   "titre": "En Guinée, les raisons de craindre une contagion djihadiste venue du Mali",
+   "lien": "https://www.lemonde.fr/idees/article/2026/11/20/en-guinee-les-raisons-de-craindre-une-contagion-djihadiste-venue-du-mali_6813606_3232.html",
+   "source": "Le Monde",
+   "date": "2026-11-20T09:00:08+00:00",
+   "extrait": "L’expulsion de dizaines de milliers d’orpailleurs clandestins par le gouvernement de Conakry met à bas l’économie de toute une région dans le nord-est du pays. Installée au Mali voisin, la filiale…",
+   "tags": [
+    "Politique",
+    "Économie"
    ],
    "zone": "france"
   },
@@ -364,6 +595,18 @@
    "zone": "monde"
   },
   {
+   "id": "7aaf5951c696",
+   "titre": "Les étudiants étrangers désertent les universités américaines à cause de la politique de Donald Trump",
+   "lien": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/les-etudiants-etrangers-desertent-les-universites-americaines-a-cause-de-la-politique-de-donald-trump_8270084.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T08:13:01+00:00",
+   "extrait": "Les nouvelles inscriptions d'étudiants internationaux ont chuté de 15% à la rentrée 2026, après une baisse de 18% l'année précédente. Les restrictions migratoires de Donald Trump inquiètent les…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "05e0c3b3dca7",
    "titre": "« La Birmanie doit ramener les Rohingya chez eux », exhorte le président de l’Assemblée générale de l’ONU, après la décision historique de la CIJ sur le génocide de 2017",
    "lien": "https://www.lemonde.fr/international/article/2026/11/20/le-chef-de-l-assemblee-generale-de-l-onu-appelle-la-birmanie-a-ramener-les-rohingya-chez-eux_6813602_3210.html",
@@ -482,6 +725,19 @@
    "zone": "france"
   },
   {
+   "id": "22cbe94a807d",
+   "titre": "La suppression de l'ISF n'a-t-elle eu qu'un effet \"marginal\" sur le retour des très riches en France ?",
+   "lien": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-la-suppression-de-l-isf-n-a-t-elle-eu-qu-un-effet-marginal-sur-le-retour-des-tres-riches-en-france_8270108.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T06:59:14+00:00",
+   "extrait": "La France insoumise et plusieurs partis politiques de gauche sont favorables à une plus grande taxation des Français les plus riches. Le coordinateur LFI Manuel Bompard déplore que, à chaque fois…",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "17cd7a3df7da",
    "titre": "Beloved hippo Fiona dies days after swallowing hat",
    "lien": "https://www.cbsnews.com/news/fiona-the-hippo-dies-cincinnati-zoo/",
@@ -562,18 +818,6 @@
    "zone": "france"
   },
   {
-   "id": "a3244f8dcec4",
-   "titre": "Présidentielle 2027 : Dominique de Villepin en route vers une candidature à l'Elysée",
-   "lien": "https://www.franceinfo.fr/elections/direct-presidentielle-dominique-de-villepin-en-route-vers-une-candidature-a-la-presidentielle-suivez-la-prise-de-parole-de-l-ancien-premier-ministre_8291558.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-20T06:14:07+00:00",
-   "extrait": "Le président du mouvement La France humaniste, qui peut s'adresser aussi bien à un électorat de gauche qu'au peuple de droite va tenter de se frayer un chemin parmi les nombreuses candidatures à…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "045074081267",
    "titre": "Pesticides : des parents d’élèves somment l’Etat d’élargir le périmètre de non-traitement autour des écoles",
    "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/11/20/pesticides-des-parents-d-eleves-somment-l-etat-d-elargir-le-perimetre-de-non-traitement-autour-des-ecoles_6813595_4355770.html",
@@ -594,6 +838,18 @@
     "Politique"
    ],
    "zone": "france"
+  },
+  {
+   "id": "4539701afa46",
+   "titre": "14 arrested for SoCal train heist ring; nearly $23 million stolen",
+   "lien": "https://www.cbsnews.com/news/southern-california-train-heist-ring-millions-stolen-nikes-milwaukee-power-tools/",
+   "source": "CBS News",
+   "date": "2026-11-20T06:00:00+00:00",
+   "extrait": "More than a dozen people were arrested on federal charges Thursday for allegedly stealing nearly $23 million in goods, including Nike sneakers and power tools, as part of a Southern California train…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
   },
   {
    "id": "cdf0d2713d92",
@@ -762,19 +1018,6 @@
    "tags": [
     "Politique",
     "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "6decd795550a",
-   "titre": "\"Vu à quel niveau sont les autres, on n'est pas si loin\" : Dominique de Villepin se lance dans la course présidentielle malgré les embûches",
-   "lien": "https://www.franceinfo.fr/elections/vu-a-quel-niveau-sont-les-autres-on-n-est-pas-si-loin-dominique-de-villepin-se-lance-dans-la-course-presidentielle-malgre-les-embuches_8288267.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-20T04:41:20+00:00",
-   "extrait": "L'ancien Premier ministre de Jacques Chirac prépare son retour en politique depuis de longs mois, se posant en recours face aux extrêmes, malgré un espace déjà saturé de candidats et des intentions…",
-   "tags": [
-    "Politique",
-    "Justice"
    ],
    "zone": "france"
   },
@@ -1762,6 +2005,16 @@
    "tags": [
     "Politique"
    ],
+   "zone": "usa"
+  },
+  {
+   "id": "e433efa59f1e",
+   "titre": "Why the U.S. air traffic control system still relies on an 'antique' network",
+   "lien": "https://www.npr.org/2026/11/19/nx-s1-6045773/faa-air-traffic-control-system-modernization-challenges",
+   "source": "NPR",
+   "date": "2026-11-19T21:59:57+00:00",
+   "extrait": "The FAA says the telecom outage that led to Friday's nationwide ground stop began with an upgrade to fiber-optic cables. Industry experts say the work is long overdue.",
+   "tags": [],
    "zone": "usa"
   },
   {
@@ -3216,261 +3469,6 @@
    "extrait": "Soccer Hall of Famer Briana Scurry joins Norah O'Donnell in Washington, D.C., to preview the NWSL Championship game between the Washington Spirit and Kansas City Current.",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "b9901f5e4206",
-   "titre": "Obama gives pep talk to freshman House Democrats in surprise visit",
-   "lien": "https://www.cbsnews.com/news/obama-pep-talk-freshman-house-democrats/",
-   "source": "CBS News",
-   "date": "2026-11-19T15:02:00+00:00",
-   "extrait": "Former President Barack Obama was the surprise guest at a hastily called meeting of Democrats who just won House seats.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "1dd71efb0357",
-   "titre": "En Italie, les jeunes dans le viseur des politiques sécuritaires et oubliés des politiques économiques",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/19/en-italie-les-jeunes-dans-le-viseur-des-politiques-securitaires-et-oublies-des-politiques-economiques_6813323_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-19T15:00:00+00:00",
-   "extrait": "Dans un pays où un quart de la population a plus de 65 ans et à l’approche d’élections législatives prévues en 2027, la présidente du conseil se montre plus soucieuse de répondre au désir d’ordre…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "f41fd6f27c29",
-   "titre": "« Inside Deutsche Bank » : comment l’argent du clan Al-Assad a circulé en Europe, malgré les enquêtes judiciaires",
-   "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/11/19/inside-deutsche-bank-comment-l-argent-du-clan-al-assad-a-circule-en-europe-malgre-les-enquetes-judiciaires_6813322_4355770.html",
-   "source": "Le Monde",
-   "date": "2026-11-19T15:00:00+00:00",
-   "extrait": "Près de 80 millions d’euros de flux financiers liés à Rifaat Al-Assad, oncle du dictateur syrien déchu et criminel de guerre, ont transité par la banque allemande. L’enquête « Inside Deutsche Bank »…",
-   "tags": [
-    "Conflits",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "dd4011a143fb",
-   "titre": "La Birmanie a commis un génocide à l'encontre des Rohingyas, déclare la CIJ",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261119-la-birmanie-a-commis-un-g%C3%A9nocide-%C3%A0-l-encontre-des-rohingyas-d%C3%A9clare-la-cij",
-   "source": "France 24",
-   "date": "2026-11-19T14:57:04+00:00",
-   "extrait": "La Birmanie a commis un génocide à l'encontre de sa minorité rohingya, a déclaré jeudi la Cour internationale de justice dans une décision historique, ordonnant que les réfugiés puissent regagner…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "6f6638b5488a",
-   "titre": "En Ethiopie, près de 700 000 personnes ont été déplacées, fuyant la guerre dans le sud du pays",
-   "lien": "https://www.lemonde.fr/afrique/article/2026/11/19/en-ethiopie-700-000-personnes-deplacees-par-des-affrontements-armes-dans-le-sud_6813321_3212.html",
-   "source": "Le Monde",
-   "date": "2026-11-19T14:55:45+00:00",
-   "extrait": "Depuis la reprise des combats à l’arme lourde en début de semaine entre forces armées des régions Somali et de l’Oromia, les ONG s’inquiètent face à l’afflux de centaines de milliers de déplacés.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "54a7a1a77d41",
-   "titre": "Haïti : la stratégie de Bukele reçoit un soutien populaire",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261119-ha%C3%AFti-la-strat%C3%A9gie-de-bukele-re%C3%A7oit-un-soutien-populaire",
-   "source": "France 24",
-   "date": "2026-11-19T14:53:39+00:00",
-   "extrait": "Des milliers de personnes ont défilé dans les rues de Port-au-Prince, mardi, pour soutenir les soldats salvadoriens engagés dans la lutte contre les gangs en Haïti. Les explications de Frantz Duval…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "952c29e2672e",
-   "titre": "Primaire du centre et de la droite : Édouard Philippe, sous pression, refuse toujours",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/face-%C3%A0-face/20261119-primaire-du-centre-et-de-la-droite-%C3%A9douard-philippe-sous-pression-refuse-toujours",
-   "source": "France 24",
-   "date": "2026-11-19T14:49:55+00:00",
-   "extrait": "Une primaire de la droite et du centre pourraient avoir lieu fin janvier après une première réunion entre les équipes de Gabriel Attal, David Lisnard et Bruno Retailleau. Édouard Philippe, malgré la…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "bebdec98e818",
-   "titre": "Rain drenches California and Florida, flooding streets and downing trees",
-   "lien": "https://www.cbsnews.com/video/rain-drenches-california-and-florida-leading-to-flooding-and-downed-trees/",
-   "source": "CBS News",
-   "date": "2026-11-19T14:48:05+00:00",
-   "extrait": "Flood watches are in effect in parts of California and Florida. CBS News chief meteorologist Rob Marciano has more.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "71a9602711d1",
-   "titre": "Présidentielle 2027 : les Écologistes tentés par une \"coalition\" avec les Insoumis",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261119-pr%C3%A9sidentielle-2027-les-%C3%A9cologistes-tent%C3%A9s-par-une-coalition-avec-les-insoumis",
-   "source": "France 24",
-   "date": "2026-11-19T14:47:53+00:00",
-   "extrait": "Écologistes et Insoumis pourraient entamer ⁠prochainement des discussions ​sur les modalités de la \"coalition autour de la candidature de Jean-Luc Mélenchon\" évoquée par la dirigeante verte Marine…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "1465ad6d92ff",
-   "titre": "Taylor Swift makes CMA Awards return, Ella Langley's \"Choosin' Texas\" wins big",
-   "lien": "https://www.cbsnews.com/video/taylor-swift-makes-cma-awards-return-ella-langleys-choosin-texas-wins-big-1/",
-   "source": "CBS News",
-   "date": "2026-11-19T14:44:09+00:00",
-   "extrait": "Taylor Swift made her Country Music Awards return with a nostalgic performance of \"Our Song,\" while Ella Langley's \"Choosin' Texas\" won big. Cassie DiLaura reports.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "aa9b6777eeed",
-   "titre": "Taylor Swift makes CMA Awards return, Ella Langley's \"Choosin' Texas\" wins big",
-   "lien": "https://www.cbsnews.com/video/taylor-swift-makes-cma-awards-return-ella-langleys-choosin-texas-wins-big/",
-   "source": "CBS News",
-   "date": "2026-11-19T14:43:00+00:00",
-   "extrait": "Taylor Swift made her Country Music Awards return with a nostalgic performance of \"Our Song,\" while Ella Langley's \"Choosin' Texas\" won big. Cassie DiLaura reports.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "e622e24b6635",
-   "titre": "Football : Infantino, Diallo et Tashima candidats à la présidence de la FIFA",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261119-football-infantino-diallo-et-tashima-candidats-%C3%A0-la-pr%C3%A9sidence-de-la-fifa",
-   "source": "France 24",
-   "date": "2026-11-19T14:38:13+00:00",
-   "extrait": "Le Français Philippe Diallo et le Japonais Kohzo Tashima se sont officiellement déclarés candidats à la présidence de la Fifa contre l'Italo-Suisse Gianni Infantino, qui brigue un nouveau mandat à…",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "e0a19173bab6",
-   "titre": "No movement on a Ukraine deal after Trump's meeting with Putin and Xi",
-   "lien": "https://www.cbsnews.com/video/no-movement-on-a-ukraine-deal-after-trump-putin-xi-summit/",
-   "source": "CBS News",
-   "date": "2026-11-19T14:38:00+00:00",
-   "extrait": "Ukraine watched closely as President Trump met with Russian President Vladimir Putin and Chinese President Xi Jinping in China. CBS News' Imtiaz Tyab reports.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "d745231d3489",
-   "titre": "Americans stockpile supplies as officials say wave of tech outages is not a coordinated attack",
-   "lien": "https://www.cbsnews.com/video/americans-stockpile-supplies-as-officials-say-wave-of-tech-outages-not-a-coordinated-attack/",
-   "source": "CBS News",
-   "date": "2026-11-19T14:35:00+00:00",
-   "extrait": "Top security officials testified before lawmakers after a string of recent tech outages. CBS News' Jo Ling Kent reports.",
-   "tags": [
-    "Conflits",
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "970fe5c39545",
-   "titre": "\"La gravité nécessite l'emprisonnement\" : des peines de quatre ans à six ans de prison ferme requises contre les trois policiers accusés d'avoir roué de coups Michel Zecler",
-   "lien": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/des-peines-de-quatre-ans-a-six-ans-de-prison-ferme-requises-contre-les-trois-policiers-accuses-d-avoir-roue-de-coups-michel-zecler_8288789.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T14:31:38+00:00",
-   "extrait": "L'avocate générale a aussi demandé à la cour de retenir la circonstance aggravante de racisme, à l'encontre des trois accusés, jugés depuis dix jours pour violences aggravées et faux en écriture…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "3c4adebbe7c1",
-   "titre": "Une enquête ouverte sur des fuites en provenance du ministère de l’intérieur vers le RN",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/19/une-enquete-ouverte-sur-des-fuites-en-provenance-du-ministere-de-l-interieur-vers-le-rn_6813316_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-19T14:31:38+00:00",
-   "extrait": "Selon les informations du « Monde », une information judiciaire a été ouverte pour « violation du secret professionnel », « violation du secret de l’enquête » et « recel » de ces délits. La justice…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "404ab685be04",
-   "titre": "Fans swarm to play \"Grand Theft Auto VI\"",
-   "lien": "https://www.cbsnews.com/video/fans-swarm-to-play-grand-theft-auto-vi/",
-   "source": "CBS News",
-   "date": "2026-11-19T14:23:59+00:00",
-   "extrait": "The long-awaited \"Grand Theft Auto VI\" was released Thursday, with fans swarming to get in on the action. Kelly O'Grady reports.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "3cba71ee4c0d",
-   "titre": "Sept masculinistes jugés à Paris : un procès d'ampleur inédit",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261119-sept-masculinistes-jug%C3%A9s-%C3%A0-paris-un-proc%C3%A8s-d-ampleur-in%C3%A9dit",
-   "source": "France 24",
-   "date": "2026-11-19T14:23:27+00:00",
-   "extrait": "\"Embarqué par les algorithmes\", le fondateur du canal Télégram \"femmeblancherie\", jugé aux côtés de six autres prévenus, a témoigné d'une haine tenace envers les femmes mercredi devant le tribunal…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "3fdb0407c25b",
-   "titre": "Royaume-Uni : comment l’IA transforme le système d’asile des migrants",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261119-royaume-uni-comment-l-ia-transforme-le-syst%C3%A8me-d-asile-des-migrants",
-   "source": "France 24",
-   "date": "2026-11-19T14:22:55+00:00",
-   "extrait": "Le Royaume-Uni utilise de plus en plus l’intelligence artificielle dans son système migratoire, notamment pour traiter les demandes d’asile. Mais erreurs, manque de contrôle humain et opacité…",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "6662bd11cdcd",
-   "titre": "Trump wraps China summit with Xi and Putin",
-   "lien": "https://www.cbsnews.com/video/trump-wraps-china-summit-with-xi-putin/",
-   "source": "CBS News",
-   "date": "2026-11-19T14:18:00+00:00",
-   "extrait": "President Trump met with Chinese President Xi Jinping and Russian President Vladimir Putin in a historic summit. CBS News' foreign correspondent Anna Coren and national security contributor Samantha…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "ff26f08067a6",
-   "titre": "Americans remain skeptical after wave of outages",
-   "lien": "https://www.cbsnews.com/video/americans-remain-skeptical-after-wave-of-outages/",
-   "source": "CBS News",
-   "date": "2026-11-19T14:17:33+00:00",
-   "extrait": "Americans remain skeptical after a wave of tech outages over the last week, despite the Trump administration's insistence that there are no cybersecurity threats. Jo Ling Kent reports.",
-   "tags": [
-    "Politique",
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "e270e900bd1b",
-   "titre": "Nos premières impressions après avoir joué à « GTA VI » : un jeu aussi riche que sensible, aussi beau qu’intime",
-   "lien": "https://www.lemonde.fr/pixels/article/2026/11/19/gta-vi-nos-premieres-impressions-un-jeu-aussi-riche-que-sensible-aussi-beau-qu-intime_6813313_4408996.html",
-   "source": "Le Monde",
-   "date": "2026-11-19T14:14:18+00:00",
-   "extrait": "« Grand Theft Auto VI » offre au moins une centaine d’heures de contenu, et si elles ne permettent pas de se faire un avis définitif, les dix premières heures laissent entrapercevoir un univers de…",
-   "tags": [],
-   "zone": "france"
   }
  ]
 }
