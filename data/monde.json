@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-20T15:05:41+00:00",
+ "maj": "2026-11-20T16:05:46+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,14 +22,295 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "ad030f8dc614",
+   "titre": "New UFO files show contractor planned vault for \"exotic material\"",
+   "lien": "https://www.cbsnews.com/news/ufo-files-pentagon-contractor/",
+   "source": "CBS News",
+   "date": "2026-11-20T15:57:55+00:00",
+   "extrait": "The Pentagon's latest batch of UFO files includes a report from a government contractor detailing plans for an underground vault to store \"exotic material or tissue\" it was seeking.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "d38fcf1450e8",
+   "titre": "Nearly 600 women killed in South Africa within three months",
+   "lien": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-20T15:55:16+00:00",
+   "extrait": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "6c08e42ef93b",
+   "titre": "The U.S. plans to detonate unstable explosives in Iowa. The move may affect thousands of Americans.",
+   "lien": "https://www.cbsnews.com/video/the-us-wants-to-detonate-unstable-explosives-in-iowa-that-could-affect-thousands-of-americans/",
+   "source": "CBS News",
+   "date": "2026-11-20T15:54:00+00:00",
+   "extrait": "The plan to detonate a pile of unstable explosives in Iowa could affect thousands in there and in Illinois. CBS News' Lana Zak explains.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "51037c3d1ddc",
+   "titre": "Trump insists he's \"not rushing to make any decisions on Iran\"",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
+   "source": "CBS News",
+   "date": "2026-11-20T15:41:52+00:00",
+   "extrait": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "90eae191853f",
+   "titre": "Russia missiles pummel Ukraine and hit NATO soil in Poland",
+   "lien": "https://www.cbsnews.com/news/ukraine-war-russia-intentional-provocation-poland-missiles-nato/",
+   "source": "CBS News",
+   "date": "2026-11-20T15:39:50+00:00",
+   "extrait": "Missiles flew into Poland overnight as Russia hit Ukraine with \"one of the largest attacks\" since the war began, killing at least 8 people.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "caa6c2b63046",
+   "titre": "De l'océan Indien aux Caraïbes, la sécheresse frappe plusieurs territoires d'Outre-mer",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/outre-mer/20261120-de-l-oc%C3%A9an-indien-aux-cara%C3%AFbes-la-s%C3%A9cheresse-frappe-plusieurs-territoires-d-outre-mer",
+   "source": "France 24",
+   "date": "2026-11-20T15:36:16+00:00",
+   "extrait": "La sécheresse s'installe durablement en Outre-mer. Le manque d'eau fragilise les cultures et menace les récoltes aux Antilles et à La Réunion. La situation est également très préoccupante en Guyane…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "6f005f71b537",
+   "titre": "Melissa Etheridge is cheering for the Kansas City Current in the NWSL final",
+   "lien": "https://www.cbsnews.com/video/melissa-etheridge-is-cheering-for-the-kansas-city-current-in-the-nwsl-final/",
+   "source": "CBS News",
+   "date": "2026-11-20T15:36:07+00:00",
+   "extrait": "Rock star Melissa Etheridge is a huge fan of the National Women's Soccer League and loves supporting the Kansas City Current.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "a3244f8dcec4",
+   "titre": "Présidentielle 2027 : \"Nous avons évidemment des choses en commun\", déclare Edouard Philippe après la candidature de Dominique de Villepin",
+   "lien": "https://www.franceinfo.fr/elections/direct-presidentielle-dominique-de-villepin-en-route-vers-une-candidature-a-la-presidentielle-suivez-la-prise-de-parole-de-l-ancien-premier-ministre_8291558.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T15:32:05+00:00",
+   "extrait": "Le président du mouvement La France humaniste, qui peut s'adresser aussi bien à un électorat de gauche que de droite, va tenter de se frayer un chemin parmi les nombreuses candidatures à l'Elysée.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "10f703586806",
+   "titre": "REPLAY - Costa, Von der Leyen et Burnham réunis au sommet UE-Royaume-Uni",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261120-replay-costa-von-der-leyen-et-burnham-r%C3%A9unis-au-sommet-ue-royaume-uni",
+   "source": "France 24",
+   "date": "2026-11-20T15:30:45+00:00",
+   "extrait": "Le Premier ministre britannique Andy Burnham et les dirigeants de l'Union européenne ouvrent vendredi, lors d'un sommet à Bruxelles, le premier chapitre d'une nouvelle entente post-Brexit, en…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "d28c29354c66",
+   "titre": "American Beverage's Good to Know initiative gets a spotlight at the NWSL Championship",
+   "lien": "https://www.cbsnews.com/video/american-beverages-good-to-know-initiative-gets-a-spotlight-at-the-nwsl-championship/",
+   "source": "CBS News",
+   "date": "2026-11-20T15:30:00+00:00",
+   "extrait": "As \"CBS Mornings\" celebrates the NWSL Championship, learn how America's beverage companies are helping parents get clear information about more than 140 beverage ingredients through Good to Know…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "035b5c6445a3",
+   "titre": "Guerre en Ukraine : des frappes de missiles et de drones russes font au moins neuf morts, dont sept à Kiev",
+   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-un-missile-russe-tombe-dans-le-sud-est-de-la-pologne-sans-faire-de-blesse_8292080.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T15:28:15+00:00",
+   "extrait": "Plus de 110 missiles russes ont été lancés contre l'Ukraine dans la nuit de jeudi à vendredi, d'après le président ukrainien, Volodymyr Zelensky.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "4d168779f544",
+   "titre": "Une intersyndicale lance un nouvel appel à la grève et à la mobilisation le 1er décembre, les salariés du privé invités à défiler avec ceux du public",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/une-intersyndicale-de-la-fonction-publique-lance-un-nouvel-appel-a-la-greve-et-a-la-mobilisation-le-1er-decembre_8292254.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T15:25:42+00:00",
+   "extrait": "Dans un communiqué, les syndicats CGT, FO, CFDT, Unsa, FSU, Solidaires, CFE-CGC et FA-FP déplorent \"la gravité\" de la \"situation salariale\" des agents de la fonction publique.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "cc4d5e7c2d95",
+   "titre": "White House national cyber director leaving his post",
+   "lien": "https://www.cbsnews.com/news/white-house-national-cyber-director-sean-cairncross-leaving/",
+   "source": "CBS News",
+   "date": "2026-11-20T15:24:42+00:00",
+   "extrait": "White House National Cyber Director Sean Cairncross will be leaving his position, a White House official told CBS News.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "ac5774571b3b",
+   "titre": "Plusieurs pays dont la France exigent une décision finale de la COP31 incluant \"une transition claire hors des énergies fossiles\"",
+   "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/plusieurs-pays-dont-la-france-exigent-une-decision-finale-de-la-cop31-incluant-une-transition-claire-hors-des-energies-fossiles_8292470.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T15:24:17+00:00",
+   "extrait": "Le projet de décision de la COP, diffusé jeudi, ne contient aucune mention des énergies fossiles ni la précision que l'électricité doit être \"propre\".",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "db9da463bbf2",
+   "titre": "Stocks plunge as investors take cover amid growing uncertainty",
+   "lien": "https://www.cbsnews.com/news/dow-tumbles-wall-street-ai-fears/",
+   "source": "CBS News",
+   "date": "2026-11-20T15:23:30+00:00",
+   "extrait": "The Dow tumbled 1,100 points, while other stock markets also swooned, as Wall Street frets over AI growth and other market risks.",
+   "tags": [
+    "Économie",
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "15a8973fb513",
+   "titre": "La réforme du crédit à la consommation est \"une bonne chose\" pour Que Choisir Ensemble, inquiet malgré tout du durcissement des autorisations de découvert",
+   "lien": "https://www.franceinfo.fr/economie/la-reforme-du-credit-a-la-consommation-est-une-bonne-chose-pour-que-choisir-ensemble-inquiet-malgre-tout-du-durcissement-des-autorisations-de-decouvert_8292446.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T15:20:18+00:00",
+   "extrait": "Depuis vendredi, de nouvelles dispositions alignent les conditions pour les découverts de moins de 200 euros et ceux remboursables dans un délai de moins d'un mois sur celles des crédits à la…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "5d92c7f16b5d",
+   "titre": "Megan Rapinoe says it's a \"huge honor\" to be elected to National Soccer Hall of Fame",
+   "lien": "https://www.cbsnews.com/video/megan-rapinoe-says-its-a-huge-honor-to-be-elected-to-national-soccer-hall-of-fame/",
+   "source": "CBS News",
+   "date": "2026-11-20T15:19:19+00:00",
+   "extrait": "U.S. soccer legend Megan Rapinoe shares what it means to her to be elected to the National Soccer Hall of Fame, who she's rooting for in the NWSL Championship and more.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "69f48c745cce",
+   "titre": "Une maison d'édition diffuse des images pornographiques de Gisèle Pelicot pour promouvoir un livre",
+   "lien": "https://www.franceinfo.fr/faits-divers/affaire-des-viols-de-mazan/une-maison-d-edition-diffuse-des-images-pornographiques-de-gisele-pelicot-pour-promouvoir-un-livre_8291930.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T15:18:48+00:00",
+   "extrait": "Pour faire la promotion de l'ouvrage d'une psychanalyste, les éditions Tinbad ont envoyé à plusieurs médias des photos et vidéos tournées à l'insu de Gisèle Pelicot et issues du dossier judiciaire…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "a0be981205e1",
+   "titre": "\"La nuit a été terrible\" : à Kiev, les habitants épuisés après une nuit de bombardements russes massifs",
+   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-la-nuit-a-ete-terrible-a-kiev-les-habitants-epuises-apres-une-nuit-de-bombardements-russes-massifs_8292332.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T15:16:36+00:00",
+   "extrait": "Une pluie de missiles et de drones se sont abattus sur l'Ukraine dans la nuit de jeudi à vendredi. Le bilan est d'au moins huit morts. Le président russe avait annoncé des représailles après…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "8e8c6c6c5232",
+   "titre": "Sam Mewis, Roger Bennett look ahead to Washington vs. Kansas City NWSL final",
+   "lien": "https://www.cbsnews.com/video/sam-mewis-roger-bennett-look-ahead-to-washington-vs-kansas-city-nwsl-final/",
+   "source": "CBS News",
+   "date": "2026-11-20T15:11:51+00:00",
+   "extrait": "The Washington Spirit and the Kansas City Current face off for a NWSL championship title. Soccer legend Sam Mewis and Men in Blazers Media Network CEO Roger Bennett share their thoughts on the final…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "5f10f6e59e51",
+   "titre": "Catastrophic flooding slams Florida and California after severe storms",
+   "lien": "https://www.cbsnews.com/video/catastrophic-flooding-slams-florida-and-california-after-severe-storms/",
+   "source": "CBS News",
+   "date": "2026-11-20T15:10:04+00:00",
+   "extrait": "Severe weather slammed the coasts of California and Florida. Stunning video shows rescue efforts in several cities. CBS News' Rob Marciano reports.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "727f583964a0",
    "titre": "Dominique de Villepin annonce sa candidature à l'élection présidentielle, évoquant une \"décision lourde, difficile\"",
    "lien": "https://www.franceinfo.fr/elections/dominique-de-villepin-annonce-sa-candidature-a-l-election-presidentielle-evoquant-une-decision-lourde-difficile_8292431.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-11-20T15:05:28+00:00",
-   "extrait": "L'ancien Premier ministre souhaite notamment résoudre la \"dette\" écologique et financière, défend le droit de vote à l'âge de 16 ans et la tenue de référendums réguliers.",
+   "date": "2026-11-20T15:08:17+00:00",
+   "extrait": "L'ancien Premier ministre de Jacques Chirac assure qu'il n'a \"pas l'esprit partisan\" et estime que la macronie, le Rassemblement national et La France insoumise sont responsables d'un \"pourrissement\".",
    "tags": [
     "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "9cedbec73c0b",
+   "titre": "NWSL commissioner on Washington Spirit, Kansas City Current championship match, league's success",
+   "lien": "https://www.cbsnews.com/video/nwsl-commissioner-on-washington-spirit-kansas-city-current-championship-match-leagues-success/",
+   "source": "CBS News",
+   "date": "2026-11-20T15:07:34+00:00",
+   "extrait": "NWSL commissioner Jessica Berman gives a preview of Saturday's championship match and discusses the investment into women's soccer.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "ee3918115ec5",
+   "titre": "Une comédienne accuse Gérard Depardieu de viol en réunion lors d'un tournage et Michel Houellebecq de complicité, révèle Mediapart",
+   "lien": "https://www.franceinfo.fr/culture/cinema/depardieu/il-n-etait-absolument-pas-question-de-sexe-une-comedienne-accuse-gerard-depardieu-de-viol-en-reunion-lors-d-un-tournage-et-michel-houellebecq-de-complicite-revele-mediapart_8291927.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-20T15:06:00+00:00",
+   "extrait": "Une plainte a été déposée en mai 2025. Les faits ont eu lieu sur le tournage du film \"Thalasso\" en 2018. L'acteur et l'écrivain n'ont pas commenté ces révélations.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "0c7e9eb385bf",
+   "titre": "World reacts to Trump's meeting with Xi Jinping and Vladimir Putin",
+   "lien": "https://www.cbsnews.com/video/world-reacts-to-trumps-meeting-with-xi-jinping-and-vladimir-putin/",
+   "source": "CBS News",
+   "date": "2026-11-20T15:05:26+00:00",
+   "extrait": "European leaders are reacting to President Trump's summit with China's Xi Jinping and Russia's Vladimir Putin. This comes as questions linger about the war with Iran. CBS News' Chris Livesay and Dov…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "f7858d8379af",
+   "titre": "La France de Zidane au défi des champions du monde espagnols en quarts de finale de Ligue des Nations",
+   "lien": "https://www.lemonde.fr/sport/article/2026/11/20/la-france-de-zidane-au-defi-des-champions-du-monde-espagnols-en-quarts-de-finale-de-ligue-des-nations_6813653_3242.html",
+   "source": "Le Monde",
+   "date": "2026-11-20T15:03:13+00:00",
+   "extrait": "L’équipe de France masculine de football défiera l’Espagne, en mars, en quarts de finale de la Ligue des nations, après le tirage au sort effectué vendredi au siège de l’UEFA à Nyon (Suisse).",
+   "tags": [
+    "Sport"
    ],
    "zone": "france"
   },
@@ -42,6 +323,18 @@
    "extrait": "\"48 Hours\" uncovers the narrative behind true crime cases with unmatched reporting and suspense.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "0d6e877d56c6",
+   "titre": "Les affaires marocaines de Teddy Riner, « ami personnel » du roi Mohammed VI",
+   "lien": "https://www.lemonde.fr/afrique/article/2026/11/20/les-affaires-marocaines-de-teddy-riner-ami-personnel-du-roi-mohammed-vi_6813652_3212.html",
+   "source": "Le Monde",
+   "date": "2026-11-20T15:00:02+00:00",
+   "extrait": "Un article de « Mediapart », publié jeudi 19 novembre, affirme qu’une société du judoka, candidat à la présidentielle, a bénéficié de commandes du souverain marocain « pour des millions d’euros »…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
   },
   {
    "id": "d110e28f6dfb",
@@ -89,29 +382,6 @@
     "Conflits"
    ],
    "zone": "france"
-  },
-  {
-   "id": "ee3918115ec5",
-   "titre": "\"Il n'était absolument pas question de sexe\" : une comédienne accuse Gérard Depardieu de viol en réunion lors d'un tournage et Michel Houellebecq de complicité, révèle Mediapart",
-   "lien": "https://www.franceinfo.fr/culture/cinema/depardieu/il-n-etait-absolument-pas-question-de-sexe-une-comedienne-accuse-gerard-depardieu-de-viol-en-reunion-lors-d-un-tournage-et-michel-houellebecq-de-complicite-revele-mediapart_8291927.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-20T14:55:37+00:00",
-   "extrait": "Une plainte a été déposée en mai 2025. Les faits ont eu lieu sur le tournage du film \"Thalasso\" en 2018. L'acteur et l'écrivain n'ont pas commenté ces révélations.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "51037c3d1ddc",
-   "titre": "Trump insists he's \"not rushing to make any decisions on Iran\"",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
-   "source": "CBS News",
-   "date": "2026-11-20T14:55:02+00:00",
-   "extrait": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
   },
   {
    "id": "ff0cb2143099",
@@ -163,10 +433,10 @@
   },
   {
    "id": "86d286ed11e6",
-   "titre": "Anthropic IPO mints new billionaires as new AI models advance at faster pace, study shows",
+   "titre": "Anthropic IPO mints new billionaires as AI models advance at faster pace, study shows",
    "lien": "https://www.cbsnews.com/video/anthropic-ipo-mints-new-billionaires-as-new-ai-models-advance-at-faster-pace-study-shows/",
    "source": "CBS News",
-   "date": "2026-11-20T14:51:21+00:00",
+   "date": "2026-11-20T14:51:00+00:00",
    "extrait": "A new study on Anthropic's models signals an even more rapid pace of development than previously known. CBS News' Jarred Hill reports, and ControlAI's Connor Leahy joins with more insight.",
    "tags": [
     "Tech"
@@ -209,6 +479,19 @@
    "zone": "monde"
   },
   {
+   "id": "6ab15ae8844a",
+   "titre": "Après une introduction en Bourse record, l'action d'Anthropic chute de 9 %",
+   "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261120-apr%C3%A8s-une-introduction-en-bourse-record-l-action-d-anthropic-chute-de-9",
+   "source": "France 24",
+   "date": "2026-11-20T14:46:33+00:00",
+   "extrait": "La start-up américaine d'intelligence artificielle Anthropic chute vendredi 20 novembre à Wall Street malgré une entrée en Bourse historique, soit une baisse de 9 % pour sa deuxième journée.",
+   "tags": [
+    "Économie",
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "d06242a71fde",
    "titre": "Remembering Fiona, Cincinnati's beloved celebrity hippo",
    "lien": "https://www.cbsnews.com/video/remembering-fiona-cincinnatis-beloved-celebrity-hippo/",
@@ -241,6 +524,16 @@
     "Climat"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "175248689aa1",
+   "titre": "Gérard Depardieu et Michel Houellebecq accusés de viol en réunion et d'agressions sexuelles",
+   "lien": "https://www.france24.com/fr/france/20261120-g%C3%A9rard-depardieu-et-michel-houellebecq-accus%C3%A9s-de-viol-en-r%C3%A9union-et-d-agressions-sexuelles",
+   "source": "France 24",
+   "date": "2026-11-20T14:38:36+00:00",
+   "extrait": "Gérard Depardieu est de nouveau accusé de viol – en réunion cette fois, avec la complicité supposée de l'écrivain Michel Houellebecq, selon des sources proches du dossier, confirmant vendredi des…",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "08ef548d6d2f",
@@ -291,18 +584,6 @@
     "Conflits"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "a3244f8dcec4",
-   "titre": "Présidentielle 2027 : \"Nous avons évidemment des choses en commun\", déclare Edouard Philippe après la candidature de Dominique de Villepin",
-   "lien": "https://www.franceinfo.fr/elections/direct-presidentielle-dominique-de-villepin-en-route-vers-une-candidature-a-la-presidentielle-suivez-la-prise-de-parole-de-l-ancien-premier-ministre_8291558.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-20T14:30:24+00:00",
-   "extrait": "Le président du mouvement La France humaniste, qui peut s'adresser aussi bien à un électorat de gauche que de droite, va tenter de se frayer un chemin parmi les nombreuses candidatures à l'Elysée.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
   },
   {
    "id": "f5a8fc4a5593",
@@ -395,16 +676,6 @@
    "extrait": "🇹🇳 La Tunisie anticipe déjà l’été 2027 après une saison 2026 marquée par de fortes coupures d’eau et d’électricité. La Chambre de commerce mixte a organisé une réunion pour réfléchir à comment…",
    "tags": [],
    "zone": "monde"
-  },
-  {
-   "id": "4d168779f544",
-   "titre": "Une intersyndicale de la fonction publique lance un nouvel appel à la grève et à la mobilisation le 1er décembre",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/une-intersyndicale-de-la-fonction-publique-lance-un-nouvel-appel-a-la-greve-et-a-la-mobilisation-le-1er-decembre_8292254.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-20T14:12:58+00:00",
-   "extrait": "Dans un communiqué, les syndicats CGT, FO, CFDT, Unsa, FSU, Solidaires, CFE-CGC et FA-FP déplorent \"la gravité\" de la \"situation salariale\" des agents.",
-   "tags": [],
-   "zone": "france"
   },
   {
    "id": "f0ac8be02b82",
@@ -548,8 +819,21 @@
    "zone": "france"
   },
   {
+   "id": "74119789701c",
+   "titre": "En Amérique latine, l’intervention militaire des Etats-Unis gagne du terrain",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/20/en-amerique-latine-l-intervention-militaire-des-etats-unis-gagne-du-terrain_6813642_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-20T13:30:09+00:00",
+   "extrait": "Attaques contre les guérillas au Venezuela ou en Equateur, bombardements en mer : l’administration Trump poursuit la mise en œuvre de sa doctrine « Donroe », traduisant la volonté hégémonique du…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "37f0c543cbfb",
-   "titre": "Nouvelle journée de grève dans la fonction publique le 1ᵉʳ décembre ; la CFDT et l’UNSA appellent les salariés du privé à se joindre au mouvement",
+   "titre": "Nouvelle journée de grève dans la fonction publique le 1ᵉʳ décembre ; la CFDT, la CGT et l’UNSA appellent les salariés du privé à se joindre au mouvement",
    "lien": "https://www.lemonde.fr/politique/article/2026/11/20/une-intersyndicale-de-la-fonction-publique-appelle-a-une-nouvelle-journee-de-greve-le-1-decembre_6813641_823448.html",
    "source": "Le Monde",
    "date": "2026-11-20T13:29:41+00:00",
@@ -582,6 +866,18 @@
     "Justice"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "783db2c637fa",
+   "titre": "Les services de renseignement russes à l’origine d’une nouvelle campagne de phishing contre des journalistes et un député français",
+   "lien": "https://www.lemonde.fr/pixels/article/2026/11/20/les-services-de-renseignement-russes-a-l-origine-d-une-nouvelle-campagne-de-phishing-contre-des-journalistes-et-un-depute-francais_6813640_4408996.html",
+   "source": "Le Monde",
+   "date": "2026-11-20T13:26:20+00:00",
+   "extrait": "Une unité du service fédéral de sécurité (FSB) multiplie depuis le début de l’année 2026 les tentatives d’hameçonnage sur les messageries Signal et Telegram, en Ukraine, aux Etats-Unis et en Europe.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
   },
   {
    "id": "205a975f1845",
@@ -799,19 +1095,6 @@
    "zone": "france"
   },
   {
-   "id": "035b5c6445a3",
-   "titre": "Guerre en Ukraine : la France demande une réunion au Conseil de sécurité de l'ONU après de nouvelles frappes russes",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-un-missile-russe-tombe-dans-le-sud-est-de-la-pologne-sans-faire-de-blesse_8292080.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-20T12:17:15+00:00",
-   "extrait": "Plus de 110 missiles russes ont été lancés contre l'Ukraine dans la nuit de jeudi à vendredi, d'après le président ukrainien, Volodymyr Zelensky.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "44dde5586af0",
    "titre": "Une revanche à prendre : la France affrontera l'Espagne en quarts de finale de la Ligue des nations",
    "lien": "https://www.france24.com/fr/sports/20261120-revanche-%C3%A0-prendre-france-affrontera-espagne-quarts-de-finale-ligue-des-nations",
@@ -962,6 +1245,18 @@
     "Politique"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "cdf1341bc1bf",
+   "titre": "GOP Sen. Johnson rejects tying government funding to an end to the Iran war",
+   "lien": "https://www.npr.org/2026/11/20/nx-s1-6047473/government-shutdown-funding-iran-war",
+   "source": "NPR",
+   "date": "2026-11-20T11:37:35+00:00",
+   "extrait": "\"We're not going to shut down the war,\" Sen. Ron Johnson said as Republicans and Democrats struggle to reach a government funding deal.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
   },
   {
    "id": "a5f370a15dee",
@@ -1174,18 +1469,6 @@
    "date": "2026-11-20T10:56:27+00:00",
    "extrait": "Rendue célèbre par la comédie romantique \"Notting Hill\", sortie en 1999 avec Julia Roberts et Hugh Grant, la maison londonienne reconnaissable à sa célèbre porte bleue est mise en vente à 7,95…",
    "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "d38fcf1450e8",
-   "titre": "Nearly 600 women killed in South Africa within three months",
-   "lien": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-20T10:56:02+00:00",
-   "extrait": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
-   "tags": [
-    "Justice"
-   ],
    "zone": "monde"
   },
   {
@@ -2019,6 +2302,18 @@
    "zone": "usa"
   },
   {
+   "id": "6c645126484f",
+   "titre": "Les pompes à chaleur sont-elles bonnes pour le climat ?",
+   "lien": "https://www.lemonde.fr/planete/article/2026/11/20/les-pompes-a-chaleur-sont-elles-bonnes-pour-le-climat_6813592_3244.html",
+   "source": "Le Monde",
+   "date": "2026-11-20T05:30:02+00:00",
+   "extrait": "Chaque semaine, l’équipe du podcast Chaleur humaine répond à vos questions sur la transition climatique",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "cdf0d2713d92",
    "titre": "Le gouvernement précise les conditions d'accès aux aides pour les commerçants touchés par les événements du 17 octobre",
    "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-gouvernement-precise-les-conditions-d-acces-aux-aides-pour-les-commercants-touches-par-les-evenements-du-17-octobre_8291621.html#xtor=RSS-3-[lestitres]",
@@ -2161,6 +2456,18 @@
    "source": "Le Monde",
    "date": "2026-11-20T05:00:18+00:00",
    "extrait": "Samedi 21 novembre doit se tenir à Paris un sommet contre l’oligarchie internationale avec la participation de plusieurs Prix Nobel. Car s’il y a encore quinze ans, le mot « oligarque » visait…",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "95bffc46ff9a",
+   "titre": "« Avec la dématérialisation de “GTA VI”, comment être certain de pouvoir y jouer, seul ou en famille, dans vingt ou trente ans ? »",
+   "lien": "https://www.lemonde.fr/idees/article/2026/11/20/avec-la-dematerialisation-de-gta-vi-comment-etre-certain-de-pouvoir-y-jouer-seul-ou-en-famille-dans-vingt-ou-trente-ans_6813584_3232.html",
+   "source": "Le Monde",
+   "date": "2026-11-20T05:00:12+00:00",
+   "extrait": "La nouvelle déclinaison du jeu vidéo destiné aux consoles de salon n’est disponible sur aucun support physique. Comme si, dans les rayons d’une librairie, la couverture du prix Goncourt 2026 ne…",
    "tags": [
     "Économie"
    ],
@@ -2399,18 +2706,6 @@
    "extrait": "Sgt. Brad Smith, of the Huntington Beach Police Department, said the main concern is safety. The e-bike program is meant to decrease injuries and deaths on the road.",
    "tags": [
     "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "cc4d5e7c2d95",
-   "titre": "White House national cyber director leaving his post",
-   "lien": "https://www.cbsnews.com/news/white-house-national-cyber-director-sean-cairncross-leaving/",
-   "source": "CBS News",
-   "date": "2026-11-20T02:50:00+00:00",
-   "extrait": "White House National Cyber Director Sean Cairncross will be leaving his position, a White House official told CBS News.",
-   "tags": [
-    "Politique"
    ],
    "zone": "usa"
   },
@@ -3186,309 +3481,6 @@
     "Politique"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "e433efa59f1e",
-   "titre": "Why the U.S. air traffic control system still relies on an 'antique' network",
-   "lien": "https://www.npr.org/2026/11/19/nx-s1-6045773/faa-air-traffic-control-system-modernization-challenges",
-   "source": "NPR",
-   "date": "2026-11-19T21:59:57+00:00",
-   "extrait": "The FAA says the telecom outage that led to Friday's nationwide ground stop began with an upgrade to fiber-optic cables. Industry experts say the work is long overdue.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "e13513e54530",
-   "titre": "Primaire de la droite et du centre, Marine Tondelier tend la main à LFI",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261119-primaire-de-la-droite-et-du-centre-marine-tondelier-tend-la-main-%C3%A0-lfi",
-   "source": "France 24",
-   "date": "2026-11-19T21:59:10+00:00",
-   "extrait": "La primaire de la droite et du centre aura-t-elle lieu ? Et quel en sera le périmètre ? La première réunion a eu lieu avec les équipes de Gabriel Attal, Bruno Retailleau et David Lisnard mais sans…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "298b937f0f9c",
-   "titre": "Présidentielle 2027 : primaire de la droite et du centre, Marine Tondelier tend la main à LFI",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/politique/20261119-pr%C3%A9sidentielle-2027-primaire-de-la-droite-et-du-centre-marine-tondelier-tend-la-main-%C3%A0-lfi",
-   "source": "France 24",
-   "date": "2026-11-19T21:59:10+00:00",
-   "extrait": "La primaire de la droite et du centre aura-t-elle lieu et qui y participera ? Une première réunion s'est tenue avec les équipes de Gabriel Attal, Bruno Retailleau et David Lisnard, mais sans Édouard…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "a1545a3b8823",
-   "titre": "Dans la Somme, il est tombé l'équivalent \"d'un mois et demi de pluie\" en trois jours, selon le directeur de Météo Climat Pro",
-   "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/dans-la-somme-il-est-tombe-l-equivalent-d-un-mois-et-demi-de-pluie-en-trois-jours-selon-le-directeur-de-meteo-climat-pro_8290751.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T21:56:50+00:00",
-   "extrait": "La préfecture de la Somme comptabilise 17 communes sinistrées ce jeudi soir en raison d'inondations et de routes submergées.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "d3163a54fe14",
-   "titre": "\"J’assume de demander des efforts\", reconnaît Gabriel Attal dans \"L'Heure de vérité\"",
-   "lien": "https://www.franceinfo.fr/replay-magazine/france-2/l-heure-de-verite/direct-presidentielle-2027-gabriel-attal-est-l-invite-de-l-heure-de-verite-a-partir-de-20h40_8288690.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T21:55:41+00:00",
-   "extrait": "Le candidat de Renaissance à la présidentielle est l'invité de l'émission politique de France 2.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "9f3e704dcc08",
-   "titre": "Pas d'exploit pour Arthur Fils, battu par le n°1 mondial Alexander Zverev et éliminé du Masters de Turin",
-   "lien": "https://www.franceinfo.fr/sports/tennis/masters/pas-d-exploit-pour-arthur-fils-battu-par-le-n-1-mondial-alexander-zverev-et-elimine-du-masters-de-turin_8290640.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T21:40:28+00:00",
-   "extrait": "Le Français n'a pas démérité, jeudi soir, mais n'a pas trouvé les solutions pour faire plier le joueur allemand, intraitable.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "ec373bda05ba",
-   "titre": "Face au développement de l'intelligence artificielle, Meta \"réévalue\" son objectif de zéro émission nette à l'horizon 2030",
-   "lien": "https://www.franceinfo.fr/environnement/face-au-developpement-de-l-intelligence-artificielle-meta-reevalue-son-objectif-de-zero-emission-nette-a-l-horizon-2030_8290646.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T21:38:43+00:00",
-   "extrait": "Les émissions nettes rapportées par le géant américain pour 2025 se sont envolées de 45% par rapport à l'année précédente, selon les données communiquées dans leur rapport.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "bff4f2b8ca89",
-   "titre": "Fiona the hippo dies, Cincinnati Zoo says",
-   "lien": "https://www.cbsnews.com/video/fiona-the-hippo-who-became-viral-sensation-after-her-premature-birth-has-died/",
-   "source": "CBS News",
-   "date": "2026-11-19T21:36:27+00:00",
-   "extrait": "Fiona the hippo, who became a viral sensation after her premature birth almost a decade ago, has died, the Cincinnati Zoo says.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "64120cbb694c",
-   "titre": "\"Si on avait su ce qu'allait donner le Brexit, pas grand monde n'aurait voté pour\" : ces Anglais prêts à revenir dans l'Europe",
-   "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/si-on-avait-su-ce-qu-allait-donner-le-brexit-pas-grand-monde-n-aurait-vote-pour-ces-anglais-prets-a-revenir-dans-l-europe_8290721.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T21:33:56+00:00",
-   "extrait": "Vendredi 20 novembre, c’est à Bruxelles que se poursuit le rapprochement entre Londres et l’Union européenne. L’occasion de retrouver ceux qui avaient voté pour le Brexit. Dix ans après le…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "b59d131d32a5",
-   "titre": "La Guadeloupe placée en « état d’alerte sécheresse » en fin de saison des pluies",
-   "lien": "https://www.lemonde.fr/planete/article/2026/11/19/la-guadeloupe-placee-en-etat-d-alerte-secheresse-en-fin-de-saison-des-pluies_6813383_3244.html",
-   "source": "Le Monde",
-   "date": "2026-11-19T21:32:31+00:00",
-   "extrait": "Le département français a connu un trimestre de juillet, août et septembre parmi les plus secs et chauds depuis 1991, selon Météo-France. La préfecture appelle l’ensemble des citoyens au « civisme »…",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "22eec6a09a23",
-   "titre": "L'ex-anesthésiste Frédéric Péchier dépose une troisième demande de remise en liberté, examinée le 3 décembre prochain",
-   "lien": "https://www.franceinfo.fr/faits-divers/l-ex-anesthesiste-frederic-pechier-depose-une-troisieme-demande-de-remise-en-liberte-examinee-le-3-decembre-prochain_8290733.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T21:26:50+00:00",
-   "extrait": "Frédéric Péchier condamné fin 2025 à la réclusion criminelle à perpétuité pour 30 empoisonnements, dont 12 mortels a fait appel du verdict.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "db9da463bbf2",
-   "titre": "Stocks plunge as investors take cover amid growing uncertainty",
-   "lien": "https://www.cbsnews.com/news/dow-tumbles-wall-street-ai-fears/",
-   "source": "CBS News",
-   "date": "2026-11-19T21:25:11+00:00",
-   "extrait": "The Dow tumbled 1,100 points, while other stock markets also swooned, as Wall Street frets over AI growth and other market risks.",
-   "tags": [
-    "Économie",
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "5f45813136ea",
-   "titre": "Anthropic shares jump in Nasdaq trading debut after record IPO",
-   "lien": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/",
-   "source": "CBS News",
-   "date": "2026-11-19T21:18:04+00:00",
-   "extrait": "Anthropic raised a record $81.3 billion, catapulting it past SpaceX, which raised $75 billion​ when it went public in June.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "3cd08863fe0c",
-   "titre": "Professeure d'économie convoquée après un devoir sur le mouvement lycéen : \"Notre collègue n'a fait que son travail\", selon le Snes-FSU",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/professeure-d-economie-convoquee-apres-un-devoir-sur-le-mouvement-lyceen-notre-collegue-n-a-fait-que-son-travail-selon-le-snes-fsu_8290724.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T21:17:37+00:00",
-   "extrait": "Plusieurs familles ont saisi la proviseure du lycée Louise-Michel de Grenoble au sujet d'un devoir en sciences économiques et sociales sur le mouvement lycéen.",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "f102eb64b9ab",
-   "titre": "Présidentielle 2027 : le président du Sénat, Gérard Larcher, a demandé à Sébastien Lecornu d’avancer la date de l’élection",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/19/presidentielle-2027-le-president-du-senat-gerard-larcher-a-demande-a-sebastien-lecornu-d-avancer-la-date-de-l-election_6813382_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-19T21:17:24+00:00",
-   "extrait": "Les dates entérinées le 1ᵉʳ juillet par l’exécutif prévoient un premier tour le 18 avril et un second tour le 2 mai, au lendemain des défilés du 1ᵉʳ-Mai. Cela fait craindre à M. Larcher, comme à…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "f33affa51d51",
-   "titre": "Procès du canal \"Femmeblancherie\" : de la prison ferme requise contre des masculinistes",
-   "lien": "https://www.france24.com/fr/france/20261119-proc%C3%A8s-canal-femmeblancherie-prison-ferme-requise-contre-masculinistes",
-   "source": "France 24",
-   "date": "2026-11-19T21:15:19+00:00",
-   "extrait": "Jusqu'à deux ans de prison ferme ont été requis, jeudi à Paris, contre le fondateur du groupe Telegram \"femmeblancherie\" et six autres hommes, jugés pour des propos haineux visant notamment les…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "f5232f4291b7",
-   "titre": "Un préfet soupçonné d'avoir renseigné le Rassemblement national sur des affaires en cours",
-   "lien": "https://www.franceinfo.fr/faits-divers/un-prefet-soupconne-d-avoir-renseigne-le-rassemblement-national-sur-des-affaires-en-cours_8290550.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T21:09:38+00:00",
-   "extrait": "Le parquet de Paris a ouvert une information judiciaire pour violation du secret professionnel et violation du secret de l'enquête. Les soupçons s'orientent vers Hugues Moutouh, préfet du Loiret et…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "4cf416a3db11",
-   "titre": "COP31 sur le climat : les énergies fossiles retirées du projet de décision finale",
-   "lien": "https://www.france24.com/fr/plan%C3%A8te/20261119-cop31-climat-%C3%A9nergies-fossiles-retir%C3%A9es-projet-d%C3%A9cision-finale",
-   "source": "France 24",
-   "date": "2026-11-19T21:06:06+00:00",
-   "extrait": "Les énergies fossiles ne figurent plus dans le nouveau projet de décision finale de la COP31 sur le climat publié jeudi à Antalya (Turquie), un recul dénoncé avec force par les ONG à la veille de la…",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "32db1864f68e",
-   "titre": "Xi, Trump, Poutine : un Yalta 2.0 ?",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261119-xi-trump-poutine-un-yalta-2-0",
-   "source": "France 24",
-   "date": "2026-11-19T21:00:32+00:00",
-   "extrait": "C’est peut-être l'image de l’année : Xi Jinping, Donald Trump et Vladimir Poutine réunis à Shenzhen, en Chine. C’est la première fois que les présidents de ces trois puissances se rencontraient. Ils…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "216de5563653",
-   "titre": "Corée du Sud : un examen crucial en plein scandale de triche à l’IA",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261119-cor%C3%A9e-du-sud-un-examen-crucial-en-plein-scandale-de-triche-%C3%A0-l-ia",
-   "source": "France 24",
-   "date": "2026-11-19T20:55:42+00:00",
-   "extrait": "Les ​élèves sud-coréens ont passé jeudi 19 novembre le Suneung, le rigoureux examen national d'entrée à l'université, dans une ambiance tendue après un scandale de triche ​lié à l'intelligence…",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "450708e368f7",
-   "titre": "Dow falls 1,000 points during busy day on Wall Street",
-   "lien": "https://www.cbsnews.com/video/dow-falls-1000-points-during-busy-day-on-wall-street/",
-   "source": "CBS News",
-   "date": "2026-11-19T20:44:38+00:00",
-   "extrait": "The Dow on Thursday fell more than 1,000 points during a very busy day for tech stocks amid Anthropic's IPO. CBS News' Jo King Kent has more.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "5f3d74cb7e79",
-   "titre": "David Habib, figure de l’Assemblée nationale et de la social-démocratie, meurt brutalement",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/19/david-habib-figure-de-l-assemblee-nationale-et-de-la-social-democratie-meurt-brutalement_6813379_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-19T20:35:44+00:00",
-   "extrait": "Longtemps, le député des Pyrénées-Atlantiques avait siégé au sein du groupe socialiste avant de devenir vice-président de l’Assemblée nationale en 2019 puis de rejoindre le groupe Libertés…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c0abf4458d94",
-   "titre": "\"GTA VI\" : prouesses techniques, budget, ventes... le jeu vidéo de tous les records",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20261119-gta-vi-prouesses-techniques-budget-ventes-le-jeu-vid%C3%A9o-de-tous-les-records",
-   "source": "France 24",
-   "date": "2026-11-19T20:26:06+00:00",
-   "extrait": "Treize ans d'attente, un budget estimé à plus d'un milliard de dollars et des ventes déjà vertigineuses… \"GTA VI\" affole tous les compteurs. Mais ce nouvel épisode du célèbre jeu vidéo est-il à la…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "7d4c84ebe563",
-   "titre": "En Seine-Maritime, le conducteur suspecté d'avoir mortellement percuté une cycliste de 17 ans, fin octobre, remis en liberté",
-   "lien": "https://www.franceinfo.fr/faits-divers/en-seine-maritime-le-conducteur-suspecte-d-avoir-mortellement-percute-une-cycliste-de-17-ans-fin-octobre-remis-en-liberte_8290670.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-19T20:18:19+00:00",
-   "extrait": "Le conducteur, retrouvé et arrêté le 30 octobre, conteste être l'auteur de l'accident. Début novembre, il avait expliqué que les dégâts constatés sur son véhicule avaient été causés par un poteau…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "11685b3b01c1",
-   "titre": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-   "lien": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-19T20:07:02+00:00",
-   "extrait": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
-   "tags": [
-    "Conflits",
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "67a35bf31abd",
-   "titre": "Rohingya : un arrêt historique de la Cour de justice internationale reconnaît la Birmanie coupable de génocide",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/19/rohingya-un-arret-historique-de-la-cour-de-justice-internationale-reconnait-la-birmanie-coupable-de-genocide_6813377_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-19T20:06:18+00:00",
-   "extrait": "L’organe judiciaire de l’ONU a considéré que le pays a violé six fois la convention sur le génocide de 1948. C’est la première fois de l’histoire qu’un Etat est condamné pour le « crime des crimes…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-20T15:05:41+00:00",
+ "maj": "2026-11-20T16:05:46+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,6 +24,28 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "bbc19bb6f991",
+   "titre": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+   "lien": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+   "source": "BleepingComputer",
+   "date": "2026-11-20T15:58:06+00:00",
+   "extrait": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "6cf847cc4b90",
+   "titre": "NON, c’est NON. Sauf quand il réclame une rançon.",
+   "lien": "https://www.zataz.com/non-cest-non-sauf-quand-il-reclame-une-rancon/",
+   "source": "Zataz",
+   "date": "2026-11-20T15:53:02+00:00",
+   "extrait": "n0n revendique 179 fuites de données. Le maritime arrive en tête et un groupe pharmaceutique français est cité.",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
    "id": "19cca4f1450a",
    "titre": "Still tracking company passwords in spreadsheets? You’re flying blind.",
    "lien": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
@@ -31,6 +53,19 @@
    "date": "2026-11-20T15:00:10+00:00",
    "extrait": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how…",
    "tags": []
+  },
+  {
+   "id": "f613d8c7a100",
+   "titre": "ARTEX, l'IA de piratage open source qui a figé la Commission européenne",
+   "lien": "https://korben.info/artex-lia-de-piratage-open-source-qui-a-fige-la-commission-europeenne.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-20T14:50:58+00:00",
+   "extrait": "La Commission européenne a reconnu le 19 novembre une campagne de piratage débutée le 22 octobre, qui a paralysé Sysper et MyPMO pendant plus de dix jours. Le CERT-EU pointe ARTEX, un outil open…",
+   "tags": [
+    "Fuite de données",
+    "IA",
+    "Outil"
+   ]
   },
   {
    "id": "bba5164d8e6a",
@@ -3327,39 +3362,6 @@
    "source": "CERT-FR",
    "date": "2026-11-12T00:00:00+00:00",
    "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "3b22eb1aafce",
-   "titre": "Multiples vulnérabilités dans les produits Palo Alto Networks (12 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1521/",
-   "source": "CERT-FR",
-   "date": "2026-11-12T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "8d6e15020c57",
-   "titre": "Multiples vulnérabilités dans Citrix Secure Access client (12 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1519/",
-   "source": "CERT-FR",
-   "date": "2026-11-12T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Citrix Secure Access client. Elles permettent à un attaquant de provoquer une élévation de privilèges.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "1a26514bd0a6",
-   "titre": "Multiples vulnérabilités dans Citrix XenServer (12 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1502/",
-   "source": "CERT-FR",
-   "date": "2026-11-12T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Citrix XenServer. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité…",
    "tags": [
     "Faille"
    ]
