@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-20T00:05:49+00:00",
+ "maj": "2026-11-20T01:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "c5e24a06d395",
+   "titre": "VMware patches vCenter zero-day exploited in attacks since September",
+   "lien": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+   "source": "BleepingComputer",
+   "date": "2026-11-20T00:26:25+00:00",
+   "extrait": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September…",
+   "tags": [
+    "Faille",
+    "Fuite de données"
+   ]
+  },
   {
    "id": "df29d71aedcb",
    "titre": "Hackers steal data of 1.6 million SBC Medical Group customers",
@@ -3363,18 +3375,6 @@
    "tags": [
     "CVE",
     "Faille"
-   ]
-  },
-  {
-   "id": "16367edd00b6",
-   "titre": "Railway breach leads to $740,000 in fraudulent AI charges",
-   "lien": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
-   "source": "BleepingComputer",
-   "date": "2026-11-10T22:20:19+00:00",
-   "extrait": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage…",
-   "tags": [
-    "Fuite de données",
-    "IA"
    ]
   }
  ]
