@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-21T02:05:38+00:00",
+ "maj": "2026-11-21T03:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,52 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "52000d74bc14",
+   "titre": "South Florida begins recovery after widespread flooding",
+   "lien": "https://www.cbsnews.com/live-updates/south-florida-flooding-live-updates-heavy-rain-broward-miami-dade/",
+   "source": "CBS News",
+   "date": "2026-11-21T02:42:51+00:00",
+   "extrait": "Historic flooding across South Florida has left neighborhoods underwater, roads impassable and Broward schools closed as residents begin cleanup efforts and officials assess the damage.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "4bb3426047f0",
+   "titre": "La formule 1 va renouer avec les moteurs V8 à partir de 2030 pour retrouver son « ADN »",
+   "lien": "https://www.lemonde.fr/sport/article/2026/11/21/la-formule-1-va-renouer-avec-les-moteurs-v8-a-partir-de-2030-pour-retrouver-son-adn_6813877_3242.html",
+   "source": "Le Monde",
+   "date": "2026-11-21T02:39:09+00:00",
+   "extrait": "Le retour du V8, avec « une hybridation limitée », est plébiscité par les pilotes. Le spectacle devrait davantage s’appuyer sur leurs talents purs de pilotage que la gestion de la batterie, comme…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "473258081e1e",
+   "titre": "Stocks enter correction territory, driven by deepening tech rout",
+   "lien": "https://www.cbsnews.com/news/stocks-enter-correction-territory-ai-fears/",
+   "source": "CBS News",
+   "date": "2026-11-21T02:25:00+00:00",
+   "extrait": "The tech-heavy Nasdaq tumbled more than 1,200 points, putting it on track for its second-worst day of the year.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "acf404f6e9c1",
+   "titre": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+   "lien": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-21T02:09:46+00:00",
+   "extrait": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "6b281fa9ec3f",
    "titre": "Jonathan Rinderknecht found guilty in Palisades Fire case",
    "lien": "https://www.cbsnews.com/news/jonathan-rinderknecht-found-guilty-in-palisades-fire-case/",
@@ -29,18 +75,6 @@
    "date": "2026-11-21T02:02:18+00:00",
    "extrait": "A Los Angeles County jury has found Jonathan Rinderknecht guilty of starting a blaze that erupted into the deadly and destructive Palisades Fire in 2025.",
    "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "52000d74bc14",
-   "titre": "South Florida severe weather and flooding live updates",
-   "lien": "https://www.cbsnews.com/live-updates/south-florida-flooding-live-updates-heavy-rain-broward-miami-dade/",
-   "source": "CBS News",
-   "date": "2026-11-21T01:55:34+00:00",
-   "extrait": "Historic flooding across South Florida has left neighborhoods underwater, roads impassable and Broward schools closed as residents begin cleanup efforts and officials assess the damage.",
-   "tags": [
-    "Climat"
-   ],
    "zone": "usa"
   },
   {
@@ -400,6 +434,20 @@
    "zone": "usa"
   },
   {
+   "id": "664272acea81",
+   "titre": "11/20: CBS Evening News",
+   "lien": "https://www.cbsnews.com/video/112026-cbs-evening-news/",
+   "source": "CBS News",
+   "date": "2026-11-20T23:30:00+00:00",
+   "extrait": "Markets plunge amid tech selloff; Storms hit Florida and California.",
+   "tags": [
+    "Économie",
+    "Climat",
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "52fca1fbf971",
    "titre": "Poland accuses Russia of \"intentional provocation\" after missiles land in its territory",
    "lien": "https://www.cbsnews.com/video/poland-accuses-russia-of-intentional-provocation-after-missiles-land-on-its-territory/",
@@ -420,6 +468,18 @@
    "extrait": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
    "tags": [],
    "zone": "monde"
+  },
+  {
+   "id": "4fadf796c725",
+   "titre": "Etats-Unis : un juge valide un accord d’indemnisation par Bayer de 7,25 milliards de dollars pour solder l’ensemble des plaintes liées au Roundup",
+   "lien": "https://www.lemonde.fr/planete/article/2026/11/21/etats-unis-un-juge-valide-un-accord-d-indemnisation-par-bayer-de-7-25-milliards-de-dollars-pour-solder-l-ensemble-des-plaintes-liees-au-roundup_6813717_3244.html",
+   "source": "Le Monde",
+   "date": "2026-11-20T23:25:01+00:00",
+   "extrait": "Cette indemnisation « ne comporte aucune reconnaissance de responsabilité ou de faute », avait précisé en février le géant de l’agrochimie, qui a racheté Monsanto en 2018.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
   },
   {
    "id": "0b8be7153afb",
@@ -853,18 +913,6 @@
    "zone": "france"
   },
   {
-   "id": "473258081e1e",
-   "titre": "Stocks enter correction territory, driven by a deepening tech rout",
-   "lien": "https://www.cbsnews.com/news/stocks-enter-correction-territory-ai-fears/",
-   "source": "CBS News",
-   "date": "2026-11-20T21:08:18+00:00",
-   "extrait": "The tech-heavy Nasdaq tumbled more than 1,200 points, putting it on track for its second-worst day of the year.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "79dce0ba02cf",
    "titre": "\"GTA VI, le jeu vidéo qui rend la planète folle\" : regardez le documentaire de franceinfo consacré à la sortie mondiale la plus attendue des gamers",
    "lien": "https://www.franceinfo.fr/culture/jeux-video/gta-vi/direct-gta-vi-le-jeu-video-qui-rend-la-planete-folle-regardez-le-documentaire-de-franceinfo-consacre-a-la-sortie-mondiale-la-plus-attendue-des-gamers_8291969.html#xtor=RSS-3-[lestitres]",
@@ -974,10 +1022,10 @@
   },
   {
    "id": "90eae191853f",
-   "titre": "Russia missiles pummel Ukraine and hit NATO soil in Poland",
+   "titre": "Russian missiles pummel Ukraine and hit NATO soil in Poland",
    "lien": "https://www.cbsnews.com/news/ukraine-war-russia-intentional-provocation-poland-missiles-nato/",
    "source": "CBS News",
-   "date": "2026-11-20T20:28:38+00:00",
+   "date": "2026-11-20T20:28:00+00:00",
    "extrait": "Missiles flew into Poland overnight as Russia hit Ukraine with \"one of the largest attacks\" since the war began, killing at least 8 people.",
    "tags": [
     "Conflits"
@@ -1707,18 +1755,6 @@
    "extrait": "The FBI estimated cargo theft losses in the U.S. and Canada reached nearly $725 million in 2025.",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "acf404f6e9c1",
-   "titre": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-   "lien": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-20T16:54:29+00:00",
-   "extrait": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
   },
   {
    "id": "6de1ffc4bb0d",
@@ -3419,41 +3455,6 @@
     "Politique",
     "Justice"
    ],
-   "zone": "monde"
-  },
-  {
-   "id": "d409ed1430ec",
-   "titre": "Can Democrats force an end to the Iran war when they take Congress?",
-   "lien": "https://www.cbsnews.com/news/iran-war-democrats-congress-trump/",
-   "source": "CBS News",
-   "date": "2026-11-20T11:00:00+00:00",
-   "extrait": "With Democrats set to take decisive House and Senate majorities, some members want to pressure the Trump administration to end the Iran war. The exact plan is not clear.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "6efb521ee5af",
-   "titre": "Sommet des alliés de l'Ukraine : quelles avancées après les discussions ?",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261120-sommet-des-alli%C3%A9s-de-l-ukraine-quelles-avanc%C3%A9es-apr%C3%A8s-les-discussions",
-   "source": "France 24",
-   "date": "2026-11-20T10:57:33+00:00",
-   "extrait": "L'émissaire américain Jared Kushner a déclaré jeudi que les États-Unis seraient disposés à accorder à l'Ukraine une protection de type Otan, si cela était dans leur \"intérêt\", et souligné que la…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "841a624b88c9",
-   "titre": "Royaume-Uni : la célèbre maison à la porte bleue de \"Notting Hill\" mise en vente",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261120-royaume-uni-la-c%C3%A9l%C3%A8bre-maison-%C3%A0-la-porte-bleue-de-notting-hill-mise-en-vente",
-   "source": "France 24",
-   "date": "2026-11-20T10:56:27+00:00",
-   "extrait": "Rendue célèbre par la comédie romantique \"Notting Hill\", sortie en 1999 avec Julia Roberts et Hugh Grant, la maison londonienne reconnaissable à sa célèbre porte bleue est mise en vente à 7,95…",
-   "tags": [],
    "zone": "monde"
   }
  ]
