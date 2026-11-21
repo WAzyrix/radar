@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-21T18:05:39+00:00",
+ "maj": "2026-11-21T19:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,26 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "d0f7084cd9be",
+   "titre": "Windows NT 4.0 sur un Raspberry Pi, c'est inutile donc indispensable",
+   "lien": "https://korben.info/pint-windows-nt-raspberry-pi.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-21T18:34:10+00:00",
+   "extrait": "PINT fait démarrer Windows NT 4.0 sur les Raspberry Pi 2, 3, 4 et Zero 2 W, avec Wi-Fi, son et Pinball rangé à sa place. Mais aucune image n'est fournie : il faut compiler avec des sources Windows…",
+   "tags": [
+    "Windows"
+   ]
+  },
+  {
+   "id": "3c93589d1570",
+   "titre": "Plex lâche TheTVDB",
+   "lien": "https://korben.info/plex-abandonne-thetvdb.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-21T18:19:38+00:00",
+   "extrait": "Le 3 décembre, Plex ne récupère plus rien chez TheTVDB. Rien n'est effacé, mais l'ancien agent cesse de fonctionner, et les séries en cours suivies en ordre DVD ou absolu risquent de mal ranger…",
+   "tags": []
+  },
   {
    "id": "1e1dbef95d66",
    "titre": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
@@ -3348,29 +3368,6 @@
    "extrait": "Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Every check defenders normally lean on to judge a link came back clean, and the operator…",
    "tags": [
     "Malware"
-   ]
-  },
-  {
-   "id": "988b46d175c6",
-   "titre": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
-   "lien": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
-   "source": "The Hacker News",
-   "date": "2026-11-12T11:33:15+00:00",
-   "extrait": "PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution. The security flaw, tracked…",
-   "tags": [
-    "CVE",
-    "Faille"
-   ]
-  },
-  {
-   "id": "a3551b4d4049",
-   "titre": "Microsoft confirms Windows security updates installation issues",
-   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
-   "source": "BleepingComputer",
-   "date": "2026-11-12T10:24:07+00:00",
-   "extrait": "Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update. [...]",
-   "tags": [
-    "Windows"
    ]
   }
  ]
