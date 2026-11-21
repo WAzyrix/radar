@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-21T13:05:39+00:00",
+ "maj": "2026-11-21T14:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "4714af039177",
+   "titre": "Cyberattaques : la boîte de Pandora est-elle ouverte avec l’IA ARTEX",
+   "lien": "https://www.zataz.com/cyberattaques-la-boite-de-pandora-est-elle-ouverte-avec-lia-artex/",
+   "source": "Zataz",
+   "date": "2026-11-21T13:39:38+00:00",
+   "extrait": "ARTEX révèle comment l'IA accélère les cyberattaques, le vol de données et les intrusions. La boîte de Pandore 2.0 a-t-elle été ouverte ?",
+   "tags": [
+    "Fuite de données",
+    "IA"
+   ]
+  },
   {
    "id": "0ad755f2681c",
    "titre": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
@@ -3360,18 +3372,6 @@
    "extrait": "Modern Web Guidance glisse dans votre agent de code des guides sur les fonctionnalités natives du navigateur. Installation, scan, télémétrie et limites.",
    "tags": [
     "IA"
-   ]
-  },
-  {
-   "id": "417b99b8248b",
-   "titre": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
-   "lien": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
-   "source": "The Hacker News",
-   "date": "2026-11-12T06:42:47+00:00",
-   "extrait": "Starting Tuesday, an attacker used stolen credentials for 4,837 GitHub accounts to plant a secret stealer in repositories those accounts could write to, according to Aikido Security, a security…",
-   "tags": [
-    "Malware",
-    "Outil"
    ]
   }
  ]
