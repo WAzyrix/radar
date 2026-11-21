@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-21T17:05:39+00:00",
+ "maj": "2026-11-21T18:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,30 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "1e1dbef95d66",
+   "titre": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+   "lien": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+   "source": "BleepingComputer",
+   "date": "2026-11-21T18:01:58+00:00",
+   "extrait": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email…",
+   "tags": [
+    "Faille",
+    "Fuite de données",
+    "Windows"
+   ]
+  },
+  {
+   "id": "4aa0e4b7e3bc",
+   "titre": "J'ai testé l'API d'ibou",
+   "lien": "https://korben.info/ibou-api-recherche-tuto.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-21T16:52:08+00:00",
+   "extrait": "L'API de recherche du moteur français ibou se branche en quelques lignes de Python sur un agent IA ou sur une veille de nom. Coût mesuré, opérateurs qui marchent, et un index qui ne voit pas encore…",
+   "tags": [
+    "IA"
+   ]
+  },
   {
    "id": "4b6021947b3e",
    "titre": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
@@ -3347,31 +3371,6 @@
    "extrait": "Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update. [...]",
    "tags": [
     "Windows"
-   ]
-  },
-  {
-   "id": "3ca0085eba4f",
-   "titre": "Hackers plant GSocket on Linux servers for persistent access",
-   "lien": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
-   "source": "BleepingComputer",
-   "date": "2026-11-12T09:38:00+00:00",
-   "extrait": "Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access…",
-   "tags": [
-    "Fuite de données",
-    "Outil",
-    "Linux"
-   ]
-  },
-  {
-   "id": "26d811aac83d",
-   "titre": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
-   "lien": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
-   "source": "The Hacker News",
-   "date": "2026-11-12T09:25:00+00:00",
-   "extrait": "A critical flaw in MongoDB Server allows an unauthenticated attacker to send two requests that trigger a crash on the database server. The crash occurs only if that server is later chosen to take…",
-   "tags": [
-    "CVE",
-    "Faille"
    ]
   }
  ]
