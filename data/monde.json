@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-21T00:05:43+00:00",
+ "maj": "2026-11-21T01:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,14 +22,135 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "a670c9b304d1",
+   "titre": "6 reasons stocks are falling, and what you should do about it",
+   "lien": "https://www.cbsnews.com/news/why-stocks-are-falling-ai-fears/",
+   "source": "CBS News",
+   "date": "2026-11-21T01:04:05+00:00",
+   "extrait": "The S&P 500 is on track for a seventh consecutive day of losses, marking its longest losing streak since February 2020. Here's what's taking the shine off stocks.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "e9b4f4a77c7f",
+   "titre": "DEA dismantles first nitazene synthesis lab in the U.S.",
+   "lien": "https://www.cbsnews.com/news/louisiana-nitazenes-bust/",
+   "source": "CBS News",
+   "date": "2026-11-21T00:53:29+00:00",
+   "extrait": "The Drug Enforcement Administration's forensic testing confirmed the lab in Louisiana was manufacturing etonitazene, an extremely potent synthetic opioid belonging to a class of drugs known as…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "6209f96033cf",
+   "titre": "Marine Corps hero under federal investigation",
+   "lien": "https://www.cbsnews.com/video/marine-corps-hero-under-federal-investigation/",
+   "source": "CBS News",
+   "date": "2026-11-21T00:52:30+00:00",
+   "extrait": "CBS News has exclusively learned that one of the most celebrated Marine Corps veterans from the Iraq War is now the subject of a criminal investigation. CBS News' Eleanor Watson reports.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "6b281fa9ec3f",
    "titre": "Jonathan Rinderknecht found guilty in Palisades Fire case",
    "lien": "https://www.cbsnews.com/news/jonathan-rinderknecht-found-guilty-in-palisades-fire-case/",
    "source": "CBS News",
-   "date": "2026-11-21T00:03:43+00:00",
+   "date": "2026-11-21T00:51:54+00:00",
    "extrait": "A Los Angeles County jury has found Jonathan Rinderknecht guilty of starting a blaze that erupted into the deadly and destructive Palisades Fire in 2025.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "1f12385dcd09",
+   "titre": "More than 140 sick on cruise ship that departed Fort Lauderdale, CDC says",
+   "lien": "https://www.cbsnews.com/news/princess-cruises-caribbean-princess-mystery-illness-cdc-november-2026/",
+   "source": "CBS News",
+   "date": "2026-11-21T00:48:36+00:00",
+   "extrait": "The Princess Cruises ship Caribbean Princess departed Port Everglades in Fort Lauderdale on Nov. 11 on a 12-night journey.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "fd65dccda25a",
+   "titre": "ANC fights to keep control of South Africa's key cities after election setback",
+   "lien": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-21T00:34:51+00:00",
+   "extrait": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "9703f79f5f78",
+   "titre": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’intelligence artificielle",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/21/aux-etats-unis-wall-street-en-deroute-apres-la-degringolade-des-societes-liees-a-l-intelligence-artificielle_6813811_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-21T00:33:30+00:00",
+   "extrait": "Les inquiétudes sur le modèle économique des entreprises, les incertitudes sur l’avenir des data centers et les déboires du champion Nvidia ont effacé des milliards de dollars de valorisation, la…",
+   "tags": [
+    "Économie",
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "a475bc1452e8",
+   "titre": "Jusqu'à deux ans de prison ferme et le caractère raciste des violences retenu pour les trois policiers accusés d'avoir roué de coups Michel Zecler",
+   "lien": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/des-condamnations-allant-d-un-an-a-deux-ans-de-prison-ferme-pour-les-trois-policiers-accuses-d-avoir-roue-de-coups-michel-zecler_8292287.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-21T00:26:28+00:00",
+   "extrait": "La cour criminelle de Paris a rendu son verdict très attendu, vendredi soir, face à un public venu en nombre, et a finalement retenu la circonstance aggravante de racisme. Les peines vont de un an…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "9933f5a7b8ee",
+   "titre": "Seine-Saint-Denis : le policier qui a tué un automobiliste en 2022 condamné à dix-huit mois de prison ferme sans mandat de dépôt",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/21/seine-saint-denis-le-policier-qui-a-tue-un-automobiliste-en-2022-condamne-a-dix-huit-mois-de-prison-ferme-sans-mandat-de-depot_6813778_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-21T00:18:17+00:00",
+   "extrait": "L’avocate générale avait demandé cinq ans de réclusion criminelle, assortis d’un mandat de dépôt différé, à l’encontre de cet ancien brigadier-chef de la BAC.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "5ebf853562b4",
+   "titre": "« GTA VI » s’offre un lancement record avec 3,79 milliards de dollars de ventes dès le premier jour",
+   "lien": "https://www.lemonde.fr/pixels/article/2026/11/21/gta-vi-s-offre-un-lancement-record-avec-3-79-milliards-de-dollars-de-ventes-des-le-premier-jour_6813745_4408996.html",
+   "source": "Le Monde",
+   "date": "2026-11-21T00:13:13+00:00",
+   "extrait": "Ces revenus, équivalents à 3,5 milliards d’euros environ, sont près de cinq fois supérieurs à ceux générés en vingt-quatre heures par la version précédente de la mythique saga de « Grand Theft Auto…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "3513650770fc",
+   "titre": "Trump says recent tech outages are \"all separate events\"",
+   "lien": "https://www.cbsnews.com/video/trump-says-recent-tech-outages-are-all-separate-events/",
+   "source": "CBS News",
+   "date": "2026-11-21T00:09:40+00:00",
+   "extrait": "President Trump's wide-ranging remarks Friday touched on the lingering concerns that tech outages at the FAA, NSA, banks and other companies were part of a coordinated attack. Mr. Trump denied that…",
+   "tags": [
+    "Politique",
+    "Conflits",
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "b7fdc1f987cb",
+   "titre": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+   "lien": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-21T00:01:39+00:00",
+   "extrait": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "51037c3d1ddc",
@@ -165,16 +286,6 @@
    "extrait": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026.",
    "tags": [],
    "zone": "monde"
-  },
-  {
-   "id": "a475bc1452e8",
-   "titre": "Des condamnations allant d'un an à deux ans de prison ferme pour les trois policiers accusés d'avoir roué de coups Michel Zecler",
-   "lien": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/des-condamnations-allant-d-un-an-a-deux-ans-de-prison-ferme-pour-les-trois-policiers-accuses-d-avoir-roue-de-coups-michel-zecler_8292287.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-20T23:10:11+00:00",
-   "extrait": "La cour criminelle de Paris a rendu son verdict très attendu, vendredi soir, face à un public venu en nombre. Elle a finalement retenu la circonstance aggravante de racisme.",
-   "tags": [],
-   "zone": "france"
   },
   {
    "id": "97715f31a473",
@@ -421,16 +532,6 @@
    "zone": "monde"
   },
   {
-   "id": "1f12385dcd09",
-   "titre": "More than 140 sick on cruise ship that departed Fort Lauderdale, CDC says",
-   "lien": "https://www.cbsnews.com/news/princess-cruises-caribbean-princess-mystery-illness-cdc-november-2026/",
-   "source": "CBS News",
-   "date": "2026-11-20T21:47:01+00:00",
-   "extrait": "The Princess Cruises ship Caribbean Princess departed Port Everglades in Fort Lauderdale on Nov. 11 on a 12-night journey.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "7f0bff452788",
    "titre": "What the new UK-EU deal could mean for future post-Brexit relations",
    "lien": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
@@ -499,6 +600,16 @@
    "zone": "usa"
   },
   {
+   "id": "d3bb9ee053c0",
+   "titre": "MLK's handwritten draft of iconic speech on display for the first time",
+   "lien": "https://www.npr.org/2026/11/20/nx-s1-6039337/mlk-i-have-a-dream-speech-draft-public-display",
+   "source": "NPR",
+   "date": "2026-11-20T21:38:05+00:00",
+   "extrait": "The only known handwritten draft of The Reverend Martin Luther King Jr.'s 'I Have a Dream' speech is on display in his hometown. The iconic phrase, however, never made it on the page.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
    "id": "96576fd3c7b4",
    "titre": "Députés et sénateurs parviennent à un accord sur le projet de budget de \"fin de gestion\" pour 2026, avant une possible adoption définitive mardi",
    "lien": "https://www.franceinfo.fr/economie/budget/deputes-et-senateurs-parviennent-a-un-accord-sur-le-projet-de-budget-de-fin-de-gestion-pour-2026-avant-une-possible-adoption-definitive-mardi_8292914.html#xtor=RSS-3-[lestitres]",
@@ -531,16 +642,6 @@
    "extrait": "Les malfaiteurs étaient très organisés. Un commanditaire ciblait les bases de données à voler, tandis que des \"callers\" contactaient les victimes pour les inciter à transférer leurs fonds avant que…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "a670c9b304d1",
-   "titre": "6 reasons stocks are falling, and what you should do about it",
-   "lien": "https://www.cbsnews.com/news/why-stocks-are-falling-ai-fears/",
-   "source": "CBS News",
-   "date": "2026-11-20T21:15:01+00:00",
-   "extrait": "The S&P 500 is on track for a seventh consecutive day of losses, marking its longest losing streak since February 2020. Here's what's taking the shine off stocks.",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "e43fab329e7d",
@@ -3346,105 +3447,6 @@
    "extrait": "L'animal était très populaire sur les réseaux sociaux depuis sa naissance prématurée, alors que sa mère l'avait rejeté.",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "ae91358d9d8d",
-   "titre": "L'actu en dessin : à Shenzhen, le sommet tripartite débouche sur une étonnante \"déclaration de paix\"",
-   "lien": "https://www.france24.com/fr/plan%C3%A8te/20261120-l-actu-en-dessin-%C3%A0-shenzhen-le-sommet-tripartite-d%C3%A9bouche-sur-une-%C3%A9tonnante-d%C3%A9claration-de-paix",
-   "source": "France 24",
-   "date": "2026-11-20T10:06:04+00:00",
-   "extrait": "Donald Trump, Vladimir Poutine et Xi Jinping ont adopté jeudi une \"déclaration en faveur de la paix\" à l'issue d'un sommet tripartite inédit. Une conclusion inattendue quand on sait que la Russie…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "fc94d710c0e8",
-   "titre": "Guerre en Ukraine : Kiev mise sur l’isolement stratégique de la Crimée occupée",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/20/l-ukraine-mise-sur-l-isolement-strategique-de-la-crimee-occupee_6813616_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-20T10:00:08+00:00",
-   "extrait": "Une série de frappes ukrainiennes sur le pont de Crimée, symbole de l’occupation russe, a lourdement endommagé l’ouvrage cher au cœur de Vladimir Poutine, réduisant l’accès de la Russie à la…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "87145c7924ab",
-   "titre": "How exactly did Trump get so rich on crypto? We explain",
-   "lien": "https://www.npr.org/2026/11/20/nx-s1-6038969/trump-crypto-profits-corruption-meme-coin-world-liberty-explainer",
-   "source": "NPR",
-   "date": "2026-11-20T10:00:00+00:00",
-   "extrait": "President Trump has made billions of dollars in his second term — most of it in cryptocurrencies. Democrats are vowing to probe his businesses as they gear up to take over Congress next year.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "27ac58e8151b",
-   "titre": "New York City unveils a bold plan to move its jails off Rikers Island",
-   "lien": "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model",
-   "source": "NPR",
-   "date": "2026-11-20T10:00:00+00:00",
-   "extrait": "New York City officials are moving forward with plans to close Rikers, the city's main jail complex, after years of discussion. The jail has been plagued by assaults and inmate deaths.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "f7ff875e3494",
-   "titre": "Critics are calling what brand-new release a masterpiece? The quiz knows",
-   "lien": "https://www.npr.org/2026/11/20/g-s1-154337/florida-starship-bond-schumer-ai-flu-alaska-news-quiz",
-   "source": "NPR",
-   "date": "2026-11-20T10:00:00+00:00",
-   "extrait": "Plus: Are you up to date on your James Bond news? If so, you'll get at least one question right.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "75daf6fdeb3b",
-   "titre": "À Grenoble, un devoir sur les mobilisations lycéennes provoque une polémique autour de la liberté pédagogique",
-   "lien": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/a-grenoble-un-devoir-sur-les-mobilisations-lyceennes-provoque-une-polemique-autour-de-la-liberte-pedagogique_8291693.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-20T09:59:38+00:00",
-   "extrait": "L'enseignante de 35 ans est convoquée le 26 novembre pour \"recueillir son point de vue\", après des alertes de plusieurs parents.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "0b2f818d7b2a",
-   "titre": "Présidentielle 2027 : David Lisnard, promoteur puis torpilleur de la primaire de la droite et du centre",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/20/presidentielle-2027-david-lisnard-promoteur-puis-torpilleur-de-la-primaire-de-la-droite-et-du-centre_6813615_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-20T09:42:34+00:00",
-   "extrait": "Le candidat Nouvelle Energie a été l’un des premiers, à droite, à défendre une primaire avec un large périmètre. Mais il est suspecté par les équipes de Gabriel Attal et de Bruno Retailleau de…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "76f0e9dc73b4",
-   "titre": "Une usine d'armement basée dans le Cher doit augmenter sa production de 60 000 à 150 000 obus fabriqués par an",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-usine-d-armement-basee-dans-le-cher-doit-augmenter-sa-production-de-60-000-a-150-000-obus-fabriques-par-an_8291966.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-20T09:41:48+00:00",
-   "extrait": "C'est une demande émanent de la Direction générale de l'armement. Ces armements, fabriqués près de Bourges, sont notamment envoyés en Ukraine, afin d'y être déployés pour la guerre avec la Russie.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "395245f908d1",
-   "titre": "Young people record their older relatives for The Great Listen",
-   "lien": "https://www.npr.org/2026/11/20/nx-s1-6045879/young-people-record-their-older-relatives-for-the-great-listen",
-   "source": "NPR",
-   "date": "2026-11-20T09:41:31+00:00",
-   "extrait": "Young people sit down to record their elders as part of the annual holiday tradition from StoryCorps called The Great Listen.",
-   "tags": [],
-   "zone": "usa"
   }
  ]
 }
