@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-21T14:05:40+00:00",
+ "maj": "2026-11-21T15:05:43+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,24 +22,107 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "040c95d5f039",
+   "titre": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+   "lien": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-21T14:54:24+00:00",
+   "extrait": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "51037c3d1ddc",
+   "titre": "Trump insists he's \"not rushing to make any decisions on Iran\"",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
+   "source": "CBS News",
+   "date": "2026-11-21T14:51:15+00:00",
+   "extrait": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "45af3b252dfe",
+   "titre": "Mobilisation du 21 novembre : Une quarantaine de rassemblements recensés par le ministère de l'Intérieur en début d'après-midi",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-du-21-novembre-syndicats-et-gilets-jaunes-appellent-a-manifester-pour-la-jeunesse-et-contre-la-vie-chere-pour-le-sixieme-samedi-d-affilee_8293460.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-21T14:44:55+00:00",
+   "extrait": "Ces actions s'inscrivent dans le cadre d'un appel européen de syndicats et associations de défense du droit au logement à des actions coordonnées sur trois jours, de vendredi à dimanche.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "e771a2da5d6b",
+   "titre": "La Finlande soupçonne un hélicoptère russe d'avoir violé son espace aérien",
+   "lien": "https://www.franceinfo.fr/monde/russie/la-finlande-soupconne-un-helicoptere-russe-d-avoir-viole-son-espace-aerien_8293799.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-21T14:37:26+00:00",
+   "extrait": "L'appareil a pénétré jusqu'à 4,1 km à l'intérieur du territoire finlandais, a précisé le ministère de la Défense.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "c5de623d06c5",
+   "titre": "EN DIRECT, guerre en Ukraine : la Finlande soupçonne un hélicoptère russe d’être entré dans son espace aérien, quelques heures après une attaque au drone d’un cargo russe en mer Baltique",
+   "lien": "https://www.lemonde.fr/international/live/2026/11/21/en-direct-guerre-en-ukraine-la-finlande-soupconne-un-helicoptere-russe-d-etre-entre-dans-son-espace-aerien-quelques-heures-apres-une-attaque-de-drone-sur-un-cargo-russe-en-mer-baltique_6810982_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-21T14:35:11+00:00",
+   "extrait": "« Cette violation présumée de l’espace aérien pourrait être liée à des opérations de sauvetage ou de surveillance menées à la suite des dommages subis par un navire cargo dans le golfe de Finlande…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "273702a49fd4",
    "titre": "Violence breaks out in Mexico after capture of drug kingpin wanted by FBI",
    "lien": "https://www.cbsnews.com/news/mexico-drug-kingpin-arrest-fausto-isidro-meza-flores-sinaloa/",
    "source": "CBS News",
-   "date": "2026-11-21T13:56:59+00:00",
+   "date": "2026-11-21T14:24:28+00:00",
    "extrait": "Fausto Isidro Meza-Flores is allegedly the leader of a cartel responsible for drug distribution and importation.",
    "tags": [],
    "zone": "usa"
   },
   {
-   "id": "45af3b252dfe",
-   "titre": "Mobilisation du 21 novembre : 44 rassemblements ont été recensés par le ministère de l'Intérieur sur le territoire national",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-du-21-novembre-syndicats-et-gilets-jaunes-appellent-a-manifester-pour-la-jeunesse-et-contre-la-vie-chere-pour-le-sixieme-samedi-d-affilee_8293460.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-21T13:55:59+00:00",
-   "extrait": "Ces actions s'inscrivent dans le cadre d'un appel européen de syndicats et associations de défense du droit au logement à des actions coordonnées sur trois jours, de vendredi à dimanche.",
-   "tags": [],
+   "id": "d615c59e615c",
+   "titre": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+   "lien": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+   "source": "NPR",
+   "date": "2026-11-21T14:18:17+00:00",
+   "extrait": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.",
+   "tags": [
+    "Conflits",
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "237174d6f3a8",
+   "titre": "Quand Elon Musk alertait sur les dangers de l’IA",
+   "lien": "https://www.lemonde.fr/m-le-mag/article/2026/11/21/quand-elon-musk-alertait-sur-les-dangers-de-l-ia_6814022_4500055.html",
+   "source": "Le Monde",
+   "date": "2026-11-21T14:00:11+00:00",
+   "extrait": "L’entrepreneur de la tech, qui fait l’objet d’un documentaire à charge actuellement en salle aux Etats-Unis, vante aujourd’hui les mérites de l’intelligence artificielle. En 2017 pourtant, il…",
+   "tags": [
+    "Tech"
+   ],
    "zone": "france"
+  },
+  {
+   "id": "f328baf8aab5",
+   "titre": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
+   "lien": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
+   "source": "NPR",
+   "date": "2026-11-21T13:58:33+00:00",
+   "extrait": "Prosecutors argued the defendant, 30-year-old Jonathan Rinderknecht, had been \"mad at everything\" in the days leading up to the January 2025 fire, which killed 12 people.",
+   "tags": [],
+   "zone": "usa"
   },
   {
    "id": "49822e1138f4",
@@ -119,6 +202,43 @@
    "zone": "france"
   },
   {
+   "id": "00ca2ea992d7",
+   "titre": "Le boom des embauches dans le secteur médico-social cache les fragilités de l’économie sociale et solidaire",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/21/le-boom-des-embauches-dans-le-secteur-medico-social-cache-les-fragilites-de-l-economie-sociale-et-solidaire_6814018_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-21T13:00:16+00:00",
+   "extrait": "Sans les créations d’emplois nécessaires pour accompagner le vieillissement de la population et le soin aux personnes âgées, l’ESS aurait perdu des postes sur un an.",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "b626dfad3330",
+   "titre": "Santé mentale : « Une société qui n’écoute pas la souffrance des enfants prépare les difficultés de demain »",
+   "lien": "https://www.lemonde.fr/idees/article/2026/11/21/sante-mentale-une-societe-qui-n-ecoute-pas-la-souffrance-des-enfants-prepare-les-difficultes-de-demain_6814017_3232.html",
+   "source": "Le Monde",
+   "date": "2026-11-21T13:00:11+00:00",
+   "extrait": "La protection des enfants et des adolescents victimes de violences physiques et psychiques doit être une priorité pour quiconque entend gouverner la France, affirment, dans une tribune au « Monde »…",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "75f62fffba90",
+   "titre": "Au Brésil, une nouvelle génération de gauche s’apprête à faire son entrée au Parlement",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/21/au-bresil-une-nouvelle-generation-de-gauche-s-apprete-a-faire-son-entree-au-parlement_6814016_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-21T13:00:09+00:00",
+   "extrait": "Lors des législatives du 4 octobre, les électeurs ont voté pour de jeunes députés progressistes. Alors que le gouvernement de Lula propose des économies budgétaires, ces élus veulent veiller à ce…",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "6d71f3ded058",
    "titre": "Kicker with knee cancer beats the odds to resume pro sports career",
    "lien": "https://www.cbsnews.com/news/henry-nell-knee-cancer-health-story/",
@@ -165,6 +285,16 @@
    "zone": "france"
   },
   {
+   "id": "a475bc1452e8",
+   "titre": "Jusqu'à deux ans de prison ferme et le caractère raciste des violences retenu pour les trois policiers accusés d'avoir roué de coups Michel Zecler",
+   "lien": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/des-condamnations-allant-d-un-an-a-deux-ans-de-prison-ferme-pour-les-trois-policiers-accuses-d-avoir-roue-de-coups-michel-zecler_8292287.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-21T12:49:59+00:00",
+   "extrait": "La cour criminelle de Paris a rendu son verdict très attendu, vendredi soir, face à un public venu en nombre. Elle a finalement retenu la circonstance aggravante de racisme. Les peines vont de un an…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "3f3ec82781fe",
    "titre": "Le Mexique arrête Fausto Isidro Meza, alias « Chapo Isidro », un puissant chef de cartel recherché par le FBI",
    "lien": "https://www.lemonde.fr/international/article/2026/11/21/le-mexique-arrete-fausto-isidro-meza-alias-chapo-isidro-un-puissant-chef-de-cartel-recherche-par-le-fbi_6814013_3210.html",
@@ -207,6 +337,29 @@
    "extrait": "Ce samedi 21 novembre, les manifestations reprennent à travers la France. Notre envoyé spécial Sylvain Rousseau est en direct de la place de la République, point de départ du cortège. \"Il y a un…",
    "tags": [],
    "zone": "monde"
+  },
+  {
+   "id": "a07c9d268291",
+   "titre": "A Genève, la communauté internationale échoue à interdire les robots tueurs",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/21/a-geneve-la-communaute-internationale-echoue-a-interdire-les-robots-tueurs_6814012_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-21T12:36:49+00:00",
+   "extrait": "Alors que la menace des systèmes d’armes létales autonomes, désormais assistées par l’intelligence artificielle, se fait chaque jour plus précise dans les zones de combat, la Russie, les Etats-Unis…",
+   "tags": [
+    "Conflits",
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "6dec8dd1a2e3",
+   "titre": "Un directeur d'école maternelle de Montpellier mis en examen pour viol et agression sexuelle",
+   "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/un-directeur-d-ecole-maternelle-de-montpellier-mis-en-examen-pour-viol-et-agression-sexuelle_8293025.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-21T12:32:30+00:00",
+   "extrait": "L’homme a été placé sous contrôle judiciaire et a interdiction d'exercer une fonction au contact d'enfants.",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "fd3efd63d803",
@@ -956,18 +1109,6 @@
    "zone": "usa"
   },
   {
-   "id": "040c95d5f039",
-   "titre": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-   "lien": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-21T09:52:11+00:00",
-   "extrait": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "monde"
-  },
-  {
    "id": "088f35716d62",
    "titre": "Préfet soupçonné de fuites vers le RN : \"Il doit être mis à pied\", estime la députée écologiste Sandrine Rousseau",
    "lien": "https://www.franceinfo.fr/france/centre-val-de-loire/loiret/prefet-soupconne-de-fuites-vers-le-rn-il-doit-etre-mis-a-pied-estime-la-depute-ecologiste-sandrine-rousseau_8293574.html#xtor=RSS-3-[lestitres]",
@@ -1552,6 +1693,16 @@
    "zone": "monde"
   },
   {
+   "id": "4e8c49940150",
+   "titre": "\"GTA VI\" s’offre un lancement record et surpasse la tournée de Taylor Swift",
+   "lien": "https://www.france24.com/fr/culture/20261121-gta-vi-s-offre-un-lancement-record-mais-agace-une-partie-des-joueurs",
+   "source": "France 24",
+   "date": "2026-11-21T04:12:27+00:00",
+   "extrait": "\"GTA VI\", dernier opus très attendu de la superproduction \"Grand Theft Auto\", a généré 3,79 milliards de dollars de ventes, 3,5 milliards d’euros environ, le jour de sa sortie, a annoncé, vendredi…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
    "id": "b6132ff54210",
    "titre": "48 heures à Szeged, bijou de l’Empire austro-hongrois",
    "lien": "https://www.lemonde.fr/m-styles/article/2026/11/21/48-heures-a-szeged-bijou-de-l-empire-austro-hongrois_6813911_4497319.html",
@@ -1850,16 +2001,6 @@
    "zone": "france"
   },
   {
-   "id": "a475bc1452e8",
-   "titre": "Jusqu'à deux ans de prison ferme et le caractère raciste des violences retenu pour les trois policiers accusés d'avoir roué de coups Michel Zecler",
-   "lien": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/des-condamnations-allant-d-un-an-a-deux-ans-de-prison-ferme-pour-les-trois-policiers-accuses-d-avoir-roue-de-coups-michel-zecler_8292287.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-21T00:26:28+00:00",
-   "extrait": "La cour criminelle de Paris a rendu son verdict très attendu, vendredi soir, face à un public venu en nombre, et a finalement retenu la circonstance aggravante de racisme. Les peines vont de un an…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
    "id": "9933f5a7b8ee",
    "titre": "Seine-Saint-Denis : le policier qui a tué un automobiliste en 2022 condamné à dix-huit mois de prison ferme sans mandat de dépôt",
    "lien": "https://www.lemonde.fr/societe/article/2026/11/21/seine-saint-denis-le-policier-qui-a-tue-un-automobiliste-en-2022-condamne-a-dix-huit-mois-de-prison-ferme-sans-mandat-de-depot_6813778_3224.html",
@@ -1902,19 +2043,6 @@
    "extrait": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
    "tags": [],
    "zone": "monde"
-  },
-  {
-   "id": "51037c3d1ddc",
-   "titre": "Trump insists he's \"not rushing to make any decisions on Iran\"",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
-   "source": "CBS News",
-   "date": "2026-11-21T00:00:42+00:00",
-   "extrait": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
   },
   {
    "id": "f5a8fc4a5593",
@@ -3270,132 +3398,6 @@
     "Justice"
    ],
    "zone": "france"
-  },
-  {
-   "id": "094684dcf093",
-   "titre": "Législatives anticipées en Espagne : Pedro Sánchez en danger ?",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/ici-l-europe/20261120-l%C3%A9gislatives-anticip%C3%A9es-en-espagne-pedro-s%C3%A1nchez-en-danger",
-   "source": "France 24",
-   "date": "2026-11-20T17:00:23+00:00",
-   "extrait": "Le 29 novembre, les regards du Parlement européen se tourneront du côté de l'Espagne, où sont organisées des élections législatives anticipées. Au pouvoir depuis 2018, le Premier ministre socialiste…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "3846d50b376d",
-   "titre": "Présidentielle 2027 : pourquoi un maire sur deux ne souhaite pas parrainer de candidat à l’Elysée",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/20/presidentielle-2027-pourquoi-un-maire-sur-deux-ne-souhaite-pas-parrainer-de-candidat-a-l-elysee_6813675_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-20T17:00:20+00:00",
-   "extrait": "Les édiles représentent 79 % des élus habilités à soutenir un candidat. Une vaste enquête du Cevipof réalisée pour le compte de l’Association des maires de France montre chez eux « une forme de…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c9b109012ee6",
-   "titre": "Un apéro avec le philosophe Gaspard Kœnig : « Allons-nous laisser sur la planète une tache indélébile ? »",
-   "lien": "https://www.lemonde.fr/m-perso/article/2026/11/20/un-apero-avec-le-philosophe-gaspard-k-nig-allons-nous-laisser-sur-la-planete-une-tache-indelebile_6813672_4497916.html",
-   "source": "Le Monde",
-   "date": "2026-11-20T17:00:16+00:00",
-   "extrait": "Chaque semaine, « L’Epoque » paie son coup. Dans « Consonno », son nouveau livre, Gaspard Kœnig interroge les traces que l’humanité laissera sur Terre. Une réflexion qui prolonge son cheminement…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "25b1ed48e11f",
-   "titre": "Chez Accor, le premier actionnaire exige le départ du PDG Sébastien Bazin",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/20/chez-accor-le-premier-actionnaire-exige-le-depart-du-pdg_6813670_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-20T17:00:02+00:00",
-   "extrait": "Le fonds britannique Parvus, qui possède 14,1 % du géant français de l’hôtellerie, réclame l’éviction de Sébastien Bazin, menaçant de demander sa révocation lors de la prochaine assemblée générale.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "656cdb405835",
-   "titre": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
-   "lien": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
-   "source": "NPR",
-   "date": "2026-11-20T17:00:00+00:00",
-   "extrait": "Less than half of Republicans nationwide considered the midterm elections \"free and fair,\" according to new polling.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "780a042e89f4",
-   "titre": "Shenzhen, guerre en Ukraine, data centers : ce qu'il faut retenir de la prise de parole de Trump",
-   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261120-rencontre-trump-poutine-xi-suivez-conf%C3%A9rence-presse-pr%C3%A9sident-am%C3%A9ricain",
-   "source": "France 24",
-   "date": "2026-11-20T16:59:16+00:00",
-   "extrait": "Au lendemain d'un sommet tripartite avec les présidents russe et chinois, Donald Trump a donné, vendredi, peu d'informations sur les discussions entre les trois dirigeants lors d'une conférence de…",
-   "tags": [
-    "Politique",
-    "Conflits",
-    "Tech"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "ca7fd524b852",
-   "titre": "Audacious California train thieves film multimillion-dollar robberies",
-   "lien": "https://www.cbsnews.com/news/california-train-theft-ring-arrests/",
-   "source": "CBS News",
-   "date": "2026-11-20T16:56:52+00:00",
-   "extrait": "The FBI estimated cargo theft losses in the U.S. and Canada reached nearly $725 million in 2025.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "6de1ffc4bb0d",
-   "titre": "Thomas Saunier, patron du poids lourd de l’assurance Malakoff Humanis, démis de ses fonctions",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/20/thomas-saunier-patron-du-poids-lourd-de-l-assurance-malakoff-humanis-demis-de-ses-fonctions_6813668_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-20T16:54:18+00:00",
-   "extrait": "En poste depuis dix ans, Thomas Saunier est visé par une enquête judiciaire ouverte au printemps et avait perdu la confiance des syndicats.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "eac836ae9c1c",
-   "titre": "Colombie : manifestations contre une réforme fiscale voulue par le gouvernement",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261120-colombie-manifestations-contre-une-r%C3%A9forme-fiscale-voulue-par-le-gouvernement",
-   "source": "France 24",
-   "date": "2026-11-20T16:54:15+00:00",
-   "extrait": "Des milliers de personnes ont manifesté jeudi dans plusieurs villes de Colombie contre une réforme fiscale ciblant la classe moyenne, impulsée par le gouvernement de droite dure d'Abelardo de la…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "368cf11eb9c2",
-   "titre": "On vous explique les nouvelles règles de pluralisme que l'Arcom veut appliquer aux influenceurs comme HugoDécrypte ou Guillaume Pley pour la présidentielle",
-   "lien": "https://www.franceinfo.fr/economie/medias/on-vous-presente-les-nouvelles-regles-de-pluralisme-que-l-arcom-veut-appliquer-aux-influenceurs-comme-hugodecrypte-ou-guillaume-pley-pour-la-presidentielle_8292011.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-20T16:48:54+00:00",
-   "extrait": "Le gendarme de l'audiovisuel souhaite que les principaux créateurs de contenus en ligne, comme HugoDécrypte ou Guillaume Pley, respectent des règles de temps de parole et de déontologie durant la…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "0a102e398498",
-   "titre": "Man who plotted to kill Sikh dissident in NYC is sentenced",
-   "lien": "https://www.cbsnews.com/news/plot-assassinate-sikh-dissident-nyc-prison-sentence/",
-   "source": "CBS News",
-   "date": "2026-11-20T16:45:54+00:00",
-   "extrait": "Nikhil Gupta, who pleaded guilty earlier this year to conspiracy to commit murder-for-hire and other charges, was allegedly recruited in 2023 to assassinate Gurpatwant Singh Pannun.",
-   "tags": [],
-   "zone": "usa"
   }
  ]
 }

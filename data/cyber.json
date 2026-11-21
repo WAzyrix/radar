@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-21T14:05:40+00:00",
+ "maj": "2026-11-21T15:05:43+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "efef5bd50b96",
+   "titre": "FBI reportedly hacked again, this time targeting nationwide police database",
+   "lien": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+   "source": "BleepingComputer",
+   "date": "2026-11-21T14:26:04+00:00",
+   "extrait": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between…",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
   {
    "id": "4714af039177",
    "titre": "Cyberattaques : la boîte de Pandora est-elle ouverte avec l’IA ARTEX",
@@ -3361,17 +3372,6 @@
    "tags": [
     "Faille",
     "Fuite de données"
-   ]
-  },
-  {
-   "id": "135be29d2d7e",
-   "titre": "Modern Web Guidance - Votre agent IA va enfin goûter au code web moderne",
-   "lien": "https://korben.info/modern-web-guidance-agents-web.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-11-12T08:00:00+00:00",
-   "extrait": "Modern Web Guidance glisse dans votre agent de code des guides sur les fonctionnalités natives du navigateur. Installation, scan, télémétrie et limites.",
-   "tags": [
-    "IA"
    ]
   }
  ]
