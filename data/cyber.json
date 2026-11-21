@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-21T20:05:38+00:00",
+ "maj": "2026-11-21T21:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,15 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "b8d569223a69",
+   "titre": "Apple - Londres ne peut plus cacher son injonction sur iCloud",
+   "lien": "https://korben.info/apple-porte-derobee-icloud-royaume-uni.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-21T19:40:41+00:00",
+   "extrait": "Le tribunal britannique des pouvoirs d'enquête confirme que le Home Office a remis à Apple une injonction technique, secret que même le chatbot de Google connaissait. Son contenu reste caché, la…",
+   "tags": []
+  },
   {
    "id": "d0f7084cd9be",
    "titre": "Windows NT 4.0 sur un Raspberry Pi, c'est inutile donc indispensable",
@@ -3357,17 +3366,6 @@
    "tags": [
     "Faille",
     "Windows"
-   ]
-  },
-  {
-   "id": "f7cf57082e20",
-   "titre": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
-   "lien": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
-   "source": "The Hacker News",
-   "date": "2026-11-12T11:51:31+00:00",
-   "extrait": "Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Every check defenders normally lean on to judge a link came back clean, and the operator…",
-   "tags": [
-    "Malware"
    ]
   }
  ]

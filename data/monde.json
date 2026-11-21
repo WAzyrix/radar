@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-21T20:05:38+00:00",
+ "maj": "2026-11-21T21:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,103 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "48f549e40ad0",
+   "titre": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+   "lien": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-21T21:05:29+00:00",
+   "extrait": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "4411aba23093",
+   "titre": "Bayer reaches Roundup settlement that could cost the company billions",
+   "lien": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
+   "source": "NPR",
+   "date": "2026-11-21T20:37:35+00:00",
+   "extrait": "The money will go to thousands of people who have been or will be diagnosed with non-Hodgkin lymphoma – a blood cancer linked to the herbicide.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "51037c3d1ddc",
+   "titre": "Trump says he wants \"permanent\" deal with Iran",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
+   "source": "CBS News",
+   "date": "2026-11-21T20:30:00+00:00",
+   "extrait": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "744007828099",
+   "titre": "Israël : Gadi Eisenkot invite le parti de Benjamin Netanyahu à des négociations de coalition",
+   "lien": "https://www.france24.com/fr/moyen-orient/20261121-isra%C3%ABl-gadi-eisenkot-invite-le-parti-de-benjamin-netanyahu-%C3%A0-des-n%C3%A9gociations-de-coalition",
+   "source": "France 24",
+   "date": "2026-11-21T20:29:02+00:00",
+   "extrait": "Le centriste Gadi Eisenkot, chargé de former le prochain gouvernement israélien, a invité le parti du premier ministre sortant, Benyamin Netanyahu à des pourparlers en vue d’une éventuelle…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "1e9791527310",
+   "titre": "Après l'abandon de François Ruffin, le candidat communiste à l'élection présidentielle Fabien Roussel pointe des \"convergences nombreuses\" avec lui",
+   "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-eric-zemmour-lance-sa-campagne-pour-l-election-presidentielle-avec-un-meeting-a-toulon_8293517.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-21T20:16:18+00:00",
+   "extrait": "Quant au socialiste Pierre Jouvet, chargé du pôle communication de la campagne de Raphaël Glucksmann, il a souligné que les \"batailles\" du Picard pour \"la dignité du travail, la réindustrialisation…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "45af3b252dfe",
+   "titre": "Mobilisation du 21 novembre : le ministère de l'Intérieur annonce 144 interpellations en France, selon un bilan provisoire à 18 heures",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-du-21-novembre-syndicats-et-gilets-jaunes-appellent-a-manifester-pour-la-jeunesse-et-contre-la-vie-chere-pour-le-sixieme-samedi-d-affilee_8293460.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-21T20:01:04+00:00",
+   "extrait": "Cette journée de mobilisation s'est inscrite dans le cadre d'un appel européen de syndicats et associations de défense du droit au logement à des actions coordonnées sur trois jours, de vendredi à…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "a7341ffc3e33",
+   "titre": "Israël : Gadi Eisenkot invite le parti de Benyamin Nétanyahou à des négociations de coalition",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/21/israel-gadi-eisenkot-invite-le-parti-de-benyamin-netanyahou-a-des-negociations-de-coalition_6814066_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-21T20:00:09+00:00",
+   "extrait": "M. Eisenkot a jusqu’au mois prochain pour former un gouvernement, à la suite des législatives de la fin d’octobre, qui n’ont dégagé aucune majorité absolue, ni pour son camp ni pour celui du premier…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "d601139131ab",
+   "titre": "L'ex-président brésilien Jair Bolsonaro en soins intensifs pour une occlusion intestinale",
+   "lien": "https://www.franceinfo.fr/monde/bresil/l-ex-president-bresilien-jair-bolsonaro-en-soins-intensifs-pour-une-occlusion-intestinale_8294123.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-21T19:59:23+00:00",
+   "extrait": "L'ancien dirigeant souffre de séquelles d'un coup de couteau au ventre reçu pendant la campagne électorale de 2018 et a été opéré à plusieurs reprises.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "273702a49fd4",
    "titre": "Violence breaks out in Mexico after capture of drug kingpin wanted by FBI",
    "lien": "https://www.cbsnews.com/news/mexico-drug-kingpin-arrest-fausto-isidro-meza-flores-sinaloa/",
@@ -32,12 +129,22 @@
    "zone": "usa"
   },
   {
-   "id": "45af3b252dfe",
-   "titre": "Mobilisation du 21 novembre : le ministère de l'Intérieur annonce 144 interpellations en France, selon un bilan provisoire à 18 heures",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-du-21-novembre-syndicats-et-gilets-jaunes-appellent-a-manifester-pour-la-jeunesse-et-contre-la-vie-chere-pour-le-sixieme-samedi-d-affilee_8293460.html#xtor=RSS-3-[lestitres]",
+   "id": "5e9217965111",
+   "titre": "Comment les malfaiteurs s'attaquent-ils aux distributeurs de billets ?",
+   "lien": "https://www.franceinfo.fr/faits-divers/comment-les-malfaiteurs-s-attaquent-ils-aux-distributeurs-de-billets_8294111.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-11-21T19:38:25+00:00",
-   "extrait": "Cette journée de mobilisation s'est inscrite dans le cadre d'un appel européen de syndicats et associations de défense du droit au logement à des actions coordonnées sur trois jours, de vendredi à…",
+   "date": "2026-11-21T19:40:26+00:00",
+   "extrait": "Les distributeurs de billets sont-ils trop facilement attaquables ? Dans la nuit de jeudi à vendredi dans la Drôme et l'Ardèche, deux d’entre eux ont été ciblés à une heure d’intervalle. Selon les…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "758186884e8d",
+   "titre": "Nouvel exploit des Français Théo Arribagé et Albano Olivetti qualifiés pour la finale du Masters de Turin",
+   "lien": "https://www.franceinfo.fr/sports/tennis/masters/nouvel-exploit-des-francais-theo-arribage-et-albano-olivetti-qualifies-pour-la-finale-du-masters-de-turin_8294081.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-21T19:38:58+00:00",
+   "extrait": "Le duo tricolore s'est imposé contre le tandem allemand Kevin Krawietz-Tim Puetz en demi-finales du \"tournoi des maîtres\", samedi, un nouvel exploit dans ce tournoi pour Arribagé et Olivetti.",
    "tags": [],
    "zone": "france"
   },
@@ -52,6 +159,18 @@
     "Climat"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "dab4d7d66d58",
+   "titre": "Cargo échoué dans les Landes : la météo capricieuse perturbe le remorquage du navire",
+   "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/cargo-echoue-dans-les-landes-la-meteo-capricieuse-perturbe-le-remorquage-du-navire_8294096.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-21T19:30:47+00:00",
+   "extrait": "Le cargo de 169 mètres contenant une centaine de tonnes de gazole s'est déplacé de quelques mètres, samedi 21 novembre. Un changement de position en raison de la marée pour le navire échoué sur la…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
   },
   {
    "id": "fd1a088e3c0a",
@@ -141,6 +260,19 @@
    "zone": "france"
   },
   {
+   "id": "8bc565a2398f",
+   "titre": "Une enquête ouverte contre des policiers pour violences et agression sexuelle en marge de la manifestation parisienne du 31 octobre",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/une-enquete-ouverte-contre-des-policiers-pour-violences-et-agression-sexuelle-en-marge-de-la-manifestation-parisienne-du-31-octobre_8293754.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-21T18:34:53+00:00",
+   "extrait": "Les deux manifestants sont par ailleurs accusés d'avoir chacun frappé un policier, ce qu'ils contestent.",
+   "tags": [
+    "Conflits",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "2fb7975d7926",
    "titre": "Trump signs executive order on federal workers' responses to Congress",
    "lien": "https://www.cbsnews.com/news/trump-executive-order-federal-contractors-white-house-congress/",
@@ -198,7 +330,7 @@
   },
   {
    "id": "f94dbd0c37a8",
-   "titre": "EN DIRECT, France-Argentine : le XV de France doit s’imposer avec le bonus pour se hisser en finale du Championnat des nations",
+   "titre": "EN DIRECT, France-Argentine : Peato Mauvaka remet le XV de France devant",
    "lien": "https://www.lemonde.fr/sport/live/2026/11/21/en-direct-france-argentine-suivez-le-match-du-championnat-des-nations-de-rugby_6814058_3242.html",
    "source": "Le Monde",
    "date": "2026-11-21T18:10:04+00:00",
@@ -244,17 +376,14 @@
    "zone": "france"
   },
   {
-   "id": "51037c3d1ddc",
-   "titre": "Trump says he wants \"permanent\" deal with Iran",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
-   "source": "CBS News",
-   "date": "2026-11-21T18:00:17+00:00",
-   "extrait": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
+   "id": "ff92fcc7bb42",
+   "titre": "Avec le lyrique « L’Enclos des esclaves », la romancière Najwa Bin Shatwan ravive Benghazi, en Libye, au tournant du XXᵉ siècle",
+   "lien": "https://www.lemonde.fr/livres/article/2026/11/21/avec-le-lyrique-l-enclos-des-esclaves-la-romanciere-najwa-bin-shatwan-ravive-benghazi-en-libye-au-tournant-du-xx-siecle_6814055_3260.html",
+   "source": "Le Monde",
+   "date": "2026-11-21T18:00:02+00:00",
+   "extrait": "Ce beau roman de l’écrivaine libyenne revient sur la question douloureuse de l’esclavage en Libye aux XIXᵉ et XXᵉsiècle, en suivant une fille d’esclave en quête de ses origines.",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "1d629bc7f9ad",
@@ -290,16 +419,6 @@
    "extrait": "Jane Pauley hosts our annual \"Eat, Drink & Be Merry\" holiday broadcast exploring all things epicurean! Check out our menu...",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "1e9791527310",
-   "titre": "Présidentielle 2027 : les équipes de Gabriel Attal, Bruno Retailleau et David Lisnard se réuniront jeudi pour évoquer la primaire de la droite et du centre",
-   "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-eric-zemmour-lance-sa-campagne-pour-l-election-presidentielle-avec-un-meeting-a-toulon_8293517.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-21T17:46:23+00:00",
-   "extrait": "Les directeurs de campagne des trois candidats poursuivront les discussions sur les modalités techniques de ce scrutin, a appris franceinfo auprès de l’entourage de Gabriel Attal, confirmant une…",
-   "tags": [],
-   "zone": "france"
   },
   {
    "id": "ba1493f0d85e",
@@ -1000,18 +1119,6 @@
    "tags": [
     "Politique",
     "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "48f549e40ad0",
-   "titre": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-   "lien": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-21T13:15:21+00:00",
-   "extrait": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-   "tags": [
-    "Justice"
    ],
    "zone": "monde"
   },
@@ -2425,6 +2532,16 @@
    "zone": "france"
   },
   {
+   "id": "33b548230068",
+   "titre": "« Nous sommes face à de nouvelles socialisations politiques » : les mobilisations en France, en Italie et en Allemagne vues par les philosophes Michaël Fœssel et Martin Rueff",
+   "lien": "https://www.lemonde.fr/idees/article/2026/11/21/nous-sommes-face-a-de-nouvelles-socialisations-politiques-les-mobilisations-en-france-en-italie-et-en-allemagne-vues-par-les-philosophes-michael-f-ssel-et-martin-rueff_6813919_3232.html",
+   "source": "Le Monde",
+   "date": "2026-11-21T05:00:06+00:00",
+   "extrait": "Le spécialiste de la philosophie allemande et le connaisseur de la pensée italienne reviennent, dans un entretien au « Monde », sur l’articulation entre les dimensions politique, sociale et…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "6fc7a330af8c",
    "titre": "Mobilisation lycéenne : les preuves des accusations de « complicités » de violences portées par Matignon à l’encontre d’enseignants restent introuvables",
    "lien": "https://www.lemonde.fr/societe/article/2026/11/21/mobilisation-lyceenne-les-introuvables-complicites-de-violences-parmi-les-enseignants-denoncees-par-matignon_6813920_3224.html",
@@ -3271,120 +3388,6 @@
    "extrait": "Le 7 novembre, un individu masqué était entré dans un salon de coiffure d'Evry-Courcouronnes (Essonne) où se trouvait l'élue. Elle avait été légèrement blessée.",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "95c5a75911d8",
-   "titre": "Procès Zecler : les trois policiers condamnés à des peines de un à deux ans de prison ferme",
-   "lien": "https://www.france24.com/fr/france/20261120-proc%C3%A8s-zecler-les-trois-policiers-condamn%C3%A9s-%C3%A0-des-peines-de-un-%C3%A0-deux-ans-de-prison-ferme",
-   "source": "France 24",
-   "date": "2026-11-20T21:54:13+00:00",
-   "extrait": "Les trois policiers ayant passé à tabac le producteur de musique noir Michel Zecler en 2020 ont été condamnés à des peines de un à deux ans de prison ferme. L'accusation avait de son côté requis…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "7f0bff452788",
-   "titre": "What the new UK-EU deal could mean for future post-Brexit relations",
-   "lien": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-20T21:43:22+00:00",
-   "extrait": "The BBC's political and Europe editors analyse the new agreements between the UK and EU.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "df081a5aa78d",
-   "titre": "Guinée/Burkina Faso: tensions après la diffusion de caricatures de M. Doumbouya",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261120-guin%C3%A9e-burkina-faso-tensions-apr%C3%A8s-la-diffusion-de-caricatures-de-m-doumbouya",
-   "source": "France 24",
-   "date": "2026-11-20T21:40:25+00:00",
-   "extrait": "Les tensions montent entre la Guinée et le Burkina Faso. Conakry vient de couper le signal de la RTB, la télévision publique burkinabè. En cause : un éditorial critique, avec une caricature du…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "2678bd229cae",
-   "titre": "Americans need help affording homes. Can Congress deliver?",
-   "lien": "https://www.cbsnews.com/news/congress-housing-affordability-first-time-homebuyers/",
-   "source": "CBS News",
-   "date": "2026-11-20T21:38:42+00:00",
-   "extrait": "Lawmakers may face more pressure in 2027 to focus on bipartisan housing proposals that would lower the cost of buying a home.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "2b46772c5167",
-   "titre": "The latest from Trump's press conference",
-   "lien": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
-   "source": "NPR",
-   "date": "2026-11-20T21:38:21+00:00",
-   "extrait": "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "09b641e4fe40",
-   "titre": "Rising seas have forced this Quinault village to relocate",
-   "lien": "https://www.npr.org/2026/11/20/nx-s1-6046485/rising-seas-have-forced-this-quinault-village-to-relocate",
-   "source": "NPR",
-   "date": "2026-11-20T21:38:13+00:00",
-   "extrait": "The Quinault Indian Nation has moved its largest village away from rising seas and tsunamis",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "fbc06fcfb2ac",
-   "titre": "Trump's impact on an Ohio steel plant",
-   "lien": "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant",
-   "source": "NPR",
-   "date": "2026-11-20T21:38:11+00:00",
-   "extrait": "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal. The switch would have cut hazardous air pollution -- and greenhouse gas emissions. But that…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "d3bb9ee053c0",
-   "titre": "MLK's handwritten draft of iconic speech on display for the first time",
-   "lien": "https://www.npr.org/2026/11/20/nx-s1-6039337/mlk-i-have-a-dream-speech-draft-public-display",
-   "source": "NPR",
-   "date": "2026-11-20T21:38:05+00:00",
-   "extrait": "The only known handwritten draft of The Reverend Martin Luther King Jr.'s 'I Have a Dream' speech is on display in his hometown. The iconic phrase, however, never made it on the page.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "96576fd3c7b4",
-   "titre": "Députés et sénateurs parviennent à un accord sur le projet de budget de \"fin de gestion\" pour 2026, avant une possible adoption définitive mardi",
-   "lien": "https://www.franceinfo.fr/economie/budget/deputes-et-senateurs-parviennent-a-un-accord-sur-le-projet-de-budget-de-fin-de-gestion-pour-2026-avant-une-possible-adoption-definitive-mardi_8292914.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-20T21:35:30+00:00",
-   "extrait": "Le texte, qui procède aux derniers ajustements budgétaires de l'année en cours, a fait l'objet d'un accord en commission mixte paritaire.",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "8cf1f9647175",
-   "titre": "Valise nucléaire de Poutine : la mise en scène calculée du Kremlin",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261120-valise-nucl%C3%A9aire-de-poutine-la-mise-en-sc%C3%A8ne-calcul%C3%A9e-du-kremlin",
-   "source": "France 24",
-   "date": "2026-11-20T21:31:51+00:00",
-   "extrait": "Une vidéo largement relayée ces deux derniers jours montre l’aide de camp de Vladimir Poutine porter la valise nucléaire en marge de la rencontre trilatérale en Chine. Une séquence authentique mise…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
   }
  ]
 }
