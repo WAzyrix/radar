@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-21T07:05:40+00:00",
+ "maj": "2026-11-21T07:43:58+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,86 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "151d1a0c71b7",
+   "titre": "États-Unis : le ministère de l'Agriculture et le FBI victimes de piratages informatiques",
+   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261121-%C3%A9tats-unis-le-minist%C3%A8re-de-l-agriculture-et-le-fbi-victimes-de-piratages-informatiques",
+   "source": "France 24",
+   "date": "2026-11-21T07:31:14+00:00",
+   "extrait": "Quelques jours après des pannes technologiques dans des secteurs stratégiques du pays, le ministère de l'Agriculture et la police fédérale (FBI) des États-Unis ont été victimes de piratages…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "040c95d5f039",
+   "titre": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+   "lien": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-21T07:31:05+00:00",
+   "extrait": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "45af3b252dfe",
+   "titre": "Mobilisation du 21 novembre : syndicats et gilets jaunes appellent à manifester pour la jeunesse et contre la vie chère, pour le sixième samedi d'affilée",
+   "lien": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-du-21-novembre-syndicats-et-gilets-jaunes-appellent-a-manifester-pour-la-jeunesse-et-contre-la-vie-chere-pour-le-sixieme-samedi-d-affilee_8293460.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-21T07:26:21+00:00",
+   "extrait": "Ces rassemblements s'inscrivent dans le cadre d'un appel européen de syndicats et associations de défense du droit au logement à des actions coordonnées sur trois jours, de vendredi à dimanche.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "633d3b37de6e",
+   "titre": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+   "lien": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-21T07:24:45+00:00",
+   "extrait": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "140d0e20b4d9",
+   "titre": "Pyrénées-Atlantiques : le mari de Laure Zacchello, disparue depuis deux ans, est désormais mis en examen pour assassinat",
+   "lien": "https://www.franceinfo.fr/faits-divers/pyrenees-atlantiques-le-mari-de-laure-zacchello-disparue-depuis-deux-ans-est-desormais-mis-en-examen-pour-assassinat_8293466.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-21T07:09:56+00:00",
+   "extrait": "Le mari de Laure Zacchello, disparue depuis deux ans, est désormais mis en examen pour assassinat, et non plus pour meurtre sur conjoint.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "5220d22e09be",
+   "titre": "Présomption d’usage légal des armes par les forces de l’ordre : \"Ce n'est en aucun cas un permis de tuer\", estime le syndicat Unsa Police",
+   "lien": "https://www.franceinfo.fr/faits-divers/police/presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre-ce-n-est-en-aucun-cas-un-permis-de-tuer-estime-le-syndicat-unsa-police_8293457.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-21T07:03:27+00:00",
+   "extrait": "\"Ce n'est en aucun cas un permis de tuer\", explique ce samedi sur franceinfo, Rudy Manna, délégué national du syndicat Unsa Police au sujet de la présomption d’usage légal des armes par les forces…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "745226ef884c",
+   "titre": "Inondations dans le Pas-de-Calais : la Canche reste en vigilance orange ; près de 800 évacuations depuis jeudi, selon la préfecture",
+   "lien": "https://www.lemonde.fr/planete/article/2026/11/21/inondations-dans-le-pas-de-calais-la-canche-reste-en-vigilance-orange-pres-de-800-evacuations-depuis-jeudi-selon-la-prefecture_6813953_3244.html",
+   "source": "Le Monde",
+   "date": "2026-11-21T07:01:55+00:00",
+   "extrait": "Du côté de la Normandie, Vigicrues a prévenu samedi que la Vire, qui traverse le Calvados et la Manche, atteindrait « les seuils de premiers débordements » dans la matinée, et l’a placée en…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
   {
    "id": "fbe7ea018f45",
    "titre": "Le Pas-de-Calais maintenu en vigilance orange aux crues samedi, la Canche a atteint son maximum",
@@ -175,24 +255,22 @@
    "zone": "france"
   },
   {
-   "id": "633d3b37de6e",
-   "titre": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-   "lien": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-21T05:15:41+00:00",
-   "extrait": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
    "id": "3504ff91fd50",
    "titre": "Que faire, que voir, où aller ? L’agenda culturel et lifestyle à partir du 21 novembre",
    "lien": "https://www.lemonde.fr/m-styles/article/2026/11/21/que-faire-que-voir-ou-aller-l-agenda-culturel-et-lifestyle-a-partir-du-21-novembre_6813922_4497319.html",
    "source": "Le Monde",
    "date": "2026-11-21T05:00:22+00:00",
    "extrait": "Chaque samedi, « Le Goût du Monde » vous propose sa sélection de rendez-vous et d’adresses, à Paris et partout en France. Cette semaine, à Paris, l’humour contre le racisme avec l’exposition photo «…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "0ece2ac3e5d4",
+   "titre": "Quelles précautions prendre quand on prête une somme d’argent à un proche ?",
+   "lien": "https://www.lemonde.fr/argent/article/2026/11/21/quelles-precautions-prendre-quand-on-prete-une-somme-d-argent-a-un-proche_6813921_1657007.html",
+   "source": "Le Monde",
+   "date": "2026-11-21T05:00:21+00:00",
+   "extrait": "Il est prudent d’établir un contrat, explique Stéphane Jacquin, responsable de l’ingénierie patrimoniale chez Lazard Frères Gestion.",
    "tags": [],
    "zone": "france"
   },
@@ -269,7 +347,7 @@
    "lien": "https://www.lemonde.fr/sport/article/2026/11/21/la-formule-1-va-renouer-avec-les-moteurs-v8-a-partir-de-2030-pour-retrouver-son-adn_6813877_3242.html",
    "source": "Le Monde",
    "date": "2026-11-21T02:39:09+00:00",
-   "extrait": "Le retour du V8, avec « une hybridation limitée », est plébiscité par les pilotes. Le spectacle devrait davantage s’appuyer sur leurs talents purs de pilotage que la gestion de la batterie, comme…",
+   "extrait": "Le retour du V8, avec « une hybridation limitée », est plébiscité par les pilotes. Le spectacle devrait davantage s’appuyer sur leurs talents purs de pilotage que sur la gestion de la batterie…",
    "tags": [],
    "zone": "france"
   },
@@ -3364,85 +3442,6 @@
     "Justice"
    ],
    "zone": "france"
-  },
-  {
-   "id": "8e544d08ae6a",
-   "titre": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
-   "lien": "https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain",
-   "source": "NPR",
-   "date": "2026-11-20T12:24:40+00:00",
-   "extrait": "The same day Dennes was given lethal injection, Florida carried out a record-breaking 20th execution of the year.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "b3ba542a3f2c",
-   "titre": "Garde à vue de mineurs : les parents doivent être informés d’une prolongation, selon le Conseil constitutionnel",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/20/garde-a-vue-de-mineurs-les-parents-doivent-etre-informes-d-une-prolongation-selon-le-conseil-constitutionnel_6813634_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-20T12:22:20+00:00",
-   "extrait": "Dans l’attente du vote par le Parlement d’une nouvelle loi, le Conseil impose une règle temporaire d’application : les officiers de police judiciaire devront désormais informer les représentants…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "44dde5586af0",
-   "titre": "Une revanche à prendre : la France affrontera l'Espagne en quarts de finale de la Ligue des nations",
-   "lien": "https://www.france24.com/fr/sports/20261120-revanche-%C3%A0-prendre-france-affrontera-espagne-quarts-de-finale-ligue-des-nations",
-   "source": "France 24",
-   "date": "2026-11-20T12:12:29+00:00",
-   "extrait": "L'équipe de France retrouvera les champions du monde en titre en quarts de finale de Ligue des nations. Le tirage au sort effectué vendredi à Nyon, en Suisse, a placé l'Espagne sur le chemin des…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "b701d46fc2b7",
-   "titre": "Qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ?",
-   "lien": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-20T12:07:24+00:00",
-   "extrait": "Découvrez la liste actualisée de tous les candidats et candidates lancés dans la course à l'Elysée, classés par couleur politique.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c22f825dc865",
-   "titre": "Pas d'exploit mais des promesses : que retenir de la première participation du Français Arthur Fils aux Masters de tennis ?",
-   "lien": "https://www.franceinfo.fr/sports/tennis/masters/pas-d-exploit-mais-des-promesses-que-retenir-du-masters-de-turin-d-arthur-fils_8292164.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-20T12:05:49+00:00",
-   "extrait": "Le Français n'est pas parvenu à se hisser en demi-finales, à la suite de sa deuxième défaite dans l'épreuve, jeudi contre le numéro 1 mondial Alexander Zverev.",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "3ccfe534df5c",
-   "titre": "Intervention empêchée par la houle, 19 marins hélitreuillés, risque de chavirement... Ce que l'on sait du cargo de 169 mètres échoué dans les Landes",
-   "lien": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/landes/mont-de-marsan/intervention-empechee-par-la-houle-19-marins-helitreuilles-risque-de-chavirement-ce-que-l-on-sait-du-cargo-de-169-metres-echoue-dans-les-landes-3453030.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-20T12:05:15+00:00",
-   "extrait": "Un cargo vraquier battant pavillon maltais s'est échoué au large de la plage de Lit-et-Mixe dans les Landes, ce vendredi 20 novembre 2026. Des appareils de remorquage et experts sont en route depuis…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "e0f0747d751b",
-   "titre": "Amazonie : une partie du peuple Awa sort de l’isolement et cela inquiète les associations",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261120-amazonie-une-partie-du-peuple-awa-sort-de-l-isolement-et-cela-inqui%C3%A8te-les-associations",
-   "source": "France 24",
-   "date": "2026-11-20T12:04:59+00:00",
-   "extrait": "Membres du peuple Awa, ces autochtones volontairement coupés du monde ont atteint, lundi 16 novembre, un village et un poste du gouvernement dans la réserve autochtone Arariboia, au Brésil. Le…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
   }
  ]
 }
