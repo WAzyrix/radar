@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-21T09:05:43+00:00",
+ "maj": "2026-11-21T10:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,31 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "9da47b8efcbb",
+   "titre": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+   "lien": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+   "source": "The Hacker News",
+   "date": "2026-11-21T08:49:20+00:00",
+   "extrait": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection…",
+   "tags": [
+    "IA",
+    "Mobile"
+   ]
+  },
+  {
+   "id": "a3eac34b29cf",
+   "titre": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+   "lien": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+   "source": "The Hacker News",
+   "date": "2026-11-21T08:49:13+00:00",
+   "extrait": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known…",
+   "tags": [
+    "CVE",
+    "Faille",
+    "Fuite de données"
+   ]
+  },
   {
    "id": "6c623452a14a",
    "titre": "Bell Canada says 'agentic' hacker stole enterprise customer data",
@@ -3347,29 +3372,6 @@
    "date": "2026-11-12T00:00:00+00:00",
    "extrait": "Face à l’intensification des attaques cybercriminelles liées à des violations de données affectant les services de l’État, le Premier ministre a demandé le 1er septembre 2026 à l’Agence nationale de…",
    "tags": []
-  },
-  {
-   "id": "7b14d8e45eb0",
-   "titre": "Vulnérabilité dans Sonicwall SonicOS (12 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1507/",
-   "source": "CERT-FR",
-   "date": "2026-11-12T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans Sonicwall SonicOS. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "65154f382ba6",
-   "titre": "Vulnérabilité dans NetApp ONTAP tools pour VMware vSphere 10 (12 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1518/",
-   "source": "CERT-FR",
-   "date": "2026-11-12T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans NetApp ONTAP tools pour VMware vSphere 10. Elle permet à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.",
-   "tags": [
-    "Faille",
-    "Outil"
-   ]
   }
  ]
 }
