@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-21T22:05:40+00:00",
+ "maj": "2026-11-21T23:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "9f2af01a2aa9",
+   "titre": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+   "lien": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+   "source": "BleepingComputer",
+   "date": "2026-11-21T22:59:58+00:00",
+   "extrait": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in…",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
   {
    "id": "b8d569223a69",
    "titre": "Apple - Londres ne peut plus cacher son injonction sur iCloud",
@@ -3354,18 +3365,6 @@
     "Faille",
     "Fuite de données",
     "Linux"
-   ]
-  },
-  {
-   "id": "4fb3f4a554eb",
-   "titre": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
-   "lien": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
-   "source": "The Hacker News",
-   "date": "2026-11-12T11:51:43+00:00",
-   "extrait": "N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2. \"Based on our…",
-   "tags": [
-    "Faille",
-    "Windows"
    ]
   }
  ]
