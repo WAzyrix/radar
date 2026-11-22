@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-22T18:05:41+00:00",
+ "maj": "2026-11-22T19:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,19 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "e84afceb005f",
+   "titre": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+   "lien": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+   "source": "BleepingComputer",
+   "date": "2026-11-22T18:45:37+00:00",
+   "extrait": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users…",
+   "tags": [
+    "Faille",
+    "Fuite de données",
+    "Malware"
+   ]
+  },
   {
    "id": "855a50efe0f3",
    "titre": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
@@ -3348,19 +3361,6 @@
    "extrait": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations. [...]",
    "tags": [
     "Malware"
-   ]
-  },
-  {
-   "id": "28ab9a11f837",
-   "titre": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
-   "lien": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
-   "source": "BleepingComputer",
-   "date": "2026-11-12T15:00:10+00:00",
-   "extrait": "Endpoint management platforms can become powerful attack tools when compromised, allowing hackers to deploy malware, execute commands, and disrupt thousands of devices. Action1 explains how…",
-   "tags": [
-    "Fuite de données",
-    "Malware",
-    "Outil"
    ]
   }
  ]
