@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-22T06:05:39+00:00",
+ "maj": "2026-11-22T07:05:38+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,84 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "0ba1f946ec68",
+   "titre": "New draft deal aims to avert collapse of talks at climate summit",
+   "lien": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-22T06:54:06+00:00",
+   "extrait": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "a8cbeebb9a8a",
+   "titre": "Après le Jura, le département de l'Ain à son tour placé en vigilance orange pluie-inondations, le Pas-de-Calais maintenu en alerte orange aux crues",
+   "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/apres-le-jura-le-departement-de-l-ain-a-son-tour-place-en-vigilance-orange-pluie-inondations-le-pas-de-calais-maintenu-en-alerte-orange-aux-crues_8294486.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-22T06:28:43+00:00",
+   "extrait": "\"Une nouvelle perturbation traverse le pays avec un blocage des pluies sur les massifs de l'Est\", précise Météo-France dimanche.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "ee7d4ed31f7b",
+   "titre": "Climat : accord incertain à la COP31, des pays dénoncent l'absence de sortie des énergies fossiles",
+   "lien": "https://www.france24.com/fr/asie-pacifique/20261122-climat-accord-incertain-%C3%A0-la-cop31-des-pays-d%C3%A9noncent-l-absence-de-sortie-des-%C3%A9nergies-fossiles",
+   "source": "France 24",
+   "date": "2026-11-22T06:17:57+00:00",
+   "extrait": "Alors que la COP 31 sur le climat en Turquie entre dans sa phase finale dimanche, la signature d'un accord demeure incertaine. Des pays dénoncent l'absence de mention de la sortie des énergies…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "5d04db08e044",
+   "titre": "Entre contraintes budgétaires et envie de \"faire durer\" les fêtes, pourquoi Noël déboule de plus en plus tôt",
+   "lien": "https://www.franceinfo.fr/decouverte/noel/entre-contraintes-budgetaires-et-envie-de-faire-durer-les-fetes-pourquoi-noel-deboule-de-plus-en-plus-tot_8288288.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-22T06:15:54+00:00",
+   "extrait": "Difficile de passer un mois de novembre sans entendre parler de Noël. Comme les stratégies des entreprises, les pratiques des Français avancent progressivement la période commerciale de cette…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "e3fce8f14989",
+   "titre": "\"Au début, on ne sait pas ce qu'est ce virus\" : l'affaire du sang contaminé ou la lente prise de conscience de la dangerosité du sida",
+   "lien": "https://www.franceinfo.fr/sante/sida/video-au-debut-on-ne-sait-pas-ce-qu-est-ce-virus-l-affaire-du-sang-contamine-ou-la-lente-prise-de-conscience-de-la-dangerosite-du-sida_8270939.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-22T06:15:27+00:00",
+   "extrait": "\"La Tragédie du sang contaminé\", série documentaire en trois volets, diffusée dimanche soir sur France 5, nous replonge dans la douloureuse affaire du sang contaminé. Des milliers de personnes ont…",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "87321b68fdef",
+   "titre": "Dozens missing after fire at Indonesian factory",
+   "lien": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-22T06:05:00+00:00",
+   "extrait": "At least three people were killed and four injured in a fire at a confectionary factory over the weekend.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "6fdc47ace2d6",
+   "titre": "« Le poids des défaites passées dissuade les alliés de l’Arabie saoudite de s’engager au Yémen »",
+   "lien": "https://www.lemonde.fr/un-si-proche-orient/article/2026/11/22/le-poids-des-defaites-passees-dissuade-les-allies-de-l-arabie-saoudite-de-s-engager-au-yemen_6814191_6116995.html",
+   "source": "Le Monde",
+   "date": "2026-11-22T06:00:01+00:00",
+   "extrait": "Le royaume saoudien peine à mobiliser la Turquie et l’Egypte, voire la Syrie, contre les houthistes. « Revenir sur l’histoire multiséculaire permet de sortir de la myopie stratégique qui ferait des…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "830628c2eaf4",
    "titre": "En direct : la Finlande dénonce une attaque de drone ukrainien contre un cargo russe en mer Baltique",
    "lien": "https://www.france24.com/fr/europe/20261122-en-direct-la-finlande-d%C3%A9nonce-une-attaque-de-drone-ukrainien-contre-un-cargo-russe-en-mer-baltique",
@@ -35,29 +113,30 @@
    "zone": "monde"
   },
   {
+   "id": "da85b59c92c3",
+   "titre": "Scandale de triche à l’IA en Corée du Sud : sous pression, le ministre de l’éducation démissionne",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/22/scandale-de-triche-a-l-ia-en-coree-du-sud-sous-pression-le-ministre-de-l-education-demissionne_6814190_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-22T05:55:03+00:00",
+   "extrait": "Quelques jours avant le Suneung, examen décisif pour les lycéens qui conditionne l’accès à l’université, les révélations sur la tricherie d’un candidat à un concours des finances publiques avaient…",
+   "tags": [
+    "Politique",
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "3edd15621833",
    "titre": "EN DIRECT, guerre en Ukraine : un cargo russe attaqué en mer Baltique ; des drones ukrainiens produits au Royaume-Uni… Les dernières informations",
    "lien": "https://www.lemonde.fr/international/live/2026/11/22/en-direct-guerre-en-ukraine-un-cargo-russe-attaque-en-mer-baltique-des-drones-ukrainiens-produits-au-royaume-uni-les-dernieres-informations_6814183_3210.html",
    "source": "Le Monde",
    "date": "2026-11-22T05:29:37+00:00",
-   "extrait": "Le ministre de la défense ukrainien, Ievheni Khmara, et son homologue britannique, Wes Streeting, ont signé de nouveaux accords permettant la production, sur le sol britannique, de drones de frappe…",
+   "extrait": "Le ministre de la défense ukrainien, Ievheni Khmara, et son homologue britannique, Wes Streeting, ont signé de nouveaux accords permettant la production, sur le sol britannique, de drones d’attaque…",
    "tags": [
     "Politique",
     "Conflits"
    ],
    "zone": "france"
-  },
-  {
-   "id": "0ba1f946ec68",
-   "titre": "New draft deal aims to avert collapse of talks at climate summit",
-   "lien": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-22T05:26:10+00:00",
-   "extrait": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "monde"
   },
   {
    "id": "8a751f6c999e",
@@ -92,8 +171,48 @@
    "zone": "france"
   },
   {
+   "id": "fa6155a9540f",
+   "titre": "Pour le XV de France, un contenu \"pas parfait\" face à l'Argentine mais un objectif de finale validé",
+   "lien": "https://www.franceinfo.fr/sports/rugby/xv-de-france/pour-le-xv-de-france-un-contenu-pas-parfait-face-a-l-argentine-mais-un-objectif-de-finale-valide_8294219.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-22T05:00:04+00:00",
+   "extrait": "Les Bleus se sont défaits de l'Argentine avec le bonus pour s'offrir la finale de la première édition du Championnat des nations, samedi soir.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "fe82a65beee3",
+   "titre": "Sommet Choose France-Édition France : l'entreprise Blanc Aéro Industries doit investir 39 millions d'euros dans le pays",
+   "lien": "https://www.franceinfo.fr/economie/info-france-info-sommet-choose-france-edition-france-l-entreprise-blanc-aero-industries-doit-investir-39-millions-d-euros-dans-le-pays_8294021.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-22T05:00:04+00:00",
+   "extrait": "Cette annonce intervient à l'occasion d'un sommet Choose France, qui s'ouvre lundi à la Cité internationale universitaire de Paris. Cette \"édition France\" réunira plus de 250 entreprises qui ont…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "0b6b130e2eb5",
+   "titre": "\"Un bon petit soldat\" : Stéphane Brizé pointe un monde du travail atteint de schizophrénie dans une farce tragique",
+   "lien": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/un-bon-petit-soldat-stephane-brize-pointe-un-monde-du-travail-atteint-de-schizophrenie-dans-une-farce-tragique_8286950.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-22T05:00:03+00:00",
+   "extrait": "Stéphane Brizé ajoute un chapitre à son exploration cinématographique du monde du travail en mettant en scène Vincent Lindon dans la peau d'un patron cynique et Alba Rohrwacher dans celle du bon…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "41531d9143ba",
+   "titre": "\"Paper Tiger\", le thriller crépusculaire de James Gray",
+   "lien": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/paper-tiger-le-thriller-crepusculaire-de-james-gray_8284889.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-22T05:00:02+00:00",
+   "extrait": "Le neuvième long-métrage du cinéaste américain est un western urbain étouffant, porté par une distribution inspirée. Un air de déjà-vu.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "cfd0fa667eb8",
-   "titre": "Mobilisations lycéennes : les déchirements des parents, à la fois inquiets, fiers, en soutien ou en colère",
+   "titre": "Mobilisations lycéennes : des parents déchirés entre inquiétude, fierté, soutien et colère",
    "lien": "https://www.lemonde.fr/societe/article/2026/11/22/mouvement-lyceen-inquiets-fiers-en-soutien-ou-en-colere-les-dechirements-des-parents-d-eleves-touches-par-la-mobilisation_6814146_3224.html",
    "source": "Le Monde",
    "date": "2026-11-22T04:55:02+00:00",
@@ -405,6 +524,16 @@
    "zone": "france"
   },
   {
+   "id": "69f3394d045e",
+   "titre": "\"Ça va nous permettre de rebondir\" : à Saint-Étienne, des chèques-cadeaux pour relancer le commerce avant Noël",
+   "lien": "https://www.franceinfo.fr/france/auvergne-rhone-alpes/loire/saint-etienne/ca-va-nous-permettre-de-rebondir-a-saint-etienne-des-cheques-cadeaux-pour-relancer-le-commerce-avant-noel_8294129.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-21T21:07:27+00:00",
+   "extrait": "Les violences en marge des manifestations du 17 octobre avaient touché de nombreux commerces. Après plusieurs week-ends d’activité au ralenti, la mairie de Saint-Étienne met en place un dispositif…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "d97adf7a3e82",
    "titre": "Fuites de Beauvau vers le RN : d’un email trouvé au domicile d’un ami de Marine Le Pen aux suspicions visant le préfet Hugues Moutouh, itinéraire d’une enquête sensible",
    "lien": "https://www.lemonde.fr/societe/article/2026/11/21/fuites-de-beauvau-vers-le-rn-d-un-email-trouve-au-domicile-d-un-ami-de-marine-le-pen-aux-suspicions-visant-le-prefet-moutouh-itineraire-d-une-enquete-sensible_6814067_3224.html",
@@ -440,6 +569,18 @@
     "Conflits"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "339718ca2497",
+   "titre": "\"On est fatigué, (...) c'est épuisant, stressant\" : le désarroi des habitants du Pas-de-Calais après des inondations à répétition",
+   "lien": "https://www.franceinfo.fr/france/hauts-de-france/pas-de-calais/on-est-fatigue-c-est-epuisant-stressant-le-desarroi-des-habitants-du-pas-de-calais-apres-des-inondations-a-repetition_8294126.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-21T20:21:03+00:00",
+   "extrait": "Les habitants de 38 communes autour du Montreuillois et du bassin de la Canche, dans le Pas-de-Calais, ont du mal à cacher leur lassitude. Beaucoup d’entre eux se retrouvent une nouvelle fois…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
   },
   {
    "id": "1e9791527310",
@@ -918,6 +1059,18 @@
    "date": "2026-11-21T16:48:41+00:00",
    "extrait": "Cette nouvelle alliance, destinée à rapprocher les deux côtés de la Manche après les années houleuses du Brexit, a été qualifiée vendredi de \"tournant\" par la Commission européenne.",
    "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "f0e0dc1dea4a",
+   "titre": "\"On fait même des shampoings aux Barbie\" : à l'approche de Noël, des jouets sont recyclés puis revendus moitié prix à Villeurbanne",
+   "lien": "https://www.franceinfo.fr/economie/entreprises/reportage-on-fait-meme-des-shampoings-aux-barbie-a-l-approche-de-noel-des-jouets-sont-recycles-puis-revendus-moitie-prix-a-villeurbanne_8292893.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-21T16:48:28+00:00",
+   "extrait": "A l'heure des achats de Noël, la seconde main concerne aussi les jouets. A Villeurbanne, près de Lyon, l'entreprise Enjoué remet ainsi sur le marché 15 000 jouets et jeux par an, après un gros…",
+   "tags": [
+    "Économie"
+   ],
    "zone": "france"
   },
   {
@@ -3220,171 +3373,6 @@
     "Politique"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "9703f79f5f78",
-   "titre": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/21/aux-etats-unis-wall-street-en-deroute-apres-la-degringolade-des-societes-liees-a-l-intelligence-artificielle_6813811_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-21T00:33:30+00:00",
-   "extrait": "Les inquiétudes sur le modèle économique des entreprises d’intelligence artificielle, les incertitudes sur l’avenir des data centers et les déboires du champion Nvidia ont effacé des milliards de…",
-   "tags": [
-    "Économie",
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "9933f5a7b8ee",
-   "titre": "Seine-Saint-Denis : le policier qui a tué un automobiliste en 2022 condamné à dix-huit mois de prison ferme sans mandat de dépôt",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/21/seine-saint-denis-le-policier-qui-a-tue-un-automobiliste-en-2022-condamne-a-dix-huit-mois-de-prison-ferme-sans-mandat-de-depot_6813778_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-21T00:18:17+00:00",
-   "extrait": "L’avocate générale avait demandé cinq ans de réclusion criminelle, assortis d’un mandat de dépôt différé, à l’encontre de cet ancien brigadier-chef de la BAC.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "5ebf853562b4",
-   "titre": "« GTA VI » s’offre un lancement record avec 3,79 milliards de dollars de ventes dès le premier jour",
-   "lien": "https://www.lemonde.fr/pixels/article/2026/11/21/gta-vi-s-offre-un-lancement-record-avec-3-79-milliards-de-dollars-de-ventes-des-le-premier-jour_6813745_4408996.html",
-   "source": "Le Monde",
-   "date": "2026-11-21T00:13:13+00:00",
-   "extrait": "Ces revenus, équivalents à 3,5 milliards d’euros environ, sont près de cinq fois supérieurs à ceux générés en vingt-quatre heures par la version précédente de la mythique saga de « Grand Theft Auto…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "3513650770fc",
-   "titre": "Trump says recent tech outages are \"all separate events\"",
-   "lien": "https://www.cbsnews.com/video/trump-says-recent-tech-outages-are-all-separate-events/",
-   "source": "CBS News",
-   "date": "2026-11-21T00:09:40+00:00",
-   "extrait": "President Trump's wide-ranging remarks Friday touched on the lingering concerns that tech outages at the FAA, NSA, banks and other companies were part of a coordinated attack. Mr. Trump denied that…",
-   "tags": [
-    "Politique",
-    "Conflits",
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "b7fdc1f987cb",
-   "titre": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
-   "lien": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-21T00:01:39+00:00",
-   "extrait": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "f5a8fc4a5593",
-   "titre": "Mayor Mamdani announces plan to shut down Rikers Island",
-   "lien": "https://www.cbsnews.com/news/zohran-mamdani-rikers-island-closing-plan-nyc/",
-   "source": "CBS News",
-   "date": "2026-11-20T23:59:30+00:00",
-   "extrait": "New York City Mayor Zohran Mamdani unveiled his strategy to shut down Rikers Island and replace it with four smaller jails across the city.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "a3eeed083bcf",
-   "titre": "Nationwide ground stop caused drop in Americans' confidence in air travel reliability, survey finds",
-   "lien": "https://www.cbsnews.com/video/nationwide-ground-stop-caused-drop-in-americans-confidence-in-air-travel-reliability-survey-finds/",
-   "source": "CBS News",
-   "date": "2026-11-20T23:49:38+00:00",
-   "extrait": "A new survey from the U.S. Travel Association shows about a third of all leisure and business flyers say last week's nationwide ground stop made them less likely to fly over the next 12 months…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "3a55b90cc699",
-   "titre": "Au procès des auteurs de l’interpellation de Michel Zecler, le caractère raciste des violences retenu, trois policiers condamnés à des peines de prison ferme et l’espoir d’une « jurisprudence »",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/21/au-proces-de-l-interpellation-de-michel-zecler-le-caractere-raciste-des-violences-retenu-trois-policiers-condamnes-a-des-peines-de-prison-ferme-et-l-espoir-d-une-jurisprudence_6813718_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-20T23:46:35+00:00",
-   "extrait": "Contrôlé en 2020 devant son studio de musique, le producteur avait été tabassé par les agents qui avaient ensuite prétendu dans leur procès-verbal qu’il les avait agressés. Vendredi, la cour…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "756735621a98",
-   "titre": "Markets plummet amid tech sell-off, Trump threatens tax on data centers built abroad",
-   "lien": "https://www.cbsnews.com/video/tech-sell-off-sends-sp-500-and-dow-into-correction-territory/",
-   "source": "CBS News",
-   "date": "2026-11-20T23:41:29+00:00",
-   "extrait": "Stocks closed out a brutal week Friday with the three major indexes falling between 1% and 5% and the Nasdaq turning negative for the year as investors pulled their money out of AI stocks…",
-   "tags": [
-    "Politique",
-    "Économie",
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "a8402bf659aa",
-   "titre": "Tech outages prompt some Americans to prepare for collapse, Washington Post report says",
-   "lien": "https://www.cbsnews.com/video/tech-outages-prompt-some-americans-to-prepare-for-collapse-wapo-report-says/",
-   "source": "CBS News",
-   "date": "2026-11-20T23:31:04+00:00",
-   "extrait": "The recent wave of tech outages has prompted some Americans to stock up on generators, cash and more. Brianna Sacks, a disaster correspondent at The Washington Post, joins \"The Takeout\" to discuss…",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "664272acea81",
-   "titre": "11/20: CBS Evening News",
-   "lien": "https://www.cbsnews.com/video/112026-cbs-evening-news/",
-   "source": "CBS News",
-   "date": "2026-11-20T23:30:00+00:00",
-   "extrait": "Markets plunge amid tech selloff; Storms hit Florida and California.",
-   "tags": [
-    "Économie",
-    "Climat",
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "52fca1fbf971",
-   "titre": "Poland accuses Russia of \"intentional provocation\" after missiles land in its territory",
-   "lien": "https://www.cbsnews.com/video/poland-accuses-russia-of-intentional-provocation-after-missiles-land-on-its-territory/",
-   "source": "CBS News",
-   "date": "2026-11-20T23:29:20+00:00",
-   "extrait": "Russian missiles landed in Polish territory amid heavy strikes against Ukraine in what Polish Prime Minister Donald Tusk called \"an intentional ⁠provocation.\" CBS News' Charlie D'Agata has more.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "431bce6b89d2",
-   "titre": "A new Nepal, an old neighbour - Balendra Shah's India test on first visit",
-   "lien": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-20T23:28:17+00:00",
-   "extrait": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "4fadf796c725",
-   "titre": "Etats-Unis : un juge valide un accord d’indemnisation par Bayer de 7,25 milliards de dollars pour solder l’ensemble des plaintes liées au Roundup",
-   "lien": "https://www.lemonde.fr/planete/article/2026/11/21/etats-unis-un-juge-valide-un-accord-d-indemnisation-par-bayer-de-7-25-milliards-de-dollars-pour-solder-l-ensemble-des-plaintes-liees-au-roundup_6813717_3244.html",
-   "source": "Le Monde",
-   "date": "2026-11-20T23:25:01+00:00",
-   "extrait": "Cette indemnisation « ne comporte aucune reconnaissance de responsabilité ou de faute », avait précisé en février le géant de l’agrochimie, qui a racheté Monsanto en 2018.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
   }
  ]
 }

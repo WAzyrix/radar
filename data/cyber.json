@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-22T06:05:39+00:00",
+ "maj": "2026-11-22T07:05:38+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,29 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "78074d39dfa2",
+   "titre": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+   "lien": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+   "source": "The Hacker News",
+   "date": "2026-11-22T05:06:55+00:00",
+   "extrait": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week. Some of…",
+   "tags": [
+    "IA"
+   ]
+  },
+  {
+   "id": "0be8ff22df4a",
+   "titre": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+   "lien": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+   "source": "The Hacker News",
+   "date": "2026-11-22T05:03:41+00:00",
+   "extrait": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript is the interpreter that many Linux…",
+   "tags": [
+    "Faille",
+    "Linux"
+   ]
+  },
   {
    "id": "9f2af01a2aa9",
    "titre": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
@@ -3340,31 +3363,6 @@
     "Faille",
     "Fuite de données",
     "Malware"
-   ]
-  },
-  {
-   "id": "00c8c05e542b",
-   "titre": "Microsoft: Recent Windows updates cause SQL Server performance issues",
-   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
-   "source": "BleepingComputer",
-   "date": "2026-11-12T12:11:11+00:00",
-   "extrait": "Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues. [...]",
-   "tags": [
-    "Faille",
-    "Windows"
-   ]
-  },
-  {
-   "id": "5af74d5ce665",
-   "titre": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
-   "lien": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
-   "source": "The Hacker News",
-   "date": "2026-11-12T12:09:14+00:00",
-   "extrait": "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week. The company has already applied mitigations…",
-   "tags": [
-    "Faille",
-    "Fuite de données",
-    "Linux"
    ]
   }
  ]
