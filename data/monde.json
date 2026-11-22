@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-22T07:29:54+00:00",
+ "maj": "2026-11-22T08:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "f32e3214e4d9",
+   "titre": "Déraillement d'un TER en Normandie : la SNCF défend ses agents après un premier point des enquêteurs",
+   "lien": "https://www.franceinfo.fr/faits-divers/accident/deraillement-d-un-ter-en-normandie-la-sncf-defend-ses-agents-apres-un-premier-point-des-enqueteurs_8294534.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-22T07:33:43+00:00",
+   "extrait": "Le Bureau d'enquêtes sur les accidents de transport terrestre a noté vendredi que le service de gestion des circulations de SNCF Réseau n'avait pas été prévenu par les agents du train, comme le…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
   {
    "id": "b0c1dad484cf",
    "titre": "Campagne présidentielle : la secrétaire générale de la CFDT, Marylise Léon, appelle à changer la date pour éviter un second tour le 2 mai",
@@ -115,11 +127,11 @@
   },
   {
    "id": "87321b68fdef",
-   "titre": "Dozens missing after fire at Indonesian factory",
+   "titre": "Three killed and dozens missing after fire at Indonesian factory",
    "lien": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-22T06:05:00+00:00",
-   "extrait": "At least three people were killed and four injured in a fire at a confectionary factory over the weekend.",
+   "extrait": "At least three people were killed and 36 are still missing after a fire at a confectionary factory.",
    "tags": [],
    "zone": "monde"
   },
@@ -252,6 +264,18 @@
    "date": "2026-11-22T04:55:02+00:00",
    "extrait": "« Le Monde » a recueilli les témoignages de dizaines de parents d’élèves de lycées mobilisés depuis deux mois. Pro ou antiblocage racontent leurs inquiétudes pour la scolarité de leurs enfants ou…",
    "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "c78d1163c5ed",
+   "titre": "« Alors que la science montre de mieux en mieux le rôle des substances chimiques dans l’épidémie de “maladies de civilisation”, l’Europe affaiblit sa réglementation »",
+   "lien": "https://www.lemonde.fr/idees/article/2026/11/22/alors-que-la-science-montre-de-mieux-en-mieux-le-role-des-substances-chimiques-dans-l-epidemie-de-maladies-de-civilisation-l-europe-affaiblit-sa-reglementation_6814145_3232.html",
+   "source": "Le Monde",
+   "date": "2026-11-22T04:50:09+00:00",
+   "extrait": "Un rapport de l’Organisation mondiale de la santé et du Programme des Nations unies pour l’environnement montre que, pour seulement sept molécules ou famille de substances les mieux connues, le…",
+   "tags": [
+    "Santé"
+   ],
    "zone": "france"
   },
   {
@@ -3350,29 +3374,6 @@
    "extrait": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
    "tags": [],
    "zone": "monde"
-  },
-  {
-   "id": "19a61c490244",
-   "titre": "Markets plunge deeper one day after Anthropic's record-breaking IPO",
-   "lien": "https://www.cbsnews.com/video/markets-plunge-deeper-one-day-after-anthropics-record-breaking-ipo/",
-   "source": "CBS News",
-   "date": "2026-11-21T01:01:08+00:00",
-   "extrait": "The market fell deeper into the red on Friday, one day after Anthropic's record-breaking IPO, amid a tech selloff fueled by Nvidia's recent instability. Jo Ling Kent reports.",
-   "tags": [
-    "Économie",
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "e9b4f4a77c7f",
-   "titre": "DEA dismantles first nitazene synthesis lab in the U.S.",
-   "lien": "https://www.cbsnews.com/news/louisiana-nitazenes-bust/",
-   "source": "CBS News",
-   "date": "2026-11-21T00:53:00+00:00",
-   "extrait": "The Drug Enforcement Administration's forensic testing confirmed the lab in Louisiana was manufacturing etonitazene, an extremely potent synthetic opioid belonging to a class of drugs known as…",
-   "tags": [],
-   "zone": "usa"
   }
  ]
 }
