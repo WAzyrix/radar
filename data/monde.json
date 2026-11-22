@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-22T00:05:39+00:00",
+ "maj": "2026-11-22T01:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,60 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "8a751f6c999e",
+   "titre": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
+   "lien": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/",
+   "source": "CBS News",
+   "date": "2026-11-22T00:55:48+00:00",
+   "extrait": "Jane Pauley hosts our annual \"Eat, Drink & Be Merry\" holiday broadcast exploring all things epicurean! Check out our menu...",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "6a991f74db5f",
+   "titre": "ICE officers arrest at least 1 passenger boarding flight in Seattle",
+   "lien": "https://www.cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle/",
+   "source": "CBS News",
+   "date": "2026-11-22T00:37:00+00:00",
+   "extrait": "Masked immigration officers detained at least one person on a crowded airport jet bridge in Seattle as people were boarding Saturday",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "45201d2fd35b",
+   "titre": "FBI reportedly investigating apparent hack of its criminal database",
+   "lien": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-22T00:10:44+00:00",
+   "extrait": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "67c31da8ce5f",
+   "titre": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+   "lien": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-22T00:10:37+00:00",
+   "extrait": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "cca80141b2d3",
+   "titre": "How a teen gamer and his mother helped rescue a missing girl",
+   "lien": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-22T00:09:58+00:00",
+   "extrait": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+   "tags": [],
+   "zone": "monde"
+  },
   {
    "id": "e76491ce732d",
    "titre": "Princeton student detained by ICE at Reagan Airport after conference",
@@ -54,16 +108,6 @@
     "Justice"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "8a751f6c999e",
-   "titre": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
-   "lien": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/",
-   "source": "CBS News",
-   "date": "2026-11-21T23:25:36+00:00",
-   "extrait": "Jane Pauley hosts our annual \"Eat, Drink & Be Merry\" holiday broadcast exploring all things epicurean! Check out our menu...",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "5e4015e2235e",
@@ -139,6 +183,30 @@
    "date": "2026-11-21T22:10:36+00:00",
    "extrait": "South Carolina-based auction house Richmond Auctions said George Washington's lock of hair was sold for $4,000.",
    "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "1add95be92a8",
+   "titre": "Google employees protest AI in schools policy",
+   "lien": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy",
+   "source": "NPR",
+   "date": "2026-11-21T22:01:40+00:00",
+   "extrait": "More than 550 Google employees signed a petition to allow schools access to Search without AI. Parents and educators protested outside Google offices in 6 cities last week for the same ask.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "b01c4c2b305a",
+   "titre": "Highlights and challenges from covering an historic month in South America",
+   "lien": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
+   "source": "NPR",
+   "date": "2026-11-21T22:01:35+00:00",
+   "extrait": "NPR's South America Correspondent discusses her work covering an historic election upset and a papal visit.",
+   "tags": [
+    "Politique"
+   ],
    "zone": "usa"
   },
   {
@@ -811,16 +879,6 @@
     "Politique",
     "Climat"
    ],
-   "zone": "monde"
-  },
-  {
-   "id": "45201d2fd35b",
-   "titre": "FBI reportedly investigating apparent hack of its criminal database",
-   "lien": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-21T16:35:15+00:00",
-   "extrait": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-   "tags": [],
    "zone": "monde"
   },
   {
@@ -3323,67 +3381,6 @@
    "extrait": "Retired Sgt. Maj. Bradley Kasal, whose heroism during the Iraq War earned him the nation's second-highest award for combat valor, is under federal criminal investigation over allegations stemming…",
    "tags": [
     "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "035b5c6445a3",
-   "titre": "Guerre en Ukraine : Emmanuel Macron dénonce un \"agenda agressif\" de la Russie, après une série d'\"incidents graves\", notamment en Pologne et au Danemark",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-un-missile-russe-tombe-dans-le-sud-est-de-la-pologne-sans-faire-de-blesse_8292080.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-20T22:54:33+00:00",
-   "extrait": "Des missiles russes sont tombés vendredi en Pologne, non loin de la frontière ukrainienne, sans faire de blessé.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "e1015a428325",
-   "titre": "What to expect from Thanksgiving air travel after recent FAA ground stop",
-   "lien": "https://www.cbsnews.com/video/what-to-expect-from-thanksgiving-air-travel-after-recent-faa-ground-stop/",
-   "source": "CBS News",
-   "date": "2026-11-20T22:53:38+00:00",
-   "extrait": "The FAA's recent national ground stop has raised questions about transportation safety and reliability with the Thanksgiving air travel rush only days away. CBS News' Kris Van Cleave reports.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "082767a4b9ef",
-   "titre": "What we learned from Trump's first press conference following summit with Xi, Putin",
-   "lien": "https://www.cbsnews.com/video/what-we-learned-from-trumps-first-press-conference-following-summit-with-xi-putin/",
-   "source": "CBS News",
-   "date": "2026-11-20T22:43:00+00:00",
-   "extrait": "President Trump addressed the recent wave of tech outages, Iran, and more during his first press conference following his summit with Xi Jinping and Vladimir Putin. CBS News' Ed O'Keefe and Samantha…",
-   "tags": [
-    "Politique",
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "7abcb9e67aa8",
-   "titre": "Tech stock sell-off drags markets down as Anthropic shares slide",
-   "lien": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-20T22:42:47+00:00",
-   "extrait": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-   "tags": [
-    "Économie",
-    "Tech"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "99e77b5b60da",
-   "titre": "3.9-magnitude earthquake rattles Los Angeles area",
-   "lien": "https://www.cbsnews.com/news/earthquake-los-angeles-11-20-2026/",
-   "source": "CBS News",
-   "date": "2026-11-20T22:42:44+00:00",
-   "extrait": "According to the U.S. Geological Survey, the earthquake struck about a half mile north-northwest of Commerce, California, which is about 7 miles from downtown Los Angeles.",
-   "tags": [
-    "Climat"
    ],
    "zone": "usa"
   }
