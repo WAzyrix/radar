@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-22T07:05:38+00:00",
+ "maj": "2026-11-22T07:29:54+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,8 +22,30 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "b0c1dad484cf",
+   "titre": "Campagne présidentielle : la secrétaire générale de la CFDT, Marylise Léon, appelle à changer la date pour éviter un second tour le 2 mai",
+   "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-campagne-presidentielle-la-secretaire-generale-de-la-cfdt-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai_8294528.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-22T07:10:51+00:00",
+   "extrait": "\"Le 2 mai est le pire scénario possible, en raison du risque de vives tensions au lendemain de la fête des Travailleurs\", plaide la responsable.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "d4d3b0eb99f5",
+   "titre": "Loire-Atlantique : une semaine après l'incendie d'une entreprise de peintures près de Nantes, les taux de particules fines de retour à la normale",
+   "lien": "https://www.franceinfo.fr/faits-divers/incendie/loire-atlantique-une-semaine-apres-l-incendie-d-une-entreprise-de-peintures-pres-de-nantes-les-taux-de-particules-fines-de-retour-a-la-normale_8294540.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-22T07:04:32+00:00",
+   "extrait": "Les taux de particules fines sont de nouveau normaux à Vertou, près de Nantes (Loire-Atlantique), une semaine après l'incendie d'une entreprise de peintures et de solvants.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "0ba1f946ec68",
-   "titre": "New draft deal aims to avert collapse of talks at climate summit",
+   "titre": "New draft deal aims to avert collapse of talks at COP31 climate summit",
    "lien": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-22T06:54:06+00:00",
@@ -32,6 +54,18 @@
     "Climat"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "3dc643ae374b",
+   "titre": "Donald Trump reçoit les plus gros détenteurs de sa cryptomonnaie, qui l'a considérablement enrichi",
+   "lien": "https://www.franceinfo.fr/economie/bitcoin/donald-trump-recoit-les-plus-gros-detenteurs-de-sa-cryptomonnaie-qui-l-a-considerablement-enrichi_8294492.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-22T06:49:37+00:00",
+   "extrait": "Donald Trump reçoit ce dimanche 22 novembre les 185 plus gros détenteurs de sa cryptomonnaie, le Trump Coin, lors d'un gala organisé près de Washington. Une nouvelle illustration des liens étroits…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
   },
   {
    "id": "a8cbeebb9a8a",
@@ -3339,40 +3373,6 @@
    "extrait": "The Drug Enforcement Administration's forensic testing confirmed the lab in Louisiana was manufacturing etonitazene, an extremely potent synthetic opioid belonging to a class of drugs known as…",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "6209f96033cf",
-   "titre": "Marine Corps hero under federal investigation",
-   "lien": "https://www.cbsnews.com/video/marine-corps-hero-under-federal-investigation/",
-   "source": "CBS News",
-   "date": "2026-11-21T00:52:00+00:00",
-   "extrait": "CBS News has exclusively learned that one of the most celebrated Marine Corps veterans from the Iraq War is now the subject of a criminal investigation. CBS News' Eleanor Watson reports.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "1f12385dcd09",
-   "titre": "More than 140 sick on cruise ship that departed Fort Lauderdale, CDC says",
-   "lien": "https://www.cbsnews.com/news/princess-cruises-caribbean-princess-mystery-illness-cdc-november-2026/",
-   "source": "CBS News",
-   "date": "2026-11-21T00:48:36+00:00",
-   "extrait": "The Princess Cruises ship Caribbean Princess departed Port Everglades in Fort Lauderdale on Nov. 11 on a 12-night journey.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "fd65dccda25a",
-   "titre": "ANC fights to keep control of South Africa's key cities after election setback",
-   "lien": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-21T00:34:51+00:00",
-   "extrait": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
   }
  ]
 }
