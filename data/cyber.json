@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-22T15:05:39+00:00",
+ "maj": "2026-11-22T16:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,29 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "855a50efe0f3",
+   "titre": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+   "lien": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
+   "source": "BleepingComputer",
+   "date": "2026-11-22T15:43:04+00:00",
+   "extrait": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "2361e0929a29",
+   "titre": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+   "lien": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
+   "source": "BleepingComputer",
+   "date": "2026-11-22T15:15:25+00:00",
+   "extrait": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]",
+   "tags": [
+    "IA",
+    "Mobile"
+   ]
+  },
   {
    "id": "78074d39dfa2",
    "titre": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
@@ -3338,31 +3361,6 @@
     "Fuite de données",
     "Malware",
     "Outil"
-   ]
-  },
-  {
-   "id": "7927f7b9de97",
-   "titre": "Apify rotates API tokens, prompts 2FA resets after breach",
-   "lien": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
-   "source": "BleepingComputer",
-   "date": "2026-11-12T14:36:47+00:00",
-   "extrait": "Apify has rotated critical internal secrets and revoked some third-party OAuth connections after detecting unauthorized access to its internal systems. [...]",
-   "tags": [
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "daa356fef18a",
-   "titre": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
-   "lien": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
-   "source": "The Hacker News",
-   "date": "2026-11-12T13:08:28+00:00",
-   "extrait": "The ongoing campaign targeting ConnectWise ScreenConnect deployments involves the exploitation of a now-patched critical security flaw in the remote access software, and not a new vulnerability, it…",
-   "tags": [
-    "CVE",
-    "Faille",
-    "Fuite de données",
-    "Malware"
    ]
   }
  ]
