@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-23T17:05:41+00:00",
+ "maj": "2026-11-23T18:05:47+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "1ab128c432ff",
+   "titre": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
+   "lien": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
+   "source": "The Hacker News",
+   "date": "2026-11-23T17:45:15+00:00",
+   "extrait": "The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints…",
+   "tags": [
+    "Outil"
+   ]
+  },
   {
    "id": "0af9a7510182",
    "titre": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
@@ -3325,17 +3336,6 @@
    "extrait": "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security…",
    "tags": [
     "IA"
-   ]
-  },
-  {
-   "id": "c6e1d6a77271",
-   "titre": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
-   "lien": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
-   "source": "The Hacker News",
-   "date": "2026-11-13T14:28:58+00:00",
-   "extrait": "The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of…",
-   "tags": [
-    "Fuite de données"
    ]
   }
  ]
