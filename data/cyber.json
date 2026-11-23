@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-23T08:18:13+00:00",
+ "maj": "2026-11-23T09:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "80927b607c9d",
+   "titre": "AI-Assisted Cyberattacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
+   "lien": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
+   "source": "The Hacker News",
+   "date": "2026-11-23T08:24:15+00:00",
+   "extrait": "The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication…",
+   "tags": [
+    "IA"
+   ]
+  },
   {
    "id": "5d81d8091009",
    "titre": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
@@ -3338,18 +3349,6 @@
     "IA",
     "Outil",
     "Linux"
-   ]
-  },
-  {
-   "id": "1acaa8e77a2e",
-   "titre": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
-   "lien": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
-   "source": "The Hacker News",
-   "date": "2026-11-12T17:50:27+00:00",
-   "extrait": "Public exploit code released earlier this week claims that a local Windows user can gain SYSTEM privileges through the Common Log File System driver. The proof of concept, called SignDrop, targets a…",
-   "tags": [
-    "Faille",
-    "Windows"
    ]
   }
  ]

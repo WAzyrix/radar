@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-23T08:18:13+00:00",
+ "maj": "2026-11-23T09:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,34 +22,93 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "e7836a10300a",
+   "titre": "Zelenskyy says Ukraine hit 2 Russian ships off Libya, and 1 sank",
+   "lien": "https://www.cbsnews.com/news/ukraine-zelenskyy-2-russian-ships-libya/",
+   "source": "CBS News",
+   "date": "2026-11-23T09:00:49+00:00",
+   "extrait": "Ukrainian President Volodymyr Zelenskyy said his country was behind attacks on two Russian warship off Libya, and one sank.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "c73e3537be55",
+   "titre": "\"L'urgence est surtout d'avoir un budget\", juge Marylise Léon à propos de la \"règle d'or\" budgétaire envisagée par Emmanuel Macron",
+   "lien": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-son-combat-est-le-mien-assure-raphael-glucksmann-sur-francois-ruffin-qui-s-est-retire-de-la-course-a-l-elysee_8295479.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T08:41:24+00:00",
+   "extrait": "La secrétaire générale de la CFDT réagissait à l'information selon laquelle Emmanuel Macron envisagerait de faire inscrire dans la Constitution une \"règle d'or\" budgétaire en janvier.",
+   "tags": [
+    "Politique",
+    "Économie",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "2232681f0518",
    "titre": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
    "lien": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-11-23T08:13:27+00:00",
+   "date": "2026-11-23T08:41:08+00:00",
    "extrait": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
    "tags": [],
    "zone": "monde"
   },
   {
-   "id": "c93eb47a99c0",
-   "titre": "Echec des négociations, engagements sur l'électrification, financements… Ce qu'il faut retenir de la COP31 d'Antalya sur le climat",
-   "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/echec-des-negociations-engagements-sur-l-electrification-financements-ce-qu-il-faut-retenir-de-la-cop31-d-antalya-sur-le-climat_8290226.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-23T08:10:38+00:00",
-   "extrait": "Après quinze jours de négociations, les pays du monde entier ont échoué à s'accorder sur un texte final.",
+   "id": "c6aa209296d7",
+   "titre": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky revendique l’attaque de deux bateaux russes en Libye",
+   "lien": "https://www.lemonde.fr/international/live/2026/11/23/en-direct-guerre-en-ukraine-volodymyr-zelensky-revendique-l-attaque-de-deux-bateaux-russes-en-libye_6814183_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-23T08:37:51+00:00",
+   "extrait": "Au moins 15 personnes ont par ailleurs été tuées lors de frappes russes dans la région de Kiev, dont 11 par l’effondrement partiel d’un immeuble résidentiel, selon le dernier bilan des autorités…",
    "tags": [
-    "Climat"
+    "Conflits"
    ],
    "zone": "france"
+  },
+  {
+   "id": "2b2400015386",
+   "titre": "Russian ships hit by Ukrainian drones off Libya coast, Zelensky says",
+   "lien": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-23T08:36:57+00:00",
+   "extrait": "Libya's eastern government says a sunken warship had stopped for fuel and supplies on its way back to Russia.",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "b4fcf422d095",
    "titre": "Déraillement d'un TER en Seine-Maritime : trois hommes interpellés près de Rouen",
    "lien": "https://www.franceinfo.fr/faits-divers/accident/info-radio-france-deraillement-d-un-ter-en-seine-maritime-trois-hommes-interpelles-pres-de-rouen_8295620.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-11-23T07:59:57+00:00",
-   "extrait": "Un TER reliant Rouen à Caen avait déraillé le 11 septembre dernier, faisant 44 blessés.",
+   "date": "2026-11-23T08:24:35+00:00",
+   "extrait": "D'après ICI Normandie, une opération de police à Cléon a permis l'arrestation de trois suspects, placés en garde à vue, plus de deux mois après l'accident qui avait fait 44 blessés.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "8edb03684368",
+   "titre": "Michel Zecler décrit une \"victoire partielle\" après la condamnation des trois policiers",
+   "lien": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/michel-zecler-decrit-une-victoire-partielle-apres-la-condamnation-des-trois-policiers_8295530.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T08:21:47+00:00",
+   "extrait": "Invité de France Inter lundi, le producteur de musique déclare que sa \"voix a été entendue\" mais dit qu'il a été \"un peu déçu\" des peines.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "051e088bc2a3",
+   "titre": "Commission d'enquête sur le 17 octobre : \"L'Etat de droit dans ce pays, ce soir-là, n'existait plus\", estime le maire de Marseille, Benoît Payan",
+   "lien": "https://www.franceinfo.fr/politique/commission-d-enquete-sur-le-17-octobre-l-etat-de-droit-dans-ce-pays-ce-soir-la-n-existait-plus-estime-le-maire-dvg-de-marseille-benoit-payan_8295605.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T08:18:17+00:00",
+   "extrait": "Invité des \"4 Vérités\", lundi 23 novembre, l'édile phocéen Divers gauche confirme qu'il sera entendu mercredi par la commission d'enquête parlementaire sur les événements du 17 octobre. \"Je ne sais…",
    "tags": [
     "Justice"
    ],
@@ -60,10 +119,22 @@
    "titre": "Après les élections de mi-mandat aux Etats-Unis, les démocrates auront la plus large majorité depuis 1992 à la Chambre des représentants",
    "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-2026-l-essentiel-des-elections-de-mi-mandat/apres-les-elections-de-mi-mandat-aux-etats-unis-les-democrates-auront-la-plus-large-majorite-depuis-1992-a-la-chambre-des-representants_8295608.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-11-23T07:48:31+00:00",
+   "date": "2026-11-23T08:13:38+00:00",
    "extrait": "La victoire de leur candidat, Chuck Hubbard, en Caroline du Nord offre au parti démocrate un 258e siège sur 435 au sein de la prochaine Chambre.",
    "tags": [
     "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "c93eb47a99c0",
+   "titre": "Echec des négociations, engagements sur l'électrification, financements… Ce qu'il faut retenir de la COP31 d'Antalya sur le climat",
+   "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/echec-des-negociations-engagements-sur-l-electrification-financements-ce-qu-il-faut-retenir-de-la-cop31-d-antalya-sur-le-climat_8290226.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T08:10:38+00:00",
+   "extrait": "Après quinze jours de négociations, les pays du monde entier ont échoué à s'accorder sur un texte final.",
+   "tags": [
+    "Climat"
    ],
    "zone": "france"
   },
@@ -165,6 +236,18 @@
    "zone": "france"
   },
   {
+   "id": "ea869718bbe9",
+   "titre": "Five takeaways from the failed climate talks COP31",
+   "lien": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-23T06:33:50+00:00",
+   "extrait": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "d1c7c7c12b89",
    "titre": "Les objets volants tombés vendredi en Pologne étaient des missiles de croisière fabriqués en Russie, annonce le parquet de Lublin",
    "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-objets-volants-tombes-vendredi-en-pologne-etaient-des-missiles-de-croisiere-fabriques-en-russie-annonce-le-parquet-de-lublin_8295188.html#xtor=RSS-3-[lestitres]",
@@ -211,16 +294,6 @@
    "tags": [
     "Économie"
    ],
-   "zone": "france"
-  },
-  {
-   "id": "c73e3537be55",
-   "titre": "Présidentielle 2027 : \"Son combat est le mien\", assure Raphaël Glucksmann sur François Ruffin, qui s'est retiré de la course à l'Elysée",
-   "lien": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-son-combat-est-le-mien-assure-raphael-glucksmann-sur-francois-ruffin-qui-s-est-retire-de-la-course-a-l-elysee_8295479.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-23T06:14:25+00:00",
-   "extrait": "Le député de la Somme a retiré sa candidature à la présidentielle, samedi, sans annoncer de soutien à un autre candidat.",
-   "tags": [],
    "zone": "france"
   },
   {
@@ -455,7 +528,7 @@
   },
   {
    "id": "6cacf81a377f",
-   "titre": "Présidentielle 2027 : Marine Le Pen, une campagne au défi de la justice",
+   "titre": "Présidentielle 2027 : Marine Le Pen et le RN, cernés par les procédures, misent sur l’indifférence présumée des électeurs pour les affaires judiciaires",
    "lien": "https://www.lemonde.fr/politique/article/2026/11/23/presidentielle-2027-marine-le-pen-une-campagne-au-defi-de-la-justice_6814312_823448.html",
    "source": "Le Monde",
    "date": "2026-11-23T04:30:07+00:00",
@@ -471,7 +544,7 @@
    "lien": "https://www.lemonde.fr/societe/article/2026/11/23/l-itineraire-d-hugues-moutouh-prefet-provocateur-et-dominant-ex-bras-droit-de-claude-gueant-aujourd-hui-soupconne-d-etre-une-taupe-du-rn_6814310_3224.html",
    "source": "Le Monde",
    "date": "2026-11-23T04:29:59+00:00",
-   "extrait": "Ce haut fonctionnaire adepte de la manière forte, qui dément avoir manqué à ses devoirs et a demandé à « être relevé de ses fonctions », s’est servi de l’élection de Nicolas Sarkozy à la présidence…",
+   "extrait": "Ce haut fonctionnaire adepte de la manière forte, qui dément avoir manqué à ses devoirs et a demandé à être « relevé de ses fonctions », a utilisé l’élection de Nicolas Sarkozy à la présidence de la…",
    "tags": [
     "Politique"
    ],
@@ -479,13 +552,25 @@
   },
   {
    "id": "6e19fb64c645",
-   "titre": "Mali : Amnesty va lancer une campagne pour exiger la libération de l'influenceuse Rokiatou Doumbia",
+   "titre": "Mali : Amnesty lance une campagne pour exiger la libération de l'influenceuse Rokiatou Doumbia",
    "lien": "https://www.france24.com/fr/afrique/20261123-amnesty-international-lance-campagne-liberation-influenceuse-rokiatou-doumbia-mali-junte-prison-association-malfaiteurs",
    "source": "France 24",
    "date": "2026-11-23T04:05:23+00:00",
-   "extrait": "Amnesty se mobilise pour l'influenceuse Rokiatou Doumbia, alias \"Rose, la vie chère\", en lançant la campagne Écrire pour les droits pour réclamer sa libération. Voix critique de la junte, elle a été…",
+   "extrait": "Amnesty international se mobilise pour libérer l'influenceuse Rokiatou Doumbia, alias \"Rose, la vie chère\", en lançant la campagne Écrire pour les droits. Voix critique de la junte, elle a été…",
    "tags": [],
    "zone": "monde"
+  },
+  {
+   "id": "7feb84d28fc9",
+   "titre": "Teddy Riner, le candidat que personne n’attendait",
+   "lien": "https://www.lemonde.fr/podcasts/article/2026/11/23/teddy-riner-le-candidat-que-personne-n-attendait_6814307_5463015.html",
+   "source": "Le Monde",
+   "date": "2026-11-23T04:00:05+00:00",
+   "extrait": "La star française du judo a créé la sensation en annonçant sa candidature à l’élection présidentielle. Dans ce podcast, Nathalie Segaunes, journaliste au service Politique du « Monde », analyse…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
   },
   {
    "id": "9601d2da7449",
@@ -508,18 +593,6 @@
    "extrait": "The Department of the Army said it plans to use an emergency munitions and explosives exclusion to the Environmental Protection Agency's permit.",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "2b2400015386",
-   "titre": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-   "lien": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-23T02:59:35+00:00",
-   "extrait": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
   },
   {
    "id": "d993c4dfb514",
@@ -3344,74 +3417,6 @@
    "extrait": "The Kansas City Current made history Saturday, capturing their first NWSL Championship title with a 2-1 win over the Washington Spirit.",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "87f7ecdbb64f",
-   "titre": "Une balade à Rambouillet, du château des présidents aux trains miniatures",
-   "lien": "https://www.lemonde.fr/m-styles/article/2026/11/22/une-balade-a-rambouillet-du-chateau-des-presidents-aux-trains-miniatures_6814142_4497319.html",
-   "source": "Le Monde",
-   "date": "2026-11-22T04:00:18+00:00",
-   "extrait": "Le destin de la commune des Yvelines est étroitement lié à l’histoire de France, en particulier à celle de la République. En bordure de sa majestueuse forêt domaniale, elle valorise aujourd’hui son…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "940e5b27a880",
-   "titre": "Jordi Savall, chef d’orchestre : « Ma quête, c’est la recherche de la nuance et de l’émotion, pas de la perfection »",
-   "lien": "https://www.lemonde.fr/culture/article/2026/11/22/jordi-savall-chef-d-orchestre-ma-quete-c-est-la-recherche-de-la-nuance-et-de-l-emotion-pas-de-la-perfection_6814141_3246.html",
-   "source": "Le Monde",
-   "date": "2026-11-22T04:00:14+00:00",
-   "extrait": "« Je ne serais pas arrivé là si… » Chaque semaine, « Le Monde » interroge une personnalité sur un moment décisif de son existence. Le musicien se souvient du choc ressenti en écoutant la première…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "757e5c1f284b",
-   "titre": "Nos conseils de documentaires à voir en replay : Emile Zola, « GTA VI », bombe de pluie…",
-   "lien": "https://www.lemonde.fr/culture/article/2026/11/22/nos-conseils-de-documentaires-a-voir-en-replay-emile-zola-gta-vi-bombe-de-pluie_6814108_3246.html",
-   "source": "Le Monde",
-   "date": "2026-11-22T03:30:10+00:00",
-   "extrait": "Pour La Matinale, les journalistes Culture du « Monde » vous proposent une sélection de documentaires à (re)voir en différé. Aujourd’hui, le photographe Zola, le phénomène « GTA », une élite en…",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "ba694087fa9e",
-   "titre": "Championnat des nations : le XV de France écarte l’Argentine et donne rendez-vous aux Springboks pour des retrouvailles musclées en finale",
-   "lien": "https://www.lemonde.fr/sport/article/2026/11/22/championnat-des-nations-le-xv-de-france-ecarte-l-argentine-et-donne-rendez-vous-aux-springboks-pour-des-retrouvailles-musclees-en-finale_6814075_3242.html",
-   "source": "Le Monde",
-   "date": "2026-11-22T01:42:54+00:00",
-   "extrait": "Les joueurs de Fabien Galthié ont souffert avant de surclasser (45-17) les Pumas, samedi, au Stade de France. Deux semaines après les avoir battus, les Bleus affronteront les Sud-Africains en finale…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "da98ab9f1ef9",
-   "titre": "Athlete swims Strait of Hormuz to highlight Iran war's wildlife toll",
-   "lien": "https://www.cbsnews.com/news/athlete-swims-strait-of-hormuz-iran-war-wildlife/",
-   "source": "CBS News",
-   "date": "2026-11-22T01:30:53+00:00",
-   "extrait": "British endurance swimmer Lewis Pugh has swum the Strait of Hormuz to highlight environmental threats during ongoing conflict.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "48f549e40ad0",
-   "titre": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-   "lien": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-22T01:25:03+00:00",
-   "extrait": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
   }
  ]
 }
