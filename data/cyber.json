@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-23T07:05:40+00:00",
+ "maj": "2026-11-23T08:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "5d81d8091009",
+   "titre": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+   "lien": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
+   "source": "BleepingComputer",
+   "date": "2026-11-23T07:44:19+00:00",
+   "extrait": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
+   "tags": [
+    "Faille"
+   ]
+  },
   {
    "id": "e37cec1c0e28",
    "titre": "Morfo sème des forêts par drone sur d'anciennes mines",
@@ -3339,17 +3350,6 @@
    "tags": [
     "Faille",
     "Windows"
-   ]
-  },
-  {
-   "id": "093b008afb96",
-   "titre": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
-   "lien": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
-   "source": "The Hacker News",
-   "date": "2026-11-12T16:27:01+00:00",
-   "extrait": "A critical flaw in Red Hat Quay allows an attacker who can access a Quay registry to read and overwrite private container images in every repository. Quay enables anonymous access by default, and…",
-   "tags": [
-    "Faille"
    ]
   }
  ]
