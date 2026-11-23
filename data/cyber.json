@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-23T09:05:39+00:00",
+ "maj": "2026-11-23T10:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,29 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "a0a0e9f9d895",
+   "titre": "BlackHatSect0r : phishing bancaire, extorsion et industrie",
+   "lien": "https://www.zataz.com/blackhatsect0r-phishing-bancaire-extorsion-et-industrie/",
+   "source": "Zataz",
+   "date": "2026-11-23T09:51:37+00:00",
+   "extrait": "BlackHatSect0r associe phishing bancaire, extorsion, destruction de sauvegardes et interfaces industrielles exposées.",
+   "tags": [
+    "Ransomware",
+    "Malware"
+   ]
+  },
+  {
+   "id": "d0dd2916cf58",
+   "titre": "Microsoft confirms Windows printing issues affecting Forcepoint users",
+   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/",
+   "source": "BleepingComputer",
+   "date": "2026-11-23T09:11:15+00:00",
+   "extrait": "Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. [...]",
+   "tags": [
+    "Windows"
+   ]
+  },
   {
    "id": "80927b607c9d",
    "titre": "AI-Assisted Cyberattacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
@@ -3322,33 +3345,6 @@
    "extrait": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
    "tags": [
     "Faille"
-   ]
-  },
-  {
-   "id": "950205e16691",
-   "titre": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
-   "lien": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
-   "source": "The Hacker News",
-   "date": "2026-11-12T18:07:15+00:00",
-   "extrait": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and…",
-   "tags": [
-    "IA",
-    "Outil"
-   ]
-  },
-  {
-   "id": "0215fb6873ae",
-   "titre": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
-   "lien": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
-   "source": "The Hacker News",
-   "date": "2026-11-12T18:02:51+00:00",
-   "extrait": "A search result isn't always safe. An access request isn't always harmless. And a familiar account doesn't always mean a familiar person is using it. Simple things to remember. Yet a surprising…",
-   "tags": [
-    "Faille",
-    "Malware",
-    "IA",
-    "Outil",
-    "Linux"
    ]
   }
  ]
