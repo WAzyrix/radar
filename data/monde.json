@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-23T15:05:39+00:00",
+ "maj": "2026-11-23T16:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,26 +22,434 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "0f0fc12e2eb6",
+   "titre": "Iran vows to end U.S. naval blockade by \"all available means\"",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+   "source": "CBS News",
+   "date": "2026-11-23T16:00:39+00:00",
+   "extrait": "Iran vows to force the U.S. to lift its blockade as Trump acknowledges the regime's increasing attacks, but says they've \"done no damage.\"",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "c608ef4cc512",
+   "titre": "Royaume-Uni : une salle de concert évacuée après la diffusion d'une \"substance inconnue\"",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261123-royaume-uni-une-salle-de-concert-%C3%A9vacu%C3%A9e-apr%C3%A8s-la-diffusion-d-une-substance-inconnue",
+   "source": "France 24",
+   "date": "2026-11-23T16:00:13+00:00",
+   "extrait": "La diffusion d'une \"substance inconnue\" à forcé l'évacuation de 12 000 spectateurs venus assister au concert de Don Toliver à la Co-op Live Arena à Manchester dimanche soir. Selon la police, il…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "5e2075e54063",
+   "titre": "Read full episode transcripts of \"Face the Nation with Margaret Brennan\" from 2026",
+   "lien": "https://www.cbsnews.com/face-the-nation/transcripts/",
+   "source": "CBS News",
+   "date": "2026-11-23T15:58:43+00:00",
+   "extrait": "Browse all of our full episode transcripts from 2026 of \"Face the Nation with Margaret Brennan.\"",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "a8be8f78ea20",
+   "titre": "EN DIRECT, Jensen Huang réintégré chez Nvidia : Donald Trump affirme avoir parlé « directement » avec le conseil d’administration",
+   "lien": "https://www.lemonde.fr/international/live/2026/11/23/en-direct-jensen-huang-reintegre-chez-nvidia-donald-trump-affirme-avoir-parle-directement-avec-le-conseil-d-administration_6814407_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-23T15:57:50+00:00",
+   "extrait": "Le conseil d’administration de Nvidia a annoncé lundi la réintégration immédiate de Jensen Huang comme directeur général et président du géant américain des puces, dix jours après sa démission liée…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "f3bab8b633f5",
+   "titre": "Trump praises \"patriot\" Jensen Huang's return to Nvidia",
+   "lien": "https://www.cbsnews.com/news/nvidia-jensen-huang-trump-comment-national-security-risk/",
+   "source": "CBS News",
+   "date": "2026-11-23T15:57:10+00:00",
+   "extrait": "President Trump said Monday the U.S. government \"has no reason to believe\" that Jensen Huang's return to Nvidia as CEO \"poses any risk to national security.\"",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "1e54a3cbf389",
+   "titre": "Plaidoyer pour une IA 100% africaine",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/le-rendez-vous-afrique/20261123-plaidoyer-pour-une-ia-100-africaine",
+   "source": "France 24",
+   "date": "2026-11-23T15:53:59+00:00",
+   "extrait": "Comment faire en sorte que l'intelligence artificielle ressemble et corresponde aux Africains ? En y intégrant leurs habitudes et leurs contraintes ? Dans une tribune au Monde, l'analyste en…",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "274c6faa6ee2",
+   "titre": "La mise en service de la ligne 18 du Grand Paris Express en décembre est \"très compromise\", selon Valérie Pécresse",
+   "lien": "https://www.franceinfo.fr/economie/transports/la-mise-en-service-de-la-ligne-18-du-grand-paris-express-en-decembre-est-tres-compromise-selon-valerie-pecresse_8296103.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T15:53:46+00:00",
+   "extrait": "La présidente d'Ile-de-France Mobilités explique ce retard par des problèmes \"d'exploitation et de sécurité\".",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "bb78af0ed559",
+   "titre": "Guerre en Iran : Téhéran réclame 290 milliards de dollars de dédommagements à Washington",
+   "lien": "https://www.france24.com/fr/moyen-orient/20261123-t%C3%A9h%C3%A9ran-r%C3%A9clame-290-milliards-dollars-d%C3%A9dommagements-washington-guerre",
+   "source": "France 24",
+   "date": "2026-11-23T15:53:42+00:00",
+   "extrait": "Des tribunaux iraniens exigent que les États-Unis versent 290 milliards de dollars de dédommagements pour la guerre en Iran et leurs actions passées, a déclaré lundi un responsable judiciaire…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "7c19df78a08f",
+   "titre": "Nvidia reinstates Jensen Huang as CEO 11 days after he resigned",
+   "lien": "https://www.cbsnews.com/video/nvidia-reinstates-jensen-huang-as-ceo-11-days-after-he-resigned/",
+   "source": "CBS News",
+   "date": "2026-11-23T15:51:01+00:00",
+   "extrait": "Nvidia reinstated Jensen Huang as president and CEO just 11 days after he resigned following revelations of his extramarital affairs, including with an alleged Chinese spy.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "3cdcb14143f0",
+   "titre": "A timeline of the Karen Read case",
+   "lien": "https://www.cbsnews.com/news/karen-read-trial-timeline-john-okeefe/",
+   "source": "CBS News",
+   "date": "2026-11-23T15:50:36+00:00",
+   "extrait": "Here's a look at how events have unfolded in the Karen Read case.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "b64d98bfb6b3",
+   "titre": "Karen Read case witnesses speak out: \"Scared every single day\"",
+   "lien": "https://www.cbsnews.com/news/karen-read-case-witnesses-speak-out-after-acquittal-i-am-scared-every-single-day/",
+   "source": "CBS News",
+   "date": "2026-11-23T15:45:40+00:00",
+   "extrait": "Witnesses in the trials of Karen Read, who was acquitted of charges alleging she killed her former boyfriend, John O'Keefe, speak out about the cover-up accusations they've faced in a new documentary.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "1fdefe62c6d8",
+   "titre": "L'UE propose d'interdire les athlètes russes de compétition sur son territoire",
+   "lien": "https://www.franceinfo.fr/sports/l-union-europeenne-propose-d-interdire-de-competition-les-athletes-russes-sur-son-territoire_8296275.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T15:44:32+00:00",
+   "extrait": "Cette proposition, émise lundi par la Commission européenne, fait partie d'un nouveau lot de sanctions contre la Russie.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "8528bac5b0f0",
    "titre": "Nvidia reinstates Jensen Huang as CEO",
    "lien": "https://www.cbsnews.com/news/nvidia-reinstates-jensen-huang-ceo/",
    "source": "CBS News",
-   "date": "2026-11-23T15:01:13+00:00",
+   "date": "2026-11-23T15:44:27+00:00",
    "extrait": "Nvidia said Monday that it has restored Jensen Huang as the chipmaker's chief executive, calling him the \"right person\" to lead the company.",
    "tags": [],
    "zone": "usa"
   },
   {
-   "id": "0e54d46c95ce",
-   "titre": "Sommet Choose France : Emmanuel Macron annonce la création de \"zones industrielles à fort potentiel\" où les procédures d'installation seront simplifiées",
-   "lien": "https://www.franceinfo.fr/economie/industrie/direct-sommet-choose-france-emmanuel-macron-en-visite-sur-le-site-d-airbus-a-toulouse_8295704.html#xtor=RSS-3-[lestitres]",
+   "id": "2b2400015386",
+   "titre": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+   "lien": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-23T15:41:23+00:00",
+   "extrait": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "e9718003a5d0",
+   "titre": "Guerre en Ukraine : l'UE présente un 22e paquet de sanctions contre Moscou, ciblant notamment les banques, la flotte fantôme et les athlètes russes",
+   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-volodymyr-zelensky-revendique-les-attaques-contre-deux-navires-russes-menees-au-large-de-la-libye_8295668.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-11-23T14:56:55+00:00",
-   "extrait": "Pour le chef de l'Etat, l'objectif est de faire de la France le pays \"le plus rapide d'Europe quand il s'agit de créer des sites industriels\".",
+   "date": "2026-11-23T15:39:27+00:00",
+   "extrait": "\"L'objectif est de maintenir la pression sur la Russie afin qu'elle mette fin à sa guerre d'agression en Ukraine\", met en avant Ursula von der Leyen, présidente de la Commission européenne.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "b6c9a92073d2",
+   "titre": "Amtrak passenger train derails in Louisiana",
+   "lien": "https://www.cbsnews.com/video/amtrak-passenger-train-derails-in-louisiana/",
+   "source": "CBS News",
+   "date": "2026-11-23T15:39:17+00:00",
+   "extrait": "An Amtrak train carrying nearly 100 passengers slammed into an 18-wheeler in Lafayette, Louisiana, Sunday night. Jason Allen reports.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "123d2939c102",
+   "titre": "De la chute du PDG de Nvidia à son retour aux commandes, comment une affaire d'adultère et d'espionnage a fait vaciller le secteur de l'IA",
+   "lien": "https://www.franceinfo.fr/internet/nvidia/recit-des-premieres-revelations-a-la-chute-du-pdg-de-nvidia-comment-une-affaire-d-adultere-provoque-un-seisme-dans-le-secteur-de-l-ia_8280752.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T15:39:08+00:00",
+   "extrait": "Jensen Huang, l'emblématique patron du géant des puces électroniques, a quitté son poste le 12 novembre. Mais le conseil d'administration de l'entreprise a finalement décidé de le réintégrer, dix…",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "016b60bb95d8",
+   "titre": "Origines, objectifs, calendrier… Cinq questions sur la \"règle d'or\" qu'Emmanuel Macron veut mettre en place",
+   "lien": "https://www.franceinfo.fr/economie/budget/origines-objectifs-calendrier-quatre-questions-sur-la-regle-d-or-qu-emmanuel-macron-veut-mettre-en-place_8296010.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T15:38:13+00:00",
+   "extrait": "Le président réfléchit à instaurer une \"règle d'or\" budgétaire afin de contraindre les futurs gouvernements à adopter des budgets à l'équilibre.",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "227bdb6389c8",
+   "titre": "Navires russes attaqués en Libye : \"des cibles légitimes\" justifie Zelensky",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261123-navires-russes-attaqu%C3%A9s-en-libye-des-cibles-l%C3%A9gitimes-justifie-zelensky",
+   "source": "France 24",
+   "date": "2026-11-23T15:36:33+00:00",
+   "extrait": "L'Ukraine a revendiqué lundi des attaques contre deux navires russes menées la veille au large de la Libye, dans ce qui apparaît comme une nouvelle extension de la guerre entre Kiev et Moscou. Les…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "406eaa0915a0",
+   "titre": "Le président de la commission des finances de l'Assemblée, Eric Coquerel, se dit \"fondamentalement opposé\" à l'instauration d'une \"règle d'or\" budgétaire",
+   "lien": "https://www.franceinfo.fr/economie/le-depute-insoumis-eric-coquerel-se-dit-fondamentalement-oppose-au-projet-d-instauration-d-une-regle-d-or-budgetaire_8296287.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T15:35:31+00:00",
+   "extrait": "Cela revient selon lui à \"constitutionnaliser\" une \"politique économique\". Le député insoumis réagit au système pour repousser le risque d'une crise financière, imaginé par Emmanuel Macron.",
    "tags": [
     "Politique"
    ],
    "zone": "france"
+  },
+  {
+   "id": "358b7e133eea",
+   "titre": "Beloved hospital clown finds purpose in cheering up patients",
+   "lien": "https://www.cbsnews.com/video/beloved-hospital-clown-finds-purpose-in-cheering-up-patients/",
+   "source": "CBS News",
+   "date": "2026-11-23T15:34:29+00:00",
+   "extrait": "On this installment of Beg-Knows America, David meets Linda Herbert, known as Lotsy Dotsy by patients at the Joe DiMaggio Children's Hospital in Hollywood, Florida.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "7c60b846c53b",
+   "titre": "Espagne : l’indépendantiste catalan Carles Puigdemont définitivement blanchi par la justice",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/23/espagne-l-independantiste-catalan-carles-puigdemont-definitivement-blanchi-par-la-justice_6814403_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-23T15:31:18+00:00",
+   "extrait": "Le Tribunal suprême espagnol ouvre la voie au retour en Espagne du leader indépendantiste catalan. Celui-ci avait toutefois affirmé qu’il ne rentrerait pas avant les élections législatives du 29…",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "e5a6bf146694",
+   "titre": "Ménopause : les inconnues et les risques de la supplémentation en testostérone pour raviver la libido",
+   "lien": "https://www.lemonde.fr/sciences/article/2026/11/23/menopause-les-inconnues-et-les-risques-de-la-supplementation-en-testosterone-pour-raviver-la-libido_6814402_1650684.html",
+   "source": "Le Monde",
+   "date": "2026-11-23T15:30:03+00:00",
+   "extrait": "Censée redonner aux femmes vitalité et désir sexuel, vantée par nombre d’influenceuses aux Etats-Unis, cette hormone peut induire des effets indésirables immédiats, tandis que les données sur…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "0e54d46c95ce",
+   "titre": "Sommet Choose France : le laboratoire pharmaceutique Virbac dévoile un plan d'investissement de plus de 320 millions d'euros jusqu'en 2030",
+   "lien": "https://www.franceinfo.fr/economie/industrie/direct-sommet-choose-france-emmanuel-macron-en-visite-sur-le-site-d-airbus-a-toulouse_8295704.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T15:29:31+00:00",
+   "extrait": "Depuis Toulouse, Emmanuel Macron a affirmé lundi qu'il voulait faire de la France le pays \"le plus rapide d'Europe quand il s'agit de créer des sites industriels\".",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "49d0bce38578",
+   "titre": "Tips for avoiding the Thanksgiving food coma",
+   "lien": "https://www.cbsnews.com/video/tips-for-avoiding-the-thanksgiving-food-coma/",
+   "source": "CBS News",
+   "date": "2026-11-23T15:28:00+00:00",
+   "extrait": "Dr. Tania Elliott joins \"CBS Mornings\" to offer tips for avoiding the Thanksgiving food coma this year.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "8e7dd38c431e",
+   "titre": "Trump reacts to Nvidia reinstating Jensen Huang as questions on national security risks persist",
+   "lien": "https://www.cbsnews.com/video/trump-reacts-to-nvidia-reinstating-jensen-huang-as-national-security-risks-persist/",
+   "source": "CBS News",
+   "date": "2026-11-23T15:27:35+00:00",
+   "extrait": "President Trump praised Nvidia's board of directors for reinstating Jensen Huang as CEO and president. Here's what to know as questions linger about the national security implications.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "e8cb163a4256",
+   "titre": "Catherine, Princess of Wales, reflects on cancer journey in new documentary",
+   "lien": "https://www.cbsnews.com/video/catherine-princess-of-wales-reflects-on-cancer-journey-in-new-documentary/",
+   "source": "CBS News",
+   "date": "2026-11-23T15:22:34+00:00",
+   "extrait": "Catherine, Princess of Wales, opens up about her cancer journey in a new documentary called \"Heal.\" Leigh Kiniry reports.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "39078e19f4f7",
+   "titre": "Thanksgiving dinner will be more expensive this year, farmers warn",
+   "lien": "https://www.cbsnews.com/video/thanksgiving-dinner-will-be-more-expensive-this-year-farmers-warn/",
+   "source": "CBS News",
+   "date": "2026-11-23T15:21:41+00:00",
+   "extrait": "The American Farm Bureau Federation warns that Thanksgiving dinner will be more expensive in 2026 as inflation and higher prices slam food producers. The group's associate economist, Cameron…",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "11338b368edc",
+   "titre": "Nvidia annonce la réintégration de Jensen Huang comme PDG, onze jours après son départ lié à une affaire d'adultère et d'espionnage",
+   "lien": "https://www.franceinfo.fr/internet/nvidia/nvidia-annonce-la-reintegration-de-jensen-huang-comme-pdg-onze-jours-apres-son-depart-lie-a-une-affaire-d-adultere-et-d-espionnage_8296160.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T15:18:29+00:00",
+   "extrait": "\"Le conseil d'administration estime que Jensen est la personne idéale pour diriger Nvidia et que sa réintégration est dans le meilleur intérêt de nos actionnaires, de nos employés, de nos…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "fb2eded39751",
+   "titre": "Capture of drug lord on FBI's most wanted list leads to more arrests",
+   "lien": "https://www.cbsnews.com/news/chapo-isidro-capture-violence-arrests-mexico/",
+   "source": "CBS News",
+   "date": "2026-11-23T15:18:20+00:00",
+   "extrait": "Fausto Isidro Meza Flores, alias \"Chapo Isidro,\" was captured in Sinaloa during a special forces raid in coordination with U.S. intelligence.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "c37ac1b39f10",
+   "titre": "CBS News obtains video of Trump's cryptocurrency gala",
+   "lien": "https://www.cbsnews.com/video/cbs-news-obtains-video-of-trumps-cryptocurrency-gala/",
+   "source": "CBS News",
+   "date": "2026-11-23T15:11:50+00:00",
+   "extrait": "New video obtained by CBS News shows scenes from President Trump's gala at his Northern Virginia golf club for investors in his $TRUMP cryptocurrency coin. CBS News' Ed O'Keefe reports.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "830e0aabc36b",
+   "titre": "Stock market jumps after Jensen Huang reinstated as Nvidia CEO",
+   "lien": "https://www.cbsnews.com/news/us-stock-futures-rebound-tech-rout/",
+   "source": "CBS News",
+   "date": "2026-11-23T15:06:24+00:00",
+   "extrait": "The Nasdaq soared 6% after the opening bell, erasing all of its losses from Friday, when the index suffered its second-worst day of 2026.",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "d9b8059b3f2a",
+   "titre": "Exclusif – Imane Khelif à France 24 : \"J'ai été victime de manœuvres et d'agendas politiques\"",
+   "lien": "https://www.france24.com/fr/sports/20261123-exclusif-imane-khelif-boxe",
+   "source": "France 24",
+   "date": "2026-11-23T15:04:44+00:00",
+   "extrait": "Sacrée championne olympique aux JO de Paris 2024, l'Algérienne Imane Khelif s'apprête, à 27 ans, à boxer désormais chez les professionnelles. Sur France 24, elle se confie en exclusivité sur cette…",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "fb0f14e7cd62",
+   "titre": "Money tips for managing stock market woes",
+   "lien": "https://www.cbsnews.com/video/money-tips-for-managing-stock-market-woes/",
+   "source": "CBS News",
+   "date": "2026-11-23T15:04:33+00:00",
+   "extrait": "Jill Schlesinger joins \"CBS Mornings\" to discuss recent stock market shifts and how they impact your wallet.",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "ef189e600947",
+   "titre": "\"Les opinions convergent\" : une étude s'attaque à la \"fracture supposée entre urbains et ruraux\" sur la voiture",
+   "lien": "https://www.franceinfo.fr/economie/automobile/entretien-les-opinions-convergent-une-etude-s-attaque-a-la-fracture-supposee-entre-urbains-et-ruraux-sur-la-voiture_8296082.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T15:02:06+00:00",
+   "extrait": "Selon une étude de l'Institut Terram publiée lundi, les usages et les perceptions de l'automobile convergent largement d'un territoire à l'autre, comme l'explique Victor Delage, fondateur et…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "86e7dd717bcd",
+   "titre": "Deux navires russes attaqués dans les eaux libyennes, une extension inédite de la guerre russo-ukrainienne",
+   "lien": "https://www.lemonde.fr/afrique/article/2026/11/23/deux-navires-russes-attaques-dans-les-eaux-libyennes-une-extension-inedite-de-la-guerre-russo-ukrainienne_6814397_3212.html",
+   "source": "Le Monde",
+   "date": "2026-11-23T15:00:09+00:00",
+   "extrait": "Le président ukrainien Volodymyr Zelensky a revendiqué, lundi 23 novembre, le double assaut mené la veille par « sept drones navals » dans la zone maritime de Benghazi. Une telle attaque contre des…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "0189d56754da",
+   "titre": "Fuel prices fluster holiday travelers",
+   "lien": "https://www.cbsnews.com/video/fuel-prices-fluster-holiday-travelers/",
+   "source": "CBS News",
+   "date": "2026-11-23T14:57:00+00:00",
+   "extrait": "Fuel prices are impacting holiday travelers this year, with more Americans saying they won't travel because it's too expensive. Kris Van Cleave reports.",
+   "tags": [],
+   "zone": "usa"
   },
   {
    "id": "c9f8a4ce311f",
@@ -118,31 +526,6 @@
    "zone": "france"
   },
   {
-   "id": "11338b368edc",
-   "titre": "Nvidia annonce la réintégration de Jensen Huang comme PDG, onze jours après son départ lié à une affaire d'adultère et d'espionnage",
-   "lien": "https://www.franceinfo.fr/internet/nvidia/nvidia-annonce-la-reintegration-de-jensen-huang-comme-pdg-onze-jours-apres-son-depart-lie-a-une-affaire-d-adultere-et-d-espionnage_8296160.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-23T14:40:49+00:00",
-   "extrait": "\"Le conseil d’administration estime que Jensen est la personne idéale pour diriger Nvidia et que sa réintégration est dans le meilleur intérêt de nos actionnaires, de nos employés, de nos…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "0f0fc12e2eb6",
-   "titre": "Iran vows to end U.S. naval blockade by \"all available means\"",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
-   "source": "CBS News",
-   "date": "2026-11-23T14:40:29+00:00",
-   "extrait": "Iran vows to force the U.S. to lift its blockade as Trump acknowledges the regime's increasing attacks, but says they've \"done no damage.\"",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "bac9be565357",
    "titre": "Senyss et Anandha Seethanen : deux artistes, deux univers, une même passion pour la scène !",
    "lien": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20261123-senyss-et-anandha-seethanen-deux-artistes-deux-univers-une-m%C3%AAme-passion-pour-la-sc%C3%A8ne",
@@ -163,6 +546,16 @@
     "Justice"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "3adc93e4ddd9",
+   "titre": "Un morceau de plafond s'effondre dans une salle de classe du lycée Saint-Charles à Marseille",
+   "lien": "https://www.franceinfo.fr/faits-divers/un-morceau-de-plafond-s-effondre-dans-une-salle-de-classe-du-lycee-saint-charles-a-marseille_8296196.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T14:36:05+00:00",
+   "extrait": "Il n'y a pas de blessé, précise l'académie d'Aix-Marseille. Cette salle accueille notamment des élèves en classe préparatoire, toutes les classes de l'étage concerné ont été fermées.",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "0915fb462946",
@@ -186,19 +579,6 @@
    "tags": [
     "Économie",
     "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "e9718003a5d0",
-   "titre": "Guerre en Ukraine : Volodymyr Zelensky plaide pour des négociations de paix incluant l'Europe \"le plus tôt possible\"",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-volodymyr-zelensky-revendique-les-attaques-contre-deux-navires-russes-menees-au-large-de-la-libye_8295668.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-23T14:35:04+00:00",
-   "extrait": "Le président ukrainien s'est exprimé devant la réunion annuelle de l'assemblée parlementaire de l'Otan à Berlin.",
-   "tags": [
-    "Politique",
-    "Conflits"
    ],
    "zone": "france"
   },
@@ -237,6 +617,40 @@
    "zone": "monde"
   },
   {
+   "id": "247257639e51",
+   "titre": "Disparues de l'A6 : les trois hommes mis en examen pour viol et meurtre dans l'affaire Carole Soltysiak confrontés à une juge d'instruction",
+   "lien": "https://www.franceinfo.fr/faits-divers/justice-proces/info-radio-france-disparues-de-l-a6-les-trois-hommes-mis-en-examen-pour-viol-et-meurtre-dans-l-affaire-carole-soltysiak-confrontes-a-une-juge-d-instruction_8296187.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T14:30:53+00:00",
+   "extrait": "Le pôle spécialisé dans les cold cases de Nanterre a repris ce dossier en 2022. Cette étape importante de l'instruction peut accélérer la procédure, 36 ans après la mort de la jeune fille.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "dbb593f45ce1",
+   "titre": "\"Oui, je reviens en 2027 à la compétition\", annonce le joueur de tennis français Lucas Pouille, ancien membre du top 10 mondial",
+   "lien": "https://www.franceinfo.fr/sports/tennis/oui-je-reviens-en-2027-a-la-competition-annonce-le-joueur-de-tennis-francais-lucas-pouille-ancien-membre-du-top-10-mondial_8295863.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T14:30:25+00:00",
+   "extrait": "Le Tricolore, âgé de 32 ans, a annoncé vouloir renouer une nouvelle fois avec le circuit, sans objectif précis, lors d'un point presse organisé lundi.",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "6512f1cef8d5",
+   "titre": "Génocide des Rohingya : « Le champ d’action de la Cour internationale de justice s’est orienté vers les enjeux liés aux droits humains »",
+   "lien": "https://www.lemonde.fr/idees/article/2026/11/23/genocide-des-rohingya-le-champ-d-action-de-la-cour-internationale-de-justice-s-est-oriente-vers-les-enjeux-lies-aux-droits-humains_6814395_3232.html",
+   "source": "Le Monde",
+   "date": "2026-11-23T14:30:13+00:00",
+   "extrait": "Le juriste William Schabas souligne, dans une tribune au « Monde », la nouvelle approche de la CIJ, qui s’affranchit des menaces à peine voilées de l’ambassadeur américain auprès des Nations unies…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "d090e4b2f694",
    "titre": "Ukraine claims drone strikes that sank Russian warship off Libya",
    "lien": "https://www.cbsnews.com/video/ukraine-claims-drone-strikes-on-russian-warship-off-libya/",
@@ -259,6 +673,19 @@
     "Politique"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "89586c49d51b",
+   "titre": "Yaël Braun-Pivet demande l'ouverture d'une enquête interne après une vidéo dénonçant les violences policières tournée dans l'hémicycle",
+   "lien": "https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/yael-braun-pivet-demande-l-ouverture-d-une-enquete-interne-apres-une-video-denoncant-les-violences-policieres-tournee-dans-l-hemicycle_8296124.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T14:27:53+00:00",
+   "extrait": "La France insoumise estime de son côté que \"l'Assemblée nationale est la maison du peuple et non le palais de madame Braun-Pivet et de ses amis d'extrême droite\".",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "france"
   },
   {
    "id": "b6590aa1f028",
@@ -291,6 +718,18 @@
    "extrait": "Contre-culture devenue mouvement mondial majeur, le hip-hop, incarné notamment par des stars du rap, met un pied à l'Unesco avec la signature lundi d'une charte ouvrant la perspective d'une…",
    "tags": [],
    "zone": "monde"
+  },
+  {
+   "id": "f088a37b431d",
+   "titre": "\"Pendant la grossesse, il n'y a pas de petit verre\" : une nouvelle campagne de prévention rappelle les risques de l'alcool chez les femmes enceintes",
+   "lien": "https://www.franceinfo.fr/sante/drogue-addictions/pendant-la-grossesse-il-n-y-a-pas-de-petit-verre-une-nouvelle-campagne-de-prevention-rappelle-les-risques-de-l-alcool-chez-la-femme-enceinte_8296094.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T14:22:34+00:00",
+   "extrait": "Santé publique France rappelle qu'aucune consommation ne peut être considérée sans risque pour la santé du fœtus, dans une campagne qui sera diffusée jusqu'au 31 décembre.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "france"
   },
   {
    "id": "51b693fec7e9",
@@ -330,6 +769,18 @@
    "zone": "france"
   },
   {
+   "id": "b7dab142c603",
+   "titre": "Le boxeur anglais Tyson Fury révèle souffrir de schizophrénie",
+   "lien": "https://www.franceinfo.fr/sports/boxe/le-boxeur-anglais-tyson-fury-revele-souffrir-de-schizophrenie_8296130.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T14:18:33+00:00",
+   "extrait": "Dans un documentaire qui sera diffusé à partir de vendredi sur Netflix, Tyson Fury revient sur le diagnostic tombé à l'été 2016 alors qu'il avait été admis à l'hôpital pour une suspicion d'infarctus.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "1d6e8c1dc785",
    "titre": "Nvidia : Jensen Huang rétabli à son poste de directeur général, Trump salue une \"juste décision\"",
    "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261123-jensen-huang-r%C3%A9tabli-son-poste-directeur-g%C3%A9n%C3%A9ral-nvidia",
@@ -340,6 +791,16 @@
     "Politique"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "126198cd04dc",
+   "titre": "A Nazaré, les champions de surf attendent la plus grosse vague du monde",
+   "lien": "https://www.franceinfo.fr/sports/a-nazare-les-championnats-du-monde-de-surf-sur-la-plus-grosse-vague-du-monde-attendent-le-top-depart_8296043.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T14:16:25+00:00",
+   "extrait": "Plus puissante que Jaws à Hawaï, plus haute que Mavericks en Californie ou Teahupo'o à Tahiti, la vague de Nazaré, au Portugal, est régulièrement mesurée à près de trente mètres. Plusieurs Français…",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "aa73f1035caf",
@@ -354,6 +815,18 @@
    "zone": "usa"
   },
   {
+   "id": "7f48f640fad1",
+   "titre": "La création à l'ère de I'IA : onze organisations du secteur culturel lancent une consultation citoyenne",
+   "lien": "https://www.franceinfo.fr/culture/la-creation-a-l-ere-de-i-ia-onze-organisations-du-secteur-culturel-lancent-une-consultation-citoyenne_8295971.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T14:09:58+00:00",
+   "extrait": "Les gens sont invités à soumettre leurs idées sur la façon d'assurer l'avenir de la création sur une plateforme en ligne.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "41d8e41a61ed",
    "titre": "Finale de la CAN 2025 : le TAS rendra sa décision \"mardi après-midi\"",
    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261123-finale-de-la-can-2025-le-tas-rendra-sa-d%C3%A9cision-mardi-apr%C3%A8s-midi",
@@ -365,6 +838,31 @@
     "Sport"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "7704172db2f7",
+   "titre": "En Allemagne, \"le frein à la dette\" est inscrit dans la Constitution depuis 2009 mais a été assoupli",
+   "lien": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-le-frein-a-la-dette-est-inscrit-dans-la-constitution-depuis-2009-mais-a-ete-assoupli_8296088.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T14:08:03+00:00",
+   "extrait": "Emmanuel Macron envisage d'inscrire dans la Constitution une \"règle d'or budgétaire\". Chez nos voisins allemands, ce concept est appliqué depuis 2009.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "eea1de758bdc",
+   "titre": "Le gouvernement fait adopter au Sénat une prolongation de la prime carburant en 2027",
+   "lien": "https://www.franceinfo.fr/economie/automobile/essence/le-gouvernement-fait-adopter-au-senat-une-prolongation-de-la-prime-carburant-en-2027_8296031.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T14:07:35+00:00",
+   "extrait": "La mise en œuvre de ce dispositif devra être confirmée dans la copie finale du budget.",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "france"
   },
   {
    "id": "2b9e216240ef",
@@ -385,18 +883,6 @@
    "extrait": "An ICE arrest caught on video is drawing criticism after agents grabbed a father and daughter on the jet bridge of an Alaska Airlines flight. Camilo Montoya Galvez reports.",
    "tags": [
     "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "830e0aabc36b",
-   "titre": "Stock futures rise, erasing some losses after tech rout",
-   "lien": "https://www.cbsnews.com/news/us-stock-futures-rebound-tech-rout/",
-   "source": "CBS News",
-   "date": "2026-11-23T13:56:09+00:00",
-   "extrait": "U.S. stock index futures regained ground on Monday, but Wall Street analysts think it's too soon to sound the all-clear.",
-   "tags": [
-    "Tech"
    ],
    "zone": "usa"
   },
@@ -526,7 +1012,7 @@
   },
   {
    "id": "1baaa97b8aff",
-   "titre": "Flights and train services cancelled in Belgium due to strike",
+   "titre": "Flights cancelled in Belgium due to cost-of-living strike",
    "lien": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-23T13:34:02+00:00",
@@ -536,16 +1022,6 @@
     "Conflits"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "3cdcb14143f0",
-   "titre": "A timeline of the Karen Read case",
-   "lien": "https://www.cbsnews.com/news/karen-read-trial-timeline-john-okeefe/",
-   "source": "CBS News",
-   "date": "2026-11-23T13:28:54+00:00",
-   "extrait": "Here's a look at how events have unfolded in the Karen Read case.",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "2d44bce881f7",
@@ -868,18 +1344,6 @@
    "zone": "france"
   },
   {
-   "id": "2b2400015386",
-   "titre": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-   "lien": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-23T11:40:01+00:00",
-   "extrait": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
    "id": "b4fcf422d095",
    "titre": "Déraillement d'un TER en Seine-Maritime : quatre personnes interpellées près de Rouen",
    "lien": "https://www.franceinfo.fr/faits-divers/accident/info-radio-france-deraillement-d-un-ter-en-seine-maritime-trois-hommes-interpelles-pres-de-rouen_8295620.html#xtor=RSS-3-[lestitres]",
@@ -1017,6 +1481,19 @@
     "Conflits"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "adb9134c3a2f",
+   "titre": "Les stations de ski prises en étau entre sauvegarde de l'économie locale et adaptation au réchauffement climatique",
+   "lien": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/les-stations-de-ski-prises-en-etau-entre-sauvegarde-de-l-economie-locale-et-adaptation-au-rechauffement-climatique_8289866.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T10:40:08+00:00",
+   "extrait": "Les premières stations ont ouvert ce week-end, pour le plus grand bonheur des skieurs. Mais, avec un climat qui se réchauffe, la neige se fait de plus en plus rare et de nombreuses communes qui…",
+   "tags": [
+    "Économie",
+    "Climat"
+   ],
+   "zone": "france"
   },
   {
    "id": "10a9a2ff5146",
@@ -3000,477 +3477,6 @@
    "source": "CBS News",
    "date": "2026-11-22T17:40:06+00:00",
    "extrait": "The following is the transcript of the interview with House Minority Leader Hakeem Jeffries, Democrat of New York, that aired on \"Face the Nation with Margaret Brennan\" on Nov. 22, 2026.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "7afa5cc11a34",
-   "titre": "Jeffries talks about where Democrats may be able to work with Trump",
-   "lien": "https://www.cbsnews.com/news/hakeem-jeffries-trump-democrats-healthcare/",
-   "source": "CBS News",
-   "date": "2026-11-22T17:39:08+00:00",
-   "extrait": "House Minority Leader Hakeem Jeffries outlined areas where Democrats \"can explore coming together\" with President Trump.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "aa9df4dbf158",
-   "titre": "Meet the young authors! A literacy program inspires kids in South Africa",
-   "lien": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
-   "source": "NPR",
-   "date": "2026-11-22T17:34:20+00:00",
-   "extrait": "South Africa is working to overcome a children's literacy crisis. In one Johannesburg township, a reading club is instilling a love of books in kids — and inspiring them to become authors.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "420d64b63621",
-   "titre": "Jeffries on healthcare areas where he thinks Democrats could \"explore coming together\" with Trump",
-   "lien": "https://www.cbsnews.com/video/jeffries-on-healthcare-areas-where-he-thinks-democrats-could-explore-coming-together-with-trump/",
-   "source": "CBS News",
-   "date": "2026-11-22T17:32:36+00:00",
-   "extrait": "Rep. Hakeem Jeffries, who is set to become House speaker in January after winning his party's nomination, shared with Margaret Brennan the areas where he thinks Democrats could potentially work with…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "3f46d3442fff",
-   "titre": "Bessent says Trump administration has \"been in touch\" with Nvidia leadership but still needs answers",
-   "lien": "https://www.cbsnews.com/video/bessent-says-trump-administration-has-been-in-touch-with-nvidia-leadership-but-still-needs-answers/",
-   "source": "CBS News",
-   "date": "2026-11-22T17:25:29+00:00",
-   "extrait": "Treasury Secretary Scott Bessent told Margaret Brennan that the Trump administration has \"been in touch\" with Nvidia's leadership amid the Jensen Huang scandal, but the government still needs…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "d35cc8fac981",
-   "titre": "L’idée d’une « règle d’or » budgétaire dans la Constitution soutenue par Marine Le Pen et Thierry Breton, critiquée par Gabriel Zucman",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/22/l-idee-d-une-regle-d-or-budgetaire-dans-la-constitution-soutenue-par-marine-le-pen-et-thierry-breton-critiquee-par-gabriel-zucman_6814238_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-22T17:21:58+00:00",
-   "extrait": "Le projet d’un Congrès convoqué par Emmanuel Macron sur ce sujet avant l’élection présidentielle, évoqué dans « La Tribune Dimanche », et sur lequel l’Elysée n’a fait aucun commentaire, consisterait…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "86c4e817690b",
-   "titre": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-   "lien": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-22T17:18:26+00:00",
-   "extrait": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "3885a5fcd3a6",
-   "titre": "Open: This is \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026",
-   "lien": "https://www.cbsnews.com/video/open-this-is-face-the-nation-with-margaret-brennan-nov-22-2026/",
-   "source": "CBS News",
-   "date": "2026-11-22T17:17:06+00:00",
-   "extrait": "This week on \"Face the Nation with Margaret Brennan,\" Treasury Secretary Scott Bessent, Rep. Hakeem Jeffries and Microsoft President Brad Smith join. Plus, a panel of experts discusses the recent…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "54fd0ef5b282",
-   "titre": "L'absence d'accord à l'issue de la COP 31 est \"frustrant\", réagit Laurence Tubiana, présidente de la Fondation européenne pour le climat",
-   "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/l-absence-d-accord-a-l-issue-de-la-cop-31-est-frustrant-reagit-laurence-tubiana-presidente-de-la-fondation-europeenne-pour-le-climat_8295074.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-22T17:16:53+00:00",
-   "extrait": "L'économiste est déçue face aux avancées \"ces dernières années\" malgré la \"sortie des accords de Paris des États-Unis pour la deuxième fois\".",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "f8e6632a2152",
-   "titre": "La COP31 s’achève sur un échec, sans accord devant la division des pays sur les énergies fossiles",
-   "lien": "https://www.lemonde.fr/climat/article/2026/11/22/la-cop31-s-acheve-sur-un-echec-sans-accord-devant-la-division-des-pays-sur-les-energies-fossiles_6814199_1652613.html",
-   "source": "Le Monde",
-   "date": "2026-11-22T17:11:49+00:00",
-   "extrait": "« Nous n’approuverons pas une décision (…) ne mentionnant même pas les combustibles fossiles, qui sont le principal moteur du changement climatique », a déclaré le ministre du climat irlandais…",
-   "tags": [
-    "Politique",
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "b0a1ad9b1621",
-   "titre": "L’ascension éclair de la paire française Arribagé-Olivetti, sacrés « maîtres » des finales ATP à peine un an après leurs débuts",
-   "lien": "https://www.lemonde.fr/sport/article/2026/11/22/l-ascension-eclair-de-la-paire-francaise-arribage-olivetti-sacres-maitres-des-finales-atp-a-peine-un-an-apres-leurs-debuts_6814235_3242.html",
-   "source": "Le Monde",
-   "date": "2026-11-22T17:09:44+00:00",
-   "extrait": "Les Français l’ont emporté, dimanche à Turin, en finale du tournoi des maîtres face à la paire Arévalo-Pavic (3-6, 7-6, 10-6). Une victoire qui vient couronner une première saison presque parfaite.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "ce539d19d089",
-   "titre": "En Martinique, tous les chemins mènent au rhum",
-   "lien": "https://www.lemonde.fr/m-styles/article/2026/11/22/en-martinique-tous-les-chemins-menent-au-rhum_6814232_4497319.html",
-   "source": "Le Monde",
-   "date": "2026-11-22T17:00:11+00:00",
-   "extrait": "En obtenant son appellation d’origine contrôlée il y a trente ans, le rhum produit sur l’île antillaise a fait du passage dans les distilleries une étape incontournable pour les touristes. Un…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "ceff01a7eed2",
-   "titre": "Mathématiques et IA : prenons le temps de comprendre",
-   "lien": "https://www.lemonde.fr/sciences/article/2026/11/22/mathematiques-et-ia-prenons-le-temps-de-comprendre_6814234_1650684.html",
-   "source": "Le Monde",
-   "date": "2026-11-22T17:00:10+00:00",
-   "extrait": "Dans sa carte blanche au « Monde », le mathématicien et académicien Etienne Ghys prend acte de l’accélération que l’intelligence artificielle apporte à sa discipline. Mais il rappelle que les maths…",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "2b83d996e9bd",
-   "titre": "La COP31 s'achève sur un échec, l'UE rejette la proposition d'accord final",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261122-la-cop31-s-ach%C3%A8ve-sur-un-%C3%A9chec-l-ue-rejette-la-proposition-d-accord-final",
-   "source": "France 24",
-   "date": "2026-11-22T16:41:59+00:00",
-   "extrait": "La COP31 ​se dirigeait dimanche 22 novembre vers un échec et le rejet par une majorité de pays du texte de conclusion présenté par la Turquie et l'Australie, qui pilotaient les négociations, un…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "5d2db01dd340",
-   "titre": "Corée du Sud : démission du ministre de l'Éducation après un scandale de triche à l'IA",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261122-cor%C3%A9e-du-sud-d%C3%A9mission-du-ministre-de-l-%C3%A9ducation-apr%C3%A8s-un-scandale-de-triche-%C3%A0-l-ia",
-   "source": "France 24",
-   "date": "2026-11-22T16:41:05+00:00",
-   "extrait": "Le ministre de l'Éducation sud-coréen a démissionné dimanche 22 novembre, emporté par un scandale de triche à l'intelligence artificielle qui a semé le doute quant à la bonne tenue des sacro-saints…",
-   "tags": [
-    "Politique",
-    "Tech"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "11211a0add5b",
-   "titre": "Ukraine : au moins deux morts après une frappe de drone russe contre un immeuble résidentiel",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261122-ukraine-au-moins-deux-morts-apr%C3%A8s-une-frappe-de-drone-russe-contre-un-immeuble-r%C3%A9sidentiel",
-   "source": "France 24",
-   "date": "2026-11-22T16:39:36+00:00",
-   "extrait": "Au ​moins deux personnes ont été tuées et une ​dizaine d'autres pourraient encore se trouver piégées sous les décombres d'un immeuble résidentiel frappé par un drone russe ​ce dimanche ‌22 novembre…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "c1ec93b8531e",
-   "titre": "De la Seine-Saint-Denis à la Nasa, retour sur le parcours d'Allan Petre",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261122-de-la-seine-saint-denis-%C3%A0-la-nasa-retour-sur-le-parcours-d-allan-petre",
-   "source": "France 24",
-   "date": "2026-11-22T16:38:38+00:00",
-   "extrait": "L'ingénieur aérospatial Allan Petre a intégré la Nasa a 24 ans, ce qui fait de lui l'un des plus jeunes Français à y parvenir. Il publie \"Astro Allan\", une bande-dessinée retraçant son parcours.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "b6d5aeb52ae3",
-   "titre": "Climat : la COP31 échoue devant la division des pays sur les énergies fossiles",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261122-climat-la-cop31-%C3%A9choue-devant-la-division-des-pays-sur-les-%C3%A9nergies-fossiles",
-   "source": "France 24",
-   "date": "2026-11-22T16:37:45+00:00",
-   "extrait": "La COP31, la plus longue conférence de l'ONU sur le climat de l'histoire, s'est terminée sur un échec ce dimanche 22 novembre à Antalya en Turquie, après le rejet par l'Union européenne et d'autres…",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "23fbed6e74ab",
-   "titre": "COP31 à Antalya : pas d'accord en vue ?",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261122-cop31-%C3%A0-antalya-pas-d-accord-en-vue",
-   "source": "France 24",
-   "date": "2026-11-22T16:35:32+00:00",
-   "extrait": "La COP31 à Antalya est déjà la COP la plus longue de l’histoire, avec 44 heures de prolongations. Les négociations s’enlisent sur les énergies fossiles. Nous en parlons avec notre correspondante…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "ce43cfa67e42",
-   "titre": "COP31 à Antalya : la plus longue COP de l'histoire s'achève sur un échec",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261122-cop31-%C3%A0-antalya-la-plus-longue-cop-de-l-histoire-s-ach%C3%A8ve-sur-un-%C3%A9chec",
-   "source": "France 24",
-   "date": "2026-11-22T16:35:25+00:00",
-   "extrait": "La COP31, la plus longue conférence de l'ONU sur le climat de l'histoire, s'est terminée sur un échec dimanche 22 novembre à Antalya, en Turquie, après le rejet par l'Union européenne et d'autres…",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "3581c5c40c6a",
-   "titre": "Échec de la COP31 à Antalya : \"Nous sommes passés à côté d'une opportunité\"",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261122-%C3%A9chec-de-la-cop31-%C3%A0-antalya-nous-sommes-pass%C3%A9s-%C3%A0-c%C3%B4t%C3%A9-d-une-opportunit%C3%A9",
-   "source": "France 24",
-   "date": "2026-11-22T16:34:17+00:00",
-   "extrait": "\"Nous sommes passés à côté d'une opportunité\", a reconnu le président de la COP après de très longues négociations. La COP31 à Antalya se termine donc sur un échec. Nous en parlons avec notre…",
-   "tags": [
-    "Politique",
-    "Climat"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "4fa2e6869078",
-   "titre": "Climate change talks fall apart in final hours over fossil fuels",
-   "lien": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
-   "source": "NPR",
-   "date": "2026-11-22T16:33:22+00:00",
-   "extrait": "Some 200 countries gathered in Antalya, Turkey, for COP31, the annual climate negotiations. Countries failed to reach an agreement over fossil fuels - the primary driver of global warming.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "44d809778c36",
-   "titre": "COP31 : décryptage après son échec malgré 44 heures de prolongations",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261122-cop31-d%C3%A9cryptage-apr%C3%A8s-son-%C3%A9chec-malgr%C3%A9-44-heures-de-prolongations",
-   "source": "France 24",
-   "date": "2026-11-22T16:30:55+00:00",
-   "extrait": "La COP31 à Antalya se solde par un échec. Nous en parlons avec notre chroniqueuse Anne Corpet. \"À la COP, les décisions se prennent par consensus : il faut l'unanimité. Le constat, c’est que…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "0d5325f410a7",
-   "titre": "« Le Collège noir : Complainte d’Auvergne », sur ADN : cinq collégiens mènent l’aventure dans le Cantal",
-   "lien": "https://www.lemonde.fr/culture/article/2026/11/22/le-college-noir-complainte-d-auvergne-sur-adn-cinq-collegiens-menent-l-aventure-dans-le-cantal_6814231_3246.html",
-   "source": "Le Monde",
-   "date": "2026-11-22T16:30:11+00:00",
-   "extrait": "Sur fond de légendes rurales, une bande de jeunes copains confrontés à la malédiction d’une sorcière tente de surmonter leur peur et les dangers qui se dressent.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "5cb65ceed327",
-   "titre": "Les fouilles de l’épave de la « Lune », le grand vaisseau de Louis XIV qui gît à 90 mètres de fond au large de Toulon, racontent une archéologie de l’extrême",
-   "lien": "https://www.lemonde.fr/sciences/article/2026/11/22/les-fouilles-de-l-epave-de-la-lune-le-grand-vaisseau-de-louis-xvi-qui-git-a-90-metres-de-fond-au-large-de-toulon-racontent-une-archeologie-de-l-extreme_6814230_1650684.html",
-   "source": "Le Monde",
-   "date": "2026-11-22T16:30:06+00:00",
-   "extrait": "L’épave du grand vaisseau de Louis XIV gît par 90 mètres de fond au large de Toulon dans un état de conservation remarquable. Des fouilles menées cet été par des plongeurs de la marine nationale ont…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "025d32e19cd5",
-   "titre": "France : un \"marché de Noël d'autrefois\" à Villeneuve d'Ascq",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261122-france-un-march%C3%A9-de-no%C3%ABl-d-autrefois-%C3%A0-villeneuve-d-ascq",
-   "source": "France 24",
-   "date": "2026-11-22T16:28:55+00:00",
-   "extrait": "La plupart des marchés de Noël ouvrent ce week-end en France, et certains ont choisi de maintenir les traditions et l’artisanat. Focus sur le marché de Noël \"d’autrefois\" de Villeneuve-d’Ascq.",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "2777f36c1a91",
-   "titre": "Israël : Eisenkot condamne des attaques de colons juifs en Cisjordanie",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261122-isra%C3%ABl-eisenkot-condamne-des-attaques-de-colons-juifs-en-cisjordanie",
-   "source": "France 24",
-   "date": "2026-11-22T16:25:44+00:00",
-   "extrait": "Des ⁠colons israéliens ont attaqué ​dimanche 22 novembre des villages palestiniens de Cisjordanie occupée, provoquant des incendies et ​inscrivant des graffitis racistes, rapportent des témoins…",
-   "tags": [
-    "Conflits",
-    "Climat"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "7e250bd40706",
-   "titre": "Soudan : l’Ethiopie mise en cause dans des frappes de drones sur des zones résidentielles et un bâtiment de l’ONU à Khartoum",
-   "lien": "https://www.lemonde.fr/afrique/article/2026/11/22/soudan-l-ethiopie-mise-en-cause-dans-des-frappes-de-drones-sur-des-zones-residentielles-et-un-batiment-de-l-onu-a-khartoum_6814229_3212.html",
-   "source": "Le Monde",
-   "date": "2026-11-22T16:03:40+00:00",
-   "extrait": "Au début de novembre, le Soudan avait annoncé avoir saisi le Conseil de sécurité de l’ONU et l’Union africaine, accusant le pays voisin de soutenir les paramilitaires des Forces de soutien rapide…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "f50d0d64bfcd",
-   "titre": "Aux Etats-Unis, Melat Kiros, 29 ans, démocrate, socialiste et première femme de la génération Z à entrer au Congrès",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/22/aux-etats-unis-melat-kiros-29-ans-democrate-socialiste-et-premiere-femme-de-la-generation-z-a-entrer-au-congres_6814225_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-22T16:00:02+00:00",
-   "extrait": "Née en Ethiopie et élue à la Chambre des représentants lors des midterms dans le Colorado, cette ex-avocate incarne une jeune génération de parlementaires qui renouvellent aussi bien la forme que le…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "93000ba93e86",
-   "titre": "Dans le Nord, Vanderschooten fait le pari de relancer le linge de maison made in France",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/22/dans-le-nord-vanderschooten-fait-le-pari-de-relancer-le-linge-de-maison-made-in-france_6814226_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-22T16:00:02+00:00",
-   "extrait": "Dans ce département, où la filière textile a été balayée par les importations asiatiques, une entreprise familiale installée à Nieppe s’emploie à relancer du linge de maison entièrement fabriqué en…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "9cfb98da64b2",
-   "titre": "Une frappe iranienne sur un \"site industriel civil\" fait deux blessés à Bahreïn",
-   "lien": "https://www.franceinfo.fr/monde/moyen-orient/une-frappe-iranienne-sur-un-site-industriel-civil-fait-deux-blesses-a-bahrein_8294927.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-22T15:57:57+00:00",
-   "extrait": "Les Gardiens de la Révolution ont revendiqué samedi soir des frappes contre des installations américaines en réponse aux \"violations continues de l'espace aérien\" iranien.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "e3a693a8b407",
-   "titre": "Budget : Macron envisage d'inscrire une \"règle d'or\" dans la Constitution",
-   "lien": "https://www.france24.com/fr/info-en-continu/20261122-macron-pourrait-faire-inscrire-sur-une-r%C3%A8gle-d-or-dans-la-constitution",
-   "source": "France 24",
-   "date": "2026-11-22T15:54:26+00:00",
-   "extrait": "Emmanuel Macron va-t-il graver dans la Constitution une \"règle d'or\" budgétaire ? Le projet, évoqué dimanche dans la presse, lui permettrait de quitter l'Elysée sur une mesure emblématique…",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "23c198f958f6",
-   "titre": "EN DIRECT, guerre en Ukraine : les secours « poursuivent leur intervention » après l’attaque d’un immeuble d’habitation par un drone russe, près de Kiev",
-   "lien": "https://www.lemonde.fr/international/live/2026/11/22/en-direct-guerre-en-ukraine-les-secours-poursuivent-leurs-interventions-apres-l-attaque-d-un-immeuble-d-habitation-par-un-drone-russe-pres-de-kiev_6814183_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-22T15:44:58+00:00",
-   "extrait": "L’attaque d’un immeuble de cinq étages par un drone russe à Dymer – au nord de Kiev – a tué deux personnes, et onze autres sont portées disparues.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "a8cbeebb9a8a",
-   "titre": "La Corse en vigilance orange aux vents violents à partir de dimanche minuit, le Jura et l'Ain restent en alerte pour pluie-inondation et le Pas-de-Calais pour un risque de crues",
-   "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/apres-le-jura-le-departement-de-l-ain-a-son-tour-place-en-vigilance-orange-pluie-inondations-le-pas-de-calais-maintenu-en-alerte-orange-aux-crues_8294486.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-22T15:43:57+00:00",
-   "extrait": "\"Cet épisode de vent fort intervient dans un contexte où les sols sont très humides, ce qui peut notamment favoriser les chutes d'arbres\", met en garde Météo-France concernant les deux départements…",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "6113e3335036",
-   "titre": "Cisjordanie occupée : Eisenkot condamne des attaques de colons et dénonce un \"terrorisme juif\"",
-   "lien": "https://www.france24.com/fr/moyen-orient/20261122-cisjordanie-occup%C3%A9e-eisenkot-condamne-des-attaques-de-colons-et-d%C3%A9nonce-un-terrorisme-juif",
-   "source": "France 24",
-   "date": "2026-11-22T15:42:24+00:00",
-   "extrait": "Une enquête a été ouverte dimanche par les autorités israéliennes après des incendies de véhicules palestiniens et des graffitis sur les murs dans quatre villages de Cisjordanie occupée. Gadi…",
-   "tags": [
-    "Politique",
-    "Conflits",
-    "Climat",
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "3b2336c1177e",
-   "titre": "Après l’attentat de Trappes, un entrepreneur de Millau lance une nouvelle marche nationale contre le racisme, au départ de Marseille",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/22/apres-l-attentat-de-trappes-un-entrepreneur-de-millau-lance-une-nouvelle-marche-nationale-contre-le-racisme-au-depart-de-marseille_6814223_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-22T15:30:09+00:00",
-   "extrait": "Le parcours démarrera lundi 23 novembre avec l’objectif de rejoindre la ville des Yvelines. Sollicités, certains marcheurs de 1983 sont circonspects sur l’impact d’une nouvelle édition.",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "f50842d54ccc",
-   "titre": "Nature: Turkeys in New Hampshire",
-   "lien": "https://www.cbsnews.com/video/nature-turkeys-in-new-hampshire/",
-   "source": "CBS News",
-   "date": "2026-11-22T15:30:04+00:00",
-   "extrait": "We leave you this Sunday with turkeys on the run in Rye, New Hampshire. Videographer: Michael Clark.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "a47d9d95802c",
-   "titre": "11/22: Face The Nation",
-   "lien": "https://www.cbsnews.com/video/112226-face-the-nation/",
-   "source": "CBS News",
-   "date": "2026-11-22T15:30:00+00:00",
-   "extrait": "On this week's \"Face the Nation with Margaret Brennan,\" Rep. Hakeem Jeffries, Treasury Secretary Scott Bessent and Microsoft President Brad Smith join. Plus, cybersecurity experts Chris Krebs…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "74c89393571e",
-   "titre": "Guri guri: A Hawaiian favorite",
-   "lien": "https://www.cbsnews.com/video/guri-guri-a-hawaiian-favorite/",
-   "source": "CBS News",
-   "date": "2026-11-22T15:27:10+00:00",
-   "extrait": "The ingredients that go into the Hawaiian dessert guri guri – creamier than sherbet and lighter than ice cream – are a closely-guarded family secret. But on the island of Maui, where it's been…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "3f79c124acd1",
-   "titre": "Just add water: Creating food for the great outdoors",
-   "lien": "https://www.cbsnews.com/video/just-add-water-creating-food-for-the-great-outdoors/",
-   "source": "CBS News",
-   "date": "2026-11-22T15:21:06+00:00",
-   "extrait": "Freeze-dried and dehydrated foods have become popular with hikers for their outdoor adventures. Correspondent Conor Knighton witnesses the processes used to turn entire meals – from beef stroganoff…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "f8a0ad778073",
-   "titre": "Tony Shalhoub on food, family, and his book, \"We Thought They'd Never Leave\"",
-   "lien": "https://www.cbsnews.com/news/tony-shalhoub-on-food-family-and-his-book-we-thought-theyd-never-leave/",
-   "source": "CBS News",
-   "date": "2026-11-22T15:08:56+00:00",
-   "extrait": "For the award-winning star of \"Monk,\" food had always been an integral part of family. And now he's teamed with daughter Josie Adams to write a food memoir: \"We Thought They'd Never Leave,\" the…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "cf6a2cd8f8af",
-   "titre": "Tony Shalhoub on food and family",
-   "lien": "https://www.cbsnews.com/video/tony-shalhoub-on-food-and-family/",
-   "source": "CBS News",
-   "date": "2026-11-22T15:07:00+00:00",
-   "extrait": "For Emmy- and Tony-winning actor Tony Shalhoub (\"Monk,\" \"The Marvelous Mrs. Maisel\"), food had always been an integral part of family. And now he's teamed with daughter Josie Adams to write a food…",
    "tags": [],
    "zone": "usa"
   }
