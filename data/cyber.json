@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-23T05:05:49+00:00",
+ "maj": "2026-11-23T06:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,15 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "099bf3d5fed4",
+   "titre": "On a trouvé l'adresse de 8 chefs d'entreprise sur 10 en moins de 10 minutes. Sans pirater quoi que ce soit. #sponso",
+   "lien": "https://korben.info/incogni-adresses.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-23T05:07:10+00:00",
+   "extrait": "Incogni a localisé en moins de 10 minutes l'adresse de 80 % des CEO testés dans la finance, via Google et des sites de recherche de personnes. Le rapport couvre plus de 2 400 entreprises cotées et…",
+   "tags": []
+  },
   {
    "id": "6bdca88f72f1",
    "titre": "Ledger : un pirate piège d’autres pirates avec un faux fichier",
@@ -3345,18 +3354,6 @@
     "Faille",
     "Fuite de données",
     "Windows"
-   ]
-  },
-  {
-   "id": "c398aa3e9226",
-   "titre": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
-   "lien": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
-   "source": "The Hacker News",
-   "date": "2026-11-12T15:38:49+00:00",
-   "extrait": "Citrix has released patches for multiple critical security flaws impacting NetScaler ADC, Citrix NetScaler Gateway, and NetScaler Console that could lead to denial-of-service (DoS) or an…",
-   "tags": [
-    "CVE",
-    "Faille"
    ]
   }
  ]
