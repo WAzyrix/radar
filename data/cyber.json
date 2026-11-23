@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-23T18:05:47+00:00",
+ "maj": "2026-11-23T19:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "f714b48247a9",
+   "titre": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
+   "lien": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
+   "source": "BleepingComputer",
+   "date": "2026-11-23T18:38:40+00:00",
+   "extrait": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
   {
    "id": "1ab128c432ff",
    "titre": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
@@ -3326,17 +3337,6 @@
    "date": "2026-11-13T15:27:05+00:00",
    "extrait": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out. One of them, Mior, can…",
    "tags": []
-  },
-  {
-   "id": "db3fd3a5adb8",
-   "titre": "How one AI agent exposed five critical enterprise security gaps",
-   "lien": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
-   "source": "BleepingComputer",
-   "date": "2026-11-13T15:01:11+00:00",
-   "extrait": "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security…",
-   "tags": [
-    "IA"
-   ]
   }
  ]
 }
