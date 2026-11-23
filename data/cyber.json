@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-23T06:05:41+00:00",
+ "maj": "2026-11-23T07:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,15 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "e37cec1c0e28",
+   "titre": "Morfo sème des forêts par drone sur d'anciennes mines",
+   "lien": "https://korben.info/morfo-drones-restauration-forets.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-23T05:40:12+00:00",
+   "extrait": "Morfo largue par drone des capsules de graines sur des sols ravagés par les mines. En Guyane, le couvert végétal est passé de 0 à 81 % en quatre ans, mais sur une mine de bauxite au Brésil, le…",
+   "tags": []
+  },
   {
    "id": "099bf3d5fed4",
    "titre": "On a trouvé l'adresse de 8 chefs d'entreprise sur 10 en moins de 10 minutes. Sans pirater quoi que ce soit. #sponso",
@@ -3341,19 +3350,6 @@
    "extrait": "A critical flaw in Red Hat Quay allows an attacker who can access a Quay registry to read and overwrite private container images in every repository. Quay enables anonymous access by default, and…",
    "tags": [
     "Faille"
-   ]
-  },
-  {
-   "id": "ad9757975fce",
-   "titre": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
-   "lien": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
-   "source": "BleepingComputer",
-   "date": "2026-11-12T16:04:00+00:00",
-   "extrait": "Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges. [...]",
-   "tags": [
-    "Faille",
-    "Fuite de données",
-    "Windows"
    ]
   }
  ]
