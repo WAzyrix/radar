@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-23T04:05:45+00:00",
+ "maj": "2026-11-23T05:05:49+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,11 +22,69 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "3d3e259607cf",
+   "titre": "Double attaque contre des bateaux au large de la Libye",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261123-double-attaque-contre-des-bateaux-au-large-de-la-libye",
+   "source": "France 24",
+   "date": "2026-11-23T04:44:50+00:00",
+   "extrait": "Sur des images publiées sur les réseaux sociaux, on peut apercevoir une corvette russe en feu. Plus tard, un navire marchand, dont le pavillon n'a pas été précisé, a été pris pour cible au large de…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "b0eaad06d055",
+   "titre": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+   "lien": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-23T04:44:00+00:00",
+   "extrait": "Ten people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "6cacf81a377f",
+   "titre": "Présidentielle 2027 : Marine Le Pen, une campagne au défi de la justice",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/23/presidentielle-2027-marine-le-pen-une-campagne-au-defi-de-la-justice_6814312_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-23T04:30:10+00:00",
+   "extrait": "La candidate du Rassemblement national à l’Elysée, déclarée le soir même d’une condamnation pour détournements de fonds publics, ne fait aucun cas des multiples affaires et soupçons d’atteinte à la…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "ee7caa5872be",
+   "titre": "L’itinéraire d’Hugues Moutouh, préfet « provocateur et dominant », ex-bras droit de Claude Guéant aujourd’hui soupçonné d’être une « taupe » du RN",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/23/l-itineraire-d-hugues-moutouh-prefet-provocateur-et-dominant-ex-bras-droit-de-claude-gueant-aujourd-hui-soupconne-d-etre-une-taupe-du-rn_6814310_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-23T04:30:03+00:00",
+   "extrait": "Ce haut fonctionnaire adepte de la manière forte, qui dément avoir manqué à ses devoirs et a demandé à « être relevé de ses fonctions », s’est servi de l’élection de Nicolas Sarkozy à la présidence…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "6e19fb64c645",
+   "titre": "Mali : Amnesty va lancer une campagne pour exiger la libération de l'influenceuse Rokiatou Doumbia",
+   "lien": "https://www.france24.com/fr/afrique/20261123-amnesty-international-lance-campagne-liberation-influenceuse-rokiatou-doumbia-mali-junte-prison-association-malfaiteurs",
+   "source": "France 24",
+   "date": "2026-11-23T04:05:23+00:00",
+   "extrait": "Amnesty se mobilise pour l'influenceuse Rokiatou Doumbia, alias \"Rose, la vie chère\", en lançant la campagne Écrire pour les droits pour réclamer sa libération dès le 10 décembre. Voix critique de…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
    "id": "9601d2da7449",
    "titre": "Voiture : sept millions de personnes en France prises en étau entre nécessité et coût, pointe une étude",
    "lien": "https://www.lemonde.fr/economie/article/2026/11/23/voiture-sept-millions-de-personnes-en-france-prises-en-etau-entre-necessite-et-cout-pointe-une-etude_6814273_3234.html",
    "source": "Le Monde",
-   "date": "2026-11-23T03:10:39+00:00",
+   "date": "2026-11-23T03:10:36+00:00",
    "extrait": "Alors que les dépenses de carburant restent élevées, la voiture représente 13 % du budget des ménages disposant de 1 000 à 2 000 euros par mois, contre 3,5 % pour ceux dont les revenus dépassent 5…",
    "tags": [
     "Économie"
@@ -50,18 +108,6 @@
    "source": "BBC World",
    "date": "2026-11-23T02:59:35+00:00",
    "extrait": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "b0eaad06d055",
-   "titre": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-   "lien": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-23T02:37:02+00:00",
-   "extrait": "Nine people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
    "tags": [
     "Conflits"
    ],
@@ -548,7 +594,7 @@
    "titre": "Guadeloupe : le CHU victime d’une « cyberattaque de grande ampleur », le plan blanc déclenché",
    "lien": "https://www.lemonde.fr/outre-mer/article/2026/11/22/guadeloupe-le-chu-victime-d-une-cyberattaque-de-grande-ampleur-le-plan-blanc-declenche_6814248_1840826.html",
    "source": "Le Monde",
-   "date": "2026-11-22T21:54:52+00:00",
+   "date": "2026-11-22T21:54:51+00:00",
    "extrait": "L’activité du centre hospitalier, dont le système d’information et la téléphonie sont très affectés, a été déprogrammée « sur la semaine qui vient » afin de « réserver la prise en charge des…",
    "tags": [],
    "zone": "france"
@@ -3345,53 +3391,6 @@
    "extrait": "\"Je refuse que l’Etat, le ministère de l'Intérieur et le corps préfectoral deviennent les cibles ou les instruments de ces entreprises de déstabilisation\", a déclaré samedi le haut fonctionnaire…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "e771a2da5d6b",
-   "titre": "La Finlande soupçonne un hélicoptère russe d'avoir violé son espace aérien",
-   "lien": "https://www.franceinfo.fr/monde/russie/la-finlande-soupconne-un-helicoptere-russe-d-avoir-viole-son-espace-aerien_8293799.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-21T18:36:51+00:00",
-   "extrait": "L'appareil a pénétré jusqu'à 4,1 km à l'intérieur du territoire finlandais, a précisé le ministère de la Défense.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "8bc565a2398f",
-   "titre": "Une enquête ouverte contre des policiers pour violences et agression sexuelle en marge de la manifestation parisienne du 31 octobre",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/une-enquete-ouverte-contre-des-policiers-pour-violences-et-agression-sexuelle-en-marge-de-la-manifestation-parisienne-du-31-octobre_8293754.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-21T18:34:53+00:00",
-   "extrait": "Les deux manifestants sont par ailleurs accusés d'avoir chacun frappé un policier, ce qu'ils contestent.",
-   "tags": [
-    "Conflits",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "2fb7975d7926",
-   "titre": "Trump signs executive order on federal workers' responses to Congress",
-   "lien": "https://www.cbsnews.com/news/trump-executive-order-federal-contractors-white-house-congress/",
-   "source": "CBS News",
-   "date": "2026-11-21T18:33:46+00:00",
-   "extrait": "If they fail to comply, the White House warns their contracts could be terminated and their future work with the federal government suspended.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "dfe381e48c47",
-   "titre": "Trump vows to work with Democrats to cap credit card interest rates",
-   "lien": "https://www.cbsnews.com/news/trump-credit-card-rates-democrats-politics/",
-   "source": "CBS News",
-   "date": "2026-11-21T18:27:57+00:00",
-   "extrait": "President Trump says he will work with the incoming Democratic Congress to cap credit card interest rates.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
   }
  ]
 }
