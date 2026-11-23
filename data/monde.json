@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-23T03:05:40+00:00",
+ "maj": "2026-11-23T04:05:45+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,18 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "9601d2da7449",
+   "titre": "Voiture : sept millions de personnes en France prises en étau entre nécessité et coût, pointe une étude",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/23/voiture-sept-millions-de-personnes-en-france-prises-en-etau-entre-necessite-et-cout-pointe-une-etude_6814273_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-23T03:10:39+00:00",
+   "extrait": "Alors que les dépenses de carburant restent élevées, la voiture représente 13 % du budget des ménages disposant de 1 000 à 2 000 euros par mois, contre 3,5 % pour ceux dont les revenus dépassent 5…",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "0c6f238e7b82",
    "titre": "Army plans to carry out detonation at Iowa plant on Wednesday",
    "lien": "https://www.cbsnews.com/news/us-army-iowa-plant-detonation-court-records/",
@@ -38,6 +50,18 @@
    "source": "BBC World",
    "date": "2026-11-23T02:59:35+00:00",
    "extrait": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "b0eaad06d055",
+   "titre": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+   "lien": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-23T02:37:02+00:00",
+   "extrait": "Nine people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
    "tags": [
     "Conflits"
    ],
@@ -256,7 +280,7 @@
   },
   {
    "id": "869385fb6274",
-   "titre": "The $10 synthetic opioid that killed him",
+   "titre": "He took a $10 synthetic opioid few have heard of. It killed him.",
    "lien": "https://www.cbsnews.com/news/synthetic-opioids-nitazenes-cartel-chemists-60-minutes/",
    "source": "CBS News",
    "date": "2026-11-23T00:59:00+00:00",
@@ -269,7 +293,7 @@
    "titre": "Gold Star families hear from Army about its investigation into Iranian drone strike | 60 Minutes",
    "lien": "https://www.cbsnews.com/video/cost-of-war-update-60-minutes-video-2026-11-22/",
    "source": "CBS News",
-   "date": "2026-11-23T00:58:15+00:00",
+   "date": "2026-11-23T00:58:00+00:00",
    "extrait": "Gold Star families this past week finally got some answers from the Army about the Iranian drone strike that killed their loved ones — but their search for accountability goes on.",
    "tags": [
     "Conflits"
@@ -281,7 +305,7 @@
    "titre": "Prison inmates become cowboys at Louisiana State Penitentiary | 60 Minutes",
    "lien": "https://www.cbsnews.com/video/angola-prison-rodeo-60-minutes-video-2026-11-22/",
    "source": "CBS News",
-   "date": "2026-11-23T00:58:11+00:00",
+   "date": "2026-11-23T00:58:00+00:00",
    "extrait": "Louisiana State Penitentiary, once known as \"the bloodiest prison in America,\" hosts a rodeo. Inmates turned self-taught cowboys leap onto wild animals for a chance to chase a feeling of freedom.",
    "tags": [],
    "zone": "usa"
@@ -291,7 +315,7 @@
    "titre": "TCC: An online community where young people idolize, sometimes emulate mass shooters | 60 Minutes",
    "lien": "https://www.cbsnews.com/video/tcc-60-minutes-video-2026-11-22/",
    "source": "CBS News",
-   "date": "2026-11-23T00:58:07+00:00",
+   "date": "2026-11-23T00:58:00+00:00",
    "extrait": "Researchers have identified 12 attacks in the US in the last three years that were carried out by members in the TCC, a growing online community that idolizes mass shooters.",
    "tags": [
     "Conflits"
@@ -303,7 +327,7 @@
    "titre": "Synthetic opioids 80 times more potent than fentanyl | 60 Minutes",
    "lien": "https://www.cbsnews.com/video/synthetic-opioid-60-minutes-video-2026-11-22/",
    "source": "CBS News",
-   "date": "2026-11-23T00:58:02+00:00",
+   "date": "2026-11-23T00:58:00+00:00",
    "extrait": "The DEA is confronting what it calls the deadliest drug threat the U.S. has faced: synthetic opioids. Drug cartels tweak one molecule at a time to evade law enforcement.",
    "tags": [],
    "zone": "usa"
@@ -329,6 +353,28 @@
    "extrait": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
    "tags": [],
    "zone": "monde"
+  },
+  {
+   "id": "8fce329df41e",
+   "titre": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+   "lien": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-23T00:08:00+00:00",
+   "extrait": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "b923544f9ec0",
+   "titre": "11/22/2026: One Molecule at a Time; The Mass Shooter Fandom; The Angola Prison Rodeo",
+   "lien": "https://www.cbsnews.com/video/60minutes-2026-11-22/",
+   "source": "CBS News",
+   "date": "2026-11-23T00:00:00+00:00",
+   "extrait": "First, a look at how drug cartels make synthetic opioids. Then, investigating the online community idolizing mass shooters. And, visiting a rodeo inside a maximum security prison.",
+   "tags": [],
+   "zone": "usa"
   },
   {
    "id": "f73b238b685b",
@@ -385,6 +431,16 @@
     "Tech"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "2232681f0518",
+   "titre": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+   "lien": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-22T22:49:10+00:00",
+   "extrait": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "8a751f6c999e",
@@ -3336,60 +3392,6 @@
     "Politique"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "5b39ce0ac4a8",
-   "titre": "Les mystères de Mercure, l’étrange planète du Système solaire, que la mission BepiColombo devrait lever",
-   "lien": "https://www.lemonde.fr/sciences/article/2026/11/21/les-mysteres-de-mercure-l-etrange-planete-du-systeme-solaire-que-la-mission-bepicolombo-devrait-lever_6814059_1650684.html",
-   "source": "Le Monde",
-   "date": "2026-11-21T18:25:01+00:00",
-   "extrait": "Après huit ans de transit, les deux sondes de la mission européano-japonaise se sont mises en orbite autour de Mercure. Elles devraient aider les scientifiques à résoudre les nombreuses énigmes qui…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "6c3af45b1395",
-   "titre": "Storms expected on both coasts threaten Thanksgiving travel",
-   "lien": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
-   "source": "NPR",
-   "date": "2026-11-21T18:22:46+00:00",
-   "extrait": "The mayor of San Francisco is asking people in the city not to travel unless \"absolutely essential.\" Meanwhile, a storm moving up the Eastern seaboard could also cause travel delays ahead of…",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "9c1697a8c9bb",
-   "titre": "Le PSG conforte sa place de leader de Ligue 1 en s'imposant à Nice, mais tremble pour Désiré Doué",
-   "lien": "https://www.franceinfo.fr/sports/foot/ligue-1/le-psg-conforte-sa-place-de-leader-de-ligue-1-en-s-imposant-a-nice-mais-tremble-pour-desire-doue_8294072.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-21T18:22:24+00:00",
-   "extrait": "Un temps mené, le Paris Saint-Germain a réagi en patron pour s'imposer sur la Côte d'Azur (3-2), samedi, pour le compte de la 11e journée du championnat de France, mais a perdu sur blessure Désiré…",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "7579189f0844",
-   "titre": "Les Etats-Unis déclassifient de nouveaux documents concernant des ovnis et des phénomènes \"anormaux\"",
-   "lien": "https://www.franceinfo.fr/monde/usa/les-etats-unis-declassifient-de-nouveaux-documents-concernant-des-ovnis-et-des-phenomenes-anormaux_8293832.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-21T18:12:20+00:00",
-   "extrait": "Parmi cette quarantaine de documents figurent des extraits filmés sur des plateformes militaires américaines au Moyen-Orient.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "f94dbd0c37a8",
-   "titre": "EN DIRECT, France-Argentine : Kalvin Gourgues creuse l’écart pour les Bleus, en route vers la finale du Championnat des nations",
-   "lien": "https://www.lemonde.fr/sport/live/2026/11/21/en-direct-france-argentine-suivez-le-match-du-championnat-des-nations-de-rugby_6814058_3242.html",
-   "source": "Le Monde",
-   "date": "2026-11-21T18:10:04+00:00",
-   "extrait": "Le XV de France dispute, samedi au Stade de France, son dernier match de la phase de groupes du Championnat des nations, face aux Pumas argentins. S’ils conservent la tête de la poule Nord, les…",
-   "tags": [],
-   "zone": "france"
   }
  ]
 }
