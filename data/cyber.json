@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-23T00:05:40+00:00",
+ "maj": "2026-11-23T01:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,15 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "697d7aa86804",
+   "titre": "Cyberattaque à Chambourcy : INC Ransom revendique l’attaque",
+   "lien": "https://www.zataz.com/cyberattaque-a-chambourcy-inc-ransom-revendique-lattaque/",
+   "source": "Zataz",
+   "date": "2026-11-23T00:36:24+00:00",
+   "extrait": "Cyberattaque à Chambourcy : INC Ransom revendique l'intrusion. ZATAZ révèle des documents de police municipale exposés.",
+   "tags": []
+  },
   {
    "id": "e84afceb005f",
    "titre": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
@@ -3350,17 +3359,6 @@
     "Malware",
     "IA",
     "Outil"
-   ]
-  },
-  {
-   "id": "62ff99ae778b",
-   "titre": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
-   "lien": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
-   "source": "BleepingComputer",
-   "date": "2026-11-12T15:07:20+00:00",
-   "extrait": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations. [...]",
-   "tags": [
-    "Malware"
    ]
   }
  ]
