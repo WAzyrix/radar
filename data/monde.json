@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-23T20:05:40+00:00",
+ "maj": "2026-11-23T21:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,17 +22,267 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "f3bab8b633f5",
+   "titre": "Trump says he convinced Nvidia board to reinstate Jensen Huang",
+   "lien": "https://www.cbsnews.com/news/nvidia-jensen-huang-trump-comment-national-security-risk/",
+   "source": "CBS News",
+   "date": "2026-11-23T21:02:08+00:00",
+   "extrait": "President Trump claimed the government \"has no reason to believe\" Jensen Huang's return is a national security risk.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "d8cb3bebac6c",
+   "titre": "Trump, tech CEOs cheer Huang's return, but lawmakers question board",
+   "lien": "https://www.cbsnews.com/news/trump-elon-musk-business-leaders-cheer-jensen-huang-ceo-nvidia/",
+   "source": "CBS News",
+   "date": "2026-11-23T20:55:56+00:00",
+   "extrait": "President Trump and prominent tech figures applauded Huang's reinstatement as CEO, though some lawmakers criticized the move as \"reckless.\"",
+   "tags": [
+    "Politique",
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "c744454e0947",
+   "titre": "Mending relationships over the holidays? Considering a truce? NPR wants to know",
+   "lien": "https://www.npr.org/2026/11/23/g-s1-155085/holidays-relationships-politics-dispute",
+   "source": "NPR",
+   "date": "2026-11-23T20:53:12+00:00",
+   "extrait": "Has a political or social issue broken down a relationship that was important to you? Can it be repaired? Tell us what's going on. You might be asked to participate in a possible upcoming segment on…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "d525316f2942",
+   "titre": "S'il est élu, Dominique de Villepin prévoit d'organiser \"un rassemblement\" et convoquera le Congrès au lendemain de l'élection présidentielle",
+   "lien": "https://www.franceinfo.fr/elections/video-s-il-est-elu-dominique-de-villepin-prevoit-d-organiser-un-rassemblement-et-convoquera-le-congres-au-lendemain-de-l-election-presidentielle_8296740.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T20:51:01+00:00",
+   "extrait": "Interrogé sur franceinfo et France 2 lundi, l'ancien Premier ministre a expliqué prévoir, s'il parvient à être élu, de réunir les parlementaires pour leur demander \"de s'entendre et d'être capable…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "851c213c2355",
+   "titre": "Jimmy Gomez to resign after Ethics panel finds evidence of misconduct",
+   "lien": "https://www.cbsnews.com/news/house-ethics-investigation-jimmy-gomez-sexual-misconduct/",
+   "source": "CBS News",
+   "date": "2026-11-23T20:50:30+00:00",
+   "extrait": "The bipartisan committee said Rep. Jimmy Gomez made unwanted sexual advances and sexual contact with a House staffer.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "e8b12cc5b998",
+   "titre": "What strike on Russian ship in Libya says about spread of Ukraine war",
+   "lien": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-23T20:48:35+00:00",
+   "extrait": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "89f1a7156724",
+   "titre": "La France va créer des stocks stratégiques de terres rares et de métaux prioritaires pour réduire sa dépendance à la Chine d’ici à 2027",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/23/la-france-va-creer-des-stocks-strategiques-de-terres-rares-et-de-metaux-prioritaires-pour-reduire-sa-dependance-a-la-chine-d-ici-a-2027_6814452_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-23T20:43:40+00:00",
+   "extrait": "La Caisse des dépôts, qui pilotera le projet, va consulter les industriels des secteurs stratégiques utilisant ces matières premières.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "e79460596291",
+   "titre": "Budget 2027 : Sébastien Lecornu appelle au « compromis » dans une lettre aux parlementaires et liste les priorités du gouvernement",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/23/budget-2027-sebastien-lecornu-appelle-au-compromis-dans-une-lettre-aux-parlementaires-et-liste-les-priorites-du-gouvernement_6814451_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-23T20:42:50+00:00",
+   "extrait": "Alors que les projets de loi de finances et de financement de la Sécurité sociale ont été rejetés à l’Assemblée nationale, le premier ministre souhaite poursuivre les discussions avec les…",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "3780f9f243c7",
+   "titre": "Why the Army says it needs to detonate unstable explosives in Iowa",
+   "lien": "https://www.cbsnews.com/news/lead-azide-detonation-iowa-army-explosives/",
+   "source": "CBS News",
+   "date": "2026-11-23T20:41:00+00:00",
+   "extrait": "The U.S. Army plans to detonate 68 drums of lead azide in Iowa despite local leaders and residents raising concerns.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "425c48221cbd",
+   "titre": "Democrats have flipped 47 House seats. Here's the breakdown.",
+   "lien": "https://www.cbsnews.com/news/house-districts-flipped-2026-midterm-elections/",
+   "source": "CBS News",
+   "date": "2026-11-23T20:38:43+00:00",
+   "extrait": "Democrats won control of the House by flipping dozens of Republican-held seats, picking up perennial swing districts and seats that were once considered deep red.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "08e5d38639a8",
+   "titre": "Did GOP efforts to redistrict the House turn into a dummymander?",
+   "lien": "https://www.cbsnews.com/news/dummymander-republican-redistricting-congress-trump/",
+   "source": "CBS News",
+   "date": "2026-11-23T20:38:05+00:00",
+   "extrait": "Republicans undertook a historic effort to redraw several states' congressional districts mid-decade in an attempt to maintain control of the House.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "a2ed5e2feb66",
+   "titre": "Les Etats-Unis annoncent de nouvelles sanctions pour priver l’Iran de rentrées d’argent",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/23/les-etats-unis-annoncent-de-nouvelles-sanctions-pour-priver-l-iran-de-rentrees-d-argent_6814450_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-23T20:37:04+00:00",
+   "extrait": "Des milliards de dollars de transactions suspectes liées à l’Iran ont été détectés par le régulateur américain FinCEN entre 2025 et 2026, selon le Trésor.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "8a751f6c999e",
+   "titre": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
+   "lien": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/",
+   "source": "CBS News",
+   "date": "2026-11-23T20:36:11+00:00",
+   "extrait": "Jane Pauley hosts our annual \"Eat, Drink & Be Merry\" holiday broadcast exploring all things epicurean! Check out our menu...",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "4353fad25724",
+   "titre": "Taking on credit card debt to buy food",
+   "lien": "https://www.cbsnews.com/news/taking-on-credit-card-debt-to-buy-food/",
+   "source": "CBS News",
+   "date": "2026-11-23T20:35:00+00:00",
+   "extrait": "According to a recent survey, about 63% of Americans are using credit cards to buy increasingly expensive groceries – and many are having trouble paying off that food debt.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "1c9984881d90",
+   "titre": "Le prix de L’Équerre d’argent distingue la restructuration du Musée des arts décoratifs et du design de Bordeaux",
+   "lien": "https://www.lemonde.fr/culture/article/2026/11/23/le-prix-de-l-equerre-d-argent-distingue-la-restructuration-du-musee-des-arts-decoratifs-et-du-design-de-bordeaux_6814448_3246.html",
+   "source": "Le Monde",
+   "date": "2026-11-23T20:33:06+00:00",
+   "extrait": "Le jury de cette 44ᵉ édition a récompensé, lundi, le projet réalisé par l’agence Antoine Dufour pour le soin apporté aux détails, la grande finesse du dessin et la maîtrise de toutes les dimensions…",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "da1491c637da",
+   "titre": "Nvidia's Jensen Huang still testifying before Congress next week",
+   "lien": "https://www.cbsnews.com/news/jensen-huang-congress-reinstatement-nvidia/",
+   "source": "CBS News",
+   "date": "2026-11-23T20:29:37+00:00",
+   "extrait": "Jensen Huang is still set to testify before lawmakers next week, congressional panels confirmed, after he was reinstated as Nvidia's CEO Monday, after resigning earlier this month amid allegations…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "66d15285efce",
+   "titre": "La France va se doter de \"stocks stratégiques\" de terres rares et \"métaux prioritaires\", annonce l'Elysée",
+   "lien": "https://www.franceinfo.fr/economie/industrie/la-france-va-se-doter-de-stocks-strategiques-de-terres-rares-et-metaux-prioritaires-annonce-l-elysee_8296749.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T20:23:10+00:00",
+   "extrait": "Ce projet sera piloté par la Caisse des dépôts qui doit désormais consulter les industriels des secteurs stratégiques utilisant ces matières premières incontournables.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "0f0fc12e2eb6",
    "titre": "Iran vows to end U.S. naval blockade by \"all available means\"",
    "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
    "source": "CBS News",
-   "date": "2026-11-23T20:05:28+00:00",
+   "date": "2026-11-23T20:23:09+00:00",
    "extrait": "Iran vows to force the U.S. to lift its blockade as Trump acknowledges the regime's increasing attacks, but says they've \"done no damage.\"",
    "tags": [
     "Politique",
     "Conflits"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "4a6274205eb6",
+   "titre": "\"J'ai une phobie de l'eau maintenant\" : les sinistrés du Pas-de-Calais épuisés par les inondations",
+   "lien": "https://www.franceinfo.fr/france/hauts-de-france/pas-de-calais/j-ai-une-phobie-de-l-eau-maintenant-les-sinistres-du-pas-de-calais-epuises-par-les-inondations_8296695.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T20:14:42+00:00",
+   "extrait": "Le niveau de la Canche baisse ce lundi 23 novembre, mais la décrue est lente après les inondations, dans le Pas-de-Calais. À Aix-en-Issart, une habitante rencontrée par France Télévisions vit…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "7bf9142e3e10",
+   "titre": "Une enquête ouverte dans une école de police de Seine-et-Marne après des accusations de racisme, de salut nazi et d’agression sexuelle",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/23/une-enquete-ouverte-dans-une-ecole-de-police-de-seine-et-marne-apres-des-accusations-de-racisme-de-salut-nazi-et-d-agression-sexuelle_6814447_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-23T20:12:35+00:00",
+   "extrait": "La justice a été saisie le 29 octobre par le commandant de l’établissement situé à Cannes-Ecluse, sur la base de l’article 40 du code de procédure pénale, qui oblige les agents publics à signaler…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "9f81ab186665",
+   "titre": "L'encaissement de plus d'un million de chèques bloqué à cause d'une grève d'agents des finances publiques à Rennes",
+   "lien": "https://www.franceinfo.fr/economie/greve/l-encaissement-de-plus-d-un-million-de-cheques-bloque-a-cause-d-une-greve-d-agents-des-finances-publiques-a-rennes_8296731.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T20:08:23+00:00",
+   "extrait": "Ces agents travaillent dans un centre des finances publiques qui gère l'encaissement des chèques pour le paiement des amendes ou encore des factures d'hôpitaux. La fermeture du site est prévue…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "eba976fe0f94",
+   "titre": "Présidentielle : qui pourra rassembler ?",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261123-pr%C3%A9sidentielle-qui-pourra-rassembler",
+   "source": "France 24",
+   "date": "2026-11-23T19:58:31+00:00",
+   "extrait": "À moins de cinq mois du premier tour de la présidentielle, prévu le 18 avril, la course à l’Élysée s’annonce particulièrement disputée. Dernier en date à entrer dans la course : Dominique de…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "b794a224a909",
+   "titre": "Grand Paris Express : l’ouverture de la nouvelle ligne 18 du métro plus compromise que jamais",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/23/grand-paris-express-l-ouverture-de-la-nouvelle-ligne-18-du-metro-plus-compromise-que-jamais_6814446_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-23T19:57:41+00:00",
+   "extrait": "Valérie Pécresse, présidente de la région Ile-de-France, a convoqué une réunion d’urgence avec les acteurs concernés et enjoint Alstom, concepteur du système d’automatisation, à trouver « des…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "7e238c81d661",
+   "titre": "L’Union européenne veut « interdire l’affichage des symboles russes » dans les compétitions sportives sur son sol",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/23/l-union-europeenne-veut-interdire-l-affichage-des-symboles-russes-dans-les-competitions-sportives-sur-son-sol_6814445_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-23T19:56:44+00:00",
+   "extrait": "La Commission européenne n’entend pas laisser les athlètes russes concourir sous leurs couleurs. Elle souhaite aussi interdire « aux Européens de continuer à occuper des postes dans les instances…",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "c73e3537be55",
@@ -54,6 +304,18 @@
    "date": "2026-11-23T19:54:33+00:00",
    "extrait": "Le texte prévoit que \"lorsqu'ils font usage de leurs armes\", policiers et gendarmes \"sont présumés avoir agi\" dans le cadre de la loi. Les députés socialistes s'inquiètent notamment, dans leur…",
    "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "8ec5b466467a",
+   "titre": "Environ 50 000 étudiants de l'Université de Lille n'auront plus cours en présentiel jusqu'à la fin du semestre",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/environ-50-000-etudiants-de-l-universite-de-lille-n-auront-plus-cours-en-presentiel-jusqu-a-la-fin-du-semestre_8296719.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T19:53:47+00:00",
+   "extrait": "Suite à une décision du président de l'Université de Lille, Régis Bordet, la plupart des campus resteront fermés jusqu'au 18 décembre. Une décision prise dans un contexte de mobilisation des…",
+   "tags": [
+    "Politique"
+   ],
    "zone": "france"
   },
   {
@@ -117,30 +379,6 @@
    "zone": "usa"
   },
   {
-   "id": "d8cb3bebac6c",
-   "titre": "Trump, tech leaders and investors cheer Huang's return to Nvidia",
-   "lien": "https://www.cbsnews.com/news/trump-elon-musk-business-leaders-cheer-jensen-huang-ceo-nvidia/",
-   "source": "CBS News",
-   "date": "2026-11-23T19:14:19+00:00",
-   "extrait": "Nvidia's market value soared by $1 trillion, as President Trump and prominent tech figures applauded Huang's reinstatement as CEO.",
-   "tags": [
-    "Politique",
-    "Économie",
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "3780f9f243c7",
-   "titre": "Why the Army says it needs to detonate unstable explosives in Iowa",
-   "lien": "https://www.cbsnews.com/news/lead-azide-detonation-iowa-army-explosives/",
-   "source": "CBS News",
-   "date": "2026-11-23T19:13:00+00:00",
-   "extrait": "The U.S. Army plans to detonate 68 drums of lead azide in Iowa despite local leaders and residents raising concerns.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "048c5f68683f",
    "titre": "Trump orders Army not to detonate unstable explosives in Iowa without court approval",
    "lien": "https://www.cbsnews.com/video/trump-orders-army-not-to-detonate-unstable-explosives-in-iowa-without-court-approval/",
@@ -176,16 +414,16 @@
    "zone": "france"
   },
   {
-   "id": "f3bab8b633f5",
-   "titre": "Trump says he convinced Nvidia board to reinstate Jensen Huang",
-   "lien": "https://www.cbsnews.com/news/nvidia-jensen-huang-trump-comment-national-security-risk/",
-   "source": "CBS News",
-   "date": "2026-11-23T18:50:44+00:00",
-   "extrait": "President Trump claimed the government \"has no reason to believe\" Jensen Huang's return is a national security risk.",
+   "id": "e724f59d4d7a",
+   "titre": "Pays pétroliers offensifs, Européens à sec, organisateurs largués... Qui est responsable de l'échec de la COP31 sur le climat ?",
+   "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/pays-petroliers-offensifs-europeens-a-sec-organisateurs-largues-qui-est-responsable-de-l-echec-de-la-cop31-sur-le-climat_8295716.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T18:53:09+00:00",
+   "extrait": "Les discussions ont notamment bloqué sur la mention explicite des énergies fossiles dans la déclaration finale.",
    "tags": [
-    "Politique"
+    "Climat"
    ],
-   "zone": "usa"
+   "zone": "france"
   },
   {
    "id": "bad42ffcfebb",
@@ -466,7 +704,7 @@
    "lien": "https://www.france24.com/fr/europe/20261123-navires-russes-cibl%C3%A9s-libye-face-moscou-ukraine-%C3%A9tend-domaine-lutte",
    "source": "France 24",
    "date": "2026-11-23T17:23:47+00:00",
-   "extrait": "Le président Volodymyr Zelensky a revendiqué lundi l'attaque de deux navires russes au large de Benghazi dans l'est de la Libye. Une opération spectaculaire destinée à frapper la logistique russe et…",
+   "extrait": "Le président Volodymyr Zelensky a revendiqué lundi l'attaque de deux navires russes au large de Benghazi, dans l'est de la Libye. Une opération spectaculaire destinée à frapper la logistique russe…",
    "tags": [
     "Politique",
     "Conflits"
@@ -1644,6 +1882,16 @@
    "zone": "france"
   },
   {
+   "id": "1d6e8c1dc785",
+   "titre": "🔴 Jensen Huang rétabli à son poste de directeur général de Nvidia",
+   "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261123-jensen-huang-r%C3%A9tabli-son-poste-directeur-g%C3%A9n%C3%A9ral-nvidia",
+   "source": "France 24",
+   "date": "2026-11-23T14:21:18+00:00",
+   "extrait": "",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
    "id": "2ec14474da74",
    "titre": "Jeffries presents Democrats' plan as Trump slams Schumer amid Senate leadership debate",
    "lien": "https://www.cbsnews.com/video/jeffries-presents-democrats-plan-as-trump-slams-schumer-amid-senate-leadership-debate/",
@@ -1678,18 +1926,6 @@
     "Santé"
    ],
    "zone": "france"
-  },
-  {
-   "id": "1d6e8c1dc785",
-   "titre": "Nvidia : Trump assume avoir fait pression pour le retour de Jensen Huang, les démocrates fulminent",
-   "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261123-jensen-huang-r%C3%A9tabli-son-poste-directeur-g%C3%A9n%C3%A9ral-nvidia",
-   "source": "France 24",
-   "date": "2026-11-23T14:17:25+00:00",
-   "extrait": "Le président américain Donald Trump a annoncé lundi avoir eu des \"échanges directs\" avec le conseil d'administration du géant américain Nvidia pour réintégrer Jensen Huang comme directeur général et…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
   },
   {
    "id": "aa73f1035caf",
@@ -3249,257 +3485,6 @@
    "extrait": "Le Paris Saint-Germain a perdu samedi Désiré Doué, qui devrait être absent de longs mois à la suite d'une rupture d'un ligament du genou droit, un mois après la grave blessure de Khvicha…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "725fd586e09e",
-   "titre": "Soudan : des enfants mis en danger par la malnutrition",
-   "lien": "https://www.franceinfo.fr/monde/soudan-des-enfants-mis-en-danger-par-la-malnutrition_8292443.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-23T05:00:02+00:00",
-   "extrait": "Au Soudan, l’ONU s’alarme d’un nouveau risque de famine. La guerre entre les miliciens et l’armée régulière ravage toujours l’ouest et le sud du pays. De nouvelle populations sont déplacées avec…",
-   "tags": [
-    "Conflits",
-    "Santé"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "639589a9e34e",
-   "titre": "Cryptomonnaies : comment faire le tri parmi 66 millions d’actifs possibles",
-   "lien": "https://www.lemonde.fr/argent/article/2026/11/23/cryptomonnaies-comment-faire-le-tri-parmi-66-millions-d-actifs-possibles_6814342_1657007.html",
-   "source": "Le Monde",
-   "date": "2026-11-23T05:00:00+00:00",
-   "extrait": "Malgré les dizaines de millions de jetons numériques existant, seule une poignée d’entre eux domine le marché.",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "8ebba764c2f4",
-   "titre": "En Guadeloupe, la défaillance de la Sécurité sociale met en difficulté de nombreux bénéficiaires",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/23/en-guadeloupe-la-defaillance-de-la-securite-sociale-met-en-difficulte-de-nombreux-beneficiaires_6814340_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-23T05:00:00+00:00",
-   "extrait": "Dossiers de retraite en retard, arrêts maladie non indemnisés… La Cour des comptes a publié un rapport alarmant, le 10 novembre, sur la Caisse de sécurité sociale de la Guadeloupe, pointant de…",
-   "tags": [
-    "Économie",
-    "Santé"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "1c0abc584a67",
-   "titre": "Pour Emmanuel Macron, un Choose France 100 % tricolore sur fond de morosité pour les entreprises françaises",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/23/pour-emmanuel-macron-un-choose-france-100-tricolore-sur-fond-de-morosite-des-entreprises-francaises_6814341_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-23T05:00:00+00:00",
-   "extrait": "Le chef de l’Etat tient, lundi 23 novembre, un sommet destiné à mettre en avant 42,5 milliards d’euros d’investissement en France émanant des entreprises hexagonales. Derrière les montants affichés…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "69eaabaab165",
-   "titre": "On vous explique les débats autour de la retraite par capitalisation, que plusieurs candidats à la présidentielle proposent d'introduire pour financer les pensions",
-   "lien": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/on-vous-explique-les-debats-autour-de-la-retraite-par-capitalisation-que-plusieurs-candidats-a-la-presidentielle-proposent-d-introduire-pour-financer-les-pensions_8288555.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-23T04:59:45+00:00",
-   "extrait": "Certains prétendants à l'Elysée souhaitent que les actifs financent une partie de leur retraite avec des cotisations placées durant leur carrière, alors que le système actuel repose sur la…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "1ceadd1f0864",
-   "titre": "Margot, 34 ans, fleuriste, 1 300 euros net par mois : « Je n’ai jamais aussi bien gagné ma vie, mais je travaille jusqu’à 70 heures par semaine »",
-   "lien": "https://www.lemonde.fr/campus/article/2026/11/23/margot-34-ans-fleuriste-1-300-euros-net-par-mois-les-clients-viennent-s-acheter-des-bouquets-parce-qu-ils-ont-le-moral-dans-les-chaussettes_6814339_4401467.html",
-   "source": "Le Monde",
-   "date": "2026-11-23T04:55:04+00:00",
-   "extrait": "« La bonne paye ». Chaque semaine, « Le Monde » parle d’argent avec les jeunes. Que signifie « bien gagner sa vie » ? Comment se projettent-ils dans l’avenir ? Cette semaine, Margot, fleuriste à…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "61284a57bfcf",
-   "titre": "Turquie : la COP31 se termine, sans accord",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261123-turquie-la-cop31-se-termine-sans-accord",
-   "source": "France 24",
-   "date": "2026-11-23T04:48:32+00:00",
-   "extrait": "Malgré deux semaines de négociations, aucun consensus n'a pu être trouvé au terme de la COP31 à Antalya. L'UE a refusé un projet de décision finale omettant les énergies fossiles. \"Nous…",
-   "tags": [
-    "Politique",
-    "Climat"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "3d3e259607cf",
-   "titre": "Double attaque contre des bateaux au large de la Libye",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261123-double-attaque-contre-des-bateaux-au-large-de-la-libye",
-   "source": "France 24",
-   "date": "2026-11-23T04:44:50+00:00",
-   "extrait": "Sur des images publiées sur les réseaux sociaux, on peut apercevoir une corvette russe en feu. Plus tard, un navire marchand, dont le pavillon n'a pas été précisé, a été pris pour cible au large de…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "6cacf81a377f",
-   "titre": "Présidentielle 2027 : Marine Le Pen et le RN, cernés par les procédures, misent sur l’indifférence présumée des électeurs pour les affaires judiciaires",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/23/presidentielle-2027-marine-le-pen-une-campagne-au-defi-de-la-justice_6814312_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-23T04:30:07+00:00",
-   "extrait": "La candidate du Rassemblement national à l’Elysée, officiellement entrée en lice le soir même d’une condamnation pour détournements de fonds publics, ne fait aucun cas des multiples affaires et…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "ee7caa5872be",
-   "titre": "L’itinéraire d’Hugues Moutouh, préfet « provocateur et dominant », ex-bras droit de Claude Guéant aujourd’hui soupçonné d’être une « taupe » du RN",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/23/l-itineraire-d-hugues-moutouh-prefet-provocateur-et-dominant-ex-bras-droit-de-claude-gueant-aujourd-hui-soupconne-d-etre-une-taupe-du-rn_6814310_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-23T04:29:59+00:00",
-   "extrait": "Ce haut fonctionnaire adepte de la manière forte, qui dément avoir manqué à ses devoirs et a demandé à être « relevé de ses fonctions », a utilisé l’élection de Nicolas Sarkozy à la présidence de la…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "0ef3ac8e35ff",
-   "titre": "« Où est Henry ? » : à Bruxelles, la place stratégique du « Financial Times » dans le microcosme européen",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/23/ou-est-henry-a-bruxelles-la-place-strategique-du-financial-times-dans-le-microcosme-europeen_6814308_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-23T04:10:03+00:00",
-   "extrait": "Le quotidien économique et financier britannique, et notamment son chef de bureau, Henry Foy, sont une référence pour les responsables politiques comme pour les journalistes européens. Le Brexit n’a…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "6e19fb64c645",
-   "titre": "Mali : Amnesty lance une campagne pour exiger la libération de l'influenceuse Rokiatou Doumbia",
-   "lien": "https://www.france24.com/fr/afrique/20261123-amnesty-international-lance-campagne-liberation-influenceuse-rokiatou-doumbia-mali-junte-prison-association-malfaiteurs",
-   "source": "France 24",
-   "date": "2026-11-23T04:05:23+00:00",
-   "extrait": "Amnesty international se mobilise pour libérer l'influenceuse Rokiatou Doumbia, alias \"Rose, la vie chère\", en lançant la campagne Écrire pour les droits. Voix critique de la junte, elle a été…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "7feb84d28fc9",
-   "titre": "Teddy Riner, le candidat que personne n’attendait",
-   "lien": "https://www.lemonde.fr/podcasts/article/2026/11/23/teddy-riner-le-candidat-que-personne-n-attendait_6814307_5463015.html",
-   "source": "Le Monde",
-   "date": "2026-11-23T04:00:05+00:00",
-   "extrait": "La star française du judo a créé la sensation en annonçant sa candidature à l’élection présidentielle. Dans ce podcast, Nathalie Segaunes, journaliste au service Politique du « Monde », analyse…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "426a66f56ca6",
-   "titre": "Notre sélection de concerts en novembre et décembre 2026 : Orelsan, The Pogues, Keren Ann, Blondshell…",
-   "lien": "https://www.lemonde.fr/culture/article/2026/11/23/notre-selection-de-concerts-en-novembre-et-decembre-2026-orelsan-the-pogues-keren-ann-blondshell_6814306_3246.html",
-   "source": "Le Monde",
-   "date": "2026-11-23T03:30:09+00:00",
-   "extrait": "Chaque lundi, le service Culture du « Monde » propose aux lecteurs de La Matinale ses choix en matière de musique. Aujourd’hui, une proposition riche en rock, rap et jazz en passant par le baroque…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "9601d2da7449",
-   "titre": "Voiture : 7 millions de personnes en France prises en étau entre nécessité et coût, pointe une étude",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/23/voiture-sept-millions-de-personnes-en-france-prises-en-etau-entre-necessite-et-cout-pointe-une-etude_6814273_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-23T03:10:36+00:00",
-   "extrait": "Alors que les dépenses de carburant restent élevées, la voiture représente 13 % du budget des ménages disposant de 1 000 à 2 000 euros par mois, contre 3,5 % pour ceux dont les revenus dépassent 5…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "0c6f238e7b82",
-   "titre": "Army sets date for planned explosives detonation in Iowa",
-   "lien": "https://www.cbsnews.com/news/us-army-iowa-plant-detonation-court-records/",
-   "source": "CBS News",
-   "date": "2026-11-23T03:02:00+00:00",
-   "extrait": "The Department of the Army said it plans to use an emergency munitions and explosives exclusion to the Environmental Protection Agency's permit.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "d993c4dfb514",
-   "titre": "Tom Jackson, former Broncos star and sports broadcaster, dies at 75",
-   "lien": "https://www.cbsnews.com/news/tom-jackson-former-broncos-star-sports-broadcaster-dies-75/",
-   "source": "CBS News",
-   "date": "2026-11-23T02:19:17+00:00",
-   "extrait": "Tom Jackson, a former Denver Broncos player and ESPN analyst, has died at 75.",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "8c155ac69a2d",
-   "titre": "Hall of Fame sports broadcaster Tom Jackson dies at 75",
-   "lien": "https://www.cbsnews.com/video/hall-of-fame-sports-broadcaster-tom-jackson-dies-75/",
-   "source": "CBS News",
-   "date": "2026-11-23T02:17:05+00:00",
-   "extrait": "The Denver Broncos announced that Hall of Fame sports broadcaster Tom Jackson has died at 75.",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "9503da1d1f29",
-   "titre": "\"I Have a Dream\" pages written by Martin Luther King Jr. to go up for auction",
-   "lien": "https://www.cbsnews.com/video/i-have-a-dream-pages-written-martin-luther-king-jr-up-auction/",
-   "source": "CBS News",
-   "date": "2026-11-23T02:11:08+00:00",
-   "extrait": "Martin Luther King Jr. wrote his famous \"I Have a Dream\" speech on yellow legal paper in long cursive in blue ink. Those pages have been tucked away until now; they are headed to auction in January…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "55d114c08c3d",
-   "titre": "Kate Middleton shares cancer journey details in surprise documentary",
-   "lien": "https://www.cbsnews.com/video/kate-middleton-shares-cancer-journey-details-surprise-documentary/",
-   "source": "CBS News",
-   "date": "2026-11-23T02:05:32+00:00",
-   "extrait": "Britain's Princess of Wales, Kate Middleton, shared new details about her cancer journey in a surprise documentary previewed this weekend. Leigh Kiniry reports from London.",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "68fe29ff9d46",
-   "titre": "Consumers expected to set Cyber Monday spending record this year",
-   "lien": "https://www.cbsnews.com/video/consumers-expected-set-cyber-monday-spending-record-year/",
-   "source": "CBS News",
-   "date": "2026-11-23T02:02:04+00:00",
-   "extrait": "Americans are expected to spend big in this year's holiday shopping season, even as they struggle with the high costs of everyday needs. Akiko Fujita reports from the Glendale Galleria near Los…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "824d664dc931",
-   "titre": "U.N. climate summit ends without deal after contentious fossil fuel debate",
-   "lien": "https://www.cbsnews.com/news/un-cop31-climate-conference-ends-no-agreement-fossil-fuel-debate-standstill/",
-   "source": "CBS News",
-   "date": "2026-11-23T01:57:00+00:00",
-   "extrait": "COP31, the latest installment of the United Nations' annual climate conference, ended Sunday without a final agreement after days of contentious talks collapsed.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "usa"
   }
  ]
 }
