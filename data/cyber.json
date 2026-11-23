@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-23T16:05:41+00:00",
+ "maj": "2026-11-23T17:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,30 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "0af9a7510182",
+   "titre": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
+   "lien": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
+   "source": "BleepingComputer",
+   "date": "2026-11-23T16:50:01+00:00",
+   "extrait": "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "ca0d1bdeb307",
+   "titre": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
+   "lien": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
+   "source": "The Hacker News",
+   "date": "2026-11-23T15:10:48+00:00",
+   "extrait": "A stolen key. A trusted message. A routine update. None of these looks like the start of a major security problem. That's partly why they work. Attackers don't always need to break down a door…",
+   "tags": [
+    "Faille",
+    "Fuite de données",
+    "Outil"
+   ]
+  },
   {
    "id": "594a8d6fa697",
    "titre": "AI Agents Are Creating a Shared Responsibility Gap",
@@ -3312,26 +3336,6 @@
    "extrait": "The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of…",
    "tags": [
     "Fuite de données"
-   ]
-  },
-  {
-   "id": "79815295aaa3",
-   "titre": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
-   "lien": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
-   "source": "The Hacker News",
-   "date": "2026-11-13T13:54:20+00:00",
-   "extrait": "Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday. The…",
-   "tags": []
-  },
-  {
-   "id": "293c69c9ee5b",
-   "titre": "Microsoft says November security updates cause printing issues",
-   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
-   "source": "BleepingComputer",
-   "date": "2026-11-13T12:27:40+00:00",
-   "extrait": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
-   "tags": [
-    "Windows"
    ]
   }
  ]
