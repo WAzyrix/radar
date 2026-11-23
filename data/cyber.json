@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-23T12:05:41+00:00",
+ "maj": "2026-11-23T13:05:44+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,32 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "33d65726f50e",
+   "titre": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
+   "lien": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
+   "source": "The Hacker News",
+   "date": "2026-11-23T12:41:04+00:00",
+   "extrait": "Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers. The activity revolves around CVE-2026-84869 (CVSS score: 9.9)…",
+   "tags": [
+    "CVE",
+    "Faille",
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "759d50b40080",
+   "titre": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
+   "lien": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
+   "source": "The Hacker News",
+   "date": "2026-11-23T12:28:09+00:00",
+   "extrait": "N-able yesterday disclosed a critical flaw it found while investigating the breach of its Mail Assure and SpamExperts Hosted Cloud, an email filtering service it runs for managed service providers…",
+   "tags": [
+    "CVE",
+    "Faille",
+    "Fuite de données"
+   ]
+  },
   {
    "id": "cc96923da82c",
    "titre": "Courtiers en or piratés, dix personnes mises en examen",
@@ -175,7 +201,7 @@
   },
   {
    "id": "80927b607c9d",
-   "titre": "AI-Assisted Cyberattacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
+   "titre": "AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
    "lien": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
    "source": "The Hacker News",
    "date": "2026-11-23T08:24:15+00:00",
@@ -3311,29 +3337,6 @@
    "extrait": "De multiples vulnérabilités ont été découvertes dans Node.js. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la…",
    "tags": [
     "Faille"
-   ]
-  },
-  {
-   "id": "d5e7a961af71",
-   "titre": "Multiples vulnérabilités dans les produits Citrix (13 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1528/",
-   "source": "CERT-FR",
-   "date": "2026-11-13T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Citrix. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "ec0e4f3b6875",
-   "titre": "Multiples vulnérabilités dans le noyau Linux de Debian (13 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1538/",
-   "source": "CERT-FR",
-   "date": "2026-11-13T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la…",
-   "tags": [
-    "Faille",
-    "Linux"
    ]
   }
  ]
