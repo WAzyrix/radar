@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-23T10:05:41+00:00",
+ "maj": "2026-11-23T11:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,6 +24,55 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "a9d90efa97c5",
+   "titre": "Cyberespionnage en Bulgarie, 62 millions de pages volées",
+   "lien": "https://www.zataz.com/cyberespionnage-en-bulgarie-62-millions-de-pages-volees/",
+   "source": "Zataz",
+   "date": "2026-11-23T10:59:22+00:00",
+   "extrait": "La Bulgarie révèle cinq ans de cyberespionnage et le vol d’au moins 62 millions de pages.",
+   "tags": []
+  },
+  {
+   "id": "7e02f5c43391",
+   "titre": "Cleverbridge confirme un vol de données bancaires",
+   "lien": "https://www.zataz.com/cleverbridge-confirme-un-vol-de-donnees-bancaires/",
+   "source": "Zataz",
+   "date": "2026-11-23T10:51:12+00:00",
+   "extrait": "Cleverbridge confirme un vol de données de cartes bancaires. Une notification détaille les numéros, dates et CVV.",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "0452c9eee496",
+   "titre": "BlackHat Sector : une IA offensive à louer pour 500 €",
+   "lien": "https://www.zataz.com/blackhat-sector-une-ia-offensive-a-louer-pour-500-e/",
+   "source": "Zataz",
+   "date": "2026-11-23T10:29:10+00:00",
+   "extrait": "BlackHat Sector commercialise une IA offensive après des cyberattaques revendiquées contre des sociétés françaises.",
+   "tags": [
+    "IA"
+   ]
+  },
+  {
+   "id": "e0f084bdf6ed",
+   "titre": "Cyberattaque contre AAAEP : 585 000 personnes exposées ?",
+   "lien": "https://www.zataz.com/cyberattaque-contre-aaaep-585-000-personnes-exposees/",
+   "source": "Zataz",
+   "date": "2026-11-23T10:19:58+00:00",
+   "extrait": "AAAEP visée par BlackHatSect0r : 585 000 personnes potentiellement concernées, données psychotechniques et appels exposés.",
+   "tags": []
+  },
+  {
+   "id": "c918ff8aa5a9",
+   "titre": "Cambodge - Mon premier voyage en Asie",
+   "lien": "https://korben.info/cambodge-voyage-phnom-penh-francophonie.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-23T10:13:38+00:00",
+   "extrait": "Invité à Phnom Penh pour le Sommet de la Francophonie et FrancoTech, j'ai découvert un Cambodge facile à vivre, des gens adorables, et un sommet secoué par la lettre de Macron à Kagame. Premier…",
+   "tags": []
+  },
+  {
    "id": "a0a0e9f9d895",
    "titre": "BlackHatSect0r : phishing bancaire, extorsion et industrie",
    "lien": "https://www.zataz.com/blackhatsect0r-phishing-bancaire-extorsion-et-industrie/",
@@ -36,6 +85,19 @@
    ]
   },
   {
+   "id": "31afdc96e80b",
+   "titre": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
+   "lien": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
+   "source": "The Hacker News",
+   "date": "2026-11-23T09:11:56+00:00",
+   "extrait": "Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical vulnerability…",
+   "tags": [
+    "CVE",
+    "Faille",
+    "Fuite de données"
+   ]
+  },
+  {
    "id": "d0dd2916cf58",
    "titre": "Microsoft confirms Windows printing issues affecting Forcepoint users",
    "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/",
@@ -44,6 +106,19 @@
    "extrait": "Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. [...]",
    "tags": [
     "Windows"
+   ]
+  },
+  {
+   "id": "791422e9c323",
+   "titre": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
+   "lien": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
+   "source": "The Hacker News",
+   "date": "2026-11-23T09:04:08+00:00",
+   "extrait": "Hackers exploited a vulnerability in GL.iNet's GoodCloud remote management service to install malware on some customer routers and KVM devices, the maker of travel routers and remote-access KVM…",
+   "tags": [
+    "Faille",
+    "Fuite de données",
+    "Malware"
    ]
   },
   {
@@ -3265,86 +3340,6 @@
    "tags": [
     "Faille",
     "Linux"
-   ]
-  },
-  {
-   "id": "30814c95fb02",
-   "titre": "Multiples vulnérabilités dans les produits IBM (13 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1539/",
-   "source": "CERT-FR",
-   "date": "2026-11-13T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "2b2441eb4f35",
-   "titre": "Multiples vulnérabilités dans PostgreSQL (13 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1530/",
-   "source": "CERT-FR",
-   "date": "2026-11-13T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans PostgreSQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "3b8d7732462b",
-   "titre": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
-   "lien": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
-   "source": "BleepingComputer",
-   "date": "2026-11-12T22:53:10+00:00",
-   "extrait": "A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP…",
-   "tags": [
-    "Malware"
-   ]
-  },
-  {
-   "id": "674c4b85088a",
-   "titre": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
-   "lien": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
-   "source": "BleepingComputer",
-   "date": "2026-11-12T22:25:30+00:00",
-   "extrait": "A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]",
-   "tags": [
-    "Fuite de données",
-    "Malware",
-    "Outil"
-   ]
-  },
-  {
-   "id": "fd416d58448a",
-   "titre": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
-   "lien": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
-   "source": "BleepingComputer",
-   "date": "2026-11-12T20:15:16+00:00",
-   "extrait": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
-   "tags": [
-    "Windows"
-   ]
-  },
-  {
-   "id": "5e7c3d53ea73",
-   "titre": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
-   "lien": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
-   "source": "BleepingComputer",
-   "date": "2026-11-12T19:51:16+00:00",
-   "extrait": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting…",
-   "tags": [
-    "Faille",
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "fac8887887ba",
-   "titre": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
-   "lien": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
-   "source": "BleepingComputer",
-   "date": "2026-11-12T19:12:55+00:00",
-   "extrait": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
-   "tags": [
-    "Faille"
    ]
   }
  ]
