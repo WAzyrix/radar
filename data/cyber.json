@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-23T19:05:39+00:00",
+ "maj": "2026-11-23T20:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,29 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "ad3d2932dda1",
+   "titre": "OpenRouter drops AI providers over leaked prompts and secrets",
+   "lien": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
+   "source": "BleepingComputer",
+   "date": "2026-11-23T20:00:20+00:00",
+   "extrait": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]",
+   "tags": [
+    "IA"
+   ]
+  },
+  {
+   "id": "53716c4432ab",
+   "titre": "Microsoft Azure flaw exploited to steal customers' API credentials",
+   "lien": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
+   "source": "BleepingComputer",
+   "date": "2026-11-23T19:42:20+00:00",
+   "extrait": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw…",
+   "tags": [
+    "Faille",
+    "Windows"
+   ]
+  },
   {
    "id": "f714b48247a9",
    "titre": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
@@ -3316,27 +3339,6 @@
     "CVE",
     "Faille"
    ]
-  },
-  {
-   "id": "b297d876237e",
-   "titre": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
-   "lien": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
-   "source": "BleepingComputer",
-   "date": "2026-11-13T16:21:43+00:00",
-   "extrait": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
-   "tags": [
-    "Fuite de données",
-    "Malware"
-   ]
-  },
-  {
-   "id": "fb5ac890be2a",
-   "titre": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
-   "lien": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
-   "source": "The Hacker News",
-   "date": "2026-11-13T15:27:05+00:00",
-   "extrait": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out. One of them, Mior, can…",
-   "tags": []
   }
  ]
 }
