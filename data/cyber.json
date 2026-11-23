@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-23T11:05:40+00:00",
+ "maj": "2026-11-23T12:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,58 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "cc96923da82c",
+   "titre": "Courtiers en or piratés, dix personnes mises en examen",
+   "lien": "https://www.zataz.com/courtiers-en-or-pirates-dix-personnes-mises-en-examen/",
+   "source": "Zataz",
+   "date": "2026-11-23T12:05:22+00:00",
+   "extrait": "Trois courtiers en métaux précieux piratés, des clients ciblés par de faux policiers et dix personnes mises en examen.",
+   "tags": []
+  },
+  {
+   "id": "f8665cc5b1ef",
+   "titre": "Call center operator gets 8 years for helping scam 30,000 Americans",
+   "lien": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/",
+   "source": "BleepingComputer",
+   "date": "2026-11-23T12:02:23+00:00",
+   "extrait": "A Peruvian call center operator was sentenced to eight years in prison for stealing millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud…",
+   "tags": [
+    "Malware"
+   ]
+  },
+  {
+   "id": "fd3aba9f72c9",
+   "titre": "L’aquaponey, un drôle de cadeau de Noël qui fait réfléchir !",
+   "lien": "https://www.zataz.com/laquaponey-un-drole-de-cadeau-de-noel-qui-fait-reflechir/",
+   "source": "Zataz",
+   "date": "2026-11-23T11:53:31+00:00",
+   "extrait": "Un poney sous le sapin pour comprendre comment les algorithmes et l’IA donnent du crédit aux fausses informations.",
+   "tags": [
+    "IA"
+   ]
+  },
+  {
+   "id": "1e49dfb2bfa5",
+   "titre": "Spelunkr - La télé où l'on ne choisit plus ce qui passe",
+   "lien": "https://korben.info/spelunkr-tv-internet-archive.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-23T11:39:38+00:00",
+   "extrait": "Spelunkr propose une trentaine de chaînes qui diffusent en continu des vidéos tirées de l'Internet Archive, avec films de monstres, dessins animés et VHS d'époque pubs comprises. Tous les…",
+   "tags": []
+  },
+  {
+   "id": "97540c492b77",
+   "titre": "RDMA sur USB4 - Le cluster d'IA de Windows enfin possible",
+   "lien": "https://korben.info/rdma-usb4-windows-ia-locale.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-23T11:23:25+00:00",
+   "extrait": "Microsoft prépare le RDMA sur USB4 dans Windows 11 pour faire tourner un gros modèle d'IA sur plusieurs PC reliés par câble. Mais la préversion exige test signing, Secure Boot coupé et une…",
+   "tags": [
+    "IA",
+    "Windows"
+   ]
+  },
   {
    "id": "a9d90efa97c5",
    "titre": "Cyberespionnage en Bulgarie, 62 millions de pages volées",
@@ -3279,64 +3331,6 @@
    "source": "CERT-FR",
    "date": "2026-11-13T00:00:00+00:00",
    "extrait": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la…",
-   "tags": [
-    "Faille",
-    "Linux"
-   ]
-  },
-  {
-   "id": "f007521ac257",
-   "titre": "Vulnérabilité dans Opera Neon (13 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1532/",
-   "source": "CERT-FR",
-   "date": "2026-11-13T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans Opera Neon. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "911d0e96a128",
-   "titre": "Multiples vulnérabilités dans VMware Tanzu Greenplum (13 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1527/",
-   "source": "CERT-FR",
-   "date": "2026-11-13T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans VMware Tanzu Greenplum. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "c505036a9c09",
-   "titre": "Multiples vulnérabilités dans le noyau Linux de Red Hat (13 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1536/",
-   "source": "CERT-FR",
-   "date": "2026-11-13T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une…",
-   "tags": [
-    "Faille",
-    "Linux"
-   ]
-  },
-  {
-   "id": "daaf8ff3b554",
-   "titre": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (13 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1537/",
-   "source": "CERT-FR",
-   "date": "2026-11-13T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à…",
-   "tags": [
-    "Faille",
-    "Linux"
-   ]
-  },
-  {
-   "id": "e0778a7288fe",
-   "titre": "Multiples vulnérabilités dans le noyau Linux de SUSE (13 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1535/",
-   "source": "CERT-FR",
-   "date": "2026-11-13T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une…",
    "tags": [
     "Faille",
     "Linux"

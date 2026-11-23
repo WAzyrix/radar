@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-23T11:05:40+00:00",
+ "maj": "2026-11-23T12:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,12 +22,234 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "ba6043d395e8",
+   "titre": "Search on for lioness seen roaming Istanbul's outskirts",
+   "lien": "https://www.cbsnews.com/news/lioness-istanbul-turkey-outskirts-search/",
+   "source": "CBS News",
+   "date": "2026-11-23T12:02:16+00:00",
+   "extrait": "Police and animal welfare teams in Istanbul are searching for a lioness seen prowling the city's outskirts, Turkish officials say.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "f835f6de4036",
+   "titre": "Plastic surgeon sentenced to death for killing lawyer in Florida",
+   "lien": "https://www.cbsnews.com/news/plastic-surgeon-tomasz-kosowski-death-sentence-killing-lawyer-florida/",
+   "source": "CBS News",
+   "date": "2026-11-23T12:00:50+00:00",
+   "extrait": "Prosecutors said Tomasz Kosowski had supplies to kill Steven Cozzi, including a syringe containing a paralyzing drug and a wagon to haul the corpse out.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "c73e3537be55",
+   "titre": "Présidentielle 2027 : le parti Génération.s soutient officiellement la candidature de Jean-Luc Mélenchon, un accord conclu avec LFI",
+   "lien": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-son-combat-est-le-mien-assure-raphael-glucksmann-sur-francois-ruffin-qui-s-est-retire-de-la-course-a-l-elysee_8295479.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T12:00:28+00:00",
+   "extrait": "Le parti de gauche fondé par Benoît Hamon après la présidentielle 2017 se félicite d'\"une première étape dans la construction d'une coalition au service de l'union populaire, pour la VIe République\".",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "796612a75aeb",
+   "titre": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+   "lien": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-23T11:57:33+00:00",
+   "extrait": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "b9baa148a0a5",
+   "titre": "Après les inondations dans le Pas-de-Calais, le ministre de l'Intérieur annonce une procédure accélérée de reconnaissance de l'état de catastrophe naturelle",
+   "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/apres-les-inondations-dans-le-pas-de-calais-le-ministre-de-l-interieur-annonce-une-procedure-acceleree-de-reconnaissance-de-l-etat-de-catastrophe-naturelle_8295962.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T11:52:53+00:00",
+   "extrait": "Selon Laurent Nuñez, d'après un dernier bilan établi dimanche soir, \"196 communes étaient touchées\" avec \"plus de 860 logements inondés\", et \"près de 800 personnes ont été évacuées\".",
+   "tags": [
+    "Politique",
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "aa90dd8fba63",
+   "titre": "L'Iran dit qu'il usera de \"tous les moyens\" disponibles face au blocus de ses ports imposé par les Etats-Unis",
+   "lien": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-iran-dit-qu-il-usera-de-tous-les-moyens-disponibles-face-au-blocus-de-ses-ports-impose-par-les-etats-unis_8295947.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T11:51:11+00:00",
+   "extrait": "Téhéran estime que le blocus de ses ports depuis avril \"constitue sans aucun doute un acte d'agression militaire\".",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "0a35c3aee706",
+   "titre": "États-Unis : arrestation choc dans un aéroport, l’ICE \"hors de contrôle\"",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261123-%C3%A9tats-unis-arrestation-choc-dans-un-a%C3%A9roport-l-ice-hors-de-contr%C3%B4le",
+   "source": "France 24",
+   "date": "2026-11-23T11:44:04+00:00",
+   "extrait": "La police de l'immigration américaine est \"complètement et totalement hors de contrôle\", a estimé samedi le gouverneur démocrate de l'État de Washington, après l'arrestation de deux personnes dans…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "fd17ec6ae749",
+   "titre": "Turquie, une dictature silencieuse ?",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20261123-turquie-une-dictature-silencieuse",
+   "source": "France 24",
+   "date": "2026-11-23T11:42:59+00:00",
+   "extrait": "Est-il encore possible d'exprimer une pensée critique en Turquie ? Le pays est-il devenu une dictature silencieuse ? Alors que le président Recep Tayyip Erdogan est omniprésent, quel champ d'action…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "3e1afbeebcd9",
+   "titre": "Un mois après l'attentat raciste de Trappes, la famille de Pengo Bossio Wangui regrette qu'aucune date n'ait été annoncée pour l'hommage national au jeune homme",
+   "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/un-mois-apres-l-attentat-raciste-de-trappes-la-famille-de-pengo-bossio-wangui-regrette-qu-aucune-date-n-ait-ete-annoncee-pour-l-hommage-national-au-jeune-homme_8295758.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T11:40:50+00:00",
+   "extrait": "Le gouvernement avait promis, fin octobre, la tenue d'un hommage national au jeune homme de 26 ans. Mais depuis, aucune date n'a été communiquée.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "2b2400015386",
+   "titre": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+   "lien": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-23T11:40:01+00:00",
+   "extrait": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "b4fcf422d095",
+   "titre": "Déraillement d'un TER en Seine-Maritime : quatre personnes interpellées près de Rouen",
+   "lien": "https://www.franceinfo.fr/faits-divers/accident/info-radio-france-deraillement-d-un-ter-en-seine-maritime-trois-hommes-interpelles-pres-de-rouen_8295620.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T11:36:56+00:00",
+   "extrait": "D'après ICI Normandie, une opération de police dans les environs de Rouen a permis l'arrestation de quatre suspects, plus de deux mois après l'accident qui avait fait 44 blessés.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "af91a36d8b64",
+   "titre": "\"Un très bon œuf, très bien cuit, 8 minutes 40\", conseille l'organisateur du championnat du monde de l'œuf mayonnaise",
+   "lien": "https://www.franceinfo.fr/culture/cuisine-et-gastronomie/un-tres-bon-uf-tres-bien-cuit-8-minutes-40-conseille-l-organisateur-du-championnat-du-monde-de-l-uf-mayonnaise_8295956.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T11:36:17+00:00",
+   "extrait": "La compétition consacrée à cette entrée mythique des bistrots français est organisée lundi à Saint-Ouen, en région parisienne.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "0f0fc12e2eb6",
+   "titre": "Iran vows to end U.S. naval blockade by \"all available means\"",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+   "source": "CBS News",
+   "date": "2026-11-23T11:30:37+00:00",
+   "extrait": "Iran vows to force the U.S. to lift its blockade as Trump acknowledges the regime's increasing attacks, but says they've \"done no damage.\"",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "c656f3f92b6c",
+   "titre": "Pro golfer, chef arrested for 111 pounds of alleged drugs in luggage",
+   "lien": "https://www.cbsnews.com/news/pro-golfer-arrested-cannabis-luggage-nigeria/",
+   "source": "CBS News",
+   "date": "2026-11-23T11:29:24+00:00",
+   "extrait": "Officials said Grobler and a pro golger and his alleged accomplice, a 25-year-old chef, swapped luggage tags to conceal ownership of the cannabis.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "1baaa97b8aff",
+   "titre": "Flights grounded in Belgium due to strike against austerity measures",
+   "lien": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-23T11:26:12+00:00",
+   "extrait": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
+   "tags": [
+    "Économie",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "5f732dc8f37b",
+   "titre": "États-Unis : l'ICE à nouveau critiquée après une arrestation musclée dans un aéroport",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261123-%C3%A9tats-unis-l-ice-%C3%A0-nouveau-critiqu%C3%A9e-apr%C3%A8s-une-arrestation-muscl%C3%A9e-dans-un-a%C3%A9roport",
+   "source": "France 24",
+   "date": "2026-11-23T11:21:42+00:00",
+   "extrait": "La police de l'immigration américaine (ICE) est \"complètement et totalement hors de contrôle\", a estimé samedi le gouverneur démocrate de l'État de Washington (ouest), après l'arrestation de deux…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "33fcb1b797df",
+   "titre": "Nvidia : la maîtresse chinoise de Jensen Huang était en contact avec Pékin, selon le New York Times",
+   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261123-nvidia-la-ma%C3%AEtresse-chinoise-de-jensen-huang-%C3%A9tait-en-contact-avec-p%C3%A9kin-selon-le-new-york-times",
+   "source": "France 24",
+   "date": "2026-11-23T11:16:52+00:00",
+   "extrait": "Alice Huang, la maîtresse chinoise du patron déchu de Nvidia, Jensen Huang, est restée en contact pendant plus d'un an durant cette liaison avec un responsable du principal service de renseignement…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "4b2bd67cb296",
+   "titre": "Presidential villa also hit by water and power cuts, Nigerian leader says",
+   "lien": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-23T11:15:16+00:00",
+   "extrait": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "e7836a10300a",
+   "titre": "Zelenskyy says Ukraine sank Russian warship off Libya's coast",
+   "lien": "https://www.cbsnews.com/news/ukraine-zelenskyy-2-russian-ships-libya/",
+   "source": "CBS News",
+   "date": "2026-11-23T11:15:11+00:00",
+   "extrait": "Ukrainian President Volodymyr Zelenskyy said his country was behind attacks that sank a Russian warship and damaged a sanctioned cargo vessel off Libya.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "e9718003a5d0",
    "titre": "Guerre en Ukraine : Volodymyr Zelensky plaide pour des négociations de paix incluant l'Europe \"le plus tôt possible\"",
    "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-volodymyr-zelensky-revendique-les-attaques-contre-deux-navires-russes-menees-au-large-de-la-libye_8295668.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-11-23T11:01:44+00:00",
-   "extrait": "Il s'est exprimé devant la réunion annuelle de l'assemblée parlementaire de l'Otan à Berlin.",
+   "date": "2026-11-23T11:14:50+00:00",
+   "extrait": "Le président ukrainien s'est exprimé devant la réunion annuelle de l'assemblée parlementaire de l'Otan à Berlin.",
    "tags": [
     "Politique",
     "Conflits"
@@ -39,12 +261,22 @@
    "titre": "Le Premier ministre espagnol, Pedro Sanchez, propose de taxer les patrimoines supérieurs à 100 millions d'euros",
    "lien": "https://www.franceinfo.fr/monde/espagne/le-premier-ministre-espagnol-pedro-sanchez-propose-de-taxer-les-patrimoines-superieurs-a-100-millions-d-euros_8295806.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-11-23T10:57:11+00:00",
+   "date": "2026-11-23T11:13:23+00:00",
    "extrait": "Cette proposition intervient alors que les socialistes cherchent à se démarquer du Parti populaire, conservateur, en vue des élections législatives.",
    "tags": [
     "Politique",
     "Économie"
    ],
+   "zone": "france"
+  },
+  {
+   "id": "afa2435b58da",
+   "titre": "Loi intégrale contre les violences sexuelles et sexistes : les syndicats veulent une lutte renforcée sur les lieu de travail",
+   "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/loi-integrale-contre-les-violences-sexuelles-et-sexistes-les-syndicats-veulent-une-lutte-renforcee-sur-le-lieu-de-travail_8295830.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-23T11:04:58+00:00",
+   "extrait": "Selon les syndicats, \"9% des viols ou tentatives de viol ont lieu au travail\" et \"30% des salariées ont déjà été harcelées ou agressées sexuellement sur leur lieu de travail\".",
+   "tags": [],
    "zone": "france"
   },
   {
@@ -69,16 +301,6 @@
    "tags": [
     "Justice"
    ],
-   "zone": "france"
-  },
-  {
-   "id": "afa2435b58da",
-   "titre": "Loi intégrale contre les violences sexuelles et sexistes : les syndicats veulent une lutte renforcée sur le lieu de travail",
-   "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/loi-integrale-contre-les-violences-sexuelles-et-sexistes-les-syndicats-veulent-une-lutte-renforcee-sur-le-lieu-de-travail_8295830.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-23T10:50:06+00:00",
-   "extrait": "Selon les syndicats, \"9% des viols ou tentatives de viols ont lieu au travail\" et \"30% des salariées ont déjà été harcelées ou agressées sexuellement sur leur lieu de travail\".",
-   "tags": [],
    "zone": "france"
   },
   {
@@ -224,19 +446,6 @@
     "Sport"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "e7836a10300a",
-   "titre": "Zelenskyy says Ukraine hit 2 Russian ships off Libya, and 1 sank",
-   "lien": "https://www.cbsnews.com/news/ukraine-zelenskyy-2-russian-ships-libya/",
-   "source": "CBS News",
-   "date": "2026-11-23T10:07:04+00:00",
-   "extrait": "Ukrainian President Volodymyr Zelenskyy said his country was behind attacks on two Russian warships off Libya, and one sank.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
   },
   {
    "id": "481b7f42319b",
@@ -425,6 +634,18 @@
    "zone": "france"
   },
   {
+   "id": "4b64630e6943",
+   "titre": "Législatives en Espagne : le socialiste Pedro Sanchez, l’éternel combattant qui croit encore à la « remontada »",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/23/legislatives-en-espagne-le-socialiste-pedro-sanchez-l-eternel-combattant-qui-croit-encore-a-la-remontada_6814366_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-23T09:00:13+00:00",
+   "extrait": "Malgré les scandales qui ont fragilisé son gouvernement et des sondages qui donnent une majorité à la droite et à l’extrême droite, le premier ministre refuse d’envisager la défaite aux élections…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "e55715bb9c9b",
    "titre": "La gauche française, entre divisions et réconciliations",
    "lien": "https://www.lemonde.fr/flux-video-immersif/video/2026/11/23/la-gauche-francaise-entre-divisions-et-reconciliations_6814365_6717263.html",
@@ -469,20 +690,6 @@
    "zone": "france"
   },
   {
-   "id": "c73e3537be55",
-   "titre": "\"L'urgence est surtout d'avoir un budget\", juge Marylise Léon à propos de la \"règle d'or\" budgétaire envisagée par Emmanuel Macron",
-   "lien": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-son-combat-est-le-mien-assure-raphael-glucksmann-sur-francois-ruffin-qui-s-est-retire-de-la-course-a-l-elysee_8295479.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-23T08:41:24+00:00",
-   "extrait": "La secrétaire générale de la CFDT réagissait à l'information selon laquelle Emmanuel Macron envisagerait de faire inscrire dans la Constitution une \"règle d'or\" budgétaire en janvier.",
-   "tags": [
-    "Politique",
-    "Économie",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "2232681f0518",
    "titre": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
    "lien": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
@@ -494,25 +701,15 @@
   },
   {
    "id": "c6aa209296d7",
-   "titre": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky revendique l’attaque de deux bateaux russes en Libye",
+   "titre": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky revendique l’attaque de deux bateaux russes en Libye à l’aide de « drones maritimes »",
    "lien": "https://www.lemonde.fr/international/live/2026/11/23/en-direct-guerre-en-ukraine-volodymyr-zelensky-revendique-l-attaque-de-deux-bateaux-russes-en-libye_6814183_3210.html",
    "source": "Le Monde",
    "date": "2026-11-23T08:37:50+00:00",
-   "extrait": "Au moins 15 personnes ont par ailleurs été tuées lors de frappes russes dans la région de Kiev, dont 11 par l’effondrement partiel d’un immeuble résidentiel, selon le dernier bilan des autorités…",
+   "extrait": "Au moins 15 personnes ont, par ailleurs, été tuées lors de frappes russes dans la région de Kiev, dont 11 par l’effondrement partiel d’un immeuble résidentiel, selon le dernier bilan des autorités…",
    "tags": [
     "Conflits"
    ],
    "zone": "france"
-  },
-  {
-   "id": "2b2400015386",
-   "titre": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-   "lien": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-23T08:36:57+00:00",
-   "extrait": "Libya's eastern government says a sunken warship had stopped for fuel and supplies on its way back to Russia.",
-   "tags": [],
-   "zone": "monde"
   },
   {
    "id": "b453a2ad3d14",
@@ -522,18 +719,6 @@
    "date": "2026-11-23T08:30:30+00:00",
    "extrait": "Sur les réseaux sociaux, de très nombreux internautes affirment dans des vidéos qu'on peut faire passer ses fenêtres en \"mode hiver\" en réglant un petit galet dans l'encadrement. En réalité, il vaut…",
    "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "b4fcf422d095",
-   "titre": "Déraillement d'un TER en Seine-Maritime : trois hommes interpellés près de Rouen",
-   "lien": "https://www.franceinfo.fr/faits-divers/accident/info-radio-france-deraillement-d-un-ter-en-seine-maritime-trois-hommes-interpelles-pres-de-rouen_8295620.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-23T08:24:35+00:00",
-   "extrait": "D'après ICI Normandie, une opération de police à Cléon a permis l'arrestation de trois suspects, placés en garde à vue, plus de deux mois après l'accident qui avait fait 44 blessés.",
-   "tags": [
-    "Justice"
-   ],
    "zone": "france"
   },
   {
@@ -567,6 +752,18 @@
    "extrait": "La victoire de leur candidat, Chuck Hubbard, en Caroline du Nord offre au parti démocrate un 258e siège sur 435 au sein de la prochaine Chambre.",
    "tags": [
     "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "56d165c85e7b",
+   "titre": "Les protocoles d’aide à mourir suscitent des interrogations parmi les soignants : « Il n’existe pas de pilule létale magique, mourir n’est jamais simple »",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/23/aide-a-mourir-il-n-existe-pas-de-pilule-letale-magique-mourir-n-est-jamais-simple_6814359_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-23T08:08:45+00:00",
+   "extrait": "Rendues publiques le 19 novembre, les recommandations de la Haute Autorité de santé sur les substances létales permettant d’appliquer la loi sont diversement accueillies par les médecins et…",
+   "tags": [
+    "Santé"
    ],
    "zone": "france"
   },
@@ -611,7 +808,7 @@
    "titre": "Trump says he wants \"permanent\" deal with Iran",
    "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
    "source": "CBS News",
-   "date": "2026-11-23T07:20:47+00:00",
+   "date": "2026-11-23T07:20:00+00:00",
    "extrait": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
    "tags": [
     "Politique",
@@ -1650,7 +1847,7 @@
   },
   {
    "id": "7a731650f190",
-   "titre": "Caroline Toby : \"sans vidéosurveillance, Michel Zecler aurait été victime d'une erreur judiciaire\"",
+   "titre": "Caroline Toby : \"Sans vidéosurveillance, Michel Zecler aurait été victime d'une erreur judiciaire\"",
    "lien": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261122-caroline-toby-sans-vid%C3%A9osurveillance-michel-zecler-aurait-%C3%A9t%C3%A9-victime-d-une-erreur-judiciaire",
    "source": "France 24",
    "date": "2026-11-22T20:30:18+00:00",
@@ -3253,196 +3450,6 @@
     "Politique",
     "Économie",
     "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "7722982f4039",
-   "titre": "EN DIRECT, guerre en Ukraine : le bilan de l’attaque d’un immeuble d’habitation par un drone russe près de Kiev s’alourdit",
-   "lien": "https://www.lemonde.fr/international/live/2026/11/22/en-direct-guerre-en-ukraine-quatorze-personnes-portees-disparues-a-la-suite-de-l-attaque-d-un-drone-russe-sur-un-immeuble-d-habitation-pres-de-kiev_6814183_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-22T10:50:43+00:00",
-   "extrait": "Selon un nouveau communiqué de la police nationale ukrainienne, l’attaque d’un immeuble de cinq étages par un drone russe à Dymer – au nord de Kiev –, a provoqué la mort d’une femme, et fait trois…",
-   "tags": [
-    "Conflits",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "f1fc8b2bf6b2",
-   "titre": "La présidence de la COP31 fait une nouvelle proposition de compromis, la France dénonce un texte qui \"nous ramène en arrière\"",
-   "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/la-presidence-de-la-cop31-fait-une-nouvelle-proposition-de-compromis-la-france-denonce-un-texte-qui-nous-ramene-en-arriere_8294591.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-22T10:49:57+00:00",
-   "extrait": "Le projet d'accord ne contient toujours pas d'appel explicite à sortir du charbon, du pétrole ou du gaz, dont l'utilisation est la principale cause du changement climatique.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "7acb8e247828",
-   "titre": "\"Je crois que raconter l’histoire des mafias, notamment à travers le cinéma, est extrêmement utile\" : Roberto Saviano est l'invité exceptionnel du Festival du film d'Histoire de Pessac",
-   "lien": "https://www.franceinfo.fr/culture/cinema/je-crois-que-raconter-l-histoire-des-mafias-notamment-a-travers-le-cinema-est-extremement-utile-roberto-saviano-est-l-invite-exceptionnel-du-festival-du-film-d-histoire-de-pessac_8289596.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-22T10:44:52+00:00",
-   "extrait": "L’écrivain italien qui a dénoncé la Camorra fait l'objet d'un documentaire, \"Gomorra, Manifeste antimafia\", et nous parle de ses goûts de cinéphile.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "dfe59a945376",
-   "titre": "Ligue 1 : Le Paris Saint-Germain enchaîne à Nice (3-2) mais perd Désiré Doué",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261122-ligue-1-le-paris-saint-germain-encha%C3%AEne-%C3%A0-nice-3-2-mais-perd-d%C3%A9sir%C3%A9-dou%C3%A9",
-   "source": "France 24",
-   "date": "2026-11-22T10:33:01+00:00",
-   "extrait": "Victoire douce-amère pour le PSG à Nice samedi soir. Le club de la capitale, plus que jamais leader de Ligue 1, a perdu pour de longs mois Désiré Doué, gravement blessé à un genou.",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "77c21244cc89",
-   "titre": "On vous résume les points de discorde à la COP31 alors que les discussions sur un accord s'enlisent en Turquie",
-   "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/on-vous-resume-les-points-de-discorde-a-la-cop31-alors-que-les-discussions-sur-un-accord-s-enlisent_8294597.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-22T10:30:58+00:00",
-   "extrait": "Une nouvelle proposition de compromis diffusée durant la nuit de samedi à dimanche à Antalya est jugée insuffisante par de nombreux gouvernement et ONG de défense de l'environnement.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "b02fc1b4d321",
-   "titre": "Divertissement dans les avions : pour Hollywood, le ciel n'est plus une limite",
-   "lien": "https://www.franceinfo.fr/culture/cinema/divertissement-dans-les-avions-pour-hollywood-le-ciel-n-est-plus-une-limite_8294711.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-22T10:27:30+00:00",
-   "extrait": "Les compagnies aériennes ont transporté l'année dernière presque autant de passagers qu'il ne s'est vendus de billets de cinéma dans le monde. Alors quoi de plus naturel que d'amener la magie du…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "2de0869942ef",
-   "titre": "Cisjordanie : enquête ouverte par les autorités israéliennes après des attaques de colons ; Gadi Eisenkot dénonce un « terrorisme juif »",
-   "lien": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/11/22/cisjordanie-enquete-ouverte-par-les-autorites-israeliennes-apres-des-attaques-de-colons-gadi-eisenkot-denonce-un-terrorisme-juif_6814204_6325529.html",
-   "source": "Le Monde",
-   "date": "2026-11-22T10:19:56+00:00",
-   "extrait": "Dans la nuit de samedi à dimanche, des véhicules et biens palestiniens ont été incendiés et vandalisés dans quatre villages de Cisjordanie, territoire palestinien occupé par Israël depuis 1967.",
-   "tags": [
-    "Conflits",
-    "Climat",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "95ca2a46556a",
-   "titre": "NPR's Senior Podcast Challenge: Early entries we love",
-   "lien": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries",
-   "source": "NPR",
-   "date": "2026-11-22T10:00:00+00:00",
-   "extrait": "People 65 and older have been submitting stories for a chance to win our grand prize — a visit to NPR watch your podcast air live on Weekend Edition . There's still time to enter!",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "161a339eea01",
-   "titre": "He expected a small-business loan. He got a 7-year nightmare",
-   "lien": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
-   "source": "NPR",
-   "date": "2026-11-22T10:00:00+00:00",
-   "extrait": "America's fastest-growing source of funding for small businesses is also one of the least regulated. One man has waged a long, lonely fight to recoup its punishing cost.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "86c9e6f89eae",
-   "titre": "La multiplication des incidents militaires fait craindre une escalade entre la Russie et l'Otan",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-multiplication-des-incidents-militaires-fait-craindre-une-escalade-entre-la-russie-et-l-otan_8294615.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-22T09:57:56+00:00",
-   "extrait": "Alors que la Finlande soupçonne un hélicoptère russe d'avoir violé son espace aérien, les incidents se multiplient sur tout l'arc est-européen, de la mer Baltique à la mer Noire.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "9cccf8da055a",
-   "titre": "Au Japon, la pauvreté des jeunes occultée par la société : « Parfois, je n’avais qu’une tranche de pain de mie par jour »",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/22/au-japon-la-pauvrete-des-jeunes-occultee-par-la-societe-parfois-je-n-avais-qu-une-tranche-de-pain-de-mie-par-jour_6814203_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-22T09:30:06+00:00",
-   "extrait": "Malgré un taux d’emploi élevé, la pauvreté reste forte au Japon, avec des conséquences graves pour les jeunes. Trop limitées, les aides sociales ne leur permettent pas de s’en sortir. Souvent leur…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "3d97e0803e68",
-   "titre": "South Korea education minister resigns over exam cheating scandal",
-   "lien": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-22T09:20:45+00:00",
-   "extrait": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "cb872b166dc7",
-   "titre": "\"Il était temps\" : le hip-hop en passe d'être inscrit au patrimoine immatériel de l'Unesco",
-   "lien": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-il-etait-temps-le-hip-hop-en-passe-d-etre-inscrit-au-patrimoine-immateriel-de-l-unesco_8262596.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-22T09:10:48+00:00",
-   "extrait": "Né dans le Bronx il y a plus de cinquante ans, le hip-hop s'est imposé comme une culture dominante et mondiale, avec la France comme deuxième foyer important de son émergence.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "bb65fe821e94",
-   "titre": "L’artiste Roméo Mivekannin réactive la mémoire des zoos humains au Musée du quai Branly, à Paris",
-   "lien": "https://www.lemonde.fr/culture/article/2026/11/22/l-artiste-romeo-mivekannin-reactive-la-memoire-des-zoos-humains-au-musee-du-quai-branly-a-paris_6814200_3246.html",
-   "source": "Le Monde",
-   "date": "2026-11-22T09:00:12+00:00",
-   "extrait": "Le peintre s’inspire de photos trouvées dans les collections du lieu pour en faire de troublants tableaux où il insère son visage.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "2ce1be66c2f5",
-   "titre": "Est-ce bien raisonnable de remonter sa montre chaque matin ?",
-   "lien": "https://www.lemonde.fr/m-styles/article/2026/11/22/est-ce-bien-raisonnable-de-remonter-sa-montre-chaque-matin_6814201_4497319.html",
-   "source": "Le Monde",
-   "date": "2026-11-22T09:00:12+00:00",
-   "extrait": "Dans la mode comme dans la vie, il convient de connaître les limites à ne pas franchir. Ou alors, en connaissance de cause.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "569a100a676b",
-   "titre": "YouTube met en place de nouveaux espaces d’information pour les adolescents autour de la santé mentale",
-   "lien": "https://www.franceinfo.fr/replay-radio/l-il-de-julie/youtube-met-en-place-de-nouveaux-espaces-d-information-pour-les-adolescents-autour-de-la-sante-mentale_8250529.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-22T09:00:04+00:00",
-   "extrait": "YouTube vient d'élargir ses espaces destinés aux adolescents de 13 à 17 ans. Désormais, lorsqu’ils feront des recherches en lien avec le harcèlement, la colère, la solitude, l'insomnie ou le stress…",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "b924f551f63b",
-   "titre": "Les offres d'emploi décrochent dans les métiers les plus exposés à l'IA",
-   "lien": "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/les-offres-d-emploi-decrochent-dans-les-metiers-les-plus-exposes-a-l-ia_8250511.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-22T09:00:03+00:00",
-   "extrait": "Les entreprises ont-elles tendance à geler ou à renoncer à des embauches dans les métiers les plus exposés à l'Intelligence artificielle ? Sans apporter une preuve irréfutable de cause à effet, une…",
-   "tags": [
-    "Économie",
-    "Tech"
    ],
    "zone": "france"
   }
