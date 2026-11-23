@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-23T02:05:41+00:00",
+ "maj": "2026-11-23T03:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,11 +22,89 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "0c6f238e7b82",
+   "titre": "Army plans to carry out detonation at Iowa plant on Wednesday",
+   "lien": "https://www.cbsnews.com/news/us-army-iowa-plant-detonation-court-records/",
+   "source": "CBS News",
+   "date": "2026-11-23T03:02:31+00:00",
+   "extrait": "The Department of the Army said it plans to use an emergency munitions and explosives exclusion to the Environmental Protection Agency's permit.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "2b2400015386",
+   "titre": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+   "lien": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-23T02:59:35+00:00",
+   "extrait": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "d993c4dfb514",
+   "titre": "Tom Jackson, former Broncos star and sports broadcaster, dies at 75",
+   "lien": "https://www.cbsnews.com/news/tom-jackson-former-broncos-star-sports-broadcaster-dies-75/",
+   "source": "CBS News",
+   "date": "2026-11-23T02:19:17+00:00",
+   "extrait": "Tom Jackson, a former Denver Broncos player and ESPN analyst, has died at 75.",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "8c155ac69a2d",
+   "titre": "Hall of Fame sports broadcaster Tom Jackson dies at 75",
+   "lien": "https://www.cbsnews.com/video/hall-of-fame-sports-broadcaster-tom-jackson-dies-75/",
+   "source": "CBS News",
+   "date": "2026-11-23T02:17:05+00:00",
+   "extrait": "The Denver Broncos announced that Hall of Fame sports broadcaster Tom Jackson has died at 75.",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "9503da1d1f29",
+   "titre": "\"I Have a Dream\" pages written by Martin Luther King Jr. to go up for auction",
+   "lien": "https://www.cbsnews.com/video/i-have-a-dream-pages-written-martin-luther-king-jr-up-auction/",
+   "source": "CBS News",
+   "date": "2026-11-23T02:11:08+00:00",
+   "extrait": "Martin Luther King Jr. wrote his famous \"I Have a Dream\" speech on yellow legal paper in long cursive in blue ink. Those pages have been tucked away until now; they are headed to auction in January…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "55d114c08c3d",
+   "titre": "Kate Middleton shares cancer journey details in surprise documentary",
+   "lien": "https://www.cbsnews.com/video/kate-middleton-shares-cancer-journey-details-surprise-documentary/",
+   "source": "CBS News",
+   "date": "2026-11-23T02:05:32+00:00",
+   "extrait": "Britain's Princess of Wales, Kate Middleton, shared new details about her cancer journey in a surprise documentary previewed this weekend. Leigh Kiniry reports from London.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "68fe29ff9d46",
+   "titre": "Consumers expected to set Cyber Monday spending record this year",
+   "lien": "https://www.cbsnews.com/video/consumers-expected-set-cyber-monday-spending-record-year/",
+   "source": "CBS News",
+   "date": "2026-11-23T02:02:04+00:00",
+   "extrait": "Americans are expected to spend big in this year's holiday shopping season, even as they struggle with the high costs of everyday needs. Akiko Fujita reports from the Glendale Galleria near Los…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
    "id": "824d664dc931",
    "titre": "U.N. climate summit ends without deal after contentious fossil fuel debate",
    "lien": "https://www.cbsnews.com/news/un-cop31-climate-conference-ends-no-agreement-fossil-fuel-debate-standstill/",
    "source": "CBS News",
-   "date": "2026-11-23T01:57:22+00:00",
+   "date": "2026-11-23T01:57:00+00:00",
    "extrait": "COP31, the latest installment of the United Nations' annual climate conference, ended Sunday without a final agreement after days of contentious talks collapsed.",
    "tags": [
     "Climat"
@@ -72,21 +150,11 @@
    "titre": "Unmarked ICE agents make violent arrest at Seattle airport",
    "lien": "https://www.cbsnews.com/video/unmarked-ice-agents-violent-arrest-seattle-airport/",
    "source": "CBS News",
-   "date": "2026-11-23T01:52:28+00:00",
+   "date": "2026-11-23T01:52:00+00:00",
    "extrait": "An Immigration and Customs Enforcement arrest was caught on camera as passengers were boarding an Alaska Airlines flight. The event was so distressing that some of the crew members asked to be…",
    "tags": [
     "Justice"
    ],
-   "zone": "usa"
-  },
-  {
-   "id": "0c6f238e7b82",
-   "titre": "Army plans to carry out detonation at Iowa plant despite indefinite pause",
-   "lien": "https://www.cbsnews.com/news/us-army-iowa-plant-detonation-court-records/",
-   "source": "CBS News",
-   "date": "2026-11-23T01:51:40+00:00",
-   "extrait": "The Department of the Army said it plans to use an emergency munitions and explosives exclusion to the Environmental Protection Agency's permit.",
-   "tags": [],
    "zone": "usa"
   },
   {
@@ -104,7 +172,7 @@
    "titre": "Army moves forward with plans to detonate 5 tons of toxic materials in Iowa",
    "lien": "https://www.cbsnews.com/video/army-moves-forward-plans-detonate-5-tons-toxic-materials-iowa/",
    "source": "CBS News",
-   "date": "2026-11-23T01:49:34+00:00",
+   "date": "2026-11-23T01:49:00+00:00",
    "extrait": "The Army warned that freezing temperatures could risk an accidental toxic explosion at a munitions plant in Middletown, Iowa. The Trump administration declared an emergency and is moving ahead with…",
    "tags": [
     "Politique",
@@ -117,7 +185,7 @@
    "titre": "Delta Air Lines says it's resolved network issue, but severe weather could cause more delays",
    "lien": "https://www.cbsnews.com/video/ddelta-air-lines-says-resolved-network-issue-severe-weather-delays/",
    "source": "CBS News",
-   "date": "2026-11-23T01:49:05+00:00",
+   "date": "2026-11-23T01:49:00+00:00",
    "extrait": "Delta Air Lines said it resolved an automation outage that disrupted half of all flights, but the weather is creating another speed bump for the Thanksgiving travel rush. Shanelle Kaul reports and…",
    "tags": [
     "Climat"
@@ -165,11 +233,21 @@
    "zone": "usa"
   },
   {
+   "id": "475b7245f8e0",
+   "titre": "60 Minutes Transcript: How cartels make new synthetic opioids",
+   "lien": "https://www.cbsnews.com/news/drug-cartels-tweak-molecules-to-make-new-synthetic-opioids-60-minutes-transcript/",
+   "source": "CBS News",
+   "date": "2026-11-23T00:59:36+00:00",
+   "extrait": "The DEA is confronting what it calls the deadliest drug threat the U.S. has faced: synthetic opioids. Drug cartels tweak one molecule at a time to evade law enforcement.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
    "id": "942617554dd8",
-   "titre": "60 Minute Transcript: The online community idolizing mass shooters",
+   "titre": "60 Minutes Transcript: The online community idolizing mass shooters",
    "lien": "https://www.cbsnews.com/news/inside-the-tcc-an-online-community-that-idolizes-mass-shooters-60-minute-transcript/",
    "source": "CBS News",
-   "date": "2026-11-23T00:59:41+00:00",
+   "date": "2026-11-23T00:59:00+00:00",
    "extrait": "Researchers have identified 12 attacks in the US in the last three years that were carried out by members in the TCC, a growing online community that idolizes mass shooters.",
    "tags": [
     "Conflits"
@@ -178,21 +256,11 @@
   },
   {
    "id": "869385fb6274",
-   "titre": "The $10 synthetic opioid that killed him.",
+   "titre": "The $10 synthetic opioid that killed him",
    "lien": "https://www.cbsnews.com/news/synthetic-opioids-nitazenes-cartel-chemists-60-minutes/",
    "source": "CBS News",
-   "date": "2026-11-23T00:59:38+00:00",
+   "date": "2026-11-23T00:59:00+00:00",
    "extrait": "Nitazenes, a new class of synthetic opioid up to 80 times more potent than fentanyl, are among those being churned out by drug cartels.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "475b7245f8e0",
-   "titre": "60 Minutes Transcript: How cartels make new synthetic opioids",
-   "lien": "https://www.cbsnews.com/news/drug-cartels-tweak-molecules-to-make-new-synthetic-opioids-60-minutes-transcript/",
-   "source": "CBS News",
-   "date": "2026-11-23T00:59:36+00:00",
-   "extrait": "The DEA is confronting what it calls the deadliest drug threat the U.S. has faced: synthetic opioids. Drug cartels tweak one molecule at a time to evade law enforcement.",
    "tags": [],
    "zone": "usa"
   },
@@ -263,11 +331,21 @@
    "zone": "monde"
   },
   {
+   "id": "f73b238b685b",
+   "titre": "11/22: CBS Weekend News",
+   "lien": "https://www.cbsnews.com/video/112226-cbs-weekend-news/",
+   "source": "CBS News",
+   "date": "2026-11-22T23:30:00+00:00",
+   "extrait": "Widespread flight delays hit U.S. airports; the Army is set to detonate bomb-making material in Iowa.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
    "id": "40dd080d469b",
-   "titre": "EN DIRECT, guerre en Ukraine : deux navires, dont un russe, ciblés par des attaques de drones à Benghazi, en Libye, selon les autorités locales",
+   "titre": "EN DIRECT, guerre en Ukraine : deux navires, dont au moins un russe, ciblés par des attaques de drones à Benghazi en Libye, selon les autorités locales",
    "lien": "https://www.lemonde.fr/international/live/2026/11/22/en-direct-guerre-en-ukraine-deux-navires-dont-un-russe-cibles-par-des-attaques-de-drones-a-benghazi-en-libye-selon-les-autorites-locales_6814183_3210.html",
    "source": "Le Monde",
-   "date": "2026-11-22T22:57:04+00:00",
+   "date": "2026-11-22T22:57:00+00:00",
    "extrait": "Les autorités de l’est de la Libye ont annoncé dimanche qu’un deuxième navire avait subi une attaque de drone au large de Benghazi, quelques heures après qu’un bateau russe a été pris pour cible…",
    "tags": [
     "Conflits"
@@ -521,18 +599,6 @@
    "extrait": "Le producteur Michel Zecler avait été passé à tabac en 2020 par trois policiers dans l'entrée de son studio d'enregistrement à Paris. Les policiers avaient établi un faux procès-verbal l'accusant de…",
    "tags": [
     "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "2b2400015386",
-   "titre": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-   "lien": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-22T20:28:09+00:00",
-   "extrait": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-   "tags": [
-    "Conflits"
    ],
    "zone": "monde"
   },
@@ -896,18 +962,6 @@
    "extrait": "A panel of experts, including CBS News' cybersecurity expert and analyst Chris Krebs, CBS News national security contributor Samantha Vinograd, and co-founder and former chief technology officer of…",
    "tags": [
     "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "d993c4dfb514",
-   "titre": "Tom Jackson, former Broncos star and sports broadcaster, dies at 75",
-   "lien": "https://www.cbsnews.com/news/tom-jackson-former-broncos-star-sports-broadcaster-dies-75/",
-   "source": "CBS News",
-   "date": "2026-11-22T17:46:24+00:00",
-   "extrait": "Tom Jackson, a former Denver Broncos player and ESPN analyst, has died at 75.",
-   "tags": [
-    "Sport"
    ],
    "zone": "usa"
   },
@@ -3335,65 +3389,6 @@
    "date": "2026-11-21T18:10:04+00:00",
    "extrait": "Le XV de France dispute, samedi au Stade de France, son dernier match de la phase de groupes du Championnat des nations, face aux Pumas argentins. S’ils conservent la tête de la poule Nord, les…",
    "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "efe791339806",
-   "titre": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
-   "lien": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
-   "source": "NPR",
-   "date": "2026-11-21T18:08:55+00:00",
-   "extrait": "Fausto Isidro Meza Flores, better known as \"El Chapo Isidro,\" was one of the FBI's most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the region.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "1b5916ae9d6d",
-   "titre": "\"Les explosions ont secoué la mer autour de moi\" : le Britannique Lewis Pugh a nagé dans le détroit d'Ormuz pour alerter sur l'impact environnemental de la guerre",
-   "lien": "https://www.franceinfo.fr/monde/moyen-orient/les-explosions-ont-secoue-la-mer-autour-de-moi-un-britannique-a-traverse-le-detroit-d-ormuz-pour-alerter-sur-l-impact-environnemental-de-la-guerre_8293931.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-21T18:05:06+00:00",
-   "extrait": "Sur des photos publiées sur les réseaux sociaux par le sportif, figure notamment un navire en feu, vraisemblablement après une attaque survenue dans cette zone au cœur de la guerre qui oppose l'Iran…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "49430fc85f85",
-   "titre": "Hugues Moutouh, le préfet soupçonné de fuites d’informations confidentielles vers le RN, a demandé à être relevé de ses fonctions",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/21/hugues-moutouh-le-prefet-soupconne-de-fuites-d-informations-confidentielles-vers-le-rn-a-demande-a-etre-releve-de-ses-fonctions_6814056_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-21T18:01:12+00:00",
-   "extrait": "L’ancien haut fonctionnaire du ministère de l’intérieur est soupçonné d’avoir joué un rôle dans la transmission au Rassemblement national d’informations confidentielles sur les enquêtes visant le…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "ff92fcc7bb42",
-   "titre": "Avec le lyrique « L’Enclos des esclaves », la romancière Najwa Bin Shatwan ravive Benghazi, en Libye, au tournant du XXᵉ siècle",
-   "lien": "https://www.lemonde.fr/livres/article/2026/11/21/avec-le-lyrique-l-enclos-des-esclaves-la-romanciere-najwa-bin-shatwan-ravive-benghazi-en-libye-au-tournant-du-xx-siecle_6814055_3260.html",
-   "source": "Le Monde",
-   "date": "2026-11-21T18:00:02+00:00",
-   "extrait": "Ce beau roman de l’écrivaine libyenne revient sur la question douloureuse de l’esclavage en Libye aux XIXᵉ et XXᵉsiècle, en suivant une fille d’esclave en quête de ses origines.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "1d629bc7f9ad",
-   "titre": "François Ruffin retire sa candidature à l'élection présidentielle et souhaite \"bonne campagne\" aux \"candidats de gauche encore en lice\"",
-   "lien": "https://www.franceinfo.fr/elections/francois-ruffin-retire-sa-candidature-a-l-election-presidentielle-et-souhaite-bonne-campagne-aux-candidats-de-gauche-encore-en-lice_8294003.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-21T17:56:33+00:00",
-   "extrait": "Dans un communiqué posté sur le réseau social X, le député a déclaré samedi qu'il prenait \"acte de l'impasse\" de sa campagne, faute d'avoir réussi à imposer l'organisation d'une \"grande primaire\" de…",
-   "tags": [
-    "Politique"
-   ],
    "zone": "france"
   }
  ]
