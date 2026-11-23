@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-23T01:05:40+00:00",
+ "maj": "2026-11-23T02:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "6bdca88f72f1",
+   "titre": "Ledger : un pirate piège d’autres pirates avec un faux fichier",
+   "lien": "https://www.zataz.com/ledger-un-pirate-piege-dautres-pirates-avec-un-faux-fichier/",
+   "source": "Zataz",
+   "date": "2026-11-23T01:31:54+00:00",
+   "extrait": "Sur un forum pirate, une prétendue nouvelle fuite de données Ledger dissimule un piège. ZATAZ a suivi la manœuvre.",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
   {
    "id": "697d7aa86804",
    "titre": "Cyberattaque à Chambourcy : INC Ransom revendique l’attaque",
@@ -3346,19 +3357,6 @@
    "tags": [
     "CVE",
     "Faille"
-   ]
-  },
-  {
-   "id": "50b7d482cfd7",
-   "titre": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
-   "lien": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
-   "source": "The Hacker News",
-   "date": "2026-11-12T15:15:40+00:00",
-   "extrait": "Cybersecurity researchers have found that lookalike domains masquerading as artificial intelligence (AI) tools are being used to serve ClickFix-style lures, browser-hijacking malware, and a set of…",
-   "tags": [
-    "Malware",
-    "IA",
-    "Outil"
    ]
   }
  ]

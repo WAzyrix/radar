@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-23T01:05:40+00:00",
+ "maj": "2026-11-23T02:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,119 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "824d664dc931",
+   "titre": "U.N. climate summit ends without deal after contentious fossil fuel debate",
+   "lien": "https://www.cbsnews.com/news/un-cop31-climate-conference-ends-no-agreement-fossil-fuel-debate-standstill/",
+   "source": "CBS News",
+   "date": "2026-11-23T01:57:22+00:00",
+   "extrait": "COP31, the latest installment of the United Nations' annual climate conference, ended Sunday without a final agreement after days of contentious talks collapsed.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "11a6b07c38b7",
+   "titre": "International climate talks fall apart over fossil fuels",
+   "lien": "https://www.cbsnews.com/video/international-climate-talks-fall-apart-over-fossil-fuels/",
+   "source": "CBS News",
+   "date": "2026-11-23T01:56:06+00:00",
+   "extrait": "International climate talks collapsed in Turkey on Sunday in a bitter clash over fossil fuels, the main cause of global warming.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "6a991f74db5f",
+   "titre": "ICE officers arrest 2 passengers boarding flight in Seattle",
+   "lien": "https://www.cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle/",
+   "source": "CBS News",
+   "date": "2026-11-23T01:55:35+00:00",
+   "extrait": "Masked immigration officers arrested two passengers on a crowded airport jet bridge in Seattle as people were boarding Saturday",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "8e9b73d8db1b",
+   "titre": "Do not feed the animals. Vets explain why hats, coins and shoes can be deadly.",
+   "lien": "https://www.npr.org/2026/11/22/nx-s1-6049723/do-not-feed-the-animals-vets-explain-why-hats-coins-and-shoes-can-be-deadly",
+   "source": "NPR",
+   "date": "2026-11-23T01:53:48+00:00",
+   "extrait": "It's not easy to retrieve foreign objects from animals once ingested. Some things can be grabbed using an endoscope. But if an item gets far into the intestinal tract, surgery isn't always possible.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "b25b01a38a1d",
+   "titre": "Unmarked ICE agents make violent arrest at Seattle airport",
+   "lien": "https://www.cbsnews.com/video/unmarked-ice-agents-violent-arrest-seattle-airport/",
+   "source": "CBS News",
+   "date": "2026-11-23T01:52:28+00:00",
+   "extrait": "An Immigration and Customs Enforcement arrest was caught on camera as passengers were boarding an Alaska Airlines flight. The event was so distressing that some of the crew members asked to be…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "0c6f238e7b82",
+   "titre": "Army plans to carry out detonation at Iowa plant despite indefinite pause",
+   "lien": "https://www.cbsnews.com/news/us-army-iowa-plant-detonation-court-records/",
+   "source": "CBS News",
+   "date": "2026-11-23T01:51:40+00:00",
+   "extrait": "The Department of the Army said it plans to use an emergency munitions and explosives exclusion to the Environmental Protection Agency's permit.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "3cb2b8ca0c6b",
+   "titre": "Delta Air Lines hit with delays after baggage network system issue",
+   "lien": "https://www.cbsnews.com/news/delta-air-lines-nationwide-delays-amid-baggage-network-system-issue/",
+   "source": "CBS News",
+   "date": "2026-11-23T01:50:57+00:00",
+   "extrait": "The Delta Air Lines delays are most impacting flights in and out of Hartsfield-Jackson Atlanta International Airport in Georgia.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "fa1a881436d0",
+   "titre": "Army moves forward with plans to detonate 5 tons of toxic materials in Iowa",
+   "lien": "https://www.cbsnews.com/video/army-moves-forward-plans-detonate-5-tons-toxic-materials-iowa/",
+   "source": "CBS News",
+   "date": "2026-11-23T01:49:34+00:00",
+   "extrait": "The Army warned that freezing temperatures could risk an accidental toxic explosion at a munitions plant in Middletown, Iowa. The Trump administration declared an emergency and is moving ahead with…",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "a8bed576f387",
+   "titre": "Delta Air Lines says it's resolved network issue, but severe weather could cause more delays",
+   "lien": "https://www.cbsnews.com/video/ddelta-air-lines-says-resolved-network-issue-severe-weather-delays/",
+   "source": "CBS News",
+   "date": "2026-11-23T01:49:05+00:00",
+   "extrait": "Delta Air Lines said it resolved an automation outage that disrupted half of all flights, but the weather is creating another speed bump for the Thanksgiving travel rush. Shanelle Kaul reports and…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "3ed909c38e48",
+   "titre": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+   "lien": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-23T01:23:43+00:00",
+   "extrait": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+   "tags": [],
+   "zone": "monde"
+  },
   {
    "id": "00812127f484",
    "titre": "Riding wild animals and selling crafts at a prison rodeo",
@@ -128,28 +241,6 @@
    "zone": "usa"
   },
   {
-   "id": "6a991f74db5f",
-   "titre": "ICE officers arrest 2 passengers boarding flight in Seattle",
-   "lien": "https://www.cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle/",
-   "source": "CBS News",
-   "date": "2026-11-23T00:54:30+00:00",
-   "extrait": "Masked immigration officers arrested two passengers on a crowded airport jet bridge in Seattle as people were boarding Saturday",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "0c6f238e7b82",
-   "titre": "Army plans to carry out detonation at Iowa plant despite indefinite pause",
-   "lien": "https://www.cbsnews.com/news/us-army-iowa-plant-detonation-court-records/",
-   "source": "CBS News",
-   "date": "2026-11-23T00:51:32+00:00",
-   "extrait": "The Department of the Army said it plans to use an emergency munitions and explosives exclusion to the Environmental Protection Agency's permit.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "ca50e2792063",
    "titre": "COP31 fails to reach major climate deal as talks expose deep divisions",
    "lien": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
@@ -170,16 +261,6 @@
    "extrait": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
    "tags": [],
    "zone": "monde"
-  },
-  {
-   "id": "3cb2b8ca0c6b",
-   "titre": "Delta Air Lines hit with delays after baggage network system issue",
-   "lien": "https://www.cbsnews.com/news/delta-air-lines-nationwide-delays-amid-baggage-network-system-issue/",
-   "source": "CBS News",
-   "date": "2026-11-22T23:16:59+00:00",
-   "extrait": "The Delta Air Lines delays are most impacting flights in and out of Hartsfield-Jackson Atlanta International Airport in Georgia.",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "40dd080d469b",
@@ -453,16 +534,6 @@
    "tags": [
     "Conflits"
    ],
-   "zone": "monde"
-  },
-  {
-   "id": "3ed909c38e48",
-   "titre": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-   "lien": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-22T20:26:24+00:00",
-   "extrait": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
-   "tags": [],
    "zone": "monde"
   },
   {
@@ -1243,18 +1314,6 @@
     "Justice"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "824d664dc931",
-   "titre": "U.N. climate summit ends without deal after contentious fossil fuel debate",
-   "lien": "https://www.cbsnews.com/news/un-cop31-climate-conference-ends-no-agreement-fossil-fuel-debate-standstill/",
-   "source": "CBS News",
-   "date": "2026-11-22T15:41:41+00:00",
-   "extrait": "COP31, the latest installment of the United Nations' annual climate conference, ended Sunday without a final agreement after days of contentious talks collapsed.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "usa"
   },
   {
    "id": "3b2336c1177e",
@@ -3336,65 +3395,6 @@
     "Politique"
    ],
    "zone": "france"
-  },
-  {
-   "id": "6d083d16b8e2",
-   "titre": "\"On n'attendra pas l'élection présidentielle, on veut que la vie des gens s'améliore maintenant\", pointe le secrétaire confédéral de la CGT",
-   "lien": "https://www.franceinfo.fr/societe/on-n-attendra-pas-l-election-presidentielle-on-veut-que-la-vie-des-gens-s-ameliore-maintenant-pointe-le-secretaire-confederal-de-la-cgt_8294036.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-21T17:55:20+00:00",
-   "extrait": "Alors que des dizaines de milliers de personnes ont encore manifesté dans les rues samedi, la CGT appelle à maintenir la pression sur le gouvernement pour obtenir, notamment, des hausses de salaires.",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "ba1493f0d85e",
-   "titre": "Roberto Saviano, auteur de « Gomorra » : « Le suicide de l’ancien chef de la police italienne Gianni De Gennaro est un choc immense »",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/21/roberto-saviano-auteur-de-gomorra-le-suicide-de-l-ancien-chef-de-la-police-italienne-gianni-de-gennaro-est-un-choc-immense_6814054_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-21T17:44:51+00:00",
-   "extrait": "Ce suicide, le 21 novembre, intervient quelques jours après sa mise en examen pour « détournement d’enquête » par le parquet de Caltanissetta, en Sicile, qui l’accuse d’avoir brouillé les pistes…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "dc2c75352640",
-   "titre": "Mobilisation contre la vie chère : les gilets jaunes fêtent les huit ans de leur mouvement",
-   "lien": "https://www.franceinfo.fr/societe/manifestations/mobilisation-contre-la-vie-chere-les-gilets-jaunes-fetent-les-huit-ans-de-leur-mouvement_8294042.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-21T17:43:59+00:00",
-   "extrait": "Le mouvement des gilets jaunes fête ses huit ans ce samedi 21 novembre. Pour l’occasion, mais surtout pour lutter contre la vie chère, ses membres ont défilé aux côtés des lycéens et des syndicats…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "5f764461e416",
-   "titre": "\"Blessure grave\" pour Désiré Doué, touché au genou droit avec le PSG et sorti sur civière face à Nice en Ligue 1",
-   "lien": "https://www.franceinfo.fr/sports/foot/ligue-1/grosse-inquietude-pour-desire-doue-blesse-au-genou-droit-avec-le-psg-et-sorti-sur-civiere-face-a-nice-en-ligue-1_8294027.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-21T17:42:55+00:00",
-   "extrait": "L'attaquant international français est sorti sur civière à la 44e minute, samedi à Nice, après un mauvais appui suite auquel Désiré Doué s'est immédiatement tenu le genou.",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "cfd5c820ce2f",
-   "titre": "Présidentielle 2027 : François Ruffin jette l'éponge face à \"l’impasse\" de sa campagne",
-   "lien": "https://www.france24.com/fr/france/20261121-pr%C3%A9sidentielle-prenant-acte-de-l-impasse-de-sa-campagne-fran%C3%A7ois-ruffin-retire-sa-candidature",
-   "source": "France 24",
-   "date": "2026-11-21T17:37:20+00:00",
-   "extrait": "À cinq mois de l’échéance, François Ruffin a annoncé, samedi, qu’il retirait sa candidature à l’élection présidentielle, prenant \"acte de l’impasse\" de sa campagne faute d’avoir réussi à imposer…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
   }
  ]
 }
