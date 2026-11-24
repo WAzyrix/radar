@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-24T09:05:39+00:00",
+ "maj": "2026-11-24T10:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,26 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "2ea756a796ab",
+   "titre": "dumbtv - Le Fire TV sans pub ni mouchard (et sans root)",
+   "lien": "https://korben.info/dumbtv.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-24T09:21:56+00:00",
+   "extrait": "dumbtv désactive par ADB les pubs, la télémétrie et l'empreinte d'écran d'un Fire TV sous Fire OS, pose un filtre DNS local et un accueil sans pub, et tout s'annule d'une commande. Les nouveaux…",
+   "tags": []
+  },
+  {
+   "id": "91fa0e8a1d97",
+   "titre": "Ladybird - Vous pouvez enfin installer ce navigateur indépendant",
+   "lien": "https://korben.info/ladybird-premiere-alpha.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-24T09:04:43+00:00",
+   "extrait": "La première alpha de Ladybird s'installe sans compiler sur Mac Apple Silicon et Linux. Essai sur Mac mini, ce qui marche, ce qui casse, le bond d'octobre, et pourquoi le garder à l'écart de vos…",
+   "tags": [
+    "Linux"
+   ]
+  },
   {
    "id": "48fdfa7f5160",
    "titre": "Stalwart - Lâcher Exchange sans toucher à Outlook",
@@ -3324,29 +3344,6 @@
    "source": "The Hacker News",
    "date": "2026-11-15T08:22:04+00:00",
    "extrait": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting…",
-   "tags": [
-    "Fuite de données",
-    "IA"
-   ]
-  },
-  {
-   "id": "e6f51ba2eb00",
-   "titre": "Vectors - Aiguilleur du ciel ze game !",
-   "lien": "https://korben.info/vectors-jeu-controle-aerien-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-11-15T06:54:41+00:00",
-   "extrait": "Vectors est un jeu de contrôle aérien gratuit qui tourne dans le navigateur, sans compte. Joli mais un peu austère et tout en anglais : voici les gestes du premier service, les deux pièges de la fin…",
-   "tags": [
-    "Outil"
-   ]
-  },
-  {
-   "id": "403e4bdfaeb6",
-   "titre": "Cursor confirms security breach led to malicious Claude Code extension",
-   "lien": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
-   "source": "BleepingComputer",
-   "date": "2026-11-14T17:27:25+00:00",
-   "extrait": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider…",
    "tags": [
     "Fuite de données",
     "IA"
