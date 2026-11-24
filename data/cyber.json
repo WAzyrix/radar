@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-24T17:05:41+00:00",
+ "maj": "2026-11-24T18:05:49+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,28 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "adb18ca6aea0",
+   "titre": "Radware discloses breach exposing customer cloud access keys",
+   "lien": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+   "source": "BleepingComputer",
+   "date": "2026-11-24T17:49:05+00:00",
+   "extrait": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall)…",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "6b48789d1147",
+   "titre": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+   "lien": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
+   "source": "The Hacker News",
+   "date": "2026-11-24T16:54:07+00:00",
+   "extrait": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus. Central to the…",
+   "tags": [
+    "Malware"
+   ]
+  },
   {
    "id": "63399c74702a",
    "titre": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
@@ -3334,28 +3356,6 @@
    "extrait": "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own…",
    "tags": [
     "IA"
-   ]
-  },
-  {
-   "id": "1a13d7025b37",
-   "titre": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
-   "lien": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
-   "source": "The Hacker News",
-   "date": "2026-11-16T06:53:34+00:00",
-   "extrait": "An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "7d8681a3bdbf",
-   "titre": "Bulletin d'actualité CERTFR-2026-ACT-048 (16 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-048/",
-   "source": "CERT-FR",
-   "date": "2026-11-16T00:00:00+00:00",
-   "extrait": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes…",
-   "tags": [
-    "Faille"
    ]
   }
  ]
