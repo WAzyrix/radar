@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-24T19:05:41+00:00",
+ "maj": "2026-11-24T20:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,15 +22,96 @@
  "erreurs": [],
  "articles": [
   {
-   "id": "04696ca4db09",
-   "titre": "Sébastien Lecornu recevra les présidents des groupes parlementaires \"la semaine prochaine\" pour prolonger les discussions sur le budget 2027",
-   "lien": "https://www.franceinfo.fr/economie/budget/sebastien-lecornu-recevra-les-presidents-des-groupes-parlementaires-la-semaine-prochaine-pour-prolonger-les-discussions-sur-le-budget-2027_8298285.html#xtor=RSS-3-[lestitres]",
+   "id": "46e07e32315b",
+   "titre": "Présidentielle 2027 : Edouard Philippe \"vote blanc\" dans un duel hypothétique entre Jean-Luc Mélenchon et Marine Le Pen au second tour",
+   "lien": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-le-congres-des-maires-s-ouvre-plusieurs-candidats-attendus-sur-place_8297094.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-11-24T19:04:02+00:00",
-   "extrait": "Le Premier ministre s'est également félicité de l'adoption du projet de loi de finances de fin de gestion pour 2026.",
+   "date": "2026-11-24T20:00:24+00:00",
+   "extrait": "Le candidat Horizons à l'élection présidentielle refuse de faire un choix dans l'hypothèse où ses rivaux LFI et RN accéderaient au second tour, en mai 2027.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "9c6df6f8c692",
+   "titre": "Investigator: Russia has stolen tens of thousands of Ukrainian kids",
+   "lien": "https://www.cbsnews.com/video/investigator-russia-has-stolen-tens-of-thousands-of-ukrainian-kids/",
+   "source": "CBS News",
+   "date": "2026-11-24T19:59:37+00:00",
+   "extrait": "Since 2022, tens of thousands of Ukrainian children have been carried off to Russia and forced into re-education programs or military camps. Ukraine says it is part of a Russian campaign to erase…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "d9924b1f6937",
+   "titre": "Présidentielle 2027 : Gabriel Attal presse Edouard Philippe de « proposer une autre modalité de départage », face à son refus de la primaire",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/24/presidentielle-2027-gabriel-attal-presse-edouard-philippe-de-proposer-une-autre-modalite-de-departage-face-a-son-refus-de-la-primaire_6814848_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-24T19:56:50+00:00",
+   "extrait": "Dans une interview au « Parisien » mardi, le candidat de Renaissance à la présidentielle estime que seule une primaire « pourra créer [un] élan » au centre et à droite.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "000b0f1e3618",
+   "titre": "Ukraine : une guerre sans frontières ?",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261124-ukraine-une-guerre-sans-fronti%C3%A8res",
+   "source": "France 24",
+   "date": "2026-11-24T19:56:30+00:00",
+   "extrait": "Le Président ukrainien Volodymyr Zelensky a revendiqué lundi l'attaque de deux navires russes au large de Benghazi, dans l'est de la Libye. Un nouvel épisode dans la guerre menée par la Russie…",
    "tags": [
     "Politique",
-    "Économie"
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "334ae750a371",
+   "titre": "Trump pardons 2 turkeys, Freedom and Feathers",
+   "lien": "https://www.cbsnews.com/news/white-house-turkey-pardon-trump-thanksgiving-freedom-feathers/",
+   "source": "CBS News",
+   "date": "2026-11-24T19:51:40+00:00",
+   "extrait": "Freedom and Feathers were introduced on Monday at the Willard InterContinental in Washington, where the two stayed in a suite leading up to their trip to the White House.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "eed0d6f47ab4",
+   "titre": "Victoire du Sénégal à la CAN : la Confédération africaine de football déclare \"respecter la décision\" du Tribunal arbitral du sport",
+   "lien": "https://www.franceinfo.fr/sports/foot/can/direct-senegal-vainqueur-de-la-can-le-tribunal-arbitral-du-sport-a-rendu-justice-au-sport-estime-le-president-de-la-federation-senegalaise_8298138.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-24T19:49:01+00:00",
+   "extrait": "Le Tribunal arbitral du sport (TAS) a déclaré mardi le Sénégal vainqueur de la Coupe d'Afrique des nations 2025, aux dépens du Maroc qui avait obtenu le titre.",
+   "tags": [
+    "Justice",
+    "Sport"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "1c83b7c73990",
+   "titre": "Can Jensen Huang put out the fire he started at Nvidia?",
+   "lien": "https://www.cbsnews.com/news/nvidia-jensen-huang-challenges/",
+   "source": "CBS News",
+   "date": "2026-11-24T19:42:57+00:00",
+   "extrait": "Despite Jensen Huang's shock return as Nvidia's CEO, experts say it's anything but business as usual for the chipmaker.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "dace6634f8fa",
+   "titre": "Le ministre de la Défense israélien affirme que l'Iran développe \"des armes chimiques\"",
+   "lien": "https://www.franceinfo.fr/monde/conflit-israel-iran/le-ministre-de-la-defense-israelien-affirme-que-l-iran-developpe-des-armes-chimiques_8298327.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-24T19:42:33+00:00",
+   "extrait": "De son côté, le rival de Benyamin Nétanyahou, Gadi Eisenkot, estime qu'aucune opération militaire contre l'Iran ne s'impose dans l'immédiat.",
+   "tags": [
+    "Politique"
    ],
    "zone": "france"
   },
@@ -39,7 +120,7 @@
    "titre": "Iran developing chemical weapons, Israeli defense minister says",
    "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
    "source": "CBS News",
-   "date": "2026-11-24T19:02:57+00:00",
+   "date": "2026-11-24T19:40:24+00:00",
    "extrait": "Israeli Defense Minister Israel Katz said Iran was developing chemical weapons and left open the possibility of preemptive strikes if necessary.",
    "tags": [
     "Conflits"
@@ -47,11 +128,116 @@
    "zone": "usa"
   },
   {
+   "id": "6c20825f61f3",
+   "titre": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+   "lien": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-24T19:27:23+00:00",
+   "extrait": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "ee81e1fb139a",
+   "titre": "Un obus de 33 cm retrouvé sur une plage à Dunkerque, un vaste périmètre de sécurité mis en place",
+   "lien": "https://www.franceinfo.fr/faits-divers/un-obus-de-33-cm-retrouve-sur-une-plage-a-dunkerque-un-vaste-perimetre-de-securite-mis-en-place_8298303.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-24T19:22:53+00:00",
+   "extrait": "Les démineurs de la Marine nationale vont neutraliser l'engin jeudi 26 novembre, avec la suspension des activités en mer et dans les airs pendant plusieurs heures.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "80fd16761501",
+   "titre": "Plus de 300 gendarmes blessés depuis le début de la crise sociale, selon la gendarmerie nationale",
+   "lien": "https://www.franceinfo.fr/societe/armee-securite-defense/plus-de-300-gendarmes-blesses-depuis-le-debut-de-la-crise-sociale-selon-la-gendarmerie-nationale_8297913.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-24T19:20:11+00:00",
+   "extrait": "Le directeur général de la gendarmerie nationale a précisé que 50 d'entre eux ont été hospitalisés après avoir été blessés \"assez sérieusement\".",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "f9321296c636",
+   "titre": "Rep. Omar D.C. home search sought evidence going back to 1980",
+   "lien": "https://www.cbsnews.com/news/ilhan-omar-home-search-documents-magistrate-judge-probable-cause/",
+   "source": "CBS News",
+   "date": "2026-11-24T19:19:07+00:00",
+   "extrait": "The warrant application covers a 46-year period beginning in 1980, long before Omar was in Congress, according to newly released court records. The documents are heavily redacted, and no criminal…",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "04696ca4db09",
+   "titre": "Sébastien Lecornu recevra les présidents des groupes parlementaires début décembre pour prolonger les discussions sur le budget 2027",
+   "lien": "https://www.franceinfo.fr/economie/budget/sebastien-lecornu-recevra-les-presidents-des-groupes-parlementaires-la-semaine-prochaine-pour-prolonger-les-discussions-sur-le-budget-2027_8298285.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-24T19:15:27+00:00",
+   "extrait": "Le Premier ministre s'est également félicité de l'adoption du projet de loi de finances de fin de gestion pour 2026.",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "785d5710bba1",
+   "titre": "Au Brésil, le gouvernement Lula fait voter un plan de rigueur budgétaire controversé",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/24/au-bresil-le-gouvernement-lula-fait-voter-un-plan-de-rigueur-budgetaire-controverse_6814846_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-24T19:11:47+00:00",
+   "extrait": "Ce premier texte d’envergure soumis au vote depuis la réélection du dirigeant du Parti des travailleurs, le 25 octobre, a suscité la réprobation d’une partie de la gauche, en désaccord avec la…",
+   "tags": [
+    "Politique",
+    "Santé"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "619974f6a6ee",
+   "titre": "Nigerian monarch, 92, suspended after sexual assault claims",
+   "lien": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-24T19:10:31+00:00",
+   "extrait": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "24974b88b2d2",
+   "titre": "1er sommet des peuples autochtones: un mode de vie menacé",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261124-1er-sommet-des-peuples-autochtones-un-mode-de-vie-menac%C3%A9",
+   "source": "France 24",
+   "date": "2026-11-24T19:09:18+00:00",
+   "extrait": "A Paris, s'est ouvert ce mardi, le premier sommet des peuples autochtones. 25 représentants de 6 pay vont tenter de parler d'une seule voix pour défendre leurs intérêts communs, notamment la…",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "22c73d3b6f94",
+   "titre": "En Allemagne, Die Linke exclut une de ses élues pour diriger la mairie de Berlin",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/24/en-allemagne-die-linke-exclut-une-de-ses-elues-pour-diriger-la-mairie-de-berlin_6814844_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-24T19:05:53+00:00",
+   "extrait": "Le parti de gauche radicale a voté, mardi, l’exclusion de Vanessa Emde, accusée d’antisémitisme. Son départ devrait faciliter la conclusion d’un accord avec le SPD et les Verts, attendu avant début…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "eae81a502fdb",
    "titre": "Do you need a power of attorney if you already have a will?",
    "lien": "https://www.cbsnews.com/news/do-you-need-a-power-of-attorney-if-you-already-have-a-will/",
    "source": "CBS News",
-   "date": "2026-11-24T19:02:20+00:00",
+   "date": "2026-11-24T19:02:00+00:00",
    "extrait": "A will is an important part of estate planning, but it may leave some critical financial decisions unaddressed.",
    "tags": [],
    "zone": "usa"
@@ -61,7 +247,7 @@
    "titre": "Budget : un premier texte adopté par le Parlement, Sébastien Lecornu rêve désormais d’un compromis pour 2027",
    "lien": "https://www.lemonde.fr/politique/article/2026/11/24/budget-un-premier-texte-adopte-par-le-parlement-sebastien-lecornu-reve-desormais-d-un-compromis-pour-2027_6814842_823448.html",
    "source": "Le Monde",
-   "date": "2026-11-24T18:59:14+00:00",
+   "date": "2026-11-24T18:59:13+00:00",
    "extrait": "La loi de fin de gestion pour 2026 a été validée mardi 24 novembre. L’accord sur le budget 2027 que vise le premier ministre paraît beaucoup plus aléatoire. Surtout avec l’énorme couac sur les…",
    "tags": [
     "Politique",
@@ -81,18 +267,6 @@
     "Conflits"
    ],
    "zone": "france"
-  },
-  {
-   "id": "334ae750a371",
-   "titre": "Trump to pardon 2 turkeys, Freedom and Feathers",
-   "lien": "https://www.cbsnews.com/news/white-house-turkey-pardon-trump-thanksgiving-freedom-feathers/",
-   "source": "CBS News",
-   "date": "2026-11-24T18:57:08+00:00",
-   "extrait": "Freedom and Feathers were introduced on Monday at the Willard InterContinental in Washington, where the two have been staying in a suite leading up to their trip to the White House.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
   },
   {
    "id": "ca6bd074c97c",
@@ -149,19 +323,6 @@
    "extrait": "The Army is set to detonate unstable explosives at an Iowa munitions plant on Wednesday morning, saying it's necessary to avoid a future spontaneous explosion. CBS News' Ian Lee has more.",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "eed0d6f47ab4",
-   "titre": "Victoire du Sénégal à la CAN : la Confédération africaine de football déclare \"respecter la décision\" du Tribunal arbitral du sport",
-   "lien": "https://www.franceinfo.fr/sports/foot/can/direct-senegal-vainqueur-de-la-can-le-tribunal-arbitral-du-sport-a-rendu-justice-au-sport-estime-le-president-de-la-federation-senegalaise_8298138.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-24T18:45:49+00:00",
-   "extrait": "Le Tribunal arbitral du sport (TAS) a déclaré mardi le Sénégal vainqueur de la Coupe d'Afrique des nations 2025, aux dépens du Maroc qui avait obtenu le titre.",
-   "tags": [
-    "Justice",
-    "Sport"
-   ],
-   "zone": "france"
   },
   {
    "id": "df744cad1da3",
@@ -222,16 +383,6 @@
    "zone": "usa"
   },
   {
-   "id": "46e07e32315b",
-   "titre": "Présidentielle 2027 : David Lisnard s'engage à continuer à \"défendre les mairies\" s'il accède à l'Elysée en mai 2027.",
-   "lien": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-le-congres-des-maires-s-ouvre-plusieurs-candidats-attendus-sur-place_8297094.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-24T18:16:59+00:00",
-   "extrait": "Le candidat Nouvelle Energie brigue sa propre succession à la tête de l'Association des maires de France. Pour ce scrutin, il affronte le maire UDI de Sceaux (Hauts-de-Seine), Philippe Laurent.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
    "id": "da38f391e895",
    "titre": "Budget 2027 : le Sénat abaisse le plafond de l’abattement fiscal de 10 % des retraités, refusant sa suppression totale",
    "lien": "https://www.lemonde.fr/politique/article/2026/11/24/budget-2027-le-senat-abaisse-le-plafond-de-l-abattement-fiscal-de-10-des-retraites-refusant-sa-suppression-totale_6814837_823448.html",
@@ -279,6 +430,16 @@
    "zone": "monde"
   },
   {
+   "id": "44e0aeb346f1",
+   "titre": "EN DIRECT, Leipzig-Lens : Florian Thauvin titulaire sur le côté gauche des Sang et Or en quête de revanche",
+   "lien": "https://www.lemonde.fr/sport/live/2026/11/24/en-direct-leipzig-lens-suivez-le-match-de-ligue-des-champions-de-football_6814834_3242.html",
+   "source": "Le Monde",
+   "date": "2026-11-24T18:00:05+00:00",
+   "extrait": "Battus 9 à 1 par Côme lors de leur dernière sortie européenne, les Lensois et leur nouvel entraîneur, Didier Digard, tenteront de relever la tête face aux Allemands, mardi, dans le cadre de la…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "9e1573738a65",
    "titre": "Décision du TAS : le Sénégal célèbre, le Maroc enrage... Toutes les réactions",
    "lien": "https://www.france24.com/fr/sports/20261124-decision-tas-senegal-heureux-maroc-enrage-reactions",
@@ -310,6 +471,18 @@
    "extrait": "Cette attaque intervient le jour du dixième anniversaire d’un accord de paix historique entre l’Etat colombien et la guérilla des Forces armées révolutionnaires de Colombie.",
    "tags": [
     "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "0573cad1398c",
+   "titre": "Mort de Nahel Merzouk en 2023 : quatre questions après la décision de juger le policier auteur du tir pour meurtre",
+   "lien": "https://www.franceinfo.fr/faits-divers/adolescent-tue-par-un-policier-a-nanterre/mort-de-nahel-merzouk-en-2023-quatre-questions-apres-la-decision-de-juger-le-policier-auteur-du-tir-pour-meurtre_8297382.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-24T17:52:03+00:00",
+   "extrait": "Dans cette affaire qui a connu plusieurs rebondissements judiciaires, la cour d'appel de Versailles a ordonné mardi que Florian Menesplier soit jugé devant la cour d'assises des Hauts-de-Seine pour…",
+   "tags": [
+    "Justice"
    ],
    "zone": "france"
   },
@@ -403,6 +576,16 @@
    "extrait": "The Allure of the Seas is on an eight-day Thanksgiving cruise in the Caribbean that departed from Miami on Sunday.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "ee942d046b0f",
+   "titre": "Office Depot ferme définitivement ses 27 magasins et son site Internet en France, faute d’avoir trouvé un repreneur",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/24/office-depot-ferme-definitivement-ses-27-magasins-et-son-site-internet-en-france-faute-d-avoir-trouve-un-repreneur_6814829_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-24T17:29:19+00:00",
+   "extrait": "L’entreprise avait été placée début octobre en liquidation judiciaire, avec poursuite d’activité afin de permettre la recherche d’un repreneur. Les 185 salariés feront l’objet d’une procédure légale…",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "be9177c70a92",
@@ -499,16 +682,6 @@
    "zone": "monde"
   },
   {
-   "id": "80fd16761501",
-   "titre": "Plus de 300 gendarmes blessés depuis le début de la crise sociale, selon la gendarmerie nationale",
-   "lien": "https://www.franceinfo.fr/societe/armee-securite-defense/plus-de-300-gendarmes-blesses-depuis-le-debut-de-la-crise-sociale-selon-la-gendarmerie-nationale_8297913.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-24T17:03:21+00:00",
-   "extrait": "Le directeur général de la gendarmerie nationale a précisé que 50 d'entre eux ont été hospitalisés après avoir été blessés \"assez sérieusement\".",
-   "tags": [],
-   "zone": "france"
-  },
-  {
    "id": "063b3cdc55e7",
    "titre": "CAN 2025 : pourquoi le TAS a donné raison à l'arbitre et au Sénégal",
    "lien": "https://www.france24.com/fr/sports/20261124-can-2025-pourquoi-tas-arbitre-senegal-maroc",
@@ -520,6 +693,20 @@
     "Sport"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "fffaad8ce1f3",
+   "titre": "Election pour la présidence de la FIFA : le Qatari Nasser Al-Khelaïfi « en porte-à-faux » entre les candidats Gianni Infantino et Philippe Diallo",
+   "lien": "https://www.lemonde.fr/sport/article/2026/11/24/election-pour-la-presidence-de-la-fifa-le-qatari-nasser-al-khelaifi-en-porte-a-faux-entre-les-candidats-gianni-infantino-et-philippe-diallo_6814827_3242.html",
+   "source": "Le Monde",
+   "date": "2026-11-24T17:00:31+00:00",
+   "extrait": "Le patron qatari du PSG, proche de l’UEFA, a bénéficié, en 2020, d’un accord amiable avec la Fédération internationale de football présidée par Gianni Infantino, qui lui a permis d’échapper à un…",
+   "tags": [
+    "Politique",
+    "Justice",
+    "Sport"
+   ],
+   "zone": "france"
   },
   {
    "id": "3fa4c5fcac0d",
@@ -662,19 +849,6 @@
    "zone": "usa"
   },
   {
-   "id": "f9321296c636",
-   "titre": "Rep. Omar D.C. home search sought evidence going back to 1980",
-   "lien": "https://www.cbsnews.com/news/ilhan-omar-home-search-documents-magistrate-judge-probable-cause/",
-   "source": "CBS News",
-   "date": "2026-11-24T16:36:32+00:00",
-   "extrait": "The warrant application covers a 46-year period beginning in 1980, long before Omar was in Congress, according to newly released court records. The documents are heavily redacted, and no criminal…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "30b01b428c7f",
    "titre": "New details emerge about U.S. involvement in drug lord's capture",
    "lien": "https://www.cbsnews.com/news/chapo-isidro-arrest-us-drone-mexico-help-capture-drug-lord/",
@@ -693,18 +867,6 @@
    "extrait": "Le nouveau film du réalisateur américain, présenté en compétition à Cannes et inspiré de sa propre jeunesse, est servi par un formidable trio d’acteurs, Scarlett Johansson, Adam Driver et Miles…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "6c20825f61f3",
-   "titre": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
-   "lien": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-24T16:31:26+00:00",
-   "extrait": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
   },
   {
    "id": "bfa5d74904e8",
@@ -1134,7 +1296,7 @@
   },
   {
    "id": "26df446a0dde",
-   "titre": "La mère de Nahel Merzouk \"soulagée et contente\", après que la justice a confirmé en appel le renvoi du policier pour meurtre",
+   "titre": "La mère de Nahel Merzouk se dit \"soulagée et contente\", alors que la justice confirme en appel le renvoi du policier pour meurtre",
    "lien": "https://www.franceinfo.fr/faits-divers/adolescent-tue-par-un-policier-a-nanterre/la-mere-de-nahel-merzouk-se-dit-soulagee-et-contente-alors-que-la-justice-confirme-en-appel-le-renvoi-du-policier-pour-meurtre_8297925.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-11-24T15:06:27+00:00",
@@ -3260,174 +3422,6 @@
    "date": "2026-11-24T05:00:08+00:00",
    "extrait": "Face à une situation tendue et volatile, des proviseurs tentent de rouvrir leur établissement et de reconstruire de l’unité. Entre reprise en petits effectifs et rencontres entre lycéens ou avec les…",
    "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "e9d468bb9325",
-   "titre": "\"Monsieur Bonbon, démission !\", réagit Foodwatch après la nomination de l'ancien PDG d'Haribo pour copiloter l'action de l’État sur l’alimentation",
-   "lien": "https://www.franceinfo.fr/sante/alimentation/monsieur-bonbon-demission-reagit-foodwatch-apres-la-nomination-de-l-ancien-pdg-d-haribo-pour-copiloter-l-action-de-l-etat-sur-l-alimentation_8296659.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-24T05:00:04+00:00",
-   "extrait": "L'association de défense des consommateurs en matière d'alimentation qualifie l'arrivée de Jean-Philippe André comme l'équivalent de \"confier les clés du poulailler au renard\". Avec d'autres…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "dc6a6ac83a53",
-   "titre": "Ligue des champions : après l'humiliation face à Côme, Lens doit repartir en terre allemande",
-   "lien": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/apres-l-humiliation-face-a-come-lens-doit-repartir-de-l-avant-en-ligue-des-champions-contre-leipzig_8296112.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-24T05:00:03+00:00",
-   "extrait": "Intronisé le 13 novembre, Didier Digard est déjà le troisième entraîneur de la saison du RC Lens. Ses joueurs affrontent, mardi soir, les Allemands de Leipzig.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "66055cc776ab",
-   "titre": "\"Sécurité des patients\" ou \"affichage politique\" ? On vous explique le conflit entre les dermatologues et le gouvernement sur l'encadrement de la médecine esthétique",
-   "lien": "https://www.franceinfo.fr/sante/securite-des-patients-ou-affichage-politique-on-vous-explique-le-conflit-entre-les-dermatologues-et-le-gouvernement-sur-l-encadrement-de-la-medecine-esthetique_8295836.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-24T04:59:37+00:00",
-   "extrait": "\"Nous devons veiller à ce que les compétences médicales restent prioritairement mobilisées au service des patients\", a plaidé la ministre de la Santé, Stéphanie Rist, après la publication d'un…",
-   "tags": [
-    "Politique",
-    "Santé"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "99bc9db3b8c8",
-   "titre": "Enquête sur des fuites présumées vers le RN : qui est Frédéric Chatillon, ex-président du GUD et ancien proche de Marine Le Pen ?",
-   "lien": "https://www.franceinfo.fr/societe/justice/enquete-sur-des-fuites-presumees-vers-le-rn-qui-est-frederic-chatillon-ex-president-du-gud-et-ancien-proche-de-marine-le-pen_8296470.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-24T04:57:22+00:00",
-   "extrait": "Le nom de ce prestataire du parti à la flamme apparaît dans l'enquête visant l'ancien préfet Hugues Moutouh sur les soupçons de fuites du ministère de l'Intérieur vers le Rassemblement national.",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "033451505c54",
-   "titre": "Emplois, ouvertures d'usines, investissements étrangers… On a vérifié trois affirmations d'Emmanuel Macron sur son bilan industriel",
-   "lien": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-emplois-ouvertures-d-usines-investissements-etrangers-on-a-verifie-trois-affirmations-d-emmanuel-macron-sur-son-bilan-industriel_8295941.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-24T04:56:17+00:00",
-   "extrait": "Dans un long message posté sur X, Emmanuel Macron a défendu le bilan de sa politique de réindustrialisation. Les chiffres donnés par le chef de l'Etat sont corrects, mais méritent d'être nuancés.",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c53ed40b1625",
-   "titre": "Le come-back spectaculaire de Jensen Huang à la tête de Nvidia, sous la pression de Donald Trump et des marchés financiers",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/24/le-come-back-spectaculaire-de-jensen-huang-a-la-tete-de-nvidia-sous-la-pression-de-donald-trump-et-des-marches-financiers_6814669_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-24T04:30:09+00:00",
-   "extrait": "Poussé à la démission le 12 novembre après la révélation de sa relation extraconjugale avec une femme soupçonnée de transmettre des informations aux services secrets chinois, le PDG a été réintégré…",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "301e4ba759bc",
-   "titre": "Experts, reporters and lawmakers dig into Nvidia reinstalling Jensen Huang as CEO",
-   "lien": "https://www.cbsnews.com/video/experts-reporters-lawmakers-dig-nvidia-reinstalling-jensen-huang-ceo/",
-   "source": "CBS News",
-   "date": "2026-11-24T04:15:00+00:00",
-   "extrait": "Just days after Jensen Huang stepped down as Nvidia CEO following allegations he had an affair with an alleged Chinese, the chip maker reinstalled Huang to his position in a stunning reversal…",
-   "tags": [
-    "Politique",
-    "Économie",
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "56cc4172e060",
-   "titre": "Ukraine en direct : au moins deux morts dans des frappes russes sur la ville ‌de Zaporijjia",
-   "lien": "https://www.france24.com/fr/europe/20261124-en-direct-ukraine-russie-libye-attaques-benghazi-zelensky-poutine",
-   "source": "France 24",
-   "date": "2026-11-24T04:00:56+00:00",
-   "extrait": "Deux ⁠personnes ont ​été tuées et plus de 40 autres blessées, ​dont plusieurs enfants, dans une attaque par la Russie contre la ville ukrainienne ‌de Zaporijjia, selon les autorités régionales. La…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "11f4da5aaae2",
-   "titre": "Inflation : pourquoi la hausse des cours de l’énergie tarde à se répercuter sur l’ensemble des prix en France",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/24/inflation-pourquoi-la-hausse-des-cours-de-l-energie-tarde-a-se-repercuter-sur-l-ensemble-des-prix-en-france_6814604_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-24T04:00:12+00:00",
-   "extrait": "L’atonie de l’activité économique française et la remontée du chômage freinent la répercussion de l’envolée des cours du pétrole et du gaz à l’ensemble de l’économie. Mais la donne pourrait changer.",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "a48417c92ef8",
-   "titre": "Comment on lutte contre l’isolement avec un service de navettes citoyennes",
-   "lien": "https://www.lemonde.fr/chaleur-humaine/article/2026/11/24/comment-on-lutte-contre-l-isolement-avec-un-service-de-navettes-citoyennes_6814605_6125299.html",
-   "source": "Le Monde",
-   "date": "2026-11-24T04:00:09+00:00",
-   "extrait": "Avec la série « On avance », « Le Monde » part à la rencontre de personnes qui agissent collectivement pour le climat et la biodiversité. Dans la Creuse, des bénévoles assurent le transport…",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "abb1af947913",
-   "titre": "Au Yémen, les Houthis déplorent 25 morts ou disparus dans des frappes saoudiennes",
-   "lien": "https://www.france24.com/fr/moyen-orient/20261124-yemen-houthis-deplorent-25-morts-disparus-frappes-saoudiennes",
-   "source": "France 24",
-   "date": "2026-11-24T03:30:10+00:00",
-   "extrait": "Une agence de presse houthie fait état mardi de 25 morts ou disparus après des frappes aériennes de l'Arabie saoudite contre des autocars et des camions dans le sud du Yémen. Cette attaque fait…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "4fc877682625",
-   "titre": "Les séries de la semaine : « Blade Runner 2099 », « Le Cinéma selon Cunk », « The Altruists » et « Snake Killer »",
-   "lien": "https://www.lemonde.fr/culture/article/2026/11/24/les-series-de-la-semaine-blade-runner-2099-le-cinema-selon-cunk-the-altruists-et-snake-killer_6814603_3246.html",
-   "source": "Le Monde",
-   "date": "2026-11-24T03:30:10+00:00",
-   "extrait": "Chaque mardi, La Matinale du « Monde » propose une sélection de séries à découvrir sur petit écran. Aujourd’hui, notamment, une histoire du cinéma en 90 minutes, livrée par une créature issue du…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "3cdcb14143f0",
-   "titre": "A timeline of the Karen Read case",
-   "lien": "https://www.cbsnews.com/news/karen-read-trial-timeline-john-okeefe/",
-   "source": "CBS News",
-   "date": "2026-11-24T03:20:34+00:00",
-   "extrait": "Here's a look at how events have unfolded in the Karen Read case.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "2f882e1f48e5",
-   "titre": "Au Chili, mon concierge bien aimé, à la fois tour de contrôle et confident",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/24/au-chili-mon-concierge-bien-aime-a-la-fois-tour-de-controle-et-confident_6814570_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-24T02:30:09+00:00",
-   "extrait": "Les concierges officient dans la plupart des immeubles du pays andin, répondant aujourd’hui à un fort sentiment d’insécurité. Si leurs missions évoluent au gré de l’urbanisation et des technologies…",
-   "tags": [
-    "Tech"
-   ],
    "zone": "france"
   }
  ]
