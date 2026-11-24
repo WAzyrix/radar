@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-24T21:05:41+00:00",
+ "maj": "2026-11-24T22:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "6c270107d398",
+   "titre": "Rackspace shuts down Spot cloud platform after security breach",
+   "lien": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+   "source": "BleepingComputer",
+   "date": "2026-11-24T21:37:30+00:00",
+   "extrait": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate…",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
   {
    "id": "0bc0f9692115",
    "titre": "New Inception extortion gang launches large-scale vishing campaign",
@@ -3339,18 +3350,6 @@
    "extrait": "A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the readings used to detect high GPU…",
    "tags": [
     "Malware",
-    "Linux"
-   ]
-  },
-  {
-   "id": "7d4f6584a3c9",
-   "titre": "New NoisyTCP vulnerability lets attackers crash Linux servers",
-   "lien": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
-   "source": "BleepingComputer",
-   "date": "2026-11-16T09:30:04+00:00",
-   "extrait": "An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default…",
-   "tags": [
-    "Faille",
     "Linux"
    ]
   }
