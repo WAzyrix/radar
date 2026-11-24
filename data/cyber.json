@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-24T18:05:49+00:00",
+ "maj": "2026-11-24T19:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,15 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "5f76ac4f7ca9",
+   "titre": "Turnitin discloses cyberattack affecting customer-facing systems",
+   "lien": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
+   "source": "BleepingComputer",
+   "date": "2026-11-24T18:59:52+00:00",
+   "extrait": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
+   "tags": []
+  },
   {
    "id": "adb18ca6aea0",
    "titre": "Radware discloses breach exposing customer cloud access keys",
@@ -3345,17 +3354,6 @@
    "extrait": "Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates. [...]",
    "tags": [
     "Windows"
-   ]
-  },
-  {
-   "id": "f159cf23a7b2",
-   "titre": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
-   "lien": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
-   "source": "The Hacker News",
-   "date": "2026-11-16T07:34:21+00:00",
-   "extrait": "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own…",
-   "tags": [
-    "IA"
    ]
   }
  ]
