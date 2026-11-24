@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-24T04:05:47+00:00",
+ "maj": "2026-11-24T05:05:45+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,45 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "8183f4f2970c",
+   "titre": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+   "lien": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-24T04:36:31+00:00",
+   "extrait": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "c53ed40b1625",
+   "titre": "Le « come-back » spectaculaire de Jensen Huang à la tête de Nvidia, sous la pression de Donald Trump et des marchés financiers",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/24/le-come-back-spectaculaire-de-jensen-huang-a-la-tete-de-nvidia-sous-la-pression-de-donald-trump-et-des-marches-financiers_6814669_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-24T04:30:11+00:00",
+   "extrait": "Ecarté il y a onze jours après la révélation de sa relation extraconjugale avec une femme soupçonnée de transmettre des informations aux services secrets chinois, le PDG a été réintégré, lundi, par…",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "301e4ba759bc",
+   "titre": "Experts, reporters and lawmakers dig into Nvidia reinstalling Jensen Huang as CEO",
+   "lien": "https://www.cbsnews.com/video/experts-reporters-lawmakers-dig-nvidia-reinstalling-jensen-huang-ceo/",
+   "source": "CBS News",
+   "date": "2026-11-24T04:15:00+00:00",
+   "extrait": "Just days after Jensen Huang stepped down as Nvidia CEO following allegations he had an affair with an alleged Chinese, the chip maker reinstalled Huang to his position in a stunning reversal…",
+   "tags": [
+    "Politique",
+    "Économie",
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "56cc4172e060",
    "titre": "En direct : Tripoli veut des explications après les attaques contre des navires russes à Benghazi",
    "lien": "https://www.france24.com/fr/europe/20261124-en-direct-ukraine-russie-libye-attaques-benghazi-zelensky-poutine",
@@ -36,6 +75,18 @@
    "zone": "monde"
   },
   {
+   "id": "11f4da5aaae2",
+   "titre": "Inflation : pourquoi la hausse des cours de l’énergie tarde à se répercuter sur l’ensemble des prix en France",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/24/inflation-pourquoi-la-hausse-des-cours-de-l-energie-tarde-a-se-repercuter-sur-l-ensemble-des-prix-en-france_6814604_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-24T04:00:12+00:00",
+   "extrait": "L’atonie de l’activité économique française et la remontée du chômage freinent la répercussion de l’envolée des cours du pétrole et du gaz à l’ensemble de l’économie. Mais la donne pourrait changer.",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "abb1af947913",
    "titre": "Au Yémen, les Houthis déplorent 25 morts ou disparus dans des frappes saoudiennes",
    "lien": "https://www.france24.com/fr/moyen-orient/20261124-yemen-houthis-deplorent-25-morts-disparus-frappes-saoudiennes",
@@ -46,6 +97,16 @@
     "Conflits"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "4fc877682625",
+   "titre": "Les séries de la semaine : « Blade Runner 2099 », « Le Cinéma selon Cunk », « The Altruists » et « Snake Killer »",
+   "lien": "https://www.lemonde.fr/culture/article/2026/11/24/les-series-de-la-semaine-blade-runner-2099-le-cinema-selon-cunk-the-altruists-et-snake-killer_6814603_3246.html",
+   "source": "Le Monde",
+   "date": "2026-11-24T03:30:10+00:00",
+   "extrait": "Chaque mardi, La Matinale du « Monde » propose une sélection de séries à découvrir sur petit écran. Aujourd’hui, notamment, une histoire du cinéma en 90 minutes, livrée par une créature issue du…",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "b0e5a1f3ba84",
@@ -68,6 +129,18 @@
    "extrait": "Here's a look at how events have unfolded in the Karen Read case.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "2f882e1f48e5",
+   "titre": "Au Chili, mon concierge bien aimé, à la fois tour de contrôle et confident",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/24/au-chili-mon-concierge-bien-aime-a-la-fois-tour-de-controle-et-confident_6814570_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-24T02:30:14+00:00",
+   "extrait": "Les concierges officient dans la plupart des immeubles du pays andin, répondant aujourd’hui au fort sentiment d’insécurité. Si leurs missions évoluent au gré de l’urbanisation et des technologies…",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "france"
   },
   {
    "id": "202546ddb333",
@@ -106,7 +179,7 @@
    "titre": "Trump downplays Iran's latest attacks as it vows to use all means to end U.S. blockade",
    "lien": "https://www.cbsnews.com/video/trump-downplays-irans-latest-attacks-threatens-all-means-end-us-blockade/",
    "source": "CBS News",
-   "date": "2026-11-24T01:49:51+00:00",
+   "date": "2026-11-24T01:49:00+00:00",
    "extrait": "The Iranian government said it would use \"all available means\" to end the U.S. naval blockade of the country's ports, dubbing it an \"act of military aggression.\" CBS News Pentagon reporter Eleanor…",
    "tags": [
     "Politique",
@@ -307,18 +380,6 @@
    "extrait": "The Nasdaq Composite closed 6.5% higher, erasing all of its losses from Friday, when the index suffered its second-worst day of 2026.",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "8183f4f2970c",
-   "titre": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
-   "lien": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-24T01:11:54+00:00",
-   "extrait": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
   },
   {
    "id": "062e36c2768c",
@@ -2028,6 +2089,16 @@
    "zone": "monde"
   },
   {
+   "id": "8d6e78dc6592",
+   "titre": "« Making Marie Antoinette », sur Mubi : la cinéaste Sofia Coppola révélée par la caméra de sa mère",
+   "lien": "https://www.lemonde.fr/culture/article/2026/11/23/making-marie-antoinette-sur-mubi-la-cineaste-sofia-coppola-revelee-par-la-camera-de-sa-mere_6814410_3246.html",
+   "source": "Le Monde",
+   "date": "2026-11-23T16:00:16+00:00",
+   "extrait": "Le documentaire tiré des images filmées par Eleanor Coppola sur le tournage de « Marie Antoinette », en 2005, est autant une célébration de l’artisanat du cinéma qu’un émouvant hommage d’une mère à…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "c608ef4cc512",
    "titre": "Royaume-Uni : une salle de concert évacuée après la diffusion d'une \"substance inconnue\"",
    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261123-royaume-uni-une-salle-de-concert-%C3%A9vacu%C3%A9e-apr%C3%A8s-la-diffusion-d-une-substance-inconnue",
@@ -3388,80 +3459,6 @@
    "extrait": "Le militant Cédric Herrou a été interpellé chez lui ce lundi 23 novembre au matin, pour \"provocation publique et directe non suivie d'effet à commettre un crime ou un délit\", selon le Parquet de…",
    "tags": [
     "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "0d97f2dd823d",
-   "titre": "Soudan : frappes de drones à Khartoum sur des habitations et un bâtiment de l'ONU",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261123-soudan-frappes-de-drones-%C3%A0-khartoum-sur-des-habitations-et-un-b%C3%A2timent-de-l-onu",
-   "source": "France 24",
-   "date": "2026-11-23T10:45:28+00:00",
-   "extrait": "Des frappes de drones ont touché dimanche des zones résidentielles et un bâtiment des Nations unies dans l'agglomération de Khartoum, la capitale soudanaise reprise en mars 2025 par l'armée aux…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "adb9134c3a2f",
-   "titre": "Les stations de ski prises en étau entre sauvegarde de l'économie locale et adaptation au réchauffement climatique",
-   "lien": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/les-stations-de-ski-prises-en-etau-entre-sauvegarde-de-l-economie-locale-et-adaptation-au-rechauffement-climatique_8289866.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-23T10:40:08+00:00",
-   "extrait": "Les premières stations ont ouvert ce week-end, pour le plus grand bonheur des skieurs. Mais, avec un climat qui se réchauffe, la neige se fait de plus en plus rare et de nombreuses communes qui…",
-   "tags": [
-    "Économie",
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "10a9a2ff5146",
-   "titre": "Cisjordanie occupée : enquête ouverte après des incendies imputés à des colons israéliens",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261123-cisjordanie-occup%C3%A9e-enqu%C3%AAte-ouverte-apr%C3%A8s-des-incendies-imput%C3%A9s-%C3%A0-des-colons-isra%C3%A9liens",
-   "source": "France 24",
-   "date": "2026-11-23T10:38:19+00:00",
-   "extrait": "Les autorités israéliennes ont annoncé dimanche l'ouverture d'une enquête après que des véhicules et biens palestiniens ont été incendiés et vandalisés dans quatre villages de Cisjordanie occupée…",
-   "tags": [
-    "Politique",
-    "Climat",
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "73860d6e764e",
-   "titre": "Le sixième film de la saga \"Hunger Games\" fait une entrée tonitruante dans le box-office nord-américain et conquiert déjà le monde",
-   "lien": "https://www.franceinfo.fr/culture/cinema/le-sixieme-film-de-la-saga-hunger-games-fait-une-entree-tonitruante-dans-le-box-office-nord-americain-et-conquiert-deja-le-monde_8295719.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-23T10:37:29+00:00",
-   "extrait": "En un seul week-end, le dernier opus de la franchise a rapporté 120 millions de dollars aux Etats-Unis et au Canada, se plaçant dans le sillage des blockbusters de l'année 2026, \"Spider-Man\", \"Toy…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "c2957d661eed",
-   "titre": "Enquête sur des fuites présumées vers le RN : le préfet Hugues Moutouh annonce vouloir porter plainte",
-   "lien": "https://www.franceinfo.fr/politique/front-national/enquete-sur-des-fuites-presumees-vers-le-rn-le-prefet-hugues-moutouh-annonce-vouloir-porter-plainte_8295833.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-23T10:36:23+00:00",
-   "extrait": "\"Je n'ai jamais transmis de ma vie à quiconque des éléments de procédure\", a assuré le haut fonctionnaire sur Europe 1.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "8dcdd8305f63",
-   "titre": "\"Vivre ensemble ? Je suis très réservé\" : en Israël, les tensions au Parlement se reportent dans les villes où juifs et arabes cohabitent",
-   "lien": "https://www.franceinfo.fr/monde/israel/reportage-vivre-ensemble-je-suis-tres-reserve-en-israel-les-tensions-au-parlement-se-reportent-dans-les-villes-ou-juifs-et-arabes-cohabitent_8295626.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-23T10:31:05+00:00",
-   "extrait": "Depuis les élections d'octobre, les partis arabes ont un rôle stratégique au Parlement israélien et sont devenus la cible de l'extrême droite. Au point que Gadi Eisenkot dénonce une \"campagne…",
-   "tags": [
-    "Politique",
-    "Conflits"
    ],
    "zone": "france"
   }
