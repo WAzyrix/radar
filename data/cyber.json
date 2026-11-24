@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-24T20:05:39+00:00",
+ "maj": "2026-11-24T21:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,15 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "0bc0f9692115",
+   "titre": "New Inception extortion gang launches large-scale vishing campaign",
+   "lien": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+   "source": "BleepingComputer",
+   "date": "2026-11-24T20:21:20+00:00",
+   "extrait": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
+   "tags": []
+  },
   {
    "id": "5f76ac4f7ca9",
    "titre": "Turnitin discloses cyberattack affecting customer-facing systems",
@@ -3343,17 +3352,6 @@
    "tags": [
     "Faille",
     "Linux"
-   ]
-  },
-  {
-   "id": "a60b8a453d05",
-   "titre": "Microsoft pushes Windows emergency updates to fix activation failures",
-   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/",
-   "source": "BleepingComputer",
-   "date": "2026-11-16T08:26:52+00:00",
-   "extrait": "Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates. [...]",
-   "tags": [
-    "Windows"
    ]
   }
  ]
