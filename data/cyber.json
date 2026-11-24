@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-24T10:27:36+00:00",
+ "maj": "2026-11-24T11:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "9436fc5b47f7",
+   "titre": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
+   "lien": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
+   "source": "The Hacker News",
+   "date": "2026-11-24T10:44:49+00:00",
+   "extrait": "Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the…",
+   "tags": [
+    "Faille",
+    "Windows"
+   ]
+  },
   {
    "id": "2ea756a796ab",
    "titre": "dumbtv - Le Fire TV sans pub ni mouchard (et sans root)",
@@ -3334,18 +3346,6 @@
    "extrait": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection…",
    "tags": [
     "Mobile"
-   ]
-  },
-  {
-   "id": "88be0dfa72ce",
-   "titre": "OpenAI lance Daybreak, des agents IA qui piratent vos applis pour les sécuriser",
-   "lien": "https://korben.info/openai-lance-daybreak-des-agents-ia-qui-piratent-vos-applis-pour-les-securiser.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-11-15T09:26:21+00:00",
-   "extrait": "Lors de l'événement Cyber at the Frontier, OpenAI a présenté Daybreak Red Team, des agents IA qui testent l'intrusion sur vos applis web, et Daybreak Defense Factory, qui propose des correctifs en…",
-   "tags": [
-    "Faille",
-    "IA"
    ]
   }
  ]
