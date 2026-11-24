@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-24T14:05:43+00:00",
+ "maj": "2026-11-24T15:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "230a967c24e6",
+   "titre": "McDonald's Japan data breach exposes customer location information",
+   "lien": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
+   "source": "BleepingComputer",
+   "date": "2026-11-24T14:09:37+00:00",
+   "extrait": "McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official…",
+   "tags": [
+    "Fuite de données",
+    "Mobile"
+   ]
+  },
   {
    "id": "e94ac3e9d520",
    "titre": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
@@ -198,6 +210,83 @@
     "Faille",
     "Fuite de données",
     "IA"
+   ]
+  },
+  {
+   "id": "ebab932d0fd8",
+   "titre": "Multiples vulnérabilités dans Postfix (24 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1610/",
+   "source": "CERT-FR",
+   "date": "2026-11-24T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Postfix. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "72a3a11e06c0",
+   "titre": "Vulnérabilité dans Laravel (24 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1609/",
+   "source": "CERT-FR",
+   "date": "2026-11-24T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans Laravel. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "025bf88ba5e1",
+   "titre": "Multiples vulnérabilités dans les produits Elastic (24 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1614/",
+   "source": "CERT-FR",
+   "date": "2026-11-24T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Elastic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "07c1d6cc1c0d",
+   "titre": "Vulnérabilité dans Google Chrome (24 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1608/",
+   "source": "CERT-FR",
+   "date": "2026-11-24T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "6344e304c12b",
+   "titre": "Multiples vulnérabilités dans OpenSSL (24 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1613/",
+   "source": "CERT-FR",
+   "date": "2026-11-24T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans OpenSSL. Elles permettent à un attaquant de provoquer un déni de service à distance.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "673a6532c42f",
+   "titre": "Vulnérabilité dans les produits F5 (24 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1612/",
+   "source": "CERT-FR",
+   "date": "2026-11-24T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans les produits F5. Elle permet à un attaquant de provoquer un déni de service à distance.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "1f9de0efb74d",
+   "titre": "Multiples vulnérabilités dans Traefik (24 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1611/",
+   "source": "CERT-FR",
+   "date": "2026-11-24T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Traefik. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement…",
+   "tags": [
+    "Faille"
    ]
   },
   {
@@ -3270,89 +3359,6 @@
    "tags": [
     "Faille"
    ]
-  },
-  {
-   "id": "ac8863de848c",
-   "titre": "Vulnérabilité dans Git (16 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1541/",
-   "source": "CERT-FR",
-   "date": "2026-11-16T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans Git. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "224b062c302e",
-   "titre": "Vulnérabilité dans VMware Tanzu (16 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1543/",
-   "source": "CERT-FR",
-   "date": "2026-11-16T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans VMware Tanzu. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "7804a2d85202",
-   "titre": "Stripe va masquer ses clés API secrètes le 20 novembre",
-   "lien": "https://www.zataz.com/stripe-va-masquer-ses-cles-api-secretes-le-20-novembre/",
-   "source": "Zataz",
-   "date": "2026-11-15T19:44:34+00:00",
-   "extrait": "Stripe masquera ses anciennes clés API secrètes le 20 novembre 2026. ZATAZ analyse les risques et les conséquences.",
-   "tags": []
-  },
-  {
-   "id": "4201db3ac682",
-   "titre": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
-   "lien": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
-   "source": "BleepingComputer",
-   "date": "2026-11-15T18:29:53+00:00",
-   "extrait": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise…",
-   "tags": [
-    "Fuite de données",
-    "IA",
-    "Outil",
-    "Windows"
-   ]
-  },
-  {
-   "id": "bbb8a6727085",
-   "titre": "TSMC employee data breach linked to cloud provider",
-   "lien": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
-   "source": "BleepingComputer",
-   "date": "2026-11-15T15:23:48+00:00",
-   "extrait": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for…",
-   "tags": [
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "e81cc58be3f9",
-   "titre": "Aréas Assurances visée par une vente de données",
-   "lien": "https://www.zataz.com/areas-assurances-vise-par-une-vente-de-donnees/",
-   "source": "Zataz",
-   "date": "2026-11-15T14:58:23+00:00",
-   "extrait": "Un pirate informatique affirme détenir les données de plus de 21 000 assurés d’Aréas Assurances, dont leurs numéros de Sécurité sociale.",
-   "tags": []
-  },
-  {
-   "id": "4677e4c73e75",
-   "titre": "Techfive cité dans une annonce de vente de données",
-   "lien": "https://www.zataz.com/techfive-cite-dans-une-annonce-de-vente-de-donnees/",
-   "source": "Zataz",
-   "date": "2026-11-15T14:54:01+00:00",
-   "extrait": "Un pirate informatique annonce la vente de 400 entreprises retrouvées chez chez un professionnel de l'encaissement et du paiement.",
-   "tags": []
-  },
-  {
-   "id": "6e0300bc4001",
-   "titre": "Entre Bièvre et Rhône visée par une revendication cyber",
-   "lien": "https://www.zataz.com/entre-bievre-et-rhone-visee-par-une-revendication-cyber/",
-   "source": "Zataz",
-   "date": "2026-11-15T14:45:47+00:00",
-   "extrait": "Entre Bièvre et Rhône, en Isère, fait l’objet d’une revendication cyber portant sur des données d’usagers.",
-   "tags": []
   }
  ]
 }
