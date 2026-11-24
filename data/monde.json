@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-24T12:05:41+00:00",
+ "maj": "2026-11-24T13:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -19,8 +19,139 @@
   "Tech",
   "Sport"
  ],
- "erreurs": [],
+ "erreurs": [
+  "France 24"
+ ],
  "articles": [
+  {
+   "id": "bebf46e12138",
+   "titre": "Prince William and Kate's country home broken into, reports say",
+   "lien": "https://www.cbsnews.com/news/prince-william-kate-country-home-broken-into-british-media/",
+   "source": "CBS News",
+   "date": "2026-11-24T13:05:34+00:00",
+   "extrait": "Intruders have broken into the country residence of Prince William and Princess Catherine, British media reported Tuesday.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "0f0fc12e2eb6",
+   "titre": "Iran vows to end U.S. naval blockade by \"all available means\"",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+   "source": "CBS News",
+   "date": "2026-11-24T13:05:28+00:00",
+   "extrait": "Iran vows to force the U.S. to lift its blockade as Trump acknowledges the regime's increasing attacks, but says they've \"done no damage.\"",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "334ae750a371",
+   "titre": "Trump to pardon two turkeys, Freedom and Feathers",
+   "lien": "https://www.cbsnews.com/news/white-house-turkey-pardon-trump-thanksgiving-freedom-feathers/",
+   "source": "CBS News",
+   "date": "2026-11-24T12:59:42+00:00",
+   "extrait": "Freedom and Feathers were introduced on Monday at the Willard InterContinental in Washington, where the two have been staying in a suite leading up to their trip to the White House.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "92abadf2558a",
+   "titre": "Nicolas Sarkozy et Carla Bruni renvoyés en procès dans l'affaire de la fausse rétractation de Ziad Takieddine, notamment pour association de malfaiteurs",
+   "lien": "https://www.franceinfo.fr/societe/justice/nicolas-sarkozy-et-carla-bruni-sont-renvoyes-en-proces-dans-l-affaire-de-la-fausse-retractation-de-ziad-takieddine-notamment-pour-association-de-malfaiteurs_8297655.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-24T12:49:57+00:00",
+   "extrait": "L'ancien président et son épouse sont renvoyés pour association de malfaiteurs en vue de préparer une escroquerie en bande organisée ainsi que recel de subornation de témoin.",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "a5d5b5c10352",
+   "titre": "Russian governor detained in rare criminal case against regional leader",
+   "lien": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-24T12:45:43+00:00",
+   "extrait": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "9281d6b4e9a6",
+   "titre": "Pesticides : le Parlement européen reporte à 2027 le vote sur une loi visant à assouplir leur réglementation",
+   "lien": "https://www.lemonde.fr/planete/article/2026/11/24/pesticides-le-parlement-europeen-reporte-a-2027-le-vote-sur-une-loi-visant-a-assouplir-leur-reglementation_6814759_3244.html",
+   "source": "Le Monde",
+   "date": "2026-11-24T12:22:13+00:00",
+   "extrait": "Les eurodéputés devaient voter en décembre sur ce paquet législatif baptisé Omnibus X, qui prévoit notamment des autorisations illimitées pour une partie des pesticides, en raison d’un embouteillage…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "273145d78a25",
+   "titre": "\"Les ménages ont été amenés à puiser dans leur épargne\" : on vous explique pourquoi le livret A est laissé pour compte",
+   "lien": "https://www.franceinfo.fr/economie/votre-argent/livret-a/les-menages-ont-ete-amenes-a-puiser-dans-leur-epargne-on-vous-explique-pourquoi-le-livret-a-est-laisse-pour-compte_8297343.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-24T12:21:15+00:00",
+   "extrait": "Baisse du pouvoir d'achat, concurrence de l'assurance-vie, inflation... Entre janvier et octobre, les Français ont retiré 9,5 milliards d'euros de plus sur leurs livrets A qu'ils n'en ont déposé.",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "51d33b080be8",
+   "titre": "Stocks stratégiques de terres rares et métaux : \"L'objectif n'est pas de se couper de la Chine, mais d'augmenter notre résilience\", selon un spécialiste",
+   "lien": "https://www.franceinfo.fr/economie/industrie/stocks-strategiques-de-terres-rares-et-metaux-l-objectif-n-est-pas-de-se-couper-de-la-chine-mais-d-augmenter-notre-resilience-selon-un-specialiste_8297661.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-24T12:20:45+00:00",
+   "extrait": "Lundi, l'Élysée a confirmé que la France se doterait de \"stocks stratégiques\" de \"terres rares et certains métaux prioritaires\" inspirés des réserves qui existent pour le pétrole, afin de pallier…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "828037c2e0af",
+   "titre": "Israeli air strike kills Hamas internal security chief in Gaza",
+   "lien": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-24T12:12:48+00:00",
+   "extrait": "Naeem Abu Nahel, who had only been in the position for two months, was targeted in western Gaza City, Gaza's interior ministry says.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "a64217797322",
+   "titre": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
+   "lien": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
+   "source": "NPR",
+   "date": "2026-11-24T12:12:25+00:00",
+   "extrait": "President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia. And, Rep. Jimmy Gomez, D-Calif., says his resignation will be effective Dec. 1.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "e3c0d9ba328f",
+   "titre": "Sanofi, en s’offrant l’américain Insmed, se lance dans la plus importante acquisition de son histoire depuis 2004",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/24/sanofi-pret-a-debourser-37-6-milliards-d-euros-pour-l-americain-insmed-un-specialiste-du-traitement-des-maladies-respiratoires_6814758_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-24T12:08:33+00:00",
+   "extrait": "Le groupe pharmaceutique français met la main, pour 37,6 milliards d’euros, sur ce spécialiste du traitement des maladies respiratoires. La biotech dispose déjà d’un médicament réalisant plus d’1…",
+   "tags": [
+    "Justice",
+    "Santé"
+   ],
+   "zone": "france"
+  },
   {
    "id": "e254b8c2f82c",
    "titre": "RD Congo : tensions entre l'Église et les autorités après l'interdiction d'une messe",
@@ -34,17 +165,14 @@
    "zone": "monde"
   },
   {
-   "id": "0f0fc12e2eb6",
-   "titre": "Iran vows to end U.S. naval blockade by \"all available means\"",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
-   "source": "CBS News",
-   "date": "2026-11-24T12:00:41+00:00",
-   "extrait": "Iran vows to force the U.S. to lift its blockade as Trump acknowledges the regime's increasing attacks, but says they've \"done no damage.\"",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "usa"
+   "id": "73189c7bb605",
+   "titre": "Mayotte : 80 gendarmes et 20 policiers supplémentaires face à la recrudescence des violences",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/24/mayotte-80-gendarmes-et-20-policiers-supplementaires-face-a-la-recrudescence-des-violences_6814757_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-24T12:01:53+00:00",
+   "extrait": "En raison d’une flambée de tensions dans le département d’outre-mer, un escadron supplémentaire de forces de l’ordre va rejoindre Mayotte dans les prochains jours.",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "738e8d5732b4",
@@ -108,7 +236,7 @@
    "lien": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-24T11:45:52+00:00",
-   "extrait": "The explosion is the latest in a string of attacks on buildings housing the security forces of government offices.",
+   "extrait": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
    "tags": [
     "Conflits"
    ],
@@ -180,6 +308,16 @@
    "zone": "usa"
   },
   {
+   "id": "75fe9a1f4cd7",
+   "titre": "\"J'ai découvert que le démon rôdait\" : le journal du pape François publié par un ancien proche collaborateur révèle sa foi profonde, mais aussi ses travers et ses fragilités",
+   "lien": "https://www.franceinfo.fr/culture/livres/j-ai-decouvert-que-le-demon-rodait-le-journal-du-pape-francois-revele-sa-foi-profonde-mais-aussi-ses-travers-et-ses-fragilites_8297319.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-24T11:24:32+00:00",
+   "extrait": "Pendant plus de trente ans, le pape argentin a consigné ses états d'âme, ses inquiétudes et ses doutes dans un carnet. Un de ses très proches collaborateurs en publie des extraits choisis dans un…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "65fe19125cd5",
    "titre": "CAN 2025 : avant le verdict du TAS, le Maroc sème déjà le doute en signalant un \"incident\"",
    "lien": "https://www.france24.com/fr/sports/20261124-can-2025-verdict-tas-maroc-incident",
@@ -201,6 +339,16 @@
    "extrait": "Rescue workers said the man survived in the jungle by eating berries, drinking water from natural sources and making bedlike structures with the leaves of acai palms.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "937e8a6667cb",
+   "titre": "Les violences intrafamiliales, hors violences conjugales, ont augmenté de 8 % en France en 2025",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/24/les-violences-intrafamiliales-hors-violences-conjugales-ont-augmente-de-8-en-france-en-2025_6814753_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-24T11:21:07+00:00",
+   "extrait": "Comme les années précédentes, les mineurs sont les principales victimes des violences intrafamiliales : ils représentent 75 % des victimes de violences physiques et 96 % des victimes de violences…",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "a3e6d65d03df",
@@ -243,6 +391,16 @@
     "Climat",
     "Justice"
    ],
+   "zone": "france"
+  },
+  {
+   "id": "918c0f1066a7",
+   "titre": "L’Opéra de Paris, accusé d’effacer l’origine juive de Bérénice dans « La Clémence de Titus », se défend de tout antisémitisme",
+   "lien": "https://www.lemonde.fr/culture/article/2026/11/24/l-opera-de-paris-accuse-d-effacer-l-origine-juive-de-berenice-dans-la-clemence-de-titus-se-defend-de-tout-antisemitisme_6814749_3246.html",
+   "source": "Le Monde",
+   "date": "2026-11-24T11:00:05+00:00",
+   "extrait": "La mise en scène de cet opéra de Mozart, signée de l’Allemand Willy Decker, date de 1997, et n’avait jusqu’à présent suscité aucune réaction. L’Opéra de Paris récuse tout révisionnisme ou toute…",
+   "tags": [],
    "zone": "france"
   },
   {
@@ -431,12 +589,35 @@
    "zone": "france"
   },
   {
+   "id": "82d1c0f53a4e",
+   "titre": "Pourquoi la France veut se doter de stocks stratégiques de terres rares ?",
+   "lien": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/pourquoi-la-france-veut-se-doter-de-stocks-strategiques-de-terres-rares_8295902.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-24T10:01:36+00:00",
+   "extrait": "Emmanuel Macron a annoncé aux industriels la création de réserves stratégiques de ces minerais et métaux indispensables à l'économie mondiale, pour réduire notre dépendance et anticiper les crises.",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "59807236f927",
    "titre": "\"Ils ont une lassitude du lycée\" : un nombre inédit de proviseurs envisagent leur mutation, alerte le principal syndicat des chefs d'établissement",
    "lien": "https://www.franceinfo.fr/societe/education/ils-ont-une-lassitude-du-lycee-un-nombre-inedit-proviseurs-demandent-leur-mutation-alerte-le-principal-syndicat-des-chefs-d-etablissement_8297274.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-11-24T10:00:45+00:00",
    "extrait": "Le ministère de l'Education nationale indique à franceinfo qu'il n'y a pas de hausse significative des demandes de mutation des chefs d'établissement pour la rentrée prochaine. Pourtant, le syndicat…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "d1b5dccceea0",
+   "titre": "Championnat du monde d’échecs : Gukesh D, tenant du titre en plein doute, affronte Javokhir Sindarov sur fond d’incertitude sur l’avenir du format",
+   "lien": "https://www.lemonde.fr/sport/article/2026/11/24/championnat-du-monde-d-echecs-gukesh-d-tenant-du-titre-en-plein-doute-affronte-javokhir-sindarov-sur-fond-d-incertitude-sur-l-avenir-du-format_6814738_3242.html",
+   "source": "Le Monde",
+   "date": "2026-11-24T10:00:07+00:00",
+   "extrait": "A partir du mardi 24 novembre, l’Indien et l’Ouzbek, 20 ans tous les deux, sont les acteurs de ce rendez-vous historique du jeu, qui a peu à peu perdu de son aura. Ils incarnent le renouveau d’une…",
    "tags": [],
    "zone": "france"
   },
@@ -553,13 +734,12 @@
   },
   {
    "id": "29cc94f58ad3",
-   "titre": "EN DIRECT, guerre en Ukraine : 11 régions ukrainiennes bombardées dans la nuit, selon le premier ministre",
+   "titre": "EN DIRECT, guerre en Ukraine : « Les actes de l’Ukraine ne visent que l’agresseur », affirme Kiev après les attaques de bateaux russes au large de la Libye et de la Finlande",
    "lien": "https://www.lemonde.fr/international/live/2026/11/24/en-direct-guerre-en-ukraine-le-hongrois-peter-magyar-va-rencontrer-volodymyr-zelensky-mardi-en-transcarpatie_6814183_3210.html",
    "source": "Le Monde",
    "date": "2026-11-24T09:53:31+00:00",
-   "extrait": "Selon le chef du gouvernement ukrainien, Serhi Koretsky, 11 des 24 oblasts d’Ukraine ont subi des bombardements russes dans la nuit de lundi à mardi. A Zaporijia, où des bombes guidées ont endommagé…",
+   "extrait": "Volodymyr Zelensky a confirmé, mardi, que les forces ukrainiennes avaient attaqué un cargo en ​route pour l’exclave ‌russe de Kaliningrad, samedi, dans le golfe de Finlande. « Aucune tierce partie »…",
    "tags": [
-    "Politique",
     "Conflits"
    ],
    "zone": "france"
@@ -1217,6 +1397,16 @@
    "source": "Le Monde",
    "date": "2026-11-24T05:00:20+00:00",
    "extrait": "Aux Etats-Unis, au Brésil, en Serbie et dans plusieurs autres pays, les candidats populistes ou illibéraux ont été défaits lors de récents scrutins. Le spécialiste de l’étude de la démocratie à…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "1ed4f4f8604e",
+   "titre": "« J’ai perdu quasiment la moitié de mes étudiants de première année » : près de deux mois après le début des mobilisations, le risque de décrochage en licence",
+   "lien": "https://www.lemonde.fr/campus/article/2026/11/24/j-ai-perdu-quasiment-la-moitie-de-mes-etudiants-de-premiere-annee-pres-de-deux-mois-apres-le-debut-des-mobilisations-le-risque-de-decrochage-en-licence_6814704_4401467.html",
+   "source": "Le Monde",
+   "date": "2026-11-24T05:00:15+00:00",
+   "extrait": "Dans les facultés touchées par les blocages, la désorganisation des cours et le passage au distanciel désorientent les étudiants les plus jeunes et inquiètent leurs enseignants.",
    "tags": [],
    "zone": "france"
   },
@@ -3224,195 +3414,6 @@
     "Conflits"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "126198cd04dc",
-   "titre": "\"Ça ressemble vraiment à une petite montagne\" : au Portugal, ces champions de surf attendent la plus grosse vague du monde",
-   "lien": "https://www.franceinfo.fr/sports/a-nazare-les-championnats-du-monde-de-surf-sur-la-plus-grosse-vague-du-monde-attendent-le-top-depart_8296043.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-23T16:20:04+00:00",
-   "extrait": "Plus puissante que Jaws à Hawaï, plus haute que Mavericks en Californie ou Teahupo'o à Tahiti, la vague de Nazaré, au Portugal, est régulièrement mesurée à près de trente mètres. Plusieurs Français…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "3b03c86bd7d0",
-   "titre": "La Grèce rouvre le vieux musée de l'Acropole à Athènes, sur le Rocher sacré, près du Parthénon",
-   "lien": "https://www.franceinfo.fr/culture/patrimoine/la-grece-rouvre-le-vieux-musee-de-l-acropole-a-athenes-sur-le-rocher-sacre-pres-du-parthenon_8296145.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-23T16:19:07+00:00",
-   "extrait": "La rénovation de ce bâtiment historique a coûté 10 millions d'euros dont plus de la moitié provient des fonds européens.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "4e7365b22014",
-   "titre": "Au Royaume-Uni, Andy Burnham défend son accord avec l’UE et ouvre le débat sur un rapprochement avec les Vingt-Sept",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/23/au-royaume-uni-andy-burnham-defend-son-accord-avec-l-ue-et-ouvre-le-debat-sur-un-rapprochement-avec-les-vingt-sept_6814415_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-23T16:17:51+00:00",
-   "extrait": "Alors que le débat sur un retour dans l’UE divise la classe politique britannique, le premier ministre veut « faire avancer le Royaume-Uni vers un avenir plus porteur d’espoir, relancer la…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "611b49d7ff75",
-   "titre": "Rita Wilson on her sixth studio album",
-   "lien": "https://www.cbsnews.com/video/rita-wilson-on-her-sixth-studio-album/",
-   "source": "CBS News",
-   "date": "2026-11-23T16:17:00+00:00",
-   "extrait": "Rita Wilson joins \"CBS Mornings\" to discuss the deluxe edition of her sixth studio album, \"Sound of a Woman.\"",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "8d9256f3d8aa",
-   "titre": "Why some Europeans have started prepping for doomsday",
-   "lien": "https://www.cbsnews.com/news/prepping-comes-to-europe-government-advice-stockpile-food-water/",
-   "source": "CBS News",
-   "date": "2026-11-23T16:15:02+00:00",
-   "extrait": "Amid tech glitches, cyberattacks and climate change, some European governments are urging people to prepare for days without access to basic necessities.",
-   "tags": [
-    "Climat",
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "123d2939c102",
-   "titre": "De la chute du PDG de Nvidia à son retour aux commandes, comment une affaire d'adultère et d'espionnage a fait vaciller le secteur de l'IA",
-   "lien": "https://www.franceinfo.fr/internet/nvidia/recit-des-premieres-revelations-a-la-chute-du-pdg-de-nvidia-comment-une-affaire-d-adultere-provoque-un-seisme-dans-le-secteur-de-l-ia_8280752.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-23T16:14:45+00:00",
-   "extrait": "Jensen Huang, l'emblématique patron du géant des puces électroniques, a quitté son poste le 12 novembre. Mais le conseil d'administration de l'entreprise a finalement décidé de le réintégrer, dix…",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "f15097631c91",
-   "titre": "Égypte : le désert de Fayoum, trésor astral méconnu",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261123-%C3%A9gypte-le-d%C3%A9sert-de-fayoum-tr%C3%A9sor-astral-m%C3%A9connu",
-   "source": "France 24",
-   "date": "2026-11-23T16:14:12+00:00",
-   "extrait": "Situé à environ 100 km au sud-ouest du Caire, le désert de Fayoum offre un ciel nocturne d'une grande pureté, loin de la pollution lumineuse des grandes villes, ce qui en fait un spot privilégié…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "5d39a3862752",
-   "titre": "Did Megaspeed smuggle AI chips into China amid Jensen Huang's affair with alleged spy?",
-   "lien": "https://www.cbsnews.com/video/did-jensen-huang-provide-chips-to-china-via-megaspeed-in-singapore/",
-   "source": "CBS News",
-   "date": "2026-11-23T16:04:44+00:00",
-   "extrait": "CBS News' Ramy Inocencio went to Singapore to learn more about Megaspeed International, the company at the center of the Nvidia Chinese spy scandal that embroiled its now-reinstated CEO, Jensen Huang.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "89586c49d51b",
-   "titre": "Yaël Braun-Pivet demande l'ouverture d'une enquête interne après une vidéo dénonçant les violences policières tournée dans l'hémicycle",
-   "lien": "https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/yael-braun-pivet-demande-l-ouverture-d-une-enquete-interne-apres-une-video-denoncant-les-violences-policieres-tournee-dans-l-hemicycle_8296124.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-23T16:01:48+00:00",
-   "extrait": "La France insoumise estime de son côté que \"l'Assemblée nationale est la maison du peuple et non le palais de madame Braun-Pivet et de ses amis d'extrême droite\".",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "7d782712108c",
-   "titre": "'Medicare for all' is back on the drawing board. Does it stand a better chance this time?",
-   "lien": "https://www.npr.org/2026/11/23/nx-s1-6047706/health-medicare-for-all-chances",
-   "source": "NPR",
-   "date": "2026-11-23T16:00:49+00:00",
-   "extrait": "Several newly elected Democratic U.S. senators campaigned on Medicare for All. Could this be the time it actually gets traction?",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "3b35e471d46f",
-   "titre": "Gisèle Pelicot \"humiliée\" par l'utilisation de photos d'elle dénudée pour la promotion d'un essai",
-   "lien": "https://www.france24.com/fr/france/20261123-gis%C3%A8le-pelicot-choqu%C3%A9e-par-l-utilisation-de-photos-d%C3%A9nud%C3%A9es-d-elle-pour-la-promotion-d-un-essai",
-   "source": "France 24",
-   "date": "2026-11-23T16:00:26+00:00",
-   "extrait": "Gisèle Pelicot a dit lundi être \"profondément choquée\" par l'utilisation de photos dénudées d'elle réalisées par son ex-mari comme matériel de promotion pour un essai critique sur la notion…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "8d6e78dc6592",
-   "titre": "« Making Marie Antoinette », sur Mubi : la cinéaste Sofia Coppola révélée par la caméra de sa mère",
-   "lien": "https://www.lemonde.fr/culture/article/2026/11/23/making-marie-antoinette-sur-mubi-la-cineaste-sofia-coppola-revelee-par-la-camera-de-sa-mere_6814410_3246.html",
-   "source": "Le Monde",
-   "date": "2026-11-23T16:00:16+00:00",
-   "extrait": "Le documentaire tiré des images filmées par Eleanor Coppola sur le tournage de « Marie Antoinette », en 2005, est autant une célébration de l’artisanat du cinéma qu’un émouvant hommage d’une mère à…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "c608ef4cc512",
-   "titre": "Royaume-Uni : une salle de concert évacuée après la diffusion d'une \"substance inconnue\"",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261123-royaume-uni-une-salle-de-concert-%C3%A9vacu%C3%A9e-apr%C3%A8s-la-diffusion-d-une-substance-inconnue",
-   "source": "France 24",
-   "date": "2026-11-23T16:00:13+00:00",
-   "extrait": "La diffusion d'une \"substance inconnue\" à forcé l'évacuation de 12 000 spectateurs venus assister au concert de Don Toliver à la Co-op Live Arena à Manchester dimanche soir. Selon la police, il…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "76f747653827",
-   "titre": "« On nous a empoisonnés » : dans l’industrie de la chimie, des travailleurs surexposés aux PFAS",
-   "lien": "https://www.lemonde.fr/planete/article/2026/11/23/on-nous-a-empoisonnes-dans-l-industrie-de-la-chimie-des-travailleurs-surexposes-aux-pfas_6814409_3244.html",
-   "source": "Le Monde",
-   "date": "2026-11-23T16:00:08+00:00",
-   "extrait": "Les premiers résultats d’une étude inédite en France visant à mesurer l’imprégnation de salariés ou retraités des sites d’Arkema et de Daikin Chemical France, dans le Rhône, et de Solvay, dans le…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "a8da7e847059",
-   "titre": "La testostérone, hormone de tous les fantasmes : enquête sur ses effets réels et supposés sur la virilité, la force physique ou l’agressivité",
-   "lien": "https://www.lemonde.fr/sciences/article/2026/11/23/la-testosterone-hormone-de-tous-les-fantasmes-enquete-sur-ses-effets-reels-et-supposes-sur-la-virilite-la-force-physique-ou-l-agressivite_6814411_1650684.html",
-   "source": "Le Monde",
-   "date": "2026-11-23T16:00:08+00:00",
-   "extrait": "Prisée par l’administration Trump et les masculinistes, cette molécule n’est pas seulement une hormone sexuelle. Son rôle est bien plus subtil – et parfois paradoxal – que l’image qui en est…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "5e2075e54063",
-   "titre": "Read full episode transcripts of \"Face the Nation with Margaret Brennan\" from 2026",
-   "lien": "https://www.cbsnews.com/face-the-nation/transcripts/",
-   "source": "CBS News",
-   "date": "2026-11-23T15:58:43+00:00",
-   "extrait": "Browse all of our full episode transcripts from 2026 of \"Face the Nation with Margaret Brennan.\"",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "a8be8f78ea20",
-   "titre": "EN DIRECT, Jensen Huang réintégré à la surprise générale chez Nvidia : le dirigeant sera auditionné publiquement au Sénat américain le 3 décembre",
-   "lien": "https://www.lemonde.fr/international/live/2026/11/23/en-direct-jensen-huang-reintegre-chez-nvidia-donald-trump-affirme-avoir-parle-directement-avec-le-conseil-d-administration_6814407_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-23T15:57:50+00:00",
-   "extrait": "Le conseil d’administration de Nvidia a annoncé lundi la réintégration immédiate de Jensen Huang comme directeur général et président du géant américain des puces, dix jours après sa démission liée…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
   }
  ]
 }

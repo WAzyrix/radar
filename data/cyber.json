@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-24T12:05:41+00:00",
+ "maj": "2026-11-24T13:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,39 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "6085ef54790f",
+   "titre": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+   "lien": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+   "source": "The Hacker News",
+   "date": "2026-11-24T12:42:09+00:00",
+   "extrait": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In…",
+   "tags": [
+    "Fuite de données",
+    "Outil"
+   ]
+  },
+  {
+   "id": "bb2efaa9d0e6",
+   "titre": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
+   "lien": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
+   "source": "The Hacker News",
+   "date": "2026-11-24T12:02:00+00:00",
+   "extrait": "A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher James…",
+   "tags": [
+    "CVE",
+    "Windows"
+   ]
+  },
+  {
+   "id": "bb2aa84be511",
+   "titre": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
+   "lien": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html",
+   "source": "The Hacker News",
+   "date": "2026-11-24T12:01:54+00:00",
+   "extrait": "What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose? According to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per 1,000…",
+   "tags": []
+  },
   {
    "id": "9436fc5b47f7",
    "titre": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
@@ -2541,18 +2574,6 @@
    ]
   },
   {
-   "id": "6085ef54790f",
-   "titre": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-   "lien": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
-   "source": "The Hacker News",
-   "date": "2026-11-17T12:25:06+00:00",
-   "extrait": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In…",
-   "tags": [
-    "Fuite de données",
-    "Outil"
-   ]
-  },
-  {
    "id": "b69860df4218",
    "titre": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
    "lien": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
@@ -3324,28 +3345,6 @@
    "extrait": "Sur un forum pirate, un internaute revendique une fuite de 4,3 millions de commandes de verres attribuées à Opsysweb.",
    "tags": [
     "Fuite de données"
-   ]
-  },
-  {
-   "id": "9dbfccbe18e8",
-   "titre": "Cyberattaque Maileva, 22 millions de personnes touchées ?",
-   "lien": "https://www.zataz.com/cyberattaque-maileva-22-millions-de-personnes-touchees/",
-   "source": "Zataz",
-   "date": "2026-11-15T11:47:49+00:00",
-   "extrait": "Cyberattaque Maileva, 22 millions de personnes touchées par le vol de données. Des relances de paiement ont été exposées.",
-   "tags": [
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "04c1c102f5a7",
-   "titre": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
-   "lien": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
-   "source": "The Hacker News",
-   "date": "2026-11-15T11:27:31+00:00",
-   "extrait": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection…",
-   "tags": [
-    "Mobile"
    ]
   }
  ]
