@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-24T06:05:45+00:00",
+ "maj": "2026-11-24T07:05:47+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,45 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "803705763267",
+   "titre": "J'ai testé la migration de VMware vers Vates VMS #sponso",
+   "lien": "https://korben.info/migration-vmware-vates-vms-v2v.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-24T06:23:35+00:00",
+   "extrait": "J'ai déménagé une VM Ubuntu d'un ESXi 7 vers XCP-ng avec l'import V2V de Xen Orchestra 6.10, en deux passes et chrono en main. Résultat : à peine plus de deux minutes de coupure, un piège réseau à…",
+   "tags": [
+    "Linux"
+   ]
+  },
+  {
+   "id": "a0a25e5ec068",
+   "titre": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
+   "lien": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
+   "source": "The Hacker News",
+   "date": "2026-11-24T06:02:57+00:00",
+   "extrait": "OpenAI and Cisco have teamed up to launch Shirudo (meaning \"shield\" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime. \"It…",
+   "tags": [
+    "Faille",
+    "IA",
+    "Outil",
+    "Linux"
+   ]
+  },
+  {
+   "id": "14a00d8221c4",
+   "titre": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
+   "lien": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
+   "source": "The Hacker News",
+   "date": "2026-11-24T06:02:45+00:00",
+   "extrait": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing…",
+   "tags": [
+    "CVE",
+    "Faille",
+    "Fuite de données",
+    "IA"
+   ]
+  },
   {
    "id": "f1397973b7c6",
    "titre": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
@@ -3309,35 +3348,6 @@
     "CVE",
     "Faille"
    ]
-  },
-  {
-   "id": "a57e4f1f358b",
-   "titre": "Stela - Le retour du Hackintosh ?",
-   "lien": "https://korben.info/stela-macos-pc-x86-hackintosh.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-11-14T01:03:37+00:00",
-   "extrait": "Stela démarre macOS 27 pour Apple Silicon, sans le modifier, sur un PC x86 équipé d'une carte NVIDIA, en lui faisant croire qu'il tourne sur un Mac mini M2. Ce qu'il faut comme matériel, comment…",
-   "tags": [
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "ee274201614e",
-   "titre": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
-   "lien": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
-   "source": "BleepingComputer",
-   "date": "2026-11-13T19:38:36+00:00",
-   "extrait": "Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious hardware implants designed to steal wallet…",
-   "tags": []
-  },
-  {
-   "id": "f6f4a6d64aa8",
-   "titre": "German military drone operations disrupted by cyberattack",
-   "lien": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
-   "source": "BleepingComputer",
-   "date": "2026-11-13T17:31:56+00:00",
-   "extrait": "German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by \"hostile actors.\" [...]",
-   "tags": []
   }
  ]
 }
