@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-24T22:46:40+00:00",
+ "maj": "2026-11-24T23:05:43+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,59 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "623243ed29b2",
+   "titre": "En Guadeloupe, une femme tuée par son mari, qui s'est ensuite suicidé",
+   "lien": "https://www.franceinfo.fr/france/guadeloupe/en-guadeloupe-une-femme-tuee-par-son-mari-qui-s-est-ensuite-suicide_8298480.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-24T23:03:55+00:00",
+   "extrait": "Selon la procureure de Pointe-à-Pitre, \"un homme de 63 ans a tué sa femme de 65 ans à son domicile à Saint-François avant de se donner la mort\".",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "10a3fcdd61eb",
+   "titre": "Kilmar Abrego Garcia leaving U.S. today for Europe, sources say",
+   "lien": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/",
+   "source": "CBS News",
+   "date": "2026-11-24T22:58:45+00:00",
+   "extrait": "Kilmar Abrego Garcia, the El Salvador native who was mistakenly deported last year, is planning to leave the U.S. on Tuesday, according to multiple U.S. officials.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "72198d38fc53",
+   "titre": "Edouard Philippe propose un débat télévisé avant mi-décembre à David Lisnard, qu'il soupçonne de ne pas être \"étanche\" avec l'extrême droite",
+   "lien": "https://www.franceinfo.fr/elections/edouard-philippe-propose-un-debat-televise-avant-mi-decembre-a-david-lisnard-qu-il-soupconn-de-ne-pas-etre-etanche-avec-l-extreme-droite_8298417.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-24T22:48:34+00:00",
+   "extrait": "Le maire du Havre considère par ailleurs que \"les points d'accord sont considérablement plus nombreux\" avec Gabriel Attal et Bruno Retailleau qu'avec le maire du Havre.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "3a871c34bdce",
+   "titre": "Reporter on why he was \"absolutely surprised\" by Jensen Huang's reinstatement",
+   "lien": "https://www.cbsnews.com/video/reporter-on-why-he-was-absolutely-surprised-by-jensen-huangs-reinstatement/",
+   "source": "CBS News",
+   "date": "2026-11-24T22:48:00+00:00",
+   "extrait": "Nvidia CEO Jensen Huang returned to the company Monday after resigning last week over an affair with an alleged Chinese spy. Sources said President Trump and Vice President JD Vance lobbied for his…",
+   "tags": [
+    "Politique",
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "e17b506e5224",
+   "titre": "How Jensen Huang might be too big to fail",
+   "lien": "https://www.cbsnews.com/video/free-press-senior-editor-says-jensen-huang-too-big-fail/",
+   "source": "CBS News",
+   "date": "2026-11-24T22:43:38+00:00",
+   "extrait": "Concerns about national security and alleged corruption continued to swirl on Tuesday around Jensen Huang's reinstatement as Nvidia CEO. Joe Nocera, senior editor and writer at The Free Press, joins…",
+   "tags": [],
+   "zone": "usa"
+  },
   {
    "id": "1d69b54f4db1",
    "titre": "Beauty products are getting more expensive. Here's what's driving the price increases",
@@ -64,16 +117,6 @@
     "Justice"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "10a3fcdd61eb",
-   "titre": "Kilmar Abrego Garcia leaving U.S. today for Europe, sources say",
-   "lien": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/",
-   "source": "CBS News",
-   "date": "2026-11-24T22:20:25+00:00",
-   "extrait": "Kilmar Abrego Garcia, the El Salvador native who was mistakenly deported last year, is planning to leave the U.S. as soon as Tuesday, according to multiple U.S. officials.",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "346c6a81d428",
@@ -223,16 +266,6 @@
     "Conflits"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "72198d38fc53",
-   "titre": "Edouard Philippe propose un débat télévisé avant mi-décembre à David Lisnard, qu'il soupçonne de ne pas être \"étanche\" avec l'extrême droite",
-   "lien": "https://www.franceinfo.fr/elections/edouard-philippe-propose-un-debat-televise-avant-mi-decembre-a-david-lisnard-qu-il-soupconn-de-ne-pas-etre-etanche-avec-l-extreme-droite_8298417.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-24T21:02:56+00:00",
-   "extrait": "Le maire du Havre considère par ailleurs que \"les points d'accord sont considérablement plus nombreux\" avec Gabriel Attal et Bruno Retailleau qu'avec le maire du Havre.",
-   "tags": [],
-   "zone": "france"
   },
   {
    "id": "bf9604c79e95",
@@ -3382,38 +3415,6 @@
    "tags": [
     "Politique",
     "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "565b18783561",
-   "titre": "La double candidature de David Lisnard, pour la tête de l'Association des maires de France et la présidentielle, fait grincer des dents",
-   "lien": "https://www.franceinfo.fr/politique/david-lisnard/la-double-candidature-de-david-lisnard-pour-la-tete-de-l-association-des-maires-de-france-et-la-presidentielle-fait-grincer-des-dents_8297235.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-24T07:47:39+00:00",
-   "extrait": "Le maire de Cannes espère conserver la tête de l'AMF, qui a ouvert son congrès à Paris mardi. Il s'est aussi lancé dans la campagne présidentielle, où il gagne des points dans les sondages.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "221328a15308",
-   "titre": "L'âge moyen des premières cotisations retraite est-il vraiment 27 ans en France ?",
-   "lien": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-l-age-moyen-des-premieres-cotisations-retraite-est-il-vraiment-27-ans-en-france_8275382.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-24T07:41:24+00:00",
-   "extrait": "Selon le porte-parole du Rassemblement national, Laurent Jacobelli, les jeunes travailleurs français ont en moyenne \"quatre ans de cotisation en moins\" par rapport aux jeunes travailleurs allemands.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "525e819fec94",
-   "titre": "En Colombie, dix ans après l’accord de paix, le laborieux retour à la vie civile des ex-FARC",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/24/en-colombie-dix-ans-apres-l-accord-de-paix-le-laborieux-retour-a-la-vie-civile-des-ex-farc_6814720_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-24T07:30:00+00:00",
-   "extrait": "L’accord de 2016 avec le gouvernement colombien prévoyait le désarmement de la guérilla et le retour à la vie civile de 14 000 combattants à partir de zones rurales spécifiques. Aujourd’hui, tous…",
-   "tags": [
-    "Politique"
    ],
    "zone": "france"
   }
