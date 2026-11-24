@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-24T00:24:21+00:00",
+ "maj": "2026-11-24T01:05:45+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,30 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "83269649b3fd",
+   "titre": "Democrats announce 12 presidential primary debates",
+   "lien": "https://www.cbsnews.com/video/democrats-announce-12-presidential-primary-debates/",
+   "source": "CBS News",
+   "date": "2026-11-24T00:37:20+00:00",
+   "extrait": "The DNC has announced a plan to hold 12 presidential primary debates, five next year, and seven in 2028. Democratic strategist Joel Payne and Republican strategist Kevin Sheridan join \"The Takeout\"…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "24b297fff924",
+   "titre": "Is America's Future Dependent On One CEO?",
+   "lien": "https://www.cbsnews.com/video/is-americas-future-dependent-on-one-ceo-great-question/",
+   "source": "CBS News",
+   "date": "2026-11-24T00:32:00+00:00",
+   "extrait": "Jensen Huang is back as Nvidia's CEO just eleven days after being ousted over an affair with an alleged Chinese spy. Powerful voices in tech, an extreme market dip, and the president himself are…",
+   "tags": [
+    "Politique",
+    "Économie",
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "b0e5a1f3ba84",
    "titre": "Appeals court clears way for Army to detonate Iowa explosives",
    "lien": "https://www.cbsnews.com/news/army-iowa-explosives-trump-appeals-court/",
@@ -32,6 +56,16 @@
     "Justice"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "af739b779fb5",
+   "titre": "Six députés LFI portent plainte pour des menaces de mort anonymes",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/24/six-deputes-lfi-portent-plainte-pour-des-menaces-de-mort-anonymes_6814471_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-24T00:09:14+00:00",
+   "extrait": "Les courriers haineux reçus par les députés insoumis, qui dénoncent une inaction des autorités, comportaient, outre les menaces, des croix gammées.",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "7efc1e96fddc",
@@ -370,6 +404,16 @@
    "tags": [
     "Tech"
    ],
+   "zone": "usa"
+  },
+  {
+   "id": "484d746fb1b4",
+   "titre": "11/23: The Takeout with Major Garrett",
+   "lien": "https://www.cbsnews.com/video/112326-the-takeout-with-major-garrett/",
+   "source": "CBS News",
+   "date": "2026-11-23T22:00:00+00:00",
+   "extrait": "Jensen Huang reinstated as Nvidia CEO; Iran says it will use all means to end U.S. naval blockade.",
+   "tags": [],
    "zone": "usa"
   },
   {
@@ -928,7 +972,7 @@
    "titre": "Democrats announce 12 debates starting in June for 2028 race",
    "lien": "https://www.cbsnews.com/news/2028-presidential-race-democratic-debates/",
    "source": "CBS News",
-   "date": "2026-11-23T18:05:01+00:00",
+   "date": "2026-11-23T18:05:00+00:00",
    "extrait": "In announcing the debate framework, DNC chair Ken Martin leaned heavily into one of his signature causes, ending dark money in politics.",
    "tags": [
     "Politique"
@@ -3418,48 +3462,6 @@
    "source": "franceinfo",
    "date": "2026-11-23T08:49:05+00:00",
    "extrait": "En tout, quarante établissements sont concernés par des restrictions lundi. Certaines mesures sont prolongées jusqu'à vendredi soir.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "2232681f0518",
-   "titre": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
-   "lien": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-23T08:41:08+00:00",
-   "extrait": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "c6aa209296d7",
-   "titre": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky revendique l’attaque de deux bateaux russes en Libye à l’aide de « drones maritimes »",
-   "lien": "https://www.lemonde.fr/international/live/2026/11/23/en-direct-guerre-en-ukraine-volodymyr-zelensky-revendique-l-attaque-de-deux-bateaux-russes-en-libye_6814183_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-23T08:37:50+00:00",
-   "extrait": "Au moins 15 personnes ont, par ailleurs, été tuées lors de frappes russes dans la région de Kiev, dont 11 par l’effondrement partiel d’un immeuble résidentiel, selon le dernier bilan des autorités…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "b453a2ad3d14",
-   "titre": "Peut-on vraiment faire passer ses fenêtres en \"mode hiver\" comme l'affirment de très nombreuses vidéos sur les réseaux sociaux ?",
-   "lien": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-peut-on-vraiment-faire-passer-ses-fenetres-en-mode-hiver-comme-l-affirment-de-tres-nombreuses-videos-sur-les-reseaux-sociaux_8273909.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-23T08:30:30+00:00",
-   "extrait": "Sur les réseaux sociaux, de très nombreux internautes affirment dans des vidéos qu'on peut faire passer ses fenêtres en \"mode hiver\" en réglant un petit galet dans l'encadrement. En réalité, il vaut…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "8edb03684368",
-   "titre": "Michel Zecler décrit une \"victoire partielle\" après la condamnation des trois policiers",
-   "lien": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/michel-zecler-decrit-une-victoire-partielle-apres-la-condamnation-des-trois-policiers_8295530.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-23T08:21:47+00:00",
-   "extrait": "Invité de France Inter lundi, le producteur de musique déclare que sa \"voix a été entendue\" mais dit qu'il a été \"un peu déçu\" des peines.",
    "tags": [],
    "zone": "france"
   }
