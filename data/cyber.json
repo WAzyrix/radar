@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-24T10:05:40+00:00",
+ "maj": "2026-11-24T10:27:36+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -41,6 +41,17 @@
    "extrait": "La première alpha de Ladybird s'installe sans compiler sur Mac Apple Silicon et Linux. Essai sur Mac mini, ce qui marche, ce qui casse, le bond d'octobre, et pourquoi le garder à l'écart de vos…",
    "tags": [
     "Linux"
+   ]
+  },
+  {
+   "id": "06ddd1a68807",
+   "titre": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
+   "lien": "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html",
+   "source": "The Hacker News",
+   "date": "2026-11-24T08:34:20+00:00",
+   "extrait": "A flaw in WHMCS's shopping cart, the billing and automation platform many web hosting companies use to run their businesses, could allow anyone on the internet to retrieve customer records and…",
+   "tags": [
+    "Faille"
    ]
   },
   {
@@ -3334,18 +3345,6 @@
    "extrait": "Lors de l'événement Cyber at the Frontier, OpenAI a présenté Daybreak Red Team, des agents IA qui testent l'intrusion sur vos applis web, et Daybreak Defense Factory, qui propose des correctifs en…",
    "tags": [
     "Faille",
-    "IA"
-   ]
-  },
-  {
-   "id": "960f41318ea9",
-   "titre": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
-   "lien": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
-   "source": "The Hacker News",
-   "date": "2026-11-15T08:22:04+00:00",
-   "extrait": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting…",
-   "tags": [
-    "Fuite de données",
     "IA"
    ]
   }
