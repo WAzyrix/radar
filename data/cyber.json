@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-25T10:05:45+00:00",
+ "maj": "2026-11-25T11:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,27 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "7a7fe9e6826d",
+   "titre": "Faux jeu Ducros sur TikTok, le piège du coffret de Noël",
+   "lien": "https://www.zataz.com/faux-jeu-ducros-sur-tiktok-le-piege-du-coffret-de-noel/",
+   "source": "Zataz",
+   "date": "2026-11-25T10:46:52+00:00",
+   "extrait": "ZATAZ retrace le faux jeu Ducros sur TikTok, du coffret d’épices de Noël au formulaire de carte bancaire.",
+   "tags": []
+  },
+  {
+   "id": "7bb089ac45e5",
+   "titre": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
+   "lien": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
+   "source": "BleepingComputer",
+   "date": "2026-11-25T10:10:20+00:00",
+   "extrait": "The Drupal security team has confirmed that a critical vulnerability that lets attackers hijack unpatched sites has been actively exploited since at least Thursday. [...]",
+   "tags": [
+    "Faille",
+    "Fuite de données"
+   ]
+  },
   {
    "id": "001009148739",
    "titre": "LinuxPDF - Quand Linux se lance dans un PDF",
@@ -3327,26 +3348,6 @@
    "extrait": "Selon Mark Gurman de Bloomberg, Apple viserait une présentation de ses premières lunettes connectées (code N50) à la WWDC de juin 2027, avec des livraisons avant fin 2027. Sans affichage dans les…",
    "tags": [
     "Mobile"
-   ]
-  },
-  {
-   "id": "34b95b414a0d",
-   "titre": "Télémaintenance : 288 entreprises visées par une attaque",
-   "lien": "https://www.zataz.com/telemaintenance-288-entreprises-visees-par-une-attaque/",
-   "source": "Zataz",
-   "date": "2026-11-16T15:46:36+00:00",
-   "extrait": "Une extension ScreenConnect exploitée pour perturber 288 machines de télémaintenance dans 48 organisations.",
-   "tags": []
-  },
-  {
-   "id": "d29e040f4044",
-   "titre": "Fandango says hackers stole payment card details from checkout pages",
-   "lien": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
-   "source": "BleepingComputer",
-   "date": "2026-11-16T15:44:21+00:00",
-   "extrait": "Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages. [...]",
-   "tags": [
-    "Fuite de données"
    ]
   }
  ]
