@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-25T09:05:42+00:00",
+ "maj": "2026-11-25T09:14:31+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -32,6 +32,17 @@
    "extrait": "Microsoft has confirmed that customers may experience authentication issues after installing November security updates that address a high-severity remote code execution vulnerability. [...]",
    "tags": [
     "Faille",
+    "Windows"
+   ]
+  },
+  {
+   "id": "72cecb532680",
+   "titre": "Votre vieux clavier Logitech G15 a encore des choses à afficher",
+   "lien": "https://korben.info/g15-retro-hud.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-25T08:42:17+00:00",
+   "extrait": "G15-Retro-HUD rallume l'écran LCD du Logitech G15 sous Windows 10 et 11 en lui parlant directement en USB, sans les vieux pilotes Logitech qui bloquent l'intégrité de la mémoire. Monitoring…",
+   "tags": [
     "Windows"
    ]
   },
@@ -3332,18 +3343,6 @@
    "date": "2026-11-16T15:01:11+00:00",
    "extrait": "The FBI's latest CJIS Security Policy requires law enforcement agencies to strengthen password protections and enforce MFA across privileged and non-privileged accounts. Specops Software outlines…",
    "tags": []
-  },
-  {
-   "id": "2e40619c86da",
-   "titre": "Google warns that fully-automated AI attacks are coming soon",
-   "lien": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
-   "source": "BleepingComputer",
-   "date": "2026-11-16T14:00:00+00:00",
-   "extrait": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
-   "tags": [
-    "Faille",
-    "IA"
-   ]
   }
  ]
 }
