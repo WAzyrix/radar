@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-25T14:05:42+00:00",
+ "maj": "2026-11-25T15:05:42+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "3486408f997c",
+   "titre": "Test du mini PC VZMORE iX9 Max sous Ubuntu Server",
+   "lien": "https://korben.info/test-du-mini-pc-vzmore-ix9-max-sous-ubuntu-server.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-25T14:12:02+00:00",
+   "extrait": "Korben a migré son installation Plex du Mac mini M4 vers le mini PC VZMORE iX9 Max sous Ubuntu Server, avec un Core Ultra 9 185H, 24 Go de RAM soudée et un SSD de 1 To. Le ventilateur reste discret…",
+   "tags": [
+    "Linux"
+   ]
+  },
   {
    "id": "92db407f26f0",
    "titre": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
@@ -3346,15 +3357,6 @@
    "source": "Zataz",
    "date": "2026-11-16T18:03:56+00:00",
    "extrait": "WhiteArmor recrute des employés complices et achète des accès VPN, Azure et Okta pour infiltrer de grandes entreprises.",
-   "tags": []
-  },
-  {
-   "id": "526d02bb6dcc",
-   "titre": "Maersk : un pirate réclame 5 millions de dollars",
-   "lien": "https://www.zataz.com/maersk-un-pirate-reclame-5-millions-de-dollars/",
-   "source": "Zataz",
-   "date": "2026-11-16T17:50:58+00:00",
-   "extrait": "WhiteArmor exige 5 millions de dollars après une intrusion chez Maersk. Le groupe confirme un incident... limité.",
    "tags": []
   }
  ]
