@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-25T21:59:31+00:00",
+ "maj": "2026-11-25T22:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,31 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "9b0b01735e56",
+   "titre": "Iran denounces U.S. use of AI in war",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
+   "source": "CBS News",
+   "date": "2026-11-25T22:03:17+00:00",
+   "extrait": "Iran's U.N. envoy claims the U.S. military used Palantir and Anthropic AI systems to select some 2,000 targets over just four days.",
+   "tags": [
+    "Conflits",
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "502e7c5cfa53",
+   "titre": "Would A Brain Surgeon Let His Kids Play Football?",
+   "lien": "https://www.cbsnews.com/video/would-a-brain-surgeon-let-his-kids-play-football/",
+   "source": "CBS News",
+   "date": "2026-11-25T22:00:00+00:00",
+   "extrait": "A new study of 235 donated NFL brains found CTE in 215 of them. Dr. Myron Rolle is a former college All-American and NFL player who is now a pediatric neurosurgeon. We ask him about his experience…",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "a1d0cb05b1cd",
    "titre": "Macy's Thanksgiving Day Parade postponed for 1st time in history",
    "lien": "https://www.cbsnews.com/news/macys-thanksgiving-day-parade-postponed/",
@@ -40,6 +65,38 @@
    "extrait": "Les doubles champions d’Europe en titre ont été tenus en échec par les Italiens (2-2), mercredi soir, alors que le Losc a signé un sacré exploit face aux Bavarois (2-1).",
    "tags": [],
    "zone": "france"
+  },
+  {
+   "id": "69a6feb11524",
+   "titre": "Tombeur du Bayern Munich, le Losc signe sa première victoire de la saison en Ligue des champions et se relance",
+   "lien": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/tombeur-du-bayern-munich-le-losc-signe-sa-premiere-victoire-de-la-saison-en-ligue-des-champions-et-se-relance_8300349.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-25T21:56:13+00:00",
+   "extrait": "Avec désormais quatre points, les Dogues se relancent dans la course à la qualification pour les barrages de la Ligue des champions.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "6495a1d099cc",
+   "titre": "Tenu en échec par l'AS Rome en Ligue des champions, le PSG voit sa série de victoires s'arrêter",
+   "lien": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/tenu-en-echec-par-l-as-rome-en-ligue-des-champions-le-psg-voit-sa-serie-de-victoires-s-arreter_8300280.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-25T21:55:49+00:00",
+   "extrait": "Privé de Désiré Doué et Khvicha Kvaratskhelia, le club parisien n'a pas été capable de reproduire les démonstrations de force des sorties précédentes sur la scène européenne.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "af3399a38aa7",
+   "titre": "Steelers releasing quarterback Aaron Rodgers, reports say",
+   "lien": "https://www.cbsnews.com/video/steelers-releasing-quarterback-aaron-rodgers-reports-say/",
+   "source": "CBS News",
+   "date": "2026-11-25T21:54:20+00:00",
+   "extrait": "The Steelers are releasing quarterback Aaron Rodgers after he was benched for Friday's game, multiple reports say. Rodgers appeared on \"The Pat McAfee Show\" on Wednesday and said he wouldn't return…",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "usa"
   },
   {
    "id": "f4f9a8467920",
@@ -502,19 +559,6 @@
     "Politique"
    ],
    "zone": "france"
-  },
-  {
-   "id": "9b0b01735e56",
-   "titre": "Iran denounces U.S. use of AI in war",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
-   "source": "CBS News",
-   "date": "2026-11-25T19:08:26+00:00",
-   "extrait": "Iran's U.N. envoy claims the U.S. military used Palantir and Anthropic AI systems to select some 2,000 targets over just four days.",
-   "tags": [
-    "Conflits",
-    "Tech"
-   ],
-   "zone": "usa"
   },
   {
    "id": "b6badd90585c",
@@ -3392,54 +3436,6 @@
    "date": "2026-11-25T08:06:08+00:00",
    "extrait": "La publication depuis 2017 du nom de tous les parrains a-t-elle fait baisser le nombre d'élus acceptant de donner leur signature à un candidat, comme l'affirme l'Association des maires de France ?",
    "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "98820ff6a8e5",
-   "titre": "La Corée du Nord expulse le chef du bureau diplomatique suisse, en cours de fermeture",
-   "lien": "https://www.franceinfo.fr/monde/coree-du-nord/la-coree-du-nord-expulse-le-chef-du-bureau-diplomatique-suisse-en-cours-de-fermeture_8298792.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-25T08:05:03+00:00",
-   "extrait": "La fermeture de la représentation suisse est une conséquence des sanctions de Berne contre Pyongyang liées à la guerre en Ukraine.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "fe8c997d0583",
-   "titre": "Les trois colonnes bleu, blanc, rouge de Guy de Rougemont, retirées du centre-ville de Châteauroux, obtiennent justice",
-   "lien": "https://www.lemonde.fr/culture/article/2026/11/25/les-trois-colonnes-bleu-blanc-rouge-de-guy-de-rougemont-retirees-du-centre-ville-de-chateauroux-obtiennent-justice_6815064_3246.html",
-   "source": "Le Monde",
-   "date": "2026-11-25T08:00:09+00:00",
-   "extrait": "Les héritiers de l’artiste dont la sculpture trônait au cœur de la cité depuis 2000 ont gagné leur procès contre la ville, qui, en 2023, avait transféré l’ouvrage en périphérie.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "26b340d1a578",
-   "titre": "EN DIRECT, congrès des maires 2026 : David Lisnard va-t-il être réélu à la tête des maires de France ? Suivez la journée et posez-nous vos questions",
-   "lien": "https://www.lemonde.fr/politique/live/2026/11/25/en-direct-congres-des-maires-2026-suivez-l-election-du-president-de-l-association-des-maires-de-france-a-cinq-mois-de-l-election-presidentielle_6815062_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-25T07:57:12+00:00",
-   "extrait": "Le 108ᵉ congrès des maires de France a pris une dimension très politique à l’approche de la présidentielle, alors que la majorité des candidats, à l’exception de Marine Le Pen et de Jean-Luc…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "6d37b56f8faa",
-   "titre": "Une vingtaine de personnes libérées après une prise d'otages en Colombie",
-   "lien": "https://www.franceinfo.fr/monde/ameriques/une-vingtaine-de-personnes-retenues-dans-une-prise-d-otages-en-colombie-le-president-sur-place_8298720.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-25T07:56:24+00:00",
-   "extrait": "Selon le président, cette prise d'otages relève de la criminalité ordinaire. Il écarte toute implication des groupes armés ayant commis plusieurs attentats à travers le pays ces derniers mois.",
-   "tags": [
-    "Politique"
-   ],
    "zone": "france"
   }
  ]
