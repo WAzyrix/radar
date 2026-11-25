@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-25T08:05:42+00:00",
+ "maj": "2026-11-25T09:05:42+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "00f16364aca5",
+   "titre": "Microsoft confirms authentication issues after November updates",
+   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
+   "source": "BleepingComputer",
+   "date": "2026-11-25T09:02:57+00:00",
+   "extrait": "Microsoft has confirmed that customers may experience authentication issues after installing November security updates that address a high-severity remote code execution vulnerability. [...]",
+   "tags": [
+    "Faille",
+    "Windows"
+   ]
+  },
   {
    "id": "3bc6f96dec95",
    "titre": "Hackers reportedly breached CIA intelligence analysis system",
@@ -3330,19 +3342,6 @@
    "extrait": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
    "tags": [
     "Faille",
-    "IA"
-   ]
-  },
-  {
-   "id": "5adf36e942de",
-   "titre": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
-   "lien": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
-   "source": "The Hacker News",
-   "date": "2026-11-16T14:00:00+00:00",
-   "extrait": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX…",
-   "tags": [
-    "Faille",
-    "Fuite de données",
     "IA"
    ]
   }
