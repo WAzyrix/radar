@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-25T11:05:39+00:00",
+ "maj": "2026-11-25T12:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,6 +24,48 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "6a8ceb0f7d1b",
+   "titre": "Credential Remediation Is Slow When You Don’t Know What Will Break",
+   "lien": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
+   "source": "The Hacker News",
+   "date": "2026-11-25T11:51:48+00:00",
+   "extrait": "TL;DR More than 64% still valid after four years: GitGuardian’s State of Secrets Sprawl 2026 found that most valid secrets discovered in 2022 still worked in January 2026, because teams stall on…",
+   "tags": []
+  },
+  {
+   "id": "3544b9ac2245",
+   "titre": "Skimming en Alsace, des cartes bancaires piégées à la pompe",
+   "lien": "https://www.zataz.com/skimming-en-alsace-des-cartes-bancaires-piegees-a-la-pompe/",
+   "source": "Zataz",
+   "date": "2026-11-25T11:40:44+00:00",
+   "extrait": "Skimming ? En Alsace, des retraits de 500 à 1 000 euros après un plein alertent les gendarmes. Comment réagir face à la fraude.",
+   "tags": []
+  },
+  {
+   "id": "d52cc031d711",
+   "titre": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
+   "lien": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
+   "source": "The Hacker News",
+   "date": "2026-11-25T11:23:26+00:00",
+   "extrait": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical flaw impacting Drupal to its Known Exploited Vulnerabilities (KEV) catalog, requiring federal agencies to…",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
+  },
+  {
+   "id": "bd8fc6246012",
+   "titre": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
+   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
+   "source": "BleepingComputer",
+   "date": "2026-11-25T11:16:32+00:00",
+   "extrait": "Earlier this week, Microsoft resolved a known issue that was preventing some Microsoft 365 customers from accessing Office applications. [...]",
+   "tags": [
+    "Faille",
+    "Windows"
+   ]
+  },
+  {
    "id": "7a7fe9e6826d",
    "titre": "Faux jeu Ducros sur TikTok, le piège du coffret de Noël",
    "lien": "https://www.zataz.com/faux-jeu-ducros-sur-tiktok-le-piege-du-coffret-de-noel/",
@@ -31,6 +73,17 @@
    "date": "2026-11-25T10:46:52+00:00",
    "extrait": "ZATAZ retrace le faux jeu Ducros sur TikTok, du coffret d’épices de Noël au formulaire de carte bancaire.",
    "tags": []
+  },
+  {
+   "id": "3885183f3278",
+   "titre": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
+   "lien": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
+   "source": "The Hacker News",
+   "date": "2026-11-25T10:43:07+00:00",
+   "extrait": "A former OpenAI employee accused of concealing a covert recording device at the company's San Francisco offices will be allowed to be released from jail on a $1 million bond, a San Francisco federal…",
+   "tags": [
+    "IA"
+   ]
   },
   {
    "id": "7bb089ac45e5",
@@ -3299,56 +3352,6 @@
    "date": "2026-11-16T17:27:41+00:00",
    "extrait": "Le DOJ annonce des saisies liées aux vols de cryptomonnaies nord-coréens et démantèle des infrastructures FaceStealer.",
    "tags": []
-  },
-  {
-   "id": "bbd8832f6138",
-   "titre": "Expedia : un pirate revendique un vol massif de données",
-   "lien": "https://www.zataz.com/expedia-un-pirate-revendique-un-vol-massif-de-donnees/",
-   "source": "Zataz",
-   "date": "2026-11-16T16:57:49+00:00",
-   "extrait": "Expedia confirme une intrusion via un prestataire. Un pirate revendique un vol massif de données de voyageurs.",
-   "tags": []
-  },
-  {
-   "id": "c55d641da89b",
-   "titre": "Quantum Systems : une cyberattaque inquiète l’armée allemande",
-   "lien": "https://www.zataz.com/quantum-systems-une-cyberattaque-inquiete-larmee-allemande/",
-   "source": "Zataz",
-   "date": "2026-11-16T16:48:18+00:00",
-   "extrait": "Quantum Systems confirme une cyberattaque. Une possible compromission des mises à jour de drones inquiète l'Allemagne.",
-   "tags": []
-  },
-  {
-   "id": "18b00fe2b40c",
-   "titre": "Microsoft says months-old bug caused global Microsoft 365 outage",
-   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
-   "source": "BleepingComputer",
-   "date": "2026-11-16T16:43:24+00:00",
-   "extrait": "Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than 80% of its networking gateway servers…",
-   "tags": [
-    "Faille",
-    "Windows"
-   ]
-  },
-  {
-   "id": "5e6b9e8dfb11",
-   "titre": "Deepfakes : une fraude présumée à 129 millions de dollars",
-   "lien": "https://www.zataz.com/deepfakes-une-fraude-presumee-a-129-millions-de-dollars/",
-   "source": "Zataz",
-   "date": "2026-11-16T15:57:48+00:00",
-   "extrait": "Trois hommes sont accusés d'une fraude à 129 millions de dollars utilisant des deepfakes et l'ingénierie sociale.",
-   "tags": []
-  },
-  {
-   "id": "2a133b01ea83",
-   "titre": "Les lunettes connectées d'Apple arriveraient en 2027",
-   "lien": "https://korben.info/les-lunettes-connectees-dapple-arriveraient-en-2027.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-11-16T15:49:40+00:00",
-   "extrait": "Selon Mark Gurman de Bloomberg, Apple viserait une présentation de ses premières lunettes connectées (code N50) à la WWDC de juin 2027, avec des livraisons avant fin 2027. Sans affichage dans les…",
-   "tags": [
-    "Mobile"
-   ]
   }
  ]
 }
