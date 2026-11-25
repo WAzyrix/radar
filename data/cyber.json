@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-25T07:05:43+00:00",
+ "maj": "2026-11-25T08:05:42+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,6 +24,26 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "3bc6f96dec95",
+   "titre": "Hackers reportedly breached CIA intelligence analysis system",
+   "lien": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
+   "source": "BleepingComputer",
+   "date": "2026-11-25T07:45:03+00:00",
+   "extrait": "Unknown attackers have reportedly breached an open-source intelligence analysis system at the US Central Intelligence Agency (CIA) [...]",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "e0f29108cd43",
+   "titre": "CHU de Bordeaux et SIG Sauer ciblés par ScarlettGroup",
+   "lien": "https://www.zataz.com/chu-de-bordeaux-et-sig-sauer-cibles-par-scarlettgroup/",
+   "source": "Zataz",
+   "date": "2026-11-25T07:40:26+00:00",
+   "extrait": "Le CHU de Bordeaux confirme une intrusion. ScarlettGroup menace de publier des données et revendique aussi SIG Sauer.",
+   "tags": []
+  },
+  {
    "id": "be8229fa8688",
    "titre": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
    "lien": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
@@ -33,6 +53,18 @@
    "tags": [
     "Fuite de données",
     "IA"
+   ]
+  },
+  {
+   "id": "0288ebcef106",
+   "titre": "Ubuntu - Le nouveau lanceur sera boosté à l'IA",
+   "lien": "https://korben.info/ubuntu-lanceur-ia-local.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-25T06:42:17+00:00",
+   "extrait": "Canonical montre son futur lanceur Ubuntu en train de tourner : un point d'entrée pour les applis et les fichiers, avec une IA en opt-in et locale d'abord. Ce qui est promis, ce qui ne l'est pas, et…",
+   "tags": [
+    "IA",
+    "Linux"
    ]
   },
   {
@@ -3312,42 +3344,6 @@
     "Faille",
     "Fuite de données",
     "IA"
-   ]
-  },
-  {
-   "id": "f9828b77234b",
-   "titre": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
-   "lien": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
-   "source": "The Hacker News",
-   "date": "2026-11-16T13:27:20+00:00",
-   "extrait": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to…",
-   "tags": [
-    "Faille",
-    "Malware",
-    "IA",
-    "Windows"
-   ]
-  },
-  {
-   "id": "a1dd8f56b81d",
-   "titre": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
-   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
-   "source": "BleepingComputer",
-   "date": "2026-11-16T12:53:18+00:00",
-   "extrait": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months. [...]",
-   "tags": [
-    "Windows"
-   ]
-  },
-  {
-   "id": "119c79e2a817",
-   "titre": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
-   "lien": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
-   "source": "The Hacker News",
-   "date": "2026-11-16T12:34:21+00:00",
-   "extrait": "Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier this week. No…",
-   "tags": [
-    "Faille"
    ]
   }
  ]
