@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-25T15:05:42+00:00",
+ "maj": "2026-11-25T17:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,39 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "97df8d954787",
+   "titre": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
+   "lien": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
+   "source": "BleepingComputer",
+   "date": "2026-11-25T16:13:40+00:00",
+   "extrait": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers used by food retailers to manage commercial…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "a3b682ce2592",
+   "titre": "More Pentests Without More Pentesters: Where AI Safely Helps",
+   "lien": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
+   "source": "BleepingComputer",
+   "date": "2026-11-25T15:00:10+00:00",
+   "extrait": "Penetration testers spend a significant portion of their engagements on documentation, reporting, and other tasks outside of testing. PentestPad explains how AI can reduce this workload, help teams…",
+   "tags": [
+    "IA"
+   ]
+  },
+  {
+   "id": "5d8223f882df",
+   "titre": "InfraTrust warns of exploited supply chain flaws in network appliances",
+   "lien": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
+   "source": "BleepingComputer",
+   "date": "2026-11-25T15:00:00+00:00",
+   "extrait": "Eclypsium's November InfraTrust report warns that most infrastructure security advisories addressing exploited vulnerabilities over the past month involve flaws in third-party software bundled into…",
+   "tags": [
+    "Faille"
+   ]
+  },
   {
    "id": "3486408f997c",
    "titre": "Test du mini PC VZMORE iX9 Max sous Ubuntu Server",
@@ -248,6 +281,105 @@
    "date": "2026-11-25T06:19:03+00:00",
    "extrait": "FF8 Reborn, un mod gratuit de fan, fait viser 60 ou 120 FPS à Final Fantasy VIII Remastered sur PC et élargit combats et carte du monde. Ce que valent ces images calculées, ce qui reste en 4:3, et…",
    "tags": []
+  },
+  {
+   "id": "f56f976a5839",
+   "titre": "Recommandations de sécurisation des liaisons inter-sites (25 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/dur/CERTFR-2026-DUR-001/",
+   "source": "CERT-FR",
+   "date": "2026-11-25T00:00:00+00:00",
+   "extrait": "Objet : Recommandations de sécurisation des liaisons inter-sites, à destination des clients de ces offres. Annexe : Liens et références Depuis plusieurs années, l’Agence nationale de la sécurité des…",
+   "tags": []
+  },
+  {
+   "id": "ff9051b2e2c0",
+   "titre": "Multiples vulnérabilités dans les produits Mozilla (25 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1616/",
+   "source": "CERT-FR",
+   "date": "2026-11-25T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "857796073af7",
+   "titre": "Vulnérabilité dans Microsoft Office (25 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1620/",
+   "source": "CERT-FR",
+   "date": "2026-11-25T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+   "tags": [
+    "Faille",
+    "Windows"
+   ]
+  },
+  {
+   "id": "7ddd96786850",
+   "titre": "Multiples vulnérabilités dans les produits VMware (25 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1622/",
+   "source": "CERT-FR",
+   "date": "2026-11-25T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "e2db05f57430",
+   "titre": "Vulnérabilité dans les produits Schneider Electric (25 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1618/",
+   "source": "CERT-FR",
+   "date": "2026-11-25T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans les produits Schneider Electric. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "b9d84c0409eb",
+   "titre": "Multiples vulnérabilités dans Symfony (25 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1619/",
+   "source": "CERT-FR",
+   "date": "2026-11-25T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Symfony. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "33ba6a6afdcc",
+   "titre": "Vulnérabilité dans Palo Alto Networks PAN-OS (25 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1621/",
+   "source": "CERT-FR",
+   "date": "2026-11-25T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans Palo Alto Networks PAN-OS. Elle permet à un attaquant de provoquer une élévation de privilèges. Palo Alto Networks indique que la vulnérabilité CVE-2026-43600…",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
+  },
+  {
+   "id": "66d1308e754f",
+   "titre": "Multiples vulnérabilités dans Tenable Enclave Security (25 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1615/",
+   "source": "CERT-FR",
+   "date": "2026-11-25T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Tenable Enclave Security. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "a89ab58991ed",
+   "titre": "Vulnérabilité dans Laravel (25 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1617/",
+   "source": "CERT-FR",
+   "date": "2026-11-25T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans Laravel. Elle permet à un attaquant de provoquer un déni de service à distance.",
+   "tags": [
+    "Faille"
+   ]
   },
   {
    "id": "6c270107d398",
@@ -3223,141 +3355,6 @@
    "tags": [
     "Faille"
    ]
-  },
-  {
-   "id": "2526279d7ab9",
-   "titre": "Multiples vulnérabilités dans Mitel MiCollab (17 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1547/",
-   "source": "CERT-FR",
-   "date": "2026-11-17T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Mitel MiCollab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "d6b7664b8942",
-   "titre": "Multiples vulnérabilités dans Tenable Identity Exposure (17 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1550/",
-   "source": "CERT-FR",
-   "date": "2026-11-17T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Tenable Identity Exposure. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "682364e58027",
-   "titre": "Vulnérabilité dans Axis OS (17 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1549/",
-   "source": "CERT-FR",
-   "date": "2026-11-17T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans Axis OS. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "24276bc349e1",
-   "titre": "Multiples vulnérabilités dans Microsoft SharePoint (17 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1555/",
-   "source": "CERT-FR",
-   "date": "2026-11-17T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Microsoft SharePoint. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.",
-   "tags": [
-    "Faille",
-    "Windows"
-   ]
-  },
-  {
-   "id": "c6314557a390",
-   "titre": "Multiples vulnérabilités dans OpenSSL (17 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1554/",
-   "source": "CERT-FR",
-   "date": "2026-11-17T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans OpenSSL. Elles permettent à un attaquant de provoquer un déni de service à distance.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "2f3a12e8cddb",
-   "titre": "Vulnérabilité dans GLPI (17 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1548/",
-   "source": "CERT-FR",
-   "date": "2026-11-17T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans GLPI. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "691d3a31b013",
-   "titre": "Multiples vulnérabilités dans GitLab (17 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1552/",
-   "source": "CERT-FR",
-   "date": "2026-11-17T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "60f99194645f",
-   "titre": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
-   "lien": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
-   "source": "BleepingComputer",
-   "date": "2026-11-16T22:54:00+00:00",
-   "extrait": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to…",
-   "tags": [
-    "Fuite de données",
-    "IA"
-   ]
-  },
-  {
-   "id": "6cd4bc50c4fa",
-   "titre": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
-   "lien": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
-   "source": "BleepingComputer",
-   "date": "2026-11-16T21:31:44+00:00",
-   "extrait": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
-   "tags": [
-    "Faille",
-    "IA"
-   ]
-  },
-  {
-   "id": "f7229d91014f",
-   "titre": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
-   "lien": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
-   "source": "BleepingComputer",
-   "date": "2026-11-16T20:59:44+00:00",
-   "extrait": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed…",
-   "tags": [
-    "Fuite de données",
-    "IA"
-   ]
-  },
-  {
-   "id": "f66e964ba9d3",
-   "titre": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
-   "lien": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
-   "source": "BleepingComputer",
-   "date": "2026-11-16T19:57:13+00:00",
-   "extrait": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
-   "tags": [
-    "Fuite de données",
-    "IA"
-   ]
-  },
-  {
-   "id": "296630e154f7",
-   "titre": "WhiteArmor recrute des complices pour infiltrer les entreprises",
-   "lien": "https://www.zataz.com/whitearmor-recrute-des-complices-pour-infiltrer-les-entreprises/",
-   "source": "Zataz",
-   "date": "2026-11-16T18:03:56+00:00",
-   "extrait": "WhiteArmor recrute des employés complices et achète des accès VPN, Azure et Okta pour infiltrer de grandes entreprises.",
-   "tags": []
   }
  ]
 }
