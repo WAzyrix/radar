@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-25T13:05:45+00:00",
+ "maj": "2026-11-25T14:05:42+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,28 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "92db407f26f0",
+   "titre": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+   "lien": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
+   "source": "The Hacker News",
+   "date": "2026-11-25T12:48:54+00:00",
+   "extrait": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr. The vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243, details of which…",
+   "tags": [
+    "CVE",
+    "Faille",
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "851806c24f2d",
+   "titre": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
+   "lien": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
+   "source": "The Hacker News",
+   "date": "2026-11-25T12:30:08+00:00",
+   "extrait": "The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in \"unauthorized access to a limited subset of its systems,\" the…",
+   "tags": []
+  },
   {
    "id": "6a8ceb0f7d1b",
    "titre": "Credential Remediation Is Slow When You Don’t Know What Will Break",
@@ -3333,24 +3355,6 @@
    "source": "Zataz",
    "date": "2026-11-16T17:50:58+00:00",
    "extrait": "WhiteArmor exige 5 millions de dollars après une intrusion chez Maersk. Le groupe confirme un incident... limité.",
-   "tags": []
-  },
-  {
-   "id": "af1be67bd245",
-   "titre": "Gootloader : une opération frappe 100 serveurs infectés",
-   "lien": "https://www.zataz.com/gootloader-une-operation-frappe-100-serveurs-infectes/",
-   "source": "Zataz",
-   "date": "2026-11-16T17:33:02+00:00",
-   "extrait": "Une opération internationale contre Gootloader neutralise plus de 100 serveurs liés à 25 000 infections.",
-   "tags": []
-  },
-  {
-   "id": "2492c0bc4386",
-   "titre": "Corée du Nord : Washington frappe les voleurs de cryptos",
-   "lien": "https://www.zataz.com/coree-du-nord-washington-frappe-les-voleurs-de-cryptos/",
-   "source": "Zataz",
-   "date": "2026-11-16T17:27:41+00:00",
-   "extrait": "Le DOJ annonce des saisies liées aux vols de cryptomonnaies nord-coréens et démantèle des infrastructures FaceStealer.",
    "tags": []
   }
  ]
