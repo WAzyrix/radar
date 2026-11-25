@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-25T06:05:39+00:00",
+ "maj": "2026-11-25T07:05:43+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,14 +22,216 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "10a3fcdd61eb",
+   "titre": "Kilmar Abrego Garcia leaves U.S. for Spain",
+   "lien": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/",
+   "source": "CBS News",
+   "date": "2026-11-25T07:03:28+00:00",
+   "extrait": "Kilmar Abrego Garcia, the El Salvador native who was mistakenly deported last year, left the U.S. for Spain on Tuesday, the Department of Homeland Security confirmed.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "afee9050dbec",
+   "titre": "Amnesty International accuse Israël d'entraver les naissances à Gaza",
+   "lien": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/amnesty-accuse-israel-d-entraver-les-naissances-a-gaza_8298801.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-25T06:53:31+00:00",
+   "extrait": "Dans un rapport consacré aux femmes et aux filles de Gaza, l'ONG affirme que des mesures imposées par Israël ont empêché des Palestiniennes de concevoir ou de mener leur grossesse à terme.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "48aba5202ccf",
+   "titre": "Small plane crash off Mississippi kills 6, including 2 children",
+   "lien": "https://www.cbsnews.com/news/small-plane-crash-off-mississippi-6-dead-2-children/",
+   "source": "CBS News",
+   "date": "2026-11-25T06:45:39+00:00",
+   "extrait": "Six people, including two children, have been found dead after a plane crashed off the coast of Mississippi, according to the Coast Guard.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
    "id": "21680c160202",
    "titre": "La CIA et le bureau du directeur du renseignement national ont subi un piratage informatique, selon plusieurs médias américains",
    "lien": "https://www.franceinfo.fr/monde/usa/la-cia-et-le-bureau-du-directeur-du-renseignement-national-ont-subi-un-piratage-informatique-selon-plusieurs-medias-americains_8298636.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-11-25T05:53:26+00:00",
-   "extrait": "Il a touché un réseau informatique d'analyse des informations dites en \"source ouverte\", soit accessibles publiquement.",
+   "date": "2026-11-25T06:45:26+00:00",
+   "extrait": "Cette attaque a touché un réseau informatique d'analyse des informations dites en \"source ouverte\", c'est-à-dire accessibles publiquement.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "a2acf5847ee5",
+   "titre": "Africa Cup title given back to Senegal after sports court rules against Morocco",
+   "lien": "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco",
+   "source": "NPR",
+   "date": "2026-11-25T06:43:23+00:00",
+   "extrait": "Senegal won the Africa Cup on the field in Morocco in January and then lost it in a legal case in March because its players walked off the field in protest in second-half stoppage time.",
+   "tags": [
+    "Justice",
+    "Sport"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "71eb5af114a5",
+   "titre": "Stellantis supprime l’équipe de nuit de l’usine de Sochaux, 500 emplois concernés dès janvier",
+   "lien": "https://www.lemonde.fr/economie-francaise/article/2026/11/25/stellantis-supprime-l-equipe-de-nuit-de-l-usine-de-sochaux-500-emplois-concernes-des-janvier_6815054_1656968.html",
+   "source": "Le Monde",
+   "date": "2026-11-25T06:42:53+00:00",
+   "extrait": "Il s’agit de la deuxième annonce sociale d’ampleur de la semaine pour le constructeur des marques Peugeot, Citroën et Opel. Il avait annoncé, lundi, retirer ses écuries de la compétition automobile.",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "75e70504ed9b",
+   "titre": "Près d’un salarié sur deux continue de travailler tout en étant malade pour des raisons financières, selon un baromètre",
+   "lien": "https://www.franceinfo.fr/economie/emploi/carriere/vie-professionnelle/sante-au-travail/pres-d-un-salarie-sur-deux-continue-de-travailler-tout-en-etant-malade-pour-des-raisons-financieres-selon-un-barometre_8298771.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-25T06:38:05+00:00",
+   "extrait": "Le phénomène s’inscrit dans \"un contexte de progression du mal-être et pose conjointement les questions de santé au travail, de prévention et de pouvoir d’achat\", explique le commanditaire de…",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "5d726649fcbb",
+   "titre": "Le Var passe en vigilance orange \"crues\", l'alerte \"pluie-inondation\" se poursuit dans ce département et dans les Alpes-Maritimes",
+   "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/le-var-passe-en-vigilance-orange-crues-l-alerte-pluie-inondation-se-poursuit-dans-ce-departement-et-dans-les-alpes-maritimes_8298813.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-25T06:36:51+00:00",
+   "extrait": "Les zones les plus exposées se situent sur la zone côtière du Var et de la Sainte-Baume à l'Estérel en passant par les Maures, et sur les pré-Alpes de Grasse et la Côte d'Azur.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "e7960cb79109",
+   "titre": "Kilmar Ábrego García leaves US for Spain, ending Trump deportation battle",
+   "lien": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-25T06:36:00+00:00",
+   "extrait": "Ábrego García's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration agenda.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "0b01b4582ae6",
+   "titre": "Présidentielle 2027 : lancé dans la course à l'Elysée, David Lisnard fixé dans la journée sur sa réélection à la tête de l'Association des maires de France",
+   "lien": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-lance-dans-la-course-a-l-elysee-david-lisnard-fixe-dans-la-journee-sur-sa-reelection-a-la-tete-de-l-association-des-maires-de-france_8298708.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-25T06:34:14+00:00",
+   "extrait": "Le président sortant de l'AMF est opposé dans ce scrutin à Philippe Laurent, le maire centriste de Sceaux (Hauts-de-Seine). Le résultat du vote, démarré lundi, sera proclamé vers 14 heures.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "6d37b56f8faa",
+   "titre": "Une vingtaine de personnes retenues dans une prise d'otages en Colombie, le président sur place",
+   "lien": "https://www.franceinfo.fr/monde/ameriques/une-vingtaine-de-personnes-retenues-dans-une-prise-d-otages-en-colombie-le-president-sur-place_8298720.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-25T06:30:57+00:00",
+   "extrait": "Selon le président, cette prise d'otages relève de la criminalité ordinaire. Il écarte toute implication des groupes armés ayant commis plusieurs attentats à travers le pays ces derniers mois.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "689a1990d1d5",
+   "titre": "CAN 2025 : le Sénégal déclaré vainqueur par le TAS, le Maroc conteste",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261125-can-2025-le-s%C3%A9n%C3%A9gal-d%C3%A9clar%C3%A9-vainqueur-par-le-tas-le-maroc-conteste",
+   "source": "France 24",
+   "date": "2026-11-25T06:28:24+00:00",
+   "extrait": "Le Tribunal Arbitral du Sport a rendu sa décision : le Sénégal est officiellement champion d’Afrique 2025. La Fédération marocaine a annoncé contester le verdict, dénonçant des irrégularités dans la…",
+   "tags": [
+    "Justice",
+    "Sport"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "14333af33f08",
+   "titre": "Deux militaires libyens ont succombé à leurs blessures après l'attaque de navires russes en Libye",
+   "lien": "https://www.franceinfo.fr/monde/afrique/libye/deux-militaires-libyens-ont-succombe-a-leurs-blessures-apres-l-attaque-de-navires-russes-en-libye_8298696.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-25T06:28:00+00:00",
+   "extrait": "Le président ukrainien Volodymyr Zelensky a revendiqué les attaques menées dimanche près de Benghazi.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "3dc8973b5aea",
+   "titre": "Le groupe pharmaceutique Sanofi s'apprête à réaliser la plus grosse acquisition de son histoire",
+   "lien": "https://www.franceinfo.fr/replay-radio/le-brief-eco/le-groupe-pharmaceutique-sanofi-s-apprete-a-realiser-la-plus-grosse-acquisition-de-son-histoire_8277128.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-25T06:27:16+00:00",
+   "extrait": "Le laboratoire français Sanofi renforce sa présence sur la scène internationale via les États-Unis. Le groupe s’apprête à racheter une entreprise de biotechnologie américaine pour 41 milliards de…",
    "tags": [],
    "zone": "france"
+  },
+  {
+   "id": "52f51e7799dc",
+   "titre": "Présomption d’usage légal des armes par les forces de l’ordre : une marche organisée par des familles de victimes de tirs policiers à Paris",
+   "lien": "https://www.franceinfo.fr/faits-divers/police/presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre-une-marche-organisee-par-des-familles-de-victimes-de-tirs-policiers-a-paris_8298816.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-25T06:24:18+00:00",
+   "extrait": "À l'issue de cette marche, mercredi, des parlementaires insoumis, écologistes et communistes vont saisir le Conseil constitutionnel au sujet de cette loi sur la présomption de légitime défense pour…",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "23bfdd9fd9fa",
+   "titre": "\"Les violences économiques ont vocation à instaurer un climat de dépendance\" : quand l'argent devient un outil d'emprise",
+   "lien": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/les-violences-economiques-ont-vocation-a-instaurer-un-climat-de-dependance-quand-l-argent-devient-un-outil-d-emprise_8298447.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-25T06:20:44+00:00",
+   "extrait": "Une femme sur cinq est exposée aux violences économiques au sein de son couple. Des mécanismes qui installent une dépendance financière et rendent parfois le départ encore plus difficile.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "3d93ea465f02",
+   "titre": "Législatives en Espagne : l'utilisation massive de l'IA cultive la \"haine viscérale\" de l'adversaire",
+   "lien": "https://www.france24.com/fr/europe/20261125-elections-legislatives-espagne-videos-intelligence-artificielle-pedro-sanchez-vox-pp",
+   "source": "France 24",
+   "date": "2026-11-25T06:08:04+00:00",
+   "extrait": "Les législatives anticipées en Espagne se tiennent dimanche. Depuis le début de la campagne, les partis politiques rivalisent d'imagination pour faire parler d'eux ou critiquer leurs adversaires…",
+   "tags": [
+    "Politique",
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "a8e9ed99c9ae",
+   "titre": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
+   "lien": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-25T06:00:36+00:00",
+   "extrait": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "44d28399b903",
@@ -40,19 +242,6 @@
    "extrait": "GPS, logiciels espions, micros… Au Royaume-Uni, une association spécialisée alerte sur l'explosion des signalements : 78% de plus en un an, le plus souvent en s'appuyant sur des technologies du…",
    "tags": [
     "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "14333af33f08",
-   "titre": "Deux militaires libyens ont succombé à leurs blessures après l'attaque de navires russes en Libye",
-   "lien": "https://www.franceinfo.fr/monde/afrique/libye/deux-militaires-libyens-ont-succombe-a-leurs-blessures-apres-l-attaque-de-navires-russes-en-libye_8298696.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-25T05:43:24+00:00",
-   "extrait": "Le président ukrainien Volodymyr Zelensky a revendiqué les attaques menées dimanche près de Benghazi.",
-   "tags": [
-    "Politique",
-    "Conflits"
    ],
    "zone": "france"
   },
@@ -79,18 +268,6 @@
    "zone": "france"
   },
   {
-   "id": "0b01b4582ae6",
-   "titre": "Présidentielle 2027 : lancé dans la course à l'Elysée, David Lisnard fixé dans la journée sur sa réélection à la tête de l'Association des maires de France",
-   "lien": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-lance-dans-la-course-a-l-elysee-david-lisnard-fixe-dans-la-journee-sur-sa-reelection-a-la-tete-de-l-association-des-maires-de-france_8298708.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-25T05:31:26+00:00",
-   "extrait": "Le résultat du vote, démarré lundi, sera proclamé vers 14 heures.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "da023a5a8a1a",
    "titre": "Au Bangladesh, les ouvriers du textile, secteur clé de l’économie nationale, obtiennent une revalorisation du salaire minimum",
    "lien": "https://www.lemonde.fr/international/article/2026/11/25/au-bangladesh-les-ouvriers-du-textile-secteur-cle-de-l-economie-nationale-obtiennent-une-revalorisation-du-salaire-minimum_6815049_3210.html",
@@ -110,6 +287,19 @@
    "date": "2026-11-25T05:15:02+00:00",
    "extrait": "Privé de deux de ses meilleurs atouts offensifs jusqu'à la fin du printemps a minima, l'entraîneur espagnol préfère considérer la situation comme un \"beau défi à relever\" plutôt que comme un coup dur.",
    "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "9fd50e8b4ebc",
+   "titre": "Pour réduire les émissions de méthane de son bétail, la Nouvelle-Zélande s’en remet entièrement à la technologie",
+   "lien": "https://www.lemonde.fr/planete/article/2026/11/25/pour-reduire-les-emissions-de-methane-de-son-betail-la-nouvelle-zelande-s-en-remet-entierement-a-la-technologie_6815047_3244.html",
+   "source": "Le Monde",
+   "date": "2026-11-25T05:00:36+00:00",
+   "extrait": "Dans l’archipel, où 53 % des émissions de gaz à effet de serre proviennent du méthane produit par le monde agricole, les autorités, qui ont abandonné l’idée d’une taxe, misent sur la recherche pour…",
+   "tags": [
+    "Économie",
+    "Tech"
+   ],
    "zone": "france"
   },
   {
@@ -202,18 +392,6 @@
    "zone": "usa"
   },
   {
-   "id": "e7960cb79109",
-   "titre": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
-   "lien": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-25T04:49:55+00:00",
-   "extrait": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
    "id": "69f9cadb6c64",
    "titre": "Martin Schulze Wessel, historien : « Le soutien financier à l’Ukraine est modeste comparé aux dommages qui résulteraient d’une victoire de la Russie »",
    "lien": "https://www.lemonde.fr/idees/article/2026/11/25/martin-schulze-wessel-historien-le-soutien-financier-a-l-ukraine-est-modeste-compare-aux-dommages-qui-resulteraient-d-une-victoire-de-la-russie_6815039_3232.html",
@@ -226,14 +404,16 @@
    "zone": "france"
   },
   {
-   "id": "10a3fcdd61eb",
-   "titre": "Kilmar Abrego Garcia leaves U.S. for Spain",
-   "lien": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/",
-   "source": "CBS News",
-   "date": "2026-11-25T04:37:00+00:00",
-   "extrait": "Kilmar Abrego Garcia, the El Salvador native who was mistakenly deported last year, left the U.S. for Spain on Tuesday, the Department of Homeland Security confirmed.",
-   "tags": [],
-   "zone": "usa"
+   "id": "008d1c9a0076",
+   "titre": "Mobilisation lycéenne : l’inspection générale de l’éducation nationale livre une première analyse du mouvement et formule des recommandations pour sortir de la crise",
+   "lien": "https://www.lemonde.fr/education/article/2026/11/25/mobilisation-lyceenne-l-inspection-generale-de-l-education-nationale-livre-une-premiere-analyse-du-mouvement-et-formule-des-recommandations-pour-sortir-de-la-crise_6815037_1473685.html",
+   "source": "Le Monde",
+   "date": "2026-11-25T04:45:11+00:00",
+   "extrait": "Après plusieurs semaines de passes d’armes politiques sur la nature et les ressorts du mouvement, les inspecteurs ont remis, mardi, au ministre Edouard Geffray un rapport sur l’évolution de la…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
   },
   {
    "id": "1b542176baf8",
@@ -252,7 +432,7 @@
    "titre": "Présidentielle 2027 : LFI, force d’attraction à gauche",
    "lien": "https://www.lemonde.fr/politique/article/2026/11/25/presidentielle-2027-lfi-force-d-attraction-a-gauche_6815035_823448.html",
    "source": "Le Monde",
-   "date": "2026-11-25T04:29:29+00:00",
+   "date": "2026-11-25T04:29:28+00:00",
    "extrait": "Après la majorité du groupe communiste à l’Assemblée nationale, puis la secrétaire nationale des Ecologistes, Marine Tondelier, le parti Génération.s apporte, à son tour, son soutien à Jean-Luc…",
    "tags": [
     "Politique"
@@ -310,7 +490,7 @@
    "lien": "https://www.france24.com/fr/moyen-orient/20261125-yemen-arabie-saoudite-attaque-hodeida-houthis-menacent-represailles",
    "source": "France 24",
    "date": "2026-11-25T03:22:42+00:00",
-   "extrait": "La coalition militaire dirigée par l'Arabie saoudite a confirmé mercredi avoir \"visé des capacités opérationnelles dans le port de Hodeïda\", au Yémen. Les Houthis menacent de représailles contre \"le…",
+   "extrait": "La coalition militaire dirigée par l'Arabie saoudite a confirmé, mercredi, avoir \"visé des capacités opérationnelles dans le port de Hodeïda\", au Yémen. Les Houthis menacent de représailles contre…",
    "tags": [
     "Conflits"
    ],
@@ -353,6 +533,16 @@
    "zone": "usa"
   },
   {
+   "id": "d2e5417e39d3",
+   "titre": "A Londres, l’inquiétant délabrement des ponts et du palais de Westminster",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/25/a-londres-l-inquietant-delabrement-des-ponts-et-du-palais-de-westminster_6814966_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-25T02:00:03+00:00",
+   "extrait": "Outrages du temps, intempéries, circulation toujours plus dense… Seuls six ponts sur les trente que compte la capitale britannique sont en bon état. Mais ils pâtissent surtout d’un manque chronique…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "b3fe328704e5",
    "titre": "Lies, a disguise and surfboard bags: how a jealous Sydney policeman tried to cover up double murder",
    "lien": "https://www.bbc.co.uk/news/articles/cmrrg749d02do?at_medium=RSS&at_campaign=rss",
@@ -389,7 +579,7 @@
   },
   {
    "id": "91c79ba84578",
-   "titre": "Thomas Markle indicted in US for possessing child sex abuse images",
+   "titre": "Thomas Markle charged in US for possessing child sex abuse images",
    "lien": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-25T01:40:42+00:00",
@@ -490,6 +680,18 @@
    "extrait": "The Vatican has released excerpts from Pope Francis' diary, revealing claims that the pontiff had visions of the devil and, at one time, saw the gates of Hell. Candida Moss, a biblical scholar…",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "7b396d8d4767",
+   "titre": "With Huang rescue, Trump riskily ties his political fortunes to Nvidia",
+   "lien": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-25T01:03:05+00:00",
+   "extrait": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
   },
   {
    "id": "7f6a68b60497",
@@ -886,7 +1088,7 @@
   },
   {
    "id": "fb73af223456",
-   "titre": "L’influenceur Tibo InShape dépose plainte après une action devant son domicile revendiquée par un groupuscule identitaire",
+   "titre": "L’influenceur Tibo InShape dépose plainte à la suite d’une action devant son domicile revendiquée par un groupuscule identitaire",
    "lien": "https://www.lemonde.fr/pixels/article/2026/11/25/l-influenceur-tibo-inshape-depose-plainte-apres-une-action-devant-son-domicile-revendiquee-par-un-groupuscule-identitaire_6814900_4408996.html",
    "source": "Le Monde",
    "date": "2026-11-24T23:20:22+00:00",
@@ -1230,7 +1432,7 @@
    "titre": "« GTA VI » piraté : comment des hackeurs assistés par IA font la course pour adapter le jeu vidéo sur PC",
    "lien": "https://www.lemonde.fr/pixels/article/2026/11/24/gta-vi-pirate-comment-des-hackeurs-assistes-par-ia-font-la-course-pour-adapter-le-jeu-video-sur-pc_6814851_4408996.html",
    "source": "Le Monde",
-   "date": "2026-11-24T20:48:06+00:00",
+   "date": "2026-11-24T20:48:04+00:00",
    "extrait": "Des communautés de bidouilleurs travaillent à rendre le jeu de Rockstar Games, disponible uniquement sur console, jouable sur PC. Les pirates de Cyberleek, qui ont illégalement diffusé une version…",
    "tags": [
     "Tech"
@@ -1285,7 +1487,7 @@
    "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/une-enquete-ouverte-pour-tentative-de-meurtre-sur-un-adolescent-a-paris-lors-de-la-manifestation-du-17-octobre_8298381.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-11-24T20:24:27+00:00",
-   "extrait": "Le projectile reçu par cet adolescent a \"atteint le poumon\", selon le parquet. \"Les investigations - nombreuses - sont en cours afin d'identifier l'auteur du tir\", précise-t-il.",
+   "extrait": "Le projectile reçu par cet adolescent a \"atteint le poumon\", selon le parquet. \"Les investigations – nombreuses – sont en cours afin d'identifier l'auteur du tir\", précise-t-il.",
    "tags": [
     "Justice"
    ],
@@ -1875,15 +2077,12 @@
   },
   {
    "id": "7f1ea7585a52",
-   "titre": "Colombie : une prise d'otages est en cours dans la ville touristique de Carthagène",
+   "titre": "Colombie : les forces de l'ordre sont entrées sur le lieu de la prise d'otages",
    "lien": "https://www.france24.com/fr/am%C3%A9riques/20261124-colombie-prise-otages-cours-ville-touristique-carthag%C3%A8ne",
    "source": "France 24",
    "date": "2026-11-24T17:17:36+00:00",
-   "extrait": "L'armée a été appelée à la rescousse mardi en Colombie après qu'une trentaine de personnes ont été prises en otage dans un supermarché de la ville touristique de Carthagène. Dix personnes ont été…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
+   "extrait": "Mardi, une trentaine de personnes ont été prises en otage dans la ville touristique de Carthagène, en Colombie. Dix personnes ont été relâchées dans la soirée. Mercredi matin, les forces de l'ordre…",
+   "tags": [],
    "zone": "monde"
   },
   {
@@ -3245,197 +3444,6 @@
    "source": "franceinfo",
    "date": "2026-11-24T13:24:18+00:00",
    "extrait": "Reportée de 24 heures, la fusée Ariane 6 a finalement accompli sa mission après un lancement à 8h14 ce mardi 24 novembre. Près de quarante satellites d'Amazon Leo ont été envoyés dans l'espace…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "4198fe1b89cc",
-   "titre": "Eye Opener: Storms threaten both coasts during holiday week",
-   "lien": "https://www.cbsnews.com/video/eye-opener-storms-threaten-both-coasts-during-holiday-week/",
-   "source": "CBS News",
-   "date": "2026-11-24T13:23:02+00:00",
-   "extrait": "Both coasts are bracing for severe storms ahead of the Thanksgiving holiday. All that and all that matters in today's Eye Opener.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "e62e4e2c60c0",
-   "titre": "Le retour du Royaume-Uni dans l'Union européenne ?",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20261124-le-retour-du-royaume-uni-dans-l-union-europ%C3%A9enne",
-   "source": "France 24",
-   "date": "2026-11-24T13:22:31+00:00",
-   "extrait": "C’est une petite musique qui monte de l'autre côté de la Manche. Et si le Royaume Uni revenait dans l’Union européenne ? La question a été clairement posée par le Premier ministre Andy Burnham. Pour…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "f3febd47c289",
-   "titre": "Malgré un nombre de malades du sida en baisse, l'ONU alerte sur les difficultés financières pour la recherche et la prévention",
-   "lien": "https://www.franceinfo.fr/sante/sida/malgre-un-nombre-de-malades-du-sida-en-baisse-l-onu-alerte-sur-les-difficultes-financieres-pour-la-recherche-et-la-prevention_8297634.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-24T13:21:28+00:00",
-   "extrait": "Selon l'Onusida, les programmes de lutte contre le VIH ont subi une diminution de 18% de leurs financements internationaux en 2025. L'essentiel des coupes budgétaires concerne l'Afrique, la région…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "b212caa356c1",
-   "titre": "How to manage 'buy now, pay later' during the holidays",
-   "lien": "https://www.cbsnews.com/news/how-to-manage-buy-now-pay-later-during-holidays/",
-   "source": "CBS News",
-   "date": "2026-11-24T13:19:30+00:00",
-   "extrait": "Thinking about using a \"buy now, pay later\" option this holiday season? Here's what to consider before you do.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "3b17444c3de7",
-   "titre": "How much interest can a $40,000 CD account earn in 2027?",
-   "lien": "https://www.cbsnews.com/news/how-much-interest-can-a-40000-cd-account-earn-2027/",
-   "source": "CBS News",
-   "date": "2026-11-24T13:19:09+00:00",
-   "extrait": "Want to protect your $40,000 with a high, fixed-rate CD account? Here's how much interest you'd earn by doing so.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "862265e55a25",
-   "titre": "\"Les gens pensent qu'elles sont réelles\" : sur les réseaux sociaux, de fausses humoristes générées par IA volent les blagues de vraies stand-uppeuses",
-   "lien": "https://www.franceinfo.fr/internet/intelligence-artificielle/les-gens-pensent-qu-elles-sont-reelles-sur-les-reseaux-sociaux-de-fausses-humoristes-generees-par-ia-volent-les-blagues-de-vraies-stand-uppeuses_8297454.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-24T13:13:05+00:00",
-   "extrait": "Plusieurs humoristes dénoncent le plagiat de leurs blagues par de faux comédiens, générés par intelligence artificielle et dont les vidéos cartonnent en ligne.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "d720bfa36069",
-   "titre": "\"Il y a un déficit important de radiologues\" : le Royaume-Uni lance une expérimentation de dépistage du cancer du sein à grande échelle assistée par l'IA",
-   "lien": "https://www.franceinfo.fr/sante/cancer/il-y-a-un-deficit-important-de-radiologues-le-royaume-uni-lance-une-experimentation-de-depistage-du-cancer-du-sein-a-grande-echelle-assistee-par-l-ia_8297310.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-24T13:07:33+00:00",
-   "extrait": "Près de 700 000 femmes devraient participer à un dépistage de cancers du sein grâce à l'intelligence artificielle. Le NHS, l’hôpital public britannique, espère améliorer ainsi les diagnostics alors…",
-   "tags": [
-    "Santé",
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "727d7379eaca",
-   "titre": "La grande mosquée de Paris a-t-elle sauvé \"1 500 enfants juifs\" sous l'Occupation ?",
-   "lien": "https://www.france24.com/fr/france/20261124-grande-mosqu%C3%A9e-paris-sauvetage-1-500-enfants-juifs-sous-occupation-seconde-guerre-mondiale",
-   "source": "France 24",
-   "date": "2026-11-24T13:05:57+00:00",
-   "extrait": "Le 18 novembre, l'ancienne ministre Yamina Benguigui a déclaré que \"plus de 1 500 enfants juifs\" avaient été sauvés par la grande mosquée de Paris pendant la Seconde Guerre mondiale. Si plusieurs…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "8f2182ab3d32",
-   "titre": "Gabon : résurgence des diarrhées infantiles avec la saison des pluies",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261124-gabon-r%C3%A9surgence-des-diarrh%C3%A9es-infantiles-avec-la-saison-des-pluies",
-   "source": "France 24",
-   "date": "2026-11-24T13:05:44+00:00",
-   "extrait": "🇬🇦 À Libreville, le retour des pluies s’accompagne d’une hausse des cas de diarrhée chez les nourrissons. Dans la capitale gabonaise, de nombreux bébés arrivent dans les hôpitaux en état de…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "e0ad50076624",
-   "titre": "Chine : à Shanghai, le chef du Parti communiste visé par une enquête pour des soupçons de corruption",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/24/chine-a-shanghai-le-chef-du-parti-communiste-vise-par-une-enquete-pour-des-soupcons-de-corruption_6814768_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-24T13:02:08+00:00",
-   "extrait": "Egalement membre du bureau politique du Parti communiste chinois, Chen Jining est le quatrième responsable de l’instance dirigeante à faire l’objet d’une enquête depuis le début de son mandat…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c1eaa2db9d8f",
-   "titre": "Assurance-vie : que penser des fonds euros nouvelle génération ?",
-   "lien": "https://www.lemonde.fr/argent/article/2026/11/24/assurance-vie-que-penser-des-fonds-euros-nouvelle-generation_6814767_1657007.html",
-   "source": "Le Monde",
-   "date": "2026-11-24T13:00:11+00:00",
-   "extrait": "Trois familles de produits, aux fonctionnements bien spécifiques, ciblant davantage de rendement, sont apparues, moyennant une plus grande sophistication de leur moteur de performance.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "fa2dbb764410",
-   "titre": "Gaza : le responsable de la sécurité intérieure du Hamas, Naeem Abou Nahal, tué dans un bombardement israélien",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/24/gaza-le-responsable-de-la-securite-interieure-du-hamas-naeem-abou-nahal-tue-dans-un-bombardement-israelien_6814764_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-24T12:52:10+00:00",
-   "extrait": "Mardi, sept personnes ont été tuées dans plusieurs bombardements israéliens sur l’enclave palestinienne, selon les bilans partagés par la défense civile, organisation de premiers secours opérant…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "a5d5b5c10352",
-   "titre": "Russian governor detained in rare criminal case against regional leader",
-   "lien": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-24T12:45:43+00:00",
-   "extrait": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "ce01bfbfd876",
-   "titre": "Le chef de la sécurité intérieure du Hamas tué à Gaza dans une frappe israélienne",
-   "lien": "https://www.france24.com/fr/moyen-orient/20261124-chef-s%C3%A9curit%C3%A9-int%C3%A9rieure-hamas-tu%C3%A9-gaza-frappe-israel-netanyahu",
-   "source": "France 24",
-   "date": "2026-11-24T12:36:29+00:00",
-   "extrait": "Le responsable de la sécurité intérieure du Hamas dans la bande de Gaza a été tué mardi par une frappe israélienne, a annoncé le ministère de l'Intérieur du territoire, l'armée israélienne affirmant…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "61352df18754",
-   "titre": "Thomas Pesquet raconte l'espace aux enfants",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261124-thomas-pesquet-raconte-l-espace-aux-enfants",
-   "source": "France 24",
-   "date": "2026-11-24T12:25:46+00:00",
-   "extrait": "L'astronaute français de l'Agence spatiale européenne, auteur de \"L'espace en 100 questions\", Thomas Pesquet, se prépare à une troisième mission dans l'espace en 2027, une mission \"sprint\" comme il…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "9281d6b4e9a6",
-   "titre": "Pesticides : le Parlement européen reporte à 2027 le vote sur une loi visant à assouplir leur réglementation",
-   "lien": "https://www.lemonde.fr/planete/article/2026/11/24/pesticides-le-parlement-europeen-reporte-a-2027-le-vote-sur-une-loi-visant-a-assouplir-leur-reglementation_6814759_3244.html",
-   "source": "Le Monde",
-   "date": "2026-11-24T12:22:13+00:00",
-   "extrait": "Les eurodéputés devaient voter en décembre sur ce paquet législatif baptisé Omnibus X, qui prévoit notamment des autorisations illimitées pour une partie des pesticides, en raison d’un embouteillage…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "51d33b080be8",
-   "titre": "\"L'objectif n'est pas de se couper de la Chine, mais d'augmenter notre résilience\", selon le délégué interministériel Benjamin Gallezot",
-   "lien": "https://www.franceinfo.fr/economie/industrie/stocks-strategiques-de-terres-rares-et-metaux-l-objectif-n-est-pas-de-se-couper-de-la-chine-mais-d-augmenter-notre-resilience-selon-un-specialiste_8297661.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-24T12:20:45+00:00",
-   "extrait": "Lundi, l'Élysée a confirmé que la France se doterait de \"stocks stratégiques\" de \"terres rares et certains métaux prioritaires\" inspirés des réserves qui existent pour le pétrole, afin de pallier…",
    "tags": [],
    "zone": "france"
   }

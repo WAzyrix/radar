@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-25T06:05:39+00:00",
+ "maj": "2026-11-25T07:05:43+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,47 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "be8229fa8688",
+   "titre": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
+   "lien": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
+   "source": "The Hacker News",
+   "date": "2026-11-25T06:50:19+00:00",
+   "extrait": "An unknown threat actor has been using artificial intelligence (AI)-driven offensive tooling in a campaign targeting Check Point Security Management servers, impacting 22 distinct organizations…",
+   "tags": [
+    "Fuite de données",
+    "IA"
+   ]
+  },
+  {
+   "id": "7a5ea8907df3",
+   "titre": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion",
+   "lien": "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html",
+   "source": "The Hacker News",
+   "date": "2026-11-25T06:37:06+00:00",
+   "extrait": "Palo Alto Networks Unit 42 has disclosed that it's tracking and has responded to \"numerous waves of vishing attacks\" orchestrated by Com-affiliated threat actors since August 2026 that have led to…",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
+  {
+   "id": "d52512d72b3d",
+   "titre": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
+   "lien": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html",
+   "source": "The Hacker News",
+   "date": "2026-11-25T06:21:12+00:00",
+   "extrait": "WordPress has removed six WordPress plugins developed by WP Connect after they were backdoored on November 22, 2026, to enable arbitrary code execution on sites that have them installed, following a…",
+   "tags": []
+  },
+  {
+   "id": "7f46708137a6",
+   "titre": "FF8 Reborn - Le mod qui passe Final Fantasy VIII en 16:9",
+   "lien": "https://korben.info/ff8-reborn-final-fantasy-viii-remastered.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-25T06:19:03+00:00",
+   "extrait": "FF8 Reborn, un mod gratuit de fan, fait viser 60 ou 120 FPS à Final Fantasy VIII Remastered sur PC et élargit combats et carte du monde. Ce que valent ces images calculées, ce qui reste en 4:3, et…",
+   "tags": []
+  },
   {
    "id": "6c270107d398",
    "titre": "Rackspace shuts down Spot cloud platform after security breach",
@@ -3307,50 +3348,6 @@
    "extrait": "Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier this week. No…",
    "tags": [
     "Faille"
-   ]
-  },
-  {
-   "id": "8c37ef3c2776",
-   "titre": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
-   "lien": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
-   "source": "The Hacker News",
-   "date": "2026-11-16T12:33:18+00:00",
-   "extrait": "Cybersecurity researchers have disclosed details of a new variant of CoffeeLoader, a malware designed to deliver additional payloads to infected machines. \"On launch, the NSIS-based installer…",
-   "tags": [
-    "Malware"
-   ]
-  },
-  {
-   "id": "7a50b6f63907",
-   "titre": "Australian retail giant Coles investigates cybersecurity incident",
-   "lien": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
-   "source": "BleepingComputer",
-   "date": "2026-11-16T11:18:09+00:00",
-   "extrait": "Coles Group Limited, Australia's second-largest retailer, is investigating what it described as a \"cyber security incident\" that has not impacted the company's stores. [...]",
-   "tags": []
-  },
-  {
-   "id": "b9812e4ced01",
-   "titre": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
-   "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/",
-   "source": "BleepingComputer",
-   "date": "2026-11-16T11:00:00+00:00",
-   "extrait": "Anthropic recently rolled out Claude Mythos 5.2 to selected partners and Fable 5.2 to regular users, with improvements to coding and reasoning. But we also noticed some interesting cybersecurity…",
-   "tags": [
-    "Faille",
-    "IA"
-   ]
-  },
-  {
-   "id": "f0b3319bef62",
-   "titre": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
-   "lien": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
-   "source": "The Hacker News",
-   "date": "2026-11-16T09:32:57+00:00",
-   "extrait": "A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the readings used to detect high GPU…",
-   "tags": [
-    "Malware",
-    "Linux"
    ]
   }
  ]
