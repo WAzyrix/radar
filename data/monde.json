@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-25T02:05:41+00:00",
+ "maj": "2026-11-25T03:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,15 +22,38 @@
  "erreurs": [],
  "articles": [
   {
-   "id": "7d1b5203fed8",
-   "titre": "Fort Hood shooter Nidal Hasan will petition to delay his execution",
-   "lien": "https://www.cbsnews.com/news/nidal-hasan-delay-execution-petition/",
-   "source": "CBS News",
-   "date": "2026-11-25T01:49:56+00:00",
-   "extrait": "Nidal Hasan, the Army soldier who fatally shot 13 people in the attack at the Texas Army post in 2009, told a federal court Tuesday that he plans to file a petition to delay his execution by firing…",
+   "id": "ad056cd7373c",
+   "titre": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+   "lien": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-25T02:59:27+00:00",
+   "extrait": "The verdict follows a months-long trial in New York.",
    "tags": [
-    "Conflits",
     "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "1b542176baf8",
+   "titre": "Maps show how far lead dust from Iowa detonation could travel",
+   "lien": "https://www.cbsnews.com/news/maps-show-how-far-lead-dust-from-about-5-tons-of-iowa-explosives-could-spread/",
+   "source": "CBS News",
+   "date": "2026-11-25T02:22:30+00:00",
+   "extrait": "Maps of the planned lead azide detonation in Middletown show the shaded area stretching from near Burlington toward Macon, Missouri, by noon Wednesday. The forecasts will change with the weather.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "0f0fc12e2eb6",
+   "titre": "Iran developing chemical weapons, Israeli defense minister says",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+   "source": "CBS News",
+   "date": "2026-11-25T02:14:28+00:00",
+   "extrait": "Israeli Defense Minister Israel Katz said Iran was developing chemical weapons and left open the possibility of preemptive strikes if necessary.",
+   "tags": [
+    "Conflits"
    ],
    "zone": "usa"
   },
@@ -45,6 +68,31 @@
     "Justice"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "7d1b5203fed8",
+   "titre": "Fort Hood shooter Nidal Hasan will petition to delay his execution",
+   "lien": "https://www.cbsnews.com/news/nidal-hasan-delay-execution-petition/",
+   "source": "CBS News",
+   "date": "2026-11-25T01:49:00+00:00",
+   "extrait": "Nidal Hasan, the Army soldier who fatally shot 13 people in the attack at the Texas Army post in 2009, told a federal court Tuesday that he plans to file a petition to delay his execution by firing…",
+   "tags": [
+    "Conflits",
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "82653171d594",
+   "titre": "Le père de Meghan Markle formellement inculpé en Californie pour détention d’images pédocriminelles",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/25/le-pere-de-meghan-markle-formellement-inculpe-en-californie-pour-detention-d-images-pedocriminelles_6814934_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-25T01:45:34+00:00",
+   "extrait": "Actuellement détenu en Floride après avoir retiré le bracelet électronique qu’il devait porter pour son assignation à résidence, Thomas Markle doit comparaître devant un tribunal fédéral de Los…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
   },
   {
    "id": "7bf25d9e113a",
@@ -105,18 +153,6 @@
    "zone": "usa"
   },
   {
-   "id": "ad056cd7373c",
-   "titre": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-   "lien": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-25T01:11:57+00:00",
-   "extrait": "The verdict follows a months-long trial in New York.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
    "id": "d64c615473d6",
    "titre": "Angola inmates speak out against non-unanimous jury convictions",
    "lien": "https://www.cbsnews.com/news/non-unanimous-juries-louisiana-convictions/",
@@ -148,18 +184,6 @@
    "date": "2026-11-25T01:04:51+00:00",
    "extrait": "The Vatican has released excerpts from Pope Francis' diary, revealing claims that the pontiff had visions of the devil and, at one time, saw the gates of Hell. Candida Moss, a biblical scholar…",
    "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "1b542176baf8",
-   "titre": "Maps show how far lead dust from Iowa detonation could travel",
-   "lien": "https://www.cbsnews.com/news/maps-show-how-far-lead-dust-from-about-5-tons-of-iowa-explosives-could-spread/",
-   "source": "CBS News",
-   "date": "2026-11-25T01:01:06+00:00",
-   "extrait": "Maps of the planned lead azide detonation in Middletown show the shaded area stretching from near Burlington toward Macon, Missouri, by noon Wednesday. The forecasts will change with the weather.",
-   "tags": [
-    "Climat"
-   ],
    "zone": "usa"
   },
   {
@@ -474,18 +498,6 @@
    "zone": "usa"
   },
   {
-   "id": "0f0fc12e2eb6",
-   "titre": "Iran developing chemical weapons, Israeli defense minister says",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
-   "source": "CBS News",
-   "date": "2026-11-24T23:33:15+00:00",
-   "extrait": "Israeli Defense Minister Israel Katz said Iran was developing chemical weapons and left open the possibility of preemptive strikes if necessary.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "9fa660579843",
    "titre": "Blanche refuses to say if DOJ investigated Jensen Huang, Capitol Hill testimony still scheduled",
    "lien": "https://www.cbsnews.com/video/blanche-refuses-to-say-if-doj-investigated-jensen-huang-capitol-hill-testimony-still-scheduled/",
@@ -506,6 +518,18 @@
    "extrait": "Ce mercredi marque la journée internationale pour l’élimination de la violence à l’égard des femmes. Malgré des progrès importants au cours des 30 dernières années, les stéréotypes restent…",
    "tags": [],
    "zone": "monde"
+  },
+  {
+   "id": "4a9ce8a0162b",
+   "titre": "11/24: CBS Evening News",
+   "lien": "https://www.cbsnews.com/video/112426-cbs-evening-news/",
+   "source": "CBS News",
+   "date": "2026-11-24T23:30:00+00:00",
+   "extrait": "Severe weather threatens Thanksgiving travel; U.S. spy agencies hit with cybersecurity breach.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "usa"
   },
   {
    "id": "fb73af223456",
@@ -549,7 +573,9 @@
    "source": "France 24",
    "date": "2026-11-24T23:01:24+00:00",
    "extrait": "Un jury fédéral a reconnu coupable, mardi à New York, le groupe chinois Huawei de fraude bancaire et de vol de secrets industriels. Le groupe était notamment accusé d'avoir tenté de recruter des…",
-   "tags": [],
+   "tags": [
+    "Justice"
+   ],
    "zone": "monde"
   },
   {
@@ -3401,28 +3427,6 @@
    "tags": [
     "Climat"
    ],
-   "zone": "france"
-  },
-  {
-   "id": "fc3047a3f321",
-   "titre": "L’UE limite les importations de voitures hybrides en provenance de Chine, comme convenu le mois dernier avec Pékin",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/24/l-ue-limite-les-importations-de-voitures-hybrides-en-provenance-de-chine-comme-convenu-le-mois-dernier-avec-pekin_6814744_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-24T10:26:41+00:00",
-   "extrait": "La Chine a accepté, en octobre, de plafonner à 350 000 par an le nombre de véhicules qu’elle peut exporter vers l’UE, qui accusait ses industriels d’inonder le marché européen avec des modèles bon…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "b09bb166f7d2",
-   "titre": "« Le Journal spirituel du pape François » dévoile trente-deux années de réflexions du Saint-Père argentin",
-   "lien": "https://www.lemonde.fr/le-monde-des-religions/article/2026/11/24/le-journal-spirituel-du-pape-francois-devoile-trente-deux-annees-de-reflexions-du-saint-pere-argentin_6814741_6038514.html",
-   "source": "Le Monde",
-   "date": "2026-11-24T10:10:54+00:00",
-   "extrait": "Un petit carnet de notes de l’ancien souverain pontife fait l’objet d’une sortie mondiale. L’édition française, publiée par Albin Michel, sera disponible le 25 novembre.",
-   "tags": [],
    "zone": "france"
   }
  ]
