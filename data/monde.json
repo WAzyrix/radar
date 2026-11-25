@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-25T03:05:39+00:00",
+ "maj": "2026-11-25T04:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,52 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "ca6bd074c97c",
+   "titre": "US attorney general dodges questions about Nvidia investigation",
+   "lien": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-25T03:44:07+00:00",
+   "extrait": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "506d602e7e02",
+   "titre": "Au Yémen, l'Arabie saoudite attaque Hodeïda, les Houthis menacent de représailles",
+   "lien": "https://www.france24.com/fr/moyen-orient/20261125-yemen-arabie-saoudite-attaque-hodeida-houthis-menacent-represailles",
+   "source": "France 24",
+   "date": "2026-11-25T03:22:42+00:00",
+   "extrait": "La coalition militaire dirigée par l'Arabie saoudite a confirmé mercredi avoir \"visé des capacités opérationnelles dans le port de Hodeïda\", au Yémen. Les Houthis menacent de représailles contre \"le…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "10a3fcdd61eb",
+   "titre": "Kilmar Abrego Garcia leaving U.S. today for Spain",
+   "lien": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/",
+   "source": "CBS News",
+   "date": "2026-11-25T03:18:47+00:00",
+   "extrait": "Kilmar Abrego Garcia, the El Salvador native who was mistakenly deported last year, is planning to leave the U.S. for Spain on Tuesday, according to multiple U.S. officials.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "13584c5725ee",
+   "titre": "Ukraine en direct : deux militaires libyens tués dans les attaques de navires russes à Benghazi",
+   "lien": "https://www.france24.com/fr/europe/20261125-en-direct-ukraine-russie-libye-benghazi-union-europeenne-zelensky-poutine",
+   "source": "France 24",
+   "date": "2026-11-25T03:02:35+00:00",
+   "extrait": "Deux militaires libyens ont succombé à leurs blessures à la suite des attaques contre des navires russes à Benghazi en Libye le 22 novembre, revendiquées par l'Ukraine, ont annoncé dans la nuit de…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
   {
    "id": "ad056cd7373c",
    "titre": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
@@ -375,16 +421,6 @@
    "tags": [
     "Politique"
    ],
-   "zone": "usa"
-  },
-  {
-   "id": "10a3fcdd61eb",
-   "titre": "Kilmar Abrego Garcia leaving U.S. today for Spain, sources say",
-   "lien": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/",
-   "source": "CBS News",
-   "date": "2026-11-25T00:24:34+00:00",
-   "extrait": "Kilmar Abrego Garcia, the El Salvador native who was mistakenly deported last year, is planning to leave the U.S. for Spain on Tuesday, according to multiple U.S. officials.",
-   "tags": [],
    "zone": "usa"
   },
   {
@@ -770,18 +806,6 @@
     "Justice"
    ],
    "zone": "france"
-  },
-  {
-   "id": "ca6bd074c97c",
-   "titre": "US attorney general dodges questions about Nvidia investigation",
-   "lien": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-24T21:19:42+00:00",
-   "extrait": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
   },
   {
    "id": "b5cd0a714d58",
@@ -1483,8 +1507,11 @@
    "lien": "https://www.france24.com/fr/am%C3%A9riques/20261124-colombie-prise-otages-cours-ville-touristique-carthag%C3%A8ne",
    "source": "France 24",
    "date": "2026-11-24T17:17:36+00:00",
-   "extrait": "Une trentaine de personnes ont été prises en otage mardi dans un supermarché de la ville touristique de Carthagène. Sur les réseaux sociaux, des vidéos montrent des personnes agenouillées à…",
-   "tags": [],
+   "extrait": "L'armée a été appelée à la rescousse mardi en Colombie après qu'une trentaine de personnes ont été prises en otage dans un supermarché de la ville touristique de Carthagène. Dix personnes ont été…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
    "zone": "monde"
   },
   {
@@ -3402,32 +3429,6 @@
     "Justice"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "f028f3c6f152",
-   "titre": "Nvidia : le retour de Jensen Huang ouvre un nouveau chapitre incertain",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261124-nvidia-le-retour-de-jensen-huang-ouvre-un-nouveau-chapitre-incertain",
-   "source": "France 24",
-   "date": "2026-11-24T10:33:48+00:00",
-   "extrait": "La décision surprise du conseil d'administration de Nvidia de rappeler lundi Jensen Huang à la direction du géant américain des puces a stabilisé, à court terme, l'entreprise, mais aussi les marchés…",
-   "tags": [
-    "Économie",
-    "Justice",
-    "Tech"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "17339efb4239",
-   "titre": "Arnaque aux sentiments : la banque doit-elle rembourser la victime ?",
-   "lien": "https://www.lemonde.fr/argent/article/2026/11/24/arnaque-aux-sentiments-la-banque-doit-elle-rembourser-la-victime_6814746_1657007.html",
-   "source": "Le Monde",
-   "date": "2026-11-24T10:30:01+00:00",
-   "extrait": "Une veuve ayant versé 23 800 euros à un interlocuteur virtuel reproche à son banquier un manque de vigilance face à une anomalie apparente.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
   }
  ]
 }
