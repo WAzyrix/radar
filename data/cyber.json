@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-25T09:14:31+00:00",
+ "maj": "2026-11-25T10:05:45+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,29 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "001009148739",
+   "titre": "LinuxPDF - Quand Linux se lance dans un PDF",
+   "lien": "https://korben.info/linuxpdf-linux-dans-un-pdf.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-25T09:25:14+00:00",
+   "extrait": "LinuxPDF fait démarrer un vrai Linux RISC-V dans un fichier PDF ouvert dans Chrome, avec le JavaScript prévu par la norme PDF. Ça marche encore, mais comptez une bonne quarantaine de secondes de…",
+   "tags": [
+    "Linux"
+   ]
+  },
+  {
+   "id": "916629091cfd",
+   "titre": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
+   "lien": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
+   "source": "The Hacker News",
+   "date": "2026-11-25T09:06:59+00:00",
+   "extrait": "An attacker ran operating system commands on Monday on six production servers of Hex.pm, the package registry that Elixir and Erlang developers fetch their dependencies from. The flaw used in the…",
+   "tags": [
+    "Faille",
+    "Fuite de données"
+   ]
+  },
   {
    "id": "00f16364aca5",
    "titre": "Microsoft confirms authentication issues after November updates",
@@ -3325,24 +3348,6 @@
    "tags": [
     "Fuite de données"
    ]
-  },
-  {
-   "id": "08472fc199a1",
-   "titre": "Je s’appelle GRU : Ingérence russe soupçonnée d’agir dans les manifestations en France",
-   "lien": "https://www.zataz.com/je-sappelle-gru-ingerence-russe-soupconnee-dagir-dans-les-manifestations-en-france/",
-   "source": "Zataz",
-   "date": "2026-11-16T15:32:06+00:00",
-   "extrait": "Le GRU russe soupçonné d'ingérence dans les manifestations françaises. InformNapalm dévoile ses accusations.",
-   "tags": []
-  },
-  {
-   "id": "1cea14202697",
-   "titre": "7 Tips For Complying with CJIS Password and MFA Requirements",
-   "lien": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
-   "source": "BleepingComputer",
-   "date": "2026-11-16T15:01:11+00:00",
-   "extrait": "The FBI's latest CJIS Security Policy requires law enforcement agencies to strengthen password protections and enforce MFA across privileged and non-privileged accounts. Specops Software outlines…",
-   "tags": []
   }
  ]
 }

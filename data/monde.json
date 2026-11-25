@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-25T09:14:31+00:00",
+ "maj": "2026-11-25T10:05:45+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -19,8 +19,203 @@
   "Tech",
   "Sport"
  ],
- "erreurs": [],
+ "erreurs": [
+  "France 24"
+ ],
  "articles": [
+  {
+   "id": "e31bf0e0b2bc",
+   "titre": "L'Agence spatiale européenne \"a des projets à proposer aux hommes politiques\" pour assurer l'indépendance spatiale de l'Europe, affirme Thomas Pesquet",
+   "lien": "https://www.franceinfo.fr/sciences/espace/l-agence-spatiale-europeenne-a-des-projets-a-proposer-aux-hommes-politiques-pour-assurer-l-independance-spatiale-de-l-europe-affirme-thomas-pesquet_8299083.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-25T10:02:53+00:00",
+   "extrait": "L'astronaute français, qui se prépare à une mission privée dans l’espace en juillet 2027, était l'invité de France Inter mercredi.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "bebf46e12138",
+   "titre": "Prince William and Kate's country home broken into, 2 arrested",
+   "lien": "https://www.cbsnews.com/news/prince-william-kate-country-home-broken-into-british-media/",
+   "source": "CBS News",
+   "date": "2026-11-25T10:00:31+00:00",
+   "extrait": "Two men were arrested over a suspected burglary at the U.K. royal family's Sandringham Estate, the country residence of Prince William and Catherine, police said.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "42e16bc717fb",
+   "titre": "Army to detonate unstable lead explosives at Iowa plant today",
+   "lien": "https://www.cbsnews.com/news/iowa-army-ammunition-plant-unstable-explosives-detonation/",
+   "source": "CBS News",
+   "date": "2026-11-25T10:00:09+00:00",
+   "extrait": "The U.S. Army will detonate a stockpile of degrading explosives at a munitions plant in Iowa on Wednesday, after days of back-and-forth between politicians and the courts.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "a4cab6a3b720",
+   "titre": "Paperwork, not work, causing enrollees to lose Medicaid in Nebraska",
+   "lien": "https://www.cbsnews.com/news/nebraska-medicaid-work-requirements-paperwork-losses/",
+   "source": "CBS News",
+   "date": "2026-11-25T10:00:08+00:00",
+   "extrait": "Data from the months after Nebraska's early rollout of new Medicaid work mandates offers a look at the challenges enrollees in other states could face.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "6f4d97b4bbe5",
+   "titre": "L'architecte catalan Antoni Gaudí a sacrifié tout son héritage pour construire la Sagrada Familia",
+   "lien": "https://www.franceinfo.fr/monde/espagne/l-architecte-catalan-antoni-gaudi-a-sacrifie-tout-son-heritage-pour-construire-la-sagrada-familia_8297973.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-25T10:00:02+00:00",
+   "extrait": "Père de la Sagrada Familia, l'architecte catalan Antoni Gaudí a légué l'intégralité de son patrimoine personnel pour financer la Sagrada Família, comme le révèle une copie de son testament datant de…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "a1c42564b6fc",
+   "titre": "A quintessential Route 66 diner has been serving up Americana for nearly 100 years",
+   "lien": "https://www.npr.org/2026/11/25/nx-s1-5983717/ariston-cafe-route-66-diner-litchfield-illinois",
+   "source": "NPR",
+   "date": "2026-11-25T10:00:00+00:00",
+   "extrait": "The Ariston Cafe opened its doors in 1924 to serve travelers along Route 66 and has dished up classic American road fare ever since.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "8aa383208df8",
+   "titre": "\"Je suis convaincu que je serai innocenté\" : le tennisman français Arthur Rinderknech conteste avoir refusé de se soumettre à un contrôle antidopage",
+   "lien": "https://www.franceinfo.fr/sports/tennis/je-suis-convaincu-que-je-serai-innocente-arthur-rinderknech-rejette-les-accusations-de-refus-de-se-soumettre-a-un-controle-antidopage_8298981.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-25T09:59:01+00:00",
+   "extrait": "Le journal \"L'Equipe\" a affirmé mardi que le Français de 31 ans \"aurait refusé de se soumettre à un contrôle antidopage inopiné début juin\". Le 57e joueur mondial se dit convaincu qu'il sera exonéré…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "9b0b01735e56",
+   "titre": "Iran denounces U.S. use of AI in war",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
+   "source": "CBS News",
+   "date": "2026-11-25T09:57:06+00:00",
+   "extrait": "Iran's U.N. envoy claims the U.S. military used Palantir and Anthropic AI systems to select some 2,000 targets over just four days.",
+   "tags": [
+    "Conflits",
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "0b01b4582ae6",
+   "titre": "Présidentielle 2027 : \"Travailler avec Eric Zemmour\", comme l'envisage David Lisnard, serait \"une rupture fondamentale avec la droite traditionnelle\" pour Gérald Darmanin",
+   "lien": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-lance-dans-la-course-a-l-elysee-david-lisnard-fixe-dans-la-journee-sur-sa-reelection-a-la-tete-de-l-association-des-maires-de-france_8298708.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-25T09:49:35+00:00",
+   "extrait": "Ce soutien d'Edouard Philippe se demande si le maire de Cannes est là \"pour faire une alliance libérale\" avec un gouvernement RN \"illibéral\".",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "e278f555c247",
+   "titre": "Un second tour Mélenchon-Le Pen à la présidentielle 2027 mettrait la France \"au bord de la guerre civile\", affirme Gérald Darmanin",
+   "lien": "https://www.franceinfo.fr/elections/un-second-tour-melenchon-le-pen-a-la-presidentielle-2027-mettrait-la-france-au-bord-de-la-guerre-civile-affirme-gerald-darmanin_8298966.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-25T09:49:33+00:00",
+   "extrait": "\"Il faut tout faire pour éviter cela\", explique sur France Inter le ministre de la Justice, soutien de la candidature d'Edouard Philippe, qui veut rassembler la droite et le centre, mais en…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "713ecae3b117",
+   "titre": "Le trafic des trains Eurostar entre Londres et Paris fortement perturbé dans les deux sens en raison d'une \"grève imprévue\"",
+   "lien": "https://www.franceinfo.fr/economie/transports/le-trafic-des-trains-eurostar-entre-londres-et-paris-fortement-perturbe-en-raison-d-une-greve-imprevue_8299053.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-25T09:48:33+00:00",
+   "extrait": "La société ferroviaire \"présente ses excuses aux clients pour les désagréments occasionnés\".",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "4e85b765ac0b",
+   "titre": "China investigates Politburo member and Shanghai party chief Chen Jining",
+   "lien": "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party",
+   "source": "NPR",
+   "date": "2026-11-25T09:44:13+00:00",
+   "extrait": "The Politburo member is the latest senior official targeted in President Xi Jinping's long-running anti-corruption campaign, which has shown no signs of letting up in scope or depth.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "d7fb6789e8ba",
+   "titre": "Routes coupées, cours d'eau qui débordent : le point sur les perturbations liées à l'épisode méditerranéen dans le Var",
+   "lien": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/var/saint-tropez/routes-coupees-cours-d-eau-qui-debordent-etat-des-lieux-de-l-episode-mediterraneen-dans-le-var-3455510.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-25T09:43:42+00:00",
+   "extrait": "Un nouvel épisode méditerranéen avec de fortes pluies frappe depuis ce mercredi 25 novembre minuit le département du Var et dans une moindre mesure pour l'instant, les Alpes-Maritimes. Ces deux…",
+   "tags": [
+    "Conflits",
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "6dd5339e436e",
+   "titre": "L’Union européenne veut se doter d’une stratégie industrielle sur l’informatique quantique",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/25/l-union-europeenne-veut-se-doter-d-une-strategie-industrielle-sur-l-informatique-quantique_6815075_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-25T09:39:30+00:00",
+   "extrait": "La Commission a présenté, mercredi 25 novembre, le Quantum Act, un plan qui vise à accélérer le passage à l’usage industriel de cette technologie capable de traiter des quantités de données plus…",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "f0d568b75d14",
+   "titre": "Envoi d’une arme nucléaire russe dans l’espace d’ici deux mois : un risque jugé sérieux",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/25/envoi-d-une-arme-nucleaire-russe-dans-l-espace-d-ici-deux-mois-un-risque-juge-serieux_6815074_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-25T09:30:12+00:00",
+   "extrait": "Identifié depuis longtemps par Washington, le projet russe n’avait, pour le moment, pas de calendrier connu. D’après les éléments rapportés, le satellite russe pouvant emporter une arme nucléaire…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "3d49b100bd90",
+   "titre": "Kilmar Abrego Garcia leaves U.S. voluntarily for Spain",
+   "lien": "https://www.npr.org/2026/11/25/nx-s1-6053203/abrego-garcia-leaves-us",
+   "source": "NPR",
+   "date": "2026-11-25T09:19:50+00:00",
+   "extrait": "Abrego Garcia, a Salvadoran immigrant who became a symbol of Trump's mass deportation campaign, voluntarily left the country on Tuesday after nearly two years of legal battles.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "76c02b2e7e53",
+   "titre": "Laure Lavalette accusée d'antisémitisme : \"Une erreur de jeunesse\", estime Jean-Philippe Tanguy",
+   "lien": "https://www.franceinfo.fr/politique/front-national/laure-lavalette-accusee-d-antisemitisme-une-erreur-de-jeunesse-estime-jean-philippe-tanguy_8298996.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-25T09:12:34+00:00",
+   "extrait": "La porte-parole de la campagne de Marine Le Pen, est accusée par le média \"Les Jours\" d'avoir cautionné des écrits antisémites au sein de son syndicat étudiant dans les années 1990.",
+   "tags": [],
+   "zone": "france"
+  },
   {
    "id": "45d10f3b2e49",
    "titre": "Mère en garde à vue, signalements, enquête ouverte... Ce que l'on sait de la découverte de deux jeunes enfants dans une cave dans les Yvelines",
@@ -34,25 +229,22 @@
    "zone": "france"
   },
   {
-   "id": "d7fb6789e8ba",
-   "titre": "Routes coupées, cours d'eau qui débordent, état des lieux de l'épisode méditerranéen dans le Var",
-   "lien": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/var/saint-tropez/routes-coupees-cours-d-eau-qui-debordent-etat-des-lieux-de-l-episode-mediterraneen-dans-le-var-3455510.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-25T09:09:19+00:00",
-   "extrait": "Un nouvel épisode méditerranéen avec de fortes pluies frappe depuis ce mercredi 25 novembre minuit le département du Var et dans une moindre mesure pour l'instant, les Alpes-Maritimes. Ces deux…",
-   "tags": [
-    "Conflits",
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "00e2e47b8973",
    "titre": "Des féministes rendent hommage aux victimes de féminicides sur la tombe du Soldat inconnu",
    "lien": "https://www.franceinfo.fr/societe/feminicides/des-feministes-rendent-hommage-aux-victimes-de-feminicides-sur-la-tombe-du-soldat-inconnu_8299005.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-11-25T09:06:48+00:00",
    "extrait": "Les militantes ont déployé sous l'Arc de Triomphe une banderole portant l'inscription \"Aux combattantes inconnues assassinées par le patriarcat\" et déposé des fleurs avec le message \"ni oubli, ni…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "5e55329a6c23",
+   "titre": "En Indonésie, 26 mineurs piégés dans une mine après de fortes pluies",
+   "lien": "https://www.franceinfo.fr/monde/asie/en-indonesie-26-mineurs-pieges-dans-une-mine-apres-de-fortes-pluies_8298969.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-25T09:01:29+00:00",
+   "extrait": "Les \"conditions météorologiques pluvieuses et à l'étroitesse de l'accès\" compliquent les opérations de sauvetage.",
    "tags": [],
    "zone": "france"
   },
@@ -89,19 +281,6 @@
     "Conflits"
    ],
    "zone": "france"
-  },
-  {
-   "id": "9b0b01735e56",
-   "titre": "Iran denounces U.S. use of AI during war",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
-   "source": "CBS News",
-   "date": "2026-11-25T08:45:33+00:00",
-   "extrait": "Tehran's U.N. ambassador said the use of AI in the war violates U.S. obligations under international law.",
-   "tags": [
-    "Conflits",
-    "Tech"
-   ],
-   "zone": "usa"
   },
   {
    "id": "fc3f655cb3a7",
@@ -181,22 +360,9 @@
    "titre": "Arabie saoudite : après la frappe sur le siège de son fonds souverain, Riyad se prépare à une guerre plus intense au Yémen",
    "lien": "https://www.lemonde.fr/international/article/2026/11/25/arabie-saoudite-apres-la-frappe-sur-le-siege-de-son-fonds-souverain-riyad-se-prepare-a-une-guerre-plus-intense-au-yemen_6815066_3210.html",
    "source": "Le Monde",
-   "date": "2026-11-25T08:15:08+00:00",
+   "date": "2026-11-25T08:15:07+00:00",
    "extrait": "Le gratte-ciel symbole de Vision 2030 a été touché pour la deuxième fois en cinq jours, mardi 24 novembre. Cette attaque intervient alors qu’au Yémen voisin, les forces gouvernementales, soutenues…",
    "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "e278f555c247",
-   "titre": "Un second tour Mélenchon-Le Pen à la présidentielle 2027 mettrait la France \"au bord de la guerre civile\", affirme Gérald Darmanin",
-   "lien": "https://www.franceinfo.fr/elections/un-second-tour-melenchon-le-pen-a-la-presidentielle-2027-mettrait-la-france-au-bord-de-la-guerre-civile-affirme-gerald-darmanin_8298966.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-25T08:14:41+00:00",
-   "extrait": "\"Il faut tout faire pour éviter cela\", explique sur France Inter le ministre de la Justice, soutien de la candidature d'Edouard Philippe, qui veut rassembler la droite et le centre, mais en…",
-   "tags": [
-    "Politique",
     "Conflits"
    ],
    "zone": "france"
@@ -271,12 +437,13 @@
   },
   {
    "id": "26b340d1a578",
-   "titre": "EN DIRECT, congrès des maires 2026 : Que signifie être maire aujourd’hui en France ? Posez vos questions au politiste Martial Foucault",
+   "titre": "EN DIRECT, congrès des maires 2026 : « La relation d’Emmanuel Macron avec les maires est une suite d’espoirs déçus. Depuis 2017, ils ont eu le sentiment ne pas être pris au sérieux, ni reconnus »",
    "lien": "https://www.lemonde.fr/politique/live/2026/11/25/en-direct-congres-des-maires-2026-suivez-l-election-du-president-de-l-association-des-maires-de-france-a-cinq-mois-de-l-election-presidentielle_6815062_823448.html",
    "source": "Le Monde",
    "date": "2026-11-25T07:57:12+00:00",
    "extrait": "Martial Foucault, professeur des universités à Sciences Po Paris, ancien directeur du Cevipof et coauteur l’enquête du Cevipof sur les maires pour l’Association des maires de France, répond à vos…",
    "tags": [
+    "Politique",
     "Justice"
    ],
    "zone": "france"
@@ -518,18 +685,6 @@
    "zone": "monde"
   },
   {
-   "id": "0b01b4582ae6",
-   "titre": "Présidentielle 2027 : lancé dans la course à l'Elysée, David Lisnard fixé dans la journée sur sa réélection à la tête de l'Association des maires de France",
-   "lien": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-lance-dans-la-course-a-l-elysee-david-lisnard-fixe-dans-la-journee-sur-sa-reelection-a-la-tete-de-l-association-des-maires-de-france_8298708.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-25T06:34:14+00:00",
-   "extrait": "Le président sortant de l'AMF est opposé dans ce scrutin à Philippe Laurent, le maire centriste de Sceaux (Hauts-de-Seine). Le résultat du vote, démarré lundi, sera proclamé vers 14 heures.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "689a1990d1d5",
    "titre": "CAN 2025 : le Sénégal déclaré vainqueur par le TAS, le Maroc conteste",
    "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261125-can-2025-le-s%C3%A9n%C3%A9gal-d%C3%A9clar%C3%A9-vainqueur-par-le-tas-le-maroc-conteste",
@@ -692,6 +847,18 @@
    "zone": "france"
   },
   {
+   "id": "c56e877663c9",
+   "titre": "Quand le travail casse, abîme, use : « Les douleurs sont atroces, surtout la nuit. Comme des petits coups de couteau dans le dos, tout le temps »",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/25/quand-le-travail-casse-abime-use-les-douleurs-sont-atroces-surtout-la-nuit-comme-des-petits-coups-de-couteau-dans-le-dos-tout-le-temps_6815045_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-25T05:00:16+00:00",
+   "extrait": "Hernie cervicale, tendinites… parmi les « actifs occupés », 60 % des femmes et 54 % des hommes déclarent souffrir de troubles musculo-squelettiques. Et encore, les chiffres, qui ne font état ni des…",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "a04e51a36f2d",
    "titre": "\"La pensée libérale irrigue l'ensemble de la psyché collective\" : dans \"Un bon petit soldat\", Stéphane Brizé ausculte la brutalité du monde du travail",
    "lien": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/entretien-la-pensee-liberale-irrigue-l-ensemble-de-la-psyche-collective-dans-un-bon-petit-soldat-stephane-brize-ausculte-la-brutalite-du-monde-du-travail_8297961.html#xtor=RSS-3-[lestitres]",
@@ -735,7 +902,7 @@
   },
   {
    "id": "d4e39c6564ba",
-   "titre": "\"L'opportunité de rencontrer des élus de toute la France\" : au salon des maires, les prétendants à l'Elysée font la chasse aux signatures",
+   "titre": "\"L'opportunité de rencontrer des élus de toute la France\" : au Salon des maires, les prétendants à l'Elysée font la chasse aux signatures",
    "lien": "https://www.franceinfo.fr/elections/reportage-l-opportunite-de-rencontrer-des-elus-de-toute-la-france-au-salon-des-maires-les-pretendants-a-l-elysee-font-la-chasse-aux-signatures_8296235.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-11-25T04:52:25+00:00",
@@ -827,6 +994,18 @@
    "extrait": "The wife of Canadian astronaut Joshua Kutryk, who is currently aboard the International Space Station, gave birth to the couple's third child, Canadian officials announced.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "76892ba4503a",
+   "titre": "Présidentielle 2027 : au RN, la certitude de la victoire enivre les élus et inquiète Marine Le Pen",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/25/presidentielle-2027-au-rn-la-certitude-de-la-victoire-enivre-les-elus-et-inquiete-marine-le-pen_6815034_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-25T04:15:03+00:00",
+   "extrait": "Les adversaires du Rassemblement national soulignent l’arrogance des députés d’extrême droite dans les médias, les réseaux sociaux et à l’Assemblée nationale. De récents faux pas de communication…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
   },
   {
    "id": "ca6bd074c97c",
@@ -923,7 +1102,7 @@
   },
   {
    "id": "b3fe328704e5",
-   "titre": "Lies, a disguise and surfboard bags: how a jealous Sydney policeman tried to cover up double murder",
+   "titre": "Lies, a disguise and surfboard bags: How a jealous Sydney policeman tried to cover up double murder",
    "lien": "https://www.bbc.co.uk/news/articles/cmrrg749d02do?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-25T01:51:43+00:00",
@@ -3091,18 +3270,6 @@
    "zone": "usa"
   },
   {
-   "id": "bebf46e12138",
-   "titre": "Prince William and Kate's country home broken into, 2 arrested",
-   "lien": "https://www.cbsnews.com/news/prince-william-kate-country-home-broken-into-british-media/",
-   "source": "CBS News",
-   "date": "2026-11-24T15:20:00+00:00",
-   "extrait": "Intruders have broken into the country residence of Prince William and Princess Catherine, British media reported Tuesday.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "424b7481a0a7",
    "titre": "2 arrested for suspected burglary at Prince William, Kate's country residence",
    "lien": "https://www.cbsnews.com/video/2-arrested-for-suspected-burglary-at-prince-william-kates-country-residence/",
@@ -3274,189 +3441,6 @@
     "Politique",
     "Justice"
    ],
-   "zone": "france"
-  },
-  {
-   "id": "802c6564c98d",
-   "titre": "Sénégal vainqueur de la CAN : la fin du feuilleton ?",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261124-le-s%C3%A9n%C3%A9gal-officiellement-d%C3%A9sign%C3%A9-vainqueur-de-la-can-2025",
-   "source": "France 24",
-   "date": "2026-11-24T14:58:10+00:00",
-   "extrait": "Le Tribunal arbitral du sport confirme le sacre du Sénégal lors de la Coupe d'Afrique des nations 2025, aux dépens du Maroc qui avait obtenu le titre sur tapis vert. La fédération marocaine indique…",
-   "tags": [
-    "Justice",
-    "Sport"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "f41af57b4055",
-   "titre": "Fausse rétractation de Takieddine : renvoi en procès de Nicolas Sarkozy et Carla Bruni",
-   "lien": "https://www.france24.com/fr/france/20261124-fausse-r%C3%A9tractation-takieddine-renvoi-proc%C3%A8s-nicolas-sarkozy-carla-bruni",
-   "source": "France 24",
-   "date": "2026-11-24T14:53:55+00:00",
-   "extrait": "L'ancien président de la République Nicolas Sarkozy, son épouse Carla Bruni-Sarkozy et la \"papesse des paparazzis\" \"Mimi\" Marchand seront jugés en 2027 dans l'affaire de la rétractation possiblement…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "515a18e8d0da",
-   "titre": "\"We're racing towards huge dangers,\" AI pioneer Yoshua Bengio says",
-   "lien": "https://www.cbsnews.com/news/ai-yoshua-bengio-warns-dangers-artificial-intelligence/",
-   "source": "CBS News",
-   "date": "2026-11-24T14:50:00+00:00",
-   "extrait": "As one of the \"godfathers\" of artificial intelligence, Yoshua Bengio helped bring generative AI into the world. Now he worries society isn't ready for what's coming.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "fcef9c027881",
-   "titre": "CAN-2025: le Sénégal récupère son titre, le Maroc déchu (TAS)",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261124-can-2025-le-s%C3%A9n%C3%A9gal-r%C3%A9cup%C3%A8re-son-titre-le-maroc-d%C3%A9chu-tas",
-   "source": "France 24",
-   "date": "2026-11-24T14:48:18+00:00",
-   "extrait": "Le Tribunal arbitral du sport (TAS) a décidé mardi \"à l'unanimité\" le sacre du Sénégal lors de la Coupe d'Afrique des nations 2025, aux dépens du Maroc qui avait obtenu le titre sur tapis vert.",
-   "tags": [
-    "Justice",
-    "Sport"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "f438b5c6fd6d",
-   "titre": "Détournement de fonds de publics : une enquête vise l'agglomération du Havre d'Édouard Philippe",
-   "lien": "https://www.france24.com/fr/france/20261124-edouard-philippe-vis%C3%A9-par-une-enqu%C3%AAte-pour-d%C3%A9tournement-de-fonds-publics-au-havre",
-   "source": "France 24",
-   "date": "2026-11-24T14:47:28+00:00",
-   "extrait": "Nouvelle péripétie judiciaire pour le candidat à l'élection présidentielle Édouard Philippe : une enquête a été ouverte à la suite d'un signalement à la justice pour détournement de fonds publics à…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "0c37b7fde376",
-   "titre": "Trump, investors are elated with Huang's return to Nvidia. Lawmakers worry about national security.",
-   "lien": "https://www.cbsnews.com/video/investors-are-elated-that-huang-is-back-at-nvidia-lawmakers-worry-about-national-security/",
-   "source": "CBS News",
-   "date": "2026-11-24T14:47:00+00:00",
-   "extrait": "Nvidia reinstated Jensen Huang as CEO just days after he resigned over an affair with an alleged Chinese spy. CBS News' Olivia Rinaldi reports, plus business contributor Javier David explains how…",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "54f5afe899b2",
-   "titre": "Le cargo échoué près d'une plage des Landes depuis quatre jours a repris le large, tiré par un remorqueur",
-   "lien": "https://www.franceinfo.fr/france/nouvelle-aquitaine/landes/le-cargo-echoue-pres-d-une-plage-des-landes-depuis-quatre-jours-a-repris-le-large-tire-par-un-remorqueur_8297847.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-24T14:46:09+00:00",
-   "extrait": "La météo était clémente mardi, avec des vagues moins hautes que les jours précédents, ce qui a permis le déséchouement du cargo.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "920a2f614347",
-   "titre": "Au Royaume-Uni, une tentative de cambriolage signalée dans l'une des résidences de William et Kate, deux hommes arrêtés",
-   "lien": "https://www.franceinfo.fr/monde/royaume-uni/au-royaume-uni-une-tentative-de-cambriolage-signalee-dans-l-une-des-residences-de-william-et-kate-deux-hommes-arretes_8297766.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-24T14:45:38+00:00",
-   "extrait": "Les deux hommes ont été interpellés lundi sur le domaine du manoir d'Anmer Hall par les forces de l'ordre qui avaient reçu le signalement d'une \"activité suspecte\" sur les lieux.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "da84b1bf81a8",
-   "titre": "Verdict du TAS : existe-t-il un recours pour le Maroc ?",
-   "lien": "https://www.france24.com/fr/sports/20261124-verdict-tas-recours-possible-maroc-senegal",
-   "source": "France 24",
-   "date": "2026-11-24T14:43:50+00:00",
-   "extrait": "Le Tribunal arbitral du sport basé à Lausanne, en Suisse, a déclaré mardi le Sénégal vainqueur de la CAN 2025. Après cette décision de justice, le Maroc a-t-il encore des recours alors qu'il dit…",
-   "tags": [
-    "Justice",
-    "Sport"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "7d4b8452e579",
-   "titre": "\"Je mets ma main au feu\" : Tadej Pogacar assure que le dopage \"n'existe plus pour la majorité du peloton\"",
-   "lien": "https://www.franceinfo.fr/sports/cyclisme/tadej-pogacar/je-mets-ma-main-au-feu-tadej-pogacar-assure-que-le-dopage-n-existe-plus-pour-la-majorite-du-peloton_8297838.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-24T14:41:03+00:00",
-   "extrait": "Le quintuple vainqueur du Tour de France a balayé d'un revers de main les soupçons entourant ses performances dans une interview donnée à \"La Gazzetta dello sport\", mardi.",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "66c06db1d122",
-   "titre": "Mort de Nahel : la justice confirme en appel le renvoi du policier pour meurtre",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261124-mort-de-nahel-la-justice-confirme-en-appel-le-renvoi-du-policier-pour-meurtre",
-   "source": "France 24",
-   "date": "2026-11-24T14:40:45+00:00",
-   "extrait": "Trois ans après la mort de Nahel Merzouk, la cour d'appel de Versailles a ordonné mardi que le policier soit jugé devant la cour d'assises des Hauts-de-Seine pour meurtre, une décision contestée par…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "abf002f81ec2",
-   "titre": "« La vérité d’une rencontre s’établit sur le terrain » : le Sénégal, déclaré vainqueur près d’un an après la finale contre le Maroc, célèbre son titre de champion d’Afrique",
-   "lien": "https://www.lemonde.fr/football/article/2026/11/24/can-2025-le-tribunal-arbitral-du-sport-declare-le-senegal-champion-d-afrique-des-nations-au-detriment-du-maroc_6814779_1616938.html",
-   "source": "Le Monde",
-   "date": "2026-11-24T14:34:56+00:00",
-   "extrait": "La finale de la CAN 2025 entre le Sénégal et le Maroc s’était achevée, le 18 janvier, dans la tension, ouvrant la voie à des mois de bataille juridique. Mardi 24 novembre, le Tribunal arbitral du…",
-   "tags": [
-    "Justice",
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "f9867925c84f",
-   "titre": "Pologne : un drone russe viole l'espace aérien",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261124-pologne-un-drone-russe-viole-l-espace-a%C3%A9rien",
-   "source": "France 24",
-   "date": "2026-11-24T14:31:11+00:00",
-   "extrait": "Un drone de reconnaissance russe a brièvement pénétré dans l'espace aérien polonais lors d'une attaque nocturne menée par la Russie contre l'Ukraine voisine, a annoncé mardi l'armée polonaise…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "4b9b144ee23d",
-   "titre": "CBS News went to Singapore and Malaysia to see how China may be accessing Nvidia chips",
-   "lien": "https://www.cbsnews.com/video/cbs-news-went-to-singapore-and-malaysia-to-see-how-china-may-be-accessing-nvidia-chips/",
-   "source": "CBS News",
-   "date": "2026-11-24T14:28:47+00:00",
-   "extrait": "Ramy Inocencio traveled to Singapore and Malaysia for a deeper look at Megaspeed, where suspected Chinese spy Alice Huang worked as an executive.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "b0806210c72e",
-   "titre": "Projet français, dépendance chinoise, exemple américain… Quatre questions sur les \"stocks stratégiques de terres rares et métaux\"",
-   "lien": "https://www.franceinfo.fr/economie/projet-francais-dependance-chinoise-exemple-americain-quatre-questions-sur-les-stocks-strategiques-de-terres-rares-et-metaux_8297829.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-24T14:27:09+00:00",
-   "extrait": "L'Élysée a annoncé lundi que la France va se doter de \"stocks stratégiques\" de \"terres rares et certains métaux prioritaires\", inspirés des réserves qui existent pour le pétrole, afin de pallier les…",
-   "tags": [],
    "zone": "france"
   }
  ]
