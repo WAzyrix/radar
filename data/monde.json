@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-26T00:05:40+00:00",
+ "maj": "2026-11-26T01:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,16 +22,263 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "7940036035fa",
+   "titre": "US announces new tariffs on host of countries including China",
+   "lien": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-26T01:00:06+00:00",
+   "extrait": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "a1d0cb05b1cd",
+   "titre": "Macy's Thanksgiving Day Parade postponed for 1st time in history",
+   "lien": "https://www.cbsnews.com/news/macys-thanksgiving-day-parade-postponed/",
+   "source": "CBS News",
+   "date": "2026-11-26T00:59:02+00:00",
+   "extrait": "For the first time in history, the Macy's Thanksgiving Day Parade has been postponed due to weather, Macy's said Wednesday.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "7284c389e791",
+   "titre": "At least 31 killed after fuel tanker crashes and catches fire near Cairo",
+   "lien": "https://www.cbsnews.com/news/egypt-fuel-tanker-crash-cairo-highway-fire/",
+   "source": "CBS News",
+   "date": "2026-11-26T00:54:00+00:00",
+   "extrait": "A crash involving a fuel tanker has ignited a massive fire on a major highway surrounding Cairo, killing at least 31 people.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
    "id": "42e16bc717fb",
    "titre": "Army detonates toxic explosives at Iowa plant despite concerns",
    "lien": "https://www.cbsnews.com/news/iowa-army-ammunition-plant-unstable-explosives-detonation/",
    "source": "CBS News",
-   "date": "2026-11-25T23:52:39+00:00",
+   "date": "2026-11-26T00:50:37+00:00",
    "extrait": "The U.S. Army detonated a stockpile of degrading explosives at a munitions plant in Iowa on Wednesday, after days of back-and-forth between politicians and the courts.",
    "tags": [
     "Justice"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "2c863383d62d",
+   "titre": "How people are using AI to cancel subscriptions, claim refunds",
+   "lien": "https://www.cbsnews.com/video/how-people-are-using-ai-to-cancel-subscriptions-claim-refunds/",
+   "source": "CBS News",
+   "date": "2026-11-26T00:48:08+00:00",
+   "extrait": "People are using AI agents to handle tedious tasks that could save them money. CBS News' Megan Cerullo explains.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "a03f1511a61b",
+   "titre": "Andy Taylor, guitariste historique du groupe Duran Duran, est mort à 65 ans",
+   "lien": "https://www.lemonde.fr/disparitions/article/2026/11/26/andy-taylor-guitariste-historique-du-groupe-duran-duran-est-mort-a-65-ans_6815296_3382.html",
+   "source": "Le Monde",
+   "date": "2026-11-26T00:47:57+00:00",
+   "extrait": "Le guitariste originel de la formation britannique de new wave avait quitté le groupe au milieu des années 1980, après de nombreux tubes. Revenu pour des enregistrements à plusieurs occasions, il…",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "ca62f7487713",
+   "titre": "Details on why Macy's postponed its Thanksgiving Day Parade",
+   "lien": "https://www.cbsnews.com/video/details-why-macys-postponed-thanksgiving-day-parade/",
+   "source": "CBS News",
+   "date": "2026-11-26T00:42:35+00:00",
+   "extrait": "The Macy's Thanksgiving Day Parade, watched by tens of millions of people, including those lining the streets of New York, has been postponed because of weather for the first time ever. Organizers…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "d8f7fc555bce",
+   "titre": "Watch: Kilmar Abrego Garcia arrives in Spain after leaving U.S.",
+   "lien": "https://www.cbsnews.com/video/kilmar-abrego-garcia-arrives-in-spain/",
+   "source": "CBS News",
+   "date": "2026-11-26T00:37:56+00:00",
+   "extrait": "Kilmar Abrego Garcia, who was mistakenly deported and sent to a prison in El Salvador last year, has left the U.S. for Spain. CBS News' Camilo Montoya-Galvez has more.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "62a7e8f686a8",
+   "titre": "Videos capture Army's detonation of explosives in Iowa",
+   "lien": "https://www.cbsnews.com/video/videos-capture-loud-boom-smoke-rising-as-army-detonates-explosives-in-iowa/",
+   "source": "CBS News",
+   "date": "2026-11-26T00:35:48+00:00",
+   "extrait": "The Army conducted its planned detonation of unstable bomb-making materials in Iowa on Wednesday. CBS News' Ian Lee reports.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "2c144c48347e",
+   "titre": "En Egypte, un incendie meurtrier sur une autoroute de l’agglomération du Caire fait une trentaine de victimes",
+   "lien": "https://www.lemonde.fr/afrique/article/2026/11/26/en-egypte-un-incendie-meurtrier-sur-une-autoroute-de-l-agglomeration-du-caire-fait-une-trentaine-de-victimes_6815263_3212.html",
+   "source": "Le Monde",
+   "date": "2026-11-26T00:32:36+00:00",
+   "extrait": "Le sinistre s’est déclaré lorsqu’un camion chargé de carburant s’est renversé sur un axe très fréquenté, selon les médias d’Etat. Le ministère de la santé égyptien a également fait état d’au moins…",
+   "tags": [
+    "Climat",
+    "Santé"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "7b49fe7190b3",
+   "titre": "What we know about the Macy's Thanksgiving Day Parade postponement",
+   "lien": "https://www.cbsnews.com/video/what-we-know-about-the-macys-thanksgiving-day-parade-being-postponed/",
+   "source": "CBS News",
+   "date": "2026-11-26T00:32:06+00:00",
+   "extrait": "The 100th edition of the Macy's Thanksgiving Day Parade was postponed on Wednesday due to severe weather. CBS News' Kris Van Cleave, Tom Hanson and Rob Marciano have team coverage.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "199d065c3429",
+   "titre": "Andy Taylor, longtime Duran Duran guitarist, dies at 65",
+   "lien": "https://www.cbsnews.com/news/andy-taylor-guitarist-duran-duran-dies-age-65/",
+   "source": "CBS News",
+   "date": "2026-11-26T00:32:00+00:00",
+   "extrait": "Andy Taylor, the original guitarist of the 1980s English new wave band Duran Duran, has died at age 65 following a battle with prostate cancer.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "52e4b6687b49",
+   "titre": "Tips for baking your best Thanksgiving bird with Butterball Turkey",
+   "lien": "https://www.cbsnews.com/video/tips-baking-best-thanksgiving-bird-butterball-turkey/",
+   "source": "CBS News",
+   "date": "2026-11-26T00:29:26+00:00",
+   "extrait": "From food safety to tips on preparing the best bird, the Butterball Turkey Talk-Line has helped hundreds of thousands of callers bake their best turkey since 1981. Mary Alice Coffey from the hotline…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "b729be2c284f",
+   "titre": "How to handle high costs for family caregiving",
+   "lien": "https://www.cbsnews.com/video/how-to-handle-high-costs-for-family-caregiving/",
+   "source": "CBS News",
+   "date": "2026-11-26T00:27:07+00:00",
+   "extrait": "As Americans prepare for Thanksgiving, they also may be getting ready for some difficult conversations with their loved ones about care-giving, particularly as their parents get older. Rita Choula…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "0ebcfcefdabc",
+   "titre": "The US pastor who wants to see women's right to vote overturned",
+   "lien": "https://www.bbc.co.uk/news/articles/cwe89jyz4012o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-26T00:24:25+00:00",
+   "extrait": "The movement to repeal women's right to vote has gained traction amongst some very conservative Christians.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "18f7881ff12e",
+   "titre": "Spanish elections: What you need to know and what's at stake",
+   "lien": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-26T00:23:49+00:00",
+   "extrait": "After eight years of Socialist-led rule, snap elections are taking place on Sunday with conservative Alberto Núñez Feijóo vying to win office.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "d278f649d28c",
+   "titre": "France's political mainstream risks presidential vote debacle with no clear candidate",
+   "lien": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-26T00:23:27+00:00",
+   "extrait": "Hard-right and hard-left candidates dominate the polls ahead of next year's presidential election.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "7dbc46515194",
+   "titre": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+   "lien": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-26T00:23:05+00:00",
+   "extrait": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "f173cde591e3",
+   "titre": "Has global jihadism failed, or is it simply changing shape?",
+   "lien": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-26T00:22:18+00:00",
+   "extrait": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "6305a070ebf8",
+   "titre": "Ligue des champions : le LOSC renverse le Bayern Münich et se relance dans la course à la qualification",
+   "lien": "https://www.lemonde.fr/sport/article/2026/11/26/ligue-des-champions-le-losc-renverse-le-bayern-munich-et-se-relance-dans-la-course-a-la-qualification_6815230_3242.html",
+   "source": "Le Monde",
+   "date": "2026-11-26T00:15:53+00:00",
+   "extrait": "Menés (0-1) après une terne première période, les Lillois ont bien réagi, mercredi 25 novembre, pour remporter une victoire cruciale (2-1) et de prestige face aux Bavarois. Vingt-neuvièmes au…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "7b1a55a4366e",
+   "titre": "Trump says he'll meet with El-Sayed about healthcare",
+   "lien": "https://www.cbsnews.com/video/trump-says-hell-meet-with-el-sayed-about-healthcare/",
+   "source": "CBS News",
+   "date": "2026-11-26T00:09:15+00:00",
+   "extrait": "President Trump tells the New York Post he'll meet with Sen.-elect Abdul El-Sayed on the topic of healthcare. CBS News' Zak Hudak and Fin Gómez have more.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "8c552cbc22ed",
+   "titre": "Mali : le JNIM lance un ultimatum aux habitants de Tonka",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261126-mali-le-jnim-lance-un-ultimatum-aux-habitants-de-tonka",
+   "source": "France 24",
+   "date": "2026-11-26T00:03:50+00:00",
+   "extrait": "Dans cette édition, direction le Mali, où le JNIM donne jusqu’à vendredi aux habitants de Tonka, dans la région de Tombouctou, pour quitter la ville avant la mise en place d’un blocus. Pourquoi cet…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "41f7e3a0fbc8",
+   "titre": "Macy's postpones Thanksgiving parade due to weather",
+   "lien": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-25T23:57:03+00:00",
+   "extrait": "The was the first time ever that the iconic celebration - known for its massive balloons floating past the city's skyscrapers - was delayed because of storms.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "monde"
   },
   {
    "id": "f93973629abd",
@@ -48,25 +295,13 @@
    "titre": "Budget 2027 : le Sénat approuve l’effort de cinq milliards d’euros demandé aux grandes entreprises",
    "lien": "https://www.lemonde.fr/politique/article/2026/11/26/budget-2027-le-senat-approuve-l-effort-de-cinq-milliards-d-euros-demande-aux-grandes-entreprises_6815197_823448.html",
    "source": "Le Monde",
-   "date": "2026-11-25T23:50:49+00:00",
+   "date": "2026-11-25T23:50:44+00:00",
    "extrait": "La droite sénatoriale, majoritaire dans l’hémicycle et souvent frileuse sur la taxation des entreprises, a consenti à cette mesure. « Regardons l’état de notre déficit. Il faut que tout le monde…",
    "tags": [
     "Politique",
     "Économie"
    ],
    "zone": "france"
-  },
-  {
-   "id": "a1d0cb05b1cd",
-   "titre": "Macy's Thanksgiving Day Parade postponed for 1st time in history",
-   "lien": "https://www.cbsnews.com/news/macys-thanksgiving-day-parade-postponed/",
-   "source": "CBS News",
-   "date": "2026-11-25T23:49:22+00:00",
-   "extrait": "For the first time in history, the Macy's Thanksgiving Day Parade has been postponed due to weather, Macy's said Wednesday.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "usa"
   },
   {
    "id": "2e6919482f73",
@@ -77,6 +312,26 @@
    "extrait": "A report form cybersecurity firm SentiLink warns that fraud rates jump by about a third on Thanksgiving and Christmas. David Maimon, SentiLink's head of fraud insights, joins CBS News to discuss.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "b13fbd076131",
+   "titre": "A renovation to upgrade these Hong Kong homes ended in an inferno that killed 168",
+   "lien": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-25T23:26:50+00:00",
+   "extrait": "A year after one of Hong Kong's deadliest fires, families left behind are still waiting for justice.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "e94d7b6a3b40",
+   "titre": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
+   "lien": "https://www.bbc.co.uk/news/articles/cmvg2989wv74o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-25T23:18:27+00:00",
+   "extrait": "The Hollywood A-listers' legal battle focused on the vineyard they bought in 2008 and where they wed six years later.",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "4c116bbdd7f1",
@@ -681,6 +936,16 @@
    "zone": "usa"
   },
   {
+   "id": "2a19056c4789",
+   "titre": "Moment Nasa spacecraft hit asteroid - and what happened next",
+   "lien": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-25T20:11:46+00:00",
+   "extrait": "The crash was 'like something out of a disaster movie,' the BBC's science editor Rebecca Morelle says.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
    "id": "231539b67e25",
    "titre": "En Égypte, un incendie sur une autoroute du Caire fait une trentaine de morts",
    "lien": "https://www.france24.com/fr/afrique/20261125-en-%C3%A9gypte-un-incendie-sur-une-autoroute-du-caire-fait-une-trentaine-de-morts",
@@ -712,16 +977,6 @@
    "source": "France 24",
    "date": "2026-11-25T19:57:28+00:00",
    "extrait": "Le 13 novembre sur le plateau des \"Informés de franceinfo\", des invités ont affirmé que l'ensemble de la diaspora chinoise en France était potentiellement composé d'espions. Selon les experts, cette…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "7dbc46515194",
-   "titre": "US Army says controlled blast of explosives in Iowa was 'huge success'",
-   "lien": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-25T19:54:52+00:00",
-   "extrait": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
    "tags": [],
    "zone": "monde"
   },
@@ -772,6 +1027,18 @@
     "Économie"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "e985cff163de",
+   "titre": "What we know about Trump's Thanksgiving tariffs",
+   "lien": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-25T19:38:05+00:00",
+   "extrait": "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
   },
   {
    "id": "d3ffe9e18c72",
@@ -1298,6 +1565,19 @@
    "zone": "france"
   },
   {
+   "id": "775d27b357e3",
+   "titre": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+   "lien": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-25T16:42:11+00:00",
+   "extrait": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
+   "tags": [
+    "Politique",
+    "Tech"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "e8d89c9924d1",
    "titre": "Plus de 3 100 faits de violences sur des élus ont été recensés en 2026, un chiffre en hausse de 25% par rapport à 2025",
    "lien": "https://www.franceinfo.fr/faits-divers/plus-de-3-100-faits-de-violences-sur-des-elus-ont-ete-recenses-en-2026-un-chiffre-en-hausse-de-25-par-rapport-a-2025_8300025.html#xtor=RSS-3-[lestitres]",
@@ -1390,12 +1670,12 @@
    "zone": "france"
   },
   {
-   "id": "7940036035fa",
-   "titre": "US announces new tariffs on host of countries including China",
-   "lien": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+   "id": "b65ad1816786",
+   "titre": "Greatest catch ever? Man on motorbike takes incredible grab",
+   "lien": "https://www.bbc.co.uk/sport/cricket/videos/cwx2e0g93l3eo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-11-25T16:21:34+00:00",
-   "extrait": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+   "date": "2026-11-25T16:23:03+00:00",
+   "extrait": "A passenger on a motorbike pulled off a remarkable one-handed catch after the ball was hit out of the ground for six in the Swat Premier League in Pakistan.",
    "tags": [],
    "zone": "monde"
   },
@@ -3149,290 +3429,6 @@
     "Économie"
    ],
    "zone": "france"
-  },
-  {
-   "id": "cbad101358f8",
-   "titre": "La main d'un homme arrachée par un engin pyrotechnique dans le centre de Paris, une enquête ouverte",
-   "lien": "https://www.franceinfo.fr/faits-divers/la-main-d-un-homme-arrachee-par-un-engin-pyrotechnique-dans-le-centre-de-paris-une-enquete-ouverte_8299056.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-25T10:40:31+00:00",
-   "extrait": "Grièvement blessé, l'homme a été transporté à l'hôpital en urgence absolue.",
-   "tags": [
-    "Justice",
-    "Santé"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "6133151033a9",
-   "titre": "Enquête sur des soupçons de fuites vers le RN : le préfet Hugues Moutouh dénonce \"une opération de nature politique\"",
-   "lien": "https://www.franceinfo.fr/politique/front-national/enquete-sur-des-fuites-presumees-vers-le-rn-le-prefet-hugues-moutouh-denonce-une-operation-de-nature-politique_8299188.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-25T10:36:45+00:00",
-   "extrait": "Dans \"Le Figaro\", le haut fonctionnaire confirme porter plainte \"contre X pour violation et recel du secret de l'enquête et pour complicité\".",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c9c1f8442d1c",
-   "titre": "Security forces storm scene, end Colombia supermarket siege",
-   "lien": "https://www.cbsnews.com/news/colombia-supermarket-siege-ends-security-forces-storm-scene/",
-   "source": "CBS News",
-   "date": "2026-11-25T10:36:34+00:00",
-   "extrait": "Security forces stormed a supermarket in the Colombian city of Cartagena, ending a day-long siege, with the nation's president saying all hostages were rescued and one captor was killed.",
-   "tags": [
-    "Politique",
-    "Climat"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "349489386fdf",
-   "titre": "Violences faites aux femmes : 129 femmes tuées par un proche chaque jour dans le monde en 2025",
-   "lien": "https://www.france24.com/fr/france/20261125-violences-vss-129-femmes-tu%C3%A9es-proche-chaque-jour-monde-2025",
-   "source": "France 24",
-   "date": "2026-11-25T10:27:49+00:00",
-   "extrait": "Selon un rapport de l'ONU publié mardi, quelque 47 000 femmes et filles ont été tuées par des proches en 2025, soit environ cinq par heure ou 129 par jour. Alors que les femmes ont représenté 19 %…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "f11c62ce51eb",
-   "titre": "\"Aux combattantes inconnues assassinées par le patriarcat\" : un hommage aux victimes des féminicides",
-   "lien": "https://www.france24.com/fr/france/20261125-aux-combattantes-inconnues-assassin%C3%A9es-par-le-patriarcat-un-hommage-aux-victimes-des-f%C3%A9minicides",
-   "source": "France 24",
-   "date": "2026-11-25T10:24:33+00:00",
-   "extrait": "Des membres du collectif féministe NousToutes ont rendu hommage aux victimes de féminicides, mercredi, à Paris, sur la tombe du Soldat inconnu, à l'occasion de la journée internationale pour…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "bb8656d1640d",
-   "titre": "NATO allies anxious as war spreads beyond Ukraine, Russia borders",
-   "lien": "https://www.cbsnews.com/news/ukraine-russia-war-warship-cargo-ship-attacks-nato-allies-anxiety/",
-   "source": "CBS News",
-   "date": "2026-11-25T10:22:19+00:00",
-   "extrait": "As Ukraine attacks Russian ships in far-flung waters, some NATO nations are voicing increasing anxiety over the war's spread to new regions.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "86e3aa92bf88",
-   "titre": "La sortie de \"GTA VI\" a changé des choses à votre vie de famille ou vos relations avec vos amis ? Racontez-nous !",
-   "lien": "https://www.franceinfo.fr/culture/jeux-video/gta-vi/appel-a-temoignages-la-sortie-de-gta-vi-a-t-elle-bouleverse-vos-rapports-avec-votre-famille-ou-vos-amis-racontez-nous_8297517.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-25T10:16:19+00:00",
-   "extrait": "Tensions avec les adolescents, disputes au sein du couple ou encore rapprochement entre amis... La sortie du jeu le plus attendu de la décennie a pu modifier le quotidien de nombreuses familles.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "4b8fe7e293b8",
-   "titre": "\"Je sais quelle joie c'est, pour un enfant, d'imaginer un ami comme lui\" : l'autrice Nadja donne une suite à \"Chien Bleu\", presque quarante ans après le premier tome",
-   "lien": "https://www.franceinfo.fr/culture/livres/je-sais-quelle-joie-c-est-pour-un-enfant-d-imaginer-un-ami-comme-lui-l-autrice-nadja-donne-une-suite-a-chien-bleu-presque-quarante-ans-apres-le-premier-tome_8299011.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-25T10:15:02+00:00",
-   "extrait": "On ne s'attendait plus forcément à découvrir une suite, 37 ans après la parution de \"Chien bleu\", en 1989. Pourtant, l'autrice Nadja a ressorti ses pinceaux, une surprise à découvrir en ce moment au…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "f8fae99390de",
-   "titre": "Protesters call on Israel to free Palestinian student held without charge",
-   "lien": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-25T10:03:42+00:00",
-   "extrait": "Mahdi Tunsi, 26, was taken from his university dormitory earlier this month and has since been held without charge.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "07d40ec70584",
-   "titre": "Deux adolescents de 17 ans en garde à vue après l'incendie d'un lycée à Aix-en-Provence",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/deux-jeunes-de-17ans-en-garde-a-vue-apres-l-incendie-d-un-lycee-a-aix-en-provence_8299137.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-25T10:02:59+00:00",
-   "extrait": "Le lycée Emile-Zola, qui accueille plus de 1 900 élèves, a été sérieusement endommagé dans la nuit du 9 au 10 novembre.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "e31bf0e0b2bc",
-   "titre": "L'Agence spatiale européenne \"a des projets à proposer aux hommes politiques\" pour assurer l'indépendance spatiale de l'Europe, affirme Thomas Pesquet",
-   "lien": "https://www.franceinfo.fr/sciences/espace/l-agence-spatiale-europeenne-a-des-projets-a-proposer-aux-hommes-politiques-pour-assurer-l-independance-spatiale-de-l-europe-affirme-thomas-pesquet_8299083.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-25T10:02:53+00:00",
-   "extrait": "L'astronaute français, qui se prépare à une mission privée dans l’espace en juillet 2027, était l'invité de France Inter mercredi.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "3f0545bdbac3",
-   "titre": "Ukraine : le Premier ministre hongrois annonce le début d'un \"nouveau chapitre\" avec Kiev",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261125-ukraine-le-premier-ministre-hongrois-annonce-le-d%C3%A9but-d-un-nouveau-chapitre-avec-kiev",
-   "source": "France 24",
-   "date": "2026-11-25T10:02:35+00:00",
-   "extrait": "Le Premier ministre hongrois, Péter Magyar, a salué, mardi 24 novembre, l'ouverture d'un \"nouveau chapitre\" dans les relations entre Kiev et Budapest lors d'une rencontre en Ukraine avec le…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "cfe6bd3f2417",
-   "titre": "Buying new things feels wonderful. But it can also be a trap",
-   "lien": "https://www.npr.org/2026/11/25/nx-s1-6052361/buying-new-things-feels-wonderful-can-be-trap-break-the-cycle",
-   "source": "NPR",
-   "date": "2026-11-25T10:02:00+00:00",
-   "extrait": "Constantly buying new things can be problematic, says journalist Eric Athas, author of the new book \"Saying No to New.\" Here's how to break the cycle and find joy in what you already have.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "3fd90dbe8420",
-   "titre": "Plus de 840 millions de femmes et de filles ont subi des violences dans le monde",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261125-plus-de-840-millions-de-femmes-et-de-filles-ont-subi-des-violences-dans-le-monde",
-   "source": "France 24",
-   "date": "2026-11-25T10:01:38+00:00",
-   "extrait": "Chaque 25 novembre, la Journée internationale pour l'élimination des violences faites aux femmes rappelle la nécessité de lutter contre toutes ses formes, encore trop présentes : dans le monde, 840…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "bebf46e12138",
-   "titre": "Prince William and Kate's country home broken into, 2 arrested",
-   "lien": "https://www.cbsnews.com/news/prince-william-kate-country-home-broken-into-british-media/",
-   "source": "CBS News",
-   "date": "2026-11-25T10:00:31+00:00",
-   "extrait": "Two men were arrested over a suspected burglary at the U.K. royal family's Sandringham Estate, the country residence of Prince William and Catherine, police said.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "e344606c78ec",
-   "titre": "La RDC impose un nouvel embargo sur les exportations de cobalt pour faire monter les cours",
-   "lien": "https://www.lemonde.fr/afrique/article/2026/11/25/la-rdc-impose-un-nouvel-embargo-sur-les-exportations-de-cobalt-pour-faire-monter-les-cours_6815079_3212.html",
-   "source": "Le Monde",
-   "date": "2026-11-25T10:00:09+00:00",
-   "extrait": "Dans un contexte de baisse des prix, le pays a de nouveau interdit l’exportation de cobalt, dont la transformation est presque entièrement contrôlée par la Chine. Un premier embargo, remplacé…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "a4cab6a3b720",
-   "titre": "Paperwork, not work, causing enrollees to lose Medicaid in Nebraska",
-   "lien": "https://www.cbsnews.com/news/nebraska-medicaid-work-requirements-paperwork-losses/",
-   "source": "CBS News",
-   "date": "2026-11-25T10:00:08+00:00",
-   "extrait": "Data from the months after Nebraska's early rollout of new Medicaid work mandates offers a look at the challenges enrollees in other states could face.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "bc44c5d18765",
-   "titre": "Elle réclame 2,6 milliards d’euros à son ex-mari : « Londres n’est pas surnommée la capitale mondiale du divorce pour rien »",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/25/elle-reclame-2-6-milliards-d-euros-a-son-ex-mari-londres-n-est-pas-surnommee-la-capitale-mondiale-du-divorce-pour-rien_6815077_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-25T10:00:05+00:00",
-   "extrait": "L’oligarque russe Vladimir Potanine n’a jamais vécu dans la capitale britannique. Son ex-épouse, qui s’y est installée en 2014, lui intente pourtant un procès et lui réclame une partie de sa…",
-   "tags": [
-    "Économie",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "6f4d97b4bbe5",
-   "titre": "L'architecte catalan Antoni Gaudí a sacrifié tout son héritage pour construire la Sagrada Familia",
-   "lien": "https://www.franceinfo.fr/monde/espagne/l-architecte-catalan-antoni-gaudi-a-sacrifie-tout-son-heritage-pour-construire-la-sagrada-familia_8297973.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-25T10:00:02+00:00",
-   "extrait": "Père de la Sagrada Familia, l'architecte catalan Antoni Gaudí a légué l'intégralité de son patrimoine personnel pour financer la Sagrada Família, comme le révèle une copie de son testament datant de…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "a1c42564b6fc",
-   "titre": "A quintessential Route 66 diner has been serving up Americana for nearly 100 years",
-   "lien": "https://www.npr.org/2026/11/25/nx-s1-5983717/ariston-cafe-route-66-diner-litchfield-illinois",
-   "source": "NPR",
-   "date": "2026-11-25T10:00:00+00:00",
-   "extrait": "The Ariston Cafe opened its doors in 1924 to serve travelers along Route 66 and has dished up classic American road fare ever since.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "0c20c7905a17",
-   "titre": "In a time of rising costs, one Thanksgiving commodity is cheaper: cannabis",
-   "lien": "https://www.npr.org/2026/11/25/nx-s1-6046173/cannabis-marijuana-prices-retailers-discounts",
-   "source": "NPR",
-   "date": "2026-11-25T10:00:00+00:00",
-   "extrait": "Steep discounts for \"Green Wednesday,\" one of the highest-selling days for cannabis, help customers keep costs down. But experts say retailers are feeling the pinch.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "f35ac60868ec",
-   "titre": "Violences faites aux femmes : que deviennent les enfants orphelins de féminicides ?",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261125-violences-faites-aux-femmes-que-deviennent-les-enfants-orphelins-de-f%C3%A9minicides",
-   "source": "France 24",
-   "date": "2026-11-25T09:59:11+00:00",
-   "extrait": "En 2025, en Italie, 97 femmes ont été victimes d'un féminicide, laissant derrière elles des dizaines d'orphelins. Comment se relever après un tel drame ? Quel accompagnement pour aider ces enfants ?…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "e591c96e6d74",
-   "titre": "Pour protéger la Cour pénale internationale des pressions étrangères, le Parlement européen exige de la Commission une \"stratégie globale\"",
-   "lien": "https://www.franceinfo.fr/monde/europe/union-europeenne/leurs-vies-sont-devenues-du-jour-au-lendemain-un-enfer-pour-proteger-la-cpi-des-pressions-etrangeres-le-parlement-europeen-exige-de-la-commission-une-strategie-globale_8298972.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-25T09:54:06+00:00",
-   "extrait": "Face aux attaques, sanctions et menaces de sanctions des Etats-Unis contre la Cour pénale internationale et ses juges, le Parlement européen avait déjà décidé de leur décerner son prix Sakharov 2026…",
-   "tags": [
-    "Politique",
-    "Économie",
-    "Conflits",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "e278f555c247",
-   "titre": "Un second tour Mélenchon-Le Pen à la présidentielle 2027 mettrait la France \"au bord de la guerre civile\", affirme Gérald Darmanin",
-   "lien": "https://www.franceinfo.fr/elections/un-second-tour-melenchon-le-pen-a-la-presidentielle-2027-mettrait-la-france-au-bord-de-la-guerre-civile-affirme-gerald-darmanin_8298966.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-25T09:49:33+00:00",
-   "extrait": "\"Il faut tout faire pour éviter cela\", explique sur France Inter le ministre de la Justice, soutien de la candidature d'Edouard Philippe, qui veut rassembler la droite et le centre, mais en…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "4e85b765ac0b",
-   "titre": "China investigates Politburo member and Shanghai party chief Chen Jining",
-   "lien": "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party",
-   "source": "NPR",
-   "date": "2026-11-25T09:44:13+00:00",
-   "extrait": "The Politburo member is the latest senior official targeted in President Xi Jinping's long-running anti-corruption campaign, which has shown no signs of letting up in scope or depth.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
   }
  ]
 }
