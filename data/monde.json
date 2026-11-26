@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-26T17:05:40+00:00",
+ "maj": "2026-11-26T18:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,215 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "49155e6c4871",
+   "titre": "Maps show where Thanksgiving storms are disrupting holiday plans",
+   "lien": "https://www.cbsnews.com/news/maps-thanksgiving-storms-disrupt-holiday-festivities-travel/",
+   "source": "CBS News",
+   "date": "2026-11-26T18:00:38+00:00",
+   "extrait": "Rain, snow and powerful winds were affecting large stretches of the country on Thanksgiving, potentially disrupting holiday festivities and, in some areas, hampering travel plans.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "cc67702b767b",
+   "titre": "Navires russes ciblés en Libye : les frappes ukrainiennes étaient-elles légales ?",
+   "lien": "https://www.france24.com/fr/europe/20261126-navires-russes-cibl%C3%A9s-libye-les-frappes-ukrainiennes-%C3%A9taient-elles-l%C3%A9gales",
+   "source": "France 24",
+   "date": "2026-11-26T17:56:11+00:00",
+   "extrait": "Après la spectaculaire attaque de l'Ukraine dimanche contre deux navires russes en Libye, les autorités de l'est du pays ont dénoncé une violation de la souveraineté libyenne et promis une réponse à…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "a5a563c2a3a6",
+   "titre": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+   "lien": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-26T17:54:22+00:00",
+   "extrait": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "65cf25819b88",
+   "titre": "Deux Italiens sont morts dans une attaque de drones au Koweït",
+   "lien": "https://www.franceinfo.fr/monde/moyen-orient/deux-italiens-sont-morts-dans-une-attaque-de-drones-au-koweit-annonce-rome_8301744.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-26T17:48:38+00:00",
+   "extrait": "L'Iran dément être derrière l'attaque qui a visé des installations militaires koweïtiennes, où travaillaient les victimes.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "238386efec7c",
+   "titre": "Texas band raises $350,000 to stay for Macy's Thanksgiving parade",
+   "lien": "https://www.cbsnews.com/news/macys-thanksgiving-parade-marching-bands-delay-cost/",
+   "source": "CBS News",
+   "date": "2026-11-26T17:42:30+00:00",
+   "extrait": "Other marching bands from around the U.S. are also raising funds to cover the cost of staying in New York City after the parade was rescheduled for Saturday.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "94d2e60bc99c",
+   "titre": "More than 1,000 flights cancelled or delayed in US as weather disrupts Thanksgiving travel",
+   "lien": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-26T17:38:56+00:00",
+   "extrait": "Massive storms are descending on both US coasts as an estimated 80 million Americans hit the road for Thanksgiving holiday.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "cd846e115603",
+   "titre": "De l’Ukraine à la Corée au Nord : le camp Songdowon mêlé au scandale des enfants déportés",
+   "lien": "https://www.france24.com/fr/asie-pacifique/20261126-de-l-ukraine-a-la-coree-au-nord-le-camp-songdowon-m%C3%AAl%C3%A9-au-scandale-des-enfants-deportes",
+   "source": "France 24",
+   "date": "2026-11-26T17:38:11+00:00",
+   "extrait": "La Corée du Nord a expulsé l’attaché diplomatique suisse à Pyongyang en réponse à la décision de Berne de sanctionner un camp pour enfants accusé d’aider la Russie dans son programme de déportation…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "e191b6cf1134",
+   "titre": "Le virage au forceps des alliés de l’OTAN vers des opérations militaires dopées à l’IA de Palantir",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/26/le-virage-au-forceps-des-allies-de-l-otan-vers-des-operations-militaires-dopees-a-l-ia-de-palantir_6815581_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-26T17:35:04+00:00",
+   "extrait": "Le 30 octobre, sur la base d’Adazi, en Lettonie, a été organisée une simulation grandeur nature de défense du territoire de l’Alliance atlantique, intégralement coordonnée par l’intelligence…",
+   "tags": [
+    "Conflits",
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "4e2afebdb149",
+   "titre": "En Israël, Gadi Eisenkot et le parti de gauche nouent un accord de coalition en vue de former un gouvernement",
+   "lien": "https://www.franceinfo.fr/monde/israel/en-israel-gadi-eisenkot-et-le-parti-de-gauche-nouent-un-accord-de-coalition-en-vue-de-former-un-gouvernement_8301750.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-26T17:26:48+00:00",
+   "extrait": "L'accord du parti Yashar avec Les Démocrates prévoit de donner quatre ministères à des responsables issus de la formation politique de gauche.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "dc423bc29a38",
+   "titre": "Food banks see influx of families ahead of Thanksgiving",
+   "lien": "https://www.cbsnews.com/news/thanksgiving-food-bank-demand-meal-costs/",
+   "source": "CBS News",
+   "date": "2026-11-26T17:19:34+00:00",
+   "extrait": "Across the U.S., volunteers have noticed more families than usual seeking food assistance as people struggle with higher grocery costs.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "3a40abf3874d",
+   "titre": "\"La pensée anti-juifs obsédait Jordan Bardella\" : ce qu'il faut retenir des nouvelles révélations sur des écrits antisémites attribués au patron du Rassemblement national",
+   "lien": "https://www.franceinfo.fr/politique/jordan-bardella/la-pensee-anti-juifs-obsedait-jordan-bardella-ce-qu-il-faut-retenir-des-nouvelles-revelations-sur-des-ecrits-antisemites-attribues-au-patron-du-rassemblement-national_8300919.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-26T17:18:23+00:00",
+   "extrait": "Deux mois après les premières révélations de Mediapart, le site d'investigation et \"Le Monde\" publient de nouveaux messages antisémites attribués au leader d'extrême droite.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "b80c03ad7a8f",
+   "titre": "En Espagne, une journaliste visée par une procédure disciplinaire après s'être interrogée sur la place de l'extrême droite dans les médias publics",
+   "lien": "https://www.franceinfo.fr/monde/espagne/en-espagne-une-journaliste-visee-par-une-procedure-disciplinaire-apres-s-etre-interrogee-sur-la-place-de-l-extreme-droite-dans-les-medias-publics_8301078.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-26T17:16:14+00:00",
+   "extrait": "Silvia Intxaurrondo, journaliste sur la chaîne publique RTVE, risque une sanction de la part de l'organe chargé de superviser les élections. En cause, une séquence à l'antenne dans laquelle elle…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "198bc35571e4",
+   "titre": "En Haïti, “les gangs ont peur” face aux troupes salvadoriennes",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/les-observateurs/20261126-en-ha%C3%AFti-les-gangs-ont-peur-face-aux-troupes-salvadoriennes",
+   "source": "France 24",
+   "date": "2026-11-26T17:15:29+00:00",
+   "extrait": "Déployées en Haïti fin octobre à l’initiative de Nayib Bukele, les troupes salvadoriennes sont accueillies favorablement à Port-au-Prince. Les habitants interrogés par notre rédaction y voient un…",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "73ca6b07b021",
+   "titre": "Doliprane, Dafalgan et Efferalgan… Pourquoi la boîte de paracétamol va-t-elle augmenter ?",
+   "lien": "https://www.franceinfo.fr/sante/medicament/doliprane-dafalgan-et-efferalgan-pourquoi-la-boite-de-paracetamol-va-t-elle-augmenter_8301477.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-26T17:13:11+00:00",
+   "extrait": "L'État s'apprête à revaloriser le prix du médicament fabriqué en France à compter de juillet 2027 après des années de gel tarifaire.",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "cad8bb796c72",
+   "titre": "\"On doit montrer qu'on est capables de rebondir\" : face au Levski Sofia, l'OM veut éloigner le spectre de la rechute en Ligue Europa",
+   "lien": "https://www.franceinfo.fr/sports/foot/ligue-europa/on-doit-montrer-qu-on-est-capables-de-rebondir-face-au-levski-sofia-l-om-veut-eloigner-le-spectre-de-la-rechute-en-ligue-europa_8299989.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-26T17:12:05+00:00",
+   "extrait": "Renversés sur leur pelouse par le Mans dimanche en Ligue 1, les Marseillais veulent repartir de l'avant sur la scène européenne face au club bulgare, jeudi.",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "4fa9b1cec0fe",
+   "titre": "L'Américain Campbell Wright vainqueur surprise de la première course de la saison, l'individuel de Kontiolahti, les Bleus hors du coup",
+   "lien": "https://www.franceinfo.fr/sports/sports-d-hiver/biathlon/l-americain-campbell-wright-vainqueur-surprise-de-la-premiere-course-de-la-saison-l-individuel-de-kontiolahti-les-bleus-hors-du-coup_8301633.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-26T17:11:01+00:00",
+   "extrait": "Les Français ont signé une reprise très mitigée, avec seul Emilien Claude dans le Top 8 de la reprise de la Coupe du monde 2026-2027, et Eric Perrot, 11e.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "77a4414c9ecd",
+   "titre": "Israël : Gadi Eisenkot et le parti de gauche Les Démocrates nouent un accord de coalition, premier pas vers la formation d’un gouvernement",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/26/israel-gadi-eisenkot-et-le-parti-de-gauche-les-democrates-nouent-un-accord-de-coalition-premier-pas-vers-la-formation-d-un-gouvernement_6815576_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-26T17:08:19+00:00",
+   "extrait": "Les discussions entre les deux partis avaient été rompues mardi, faute d’entente sur la répartition des portefeuilles ministériels.",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "e7181de8044d",
+   "titre": "France : le procès de l'ancienne figure jihadiste Émilie König s'est ouvert",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261126-france-le-proc%C3%A8s-de-l-ancienne-figure-jihadiste-%C3%A9milie-k%C3%B6nig-s-est-ouvert",
+   "source": "France 24",
+   "date": "2026-11-26T17:02:54+00:00",
+   "extrait": "Le procès d'Émilie König, accusée d'avoir été l'une des plus actives propagandistes françaises du groupe jihadiste État islamique en Syrie, s'est ouvert jeudi 26 novembre devant la cour d'assises…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "9b0b01735e56",
    "titre": "Oil prices inch back up as Iran and the Houthis escalate threats",
    "lien": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
@@ -30,6 +239,43 @@
    "extrait": "Increased fighting between Iran's Houthi allies and Saudi Arabia and Tehran's unrelenting threats in the Strait of Hormuz appear to be reversing weeks of oil price declines.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "9c191f9841aa",
+   "titre": "Espagne : un navire avec 7 000 tonne de diesel coule au large d'Ibiza",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261126-espagne-un-navire-avec-7-000-tonne-de-diesel-coule-au-large-d-ibiza",
+   "source": "France 24",
+   "date": "2026-11-26T17:00:47+00:00",
+   "extrait": "Un navire transportant jusqu'à 7 000 tonnes de diesel a coulé jeudi 26 novembre au large de l'île espagnole d'Ibiza, en Méditerranée. L'équipage de 17 membres a été secouru, mais l'un d'entre eux a…",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "f81283edf340",
+   "titre": "Comment protéger ses enfants du racisme ? Des mères de Trappes témoignent",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/pas-2-quartier/20261126-comment-prot%C3%A9ger-ses-enfants-du-racisme-des-m%C3%A8res-de-trappes-t%C3%A9moignent",
+   "source": "France 24",
+   "date": "2026-11-26T17:00:45+00:00",
+   "extrait": "Comment être parent à Trappes après l'attentat raciste du 23 octobre ? Dans cette ville des Yvelines, souvent réduite à ses drames et à ses difficultés, l'attaque a ravivé un sentiment de…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "11c8a3602927",
+   "titre": "Dix ans de l’accord de paix en Colombie : « Se taire n’était pas une option, c’est pourquoi l’Eglise catholique a décidé de s’impliquer »",
+   "lien": "https://www.lemonde.fr/le-monde-des-religions/article/2026/11/26/dix-ans-de-l-accord-de-paix-en-colombie-se-taire-n-etait-pas-une-option-c-est-pourquoi-l-eglise-catholique-a-decide-de-s-impliquer_6815575_6038514.html",
+   "source": "Le Monde",
+   "date": "2026-11-26T17:00:19+00:00",
+   "extrait": "Le 24 novembre 2016, le gouvernement colombien signait un accord de paix avec les Forces armées révolutionnaires de Colombie (FARC), la plus ancienne guérilla d’Amérique latine. L’Eglise catholique…",
+   "tags": [
+    "Politique",
+    "Conflits"
+   ],
+   "zone": "france"
   },
   {
    "id": "78728117d49a",
@@ -44,18 +290,8 @@
    "zone": "france"
   },
   {
-   "id": "dc423bc29a38",
-   "titre": "Food banks see influx of families ahead of Thanksgiving",
-   "lien": "https://www.cbsnews.com/news/thanksgiving-food-bank-demand-meal-costs/",
-   "source": "CBS News",
-   "date": "2026-11-26T16:53:12+00:00",
-   "extrait": "Across the U.S., volunteers have noticed more families than usual seeking food assistance as people struggle with higher grocery costs.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "94f52530b7b8",
-   "titre": "A cause de la sécheresse, 89 000 personnes sont encore privées d'eau potable au robinet",
+   "titre": "A cause de la sécheresse, 89 000 personnes ont des difficultés d'accès à l'eau potable au robinet",
    "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/a-cause-de-la-secheresse-89-000-personnes-sont-encore-privees-d-eau-potable-au-robinet_8301588.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-11-26T16:47:45+00:00",
@@ -74,16 +310,6 @@
    "zone": "usa"
   },
   {
-   "id": "238386efec7c",
-   "titre": "Texas band raises $350,000 to stay for Macy's Thanksgiving parade",
-   "lien": "https://www.cbsnews.com/news/macys-thanksgiving-parade-marching-bands-delay-cost/",
-   "source": "CBS News",
-   "date": "2026-11-26T16:44:42+00:00",
-   "extrait": "Other marching bands from around the U.S. are also raising funds to cover the cost of staying in New York City after the parade was rescheduled for Saturday.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
    "id": "9735cbf9a98d",
    "titre": "Les houthis du Yémen attaquent une raffinerie dans le sud de l'Arabie saoudite, selon la coalition menée par Riyad",
    "lien": "https://www.franceinfo.fr/monde/proche-orient/les-houthis-du-yemen-attaquent-une-raffinerie-dans-le-sud-de-l-arabie-saoudite-selon-la-coalition-menee-par-riyad_8301648.html#xtor=RSS-3-[lestitres]",
@@ -96,26 +322,15 @@
    "zone": "france"
   },
   {
-   "id": "49155e6c4871",
-   "titre": "Maps show where Thanksgiving storms could disrupt holiday",
-   "lien": "https://www.cbsnews.com/news/maps-thanksgiving-storms-disrupt-holiday-festivities-travel/",
-   "source": "CBS News",
-   "date": "2026-11-26T16:40:00+00:00",
-   "extrait": "Rain, snow and powerful winds were affecting large stretches of the country on Thanksgiving, potentially disrupting holiday festivities and, in some areas, hampering travel plans.",
+   "id": "f6faa95c11cb",
+   "titre": "Propos antisémites de Bardella : la candidat qualifie l'enquête de \"chasse à l'homme\"",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261126-propos-antis%C3%A9mites-de-bardella-la-candidat-qualifie-l-enqu%C3%AAte-de-chasse-%C3%A0-l-homme",
+   "source": "France 24",
+   "date": "2026-11-26T16:37:54+00:00",
+   "extrait": "Mediapart ⁠publie jeudi 26 novembre, ainsi ​que Le Monde, de nouveaux extraits d'une conversation sur Facebook Messenger attestant selon eux de propos antisémites et complotistes de Jordan Bardella…",
    "tags": [
-    "Climat"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "a5a563c2a3a6",
-   "titre": "Italy says two citizens killed in Iranian strike in Kuwait",
-   "lien": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-26T16:39:30+00:00",
-   "extrait": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
-   "tags": [
-    "Conflits"
+    "Politique",
+    "Justice"
    ],
    "zone": "monde"
   },
@@ -128,6 +343,18 @@
    "extrait": "L'examen du texte à l'Assemblée nationale est prévu le 7 décembre, avant son vote pour une adoption définitive au Sénat.",
    "tags": [
     "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "a7e9a5c53685",
+   "titre": "Législatives en Espagne : les cartes et graphiques pour comprendre comment la crise du logement est devenue un enjeu de la campagne",
+   "lien": "https://www.lemonde.fr/international/visuel/2026/11/26/legislatives-en-espagne-les-cartes-et-graphiques-pour-comprendre-comment-la-crise-du-logement-est-devenue-un-enjeu-de-la-campagne_6815566_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-26T16:30:10+00:00",
+   "extrait": "« Le modèle espagnol sous pression » (1/3). La flambée des prix de l’immobilier cristallise les angoisses des électeurs, à la veille du scrutin du 29 novembre. Depuis dix ans, il devient de plus en…",
+   "tags": [
+    "Économie"
    ],
    "zone": "france"
   },
@@ -155,6 +382,31 @@
    "zone": "france"
   },
   {
+   "id": "37a3c651b29a",
+   "titre": "Haïti : corruption, impunité, rôle des politiques... Que cache la guerre des gangs ?",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261126-ha%C3%AFti-corruption-impunit%C3%A9-r%C3%B4le-des-politiques-que-cache-la-guerre-des-gangs",
+   "source": "France 24",
+   "date": "2026-11-26T16:21:51+00:00",
+   "extrait": "La police nationale haïtienne à annoncer avoir tué 34 membres d'un gang lors d'une opération menée jeudi 26 novembre dans un quartier de Port-au-Prince, capitale d'Haïti touché par les violences de…",
+   "tags": [
+    "Conflits",
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "16d8ca32d479",
+   "titre": "Jihadisme : la Française Émilie König devant la justice",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261126-jihadisme-la-fran%C3%A7aise-%C3%A9milie-k%C3%B6nig-devant-la-justice",
+   "source": "France 24",
+   "date": "2026-11-26T16:21:36+00:00",
+   "extrait": "La Bretonne Émilie König, accusée d'avoir été l'une des plus actives propagandistes françaises du groupe jihadiste État islamique (EI) en Syrie, a exprimé sa \"honte\", jeudi à l'ouverture de son…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "184ed2e92675",
    "titre": "Nine injured, three critically, after Bangkok oil refinery explosion",
    "lien": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
@@ -162,6 +414,19 @@
    "date": "2026-11-26T16:21:19+00:00",
    "extrait": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.",
    "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "a10fb927f035",
+   "titre": "Le froid tue plus que la chaleur en France : plus de 31 300 décès liés au froid en 2024",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261126-le-froid-tue-plus-que-la-chaleur-en-france-plus-de-31-300-d%C3%A9c%C3%A8s-li%C3%A9s-au-froid-en-2024",
+   "source": "France 24",
+   "date": "2026-11-26T16:19:20+00:00",
+   "extrait": "Chaque hiver, lorsque les températures chutent, les conditions de vie deviennent plus difficiles pour les personnes les plus vulnérables alors que 330 000 personnes sont sans-abris en France. Les…",
+   "tags": [
+    "Conflits",
+    "Santé"
+   ],
    "zone": "monde"
   },
   {
@@ -187,6 +452,31 @@
     "Conflits"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "3152899eafd7",
+   "titre": "Rénovation énergétique : le gouvernement inflexible face aux maires inquiets des coupes budgétaires",
+   "lien": "https://www.lemonde.fr/planete/article/2026/11/26/renovation-energetique-le-gouvernement-inflexible-face-aux-maires-inquiets-des-coupes-budgetaires_6815563_3244.html",
+   "source": "Le Monde",
+   "date": "2026-11-26T16:15:01+00:00",
+   "extrait": "Vincent Tejedor, secrétaire général à la planification écologique et chef du pôle vert de Matignon, a été interpellé par des élus locaux, mercredi 25 novembre, lors d’une table ronde au congrès des…",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "2055c38f4f67",
+   "titre": "Ligue des champions : le Bayern renversé par Lille qui se replace dans la course aux barrages",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261126-ligue-des-champions-le-bayern-renvers%C3%A9-par-lille-qui-se-replace-dans-la-course-aux-barrages",
+   "source": "France 24",
+   "date": "2026-11-26T16:14:56+00:00",
+   "extrait": "Dominé durant la première mi-temps par le Bayern Munich, Lille a su inverser la tendance après la pause pour s'imposer 2-1, décrochant ainsi son premier succès de cette saison en Ligue des champions…",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "monde"
   },
   {
    "id": "75f4248291bf",
@@ -218,22 +508,10 @@
    "titre": "La vente du diamantaire De Beers se dessine, dans un secteur ébranlé par les pierres de synthèse",
    "lien": "https://www.lemonde.fr/economie/article/2026/11/26/la-vente-du-diamantaire-de-beers-se-dessine-dans-un-secteur-ebranle-par-les-pierres-de-synthese_6815560_3234.html",
    "source": "Le Monde",
-   "date": "2026-11-26T16:00:07+00:00",
+   "date": "2026-11-26T16:00:03+00:00",
    "extrait": "Un consortium d’entreprises diamantaire, allié à plusieurs Etats producteurs comme le Bostwana, l’Angola et la Namibie, se positionne pour acheter la société sud-africaine De Beers au groupe minier…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "94d2e60bc99c",
-   "titre": "Hundreds of flights cancelled as severe weather disrupts Thanksgiving travel in US",
-   "lien": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-26T15:57:26+00:00",
-   "extrait": "More than 80 million Americans are expected to be traveling as massive storms are forecast on the western and eastern coasts of the US.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "monde"
   },
   {
    "id": "91adc31ef91e",
@@ -1236,16 +1514,6 @@
    "source": "franceinfo",
    "date": "2026-11-26T11:24:53+00:00",
    "extrait": "\"Les investigations, d'une particulière technicité, se poursuivent\", a déclaré le parquet.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "3a40abf3874d",
-   "titre": "\"La pensée anti-juifs obsédait Jordan Bardella\" : ce qu'il faut retenir des nouvelles révélations sur des écrits antisémites attribués au patron du Rassemblement national",
-   "lien": "https://www.franceinfo.fr/politique/jordan-bardella/la-pensee-anti-juifs-obsedait-jordan-bardella-ce-qu-il-faut-retenir-des-nouvelles-revelations-sur-des-ecrits-antisemites-attribues-au-patron-du-rassemblement-national_8300919.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-26T11:24:41+00:00",
-   "extrait": "Deux mois après les premières révélations de Mediapart, le site d'investigation et \"Le Monde\" publient de nouveaux messages antisémites attribués au leader d'extrême droite.",
    "tags": [],
    "zone": "france"
   },
@@ -2470,18 +2738,6 @@
    "zone": "france"
   },
   {
-   "id": "cad8bb796c72",
-   "titre": "\"On doit montrer qu'on est capables de rebondir\" : face au Levski Sofia, l'OM veut éloigner le spectre de la rechute en Ligue Europa",
-   "lien": "https://www.franceinfo.fr/sports/foot/ligue-europa/on-doit-montrer-qu-on-est-capables-de-rebondir-face-au-levski-sofia-l-om-veut-eloigner-le-spectre-de-la-rechute-en-ligue-europa_8299989.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-26T05:30:02+00:00",
-   "extrait": "Renversés sur leur pelouse par le Mans dimanche en Ligue 1, les Marseillais veulent repartir de l'avant sur la scène européenne face au club bulgare, jeudi.",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "d0fc7403de8a",
    "titre": "Se réveiller en pleine anesthésie et s’en souvenir : les séquelles d’un phénomène méconnu",
    "lien": "https://www.lemonde.fr/sciences/article/2026/11/26/se-reveiller-en-pleine-anesthesie-et-s-en-souvenir-les-sequelles-d-un-phenomene-meconnu_6815479_1650684.html",
@@ -3209,238 +3465,6 @@
    "tags": [
     "Climat"
    ],
-   "zone": "usa"
-  },
-  {
-   "id": "199d065c3429",
-   "titre": "Andy Taylor, longtime Duran Duran guitarist, dies at 65",
-   "lien": "https://www.cbsnews.com/news/andy-taylor-guitarist-duran-duran-dies-age-65/",
-   "source": "CBS News",
-   "date": "2026-11-26T00:32:00+00:00",
-   "extrait": "Andy Taylor, the original guitarist of the 1980s English new wave band Duran Duran, has died at age 65 following a battle with prostate cancer.",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "52e4b6687b49",
-   "titre": "Tips for baking your best Thanksgiving bird with Butterball Turkey",
-   "lien": "https://www.cbsnews.com/video/tips-baking-best-thanksgiving-bird-butterball-turkey/",
-   "source": "CBS News",
-   "date": "2026-11-26T00:29:00+00:00",
-   "extrait": "From food safety to tips on preparing the best bird, the Butterball Turkey Talk-Line has helped hundreds of thousands of callers bake their best turkey since 1981. Mary Alice Coffey from the hotline…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "b729be2c284f",
-   "titre": "How to handle high costs for family caregiving",
-   "lien": "https://www.cbsnews.com/video/how-to-handle-high-costs-for-family-caregiving/",
-   "source": "CBS News",
-   "date": "2026-11-26T00:27:07+00:00",
-   "extrait": "As Americans prepare for Thanksgiving, they also may be getting ready for some difficult conversations with their loved ones about care-giving, particularly as their parents get older. Rita Choula…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "0ebcfcefdabc",
-   "titre": "The US pastor who wants to see women's right to vote overturned",
-   "lien": "https://www.bbc.co.uk/news/articles/cwe89jyz4012o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-26T00:24:25+00:00",
-   "extrait": "The movement to repeal women's right to vote has gained traction amongst some very conservative Christians.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "18f7881ff12e",
-   "titre": "Spanish elections: What you need to know and what's at stake",
-   "lien": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-26T00:23:49+00:00",
-   "extrait": "After eight years of Socialist-led rule, snap elections are taking place on Sunday with conservative Alberto Núñez Feijóo vying to win office.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "d278f649d28c",
-   "titre": "France's political mainstream risks presidential vote debacle with no clear candidate",
-   "lien": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-26T00:23:27+00:00",
-   "extrait": "Hard-right and hard-left candidates dominate the polls ahead of next year's presidential election.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "f173cde591e3",
-   "titre": "Has global jihadism failed, or is it simply changing shape?",
-   "lien": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-26T00:22:18+00:00",
-   "extrait": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "6305a070ebf8",
-   "titre": "Ligue des champions : le LOSC renverse le Bayern Münich et se relance dans la course à la qualification",
-   "lien": "https://www.lemonde.fr/sport/article/2026/11/26/ligue-des-champions-le-losc-renverse-le-bayern-munich-et-se-relance-dans-la-course-a-la-qualification_6815230_3242.html",
-   "source": "Le Monde",
-   "date": "2026-11-26T00:15:53+00:00",
-   "extrait": "Menés (0-1) après une terne première période, les Lillois ont bien réagi, mercredi 25 novembre, pour remporter une victoire cruciale (2-1) et de prestige face aux Bavarois. Vingt-neuvièmes au…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "7b1a55a4366e",
-   "titre": "Trump says he'll meet with El-Sayed about healthcare",
-   "lien": "https://www.cbsnews.com/video/trump-says-hell-meet-with-el-sayed-about-healthcare/",
-   "source": "CBS News",
-   "date": "2026-11-26T00:09:15+00:00",
-   "extrait": "President Trump tells the New York Post he'll meet with Sen.-elect Abdul El-Sayed on the topic of healthcare. CBS News' Zak Hudak and Fin Gómez have more.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "8c552cbc22ed",
-   "titre": "Mali : le JNIM lance un ultimatum aux habitants de Tonka",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261126-mali-le-jnim-lance-un-ultimatum-aux-habitants-de-tonka",
-   "source": "France 24",
-   "date": "2026-11-26T00:03:50+00:00",
-   "extrait": "Au Mali, le JNIM donne jusqu'à vendredi aux habitants de Tonka, dans la région de Tombouctou, pour quitter la ville avant la mise en place d'un blocus. Pourquoi cet ultimatum et quelles conséquences…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "f93973629abd",
-   "titre": "Advocacy group urges Democrats to build relationships with working class voters",
-   "lien": "https://www.cbsnews.com/video/advocacy-group-urges-democrats-to-build-relationships-with-working-class-voters/",
-   "source": "CBS News",
-   "date": "2026-11-25T23:52:24+00:00",
-   "extrait": "A political advocacy group, Winning Working People Action, is urging Democrats not to be complacent after their midterm victories and to continue forging relationships with working class voters…",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "e83c2f3076a1",
-   "titre": "Budget 2027 : le Sénat approuve l’effort de cinq milliards d’euros demandé aux grandes entreprises",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/26/budget-2027-le-senat-approuve-l-effort-de-cinq-milliards-d-euros-demande-aux-grandes-entreprises_6815197_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-25T23:50:44+00:00",
-   "extrait": "La droite sénatoriale, majoritaire dans l’Hémicycle et souvent frileuse sur la taxation des entreprises, a consenti à cette mesure. « Regardons l’état de notre déficit. Il faut que tout le monde…",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "2e6919482f73",
-   "titre": "How to protect yourself from identity theft and fraud during the holidays",
-   "lien": "https://www.cbsnews.com/video/how-to-protect-yourself-from-identity-theft-and-fraud-during-the-holidays/",
-   "source": "CBS News",
-   "date": "2026-11-25T23:42:54+00:00",
-   "extrait": "A report form cybersecurity firm SentiLink warns that fraud rates jump by about a third on Thanksgiving and Christmas. David Maimon, SentiLink's head of fraud insights, joins CBS News to discuss.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "fd45beaaa06d",
-   "titre": "11/25: CBS Evening News",
-   "lien": "https://www.cbsnews.com/video/112526-cbs-evening-news/",
-   "source": "CBS News",
-   "date": "2026-11-25T23:30:00+00:00",
-   "extrait": "Macy's Thanksgiving Day Parade is postponed until Saturday; Thanksgiving travelers rush to beat bad weather.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "b13fbd076131",
-   "titre": "A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168",
-   "lien": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-25T23:26:50+00:00",
-   "extrait": "A year after one of Hong Kong's deadliest fires, families left behind are still waiting for justice.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "e94d7b6a3b40",
-   "titre": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
-   "lien": "https://www.bbc.co.uk/news/articles/cmvg2989wv74o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-25T23:18:27+00:00",
-   "extrait": "The Hollywood A-listers' legal battle focused on the vineyard they bought in 2008 and where they wed six years later.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "4c116bbdd7f1",
-   "titre": "U.S.-based firms helping China access Nvidia's most advanced chips",
-   "lien": "https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/",
-   "source": "CBS News",
-   "date": "2026-11-25T23:10:00+00:00",
-   "extrait": "It's not just Megaspeed. A CBS News investigation reveals that at least two California-based Nvidia customers have Chinese ownership — giving the U.S. adversary potential access to Nvidia's most…",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "7921ee1826e8",
-   "titre": "Trump says he would be willing to pardon Jensen Huang if necessary",
-   "lien": "https://www.cbsnews.com/video/trump-says-he-would-be-willing-to-pardon-jensen-huang-if-necessary/",
-   "source": "CBS News",
-   "date": "2026-11-25T23:09:18+00:00",
-   "extrait": "President Trump told the New York Post he would pardon Nvidia CEO Jensen Huang if necessary. CBS News' Weijia Jiang reports and Puck News AI correspondent Ian Krietzberg joins with more.",
-   "tags": [
-    "Politique",
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "6a36885bf0cb",
-   "titre": "Trump introduces new tariffs on China, EU and major trading partners",
-   "lien": "https://www.cbsnews.com/video/trump-introduces-new-tariffs-on-china-eu-and-major-trading-partners/",
-   "source": "CBS News",
-   "date": "2026-11-25T23:02:50+00:00",
-   "extrait": "The Trump administration announced a new wave of tariffs Wednesday against China, the European Union and a dozen other trading partners. CBS News' Weijia Jiang has more.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "8482dfb29dd7",
-   "titre": "Le train Oxygène, destiné à remplacer les anciens Corail sur les liaisons Intercités Paris-Clermont et Paris-Toulouse, dévoilé au public",
-   "lien": "https://www.franceinfo.fr/economie/transports/le-train-oxygene-destine-a-remplacer-les-anciens-corail-sur-les-liaisons-intercites-paris-clermont-et-paris-toulouse-devoile-au-public_8300403.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-25T23:00:46+00:00",
-   "extrait": "La date exacte de mise en service de ce train présenté mercredi, officiellement prévue \"à l'été\", reste cependant incertaine.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "e54a5864a16f",
-   "titre": "Army calls Iowa detonation a success, EPA says no lead in air around plant",
-   "lien": "https://www.cbsnews.com/video/army-calls-iowa-detonation-a-success/",
-   "source": "CBS News",
-   "date": "2026-11-25T22:49:01+00:00",
-   "extrait": "The U.S. Army says Wednesday's detonation of a stockpile of degraded bomb-making chemicals in Iowa was a success. CBS News' Ian Lee reports.",
-   "tags": [],
    "zone": "usa"
   }
  ]

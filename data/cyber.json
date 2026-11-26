@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-26T17:05:40+00:00",
+ "maj": "2026-11-26T18:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,26 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "1c0fdc3979bb",
+   "titre": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
+   "lien": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
+   "source": "BleepingComputer",
+   "date": "2026-11-26T17:58:42+00:00",
+   "extrait": "NordVPN's 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection. [...]",
+   "tags": []
+  },
+  {
+   "id": "42756c94ced7",
+   "titre": "Fake paid expert interviews impersonate brands to steal Google logins",
+   "lien": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
+   "source": "BleepingComputer",
+   "date": "2026-11-26T17:15:27+00:00",
+   "extrait": "An ongoing phishing campaign dubbed \"GoodGuys\" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to…",
+   "tags": [
+    "Malware"
+   ]
+  },
   {
    "id": "17ea7e9dd6a3",
    "titre": "Remus malware steals Gmail messages via fake Google Sheets extension",
@@ -3331,30 +3351,6 @@
    "date": "2026-11-17T18:04:15+00:00",
    "extrait": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and…",
    "tags": []
-  },
-  {
-   "id": "3241c5d0e909",
-   "titre": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
-   "lien": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
-   "source": "BleepingComputer",
-   "date": "2026-11-17T16:00:00+00:00",
-   "extrait": "Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]",
-   "tags": [
-    "Outil",
-    "Linux"
-   ]
-  },
-  {
-   "id": "7a7b2eaa4aa9",
-   "titre": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
-   "lien": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
-   "source": "The Hacker News",
-   "date": "2026-11-17T15:17:36+00:00",
-   "extrait": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports…",
-   "tags": [
-    "CVE",
-    "Faille"
-   ]
   }
  ]
 }
