@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-26T07:05:39+00:00",
+ "maj": "2026-11-26T08:05:38+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,31 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "457c08cf27ea",
+   "titre": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+   "lien": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
+   "source": "The Hacker News",
+   "date": "2026-11-26T07:02:34+00:00",
+   "extrait": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has…",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
+  },
+  {
+   "id": "1d57aa7ac03a",
+   "titre": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
+   "lien": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
+   "source": "The Hacker News",
+   "date": "2026-11-26T06:44:46+00:00",
+   "extrait": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting…",
+   "tags": [
+    "CVE",
+    "Faille",
+    "Fuite de données"
+   ]
+  },
   {
    "id": "420627cd7e6f",
    "titre": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
@@ -3332,26 +3357,6 @@
    "tags": [
     "Faille",
     "Mobile"
-   ]
-  },
-  {
-   "id": "e5f38235f326",
-   "titre": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
-   "lien": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
-   "source": "The Hacker News",
-   "date": "2026-11-17T06:29:27+00:00",
-   "extrait": "ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is…",
-   "tags": []
-  },
-  {
-   "id": "53f800bdf7a6",
-   "titre": "Rassemblement National : une seconde fuite de données ?",
-   "lien": "https://www.zataz.com/rassemblement-national-une-seconde-fuite-de-donnees/",
-   "source": "Zataz",
-   "date": "2026-11-17T06:29:20+00:00",
-   "extrait": "Un pirate revendique 500 782 nouvelles données du RN à vendre. Il affiche aussi un accés informatique interne.",
-   "tags": [
-    "Fuite de données"
    ]
   }
  ]
