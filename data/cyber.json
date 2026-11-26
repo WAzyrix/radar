@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-26T13:05:39+00:00",
+ "maj": "2026-11-26T14:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,15 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "42b940ee1adf",
+   "titre": "GB Museum - Une cartouche Game Boy qui n'est pas jouable",
+   "lien": "https://korben.info/game-boy-musee-cartouche.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-26T12:26:15+00:00",
+   "extrait": "Un collectionneur zurichois a rangé plus de 350 objets de son musée du Game Boy et un petit wiki dans une ROM gratuite, à lancer dans le navigateur ou sur une vraie DMG-01, avec des QR codes qui…",
+   "tags": []
+  },
   {
    "id": "23ec231ca044",
    "titre": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
@@ -3345,17 +3354,6 @@
    "tags": [
     "Fuite de données",
     "IA"
-   ]
-  },
-  {
-   "id": "8093d6fa14bc",
-   "titre": "Cyberattaque : 765 000 euros d’or dérobés à des clients",
-   "lien": "https://www.zataz.com/cyberattaque-765-000-euros-dor-derobes-a-des-clients/",
-   "source": "Zataz",
-   "date": "2026-11-17T07:47:16+00:00",
-   "extrait": "Cyberattaque et vol de données clients : de faux policiers dérobent au moins 765 000 euros d'or en France.",
-   "tags": [
-    "Fuite de données"
    ]
   }
  ]
