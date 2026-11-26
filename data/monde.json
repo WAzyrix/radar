@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-26T03:05:41+00:00",
+ "maj": "2026-11-26T04:05:46+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,69 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "41f7e3a0fbc8",
+   "titre": "Macy's postpones Thanksgiving parade due to severe weather",
+   "lien": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-26T04:04:14+00:00",
+   "extrait": "The was the first time ever that the iconic celebration was delayed because of storms. New York expects damaging winds and heavy rainfall over the Thanksgiving holiday.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "88b5dca185f0",
+   "titre": "Trump owned millions in Nvidia stock as he pressed for Jensen Huang's reinstatement",
+   "lien": "https://www.cbsnews.com/news/trump-nvidia-stock-jensen-huang/",
+   "source": "CBS News",
+   "date": "2026-11-26T03:31:32+00:00",
+   "extrait": "President Trump holds tens of millions in Nvidia shares, giving him a personal stake in the company's stock market roller coaster ride of the past two weeks, financial disclosure documents show.",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "42e16bc717fb",
+   "titre": "Army detonates toxic explosives at Iowa plant despite concerns",
+   "lien": "https://www.cbsnews.com/news/iowa-army-ammunition-plant-unstable-explosives-detonation/",
+   "source": "CBS News",
+   "date": "2026-11-26T03:30:47+00:00",
+   "extrait": "The U.S. Army detonated a stockpile of degrading explosives at a munitions plant in Iowa on Wednesday, after days of back-and-forth between politicians and the courts.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "f60a58896f88",
+   "titre": "En direct : Trump et le chef de l'Otan exhortent Moscou à ne pas \"étendre la guerre\" avec l'Ukraine",
+   "lien": "https://www.france24.com/fr/europe/20261126-en-direct-ukraine-russie-ue-sommet-aide-zelensky-poutine",
+   "source": "France 24",
+   "date": "2026-11-26T03:26:29+00:00",
+   "extrait": "Donald Trump et le chef de l'Otan, Mark Rutte, ont appelé la Russie à ne pas \"étendre la guerre\" en Ukraine, dans une déclaration conjointe publiée mercredi à l'issue d'une rencontre à la résidence…",
+   "tags": [
+    "Politique",
+    "Économie",
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "49155e6c4871",
+   "titre": "Maps show where Thanksgiving storms could disrupt holiday",
+   "lien": "https://www.cbsnews.com/news/maps-thanksgiving-storms-disrupt-holiday-festivities-travel/",
+   "source": "CBS News",
+   "date": "2026-11-26T03:19:33+00:00",
+   "extrait": "Rain, snow and powerful winds were forecast to impact large stretches of the country on Thanksgiving, potentially disrupting holiday festivities and, in some areas, hampering travel plans.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "usa"
+  },
   {
    "id": "7940036035fa",
    "titre": "US announces new tariffs on host of countries including China",
@@ -93,7 +156,7 @@
    "titre": "SpaceX reçoit l’autorisation de lancer jusqu’à un million de satellites pour ses centres de données spatiaux",
    "lien": "https://www.lemonde.fr/sciences/article/2026/11/26/spacex-recoit-l-autorisation-de-lancer-jusqu-a-un-million-de-satellites-pour-ses-centres-de-donnees-spatiaux_6815331_1650684.html",
    "source": "Le Monde",
-   "date": "2026-11-26T01:52:31+00:00",
+   "date": "2026-11-26T01:52:26+00:00",
    "extrait": "La course aux data centers spatiaux s’intensifie, l’espace offrant de nombreux avantages par rapport à la terre. Google mène ses propres travaux et Blue Origin a soumis une demande pour son projet.",
    "tags": [
     "Tech"
@@ -124,11 +187,11 @@
   },
   {
    "id": "dbf1f5ff4074",
-   "titre": "California warns of flooding as king tides peak over Thanksgiving",
+   "titre": "California warns of flooding as King Tides peak over Thanksgiving",
    "lien": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-26T01:22:55+00:00",
-   "extrait": "Parts of the Canadian province of British Columbia may also be affected by the storms, which come as millions of people travel for the holiday.",
+   "extrait": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday.",
    "tags": [
     "Climat"
    ],
@@ -278,18 +341,6 @@
    "date": "2026-11-26T00:54:00+00:00",
    "extrait": "A crash involving a fuel tanker has ignited a massive fire on a major highway surrounding Cairo, killing at least 31 people.",
    "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "42e16bc717fb",
-   "titre": "Army detonates toxic explosives at Iowa plant despite concerns",
-   "lien": "https://www.cbsnews.com/news/iowa-army-ammunition-plant-unstable-explosives-detonation/",
-   "source": "CBS News",
-   "date": "2026-11-26T00:50:00+00:00",
-   "extrait": "The U.S. Army detonated a stockpile of degrading explosives at a munitions plant in Iowa on Wednesday, after days of back-and-forth between politicians and the courts.",
-   "tags": [
-    "Justice"
-   ],
    "zone": "usa"
   },
   {
@@ -496,18 +547,6 @@
    "zone": "monde"
   },
   {
-   "id": "41f7e3a0fbc8",
-   "titre": "Macy's postpones Thanksgiving parade due to weather",
-   "lien": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-25T23:57:03+00:00",
-   "extrait": "The was the first time ever that the iconic celebration - known for its massive balloons floating past the city's skyscrapers - was delayed because of storms.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "monde"
-  },
-  {
    "id": "f93973629abd",
    "titre": "Advocacy group urges Democrats to build relationships with working class voters",
    "lien": "https://www.cbsnews.com/video/advocacy-group-urges-democrats-to-build-relationships-with-working-class-voters/",
@@ -554,7 +593,7 @@
   },
   {
    "id": "b13fbd076131",
-   "titre": "A renovation was meant to improve these Hong Kong homes - it ended in an blaze that killed 168",
+   "titre": "A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168",
    "lien": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-25T23:26:50+00:00",
@@ -628,6 +667,18 @@
    "extrait": "The U.S. Army says Wednesday's detonation of a stockpile of degraded bomb-making chemicals in Iowa was a success. CBS News' Ian Lee reports.",
    "tags": [],
    "zone": "usa"
+  },
+  {
+   "id": "3b0ac0f39740",
+   "titre": "Andy Taylor, ex-guitariste de Duran Duran, est décédé à l'âge de 65 ans",
+   "lien": "https://www.france24.com/fr/culture/20261125-andy-taylor-ex-guitariste-de-duran-duran-est-d%C3%A9c%C3%A9d%C3%A9-%C3%A0-l-%C3%A2ge-de-65-ans",
+   "source": "France 24",
+   "date": "2026-11-25T22:45:30+00:00",
+   "extrait": "Le guitariste britannique Andy Taylor, dont le jeu a contribué à forger le son de Duran Duran, groupe phare de la new wave des années 1980, est décédé lundi d'un cancer de la prostate, ont annoncé…",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "monde"
   },
   {
    "id": "1d27643bd66f",
@@ -909,18 +960,6 @@
    "extrait": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
    "tags": [],
    "zone": "monde"
-  },
-  {
-   "id": "49155e6c4871",
-   "titre": "Maps show where Thanksgiving storms could disrupt holiday",
-   "lien": "https://www.cbsnews.com/news/maps-thanksgiving-storms-disrupt-holiday-festivities-travel/",
-   "source": "CBS News",
-   "date": "2026-11-25T21:51:08+00:00",
-   "extrait": "Rain, snow and powerful winds were forecast to impact large stretches of the country on Thanksgiving, potentially disrupting holiday festivities and, in some areas, hampering travel plans.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "usa"
   },
   {
    "id": "f24b8511b708",
@@ -3136,19 +3175,6 @@
    "zone": "france"
   },
   {
-   "id": "88b5dca185f0",
-   "titre": "Trump owned millions in Nvidia stock as he pressed for Jensen Huang's reinstatement",
-   "lien": "https://www.cbsnews.com/news/trump-nvidia-stock-jensen-huang/",
-   "source": "CBS News",
-   "date": "2026-11-25T12:51:00+00:00",
-   "extrait": "President Trump holds tens of millions in Nvidia shares, giving him a personal stake in the company's stock market roller coaster ride of the past two weeks, financial disclosure documents show.",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "ff7e4472793e",
    "titre": "La Coordination rurale va demander à Emmanuel Macron de refuser tout accord sur la PAC qui ne permette pas aux \"agriculteurs de vivre de leur production\"",
    "lien": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/la-coordination-rurale-va-demander-a-emmanuel-macron-de-refuser-tout-accord-sur-la-pac-qui-ne-permette-pas-aux-agriculteurs-de-vivre-de-leur-production_8299683.html#xtor=RSS-3-[lestitres]",
@@ -3416,26 +3442,6 @@
    "extrait": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned.",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "308808d876f1",
-   "titre": "Espace : le premier astronaute pakistanais à bord de la station Tiangong",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261125-espace-le-premier-astronaute-pakistanais-%C3%A0-bord-de-la-station-tiangong",
-   "source": "France 24",
-   "date": "2026-11-25T11:49:52+00:00",
-   "extrait": "La station Tiangong a pour la première fois accueilli à bord, mercredi 25 novembre, le Pakistanais Muhammad Zeeshan Ali. Âgé de 40 ans, il est le premier astronaute étranger à participer à une…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "ab189c979108",
-   "titre": "Pete Edochie, l'une des légendes du cinéma nigérian, est mort à 79 ans",
-   "lien": "https://www.franceinfo.fr/culture/cinema/pete-edochie-l-une-des-legendes-du-cinema-nigerian-est-mort-a-79-ans_8299065.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-25T11:43:08+00:00",
-   "extrait": "Dans les années 1980, sa carrière à Nollywood avait démarré avec l'adaptation télévisée du chef-d'œuvre de Chinua Achebe, \"Tout s'effondre\".",
-   "tags": [],
-   "zone": "france"
   }
  ]
 }
