@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-26T20:05:40+00:00",
+ "maj": "2026-11-26T21:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "2cde4a64c5de",
+   "titre": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+   "lien": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
+   "source": "The Hacker News",
+   "date": "2026-11-26T19:39:57+00:00",
+   "extrait": "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way…",
+   "tags": [
+    "IA"
+   ]
+  },
   {
    "id": "1c0fdc3979bb",
    "titre": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
@@ -3342,15 +3353,6 @@
    "tags": [
     "IA"
    ]
-  },
-  {
-   "id": "6b32b3a76586",
-   "titre": "Tor releases emergency update amid ongoing DDoS attack",
-   "lien": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
-   "source": "BleepingComputer",
-   "date": "2026-11-17T18:04:15+00:00",
-   "extrait": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and…",
-   "tags": []
   }
  ]
 }
