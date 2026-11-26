@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-26T04:05:46+00:00",
+ "maj": "2026-11-26T05:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "98bf0c432201",
+   "titre": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
+   "lien": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
+   "source": "The Hacker News",
+   "date": "2026-11-26T03:48:52+00:00",
+   "extrait": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. \"Most of the packages…",
+   "tags": [
+    "Malware",
+    "Windows"
+   ]
+  },
   {
    "id": "50a53afadcff",
    "titre": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
@@ -3339,19 +3351,6 @@
    "extrait": "N-able has released a new security update to address additional critical security flaws impacting N-central. Describing N-central 2026.4 Hotfix 3 as a critical security update, the company said it…",
    "tags": [
     "Faille"
-   ]
-  },
-  {
-   "id": "05b6417e274f",
-   "titre": "Optimizely supply chain attack infects major brands' sites with malware",
-   "lien": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-infects-major-brands-sites-with-malware/",
-   "source": "BleepingComputer",
-   "date": "2026-11-17T02:12:17+00:00",
-   "extrait": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing…",
-   "tags": [
-    "Faille",
-    "Malware",
-    "Mobile"
    ]
   }
  ]
