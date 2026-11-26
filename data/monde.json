@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-26T02:05:39+00:00",
+ "maj": "2026-11-26T03:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,11 +22,90 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "7940036035fa",
+   "titre": "US announces new tariffs on host of countries including China",
+   "lien": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-26T03:01:40+00:00",
+   "extrait": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "6c2d7ac13e92",
+   "titre": "Judge temporarily blocks FCC from reviewing ABC's licenses",
+   "lien": "https://www.cbsnews.com/news/judge-temporarily-blocks-fcc-from-reviewing-abc-licenses/",
+   "source": "CBS News",
+   "date": "2026-11-26T03:00:27+00:00",
+   "extrait": "A federal judge blocked the FCC from moving forward with an early review of ABC's broadcast licenses, a move the network argues is an attempt by the Trump administration to punish speech it does not…",
+   "tags": [
+    "Politique",
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "5b93e1f5b00b",
+   "titre": "Des grandes marées historiques inondent le littoral californien, San Francisco évite les dévastations redoutées",
+   "lien": "https://www.lemonde.fr/planete/article/2026/11/26/des-grandes-marees-historiques-inondent-le-littoral-californien-san-francisco-evite-les-devastations-redoutees_6815334_3244.html",
+   "source": "Le Monde",
+   "date": "2026-11-26T02:11:54+00:00",
+   "extrait": "Au sud de la métropole californienne, les habitants de la ville de Pacifica ont vu des vagues gigantesques briser le ponton et inonder les rues et les maisons proches de l’océan. L’amplitude de ces…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "4c8bb54764d5",
+   "titre": "Ligue des champions : le PSG tenu en échec par l’AS Roma après une prestation poussive qui met en lumière l’absence de Doué et de « Kvara »",
+   "lien": "https://www.lemonde.fr/sport/article/2026/11/26/ligue-des-champions-le-psg-tenu-en-echec-par-l-as-roma-apres-une-prestation-poussive-qui-met-en-lumiere-l-absence-de-doue-et-de-kvara_6815333_3242.html",
+   "source": "Le Monde",
+   "date": "2026-11-26T02:08:03+00:00",
+   "extrait": "Le double champion d’Europe a été tenu en échec sur sa pelouse (2-2), mercredi, par de valeureux Italiens. Alors que le forfait de longue durée de ses deux attaquants majeurs s’est fait ressentir…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "8b044c3f3d3a",
+   "titre": "A look at the probes involving Nvidia, Jensen Huang and Megaspeed",
+   "lien": "https://www.cbsnews.com/news/nvidia-jensen-huang-megaspeed-investigations/",
+   "source": "CBS News",
+   "date": "2026-11-26T02:07:43+00:00",
+   "extrait": "The reinstatement of Jensen Huang as president and CEO of Nvidia sent shockwaves through the political and business world, and has fueled scrutiny by Congress.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "9cde7b8014dd",
+   "titre": "As foreign troops withdraw from Somalia, could al-Shabab take over?",
+   "lien": "https://www.bbc.co.uk/news/articles/ck62y23z58yeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-26T02:06:10+00:00",
+   "extrait": "Somalia relies heavily on foreign funding and military support for its very survival.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "254cf3a8d48c",
+   "titre": "SpaceX reçoit l’autorisation de lancer jusqu’à un million de satellites pour ses centres de données spatiaux",
+   "lien": "https://www.lemonde.fr/sciences/article/2026/11/26/spacex-recoit-l-autorisation-de-lancer-jusqu-a-un-million-de-satellites-pour-ses-centres-de-donnees-spatiaux_6815331_1650684.html",
+   "source": "Le Monde",
+   "date": "2026-11-26T01:52:31+00:00",
+   "extrait": "La course aux data centers spatiaux s’intensifie, l’espace offrant de nombreux avantages par rapport à la terre. Google mène ses propres travaux et Blue Origin a soumis une demande pour son projet.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "a1d0cb05b1cd",
    "titre": "Macy's Thanksgiving Day Parade postponed for 1st time in history",
    "lien": "https://www.cbsnews.com/news/macys-thanksgiving-day-parade-postponed/",
    "source": "CBS News",
-   "date": "2026-11-26T01:46:08+00:00",
+   "date": "2026-11-26T01:46:00+00:00",
    "extrait": "For the first time in history, the Macy's Thanksgiving Day Parade has been postponed due to weather, Macy's said Wednesday.",
    "tags": [
     "Climat"
@@ -74,16 +153,6 @@
    "extrait": "Even in the world of email, texting and artificial intelligence, the Butterball Turkey hotline has only gotten more popular. The larger team is prepared to field about 100,000 calls this holiday…",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "7940036035fa",
-   "titre": "US announces new tariffs on host of countries including China",
-   "lien": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-26T01:20:14+00:00",
-   "extrait": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-   "tags": [],
-   "zone": "monde"
   },
   {
    "id": "c87a6ab0403d",
@@ -216,7 +285,7 @@
    "titre": "Army detonates toxic explosives at Iowa plant despite concerns",
    "lien": "https://www.cbsnews.com/news/iowa-army-ammunition-plant-unstable-explosives-detonation/",
    "source": "CBS News",
-   "date": "2026-11-26T00:50:37+00:00",
+   "date": "2026-11-26T00:50:00+00:00",
    "extrait": "The U.S. Army detonated a stockpile of degrading explosives at a munitions plant in Iowa on Wednesday, after days of back-and-forth between politicians and the courts.",
    "tags": [
     "Justice"
@@ -472,8 +541,20 @@
    "zone": "usa"
   },
   {
+   "id": "fd45beaaa06d",
+   "titre": "11/25: CBS Evening News",
+   "lien": "https://www.cbsnews.com/video/112526-cbs-evening-news/",
+   "source": "CBS News",
+   "date": "2026-11-25T23:30:00+00:00",
+   "extrait": "Macy's Thanksgiving Day Parade is postponed until Saturday; Thanksgiving travelers rush to beat bad weather.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "b13fbd076131",
-   "titre": "A renovation to upgrade these Hong Kong homes ended in an inferno that killed 168",
+   "titre": "A renovation was meant to improve these Hong Kong homes - it ended in an blaze that killed 168",
    "lien": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-25T23:26:50+00:00",
@@ -1904,18 +1985,6 @@
    "date": "2026-11-25T16:13:56+00:00",
    "extrait": "An Army helicopter on a training mission collided with an American Airlines passenger jet on approach at DCA, killing all aboard both aircraft, in January 2025.",
    "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "8b044c3f3d3a",
-   "titre": "A look at the probes involving Nvidia, Jensen Huang and Megaspeed",
-   "lien": "https://www.cbsnews.com/news/nvidia-jensen-huang-megaspeed-investigations/",
-   "source": "CBS News",
-   "date": "2026-11-25T16:13:16+00:00",
-   "extrait": "The reinstatement of Jensen Huang as president and CEO of Nvidia sent shockwaves through the political and business world, and has fueled scrutiny by Congress.",
-   "tags": [
-    "Politique"
-   ],
    "zone": "usa"
   },
   {
@@ -3365,70 +3434,6 @@
    "source": "franceinfo",
    "date": "2026-11-25T11:43:08+00:00",
    "extrait": "Dans les années 1980, sa carrière à Nollywood avait démarré avec l'adaptation télévisée du chef-d'œuvre de Chinua Achebe, \"Tout s'effondre\".",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "4129ebd31588",
-   "titre": "La présence d’un procureur au siège du RN suscite l’émoi au sein de la magistrature et du ministère de la justice",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/25/la-presence-d-un-procureur-au-siege-du-rn-suscite-l-emoi-au-sein-de-la-magistrature_6815091_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-25T11:39:02+00:00",
-   "extrait": "Lors d’une perquisition de l’IGPN, Christian de Rocquigny, procureur adjoint de Paris, a été aperçu dans les locaux du Rassemblement national. S’il évoque un rendez-vous « amical », qu’aucune règle…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "1196046cc583",
-   "titre": "Scandale Nvidia : l'action de la multinationale replonge à Wall Street",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261125-scandale-nvidia-l-action-de-la-multinationale-replonge-%C3%A0-wall-street",
-   "source": "France 24",
-   "date": "2026-11-25T11:38:58+00:00",
-   "extrait": "L'action Nvidia a lâché mardi 24 novembre plus de 5% après son sursaut de la veille, sur fond d'inquiétudes quant à sa trajectoire et à l'exposition de son patron, Jensen Huang, qui a présenté ses…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "a01ec800e7e3",
-   "titre": "La Ligue des droits de l'homme saisit la justice contre la suspension des aides aux auteurs de dégradations dans les lycées, voulue par Valérie Pécresse",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/la-ldh-saisit-la-justice-contre-la-suspension-des-aides-aux-auteurs-de-degradations-dans-les-lycees-voulue-par-valerie-pecresse_8299473.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-25T11:38:57+00:00",
-   "extrait": "Selon le recours formé par l'association, le conseil régional dirigé par l'élue LR n'est pas compétent pour prononcer de telles sanctions.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "da502bd0a562",
-   "titre": "L'agence russe de statistiques piratée : 700 000 soldats russes morts ou disparus",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261125-l-agence-russe-de-statistiques-pirat%C3%A9e-700-000-soldats-russes-morts-ou-disparus",
-   "source": "France 24",
-   "date": "2026-11-25T11:35:58+00:00",
-   "extrait": "À partir d'une fuite de données de l'agence russe des statistiques, les médias indépendants Meduza et Mediazona estiment à plus de 700 000 le nombre de militaires russes morts depuis février 2022…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "992754f00ae1",
-   "titre": "Hugues Moutouh, le préfet soupçonné de fuites d’informations confidentielles vers le RN, a été démis de ses fonctions en conseil des ministres",
-   "lien": "https://www.lemonde.fr/politique/article/2026/11/25/hugues-moutouh-le-prefet-soupconne-de-fuites-d-informations-confidentielles-vers-le-rn-a-ete-demis-de-ses-fonctions-en-conseil-des-ministres_6815089_823448.html",
-   "source": "Le Monde",
-   "date": "2026-11-25T11:32:38+00:00",
-   "extrait": "L’ancien haut fonctionnaire du ministère de l’intérieur est remplacé par Pierre Ory, actuel préfet de Seine-et-Marne, a annoncé le gouvernement.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "a6f6aa6e689c",
-   "titre": "Valberg, Auron, Isola 2000... Un manteau neigeux recouvre les stations des Alpes du Sud",
-   "lien": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/en-images-valberg-auron-isola-2-000-un-manteau-neigeux-recouvre-les-stations-des-alpes-du-sud-3455687.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-25T11:29:03+00:00",
-   "extrait": "Elles ont été recouvertes de 20 et 30 centimètres de neige dans la nuit de ce mardi 24 novembre au mercredi 25 novembre. Pour certaines stations des Alpes du Sud, il s'agit de leur premier manteau…",
    "tags": [],
    "zone": "france"
   }
