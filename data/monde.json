@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-26T21:57:34+00:00",
+ "maj": "2026-11-26T22:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,39 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "f12611ab3436",
+   "titre": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+   "lien": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-26T22:01:22+00:00",
+   "extrait": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "41c707cd5627",
+   "titre": "\"C'est ma dernière campagne\", annonce le candidat de Reconquête à la présidentielle Eric Zemmour",
+   "lien": "https://www.franceinfo.fr/politique/eric-zemmour/c-est-ma-derniere-campagne-annonce-le-candidat-de-reconquete-a-la-presidentielle-eric-zemmour_8302101.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-26T21:55:56+00:00",
+   "extrait": "L'entrée en lice du candidat d'extrême droite avait mis un terme à la possibilité que Sarah Knafo concoure à sa place, sa popularité l'ayant un temps fait apparaître comme la possible candidate de…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "90ae327f9b59",
+   "titre": "L'IGPN ouvre une enquête à Toulouse après la plainte d'un manifestant grièvement blessé à la main lors de la mobilisation du 24 octobre",
+   "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/l-igpn-ouvre-une-enquete-a-toulouse-apres-la-plainte-d-un-manifestant-grievement-blesse-a-la-main-lors-de-la-mobilisation-du-24-octobre_8302107.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-26T21:53:56+00:00",
+   "extrait": "Âgé de 20 ans, Tedy Durand a été mutilé par une grenade dans le quartier des Arènes lors de la mobilisation contre la vie chère. Le jeune homme témoigne de son lourd traumatisme, après deux…",
+   "tags": [
+    "Justice",
+    "Santé"
+   ],
+   "zone": "france"
+  },
   {
    "id": "778784673956",
    "titre": "Trump to visit Arizona manufacturer of semiconductor chips",
@@ -69,6 +102,26 @@
     "Conflits"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "735ad0a4bd50",
+   "titre": "Maylis Daubon condamnée en appel à 30 ans de réclusion avec une période de sûreté pour l'empoisonnement de sa fille dans les Landes",
+   "lien": "https://www.franceinfo.fr/faits-divers/justice-proces/maylis-daubon-condamnee-en-appel-a-30-ans-de-reclusion-avec-une-periode-de-surete-pour-l-empoisonnement-de-sa-fille-dans-les-landes_8302083.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-26T21:14:57+00:00",
+   "extrait": "La mère de famille de 54 ans a en revanche été acquittée concernant l'empoisonnement de sa fille cadette et le projet d'assassinat de son ex-mari.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "560dbc1ffa5e",
+   "titre": "\"C'est pas le psy qui va faire pousser de l'herbe\" : après le suicide d'un agriculteur, sa famille témoigne",
+   "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/c-est-pas-le-psy-qui-va-faire-pousser-de-l-herbe-apres-le-suicide-d-un-agriculteur-sa-famille-temoigne_8302056.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-26T21:11:10+00:00",
+   "extrait": "À 18 ans, Gabin Bréhaut a repris l'exploitation familiale après le suicide de son père, agriculteur dans le Maine-et-Loire. Épuisé par les conséquences de la sécheresse et des fortes chaleurs sur…",
+   "tags": [],
+   "zone": "france"
   },
   {
    "id": "85573ecb3aab",
@@ -1235,16 +1288,6 @@
    "extrait": "Les victimes sont deux techniciens de Rheinmetall Italia chargés d’une station de détection de la défense antiaérienne, a précisé le chef de la diplomatie italienne.",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "f12611ab3436",
-   "titre": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-   "lien": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-26T15:17:18+00:00",
-   "extrait": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
-   "tags": [],
-   "zone": "monde"
   },
   {
    "id": "b5768ea8dc1a",
@@ -3425,53 +3468,6 @@
    "date": "2026-11-26T05:00:11+00:00",
    "extrait": "Depuis la sortie du jeu \"GTA VI\" le 19 novembre, plusieurs artistes voient les écoutes de leurs titres fortement augmenter. Un phénomène inattendu pour beaucoup d'entre eux, comme le confirme le duo…",
    "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "c847595b3135",
-   "titre": "Aide à l'Ukraine : où se situe la France parmi les principaux pays donateurs ?",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/infographies-aide-a-l-ukraine-ou-se-situe-la-france-parmi-les-principaux-pays-donateurs_8300007.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-26T05:00:10+00:00",
-   "extrait": "Selon la rédaction internationale et le service d'enquête numérique de Radio France, la France est le troisième pays contributeur à l'effort de guerre, mais le 14e si on le rapporte au PIB.",
-   "tags": [
-    "Conflits",
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "5abf7bed3c99",
-   "titre": "Quand le garant de l’agence de voyages en faillite refuse de rembourser le CSE de Renault et 228 salariés",
-   "lien": "https://www.lemonde.fr/argent/article/2026/11/26/quand-le-garant-de-l-agence-de-voyages-en-faillite-refuse-de-rembourser-le-cse-de-renault-et-228-salaries_6815473_1657007.html",
-   "source": "Le Monde",
-   "date": "2026-11-26T05:00:10+00:00",
-   "extrait": "Le tribunal judiciaire de Paris juge que le comité et le personnel peuvent réclamer le remboursement de 2,2 millions d’euros.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "51027ffef9a6",
-   "titre": "Reporters sans frontières demande à l’Arcom la suspension de CNews pour une durée d’un mois",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/26/reporters-sans-frontieres-demande-la-suspension-de-cnews-pour-une-duree-d-un-mois_6815475_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-26T05:00:08+00:00",
-   "extrait": "Après avoir examiné soixante et une heures de programmes diffusés en septembre sur la chaîne contrôlée par Vincent Bolloré, l’ONG dénonce de nouveau un « défaut de pluralisme » et saisit une…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "d0952dbf2a42",
-   "titre": "Pour ses 40 ans, le musée d'Orsay organise une boum, un procès et de multiples événements",
-   "lien": "https://www.franceinfo.fr/culture/arts-expos/musee-orsay/pour-ses-40-ans-le-musee-d-orsay-organise-une-boum-un-proces-et-de-multiples-evenements_8276366.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-26T05:00:02+00:00",
-   "extrait": "Pour accompagner l'ensemble des célébrations, le musée a choisi ce vers tiré d'un poème de Verlaine : \"Rêvons, c'est l'heure\".",
-   "tags": [
-    "Justice"
-   ],
    "zone": "france"
   }
  ]
