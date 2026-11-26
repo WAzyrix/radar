@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-25T23:05:39+00:00",
+ "maj": "2026-11-26T00:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,100 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "42e16bc717fb",
+   "titre": "Army detonates toxic explosives at Iowa plant despite concerns",
+   "lien": "https://www.cbsnews.com/news/iowa-army-ammunition-plant-unstable-explosives-detonation/",
+   "source": "CBS News",
+   "date": "2026-11-25T23:52:39+00:00",
+   "extrait": "The U.S. Army detonated a stockpile of degrading explosives at a munitions plant in Iowa on Wednesday, after days of back-and-forth between politicians and the courts.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "f93973629abd",
+   "titre": "Advocacy group urges Democrats to build relationships with working class voters",
+   "lien": "https://www.cbsnews.com/video/advocacy-group-urges-democrats-to-build-relationships-with-working-class-voters/",
+   "source": "CBS News",
+   "date": "2026-11-25T23:52:24+00:00",
+   "extrait": "A political advocacy group, Winning Working People Action, is urging Democrats not to be complacent after their midterm victories and to continue forging relationships with working class voters…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "e83c2f3076a1",
+   "titre": "Budget 2027 : le Sénat approuve l’effort de cinq milliards d’euros demandé aux grandes entreprises",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/26/budget-2027-le-senat-approuve-l-effort-de-cinq-milliards-d-euros-demande-aux-grandes-entreprises_6815197_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-25T23:50:49+00:00",
+   "extrait": "La droite sénatoriale, majoritaire dans l’hémicycle et souvent frileuse sur la taxation des entreprises, a consenti à cette mesure. « Regardons l’état de notre déficit. Il faut que tout le monde…",
+   "tags": [
+    "Politique",
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "a1d0cb05b1cd",
+   "titre": "Macy's Thanksgiving Day Parade postponed for 1st time in history",
+   "lien": "https://www.cbsnews.com/news/macys-thanksgiving-day-parade-postponed/",
+   "source": "CBS News",
+   "date": "2026-11-25T23:49:22+00:00",
+   "extrait": "For the first time in history, the Macy's Thanksgiving Day Parade has been postponed due to weather, Macy's said Wednesday.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "2e6919482f73",
+   "titre": "How to protect yourself from identity theft and fraud during the holidays",
+   "lien": "https://www.cbsnews.com/video/how-to-protect-yourself-from-identity-theft-and-fraud-during-the-holidays/",
+   "source": "CBS News",
+   "date": "2026-11-25T23:42:54+00:00",
+   "extrait": "A report form cybersecurity firm SentiLink warns that fraud rates jump by about a third on Thanksgiving and Christmas. David Maimon, SentiLink's head of fraud insights, joins CBS News to discuss.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "4c116bbdd7f1",
+   "titre": "U.S.-based firms helping China access Nvidia's most advanced chips",
+   "lien": "https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/",
+   "source": "CBS News",
+   "date": "2026-11-25T23:10:00+00:00",
+   "extrait": "It's not just Megaspeed. A CBS News investigation reveals that at least two California-based Nvidia customers have Chinese ownership — giving the U.S. adversary potential access to Nvidia's most…",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "7921ee1826e8",
+   "titre": "Trump says he would be willing to pardon Jensen Huang if necessary",
+   "lien": "https://www.cbsnews.com/video/trump-says-he-would-be-willing-to-pardon-jensen-huang-if-necessary/",
+   "source": "CBS News",
+   "date": "2026-11-25T23:09:18+00:00",
+   "extrait": "President Trump told the New York Post he would pardon Nvidia CEO Jensen Huang if necessary. CBS News' Weijia Jiang reports and Puck News AI correspondent Ian Krietzberg joins with more.",
+   "tags": [
+    "Politique",
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "6a36885bf0cb",
+   "titre": "Trump introduces new tariffs on China, EU and major trading partners",
+   "lien": "https://www.cbsnews.com/video/trump-introduces-new-tariffs-on-china-eu-and-major-trading-partners/",
+   "source": "CBS News",
+   "date": "2026-11-25T23:02:50+00:00",
+   "extrait": "The Trump administration announced a new wave of tariffs Wednesday against China, the European Union and a dozen other trading partners. CBS News' Weijia Jiang has more.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "8482dfb29dd7",
    "titre": "Le train Oxygène, destiné à remplacer les anciens Corail sur les liaisons Intercités Paris-Clermont et Paris-Toulouse, dévoilé au public",
    "lien": "https://www.franceinfo.fr/economie/transports/le-train-oxygene-destine-a-remplacer-les-anciens-corail-sur-les-liaisons-intercites-paris-clermont-et-paris-toulouse-devoile-au-public_8300403.html#xtor=RSS-3-[lestitres]",
@@ -30,18 +124,6 @@
    "extrait": "La date exacte de mise en service de ce train présenté mercredi, officiellement prévue \"à l'été\", reste cependant incertaine.",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "a1d0cb05b1cd",
-   "titre": "Macy's Thanksgiving Day Parade postponed for 1st time in history",
-   "lien": "https://www.cbsnews.com/news/macys-thanksgiving-day-parade-postponed/",
-   "source": "CBS News",
-   "date": "2026-11-25T23:00:38+00:00",
-   "extrait": "For the first time in history, the Macy's Thanksgiving Day Parade has been postponed due to weather, Macy's said Wednesday.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "usa"
   },
   {
    "id": "e54a5864a16f",
@@ -78,7 +160,7 @@
    "titre": "How a new generation of AI agents could change holiday shopping",
    "lien": "https://www.cbsnews.com/video/how-a-new-generation-of-ai-agents-could-change-holiday-shopping/",
    "source": "CBS News",
-   "date": "2026-11-25T22:40:19+00:00",
+   "date": "2026-11-25T22:40:00+00:00",
    "extrait": "The internet revolutionized holiday shopping by allowing people to make purchases without leaving their homes. Now, a new generation of AI agents is promising an even bigger change: Doing the…",
    "tags": [
     "Tech"
@@ -599,6 +681,18 @@
    "zone": "usa"
   },
   {
+   "id": "231539b67e25",
+   "titre": "En Égypte, un incendie sur une autoroute du Caire fait une trentaine de morts",
+   "lien": "https://www.france24.com/fr/afrique/20261125-en-%C3%A9gypte-un-incendie-sur-une-autoroute-du-caire-fait-une-trentaine-de-morts",
+   "source": "France 24",
+   "date": "2026-11-25T20:11:29+00:00",
+   "extrait": "Un incendie s'est déclaré mercredi dans l'agglomération du Caire, en Égypte, lorsqu'un camion chargé de carburant s'est renversé sur une autoroute très fréquentée. Le bilan provisoire est d'au moins…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "08842eae40b3",
    "titre": "Google accusé d'avoir coupé 250 000 arbres sans autorisation en Finlande",
    "lien": "https://www.franceinfo.fr/internet/google/google-accuse-d-avoir-coupe-250-000-arbres-sans-autorisation-en-finlande_8299911.html#xtor=RSS-3-[lestitres]",
@@ -883,18 +977,6 @@
     "Justice"
    ],
    "zone": "france"
-  },
-  {
-   "id": "42e16bc717fb",
-   "titre": "Army detonates toxic explosives at Iowa plant despite concerns",
-   "lien": "https://www.cbsnews.com/news/iowa-army-ammunition-plant-unstable-explosives-detonation/",
-   "source": "CBS News",
-   "date": "2026-11-25T18:03:57+00:00",
-   "extrait": "The U.S. Army detonated a stockpile of degrading explosives at a munitions plant in Iowa on Wednesday, after days of back-and-forth between politicians and the courts.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "usa"
   },
   {
    "id": "8eadc5dfa554",
@@ -3351,86 +3433,6 @@
     "Politique"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "acb2a2c98c32",
-   "titre": "Paris Nautic Show : quelle industrie nautique en France ?",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261125-paris-nautic-show-quelle-industrie-nautique-en-france",
-   "source": "France 24",
-   "date": "2026-11-25T09:41:19+00:00",
-   "extrait": "Rebaptisé en 2025 \"Paris Nautic Show\", le salon nautique de Paris se déroule pour la deuxième année de suite au Parc des expositions du Bourget du 25 au 29 novembre. Né en 1926, l'événement fête ses…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "4aeb055c2aeb",
-   "titre": "Army detonates nearly five tons of lead-based explosives in Iowa",
-   "lien": "https://www.npr.org/2026/11/25/nx-s1-6052338/army-detonation-lead-explosives-iowa",
-   "source": "NPR",
-   "date": "2026-11-25T09:41:05+00:00",
-   "extrait": "The controlled detonation of more than 60 barrels — roughly five tons — of unstable lead azide at the Iowa Army Ammunition Plant in Middletown, Iowa is complete.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "6dd5339e436e",
-   "titre": "L’Union européenne veut se doter d’une stratégie industrielle sur l’informatique quantique",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/25/l-union-europeenne-veut-se-doter-d-une-strategie-industrielle-sur-l-informatique-quantique_6815075_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-25T09:39:30+00:00",
-   "extrait": "La Commission a présenté, mercredi 25 novembre, le Quantum Act, un plan qui vise à accélérer le passage à l’usage industriel de cette technologie capable de traiter des quantités de données plus…",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "1ab59776852c",
-   "titre": "Présidentielle 2027 : \"Je ne comprends pas du tout les ralliements à Jean-Luc Mélenchon, il y a un côté maso\", estime Karim Bouamrane",
-   "lien": "https://www.franceinfo.fr/replay-jt/franceinfo/6h30-9h30/7-heures/la-matinale-info-du-mercredi-25-novembre-2026_8291456.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-25T09:37:12+00:00",
-   "extrait": "La maire de Saint-Ouen, qui reste candidat à l'élection présidentielle, revient dans le \"7.40\" sur les rapprochements entre certains représentants et militants de gauche et La France insoumise de…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "f0d568b75d14",
-   "titre": "Envoi d’une arme nucléaire russe dans l’espace d’ici deux mois : un risque jugé sérieux",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/25/envoi-d-une-arme-nucleaire-russe-dans-l-espace-d-ici-deux-mois-un-risque-juge-serieux_6815074_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-25T09:30:12+00:00",
-   "extrait": "Identifié depuis longtemps par Washington, le projet russe n’avait, pour le moment, pas de calendrier connu. D’après les éléments rapportés, le satellite russe pouvant emporter une arme nucléaire…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "3d49b100bd90",
-   "titre": "Kilmar Abrego Garcia leaves U.S. voluntarily for Spain",
-   "lien": "https://www.npr.org/2026/11/25/nx-s1-6053203/abrego-garcia-leaves-us",
-   "source": "NPR",
-   "date": "2026-11-25T09:19:50+00:00",
-   "extrait": "Abrego Garcia, a Salvadoran immigrant who became a symbol of Trump's mass deportation campaign, voluntarily left the country on Tuesday after nearly two years of legal battles.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "76c02b2e7e53",
-   "titre": "Laure Lavalette accusée d'antisémitisme : \"Une erreur de jeunesse\", estime Jean-Philippe Tanguy",
-   "lien": "https://www.franceinfo.fr/politique/front-national/laure-lavalette-accusee-d-antisemitisme-une-erreur-de-jeunesse-estime-jean-philippe-tanguy_8298996.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-25T09:12:34+00:00",
-   "extrait": "La porte-parole de la campagne de Marine Le Pen, est accusée par le média \"Les Jours\" d'avoir cautionné des écrits antisémites au sein de son syndicat étudiant dans les années 1990.",
-   "tags": [],
-   "zone": "france"
   }
  ]
 }
