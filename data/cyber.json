@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-26T05:05:41+00:00",
+ "maj": "2026-11-26T06:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "420627cd7e6f",
+   "titre": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+   "lien": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+   "source": "The Hacker News",
+   "date": "2026-11-26T04:20:22+00:00",
+   "extrait": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but…",
+   "tags": [
+    "Fuite de données",
+    "Outil"
+   ]
+  },
   {
    "id": "98bf0c432201",
    "titre": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
@@ -3340,17 +3352,6 @@
    "extrait": "Un pirate revendique 500 782 nouvelles données du RN à vendre. Il affiche aussi un accés informatique interne.",
    "tags": [
     "Fuite de données"
-   ]
-  },
-  {
-   "id": "1ef65dbe395d",
-   "titre": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
-   "lien": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
-   "source": "The Hacker News",
-   "date": "2026-11-17T05:00:34+00:00",
-   "extrait": "N-able has released a new security update to address additional critical security flaws impacting N-central. Describing N-central 2026.4 Hotfix 3 as a critical security update, the company said it…",
-   "tags": [
-    "Faille"
    ]
   }
  ]
