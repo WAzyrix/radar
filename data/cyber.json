@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-26T11:05:40+00:00",
+ "maj": "2026-11-26T12:05:41+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,6 +24,40 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "23ec231ca044",
+   "titre": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
+   "lien": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+   "source": "BleepingComputer",
+   "date": "2026-11-26T11:50:17+00:00",
+   "extrait": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data…",
+   "tags": [
+    "Malware"
+   ]
+  },
+  {
+   "id": "27c41b73faa5",
+   "titre": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
+   "lien": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
+   "source": "The Hacker News",
+   "date": "2026-11-26T10:57:55+00:00",
+   "extrait": "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that…",
+   "tags": [
+    "Malware"
+   ]
+  },
+  {
+   "id": "420627cd7e6f",
+   "titre": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+   "lien": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+   "source": "The Hacker News",
+   "date": "2026-11-26T10:57:25+00:00",
+   "extrait": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but…",
+   "tags": [
+    "Fuite de données",
+    "Outil"
+   ]
+  },
+  {
    "id": "457c08cf27ea",
    "titre": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
    "lien": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
@@ -46,18 +80,6 @@
     "CVE",
     "Faille",
     "Fuite de données"
-   ]
-  },
-  {
-   "id": "420627cd7e6f",
-   "titre": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
-   "lien": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
-   "source": "The Hacker News",
-   "date": "2026-11-26T04:20:22+00:00",
-   "extrait": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but…",
-   "tags": [
-    "Fuite de données",
-    "Outil"
    ]
   },
   {
@@ -3334,29 +3356,6 @@
    "extrait": "Cyberattaque et vol de données clients : de faux policiers dérobent au moins 765 000 euros d'or en France.",
    "tags": [
     "Fuite de données"
-   ]
-  },
-  {
-   "id": "d51a92f2bc9a",
-   "titre": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
-   "lien": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
-   "source": "BleepingComputer",
-   "date": "2026-11-17T07:25:44+00:00",
-   "extrait": "A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]",
-   "tags": [
-    "Ransomware"
-   ]
-  },
-  {
-   "id": "50868e3a64c2",
-   "titre": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
-   "lien": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
-   "source": "The Hacker News",
-   "date": "2026-11-17T07:12:13+00:00",
-   "extrait": "An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers' websites load from the service, Optimizely said early today. Visitors to…",
-   "tags": [
-    "Faille",
-    "Mobile"
    ]
   }
  ]
