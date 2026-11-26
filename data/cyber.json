@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-26T15:05:45+00:00",
+ "maj": "2026-11-26T16:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,30 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "17ea7e9dd6a3",
+   "titre": "Remus malware steals Gmail messages via fake Google Sheets extension",
+   "lien": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
+   "source": "BleepingComputer",
+   "date": "2026-11-26T15:23:28+00:00",
+   "extrait": "The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google's email service. [...]",
+   "tags": [
+    "Faille",
+    "Malware"
+   ]
+  },
+  {
+   "id": "f5eee8a53f92",
+   "titre": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+   "lien": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
+   "source": "The Hacker News",
+   "date": "2026-11-26T15:13:41+00:00",
+   "extrait": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February…",
+   "tags": [
+    "Malware",
+    "Outil"
+   ]
+  },
   {
    "id": "42b940ee1adf",
    "titre": "GB Museum - Une cartouche Game Boy qui n'est pas jouable",
@@ -101,6 +125,84 @@
    "tags": [
     "Malware",
     "Windows"
+   ]
+  },
+  {
+   "id": "65446f6e8787",
+   "titre": "Vulnérabilité dans Drupal (26 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1623/",
+   "source": "CERT-FR",
+   "date": "2026-11-26T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans Drupal. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. Drupal indique que la vulnérabilité CVE-2026-136716 est…",
+   "tags": [
+    "CVE",
+    "Faille"
+   ]
+  },
+  {
+   "id": "038e5b1cf4d6",
+   "titre": "Multiples vulnérabilités dans les produits Tenable (26 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1625/",
+   "source": "CERT-FR",
+   "date": "2026-11-26T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une injection…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "65fec0a1436a",
+   "titre": "Multiples vulnérabilités dans les produits NetApp (26 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1626/",
+   "source": "CERT-FR",
+   "date": "2026-11-26T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits NetApp. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "e646e2f8ea2b",
+   "titre": "Vulnérabilité dans Mattermost Server (26 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1627/",
+   "source": "CERT-FR",
+   "date": "2026-11-26T00:00:00+00:00",
+   "extrait": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "26a75f263cf1",
+   "titre": "Multiples vulnérabilités dans GitLab (26 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1624/",
+   "source": "CERT-FR",
+   "date": "2026-11-26T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "5cd492e60aad",
+   "titre": "Multiples vulnérabilités dans les produits Veeam (26 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1629/",
+   "source": "CERT-FR",
+   "date": "2026-11-26T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits Veeam. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance. L'éditeur fournit également une…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "a42997dbded9",
+   "titre": "Multiples vulnérabilités dans HPE Aruba Networking Airwave (26 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1628/",
+   "source": "CERT-FR",
+   "date": "2026-11-26T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans HPE Aruba Networking Airwave. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une…",
+   "tags": [
+    "Faille"
    ]
   },
   {
@@ -3252,108 +3354,6 @@
    "tags": [
     "CVE",
     "Faille"
-   ]
-  },
-  {
-   "id": "033b7c10af0d",
-   "titre": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
-   "lien": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
-   "source": "The Hacker News",
-   "date": "2026-11-17T15:17:28+00:00",
-   "extrait": "Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram. \"Trigram is a…",
-   "tags": [
-    "IA"
-   ]
-  },
-  {
-   "id": "148f7e8fc320",
-   "titre": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
-   "lien": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
-   "source": "BleepingComputer",
-   "date": "2026-11-17T15:01:11+00:00",
-   "extrait": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them. [...]",
-   "tags": [
-    "Malware",
-    "Windows"
-   ]
-  },
-  {
-   "id": "b69860df4218",
-   "titre": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
-   "lien": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
-   "source": "The Hacker News",
-   "date": "2026-11-17T12:14:36+00:00",
-   "extrait": "A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped \"Don't Allow\" on the microphone prompt. The first security updates with the fix came…",
-   "tags": [
-    "Faille",
-    "Mobile"
-   ]
-  },
-  {
-   "id": "5e43b1695ab6",
-   "titre": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
-   "lien": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
-   "source": "The Hacker News",
-   "date": "2026-11-17T11:20:18+00:00",
-   "extrait": "Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft…",
-   "tags": [
-    "Malware",
-    "Outil",
-    "Windows"
-   ]
-  },
-  {
-   "id": "1dc4676c8263",
-   "titre": "Microsoft testing Remote Lock for lost or stolen Windows devices",
-   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
-   "source": "BleepingComputer",
-   "date": "2026-11-17T11:19:51+00:00",
-   "extrait": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
-   "tags": [
-    "Windows"
-   ]
-  },
-  {
-   "id": "cb74b2746cc6",
-   "titre": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
-   "lien": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
-   "source": "The Hacker News",
-   "date": "2026-11-17T11:07:31+00:00",
-   "extrait": "Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents. The changes…",
-   "tags": [
-    "IA"
-   ]
-  },
-  {
-   "id": "aa8cc5fe6d3d",
-   "titre": "Faux coursiers bancaires : trois équipes interpellées",
-   "lien": "https://www.zataz.com/faux-coursiers-bancaires-trois-equipes-interpellees/",
-   "source": "Zataz",
-   "date": "2026-11-17T11:02:44+00:00",
-   "extrait": "Dans le Nord, trois équipes de faux coursiers bancaires arrêtées. Des personnes âgées ciblées et dépouillées.",
-   "tags": []
-  },
-  {
-   "id": "10eb36112f40",
-   "titre": "Court clears brothers of $25 million Ethereum crypto heist charges",
-   "lien": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
-   "source": "BleepingComputer",
-   "date": "2026-11-17T09:44:22+00:00",
-   "extrait": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "3ad387c63ed5",
-   "titre": "Uber notifies drivers of data breach affecting nearly 150,000 people",
-   "lien": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
-   "source": "BleepingComputer",
-   "date": "2026-11-17T08:35:42+00:00",
-   "extrait": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]",
-   "tags": [
-    "Fuite de données",
-    "IA"
    ]
   }
  ]
