@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-26T21:05:39+00:00",
+ "maj": "2026-11-26T21:57:34+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "e0bf93ab8a32",
+   "titre": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
+   "lien": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+   "source": "BleepingComputer",
+   "date": "2026-11-26T21:06:22+00:00",
+   "extrait": "OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before. [...]",
+   "tags": [
+    "Faille",
+    "IA"
+   ]
+  },
   {
    "id": "2cde4a64c5de",
    "titre": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
@@ -3342,17 +3354,6 @@
    "date": "2026-11-17T19:24:07+00:00",
    "extrait": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
    "tags": []
-  },
-  {
-   "id": "a2076d4177b9",
-   "titre": "Researchers hijack Hugging Face account for popular Kokoro AI model",
-   "lien": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
-   "source": "BleepingComputer",
-   "date": "2026-11-17T18:21:24+00:00",
-   "extrait": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web…",
-   "tags": [
-    "IA"
-   ]
   }
  ]
 }
