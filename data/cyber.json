@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-27T13:05:44+00:00",
+ "maj": "2026-11-27T14:05:38+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -54,6 +54,19 @@
    "extrait": "AliasVault est un gestionnaire de mots de passe open source qui donne une adresse email à chaque compte et garde le courrier chiffré dans le coffre, sans rien transférer vers votre vraie boîte. Ce…",
    "tags": [
     "Outil"
+   ]
+  },
+  {
+   "id": "4895aa5a5bc0",
+   "titre": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+   "lien": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
+   "source": "The Hacker News",
+   "date": "2026-11-27T11:49:34+00:00",
+   "extrait": "Cybersecurity researchers have disclosed details of a cyber attack in which a threat actor leveraged a Microsoft Store application to deliver a remote access trojan (RAT) called Vinci RAT. The…",
+   "tags": [
+    "Malware",
+    "Outil",
+    "Windows"
    ]
   },
   {
@@ -3344,17 +3357,6 @@
    "extrait": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked…",
    "tags": [
     "Fuite de données"
-   ]
-  },
-  {
-   "id": "bb57f204eba7",
-   "titre": "Multiples vulnérabilités dans Oracle Java SE (18 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1562/",
-   "source": "CERT-FR",
-   "date": "2026-11-18T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à…",
-   "tags": [
-    "Faille"
    ]
   }
  ]
