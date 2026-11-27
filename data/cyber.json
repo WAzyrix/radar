@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-27T17:05:40+00:00",
+ "maj": "2026-11-27T18:05:38+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "8b62149719af",
+   "titre": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+   "lien": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
+   "source": "BleepingComputer",
+   "date": "2026-11-27T17:06:13+00:00",
+   "extrait": "A zero-day vulnerability in the Cacti network monitoring platform has been publicly disclosed, along with a proof-of-concept exploit that lets unauthenticated attackers execute commands on…",
+   "tags": [
+    "Faille"
+   ]
+  },
   {
    "id": "f01224df1f54",
    "titre": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
@@ -3348,18 +3359,6 @@
    "date": "2026-11-18T11:50:25+00:00",
    "extrait": "The Alliance for Creativity and Entertainment (ACE) has announced the shutdown of Dizigom, one of Turkey's largest piracy sites, after a settlement agreement with the site's operators. [...]",
    "tags": []
-  },
-  {
-   "id": "63ab0fd18797",
-   "titre": "Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are",
-   "lien": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
-   "source": "The Hacker News",
-   "date": "2026-11-18T11:03:57+00:00",
-   "extrait": "AI is speeding up how software is built, which means more code, more changes, and more chances for vulnerabilities to reach production. It's speeding up how attackers find and exploit them too, with…",
-   "tags": [
-    "Faille",
-    "IA"
-   ]
   }
  ]
 }
