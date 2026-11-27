@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-27T14:05:38+00:00",
+ "maj": "2026-11-27T15:05:38+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -19,14 +19,333 @@
   "Tech",
   "Sport"
  ],
- "erreurs": [],
+ "erreurs": [
+  "France 24"
+ ],
  "articles": [
+  {
+   "id": "aa516263ebf3",
+   "titre": "Présidentielle 2027 : \"Les débauchages, ça ne m'émeut pas\", réagit Bruno Retailleau après le ralliement de huit députés LR à David Lisnard",
+   "lien": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-marine-le-pen-va-presenter-son-programme-pour-les-outre-mer-en-pleine-tourmente-sur-les-ecrits-antisemites-attribues-a-jordan-bardella_8302521.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-27T14:57:50+00:00",
+   "extrait": "Distancé dans les intentions de vote, le candidat LR à la présidentielle balaie cette annonce d'un revers de main, la qualifiant d'\"anecdotique\".",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "3b272713504a",
+   "titre": "Comme si vous y étiez, les impressionnantes images du nouveau record du monde féminin de parachutisme en position haute",
+   "lien": "https://www.franceinfo.fr/sports/comme-si-vous-y-etiez-les-impressionnantes-images-du-nouveau-record-du-monde-feminin-de-parachutisme-en-position-haute_8303277.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-27T14:55:04+00:00",
+   "extrait": "Autour de la Française Domitille Kiger, co-organisatrice de cette tentative, 34 parachutistes ont battu le record du monde féminin en position tête haute, jeudi, en Arizona (Etats-Unis). Elles…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "74e82b464c4a",
+   "titre": "Where to get the latest CBS Mornings Deals",
+   "lien": "https://www.cbsnews.com/video/cbs-mornings-deals-112726-2/",
+   "source": "CBS News",
+   "date": "2026-11-27T14:54:26+00:00",
+   "extrait": "We have more deals on Black Friday for Day 3 of CBS Mornings Deals' special series, 12 Days of Gifting. Visit cbsdeals.com to take advantage of these exclusive deals today. CBS earns commissions on…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "a4729378ec4d",
+   "titre": "Where to get the latest CBS Mornings Deals",
+   "lien": "https://www.cbsnews.com/video/cbs-mornings-deals-112726-1/",
+   "source": "CBS News",
+   "date": "2026-11-27T14:51:21+00:00",
+   "extrait": "It's Day 3 of CBS Mornings Deals' special series, 12 Days of Gifting, where we show viewers even more products at even lower prices. Visit cbsdeals.com to take advantage of these exclusive deals…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "a55a4649ba2f",
+   "titre": "\"Ils ont provoqué en faisant des signes nazis, des cris racistes\" : des supporters marseillais reviennent sur les violences survenues lors du match OM - Levski Sofia",
+   "lien": "https://www.franceinfo.fr/sports/foot/om/temoignages-ils-ont-provoque-en-faisant-des-signes-nazis-des-cris-racistes-des-supporters-marseillais-reviennent-sur-les-violences-survenues-lors-du-match-om-levski-sofia_8303151.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-27T14:50:41+00:00",
+   "extrait": "Jeudi, peu avant le coup d'envoi, des centaines de supporters marseillais se sont ruées sur plusieurs dizaines de supporters bulgares. Selon les personnes présentes interrogées par franceinfo, les…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "d0f3f33fd367",
+   "titre": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+   "lien": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-27T14:49:59+00:00",
+   "extrait": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "403bec37e251",
+   "titre": "Psychologists in their 80s become influencers doling out comedic life lessons",
+   "lien": "https://www.cbsnews.com/video/psychologists-in-their-80s-become-influencers-doling-out-comedic-life-lessons/",
+   "source": "CBS News",
+   "date": "2026-11-27T14:48:57+00:00",
+   "extrait": "Dr. Susan Thau and Dr. Sondra Goldstein, a pair of psychologists-turned-influencers in their 80s, are acting out comedy sketches crammed with lessons on how to cope and grow. Jo Ling Kent has more.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "17906474746b",
+   "titre": "Powerful Thanksgiving Day storm causes flooding, power outages",
+   "lien": "https://www.cbsnews.com/news/thanksgiving-day-storm-northeast-midwest-flooding-power-outages/",
+   "source": "CBS News",
+   "date": "2026-11-27T14:44:36+00:00",
+   "extrait": "The storm hammered sections of the East Coast with torrential rain, high winds and flooding, knocking out power to hundreds of thousands of customers.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "659a5f0084b7",
+   "titre": "Inside a Nestlé test kitchen where chefs are creating GLP-1-friendly meals",
+   "lien": "https://www.cbsnews.com/video/inside-a-nestle-test-kitchen-where-chefs-are-creating-glp-1-friendly-meals/",
+   "source": "CBS News",
+   "date": "2026-11-27T14:40:07+00:00",
+   "extrait": "More Americans are taking GLP-1 drugs, prompting food manufacturers to rethink some of their recipes. Kelly O'Grady gets an inside look at how Nestlé is making meals targeting the growing population.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "95ee7f88dd0b",
+   "titre": "Elections législatives en Espagne : les graphiques pour comprendre le dynamisme économique du pays et ses limites",
+   "lien": "https://www.lemonde.fr/international/visuel/2026/11/27/elections-legislatives-en-espagne-les-graphiques-pour-comprendre-le-dynamisme-economique-du-pays-et-ses-limites_6815875_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-27T14:39:51+00:00",
+   "extrait": "« Le modèle espagnol sous pression » (2/3). Dopée par l’immigration, le tourisme et les fonds européens, la croissance espagnole surclasse celle de ses voisins. Malgré ces bonnes performances, le…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "67fb82987817",
+   "titre": "Heavy rain and huge wind gusts slam Americans during Thanksgiving",
+   "lien": "https://www.cbsnews.com/video/heavy-rain-and-huge-wind-gusts-slam-americans-during-thanksgiving/",
+   "source": "CBS News",
+   "date": "2026-11-27T14:39:27+00:00",
+   "extrait": "Severe weather lashed parts of the U.S. on Thanksgiving with treacherous conditions that caused widespread power outages. Lilia Luciano reports.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "f95e62b21566",
+   "titre": "Fake online stores may fool AI shopping bots on Black Friday",
+   "lien": "https://www.cbsnews.com/news/black-friday-ai-shopping-agents-fake-online-stores/",
+   "source": "CBS News",
+   "date": "2026-11-27T14:38:33+00:00",
+   "extrait": "AI bots are accidentally steering shoppers toward websites and online shops created by scammers using AI.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "b154b03c6cd1",
+   "titre": "A murder haunted a Vermont town for decades. One detective never gave up.",
+   "lien": "https://www.cbsnews.com/video/a-murder-haunted-a-vermont-town-for-decades-one-detective-never-gave-up/",
+   "source": "CBS News",
+   "date": "2026-11-27T14:37:37+00:00",
+   "extrait": "On Thanksgiving Day 1986, a landowner in rural Vermont made a grim discovery: the body of Sarah Hunter. Her murder haunted the small town for nearly 40 years, until a retired detective and his son…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "1125559efe49",
+   "titre": "\"Si tu es noir, tu ne peux pas être Français ?\" : le joueur de basket français Evan Fournier recadre le sélectionneur turc",
+   "lien": "https://www.franceinfo.fr/sports/basket/evan-fournier/si-tu-es-noir-tu-ne-peux-pas-etre-francais-le-joueur-de-basket-francais-evan-fournier-recadre-le-selectionneur-turc_8303103.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-27T14:34:56+00:00",
+   "extrait": "Le joueur de l'équipe de France de basket-ball a réagi aux propos de l'entraîneur national turc qui a mentionné les joueurs français \"noirs de peau\" venus \"des colonies\".",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "ef31a64c526d",
+   "titre": "AI shopping agents face huge threats on Black Friday. Here's what to know.",
+   "lien": "https://www.cbsnews.com/video/ai-shopping-agents-face-huge-threats-on-black-friday-heres-what-to-know/",
+   "source": "CBS News",
+   "date": "2026-11-27T14:33:47+00:00",
+   "extrait": "Visa is bracing for a battle online among AI shopping agents targeted by fraudulent bots. Ash-har Quraishi has more.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "329199d007ad",
+   "titre": "La réclusion criminelle à perpétuité requise contre l'accusé lors du procès en appel pour le féminicide de Chahinez Daoud",
+   "lien": "https://www.franceinfo.fr/faits-divers/justice-proces/la-reclusion-criminelle-a-perpetuite-requise-contre-l-accuse-lors-du-proces-en-appel-pour-le-feminicide-de-chahinez-daoud_8303238.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-27T14:33:01+00:00",
+   "extrait": "L'homme est jugé pour avoir tué par le feu son ex-compagne Chahinez Daoud à Mérignac en 2021. Ces réquisitions confirment la peine prononcée en première instance pour ce féminicide.",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "b71a9d4324b8",
+   "titre": "Au procès d’un gérant de brasserie et de l’entreprise Otis après l’accident mortel d’un jeune apprenti, la banalité de l’absence de prévention",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/27/on-a-l-impression-d-une-improvisation-totale-au-proces-d-un-gerant-de-brasserie-et-d-otis-apres-un-accident-mortel-la-banalite-de-l-absence-de-prevention_6815872_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-27T14:30:05+00:00",
+   "extrait": "Sept ans après le décès de Ludovic Marais, apprenti barman, à Tours, le gérant du restaurant était poursuivi pour homicide involontaire. Le procès a mis en évidence le dysfonctionnement de longue…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "5aad31fd1147",
+   "titre": "Eric Zemmour placé sous le statut de témoin assisté dans l'affaire des prêts accordés au parti Reconquête",
+   "lien": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-place-sous-le-statut-de-temoin-assiste-dans-l-affaire-des-prets-accordes-au-parti-reconquete_8303232.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-27T14:27:08+00:00",
+   "extrait": "Une information judiciaire a été ouverte en janvier 2025, après un signalement de la Commission nationale des comptes de campagne et des financements politiques.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "ac78a86c0406",
+   "titre": "Investigator says Russia is \"brainwashing\" Ukrainian children at so-called summer camps",
+   "lien": "https://www.cbsnews.com/video/investigator-says-russia-is-brainwashing-ukrainian-children-at-so-called-summer-camps/",
+   "source": "CBS News",
+   "date": "2026-11-27T14:25:03+00:00",
+   "extrait": "Since Russia's invasion of Ukraine, many Ukrainian children have ended up at Russian camps where the Ukrainian language is banned and the Russian anthem is played each day. More Sunday on 60 Minutes.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "edf44564de3e",
+   "titre": "Une plainte déposée contre X pour discriminations dans l'Oise après la fermeture d'une école privée musulmane par la préfecture",
+   "lien": "https://www.franceinfo.fr/faits-divers/une-plainte-deposee-contre-x-pour-discriminations-dans-l-oise-apres-la-fermeture-d-une-ecole-privee-musulmane-par-la-prefecture_8303229.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-27T14:24:12+00:00",
+   "extrait": "Trois conseils départementaux du culte musulman saisissent la justice et énoncent un acharnement institutionnel à l'encontre de cet établissement accueillant 190 élèves. Les plaignants réclament une…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "37b6fd1e2126",
+   "titre": "Trump slams foes and threatens future vetoes in Thanksgiving posts",
+   "lien": "https://www.cbsnews.com/video/trump-slams-foes-and-threatens-future-vetoes-in-thanksgiving-posts/",
+   "source": "CBS News",
+   "date": "2026-11-27T14:23:00+00:00",
+   "extrait": "President Trump took questions from reporters during the Thanksgiving holiday. He touched on Jensen Huang's return to Nvidia and lauded his latest meeting with Russia's Vladimir Putin and China's Xi…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "5bf1e40379aa",
+   "titre": "EN DIRECT, guerre en Ukraine : l’armée polonaise annonce qu’elle utilisera l’IA de l’entreprise américaine Palantir",
+   "lien": "https://www.lemonde.fr/international/live/2026/11/27/en-direct-guerre-en-ukraine-les-attaques-russes-ont-tue-au-moins-cinq-personnes-et-blesse-quatorze-autres-en-vingt-quatre-heures_6814183_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-27T14:21:54+00:00",
+   "extrait": "Les forces armées polonaises utiliseront un logiciel, développé par Palantir, qui doit servir à « analyser rapidement les informations, identifier les menaces et préparer des recommandations pour…",
+   "tags": [
+    "Conflits",
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "3ebb14aff4b9",
+   "titre": "Iranian women are facing not just lashings, but \"honor killings\"",
+   "lien": "https://www.cbsnews.com/news/iran-parastoo-ahmadi-lashes-iranian-women-face-violence/",
+   "source": "CBS News",
+   "date": "2026-11-27T14:21:26+00:00",
+   "extrait": "Singer Parastoo Ahmadi's 74 lashes for daring to sing without her hair covered is not a unique case in Iran. Other women are being killed, some by their own families.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "63f02b33a122",
+   "titre": "Black Friday deals enticing Americans after Thanksgiving",
+   "lien": "https://www.cbsnews.com/video/black-friday-deals-enticing-americans-after-thanksgiving/",
+   "source": "CBS News",
+   "date": "2026-11-27T14:18:54+00:00",
+   "extrait": "Shoppers braved the cold weather after Thanksgiving dinner to be primed for Black Friday deals. Tom Hanson and Kelly O'Grady have the latest on the best sales and how to take advantage of them.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "b7dab142c603",
+   "titre": "Le boxeur anglais Tyson Fury révèle ses problèmes de santé mentale, sa femme parle de \"schizophrénie\"",
+   "lien": "https://www.franceinfo.fr/sports/boxe/le-boxeur-anglais-tyson-fury-revele-souffrir-de-schizophrenie_8296130.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-27T14:15:51+00:00",
+   "extrait": "Dans un documentaire qui sera diffusé à partir de vendredi sur Netflix, Tyson Fury revient sur le diagnostic tombé à l'été 2016 alors qu'il avait été admis à l'hôpital pour une suspicion d'infarctus.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "c2edb00d68ca",
+   "titre": "L'épouse de Tyson Fury se corrige et annonce que le boxeur n'a jamais été diagnostiqué schizophrène",
+   "lien": "https://www.franceinfo.fr/sports/boxe/l-epouse-de-tyson-fury-se-corrige-et-annonce-que-le-boxeur-n-a-jamais-ete-diagnostique-schizophrene_8303199.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-27T14:12:07+00:00",
+   "extrait": "Dans un documentaire Netflix qui lui est consacré, le Britannique évoque ses problèmes de santé mentale et sa femme parle d'une \"schizophrénie légère\" diagnostiquée après son titre mondial en 2025.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "bf2b98b86359",
+   "titre": "Eye Opener: Massive Thanksgiving storm hits U.S.",
+   "lien": "https://www.cbsnews.com/video/eye-opener-massive-thanksgiving-storm-hits-us/",
+   "source": "CBS News",
+   "date": "2026-11-27T14:09:00+00:00",
+   "extrait": "Heavy rains and winds impacted Americans on Thanksgiving and brought power outages to thousands around dinner time. All that and all that matters in today's Eye Opener.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "a820ccfa76c1",
+   "titre": "Après le naufrage d’un pétrolier-chimiquier au large d’Ibiza, course contre la montre en Espagne pour éviter une marée noire",
+   "lien": "https://www.lemonde.fr/planete/article/2026/11/27/apres-le-naufrage-d-un-petrolier-chimiquier-au-large-d-ibiza-course-contre-la-montre-en-espagne-pour-eviter-une-maree-noire_6815870_3244.html",
+   "source": "Le Monde",
+   "date": "2026-11-27T14:04:59+00:00",
+   "extrait": "Le navire « Med Emre », battant pavillon maltais et qui transportait 7 000 tonnes de gazole, s’est retourné près des Baléares, dans la nuit de mercredi à jeudi. Une inspection de la coque et de la…",
+   "tags": [],
+   "zone": "france"
+  },
   {
    "id": "a42b1ac05120",
    "titre": "Est-ce utile de nourrir les oiseaux l’hiver ?",
    "lien": "https://www.lemonde.fr/planete/article/2026/11/27/est-ce-utile-de-nourrir-les-oiseaux-l-hiver_6815867_3244.html",
    "source": "Le Monde",
-   "date": "2026-11-27T14:00:05+00:00",
+   "date": "2026-11-27T14:00:03+00:00",
    "extrait": "Chaque semaine, l’équipe du podcast Chaleur humaine répond à vos questions sur la transition climatique",
    "tags": [],
    "zone": "france"
@@ -37,23 +356,11 @@
    "lien": "https://www.lemonde.fr/politique/article/2026/11/27/le-depute-rn-de-l-aisne-jose-beaurain-vise-par-une-enquete-pour-detournement-de-fonds-publics-et-conteste-localement_6815868_823448.html",
    "source": "Le Monde",
    "date": "2026-11-27T14:00:03+00:00",
-   "extrait": "Après les révélations du « Canard enchaîné » et l’ouverture d’une enquête préliminaire, le député d’extrême droite, réinvesti par le Rassemblement national malgré des alertes internes, sera l’objet…",
+   "extrait": "Après les révélations fin août du « Canard enchaîné » et l’ouverture d’une enquête préliminaire, le député d’extrême droite, réinvesti par le Rassemblement national malgré des alertes internes, sera…",
    "tags": [
     "Justice"
    ],
    "zone": "france"
-  },
-  {
-   "id": "2319b1d15769",
-   "titre": "Mother dies after walking into plane propeller at Alaska airport",
-   "lien": "https://www.cbsnews.com/news/alaska-airport-propeller-death-christina-blake/",
-   "source": "CBS News",
-   "date": "2026-11-27T13:56:39+00:00",
-   "extrait": "Christina Blake, 38, drove a car onto the taxiway of Big Lake Airport, then got out of the vehicle and walked towards a stopped plane.",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "usa"
   },
   {
    "id": "125503ad31be",
@@ -64,6 +371,30 @@
    "extrait": "L'Insee a également publié les chiffres provisoires de l'inflation, qui a ralenti à 2,9% sur un an en novembre.",
    "tags": [
     "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "2319b1d15769",
+   "titre": "Mother dies after walking into plane propeller at Alaska airport",
+   "lien": "https://www.cbsnews.com/news/alaska-airport-propeller-death-christina-blake/",
+   "source": "CBS News",
+   "date": "2026-11-27T13:56:00+00:00",
+   "extrait": "Christina Blake, 38, drove a car onto the taxiway of Big Lake Airport, then got out of the vehicle and walked toward a stopped plane.",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "8bfc32d7c4fa",
+   "titre": "Devant la commission d’enquête sur le 17 octobre, le préfet de police décrit « une situation quasi insurrectionnelle » dans les rues de Paris",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/27/devant-la-commission-d-enquete-sur-le-17-octobre-le-prefet-de-police-decrit-une-situation-quasi-insurrectionnelle-a-paris_6815865_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-27T13:52:53+00:00",
+   "extrait": "Auditionné le 24 novembre, Patrice Faure a réfuté toute erreur d’anticipation de ses services, « mais la réalité a dépassé l’entendement », a-t-il expliqué.",
+   "tags": [
+    "Justice"
    ],
    "zone": "france"
   },
@@ -86,18 +417,6 @@
    "extrait": "The endangered reptiles were bound with duct tape to prevent them moving, officials say.",
    "tags": [],
    "zone": "monde"
-  },
-  {
-   "id": "17906474746b",
-   "titre": "Powerful Thanksgiving Day storm causes flooding, power outages",
-   "lien": "https://www.cbsnews.com/news/thanksgiving-day-storm-northeast-midwest-flooding-power-outages/",
-   "source": "CBS News",
-   "date": "2026-11-27T13:32:19+00:00",
-   "extrait": "The storm hammered sections of the East Coast with torrential rain, high winds and flooding, knocking out power to hundreds of thousands of customers.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "usa"
   },
   {
    "id": "6b9f420c4536",
@@ -162,7 +481,7 @@
    "lien": "https://www.lemonde.fr/sport/article/2026/11/27/violences-au-velodrome-lors-du-match-om-levski-sofia-le-parquet-ouvre-deux-enquetes-le-club-phoceen-menace-de-lourdes-sanctions-de-l-uefa_6815862_3242.html",
    "source": "Le Monde",
    "date": "2026-11-27T13:07:12+00:00",
-   "extrait": "Au lendemain des heurts survenus dans le stade, qui ont fait 11 blessés parmi les supporteurs bulgares, le parquet de Marseille a annoncé l’ouverture de deux enquêtes. L’OM, quant à lui, s’attend à…",
+   "extrait": "Au lendemain des heurts survenus au Stade-Vélodrome, qui ont fait 11 blessés parmi les supporteurs bulgares, le parquet de Marseille a annoncé l’ouverture de deux enquêtes. L’UEFA, quant à elle, a…",
    "tags": [
     "Justice",
     "Sport"
@@ -249,7 +568,7 @@
   },
   {
    "id": "44b12a73bba8",
-   "titre": "Ecrits antisémites de Jordan Bardella : Marine Le Pen renouvelle sa confiance au président du Rassemblement national",
+   "titre": "Ecrits antisémites de Jordan Bardella : Marine Le Pen renouvelle sa confiance au président du RN",
    "lien": "https://www.lemonde.fr/politique/article/2026/11/27/ecrits-antisemites-de-jordan-bardella-marine-le-pen-renouvelle-sa-confiance-au-president-du-rassemblement-national_6815858_823448.html",
    "source": "Le Monde",
    "date": "2026-11-27T12:25:05+00:00",
@@ -467,18 +786,6 @@
    "zone": "monde"
   },
   {
-   "id": "aa516263ebf3",
-   "titre": "Présidentielle 2027 : Marine Le Pen renouvelle sa confiance à Jordan Bardella et veut obliger les journalistes à respecter le secret de l'instruction",
-   "lien": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-marine-le-pen-va-presenter-son-programme-pour-les-outre-mer-en-pleine-tourmente-sur-les-ecrits-antisemites-attribues-a-jordan-bardella_8302521.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-27T11:23:01+00:00",
-   "extrait": "Vendredi, en fin de matinée, la candidate d'extrême droite s'est exprimée à l'occasion de la présentation de son programme pour les outre-mer. Elle a jugé \"scandaleuses\" les méthodes des médias qui…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "462e342b1c08",
    "titre": "Ex-Kenyan governor jailed for 25 years over pregnant girlfriend's murder",
    "lien": "https://www.bbc.co.uk/news/articles/crx209ekq5xdo?at_medium=RSS&at_campaign=rss",
@@ -559,10 +866,10 @@
   },
   {
    "id": "28935bf1c522",
-   "titre": "Renvoi de Gérard Depardieu en procès pour viol : Charlotte Arnould se félicite d’une « vraie victoire »",
+   "titre": "Après le renvoi de Gérard Depardieu en procès pour viol, la comédienne Charlotte Arnould se réjouit d’une « vraie victoire »",
    "lien": "https://www.lemonde.fr/societe/article/2026/11/27/renvoi-de-gerard-depardieu-en-proces-pour-viol-charlotte-arnould-se-felicite-d-une-vraie-victoire_6815849_3224.html",
    "source": "Le Monde",
-   "date": "2026-11-27T11:03:12+00:00",
+   "date": "2026-11-27T11:03:10+00:00",
    "extrait": "Après que la cour d’appel de Paris a confirmé, jeudi 26 novembre, le renvoi de l’acteur en procès pour une partie des viols dénoncés par la comédienne Charlotte Arnould, celle-ci a réagi vendredi…",
    "tags": [
     "Justice"
@@ -771,18 +1078,6 @@
     "Conflits"
    ],
    "zone": "france"
-  },
-  {
-   "id": "d0f3f33fd367",
-   "titre": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
-   "lien": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-27T10:26:28+00:00",
-   "extrait": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "monde"
   },
   {
    "id": "f601a6953ecc",
@@ -2828,18 +3123,6 @@
    "zone": "monde"
   },
   {
-   "id": "f95e62b21566",
-   "titre": "Fake online stores may fool AI shopping bots on Black Friday",
-   "lien": "https://www.cbsnews.com/news/black-friday-ai-shopping-agents-fake-online-stores/",
-   "source": "CBS News",
-   "date": "2026-11-26T19:00:44+00:00",
-   "extrait": "AI bots are accidentally steering shoppers toward websites and online shops created by scammers using AI.",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "40cbb5ecae31",
    "titre": "Germany arrests 2 Iraqis allegedly tied to Iran-linked terror group",
    "lien": "https://www.cbsnews.com/news/germany-arrests-iraqi-iran-linked-terror-suspects/",
@@ -3174,293 +3457,6 @@
    "date": "2026-11-26T17:15:29+00:00",
    "extrait": "Déployées en Haïti fin octobre à l’initiative de Nayib Bukele, les troupes salvadoriennes sont accueillies favorablement à Port-au-Prince. Les habitants interrogés par notre rédaction y voient un…",
    "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "73ca6b07b021",
-   "titre": "Doliprane, Dafalgan et Efferalgan… Pourquoi la boîte de paracétamol va-t-elle augmenter ?",
-   "lien": "https://www.franceinfo.fr/sante/medicament/doliprane-dafalgan-et-efferalgan-pourquoi-la-boite-de-paracetamol-va-t-elle-augmenter_8301477.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-26T17:13:11+00:00",
-   "extrait": "L'État s'apprête à revaloriser le prix du médicament fabriqué en France à compter de juillet 2027 après des années de gel tarifaire.",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "cad8bb796c72",
-   "titre": "\"On doit montrer qu'on est capables de rebondir\" : face au Levski Sofia, l'OM veut éloigner le spectre de la rechute en Ligue Europa",
-   "lien": "https://www.franceinfo.fr/sports/foot/ligue-europa/on-doit-montrer-qu-on-est-capables-de-rebondir-face-au-levski-sofia-l-om-veut-eloigner-le-spectre-de-la-rechute-en-ligue-europa_8299989.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-26T17:12:05+00:00",
-   "extrait": "Renversés sur leur pelouse par le Mans dimanche en Ligue 1, les Marseillais veulent repartir de l'avant sur la scène européenne face au club bulgare, jeudi.",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "4fa9b1cec0fe",
-   "titre": "L'Américain Campbell Wright vainqueur surprise de la première course de la saison, l'individuel de Kontiolahti, les Bleus hors du coup",
-   "lien": "https://www.franceinfo.fr/sports/sports-d-hiver/biathlon/l-americain-campbell-wright-vainqueur-surprise-de-la-premiere-course-de-la-saison-l-individuel-de-kontiolahti-les-bleus-hors-du-coup_8301633.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-26T17:11:01+00:00",
-   "extrait": "Les Français ont signé une reprise très mitigée, avec seul Emilien Claude dans le Top 8 de la reprise de la Coupe du monde 2026-2027, et Eric Perrot, 11e.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "77a4414c9ecd",
-   "titre": "Israël : Gadi Eisenkot et le parti de gauche Les Démocrates nouent un accord de coalition, premier pas vers la formation d’un gouvernement",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/26/israel-gadi-eisenkot-et-le-parti-de-gauche-les-democrates-nouent-un-accord-de-coalition-premier-pas-vers-la-formation-d-un-gouvernement_6815576_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-26T17:08:19+00:00",
-   "extrait": "Les discussions entre les deux partis avaient été rompues mardi, faute d’entente sur la répartition des portefeuilles ministériels.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "e7181de8044d",
-   "titre": "France : le procès de l'ancienne figure jihadiste Émilie König s'est ouvert",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261126-france-le-proc%C3%A8s-de-l-ancienne-figure-jihadiste-%C3%A9milie-k%C3%B6nig-s-est-ouvert",
-   "source": "France 24",
-   "date": "2026-11-26T17:02:54+00:00",
-   "extrait": "Le procès d'Émilie König, accusée d'avoir été l'une des plus actives propagandistes françaises du groupe jihadiste État islamique en Syrie, s'est ouvert jeudi 26 novembre devant la cour d'assises…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "9c191f9841aa",
-   "titre": "Espagne : un navire avec 7 000 tonne de diesel coule au large d'Ibiza",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261126-espagne-un-navire-avec-7-000-tonne-de-diesel-coule-au-large-d-ibiza",
-   "source": "France 24",
-   "date": "2026-11-26T17:00:47+00:00",
-   "extrait": "Un navire transportant jusqu'à 7 000 tonnes de diesel a coulé jeudi 26 novembre au large de l'île espagnole d'Ibiza, en Méditerranée. L'équipage de 17 membres a été secouru, mais l'un d'entre eux a…",
-   "tags": [
-    "Santé"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "f81283edf340",
-   "titre": "Comment protéger ses enfants du racisme ? Des mères de Trappes témoignent",
-   "lien": "https://www.france24.com/fr/%C3%A9missions/pas-2-quartier/20261126-comment-prot%C3%A9ger-ses-enfants-du-racisme-des-m%C3%A8res-de-trappes-t%C3%A9moignent",
-   "source": "France 24",
-   "date": "2026-11-26T17:00:45+00:00",
-   "extrait": "Comment être parent à Trappes après l'attentat raciste du 23 octobre ? Dans cette ville des Yvelines, souvent réduite à ses drames et à ses difficultés, l'attaque a ravivé un sentiment de…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "4b0e3825ee4d",
-   "titre": "Le bail réel solidaire, une forme de propriété du logement qui convainc élus et acheteurs",
-   "lien": "https://www.lemonde.fr/le-monde-evenements/article/2026/11/26/le-bail-reel-solidaire-une-forme-de-propriete-du-logement-qui-convainc-elus-et-acheteurs_6815574_4333359.html",
-   "source": "Le Monde",
-   "date": "2026-11-26T17:00:29+00:00",
-   "extrait": "Le dispositif, qui permet aux ménages modestes d’acquérir un bien immobilier sans devenir propriétaires du terrain, présente aussi l’avantage, pour les communes en zones tendues, de lutter contre la…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "11c8a3602927",
-   "titre": "Dix ans de l’accord de paix en Colombie : « Se taire n’était pas une option, c’est pourquoi l’Eglise catholique a décidé de s’impliquer »",
-   "lien": "https://www.lemonde.fr/le-monde-des-religions/article/2026/11/26/dix-ans-de-l-accord-de-paix-en-colombie-se-taire-n-etait-pas-une-option-c-est-pourquoi-l-eglise-catholique-a-decide-de-s-impliquer_6815575_6038514.html",
-   "source": "Le Monde",
-   "date": "2026-11-26T17:00:19+00:00",
-   "extrait": "Le 24 novembre 2016, le gouvernement colombien signait un accord de paix avec les Forces armées révolutionnaires de Colombie (FARC), la plus ancienne guérilla d’Amérique latine. L’Eglise catholique…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c3ed91725f6d",
-   "titre": "Après l’échec de la COP31 à Antalya, la diplomatie climatique confrontée à un « chantier gigantesque »",
-   "lien": "https://www.lemonde.fr/planete/article/2026/11/26/apres-l-echec-de-la-cop31-a-antalya-la-diplomatie-climatique-confrontee-a-un-chantier-gigantesque_6815571_3244.html",
-   "source": "Le Monde",
-   "date": "2026-11-26T17:00:14+00:00",
-   "extrait": "Les 194 parties ont quitté la Turquie, dimanche 22 novembre, sans parvenir à un accord sur la décision finale, soulevant de nombreuses questions quant au rôle des futures conférences mondiales.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "9538f55045ac",
-   "titre": "« Plus le temps passait, plus j’avais de mal à comprendre ce que mon chef attendait » : Adrien, responsable de rayon dans la grande distribution",
-   "lien": "https://www.lemonde.fr/campus/article/2026/11/26/plus-le-temps-passait-plus-j-avais-de-mal-a-comprendre-ce-que-mon-chef-attendait-adrien-responsable-de-rayon-dans-la-grande-distribution_6815570_4401467.html",
-   "source": "Le Monde",
-   "date": "2026-11-26T17:00:11+00:00",
-   "extrait": "« Mon boss et moi ». Chaque semaine, un jeune raconte sa relation, parfois complexe, avec son supérieur hiérarchique et le monde du travail. Adrien, 34 ans aujourd’hui, raconte son expérience…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "78728117d49a",
-   "titre": "Gérard Depardieu renvoyé devant la justice pour viol : on fait le point sur les plaintes et accusations de violences sexistes et sexuelles qui visent l'acteur",
-   "lien": "https://www.franceinfo.fr/culture/cinema/depardieu/apres-sa-condamnation-dans-l-affaire-des-volets-verts-on-fait-le-point-sur-les-plaintes-et-accusations-de-violences-sexistes-et-sexuelles-qui-visent-gerard-depardieu_8284541.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-26T16:54:30+00:00",
-   "extrait": "La cour d'appel de Paris a confirmé jeudi le renvoi de Gérard Depardieu en procès pour une partie des viols dénoncés par la comédienne Charlotte Arnould.",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "94f52530b7b8",
-   "titre": "A cause de la sécheresse, 89 000 personnes ont des difficultés d'accès à l'eau potable au robinet",
-   "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/a-cause-de-la-secheresse-89-000-personnes-sont-encore-privees-d-eau-potable-au-robinet_8301588.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-26T16:47:45+00:00",
-   "extrait": "Citernage, distribution de bouteilles d'eau, coupures d'eau... Plusieurs dizaines de milliers de français sont toujours concernés par des mesures d'urgence, selon les chiffres du ministère de…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "c992c7d2d3b7",
-   "titre": "ICE detains man after he picked up $1 million lottery winnings",
-   "lien": "https://www.cbsnews.com/news/ice-arrest-lottery-winnings-massachusetts/",
-   "source": "CBS News",
-   "date": "2026-11-26T16:45:00+00:00",
-   "extrait": "The Massachusetts State Lottery posted on social media last week a photo of Ariel Velasquez-Morales, who won $1 million from a scratch-off ticket purchased in Boston.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "9735cbf9a98d",
-   "titre": "Les houthis du Yémen attaquent une raffinerie dans le sud de l'Arabie saoudite, selon la coalition menée par Riyad",
-   "lien": "https://www.franceinfo.fr/monde/proche-orient/les-houthis-du-yemen-attaquent-une-raffinerie-dans-le-sud-de-l-arabie-saoudite-selon-la-coalition-menee-par-riyad_8301648.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-26T16:44:23+00:00",
-   "extrait": "Depuis la reprise du conflit entre les houthis et le gouvernement yéménite, les échanges de tirs sont quasi-quotidiens entre les deux parties.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "6c663527adb4",
-   "titre": "Notre avis sur « GTA VI » après soixante heures de jeu : entre vertige urbain et romance sous tension",
-   "lien": "https://www.lemonde.fr/pixels/article/2026/11/26/notre-avis-sur-gta-vi-apres-soixante-heures-de-jeu-entre-vertige-urbain-et-romance-sous-tension_6815568_4408996.html",
-   "source": "Le Monde",
-   "date": "2026-11-26T16:40:51+00:00",
-   "extrait": "Une semaine après sa sortie, nous avons vu le générique de fin de la superproduction de Rockstar Games. Retour sur une fresque explosive, monumentale mais poussive dans sa conclusion.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "f6faa95c11cb",
-   "titre": "Propos antisémites de Bardella : la candidat qualifie l'enquête de \"chasse à l'homme\"",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261126-propos-antis%C3%A9mites-de-bardella-la-candidat-qualifie-l-enqu%C3%AAte-de-chasse-%C3%A0-l-homme",
-   "source": "France 24",
-   "date": "2026-11-26T16:37:54+00:00",
-   "extrait": "Mediapart ⁠publie jeudi 26 novembre, ainsi ​que Le Monde, de nouveaux extraits d'une conversation sur Facebook Messenger attestant selon eux de propos antisémites et complotistes de Jordan Bardella…",
-   "tags": [
-    "Politique",
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "33952fe16265",
-   "titre": "Députés et sénateurs s'entendent pour mettre fin au \"devoir conjugal\" et exclure toute obligation sexuelle dans le mariage",
-   "lien": "https://www.franceinfo.fr/societe/droits-des-femmes/deputes-et-senateurs-s-entendent-pour-mettre-fin-au-devoir-conjugal-et-exclure-toute-obligation-sexuelle-dans-le-mariage_8301603.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-26T16:37:48+00:00",
-   "extrait": "L'examen du texte à l'Assemblée nationale est prévu le 7 décembre, avant son vote pour une adoption définitive au Sénat.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "a7e9a5c53685",
-   "titre": "Législatives en Espagne : les cartes et graphiques pour comprendre comment la crise du logement est devenue un enjeu de la campagne",
-   "lien": "https://www.lemonde.fr/international/visuel/2026/11/26/legislatives-en-espagne-les-cartes-et-graphiques-pour-comprendre-comment-la-crise-du-logement-est-devenue-un-enjeu-de-la-campagne_6815566_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-26T16:30:10+00:00",
-   "extrait": "« Le modèle espagnol sous pression » (1/3). La flambée des prix de l’immobilier cristallise les angoisses des électeurs, à la veille du scrutin du 29 novembre. Depuis dix ans, il devient de plus en…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "e10209e1ef90",
-   "titre": "En Equateur, l’opposition au président Noboa dénonce des persécutions à la veille d’élections locales",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/26/en-equateur-l-opposition-au-president-noboa-denonce-des-persecutions-a-la-veille-d-elections-locales_6815564_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-26T16:23:46+00:00",
-   "extrait": "La campagne des élections locales prévues dimanche 29 novembre a été largement modifiée par la mise hors de course de plusieurs candidats et formations.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "91d830ab9c36",
-   "titre": "Mobilisation des étudiants : la manifestation parisienne s'est terminée dans le calme en fin d'après-midi",
-   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-de-la-jeunesse-les-organisations-veulent-maintenir-la-pression-malgre-le-recul-des-blocages-une-manifestation-prevue-dans-l-apres-midi_8300754.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-26T16:22:28+00:00",
-   "extrait": "Plusieurs manifestations se tenaient cet après-midi dans toute la France, à l'initiative du collectif universitaire Interfac.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "37a3c651b29a",
-   "titre": "Haïti : corruption, impunité, rôle des politiques... Que cache la guerre des gangs ?",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261126-ha%C3%AFti-corruption-impunit%C3%A9-r%C3%B4le-des-politiques-que-cache-la-guerre-des-gangs",
-   "source": "France 24",
-   "date": "2026-11-26T16:21:51+00:00",
-   "extrait": "La police nationale haïtienne à annoncer avoir tué 34 membres d'un gang lors d'une opération menée jeudi 26 novembre dans un quartier de Port-au-Prince, capitale d'Haïti touché par les violences de…",
-   "tags": [
-    "Conflits",
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "16d8ca32d479",
-   "titre": "Jihadisme : la Française Émilie König devant la justice",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261126-jihadisme-la-fran%C3%A7aise-%C3%A9milie-k%C3%B6nig-devant-la-justice",
-   "source": "France 24",
-   "date": "2026-11-26T16:21:36+00:00",
-   "extrait": "La Bretonne Émilie König, accusée d'avoir été l'une des plus actives propagandistes françaises du groupe jihadiste État islamique (EI) en Syrie, a exprimé sa \"honte\", jeudi à l'ouverture de son…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "184ed2e92675",
-   "titre": "Nine injured, three critically, after Bangkok oil refinery explosion",
-   "lien": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-26T16:21:19+00:00",
-   "extrait": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "a10fb927f035",
-   "titre": "Le froid tue plus que la chaleur en France : plus de 31 300 décès liés au froid en 2024",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261126-le-froid-tue-plus-que-la-chaleur-en-france-plus-de-31-300-d%C3%A9c%C3%A8s-li%C3%A9s-au-froid-en-2024",
-   "source": "France 24",
-   "date": "2026-11-26T16:19:20+00:00",
-   "extrait": "Chaque hiver, lorsque les températures chutent, les conditions de vie deviennent plus difficiles pour les personnes les plus vulnérables alors que 330 000 personnes sont sans-abris en France. Les…",
-   "tags": [
-    "Conflits",
-    "Santé"
-   ],
    "zone": "monde"
   }
  ]

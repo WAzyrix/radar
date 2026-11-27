@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-27T14:05:38+00:00",
+ "maj": "2026-11-27T15:05:38+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,35 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "96edb4ed0f1c",
+   "titre": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs",
+   "lien": "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/",
+   "source": "BleepingComputer",
+   "date": "2026-11-27T15:00:10+00:00",
+   "extrait": "Forgotten virtual machines, unpatched servers, and excessive access permissions can create security blind spots across IT infrastructure. ISPsystem explains how centralized infrastructure…",
+   "tags": []
+  },
+  {
+   "id": "814d32c90295",
+   "titre": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026",
+   "lien": "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/",
+   "source": "BleepingComputer",
+   "date": "2026-11-27T14:22:06+00:00",
+   "extrait": "Malwarebytes' 2026 Black Friday and Cyber Monday sale is now live, offering 50% off security subscriptions for individuals, families, and small businesses, including its antivirus software, VPN…",
+   "tags": []
+  },
+  {
+   "id": "8815cc7c09f5",
+   "titre": "Mini-Kit - Pour faire un bilan de santé de votre Windows",
+   "lien": "https://korben.info/mini-kit-diagnostic-rapide-pc-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-27T13:49:54+00:00",
+   "extrait": "Le Mini-Kit de titou, sur le forum TeamAAZ, ausculte Windows 10 et 11 sans toucher à ses réglages, depuis un seul fichier .bat, avec interface et rapport HTML. Essayé en VM : un score qui dit ce…",
+   "tags": [
+    "Windows"
+   ]
+  },
   {
    "id": "d16aa50197c8",
    "titre": "Obsidian Skills - Laissez votre agent IA ranger vos notes",
@@ -234,6 +263,131 @@
    "tags": [
     "Faille",
     "Outil"
+   ]
+  },
+  {
+   "id": "76be5ce26807",
+   "titre": "Multiples vulnérabilités dans Xen (27 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1631/",
+   "source": "CERT-FR",
+   "date": "2026-11-27T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Xen. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "f35e516ce2ee",
+   "titre": "Multiples vulnérabilités dans les produits IBM (27 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1640/",
+   "source": "CERT-FR",
+   "date": "2026-11-27T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "da87b6bb5d9e",
+   "titre": "Multiples vulnérabilités dans le noyau Linux de Debian (27 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1638/",
+   "source": "CERT-FR",
+   "date": "2026-11-27T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à…",
+   "tags": [
+    "Faille",
+    "Linux"
+   ]
+  },
+  {
+   "id": "b692e8a4c70e",
+   "titre": "Multiples vulnérabilités dans FreeRADIUS (27 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1632/",
+   "source": "CERT-FR",
+   "date": "2026-11-27T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans FreeRADIUS. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "0fe38e696052",
+   "titre": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (27 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1639/",
+   "source": "CERT-FR",
+   "date": "2026-11-27T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une…",
+   "tags": [
+    "Faille",
+    "Linux"
+   ]
+  },
+  {
+   "id": "7df4c9913553",
+   "titre": "Multiples vulnérabilités dans le noyau Linux de Red Hat (27 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1636/",
+   "source": "CERT-FR",
+   "date": "2026-11-27T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une…",
+   "tags": [
+    "Faille",
+    "Linux"
+   ]
+  },
+  {
+   "id": "6052fc8ed199",
+   "titre": "Multiples vulnérabilités dans Synology DSM et DSM Enterprise (27 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1630/",
+   "source": "CERT-FR",
+   "date": "2026-11-27T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans Synology DSM et DSM Enterprise. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "10767ddfae6c",
+   "titre": "Multiples vulnérabilités dans MongoDB (27 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1633/",
+   "source": "CERT-FR",
+   "date": "2026-11-27T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "1ddf073fd506",
+   "titre": "Multiples vulnérabilités dans le noyau Linux de SUSE (27 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1637/",
+   "source": "CERT-FR",
+   "date": "2026-11-27T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation…",
+   "tags": [
+    "Faille",
+    "Linux"
+   ]
+  },
+  {
+   "id": "de0ed9bd9171",
+   "titre": "Multiples vulnérabilités dans SPIP (27 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1635/",
+   "source": "CERT-FR",
+   "date": "2026-11-27T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans SPIP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la…",
+   "tags": [
+    "Faille"
+   ]
+  },
+  {
+   "id": "4832539171d5",
+   "titre": "Multiples vulnérabilités dans SolarWinds Serv-U (27 novembre 2026)",
+   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1634/",
+   "source": "CERT-FR",
+   "date": "2026-11-27T00:00:00+00:00",
+   "extrait": "De multiples vulnérabilités ont été découvertes dans SolarWinds Serv-U. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de…",
+   "tags": [
+    "Faille"
    ]
   },
   {
@@ -3205,158 +3359,6 @@
    "extrait": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
    "tags": [
     "Faille"
-   ]
-  },
-  {
-   "id": "1bcf31ff6f66",
-   "titre": "Cyberattaque contre les douanes lituaniennes",
-   "lien": "https://www.zataz.com/cyberattaque-contre-les-douanes-lituaniennes/",
-   "source": "Zataz",
-   "date": "2026-11-18T10:29:44+00:00",
-   "extrait": "Une cyberattaque perturbe les douanes lituaniennes et pourrait exposer les données de centaines d'utilisateurs.",
-   "tags": []
-  },
-  {
-   "id": "a84321f78e22",
-   "titre": "Piratage de GTA VI : un hacker reconnaît six infractions",
-   "lien": "https://www.zataz.com/piratage-de-gta-vi-un-hacker-reconnait-six-infractions/",
-   "source": "Zataz",
-   "date": "2026-11-18T10:22:51+00:00",
-   "extrait": "Le hacker impliqué dans la fuite de GTA VI reconnaît six infractions liées à plusieurs cyberattaques majeures.",
-   "tags": [
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "0cd334bc3795",
-   "titre": "Uber : 149 346 personnes touchées par une fuite",
-   "lien": "https://www.zataz.com/uber-149-346-personnes-touchees-par-une-fuite/",
-   "source": "Zataz",
-   "date": "2026-11-18T10:14:55+00:00",
-   "extrait": "Une intrusion chez un prestataire d'Uber expose les permis de conduire et les données de 149 346 personnes.",
-   "tags": [
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "42644480b252",
-   "titre": "Ransomware : un suspect d’INC et Lynx extradé",
-   "lien": "https://www.zataz.com/ransomware-un-suspect-dinc-et-lynx-extrade/",
-   "source": "Zataz",
-   "date": "2026-11-18T10:05:56+00:00",
-   "extrait": "Un suspect lié aux rançongiciels INC et Lynx comparaît aux États-Unis après une extradition depuis l'Italie.",
-   "tags": [
-    "Ransomware"
-   ]
-  },
-  {
-   "id": "f64d5c8c24c4",
-   "titre": "Le Japon arrête le supercalculateur Fugaku",
-   "lien": "https://www.zataz.com/le-japon-arrete-le-supercalculateur-fugaku/",
-   "source": "Zataz",
-   "date": "2026-11-18T09:48:31+00:00",
-   "extrait": "RIKEN arrête Fugaku après une intrusion. Plus de 4 500 utilisateurs de deux supercalculateurs sont concernés.",
-   "tags": []
-  },
-  {
-   "id": "a03f1c620d34",
-   "titre": "Scattered Spider : un pirate britannique condamné à six ans",
-   "lien": "https://www.zataz.com/scattered-spider-un-pirate-britannique-condamne-a-six-ans/",
-   "source": "Zataz",
-   "date": "2026-11-18T09:26:56+00:00",
-   "extrait": "Scattered Spider : un pirate britannique condamné à six ans de prison pour phishing et vol de cryptomonnaies.",
-   "tags": [
-    "Malware"
-   ]
-  },
-  {
-   "id": "4ccf67b96d4a",
-   "titre": "Microsoft announces Windows Server 2028 with hardened security",
-   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
-   "source": "BleepingComputer",
-   "date": "2026-11-18T09:24:31+00:00",
-   "extrait": "Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday. [...]",
-   "tags": [
-    "Windows"
-   ]
-  },
-  {
-   "id": "c1af327f6be6",
-   "titre": "Optimizely piraté, des géants du web exposés",
-   "lien": "https://www.zataz.com/optimizely-pirate-des-geants-du-web-exposes/",
-   "source": "Zataz",
-   "date": "2026-11-18T09:04:32+00:00",
-   "extrait": "Optimizely victime d'une cyberattaque : 178 organisations touchées, données bancaires et appareils iOS menacés.",
-   "tags": [
-    "Mobile"
-   ]
-  },
-  {
-   "id": "822f4d366eda",
-   "titre": "Mots de passe en clair : la CNIL inflige 5 millions d’euros",
-   "lien": "https://www.zataz.com/mots-de-passe-en-clair-la-cnil-inflige-5-millions-deuros/",
-   "source": "Zataz",
-   "date": "2026-11-18T08:45:15+00:00",
-   "extrait": "La CNIL sanctionne une société de 5 millions d’euros pour des mots de passe en clair et une conservation excessive des données.",
-   "tags": []
-  },
-  {
-   "id": "25f152a1b586",
-   "titre": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
-   "lien": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
-   "source": "The Hacker News",
-   "date": "2026-11-18T08:24:31+00:00",
-   "extrait": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration…",
-   "tags": [
-    "CVE",
-    "Faille",
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "1db641aaef44",
-   "titre": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
-   "lien": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html",
-   "source": "The Hacker News",
-   "date": "2026-11-18T08:24:23+00:00",
-   "extrait": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a newly disclosed critical security flaw impacting Oracle Java. The flaw, tracked as…",
-   "tags": [
-    "CVE",
-    "Faille"
-   ]
-  },
-  {
-   "id": "0ad69605a849",
-   "titre": "British Scattered Spider hacker sentenced to 6 years in prison",
-   "lien": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
-   "source": "BleepingComputer",
-   "date": "2026-11-18T08:24:18+00:00",
-   "extrait": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen…",
-   "tags": [
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "1df53018af16",
-   "titre": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
-   "lien": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
-   "source": "The Hacker News",
-   "date": "2026-11-18T06:45:26+00:00",
-   "extrait": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity…",
-   "tags": [
-    "Malware",
-    "Windows"
-   ]
-  },
-  {
-   "id": "ee9a23761ba0",
-   "titre": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
-   "lien": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
-   "source": "The Hacker News",
-   "date": "2026-11-18T05:58:04+00:00",
-   "extrait": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked…",
-   "tags": [
-    "Fuite de données"
    ]
   }
  ]
