@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-27T19:05:38+00:00",
+ "maj": "2026-11-27T20:05:42+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "c33ac200edb1",
+   "titre": "pCloud confirms password manager hack after suspicious login alerts",
+   "lien": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
+   "source": "BleepingComputer",
+   "date": "2026-11-27T19:26:04+00:00",
+   "extrait": "The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-factor authentication (2FA) enabled. [...]",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
   {
    "id": "72cf1a5347d2",
    "titre": "New Boston Scientific data breach exposes personal, medical info",
@@ -3348,18 +3359,6 @@
    "tags": [
     "Faille",
     "IA"
-   ]
-  },
-  {
-   "id": "223101d57350",
-   "titre": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
-   "lien": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
-   "source": "The Hacker News",
-   "date": "2026-11-18T11:55:49+00:00",
-   "extrait": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm…",
-   "tags": [
-    "CVE",
-    "Faille"
    ]
   }
  ]
