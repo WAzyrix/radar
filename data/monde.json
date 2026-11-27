@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-27T03:05:38+00:00",
+ "maj": "2026-11-27T04:05:38+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,14 +22,14 @@
  "erreurs": [],
  "articles": [
   {
-   "id": "8382148f64e1",
-   "titre": "What stores are open on Black Friday? Here are the hours.",
-   "lien": "https://www.cbsnews.com/news/thanksgiving-store-hours-open-closed-2026-black-friday/",
+   "id": "a1d0cb05b1cd",
+   "titre": "Macy's Thanksgiving Day Parade postponed for 1st time in history",
+   "lien": "https://www.cbsnews.com/news/macys-thanksgiving-day-parade-postponed/",
    "source": "CBS News",
-   "date": "2026-11-27T03:01:35+00:00",
-   "extrait": "Many retailers open their doors early on Black Friday, but the stock market will have shorter hours. Here's what to know.",
+   "date": "2026-11-27T03:40:10+00:00",
+   "extrait": "For the first time in history, the Macy's Thanksgiving Day Parade has been postponed due to weather, Macy's said Wednesday.",
    "tags": [
-    "Économie"
+    "Climat"
    ],
    "zone": "usa"
   },
@@ -38,10 +38,22 @@
    "titre": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
    "lien": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-11-27T02:55:31+00:00",
+   "date": "2026-11-27T03:28:15+00:00",
    "extrait": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
    "tags": [],
    "zone": "monde"
+  },
+  {
+   "id": "8382148f64e1",
+   "titre": "What stores are open on Black Friday? Here are the hours.",
+   "lien": "https://www.cbsnews.com/news/thanksgiving-store-hours-open-closed-2026-black-friday/",
+   "source": "CBS News",
+   "date": "2026-11-27T03:01:00+00:00",
+   "extrait": "Many retailers open their doors early on Black Friday, but the stock market will have shorter hours. Here's what to know.",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "usa"
   },
   {
    "id": "778784673956",
@@ -94,6 +106,18 @@
    "zone": "usa"
   },
   {
+   "id": "54397301c47f",
+   "titre": "Ligue Europa : Marseille reprend espoir, Lyon freiné et le Stade Rennais s'incline",
+   "lien": "https://www.france24.com/fr/sports/20261127-ligue-europa-marseille-om-reprend-espoir-lyon-survit-stade-rennais-incline-lillestroem-bulgarie-nimegue-football",
+   "source": "France 24",
+   "date": "2026-11-27T01:21:11+00:00",
+   "extrait": "La 5e journée de la phase de poules de la Ligue Europa a été marquée, jeudi, par la victoire de Marseille face au Levski Sofia (1-0), le nul de l'Olympique Lyonnais contre Lillestroem (0-0), ainsi…",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "6db2d3367a8c",
    "titre": "Iowa lead detonation results expected soon, EPA says",
    "lien": "https://www.cbsnews.com/news/iowa-lead-detonation-epa-testing-results-soon/",
@@ -140,7 +164,7 @@
   },
   {
    "id": "39bf977e2159",
-   "titre": "Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+   "titre": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
    "lien": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-27T00:47:43+00:00",
@@ -3453,31 +3477,6 @@
    "extrait": "La quasi-totalité des 1 800 panneaux qui indiquent les directions dans la ville, héritage des années 1970 et du tout-voiture, pourraient disparaître d'ici la fin du mandat. La mairie de Paris estime…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "55105cf824c7",
-   "titre": "Une attaque de drone ukrainienne fait cinq morts en territoire occupé par Moscou, selon les autorités prorusses",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-attaque-de-drone-ukrainienne-a-fait-cinq-morts-en-territoire-occupe-par-moscou-annoncent-les-autorites-prorusses_8300877.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-26T06:53:21+00:00",
-   "extrait": "L'attaque a eu lieu dans la région ukrainienne de Zaporijjia, que Moscou contrôle en partie.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "936733cfe648",
-   "titre": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
-   "lien": "https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space",
-   "source": "NPR",
-   "date": "2026-11-26T06:53:09+00:00",
-   "extrait": "The Trump administration gave Elon Musk's SpaceX the green light to deploy 1 million satellites that it said would create data centers in space, a move that has raised skepticism among scientists.",
-   "tags": [
-    "Politique",
-    "Tech"
-   ],
-   "zone": "usa"
   }
  ]
 }
