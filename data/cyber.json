@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-27T08:05:39+00:00",
+ "maj": "2026-11-27T09:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,50 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "ff3cba508062",
+   "titre": "Windows 11 au régime - Merci le prix de la RAM",
+   "lien": "https://korben.info/windows-11-moins-de-ram.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-27T08:27:26+00:00",
+   "extrait": "À Ignite, Microsoft relie ouvertement les économies de mémoire de Windows 11 à l'envolée du prix de la RAM : 360 Mo de moins pour Office, plus d'un demi-gigaoctet pour Defender, Purview et OneDrive…",
+   "tags": [
+    "Windows"
+   ]
+  },
+  {
+   "id": "db79768f6836",
+   "titre": "Volvo veut des humanoïdes sur ses chaînes de production dès mi-2027",
+   "lien": "https://korben.info/volvo-robots-humanoides-aeon-gand.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-27T08:12:53+00:00",
+   "extrait": "Volvo entraîne des robots AEON d'Hexagon dans son usine de Gand, par imitation, avant un pilote en 2027. Ce qu'ils savent faire, et pourquoi Leipzig dira vite ce que vaut le calendrier.",
+   "tags": []
+  },
+  {
+   "id": "15e93fc59e91",
+   "titre": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
+   "lien": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
+   "source": "BleepingComputer",
+   "date": "2026-11-27T08:06:58+00:00",
+   "extrait": "​A 12-year-old critical vulnerability in the Linux kernel's Network File System (NFS) server, tracked as CVE-2026-99362, allows remote attackers to gain root privileges. [...]",
+   "tags": [
+    "CVE",
+    "Faille",
+    "Linux"
+   ]
+  },
+  {
+   "id": "3bcd6b381862",
+   "titre": "XL Office - Une suite Office pour Atari XL",
+   "lien": "https://korben.info/xl-office-atari-xl-xe.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-27T07:47:43+00:00",
+   "extrait": "XL Office apporte un traitement de texte 80 colonnes, un tableur et un logiciel de présentation gratuits aux Atari XL et XE de 64 Ko. Essai dans l'émulateur atari800, export RTF vers le Mac, et la…",
+   "tags": [
+    "Outil"
+   ]
+  },
   {
    "id": "0eaea1ab2442",
    "titre": "Musique IA - Tidal passe du tag à la poubelle",
@@ -3306,53 +3350,6 @@
    "source": "CERT-FR",
    "date": "2026-11-18T00:00:00+00:00",
    "extrait": "De multiples vulnérabilités ont été découvertes dans Netgate pfSense. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "1164ea4e3313",
-   "titre": "Vulnérabilité dans Oracle Java SE (18 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-016/",
-   "source": "CERT-FR",
-   "date": "2026-11-18T00:00:00+00:00",
-   "extrait": "Le 17 novembre 2026, Oracle a publié un avis de sécurité concernant la vulnérabilité CVE-2026-114938, surnommée *java4shell*, qui affecte le décodeur Base64 de OpenJDK sur les processeurs x86-64…",
-   "tags": [
-    "CVE",
-    "Faille"
-   ]
-  },
-  {
-   "id": "756c1d0bfa46",
-   "titre": "Multiples vulnérabilités dans les produits F5 (18 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1567/",
-   "source": "CERT-FR",
-   "date": "2026-11-18T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans les produits F5. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "fc9998d403ed",
-   "titre": "Multiples vulnérabilités dans F5 NGINX (18 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-017/",
-   "source": "CERT-FR",
-   "date": "2026-11-18T00:00:00+00:00",
-   "extrait": "Le 18 novembre 2026, F5 a publié deux avis de sécurité concernant les vulnérabilités CVE-2026-123633 et CVE-2026-123007. Celles-ci affectent NGINX Open Source et NGINX Plus permettent à un attaquant…",
-   "tags": [
-    "CVE",
-    "Faille",
-    "Outil"
-   ]
-  },
-  {
-   "id": "126567e065a7",
-   "titre": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
-   "lien": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
-   "source": "BleepingComputer",
-   "date": "2026-11-17T23:04:21+00:00",
-   "extrait": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications…",
    "tags": [
     "Faille"
    ]
