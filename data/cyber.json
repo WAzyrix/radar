@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-27T07:05:40+00:00",
+ "maj": "2026-11-27T08:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "0eaea1ab2442",
+   "titre": "Musique IA - Tidal passe du tag à la poubelle",
+   "lien": "https://korben.info/tidal-supprime-musique-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-27T07:29:43+00:00",
+   "extrait": "À partir du 9 décembre, Tidal supprime les morceaux entièrement générés par IA, environ 27 millions de titres, et refuse les nouvelles livraisons. Ce qui part, ce qui reste autorisé, comment c'est…",
+   "tags": [
+    "IA"
+   ]
+  },
   {
    "id": "447ec97bb125",
    "titre": "Il a greffé un cerveau de drone sur sa tondeuse RC",
@@ -3345,15 +3356,6 @@
    "tags": [
     "Faille"
    ]
-  },
-  {
-   "id": "ddec81ba80b1",
-   "titre": "Cloud keys leaked in Docker Hub images are stolen within seconds",
-   "lien": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
-   "source": "BleepingComputer",
-   "date": "2026-11-17T21:27:17+00:00",
-   "extrait": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
-   "tags": []
   }
  ]
 }
