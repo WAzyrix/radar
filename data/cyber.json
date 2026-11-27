@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-27T15:05:38+00:00",
+ "maj": "2026-11-27T16:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "2778b393e634",
+   "titre": "US Air Force cloud platform reportedly hacked in latest federal breach",
+   "lien": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
+   "source": "BleepingComputer",
+   "date": "2026-11-27T15:09:40+00:00",
+   "extrait": "Hackers have reportedly breached the US Air Force's Cloud One computing platform, adding to a recent wave of cyberattacks affecting US government agencies, including the FBI, CIA, and Treasury…",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
   {
    "id": "96edb4ed0f1c",
    "titre": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs",
@@ -3348,17 +3359,6 @@
    "extrait": "Osaka et des centaines d'organisations japonaises sont touchées par un incident ressemblant à l'affaire Maileva !",
    "tags": [
     "Fuite de données"
-   ]
-  },
-  {
-   "id": "4f4cc6f19074",
-   "titre": "Apache warns of Roller RCE vulnerability exploited in attacks",
-   "lien": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
-   "source": "BleepingComputer",
-   "date": "2026-11-18T10:35:05+00:00",
-   "extrait": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
-   "tags": [
-    "Faille"
    ]
   }
  ]
