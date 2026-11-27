@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-27T11:05:39+00:00",
+ "maj": "2026-11-27T12:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,28 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "7b714952d08e",
+   "titre": "Microsoft removes WSUS server role in Windows Server 2028",
+   "lien": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
+   "source": "BleepingComputer",
+   "date": "2026-11-27T11:18:36+00:00",
+   "extrait": "Microsoft will remove the WSUS server role from Windows Server 2028, the next major release of its server operating system. [...]",
+   "tags": [
+    "Windows"
+   ]
+  },
+  {
+   "id": "415efee3262b",
+   "titre": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
+   "lien": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
+   "source": "The Hacker News",
+   "date": "2026-11-27T10:32:18+00:00",
+   "extrait": "Most security metrics are not built to be used. They are built to be shown. Somewhere between the quarterly review and the next status update, a set of numbers gets assembled that looks reassuring…",
+   "tags": [
+    "IA"
+   ]
+  },
   {
    "id": "30a43f231a87",
    "titre": "Drupal warns of new site takeover flaw exploited in attacks",
@@ -56,6 +78,18 @@
    "tags": [
     "Faille",
     "Linux"
+   ]
+  },
+  {
+   "id": "99bc87f8212c",
+   "titre": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
+   "lien": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
+   "source": "The Hacker News",
+   "date": "2026-11-27T09:29:30+00:00",
+   "extrait": "Cybersecurity researchers have disclosed details of a software supply chain attack that has tampered with Q-Dir and DesktopOK installation files distributed via the official SoftwareOK website…",
+   "tags": [
+    "Fuite de données",
+    "Malware"
    ]
   },
   {
@@ -217,7 +251,7 @@
    "lien": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
    "source": "The Hacker News",
    "date": "2026-11-26T15:13:41+00:00",
-   "extrait": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February…",
+   "extrait": "The threat actors behind the PolinRider campaign have compromised over 7,600 GitHub repositories, in some cases planting a Python loader capable of delivering next-stage payloads, as evidence…",
    "tags": [
     "Malware",
     "Outil"
@@ -3319,39 +3353,6 @@
    "source": "CERT-FR",
    "date": "2026-11-18T00:00:00+00:00",
    "extrait": "De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "681408b24b9e",
-   "titre": "Multiples vulnérabilités dans Google Chrome (18 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1559/",
-   "source": "CERT-FR",
-   "date": "2026-11-18T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "d6ac5cfa302f",
-   "titre": "Multiples vulnérabilités dans Oracle PeopleSoft (18 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1564/",
-   "source": "CERT-FR",
-   "date": "2026-11-18T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "b52d21e2880a",
-   "titre": "Vulnérabilité dans FreeBSD (18 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1558/",
-   "source": "CERT-FR",
-   "date": "2026-11-18T00:00:00+00:00",
-   "extrait": "Une vulnérabilité a été découverte dans FreeBSD. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un déni de service.",
    "tags": [
     "Faille"
    ]
