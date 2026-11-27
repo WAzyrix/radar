@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-27T09:08:29+00:00",
+ "maj": "2026-11-27T10:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,40 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "34ba075e7282",
+   "titre": "SAP confirms security incident after suspicious GitHub activity",
+   "lien": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
+   "source": "BleepingComputer",
+   "date": "2026-11-27T09:56:36+00:00",
+   "extrait": "SAP has confirmed to BleepingComputer that it took urgent action to protect its customers after detecting suspicious activity in its IT environment. [...]",
+   "tags": [
+    "Outil"
+   ]
+  },
+  {
+   "id": "8c75dfb15f77",
+   "titre": "Le patch qui pourrait débrider les iMac Retina sous Linux",
+   "lien": "https://korben.info/linux-imac-ecrans-tuiles.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-27T09:44:17+00:00",
+   "extrait": "Une série de patchs AMDGPU réveillerait la seconde tuile des iMac Retina 4K et 5K à processeur Intel, pour leur rendre leur définition native sous Linux. Deux patchs sur trois sont appliqués, celui…",
+   "tags": [
+    "Faille",
+    "Linux"
+   ]
+  },
+  {
+   "id": "05f4c13650df",
+   "titre": "Microsoft pushes emergency hotpatch to fix Windows Server crashes",
+   "lien": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/",
+   "source": "BleepingComputer",
+   "date": "2026-11-27T09:08:16+00:00",
+   "extrait": "Microsoft has released an emergency hotpatch update to address Windows Server 2025 crashes triggered after installing this month's security hotpatch update (KB5131077). [...]",
+   "tags": [
+    "Windows"
+   ]
+  },
   {
    "id": "ff3cba508062",
    "titre": "Windows 11 au régime - Merci le prix de la RAM",
@@ -3317,39 +3351,6 @@
    "source": "CERT-FR",
    "date": "2026-11-18T00:00:00+00:00",
    "extrait": "De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "e12247e2b4ea",
-   "titre": "Multiples vulnérabilités dans Mozilla Firefox (18 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1560/",
-   "source": "CERT-FR",
-   "date": "2026-11-18T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Elles permettent à un attaquant de provoquer une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "b3c84b2ba18e",
-   "titre": "Multiples vulnérabilités dans Oracle Virtualization (18 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1566/",
-   "source": "CERT-FR",
-   "date": "2026-11-18T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de…",
-   "tags": [
-    "Faille"
-   ]
-  },
-  {
-   "id": "222e2922945c",
-   "titre": "Multiples vulnérabilités dans Netgate pfSense (18 novembre 2026)",
-   "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1557/",
-   "source": "CERT-FR",
-   "date": "2026-11-18T00:00:00+00:00",
-   "extrait": "De multiples vulnérabilités ont été découvertes dans Netgate pfSense. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de…",
    "tags": [
     "Faille"
    ]
