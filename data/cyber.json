@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-27T18:05:38+00:00",
+ "maj": "2026-11-27T19:05:38+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "72cf1a5347d2",
+   "titre": "New Boston Scientific data breach exposes personal, medical info",
+   "lien": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+   "source": "BleepingComputer",
+   "date": "2026-11-27T18:57:42+00:00",
+   "extrait": "Medical technology company Boston Scientific is sending data breach notices to individuals affected by a cyberattack on the firm. [...]",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
   {
    "id": "8b62149719af",
    "titre": "Unpatched Cacti zero-day with public PoC gives remote code execution",
@@ -3350,15 +3361,6 @@
     "CVE",
     "Faille"
    ]
-  },
-  {
-   "id": "57cf485fa921",
-   "titre": "Dizigom illegal streaming service with 21M monthly visits shuts down",
-   "lien": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
-   "source": "BleepingComputer",
-   "date": "2026-11-18T11:50:25+00:00",
-   "extrait": "The Alliance for Creativity and Entertainment (ACE) has announced the shutdown of Dizigom, one of Turkey's largest piracy sites, after a settlement agreement with the site's operators. [...]",
-   "tags": []
   }
  ]
 }
