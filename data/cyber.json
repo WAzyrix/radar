@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-27T06:05:41+00:00",
+ "maj": "2026-11-27T07:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,38 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "447ec97bb125",
+   "titre": "Il a greffé un cerveau de drone sur sa tondeuse RC",
+   "lien": "https://korben.info/tondeuse-autonome-pixhawk.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-27T06:15:00+00:00",
+   "extrait": "Jakkuh a remplacé le récepteur d'une tondeuse radiocommandée par un contrôleur de vol de drone sous ArduPilot, avec un GPS RTK et une appli de tonte vibe-codée. Ce qu'il y a dedans, et ce qu'il faut…",
+   "tags": []
+  },
+  {
+   "id": "bdba96d745bb",
+   "titre": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+   "lien": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+   "source": "The Hacker News",
+   "date": "2026-11-27T06:04:20+00:00",
+   "extrait": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said…",
+   "tags": [
+    "IA"
+   ]
+  },
+  {
+   "id": "706168821faa",
+   "titre": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
+   "lien": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
+   "source": "The Hacker News",
+   "date": "2026-11-27T05:48:20+00:00",
+   "extrait": "Details have emerged about a new zero-day vulnerability in Cacti, an open-source network monitoring tool, that could be exploited to achieve remote code execution. The proof-of-concept (PoC)…",
+   "tags": [
+    "Faille",
+    "Outil"
+   ]
+  },
   {
    "id": "e0bf93ab8a32",
    "titre": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
@@ -3321,38 +3353,6 @@
    "source": "BleepingComputer",
    "date": "2026-11-17T21:27:17+00:00",
    "extrait": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
-   "tags": []
-  },
-  {
-   "id": "1dff6dd6c93a",
-   "titre": "Japan takes Fugaku supercomputer offlline after cyberattack",
-   "lien": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
-   "source": "BleepingComputer",
-   "date": "2026-11-17T20:51:21+00:00",
-   "extrait": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
-   "tags": [
-    "Fuite de données"
-   ]
-  },
-  {
-   "id": "6b530aaeb2ca",
-   "titre": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
-   "lien": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
-   "source": "The Hacker News",
-   "date": "2026-11-17T19:34:20+00:00",
-   "extrait": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company. Widgets are small interactive…",
-   "tags": [
-    "Faille",
-    "Mobile"
-   ]
-  },
-  {
-   "id": "6b76a35deee9",
-   "titre": "Apple reports outages affecting iCloud Mail, AppleCare and more",
-   "lien": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
-   "source": "BleepingComputer",
-   "date": "2026-11-17T19:24:07+00:00",
-   "extrait": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
    "tags": []
   }
  ]
