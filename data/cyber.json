@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-28T15:05:40+00:00",
+ "maj": "2026-11-28T16:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "2607e0272e79",
+   "titre": "Q-Dir and DesktopOK Windows utilities compromised to push Python RAT",
+   "lien": "https://www.bleepingcomputer.com/news/security/q-dir-and-desktopok-windows-utilities-compromised-to-push-python-rat/",
+   "source": "BleepingComputer",
+   "date": "2026-11-28T15:32:49+00:00",
+   "extrait": "Official distribution channels for the Q-Dir and DesktopOK Windows utilities were compromised to deliver trojanized installers containing Python-based remote access malware. [...]",
+   "tags": [
+    "Malware",
+    "Windows"
+   ]
+  },
   {
    "id": "ed56aac972a3",
    "titre": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts",
@@ -3345,19 +3357,6 @@
    "date": "2026-11-18T14:50:03+00:00",
    "extrait": "Nextcloud Office, la distribution signée d'Euro-Office, est prête à télécharger en appli de bureau gratuite sous AGPL v3 : édition hors ligne, signature numérique, dépôts APT et DNF, mais rien pour…",
    "tags": []
-  },
-  {
-   "id": "55016e2da81b",
-   "titre": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
-   "lien": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
-   "source": "The Hacker News",
-   "date": "2026-11-18T14:11:28+00:00",
-   "extrait": "The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target government organizations in the Philippines…",
-   "tags": [
-    "Fuite de données",
-    "Malware",
-    "Outil"
-   ]
   }
  ]
 }
