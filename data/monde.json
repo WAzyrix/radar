@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-28T01:05:39+00:00",
+ "maj": "2026-11-28T02:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,13 +22,103 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "dd0b7a8a7e75",
+   "titre": "Nigeria's 'ultimate hard man' who become an online meme",
+   "lien": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-28T01:20:35+00:00",
+   "extrait": "Before becoming a household name in the Nigerian film industry, Edochie built a career in broadcasting.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "1cab6d8942e8",
+   "titre": "Woman surprises hospital valet who supported her through cancer treatment with Bills tickets",
+   "lien": "https://www.cbsnews.com/video/woman-surprises-hospital-valet-who-supported-her-through-cancer-treatment-with-bills-tickets/",
+   "source": "CBS News",
+   "date": "2026-11-28T01:14:25+00:00",
+   "extrait": "Breast cancer survivor Kate Fink credits hospital valet Jon Avery with helping her fight the disease. She surprised the Buffalo Bills fan with tickets and field passes. Steve Hartman goes on the road.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "955d83ade1b2",
+   "titre": "U.S. forces disable commercial ship that allegedly tried to breach Iran blockade",
+   "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/",
+   "source": "CBS News",
+   "date": "2026-11-28T01:10:47+00:00",
+   "extrait": "A U.S. military aircraft struck a Palau-flagged ship with precision munitions after giving multiple warnings, U.S. Central Command said.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "16b8e0bb34f3",
+   "titre": "Documentary clip reveals new details on Princess Kate's cancer journey",
+   "lien": "https://www.cbsnews.com/video/documentary-clip-reveals-new-details-on-princess-kates-cancer-journey/",
+   "source": "CBS News",
+   "date": "2026-11-28T01:10:00+00:00",
+   "extrait": "A clip from the upcoming documentary \"Heal\" reveals new details about Princess Kate's cancer journey, which she has long kept private. Jericka Duncan has more.",
+   "tags": [
+    "Santé"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "c69f37fc8da7",
+   "titre": "U.S. Air Force cloud platform breached by hackers, report says",
+   "lien": "https://www.cbsnews.com/news/u-s-air-force-cloud-platform-breached-by-hackers/",
+   "source": "CBS News",
+   "date": "2026-11-28T01:06:41+00:00",
+   "extrait": "The alleged incident follows a series of breaches and outages that have been reported at federal agencies this month.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "3d7160996658",
+   "titre": "Pittsburgh Steelers take the field for first game since star quarterback Rodgers' release",
+   "lien": "https://www.cbsnews.com/video/pittsburgh-steelers-take-the-field-for-first-game-since-star-quarterback-rodgers-release/",
+   "source": "CBS News",
+   "date": "2026-11-28T01:05:28+00:00",
+   "extrait": "The Pittsburgh Steelers took the field Friday for their first game after star quarterback Aaron Rodgers was released following comments accusing coach Mike McCarthy of sleeping through meetings and…",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
    "id": "44156a5df01a",
    "titre": "2 American Airlines jets clip wings on tarmac of Reagan Airport",
    "lien": "https://www.cbsnews.com/news/american-airlines-jets-clip-wings-reagan-airport/",
    "source": "CBS News",
-   "date": "2026-11-28T01:05:55+00:00",
+   "date": "2026-11-28T01:05:00+00:00",
    "extrait": "There were no injuries when the wingtips of two American Airlines jets made contact Friday evening on the tarmac of Ronald Reagan Washington National Airport outside Washington, D.C.",
    "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "1f595683fc6d",
+   "titre": "Lawmakers ask Trump to rescind Putin's G20 invitation over alleged intelligence-sharing with Iran",
+   "lien": "https://www.cbsnews.com/video/lawmakers-ask-trump-to-rescind-putins-g20-invitation-over-alleged-intelligence-sharing-with-iran/",
+   "source": "CBS News",
+   "date": "2026-11-28T01:03:29+00:00",
+   "extrait": "President Trump is facing renewed criticism over his friendship with Vladimir Putin, with a group of bipartisan lawmakers urging him to disinvite the Russian leader from next month's G20 summit in…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "c3ab6e8b44e9",
+   "titre": "U.S. Air Force cloud platform breached by hackers, report says",
+   "lien": "https://www.cbsnews.com/video/us-air-force-cloud-platform-breached-by-hackers-report-says/",
+   "source": "CBS News",
+   "date": "2026-11-28T01:01:14+00:00",
+   "extrait": "The U.S. Air Force's cloud platform was breached by hackers, possibly exposing sensitive military and personnel information, according to a Reuters report. The Air Force did not confirm or deny the…",
+   "tags": [
+    "Conflits"
+   ],
    "zone": "usa"
   },
   {
@@ -131,16 +221,6 @@
     "Tech"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "c69f37fc8da7",
-   "titre": "U.S. Air Force cloud platform breached by hackers, report says",
-   "lien": "https://www.cbsnews.com/news/u-s-air-force-cloud-platform-breached-by-hackers/",
-   "source": "CBS News",
-   "date": "2026-11-27T23:25:24+00:00",
-   "extrait": "The alleged incident follows a series of breaches and outages that have been reported at federal agencies this month.",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "6db2d3367a8c",
@@ -349,18 +429,6 @@
    "extrait": "Le documentaire \"Opération Dragon, la révolution Bruce Lee\" et l'ouvrage \"Il était une fois le ciné kung-fu\" retracent la vie et reviennent sur l'héritage cinématographique du légendaire artiste…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "955d83ade1b2",
-   "titre": "U.S. forces disable commercial ship that allegedly tried to breach Iran blockade",
-   "lien": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/",
-   "source": "CBS News",
-   "date": "2026-11-27T21:12:14+00:00",
-   "extrait": "A U.S. military aircraft struck a Palau-flagged ship with precision munitions after giving multiple warnings, U.S. Central Command said.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
   },
   {
    "id": "b92baaecd0f0",
@@ -1057,7 +1125,7 @@
    "titre": "Un apéro avec l’écrivaine Louise Chennevière : « C’est fou, le nombre de femmes qui m’écrivent pour me dire que c’est leur histoire »",
    "lien": "https://www.lemonde.fr/m-perso/article/2026/11/27/un-apero-avec-l-ecrivaine-louise-chenneviere-c-est-fou-le-nombre-de-femmes-qui-m-ecrivent-pour-me-dire-que-c-est-leur-histoire_6815907_4497916.html",
    "source": "Le Monde",
-   "date": "2026-11-27T17:00:07+00:00",
+   "date": "2026-11-27T17:00:05+00:00",
    "extrait": "Chaque semaine, « L’Epoque » paie son coup. Dans « Faire la peau », son quatrième livre, celle qui navigue entre littérature et musique explore sans fard les blessures d’une relation mère-fille et…",
    "tags": [],
    "zone": "france"
@@ -3340,82 +3408,6 @@
    "date": "2026-11-27T06:27:07+00:00",
    "extrait": "Selon l'avocat des parties civiles, de nombreux éléments prouvant que ce collègue de Kevin Tessier, âgé de 38 ans, connaissait le projet d'attentat du suspect et qu'il l'a poussé à passer à l'acte…",
    "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "a212acc0a0d8",
-   "titre": "Présidentielle américaine 2028 : le Parti démocrate lance l'offensive contre le \"Big money\"",
-   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261127-pr%C3%A9sidentielle-am%C3%A9ricaine-2028-primaire-parti-d%C3%A9mocrate-lance-offensive-contre-big-money",
-   "source": "France 24",
-   "date": "2026-11-27T06:24:55+00:00",
-   "extrait": "Portés par des victoires obtenues malgré des centaines de millions de dollars dépensés par leurs adversaires, les démocrates veulent faire de la lutte contre le \"Big money\" leur marque de fabrique…",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "10e44fd196bc",
-   "titre": "Donald Trump dit souhaiter que Vladimir Poutine \"mette fin à toute agression militaire\" en Europe",
-   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-dit-souhaiter-que-vladimir-poutine-mette-fin-a-toute-agression-militaire-en-europe_8302359.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-27T06:23:09+00:00",
-   "extrait": "Son message ne précise pas de quels territoires européens il est question et s'il s'agit de l'Ukraine.",
-   "tags": [
-    "Politique",
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "251c853bebc8",
-   "titre": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
-   "lien": "https://www.npr.org/2026/11/27/g-s1-155990/strobe-talbott-obit",
-   "source": "NPR",
-   "date": "2026-11-27T06:12:45+00:00",
-   "extrait": "Strobe Talbott, a former Time magazine reporter who later served as deputy secretary of state under President Bill Clinton and then headed the Brookings Institution, died Thursday. He was 80.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "4ea050fdfdc2",
-   "titre": "EU leaders fail to bridge budget splits as talks stall",
-   "lien": "https://www.bbc.co.uk/news/articles/cw4gnm3m9deno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-27T06:11:55+00:00",
-   "extrait": "Aid for Ukraine was among the disputes as EU members hope to conclude talks by the end of the year.",
-   "tags": [
-    "Économie",
-    "Conflits"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "346abff31045",
-   "titre": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
-   "lien": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-27T06:09:31+00:00",
-   "extrait": "Europe correspondent Nick Beake speaks to one couple kept apart by high rents in Valencia.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "582c3444da50",
-   "titre": "La Chine fait la chasse aux parcours de golf, un sport pourtant en plein essor dans le pays",
-   "lien": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/la-chine-fait-la-chasse-aux-parcours-de-golf-un-sport-pourtant-en-plein-essor-dans-le-pays_8280242.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-27T06:06:41+00:00",
-   "extrait": "Près d'une vingtaine de terrains de golf a été fermé ce mois-ci en Chine, relançant les spéculations sur les intentions des autorités à l'égard de ce sport. Le Parti communiste (PCC) au pouvoir a…",
-   "tags": [
-    "Politique",
-    "Sport"
-   ],
    "zone": "france"
   }
  ]
