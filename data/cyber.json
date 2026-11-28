@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-28T08:28:43+00:00",
+ "maj": "2026-11-28T09:05:39+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -24,8 +24,17 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "ed56aac972a3",
+   "titre": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts",
+   "lien": "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html",
+   "source": "The Hacker News",
+   "date": "2026-11-28T08:08:11+00:00",
+   "extrait": "Cross-platform password manager pCloud Pass has confirmed it was targeted by a cyber attack after users reported seeing unknown devices being connected to their accounts. \"A cyber attack targeting…",
+   "tags": []
+  },
+  {
    "id": "a38c461dc354",
-   "titre": "usb-rea - Pour faire du reverse engineering d'appareil USB en quelques clics",
+   "titre": "usb-rea - Pour faire du reverse engineering d'appareils USB en quelques clics",
    "lien": "https://korben.info/usb-rea-pilote-linux-gadget-usb.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
    "source": "Korben",
    "date": "2026-11-28T07:59:21+00:00",
@@ -3348,17 +3357,6 @@
     "Fuite de données",
     "Malware",
     "Outil"
-   ]
-  },
-  {
-   "id": "74d12e442320",
-   "titre": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
-   "lien": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
-   "source": "The Hacker News",
-   "date": "2026-11-18T12:28:30+00:00",
-   "extrait": "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universität Berlin say. That…",
-   "tags": [
-    "Windows"
    ]
   }
  ]
