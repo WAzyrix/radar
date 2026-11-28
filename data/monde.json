@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-28T20:05:40+00:00",
+ "maj": "2026-11-28T20:36:35+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,11 +22,79 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "604ad05cc6ff",
+   "titre": "Emmanuelle Piet : \"la prescription n'a aucun sens pour les crimes sexuels\"",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261128-emmanuelle-piet-la-prescription-n-a-aucun-sens-pour-les-crimes-sexuels",
+   "source": "France 24",
+   "date": "2026-11-28T20:34:33+00:00",
+   "extrait": "Dans le sillage de la journée internationale de lutte contre les violences faites aux femmes, mobilisations ce samedi dans plusieurs villes de France, pour continuer d'alerter et réclamer plus de…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "efdfb9f50b21",
+   "titre": "Le Canon français : \"Quand on veut diviser, on fait ce genre de choses\", estime Catherine Tricot, directrice de la revue Regards",
+   "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/le-canon-francais-quand-on-veut-diviser-on-fait-ce-genre-de-choses-estime-catherine-tricot-directrice-de-la-revue-regards_8305008.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-28T20:30:48+00:00",
+   "extrait": "Catherine Tricot, directrice de la revue Regards, et Jean-Sébastien Ferjou, directeur-fondateur du site Atlantico, étaient les invités du Duel ce samedi 28 novembre sur franceinfo. Ils sont…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "0a4d52ca1bd0",
+   "titre": "Gaza strike kills 2 MSF guards whom Israel claims were Hamas fighters",
+   "lien": "https://www.cbsnews.com/news/israel-gaza-msf-doctors-without-borders-strike/",
+   "source": "CBS News",
+   "date": "2026-11-28T20:28:36+00:00",
+   "extrait": "The IDF accused the two men killed of being terrorists posing as humanitarian workers.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "c20c92107e05",
+   "titre": "This week on \"Sunday Morning\" (Nov. 29)",
+   "lien": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-29-2026/",
+   "source": "CBS News",
+   "date": "2026-11-28T20:27:27+00:00",
+   "extrait": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "72ae91816762",
+   "titre": "College Board says it hit by cyberattack during college applications season",
+   "lien": "https://www.cbsnews.com/news/college-board-cyberattack-financial-aid-accounts/",
+   "source": "CBS News",
+   "date": "2026-11-28T20:23:56+00:00",
+   "extrait": "The College Board said they believe the breach involved sophisticated AI tools.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "336de487894d",
+   "titre": "La France et sept autres pays appellent à des élections en Palestine début 2027",
+   "lien": "https://www.france24.com/fr/moyen-orient/20261128-france-huit-pays-appellent-%C3%A9lections-l%C3%A9gislatives-pr%C3%A9sidentielle-palestine-d%C3%A9but-2027-mahmoud-abbas",
+   "source": "France 24",
+   "date": "2026-11-28T20:19:45+00:00",
+   "extrait": "Huit pays, dont la France, ont demandé samedi à l'Autorité palestinienne d'organiser des élections législatives et présidentielle \"au premier trimestre 2027\". Ces élections devaient se tenir ce…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
    "id": "5a7eab2b7c94",
    "titre": "Los Angeles hit by 5.0 magnitude earthquake",
    "lien": "https://www.cbsnews.com/news/4-7-earthquake-manhattan-beach/",
    "source": "CBS News",
-   "date": "2026-11-28T19:58:09+00:00",
+   "date": "2026-11-28T20:11:56+00:00",
    "extrait": "The initial quake was reported at 9:30 a.m. The LAFD said no significant damage or injuries were reported.",
    "tags": [
     "Climat"
@@ -69,18 +137,6 @@
    "zone": "france"
   },
   {
-   "id": "0a4d52ca1bd0",
-   "titre": "Gaza strike kills 2 MSF guards whom Israel claims were Hamas fighters",
-   "lien": "https://www.cbsnews.com/news/israel-gaza-msf-doctors-without-borders-strike/",
-   "source": "CBS News",
-   "date": "2026-11-28T19:49:22+00:00",
-   "extrait": "The IDF accused the two men killed of being terrorists posing as humanitarian workers.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
    "id": "5458caa76e7a",
    "titre": "George Russell s'élancera en pole position du Grand Prix du Qatar devant Kimi Antonelli",
    "lien": "https://www.franceinfo.fr/sports/auto-moto/formule-1/george-russell-s-elancera-en-pole-position-du-grand-prix-du-qatar-devant-kimi-antonelli_8305050.html#xtor=RSS-3-[lestitres]",
@@ -107,8 +163,8 @@
    "titre": "En Géorgie, des dizaines de milliers de manifestants pro-européens se réunissent dans la capitale",
    "lien": "https://www.lemonde.fr/international/article/2026/11/28/en-georgie-des-dizaines-de-milliers-de-manifestants-pro-europeens-se-reunissent-dans-la-capitale_6816143_3210.html",
    "source": "Le Monde",
-   "date": "2026-11-28T19:32:37+00:00",
-   "extrait": "Malgré la répression, des centaines de personnes manifestent quotidiennement depuis la suspension, en novembre 2024, du processus d’intégration à l’UE.",
+   "date": "2026-11-28T19:32:36+00:00",
+   "extrait": "Malgré la répression, des centaines de personnes manifestent quotidiennement depuis la suspension, en novembre 2024, du processus d’intégration à l’Union européenne.",
    "tags": [],
    "zone": "france"
   },
@@ -149,16 +205,6 @@
    "zone": "france"
   },
   {
-   "id": "efdfb9f50b21",
-   "titre": "Le Canon français : \"Quand on veut diviser, on fait ce genre de choses\", estime Catherine Tricot, directrice de la revue Regards",
-   "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/le-canon-francais-quand-on-veut-diviser-on-fait-ce-genre-de-choses-estime-catherine-tricot-directrice-de-la-revue-regards_8305008.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-28T18:57:00+00:00",
-   "extrait": "Catherine Tricot, directrice de la revue Regards, et Jean-Sébastien Ferjou, directeur-fondateur du site Atlantico, étaient les invités du Duel ce samedi 28 novembre sur franceinfo. Ils sont revenus…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
    "id": "463250c181a5",
    "titre": "Retour repoussé pour Cyprien Sarrazin en Coupe du monde après l'annulation du super-G de Copper Mountain",
    "lien": "https://www.franceinfo.fr/sports/sports-d-hiver/ski-alpin/coupe-du-monde/retour-repousse-pour-cyprien-sarrazin-en-coupe-du-monde-apres-l-annulation-du-super-g-de-copper-mountain_8304801.html#xtor=RSS-3-[lestitres]",
@@ -191,16 +237,6 @@
     "Sport"
    ],
    "zone": "france"
-  },
-  {
-   "id": "c20c92107e05",
-   "titre": "This week on \"Sunday Morning\" (Nov. 29)",
-   "lien": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-29-2026/",
-   "source": "CBS News",
-   "date": "2026-11-28T18:41:04+00:00",
-   "extrait": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
-   "tags": [],
-   "zone": "usa"
   },
   {
    "id": "495ebf060cf3",
@@ -253,7 +289,7 @@
    "lien": "https://www.france24.com/fr/moyen-orient/20261128-isra%C3%ABl-benjamin-netanyahu-propose-rival-gadi-eisenkot-occupe-poste-premier-ministre-alternance",
    "source": "France 24",
    "date": "2026-11-28T18:23:24+00:00",
-   "extrait": "Le chef du gouvernement israélien sortant, Benjamin Netanyahu, s'est dit prêt samedi à exercer le poste de Premier ministre en alternance avec Gadi Eisenkot, souhaitant être le premier des deux en…",
+   "extrait": "Le chef du gouvernement israélien sortant, Benjamin Netanyahu, s'est dit prêt samedi à exercer le poste de Premier ministre en alternance avec Gadi Eisenkot, souhaitant être le premier des deux à…",
    "tags": [
     "Politique",
     "Conflits"
@@ -570,7 +606,7 @@
   },
   {
    "id": "1911d0922e5a",
-   "titre": "Israël : Benyamin Nétanyahou propose à son rival, Gadi Eisenkot, d’être le premier à occuper le poste de premier ministre en cas d’accord sur un cabinet à direction alternée",
+   "titre": "Israël : Le parti de Benyamin Nétanyahou annonce qu’il rencontrera Gadi Eisenkot dimanche matin pour des négociations",
    "lien": "https://www.lemonde.fr/international/article/2026/11/28/israel-benyamin-netanyahou-propose-a-son-rival-gadi-eisenkot-d-etre-le-premier-a-exercer-le-poste-de-premier-ministre-en-cas-d-accord-sur-un-cabinet-a-direction-alternee_6816132_3210.html",
    "source": "Le Monde",
    "date": "2026-11-28T17:21:55+00:00",
@@ -1329,6 +1365,16 @@
    "source": "Le Monde",
    "date": "2026-11-28T13:00:18+00:00",
    "extrait": "Dans un entretien au « Monde », le cinéaste américain revient sur la genèse de son dernier film, « Paper Tiger », en salle depuis mercredi 25 novembre, et sur l’influence de la tragédie antique dans…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "8f17adc05eae",
+   "titre": "Binance, géant mondial des cryptomonnaies, prépare sa sortie de l’Europe, faute de visa des régulateurs",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/28/binance-geant-mondial-des-cryptomonnaies-prepare-sa-sortie-de-l-europe-faute-de-visa-des-regulateurs_6816107_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-28T13:00:12+00:00",
+   "extrait": "La plateforme d’échange de cryptoactifs n’a pas obtenu l’agrément devenu indispensable pour opérer dans l’Union européenne. Avant de fermer ses serveurs le 31 décembre, elle facture désormais des…",
    "tags": [],
    "zone": "france"
   },
@@ -3358,48 +3404,6 @@
     "Conflits"
    ],
    "zone": "usa"
-  },
-  {
-   "id": "a05a70afb117",
-   "titre": "Sen. Deb Fischer's husband died by suicide, her office says",
-   "lien": "https://www.cbsnews.com/news/sen-deb-fischer-husband-bruce-suicide/",
-   "source": "CBS News",
-   "date": "2026-11-27T17:29:38+00:00",
-   "extrait": "\"His kindness, integrity, and quiet strength left a lasting impression on all who knew him,\" Sen. Deb Fischer said of her late husband, Bruce.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "98d2252ba38b",
-   "titre": "Un calcul \"technique\" qui illustre un \"décrochage\" économique : que signifie l'annonce de l'entrée en récession de la France ?",
-   "lien": "https://www.franceinfo.fr/economie/croissance/un-calcul-technique-qui-illustre-un-decrochage-economique-que-signifie-l-annonce-de-l-entree-en-recession-de-la-france_8303169.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-27T17:27:16+00:00",
-   "extrait": "Le produit intérieur brut (PIB) de la France a reculé sur les trois premiers trimestres de l'année, a révélé l'Insee vendredi après avoir revu à la baisse son évolution au deuxième trimestre.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "50aa526aa115",
-   "titre": "\"On a de la chance qu'il n'y ait pas eu de morts\" : présents au stade Vélodrome durant OM-Levski Sofia, ils racontent les violences",
-   "lien": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/temoignage-on-a-de-la-chance-qu-il-n-y-ait-pas-eu-de-morts-present-au-stade-velodrome-durant-om-levski-sofia-il-raconte-les-violences-3457208.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-27T17:25:06+00:00",
-   "extrait": "Jo*, supporter marseillais, et Nadine*, fan de Sofia, étaient présents, avec leurs enfants, parmi les 56 000 spectateurs qui ont assisté à la rencontre entre l'Olympique de Marseille et Levski Sofia…",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "e9ecbc971d0d",
-   "titre": "Manifestation du 28 novembre contre les violences faites aux femmes : à Paris, les associations féministes défileront dans deux cortèges distincts",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/27/lutte-contre-les-violences-faites-aux-femmes-les-associations-feministes-defileront-dans-deux-corteges-distincts-le-28-novembre-a-paris_6815914_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-27T17:21:10+00:00",
-   "extrait": "Alors que les collectifs et organisations féministes affichaient jusqu’ici un front uni lors de cette manifestation organisée chaque année, ils n’ont pu, cette fois, passer outre les divisions…",
-   "tags": [],
-   "zone": "france"
   }
  ]
 }
