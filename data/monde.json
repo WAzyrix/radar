@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-27T23:05:39+00:00",
+ "maj": "2026-11-28T00:05:39+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,26 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "c69f37fc8da7",
+   "titre": "U.S. Air Force cloud platform breached by hackers, report says",
+   "lien": "https://www.cbsnews.com/news/u-s-air-force-cloud-platform-breached-by-hackers/",
+   "source": "CBS News",
+   "date": "2026-11-27T23:25:24+00:00",
+   "extrait": "The alleged incident follows a series of breaches and outages that have been reported at federal agencies this month.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "6db2d3367a8c",
+   "titre": "Iowa lead detonation results expected soon, EPA says",
+   "lien": "https://www.cbsnews.com/news/iowa-lead-detonation-epa-testing-results-soon/",
+   "source": "CBS News",
+   "date": "2026-11-27T23:08:17+00:00",
+   "extrait": "The EPA conducted sampling at more than 130 structures in Iowa, including homes, schools, daycare centers and churches.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
    "id": "bd4b150d8a51",
    "titre": "Power being slowly restored as heavy Thanksgiving storm eases",
    "lien": "https://www.cbsnews.com/news/east-coast-thanksgiving-storm-power-outages-cleanup/",
@@ -34,12 +54,32 @@
    "zone": "usa"
   },
   {
+   "id": "60b47dd99c0e",
+   "titre": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+   "lien": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-27T23:02:35+00:00",
+   "extrait": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
    "id": "56019659f39e",
    "titre": "Le bateau naufragé au large d'Ibiza sera remorqué vers le port espagnol de Carthagène",
    "lien": "https://www.franceinfo.fr/monde/espagne/le-bateau-naufrage-au-large-d-ibiza-sera-remorque-vers-le-port-espagnol-de-carthagene_8303865.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-11-27T22:56:50+00:00",
    "extrait": "Le carburant est, pour l'heure, contenu et le navire a été stabilisé en pleine mer. Les autorités font face à une opération de sauvetage complexe, dans un contexte de crainte d'une pollution majeure.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "3d3f722b116c",
+   "titre": "Un concert de « Rock antiwokisme » organisé par une mouvance identitaire interdit dans le Rhône et l’Isère",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/27/un-concert-de-rock-antiwokisme-organise-par-une-mouvance-identitaire-interdit-dans-le-rhone-et-l-isere_6815938_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-27T22:55:01+00:00",
+   "extrait": "Les autorités redoutent la diffusion de discours haineux lors de cet événement clandestin, organisé par une figure de l’ultra-droite déjà connue des services de l’Etat.",
    "tags": [],
    "zone": "france"
   },
@@ -90,6 +130,16 @@
    "zone": "usa"
   },
   {
+   "id": "1ac74ac2b053",
+   "titre": "La Cour suprême canadienne consacre la laïcité au Québec dans une décision historique",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/27/la-cour-supreme-canadienne-consacre-la-laicite-au-quebec-dans-une-decision-historique_6815937_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-27T22:06:52+00:00",
+   "extrait": "Cette loi consacre le fait laïc au Québec et tranche avec le multiculturalisme de l’Etat fédéral canadien, ce qui crée des remous dans la classe politique.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "2c089212ad53",
    "titre": "Brest bat le Paris FC (1-0) et grimpe provisoirement sur le podium de la Ligue 1",
    "lien": "https://www.franceinfo.fr/sports/foot/brest-bat-le-paris-fc-1-0-et-grimpe-provisoirement-sur-le-podium-de-la-ligue-1_8303847.html#xtor=RSS-3-[lestitres]",
@@ -122,6 +172,18 @@
     "Politique"
    ],
    "zone": "monde"
+  },
+  {
+   "id": "59456050efee",
+   "titre": "OpenAI accuse Apple de vol de secrets et de pressions sur ses fournisseurs",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/27/openai-accuse-apple-de-vol-de-secrets-et-de-pressions-sur-ses-fournisseurs_6815936_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-27T21:49:36+00:00",
+   "extrait": "Les deux partenaires se rapprochent de mois en mois d’une situation de rivaux, et se rendent désormais coup pour coup devant la justice.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "france"
   },
   {
    "id": "63c24d93459e",
@@ -3358,76 +3420,6 @@
     "Économie"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "7ead821b1c27",
-   "titre": "Visages masqués, enfants en larmes… Qui se cache derrière les chanteurs IA qui cartonnent en ligne ?",
-   "lien": "https://www.franceinfo.fr/internet/intelligence-artificielle/enquete-visages-masques-enfants-en-larmes-qui-se-cache-derriere-les-chanteurs-ia-qui-cartonnent-en-ligne_8301870.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-27T05:07:55+00:00",
-   "extrait": "Depuis quelques mois, des vidéos de faux concerts générés par intelligence artificielle explosent le compteur de vues sur les réseaux sociaux. Les plateformes de musique et la Sacem appellent à…",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "76d0b70b8d86",
-   "titre": "« Les jeunes s’informent, même s’ils n’en ont pas toujours conscience » : comment les moins de 25 ans réinventent leur rapport à l’actualité à l’heure de TikTok, YouTube et des IA",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/27/les-jeunes-s-informent-meme-s-ils-n-en-ont-pas-toujours-conscience-comment-les-moins-de-25-ans-reinventent-leur-rapport-a-l-actualite-a-l-heure-de-tiktok-youtube-et-des-ia_6815805_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-27T05:05:34+00:00",
-   "extrait": "Environ 89 % des 15-24 ans s’intéressent quotidiennement à l’actualité, selon l’Autorité de régulation de la communication audiovisuelle et numérique. Mais leurs pratiques informationnelles…",
-   "tags": [
-    "Tech"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "ae02fb62cb64",
-   "titre": "Des violents affrontements entre supporters de l'OM et du Levski Sofia en marge d'un match de Ligue Europa font plusieurs blessés",
-   "lien": "https://www.franceinfo.fr/sports/foot/ligue-europa/violents-incidents-entre-supporters-de-l-om-et-du-levski-sofia-juste-avant-la-rencontre-de-ligue-europa_8301924.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-27T05:03:10+00:00",
-   "extrait": "Le match de C3 entre l'Olympique de Marseille et le Levski Sofia a été le théâtre d'affrontements entre supporters des deux camps. Des projectiles ont été envoyés dans les tribunes à quelques…",
-   "tags": [
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c3b974aabff5",
-   "titre": "En Ethiopie, le Tigré, déjà touché par la guerre, subit une sécheresse aggravée par El Niño : « Rien ou presque n’a poussé, nulle part dans la région »",
-   "lien": "https://www.lemonde.fr/planete/article/2026/11/27/en-ethiopie-le-tigre-deja-touche-par-la-guerre-subit-une-secheresse-aggravee-par-el-nino-rien-ou-presque-n-a-pousse-nulle-part-dans-la-region_6815804_3244.html",
-   "source": "Le Monde",
-   "date": "2026-11-27T05:00:24+00:00",
-   "extrait": "Affectées par ce phénomène climatique intense, les précipitations dans l’est de la région du Tigré ont représenté moins de 60 % de la moyenne saisonnière. Des agriculteurs déplorent une récolte de…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "3bf8324228fb",
-   "titre": "Assurance-vie : pourquoi les épargnants se ruent-ils au Luxembourg ?",
-   "lien": "https://www.lemonde.fr/argent/article/2026/11/27/assurance-vie-pourquoi-les-epargnants-se-ruent-ils-au-luxembourg_6815801_1657007.html",
-   "source": "Le Monde",
-   "date": "2026-11-27T05:00:22+00:00",
-   "extrait": "Inquiétudes politiques, recherche de sécurité, souplesse des placements… L’assurance-vie luxembourgeoise séduit de plus en plus d’épargnants français. Un attrait renforcé par le contexte politique…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "98eaffd0fc5b",
-   "titre": "« C’est presque aussi facile d’acheter un sac Balenciaga qu’un paquet de nouilles de riz » : les articles de luxe d’occasion à Shanghaï bousculent le marché",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/27/a-shanghai-le-boom-de-la-seconde-main-bouscule-le-marche-du-luxe_6815800_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-27T05:00:13+00:00",
-   "extrait": "Dans des magasins aussi grands que des supermarchés, les plateformes chinoises de revente attirent de jeunes clients qui, sur fond de crise de la consommation, ne veulent plus payer les prix…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "france"
   }
  ]
 }
