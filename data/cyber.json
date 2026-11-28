@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-28T16:05:39+00:00",
+ "maj": "2026-11-28T17:05:40+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,15 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "e55c3dafc049",
+   "titre": "Petite histoire du Cambodge",
+   "lien": "https://korben.info/cambodge-histoire-protectorat-khmers-rouges.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-28T16:17:40+00:00",
+   "extrait": "Du protectorat français aux Khmers rouges qui ont aboli la monnaie et dynamité la Banque nationale, l'histoire du Cambodge racontée à partir du musée Sosoro, d'Oudong et de la Pagode d'argent…",
+   "tags": []
+  },
   {
    "id": "2607e0272e79",
    "titre": "Q-Dir and DesktopOK Windows utilities compromised to push Python RAT",
@@ -3347,15 +3356,6 @@
    "source": "BleepingComputer",
    "date": "2026-11-18T15:00:10+00:00",
    "extrait": "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world…",
-   "tags": []
-  },
-  {
-   "id": "c93de95a6d5f",
-   "titre": "Nextcloud Office - La suite libre qui se passe du cloud",
-   "lien": "https://korben.info/nextcloud-office-desktop.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-   "source": "Korben",
-   "date": "2026-11-18T14:50:03+00:00",
-   "extrait": "Nextcloud Office, la distribution signée d'Euro-Office, est prête à télécharger en appli de bureau gratuite sous AGPL v3 : édition hors ligne, signature numérique, dépôts APT et DNF, mais rien pour…",
    "tags": []
   }
  ]
