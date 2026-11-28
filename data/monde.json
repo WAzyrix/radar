@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-28T02:05:39+00:00",
+ "maj": "2026-11-28T03:05:41+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -21,6 +21,40 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "c69f37fc8da7",
+   "titre": "U.S. Air Force cloud platform breached by hackers, report says",
+   "lien": "https://www.cbsnews.com/news/u-s-air-force-cloud-platform-breached-by-hackers/",
+   "source": "CBS News",
+   "date": "2026-11-28T02:44:55+00:00",
+   "extrait": "The alleged incident follows a series of breaches and outages that have been reported at federal agencies this month.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "a907401d6abc",
+   "titre": "Gaza : l’armée israélienne tue deux employés de Médecins sans frontières, qu’elle qualifie de « terroristes »",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/28/gaza-l-armee-israelienne-tue-deux-employes-de-medecins-sans-frontieres-qu-elle-qualifie-de-terroristes_6816022_3210.html",
+   "source": "Le Monde",
+   "date": "2026-11-28T02:30:39+00:00",
+   "extrait": "L’ONG s’est dite « bouleversée et révoltée par le meurtre » des deux gardiens travaillant dans une de ses cliniques frappée par les forces armées israéliennes, qui les accusent de leur côté d’être…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "30edd473756a",
+   "titre": "Trois policiers de la BAC devant le tribunal de Bobigny pour des violences aggravées contre un Algérien",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/28/trois-policiers-de-la-bac-devant-le-tribunal-de-bobigny-pour-des-violences-aggravees-contre-un-algerien_6815989_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-28T01:34:43+00:00",
+   "extrait": "De la prison ferme a été requise contre les prévenus, accusés d’avoir, en mars 2025, passé à tabac, volé et arbitrairement détenu à l’intérieur de leur véhicule Samir T., un SDF de 34 ans qui…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
   {
    "id": "dd0b7a8a7e75",
    "titre": "Nigeria's 'ultimate hard man' who become an online meme",
@@ -65,16 +99,6 @@
    "tags": [
     "Santé"
    ],
-   "zone": "usa"
-  },
-  {
-   "id": "c69f37fc8da7",
-   "titre": "U.S. Air Force cloud platform breached by hackers, report says",
-   "lien": "https://www.cbsnews.com/news/u-s-air-force-cloud-platform-breached-by-hackers/",
-   "source": "CBS News",
-   "date": "2026-11-28T01:06:41+00:00",
-   "extrait": "The alleged incident follows a series of breaches and outages that have been reported at federal agencies this month.",
-   "tags": [],
    "zone": "usa"
   },
   {
@@ -208,6 +232,30 @@
    "extrait": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
    "tags": [],
    "zone": "monde"
+  },
+  {
+   "id": "d4bd10f3e576",
+   "titre": "Présidentielle 2027: la dynamique David Lisnard à la loupe",
+   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261127-pr%C3%A9sidentielle-2027-la-dynamique-david-lisnard-%C3%A0-la-loupe",
+   "source": "France 24",
+   "date": "2026-11-27T23:42:44+00:00",
+   "extrait": "Gros plan sur le phénomène David Lisnard qui réalise cette semaine une percée dans les sondages et se hisse directement à la troisième place des intentions de vote. Pour Damien Lecomte, docteur en…",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "7b6975c000cd",
+   "titre": "11/27: CBS Evening News",
+   "lien": "https://www.cbsnews.com/video/112726-cbs-evening-news/",
+   "source": "CBS News",
+   "date": "2026-11-27T23:30:00+00:00",
+   "extrait": "Severe weather rocks Thanksgiving; Shoppers to spend big on Black Friday.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "usa"
   },
   {
    "id": "e8073169f957",
@@ -3364,50 +3412,6 @@
    "tags": [
     "Politique"
    ],
-   "zone": "france"
-  },
-  {
-   "id": "75c4ced53f26",
-   "titre": "EN DIRECT, guerre en Ukraine : la Lettonie fait état d’une violation de son espace aérien par un drone",
-   "lien": "https://www.lemonde.fr/international/live/2026/11/27/en-direct-guerre-en-ukraine-suivez-nos-dernieres-informations_6814183_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-27T06:34:59+00:00",
-   "extrait": "Un drone ‌a brièvement survolé, vendredi, l’espace aérien letton, ont rapporté les forces armées du pays ​dans un communiqué, ce ‌qui constitue une nouvelle violation de l’espace aérien d’un Etat…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "89ea085e4def",
-   "titre": "\"Une première avancée mais c'est très tardif\", estime le collectif féministe NousToutes après le renvoi de Gérard Depardieu pour viol",
-   "lien": "https://www.franceinfo.fr/culture/cinema/depardieu/une-premiere-avancee-mais-c-est-tres-tardif-estime-le-collectif-feministe-noustoutes-apres-le-renvoi-de-gerard-depardieu-pour-viol_8302551.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-27T06:31:35+00:00",
-   "extrait": "Jeudi, la cour d'appel de Paris a confirmé le renvoi de l'acteur soupçonné de viols sur la comédienne Charlotte Arnould, devant une cour criminelle départementale.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "dfc6bc75b4e0",
-   "titre": "En Suisse, une industrie du drone de défense bridée par la neutralité",
-   "lien": "https://www.lemonde.fr/economie/article/2026/11/27/en-suisse-une-industrie-du-drone-de-defense-bridee-par-la-neutralite_6815811_3234.html",
-   "source": "Le Monde",
-   "date": "2026-11-27T06:30:10+00:00",
-   "extrait": "Les électeurs de la Confédération doivent se prononcer dimanche sur un assouplissement de la loi sur le matériel de guerre qui limite les exportations. L’issue du scrutin intéresse particulièrement…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "8e727d67cf57",
-   "titre": "Attentat raciste dans les Yvelines : des proches de victimes demandent à la justice de réentendre un collègue du principal suspect",
-   "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-dans-les-yvelines-des-proches-de-victimes-demandent-a-la-justice-de-reentendre-un-collegue-du-principal-suspect_8302476.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-27T06:27:07+00:00",
-   "extrait": "Selon l'avocat des parties civiles, de nombreux éléments prouvant que ce collègue de Kevin Tessier, âgé de 38 ans, connaissait le projet d'attentat du suspect et qu'il l'a poussé à passer à l'acte…",
-   "tags": [],
    "zone": "france"
   }
  ]
