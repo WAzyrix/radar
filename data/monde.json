@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-28T08:05:39+00:00",
+ "maj": "2026-11-28T08:28:43+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,40 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "d616519ae071",
+   "titre": "« Je veux voir grandir ma fille et gagner des courses cet hiver » : le biathlète Quentin Fillon Maillet, Français le plus médaillé aux JO et jeune papa, rêve des Jeux de 2030",
+   "lien": "https://www.lemonde.fr/sport/article/2026/11/28/je-veux-voir-grandir-ma-fille-et-gagner-des-courses-cet-hiver-le-biathlete-quentin-fillon-maillet-francais-le-plus-medaille-aux-jo-et-jeune-papa-reve-des-jeux-de-2030_6816087_3242.html",
+   "source": "Le Monde",
+   "date": "2026-11-28T08:18:10+00:00",
+   "extrait": "Le Jurassien de 34 ans évoque, dans un entretien au « Monde », ses ambitions concernant la nouvelle saison, qui a repris jeudi, avec la manche de Kontiolahti, en Finlande.",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "dbf1651d8b4a",
+   "titre": "La Corée du Sud surveille les signes d'une éventuelle visite de Kim Jong-un en Chine",
+   "lien": "https://www.franceinfo.fr/monde/coree-du-nord/la-coree-du-sud-surveille-les-signes-d-une-eventuelle-visite-de-kim-jong-un-en-chine_8304330.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-28T08:17:55+00:00",
+   "extrait": "La Chine est le premier partenaire commercial de la Corée du Nord et une source essentielle de soutien diplomatique, économique et politique pour Pyongyang.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "f31f17e9f88f",
+   "titre": "Mayotte : des policiers réunionnais en renfort",
+   "lien": "https://www.franceinfo.fr/france/mayotte/mayotte-des-policiers-reunionnais-en-renfort_8304348.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-28T08:17:27+00:00",
+   "extrait": "Dans l'archipel, une série d'actes malveillants interpelle les habitants et les élus. En moins d'une semaine, trois adolescents ont été tués, victimes d'affrontements entre bandes organisées. Des…",
+   "tags": [
+    "Justice"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "c8068e3da0e7",
    "titre": "Manifestations : nouvelle journée de mobilisation samedi, notamment contre les violences faites aux femmes",
    "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-nouvelle-journee-de-mobilisation-samedi-notamment-contre-les-violences-faites-aux-femmes_8304345.html#xtor=RSS-3-[lestitres]",
@@ -32,16 +66,14 @@
    "zone": "france"
   },
   {
-   "id": "f31f17e9f88f",
-   "titre": "Mayotte : des policiers réunionnais en renfort",
-   "lien": "https://www.franceinfo.fr/france/mayotte/mayotte-des-policiers-reunionnais-en-renfort_8304348.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-28T07:55:09+00:00",
-   "extrait": "Dans l'archipel, une série d'actes malveillants interpelle les habitants et les élus. En moins d'une semaine, trois adolescents ont été tués, victimes d'affrontements entre bandes organisées. Des…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
+   "id": "5aaedd3aaae5",
+   "titre": "Haïti : \"Bukele a insufflé aux forces de l’ordre le désir de mener des opérations\"",
+   "lien": "https://www.france24.com/fr/am%C3%A9riques/20261128-ha%C3%AFti-bukele-salvador-gangs-operation-police",
+   "source": "France 24",
+   "date": "2026-11-28T08:00:46+00:00",
+   "extrait": "À Port-au-Prince, l’intervention militaire du Salvador contribue au recul des gangs dans certains quartiers. Des années après avoir fui les violences, des habitants peuvent retrouver leurs maisons…",
+   "tags": [],
+   "zone": "monde"
   },
   {
    "id": "9752e8ad0abd",
@@ -64,14 +96,16 @@
    "zone": "france"
   },
   {
-   "id": "dbf1651d8b4a",
-   "titre": "La Corée du Sud surveille les signes d'une éventuelle visite de Kim Jong Un en Chine",
-   "lien": "https://www.franceinfo.fr/monde/coree-du-nord/la-coree-du-sud-surveille-les-signes-d-une-eventuelle-visite-de-kim-jong-un-en-chine_8304330.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-28T07:36:39+00:00",
-   "extrait": "La Chine est le premier partenaire commercial de la Corée du Nord et une source essentielle de soutien diplomatique, économique et politique pour Pyongyang.",
-   "tags": [],
-   "zone": "france"
+   "id": "21263e86dac5",
+   "titre": "Australian wrestler Bronson Reed dies aged 38, WWE says",
+   "lien": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-28T07:31:14+00:00",
+   "extrait": "Tributes have flooded in for the 38-year-old Australian who is survived by his pregnant wife, Paige, their daughter.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "monde"
   },
   {
    "id": "dea3d9fd7a91",
@@ -603,13 +637,25 @@
   },
   {
    "id": "3d3f722b116c",
-   "titre": "Un concert « Rock antiwokisme » organisé par une mouvance identitaire interdit dans le Rhône et l’Isère",
+   "titre": "Un concert organisé par un groupe appartenant à la « mouvance identitaire nationaliste, voire néonazie », interdit dans le Rhône et l’Isère",
    "lien": "https://www.lemonde.fr/politique/article/2026/11/27/un-concert-de-rock-antiwokisme-organise-par-une-mouvance-identitaire-interdit-dans-le-rhone-et-l-isere_6815938_823448.html",
    "source": "Le Monde",
    "date": "2026-11-27T22:54:59+00:00",
    "extrait": "Les autorités redoutent la diffusion de discours haineux lors de cet événement clandestin, organisé par une figure de l’ultradroite déjà connue des services de l’Etat.",
    "tags": [],
    "zone": "france"
+  },
+  {
+   "id": "99b4359d2ec6",
+   "titre": "Sudan's lost generation: War is stealing the childhood of millions",
+   "lien": "https://www.npr.org/2026/11/27/nx-s1-6053049/sudans-lost-generation-war-is-stealing-a-generation-of-childhood",
+   "source": "NPR",
+   "date": "2026-11-27T22:54:53+00:00",
+   "extrait": "Three years of war have stolen childhood from millions of children in Sudan, leaving them displaced, hungry and fighting for survival instead of learning in a classroom.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
   },
   {
    "id": "55b7ef61ae3c",
@@ -3350,53 +3396,6 @@
    "extrait": "Le produit intérieur brut a reculé de 0,2 % au troisième trimestre 2026, selon l’Insee, alors qu’il avait été initialement estimé en baisse de 0,1 %. Surtout, avec l’annonce d’un léger recul…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "52c4f8f6d0f1",
-   "titre": "Saluts nazis, supporters hospitalisés, réaction de Macron... Ce que l'on sait des graves violences lors du match OM-Levski Sofia",
-   "lien": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/saluts-nazis-supporters-hospitalises-reaction-de-macron-ce-que-l-on-sait-des-graves-violences-lors-du-match-om-levski-sofia-3456848.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-27T09:13:57+00:00",
-   "extrait": "Le stade Vélodrome a été le théâtre de violences, jeudi soir, en marge du match de l'Olympique de Marseille en Ligue Europa. Plusieurs supporters bulgares ont été blessés, les événements créant des…",
-   "tags": [
-    "Politique",
-    "Sport"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "c589c4460bef",
-   "titre": "Maroc : retour sur le succès du jardin Majorelle à Marrakech",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261127-maroc-retour-sur-le-succ%C3%A8s-du-jardin-majorelle-%C3%A0-marrakech",
-   "source": "France 24",
-   "date": "2026-11-27T09:07:45+00:00",
-   "extrait": "Ouvert au public en 1947, le Jardin Majorelle, connu pour son bleu intense, est sauvé par Pierre Berger et Yves Saint-Laurent dans les années 1980 après une période difficile. Situé dans celle qu'on…",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "c0c4a4a73db7",
-   "titre": "Législatives en Espagne : dernier jour de campagne",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261127-l%C3%A9gislatives-en-espagne-dernier-jour-de-campagne",
-   "source": "France 24",
-   "date": "2026-11-27T09:07:06+00:00",
-   "extrait": "Les électeurs espagnols se ⁠rendent aux urnes dimanche ​pour renouveler la quasi-totalité des membres des Cortes Generales, le Parlement du pays, après ​la décision prise début octobre par le…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "45f489570c7d",
-   "titre": "Budget de l'UE : pas d'accord à Bruxelles, décision reportée mi-décembre",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261127-budget-de-l-ue-pas-d-accord-%C3%A0-bruxelles-d%C3%A9cision-report%C3%A9e-mi-d%C3%A9cembre",
-   "source": "France 24",
-   "date": "2026-11-27T09:05:12+00:00",
-   "extrait": "Les dirigeants de l'Union européenne n'ont pas trouvé d'accord lors du sommet de Bruxelles sur le prochain cadre financier pluriannuel (2028-2034), qui fait l'objet de coupes de plus de 200…",
-   "tags": [
-    "Économie"
-   ],
-   "zone": "monde"
   }
  ]
 }

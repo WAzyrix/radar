@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-28T08:05:39+00:00",
+ "maj": "2026-11-28T08:28:43+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,18 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "a38c461dc354",
+   "titre": "usb-rea - Pour faire du reverse engineering d'appareil USB en quelques clics",
+   "lien": "https://korben.info/usb-rea-pilote-linux-gadget-usb.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+   "source": "Korben",
+   "date": "2026-11-28T07:59:21+00:00",
+   "extrait": "Votre gadget USB n'a qu'une appli Windows ? usb-rea capture ce qu'elle lui envoie pendant que vous cliquez, en déduit le protocole et génère un pilote Python pour Linux. Comment ça marche, et ce qui…",
+   "tags": [
+    "Linux",
+    "Windows"
+   ]
+  },
   {
    "id": "c33ac200edb1",
    "titre": "pCloud confirms password manager hack after suspicious login alerts",
@@ -3347,18 +3359,6 @@
    "extrait": "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universität Berlin say. That…",
    "tags": [
     "Windows"
-   ]
-  },
-  {
-   "id": "c9f8dc26d8d0",
-   "titre": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
-   "lien": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
-   "source": "The Hacker News",
-   "date": "2026-11-18T12:15:00+00:00",
-   "extrait": "TL;DR Attackers move first. On average, exploitation now starts before a patch exists (Mandiant M-Trends 2026). In 1H 2026, 23% of vulnerabilities VulnCheck added to its exploited list were hit on…",
-   "tags": [
-    "Faille",
-    "IA"
    ]
   }
  ]
