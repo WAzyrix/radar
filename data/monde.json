@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-28T12:05:38+00:00",
+ "maj": "2026-11-28T13:05:38+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,140 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "7f3a66d555c5",
+   "titre": "Argentina's bid to stop Falklands oil drilling rejected",
+   "lien": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-28T13:02:39+00:00",
+   "extrait": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "0da840961d0b",
+   "titre": "College student finds golf ball-sized brain tumor: \"There's no way\"",
+   "lien": "https://www.cbsnews.com/news/brain-tumor-cleveland-clinic-university-of-pittsburgh-panthers/",
+   "source": "CBS News",
+   "date": "2026-11-28T13:00:08+00:00",
+   "extrait": "A scan of Niko Pitinii's heart, lungs and stomach found a rare brain tumor.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "fdae20eea3cb",
+   "titre": "Perspective: A hero's name lives on",
+   "lien": "https://www.npr.org/2026/11/28/nx-s1-6045586/perspective-a-heros-name-lives-on",
+   "source": "NPR",
+   "date": "2026-11-28T13:00:00+00:00",
+   "extrait": "During Pearl Harbor, sailor Doris Miller carried the wounded to safety and fired a machine gun at Japanese planes. Next week, construction of a new aircraft carrier, the USS Doris Miller, begins.",
+   "tags": [],
+   "zone": "usa"
+  },
+  {
+   "id": "a7161e835424",
+   "titre": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+   "lien": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-28T12:49:44+00:00",
+   "extrait": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
+   "tags": [],
+   "zone": "monde"
+  },
+  {
+   "id": "bd4b150d8a51",
+   "titre": "Power being slowly restored as heavy Thanksgiving storm eases",
+   "lien": "https://www.cbsnews.com/news/east-coast-thanksgiving-storm-power-outages-cleanup/",
+   "source": "CBS News",
+   "date": "2026-11-28T12:38:51+00:00",
+   "extrait": "Heavy rain over flooded East Coast communities began easing Friday, and power was slowly restored to hundreds of thousands of customers.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "b55846d1c913",
+   "titre": "\"Un mois de novembre plutôt remarquable\" : le froid arrive en avance sur l'Hexagone",
+   "lien": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/un-mois-de-novembre-plutot-remarquable-le-froid-arrive-en-avance-sur-l-hexagone_8304639.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-28T12:34:05+00:00",
+   "extrait": "Les températures ont brusquement chuté. L’hiver semble s’inviter un peu plus tôt que prévu en France. Ce samedi 28 novembre, 28 départements de la Normandie au Grand Est font l’objet d’une vigilance…",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "f3e78da10d2d",
+   "titre": "Ligue 1 : Brest bat le Paris FC et grimpe sur le podium",
+   "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261128-ligue-1-brest-bat-le-paris-fc-et-grimpe-sur-le-podium",
+   "source": "France 24",
+   "date": "2026-11-28T12:30:24+00:00",
+   "extrait": "Grâce à un but du défenseur ivoirien Luck Zogbé, le Stade brestois s'offre une belle victoire face au Paris FC et grimpe sur le podium. Le PFC reste dauphin du PSG sur un podium inédit. Aujourd'hui…",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "75ee07dc65ae",
+   "titre": "Présidentielle 2027 : Teddy Riner, un candidat hors système en quête de crédibilité",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/28/presidentielle-2027-teddy-riner-un-candidat-hors-systeme-en-quete-de-credibilite_6816104_823448.html",
+   "source": "Le Monde",
+   "date": "2026-11-28T12:30:16+00:00",
+   "extrait": "L’effet de surprise autour du champion olympique, qui collectionne ces derniers jours les déclarations approximatives et les lieux communs, a laissé place au doute. Son entourage se défend de toute…",
+   "tags": [
+    "Sport"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "0a4d52ca1bd0",
+   "titre": "Gaza strike kills 2 MSF guards whom Israel claims were Hamas fighters",
+   "lien": "https://www.cbsnews.com/news/israel-gaza-msf-doctors-without-borders-strike/",
+   "source": "CBS News",
+   "date": "2026-11-28T12:29:21+00:00",
+   "extrait": "The IDF accused the two men killed of being terrorists posing as humanitarian workers.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "580a6af190d0",
+   "titre": "\"On est cinq personnages à être rajeunis\" : Audrey Fleurot justifie le recours à l'IA dans la série \"La Comtesse de Monte-Cristo\"",
+   "lien": "https://www.franceinfo.fr/culture/series/on-est-cinq-personnages-a-etre-rajeunis-audrey-fleurot-justifie-le-recours-a-l-ia-dans-la-serie-la-comtesse-de-monte-cristo_8304525.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-28T12:28:17+00:00",
+   "extrait": "L'actrice de 49 ans a répondu aux critiques sur le choix du rajeunissement par IA pour pouvoir incarner son personnage à différentes époques.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "faa945d13529",
+   "titre": "Gaza : deux employés de MSF tués par une frappe israélienne",
+   "lien": "https://www.france24.com/fr/moyen-orient/20261128-gaza-deux-employ%C3%A9s-de-msf-tu%C3%A9s-par-une-frappe-isra%C3%A9lienne",
+   "source": "France 24",
+   "date": "2026-11-28T12:23:56+00:00",
+   "extrait": "L'organisation humanitaire Médecins ⁠sans frontières (MSF) a annoncé vendredi la mort de deux de ​ses employés, tués par une frappe israélienne devant une clinique à Gaza. Ces deux décès portent à…",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "monde"
+  },
+  {
+   "id": "aa721e656b22",
+   "titre": "Le numéro 2 de la Banque centrale européenne écarte un scénario à la grecque pour la dette française",
+   "lien": "https://www.franceinfo.fr/economie/crise/le-numero-2-de-la-banque-centrale-europeenne-ecarte-un-scenario-a-la-grecque-pour-la-dette-francaise_8304585.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-28T12:02:26+00:00",
+   "extrait": "L'agence de notation S&P Global a abaissé vendredi la perspective de stable à négative, la menaçant d'une éventuelle dégradation à l'avenir, en raison des difficultés du pays à réduire son déficit.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "f1ba47009948",
    "titre": "Spain's election could bring the far-right to power for 1st time in decades",
    "lien": "https://www.cbsnews.com/news/spain-elections-pedro-sanchez-peoples-party-vox/",
@@ -32,6 +166,50 @@
     "Politique"
    ],
    "zone": "usa"
+  },
+  {
+   "id": "45d79661dd5c",
+   "titre": "A un banquet du Canon français à Biarritz, des manifestants bloquent les participants, qu’ils accusent de véhiculer des idées d’extrême droite",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/28/a-un-banquet-du-canon-francais-a-biarritz-des-manifestants-bloquent-les-participants-qu-ils-accusent-de-vehiculer-des-idees-d-extreme-droite_6816103_3224.html",
+   "source": "Le Monde",
+   "date": "2026-11-28T12:00:17+00:00",
+   "extrait": "Des convives de cet événement cofinancé par le milliardaire Pierre-Edouard Stérin ont été pris à partie par les manifestants, qui avaient annoncé un « rempart humain » pour empêcher les 1 500…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "cf5f754277e1",
+   "titre": "L’horlogerie suisse rattrapée par les faiblesses de sa stratégie de montée en gamme",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/28/l-horlogerie-suisse-rattrapee-par-les-faiblesses-de-sa-strategie-de-montee-en-gamme_6816102_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-28T12:00:03+00:00",
+   "extrait": "Les plans sociaux se multiplient dans les manufactures, alors que les exportations affichent pourtant cinq mois de hausse consécutifs. Derrière ce paradoxe, le secteur paie le prix d’une brutale…",
+   "tags": [
+    "Économie"
+   ],
+   "zone": "france"
+  },
+  {
+   "id": "3f7ad138450f",
+   "titre": "Des centaines de personnes rassemblées à Biarritz contre la tenue d'un banquet du très controversé \"Canon français\"",
+   "lien": "https://www.franceinfo.fr/societe/racisme/des-centaines-de-personnes-rassemblees-a-biarritz-contre-la-tenue-d-un-banquet-du-tres-controverse-canon-francais_8304570.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-28T11:49:14+00:00",
+   "extrait": "Cofinancé par le milliardaire ultraconservateur Pierre-Édouard Stérin, le Canon français, est accusé de véhiculer des idées d'extrême droite derrière sa vitrine patriotique et franchouillarde.",
+   "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "83723fd30aef",
+   "titre": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+   "lien": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-28T11:35:34+00:00",
+   "extrait": "The ChatGPT-maker alleges that tech giant Apple stole trade secrets through a former employee.",
+   "tags": [
+    "Tech"
+   ],
+   "zone": "monde"
   },
   {
    "id": "3842ecb85184",
@@ -52,16 +230,6 @@
    "extrait": "The EPA conducted sampling at more than 130 structures in Iowa, including homes, schools, daycare centers and churches.",
    "tags": [],
    "zone": "usa"
-  },
-  {
-   "id": "a7161e835424",
-   "titre": "Afghanistan explosion kills 10 students and injures more than 100, official says",
-   "lien": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-28T11:18:37+00:00",
-   "extrait": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
-   "tags": [],
-   "zone": "monde"
   },
   {
    "id": "8e2211d9ad91",
@@ -174,7 +342,7 @@
   },
   {
    "id": "062d057bc0f9",
-   "titre": "La note de la France menacée de dégradation : \"La faute à une politique économique qui soigne le mal par le mal\", selon Eric Coquerel",
+   "titre": "S&P maintient la note de la France mais menace de la dégrader, \"la faute à une politique économique qui soigne le mal par le mal\" selon Éric Coquerel",
    "lien": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/s-p-maintient-la-note-de-la-france-mais-menace-de-la-degrader-la-faute-a-une-politique-economique-qui-soigne-le-mal-par-le-mal-selon-eric-coquerel_8304498.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
    "date": "2026-11-28T10:23:44+00:00",
@@ -463,6 +631,16 @@
    "zone": "monde"
   },
   {
+   "id": "afc9dafbcff7",
+   "titre": "En Gironde, des viticulteurs se diversifient dans la culture de chanvre",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/28/en-gironde-des-viticulteurs-se-diversifient-dans-la-culture-de-chanvre_6816084_3234.html",
+   "source": "Le Monde",
+   "date": "2026-11-28T08:00:04+00:00",
+   "extrait": "Dans un département dominé par la vigne, des exploitants, déjà fragilisés par le recul de la consommation de vin bordelais et le réchauffement climatique, expérimentent la culture du chanvre. Si ses…",
+   "tags": [],
+   "zone": "france"
+  },
+  {
    "id": "9752e8ad0abd",
    "titre": "Roland Lescure voit un \"avertissement\" dans la décision de S&P et maintient l'objectif d'un déficit public à 5% en 2027",
    "lien": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/roland-lescure-voit-un-avertissement-dans-la-decision-de-s-p-et-maintient-l-objectif-d-un-deficit-public-a-5-en-2027_8304339.html#xtor=RSS-3-[lestitres]",
@@ -543,6 +721,18 @@
    "zone": "france"
   },
   {
+   "id": "ca37436228a2",
+   "titre": "Dans l'affaire des fuites au profit du RN, le bureau et le domicile d'Ambroise de Rancourt, coordinateur du programme présidentiel du parti, ont été perquisitionnés",
+   "lien": "https://www.franceinfo.fr/politique/front-national/dans-l-affaire-des-fuites-au-profit-du-rn-le-bureau-et-le-domicile-d-ambroise-de-rancourt-coordinateur-du-programme-presidentiel-du-parti-ont-ete-perquisitionnes_8304285.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "date": "2026-11-28T06:40:09+00:00",
+   "extrait": "Ce proche de Marine Le Pen est soupçonné d'avoir été le destinataire d'informations confidentielles transmises au Rassemblement national via le ministère de l'Intérieur.",
+   "tags": [
+    "Politique"
+   ],
+   "zone": "france"
+  },
+  {
    "id": "5ebdf5db7e2c",
    "titre": "Est-il possible d'obliger les journalistes à \"respecter le secret de l'instruction\", comme le souhaite Marine Le Pen ?",
    "lien": "https://www.franceinfo.fr/politique/marine-le-pen/est-il-possible-d-obliger-les-journalistes-a-respecter-le-secret-de-l-instruction-comme-le-souhaite-marine-le-pen_8303805.html#xtor=RSS-3-[lestitres]",
@@ -555,18 +745,6 @@
    "zone": "france"
   },
   {
-   "id": "ca37436228a2",
-   "titre": "Dans l'affaire des fuites au profit du RN, le bureau et le domicile d'Ambroise de Rancourt, coordinateur du programme présidentiel du parti, ont été perquisitionnés",
-   "lien": "https://www.franceinfo.fr/politique/front-national/dans-l-affaire-des-fuites-au-profit-du-rn-le-bureau-et-le-domicile-d-ambroise-de-rancourt-coordinateur-du-programme-presidentiel-du-parti-ont-ete-perquisitionnes_8304285.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-28T06:29:53+00:00",
-   "extrait": "Ce proche de Marine Le Pen est soupçonné d'avoir été le destinataire d'informations confidentielles transmises au Rassemblement national via le ministère de l'Intérieur.",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
    "id": "5996dc7ebd95",
    "titre": "Que faire, que voir, où aller ? L’agenda culturel et lifestyle à partir du 28 novembre",
    "lien": "https://www.lemonde.fr/m-styles/article/2026/11/28/que-faire-que-voir-ou-aller-l-agenda-culturel-et-lifestyle-a-partir-du-28-novembre_6816076_4497319.html",
@@ -574,6 +752,18 @@
    "date": "2026-11-28T06:00:21+00:00",
    "extrait": "Chaque samedi, « Le Goût du Monde » vous propose sa sélection de rendez-vous et d’adresses, à Paris et partout en France. Cette semaine, une exposition poétique de tableaux miniatures brodés ou des…",
    "tags": [],
+   "zone": "france"
+  },
+  {
+   "id": "2977a48a4b56",
+   "titre": "L’IA, tremblement de terre dans les formations de création littéraire : « Dans quelle mesure l’utiliser me dépossède de mon œuvre ? »",
+   "lien": "https://www.lemonde.fr/campus/article/2026/11/28/l-ia-tremblement-de-terre-dans-les-formations-de-creation-litteraire-dans-quelle-mesure-l-utiliser-me-depossede-de-mon-uvre_6816074_4401467.html",
+   "source": "Le Monde",
+   "date": "2026-11-28T06:00:09+00:00",
+   "extrait": "Alors que les controverses sur l’usage des intelligences artificielles génératives secouent le monde de l’édition, les formations en création littéraire et métiers du livre cherchent leur posture…",
+   "tags": [
+    "Tech"
+   ],
    "zone": "france"
   },
   {
@@ -799,18 +989,6 @@
    "extrait": "Chaque mois, La Matinale du Monde vous propose une sélection d’ouvrages récemment sortis. Aujourd’hui, retour de flammes dévorant Persépolis sur ordre d’Alexandre, brûlant dans une Bohême lointaine…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "bd4b150d8a51",
-   "titre": "Power being slowly restored as heavy Thanksgiving storm eases",
-   "lien": "https://www.cbsnews.com/news/east-coast-thanksgiving-storm-power-outages-cleanup/",
-   "source": "CBS News",
-   "date": "2026-11-28T03:54:12+00:00",
-   "extrait": "Heavy rain over flooded East Coast communities began easing Friday, and power was slowly restored to hundreds of thousands of customers.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "usa"
   },
   {
    "id": "c69f37fc8da7",
@@ -1323,11 +1501,11 @@
   },
   {
    "id": "5914723af279",
-   "titre": "Élections à Taïwan : duel serré à Taipei entre l'actuel maire et l'outsider anti-Pékin Puma Shen",
+   "titre": "Élections à Taïwan : à Taipei, l'outsider anti-Pékin Puma Shen annonce sa défaite",
    "lien": "https://www.france24.com/fr/asie-pacifique/20261127-%C3%A9lections-%C3%A0-ta%C3%AFwan-duel-serr%C3%A9-%C3%A0-taipei-entre-l-actuel-maire-et-l-outsider-anti-p%C3%A9kin-puma-shen",
    "source": "France 24",
    "date": "2026-11-27T20:19:27+00:00",
-   "extrait": "Les Taïwanais sont appelés ⁠aux urnes ​samedi pour des élections municipales. Un duel est particulièrement scruté à Taipei, où l'actuel maire pro-Pékin est au coude-à-coude avec le candidat surprise…",
+   "extrait": "Les Taïwanais étaient appelés ⁠aux urnes ​samedi pour des élections municipales. Le duel était particulièrement scruté à Taipei, où l'actuel maire pro-Pékin semblait au coude-à-coude avec le…",
    "tags": [
     "Politique"
    ],
@@ -3209,183 +3387,6 @@
     "Économie"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "462e342b1c08",
-   "titre": "Ex-Kenyan governor jailed for 25 years over pregnant girlfriend's murder",
-   "lien": "https://www.bbc.co.uk/news/articles/crx209ekq5xdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-27T11:22:02+00:00",
-   "extrait": "The pregnant student was murdered after leaving a hotel with a journalist she had contacted to discuss her affair with the governor.",
-   "tags": [],
-   "zone": "monde"
-  },
-  {
-   "id": "15c4e72d4a70",
-   "titre": "Budget de l'UE : fin du sommet européen sans accord trouvé",
-   "lien": "https://www.france24.com/fr/vid%C3%A9o/20261127-budget-de-l-ue-fin-du-sommet-europ%C3%A9en-sans-accord-trouv%C3%A9",
-   "source": "France 24",
-   "date": "2026-11-27T11:19:12+00:00",
-   "extrait": "Les ⁠chefs d'Etat ​et de gouvernement de l'Union européenne ne ​se réuniront pas comme prévu vendredi pour la seconde journée de leur sommet à Bruxelles, a ‌annoncé jeudi soir le ⁠chancelier…",
-   "tags": [
-    "Politique",
-    "Économie"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "e2dc0bea94fa",
-   "titre": "Une jatte-téton commandée pour Marie-Antoinette vendue près de 3 millions d'euros aux enchères à Paris",
-   "lien": "https://www.franceinfo.fr/culture/patrimoine/une-jatte-teton-commandee-pour-marie-antoinette-vendue-pres-de-3-millions-d-euros-aux-encheres-a-paris_8302878.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-27T11:15:28+00:00",
-   "extrait": "L'objet historique avait été découvert lors de l'inventaire de la collection de la Galerie Meyer, après avoir disparu pendant deux siècles.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "7e7dd430d5b8",
-   "titre": "\"Il y'a une aspiration à une unité politique derrière un programme de rupture\" explique l'eurodéputée LFI Manon Aubry",
-   "lien": "https://www.franceinfo.fr/elections/il-y-a-une-aspiration-a-une-unite-politique-derriere-un-programme-de-rupture-explique-l-eurodeputee-lfi-manon-aubry_8302974.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-27T11:14:24+00:00",
-   "extrait": "Manon Aubry, eurodéputée de la France Insoumise était l'invitée du 8.30 Franceinfo ce vendredi 27 novembre et répondait aux questions de Benjamin Recouvreur et Camille Girerd. Elle est revenue sur…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "04498418afc2",
-   "titre": "\"Le BHV, c'est quand même le moteur du quartier\" : les déboires du grand magasin parisien font souffrir les commerçants des environs",
-   "lien": "https://www.franceinfo.fr/economie/commerce/le-bhv-c-est-quand-meme-le-moteur-du-quartier-les-deboires-du-grand-magasin-parisien-font-souffrir-les-commercants-des-environs_8302803.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-27T11:11:27+00:00",
-   "extrait": "Quelle suite pour le BHV Marais ? Le grand magasin parisien fondé en 1856 est fermé depuis trois semaines, après son placement en redressement judiciaire suivi d'une fermeture pour un problème…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "690b7f597a92",
-   "titre": "La CAN 2025 revient au Sénégal, navires russes ciblés en Libye, incendie au Caire : l'hebdo Afrique",
-   "lien": "https://www.france24.com/fr/afrique/20261127-la-can-2025-revient-au-senegal-navires-russes-cibl%C3%A9s-en-libye-incendie-au-caire-l-hebdo-afrique",
-   "source": "France 24",
-   "date": "2026-11-27T11:09:30+00:00",
-   "extrait": "",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "monde"
-  },
-  {
-   "id": "b7f61147483f",
-   "titre": "Royaume-Uni : le ministère du travail déclare un « cyberincident » et met plusieurs de ses services hors ligne",
-   "lien": "https://www.lemonde.fr/pixels/article/2026/11/27/royaume-uni-le-ministere-du-travail-declare-un-cyberincident-et-met-plusieurs-de-ses-services-hors-ligne_6815850_4408996.html",
-   "source": "Le Monde",
-   "date": "2026-11-27T11:05:46+00:00",
-   "extrait": "L’administration britannique, qui travaille sur des « systèmes informatiques très anciens », enquête pour « rétablir les services en ligne dès que possible », vendredi, et affirme que les versements…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "28935bf1c522",
-   "titre": "Après le renvoi de Gérard Depardieu en procès pour viol, la comédienne Charlotte Arnould se réjouit d’une « vraie victoire »",
-   "lien": "https://www.lemonde.fr/societe/article/2026/11/27/renvoi-de-gerard-depardieu-en-proces-pour-viol-charlotte-arnould-se-felicite-d-une-vraie-victoire_6815849_3224.html",
-   "source": "Le Monde",
-   "date": "2026-11-27T11:03:10+00:00",
-   "extrait": "Après que la cour d’appel de Paris a confirmé, jeudi 26 novembre, le renvoi de l’acteur en procès pour une partie des viols dénoncés par la comédienne Charlotte Arnould, celle-ci a réagi vendredi…",
-   "tags": [
-    "Justice"
-   ],
-   "zone": "france"
-  },
-  {
-   "id": "cc97b14090f6",
-   "titre": "Un accident entre un train et un poids lourd fait 13 blessés légers près de Troyes",
-   "lien": "https://www.franceinfo.fr/economie/transports/un-accident-entre-un-train-et-un-poids-lourd-fait-13-blesses-legers-pres-de-troyes_8302830.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-27T11:02:50+00:00",
-   "extrait": "Les conducteurs des deux véhicules ont été blessés dans la collision.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "60b338db4f77",
-   "titre": "Les conflits et les phénomènes climatiques extrêmes aggravent la faim dans le monde, alertent les agences alimentaires de l'ONU",
-   "lien": "https://www.franceinfo.fr/monde/afrique/societe-africaine/famine/les-conflits-et-les-phenomenes-climatiques-extremes-aggravent-la-faim-dans-le-monde-alertent-les-agences-alimentaires-de-l-onu_8302731.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-27T11:01:40+00:00",
-   "extrait": "Le Soudan, le Soudan du Sud, la Somalie, le nord du Nigeria et le Yémen sont désignés comme les zones les plus à risque.",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "e44fb13c8015",
-   "titre": "L'Association nationale des supporters \"condamne fermement\" les violences en marge de la rencontre entre Marseille et le Levski Sofia",
-   "lien": "https://www.franceinfo.fr/sports/foot/ligue-europa/l-association-nationale-des-supporters-condamne-fermement-les-violences-en-marge-de-la-rencontre-entre-marseille-et-le-levski-sofia_8302902.html#xtor=RSS-3-[lestitres]",
-   "source": "franceinfo",
-   "date": "2026-11-27T11:01:17+00:00",
-   "extrait": "\"Ces incidents auraient pu être évités\", selon l'association alors qu'une dizaine de supporters bulgares a été blessée jeudi soir lors d'affrontements avec des supporters de l'OM dans le cadre d'un…",
-   "tags": [],
-   "zone": "france"
-  },
-  {
-   "id": "3d1e4685d6b0",
-   "titre": "Here's how GLP-1 drugs are changing people's shopping habits",
-   "lien": "https://www.cbsnews.com/news/glp-1-drugs-food-apparel-shopping-habits/",
-   "source": "CBS News",
-   "date": "2026-11-27T11:00:18+00:00",
-   "extrait": "More than 60 million Americans could be using the drugs by 2030, double the number that currently use them, according to a new forecast.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "5e2f0b22f059",
-   "titre": "Credit card mistakes to avoid this holiday season",
-   "lien": "https://www.cbsnews.com/news/credit-card-mistakes-to-avoid-holiday-season/",
-   "source": "CBS News",
-   "date": "2026-11-27T11:00:17+00:00",
-   "extrait": "With the potential to spend more than usual this holiday season, credit card users should avoid making these mistakes.",
-   "tags": [],
-   "zone": "usa"
-  },
-  {
-   "id": "2e43e7cddf00",
-   "titre": "Anchoring on DayQuil, hiding from JLO and losing Bruce Springsteen | Straight Up with Vlad and Kelly",
-   "lien": "https://www.cbsnews.com/video/anchoring-on-dayquil-hiding-from-jlo-and-losing-bruce-springsteen-straight-up-with-vlad-and-kelly/",
-   "source": "CBS News",
-   "date": "2026-11-27T11:00:12+00:00",
-   "extrait": "This week, Vlad and Kelly hand over the producer's chair to you. In a special mailbag episode, they answer listener questions about everything from their most chaotic moments in live television and…",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "fb81a8082c44",
-   "titre": "From Thanksgiving blackouts to Black Friday, a holiday hit by wild weather and economic woes",
-   "lien": "https://www.npr.org/2026/11/27/nx-s1-6054884/thanksgiving-weather-black-friday",
-   "source": "NPR",
-   "date": "2026-11-27T10:59:36+00:00",
-   "extrait": "A storm battered much of the country on Thursday, knocking out power to thousands of homes and disrupting travel. Today, Black Friday shopping deals kick off, and on Saturday New York City will hold…",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "usa"
-  },
-  {
-   "id": "d7b81b6e6951",
-   "titre": "Espagne : le navire naufragé au large d’Ibiza va être « remorqué », annonce le premier ministre, Pedro Sanchez",
-   "lien": "https://www.lemonde.fr/international/article/2026/11/27/espagne-le-navire-naufrage-au-large-d-ibiza-va-etre-remorque-annonce-le-premier-ministre-pedro-sanchez_6815846_3210.html",
-   "source": "Le Monde",
-   "date": "2026-11-27T10:57:11+00:00",
-   "extrait": "Le chef du gouvernement espagnol ainsi que l’entreprise propriétaire du navire-citerne assurent qu’il n’y a pas de fuite de carburant ni de pollution. Les causes exactes de l’incident restent…",
-   "tags": [
-    "Politique"
-   ],
-   "zone": "france"
   }
  ]
 }
