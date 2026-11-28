@@ -1,6 +1,6 @@
 {
  "categorie": "Actu",
- "maj": "2026-11-28T20:36:35+00:00",
+ "maj": "2026-11-28T21:05:40+00:00",
  "sources": [
   "franceinfo",
   "Le Monde",
@@ -22,6 +22,30 @@
  "erreurs": [],
  "articles": [
   {
+   "id": "5a7eab2b7c94",
+   "titre": "Los Angeles hit by 5.0 magnitude earthquake",
+   "lien": "https://www.cbsnews.com/news/4-7-earthquake-manhattan-beach/",
+   "source": "CBS News",
+   "date": "2026-11-28T20:59:35+00:00",
+   "extrait": "The initial quake was reported at 9:30 a.m. The LAFD said no significant damage or injuries were reported.",
+   "tags": [
+    "Climat"
+   ],
+   "zone": "usa"
+  },
+  {
+   "id": "0a4d52ca1bd0",
+   "titre": "Gaza strike kills 2 MSF guards whom Israel says were Hamas fighters",
+   "lien": "https://www.cbsnews.com/news/israel-gaza-msf-doctors-without-borders-strike/",
+   "source": "CBS News",
+   "date": "2026-11-28T20:57:30+00:00",
+   "extrait": "The IDF accused the two men killed of being terrorists posing as humanitarian workers.",
+   "tags": [
+    "Conflits"
+   ],
+   "zone": "usa"
+  },
+  {
    "id": "604ad05cc6ff",
    "titre": "Emmanuelle Piet : \"la prescription n'a aucun sens pour les crimes sexuels\"",
    "lien": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261128-emmanuelle-piet-la-prescription-n-a-aucun-sens-pour-les-crimes-sexuels",
@@ -38,22 +62,10 @@
    "titre": "Le Canon français : \"Quand on veut diviser, on fait ce genre de choses\", estime Catherine Tricot, directrice de la revue Regards",
    "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/le-canon-francais-quand-on-veut-diviser-on-fait-ce-genre-de-choses-estime-catherine-tricot-directrice-de-la-revue-regards_8305008.html#xtor=RSS-3-[lestitres]",
    "source": "franceinfo",
-   "date": "2026-11-28T20:30:48+00:00",
+   "date": "2026-11-28T20:31:41+00:00",
    "extrait": "Catherine Tricot, directrice de la revue Regards, et Jean-Sébastien Ferjou, directeur-fondateur du site Atlantico, étaient les invités du Duel ce samedi 28 novembre sur franceinfo. Ils sont…",
    "tags": [],
    "zone": "france"
-  },
-  {
-   "id": "0a4d52ca1bd0",
-   "titre": "Gaza strike kills 2 MSF guards whom Israel claims were Hamas fighters",
-   "lien": "https://www.cbsnews.com/news/israel-gaza-msf-doctors-without-borders-strike/",
-   "source": "CBS News",
-   "date": "2026-11-28T20:28:36+00:00",
-   "extrait": "The IDF accused the two men killed of being terrorists posing as humanitarian workers.",
-   "tags": [
-    "Conflits"
-   ],
-   "zone": "usa"
   },
   {
    "id": "c20c92107e05",
@@ -88,18 +100,6 @@
     "Politique"
    ],
    "zone": "monde"
-  },
-  {
-   "id": "5a7eab2b7c94",
-   "titre": "Los Angeles hit by 5.0 magnitude earthquake",
-   "lien": "https://www.cbsnews.com/news/4-7-earthquake-manhattan-beach/",
-   "source": "CBS News",
-   "date": "2026-11-28T20:11:56+00:00",
-   "extrait": "The initial quake was reported at 9:30 a.m. The LAFD said no significant damage or injuries were reported.",
-   "tags": [
-    "Climat"
-   ],
-   "zone": "usa"
   },
   {
    "id": "cd539f597eae",
