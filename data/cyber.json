@@ -1,6 +1,6 @@
 {
  "categorie": "Cyber & info",
- "maj": "2026-11-28T17:05:40+00:00",
+ "maj": "2026-11-28T18:05:38+00:00",
  "sources": [
   "CERT-FR",
   "BleepingComputer",
@@ -23,6 +23,17 @@
  ],
  "erreurs": [],
  "articles": [
+  {
+   "id": "259243c742ec",
+   "titre": "College Board confirms data breach after unauthorized password changes",
+   "lien": "https://www.bleepingcomputer.com/news/security/college-board-confirms-data-breach-after-unauthorized-password-changes/",
+   "source": "BleepingComputer",
+   "date": "2026-11-28T17:45:59+00:00",
+   "extrait": "College Board has confirmed it suffered a data breach after students reported unexpected password changes on Thanksgiving, and the organization said threat actors gained access to its account…",
+   "tags": [
+    "Fuite de données"
+   ]
+  },
   {
    "id": "e55c3dafc049",
    "titre": "Petite histoire du Cambodge",
@@ -3348,15 +3359,6 @@
     "IA",
     "Outil"
    ]
-  },
-  {
-   "id": "8e8debc4b233",
-   "titre": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
-   "lien": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
-   "source": "BleepingComputer",
-   "date": "2026-11-18T15:00:10+00:00",
-   "extrait": "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world…",
-   "tags": []
   }
  ]
 }
